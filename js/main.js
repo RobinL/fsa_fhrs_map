@@ -153,18 +153,6 @@ function addFHRSCircles(geojsonid) {
             lat = lat + 0.0
             lng = lng + 0.0
 
-
-            style = {
-
-                "color": "#0625FF",
-                "weight": 0,
-                "opacity": 1,
-                "fillColor": getFillColour(rating),
-                "fillOpacity": 0.7,
-                "radius": 5
-
-            };
-
             function getFillColour(rating) {
 
 
@@ -178,6 +166,18 @@ function addFHRSCircles(geojsonid) {
                 }
                 return color
             }
+            style = {
+
+                "color": "#0625FF",
+                "weight": 0,
+                "opacity": 1,
+                "fillColor": getFillColour(rating),
+                "fillOpacity": 0.7,
+                "radius": 5
+
+            };
+
+
 
 
             m = L.circleMarker([lat, lng], style)
