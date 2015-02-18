@@ -1,0 +1,406 @@
+localauthoritycode,localauthorityname
+021,Aylesbury Vale
+022,Chiltern
+024,South Buckinghamshire
+025,Wycombe
+027,Cambridge City
+028,East Cambridgeshire
+029,Fenland
+030,Huntingdonshire
+032,South Cambridgeshire
+055,Allerdale
+056,Barrow-in-Furness
+057,Carlisle City
+058,Copeland
+059,Eden
+060,South Lakeland
+062,Amber Valley
+063,Bolsover
+064,Chesterfield
+066,Erewash
+067,High Peak
+068,North East Derbyshire
+069,South Derbyshire
+070,Derbyshire Dales
+072,East Devon
+073,Exeter City
+074,Mid Devon
+075,North Devon
+077,South Hams
+078,Teignbridge
+080,Torridge
+081,West Devon
+084,Christchurch
+085,East Dorset
+086,North Dorset
+088,Purbeck
+089,West Dorset
+090,Weymouth and Portland
+102,Eastbourne
+103,Hastings
+105,Lewes
+106,Rother
+107,Wealden
+109,Basildon
+110,Braintree
+111,Brentwood
+112,Castle Point
+113,Chelmsford
+114,Colchester
+115,Epping Forest
+116,Harlow
+117,Maldon
+118,Rochford
+120,Tendring
+122,Uttlesford
+124,Cheltenham
+125,Cotswold
+126,Forest of Dean
+127,Gloucester City
+128,Stroud
+129,Tewkesbury
+131,Basingstoke and Deane
+132,East Hampshire
+133,Eastleigh
+134,Fareham
+135,Gosport
+136,Hart
+137,Havant
+138,New Forest
+140,Rushmoor
+142,Test Valley
+143,Winchester City
+145,Bromsgrove
+148,Malvern Hills
+149,Redditch
+151,Worcester City
+152,Wychavon
+153,Wyre Forest
+155,Broxbourne
+156,Dacorum
+157,East Hertfordshire
+158,Hertsmere
+159,North Hertfordshire
+160,St Albans City
+161,Stevenage
+162,Three Rivers
+163,Watford
+164,Welwyn Hatfield
+179,Ashford
+180,Canterbury City
+181,Dartford
+182,Dover
+184,Gravesham
+185,Maidstone
+187,Sevenoaks
+188,Shepway
+189,Swale
+190,Thanet
+191,Tonbridge and Malling
+192,Tunbridge Wells
+196,Burnley
+197,Chorley
+198,Fylde
+199,Hyndburn
+200,Lancaster City
+201,Pendle
+202,Preston
+203,Ribble Valley
+204,Rossendale
+205,South Ribble
+206,West Lancashire
+207,Wyre
+209,Blaby
+210,Charnwood
+211,Harborough
+212,Hinckley and Bosworth
+214,Melton
+215,North West Leicestershire
+216,Oadby and Wigston
+219,Boston
+220,East Lindsey
+221,Lincoln City
+222,North Kesteven
+223,South Holland
+224,South Kesteven
+225,West Lindsey
+227,Breckland
+228,Broadland
+229,Great Yarmouth
+230,King's Lynn and West Norfolk
+231,North Norfolk
+232,Norwich City
+233,South Norfolk
+235,Corby
+236,Daventry
+237,East Northamptonshire
+238,Kettering
+239,Northampton
+240,South Northamptonshire
+241,Wellingborough
+250,Craven
+251,Hambleton
+252,Harrogate
+253,Richmondshire
+254,Ryedale
+255,Scarborough
+256,Selby
+259,Ashfield
+260,Bassetlaw
+261,Broxtowe
+262,Gedling
+263,Mansfield
+264,Newark and Sherwood
+266,Rushcliffe
+268,Cherwell
+269,Oxford City
+270,South Oxfordshire
+271,Vale of White Horse
+272,West Oxfordshire
+281,Mendip
+282,Sedgemoor
+283,South Somerset
+284,Taunton Deane
+285,West Somerset
+287,Cannock Chase
+288,East Staffordshire
+289,Lichfield
+290,Newcastle-Under-Lyme
+291,South Staffordshire
+292,Stafford
+293,Staffordshire Moorlands
+295,Tamworth
+297,Babergh
+298,Forest Heath
+299,Ipswich
+300,Mid Suffolk
+301,St Edmundsbury
+302,Suffolk Coastal
+303,Waveney
+305,Elmbridge
+306,Epsom and Ewell
+307,Guildford
+308,Mole Valley
+309,Reigate and Banstead
+310,Runnymede
+311,Spelthorne
+312,Surrey Heath
+313,Tandridge
+314,Waverley
+315,Woking
+317,North Warwickshire
+318,Nuneaton and Bedworth
+319,Rugby
+320,Stratford-on-Avon
+321,Warwick
+323,Adur
+324,Arun
+325,Chichester
+326,Crawley
+327,Horsham
+328,Mid Sussex
+329,Worthing
+336,Isles of Scilly
+401,Barnsley
+402,Birmingham
+403,Bolton
+404,Bradford
+405,Bury
+406,Calderdale
+407,Coventry
+408,Doncaster
+409,Dudley
+410,Gateshead
+411,Kirklees
+412,Knowsley
+413,Leeds
+414,Liverpool
+415,Manchester
+416,Newcastle Upon Tyne
+417,North Tyneside
+418,Oldham
+419,Rochdale
+420,Rotherham
+421,St Helens
+422,Salford
+423,Sandwell
+424,Sefton
+425,Sheffield
+426,Solihull
+427,South Tyneside
+428,Stockport
+429,Sunderland
+430,Tameside
+431,Trafford
+432,Wakefield
+433,Walsall
+434,Wigan
+435,Wirral
+436,Wolverhampton
+501,Barking and Dagenham
+502,Barnet
+503,Bexley
+504,Brent
+505,Bromley
+506,Camden
+507,Croydon
+508,City of London Corporation
+509,Ealing
+510,Enfield
+511,Greenwich
+512,Hackney
+513,Hammersmith and Fulham
+514,Haringey
+515,Harrow
+516,Havering
+517,Hillingdon
+518,Hounslow
+519,Islington
+520,Kensington and Chelsea
+521,Kingston-Upon-Thames
+522,Lambeth
+523,Lewisham
+524,Merton
+525,Newham
+526,Redbridge
+527,Richmond-Upon-Thames
+528,Southwark
+529,Sutton
+530,Tower Hamlets
+531,Waltham Forest
+532,Wandsworth
+533,Westminster
+550,Conwy
+551,Anglesey
+552,Blaenau Gwent
+553,Bridgend
+554,Gwynedd
+555,Caerphilly
+556,Cardiff
+557,Ceredigion
+558,Carmarthenshire
+559,Denbighshire
+560,Flintshire
+561,Merthyr Tydfil
+562,Monmouthshire
+563,Neath Port Talbot
+564,Newport
+565,Pembrokeshire
+566,Powys
+567,Rhondda Cynon Taf
+568,Swansea
+569,Torfaen
+570,Vale of Glamorgan
+571,Wrexham
+701,Bedford
+702,Central Bedfordshire
+703,Cheshire East
+704,Cheshire West and Chester
+705,Cornwall
+706,Durham
+707,Northumberland
+708,Shropshire
+709,Wiltshire
+760,Aberdeen City
+761,Aberdeenshire
+762,Angus
+763,Argyll and Bute
+764,East Ayrshire
+765,North Ayrshire
+766,South Ayrshire
+767,Scottish Borders
+768,Clackmannanshire
+769,West Dunbartonshire
+770,Dumfries and Galloway
+771,East Dunbartonshire
+772,Dundee City
+773,Edinburgh (City of)
+774,Falkirk
+775,Fife
+776,Glasgow City
+777,Highland
+778,Inverclyde
+779,North Lanarkshire
+780,South Lanarkshire
+781,East Lothian
+782,West Lothian
+783,Midlothian
+784,Moray
+785,Orkney Islands
+786,Perth and Kinross
+787,East Renfrewshire
+788,Renfrewshire
+789,Shetland Islands
+790,Stirling
+791,Comhairle nan Eilean Siar (Western Isles)
+801,Antrim
+802,Ards
+803,Armagh
+804,Ballymena
+805,Ballymoney
+806,Banbridge
+807,Belfast
+808,Carrickfergus
+809,Castlereagh
+810,Coleraine
+811,Cookstown
+812,Craigavon
+813,Derry
+814,Down
+815,Dungannon
+816,Fermanagh
+817,Larne
+818,Limavady
+819,Lisburn
+820,Magherafelt
+821,Moyle
+822,Newry and Mourne
+823,Newtownabbey
+824,North Down
+825,Omagh
+826,Strabane
+855,Bristol
+856,South Gloucestershire
+857,Bath and North East Somerset
+858,North Somerset
+859,Hartlepool
+860,Redcar and Cleveland
+861,Middlesbrough
+862,Stockton On Tees
+863,East Riding of Yorkshire
+864,North Lincolnshire
+865,North East Lincolnshire
+866,Hull City
+867,Isle of Wight
+868,York
+869,Luton
+870,Milton Keynes
+871,Derby City
+872,Bournemouth
+873,Poole
+874,Darlington
+875,Brighton and Hove
+876,Portsmouth
+877,Southampton
+878,Leicester City
+880,Stoke-On-Trent
+881,Swindon
+882,Bracknell Forest
+883,West Berkshire
+884,Reading
+885,Slough
+886,Windsor and Maidenhead
+887,Wokingham
+888,Peterborough City
+889,Halton
+890,Warrington
+891,Plymouth City
+892,Torbay
+893,Southend-On-Sea
+894,Thurrock
+895,Herefordshire
+896,Medway
+897,Blackburn
+898,Blackpool
+899,Nottingham City
+900,Telford and Wrekin Council
