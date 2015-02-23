@@ -1,546 +1,546 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-407956,40-42 Downpatrick Street,Crossgar,Crossgar,Down,A FITZSIMONS (405/FH/G),Retailers - other,4613,5,,728340,0,,54.39619300000000,302551,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76110600000000,BT30 9EA,2013-05-29,fhrs_5_en-GB,5,,FHRS,0
-407957,51a Market Street,Demesne Of Down Acre,Downpatrick,Down,ABBEYFIELD & WESLEY (372/FH/H),Hospitals/Childcare/Caring Premises,5,0,,728318,0,,54.32781000000000,302430,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71837900000000,BT30 6TX,2012-12-11,fhrs_5_en-GB,5,,FHRS,0
-407958,"194, Listooder Road",Saintfield,,Co Down,ACADEMY PRIMARY SCHOOL (616/FH),School/college/university,7845,5,,728439,5,,54.45419700000000,303152,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83068200000000,BT24 7JA,2014-02-12,fhrs_5_en-GB,5,,FHRS,0
-407959,"30, Middle Tollymore Road",Newcastle,,Co Down,ACORN ANNEXE AT OAKLEIGH HOUSE(407/FH/H),Hotel/bed & breakfast/guest house,7842,,,728470,,,54.22503100000000,303380,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90901500000000,BT33 0JJ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-407960,Ballymote Centre,40 Killough Road,Downpatrick,Co Down,ACTION FOR CHILDREN/SURE START (17/FH/H),School/college/university,7845,5,,728667,0,,54.31519700000000,305306,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70901100000000,BT30 6PY,2013-06-03,fhrs_5_en-GB,5,,FHRS,0
-407961,"49, Downpatrick Street",Crossgar,,Co Down,AJ'S DINER (127/FH),Restaurant/Cafe/Canteen,1,5,,728520,5,,54.39619300000000,304236,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76110600000000,BT30 9EA,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-407962,"7, Castle Place",Ardglass,,Co Down,ALDO'S (DOWNS RESTAURANT) (159/FH/H),Restaurant/Cafe/Canteen,1,5,,728246,5,,54.26094700000000,301918,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.61397000000000,BT30 7RU,2014-02-20,fhrs_5_en-GB,5,,FHRS,5
-407963,"3, Cross Street",Killyleagh,,Co Down,ALFIE MURRAY FAMILY BUTCHERS (204/FH/J),Manufacturers/packers,7839,5,,728404,0,,54.40054800000000,302920,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64987200000000,BT30 9QG,2013-02-27,fhrs_5_en-GB,5,,FHRS,5
-407964,,,,,AMBLE IN B&B (804/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728786,0,,,305672,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2013-08-01,fhrs_5_en-GB,5,,FHRS,0
-407965,"49, Castle Street",Killough,,Co Down,ANCHOR BAR (283/FH/H),Pub/bar/nightclub,7843,,,728541,,,54.25213800000000,304401,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64125800000000,BT30 7QQ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-407966,"6, Dufferin Place",Killyleagh,,Co Down,ANGELA'S HOME BAKING (466/FH/H),Manufacturers/packers,7839,0,,728539,0,,54.40153900000000,304380,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65231100000000,BT30 9QB,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-407967,"51, Ballylough Road",Castlewellan,,Co Down,ANNSBOROUGH PRIMARY SCHOOL (589/FH),School/college/university,7845,,,728375,,,54.24133000000000,302752,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89659200000000,BT31 9HE,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-407968,"44, Ballylough Road",Castlewellan,,Co Down,ANNSBOROUGH STORES (215/FH/G),Retailers - other,4613,,,728374,,,54.26635500000000,302751,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.91989400000000,BT31 9NN,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-407969,21 Downpatrick Road,Ardglass,Ardglass,Down,ARDGLASS COMMUNITY PLAYGROUP (399/FH/H),School/college/university,7845,5,,728692,0,,54.26601800000000,305393,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.61501300000000,BT30 7SF,2013-06-12,fhrs_5_en-GB,5,,FHRS,0
-407970,"4, Castle Place",Ardglass,,Co Down,ARDGLASS GOLF CLUB (BAR) (490/FH/H),Pub/bar/nightclub,7843,,,728521,,,54.25861700000000,304248,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60659900000000,BT30 7TP,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-407971,4 Castle Place,Ardglass,Ardglass,Down,ARDGLASS GOLF CLUB RESTAURANT (512/FH),Restaurant/Cafe/Canteen,1,10,,728573,0,,54.25861700000000,304582,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60659900000000,BT30 7TP,2013-01-10,fhrs_4_en-GB,4,,FHRS,10
-407972,4 Quay Street,Ardglass,Ardglass,Down,ARDGLASS POST OFFICE (26/FH/G),Retailers - other,4613,,,728707,,,54.26072400000000,305443,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60680000000000,BT30 7SA,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-407973,93-95 Saul Street,Downpatrick,,Co Down,ARDMORE SPECIAL SCHOOL (571/FH),School/college/university,7845,0,,728259,0,,54.33224500000000,301987,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70912400000000,BT30 6NJ,2014-06-03,fhrs_5_en-GB,5,,FHRS,0
-407974,3-5 Ardnabannon Road,Ballybannan,Castlewellan,Down,ARDNABANNON OUTDOOR EDUCATION CTR (364/F,School/college/university,7845,0,,728534,5,,54.26506500000000,304367,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.91543100000000,BT31 9EN,2014-08-07,fhrs_5_en-GB,5,,FHRS,0
-407975,Elderly Persons' Resource Cent,18 The Ward,Ardglass,Co Down,ARDVIEW HOUSE (172/FH/H),Other catering premises,7841,10,,728257,0,,54.25838600000000,301972,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.61173900000000,BT30 7UP,2013-08-13,fhrs_4_en-GB,4,,FHRS,0
-407976,Unit 10 Downe Retail Park,Ballydugan Road,Downpatrick,Co Down,ARGOS (609/FH/G),Retailers - other,4613,,,728614,,,54.32395500000000,304900,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72214400000000,BT30 6DR,,fhrs_exempt_en-GB,Exempt,,FHRS,
-407977,"17, Irish Street",Downpatrick,,Co Down,ARKLE BAR (459/FH/G),Pub/bar/nightclub,7843,,,728312,,,54.32836500000000,302368,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71536600000000,BT30 6BW,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-407978,,,,,ARLEY HOUSE BED & BREAKFAST (528/FH/H),Hotel/bed & breakfast/guest house,7842,0,,728645,0,,,305146,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2013-06-07,fhrs_5_en-GB,5,,FHRS,0
-407979,11 Ballydugan Road,Demesne Of Down Acre,Downpatrick,Down,ASDA PETROL FILLING STATION (689/FH/G),Retailers - other,4613,5,,728574,0,,54.32395500000000,304588,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72214400000000,BT30 6DR,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-407980,Unit1-11 Downe Retail Park,Ballydugan Road,Downpatrick,Co Down,ASDA STORES LTD (687/FH/G),Retailers - supermarkets/hypermarkets,7840,5,,728576,0,,54.32484500000000,304602,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72025000000000,BT30 6AJ,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-407981,"24, Belfast Road",Ballynahinch,,Co Down,ASSUMPTION GRAMMAR SCHOOL (556/FH),School/college/university,7845,5,,728262,5,,54.40530800000000,302012,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89669200000000,BT24 8EA,2014-01-20,fhrs_5_en-GB,5,,FHRS,0
-407982,"5, Aughlisnafin Road",Castlewellan,,Co Down,AUGHLISNAFIN PRIMARY SCHOOL (588/FH),School/college/university,7845,0,,728373,0,,54.27573500000000,302747,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89401000000000,BT31 9JP,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-407983,93-97 Central Promenade,Ballaghbeg,Newcastle,Down,AVOCA HOTEL (23/FH/H),Hotel/bed & breakfast/guest house,7842,0,,728359,0,,54.20748100000000,302667,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89248900000000,BT33 0HH,2013-09-11,fhrs_5_en-GB,5,,FHRS,5
-407984,Unit A,Grove Shopping Centre,Downpatrick,Co Down,B & M RETAIL (594/FH/G),Retailers - other,4613,5,,728695,5,,54.32632000000000,305399,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890700000000,BT30 6LZ,2012-08-13,fhrs_5_en-GB,5,,FHRS,5
-407985,The Playing Fields,,Ballykinlar,Down,BALLYKINLAR CROSS COMMUNITY PRESCHOOL (318/FH/H),School/college/university,7845,0,,728783,0,,54.28581000000000,305660,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82082300000000,BT30 8SW,2014-11-06,fhrs_5_en-GB,5,,FHRS,0
-407986,"67, Croob Park",Ballynahinch,,Co Down,BALLYNAHINCH PRIMARY SCHOOL (555/FH/),School/college/university,7845,5,,728263,0,,54.39962600000000,302019,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90583800000000,BT24 8BB,2014-02-27,fhrs_5_en-GB,5,,FHRS,5
-407987,Ballymacarn Park,"6, Mountview Road",Ballynahinch,Co Down,BALLYNAHINCH RUGBY FOOTBALL CLUB (33/FH,Retailers - other,4613,,,728387,,,54.38296900000000,302817,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.92000200000000,BT24 8JR,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-407988,2-6 Irish Street,,Downpatrick,Down,BAR AT DOWN ARTS CENTRE,Pub/bar/nightclub,7843,0,,734342,0,,54.32882000000000,305874,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71524800000000,BT30 6BP,2015-01-26,fhrs_5_en-GB,5,,FHRS,0
-407989,"82, Dundrum Road",Newcastle,,Co Down,BARBICAN (SUPERVALU) (9/FH/G) (P/LC/14),Retailers - supermarkets/hypermarkets,7840,5,,728421,5,,,303014,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OLN,2014-02-17,fhrs_5_en-GB,5,,FHRS,5
-407990,30 Killough Road,Demesne Of Down Acre,Downpatrick,Down,BARNABY'S DAY NURSERY (384/FH/H),School/college/university,7845,0,,728605,0,,54.31519700000000,304860,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70901100000000,BT30 6PY,2013-11-28,fhrs_5_en-GB,5,,FHRS,0
-407991,82b Mill Hill,,Castlewellan,Down,BARNVALE COTTAGE (140/FH/H),Hospitals/Childcare/Caring Premises,5,10,,728583,0,,54.26075400000000,304628,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.93283800000000,BT31 9NB,2014-08-28,fhrs_4_en-GB,4,,FHRS,5
-407992,"4, Cross Street",Killyleagh,,Co Down,BARRETT'S (397/FH/G),Retailers - other,4613,10,,728405,10,,54.40054800000000,302922,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64987200000000,BT30 9QG,2014-04-23,fhrs_4_en-GB,4,,FHRS,0
-407993,71 Central Promenade,Ballaghbeg,Newcastle,Down,BASE COFFEE COMPANY (651/FH/H),Restaurant/Cafe/Canteen,1,10,,728810,10,,54.20748100000000,305754,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89248900000000,BT33 0HH,2014-06-25,fhrs_3_en-GB,3,,FHRS,10
-407994,,,,,BEACH HOUSE (393/FH/H),Hotel/bed & breakfast/guest house,7842,,,728453,,,,303280,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-407995,31 Downpatrick Street,Crossgar,Crossgar,Down,BEIJING HOUSE (439/FH/H),Takeaway/sandwich shop,7844,10,,728765,10,,54.39619200000000,305623,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76110600000000,BT30 9EA,2013-09-18,fhrs_3_en-GB,3,,FHRS,10
-407996,7 Saintfield Road,Lissara,Crossgar,Down,BELLS SPAR (CROSSGAR) (209/FH/G),Retailers - other,4613,5,,728635,5,,54.40405000000000,305070,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76861000000000,BT30 9HY,2011-03-29,fhrs_5_en-GB,5,,FHRS,5
-407997,"103, Belfast Road",Ballynahinch,,Co Down,B'HINCH HIGH SCHOOL-CENTRAL KITCHEN (557,School/college/university,7845,5,,728280,5,,54.41021300000000,302155,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89411400000000,BT24 8EH,2013-11-11,fhrs_5_en-GB,5,,FHRS,5
-407998,50-52 Main Street,Castlewellan,Castlewellan,Down,BILBOS (311/FH/H),Restaurant/Cafe/Canteen,1,10,,728557,5,,54.25725000000000,304508,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94334200000000,BT31 9DJ,2014-01-10,fhrs_4_en-GB,4,,FHRS,5
-407999,62 Grove Road,Ballymaglave South,Ballynahinch,Down,BLUEBIRD BAKERY (505/FH/J),Manufacturers/packers,7839,0,,728770,0,,54.37827000000000,305629,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90440100000000,BT24 8PW,2014-06-20,fhrs_5_en-GB,5,,FHRS,0
-408000,C/O Dublin Road Mini Mart,112 Dublin Road,Kilcoo,Co Down,BOX RED CATERING (473/FH/H),Other catering premises,7841,5,,728617,5,,54.23233900000000,304908,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-6.03738900000000,BT34 5HP,2014-01-02,fhrs_5_en-GB,5,,FHRS,0
-408001,40 Mourne Green,Murlough Upper,Newcastle,Down,BRATWURST EXPRESS (782/FH/H,Other catering premises,7841,0,,728715,5,,54.21907800000000,305468,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88870800000000,BT33 0BN,2013-09-25,fhrs_5_en-GB,5,,FHRS,5
-408002,94 Market Street,Demesne Of Down Acre,Downpatrick,Down,BRENDAN'S BAR (37/FH/H),Restaurant/Cafe/Canteen,1,20,,728606,15,,54.32632000000000,304861,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2014-11-11,fhrs_0_en-GB,0,,FHRS,20
-408003,149 Newcastle Road,Castlenavan,Downpatrick,Down,BRENNANS (221/FH/G) P/LC/95,Retailers - supermarkets/hypermarkets,7840,10,,728447,5,,54.33124200000000,303247,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83631600000000,BT30 8PL,2014-07-25,fhrs_4_en-GB,4,,FHRS,5
-408004,149 Newcastle Road,Castlenavan,Downpatrick,Down,BRENNANS ICE CREAM (221A/FH/G),Retailers - other,4613,5,,728732,0,,54.33124200000000,305529,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83631600000000,BT30 8PL,2014-06-13,fhrs_4_en-GB,4,,FHRS,10
-408005,149 Newcastle Road,Castlenavan,Downpatrick,Down,BRENNAN'S ICE CREAM (221A/FH/G),Retailers - other,4613,5,,728663,0,,54.33124200000000,305281,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83631600000000,BT30 8PL,2014-06-13,fhrs_4_en-GB,4,,FHRS,10
-408006,12 Main Street,Dundrum,Dundrum,Down,BRENNAN'S VIVO (94/FH/G),Retailers - supermarkets/hypermarkets,7840,5,,728589,5,,54.25849100000000,304687,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84263100000000,BT33 0LU,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-408007,"14, Coniamstown Road",Bright,Downpatrick,Co Down,BRIGHT GOLF CLUB (478/FH/G),Restaurant/Cafe/Canteen,1,5,,728399,0,,54.27449700000000,302890,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.68909900000000,BT30 8LU,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-408008,@ The Anchor Bar,9 Bryansford Road,Newcastle,Co Down,BRUNELS (582/FH/H),Restaurant/Cafe/Canteen,1,10,,728801,10,,54.20721000000000,305727,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89398900000000,BT33 0HJ,2014-12-10,fhrs_4_en-GB,4,,FHRS,0
-408009,"64, Bryansford Village",Newcastle,,Co Down,BRYANSFORD POST OFFICE (224/FH/G),Retailers - other,4613,10,,728486,5,,,303461,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OPT,2014-06-17,fhrs_4_en-GB,4,,FHRS,0
-408010,,,,,BURFORD LODGE (251/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728254,0,,,301959,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2014-02-19,fhrs_5_en-GB,5,,FHRS,0
-408011,"51, Castlewellan Road",Newcastle,,Co Down,BURRENDALE HOTEL LTD (359/FH/H),Hotel/bed & breakfast/guest house,7842,10,,728420,10,,,303008,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OJY,2013-11-26,fhrs_3_en-GB,3,,FHRS,10
-408012,"1, Rocks Road",Ballyhornan,Downpatrick,Co Down,CABLE BAR (258/FH/G),Pub/bar/nightclub,7843,0,,728255,0,,54.30041800000000,301960,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.55496200000000,BT30 7PJ,2014-06-09,fhrs_5_en-GB,5,,FHRS,0
-408013,139-141 Main Street,Newcastle,,Co Down,CAFE CREME (214/FH/H),Restaurant/Cafe/Canteen,1,0,,728602,0,,,304821,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 9AE,2013-06-07,fhrs_5_en-GB,5,,FHRS,5
-408014,106 Main Street,Ballaghbeg,Newcastle,Down,CAFE MAUD'S (516/FH/H),Restaurant/Cafe/Canteen,1,5,,728494,5,,54.21191000000000,303962,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-408015,27 Downpatrick Street,Crossgar,Crossgar,Down,CAFE Q (195/FH/H),Restaurant/Cafe/Canteen,1,5,,728604,5,,54.39619200000000,304857,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76110600000000,BT30 9EA,2014-10-14,fhrs_5_en-GB,5,,FHRS,0
-408016,1a Main Street,Ballynahinch,Ballynahinch,Down,CAFE ROSSI (74/FH/H),Restaurant/Cafe/Canteen,1,10,,728568,5,,54.40280200000000,304568,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89675800000000,BT24 8AP,2014-02-10,fhrs_4_en-GB,4,,FHRS,5
-408017,1 Crew Hill Place,Ardglass,Ardglass,Down,CAKES BY FIONA (338/FH/H),Other catering premises,7841,0,,728815,0,,54.26503400000000,305764,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.61256700000000,BT30 7LN,2014-10-14,fhrs_5_en-GB,5,,FHRS,0
-408018,"42, Downpatrick Road",Killyleagh,,Co Down,CAMPBELL AUTO REPAIRS (148/FH/G),Retailers - other,4613,,,728336,,,54.39612200000000,302530,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.66161400000000,BT30 9TY,2011-11-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-408019,18 Ardilea Road,Ardilea (Main Portion),Downpatrick,Down,CANDYBIRD CAKES (615/FH/H),Other catering premises,7841,5,,728767,0,,54.28088700000000,305625,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82633500000000,BT30 8SL,2014-09-26,fhrs_5_en-GB,5,,FHRS,0
-408020,"""Tyrella"" Downshire Estate",Ardglass Road,,Co Down,CAPAA_CHILDREN & PARENTS & AUTISM (770/F,Other catering premises,7841,0,,728674,0,,54.32470200000000,305326,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.69663000000000,BT30 6RA,2014-07-31,fhrs_4_en-GB,4,,FHRS,10
-408021,"105, Belfast Road",Ballynahinch,,Co Down,CARLISLE'S FRESH FOODS (47/FH/G),Retailers - supermarkets/hypermarkets,7840,5,,728281,5,,54.41129900000000,302156,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89504500000000,BT24 8FF,2014-11-26,fhrs_5_en-GB,5,,FHRS,5
-408022,"15, Downpatrick Street",Crossgar,,Co Down,CARMAN'S INN (268/FH/G),Pub/bar/nightclub,7843,,,728337,,,54.39619300000000,302540,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76110600000000,BT30 9EA,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408023,,,,,CASTLE CORRIGS HOUSE (663/FH/H),Hotel/bed & breakfast/guest house,7842,,,728419,,,,303006,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408024,39 Dromara Road,Dundrum,Dundrum,Down,CASTLE FARM FRESH PRODUCE (789/FH/F),Distributors/Transporters,7,10,,728739,0,,54.27227400000000,305552,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.85471400000000,BT33 0NS,2013-04-12,fhrs_4_en-GB,4,,FHRS,10
-408025,32 Circular Road,Castlewellan,Castlewellan,Down,CASTLEWELLAN COMMUNITY PLAYGROUP (775/FH,School/college/university,7845,5,,728785,10,,54.25629200000000,305665,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94088900000000,BT31 9ED,2014-06-18,fhrs_4_en-GB,4,,FHRS,5
-408026,"2, Church Street",Castlewellan,,Co Down,CASTLEWELLAN PRIMARY SCHOOL (586/FH),School/college/university,7845,0,,728291,5,,54.25700100000000,302232,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.93821400000000,BT31 9EG,2013-06-03,fhrs_5_en-GB,5,,FHRS,0
-408027,"29, Kilmore Road",Crossgar,,Co Down,CEDAR INTEGRATED PRIMARY SCHOOL (324/FH),School/college/university,7845,0,,728350,0,,54.39179600000000,302590,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76433300000000,BT30 9HJ,2014-05-08,fhrs_4_en-GB,4,,FHRS,10
-408028,"1, Cross Street",Killyleagh,,Co Down,CENTRAL BAR (654/FH/H),Pub/bar/nightclub,7843,,,728506,,,54.40054800000000,304167,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64987200000000,BT30 9QG,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408029,75 Bryansford Road,Tollymore,Newcastle,Down,CHATTERBOX DAY NURSERY (408/FH/H),School/college/university,7845,5,,728659,5,,54.21734200000000,305270,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90097000000000,BT33 0LE,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-408030,,,,,CHERRY VILLA BED & BREAKFAST (294/FH/H),Hotel/bed & breakfast/guest house,7842,,,728451,,,,303260,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408031,65a Irish Street,Demesne Of Down Acre,Downpatrick,Down,CHEUNGS (330/FH/H/),Takeaway/sandwich shop,7844,10,,728314,5,,54.32691300000000,302379,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71369400000000,BT30 6BS,2013-08-08,fhrs_3_en-GB,3,,FHRS,10
-408032,47 Windmill Street,Ballynahinch,Ballynahinch,Down,CHINA'S FINEST (642/FH/H),Takeaway/sandwich shop,7844,10,,728666,5,,54.40207200000000,305300,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89564100000000,BT24 8HB,2014-02-17,fhrs_4_en-GB,4,,FHRS,5
-408033,"39, Main Street",Castlewellan,,Co Down,CHIPPY DOCK (446/FH/H),Takeaway/sandwich shop,7844,5,,728554,5,,54.25775700000000,304490,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94302500000000,BT31 9DQ,2014-08-07,fhrs_5_en-GB,5,,FHRS,5
-408034,179b Newcastle Road,Naghan,Downpatrick,Down,CHRYSALIS TEA ROOM @ BUTTERFLY HOUSE(553,Restaurant/Cafe/Canteen,1,5,,728738,5,,54.30651900000000,305546,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84164000000000,BT30 8NU,2014-05-22,fhrs_4_en-GB,4,,FHRS,10
-408035,"1, Castle Place",Newcastle,,Co Down,CLARE LODGE (518/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728355,0,,54.21001100000000,302629,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89018300000000,BT33 0AB,2012-07-24,fhrs_5_en-GB,5,,FHRS,5
-408036,27a Central Promenade,Ballaghbeg,Newcastle,Down,COCO'S (514/FH/H),Restaurant/Cafe/Canteen,1,5,,728357,5,,54.20940400000000,302645,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89144000000000,BT33 0AA,2014-03-13,fhrs_4_en-GB,4,,FHRS,10
-408037,"112, Market Street",Downpatrick,,Co Down,COLLEGE FILLING STATION (125/FH/G),Retailers - other,4613,5,,728321,0,,54.32632000000000,302457,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2014-03-26,fhrs_4_en-GB,4,,FHRS,10
-408038,"75, Killough Road",Ardglass,,Co Down,CONEY ISLAND CARAVAN PARK (526/FH/G),Retailers - other,4613,,,728252,,,54.26242300000000,301945,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.63371700000000,BT30 7UH,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408039,61-63 Edward Street,Jordans,Downpatrick,Down,CONNOLLY'S VIVO FOODSTORE (210/FH/G),Retailers - other,4613,5,,728258,5,,54.32521100000000,301975,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70494900000000,BT30 6JH,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-408040,"2, Folly Lane",Downpatrick,,Co Down,CONVENT OF MERCY NURSERY SCHOOL (568/FH),School/college/university,7845,0,,728309,0,,54.32461400000000,302358,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71612800000000,BT30 6NF,2013-10-21,fhrs_5_en-GB,5,,FHRS,0
-408041,"29, Killyleagh Street",Crossgar,,Co Down,CORNER INN (508/FH/H),Pub/bar/nightclub,7843,,,728544,,,54.39762100000000,304419,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75814900000000,BT30 9DQ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408042,51-55 St Patrick'S Avenue,Downpatrick,,Co Down,CORNER SERVICE STATION (124/FH/G),Retailers - other,4613,,,728327,,,54.27977200000000,302499,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72737800000000,BT30 8AZ,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408043,3 Station Road,,Castlewellan,Down,CORRIEWOOD NURSING HOME (350/FH/H),Hospitals/Childcare/Caring Premises,5,0,,728660,5,,54.26055300000000,305272,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.92792100000000,BT31 9NF,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-408044,"21, Killyleagh Street",Crossgar,,Co Down,COSTCUTTER (CENTRAL GARAGES) (83/FH/G),Retailers - other,4613,0,,728346,0,,54.39762100000000,302568,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75814900000000,BT30 9DQ,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-408045,26 St Patrick'S Avenue,,Downpatrick,Down,COUNTRY FRIED CHICKEN (522/FH),Takeaway/sandwich shop,7844,5,,728325,5,,54.32678900000000,302482,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71663700000000,BT30 6DP,2013-09-24,fhrs_5_en-GB,5,,FHRS,5
-408046,"26, King Street",Newcastle,,Co Down,CRAIGNAGORE (316/FH/H),Other catering premises,7841,5,,728553,0,,54.19902800000000,304487,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89003800000000,BT33 0TZ,2014-01-15,fhrs_5_en-GB,5,,FHRS,0
-408047,The Meadow,,Downpatrick,Co Down,CRICKET CLUB/RESTAURANT (292/FH/H),Restaurant/Cafe/Canteen,1,5,,728678,5,,54.33932100000000,305334,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70843700000000,BT30 6SL,2014-03-06,fhrs_5_en-GB,5,,FHRS,0
-408048,"37, Killyleagh Street",Crossgar,,Co Down,CROSSGAR PHARMACY (544/FH/G),Retailers - other,4613,,,728348,,,54.39762100000000,302572,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75814900000000,BT30 9DQ,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408049,,,,,CRUMBLE CAKES (690/FH/H),Other catering premises,7841,0,,728779,0,,,305648,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2013-12-10,fhrs_5_en-GB,5,,FHRS,0
-408050,1 Ballyhornan Road,Russell'S Quarter,Downpatrick,Down,CUAN COURT CHILDREN'S HOME (488/FH/H),Other catering premises,7841,5,,728638,0,,54.32670000000000,305101,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.69870100000000,BT30 6RB,2012-04-24,fhrs_5_en-GB,5,,FHRS,5
-408051,"17, The Square",Clough,,Co Down,CUMRAN PRIMARY SCHOOL (608/FH),School/college/university,7845,5,,728449,5,,54.29097800000000,303251,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83887400000000,BT30 8RB,2013-10-03,fhrs_5_en-GB,5,,FHRS,0
-408052,"49, Market Street",Downpatrick,,Co Down,CURLEY'S OFF LICENCE (137/FH/G),Retailers - other,4613,,,728498,,,54.32787300000000,303982,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71694600000000,BT30 6LP,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408053,83 Strangford Road,Sheepland More,Ardglass,Down,CURRAN'S BAR SEAFOOD & STEAKHOUSE (253/F,Restaurant/Cafe/Canteen,1,,,728558,,,54.28079600000000,304513,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.59175300000000,BT30 7SP,2014-09-25,fhrs_5_en-GB,5,,FHRS,
-408054,"20, Castle Avenue",Castlewellan,,Co Down,C'WELLAN CHRISTIAN CONFERENCE CENTRE(682,Other catering premises,7841,5,,728289,5,,54.25863600000000,302230,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94241400000000,BT31 9DX,2013-10-25,fhrs_5_en-GB,5,,FHRS,0
-408055,,,,,DACARA B&B (698/FH/H),Hotel/bed & breakfast/guest house,7842,,,728366,,,,302704,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408056,The Saint Patrick Centre,St Patrick'S Square,Downpatrick,Co Down,DAISIES CAFE (471/FH/H),Restaurant/Cafe/Canteen,1,5,,728621,5,,54.32632000000000,304923,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2014-07-09,fhrs_5_en-GB,5,,FHRS,5
-408057,"124a, Bryansford Road",Newcastle,,Co Down,DAISY LODGE (686/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728485,5,,,303455,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OPP,2014-05-28,fhrs_5_en-GB,5,,FHRS,5
-408058,10 Main Street,Saintfield Parks,Saintfield,Down,DALZELL'S FRESH FRUIT & VEGETABLES (40/F,Retailers - other,4613,5,,728802,0,,54.46046000000000,305728,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83167700000000,BT24 7AA,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-408059,91 Main Street,Ballaghbeg,Newcastle,Down,DAYTODAY (462/FH/G),Retailers - other,4613,5,,728819,5,,54.21191000000000,305777,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-408060,"28, Struell Road",Downpatrick,,Co Down,DE LA SALLE HIGH SCHOOL (579/FH/H),School/college/university,7845,0,,728261,0,,54.32872200000000,301994,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70436900000000,BT30 6JR,2010-02-22,fhrs_5_en-GB,5,,FHRS,5
-408061,Downpatrick Road,Killyleagh,,Co Down,DELAMONT MINIATURE RAILWAY (511/FH/G),Retailers - other,4613,,,728538,,,54.38581200000000,304376,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.67636400000000,BT30 9TZ,2014-08-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-408062,10a Donard Street,Murlough Upper,Newcastle,Down,DELICIOUS SANDWICH COMPANY (223/FH/H),Restaurant/Cafe/Canteen,1,5,,728746,5,,54.21496000000000,305574,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88959300000000,BT33 0AW,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-408063,3 Drakes Bridge Road,Crossgar,Crossgar,Down,DELS DAINTY DONUTS (290/FH/H),Other catering premises,7841,5,,728633,0,,54.38827300000000,305055,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75658000000000,BT30 9EW,2011-08-12,fhrs_5_en-GB,5,,FHRS,5
-408064,14-16 English Street,Demesne Of Down Acre,Downpatrick,Down,DENVIRS HOTEL (104/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728794,5,,54.32875100000000,305703,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71771300000000,BT30 6AB,2014-03-04,fhrs_4_en-GB,4,,FHRS,10
-408065,5 Downpatrick Road,,Ardglass,Down,DEVLIN'S BUTCHERS (SPAR ARDGLASS) 778/FH,Manufacturers/packers,7839,5,,728702,0,,54.26601800000000,305424,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.61501300000000,BT30 7SF,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-408066,4-6 Bath Street,Ardglass,,Co Down,DOC'S FISH & CHIPS (791/FH/H),Restaurant/Cafe/Canteen,1,5,,728741,5,,54.26268600000000,305557,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60923400000000,BT30 7SE,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-408067,17-18 The Grove Shopping Centr,Market Street,Downpatrick,Co Down,DOC'S TRADITIONAL FISH & CHIPS (681/FH/H,Takeaway/sandwich shop,7844,0,,728592,5,,54.33701000000000,304732,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71261100000000,BT30,2010-09-21,fhrs_5_en-GB,5,,FHRS,0
-408068,"21, Main Street",Newcastle,,Co Down,DONARD HOTEL (48/FH/H),Hotel/bed & breakfast/guest house,7842,10,,728463,5,,,303304,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAD,2013-07-29,fhrs_3_en-GB,3,,FHRS,10
-408069,"76, Crossgar Road",Ballynahinch,,Co Down,DONARD VIEW SERVICE STATION (411/FH),Retailers - other,4613,5,,728283,0,,54.40421900000000,302168,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88476500000000,BT24 8XS,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-408070,27 Main Street,Ballaghbeg,Newcastle,Down,DONARD WINE SHOP & LOUNGE (48A/FH/H),Pub/bar/nightclub,7843,,,728457,,,54.21376700000000,303288,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88868800000000,BT33 0AD,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408071,14/16 Mount Crescent,Downpatrick,,Co Down,DOWN HIGH SCHOOL (563/FH/H),School/college/university,7845,5,,728429,5,,54.32872200000000,303083,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70436900000000,BT30 6JR,2014-01-13,fhrs_5_en-GB,5,,FHRS,0
-408072,5/7 Mount Crescent,Downpatrick,,Co Down,DOWNPATRICK PRIMARY SCHOOL (564/FH/H),School/college/university,7845,5,,728322,5,,54.32934500000000,302465,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71923200000000,BT30 6AF,2014-01-16,fhrs_5_en-GB,5,,FHRS,0
-408073,"24, Ballydugan Road",Downpatrick,,Co Down,DOWNPATRICK RACE CLUB (666/FH),Retailers - other,4613,0,,728308,0,,54.32000900000000,302340,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72300800000000,BT30 6TE,2011-12-21,fhrs_4_en-GB,4,,FHRS,10
-408074,Ardglass Road,Downpatrick,,Co Down,DOWNSHIRE HOSPITAL (110/FH/H),Hospitals/Childcare/Caring Premises,5,0,,728773,0,,54.32470200000000,305637,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.69663000000000,BT30 6RA,2014-06-06,fhrs_5_en-GB,5,,FHRS,5
-408075,Downshire Hospital,Ardglass Road,Downpatrick,Co Down,DOWNSHIRE KID'S CLUB (AFTER SCHOOL) 238/,School/college/university,7845,5,,728733,0,,54.32470200000000,305530,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.69663000000000,BT30 6RA,2013-06-11,fhrs_5_en-GB,5,,FHRS,5
-408076,Meadowvale,156a Drumaness Road,Drumaness,Co Down,DRUMANESS MILLS FC SOCIAL CLUB (627/FH/G,Retailers - other,4613,5,,728806,0,,54.36859200000000,305749,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.85274200000000,BT24 8RL,2014-09-30,fhrs_5_en-GB,5,,FHRS,0
-408077,"9, Drumsnade Road",Ballynahinch,,Co Down,DRUMANESS PRIMARY SCHOOL (562/FH/H),School/college/university,7845,0,,728371,0,,54.35385000000000,302734,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.87270900000000,BT24 8NG,2013-10-23,fhrs_5_en-GB,5,,FHRS,5
-408078,"18, Chapel Lane",Castlewellan,,Co Down,DRUMAROAD PRIMARY SCHOOL (584/FH),School/college/university,7845,5,,728383,0,,54.32216700000000,302802,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89681800000000,BT31 9PQ,2014-04-30,fhrs_5_en-GB,5,,FHRS,5
-408079,43 Lisburn Road,Ballykine Lower,Ballynahinch,Down,DRUMLINS INTEGRATED PRIMARY SCHOOL (673/,School/college/university,7845,0,,728808,0,,54.41136300000000,305751,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.91532900000000,BT24 8TT,2014-05-08,fhrs_5_en-GB,5,,FHRS,0
-408080,112 Dublin Road,Moyad,Newry,Down,DUBLIN ROAD MINI MART (VIVO) (225/FH/G),Retailers - other,4613,5,,728630,0,,54.23233900000000,305007,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-6.03739000000000,BT34 5HP,2013-07-03,fhrs_4_en-GB,4,,FHRS,10
-408081,"35, High Street",Killyleagh,,Co Down,DUFFERIN ARMS (80/FH/H),Restaurant/Cafe/Canteen,1,,,728408,,,54.40079300000000,302946,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65182900000000,BT30 9QF,2014-11-25,fhrs_5_en-GB,5,,FHRS,
-408082,33 High Street,Corporation,Killyleagh,Down,DUFFERIN COACHING INN (352/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728575,0,,54.40079300000000,304592,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65183000000000,BT30 9QF,2014-02-13,fhrs_5_en-GB,5,,FHRS,0
-408083,27a Main Street,Dundrum,Dundrum,Down,DUNDRUM CROSS COMMUNITY PLAYGROUP (211/F,School/college/university,7845,0,,728730,0,,54.25849100000000,305526,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84263100000000,BT33 0LU,2014-11-07,fhrs_4_en-GB,4,,FHRS,10
-408084,143-145 Main Street,Dundrum,Dundrum,Down,DUNDRUM INN STEAKHOUSE (451/FH/H),Restaurant/Cafe/Canteen,1,0,,728823,5,,54.25689000000000,305797,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84509300000000,BT33 0LX,2014-12-09,fhrs_5_en-GB,5,,FHRS,0
-408085,,,,,DUNLEATH HOUSE B&B (650/FH/H),Hotel/bed & breakfast/guest house,7842,,,728329,,,,302512,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408086,,,,,DUNNANELLY COUNTRY HOUSE (465/FH/H),Hotel/bed & breakfast/guest house,7842,0,,728720,0,,,305498,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2013-06-25,fhrs_5_en-GB,5,,FHRS,0
-408087,"61, Comber Road",Killyleagh,,Co Down,EAST DOWN YACHT CLUB (618/FH/G),Retailers - other,4613,,,728351,,,54.41367400000000,302603,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65112400000000,BT30 9PA,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408088,The Quayside,Ardglass,,Co Down,EAST ESSENCE CHINESE RESTAURANT (509/FH/,Restaurant/Cafe/Canteen,1,10,,728578,5,,54.25909900000000,304610,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60555800000000,BT30 7TZ,2014-01-31,fhrs_4_en-GB,4,,FHRS,5
-408089,"8, Upper Square",Castlewellan,,Co Down,EASTERN PEARL (317/FH/H),Takeaway/sandwich shop,7844,5,,728306,5,,54.25755900000000,302329,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94143900000000,BT31 9DB,2014-07-30,fhrs_5_en-GB,5,,FHRS,0
-408090,84a Commons Road,Commons Of Clanmaghery,Downpatrick,Down,EASTERN PEARL (79/FH/H),Takeaway/sandwich shop,7844,0,,728525,0,,54.25775300000000,304278,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.79199200000000,BT30 8DG,2012-08-22,fhrs_4_en-GB,4,,FHRS,10
-408091,89 Shore Road,Kilclief,Strangford,Down,EAT RAW FEEL GREAT (744/FH/H),Other catering premises,7841,,,728640,,,54.34791000000000,305104,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.54966600000000,BT30 7NW,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408092,55 Main Street,Saintfield,,Down,EATING OPTIONS (456/FH/H),Takeaway/sandwich shop,7844,0,,728442,0,,54.46028800000000,303194,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83410700000000,BT24 7AB,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-408093,"98, Bryansford Road",Newcastle,,Co Down,ENNISKEEN HOUSE HOTEL (34/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728452,5,,,303264,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OLF,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-408094,3 Main Street,Ballaghbeg,Newcastle,Down,ESSENCE HEALTH STORE (205/FH/G),Retailers - other,4613,5,,728616,0,,54.21376700000000,304907,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88868800000000,BT33 0AD,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-408095,2-4 Main Street,,Clough,Down,EUROSPAR CLOUGH (729/FH/G),Retailers - supermarkets/hypermarkets,7840,5,,728708,5,,54.30599900000000,305448,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84372500000000,BT30 8PA,2014-09-02,fhrs_4_en-GB,4,,FHRS,10
-408096,13 Central Promenade,Ballaghbeg,Newcastle,Down,EXOTIKKA (256/FH/H),Restaurant/Cafe/Canteen,1,10,,728761,10,,54.20940400000000,305613,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89144000000000,BT33 0AA,2014-02-04,fhrs_3_en-GB,3,,FHRS,5
-408097,22 Carnacavill Road,Drumee,Castlewellan,Down,EXPRESS FRYER (706/FH/H),Other catering premises,7841,5,,728623,0,,54.23555100000000,304929,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90944900000000,BT31 9HB,2013-06-26,fhrs_5_en-GB,5,,FHRS,0
-408098,69 Main Street,Castlewellan,Castlewellan,Down,FABIO'S (711/FH/H),Takeaway/sandwich shop,7844,5,,728615,0,,54.25775700000000,304906,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94302600000000,BT31 9DQ,2014-02-18,fhrs_4_en-GB,4,,FHRS,10
-408099,,,,,FAIRYGLEN (464/FH/H),Hotel/bed & breakfast/guest house,7842,,,728556,,,,304507,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408100,16 Lower Square,,Castlewellan,Down,FINNEGANS BUTCHERS (379/FH/J),Manufacturers/packers,7839,10,,728295,0,,54.25663100000000,302258,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94444700000000,BT31 9DW,2014-01-17,fhrs_4_en-GB,4,,FHRS,10
-408101,69 Belfast Road,Ballynahinch,,Co Down,FISH CITY (413/FH/H),Restaurant/Cafe/Canteen,1,0,,728706,5,,54.40760000000000,305437,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89468000000000,BT24 8EB,2014-02-13,fhrs_5_en-GB,5,,FHRS,5
-408102,"71, Spa Road",Ballynahinch,,Co Down,FISHBOURNE HOUSE NURSING HOME (11/FH),Hospitals/Childcare/Caring Premises,5,5,,728388,0,,54.45939700000000,302820,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82500900000000,BT24 7PT,2013-08-13,fhrs_5_en-GB,5,,FHRS,5
-408103,"25, Dromore Street",Ballynahinch,,Co Down,FOO KWAI RESTAURANT (362/FH/H),Restaurant/Cafe/Canteen,1,10,,728264,5,,54.40036900000000,302038,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89893100000000,BT24 8AG,2014-03-25,fhrs_3_en-GB,3,,FHRS,10
-408104,25 High Street,Ballynahinch,Ballynahinch,Down,FORTUNE CHINESE RESTAURANT (360/FH/H),Restaurant/Cafe/Canteen,1,10,,728737,10,,54.40173900000000,305545,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,2013-12-11,fhrs_4_en-GB,4,,FHRS,0
-408105,"9b, Scotch Street",Downpatrick,,Co Down,FORUM CHINESE HOT FOOD (500/FH/H),Takeaway/sandwich shop,7844,10,,728432,0,,54.32906100000000,303101,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71512800000000,BT30 6AQ,2014-03-19,fhrs_4_en-GB,4,,FHRS,10
-408106,1 High Street,Corporation,Killyleagh,Down,FOSTERS FAMILY BUTCHERS KILLYLEAGH (160/,Manufacturers/packers,7839,5,,728776,5,,54.40079300000000,305642,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65183000000000,BT30 9QF,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-408107,17 Carrickinab Road,Carrickinab,Downpatrick,Down,FOUR ROADS INN (271/FH/H),Pub/bar/nightclub,7843,,,728588,,,54.27604200000000,304673,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.79067600000000,BT30 8DD,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408108,2 Castlewellan Road,Clough,,Down,FRENCH'S BISTRO (757/FH/H),Restaurant/Cafe/Canteen,1,5,,728750,0,,54.28846700000000,305584,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84617800000000,BT30 8RD,2013-11-21,fhrs_5_en-GB,5,,FHRS,5
-408109,"7, Dublin Road",Castlewellan,,Co Down,FRESH FOOD CENTRE (202/FH/G),Retailers - supermarkets/hypermarkets,7840,,,728542,,,54.25293900000000,304403,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.95769000000000,BT31 9AQ,2012-08-30,fhrs_5_en-GB,5,,FHRS,
-408110,23 Main Street,,Castlewellan,Down,FRESH FOOD CENTRE (385/FH/G),Retailers - other,4613,5,,728299,5,,54.25835600000000,302272,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94130700000000,BT31 9DF,2014-02-03,fhrs_4_en-GB,4,,FHRS,10
-408111,46 Meadowlands,Demesne Of Down Acre,Downpatrick,Down,FRESH SEAFOOD SALES LTD (724/FH/G),Retailers - other,4613,,,728701,,,54.33224900000000,305421,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71170700000000,BT30 6EN,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408112,30 Main Street,,Saintfield,Down,FRESHWAYS (248/FH/G),Retailers - other,4613,10,,728807,10,,54.46035900000000,305750,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83158900000000,BT24 7AA,2014-06-27,fhrs_3_en-GB,3,,FHRS,10
-408113,"27, Craigy Road",Saintfield,,Co Down,FRIENDS DAY NURSERY (181/FH/H),School/college/university,7845,5,,728504,0,,54.47185600000000,304150,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.86358000000000,BT24 7BZ,2014-12-09,fhrs_5_en-GB,5,,FHRS,0
-408114,5 The Square,Crossgar,Crossgar,Down,FRIENDS DAY NURSERY (658/FH/H),School/college/university,7845,0,,728748,0,,54.39650500000000,305579,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75902600000000,BT30 9EE,2013-07-03,fhrs_5_en-GB,5,,FHRS,5
-408115,36 Tullybrannigan Road,Ballaghbeg,Newcastle,Down,FROTH (273/FH/H),Restaurant/Cafe/Canteen,1,5,,728657,10,,54.20851900000000,305258,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89945600000000,BT33 0HR,2013-08-15,fhrs_4_en-GB,4,,FHRS,5
-408116,5a Owenbeg Avenue,Downpatrick,,Co Down,FUNKY MONKEYS,Restaurant/Cafe/Canteen,1,5,,728642,5,,54.32339300000000,305113,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71381300000000,BT30 6FJ,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-408117,80 Ballybannan Road,Ballybannan,Castlewellan,Down,FUNNY FARM ADVENTURE CENTRE (693/FH/H),Restaurant/Cafe/Canteen,1,0,,728598,5,,54.25853300000000,304802,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90461800000000,BT31 9ER,2013-08-09,fhrs_5_en-GB,5,,FHRS,5
-408118,16 High Street,Corporation,Killyleagh,Down,GABBIES PHARMACY (302/FH/G),Retailers - other,4613,,,728407,,,54.40079300000000,302937,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65183000000000,BT30 9QF,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408119,The Mall,English Street,Downpatrick,Co Down,GAOLER'S KITCHEN (416/FH/H),Restaurant/Cafe/Canteen,1,0,,728334,0,,54.32871300000000,302522,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71951300000000,BT30 6AH,2013-06-21,fhrs_5_en-GB,5,,FHRS,0
-408120,"68, Stream Street",Downpatrick,,Co Down,GIBNEY'S (247/FH/G),Retailers - other,4613,5,,728333,5,,54.32222900000000,302520,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71353900000000,BT30 6DF,2014-03-21,fhrs_4_en-GB,4,,FHRS,10
-408121,"34, Main Street",Ballynahinch,,Co Down,GINESI'S RESTAURANT & CARRY-OUT (427/FH),Restaurant/Cafe/Canteen,1,10,,728276,10,,54.40346800000000,302135,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,2013-11-13,fhrs_3_en-GB,3,,FHRS,10
-408122,12 Bryansford Avenue,Newcastle,,Co Down,GL CARE_BARDAN COTTAGE (468/FH/H),Other catering premises,7841,5,,728669,0,,54.21433600000000,305315,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89039200000000,BT33 0AX,2014-02-12,fhrs_5_en-GB,5,,FHRS,5
-408123,"1, Glasswater Road",Crossgar,,Co Down,GLASSWATER LODGE RESIDENTIAL HOME (368/F,Hospitals/Childcare/Caring Premises,5,5,,728342,5,,,302562,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT30 9DM,2014-02-07,fhrs_5_en-GB,5,,FHRS,5
-408124,4 Ballynahinch Road,Lissara,Crossgar,Down,GLASSWATER PLAYGROUP (560/FH/H),School/college/university,7845,5,,728688,0,,54.39913500000000,305382,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.77054000000000,BT30 9HS,2013-03-21,fhrs_5_en-GB,5,,FHRS,0
-408125,"6, John Street",Crossgar,,Co Down,GLASSWATER PRIMARY SCHOOL (597/FH),School/college/university,7845,5,,728343,0,,54.39645500000000,302563,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75733500000000,BT30 9EG,2014-05-12,fhrs_4_en-GB,4,,FHRS,10
-408126,"23, Bishopscourt Road",Downpatrick,,Co Down,GLEBE HOUSE (448/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728475,0,,54.33004500000000,303412,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.56384400000000,BT30 7NZ,2013-01-17,fhrs_5_en-GB,5,,FHRS,0
-408127,Glen Fold,Central Promenade,Newcastle,Co Down,GLEN FOLD (530/FH/H),Other catering premises,7841,0,,728361,0,,,302683,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 ORB,2014-09-25,fhrs_5_en-GB,5,,FHRS,0
-408128,29 South Promenade,Ballaghbeg,Newcastle,Down,GLENADA CONFERENCE CENTRE (533/FH/H),Other catering premises,7841,5,,728699,5,,54.20210400000000,305418,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89173600000000,BT33 0EX,2013-11-29,fhrs_5_en-GB,5,,FHRS,5
-408129,"109, Dundrum Road",Newcastle,,Co Down,GOLF LINKS HOUSE (709/FH/H),Restaurant/Cafe/Canteen,1,5,,728422,5,,,303019,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OLN,2014-03-19,fhrs_5_en-GB,5,,FHRS,5
-408130,"33, High Street",Ballynahinch,,Co Down,GORDON CHEMISTS (629/FH/G),Retailers - other,4613,,,728269,,,54.40173900000000,302078,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408131,"16, Railway Street",Newcastle,,Co Down,GORDON'S CHEMIST (525/FH/G),Retailers - other,4613,,,728472,,,,303387,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAL,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408132,"33-37, Market Street",Downpatrick,,Co Down,GORDONS CHEMIST (621/FH/G),Retailers - other,4613,,,728549,,,54.32787300000000,304426,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71694600000000,BT30 6LP,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408133,104 Main Street,Ballaghbeg,Newcastle,Down,GRAHAM'S ICE CREAM (428/FH/G),Retailers - other,4613,5,,728624,0,,54.21191000000000,304937,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2013-10-04,fhrs_4_en-GB,4,,FHRS,10
-408134,43 High Street,Ballynahinch,Ballynahinch,Down,GRANNY BO'S (643/FH/H),Restaurant/Cafe/Canteen,1,5,,728753,0,,54.40173900000000,305593,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,2013-08-12,fhrs_5_en-GB,5,,FHRS,5
-408135,22 Downpatrick Street,Saintfield Parks,Saintfield,Down,GRANNY JESSIES HOMEMADE FUDGE (426/FH/H),Other catering premises,7841,0,,728768,5,,54.45900200000000,305626,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83153800000000,BT24 7AY,2013-01-25,fhrs_5_en-GB,5,,FHRS,0
-408136,1 Hilltown Road,Fofannyreagh,Hilltown,Down,GREENAN'S STEAKHOUSE (259/FH/H),Restaurant/Cafe/Canteen,1,0,,728693,0,,54.22948000000000,305396,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-6.05281600000000,BT34 5EZ,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-408137,82 Mill Hill,,Castlewellan,Down,GREENVALE HOUSE RESIDENTIAL HOME(366/FH),Hospitals/Childcare/Caring Premises,5,10,,728304,0,,54.26075400000000,302319,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.93283800000000,BT31 9NB,2014-12-11,fhrs_4_en-GB,4,,FHRS,5
-408138,"167, Main Street",Dundrum,,Co Down,GROVES CHEMIST (444/FH/G),Retailers - other,4613,,,728380,,,,302783,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OLY,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408139,"20, Main Street",Newcastle,,Co Down,HALES FRUIT SALES (252/FH/G),Retailers - other,4613,,,728462,,,,303303,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAD,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408140,94 Dundrum Road,Newcastle,,Co Down,HALES FRUIT SALES LTD (714/FH/F),Distributors/Transporters,7,,,728593,,,54.21636500000000,304787,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.92921000000000,BT33,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408141,"Unit 4, Ballydugan Retail Park",Balldugan Road,Downpatrick,Co Down,HALFORDS (246/FH/G),Retailers - other,4613,,,728627,,,54.32395500000000,304953,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72214400000000,BT30 6DR,2014-07-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-408142,Fold Housing Association,Lisburn Street,Ballynahinch,Co Down,HAMILTON FOLD (502/FH/H),Restaurant/Cafe/Canteen,1,0,,728266,5,,54.40368900000000,302057,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89816100000000,BT24 8XJ,2014-09-23,fhrs_5_en-GB,5,,FHRS,0
-408143,"67, Killyleagh Street",Crossgar,,Co Down,HAMILTON'S (63/FH/J),Manufacturers/packers,7839,5,,728349,5,,54.39762100000000,302577,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75814900000000,BT30 9DQ,2013-02-19,fhrs_4_en-GB,4,,FHRS,10
-408144,"26, Market Street",Downpatrick,,Co Down,HANLONS (342/FH/G),Retailers - other,4613,10,,728317,0,,54.32790600000000,302408,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71628300000000,BT30 6LY,2014-12-03,fhrs_4_en-GB,4,,FHRS,10
-408145,"23, Main Street",Ballynahinch,,Co Down,HANNAWIN'S MEDICAL HALL LTD (329/FH),Retailers - other,4613,,,728285,,,54.40346800000000,302192,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408146,Greenhill Ymca,Donard Park,Newcastle,Co Down,HAPPY CHEF CATERING (637A/FH/H),Restaurant/Cafe/Canteen,1,0,,728650,0,,54.20707800000000,305185,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89926900000000,BT33 0HN,2013-08-06,fhrs_5_en-GB,5,,FHRS,5
-408147,48 Main Street,Ballynahinch,Ballynahinch,Down,HAPPY CHILDREN DAY NURSERY (783/FH/H),School/college/university,7845,5,,728677,5,,54.40346800000000,305333,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-408148,"4, South Promenade",Newcastle,,Co Down,HARBOUR HOUSE INN (312/FH/H),Restaurant/Cafe/Canteen,1,5,,728364,5,,54.20210400000000,302700,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89173600000000,BT33 0EX,2013-04-19,fhrs_4_en-GB,4,,FHRS,10
-408149,57a South Promenade,Ballaghbeg,Newcastle,Down,HARBOUR MACE (394/FH/G),Retailers - supermarkets/hypermarkets,7840,10,,728764,5,,54.19883400000000,305618,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88869900000000,BT33 0EY,2013-11-19,fhrs_3_en-GB,3,,FHRS,10
-408150,"22, Main Street",Saintfield,,Co Down,HAZELS (220/FH/G),Retailers - other,4613,,,728547,,,54.46046000000000,304423,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83167700000000,BT24 7AA,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408151,5 Downpatrick Road,,Ardglass,Down,HENDERSON'S SPAR (373/FH/G),Retailers - supermarkets/hypermarkets,7840,0,,728662,0,,54.26601800000000,305278,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.61501300000000,BT30 7SF,2013-03-25,fhrs_5_en-GB,5,,FHRS,0
-408152,"21, High Street",Ballynahinch,,Co Down,HERRON'S COUNTRY FRIED CHICKEN (301/FH,Takeaway/sandwich shop,7844,5,,728267,0,,54.40173900000000,302068,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-408153,"119, Main Street",Newcastle,,Co Down,HERRONS COUNTRY FRIED CHICKEN (41/FH/H),Takeaway/sandwich shop,7844,0,,728467,0,,,303358,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAE,2012-11-16,fhrs_5_en-GB,5,,FHRS,0
-408154,,,,,HILLHOUSE (293/FH/H),Hotel/bed & breakfast/guest house,7842,10,,728345,5,,,302565,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2012-08-22,fhrs_4_en-GB,4,,FHRS,0
-408155,,,,,HILLSIDE B&B (551/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728596,0,,,304798,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-408156,1-5 Castle Avenue,Castlewellan,Castlewellan,Down,HILLYARD HOUSE RESTAURANT (543/FH/H),Restaurant/Cafe/Canteen,1,5,,728580,5,,54.25863600000000,304616,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94241400000000,BT31 9DX,2014-03-14,fhrs_4_en-GB,4,,FHRS,10
-408157,"1, Drumnaconagher Road",Crossgar,,Co Down,HOLY FAMILY PRIMARY SCHOOL (575/FH),School/college/university,7845,0,,728370,0,,54.36951500000000,302731,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.79089000000000,BT30 9AN,2014-06-03,fhrs_4_en-GB,4,,FHRS,10
-408158,45 Dromara Road,Cloghram,Dundrum,Down,HOME FROM HOME DAYCARE (521/FH/H),School/college/university,7845,0,,728683,0,,54.27227500000000,305367,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.85471500000000,BT33 0NS,2013-03-20,fhrs_5_en-GB,5,,FHRS,0
-408159,,,,,HONEY BEE BAKERY (400/FH/H),Other catering premises,7841,5,,728728,0,,,305521,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2012-08-29,fhrs_5_en-GB,5,,FHRS,0
-408160,16a Catherine Street,,Killyleagh,Down,HOT CROSS BAKERY (442/FH/J),Manufacturers/packers,7839,10,,728531,5,,54.39964700000000,304337,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65117100000000,BT30 9QQ,2014-10-01,fhrs_3_en-GB,3,,FHRS,10
-408161,52a Cherryhill Road,Magheratimpany,Ballynahinch,Down,HUGH BANNON (16/FH/G),Retailers - other,4613,5,,728284,10,,54.36436700000000,302182,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88007500000000,BT24 8NW,2013-05-23,fhrs_3_en-GB,3,,FHRS,10
-408162,26 Belfast Road,Ballynahinch,Ballynahinch,Down,HUNTFIELD SERVICE STATION (132/FH/G),Retailers - other,4613,10,,728686,0,,54.40551600000000,305378,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89367800000000,BT24 8DZ,2012-05-31,fhrs_2_en-GB,2,,FHRS,15
-408163,"25, Bath Street",Ardglass,,Co Down,I K MEATS (43/FH/J),Manufacturers/packers,7839,5,,728245,5,,54.26268600000000,301910,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60923400000000,BT30 7SE,2013-02-20,fhrs_5_en-GB,5,,FHRS,5
-408164,"19, St Patrick'S Avenue",Downpatrick,,Co Down,I K MEATS (494/FH/J),Manufacturers/packers,7839,5,,728323,5,,54.32650600000000,302476,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71637600000000,BT30 6DW,2013-02-21,fhrs_5_en-GB,5,,FHRS,5
-408165,"30, High Street",Ballynahinch,,Co Down,ICELAND FROZEN FOODS (254/FH/G),Retailers - supermarkets/hypermarkets,7840,0,,728268,0,,54.40173900000000,302075,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,2014-03-14,fhrs_4_en-GB,4,,FHRS,10
-408166,41 Bryansford Road,Ballaghbeg,Newcastle,Down,ICYCLES NI (699/FH/G),Retailers - other,4613,5,,728774,0,,54.20989600000000,305638,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89593700000000,BT33 0DW,2013-05-01,fhrs_5_en-GB,5,,FHRS,0
-408167,"29, St Patrick'S Drive",Downpatrick,,Co Down,INISCORA/DOWNE RESIDENTIAL PROJECT (437/,Hospitals/Childcare/Caring Premises,5,10,,728328,0,,54.32522000000000,302511,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71680100000000,BT30 6NE,2013-10-09,fhrs_4_en-GB,4,,FHRS,0
-408168,"50, St Patrick'S Avenue",Downpatrick,,Co Down,INISMOR CARE HOME (668/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728326,0,,54.32650600000000,302498,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71637600000000,BT30 6DW,2012-12-11,fhrs_5_en-GB,5,,FHRS,0
-408169,50 Main Street,Ballynahinch,Ballynahinch,Down,INKYDOO (18/FH/H),Other catering premises,7841,,,728654,,,54.40346800000000,305236,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408170,"29-31, Main Street",Ballynahinch,,Co Down,J & N CHARLES NEWSAGENTS (625/FH/G),Retailers - other,4613,,,728286,,,54.40346800000000,302196,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408171,54 Main Street,Saintfield Parks,Saintfield,Down,JACKSON LIFESTYLES (727/FH/H),Restaurant/Cafe/Canteen,1,5,,728603,0,,54.46028800000000,304841,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83410700000000,BT24 7AB,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-408172,7-9 Killyleagh Street,Crossgar,Crossgar,Down,JAMES NICHOLSON WINE MERCHANTS (144/FH),Retailers - other,4613,,,728347,,,54.39762100000000,302569,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75814900000000,BT30 9DQ,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408173,73a Annacloy Road,Rossconor,Downpatrick,Down,JAVAMAN COFFEE (262/FH/G),Retailers - other,4613,0,,728803,0,,54.36699400000000,305731,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.78423900000000,BT30 9AJ,2014-02-19,fhrs_5_en-GB,5,,FHRS,0
-408174,21-23 Killyleagh Street,Crossgar,Crossgar,Down,JAYS COFFEE SHOP AT CENTRAL GARAGES (51/,Restaurant/Cafe/Canteen,1,5,,728697,5,,54.39762100000000,305404,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75814900000000,BT30 9DQ,2013-12-05,fhrs_5_en-GB,5,,FHRS,0
-408175,"5, The Square",Ballynahinch,,Co Down,JOE HANNA'S (MACE) (212/FH/G),Retailers - other,4613,5,,728288,10,,54.40192200000000,302210,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89680300000000,BT24 8AE,2013-04-23,fhrs_4_en-GB,4,,FHRS,5
-408176,Unit 9_63a Castlewellan Road,Newcastle,,Co Down,JOE'S ICES (198/FH/G),Retailers - other,4613,0,,728743,0,,54.22947400000000,305559,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90101500000000,BT33 0JX,2012-07-04,fhrs_5_en-GB,5,,FHRS,0
-408177,"6, Main Street",Newcastle,,Co Down,JOE'S QUALITY MEATS (62/FH/J),Manufacturers/packers,7839,0,,728460,5,,,303295,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAD,2013-08-29,fhrs_5_en-GB,5,,FHRS,5
-408178,1e Station Road,Crossgar,Crossgar,Down,JOHN COLGAN'S (82/FH/G),Retailers - other,4613,0,,728519,5,,54.39600900000000,304235,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76234800000000,BT30 9EB,2013-05-28,fhrs_5_en-GB,5,,FHRS,5
-408179,7 Central Promenade,Newcastle,,Co Down,JOHN MAC'S (288/FH/H),Takeaway/sandwich shop,7844,5,,728582,0,,54.20940300000000,304620,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89144000000000,BT33 0AA,2015-01-09,fhrs_5_en-GB,5,,FHRS,5
-408180,71-73 Main Street,Castlewellan,,Co Down,JR'S DISCOUNT STORE (230/FH/G),Retailers - supermarkets/hypermarkets,7840,,,728301,,,54.25775700000000,302298,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94302600000000,BT31 9DQ,2013-05-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-408181,32a Crossgar Road,Saintfield Parks,Saintfield,Down,JUST KIDS (536/FH/H),Other catering premises,7841,5,,728530,0,,54.45886400000000,304325,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82934000000000,BT24 7AS,2014-07-24,fhrs_5_en-GB,5,,FHRS,0
-408182,66 Main Street,Saintfield Parks,Saintfield,Down,KATIE JAYNES (424/FH/H),Restaurant/Cafe/Canteen,1,10,,728777,0,,54.46028800000000,305646,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83410700000000,BT24 7AB,2014-02-18,fhrs_4_en-GB,4,,FHRS,10
-408183,121 Crawfordstown Road,Drumaness,Drumaness,Down,KELLYS QUALITY MEATS (527/FH/J),Manufacturers/packers,7839,10,,728760,5,,54.36629600000000,305611,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84795300000000,BT24 8NA,2013-02-28,fhrs_4_en-GB,4,,FHRS,5
-408184,100-102 Main Street,Newcastle,,Co Down,KENTUCKY FRIED CHICKEN (284/FH/H),Restaurant/Cafe/Canteen,1,5,,728466,5,,54.21191000000000,303351,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2014-04-18,fhrs_4_en-GB,4,,FHRS,10
-408185,21 Chapel Lane,Drumaroad,Castlewellan,Down,KIDS KABIN PRESCHOOL & PLAYGROUP (741/FH,School/college/university,7845,0,,728725,0,,54.32216800000000,305509,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89681800000000,BT31 9PQ,2013-11-12,fhrs_5_en-GB,5,,FHRS,0
-408186,Newcastle Centre,10-14 Central Promenade,Newcastle,Co Down,KIDS WORLD (116/FH/H),School/college/university,7845,,,728649,,,54.20940400000000,305184,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89144000000000,BT33 0AA,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408187,At St Joseph'S Primary School,58 Main Street,Killough,Co Down,KILLOUGH PLAYGROUP (185/FH/H),School/college/university,7845,10,,728800,10,,54.25705900000000,305714,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64567400000000,BT30 7QD,2014-06-26,fhrs_3_en-GB,3,,FHRS,5
-408188,12 Shrigley Road,,Killyleagh,Down,KILLYLEAGH EARLY YEARS PLAYGROUP (357/FH,School/college/university,7845,10,,728821,5,,54.40578200000000,305782,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65749000000000,BT30 9SR,2014-11-28,fhrs_3_en-GB,3,,FHRS,10
-408189,"14, Shore Road",Killyleagh,,Co Down,KILLYLEAGH OUTDOOR EDUCATION CENTRE (538,Other catering premises,7841,0,,728409,0,,54.39100000000000,302955,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65559200000000,BT30 9UE,2013-06-12,fhrs_5_en-GB,5,,FHRS,0
-408190,"12, Shrigley Road",Killyleagh,,Co Down,KILLYLEAGH PRIMARY SCHOOL (613/FH),School/college/university,7845,0,,728410,0,,54.40578200000000,302958,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65749000000000,BT30 9SR,2014-06-04,fhrs_5_en-GB,5,,FHRS,5
-408191,22a Cuan Beach,Corporation,Killyleagh,Down,KILLYLEAGH YACHT CLUB (487/FH/H),Retailers - other,4613,5,,728406,0,,54.39492800000000,302932,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64782200000000,BT30 9QU,2013-07-02,fhrs_5_en-GB,5,,FHRS,0
-408192,16-18 Kilmore Village,Crossgar,,Co Down,KILMORE POST OFFICE/TODAY'S LOCAL (470/F,Retailers - other,4613,,,728414,,,54.38493700000000,302978,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.77442000000000,BT30 9HP,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408193,6 Market Lane,Demesne Of Down Acre,Downpatrick,Down,KIM ON INN (365/FH/H),Restaurant/Cafe/Canteen,1,5,,728644,5,,54.32778800000000,305140,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71624300000000,BT30 6TH,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-408194,Kildare Street,Ardglass,,Co Down,KINGS CASTLE NURSING HOME (24/FH/H),Hospitals/Childcare/Caring Premises,5,20,,728251,15,,54.25970500000000,301943,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60799400000000,BT30 7TR,2014-09-08,fhrs_1_en-GB,1,,FHRS,10
-408195,"28, Lower Square",Castlewellan,,Co Down,KING'S INN (272/FH/H),Restaurant/Cafe/Canteen,1,5,,728296,5,,54.25663100000000,302259,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94444700000000,BT31 9DW,2013-06-19,fhrs_5_en-GB,5,,FHRS,5
-408196,,,,,KINLAR CAKES (480/FH/H),Other catering premises,7841,0,,728758,0,,,305605,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2013-06-13,fhrs_5_en-GB,5,,FHRS,0
-408197,6 Comber Road,Glasdrumman,Saintfield,Down,KIRK BUTCHERS (57/FH/J),Manufacturers/packers,7839,5,,728687,5,,54.46419100000000,305380,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83075500000000,BT24 7BB,2014-09-24,fhrs_4_en-GB,4,,FHRS,10
-408198,"33, Race Course Hill",Downpatrick,,Co Down,KNOCKEVIN SPECIAL SCHOOL (570/FH),School/college/university,7845,0,,728393,0,,54.31963100000000,302859,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71205400000000,BT30 6PU,2013-06-14,fhrs_5_en-GB,5,,FHRS,0
-408199,69-77 Belfast Road,Ballynahinch,Ballynahinch,Down,KUNG FOOD (517/FH/H),Takeaway/sandwich shop,7844,10,,728799,5,,54.40760000000000,305711,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89468000000000,BT24 8EB,2014-02-11,fhrs_4_en-GB,4,,FHRS,5
-408200,"15, Kildare Street",Ardglass,,Co Down,L H WILLS & SONS (44/FH/J),Manufacturers/packers,7839,10,,728250,10,,54.25970500000000,301940,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60799400000000,BT30 7TR,2013-02-26,fhrs_3_en-GB,3,,FHRS,10
-408201,42 Clanmaghery Road,Rathmullan Lower,Downpatrick,Down,LA GNOSCA (773/FH/H),Other catering premises,7841,20,,728788,15,,54.25382600000000,305680,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.74539500000000,BT30 8SU,2014-03-13,fhrs_1_en-GB,1,,FHRS,15
-408202,"25, Lake Road",Downpatrick,,Co Down,LAKESIDE INN (631/FH/H),Pub/bar/nightclub,7843,,,728446,,,54.30936700000000,303241,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75983100000000,BT30 8HY,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408203,26 Strangford Road,Demesne Of Down Acre,Downpatrick,Down,LECALE LODGE CARE HOME (109/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728517,5,,54.33932200000000,304232,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70843800000000,BT30 6SL,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-408204,"167, Ballynoe Road",Downpatrick,,Co Down,LEGAMADDY PRIMARY SCHOOL (574/FH),School/college/university,7845,5,,728395,0,,54.36951500000000,302872,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.79089000000000,BT30 9AN,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-408205,"1, Newcastle Road",Castlewellan,,Co Down,LENNON & SON (780/FH/G),Retailers - other,4613,0,,728305,0,,54.23639300000000,302320,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.92016000000000,BT31 9GJ,2014-03-18,fhrs_5_en-GB,5,,FHRS,5
-408206,Windmill Lane,Harmony Road,Ballynahinch,Co Down,LIDL (476/FH/G),Retailers - supermarkets/hypermarkets,7840,0,,728490,0,,,303887,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT24 8DW,2012-03-13,fhrs_5_en-GB,5,,FHRS,0
-408207,2 Railway Street,Ballaghbeg,Newcastle,Down,LIDL NORTHERN IRELAND (59/FH/G),Retailers - supermarkets/hypermarkets,7840,0,,728493,0,,54.21487900000000,303955,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88803300000000,BT33 0AL,2012-03-23,fhrs_5_en-GB,5,,FHRS,5
-408208,96-100 Market Street,Downpatrick,,Co Down,LIDL NORTHERN IRELAND GMBH (92/FH/G),Retailers - supermarkets/hypermarkets,7840,0,,728492,0,,54.32632000000000,303950,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2014-10-13,fhrs_5_en-GB,5,,FHRS,5
-408209,2 Cross Street,Corporation,Killyleagh,Down,LIGHT 'N' LIFE CROSS CENTRE (685/FH/H),Other catering premises,7841,10,,728763,5,,54.40054800000000,305617,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64987200000000,BT30 9QG,2014-02-19,fhrs_4_en-GB,4,,FHRS,0
-408210,26 Main Street,Castlewellan,,Co Down,LIMONI'S (767/FH/H),Takeaway/sandwich shop,7844,5,,728672,5,,54.25813700000000,305323,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94055100000000,BT31 9DG,2014-04-24,fhrs_4_en-GB,4,,FHRS,10
-408211,"11, Shore Road",Killyleagh,,Co Down,LITTLE NIPPERS CRECHE (143/FH/H),School/college/university,7845,5,,728501,0,,54.39100000000000,304121,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65559200000000,BT30 9UE,2014-07-31,fhrs_5_en-GB,5,,FHRS,5
-408212,37 King Street,Ballaghbeg,Newcastle,Down,LITTLE WHITE PIZZA TRUCK (662/FH/H),Other catering premises,7841,5,,728771,0,,54.19918500000000,305633,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89081100000000,BT33 0HD,2013-05-16,fhrs_5_en-GB,5,,FHRS,0
-408213,35 Racecourse Hill,Demesne Of Down Acre,Downpatrick,Down,LITTLEONES DAY NURSERY (126/FH/H),School/college/university,7845,5,,728515,0,,54.31963100000000,304220,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71205400000000,BT30 6PU,2015-01-27,fhrs_5_en-GB,5,,FHRS,0
-408214,"5, Scotch Street",Downpatrick,,Co Down,LJC WINES & SPIRITS LTD (TURLEY'S) (274/,Pub/bar/nightclub,7843,,,728394,,,54.32906100000000,302861,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71512800000000,BT30 6AQ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408215,38 Market Street,Demesne Of Down Acre,Downpatrick,Down,LONE STAR PIZZA (90/FH/H),Takeaway/sandwich shop,7844,5,,728637,0,,54.32790600000000,305075,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71628300000000,BT30 6LY,2013-06-25,fhrs_5_en-GB,5,,FHRS,5
-408216,35 Loughinisland Road,Tievenadarragh,Downpatrick,Down,LOUGHINISLAND CROSS COMMUNITY PLAYGROUP,School/college/university,7845,5,,728780,0,,54.33823500000000,305655,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82050900000000,BT30 8PZ,2013-09-13,fhrs_5_en-GB,5,,FHRS,0
-408217,"26, Main Street",Saintfield,,Co Down,LUCKY BOAT (243/FH/H),Restaurant/Cafe/Canteen,1,5,,728440,5,,54.46046000000000,303174,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83167700000000,BT24 7AA,2013-07-26,fhrs_5_en-GB,5,,FHRS,5
-408218,112a Market Street,Demesne Of Down Acre,Downpatrick,Down,LUCKY FISH (308/FH/H),Takeaway/sandwich shop,7844,10,,728756,10,,54.32632000000000,305597,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2013-11-08,fhrs_3_en-GB,3,,FHRS,10
-408219,Unit 5 - Ballymote Centre,40 Killough Road,Downpatrick,Co Down,LUCY ANNIE'S BAKERY & COFFEE HOUSE (306/,Manufacturers/packers,7839,5,,728719,0,,54.31519700000000,305497,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70901100000000,BT30 6PY,2012-04-12,fhrs_5_en-GB,5,,FHRS,0
-408220,12 Church View,Dundrum,Dundrum,Down,M & M CATERING (320A/FH/H,Other catering premises,7841,10,,728513,0,,54.25747700000000,304205,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84725700000000,BT33 0NA,2011-03-24,fhrs_4_en-GB,4,,FHRS,5
-408221,14 Scotch Street,Demesne Of Down Acre,Downpatrick,Down,MACE (389/FH/G),Retailers - supermarkets/hypermarkets,7840,,,728560,,,54.32906100000000,304518,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71512800000000,BT30 6AQ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408222,41a Annacloy Road,Annacloy,Downpatrick,Down,MACE FOOD CENTRE (4/FH/G),Retailers - other,4613,10,,728335,5,,54.35813600000000,302523,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75370000000000,BT30 9AE,2013-07-29,fhrs_4_en-GB,4,,FHRS,5
-408223,19/23 Downpatrick Street,Crossgar,,Co Down,MACE SUPERMARKET (7/FH/G),Retailers - supermarkets/hypermarkets,7840,10,,728338,5,,54.39619300000000,302543,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76110600000000,BT30 9EA,2014-03-31,fhrs_3_en-GB,3,,FHRS,10
-408224,"71, South Promenade",Newcastle,,Co Down,MACKEN'S BAR (266/FH/G),Pub/bar/nightclub,7843,,,728367,,,,302708,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OEY,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408225,28 Carlisle Avenue,Ballynahinch,Ballynahinch,Down,MADEX'S TASTY TREATS (665/FH/H),Other catering premises,7841,5,,728790,5,,54.39919900000000,305689,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88750300000000,BT24 8PH,2014-01-03,fhrs_5_en-GB,5,,FHRS,0
-408226,18a Drumee Road,Dundrinne,Castlewellan,Down,MAGIC KINGDOM DAY NURSERY (537/FH/H),School/college/university,7845,5,,728585,0,,54.24971300000000,304646,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.93346700000000,BT31 9HQ,2015-01-26,fhrs_5_en-GB,5,,FHRS,5
-408227,9-11 Main Street,Castlewellan,Castlewellan,Down,MAGINN'S BARS (117/FH/H),Restaurant/Cafe/Canteen,1,5,,728298,5,,54.25835700000000,302267,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94130700000000,BT31 9DF,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-408228,86 Main Street,Saintfield Parks,Saintfield,Down,MAIN STREET DINER (297/FH/H),Restaurant/Cafe/Canteen,1,10,,728610,0,,54.46028800000000,304880,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83410700000000,BT24 7AB,2014-06-12,fhrs_4_en-GB,4,,FHRS,10
-408229,28 Killough Road,Demesne Of Down Acre,Downpatrick,Down,MAINSTAY DRP (167/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728710,0,,54.31519600000000,305451,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70901100000000,BT30 6PY,2013-08-20,fhrs_5_en-GB,5,,FHRS,0
-408230,Unit 1 - Down Business Park,46 Belfast Road,Downpatrick,Co Down,MANGE TOUT CAFE/DELI/PATISSERIE (766/FH/,Restaurant/Cafe/Canteen,1,10,,728671,10,,54.34510800000000,305322,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.73553900000000,BT30 9UP,2014-07-03,fhrs_4_en-GB,4,,FHRS,0
-408231,"81, Market Street",Downpatrick,,Co Down,MARKET STREET CHILDREN & DISABILITY SERV,Other catering premises,7841,10,,728320,0,,54.32632000000000,302446,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2012-04-30,fhrs_4_en-GB,4,,FHRS,5
-408232,7 Glenview Road,Ballymacaramery,Ballynahinch,Down,MARKO'S ICES_ICE CREAM VAN (166/FH/G),Retailers - other,4613,10,,728762,10,,54.42092400000000,305616,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.86800200000000,BT24 8YA,2013-07-24,fhrs_4_en-GB,4,,FHRS,0
-408233,"8, Clarkhill Road",Castlewellan,,Co Down,MARTIN'S GROCERY STORE (333/FH/G),Retailers - other,4613,10,,728292,10,,54.27079700000000,302240,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.93050900000000,BT31 9BJ,2012-08-15,fhrs_4_en-GB,4,,FHRS,0
-408234,8 Lawnfield Court,Newcastle,,Co Down,MARY MURRAY HOUSE(AUTISM INITIATIVES)15/,Hospitals/Childcare/Caring Premises,5,5,,728537,0,,54.20402400000000,304372,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89467300000000,BT33 0SF,2014-04-16,fhrs_4_en-GB,4,,FHRS,10
-408235,11 Crossgar Road,,Saintfield,Down,MAXOL GARAGE (SPAR) (141/FH/G,Retailers - other,4613,10,,728436,5,,54.45886300000000,303129,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82933900000000,BT24 7AS,2014-05-20,fhrs_3_en-GB,3,,FHRS,10
-408236,7-9 Main Street,Saintfield Parks,Saintfield,Down,MAYFLOWER (322/FH/H),Takeaway/sandwich shop,7844,10,,728562,0,,54.46046000000000,304529,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83167700000000,BT24 7AA,2014-03-25,fhrs_4_en-GB,4,,FHRS,5
-408237,"44, Downpatrick Street",Crossgar,,Co Down,MCCARTHYS SANDWICH BAR (150/FH/H),Takeaway/sandwich shop,7844,10,,728341,10,,54.39619300000000,302553,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76110600000000,BT30 9EA,2013-09-04,fhrs_4_en-GB,4,,FHRS,0
-408238,Downe Retail Park,Ballydugan Road,Downpatrick,Co Down,MCDONALDS RESTAURANT (492/FH/H),Restaurant/Cafe/Canteen,1,0,,728798,0,,54.32395500000000,305710,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72214400000000,BT30 6DR,2013-11-18,fhrs_5_en-GB,5,,FHRS,5
-408239,"C/O Asda, Ballydugan Road",,Downpatrick,Down,MCGEE'S BUTCHER (723/FH/J),Manufacturers/packers,7839,0,,728766,5,,54.32484400000000,305624,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72025000000000,BT30 6AJ,2012-01-18,fhrs_5_en-GB,5,,FHRS,5
-408240,Unit 2 - The Ballymote Centre,,Downpatrick,Co Down,MCGREEVY'S BUTCHERS (134/FH/J),Manufacturers/packers,7839,5,,728315,5,,,302383,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT30 6YP,2013-02-22,fhrs_5_en-GB,5,,FHRS,5
-408241,"47, High Street",Ballynahinch,,Co Down,MCMULLAN'S WINE STORE (449/FH/G),Retailers - other,4613,,,728270,,,54.40173900000000,302084,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408242,South Eastern Regional College,110 Market Street,Downpatrick,Co Down,MCNEILL ROOM TRAINING RESTAURANT (187/FH,Restaurant/Cafe/Canteen,1,10,,728646,5,,,305149,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT30 6NB,2014-03-24,fhrs_4_en-GB,4,,FHRS,0
-408243,"27, Church Street",Downpatrick,,Co Down,MEADOWSIDE FILLING STATION (128/FH/G),Retailers - other,4613,,,728428,,,54.33154700000000,303069,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71545100000000,BT30 6EH,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408244,"34, St Patrick'S Avenue",Downpatrick,,Co Down,MEDICARE (DEENY'S) PHARMACY (304/FH/G),Retailers - other,4613,,,728550,,,54.32633100000000,304428,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71667800000000,BT30 6DW,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408245,"49, Central Promenade",Newcastle,,Co Down,MEDICARE THORNTONS (484/FH/G),Retailers - other,4613,,,728546,,,54.20748100000000,304422,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89248900000000,BT33 0HH,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408246,52a Trassey Road,Clonachullion,Newcastle,Down,MEELMORE LODGE (96/FH/H),Restaurant/Cafe/Canteen,1,10,,728496,0,,54.21241900000000,303970,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.99165400000000,BT33 0QB,2013-07-17,fhrs_4_en-GB,4,,FHRS,5
-408247,"5, Drumaness Road",Ballynahinch,,Co Down,MILLBROOK LODGE HOTEL (307/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728384,5,,54.33117600000000,302804,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88067600000000,BT24 8NS,2013-10-28,fhrs_4_en-GB,4,,FHRS,10
-408248,11 High Street,Ardglass,Ardglass,Down,MILLIGAN'S (239/FH/G),Retailers - other,4613,10,,728722,10,,54.26034400000000,305504,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.61168700000000,BT30 7TU,2013-05-29,fhrs_3_en-GB,3,,FHRS,5
-408249,68 Minerstown Road,Ballyvaston,Downpatrick,Down,MINERSTOWN TAVERN (325/FH/H),Pub/bar/nightclub,7843,5,,728622,5,,54.25358100000000,304926,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72136100000000,BT30 8LS,2013-03-14,fhrs_5_en-GB,5,,FHRS,0
-408250,,,,,MONTALTO HOUSE (722/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728643,5,,,305138,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2013-07-08,fhrs_5_en-GB,5,,FHRS,0
-408251,36 Main Street,Castlewellan,Castlewellan,Down,MOONEY BROS BAR & LOUNGE (152/FH/H),Pub/bar/nightclub,7843,,,728584,,,54.25813700000000,304644,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94055100000000,BT31 9DG,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408252,"16, Irish Street",Downpatrick,,Co Down,MOONEY'S CHEMIST (207/FH/G),Retailers - other,4613,,,728551,,,54.32882100000000,304444,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71524900000000,BT30 6BP,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408253,69-77 Belfast Road,Ballynahinch,Ballynahinch,Down,MORRISON'S VIVOXTRA (130/FH/G),Retailers - other,4613,5,,728278,5,,54.40760000000000,302153,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89468000000000,BT24 8EB,2014-01-08,fhrs_5_en-GB,5,,FHRS,0
-408254,1 Ballynahinch Road,Saintfield Parks,Saintfield,Down,MORRISON'S VIVOXTRA (611/FH/G),Retailers - supermarkets/hypermarkets,7840,0,,728749,10,,54.45763600000000,305581,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83959800000000,BT24 7AE,2013-02-12,fhrs_4_en-GB,4,,FHRS,10
-408255,,,,,MOUNTAIN & SEA B&B (657/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728505,5,,,304157,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2012-05-15,fhrs_5_en-GB,5,,FHRS,5
-408256,9a Flying Horse Road,Demesne Of Down Acre,Downpatrick,Down,MOUNTVIEW ADULT RESOURCE CENTRE (170/,Other catering premises,7841,5,,728392,0,,54.31985300000000,302831,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70012900000000,BT30 6QW,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-408257,12-14 Castlewellan Road,Murlough Upper,Newcastle,Down,MOURNE FRESH FOODS (192/FH/G),Retailers - supermarkets/hypermarkets,7840,0,,728545,0,,54.21748700000000,304420,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89121200000000,BT33 0DB,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-408258,10 Main Street,Dundrum,Dundrum,Down,MOURNE SEAFOOD BAR (412/FH/H),Restaurant/Cafe/Canteen,1,10,,728561,0,,54.25849100000000,304526,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84263100000000,BT33 0LU,2013-08-07,fhrs_4_en-GB,4,,FHRS,10
-408259,15 Sheepland Road,Ardtole,Ardglass,Down,MR JINGLES/BO'S ICES (728/FH/G),Retailers - other,4613,0,,728607,0,,54.28076000000000,304864,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.58191100000000,BT30 7SN,2012-05-03,fhrs_5_en-GB,5,,FHRS,0
-408260,,,,,MRS MARSHMALLOW (50/FH/H),Other catering premises,7841,5,,734341,5,,,305846,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2015-01-16,fhrs_5_en-GB,5,,FHRS,0
-408261,48 Church Street,Demesne Of Down Acre,Downpatrick,Down,MULLANS BAR (175/FH/H),Pub/bar/nightclub,7843,10,,728631,0,,54.33106600000000,305042,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71613900000000,BT30 6EJ,2012-11-09,fhrs_4_en-GB,4,,FHRS,10
-408262,78 Market Street,Demesne Of Down Acre,Downpatrick,Down,MURPHY'S BAR & RESTAURANT (158/FH/H),Restaurant/Cafe/Canteen,1,,,728721,,,54.32632000000000,305503,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2014-01-06,fhrs_4_en-GB,4,,FHRS,
-408263,"59, Main Street",Saintfield,,Co Down,N & R GORDON CHEMISTS (443/FH/G),Retailers - other,4613,,,728443,,,54.46028800000000,303196,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83410700000000,BT24 7AB,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408264,The Mill Field,Rossglass Road,Killough,Co Down,NAISCOIL CHILL LOCHA (771/FH/H),School/college/university,7845,0,,728675,0,,54.25213800000000,305327,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64125800000000,BT30 7QQ,2012-09-27,fhrs_5_en-GB,5,,FHRS,0
-408265,Castleward Estate,Strangford,,Co Down,NATIONAL TRUST CASTLEWARD COACH-HOUSE,Restaurant/Cafe/Canteen,1,0,,728775,0,,54.37218600000000,305641,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.58151000000000,BT30 7LS,2013-10-09,fhrs_5_en-GB,5,,FHRS,0
-408266,34-36 Downs Road,,Newcastle,Down,NEW CINNAMON INDIAN RESTAURANT,Restaurant/Cafe/Canteen,1,5,,734340,0,,54.21264400000000,305787,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88816200000000,BT33 0AG,2014-12-10,fhrs_5_en-GB,5,,FHRS,0
-408267,2 Struell Wells Road,,Downpatrick,Down,NEW DOWNE HOSPITAL (122/FH/H),Hospitals/Childcare/Caring Premises,5,10,,728555,0,,54.32295400000000,304499,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.68751900000000,BT30 6RL,2014-03-11,fhrs_4_en-GB,4,,FHRS,0
-408268,Unit 1 Ballydugan Retail Park,Ballydugan Road,Downpatrick,Co Down,NEW LOOK RETAILERS (772/FH/G),Retailers - other,4613,,,728652,,,54.32395500000000,305204,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72214400000000,BT30 6DR,2012-02-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-408269,10-14 Central Promenade,Newcastle,,Co Down,NEWCASTLE PRESCHOOL PLAYGROUP (227/FH/H),School/college/university,7845,5,,728723,5,,54.20940400000000,305507,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89144000000000,BT33 0AA,2013-09-19,fhrs_5_en-GB,5,,FHRS,0
-408270,17a Shimna Road,Murlough Upper,Newcastle,Down,NEWCASTLE PRIMARY SCHOOL (612/FH),School/college/university,7845,0,,728474,0,,54.21529700000000,303402,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89032700000000,BT33 0AS,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-408271,12-14 South Promenade,Newcastle,,Co Down,NEWCASTLE YACHT CLUB LTD (483/FH/H/ ),Retailers - other,4613,,,728365,,,54.20210400000000,302701,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89173600000000,BT33 0EX,2014-09-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-408272,107 Central Promenade,Ballaghbeg,Newcastle,Down,NIKI'S KITCHEN CAFE (798/FH/H),Restaurant/Cafe/Canteen,1,0,,728745,10,,54.20642700000000,305573,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89337000000000,BT33 0EU,2013-07-05,fhrs_4_en-GB,4,,FHRS,10
-408273,Unit 5 - Eclipse Cinema,Owenbeg Avenue,Downpatrick,Co Down,NORMA J'S (331/FH/H),Restaurant/Cafe/Canteen,1,0,,728711,0,,54.32339300000000,305460,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71381300000000,BT30 6FJ,2014-05-22,fhrs_5_en-GB,5,,FHRS,0
-408274,1 Todds Hill,Saintfield Parks,Saintfield,Down,NORR AND BROWN (674/FH/J),Manufacturers/packers,7839,5,,728731,5,,54.46050700000000,305528,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82979300000000,BT24 7AR,2014-01-31,fhrs_5_en-GB,5,,FHRS,5
-408275,,,,,NUMBER 10 (295/FH/H),Hotel/bed & breakfast/guest house,7842,,,728425,,,,303051,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408276,,,,,NUTGROVE HOUSE (129/FH/H),Hotel/bed & breakfast/guest house,7842,0,,728769,0,,,305627,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2013-02-05,fhrs_5_en-GB,5,,FHRS,0
-408277,43-47 Main Street,Castlewellan,Castlewellan,Down,OAK GRILL (161/FH/H),Restaurant/Cafe/Canteen,1,0,,728565,0,,54.25775700000000,304558,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94302600000000,BT31 9DQ,2014-05-27,fhrs_5_en-GB,5,,FHRS,0
-408278,"52, Market Street",Downpatrick,,Co Down,OAKLEY FAYRE (72/FH/H),Restaurant/Cafe/Canteen,1,10,,728319,10,,54.32790600000000,302431,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71628300000000,BT30 6LY,2013-09-25,fhrs_3_en-GB,3,,FHRS,10
-408279,14 Magheraknock Road,,Ballynahinch,Down,OAKRIDGE CARE HOME (369/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728272,5,,54.41742500000000,302113,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.91098400000000,BT24 8TJ,2014-11-20,fhrs_4_en-GB,4,,FHRS,10
-408280,29-33 Dromore Street,Ballynahinch,Ballynahinch,Down,OASIS BAR & GRILL (510/FH/H),Restaurant/Cafe/Canteen,1,5,,728792,5,,54.40036900000000,305698,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89893100000000,BT24 8AG,2014-02-13,fhrs_4_en-GB,4,,FHRS,10
-408281,30a Main Street,Castlewellan,,Co Down,OCEAN PALACE (454/FH/H),Takeaway/sandwich shop,7844,10,,728681,10,,54.25813700000000,305352,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94055100000000,BT31 9DG,2014-07-03,fhrs_3_en-GB,3,,FHRS,10
-408282,13a Chapel Lane,Drumaroad,Castlewellan,Co Down,O'CONNOR'S (758/FH/G),Retailers - other,4613,,,728703,,,54.32216800000000,305425,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89681800000000,BT31 9PQ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408283,121 Drumaness Road,Cumber,Drumaness,Down,O'HARE'S EUROSPAR DRUMANESS (151/FH/G),Retailers - supermarkets/hypermarkets,7840,10,,728822,0,,54.36859200000000,305784,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.85274200000000,BT24 8RL,2014-12-10,fhrs_4_en-GB,4,,FHRS,10
-408284,"121, Central Promenade",Newcastle,,Co Down,O'HARES LOUNGE BARS-CENTRAL PARK (314/FH,Restaurant/Cafe/Canteen,1,10,,728360,5,,54.20642700000000,302672,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89337000000000,BT33 0EU,2014-06-13,fhrs_3_en-GB,3,,FHRS,10
-408285,67a South Promenade,Ballaghbeg,Newcastle,Down,OLIVE BIZARRE (720/FH/H),Restaurant/Cafe/Canteen,1,5,,728656,0,,54.19883300000000,305252,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88869900000000,BT33 0EY,2013-07-22,fhrs_5_en-GB,5,,FHRS,5
-408286,46-48 Main Street,Castlewellan,,Co Down,ON A ROLL (440/FH/H),Restaurant/Cafe/Canteen,1,0,,728789,0,,54.25775700000000,305688,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94302600000000,BT31 9DQ,2013-12-10,fhrs_5_en-GB,5,,FHRS,0
-408287,"7, The Square",Clough,,Co Down,ORCHARD GROVE RESIDENTIAL HOME (367/FH),Hospitals/Childcare/Caring Premises,5,5,,728448,0,,54.29097800000000,303250,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83887400000000,BT30 8RB,2013-03-11,fhrs_5_en-GB,5,,FHRS,5
-408288,1-3 Edward Street,,Downpatrick,Down,OUR LADY & ST PATRICK'S PRIMARY SCHOOL (,School/college/university,7845,0,,728391,5,,54.32634900000000,302830,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70862100000000,BT30 6JD,2013-03-22,fhrs_5_en-GB,5,,FHRS,5
-408289,40 Old Belfast Road,Lisdalgan,Saintfield,Down,PADDINGTON LODGE NURSERY (196/FH/H),School/college/university,7845,5,,728514,5,,54.46944000000000,304206,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84744600000000,BT24 7DG,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-408290,"37, Mearne Road",Downpatrick,,Co Down,PADDY'S BARN (SLOAN) LTD (194/FH/H),Restaurant/Cafe/Canteen,1,0,,728543,5,,54.34275700000000,304408,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.67335000000000,BT30 6SY,2013-01-11,fhrs_5_en-GB,5,,FHRS,5
-408291,,,,,PADDY'S SLEEPY ORCHARD (644/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728619,0,,,304921,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2013-04-03,fhrs_5_en-GB,5,,FHRS,0
-408292,6c Church Street,Demesne Of Down Acre,Downpatrick,Down,PANDA CHINA (655/FH/H),Takeaway/sandwich shop,7844,10,,728524,15,,54.33106600000000,304276,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71613900000000,BT30 6EJ,2012-05-01,fhrs_2_en-GB,2,,FHRS,10
-408293,,,,,PANNY'S KITCHEN (392/FH/H),Other catering premises,7841,5,,728694,0,,,305398,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2014-04-08,fhrs_5_en-GB,5,,FHRS,0
-408294,"14, Main Street",Newcastle,,Co Down,PARISH CENTRE (503/FH/H),Restaurant/Cafe/Canteen,1,0,,728461,0,,,303301,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAD,2014-06-12,fhrs_4_en-GB,4,,FHRS,10
-408295,20 St. Patrick'S Avenue,Demesne Of Down Acre,Downpatrick,Down,PASSAGE TO INDIA (261/FH/H),Takeaway/sandwich shop,7844,10,,728495,5,,54.32633100000000,303963,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71667800000000,BT30 6DW,2014-02-13,fhrs_4_en-GB,4,,FHRS,5
-408296,41 Main Street,,Castlewellan,Down,PAULA'S (391/FH/G),Retailers - other,4613,5,,728300,0,,54.25775700000000,302282,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94302500000000,BT31 9DQ,2015-01-07,fhrs_5_en-GB,5,,FHRS,5
-408297,169 Main Street,Dundrum,Dundrum,Down,PAWS 4 TEA (113/FH/H),Restaurant/Cafe/Canteen,1,5,,728698,5,,54.25612500000000,305407,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84798800000000,BT33 0LY,2014-08-05,fhrs_4_en-GB,4,,FHRS,10
-408298,"28, Railway Street",Newcastle,,Co Down,PEKING CORNER (349/FH/H),Takeaway/sandwich shop,7844,10,,728473,5,,,303392,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAL,2014-01-06,fhrs_4_en-GB,4,,FHRS,5
-408299,Unit 6 - Ballymote Centre,40 Killough Road,Downpatrick,,PEKING GARDEN (422/FH/H),Takeaway/sandwich shop,7844,10,,728516,10,,54.31519600000000,304228,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70901100000000,BT30 6PY,2013-08-06,fhrs_2_en-GB,2,,FHRS,15
-408300,17 Cross Street,Corporation,Killyleagh,Down,PEKING GARDEN (6/FH/H),Takeaway/sandwich shop,7844,5,,728567,5,,54.40054800000000,304567,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64987200000000,BT30 9QG,2014-04-23,fhrs_5_en-GB,5,,FHRS,5
-408301,22 Lisburn Street,Ballynahinch,Ballynahinch,Down,PEKING GARDEN (730/FH/H),Takeaway/sandwich shop,7844,10,,728772,5,,54.40340600000000,305635,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89840600000000,BT24 8BD,2013-12-09,fhrs_4_en-GB,4,,FHRS,5
-408302,38a Downs Road,Newcastle,,Co Down,PERCY FRENCH BAR/RESTAURANT (107/FH),Restaurant/Cafe/Canteen,1,10,,728454,5,,54.21264400000000,303284,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88816300000000,BT33 0AG,2013-05-08,fhrs_4_en-GB,4,,FHRS,5
-408303,37 Killyleagh Road,Ballygally,Downpatrick,Down,PHEASANTS HILL FARM/IVY CATERING (735/FH,Other catering premises,7841,5,,728629,5,,54.36643000000000,305001,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70029600000000,BT30 9BL,2013-11-25,fhrs_4_en-GB,4,,FHRS,10
-408304,47 High Street,Corporation,Killyleagh,Down,PICNIC DELICATESSEN (200/FH/H),Restaurant/Cafe/Canteen,1,5,,728742,5,,54.40079300000000,305558,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65182900000000,BT30 9QF,2014-02-26,fhrs_4_en-GB,4,,FHRS,10
-408305,98a Main Street,Newcastle,,Co Down,PIZZA PALAZZO (191/FH/H),Takeaway/sandwich shop,7844,,,728465,,,54.21191000000000,303350,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2014-02-25,fhrs_4_en-GB,4,,FHRS,
-408306,"34, Downpatrick Street",Crossgar,,Co Down,PIZZERIA BELLA NAPOLI (182/FH/H),Takeaway/sandwich shop,7844,10,,728528,10,,54.39619300000000,304311,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76110600000000,BT30 9EA,2013-11-27,fhrs_3_en-GB,3,,FHRS,10
-408307,14 High Street,Ballynahinch,Ballynahinch,Down,POOLES BUTCHERS (142/FH/J),Manufacturers/packers,7839,5,,728563,5,,54.40173900000000,304531,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,2014-09-09,fhrs_5_en-GB,5,,FHRS,5
-408308,6-8 Main Street,Ballynahinch,Ballynahinch,Down,POUNDLAND (747/FH/G),Retailers - other,4613,0,,728751,0,,54.40346800000000,305589,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,2013-02-26,fhrs_5_en-GB,5,,FHRS,0
-408309,9-10 The Grove Shopping Centre,Downpatrick,,Co Down,POUNDLAND (765/FH/G),Retailers - other,4613,5,,728759,0,,54.32790600000000,305608,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71628300000000,BT30 6LY,2013-11-11,fhrs_5_en-GB,5,,FHRS,5
-408310,Downpatrick Race Course,24 Ballydugan Road,Downpatrick,Co Down,PRESTIGE CATERING NI LTD (666A/FH/H),Restaurant/Cafe/Canteen,1,5,,728690,5,,54.32000800000000,305391,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.72300700000000,BT30 6TE,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-408311,38 Main Street,Dundrum,,Co Down,QUAY VIEW (THE QUAYS RESTAURANT) (361/FH,Restaurant/Cafe/Canteen,1,10,,728636,5,,54.25612500000000,305072,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84798800000000,BT33 0LY,2014-03-11,fhrs_3_en-GB,3,,FHRS,10
-408312,62-64 Main Street,Newcastle,,Co Down,QUINNS BAR (263/FH/H),Restaurant/Cafe/Canteen,1,10,,728464,0,,,303331,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OLG,2013-11-05,fhrs_4_en-GB,4,,FHRS,10
-408313,66-68 Main Street,Newcastle,,Co Down,QUINN'S OFF SALES (237/FH/G),Retailers - other,4613,,,728511,,,,304192,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAE,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408314,Saul Business Park,Saul Road,Downpatrick,Co Down,QUINN'S STORES (SPAR) (64/FH/G),Retailers - other,4613,5,,728491,5,,54.33728300000000,303890,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.68822200000000,BT30 6SU,2014-01-13,fhrs_5_en-GB,5,,FHRS,5
-408315,47 Downpatrick Street,Crossgar,Crossgar,Down,QUINN'S TRADITIONAL FISH & CHIPS (105/FH,Takeaway/sandwich shop,7844,5,,728626,10,,54.39619300000000,304950,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76110600000000,BT30 9EA,2014-07-31,fhrs_4_en-GB,4,,FHRS,5
-408316,"6, Scotch Street",Downpatrick,,Co Down,QUOILE TAVERN (275/FH/H),Pub/bar/nightclub,7843,,,728431,,,54.32906100000000,303100,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71512800000000,BT30 6AQ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408317,"34, Main Street",Saintfield,,Co Down,R W MASSEY'S (67/FH/J),Manufacturers/packers,7839,0,,728441,0,,54.46028800000000,303181,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83410700000000,BT24 7AB,2013-02-28,fhrs_5_en-GB,5,,FHRS,0
-408318,2 Rathkeltair Road,Downpatrick,,Co Down,RATHKELTAIR CROSS COMMUNITY PLAYGROUP (296/FH/H),School/college/university,7845,5,,728817,0,,54.33415100000000,305772,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70538900000000,BT30 6NL,2014-11-14,fhrs_5_en-GB,5,,FHRS,5
-408319,Unit 5 - Cineplex,5 Owenbeg Avenue,Downpatrick,Co Down,RAW SPICE (779/FH/H),Restaurant/Cafe/Canteen,1,10,,728736,0,,,305544,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT30 6FS,2014-09-22,fhrs_4_en-GB,4,,FHRS,5
-408320,"89, Belfast Road",Ballynahinch,,Co Down,REDBURN CLINIC (354/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728279,10,,54.40760000000000,302154,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89468000000000,BT24 8EB,2014-09-17,fhrs_3_en-GB,3,,FHRS,10
-408321,"25, Irish Street",Downpatrick,,Co Down,RICHARD'S BUTCHERS (378/FH/J),Manufacturers/packers,7839,5,,728313,5,,54.32836500000000,302371,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71536600000000,BT30 6BW,2014-10-28,fhrs_5_en-GB,5,,FHRS,5
-408322,36 Ringdufferin Road,,Killyleagh,Co Down,RINGDUFFERIN NURSING HOME (343/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728714,0,,54.43333000000000,305467,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64767100000000,BT30 9PH,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-408323,"131, Central Promenade",Newcastle,,Co Down,RIVER HOUSE RESIDENTIAL HOME (111/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728548,5,,54.20642700000000,304425,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89337000000000,BT33 0EU,2013-11-05,fhrs_5_en-GB,5,,FHRS,0
-408324,8a Manse Road,Cumran,Downpatrick,Down,ROADSIDE CATCH (715/FH/H),Other catering premises,7841,5,,728600,5,,54.30556500000000,304813,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.85614800000000,BT30 8PD,2013-10-21,fhrs_5_en-GB,5,,FHRS,5
-408325,8a Manse Road,Cumran,Downpatrick,Down,ROADSIDE CATCH (715A/FH/H,Other catering premises,7841,10,,728700,10,,54.30556500000000,305420,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.85614800000000,BT30 8PD,2014-09-14,fhrs_3_en-GB,3,,FHRS,10
-408326,"67, Dromore Road",Ballynahinch,,Co Down,ROCKMOUNT DAY NURSERY (678/FH/H),School/college/university,7845,5,,728523,0,,54.40165700000000,304267,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.92199700000000,BT24 8HS,2014-10-06,fhrs_4_en-GB,4,,FHRS,10
-408327,Ballynahinch Primary School,67 Croob Park,Ballynahinch,Co Down,ROCKMOUNT OUT OF SCHOOL CLUB (781/FH/H),School/college/university,7845,10,,728679,10,,54.39962600000000,305338,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90583800000000,BT24 8BB,2014-06-16,fhrs_4_en-GB,4,,FHRS,0
-408328,28b Stream Street,Downpatrick,,Co Down,ROUND HOUSE OFF SALES (469/FH/G),Retailers - other,4613,,,728332,,,54.32414800000000,302517,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71191100000000,BT30 6DE,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408329,Crossgar Road,Saintfield,,Co Down,"ROWALLANE GARDENS, ROWALLANE HOUSE",Restaurant/Cafe/Canteen,1,0,,728437,0,,54.45419700000000,303136,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83068200000000,BT24 7JA,2013-08-23,fhrs_5_en-GB,5,,FHRS,5
-408330,"1, Belfast Road",Saintfield,,Co Down,ROWALLANE INN (38/FH/H),Pub/bar/nightclub,7843,,,728433,,,54.46089800000000,303114,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83103700000000,BT24 7AP,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408331,36a Golf Links Road,Newcastle,,Down,ROYAL CO DOWN LADIES GOLF CLUB (460A/FH/,Restaurant/Cafe/Canteen,1,0,,728641,0,,54.21599400000000,305105,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88652000000000,BT33 0AN,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-408332,36 Golf Links Road,,Newcastle,Down,ROYAL COUNTY DOWN GOLF CLUB (460/FH),Retailers - other,4613,5,,728423,0,,,303031,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAN,2014-12-03,fhrs_5_en-GB,5,,FHRS,5
-408333,,,,,RYANS' B & B (455/FH/H),Hotel/bed & breakfast/guest house,7842,0,,728536,0,,,304371,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2014-08-04,fhrs_5_en-GB,5,,FHRS,0
-408334,Downpatrick Road,Ardglass,,Co Down,S & P MILLIGAN - B'HINCH MARKET (29/FH,Retailers - other,4613,5,,728287,10,,54.40192200000000,302204,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89680300000000,BT24 8AE,2013-05-23,fhrs_3_en-GB,3,,FHRS,10
-408335,27 Main Street,,Dundrum,Down,SACRED HEART PRIMARY SCHOOL KITCHEN (600,School/college/university,7845,0,,728377,0,,,302763,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OLU,2014-05-21,fhrs_4_en-GB,4,,FHRS,10
-408336,43 Crabtree Road,Cumber,Ballynahinch,Down,SAFE & SOUND DAY CARE NURSERY (103/FH/H),School/college/university,7845,0,,728597,0,,54.38594900000000,304800,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.87235700000000,BT24 8RH,2014-04-03,fhrs_5_en-GB,5,,FHRS,0
-408337,"21, Comber Road",Saintfield,,Co Down,SAINTFIELD CENTRAL KITCHEN (596/FH),School/college/university,7845,5,,728435,0,,54.46419100000000,303122,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83075500000000,BT24 7BB,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-408338,19 Main Street,Saintfield Parks,Saintfield,Down,SAINTFIELD GRIDDLE (14/FH/J),Manufacturers/packers,7839,10,,728559,5,,54.46046000000000,304515,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83167700000000,BT24 7AA,2013-11-04,fhrs_4_en-GB,4,,FHRS,5
-408339,74 Belfast Road,Lessans,Saintfield,Down,SAINTFIELD MART CANTEEN (36/FH/H),Restaurant/Cafe/Canteen,1,,,728632,,,54.48065600000000,305049,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83901700000000,BT24 7EX,2014-01-08,fhrs_4_en-GB,4,,FHRS,
-408340,11 Main Street,Saintfield Parks,Saintfield,Down,SAINTS GOURMET FOOD (118/FH/H),Restaurant/Cafe/Canteen,1,0,,728653,5,,54.46046000000000,305210,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83167700000000,BT24 7AA,2013-07-25,fhrs_5_en-GB,5,,FHRS,5
-408341,27-29 Stream Street,Downpatrick,,Co Down,SAVAGES BAR (370/FH/G),Pub/bar/nightclub,7843,,,728330,,,54.32523400000000,302514,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71232700000000,BT30 6DD,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408342,Unit 8-The Grove Shopping Cent,Market Street,Downpatrick,Co Down,SAVERS HEALTH & BEAUTY (235/FH/G),Retailers - other,4613,,,728594,,,54.32790500000000,304795,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71628300000000,BT30 6LY,2012-02-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-408343,22-24 Main Street,Newcastle,,Co Down,SAVOY CAFE (123/FH/H),Restaurant/Cafe/Canteen,1,5,,728727,5,,,305517,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 0EA,2013-11-22,fhrs_5_en-GB,5,,FHRS,5
-408344,The Harbour,Ardglass,,Co Down,SEA GEMS (345/FH/H),Restaurant/Cafe/Canteen,1,5,,728532,5,,54.25909900000000,304344,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60555800000000,BT30 7TZ,2014-01-08,fhrs_4_en-GB,4,,FHRS,10
-408345,135 Main Street,Ballaghbeg,Newcastle,Down,SEA PALACE (56/FH/H),Restaurant/Cafe/Canteen,1,10,,728796,5,,54.21191000000000,305707,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2014-02-18,fhrs_4_en-GB,4,,FHRS,5
-408346,51 Central Promenade,Ballaghbeg,Newcastle,Down,SEASALT (255/FH/H),Restaurant/Cafe/Canteen,1,10,,728704,10,,54.20748100000000,305435,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89248900000000,BT33 0HH,2012-12-05,fhrs_3_en-GB,3,,FHRS,10
-408347,119 Clonvaraghan Road,Slievenisky,Ballyward,Down,SEECONNELL PRIVATE VILLAGE (291/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728705,5,,54.31567600000000,305436,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.95719500000000,BT31 9LA,2014-01-20,fhrs_5_en-GB,5,,FHRS,5
-408348,5 Windmill Street,Ballynahinch,Ballynahinch,Down,SHELLYS (244/FH/H),Other catering premises,7841,5,,728752,5,,54.40207200000000,305592,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89564100000000,BT24 8HB,2014-07-08,fhrs_4_en-GB,4,,FHRS,10
-408349,"2, Main Street",Newcastle,,Co Down,SHIMNA DINER (303/FH/H),Restaurant/Cafe/Canteen,1,5,,728459,5,,,303291,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAD,2013-10-30,fhrs_4_en-GB,4,,FHRS,10
-408350,King Street,Newcastle,,Co Down,SHIMNA INTEGRATED COLLEGE (622/FH/H),School/college/university,7845,5,,728362,5,,,302685,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OHD,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-408351,"54, Crossgar Road",Saintfield,,Co Down,SILVER BIRCH LODGE NURSING HOME (433/FH),Hospitals/Childcare/Caring Premises,5,0,,728413,0,,54.45590500000000,302970,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82719900000000,BT24 7JE,2014-04-25,fhrs_5_en-GB,5,,FHRS,5
-408352,"43, Bryansford Road",Newcastle,,Co Down,SLIEVE DHU PRIVATE NURSING HOME (60/FH),Hospitals/Childcare/Caring Premises,5,,,728354,,,,302624,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 ODW,2014-05-15,fhrs_5_en-GB,5,,FHRS,
-408353,Downs Road,Newcastle,,Co Down,SLIEVE DONARD HOTEL (35/FH/H),Hotel/bed & breakfast/guest house,7842,0,,728455,5,,,303286,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAH,2013-11-13,fhrs_5_en-GB,5,,FHRS,5
-408354,Unit 3 - Shopping Centre,Main Street,Newcastle,Co Down,SMALL'S BUTCHERS (61/FH/J),Manufacturers/packers,7839,10,,728612,5,,54.21374300000000,304887,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88830600000000,BT33 0ES,2014-03-03,fhrs_4_en-GB,4,,FHRS,5
-408355,23 The Ward,Ardglass,Ardglass,Down,SMYTH'S MUNCHBOX (49/FH/H),Other catering premises,7841,10,,728587,10,,54.25838600000000,304667,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.61173900000000,BT30 7UP,2014-03-25,fhrs_3_en-GB,3,,FHRS,10
-408356,"12, Railway Street",Newcastle,,Co Down,SMYTH'S NEWSAGENTS (CENTRA) (32/FH/G),Retailers - other,4613,,,728471,,,,303386,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAG,2014-10-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-408357,10 Miskelly Court,Barnamaghery,Saintfield,Down,SMYTH'S OF DARRAGH CROSS (163/FH/G),Retailers - supermarkets/hypermarkets,7840,10,,728696,10,,54.45027500000000,305403,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76392200000000,BT24 7PQ,2013-10-22,fhrs_3_en-GB,3,,FHRS,5
-408358,"20, Grove Road",Ballynahinch,,Co Down,SPA GOLF CLUB (504/FH/G),Retailers - other,4613,,,728385,,,54.39524700000000,302814,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.91191200000000,BT24 8PN,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408359,77-79 Grove Road,Ballynahinch,,Co Down,SPA NURSING HOME (12/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728386,5,,54.37827000000000,302815,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90440100000000,BT24 8PW,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-408360,"59, Ballymaglave Road",Ballynahinch,,Co Down,SPA PRIMARY SCHOOL (558/FH/H),School/college/university,7845,5,,728382,0,,54.37705000000000,302800,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89265800000000,BT24 8QB,2014-10-20,fhrs_5_en-GB,5,,FHRS,5
-408361,"10, Main Street",Ballynahinch,,Co Down,SPANG ENTERPRISES (MAUD'S) (335/FH),Restaurant/Cafe/Canteen,1,5,,728273,5,,54.40346800000000,302123,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,2012-01-18,fhrs_5_en-GB,5,,FHRS,5
-408362,4 Downpatrick Road,,Killyleagh,Down,SPAR (472/FH/G),Retailers - supermarkets/hypermarkets,7840,0,,728709,10,,54.39817300000000,305449,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.65482800000000,BT30 9RG,2015-01-09,fhrs_4_en-GB,4,,FHRS,10
-408363,18-20 Downpatrick Road,Strangford Lower,Strangford,Down,SPAR (540/FH/G),Retailers - supermarkets/hypermarkets,7840,5,,728540,0,,54.36806600000000,304393,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.55896100000000,BT30 7LZ,2014-03-28,fhrs_5_en-GB,5,,FHRS,5
-408364,"133, Main Street",Dundrum,,Co Down,SPAR SUPERMARKET (701/FH/G),Retailers - supermarkets/hypermarkets,7840,5,,728379,5,,,302780,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OLX,2014-02-04,fhrs_4_en-GB,4,,FHRS,10
-408365,22 Rathkeltair Road,,Downpatrick,Down,ST BRIGID'S PRIMARY SCHOOL (577/FH),School/college/university,7845,0,,728430,0,,54.33415000000000,303088,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70538800000000,BT30 6NL,2014-12-15,fhrs_5_en-GB,5,,FHRS,0
-408366,"7, Darragh Cross",Saintfield,,Co Down,ST CAOLAN'S PRIMARY SCHOOL (610/FH),School/college/university,7845,0,,728352,0,,54.45002000000000,302606,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76321100000000,BT24 7EQ,2013-11-22,fhrs_5_en-GB,5,,FHRS,5
-408367,"52, Crossgar Road",Ballynahinch,,Co Down,ST COLMAN'S HIGH&SIXTH FORM COLLEGE(561/,School/college/university,7845,5,,728282,0,,54.40431800000000,302167,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88687000000000,BT24 8XR,2013-11-06,fhrs_5_en-GB,5,,FHRS,0
-408368,"1, Killyleagh Road",Crossgar,,Co Down,ST COLMCILLE'S HIGH SCHOOL (601/FH),School/college/university,7845,5,,728344,0,,54.39752500000000,302564,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75250200000000,BT30 9EY,2013-11-06,fhrs_5_en-GB,5,,FHRS,5
-408369,Glebetown Drive,Downpatrick,,Co Down,ST COLMCILLE'S PRIMARY SCHOOL (566/FH),School/college/university,7845,0,,728311,5,,54.31627500000000,302361,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71185600000000,BT30 6PZ,2013-12-10,fhrs_5_en-GB,5,,FHRS,0
-408370,"24, Tyrella Road",Downpatrick,,Co Down,ST JOSEPH'S PRIMARY SCHOOL (337/FH),School/college/university,7845,,,728403,,,54.26825800000000,302904,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.78518100000000,BT30 8DF,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408371,"4, Ballynahinch Road",Crossgar,,Co Down,ST JOSEPH'S PRIMARY SCHOOL (598/FH),School/college/university,7845,0,,728412,0,,54.39913500000000,302965,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.77054100000000,BT30 9HS,2013-11-22,fhrs_5_en-GB,5,,FHRS,0
-408372,"25, Carnacaville Road",Newcastle,,Co Down,ST JOSEPH'S PRIMARY SCHOOL (599/FH),School/college/university,7845,0,,728417,0,,,303000,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OJS,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-408373,58-62 Main Street,Killough,Killough,Down,ST JOSEPH'S PRIMARY SCHOOL (602/FH),School/college/university,7845,0,,728400,0,,54.25705900000000,302893,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64567400000000,BT30 7QD,2013-10-28,fhrs_5_en-GB,5,,FHRS,5
-408374,"31, Downpatrick Road",Strangford,,Co Down,ST JOSEPH'S PRIMARY SCHOOL (603/FH),School/college/university,7845,0,,728478,0,,54.36806600000000,303426,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.55896100000000,BT30 7LZ,2014-05-16,fhrs_5_en-GB,5,,FHRS,5
-408375,"44, Loughinisland Road",Downpatrick,,Co Down,ST MACARTAN'S PRIMARY SCHOOL (573/FH),School/college/university,7845,,,728372,,,54.33823500000000,302738,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82050900000000,BT30 8PZ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408376,"3, Dublin Road",Castlewellan,,Co Down,ST MALACHY'S HIGH SCHOOL (341/FH),School/college/university,7845,5,,728293,0,,54.25689500000000,302249,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94727300000000,BT31 9AG,2013-11-07,fhrs_5_en-GB,5,,FHRS,5
-408377,33 Lower Square,,Castlewellan,Down,ST MALACHY'S PRIMARY SCHOOL (585/FH),School/college/university,7845,0,,728297,0,,54.25744800000000,302260,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94492800000000,BT31 9DN,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-408378,"4, Ballymoney Road",Kilcoo,,Co Down,ST MALACHY'S SCHOOL (604/FH),School/college/university,7845,5,,728484,5,,54.23555300000000,303454,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-6.02949100000000,BT34 5HU,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-408379,"13, Ardglass Road",Downpatrick,,Co Down,ST MARY'S HIGH SCHOOL (572/FH/H),School/college/university,7845,0,,728390,5,,54.32406800000000,302823,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70581200000000,BT30 6JQ,2013-10-07,fhrs_5_en-GB,5,,FHRS,0
-408380,"37, Sloane Crescent",Killyleagh,,Co Down,ST MARY'S PRIMARY SCHOOL (606/FH),School/college/university,7845,5,,728411,0,,54.40549800000000,302960,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64932700000000,BT30 9RB,2014-03-31,fhrs_5_en-GB,5,,FHRS,0
-408381,"27, Old Grand Jury Road",Saintfield,,Co Down,ST MARY'S PRIMARY SCHOOL (607/FH),School/college/university,7845,,,728444,,,54.45429100000000,303215,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.82686800000000,BT24 7JD,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408382,31a Elmgrove Park,Tollymore,Newcastle,Down,ST MARY'S PRIMARY SCHOOL MEALS KITCHEN (,School/college/university,7845,0,,728754,0,,54.21648500000000,305595,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89509600000000,BT33 0BA,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-408383,"21, Downpatrick Road",Ardglass,,Co Down,ST NICHOLAS PRIMARY SCHOOL (592/FH/H),School/college/university,7845,5,,728249,5,,54.26601800000000,301927,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.61501300000000,BT30 7SF,2013-10-10,fhrs_5_en-GB,5,,FHRS,0
-408384,43 Saul Road,,Downpatrick,Down,ST PATRICKS GOLF CLUB (633/FH/H),Restaurant/Cafe/Canteen,1,10,,728812,5,,54.33546800000000,305760,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.69675000000000,BT30 6PA,2014-07-30,fhrs_3_en-GB,3,,FHRS,10
-408385,"109, Saul Street",Downpatrick,,Co Down,ST PATRICK'S GRAMMAR SCHOOL (583/FH),School/college/university,7845,0,,728260,5,,54.33224500000000,301988,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70912400000000,BT30 6NJ,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-408386,Murray'S Terrace,Ballynahinch,,Co Down,ST PATRICK'S PRIMARY SCHOOL KITCHEN (559,School/college/university,7845,0,,728277,5,,54.40475000000000,302149,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89462600000000,BT24 8DY,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-408387,"30, Burrenreagh Road",Castlewellan,,Co Down,ST PATRICK'S SCHOOL - C'WELLAN (587/FH/H,School/college/university,7845,0,,728487,0,,54.23920300000000,303464,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.95048400000000,BT31 9HH,2013-10-03,fhrs_4_en-GB,4,,FHRS,10
-408388,"1, Railway Street",Newcastle,,Co Down,STEELE'S BUTCHERS (684/FH/J),Manufacturers/packers,7839,0,,728424,0,,54.21487900000000,303040,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88803400000000,BT33 0AL,2013-02-25,fhrs_5_en-GB,5,,FHRS,0
-408389,53-55 Central Promenade,Newcastle,,Co Down,STRAND RESTAURANT & HOME BAKERY (65/FH/J,Manufacturers/packers,7839,10,,728358,0,,,302660,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OHH,2014-02-06,fhrs_4_en-GB,4,,FHRS,10
-408390,"26, Strangford Road",Downpatrick,,Co Down,STRANGFORD COURT CARE HOME (109A/FH),Hospitals/Childcare/Caring Premises,5,5,,728527,10,,54.33932200000000,304306,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70843800000000,BT30 6SL,2014-09-17,fhrs_4_en-GB,4,,FHRS,5
-408391,"2, Ardglass Road",Downpatrick,,Co Down,STRUELL LODGE RESIDENTIAL RESOURCE CENTR,Other catering premises,7841,0,,728389,0,,54.32516100000000,302821,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70281500000000,BT30 6JG,2011-09-19,fhrs_5_en-GB,5,,FHRS,5
-408392,"133, Main Street",Newcastle,,Co Down,SUBWAY (55/FH/H),Restaurant/Cafe/Canteen,1,10,,728509,10,,,304183,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAD,2014-03-10,fhrs_3_en-GB,3,,FHRS,10
-408393,45 High Street,Ballynahinch,Ballynahinch,Down,SUBWAY (725/FH/H),Restaurant/Cafe/Canteen,1,10,,728713,0,,54.40173900000000,305463,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,2014-02-25,fhrs_4_en-GB,4,,FHRS,5
-408394,Unit 9 Market House,Market Street,Downpatrick,Co Down,SUBWAY (769/FH/H),Restaurant/Cafe/Canteen,1,5,,728673,0,,54.32632000000000,305325,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2013-01-07,fhrs_5_en-GB,5,,FHRS,0
-408395,21 Central Promenade,Ballaghbeg,Newcastle,Down,SUCOS SHAKE 'N' JUICE (515/FH/G),Retailers - other,4613,5,,728682,5,,54.20940400000000,305357,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89144000000000,BT33 0AA,2014-10-10,fhrs_5_en-GB,5,,FHRS,0
-408396,"28, Main Street",Ballynahinch,,Co Down,SUNNYSIDE HOME BAKERY (52/FH/J),Manufacturers/packers,7839,5,,728274,0,,54.40346800000000,302130,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-408397,1b Main Street,Ballynahinch,,Co Down,SUPERDRUG STORES PLC (240/FH/G),Retailers - other,4613,,,728595,,,54.40346800000000,304796,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408398,Unit 1 - 77 Main Street,Newcastle,,Co Down,SUPERDRUG STORES PLC (680/FH/G),Retailers - other,4613,,,728591,,,54.21191000000000,304695,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408399,Ballymote Centre,40 Killough Road,Downpatrick,Co Down,SUPERVALU (381/FH/G),Retailers - supermarkets/hypermarkets,7840,5,,728716,5,,54.31519700000000,305472,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.70901100000000,BT30 6PY,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-408400,2-6 Lisburn Street,Ballynahinch,Ballynahinch,Down,SUPERVALU BALLYNAHINCH (121/FH/G),Retailers - supermarkets/hypermarkets,7840,10,,728661,5,,54.40340500000000,305277,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89840600000000,BT24 8BD,2013-11-06,fhrs_4_en-GB,4,,FHRS,5
-408401,38 Castle Street,Killough,Killough,Down,SURE START_KILLOUGH COMMUNITY HALL (653/,School/college/university,7845,0,,728670,0,,54.25213800000000,305321,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64125800000000,BT30 7QQ,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-408402,,,,,SU'S THAI COOKING (242/FH/H),Other catering premises,7841,0,,728717,0,,,305475,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2014-05-16,fhrs_5_en-GB,5,,FHRS,0
-408403,,,,,SWAN LODGE (554/FH/H),Hotel/bed & breakfast/guest house,7842,0,,728481,0,,,303440,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-408404,"29, Downpatrick Street",Crossgar,,Co Down,T WITHERS BUTCHERS (88/FH/J),Manufacturers/packers,7839,5,,728339,5,,54.39909100000000,302545,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75651300000000,BT30 9DF,2014-09-11,fhrs_5_en-GB,5,,FHRS,5
-408405,70 Killard Road,Ballyhornan,Downpatrick,Down,TARA'S CONVENIENCE STORE (790/FH/G),Retailers - other,4613,5,,728740,5,,54.30793900000000,305553,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.54919900000000,BT30 7PQ,2013-05-29,fhrs_4_en-GB,4,,FHRS,10
-408406,5 Hillside,Ballymacarn South,Ballynahinch,Down,TASTY TUCKER (535/FH/H),Other catering premises,7841,5,,728572,0,,54.37215500000000,304581,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89949500000000,BT24 8PS,2012-09-18,fhrs_5_en-GB,5,,FHRS,0
-408407,147 Newcastle Road,Seaforde,Downpatrick,Co Down,TASTYLICIOUS (176/FH/H),Other catering premises,7841,10,,728648,10,,54.33124200000000,305156,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83631600000000,BT30 8PL,2013-12-11,fhrs_3_en-GB,3,,FHRS,10
-408408,,,,,TATTY TORTOISE CAKES (474/FH/H),Other catering premises,7841,0,,728816,0,,,305770,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2014-10-17,fhrs_5_en-GB,5,,FHRS,0
-408409,1 Drumnaconagher Road,Teconnaught,Downpatrick,Down,TECONNAUGHT CROSS COMMUNITY PLAYGROUP,School/college/university,7845,0,,728590,5,,54.36951500000000,304690,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.79089000000000,BT30 9AN,2013-06-26,fhrs_5_en-GB,5,,FHRS,0
-408410,30 St. Patrick'S Avenue,Demesne Of Down Acre,Downpatrick,Down,TEL'S CONFECTIONERY (287/FH/G),Retailers - other,4613,,,728609,,,54.32650600000000,304877,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71637600000000,BT30 6DW,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408411,21 Castlewellan Road,Murlough Upper,Newcastle,Down,TESCO (703/FH/G),Retailers - supermarkets/hypermarkets,7840,5,,728418,0,,54.22134300000000,303003,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89078600000000,BT33 0GW,2014-03-25,fhrs_5_en-GB,5,,FHRS,0
-408412,"131, Main Street",Newcastle,,Co Down,"THE ""TIP TOP"" (136/FH/G)",Retailers - other,4613,,,728469,,,,303363,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAE,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408413,"86, Main Street",Killough,,Co Down,THE ANNE BOAL INN (281/FH/H),Pub/bar/nightclub,7843,,,728401,,,54.25705900000000,302894,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64567400000000,BT30 7QD,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408414,18 St. Patrick'S Avenue,Demesne Of Down Acre,Downpatrick,Down,THE AVENUE BAR (277/FH/H),Pub/bar/nightclub,7843,0,,728689,0,,54.32633100000000,305389,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71667800000000,BT30 6DW,2013-09-10,fhrs_5_en-GB,5,,FHRS,0
-408415,"97, Main Street",Dundrum,,Co Down,THE BAY SIDE CATCH (374/FH/H),Takeaway/sandwich shop,7844,5,,728502,5,,54.25849100000000,304135,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84263100000000,BT33 0LU,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-408416,41 Lisburn Road,Ballykine Lower,Ballynahinch,Down,THE BEECHES RESIDENTIAL HOME 147/FH/H,Hospitals/Childcare/Caring Premises,5,5,,728271,5,,54.41136300000000,302099,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.91532900000000,BT24 8TT,2014-02-28,fhrs_5_en-GB,5,,FHRS,5
-408417,13 St. Patrick'S Avenue,Demesne Of Down Acre,Downpatrick,Down,THE BIZZY BEE CAFE (332/FH/H),Restaurant/Cafe/Canteen,1,10,,728570,0,,54.32650600000000,304572,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71637600000000,BT30 6DW,2014-02-11,fhrs_4_en-GB,4,,FHRS,5
-408418,"6, Central Promenade",Newcastle,,Co Down,THE BON-BON (13/FH/G),Retailers - other,4613,10,,728356,0,,54.21001100000000,302638,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89018300000000,BT33 0AB,2014-07-07,fhrs_4_en-GB,4,,FHRS,10
-408419,,,,,THE BRIERS COUNTRY HOUSE (532/FH/H),Hotel/bed & breakfast/guest house,7842,,,728571,,,,304580,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408420,"77, Main Street",Dundrum,,Co Down,THE BUCKS HEAD INN (286/FH/H),Restaurant/Cafe/Canteen,1,10,,728378,0,,,302772,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OLU,2014-07-31,fhrs_4_en-GB,4,,FHRS,10
-408421,38a Dromore Street,Ballynahinch,Ballynahinch,Down,THE CAKE SHOP (71/FH/J),Manufacturers/packers,7839,0,,728265,5,,54.40036900000000,302047,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89893100000000,BT24 8AG,2013-05-29,fhrs_5_en-GB,5,,FHRS,5
-408422,,,,,THE CAKERY (726/FH/H),Other catering premises,7841,0,,728712,0,,,305462,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2012-03-06,fhrs_5_en-GB,5,,FHRS,5
-408423,20 Irish Street,Demesne Of Down Acre,Downpatrick,Down,THE CAKERY CREW (788/FH/J),Restaurant/Cafe/Canteen,1,5,,728797,5,,54.32882100000000,305708,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71524900000000,BT30 6BP,2014-02-28,fhrs_5_en-GB,5,,FHRS,0
-408424,,,,,THE CARRIAGE HOUSE (22/FH/H),Hotel/bed & breakfast/guest house,7842,,,728499,,,,304003,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408425,Montalto Estate,Dromore Road,Ballynahinch,Co Down,THE CARRIAGE ROOMS (722A/FH/H),Other catering premises,7841,0,,728734,0,,54.39441000000000,305540,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90400900000000,BT24 8PX,2012-08-24,fhrs_5_en-GB,5,,FHRS,0
-408426,"3, Church Street",Downpatrick,,Co Down,THE CENTRAL BAR (328/FH/H),Pub/bar/nightclub,7843,5,,728426,0,,54.33154700000000,303059,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71545100000000,BT30 6EH,2013-07-08,fhrs_4_en-GB,4,,FHRS,10
-408427,"121, Drumaness Road",Ballynahinch,,Co Down,THE CHIP STOP (260/FH/H),Restaurant/Cafe/Canteen,1,5,,728552,0,,54.36859200000000,304466,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.85274200000000,BT24 8RL,2013-06-27,fhrs_5_en-GB,5,,FHRS,5
-408428,15 Shanbally Road,Drumanaghan Or Drumulcaw,Downpatrick,Down,THE COFFEE BOUTIQUE (786/FH/H),Other catering premises,7841,0,,728680,0,,54.31463900000000,305345,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.87891400000000,BT30 8SA,2012-03-28,fhrs_5_en-GB,5,,FHRS,0
-408429,"37, Main Street",Castlewellan,,Co Down,THE COFFEE DOCK (425/FH/H),Restaurant/Cafe/Canteen,1,5,,728510,5,,54.25775700000000,304186,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94302500000000,BT31 9DQ,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-408430,83 Market Street,Demesne Of Down Acre,Downpatrick,Down,THE COFFEE STATION (547/FH/H),Restaurant/Cafe/Canteen,1,10,,728744,10,,54.32632000000000,305571,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2013-06-06,fhrs_3_en-GB,3,,FHRS,5
-408431,Unit 4 Shopping Centre,Main Street,Newcastle,Co Down,THE COOKIE JAR (546/FH/G),Retailers - other,4613,0,,728458,5,,54.21376700000000,303289,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88868800000000,BT33 0AD,2013-04-24,fhrs_5_en-GB,5,,FHRS,5
-408432,"121, Main Street",Newcastle,,Co Down,THE COOKIE JAR (75/FH/C),Manufacturers/packers,7839,10,,728468,0,,,303359,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAE,2014-09-04,fhrs_4_en-GB,4,,FHRS,10
-408433,69 Crossgar Road,Corporation,Killyleagh,Down,THE CORPORATE CREPE COMPANY (467/FH/G),Retailers - other,4613,5,,728729,0,,54.40731800000000,305523,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.67326900000000,BT30 9SX,2013-08-19,fhrs_5_en-GB,5,,FHRS,0
-408434,The Square,Strangford,,Co Down,THE CUAN CHIP SHOP (700/FH/H),Restaurant/Cafe/Canteen,1,5,,728483,5,,54.37089700000000,303453,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.55634600000000,BT30 7ND,2014-06-06,fhrs_5_en-GB,5,,FHRS,0
-408435,6-12 The Square,Strangford,,Co Down,THE CUAN LICENSED GUEST INN (20/FH/H),Restaurant/Cafe/Canteen,1,5,,728482,5,,54.37089700000000,303449,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.55634600000000,BT30 7ND,2014-06-06,fhrs_5_en-GB,5,,FHRS,5
-408436,20a St. Patrick'S Avenue,Demesne Of Down Acre,Downpatrick,Down,THE DAILY GRIND (344/FH/H),Restaurant/Cafe/Canteen,1,5,,728324,5,,54.32650600000000,302479,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71637600000000,BT30 6DW,2014-05-28,fhrs_5_en-GB,5,,FHRS,0
-408437,59-61 Main Street,,Newcastle,Down,THE DUG OUT (438/FH/H),Pub/bar/nightclub,7843,10,,728809,5,,54.21191000000000,305752,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2014-10-02,fhrs_2_en-GB,2,,FHRS,15
-408438,143-145 Main Street,Dundrum,Dundrum,Down,THE DUNDRUM INN (BAR) (319/FH/H),Pub/bar/nightclub,7843,5,,728608,5,,54.25689000000000,304873,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84509300000000,BT33 0LX,2013-03-14,fhrs_4_en-GB,4,,FHRS,10
-408439,"13, Church Street",Downpatrick,,Co Down,THE EMPEROR (153/FH/H),Restaurant/Cafe/Canteen,1,10,,728427,10,,54.33154700000000,303065,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71545100000000,BT30 6EH,2014-03-24,fhrs_3_en-GB,3,,FHRS,10
-408440,,,,,THE GATE LODGE (670/FH/H),Hotel/bed & breakfast/guest house,7842,0,,728784,0,,,305664,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2013-06-18,fhrs_5_en-GB,5,,FHRS,0
-408441,3 Station Road,,Castlewellan,Down,THE GATE LODGE (CORRIEWOOD) (660/FH/H),Hospitals/Childcare/Caring Premises,5,5,,728586,0,,54.26055300000000,304650,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.92792100000000,BT31 9NF,2013-10-21,fhrs_5_en-GB,5,,FHRS,0
-408442,Castlewellan Forest Park,Castlewellan,,Co Down,THE GRANGE COFFEE HOUSE (429/FH/H),Restaurant/Cafe/Canteen,1,5,,728529,5,,54.26441100000000,304322,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.95541900000000,BT31 9BU,2014-04-24,fhrs_5_en-GB,5,,FHRS,5
-408443,7-11 The Square,,Strangford,Down,THE LOBSTER POT (754/FH/H),Restaurant/Cafe/Canteen,1,10,,728804,10,,54.37089700000000,305745,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.55634500000000,BT30 7ND,2014-10-15,fhrs_3_en-GB,3,,FHRS,10
-408444,"86, Ballyloughlin Road",Maghera,Castlewellan,Co Down,THE MAGHERA INN (623/FH/H),Pub/bar/nightclub,7843,5,,728416,0,,54.24133000000000,302998,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89659200000000,BT31 9HE,2013-09-19,fhrs_5_en-GB,5,,FHRS,5
-408445,"2, Fairview",Saintfield,,Co Down,THE MARCH HARE (403/FH/H),Restaurant/Cafe/Canteen,1,10,,728438,5,,54.45957400000000,303138,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83591800000000,BT24 7AD,2013-11-07,fhrs_4_en-GB,4,,FHRS,5
-408446,Drumcullan Road,Downpatrick,,Co Down,THE MILL AT BALLYDUGAN (718/FH/H),Restaurant/Cafe/Canteen,1,5,,728489,5,,54.30771200000000,303853,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84102400000000,BT30 8NZ,2014-03-21,fhrs_5_en-GB,5,,FHRS,5
-408447,73 Main Street,Newcastle,,Co Down,THE MOURNE BISTRO (731/FH/H),Restaurant/Cafe/Canteen,1,5,,728620,0,,54.21191000000000,304922,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-408448,2 Main Street,Clough,Downpatrick,Down,THE MULBERRY TREE (719/FH/H),Restaurant/Cafe/Canteen,1,10,,728599,5,,54.30599900000000,304812,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84372600000000,BT30 8PA,2014-01-29,fhrs_4_en-GB,4,,FHRS,5
-408449,"13, Jordanstown",Clough,,Co Down,THE MUNCHIES OF MOURNE (395/FH/H),Other catering premises,7841,5,,728522,5,,54.29492200000000,304262,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83733100000000,BT30 8NW,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-408450,"7, Castleward Estate",Strangford,,Co Down,THE NATIONAL TRUST SHOP (619/FH/G),Retailers - other,4613,,,728476,,,54.36560000000000,303418,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.56280000000000,BT30 7LY,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408451,5 Darragh Cross,Barnamaghery,Saintfield,Down,THE OAKS BAR (630/FH/H),Pub/bar/nightclub,7843,,,728628,,,54.45002000000000,304978,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76321100000000,BT24 7EQ,2014-02-06,fhrs_5_en-GB,5,,FHRS,
-408452,2 Killyleagh Street,Crossgar,Crossgar,Down,THE OLD FRYER LTD (85/FH/H),Takeaway/sandwich shop,7844,10,,728778,0,,54.39762100000000,305647,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.75814900000000,BT30 9DQ,2013-10-31,fhrs_4_en-GB,4,,FHRS,5
-408453,36 Castle Street,Killough,Killough,Down,THE OLD INN (216/FH/H),Restaurant/Cafe/Canteen,1,5,,728665,0,,54.25213800000000,305292,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64125800000000,BT30 7QQ,2014-02-11,fhrs_5_en-GB,5,,FHRS,5
-408454,30 Main Street,,Ballynahinch,Down,THE PRIMROSE BAR & RESTAURANT (42/FH/H),Restaurant/Cafe/Canteen,1,0,,728275,5,,54.40346800000000,302132,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89578500000000,BT24 8DN,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-408455,"120, Vianstown Road",Downpatrick,,Co Down,THE RAMBLE INN (639/FH/H),Pub/bar/nightclub,7843,,,728450,,,54.28668600000000,303254,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76026400000000,BT30 8HN,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408456,,,,,THE ROAD HOUSE'S B & B (299/FH/H),Hotel/bed & breakfast/guest house,7842,,,728497,,,,303977,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408457,"71, Ballyhornan Road",Downpatrick,,Co Down,THE ROAD HOUSES BAR (249/FH/H),Pub/bar/nightclub,7843,,,728244,,,54.32720700000000,301902,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.66154500000000,BT30 7AA,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408458,91 Dundrum Road,,Newcastle,Down,THE ROADSIDE CHIPPY/BURGER BAR (434/FH),Other catering premises,7841,0,,728456,0,,54.22516700000000,303287,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88238600000000,BT33 0LN,2014-10-16,fhrs_5_en-GB,5,,FHRS,0
-408459,"28, Stream Street",Downpatrick,,Co Down,THE ROUND HOUSE (280/FH/G),Pub/bar/nightclub,7843,,,728331,,,54.32414800000000,302515,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71191100000000,BT30 6DE,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408460,7-9 Church Street,Downpatrick,,Co Down,THE RUSSELL BAR (114/FH/H),Pub/bar/nightclub,7843,5,,728611,5,,54.33154700000000,304882,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71545100000000,BT30 6EH,2013-08-02,fhrs_4_en-GB,4,,FHRS,10
-408461,149 Newcastle Road,Castlenavan,Downpatrick,Down,THE STICK (382/FH/H),Restaurant/Cafe/Canteen,1,5,,728664,5,,54.33124200000000,305290,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83631600000000,BT30 8PL,2013-11-18,fhrs_5_en-GB,5,,FHRS,5
-408462,63d Wateresk Road,Ballyginny,Castlewellan,Down,THE WALK BREADS (493/FH/J),Manufacturers/packers,7839,,,728581,,,54.24303900000000,304617,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90083200000000,BT31 9EZ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408463,"83, Dublin Road",Kilcoo,,Co Down,THIERAFURTH INN (199/FH/H),Restaurant/Cafe/Canteen,1,10,,728488,5,,54.23368700000000,303468,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-6.01711000000000,BT34 5HT,2012-01-13,fhrs_3_en-GB,3,,FHRS,10
-408464,25 Castle Street,Killough,Killough,Down,THOMAS DUFFY & SONS LTD (MACE) (203/FH),Retailers - supermarkets/hypermarkets,7840,5,,728396,5,,54.25213800000000,302877,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.64125800000000,BT30 7QQ,2013-02-27,fhrs_5_en-GB,5,,FHRS,0
-408465,1a Shore Road,Strangford Lower,Strangford,Down,THOMAS DUFFY & SONS MACE (245/FH),Retailers - supermarkets/hypermarkets,7840,5,,728477,0,,54.37005200000000,303421,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.55501100000000,BT30 7NL,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-408466,57 St. Patrick'S Avenue,Demesne Of Down Acre,Downpatrick,Down,THREE STARS (383/FH/H),Takeaway/sandwich shop,7844,10,,728634,10,,54.32481000000000,305062,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71365700000000,BT30 6DN,2014-03-25,fhrs_3_en-GB,3,,FHRS,10
-408467,The Dock,North Pier,Ardglass,Co Down,TIDEWATER (679/FH/H),Restaurant/Cafe/Canteen,1,10,,728787,0,,54.26241100000000,305674,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.60716200000000,BT30 7SD,2013-11-01,fhrs_4_en-GB,4,,FHRS,10
-408468,35 High Street,Ballynahinch,Ballynahinch,Down,TIKKA TOWN (190/FH/H),Takeaway/sandwich shop,7844,10,,728668,5,,54.40173900000000,305309,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,2014-11-17,fhrs_4_en-GB,4,,FHRS,5
-408469,3 Rourkes Link,,Ballyhornan,Down,TINY TOONS COMMUNITY PLAYGROUP (628/FH/,School/college/university,7845,5,,728507,0,,54.30332400000000,304175,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.57069300000000,BT30 7DQ,2014-11-10,fhrs_5_en-GB,5,,FHRS,0
-408470,Bryansford Village,Newcastle,,Co Down,TOLLYMORE NATIONAL OUTDOOR CENTRE (53/FH,Restaurant/Cafe/Canteen,1,0,,728658,0,,54.22993000000000,305262,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.93260100000000,BT33 0PT,2012-12-15,fhrs_5_en-GB,5,,FHRS,0
-408471,,,,,TONLEGEE B&B (386/FH/H),Hotel/bed & breakfast/guest house,7842,5,,728290,5,,,302231,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,2014-08-08,fhrs_5_en-GB,5,,FHRS,5
-408472,1 Main Street,Ballaghbeg,Newcastle,Down,TOP OF THE TOWN (3/FH/H),Restaurant/Cafe/Canteen,1,0,,728566,0,,54.21376700000000,304564,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88868800000000,BT33 0AD,2013-07-31,fhrs_5_en-GB,5,,FHRS,5
-408473,19 Drumulcaw Road,Drumanaghan Or Drumulcaw,Downpatrick,Down,TRADITIONAL COUNTRY CATERING (431/FH/I),Retailers - other,4613,5,,728735,0,,54.31708500000000,305543,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88367500000000,BT30 8SB,2013-03-15,fhrs_5_en-GB,5,,FHRS,0
-408474,"34, Tullybrannigan Road",Newcastle,,Co Down,TULLYBRANNIGAN STORES (54/FH/G),Retailers - other,4613,5,,728368,10,,,302714,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OHR,2013-08-14,fhrs_3_en-GB,3,,FHRS,10
-408475,"12, Tullywest Road",Saintfield,,Co Down,TULLYWEST MANOR RESIDENTIAL HOME(112/FH),Hospitals/Childcare/Caring Premises,5,10,,728415,5,,54.44194100000000,302997,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88487100000000,BT24 7LX,2014-01-17,fhrs_4_en-GB,4,,FHRS,5
-408476,7 High Street,Ballynahinch,Ballynahinch,Down,TURKISH KEBAB & PIZZA HOUSE (139/FH/H),Takeaway/sandwich shop,7844,5,,728685,5,,54.40173900000000,305374,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.89766000000000,BT24 8AB,2014-09-29,fhrs_4_en-GB,4,,FHRS,10
-408477,80 Main Street,Ballaghbeg,Newcastle,Down,TURKISH KEBAB & PIZZA HOUSE (234/FH/H),Takeaway/sandwich shop,7844,5,,728691,5,,54.21191000000000,305392,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2014-03-14,fhrs_4_en-GB,4,,FHRS,10
-408478,,,,,TYRELLA HOUSE (228/FH/H),Hotel/bed & breakfast/guest house,7842,,,728397,,,,302884,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408479,74 Main Street,Castlewellan,Castlewellan,Down,URBAN COFFEE BAR (131/FH/H),Restaurant/Cafe/Canteen,1,0,,728757,0,,54.25639700000000,305600,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94597800000000,BT31 9DL,2013-06-04,fhrs_5_en-GB,5,,FHRS,5
-408480,67 Main Street,Ballaghbeg,Newcastle,Down,VANILLA RESTAURANT (760/FH/H),Restaurant/Cafe/Canteen,1,10,,728651,5,,54.21191000000000,305203,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88987100000000,BT33 0AE,2013-09-03,fhrs_4_en-GB,4,,FHRS,5
-408481,31 Main Street,Ballaghbeg,Newcastle,Down,VILLA VINCI RESTAURANT (634/FH/H),Restaurant/Cafe/Canteen,1,5,,728755,5,,54.21376700000000,305596,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.88868800000000,BT33 0AD,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-408482,"147, Crawfordstown Road",Drumaness,Ballynahinch,Co Down,VILLAGE TAKE-AWAY (1/FH/H),Takeaway/sandwich shop,7844,10,,728369,5,,54.36629600000000,302724,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.84795300000000,BT24 8NA,2013-11-04,fhrs_4_en-GB,4,,FHRS,5
-408483,"75, Commons Road",Ballykinlar,Downpatrick,Co Down (P/Lc/8),VIVO (222/FH/G),Retailers - other,4613,,,728398,,,54.26161300000000,302886,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.80406500000000,BT30 8DQ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408484,61 Main Street,Castlewellan,Castlewellan,Down,WALKERS NEWSAGENTS (390/FH/G),Retailers - other,4613,,,728613,,,54.25775700000000,304899,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94302600000000,BT31 9DQ,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408485,,,,,WATERSIDE BED & BREAKFAST (69/FH/H),Hotel/bed & breakfast/guest house,7842,,,728512,,,,304193,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408486,49-53 Main Street,,Saintfield,Down,WHITE HORSE INN (270/FH/H),Restaurant/Cafe/Canteen,1,5,,728518,0,,54.46028800000000,304233,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83410700000000,BT24 7AB,2014-09-16,fhrs_5_en-GB,5,,FHRS,0
-408487,At Spa Golf Club,20 Grove Road,Ballynahinch,Co Down,WILLOW COTTAGE KITCHEN (398/FH/H),Restaurant/Cafe/Canteen,1,10,,728814,5,,54.39524800000000,305762,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.91191200000000,BT24 8PN,2014-09-05,fhrs_4_en-GB,4,,FHRS,5
-408488,"45, Killyleagh Road",Saintfield,,Co Down,WILLOW VIEW RESIDENTIAL HOME (353/FH),Hospitals/Childcare/Caring Premises,5,5,,728353,10,,54.45599200000000,302607,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.77715100000000,BT24 7EH,2014-09-26,fhrs_4_en-GB,4,,FHRS,5
-408489,7 Saintfield Road,Lissara,Crossgar,Down,WILSON'S FAMILY BUTCHERS (406/FH/J),Manufacturers/packers,7839,5,,728726,0,,54.40405000000000,305510,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.76861000000000,BT30 9HY,2012-06-07,fhrs_5_en-GB,5,,FHRS,5
-408490,Market Lane,Downpatrick,,Co Down,WILSONS FAMILY BUTCHERS (647/FH/J),Manufacturers/packers,7839,5,,728316,5,,54.32778800000000,302386,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71624400000000,BT30 6TH,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-408491,2 Comber Street,Saintfield Parks,Saintfield,Down,WINEWORKS (479/FH/G),Retailers - other,4613,,,728434,,,54.46117000000000,303121,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.83270300000000,BT24 7AZ,,fhrs_exempt_en-GB,Exempt,,FHRS,
-408492,"96, Main Street",Newcastle,,Co Down,WOK'S IN THE BOX (704/FH/H),Takeaway/sandwich shop,7844,10,,728503,5,,,304149,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,,BT33 OAE,2014-03-19,fhrs_4_en-GB,4,,FHRS,5
-408493,"9, Lower Square",Castlewellan,,Co Down,WONDER YEARS DAY NURSERY (177/FH/H),School/college/university,7845,5,,728294,5,,54.25744800000000,302257,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94492900000000,BT31 9DN,2014-01-28,fhrs_4_en-GB,4,,FHRS,10
-408494,"50, Mill Hill",Castlewellan,,Co Down,WOOD LODGE (145/FH/H),Hospitals/Childcare/Caring Premises,5,10,,728303,5,,54.26075500000000,302316,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.93283800000000,BT31 9NB,2014-01-09,fhrs_4_en-GB,4,,FHRS,5
-408495,25a Church Street,Demesne Of Down Acre,Downpatrick,Down,WRAP & ROLL (363/FH/H),Takeaway/sandwich shop,7844,5,,728579,0,,54.33154700000000,304612,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71545100000000,BT30 6EH,2014-01-02,fhrs_5_en-GB,5,,FHRS,5
-408496,112 Market Street,Demesne Of Down Acre,Downpatrick,Down,WRAP & ROLL SANDWICH & COFFEE BAR (776/F,Restaurant/Cafe/Canteen,1,5,,728676,0,,54.32632000000000,305332,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71890800000000,BT30 6LZ,2014-02-27,fhrs_5_en-GB,5,,FHRS,0
-408497,Greenhill - Donard Park,King Street,Newcastle,Co Down,YMCA NATIONAL CENTRE (637/FH/H),Other catering premises,7841,,,728363,,,54.20357800000000,302695,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.90206800000000,BT33 0GR,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-408498,"33, Glebetown Drive",Downpatrick,,Co Down,YOUR STORE (232/FH/G),Retailers - supermarkets/hypermarkets,7840,10,,728310,10,,54.31557900000000,302359,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71167900000000,BT30 6QD,2014-02-11,fhrs_3_en-GB,3,,FHRS,10
-408499,99-101 Main Street,Castlewellan,Castlewellan,Down,ZEBEDEES (334/FH/H),Restaurant/Cafe/Canteen,1,5,,728577,5,,54.25677600000000,304609,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.94609800000000,BT31 9DH,2014-01-10,fhrs_5_en-GB,5,,FHRS,5
-408500,South Eastern Regional College,110 Market Street,Downpatrick,Co Down,ZEST (MOUNT CHARLES CATERING) (187A/FH/,Other catering premises,7841,5,,728647,0,,54.32533600000000,305150,814,env.health@downdc.gov.uk,Down,http://www.downdc.gov.uk,-5.71771700000000,BT30 6ND,2014-09-18,fhrs_5_en-GB,5,,FHRS,5
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+407956,A FITZSIMONS (405/FH/G),5,0,0,5,2013-05-29,54.396193,-5.761106
+407957,ABBEYFIELD & WESLEY (372/FH/H),5,0,0,0,2012-12-11,54.32781,-5.718379
+407958,ACADEMY PRIMARY SCHOOL (616/FH),5,0,5,5,2014-02-12,54.454197,-5.830682
+407959,ACORN ANNEXE AT OAKLEIGH HOUSE(407/FH/H),AwaitingInspection,nan,nan,nan,,54.225031,-5.909015
+407960,ACTION FOR CHILDREN/SURE START (17/FH/H),5,0,0,5,2013-06-03,54.315197,-5.709011
+407961,AJ'S DINER (127/FH),5,5,5,5,2014-03-12,54.396193,-5.761106
+407962,ALDO'S (DOWNS RESTAURANT) (159/FH/H),5,5,5,5,2014-02-20,54.260947,-5.61397
+407963,ALFIE MURRAY FAMILY BUTCHERS (204/FH/J),5,5,0,5,2013-02-27,54.400548,-5.649872
+407964,AMBLE IN B&B (804/FH/H),5,0,0,5,2013-08-01,,
+407965,ANCHOR BAR (283/FH/H),AwaitingInspection,nan,nan,nan,,54.252138,-5.641258
+407966,ANGELA'S HOME BAKING (466/FH/H),5,0,0,0,2014-03-10,54.401539,-5.652311
+407967,ANNSBOROUGH PRIMARY SCHOOL (589/FH),AwaitingInspection,nan,nan,nan,,54.24133,-5.896592
+407968,ANNSBOROUGH STORES (215/FH/G),AwaitingInspection,nan,nan,nan,,54.266355,-5.919894
+407969,ARDGLASS COMMUNITY PLAYGROUP (399/FH/H),5,0,0,5,2013-06-12,54.266018,-5.615013
+407970,ARDGLASS GOLF CLUB (BAR) (490/FH/H),AwaitingInspection,nan,nan,nan,,54.258617,-5.606599
+407971,ARDGLASS GOLF CLUB RESTAURANT (512/FH),4,10,0,10,2013-01-10,54.258617,-5.606599
+407972,ARDGLASS POST OFFICE (26/FH/G),AwaitingInspection,nan,nan,nan,,54.260724,-5.6068
+407973,ARDMORE SPECIAL SCHOOL (571/FH),5,0,0,0,2014-06-03,54.332245,-5.709124
+407974,ARDNABANNON OUTDOOR EDUCATION CTR (364/F,5,0,5,0,2014-08-07,54.265065,-5.915431
+407975,ARDVIEW HOUSE (172/FH/H),4,0,0,10,2013-08-13,54.258386,-5.611739
+407976,ARGOS (609/FH/G),Exempt,nan,nan,nan,,54.323955,-5.722144
+407977,ARKLE BAR (459/FH/G),AwaitingInspection,nan,nan,nan,,54.328365,-5.715366
+407978,ARLEY HOUSE BED & BREAKFAST (528/FH/H),5,0,0,0,2013-06-07,,
+407979,ASDA PETROL FILLING STATION (689/FH/G),5,0,0,5,2014-10-27,54.323955,-5.722144
+407980,ASDA STORES LTD (687/FH/G),5,5,0,5,2014-03-25,54.324845,-5.72025
+407981,ASSUMPTION GRAMMAR SCHOOL (556/FH),5,0,5,5,2014-01-20,54.405308,-5.896692
+407982,AUGHLISNAFIN PRIMARY SCHOOL (588/FH),5,0,0,0,2014-12-05,54.275735,-5.89401
+407983,AVOCA HOTEL (23/FH/H),5,5,0,0,2013-09-11,54.207481,-5.892489
+407984,B & M RETAIL (594/FH/G),5,5,5,5,2012-08-13,54.32632,-5.718907
+407985,BALLYKINLAR CROSS COMMUNITY PRESCHOOL (318/FH/H),5,0,0,0,2014-11-06,54.28581,-5.820823
+407986,BALLYNAHINCH PRIMARY SCHOOL (555/FH/),5,5,0,5,2014-02-27,54.399626,-5.905838
+407987,BALLYNAHINCH RUGBY FOOTBALL CLUB (33/FH,AwaitingInspection,nan,nan,nan,,54.382969,-5.920002
+407988,BAR AT DOWN ARTS CENTRE,5,0,0,0,2015-01-26,54.32882,-5.715248
+407989,BARBICAN (SUPERVALU) (9/FH/G) (P/LC/14),5,5,5,5,2014-02-17,,
+407990,BARNABY'S DAY NURSERY (384/FH/H),5,0,0,0,2013-11-28,54.315197,-5.709011
+407991,BARNVALE COTTAGE (140/FH/H),4,5,0,10,2014-08-28,54.260754,-5.932838
+407992,BARRETT'S (397/FH/G),4,0,10,10,2014-04-23,54.400548,-5.649872
+407993,BASE COFFEE COMPANY (651/FH/H),3,10,10,10,2014-06-25,54.207481,-5.892489
+407994,BEACH HOUSE (393/FH/H),AwaitingInspection,nan,nan,nan,,,
+407995,BEIJING HOUSE (439/FH/H),3,10,10,10,2013-09-18,54.396192,-5.761106
+407996,BELLS SPAR (CROSSGAR) (209/FH/G),5,5,5,5,2011-03-29,54.40405,-5.76861
+407997,B'HINCH HIGH SCHOOL-CENTRAL KITCHEN (557,5,5,5,5,2013-11-11,54.410213,-5.894114
+407998,BILBOS (311/FH/H),4,5,5,10,2014-01-10,54.25725,-5.943342
+407999,BLUEBIRD BAKERY (505/FH/J),5,0,0,0,2014-06-20,54.37827,-5.904401
+408000,BOX RED CATERING (473/FH/H),5,0,5,5,2014-01-02,54.232339,-6.037389
+408001,BRATWURST EXPRESS (782/FH/H,5,5,5,0,2013-09-25,54.219078,-5.888708
+408002,BRENDAN'S BAR (37/FH/H),0,20,15,20,2014-11-11,54.32632,-5.718908
+408003,BRENNANS (221/FH/G) P/LC/95,4,5,5,10,2014-07-25,54.331242,-5.836316
+408004,BRENNANS ICE CREAM (221A/FH/G),4,10,0,5,2014-06-13,54.331242,-5.836316
+408005,BRENNAN'S ICE CREAM (221A/FH/G),4,10,0,5,2014-06-13,54.331242,-5.836316
+408006,BRENNAN'S VIVO (94/FH/G),5,5,5,5,2013-03-27,54.258491,-5.842631
+408007,BRIGHT GOLF CLUB (478/FH/G),5,5,0,5,2014-03-31,54.274497,-5.689099
+408008,BRUNELS (582/FH/H),4,0,10,10,2014-12-10,54.20721,-5.893989
+408009,BRYANSFORD POST OFFICE (224/FH/G),4,0,5,10,2014-06-17,,
+408010,BURFORD LODGE (251/FH/H),5,0,0,5,2014-02-19,,
+408011,BURRENDALE HOTEL LTD (359/FH/H),3,10,10,10,2013-11-26,,
+408012,CABLE BAR (258/FH/G),5,0,0,0,2014-06-09,54.300418,-5.554962
+408013,CAFE CREME (214/FH/H),5,5,0,0,2013-06-07,,
+408014,CAFE MAUD'S (516/FH/H),5,5,5,5,2014-01-07,54.21191,-5.889871
+408015,CAFE Q (195/FH/H),5,0,5,5,2014-10-14,54.396192,-5.761106
+408016,CAFE ROSSI (74/FH/H),4,5,5,10,2014-02-10,54.402802,-5.896758
+408017,CAKES BY FIONA (338/FH/H),5,0,0,0,2014-10-14,54.265034,-5.612567
+408018,CAMPBELL AUTO REPAIRS (148/FH/G),Exempt,nan,nan,nan,2011-11-11,54.396122,-5.661614
+408019,CANDYBIRD CAKES (615/FH/H),5,0,0,5,2014-09-26,54.280887,-5.826335
+408020,CAPAA_CHILDREN & PARENTS & AUTISM (770/F,4,10,0,0,2014-07-31,54.324702,-5.69663
+408021,CARLISLE'S FRESH FOODS (47/FH/G),5,5,5,5,2014-11-26,54.411299,-5.895045
+408022,CARMAN'S INN (268/FH/G),AwaitingInspection,nan,nan,nan,,54.396193,-5.761106
+408023,CASTLE CORRIGS HOUSE (663/FH/H),AwaitingInspection,nan,nan,nan,,,
+408024,CASTLE FARM FRESH PRODUCE (789/FH/F),4,10,0,10,2013-04-12,54.272274,-5.854714
+408025,CASTLEWELLAN COMMUNITY PLAYGROUP (775/FH,4,5,10,5,2014-06-18,54.256292,-5.940889
+408026,CASTLEWELLAN PRIMARY SCHOOL (586/FH),5,0,5,0,2013-06-03,54.257001,-5.938214
+408027,CEDAR INTEGRATED PRIMARY SCHOOL (324/FH),4,10,0,0,2014-05-08,54.391796,-5.764333
+408028,CENTRAL BAR (654/FH/H),AwaitingInspection,nan,nan,nan,,54.400548,-5.649872
+408029,CHATTERBOX DAY NURSERY (408/FH/H),5,0,5,5,2014-11-11,54.217342,-5.90097
+408030,CHERRY VILLA BED & BREAKFAST (294/FH/H),AwaitingInspection,nan,nan,nan,,,
+408031,CHEUNGS (330/FH/H/),3,10,5,10,2013-08-08,54.326913,-5.713694
+408032,CHINA'S FINEST (642/FH/H),4,5,5,10,2014-02-17,54.402072,-5.895641
+408033,CHIPPY DOCK (446/FH/H),5,5,5,5,2014-08-07,54.257757,-5.943025
+408034,CHRYSALIS TEA ROOM @ BUTTERFLY HOUSE(553,4,10,5,5,2014-05-22,54.306519,-5.84164
+408035,CLARE LODGE (518/FH/H),5,5,0,5,2012-07-24,54.210011,-5.890183
+408036,COCO'S (514/FH/H),4,10,5,5,2014-03-13,54.209404,-5.89144
+408037,COLLEGE FILLING STATION (125/FH/G),4,10,0,5,2014-03-26,54.32632,-5.718908
+408038,CONEY ISLAND CARAVAN PARK (526/FH/G),AwaitingInspection,nan,nan,nan,,54.262423,-5.633717
+408039,CONNOLLY'S VIVO FOODSTORE (210/FH/G),5,5,5,5,2014-03-12,54.325211,-5.704949
+408040,CONVENT OF MERCY NURSERY SCHOOL (568/FH),5,0,0,0,2013-10-21,54.324614,-5.716128
+408041,CORNER INN (508/FH/H),AwaitingInspection,nan,nan,nan,,54.397621,-5.758149
+408042,CORNER SERVICE STATION (124/FH/G),Exempt,nan,nan,nan,,54.279772,-5.727378
+408043,CORRIEWOOD NURSING HOME (350/FH/H),5,5,5,0,2014-09-24,54.260553,-5.927921
+408044,COSTCUTTER (CENTRAL GARAGES) (83/FH/G),5,0,0,0,2014-01-14,54.397621,-5.758149
+408045,COUNTRY FRIED CHICKEN (522/FH),5,5,5,5,2013-09-24,54.326789,-5.716637
+408046,CRAIGNAGORE (316/FH/H),5,0,0,5,2014-01-15,54.199028,-5.890038
+408047,CRICKET CLUB/RESTAURANT (292/FH/H),5,0,5,5,2014-03-06,54.339321,-5.708437
+408048,CROSSGAR PHARMACY (544/FH/G),Exempt,nan,nan,nan,,54.397621,-5.758149
+408049,CRUMBLE CAKES (690/FH/H),5,0,0,0,2013-12-10,,
+408050,CUAN COURT CHILDREN'S HOME (488/FH/H),5,5,0,5,2012-04-24,54.3267,-5.698701
+408051,CUMRAN PRIMARY SCHOOL (608/FH),5,0,5,5,2013-10-03,54.290978,-5.838874
+408052,CURLEY'S OFF LICENCE (137/FH/G),Exempt,nan,nan,nan,,54.327873,-5.716946
+408053,CURRAN'S BAR SEAFOOD & STEAKHOUSE (253/F,5,nan,nan,nan,2014-09-25,54.280796,-5.591753
+408054,C'WELLAN CHRISTIAN CONFERENCE CENTRE(682,5,0,5,5,2013-10-25,54.258636,-5.942414
+408055,DACARA B&B (698/FH/H),AwaitingInspection,nan,nan,nan,,,
+408056,DAISIES CAFE (471/FH/H),5,5,5,5,2014-07-09,54.32632,-5.718908
+408057,DAISY LODGE (686/FH/H),5,5,5,5,2014-05-28,,
+408058,DALZELL'S FRESH FRUIT & VEGETABLES (40/F,5,5,0,5,2014-05-08,54.46046,-5.831677
+408059,DAYTODAY (462/FH/G),5,5,5,5,2014-11-25,54.21191,-5.889871
+408060,DE LA SALLE HIGH SCHOOL (579/FH/H),5,5,0,0,2010-02-22,54.328722,-5.704369
+408061,DELAMONT MINIATURE RAILWAY (511/FH/G),Exempt,nan,nan,nan,2014-08-06,54.385812,-5.676364
+408062,DELICIOUS SANDWICH COMPANY (223/FH/H),5,5,5,5,2013-03-27,54.21496,-5.889593
+408063,DELS DAINTY DONUTS (290/FH/H),5,5,0,5,2011-08-12,54.388273,-5.75658
+408064,DENVIRS HOTEL (104/FH/H),4,10,5,5,2014-03-04,54.328751,-5.717713
+408065,DEVLIN'S BUTCHERS (SPAR ARDGLASS) 778/FH,5,5,0,5,2013-11-26,54.266018,-5.615013
+408066,DOC'S FISH & CHIPS (791/FH/H),5,5,5,5,2014-03-07,54.262686,-5.609234
+408067,DOC'S TRADITIONAL FISH & CHIPS (681/FH/H,5,0,5,0,2010-09-21,54.33701,-5.712611
+408068,DONARD HOTEL (48/FH/H),3,10,5,10,2013-07-29,,
+408069,DONARD VIEW SERVICE STATION (411/FH),5,5,0,5,2014-05-08,54.404219,-5.884765
+408070,DONARD WINE SHOP & LOUNGE (48A/FH/H),AwaitingInspection,nan,nan,nan,,54.213767,-5.888688
+408071,DOWN HIGH SCHOOL (563/FH/H),5,0,5,5,2014-01-13,54.328722,-5.704369
+408072,DOWNPATRICK PRIMARY SCHOOL (564/FH/H),5,0,5,5,2014-01-16,54.329345,-5.719232
+408073,DOWNPATRICK RACE CLUB (666/FH),4,10,0,0,2011-12-21,54.320009,-5.723008
+408074,DOWNSHIRE HOSPITAL (110/FH/H),5,5,0,0,2014-06-06,54.324702,-5.69663
+408075,DOWNSHIRE KID'S CLUB (AFTER SCHOOL) 238/,5,5,0,5,2013-06-11,54.324702,-5.69663
+408076,DRUMANESS MILLS FC SOCIAL CLUB (627/FH/G,5,0,0,5,2014-09-30,54.368592,-5.852742
+408077,DRUMANESS PRIMARY SCHOOL (562/FH/H),5,5,0,0,2013-10-23,54.35385,-5.872709
+408078,DRUMAROAD PRIMARY SCHOOL (584/FH),5,5,0,5,2014-04-30,54.322167,-5.896818
+408079,DRUMLINS INTEGRATED PRIMARY SCHOOL (673/,5,0,0,0,2014-05-08,54.411363,-5.915329
+408080,DUBLIN ROAD MINI MART (VIVO) (225/FH/G),4,10,0,5,2013-07-03,54.232339,-6.03739
+408081,DUFFERIN ARMS (80/FH/H),5,nan,nan,nan,2014-11-25,54.400793,-5.651829
+408082,DUFFERIN COACHING INN (352/FH/H),5,0,0,5,2014-02-13,54.400793,-5.65183
+408083,DUNDRUM CROSS COMMUNITY PLAYGROUP (211/F,4,10,0,0,2014-11-07,54.258491,-5.842631
+408084,DUNDRUM INN STEAKHOUSE (451/FH/H),5,0,5,0,2014-12-09,54.25689,-5.845093
+408085,DUNLEATH HOUSE B&B (650/FH/H),AwaitingInspection,nan,nan,nan,,,
+408086,DUNNANELLY COUNTRY HOUSE (465/FH/H),5,0,0,0,2013-06-25,,
+408087,EAST DOWN YACHT CLUB (618/FH/G),AwaitingInspection,nan,nan,nan,,54.413674,-5.651124
+408088,EAST ESSENCE CHINESE RESTAURANT (509/FH/,4,5,5,10,2014-01-31,54.259099,-5.605558
+408089,EASTERN PEARL (317/FH/H),5,0,5,5,2014-07-30,54.257559,-5.941439
+408090,EASTERN PEARL (79/FH/H),4,10,0,0,2012-08-22,54.257753,-5.791992
+408091,EAT RAW FEEL GREAT (744/FH/H),AwaitingInspection,nan,nan,nan,,54.34791,-5.549666
+408092,EATING OPTIONS (456/FH/H),5,0,0,0,2014-12-05,54.460288,-5.834107
+408093,ENNISKEEN HOUSE HOTEL (34/FH/H),5,5,5,5,2014-05-13,,
+408094,ESSENCE HEALTH STORE (205/FH/G),5,0,0,5,2014-03-20,54.213767,-5.888688
+408095,EUROSPAR CLOUGH (729/FH/G),4,10,5,5,2014-09-02,54.305999,-5.843725
+408096,EXOTIKKA (256/FH/H),3,5,10,10,2014-02-04,54.209404,-5.89144
+408097,EXPRESS FRYER (706/FH/H),5,0,0,5,2013-06-26,54.235551,-5.909449
+408098,FABIO'S (711/FH/H),4,10,0,5,2014-02-18,54.257757,-5.943026
+408099,FAIRYGLEN (464/FH/H),AwaitingInspection,nan,nan,nan,,,
+408100,FINNEGANS BUTCHERS (379/FH/J),4,10,0,10,2014-01-17,54.256631,-5.944447
+408101,FISH CITY (413/FH/H),5,5,5,0,2014-02-13,54.4076,-5.89468
+408102,FISHBOURNE HOUSE NURSING HOME (11/FH),5,5,0,5,2013-08-13,54.459397,-5.825009
+408103,FOO KWAI RESTAURANT (362/FH/H),3,10,5,10,2014-03-25,54.400369,-5.898931
+408104,FORTUNE CHINESE RESTAURANT (360/FH/H),4,0,10,10,2013-12-11,54.401739,-5.89766
+408105,FORUM CHINESE HOT FOOD (500/FH/H),4,10,0,10,2014-03-19,54.329061,-5.715128
+408106,FOSTERS FAMILY BUTCHERS KILLYLEAGH (160/,5,5,5,5,2013-11-12,54.400793,-5.65183
+408107,FOUR ROADS INN (271/FH/H),AwaitingInspection,nan,nan,nan,,54.276042,-5.790676
+408108,FRENCH'S BISTRO (757/FH/H),5,5,0,5,2013-11-21,54.288467,-5.846178
+408109,FRESH FOOD CENTRE (202/FH/G),5,nan,nan,nan,2012-08-30,54.252939,-5.95769
+408110,FRESH FOOD CENTRE (385/FH/G),4,10,5,5,2014-02-03,54.258356,-5.941307
+408111,FRESH SEAFOOD SALES LTD (724/FH/G),AwaitingInspection,nan,nan,nan,,54.332249,-5.711707
+408112,FRESHWAYS (248/FH/G),3,10,10,10,2014-06-27,54.460359,-5.831589
+408113,FRIENDS DAY NURSERY (181/FH/H),5,0,0,5,2014-12-09,54.471856,-5.86358
+408114,FRIENDS DAY NURSERY (658/FH/H),5,5,0,0,2013-07-03,54.396505,-5.759026
+408115,FROTH (273/FH/H),4,5,10,5,2013-08-15,54.208519,-5.899456
+408116,FUNKY MONKEYS,5,0,5,5,2014-12-02,54.323393,-5.713813
+408117,FUNNY FARM ADVENTURE CENTRE (693/FH/H),5,5,5,0,2013-08-09,54.258533,-5.904618
+408118,GABBIES PHARMACY (302/FH/G),Exempt,nan,nan,nan,,54.400793,-5.65183
+408119,GAOLER'S KITCHEN (416/FH/H),5,0,0,0,2013-06-21,54.328713,-5.719513
+408120,GIBNEY'S (247/FH/G),4,10,5,5,2014-03-21,54.322229,-5.713539
+408121,GINESI'S RESTAURANT & CARRY-OUT (427/FH),3,10,10,10,2013-11-13,54.403468,-5.895785
+408122,GL CARE_BARDAN COTTAGE (468/FH/H),5,5,0,5,2014-02-12,54.214336,-5.890392
+408123,GLASSWATER LODGE RESIDENTIAL HOME (368/F,5,5,5,5,2014-02-07,,
+408124,GLASSWATER PLAYGROUP (560/FH/H),5,0,0,5,2013-03-21,54.399135,-5.77054
+408125,GLASSWATER PRIMARY SCHOOL (597/FH),4,10,0,5,2014-05-12,54.396455,-5.757335
+408126,GLEBE HOUSE (448/FH/H),5,0,0,5,2013-01-17,54.330045,-5.563844
+408127,GLEN FOLD (530/FH/H),5,0,0,0,2014-09-25,,
+408128,GLENADA CONFERENCE CENTRE (533/FH/H),5,5,5,5,2013-11-29,54.202104,-5.891736
+408129,GOLF LINKS HOUSE (709/FH/H),5,5,5,5,2014-03-19,,
+408130,GORDON CHEMISTS (629/FH/G),Exempt,nan,nan,nan,,54.401739,-5.89766
+408131,GORDON'S CHEMIST (525/FH/G),Exempt,nan,nan,nan,,,
+408132,GORDONS CHEMIST (621/FH/G),Exempt,nan,nan,nan,,54.327873,-5.716946
+408133,GRAHAM'S ICE CREAM (428/FH/G),4,10,0,5,2013-10-04,54.21191,-5.889871
+408134,GRANNY BO'S (643/FH/H),5,5,0,5,2013-08-12,54.401739,-5.89766
+408135,GRANNY JESSIES HOMEMADE FUDGE (426/FH/H),5,0,5,0,2013-01-25,54.459002,-5.831538
+408136,GREENAN'S STEAKHOUSE (259/FH/H),5,0,0,0,2013-12-04,54.22948,-6.052816
+408137,GREENVALE HOUSE RESIDENTIAL HOME(366/FH),4,5,0,10,2014-12-11,54.260754,-5.932838
+408138,GROVES CHEMIST (444/FH/G),Exempt,nan,nan,nan,,,
+408139,HALES FRUIT SALES (252/FH/G),AwaitingInspection,nan,nan,nan,,,
+408140,HALES FRUIT SALES LTD (714/FH/F),AwaitingInspection,nan,nan,nan,,54.216365,-5.92921
+408141,HALFORDS (246/FH/G),Exempt,nan,nan,nan,2014-07-07,54.323955,-5.722144
+408142,HAMILTON FOLD (502/FH/H),5,0,5,0,2014-09-23,54.403689,-5.898161
+408143,HAMILTON'S (63/FH/J),4,10,5,5,2013-02-19,54.397621,-5.758149
+408144,HANLONS (342/FH/G),4,10,0,10,2014-12-03,54.327906,-5.716283
+408145,HANNAWIN'S MEDICAL HALL LTD (329/FH),Exempt,nan,nan,nan,,54.403468,-5.895785
+408146,HAPPY CHEF CATERING (637A/FH/H),5,5,0,0,2013-08-06,54.207078,-5.899269
+408147,HAPPY CHILDREN DAY NURSERY (783/FH/H),5,0,5,5,2014-01-14,54.403468,-5.895785
+408148,HARBOUR HOUSE INN (312/FH/H),4,10,5,5,2013-04-19,54.202104,-5.891736
+408149,HARBOUR MACE (394/FH/G),3,10,5,10,2013-11-19,54.198834,-5.888699
+408150,HAZELS (220/FH/G),Exempt,nan,nan,nan,,54.46046,-5.831677
+408151,HENDERSON'S SPAR (373/FH/G),5,0,0,0,2013-03-25,54.266018,-5.615013
+408152,HERRON'S COUNTRY FRIED CHICKEN (301/FH,5,0,0,5,2014-03-05,54.401739,-5.89766
+408153,HERRONS COUNTRY FRIED CHICKEN (41/FH/H),5,0,0,0,2012-11-16,,
+408154,HILLHOUSE (293/FH/H),4,0,5,10,2012-08-22,,
+408155,HILLSIDE B&B (551/FH/H),5,0,0,5,2014-03-10,,
+408156,HILLYARD HOUSE RESTAURANT (543/FH/H),4,10,5,5,2014-03-14,54.258636,-5.942414
+408157,HOLY FAMILY PRIMARY SCHOOL (575/FH),4,10,0,0,2014-06-03,54.369515,-5.79089
+408158,HOME FROM HOME DAYCARE (521/FH/H),5,0,0,0,2013-03-20,54.272275,-5.854715
+408159,HONEY BEE BAKERY (400/FH/H),5,0,0,5,2012-08-29,,
+408160,HOT CROSS BAKERY (442/FH/J),3,10,5,10,2014-10-01,54.399647,-5.651171
+408161,HUGH BANNON (16/FH/G),3,10,10,5,2013-05-23,54.364367,-5.880075
+408162,HUNTFIELD SERVICE STATION (132/FH/G),2,15,0,10,2012-05-31,54.405516,-5.893678
+408163,I K MEATS (43/FH/J),5,5,5,5,2013-02-20,54.262686,-5.609234
+408164,I K MEATS (494/FH/J),5,5,5,5,2013-02-21,54.326506,-5.716376
+408165,ICELAND FROZEN FOODS (254/FH/G),4,10,0,0,2014-03-14,54.401739,-5.89766
+408166,ICYCLES NI (699/FH/G),5,0,0,5,2013-05-01,54.209896,-5.895937
+408167,INISCORA/DOWNE RESIDENTIAL PROJECT (437/,4,0,0,10,2013-10-09,54.32522,-5.716801
+408168,INISMOR CARE HOME (668/FH/H),5,0,0,5,2012-12-11,54.326506,-5.716376
+408169,INKYDOO (18/FH/H),AwaitingInspection,nan,nan,nan,,54.403468,-5.895785
+408170,J & N CHARLES NEWSAGENTS (625/FH/G),AwaitingInspection,nan,nan,nan,,54.403468,-5.895785
+408171,JACKSON LIFESTYLES (727/FH/H),5,5,0,5,2014-06-17,54.460288,-5.834107
+408172,JAMES NICHOLSON WINE MERCHANTS (144/FH),Exempt,nan,nan,nan,,54.397621,-5.758149
+408173,JAVAMAN COFFEE (262/FH/G),5,0,0,0,2014-02-19,54.366994,-5.784239
+408174,JAYS COFFEE SHOP AT CENTRAL GARAGES (51/,5,0,5,5,2013-12-05,54.397621,-5.758149
+408175,JOE HANNA'S (MACE) (212/FH/G),4,5,10,5,2013-04-23,54.401922,-5.896803
+408176,JOE'S ICES (198/FH/G),5,0,0,0,2012-07-04,54.229474,-5.901015
+408177,JOE'S QUALITY MEATS (62/FH/J),5,5,5,0,2013-08-29,,
+408178,JOHN COLGAN'S (82/FH/G),5,5,5,0,2013-05-28,54.396009,-5.762348
+408179,JOHN MAC'S (288/FH/H),5,5,0,5,2015-01-09,54.209403,-5.89144
+408180,JR'S DISCOUNT STORE (230/FH/G),Exempt,nan,nan,nan,2013-05-30,54.257757,-5.943026
+408181,JUST KIDS (536/FH/H),5,0,0,5,2014-07-24,54.458864,-5.82934
+408182,KATIE JAYNES (424/FH/H),4,10,0,10,2014-02-18,54.460288,-5.834107
+408183,KELLYS QUALITY MEATS (527/FH/J),4,5,5,10,2013-02-28,54.366296,-5.847953
+408184,KENTUCKY FRIED CHICKEN (284/FH/H),4,10,5,5,2014-04-18,54.21191,-5.889871
+408185,KIDS KABIN PRESCHOOL & PLAYGROUP (741/FH,5,0,0,0,2013-11-12,54.322168,-5.896818
+408186,KIDS WORLD (116/FH/H),AwaitingInspection,nan,nan,nan,,54.209404,-5.89144
+408187,KILLOUGH PLAYGROUP (185/FH/H),3,5,10,10,2014-06-26,54.257059,-5.645674
+408188,KILLYLEAGH EARLY YEARS PLAYGROUP (357/FH,3,10,5,10,2014-11-28,54.405782,-5.65749
+408189,KILLYLEAGH OUTDOOR EDUCATION CENTRE (538,5,0,0,0,2013-06-12,54.391,-5.655592
+408190,KILLYLEAGH PRIMARY SCHOOL (613/FH),5,5,0,0,2014-06-04,54.405782,-5.65749
+408191,KILLYLEAGH YACHT CLUB (487/FH/H),5,0,0,5,2013-07-02,54.394928,-5.647822
+408192,KILMORE POST OFFICE/TODAY'S LOCAL (470/F,AwaitingInspection,nan,nan,nan,,54.384937,-5.77442
+408193,KIM ON INN (365/FH/H),5,5,5,5,2014-05-12,54.327788,-5.716243
+408194,KINGS CASTLE NURSING HOME (24/FH/H),1,10,15,20,2014-09-08,54.259705,-5.607994
+408195,KING'S INN (272/FH/H),5,5,5,5,2013-06-19,54.256631,-5.944447
+408196,KINLAR CAKES (480/FH/H),5,0,0,0,2013-06-13,,
+408197,KIRK BUTCHERS (57/FH/J),4,10,5,5,2014-09-24,54.464191,-5.830755
+408198,KNOCKEVIN SPECIAL SCHOOL (570/FH),5,0,0,0,2013-06-14,54.319631,-5.712054
+408199,KUNG FOOD (517/FH/H),4,5,5,10,2014-02-11,54.4076,-5.89468
+408200,L H WILLS & SONS (44/FH/J),3,10,10,10,2013-02-26,54.259705,-5.607994
+408201,LA GNOSCA (773/FH/H),1,15,15,20,2014-03-13,54.253826,-5.745395
+408202,LAKESIDE INN (631/FH/H),AwaitingInspection,nan,nan,nan,,54.309367,-5.759831
+408203,LECALE LODGE CARE HOME (109/FH/H),5,5,5,5,2013-12-10,54.339322,-5.708438
+408204,LEGAMADDY PRIMARY SCHOOL (574/FH),5,5,0,5,2013-10-17,54.369515,-5.79089
+408205,LENNON & SON (780/FH/G),5,5,0,0,2014-03-18,54.236393,-5.92016
+408206,LIDL (476/FH/G),5,0,0,0,2012-03-13,,
+408207,LIDL NORTHERN IRELAND (59/FH/G),5,5,0,0,2012-03-23,54.214879,-5.888033
+408208,LIDL NORTHERN IRELAND GMBH (92/FH/G),5,5,0,0,2014-10-13,54.32632,-5.718908
+408209,LIGHT 'N' LIFE CROSS CENTRE (685/FH/H),4,0,5,10,2014-02-19,54.400548,-5.649872
+408210,LIMONI'S (767/FH/H),4,10,5,5,2014-04-24,54.258137,-5.940551
+408211,LITTLE NIPPERS CRECHE (143/FH/H),5,5,0,5,2014-07-31,54.391,-5.655592
+408212,LITTLE WHITE PIZZA TRUCK (662/FH/H),5,0,0,5,2013-05-16,54.199185,-5.890811
+408213,LITTLEONES DAY NURSERY (126/FH/H),5,0,0,5,2015-01-27,54.319631,-5.712054
+408214,LJC WINES & SPIRITS LTD (TURLEY'S) (274/,AwaitingInspection,nan,nan,nan,,54.329061,-5.715128
+408215,LONE STAR PIZZA (90/FH/H),5,5,0,5,2013-06-25,54.327906,-5.716283
+408216,LOUGHINISLAND CROSS COMMUNITY PLAYGROUP,5,0,0,5,2013-09-13,54.338235,-5.820509
+408217,LUCKY BOAT (243/FH/H),5,5,5,5,2013-07-26,54.46046,-5.831677
+408218,LUCKY FISH (308/FH/H),3,10,10,10,2013-11-08,54.32632,-5.718908
+408219,LUCY ANNIE'S BAKERY & COFFEE HOUSE (306/,5,0,0,5,2012-04-12,54.315197,-5.709011
+408220,M & M CATERING (320A/FH/H,4,5,0,10,2011-03-24,54.257477,-5.847257
+408221,MACE (389/FH/G),AwaitingInspection,nan,nan,nan,,54.329061,-5.715128
+408222,MACE FOOD CENTRE (4/FH/G),4,5,5,10,2013-07-29,54.358136,-5.7537
+408223,MACE SUPERMARKET (7/FH/G),3,10,5,10,2014-03-31,54.396193,-5.761106
+408224,MACKEN'S BAR (266/FH/G),AwaitingInspection,nan,nan,nan,,,
+408225,MADEX'S TASTY TREATS (665/FH/H),5,0,5,5,2014-01-03,54.399199,-5.887503
+408226,MAGIC KINGDOM DAY NURSERY (537/FH/H),5,5,0,5,2015-01-26,54.249713,-5.933467
+408227,MAGINN'S BARS (117/FH/H),5,5,5,5,2014-03-27,54.258357,-5.941307
+408228,MAIN STREET DINER (297/FH/H),4,10,0,10,2014-06-12,54.460288,-5.834107
+408229,MAINSTAY DRP (167/FH/H),5,0,0,5,2013-08-20,54.315196,-5.709011
+408230,MANGE TOUT CAFE/DELI/PATISSERIE (766/FH/,4,0,10,10,2014-07-03,54.345108,-5.735539
+408231,MARKET STREET CHILDREN & DISABILITY SERV,4,5,0,10,2012-04-30,54.32632,-5.718908
+408232,MARKO'S ICES_ICE CREAM VAN (166/FH/G),4,0,10,10,2013-07-24,54.420924,-5.868002
+408233,MARTIN'S GROCERY STORE (333/FH/G),4,0,10,10,2012-08-15,54.270797,-5.930509
+408234,MARY MURRAY HOUSE(AUTISM INITIATIVES)15/,4,10,0,5,2014-04-16,54.204024,-5.894673
+408235,MAXOL GARAGE (SPAR) (141/FH/G,3,10,5,10,2014-05-20,54.458863,-5.829339
+408236,MAYFLOWER (322/FH/H),4,5,0,10,2014-03-25,54.46046,-5.831677
+408237,MCCARTHYS SANDWICH BAR (150/FH/H),4,0,10,10,2013-09-04,54.396193,-5.761106
+408238,MCDONALDS RESTAURANT (492/FH/H),5,5,0,0,2013-11-18,54.323955,-5.722144
+408239,MCGEE'S BUTCHER (723/FH/J),5,5,5,0,2012-01-18,54.324844,-5.72025
+408240,MCGREEVY'S BUTCHERS (134/FH/J),5,5,5,5,2013-02-22,,
+408241,MCMULLAN'S WINE STORE (449/FH/G),Exempt,nan,nan,nan,,54.401739,-5.89766
+408242,MCNEILL ROOM TRAINING RESTAURANT (187/FH,4,0,5,10,2014-03-24,,
+408243,MEADOWSIDE FILLING STATION (128/FH/G),AwaitingInspection,nan,nan,nan,,54.331547,-5.715451
+408244,MEDICARE (DEENY'S) PHARMACY (304/FH/G),Exempt,nan,nan,nan,,54.326331,-5.716678
+408245,MEDICARE THORNTONS (484/FH/G),Exempt,nan,nan,nan,,54.207481,-5.892489
+408246,MEELMORE LODGE (96/FH/H),4,5,0,10,2013-07-17,54.212419,-5.991654
+408247,MILLBROOK LODGE HOTEL (307/FH/H),4,10,5,5,2013-10-28,54.331176,-5.880676
+408248,MILLIGAN'S (239/FH/G),3,5,10,10,2013-05-29,54.260344,-5.611687
+408249,MINERSTOWN TAVERN (325/FH/H),5,0,5,5,2013-03-14,54.253581,-5.721361
+408250,MONTALTO HOUSE (722/FH/H),5,0,5,5,2013-07-08,,
+408251,MOONEY BROS BAR & LOUNGE (152/FH/H),AwaitingInspection,nan,nan,nan,,54.258137,-5.940551
+408252,MOONEY'S CHEMIST (207/FH/G),Exempt,nan,nan,nan,,54.328821,-5.715249
+408253,MORRISON'S VIVOXTRA (130/FH/G),5,0,5,5,2014-01-08,54.4076,-5.89468
+408254,MORRISON'S VIVOXTRA (611/FH/G),4,10,10,0,2013-02-12,54.457636,-5.839598
+408255,MOUNTAIN & SEA B&B (657/FH/H),5,5,5,5,2012-05-15,,
+408256,MOUNTVIEW ADULT RESOURCE CENTRE (170/,5,5,0,5,2013-10-15,54.319853,-5.700129
+408257,MOURNE FRESH FOODS (192/FH/G),5,5,0,0,2013-09-23,54.217487,-5.891212
+408258,MOURNE SEAFOOD BAR (412/FH/H),4,10,0,10,2013-08-07,54.258491,-5.842631
+408259,MR JINGLES/BO'S ICES (728/FH/G),5,0,0,0,2012-05-03,54.28076,-5.581911
+408260,MRS MARSHMALLOW (50/FH/H),5,0,5,5,2015-01-16,,
+408261,MULLANS BAR (175/FH/H),4,10,0,10,2012-11-09,54.331066,-5.716139
+408262,MURPHY'S BAR & RESTAURANT (158/FH/H),4,nan,nan,nan,2014-01-06,54.32632,-5.718908
+408263,N & R GORDON CHEMISTS (443/FH/G),Exempt,nan,nan,nan,,54.460288,-5.834107
+408264,NAISCOIL CHILL LOCHA (771/FH/H),5,0,0,0,2012-09-27,54.252138,-5.641258
+408265,NATIONAL TRUST CASTLEWARD COACH-HOUSE,5,0,0,0,2013-10-09,54.372186,-5.58151
+408266,NEW CINNAMON INDIAN RESTAURANT,5,0,0,5,2014-12-10,54.212644,-5.888162
+408267,NEW DOWNE HOSPITAL (122/FH/H),4,0,0,10,2014-03-11,54.322954,-5.687519
+408268,NEW LOOK RETAILERS (772/FH/G),Exempt,nan,nan,nan,2012-02-01,54.323955,-5.722144
+408269,NEWCASTLE PRESCHOOL PLAYGROUP (227/FH/H),5,0,5,5,2013-09-19,54.209404,-5.89144
+408270,NEWCASTLE PRIMARY SCHOOL (612/FH),5,5,0,0,2014-06-17,54.215297,-5.890327
+408271,NEWCASTLE YACHT CLUB LTD (483/FH/H/ ),Exempt,nan,nan,nan,2014-09-16,54.202104,-5.891736
+408272,NIKI'S KITCHEN CAFE (798/FH/H),4,10,10,0,2013-07-05,54.206427,-5.89337
+408273,NORMA J'S (331/FH/H),5,0,0,0,2014-05-22,54.323393,-5.713813
+408274,NORR AND BROWN (674/FH/J),5,5,5,5,2014-01-31,54.460507,-5.829793
+408275,NUMBER 10 (295/FH/H),AwaitingInspection,nan,nan,nan,,,
+408276,NUTGROVE HOUSE (129/FH/H),5,0,0,0,2013-02-05,,
+408277,OAK GRILL (161/FH/H),5,0,0,0,2014-05-27,54.257757,-5.943026
+408278,OAKLEY FAYRE (72/FH/H),3,10,10,10,2013-09-25,54.327906,-5.716283
+408279,OAKRIDGE CARE HOME (369/FH/H),4,10,5,5,2014-11-20,54.417425,-5.910984
+408280,OASIS BAR & GRILL (510/FH/H),4,10,5,5,2014-02-13,54.400369,-5.898931
+408281,OCEAN PALACE (454/FH/H),3,10,10,10,2014-07-03,54.258137,-5.940551
+408282,O'CONNOR'S (758/FH/G),AwaitingInspection,nan,nan,nan,,54.322168,-5.896818
+408283,O'HARE'S EUROSPAR DRUMANESS (151/FH/G),4,10,0,10,2014-12-10,54.368592,-5.852742
+408284,O'HARES LOUNGE BARS-CENTRAL PARK (314/FH,3,10,5,10,2014-06-13,54.206427,-5.89337
+408285,OLIVE BIZARRE (720/FH/H),5,5,0,5,2013-07-22,54.198833,-5.888699
+408286,ON A ROLL (440/FH/H),5,0,0,0,2013-12-10,54.257757,-5.943026
+408287,ORCHARD GROVE RESIDENTIAL HOME (367/FH),5,5,0,5,2013-03-11,54.290978,-5.838874
+408288,OUR LADY & ST PATRICK'S PRIMARY SCHOOL (,5,5,5,0,2013-03-22,54.326349,-5.708621
+408289,PADDINGTON LODGE NURSERY (196/FH/H),5,5,5,5,2014-02-04,54.46944,-5.847446
+408290,PADDY'S BARN (SLOAN) LTD (194/FH/H),5,5,5,0,2013-01-11,54.342757,-5.67335
+408291,PADDY'S SLEEPY ORCHARD (644/FH/H),5,0,0,5,2013-04-03,,
+408292,PANDA CHINA (655/FH/H),2,10,15,10,2012-05-01,54.331066,-5.716139
+408293,PANNY'S KITCHEN (392/FH/H),5,0,0,5,2014-04-08,,
+408294,PARISH CENTRE (503/FH/H),4,10,0,0,2014-06-12,,
+408295,PASSAGE TO INDIA (261/FH/H),4,5,5,10,2014-02-13,54.326331,-5.716678
+408296,PAULA'S (391/FH/G),5,5,0,5,2015-01-07,54.257757,-5.943025
+408297,PAWS 4 TEA (113/FH/H),4,10,5,5,2014-08-05,54.256125,-5.847988
+408298,PEKING CORNER (349/FH/H),4,5,5,10,2014-01-06,,
+408299,PEKING GARDEN (422/FH/H),2,15,10,10,2013-08-06,54.315196,-5.709011
+408300,PEKING GARDEN (6/FH/H),5,5,5,5,2014-04-23,54.400548,-5.649872
+408301,PEKING GARDEN (730/FH/H),4,5,5,10,2013-12-09,54.403406,-5.898406
+408302,PERCY FRENCH BAR/RESTAURANT (107/FH),4,5,5,10,2013-05-08,54.212644,-5.888163
+408303,PHEASANTS HILL FARM/IVY CATERING (735/FH,4,10,5,5,2013-11-25,54.36643,-5.700296
+408304,PICNIC DELICATESSEN (200/FH/H),4,10,5,5,2014-02-26,54.400793,-5.651829
+408305,PIZZA PALAZZO (191/FH/H),4,nan,nan,nan,2014-02-25,54.21191,-5.889871
+408306,PIZZERIA BELLA NAPOLI (182/FH/H),3,10,10,10,2013-11-27,54.396193,-5.761106
+408307,POOLES BUTCHERS (142/FH/J),5,5,5,5,2014-09-09,54.401739,-5.89766
+408308,POUNDLAND (747/FH/G),5,0,0,0,2013-02-26,54.403468,-5.895785
+408309,POUNDLAND (765/FH/G),5,5,0,5,2013-11-11,54.327906,-5.716283
+408310,PRESTIGE CATERING NI LTD (666A/FH/H),5,5,5,5,2013-12-13,54.320008,-5.723007
+408311,QUAY VIEW (THE QUAYS RESTAURANT) (361/FH,3,10,5,10,2014-03-11,54.256125,-5.847988
+408312,QUINNS BAR (263/FH/H),4,10,0,10,2013-11-05,,
+408313,QUINN'S OFF SALES (237/FH/G),AwaitingInspection,nan,nan,nan,,,
+408314,QUINN'S STORES (SPAR) (64/FH/G),5,5,5,5,2014-01-13,54.337283,-5.688222
+408315,QUINN'S TRADITIONAL FISH & CHIPS (105/FH,4,5,10,5,2014-07-31,54.396193,-5.761106
+408316,QUOILE TAVERN (275/FH/H),AwaitingInspection,nan,nan,nan,,54.329061,-5.715128
+408317,R W MASSEY'S (67/FH/J),5,0,0,0,2013-02-28,54.460288,-5.834107
+408318,RATHKELTAIR CROSS COMMUNITY PLAYGROUP (296/FH/H),5,5,0,5,2014-11-14,54.334151,-5.705389
+408319,RAW SPICE (779/FH/H),4,5,0,10,2014-09-22,,
+408320,REDBURN CLINIC (354/FH/H),3,10,10,5,2014-09-17,54.4076,-5.89468
+408321,RICHARD'S BUTCHERS (378/FH/J),5,5,5,5,2014-10-28,54.328365,-5.715366
+408322,RINGDUFFERIN NURSING HOME (343/FH/H),5,5,0,5,2014-12-01,54.43333,-5.647671
+408323,RIVER HOUSE RESIDENTIAL HOME (111/FH/H),5,0,5,5,2013-11-05,54.206427,-5.89337
+408324,ROADSIDE CATCH (715/FH/H),5,5,5,5,2013-10-21,54.305565,-5.856148
+408325,ROADSIDE CATCH (715A/FH/H,3,10,10,10,2014-09-14,54.305565,-5.856148
+408326,ROCKMOUNT DAY NURSERY (678/FH/H),4,10,0,5,2014-10-06,54.401657,-5.921997
+408327,ROCKMOUNT OUT OF SCHOOL CLUB (781/FH/H),4,0,10,10,2014-06-16,54.399626,-5.905838
+408328,ROUND HOUSE OFF SALES (469/FH/G),Exempt,nan,nan,nan,,54.324148,-5.711911
+408329,"ROWALLANE GARDENS, ROWALLANE HOUSE",5,5,0,0,2013-08-23,54.454197,-5.830682
+408330,ROWALLANE INN (38/FH/H),AwaitingInspection,nan,nan,nan,,54.460898,-5.831037
+408331,ROYAL CO DOWN LADIES GOLF CLUB (460A/FH/,5,0,0,0,2014-11-12,54.215994,-5.88652
+408332,ROYAL COUNTY DOWN GOLF CLUB (460/FH),5,5,0,5,2014-12-03,,
+408333,RYANS' B & B (455/FH/H),5,0,0,0,2014-08-04,,
+408334,S & P MILLIGAN - B'HINCH MARKET (29/FH,3,10,10,5,2013-05-23,54.401922,-5.896803
+408335,SACRED HEART PRIMARY SCHOOL KITCHEN (600,4,10,0,0,2014-05-21,,
+408336,SAFE & SOUND DAY CARE NURSERY (103/FH/H),5,0,0,0,2014-04-03,54.385949,-5.872357
+408337,SAINTFIELD CENTRAL KITCHEN (596/FH),5,5,0,5,2013-10-24,54.464191,-5.830755
+408338,SAINTFIELD GRIDDLE (14/FH/J),4,5,5,10,2013-11-04,54.46046,-5.831677
+408339,SAINTFIELD MART CANTEEN (36/FH/H),4,nan,nan,nan,2014-01-08,54.480656,-5.839017
+408340,SAINTS GOURMET FOOD (118/FH/H),5,5,5,0,2013-07-25,54.46046,-5.831677
+408341,SAVAGES BAR (370/FH/G),AwaitingInspection,nan,nan,nan,,54.325234,-5.712327
+408342,SAVERS HEALTH & BEAUTY (235/FH/G),Exempt,nan,nan,nan,2012-02-15,54.327905,-5.716283
+408343,SAVOY CAFE (123/FH/H),5,5,5,5,2013-11-22,,
+408344,SEA GEMS (345/FH/H),4,10,5,5,2014-01-08,54.259099,-5.605558
+408345,SEA PALACE (56/FH/H),4,5,5,10,2014-02-18,54.21191,-5.889871
+408346,SEASALT (255/FH/H),3,10,10,10,2012-12-05,54.207481,-5.892489
+408347,SEECONNELL PRIVATE VILLAGE (291/FH/H),5,5,5,5,2014-01-20,54.315676,-5.957195
+408348,SHELLYS (244/FH/H),4,10,5,5,2014-07-08,54.402072,-5.895641
+408349,SHIMNA DINER (303/FH/H),4,10,5,5,2013-10-30,,
+408350,SHIMNA INTEGRATED COLLEGE (622/FH/H),5,5,5,5,2014-11-13,,
+408351,SILVER BIRCH LODGE NURSING HOME (433/FH),5,5,0,0,2014-04-25,54.455905,-5.827199
+408352,SLIEVE DHU PRIVATE NURSING HOME (60/FH),5,nan,nan,nan,2014-05-15,,
+408353,SLIEVE DONARD HOTEL (35/FH/H),5,5,5,0,2013-11-13,,
+408354,SMALL'S BUTCHERS (61/FH/J),4,5,5,10,2014-03-03,54.213743,-5.888306
+408355,SMYTH'S MUNCHBOX (49/FH/H),3,10,10,10,2014-03-25,54.258386,-5.611739
+408356,SMYTH'S NEWSAGENTS (CENTRA) (32/FH/G),Exempt,nan,nan,nan,2014-10-27,,
+408357,SMYTH'S OF DARRAGH CROSS (163/FH/G),3,5,10,10,2013-10-22,54.450275,-5.763922
+408358,SPA GOLF CLUB (504/FH/G),AwaitingInspection,nan,nan,nan,,54.395247,-5.911912
+408359,SPA NURSING HOME (12/FH/H),5,5,5,5,2014-01-17,54.37827,-5.904401
+408360,SPA PRIMARY SCHOOL (558/FH/H),5,5,0,5,2014-10-20,54.37705,-5.892658
+408361,SPANG ENTERPRISES (MAUD'S) (335/FH),5,5,5,5,2012-01-18,54.403468,-5.895785
+408362,SPAR (472/FH/G),4,10,10,0,2015-01-09,54.398173,-5.654828
+408363,SPAR (540/FH/G),5,5,0,5,2014-03-28,54.368066,-5.558961
+408364,SPAR SUPERMARKET (701/FH/G),4,10,5,5,2014-02-04,,
+408365,ST BRIGID'S PRIMARY SCHOOL (577/FH),5,0,0,0,2014-12-15,54.33415,-5.705388
+408366,ST CAOLAN'S PRIMARY SCHOOL (610/FH),5,5,0,0,2013-11-22,54.45002,-5.763211
+408367,ST COLMAN'S HIGH&SIXTH FORM COLLEGE(561/,5,0,0,5,2013-11-06,54.404318,-5.88687
+408368,ST COLMCILLE'S HIGH SCHOOL (601/FH),5,5,0,5,2013-11-06,54.397525,-5.752502
+408369,ST COLMCILLE'S PRIMARY SCHOOL (566/FH),5,0,5,0,2013-12-10,54.316275,-5.711856
+408370,ST JOSEPH'S PRIMARY SCHOOL (337/FH),AwaitingInspection,nan,nan,nan,,54.268258,-5.785181
+408371,ST JOSEPH'S PRIMARY SCHOOL (598/FH),5,0,0,0,2013-11-22,54.399135,-5.770541
+408372,ST JOSEPH'S PRIMARY SCHOOL (599/FH),5,5,0,0,2013-12-10,,
+408373,ST JOSEPH'S PRIMARY SCHOOL (602/FH),5,5,0,0,2013-10-28,54.257059,-5.645674
+408374,ST JOSEPH'S PRIMARY SCHOOL (603/FH),5,5,0,0,2014-05-16,54.368066,-5.558961
+408375,ST MACARTAN'S PRIMARY SCHOOL (573/FH),AwaitingInspection,nan,nan,nan,,54.338235,-5.820509
+408376,ST MALACHY'S HIGH SCHOOL (341/FH),5,5,0,5,2013-11-07,54.256895,-5.947273
+408377,ST MALACHY'S PRIMARY SCHOOL (585/FH),5,5,0,0,2014-12-01,54.257448,-5.944928
+408378,ST MALACHY'S SCHOOL (604/FH),5,5,5,5,2014-05-09,54.235553,-6.029491
+408379,ST MARY'S HIGH SCHOOL (572/FH/H),5,0,5,0,2013-10-07,54.324068,-5.705812
+408380,ST MARY'S PRIMARY SCHOOL (606/FH),5,0,0,5,2014-03-31,54.405498,-5.649327
+408381,ST MARY'S PRIMARY SCHOOL (607/FH),AwaitingInspection,nan,nan,nan,,54.454291,-5.826868
+408382,ST MARY'S PRIMARY SCHOOL MEALS KITCHEN (,5,0,0,0,2014-06-17,54.216485,-5.895096
+408383,ST NICHOLAS PRIMARY SCHOOL (592/FH/H),5,0,5,5,2013-10-10,54.266018,-5.615013
+408384,ST PATRICKS GOLF CLUB (633/FH/H),3,10,5,10,2014-07-30,54.335468,-5.69675
+408385,ST PATRICK'S GRAMMAR SCHOOL (583/FH),5,5,5,0,2013-11-12,54.332245,-5.709124
+408386,ST PATRICK'S PRIMARY SCHOOL KITCHEN (559,5,5,5,0,2013-12-09,54.40475,-5.894626
+408387,ST PATRICK'S SCHOOL - C'WELLAN (587/FH/H,4,10,0,0,2013-10-03,54.239203,-5.950484
+408388,STEELE'S BUTCHERS (684/FH/J),5,0,0,0,2013-02-25,54.214879,-5.888034
+408389,STRAND RESTAURANT & HOME BAKERY (65/FH/J,4,10,0,10,2014-02-06,,
+408390,STRANGFORD COURT CARE HOME (109A/FH),4,5,10,5,2014-09-17,54.339322,-5.708438
+408391,STRUELL LODGE RESIDENTIAL RESOURCE CENTR,5,5,0,0,2011-09-19,54.325161,-5.702815
+408392,SUBWAY (55/FH/H),3,10,10,10,2014-03-10,,
+408393,SUBWAY (725/FH/H),4,5,0,10,2014-02-25,54.401739,-5.89766
+408394,SUBWAY (769/FH/H),5,0,0,5,2013-01-07,54.32632,-5.718908
+408395,SUCOS SHAKE 'N' JUICE (515/FH/G),5,0,5,5,2014-10-10,54.209404,-5.89144
+408396,SUNNYSIDE HOME BAKERY (52/FH/J),5,5,0,5,2014-05-21,54.403468,-5.895785
+408397,SUPERDRUG STORES PLC (240/FH/G),Exempt,nan,nan,nan,,54.403468,-5.895785
+408398,SUPERDRUG STORES PLC (680/FH/G),Exempt,nan,nan,nan,,54.21191,-5.889871
+408399,SUPERVALU (381/FH/G),5,5,5,5,2014-02-24,54.315197,-5.709011
+408400,SUPERVALU BALLYNAHINCH (121/FH/G),4,5,5,10,2013-11-06,54.403405,-5.898406
+408401,SURE START_KILLOUGH COMMUNITY HALL (653/,5,5,0,0,2014-05-15,54.252138,-5.641258
+408402,SU'S THAI COOKING (242/FH/H),5,0,0,0,2014-05-16,,
+408403,SWAN LODGE (554/FH/H),5,0,0,0,2014-03-05,,
+408404,T WITHERS BUTCHERS (88/FH/J),5,5,5,5,2014-09-11,54.399091,-5.756513
+408405,TARA'S CONVENIENCE STORE (790/FH/G),4,10,5,5,2013-05-29,54.307939,-5.549199
+408406,TASTY TUCKER (535/FH/H),5,0,0,5,2012-09-18,54.372155,-5.899495
+408407,TASTYLICIOUS (176/FH/H),3,10,10,10,2013-12-11,54.331242,-5.836316
+408408,TATTY TORTOISE CAKES (474/FH/H),5,0,0,0,2014-10-17,,
+408409,TECONNAUGHT CROSS COMMUNITY PLAYGROUP,5,0,5,0,2013-06-26,54.369515,-5.79089
+408410,TEL'S CONFECTIONERY (287/FH/G),AwaitingInspection,nan,nan,nan,,54.326506,-5.716376
+408411,TESCO (703/FH/G),5,0,0,5,2014-03-25,54.221343,-5.890786
+408412,"THE ""TIP TOP"" (136/FH/G)",Exempt,nan,nan,nan,,,
+408413,THE ANNE BOAL INN (281/FH/H),AwaitingInspection,nan,nan,nan,,54.257059,-5.645674
+408414,THE AVENUE BAR (277/FH/H),5,0,0,0,2013-09-10,54.326331,-5.716678
+408415,THE BAY SIDE CATCH (374/FH/H),5,5,5,5,2014-01-09,54.258491,-5.842631
+408416,THE BEECHES RESIDENTIAL HOME 147/FH/H,5,5,5,5,2014-02-28,54.411363,-5.915329
+408417,THE BIZZY BEE CAFE (332/FH/H),4,5,0,10,2014-02-11,54.326506,-5.716376
+408418,THE BON-BON (13/FH/G),4,10,0,10,2014-07-07,54.210011,-5.890183
+408419,THE BRIERS COUNTRY HOUSE (532/FH/H),AwaitingInspection,nan,nan,nan,,,
+408420,THE BUCKS HEAD INN (286/FH/H),4,10,0,10,2014-07-31,,
+408421,THE CAKE SHOP (71/FH/J),5,5,5,0,2013-05-29,54.400369,-5.898931
+408422,THE CAKERY (726/FH/H),5,5,0,0,2012-03-06,,
+408423,THE CAKERY CREW (788/FH/J),5,0,5,5,2014-02-28,54.328821,-5.715249
+408424,THE CARRIAGE HOUSE (22/FH/H),AwaitingInspection,nan,nan,nan,,,
+408425,THE CARRIAGE ROOMS (722A/FH/H),5,0,0,0,2012-08-24,54.39441,-5.904009
+408426,THE CENTRAL BAR (328/FH/H),4,10,0,5,2013-07-08,54.331547,-5.715451
+408427,THE CHIP STOP (260/FH/H),5,5,0,5,2013-06-27,54.368592,-5.852742
+408428,THE COFFEE BOUTIQUE (786/FH/H),5,0,0,0,2012-03-28,54.314639,-5.878914
+408429,THE COFFEE DOCK (425/FH/H),5,5,5,5,2014-05-09,54.257757,-5.943025
+408430,THE COFFEE STATION (547/FH/H),3,5,10,10,2013-06-06,54.32632,-5.718908
+408431,THE COOKIE JAR (546/FH/G),5,5,5,0,2013-04-24,54.213767,-5.888688
+408432,THE COOKIE JAR (75/FH/C),4,10,0,10,2014-09-04,,
+408433,THE CORPORATE CREPE COMPANY (467/FH/G),5,0,0,5,2013-08-19,54.407318,-5.673269
+408434,THE CUAN CHIP SHOP (700/FH/H),5,0,5,5,2014-06-06,54.370897,-5.556346
+408435,THE CUAN LICENSED GUEST INN (20/FH/H),5,5,5,5,2014-06-06,54.370897,-5.556346
+408436,THE DAILY GRIND (344/FH/H),5,0,5,5,2014-05-28,54.326506,-5.716376
+408437,THE DUG OUT (438/FH/H),2,15,5,10,2014-10-02,54.21191,-5.889871
+408438,THE DUNDRUM INN (BAR) (319/FH/H),4,10,5,5,2013-03-14,54.25689,-5.845093
+408439,THE EMPEROR (153/FH/H),3,10,10,10,2014-03-24,54.331547,-5.715451
+408440,THE GATE LODGE (670/FH/H),5,0,0,0,2013-06-18,,
+408441,THE GATE LODGE (CORRIEWOOD) (660/FH/H),5,0,0,5,2013-10-21,54.260553,-5.927921
+408442,THE GRANGE COFFEE HOUSE (429/FH/H),5,5,5,5,2014-04-24,54.264411,-5.955419
+408443,THE LOBSTER POT (754/FH/H),3,10,10,10,2014-10-15,54.370897,-5.556345
+408444,THE MAGHERA INN (623/FH/H),5,5,0,5,2013-09-19,54.24133,-5.896592
+408445,THE MARCH HARE (403/FH/H),4,5,5,10,2013-11-07,54.459574,-5.835918
+408446,THE MILL AT BALLYDUGAN (718/FH/H),5,5,5,5,2014-03-21,54.307712,-5.841024
+408447,THE MOURNE BISTRO (731/FH/H),5,5,0,5,2014-05-21,54.21191,-5.889871
+408448,THE MULBERRY TREE (719/FH/H),4,5,5,10,2014-01-29,54.305999,-5.843726
+408449,THE MUNCHIES OF MOURNE (395/FH/H),5,5,5,5,2014-03-07,54.294922,-5.837331
+408450,THE NATIONAL TRUST SHOP (619/FH/G),AwaitingInspection,nan,nan,nan,,54.3656,-5.5628
+408451,THE OAKS BAR (630/FH/H),5,nan,nan,nan,2014-02-06,54.45002,-5.763211
+408452,THE OLD FRYER LTD (85/FH/H),4,5,0,10,2013-10-31,54.397621,-5.758149
+408453,THE OLD INN (216/FH/H),5,5,0,5,2014-02-11,54.252138,-5.641258
+408454,THE PRIMROSE BAR & RESTAURANT (42/FH/H),5,5,5,0,2013-11-12,54.403468,-5.895785
+408455,THE RAMBLE INN (639/FH/H),AwaitingInspection,nan,nan,nan,,54.286686,-5.760264
+408456,THE ROAD HOUSE'S B & B (299/FH/H),AwaitingInspection,nan,nan,nan,,,
+408457,THE ROAD HOUSES BAR (249/FH/H),AwaitingInspection,nan,nan,nan,,54.327207,-5.661545
+408458,THE ROADSIDE CHIPPY/BURGER BAR (434/FH),5,0,0,0,2014-10-16,54.225167,-5.882386
+408459,THE ROUND HOUSE (280/FH/G),AwaitingInspection,nan,nan,nan,,54.324148,-5.711911
+408460,THE RUSSELL BAR (114/FH/H),4,10,5,5,2013-08-02,54.331547,-5.715451
+408461,THE STICK (382/FH/H),5,5,5,5,2013-11-18,54.331242,-5.836316
+408462,THE WALK BREADS (493/FH/J),AwaitingInspection,nan,nan,nan,,54.243039,-5.900832
+408463,THIERAFURTH INN (199/FH/H),3,10,5,10,2012-01-13,54.233687,-6.01711
+408464,THOMAS DUFFY & SONS LTD (MACE) (203/FH),5,0,5,5,2013-02-27,54.252138,-5.641258
+408465,THOMAS DUFFY & SONS MACE (245/FH),5,5,0,5,2014-08-28,54.370052,-5.555011
+408466,THREE STARS (383/FH/H),3,10,10,10,2014-03-25,54.32481,-5.713657
+408467,TIDEWATER (679/FH/H),4,10,0,10,2013-11-01,54.262411,-5.607162
+408468,TIKKA TOWN (190/FH/H),4,5,5,10,2014-11-17,54.401739,-5.89766
+408469,TINY TOONS COMMUNITY PLAYGROUP (628/FH/,5,0,0,5,2014-11-10,54.303324,-5.570693
+408470,TOLLYMORE NATIONAL OUTDOOR CENTRE (53/FH,5,0,0,0,2012-12-15,54.22993,-5.932601
+408471,TONLEGEE B&B (386/FH/H),5,5,5,5,2014-08-08,,
+408472,TOP OF THE TOWN (3/FH/H),5,5,0,0,2013-07-31,54.213767,-5.888688
+408473,TRADITIONAL COUNTRY CATERING (431/FH/I),5,0,0,5,2013-03-15,54.317085,-5.883675
+408474,TULLYBRANNIGAN STORES (54/FH/G),3,10,10,5,2013-08-14,,
+408475,TULLYWEST MANOR RESIDENTIAL HOME(112/FH),4,5,5,10,2014-01-17,54.441941,-5.884871
+408476,TURKISH KEBAB & PIZZA HOUSE (139/FH/H),4,10,5,5,2014-09-29,54.401739,-5.89766
+408477,TURKISH KEBAB & PIZZA HOUSE (234/FH/H),4,10,5,5,2014-03-14,54.21191,-5.889871
+408478,TYRELLA HOUSE (228/FH/H),AwaitingInspection,nan,nan,nan,,,
+408479,URBAN COFFEE BAR (131/FH/H),5,5,0,0,2013-06-04,54.256397,-5.945978
+408480,VANILLA RESTAURANT (760/FH/H),4,5,5,10,2013-09-03,54.21191,-5.889871
+408481,VILLA VINCI RESTAURANT (634/FH/H),5,5,5,5,2014-06-17,54.213767,-5.888688
+408482,VILLAGE TAKE-AWAY (1/FH/H),4,5,5,10,2013-11-04,54.366296,-5.847953
+408483,VIVO (222/FH/G),AwaitingInspection,nan,nan,nan,,54.261613,-5.804065
+408484,WALKERS NEWSAGENTS (390/FH/G),Exempt,nan,nan,nan,,54.257757,-5.943026
+408485,WATERSIDE BED & BREAKFAST (69/FH/H),AwaitingInspection,nan,nan,nan,,,
+408486,WHITE HORSE INN (270/FH/H),5,0,0,5,2014-09-16,54.460288,-5.834107
+408487,WILLOW COTTAGE KITCHEN (398/FH/H),4,5,5,10,2014-09-05,54.395248,-5.911912
+408488,WILLOW VIEW RESIDENTIAL HOME (353/FH),4,5,10,5,2014-09-26,54.455992,-5.777151
+408489,WILSON'S FAMILY BUTCHERS (406/FH/J),5,5,0,5,2012-06-07,54.40405,-5.76861
+408490,WILSONS FAMILY BUTCHERS (647/FH/J),5,5,5,5,2014-02-26,54.327788,-5.716244
+408491,WINEWORKS (479/FH/G),Exempt,nan,nan,nan,,54.46117,-5.832703
+408492,WOK'S IN THE BOX (704/FH/H),4,5,5,10,2014-03-19,,
+408493,WONDER YEARS DAY NURSERY (177/FH/H),4,10,5,5,2014-01-28,54.257448,-5.944929
+408494,WOOD LODGE (145/FH/H),4,5,5,10,2014-01-09,54.260755,-5.932838
+408495,WRAP & ROLL (363/FH/H),5,5,0,5,2014-01-02,54.331547,-5.715451
+408496,WRAP & ROLL SANDWICH & COFFEE BAR (776/F,5,0,0,5,2014-02-27,54.32632,-5.718908
+408497,YMCA NATIONAL CENTRE (637/FH/H),AwaitingInspection,nan,nan,nan,,54.203578,-5.902068
+408498,YOUR STORE (232/FH/G),3,10,10,10,2014-02-11,54.315579,-5.711679
+408499,ZEBEDEES (334/FH/H),5,5,5,5,2014-01-10,54.256776,-5.946098
+408500,ZEST (MOUNT CHARLES CATERING) (187A/FH/,5,5,0,5,2014-09-18,54.325336,-5.717717

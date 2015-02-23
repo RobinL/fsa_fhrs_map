@@ -1,566 +1,566 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-388830,57 Market Place,Malton,North Yorkshire,,"""Rory's Bar""",Pub/bar/nightclub,7843,10,,517224,0,,54.13528100000000,12/00039/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79878300000000,YO17 7LX,2013-03-06,fhrs_4_en-GB,4,,FHRS,10
-388831,55 Market Place,Malton,North Yorkshire,,"""Sweetest Thing""",Other catering premises,7841,10,,668968,5,,54.13528100000000,12/00040/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79878300000000,YO17 7LX,2014-05-16,fhrs_3_en-GB,3,,FHRS,10
-388832,West Knapton,Malton,,,1 Knapton Lodge Cottage,Distributors/Transporters,7,10,,285418,5,,54.17888259887695,PI/000018963,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.66322195529938,YO17 6RL,2013-11-11,fhrs_4_en-GB,4,,FHRS,5
-388833,Pickering,North Yorkshire,,,10 Troutbeck Close,Hospitals/Childcare/Caring Premises,5,10,,638129,5,,,PI/000014247,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2009-02-10,fhrs_3_en-GB,3,,FHRS,10
-388834,Amotherby,Malton,,,4 Cherry Tree Walk,Hotel/bed & breakfast/guest house,7842,5,,284959,5,,54.15196990966797,PI/000000229,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.85489356517792,YO17 6TR,2012-04-23,fhrs_5_en-GB,5,,FHRS,5
-388835,Helmsley,York,,,45 Elmslac Road,Hospitals/Childcare/Caring Premises,5,10,,285458,0,,54.24953460693359,PI/000023119,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06081759929657,YO62 5AW,2013-01-08,fhrs_4_en-GB,4,,FHRS,0
-388836,Helmsley,York,,,54 Bondgate,Hotel/bed & breakfast/guest house,7842,5,,285039,5,,54.24731445312500,PI/000004054,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.05758368968964,YO62 5EZ,2014-08-13,fhrs_5_en-GB,5,,FHRS,5
-388837,7 Bridge Street,Pickering,North Yorkshire,,A Dunning,Manufacturers/packers,7839,5,,285262,10,,54.24653400000000,PI/000012659,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77910200000000,YO18 8DT,2014-03-26,fhrs_3_en-GB,3,,FHRS,10
-388838,Rosedale Abbey,Rosedale East,Pickering,North Yorkshire,Abbey Stores & Tearoom,Restaurant/Cafe/Canteen,1,0,,285346,0,,54.35335400000000,PI/000015197,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.88789200000000,YO18 8SA,2013-03-19,fhrs_5_en-GB,5,,FHRS,5
-388839,Main Street,Acklam,Malton,,Acklam Village Hall,Other catering premises,7841,,,375504,,,54.05745700000000,PI/000000046,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80082400000000,,2012-01-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-388840,Warthill,York,North Yorkshire,,Agar Arms,Pub/bar/nightclub,7843,,,285406,,,53.99039459228516,PI/000018474,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97142106294632,YO19 5XW,2013-02-26,fhrs_5_en-GB,5,,FHRS,
-388841,Keld Head Hall,Middleton Road,Pickering,North Yorkshire,Alba Rose Care Home,Hospitals/Childcare/Caring Premises,5,0,,285307,5,,54.25131000000000,PI/000013706,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79099400000000,YO18 8NR,2014-06-26,fhrs_5_en-GB,5,,FHRS,0
-388842,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,American Bar,Pub/bar/nightclub,7843,0,,285084,0,,54.20589200000000,PI/000005801,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-388843,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,American Diner,Restaurant/Cafe/Canteen,1,5,,285087,5,,54.20589200000000,PI/000005815,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-388844,Meadowfield,Amotherby,Malton,North Yorkshire,Amotherby County Primary School,School/college/university,7845,0,,284955,0,,54.14953400000000,PI/000000183,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.85303200000000,YO17 6TG,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-388845,Upper Building,Ampleforth,York,North Yorkshire,Ampleforth College,School/college/university,7845,0,,284962,0,,54.20238400000000,PI/000000292,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.08411600000000,YO62 4EY,2014-11-21,fhrs_5_en-GB,5,,FHRS,0
-388846,Recreation Road,Pickering,North Yorkshire,,Arden House Res.Home,Hospitals/Childcare/Caring Premises,5,0,,285320,5,,54.24332100000000,PI/000014011,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77686400000000,YO18 7ET,2013-05-21,fhrs_5_en-GB,5,,FHRS,0
-388847,Norton Road,Norton,Malton,,Asda Supermarket,Retailers - supermarkets/hypermarkets,7840,0,,285237,0,,54.13232400000000,PI/000011211,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79698600000000,YO17 9RD,2014-02-04,fhrs_5_en-GB,5,,FHRS,0
-388848,Kirby Misperton,Malton,North Yorkshire,,Ashfield Country Manor,Restaurant/Cafe/Canteen,1,5,,285082,5,,54.21019363403320,PI/000005743,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.81222087144852,YO17 6UU,2014-03-25,fhrs_4_en-GB,4,,FHRS,10
-388849,Old Malton Road,Old Malton,Malton,,Ashfield Elderly Persons Home,Hospitals/Childcare/Caring Premises,5,0,,285251,0,,54.13996800000000,PI/000012071,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78845300000000,YO17 7EY,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-388850,Ruffa Lane,Pickering,North Yorkshire,,Ashfield House,Hotel/bed & breakfast/guest house,7842,0,,285439,0,,54.24422200000000,PI/000021678,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77007000000000,YO18 7HN,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-388851,3 Plane Trees,Rosedale East,Pickering,,August Guest House,Hotel/bed & breakfast/guest house,7842,5,,285348,5,,54.36569100000000,PI/000015221,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90025700000000,YO18 8RF,2012-04-16,fhrs_5_en-GB,5,,FHRS,5
-388852,12A Castlegate,Helmsley,York,,Auntie Anne's Castlegate Bakery,Retailers - other,4613,5,,285473,5,,54.24555200000000,PI/000024060,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06193600000000,YO62 5AB,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-388853,Bondgate,Helmsley,York,,B A T A Garage,Retailers - other,4613,5,,285040,5,,53.96658706665040,PI/000004066,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.07468152046204,YO62 5EZ,2013-02-12,fhrs_5_en-GB,5,,FHRS,5
-388854,Pizzaland Take Away,4 Pickering Road,Thornton-Le-Dale,Pickering,Balaker Limited,Takeaway/sandwich shop,7844,10,,285400,15,,54.23643100000000,PI/000018228,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72266000000000,YO18 7LG,2014-03-26,fhrs_2_en-GB,2,,FHRS,10
-388855,Bakery & Gift Shop,Chestnut Avenue,Thornton-Le-Dale,Pickering,Balderson's Cafe,Restaurant/Cafe/Canteen,1,5,,285494,5,,54.23645600000000,PI/000025237,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72080300000000,YO18 7RW,2013-07-01,fhrs_5_en-GB,5,,FHRS,5
-388856,Roxby Road,Thornton-Le-Dale,Pickering,,Banavie,Hotel/bed & breakfast/guest house,7842,5,,285506,5,,54.23528800000000,PI/000025279,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72424500000000,YO18 7SX,2012-05-09,fhrs_5_en-GB,5,,FHRS,5
-388857,Lendales Lane,Pickering,North Yorkshire,,Barker Stakes Farm,Hotel/bed & breakfast/guest house,7842,10,,285290,5,,54.22742100000000,PI/000013414,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79020400000000,YO18 8EE,2011-11-24,fhrs_4_en-GB,4,,FHRS,5
-388858,Unit 3,38 Beverley Road,Norton,Malton,Barneys Sarnies,Takeaway/sandwich shop,7844,0,,528479,0,,,PI/000020998,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-07-25,fhrs_5_en-GB,5,,FHRS,5
-388859,Burythorpe,Malton,North Yorkshire,,Bay Horse,Pub/bar/nightclub,7843,10,,284979,5,,54.07251358032230,PI/000001210,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79312252998352,YO17 9LJ,2013-07-09,fhrs_3_en-GB,3,,FHRS,10
-388860,Market Place,Pickering,North Yorkshire,,Bay Horse Inn,Pub/bar/nightclub,7843,5,,285305,10,,54.24600500000000,PI/000013619,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77749100000000,YO18 7AA,2014-08-08,fhrs_3_en-GB,3,,FHRS,10
-388861,Pockley,Beadlam,Nawton,York,Beadlam Grange Farmshop & Tearoom,Restaurant/Cafe/Canteen,1,5,,285437,5,,54.25565338134766,PI/000021438,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.02133631706238,YO62 7TD,2014-01-21,fhrs_5_en-GB,5,,FHRS,5
-388862,Malton Road,Pickering,North Yorkshire,,Beansheaf Hotel,Restaurant/Cafe/Canteen,1,5,,285291,5,,54.13346481323240,PI/000013458,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 0UE,2014-08-15,fhrs_4_en-GB,4,,FHRS,10
-388863,The Old Hall,Bridge Street,Pickering,North Yorkshire,Beckside Tearooms,Restaurant/Cafe/Canteen,1,0,,516921,0,,54.24653400000000,13/00031/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77910200000000,YO18 8DT,2013-02-25,fhrs_5_en-GB,5,,FHRS,0
-388864,16 Yorkersgate,Malton,North Yorkshire,,Beechams,Retailers - other,4613,5,,285194,5,,54.12353400000000,PI/000008699,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69032300000000,YO17 0AB,2012-03-27,fhrs_5_en-GB,5,,FHRS,5
-388865,Nursing Home,Welham Road,Norton,Malton,Beechwood Place,Hospitals/Childcare/Caring Premises,5,5,,285241,5,,54.13045000000000,PI/000011840,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79203600000000,YO17 9DP,2014-09-25,fhrs_5_en-GB,5,,FHRS,5
-388866,14 Birdgate,Pickering,North Yorkshire,,Birdgate Chocolatiers,Manufacturers/packers,7839,0,,285493,0,,54.24539600000000,PI/000025233,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77589700000000,YO18 7AL,2013-06-27,fhrs_5_en-GB,5,,FHRS,5
-388867,7 Burgate,Pickering,North Yorkshire,,Bits & Pizzas,Takeaway/sandwich shop,7844,5,,285268,10,,54.24641100000000,PI/000012696,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77666500000000,YO18 7AU,2013-11-27,fhrs_3_en-GB,3,,FHRS,10
-388868,Malton Road,Pickering,North Yorkshire,,Black Bull Inn,Pub/bar/nightclub,7843,5,,285292,0,,54.22200800000000,PI/000013461,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77048500000000,YO18 8EA,2013-07-02,fhrs_4_en-GB,4,,FHRS,10
-388869,Market Place,Kirkbymoorside,York,,Black Swan,Pub/bar/nightclub,7843,5,,285119,5,,54.26979000000000,PI/000006270,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93200200000000,YO62 6AA,2013-03-13,fhrs_5_en-GB,5,,FHRS,5
-388870,Market Place,Helmsley,York,,Black Swan Hotel,Restaurant/Cafe/Canteen,1,5,,285062,0,,54.24694700000000,PI/000004345,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06101400000000,YO62 5BJ,2013-11-05,fhrs_5_en-GB,5,,FHRS,5
-388871,Birdgate,Pickering,North Yorkshire,,Black Swan Inn,Pub/bar/nightclub,7843,10,,285260,10,,54.24539566040039,PI/000012646,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77589732408524,YO18 7AL,2014-05-02,fhrs_3_en-GB,3,,FHRS,5
-388872,Flaxton,York,North Yorkshire,,Blacksmiths Arms,Pub/bar/nightclub,7843,0,,285004,0,,54.05389404296875,PI/000002495,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.96542346477509,YO60 7RJ,2013-02-20,fhrs_5_en-GB,5,,FHRS,5
-388873,Lastingham,York,North Yorkshire,,Blacksmiths Arms,Pub/bar/nightclub,7843,0,,285130,0,,54.30532073974609,PI/000006735,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.88251698017120,YO62 6TN,2014-01-22,fhrs_5_en-GB,5,,FHRS,0
-388874,Westow,York,North Yorkshire,,Blacksmiths Arms,Pub/bar/nightclub,7843,0,,285471,5,,54.07738113403320,PI/000023851,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.84748607873917,YO60 7NE,2013-09-10,fhrs_5_en-GB,5,,FHRS,5
-388875,Hartoft End,Rosedale East,Pickering,North Yorkshire,Blacksmiths Arms Hotel,Hotel/bed & breakfast/guest house,7842,5,,285344,5,,54.32916000000000,PI/000015182,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.85237600000000,YO18 8EN,2014-05-30,fhrs_5_en-GB,5,,FHRS,0
-388876,14 Newbiggin,Malton,North Yorkshire,,Blue Ball,Pub/bar/nightclub,7843,10,,285168,5,,54.13780000000000,PI/000008040,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79995000000000,YO17 7JF,2014-12-05,fhrs_4_en-GB,4,,FHRS,5
-388877,Weaverthorpe,Malton,North Yorkshire,,Blue Bell Inn,Pub/bar/nightclub,7843,0,,285409,0,,54.12405776977539,PI/000018610,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.52634960412979,YO17 8EX,2013-10-09,fhrs_5_en-GB,5,,FHRS,5
-388878,Castle Howard Estate Office,Castle Howard,York,North Yorkshire,Boat House,Restaurant/Cafe/Canteen,1,5,,591839,5,,54.12141800000000,13/00095/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90596800000000,YO60 7DA,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-388879,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Boma Cafe,Restaurant/Cafe/Canteen,1,0,,285466,0,,54.20589200000000,PI/000023610,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-388880,Botham's,8 Park Street,Pickering,North Yorkshire,Bothams,Restaurant/Cafe/Canteen,1,0,,528477,0,,54.24699200000000,PI/000013922,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77818300000000,YO18 7AJ,2013-03-19,fhrs_5_en-GB,5,,FHRS,0
-388881,Harome,York,North Yorkshire,,Bramble Cottage,Hotel/bed & breakfast/guest house,7842,10,,285498,5,,54.23126602172852,PI/000025268,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.00660276412964,YO62 5JA,2011-12-01,fhrs_4_en-GB,4,,FHRS,5
-388882,19 Hallgarth,Pickering,North Yorkshire,,Bramwood Guest House,Hotel/bed & breakfast/guest house,7842,5,,285284,0,,54.24505200000000,PI/000013180,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77475700000000,YO18 7AW,2012-02-01,fhrs_5_en-GB,5,,FHRS,0
-388883,3 Whitbygate,Thornton-Le-Dale,Pickering,,Brandysnap Bistro,Restaurant/Cafe/Canteen,1,5,,285404,5,,54.23710800000000,PI/000018394,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72204100000000,YO18 7RY,2011-03-29,fhrs_5_en-GB,5,,FHRS,5
-388884,Moor Lane,Brawby,Malton,,Brawby Grange,Hotel/bed & breakfast/guest house,7842,10,,285456,5,,54.20777200000000,PI/000022846,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.87743900000000,YO17 6PZ,2011-12-01,fhrs_4_en-GB,4,,FHRS,5
-388885,North Breckenholme Farm,Main Street,Thixendale,Malton,Breckenholme Trading Co Ltd,Manufacturers/packers,7839,0,,606440,0,,54.02423700000000,13/00097/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72927700000000,YO17 9LS,2013-10-28,fhrs_5_en-GB,5,,FHRS,0
-388886,Common Lane,Warthill,York,,Breezy Knees Gardens & Nursery,Restaurant/Cafe/Canteen,1,0,,285463,0,,54.00326700000000,PI/000023446,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97281300000000,YO19 5XS,2013-08-13,fhrs_5_en-GB,5,,FHRS,5
-388887,Chestnut Avenue,Thornton-Le-Dale,Pickering,,Bridge Foot Guest House,Hotel/bed & breakfast/guest house,7842,5,,285449,5,,54.23645500000000,PI/000022123,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.71814800000000,YO18 7RR,2012-04-24,fhrs_5_en-GB,5,,FHRS,5
-388888,8 Bridge Street,Pickering,North Yorkshire,,Bridge House,Hotel/bed & breakfast/guest house,7842,,,285263,,,54.24653400000000,PI/000012660,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77910200000000,YO18 8DT,2012-04-05,fhrs_5_en-GB,5,,FHRS,
-388889,2 West End,Kirkbymoorside,York,,Bridgets's. A Slice Of Heaven,Restaurant/Cafe/Canteen,1,5,,481789,5,,54.26907800000000,PI/000006564,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93380100000000,YO62 6AF,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-388890,1 Woodend Cottages,Ashbank Lane,High Stittenham,Malton,Brush & Boot,Hotel/bed & breakfast/guest house,7842,0,,668972,5,,54.10039700000000,13/00101/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.96305900000000,YO60 7TW,2014-05-23,fhrs_5_en-GB,5,,FHRS,0
-388891,Wrelton,Pickering,North Yorkshire,,Buck Inn,Pub/bar/nightclub,7843,10,,285425,5,,54.26366424560547,PI/000019769,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.82717406749725,YO18 8PJ,2014-02-04,fhrs_3_en-GB,3,,FHRS,10
-388892,Hutton-Le-Hole,York,North Yorkshire,,Burnley House,Hotel/bed & breakfast/guest house,7842,5,,285499,5,,54.30036163330078,PI/000025270,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91728830337524,YO62 6UA,2011-11-30,fhrs_5_en-GB,5,,FHRS,5
-388893,Burythorpe,Malton,North Yorkshire,,Burythorpe House Hotel,Restaurant/Cafe/Canteen,1,5,,284980,5,,54.07870864868164,PI/000001216,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78970241546631,YO17 9LB,2014-05-02,fhrs_5_en-GB,5,,FHRS,5
-388894,Abbey Inn,Byland Abbey,Coxwold,York,Byland Abbey Inn Tearoom,Restaurant/Cafe/Canteen,1,0,,284983,5,,,PI/000001338,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-04-05,fhrs_5_en-GB,5,,FHRS,0
-388895,6 Smiddy Hill,Pickering,North Yorkshire,,Cafe Cocoa,Restaurant/Cafe/Canteen,1,5,,285510,5,,54.24488400000000,PI/000025342,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77588200000000,YO18 7AN,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-388896,2 Burgate,Pickering,North Yorkshire,,Cafe Frog,Restaurant/Cafe/Canteen,1,5,,579097,0,,54.24641100000000,13/00061/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77666500000000,YO18 7AU,2013-08-20,fhrs_5_en-GB,5,,FHRS,0
-388897,Castle Howard,York,North Yorkshire,,Cafeteria,Restaurant/Cafe/Canteen,1,0,,284985,0,,54.12141799926758,PI/000001349,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90596789121628,YO60 7DA,2013-10-08,fhrs_5_en-GB,5,,FHRS,0
-388898,1 Eastgate Square,Pickering,North Yorkshire,,Caffe Stop,Restaurant/Cafe/Canteen,1,5,,285281,5,,54.24393700000000,PI/000012921,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77380700000000,YO18 7DP,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-388899,,,,,Cakes Unlimited Of North Yorkshire,Other catering premises,7841,5,,285433,5,,,PI/000021094,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2010-10-21,fhrs_5_en-GB,5,,FHRS,0
-388900,11 Market Place,Pickering,North Yorkshire,,Capplemans,Takeaway/sandwich shop,7844,5,,285297,5,,54.24600500000000,PI/000013582,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77749100000000,YO18 7AA,2013-11-11,fhrs_5_en-GB,5,,FHRS,5
-388901,14 Railway Street,Malton,North Yorkshire,,Captain Barney's Play Cafe,Restaurant/Cafe/Canteen,1,5,,528480,0,,54.13397900000000,PI/000025410,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79713800000000,YO17 7NR,2015-01-23,fhrs_5_en-GB,5,,FHRS,0
-388902,Bondgate,Helmsley,York,,Carlton Lodge,Hotel/bed & breakfast/guest house,7842,10,,285041,5,,53.96658706665039,PI/000004068,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.07468152046204,YO62 5EY,2011-11-28,fhrs_4_en-GB,4,,FHRS,0
-388903,Ampleforth,York,North Yorkshire,,Carr House,Hotel/bed & breakfast/guest house,7842,10,,284963,5,,54.20009613037109,PI/000000302,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.13452327251434,YO62 4ED,2011-11-30,fhrs_4_en-GB,4,,FHRS,5
-388904,Sheriff Hutton,York,North Yorkshire,,Castle Inn,Pub/bar/nightclub,7843,5,,285363,5,,54.08890533447270,PI/000016001,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.00517451763153,YO60 6ST,2011-09-16,fhrs_5_en-GB,5,,FHRS,5
-388905,12 Dale Road,Sheriff Hutton Industrial Park,Sheriff Hutton,York,Castle Quality Meats,Manufacturers/packers,7839,5,,285366,5,,54.08382200000000,PI/000016222,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.01639400000000,YO60 6RZ,2013-07-04,fhrs_5_en-GB,5,,FHRS,5
-388906,Castlegate,Helmsley,York,,Castlegate Cafe,Restaurant/Cafe/Canteen,1,5,,285444,5,,53.96658706665039,PI/000022030,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.07468152046204,YO62 5AB,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-388907,42 Eastgate,Pickering,North Yorkshire,,Cawthorne House,Hotel/bed & breakfast/guest house,7842,5,,285501,0,,54.24304500000000,PI/000025272,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77269800000000,YO18 7DU,2012-05-02,fhrs_5_en-GB,5,,FHRS,0
-388908,Allerston,Pickering,North Yorkshire,Y018 7PJ,Cayley Arms,Pub/bar/nightclub,7843,0,,284953,5,,,PI/000000086,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-07-29,fhrs_5_en-GB,5,,FHRS,5
-388909,Thornton Road,Pickering,North Yorkshire,,Cedar Barn Farm Shop & Cafe,Restaurant/Cafe/Canteen,1,5,,285442,5,,54.23811800000000,PI/000021831,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.75682500000000,YO18 7JX,2015-01-29,fhrs_5_en-GB,5,,FHRS,5
-388910,Helmsley Walled Garden Cleveland Wa,Helmsley,York,,Celebrate! Unit 2 Craft Workshop,Retailers - other,4613,5,,285460,5,,54.24500600000000,PI/000023137,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06682900000000,YO62 5AH,2011-02-09,fhrs_5_en-GB,5,,FHRS,5
-388911,28 St. Hildas Street,Sherburn,Malton,,Central Stores,Retailers - other,4613,5,,285362,0,,54.17899900000000,PI/000015896,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.53267100000000,YO17 8PG,2013-03-19,fhrs_5_en-GB,5,,FHRS,0
-388912,22 Market Place,Malton,North Yorkshire,Y017 7LX,Chancery,Pub/bar/nightclub,7843,0,,285427,0,,,PI/000020222,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-06-18,fhrs_5_en-GB,5,,FHRS,0
-388913,19 Church Street,Norton,Malton,,Chen Xin's,Takeaway/sandwich shop,7844,10,,285215,15,,54.13242100000000,PI/000010396,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78879600000000,YO17 9HP,2013-12-10,fhrs_2_en-GB,2,,FHRS,10
-388914,Harton,York,North Yorkshire,,Cherry Tree Cottage,Distributors/Transporters,7,10,,285030,5,,54.04878234863281,PI/000003322,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.92467761039734,YO60 7NP,2013-11-11,fhrs_4_en-GB,4,,FHRS,5
-388915,High Street,Ebberston,Scarborough,North Yorkshire,Chestnut Cottage,Hotel/bed & breakfast/guest house,7842,10,,285000,5,,54.23562800000000,PI/000002205,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.62513300000000,YO13 9PA,2011-12-07,fhrs_4_en-GB,4,,FHRS,5
-388916,El Chico's Pizzeria,42A Hungate,Pickering,North Yorkshire,Chicos,Takeaway/sandwich shop,7844,10,,285289,10,,54.24477600000000,PI/000013275,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77683600000000,YO18 7DG,2014-04-23,fhrs_3_en-GB,3,,FHRS,10
-388917,21 Market Place,Pickering,North Yorkshire,,Cilantro,Restaurant/Cafe/Canteen,1,10,,285464,10,,54.24557400000000,PI/000023474,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77750300000000,YO18 7AE,2013-09-03,fhrs_3_en-GB,3,,FHRS,10
-388918,17 Church Street,Helmsley,,,Cinnamon Twist,Retailers - other,4613,10,,680143,0,,54.24661400000000,14/00035/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06321700000000,YO62 5AD,2014-06-18,fhrs_4_en-GB,4,,FHRS,10
-388919,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Cliff Hanger Kiosk,Takeaway/sandwich shop,7844,5,,285088,5,,54.20589200000000,PI/000005817,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-388920,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Coach House,Pub/bar/nightclub,7843,0,,285093,0,,54.20589200000000,PI/000005824,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-388921,Malton Road,Flaxton,York,,Coastway Service Station,Retailers - other,4613,5,,285009,10,,54.08628100000000,PI/000002623,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93066400000000,YO60 7SF,2013-03-27,fhrs_4_en-GB,4,,FHRS,0
-388922,4 Castlegate,Helmsley,York,,Cocoa Tree,Restaurant/Cafe/Canteen,1,10,,285049,0,,54.24555200000000,PI/000004159,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06193600000000,YO62 5AB,2014-10-24,fhrs_4_en-GB,4,,FHRS,5
-388923,Greengate,Malton,North Yorkshire,,Connies,Takeaway/sandwich shop,7844,10,,285147,10,,54.13652100000000,PI/000007587,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79694100000000,YO17 7EN,2014-03-25,fhrs_3_en-GB,3,,FHRS,5
-388924,New Road,Kirkbymoorside,York,,Cooks Motor Co Ltd,Retailers - other,4613,0,,285120,5,,54.26570700000000,PI/000006282,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.92664100000000,YO62 6DZ,2013-03-25,fhrs_5_en-GB,5,,FHRS,5
-388925,99 Eastgate,Pickering,North Yorkshire,,Co-Operative Lateshop,Retailers - other,4613,0,,285277,0,,54.24280700000000,PI/000012892,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77315000000000,YO18 7DW,2013-05-28,fhrs_5_en-GB,5,,FHRS,5
-388926,10 Market Place,Pickering,North Yorkshire,,Cooplands,Restaurant/Cafe/Canteen,1,0,,285296,5,,54.24600500000000,PI/000013581,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77749100000000,YO18 7AA,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-388927,9 Market Place,Pickering,North Yorkshire,,Cooplands,Retailers - other,4613,0,,285304,5,,54.24557400000000,PI/000013618,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77750300000000,YO18 7AE,2014-08-01,fhrs_5_en-GB,5,,FHRS,0
-388928,28 Wheelgate,Malton,North Yorkshire,,Coopland's,Retailers - other,4613,0,,285187,0,,54.13577500000000,PI/000008640,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79691700000000,YO17 7HP,2014-10-06,fhrs_5_en-GB,5,,FHRS,0
-388929,44-46 Wheelgate,Malton,North Yorkshire,,Costa,Restaurant/Cafe/Canteen,1,0,,285487,0,,54.13577500000000,PI/000025159,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79691700000000,YO17 7HP,2013-10-07,fhrs_5_en-GB,5,,FHRS,0
-388930,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Costa,Restaurant/Cafe/Canteen,1,0,,285435,5,,54.20589200000000,PI/000021264,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-388931,25 Bridge Street,Helmsley,York,,Costcutter,Retailers - supermarkets/hypermarkets,7840,0,,285044,0,,54.24582700000000,PI/000004092,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06033400000000,YO62 5BG,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-388932,4 & 5,Eastgate,Pickering,North Yorkshire,Costcutter,Retailers - other,4613,10,,285275,0,,54.24304500000000,PI/000012870,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77269800000000,YO18 7DU,2012-02-15,fhrs_4_en-GB,4,,FHRS,0
-388933,5 Pickering Road,Thornton-Le-Dale,Pickering,,Costcutter,Retailers - supermarkets/hypermarkets,7840,5,,285401,0,,54.23643100000000,PI/000018233,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72266000000000,YO18 7LG,2012-02-15,fhrs_4_en-GB,4,,FHRS,10
-388934,61/63 Commercial Street,Norton,Malton,,Costcutter,Retailers - supermarkets/hypermarkets,7840,5,,285225,0,,54.13246600000000,PI/000010475,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78607000000000,YO17 9HX,2012-02-16,fhrs_5_en-GB,5,,FHRS,5
-388935,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Costcutter Shop,Retailers - other,4613,5,,285099,5,,54.20589200000000,PI/000005842,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-388936,17 Market Place,Malton,North Yorkshire,,Costello's,Retailers - other,4613,0,,734343,0,,54.13558400000000,14/00055/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79946300000000,YO17 7LP,2015-01-13,fhrs_5_en-GB,5,,FHRS,0
-388937,Barker's Yard,Borogate,Helmsley,York,Cottonhouse,Restaurant/Cafe/Canteen,1,5,,434784,5,,54.24563500000000,PI/000025340,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06098300000000,YO62 5BN,2014-01-24,fhrs_5_en-GB,5,,FHRS,0
-388938,16A Market Place,Pickering,North Yorkshire,,Country Crust,Takeaway/sandwich shop,7844,10,,285298,5,,54.24557400000000,PI/000013586,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77750300000000,YO18 7AE,2011-01-31,fhrs_4_en-GB,4,,FHRS,5
-388939,Castle Howard,York,North Yorkshire,,Courtyard Cafe,Restaurant/Cafe/Canteen,1,0,,284989,0,,54.12141799926758,PI/000001377,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90596789121628,YO60 7DA,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-388940,Kirby Grindalythe,Malton,North Yorkshire,,Cranedale Centre,School/college/university,7845,0,,285081,0,,54.09531784057617,PI/000005687,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.61625850200653,YO17 8DB,2013-04-19,fhrs_5_en-GB,5,,FHRS,5
-388941,3 Borogate,Helmsley,York,,Crema Coffee House,Restaurant/Cafe/Canteen,1,5,,285428,0,,54.24563500000000,PI/000020245,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06098300000000,YO62 5BN,2014-04-26,fhrs_5_en-GB,5,,FHRS,0
-388942,Appleton-Le-Street,Malton,North Yorkshire,,Cresswell Arms,Pub/bar/nightclub,7843,5,,284973,10,,54.15223800000000,PI/000000690,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.87278600000000,YO17 6PG,2014-05-16,fhrs_3_en-GB,3,,FHRS,10
-388943,Cropton,Pickering,North Yorkshire,,Cropton Cabins,Retailers - other,4613,10,,284994,5,,54.31647109985352,PI/000001890,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.83655714988708,YO18 8ES,2012-10-25,fhrs_4_en-GB,4,,FHRS,5
-388944,Thixendale,Malton,North Yorkshire,,Cross Keys,Pub/bar/nightclub,7843,5,,285391,5,,54.03863906860352,PI/000017742,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.71422415971756,YO17 9TG,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-388945,Eastgate,Pickering,North Yorkshire,,Crossways Hotel,Restaurant/Cafe/Canteen,1,5,,285278,5,,54.13346481323242,PI/000012896,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO18 7DW,2014-01-28,fhrs_4_en-GB,4,,FHRS,10
-388946,Welburn,York,North Yorkshire,,Crown & Cushion,Pub/bar/nightclub,7843,0,,285413,5,,54.10336685180664,PI/000018728,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90151834487915,YO60 7DZ,2013-09-13,fhrs_5_en-GB,5,,FHRS,0
-388947,Malton & Norton Golf Club,Welham Park,Welham Road,Norton,D & E Catering,Restaurant/Cafe/Canteen,1,10,,285243,5,,54.12419000000000,PI/000011849,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79885900000000,YO17 9QE,2014-11-21,fhrs_4_en-GB,4,,FHRS,0
-388948,43 Market Place,Pickering,North Yorkshire,,D J Horsley Ltd,Manufacturers/packers,7839,0,,285303,0,,54.24557400000000,PI/000013611,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77750300000000,YO18 7AE,2013-07-17,fhrs_5_en-GB,5,,FHRS,5
-388949,,,,,D P Trading,Mobile caterer,7846,5,,285453,0,,,PI/000022600,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-02-05,fhrs_5_en-GB,5,,FHRS,0
-388950,High Mill House,Church Houses,Farndale East,Kirkbymoorside,Daffy Caffy,Restaurant/Cafe/Canteen,1,10,,285003,0,,54.36469000000000,PI/000002417,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97334400000000,YO62 7LF,2013-03-27,fhrs_4_en-GB,4,,FHRS,0
-388951,,,,,Daisy Day Care,Hospitals/Childcare/Caring Premises,5,5,,409168,5,,,PI/000025274,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-06-25,fhrs_5_en-GB,5,,FHRS,0
-388952,42 Wheelgate,Malton,North Yorkshire,,Dales Of Malton,Retailers - other,4613,10,,285189,5,,54.14260900000000,PI/000008656,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78118100000000,YO17 7HB,2013-01-29,fhrs_4_en-GB,4,,FHRS,5
-388953,Church Street,West Heslerton,Malton,,Dawnay Arms,Pub/bar/nightclub,7843,10,,285417,5,,54.12353400000000,PI/000018882,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69032300000000,YO17 3RQ,2014-03-11,fhrs_3_en-GB,3,,FHRS,10
-388954,Furlongs Avenue,Norton,Malton,,Deansfield Court,Hospitals/Childcare/Caring Premises,5,0,,285469,0,,54.12932500000000,PI/000023754,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77500500000000,YO17 9DJ,2014-10-31,fhrs_5_en-GB,5,,FHRS,5
-388955,Sand Hutton,York,North Yorkshire,,Defra - York Fera,Restaurant/Cafe/Canteen,1,0,,285352,0,,54.01690292358398,PI/000015392,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97073686122894,YO41 1LZ,2014-03-13,fhrs_5_en-GB,5,,FHRS,0
-388956,25 Market Place,Malton,North Yorkshire,,Derek Fox,Manufacturers/packers,7839,5,,285155,10,,54.13558400000000,PI/000007807,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79946300000000,YO17 7LP,2014-12-11,fhrs_4_en-GB,4,,FHRS,5
-388957,Beadlam,Nawton,York,,Desi Spice Club,Restaurant/Cafe/Canteen,1,10,,284975,10,,54.25314712524414,PI/000000882,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.99714398384094,YO62 7SU,2014-10-30,fhrs_3_en-GB,3,,FHRS,5
-388958,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Dino Ice Age,Takeaway/sandwich shop,7844,0,,285102,0,,54.20589200000000,PI/000005848,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-388959,Flaxton,York,North Yorkshire,,Draft Farm,Hospitals/Childcare/Caring Premises,5,0,,285006,5,,54.05075073242188,PI/000002505,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.96319520473480,YO60 7QP,2014-11-14,fhrs_5_en-GB,5,,FHRS,0
-388960,Gate Helmsley,York,North Yorkshire,,Duke Of York,Pub/bar/nightclub,7843,5,,285014,5,,53.98796463012695,PI/000002828,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.94935089349747,YO41 1JS,2013-09-06,fhrs_5_en-GB,5,,FHRS,5
-388961,St. Hildas Street,Sherburn,Malton,North Yorkshire,East Riding,Pub/bar/nightclub,7843,5,,285359,0,,54.17899900000000,PI/000015800,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.53267100000000,YO17 8PG,2012-01-16,fhrs_4_en-GB,4,,FHRS,10
-388962,Hawnby,York,North Yorkshire,,Easterside Farm,Hotel/bed & breakfast/guest house,7842,10,,285032,5,,54.29888916015625,PI/000003888,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.15235221385956,YO62 5QT,2011-12-07,fhrs_4_en-GB,4,,FHRS,5
-388963,Eastgate,Pickering,North Yorkshire,,Eastgate Fisheries,Takeaway/sandwich shop,7844,5,,285279,0,,54.13346481323242,PI/000012899,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO18 7DY,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-388964,Ebberston,Scarborough,North Yorkshire,,Ebberston Village Hall,Other catering premises,7841,5,,375506,5,,54.23517990112305,PI/000002197,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.62165999412537,,2012-01-03,fhrs_5_en-GB,5,,FHRS,5
-388965,Old Malton,Malton,North Yorkshire,,Eden Camp,Restaurant/Cafe/Canteen,1,0,,285250,0,,54.16022872924800,PI/000012044,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77893257141113,YO17 6RT,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-388966,120 Eastgate,Pickering,North Yorkshire,,Eden House B&B,Hotel/bed & breakfast/guest house,7842,0,,494095,5,,54.24280700000000,PI/000023671,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77315000000000,YO18 7DW,2013-01-10,fhrs_5_en-GB,5,,FHRS,5
-388967,5 Saville Street,Malton,North Yorkshire,,El Gringos,Restaurant/Cafe/Canteen,1,20,,285174,15,,54.13499400000000,PI/000008408,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79791900000000,YO17 7LL,2014-03-26,fhrs_1_en-GB,1,,FHRS,10
-388968,11 Westgate,Pickering,North Yorkshire,,Eleven Westgate,Hotel/bed & breakfast/guest house,7842,0,,285325,0,,54.24612700000000,PI/000014333,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78591300000000,YO18 8BA,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-388969,Newton-On-Rawcliffe,Pickering,North Yorkshire,,Elm House,Hotel/bed & breakfast/guest house,7842,10,,285207,5,,54.30392837524414,PI/000010019,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.75322002172470,YO18 8OA,2011-11-23,fhrs_4_en-GB,4,,FHRS,5
-388970,Main Street,Gilling East,York,,Fairfax Arms,Pub/bar/nightclub,7843,10,,285022,0,,54.18423300000000,PI/000003033,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.05898800000000,YO62 4JH,2013-12-03,fhrs_4_en-GB,4,,FHRS,10
-388971,Lockton,Pickering,North Yorkshire,,Farfields Farm,Hotel/bed & breakfast/guest house,7842,5,,285500,0,,54.28308486938477,PI/000025271,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.70304566621780,YO18 7NQ,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-388972,Glebe Farm,Potter Brompton,Scarborough,North Yorkshire,Farm Bakery,Retailers - other,4613,5,,285334,5,,54.17888500000000,PI/000014649,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.50074300000000,YO12 4PE,2014-05-02,fhrs_5_en-GB,5,,FHRS,5
-388973,3 Market Place,Pickering,North Yorkshire,,Feast Deli,Retailers - other,4613,5,,285489,5,,54.24600500000000,PI/000025185,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77749100000000,YO18 7AA,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-388974,Church Houses,Farndale East,Kirkbymoorside,York,Feversham Arms,Pub/bar/nightclub,7843,5,,285001,5,,54.36469000000000,PI/000002375,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97334400000000,YO62 7LF,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-388975,16 Market Place,Malton,North Yorkshire,,Fine Food Theatre,Retailers - other,4613,10,,285153,0,,54.13528100000000,PI/000007794,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79878300000000,YO17 7LX,2013-11-21,fhrs_4_en-GB,4,,FHRS,10
-388976,,,,,Fish & Chips Of Pickering,Mobile caterer,7846,0,,285310,0,,,PI/000013733,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-08-13,fhrs_5_en-GB,5,,FHRS,5
-388977,Rosedale Abbey,Pickering,,,Five Acre View,Hotel/bed & breakfast/guest house,7842,10,,285504,5,,54.36232757568359,PI/000025277,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.89802265167236,YO18 8RE,2011-11-23,fhrs_4_en-GB,4,,FHRS,5
-388978,Stape,Pickering,North Yorkshire,,Flamborough Rigg Cottage,Hotel/bed & breakfast/guest house,7842,10,,285377,5,,54.32563781738281,PI/000016843,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78999990224838,YO18 8HR,2011-11-24,fhrs_4_en-GB,4,,FHRS,5
-388979,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Flamin Dragon,Restaurant/Cafe/Canteen,1,5,,285480,10,,54.20589200000000,PI/000024488,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_4_en-GB,4,,FHRS,5
-388980,11 Yorkersgate,Malton,North Yorkshire,Y017 7AA,Florios Restaurant,Restaurant/Cafe/Canteen,1,0,,285192,0,,,PI/000008694,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-06-26,fhrs_4_en-GB,4,,FHRS,10
-388981,Rosedale Abbey County Caravan Park,Rosedale Abbey,Pickering,North Yorkshire,Flower Of May,Retailers - other,4613,5,,668975,0,,54.35329100000000,14/00030/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.88787800000000,YO18 8SA,2014-05-13,fhrs_5_en-GB,5,,FHRS,0
-388982,Malton Road,Pickering,North Yorkshire,,Forest & Vale Hotel,Restaurant/Cafe/Canteen,1,0,,285293,0,,54.24457500000000,PI/000013505,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77733400000000,YO18 7DL,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-388983,Keldy Cabins,Cropton,Pickering,North Yorkshire,Forest Holidays,Takeaway/sandwich shop,7844,5,,284992,5,,54.31533200000000,PI/000001867,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80656700000000,YO18 8HW,2012-07-19,fhrs_5_en-GB,5,,FHRS,5
-388984,Hutton-Le-Hole,York,North Yorkshire,,Forge Tearooms,Restaurant/Cafe/Canteen,1,0,,285075,0,,54.30036163330078,PI/000005469,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91728830337524,YO62 6UA,2013-04-09,fhrs_5_en-GB,5,,FHRS,0
-388985,1 & 2 Sartor House,Park Street,Pickering,North Yorkshire,Fortune Inn,Restaurant/Cafe/Canteen,1,5,,285315,0,,54.24699200000000,PI/000013904,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77818300000000,YO18 7AJ,2013-08-01,fhrs_5_en-GB,5,,FHRS,0
-388986,Main Street,Foston,York,,Foston C E Primary School,School/college/university,7845,0,,285010,0,,54.07675900000000,PI/000002645,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.95267400000000,YO60 7QB,2013-11-11,fhrs_5_en-GB,5,,FHRS,0
-388987,Main Street,Sinnington,York,,Fox & Hounds Country Inn,Pub/bar/nightclub,7843,5,,285369,5,,54.26011300000000,PI/000016364,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.85874700000000,YO62 6SQ,2013-04-17,fhrs_5_en-GB,5,,FHRS,5
-388988,Frankies Fish & Chips,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Frankies Fish & Chips,Takeaway/sandwich shop,7844,0,,285089,0,,54.20589200000000,PI/000005818,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-388989,29 Westgate,Rillington,Malton,,G F Turner (Butchers Shop),Manufacturers/packers,7839,5,,285341,5,,54.15670600000000,PI/000015097,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69742800000000,YO17 8LN,2014-02-05,fhrs_4_en-GB,4,,FHRS,10
-388990,,,,,G G Walker & Son,Mobile caterer,7846,5,,285170,5,,,PI/000008047,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-03-24,fhrs_5_en-GB,5,,FHRS,5
-388991,Ganton,Scarborough,North Yorkshire,,Ganton Golf Club,Restaurant/Cafe/Canteen,1,0,,285012,0,,54.19052886962891,PI/000002757,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.49517190456390,YO12 4PA,2013-01-29,fhrs_5_en-GB,5,,FHRS,5
-388992,Cold Kirby,Hambleton,Thirsk,,Garbutt Farm,Hotel/bed & breakfast/guest house,7842,10,,285451,5,,54.24395370483398,PI/000022479,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.21169936656952,YO7 2HJ,2011-12-01,fhrs_4_en-GB,4,,FHRS,5
-388993,Ganthorpe,York,North Yorkshire,,Gate Farm,Hotel/bed & breakfast/guest house,7842,10,,285011,0,,54.12418365478516,PI/000002742,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.94690334796906,YO60 6QD,2012-01-13,fhrs_4_en-GB,4,,FHRS,5
-388994,17 Market Place,Kirkbymoorside,York,,George & Dragon Hotel,Restaurant/Cafe/Canteen,1,0,,285116,5,,54.26979000000000,PI/000006252,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93200200000000,YO62 6AA,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-388995,Yorkersgate,Malton,North Yorkshire,,George Hotel,Pub/bar/nightclub,7843,10,,285198,5,,54.13346481323242,PI/000008730,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 7AA,2012-07-30,fhrs_4_en-GB,4,,FHRS,5
-388996,8 Bridge Street,Helmsley,York,,Gepetto's,Restaurant/Cafe/Canteen,1,0,,285047,5,,54.24582700000000,PI/000004105,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06033400000000,YO62 5BG,2013-10-16,fhrs_5_en-GB,5,,FHRS,5
-388997,45 Commercial Street,Norton,Malton,,Get Stuffed,Takeaway/sandwich shop,7844,10,,285222,15,,54.13246600000000,PI/000010460,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78607000000000,YO17 9HX,2013-08-06,fhrs_2_en-GB,2,,FHRS,10
-388998,Main Street,Gillamoor,York,,Gillamoor C E School,School/college/university,7845,0,,285018,0,,54.30122500000000,PI/000002919,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.95307100000000,YO62 7HX,2014-09-12,fhrs_5_en-GB,5,,FHRS,5
-388999,Gilling East,York,North Yorkshire,,Gilling East Village Hall,Other catering premises,7841,,,285481,,,54.18498229980469,PI/000024793,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06033468246460,YO62 4JJ,2011-11-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-389000,Butchers Shop,Staxton,Scarborough,North Yorkshire,Glaves & McNay,Retailers - other,4613,5,,285380,5,,54.19782600000000,PI/000016876,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.44005700000000,YO12 4SB,2014-02-12,fhrs_4_en-GB,4,,FHRS,10
-389001,Butterwick,Weaverthorpe,Malton,,Glebe Farm,Farmers/growers,7838,5,,284982,5,,54.12974929809570,PI/000001328,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.48609584569931,YO17 8HF,2013-11-06,fhrs_5_en-GB,5,,FHRS,5
-389002,7-9 St Michael Street,Malton,North Yorkshire,,Gold Lion,Takeaway/sandwich shop,7844,10,,285180,10,,54.13346481323240,PI/000008554,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 0LJ,2013-03-06,fhrs_3_en-GB,3,,FHRS,10
-389003,21 Market Place,Malton,North Yorkshire,,Golden Lion,Pub/bar/nightclub,7843,5,,285154,0,,54.13558400000000,PI/000007803,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79946300000000,YO17 7LP,2012-02-15,fhrs_4_en-GB,4,,FHRS,10
-389004,40 Wheelgate,Malton,North Yorkshire,YO17 Ohp,Graze Of Malton,Restaurant/Cafe/Canteen,1,10,,285188,5,,,PI/000008655,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-04-26,fhrs_4_en-GB,4,,FHRS,5
-389005,12 Rosedale Abbey,Pickering,,,Graze On The Green,Restaurant/Cafe/Canteen,1,5,,285441,0,,54.35420800000000,PI/000021782,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.88690000000000,YO18 8RA,2014-07-25,fhrs_5_en-GB,5,,FHRS,5
-389006,127 Eastgate,Pickering,North Yorkshire,,Greystones Cafe,Restaurant/Cafe/Canteen,1,5,,285273,5,,54.24280700000000,PI/000012849,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77315000000000,YO18 7DW,2013-07-02,fhrs_4_en-GB,4,,FHRS,10
-389007,123 Eastgate,Pickering,North Yorkshire,,Grindale House,Hotel/bed & breakfast/guest house,7842,10,,285272,10,,54.24280700000000,PI/000012846,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77315000000000,YO18 7DW,2011-01-20,fhrs_3_en-GB,3,,FHRS,5
-389008,Little Habton,Malton,North Yorkshire,,Habton House Farm,Hotel/bed & breakfast/guest house,7842,10,,285136,5,,54.18358612060547,PI/000006963,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.85434216260910,YO17 6UA,2011-11-23,fhrs_4_en-GB,4,,FHRS,5
-389009,Acklam,Malton,North Yorkshire,,Half Moon Inn,Pub/bar/nightclub,7843,10,,371643,0,,54.04523468017578,PI/000000015,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80384021997452,YO17 9RG,2013-11-19,fhrs_4_en-GB,4,,FHRS,5
-389010,Scagglethorpe,Malton,North Yorkshire,,Ham & Cheese,Pub/bar/nightclub,7843,10,,285354,5,,54.14315032958984,PI/000015500,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72409337759018,YO17 8DY,2013-08-21,fhrs_3_en-GB,3,,FHRS,10
-389011,Staxton,Scarborough,North Yorkshire,,Hare & Hounds,Pub/bar/nightclub,7843,10,,285381,5,,54.27766036987305,PI/000016885,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.41115999221802,YO12 4JA,2014-05-02,fhrs_2_en-GB,2,,FHRS,15
-389012,Scawton,Thirsk,North Yorkshire,,Hare Inn,Pub/bar/nightclub,7843,10,,285356,5,,54.24467086791992,PI/000015606,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.15918779373169,YO7 2HG,2014-02-24,fhrs_3_en-GB,3,,FHRS,10
-389013,Malton Road,Pickering,North Yorkshire,,Harlands Garage,Retailers - other,4613,10,,285294,0,,54.24157100000000,PI/000013508,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77539700000000,YO18 7JL,2013-03-19,fhrs_4_en-GB,4,,FHRS,0
-389014,Spital Road,Staxton,Scarborough,,Harpers A64 Ltd,Takeaway/sandwich shop,7844,5,,285468,5,,54.19782600000000,PI/000023668,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.44005700000000,YO12 4SB,2013-07-30,fhrs_5_en-GB,5,,FHRS,5
-389015,Front Street,Hawnby,York,North Yorkshire,Hawnby Post Office & Cafe,Restaurant/Cafe/Canteen,1,5,,285033,10,,54.29732000000000,PI/000003897,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.16841100000000,YO62 5QR,2014-03-27,fhrs_4_en-GB,4,,FHRS,5
-389016,Hawnby,York,North Yorkshire,,Hawnby Village Hall,Other catering premises,7841,5,,375510,5,,54.29732131958010,PI/000003898,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.16841053962708,YO62 5QR,2012-02-20,fhrs_4_en-GB,4,,FHRS,10
-389017,6 Rye Close,York Road,Malton,North Yorkshire,Hayloft Foods,Manufacturers/packers,7839,5,,559238,0,,54.12551800000000,13/00049/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.81860700000000,YO17 6YD,2013-06-12,fhrs_5_en-GB,5,,FHRS,0
-389018,Carlton Lane,Helmsley,York,,Helmsley CP School,School/college/university,7845,5,,285048,0,,54.24832000000000,PI/000004121,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.05730000000000,YO62 5HB,2014-09-12,fhrs_5_en-GB,5,,FHRS,5
-389019,14 Bondgate,Helmsley,York,Y062 5BR,Helmsley Fish Shop,Takeaway/sandwich shop,7844,5,,285038,0,,,PI/000004036,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-04-09,fhrs_5_en-GB,5,,FHRS,5
-389020,1 Bridge Street,Helmsley,,,Helmsley Spice,Restaurant/Cafe/Canteen,1,20,,657056,15,,54.24582700000000,12/00035/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06033400000000,YO62 5BG,2014-04-23,fhrs_1_en-GB,1,,FHRS,10
-389021,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Hero Ices,Restaurant/Cafe/Canteen,1,0,,701039,0,,54.20589200000000,14/00050/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-389022,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Hero Pancakes,Takeaway/sandwich shop,7844,0,,285447,0,,54.20589200000000,PI/000022085,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-389023,Heron Foods,15-17 Wheelgate,Malton,North Yorkshire,Heron Foods,Retailers - other,4613,5,,285184,0,,,PI/000008631,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,YO17 0HT,2012-02-06,fhrs_5_en-GB,5,,FHRS,5
-389024,Primary School,Staxton,Scarborough,North Yorkshire,Hertford Vale Ce,School/college/university,7845,0,,285379,0,,54.19821929931641,PI/000016864,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.44612833857536,YO12 4SS,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-389025,Hickory's Roadhouse & Grill,Malton Road,Flaxton,York,Hickory's Roadhouse,Restaurant/Cafe/Canteen,1,10,,439893,10,,,PI/000025358,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,YO60 7SF,2014-03-31,fhrs_3_en-GB,3,,FHRS,10
-389026,Dalby,Pickering,North Yorkshire,,High Dalby House,Hotel/bed & breakfast/guest house,7842,5,,668976,0,,54.28643200000000,PI/000001932,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69175700000000,YO18 7LP,2014-10-01,fhrs_5_en-GB,5,,FHRS,0
-389027,Cropton,Pickering,North Yorkshire,,High Farm,Hotel/bed & breakfast/guest house,7842,10,,285495,5,,54.29278945922852,PI/000025265,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.83783918619156,YO18 8HL,2011-11-24,fhrs_4_en-GB,4,,FHRS,5
-389028,Kirkbymoorside,York,North Yorkshire,,High Park Farm,Hotel/bed & breakfast/guest house,7842,0,,285107,0,,54.29144300000000,PI/000005913,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.94344000000000,YO62 7HS,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-389029,Highfield Lane,Nawton,York,,High Rigg,Hotel/bed & breakfast/guest house,7842,5,,449795,5,,54.26870300000000,PI/000024977,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.00459700000000,YO62 7TU,2012-08-31,fhrs_5_en-GB,5,,FHRS,5
-389030,Sheriff Hutton,York,North Yorkshire,,Highwayman Inn,Pub/bar/nightclub,7843,10,,285364,5,,54.08882904052734,PI/000016025,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.00751554965973,YO60 6QZ,2013-08-21,fhrs_3_en-GB,3,,FHRS,10
-389031,Rosedale East,Pickering,North Yorkshire,,Hillyard Cottage,Hotel/bed & breakfast/guest house,7842,5,,285345,5,,54.37077500000000,PI/000015186,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91483700000000,YO18 8RH,2014-08-14,fhrs_5_en-GB,5,,FHRS,5
-389032,62-64 Castlegate,Malton,North Yorkshire,,Hope Central Coffee House,Restaurant/Cafe/Canteen,1,0,,285454,5,,54.12353400000000,PI/000022731,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69032300000000,YO17 0DZ,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-389033,Old Blacksmiths,Main Street,Swinton,Malton,Hornsey Meats,Manufacturers/packers,7839,20,,285385,15,,,PI/000017475,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-12-11,fhrs_0_en-GB,0,,FHRS,20
-389034,4 Hallgarth,Pickering,North Yorkshire,,Horse Shoe Inn,Pub/bar/nightclub,7843,5,,285285,5,,54.24505200000000,PI/000013185,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77475700000000,YO18 7AW,2013-11-19,fhrs_4_en-GB,4,,FHRS,10
-389035,6 St Michael Street,Malton,North Yorkshire,,House Martins,Hospitals/Childcare/Caring Premises,5,5,,285179,0,,54.13556500000000,PI/000008553,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79755100000000,YO17 7LJ,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-389036,Highfield Road,Malton,North Yorkshire,,House Martins Out Of School Club,Other catering premises,7841,5,,285150,0,,54.14196300000000,PI/000007690,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78749200000000,YO17 7DB,2013-11-12,fhrs_5_en-GB,5,,FHRS,0
-389037,Brookside,Hovingham,York,North Yorkshire,Hovingham Bakery & Spa Tearoom,Retailers - other,4613,10,,285070,0,,54.13346481323242,PI/000004780,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO62 4LG,2013-10-09,fhrs_4_en-GB,4,,FHRS,5
-389038,Main Street,Hovingham,York,,Hovingham Cevc Primary School,School/college/university,7845,0,,285072,0,,54.17334900000000,PI/000004816,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97842400000000,YO62 4LF,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-389039,Hovingham,York,North Yorkshire,,Hovingham Stores,Retailers - other,4613,0,,285068,0,,54.17334747314453,PI/000004757,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97842389345169,YO62 4LF,2013-05-20,fhrs_5_en-GB,5,,FHRS,5
-389040,24 Firthland Road,Pickering,North Yorkshire,,Humpty Dumpty,Hospitals/Childcare/Caring Premises,5,0,,285283,0,,54.24569900000000,PI/000012975,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78627800000000,YO18 8BZ,2013-11-05,fhrs_5_en-GB,5,,FHRS,5
-389041,Market Place,Helmsley,York,,Hunters Of Helmsley,Retailers - other,4613,5,,285063,10,,54.24593600000000,PI/000004352,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06163600000000,YO62 5BL,2014-06-17,fhrs_4_en-GB,4,,FHRS,5
-389042,Huttons Ambo,York,North Yorkshire,,Huttons Ambo Village Shop,Retailers - other,4613,10,,285080,5,,54.09794235229492,PI/000005553,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.83691519498825,YO60 7HF,2013-09-03,fhrs_3_en-GB,3,,FHRS,10
-389043,33 Yorkersgate,Malton,North Yorkshire,,India The Restaurant,Restaurant/Cafe/Canteen,1,10,,617939,15,,54.13431400000000,13/00103/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79832200000000,YO17 7AA,2013-12-12,fhrs_2_en-GB,2,,FHRS,5
-389044,12/14 Market Place,Malton,North Yorkshire,,J & K W Paley & Sons,Retailers - other,4613,10,,285161,0,,54.13346481323242,PI/000007842,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 0LX,2012-02-07,fhrs_4_en-GB,4,,FHRS,0
-389045,Wentworth Street,Malton,North Yorkshire,,J B Motors,Retailers - other,4613,5,,285182,0,,54.13845600000000,PI/000008615,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79990100000000,YO17 7BN,2012-03-27,fhrs_5_en-GB,5,,FHRS,5
-389046,2 Church Street,Kirkbymoorside,York,,J B Spice,Takeaway/sandwich shop,7844,10,,285108,10,,54.26995600000000,PI/000006011,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93043100000000,YO62 6AZ,2013-12-10,fhrs_3_en-GB,3,,FHRS,10
-389047,A64 Malton Road,Harton,York,North Yorkshire,Jinnah Restaurant,Restaurant/Cafe/Canteen,1,0,,285029,5,,54.05597800000000,PI/000003320,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93620900000000,YO60 7SQ,2013-07-23,fhrs_5_en-GB,5,,FHRS,5
-389048,Main Street,Leavening,Malton,,Jolly Farmers Inn,Pub/bar/nightclub,7843,10,,285133,5,,54.05742800000000,PI/000006826,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80170300000000,YO17 9SA,2014-06-26,fhrs_3_en-GB,3,,FHRS,10
-389049,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Jolly Sailor,Restaurant/Cafe/Canteen,1,5,,285090,5,,54.20589200000000,PI/000005819,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-389050,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Jungle Joe's Burgers,Restaurant/Cafe/Canteen,1,0,,285095,5,,54.20589200000000,PI/000005831,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-389051,Beadlam Grange,Main Street,Beadlam,Helmsley,Kala King Chocolate,Manufacturers/packers,7839,10,,661411,5,,54.24939600000000,14/00025/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.01750900000000,YO62 7TD,2014-05-09,fhrs_4_en-GB,4,,FHRS,5
-389052,9 Saville Street,Malton,North Yorkshire,,Kingfisher Cafe,Restaurant/Cafe/Canteen,1,5,,285175,5,,54.13499400000000,PI/000008410,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79791900000000,YO17 7LL,2014-09-25,fhrs_5_en-GB,5,,FHRS,0
-389053,5 Market Place,Malton,North Yorkshire,,Kings Head,Pub/bar/nightclub,7843,5,,285160,5,,54.13346481323242,PI/000007823,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 0LP,2013-09-10,fhrs_4_en-GB,4,,FHRS,10
-389054,High Market Place,Kirkbymoorside,York,,Kings Head Hotel,Restaurant/Cafe/Canteen,1,10,,285111,10,,54.27068900000000,PI/000006104,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93306900000000,YO62 6AT,2014-01-28,fhrs_3_en-GB,3,,FHRS,5
-389055,Kirkbymoorside,York,North Yorkshire,,Kirkbymoorside C P School,School/college/university,7845,0,,285105,0,,54.26777267456055,PI/000005904,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93862557411194,YO62 6AG,2013-07-02,fhrs_5_en-GB,5,,FHRS,0
-389056,Manor Vale,Kirkbymoorside,York,,Kirkbymoorside Golf Club,Restaurant/Cafe/Canteen,1,0,,285113,5,,54.27196600000000,PI/000006243,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93513900000000,YO62 6EG,2013-05-16,fhrs_5_en-GB,5,,FHRS,0
-389057,The Green Building,Westfield,Kirkbymoorside,York,Kirkbymoorside Out Of School Club,Other catering premises,7841,10,,285106,0,,54.26777200000000,PI/000005905,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93862600000000,YO62 6AG,2014-06-27,fhrs_4_en-GB,4,,FHRS,5
-389058,Nunnington Abattoir,Nunnington,York,North Yorkshire,Kirk's Mobile Butchers Van,Mobile caterer,7846,10,,285248,10,,54.20540300000000,PI/000011976,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97464400000000,YO62 5UY,2012-12-07,fhrs_2_en-GB,2,,FHRS,15
-389059,Swainsea Lane,Pickering,North Yorkshire,,Lady Lumleys School,School/college/university,7845,5,,285323,0,,54.25113400000000,PI/000014170,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78340200000000,YO18 8NG,2014-11-28,fhrs_5_en-GB,5,,FHRS,5
-389060,Langton,Malton,North Yorkshire,,Langton Primary School,School/college/university,7845,0,,285129,0,,54.09379959106445,PI/000006712,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78161793947220,YO17 9QP,2014-09-03,fhrs_5_en-GB,5,,FHRS,5
-389061,Hawnby,York,North Yorkshire,,Laskill Grange,Hotel/bed & breakfast/guest house,7842,10,,285034,5,,54.30881500244141,PI/000003904,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.13633298873901,YO62 5NB,2011-12-07,fhrs_4_en-GB,4,,FHRS,5
-389062,Lastingham,York,North Yorkshire,Y062 6TH,Lastingham Grange,Restaurant/Cafe/Canteen,1,0,,285131,5,,,PI/000006741,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2012-11-26,fhrs_5_en-GB,5,,FHRS,5
-389063,Swainsea Lane,Pickering,North Yorkshire,,Laurel Bank,Hotel/bed & breakfast/guest house,7842,,,285457,,,54.24930300000000,PI/000022935,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78624900000000,YO18 8AP,2012-04-05,fhrs_5_en-GB,5,,FHRS,
-389064,The Forge,Maltongate,Thornton-Le-Dale,Pickering,Lavenders Tea Rooms & Delicatessen,Restaurant/Cafe/Canteen,1,5,,406160,0,,54.23571000000000,PI/000025283,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72162400000000,YO18 7RN,2014-11-07,fhrs_5_en-GB,5,,FHRS,0
-389065,1 Burgate,Pickering,North Yorkshire,,Lazy Sundae,Restaurant/Cafe/Canteen,1,0,,285265,5,,54.24641100000000,PI/000012671,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77666500000000,YO18 7AU,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-389066,Leavening,Malton,North Yorkshire,,Leavening Community Primary School,School/college/university,7845,0,,285132,0,,54.05812835693360,PI/000006778,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80249214172363,YO17 9SW,2014-12-12,fhrs_5_en-GB,5,,FHRS,5
-389067,18 Eastgate,Pickering,North Yorkshire,,Lee's Takeaway,Takeaway/sandwich shop,7844,20,,285274,15,,54.24304500000000,PI/000012852,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77269800000000,YO18 7DU,2013-11-27,fhrs_1_en-GB,1,,FHRS,10
-389068,16 Wheelgate,Malton,North Yorkshire,,Leoni,Restaurant/Cafe/Canteen,1,0,,285185,0,,54.13577500000000,PI/000008632,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79691700000000,YO17 7HP,2013-02-20,fhrs_5_en-GB,5,,FHRS,5
-389069,Smiddy Hill,Pickering,North Yorkshire,,Lettered Board Inn,Pub/bar/nightclub,7843,10,,285322,5,,54.24488400000000,PI/000014089,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77588200000000,YO18 7AN,2011-12-01,fhrs_3_en-GB,3,,FHRS,10
-389070,Levisham,Pickering,North Yorkshire,,Levisham Station,Restaurant/Cafe/Canteen,1,0,,324482,0,,54.30630111694336,PI/000006901,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72380000352859,,2012-03-27,fhrs_5_en-GB,5,,FHRS,5
-389071,4A Welham Road,Norton,Malton,,Lidl,Retailers - supermarkets/hypermarkets,7840,0,,285465,0,,54.13045000000000,PI/000023536,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79203600000000,YO17 9DP,2015-02-02,fhrs_5_en-GB,5,,FHRS,0
-389072,Lidl Uk,Vivis Lane,Pickering,North Yorkshire,Lidl UK GMBH,Retailers - supermarkets/hypermarkets,7840,0,,638127,0,,54.24348000000000,13/00105/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78192400000000,YO18 8TB,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-389073,Coneysthorpe,York,North Yorkshire,,Lime Kiln Farm,Hotel/bed & breakfast/guest house,7842,10,,284991,0,,54.13287734985352,PI/000001728,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91206336021423,YO60 7DD,2012-01-13,fhrs_4_en-GB,4,,FHRS,5
-389074,Middleton,Pickering,North Yorkshire,,Londis,Retailers - other,4613,0,,285201,0,,54.25470352172850,PI/000008874,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79597604274750,YO18 8NS,2013-05-14,fhrs_5_en-GB,5,,FHRS,0
-389075,Burythorpe,Malton,North Yorkshire,,Low Penhowe,Hotel/bed & breakfast/guest house,7842,10,,285496,0,,54.07608795166016,PI/000025266,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80376350879669,YO17 9LU,2011-12-14,fhrs_4_en-GB,4,,FHRS,0
-389076,West Lutton,Malton,North Yorkshire,,Luttons Community Primary School,School/college/university,7845,0,,285419,0,,54.11196899414063,PI/000018989,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.57559365034103,YO17 8TF,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-389077,Castle Howard,York,North Yorkshire,,Main Kitchens,Restaurant/Cafe/Canteen,1,0,,284986,0,,54.12141799926758,PI/000001362,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90596789121628,YO60 7DA,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-389078,15 Main Street,Ebberston,Scarborough,,Main Street Bakery,Retailers - other,4613,10,,516922,0,,54.23236400000000,PI/000025412,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.62344600000000,YO13 9NR,2013-02-26,fhrs_4_en-GB,4,,FHRS,5
-389079,Hovingham,York,North Yorkshire,,Malt Shovel,Pub/bar/nightclub,7843,5,,285069,5,,54.17334747314453,PI/000004764,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97842389345169,YO62 4LF,2014-05-16,fhrs_4_en-GB,4,,FHRS,10
-389080,Middlecave Road,Malton,North Yorkshire,,Malton & Norton Hospital,Hospitals/Childcare/Caring Premises,5,0,,285163,0,,54.13715600000000,PI/000007946,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80656600000000,YO17 7NG,2014-03-05,fhrs_5_en-GB,5,,FHRS,5
-389081,The Gannock,Old Malton Road,Old Malton,Malton,Malton & Norton R U F C,Pub/bar/nightclub,7843,5,,285252,0,,54.13996800000000,PI/000012079,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78845300000000,YO17 7EY,2013-07-08,fhrs_5_en-GB,5,,FHRS,0
-389082,Highfield Road,Malton,North Yorkshire,,Malton Community Primary School,School/college/university,7845,0,,285151,0,,54.14196300000000,PI/000007691,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78749200000000,YO17 7DB,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-389083,12 Finkle Street,Malton,North Yorkshire,,Malton Fisheries,Retailers - other,4613,5,,285144,5,,54.13629300000000,PI/000007513,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79846300000000,YO17 7JD,2014-03-26,fhrs_5_en-GB,5,,FHRS,5
-389084,58 Market Place,Malton,North Yorkshire,,Malton Relish,Retailers - other,4613,10,,285162,10,,54.13574200000000,PI/000007849,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79820400000000,YO17 7LW,2013-10-15,fhrs_3_en-GB,3,,FHRS,5
-389085,Middlecave Road,Malton,North Yorkshire,,Malton School,School/college/university,7845,5,,285164,0,,54.13907800000000,PI/000007947,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.81186800000000,YO17 7NH,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-389086,24 Castlegate,Malton,North Yorkshire,,Malton Spice,Restaurant/Cafe/Canteen,1,10,,285138,15,,54.13409500000000,PI/000007249,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79526700000000,YO17 7DT,2013-12-10,fhrs_2_en-GB,2,,FHRS,10
-389087,19-23 Newbiggin,Malton,North Yorkshire,,Mama Mia,Takeaway/sandwich shop,7844,10,,285169,10,,54.13752200000000,PI/000008041,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80003500000000,YO17 7JE,2013-09-10,fhrs_2_en-GB,2,,FHRS,15
-389088,East Heslerton,Malton,North Yorkshire,,Manor Farm,Hotel/bed & breakfast/guest house,7842,10,,284998,5,,54.17711257934570,PI/000002044,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.58371365070343,YO17 8RN,2011-12-01,fhrs_4_en-GB,4,,FHRS,5
-389089,Gillamoor,York,North Yorkshire,,Manor Farm,Hotel/bed & breakfast/guest house,7842,10,,285019,5,,54.30122375488281,PI/000002926,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.95307111740112,YO62 7HX,2011-11-30,fhrs_4_en-GB,4,,FHRS,5
-389090,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Mansion House & Tearooms,Restaurant/Cafe/Canteen,1,0,,701038,0,,54.20589200000000,14/00014/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-389091,Marley's  Butchers,28 Bridge Street,Helmsley,York,Marley's Butchers,Retailers - other,4613,10,,285045,0,,54.24536000000000,PI/000004095,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.05802700000000,YO62 5DY,2014-11-05,fhrs_4_en-GB,4,,FHRS,10
-389092,Westgate Carr Road,Pickering,North Yorkshire,,McKechnie Staff Canteen,Restaurant/Cafe/Canteen,1,5,,285328,5,,54.24543000000000,PI/000014444,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79985300000000,YO18 8LX,2015-01-29,fhrs_5_en-GB,5,,FHRS,5
-389093,Meadowfield,Amotherby,Malton,,Meadowfield Nursery School,Hospitals/Childcare/Caring Premises,5,0,,284960,0,,54.15291900000000,PI/000000270,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.85448500000000,YO17 6TS,2014-10-24,fhrs_5_en-GB,5,,FHRS,0
-389094,Ashdale Road,Helmsley,York,,Methodist Hall,Other catering premises,7841,5,,285037,0,,54.24651800000000,PI/000004013,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.05557600000000,YO62 5DD,2012-03-06,fhrs_5_en-GB,5,,FHRS,5
-389095,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Metro Diner,Restaurant/Cafe/Canteen,1,5,,285103,5,,54.20589200000000,PI/000005850,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2013-07-29,fhrs_5_en-GB,5,,FHRS,5
-389096,Metropolis Bar & Grill,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Metropolis Bar & Grill,Restaurant/Cafe/Canteen,1,0,,285104,0,,54.20589200000000,PI/000005852,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-389097,North Grimston,Malton,North Yorkshire,,Middleton Arms,Pub/bar/nightclub,7843,10,,285212,10,,54.09783935546875,PI/000010116,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.71398442983627,YO17 8AX,2013-09-10,fhrs_3_en-GB,3,,FHRS,10
-389098,1 Howe Road,Norton,Malton,,Miller's Greengrocers & Florist,Retailers - other,4613,5,,285230,5,,54.12976700000000,PI/000010804,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78226200000000,YO17 9BH,2013-11-05,fhrs_4_en-GB,4,,FHRS,10
-389099,39/41 Commercial Street,Norton,Malton,,Ming Yan,Restaurant/Cafe/Canteen,1,10,,528476,15,,54.13246600000000,PI/000010455,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78607000000000,YO17 9HX,2013-03-18,fhrs_2_en-GB,2,,FHRS,10
-389100,Ampleforth College,Ampleforth,York,North Yorkshire,Monastery Kitchen,Restaurant/Cafe/Canteen,1,0,,284961,0,,54.20167922973633,PI/000000288,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.08356416225433,YO62 4EN,2014-11-21,fhrs_5_en-GB,5,,FHRS,5
-389101,Appleton-Le-Moors,York,North Yorkshire,Y062 6TF,Moors Inn,Pub/bar/nightclub,7843,5,,284972,0,,,PI/000000676,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-09-17,fhrs_5_en-GB,5,,FHRS,5
-389102,6 Church Street,Kirkbymoorside,York,,Moorside Fisheries,Takeaway/sandwich shop,7844,0,,285109,0,,54.26995600000000,PI/000006016,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93043100000000,YO62 6AZ,2013-07-09,fhrs_5_en-GB,5,,FHRS,0
-389103,Castlegate,Malton,North Yorkshire,,Morrisons,Retailers - supermarkets/hypermarkets,7840,0,,509745,0,,54.13409500000000,PI/000007290,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79526700000000,YO17 7DT,2013-02-08,fhrs_5_en-GB,5,,FHRS,5
-389104,Copperfield,Flaxton,York,North Yorkshire,Mr Cass,Retailers - other,4613,10,,285005,5,,54.04992000000000,PI/000002501,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.95987100000000,YO60 7RT,2014-03-24,fhrs_4_en-GB,4,,FHRS,5
-389105,Hazel's Fish & Chicken Bar,23 Wood Street,Norton,Malton,Mr M Hazel,Takeaway/sandwich shop,7844,10,,285245,5,,54.13152200000000,PI/000011916,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78603600000000,YO17 9BA,2013-08-21,fhrs_4_en-GB,4,,FHRS,0
-389106,Vivis House,Vivis Lane,Pickering,,Mr Wilf's Cafe,Restaurant/Cafe/Canteen,1,0,,632740,5,,54.24348000000000,13/00017/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78192400000000,YO18 8TB,2014-02-06,fhrs_5_en-GB,5,,FHRS,0
-389107,,,,,Mrs Jam,Other catering premises,7841,10,,285421,10,,,PI/000019168,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2012-07-20,fhrs_3_en-GB,3,,FHRS,10
-389108,Nawton,York,North Yorkshire,,Nawton Community Primary School,School/college/university,7845,0,,285202,5,,54.25563812255860,PI/000009037,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.99398285150528,YO62 7SF,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-389109,The Green,Nawton,York,,Nawton Green Fisheries,Takeaway/sandwich shop,7844,0,,285206,5,,54.25313500000000,PI/000009115,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.99576300000000,YO62 7SW,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-389110,53 Castlegate,Malton,North Yorkshire,,New Brew,Restaurant/Cafe/Canteen,1,0,,285140,5,,54.13379000000000,PI/000007266,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79172500000000,YO17 7EA,2014-04-26,fhrs_5_en-GB,5,,FHRS,0
-389111,88 Commercial Street,Norton,Malton,,New Yan's Takeaway Shop,Takeaway/sandwich shop,7844,20,,285227,20,,54.13224900000000,PI/000010489,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78503600000000,YO17 9ES,2014-03-25,fhrs_0_en-GB,0,,FHRS,20
-389112,10 Market Place,Helmsley,York,,Nice Things Cafe,Restaurant/Cafe/Canteen,1,5,,285056,5,,54.24593600000000,PI/000004333,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06163600000000,YO62 5BL,2013-10-01,fhrs_4_en-GB,4,,FHRS,10
-389113,Burgate,Pickering,North Yorkshire,,No. 17,Hotel/bed & breakfast/guest house,7842,5,,285266,0,,54.13346481323242,PI/000012677,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO18 7AY,2012-02-15,fhrs_5_en-GB,5,,FHRS,0
-389114,Pickering Station Cafe,Park Street,Pickering,North Yorkshire,North Yorkshire Moors Railway,Restaurant/Cafe/Canteen,1,0,,285314,0,,54.24699200000000,PI/000013902,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77818300000000,YO18 7AJ,2013-01-29,fhrs_5_en-GB,5,,FHRS,5
-389115,Langton Road,Norton,Malton,,Norton College,School/college/university,7845,5,,285233,0,,54.12555000000000,PI/000011038,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78299700000000,YO17 9PT,2013-11-18,fhrs_5_en-GB,5,,FHRS,5
-389116,School,Grove Street,Norton,Malton,Norton County Primary,School/college/university,7845,0,,285228,0,,54.13101800000000,PI/000010747,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78508700000000,YO17 9BG,2014-09-03,fhrs_5_en-GB,5,,FHRS,0
-389117,7 Eastgate,Pickering,North Yorkshire,,Noyon,Restaurant/Cafe/Canteen,1,10,,285276,15,,54.24304500000000,PI/000012881,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77269800000000,YO18 7DU,2014-10-23,fhrs_2_en-GB,2,,FHRS,10
-389118,Market Place,Pickering,North Yorkshire,,Number 4,Pub/bar/nightclub,7843,0,,285301,0,,54.24600500000000,PI/000013608,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77749100000000,YO18 7AA,2013-11-11,fhrs_5_en-GB,5,,FHRS,0
-389119,Elm House Farm,Newton-On-Rawcliffe,Pickering,North Yorkshire,Nutmegs,Manufacturers/packers,7839,0,,285208,5,,54.30414000000000,PI/000010020,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.75296200000000,YO18 8QA,2013-09-10,fhrs_5_en-GB,5,,FHRS,5
-389120,5 Whitby Road,Pickering,North Yorkshire,,Nycc Adult & Community Services,Hospitals/Childcare/Caring Premises,5,5,,285330,5,,54.13346481323242,PI/000014491,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO18 7ND,2013-05-01,fhrs_5_en-GB,5,,FHRS,5
-389121,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Old El Paso,Takeaway/sandwich shop,7844,5,,285446,5,,54.20589200000000,PI/000022074,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-389122,Town Street,Old Malton,Malton,,Old Malton Memorial Hall,Other catering premises,7841,5,,375512,5,,54.14423500000000,PI/000012145,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77857200000000,,2011-12-19,fhrs_4_en-GB,4,,FHRS,10
-389123,Middleton Road,Pickering,North Yorkshire,,Old Manse Hotel,Hotel/bed & breakfast/guest house,7842,20,,285308,5,,54.24739400000000,PI/000013713,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78503100000000,YO18 8AL,2014-08-08,fhrs_1_en-GB,1,,FHRS,5
-389124,Station House,Slingsby,York,North Yorkshire,Old Station House Bakery,Retailers - other,4613,10,,285371,0,,54.16802800000000,PI/000016575,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93179000000000,YO62 4AN,2013-09-03,fhrs_4_en-GB,4,,FHRS,5
-389125,High Lane,Beadlam,Nawton,York,Omega Oak Barn,Hospitals/Childcare/Caring Premises,5,0,,284976,0,,54.25345400000000,PI/000000919,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.99959200000000,YO62 7SY,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-389126,77 Mill Street,Norton,Malton,,One Of Each,Takeaway/sandwich shop,7844,10,,285235,0,,54.13101400000000,PI/000011140,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78116900000000,YO17 9JJ,2013-11-26,fhrs_4_en-GB,4,,FHRS,5
-389127,2 Hambleton Road,Norton,Malton,,One Stop Shop,Retailers - other,4613,0,,285229,0,,54.12735400000000,PI/000010767,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77740500000000,YO17 9DA,2015-01-29,fhrs_5_en-GB,5,,FHRS,0
-389128,1-3 St Michael Street,Malton,North Yorkshire,,Overton's Quality Butchers,Manufacturers/packers,7839,5,,285143,5,,54.13556500000000,PI/000007512,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79755100000000,YO17 7LJ,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-389129,49 Commercial Street,Norton,Malton,North Yorkshire,P M Butchers,Retailers - other,4613,5,,608075,5,,54.13246600000000,13/00066/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78607000000000,YO17 9HX,2014-11-27,fhrs_5_en-GB,5,,FHRS,5
-389130,(Leaf & Loaf),Main Street,Welburn,York,Pattacakes Village Shop,Retailers - other,4613,10,,285485,0,,54.10294600000000,PI/000025026,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90180500000000,YO60 7DX,2013-11-12,fhrs_4_en-GB,4,,FHRS,10
-389131,103 Westgate,Pickering,North Yorkshire,,Pear Tree House Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,10,,528478,0,,54.24643200000000,PI/000014327,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78585800000000,YO18 8BB,2013-03-26,fhrs_4_en-GB,4,,FHRS,0
-389132,4 Milton Avenue,Malton,North Yorkshire,,Peasey Hill Fish Shop,Takeaway/sandwich shop,7844,0,,285166,0,,54.14043500000000,PI/000007978,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79113300000000,YO17 7LB,2014-10-31,fhrs_5_en-GB,5,,FHRS,5
-389133,Cropton,Pickering,North Yorkshire,,Peat Rigg Activity Centre,School/college/university,7845,0,,284993,5,,54.29978942871094,PI/000001878,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.82264411449432,YO18 8EX,2013-11-28,fhrs_4_en-GB,4,,FHRS,10
-389134,19 Market Place,Kirkbymoorside,York,,Penny Bank Cafe,Restaurant/Cafe/Canteen,1,10,,285117,10,,54.26979000000000,PI/000006253,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93200200000000,YO62 6AA,2014-03-12,fhrs_3_en-GB,3,,FHRS,5
-389135,Harome,York,North Yorkshire,,Pheasant Hotel,Restaurant/Cafe/Canteen,1,10,,285026,5,,54.22802734375000,PI/000003232,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.00911962985992,YO62 5JG,2014-11-04,fhrs_3_en-GB,3,,FHRS,10
-389136,Ruffa Lane,Pickering,North Yorkshire,,Pickering Community Infant & Nurseryschool,School/college/university,7845,0,,285321,5,,54.24556800000000,PI/000014080,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77331400000000,YO18 7AT,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-389137,Middleton Road,Pickering,North Yorkshire,,Pickering Junior School,School/college/university,7845,5,,285309,0,,54.24837100000000,PI/000013715,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78474200000000,YO18 8AJ,2014-11-28,fhrs_5_en-GB,5,,FHRS,5
-389138,Newbridge,Pickering,North Yorkshire,,Pickering Trout Lake,Manufacturers/packers,7839,5,,285311,5,,54.25143814086910,PI/000013780,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77963244915008,YO18 8JH,2011-03-21,fhrs_4_en-GB,4,,FHRS,10
-389139,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Picnic Planet,Takeaway/sandwich shop,7844,0,,285491,0,,54.20589200000000,PI/000025191,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-389140,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Pitchers Bar,Pub/bar/nightclub,7843,0,,285097,0,,54.20589200000000,PI/000005835,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-389141,2 Birdgate,Pickering,North Yorkshire,,Pizza Figaro,Restaurant/Cafe/Canteen,1,10,,285259,5,,54.24539600000000,PI/000012638,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77589700000000,YO18 7AL,2013-09-03,fhrs_3_en-GB,3,,FHRS,10
-389142,65 Commercial Street,Norton,Malton,,Pizza Master,Takeaway/sandwich shop,7844,10,,285226,15,,54.13246600000000,PI/000010476,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78607000000000,YO17 9HX,2013-08-14,fhrs_2_en-GB,2,,FHRS,15
-389143,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Pizza Pie,Takeaway/sandwich shop,7844,5,,285434,5,,54.20589200000000,PI/000021106,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-389144,Unit 3D,Sheriff Hutton Park Industrial Esta,Sheriff Hutton,York,Pizza's World,Takeaway/sandwich shop,7844,0,,285484,5,,54.08382200000000,PI/000024978,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.01639400000000,YO60 6RZ,2012-07-30,fhrs_5_en-GB,5,,FHRS,0
-389145,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Plaza Coffee Bar,Restaurant/Cafe/Canteen,1,0,,285083,0,,54.20589200000000,PI/000005758,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-389146,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Plaza Sweets,Retailers - other,4613,0,,285096,5,,54.20589200000000,PI/000005833,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-389147,Main Street,Wombleton,York,,Plough Inn,Pub/bar/nightclub,7843,10,,285424,0,,54.24719500000000,PI/000019692,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97449800000000,YO62 7RW,2013-10-01,fhrs_4_en-GB,4,,FHRS,5
-389148,Nawton,York,North Yorkshire,,Plumpton Court Guest House,Hotel/bed & breakfast/guest house,7842,5,,285203,0,,54.25517654418945,PI/000009056,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.99595880508423,YO62 7TT,2012-10-04,fhrs_5_en-GB,5,,FHRS,0
-389149,21 Potter Hill,Pickering,North Yorkshire,,Polly's,Retailers - other,4613,5,,285319,5,,54.24620900000000,PI/000013970,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78159800000000,YO18 8AA,2012-03-14,fhrs_5_en-GB,5,,FHRS,5
-389150,37 Burgate,Pickering,North Yorkshire,,Poppies,Restaurant/Cafe/Canteen,1,5,,285267,0,,54.24641100000000,PI/000012691,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77666500000000,YO18 7AU,2014-11-07,fhrs_5_en-GB,5,,FHRS,5
-389151,19 Bridge Street,Helmsley,York,,Porters Coffee Shop,Restaurant/Cafe/Canteen,1,5,,285043,5,,54.24582700000000,PI/000004087,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06033400000000,YO62 5BG,2014-11-14,fhrs_5_en-GB,5,,FHRS,0
-389152,1 High Street,Rillington,Malton,,Post Office & Store,Retailers - other,4613,,,285337,,,54.15675100000000,PI/000014922,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69408900000000,YO17 8LA,2013-06-18,fhrs_3_en-GB,3,,FHRS,
-389153,High Street,Sherburn,Malton,,Post Office & Stores,Retailers - other,4613,10,,285360,5,,54.17758000000000,PI/000015855,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.53345700000000,YO17 8QB,2013-07-23,fhrs_4_en-GB,4,,FHRS,0
-389154,13 Potter Hill,Pickering,North Yorkshire,,Potter Hill Fish Shop,Takeaway/sandwich shop,7844,0,,285318,5,,54.24620900000000,PI/000013966,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78159800000000,YO18 8AA,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-389155,Primrose Hill Farm,Buttercrambe Road,Buttercrambe,Stamford Bridge,Primrose Hill Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,516920,0,,53.99515200000000,12/00042/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91666300000000,YO41 1AW,2014-06-09,fhrs_5_en-GB,5,,FHRS,0
-389156,Gate Helmsley,York,North Yorkshire,,Prospect House Care Home,Hospitals/Childcare/Caring Premises,5,0,,285015,0,,53.98796463012695,PI/000002847,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.94935089349747,YO41 1JS,2012-12-11,fhrs_5_en-GB,5,,FHRS,5
-389157,Yedingham,Malton,North Yorkshire,,Providence Inn,Pub/bar/nightclub,7843,10,,285426,5,,54.20240402221680,PI/000019833,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.63190823793411,YO17 8SL,2014-05-02,fhrs_3_en-GB,3,,FHRS,10
-389158,7 Alan Farnaby Way,Sheriff Hutton,York,,Puddleducks,Hospitals/Childcare/Caring Premises,5,5,,494096,5,,54.08382200000000,PI/000025371,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.01639400000000,YO60 6RZ,2014-06-09,fhrs_5_en-GB,5,,FHRS,0
-389159,Low Dalby,Thornton-Le-Dale,Pickering,,Purple Mountain Cafe,Restaurant/Cafe/Canteen,1,5,,285431,5,,54.23356246948242,PI/000020575,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72417563199997,YO18 7TL,2011-03-30,fhrs_4_en-GB,4,,FHRS,10
-389160,Cavenagh House,The Square,Sheriff Hutton,Malton,Quarmby's Delicatessen,Restaurant/Cafe/Canteen,1,0,,638126,5,,54.08930800000000,13/00092/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.00693800000000,YO60 6QX,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-389161,Amotherby,Malton,North Yorkshire,,Queens Head,Restaurant/Cafe/Canteen,1,10,,284956,15,,54.13782119750980,PI/000000207,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80022001266480,YO17 0TL,2013-12-04,fhrs_2_en-GB,2,,FHRS,5
-389162,St Hildas Street,Sherburn,Malton,North Yorkshire,R J's Fish & Chips,Takeaway/sandwich shop,7844,10,,638128,5,,54.17899900000000,14/00012/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.53267100000000,YO17 8PG,2014-03-11,fhrs_4_en-GB,4,,FHRS,0
-389163,R C Hann,13 Smiddy Hill,Pickering,North Yorkshire,R.C. Hann,Manufacturers/packers,7839,0,,285312,5,,54.24488400000000,PI/000013823,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77588200000000,YO18 7AN,2014-02-28,fhrs_5_en-GB,5,,FHRS,5
-389164,Sports & Social Club,Welham Road,Norton,Malton,Railway Mens,Pub/bar/nightclub,7843,0,,285242,0,,54.13045000000000,PI/000011843,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79203600000000,YO17 9DP,2015-02-04,fhrs_5_en-GB,5,,FHRS,0
-389165,2 Wold Street,Norton,Malton,,Railway Tavern,Pub/bar/nightclub,7843,5,,285244,0,,54.13157300000000,PI/000011892,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78758100000000,YO17 9AA,2012-02-16,fhrs_4_en-GB,4,,FHRS,10
-389166,Allerston,Pickering,North Yorkshire,,Rains Farm,Hotel/bed & breakfast/guest house,7842,,,284954,,,54.21568679809570,PI/000000107,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.65321564674377,YO18 7PQ,2012-04-02,fhrs_5_en-GB,5,,FHRS,
-389167,Rievaulx,York,North Yorkshire,,Rievaulx Abbey,Restaurant/Cafe/Canteen,1,0,,285335,0,,54.25838088989258,PI/000014880,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.11690878868103,YO62 5LB,2013-02-12,fhrs_5_en-GB,5,,FHRS,0
-389168,High Street,Rillington,Malton,,Rillington County Primary School,School/college/university,7845,0,,285336,0,,54.30157400000000,PI/000014888,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78135400000000,YO18 8LA,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-389169,2-8 Scarborough Road,Rillington,Malton,,Rillington Village Hall,Other catering premises,7841,5,,375513,5,,54.13325496000000,PI/000015032,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78067169000000,,2012-02-01,fhrs_4_en-GB,4,,FHRS,10
-389170,123 Scarborough Road,Norton,Malton,,Rivermead Care Home,Hospitals/Childcare/Caring Premises,5,0,,285239,0,,54.13545700000000,PI/000011518,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77787000000000,YO17 8AA,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-389171,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Riverside 1,Restaurant/Cafe/Canteen,1,5,,701040,5,,54.20589200000000,14/00051/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-389172,,,,,Rob Meynell Catering,Mobile caterer,7846,10,,285149,5,,,PI/000007666,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-08-06,fhrs_4_en-GB,4,,FHRS,5
-389173,Main Street,Wombleton,York,North Yorkshire,Rockery Cottage,Hotel/bed & breakfast/guest house,7842,10,,285423,5,,54.24562500000000,PI/000019620,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97479800000000,YO62 7RX,2011-11-11,fhrs_4_en-GB,4,,FHRS,0
-389174,22 The Mount,Malton,North Yorkshire,,Rockingham House,Hospitals/Childcare/Caring Premises,5,0,,285167,5,,54.13607400000000,PI/000008023,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80166900000000,YO17 7ND,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-389175,Nawton,York,North Yorkshire,,Rose & Crown,Pub/bar/nightclub,7843,10,,285204,5,,54.25337219238281,PI/000009057,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.99509704113007,YO62 7RD,2013-01-24,fhrs_3_en-GB,3,,FHRS,10
-389176,Rosedale Abbey,Pickering,,,Rosedale Abbey Community Primary School,School/college/university,7845,5,,285349,0,,54.35335540771484,PI/000015222,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.88789206743240,YO18 8SA,2013-07-18,fhrs_5_en-GB,5,,FHRS,5
-389177,15 Market Place,Helmsley,York,,Royal Oak,Pub/bar/nightclub,7843,5,,285057,5,,54.24593600000000,PI/000004335,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06163600000000,YO62 5BL,2014-06-27,fhrs_4_en-GB,4,,FHRS,10
-389178,26 Market Place,Malton,North Yorkshire,,Royal Oak,Pub/bar/nightclub,7843,5,,285156,0,,54.13346481323240,PI/000007808,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 0LP,2012-03-26,fhrs_2_en-GB,2,,FHRS,15
-389179,47 Town Street,Old Malton,Malton,,Royal Oak,Pub/bar/nightclub,7843,20,,285253,5,,54.14260900000000,PI/000012146,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78118100000000,YO17 7HB,2014-02-05,fhrs_1_en-GB,1,,FHRS,5
-389180,Main Street,Gillamoor,York,,Royal Oak Inn,Pub/bar/nightclub,7843,10,,285020,5,,54.30122500000000,PI/000002963,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.95307100000000,YO62 7HX,2014-09-12,fhrs_4_en-GB,4,,FHRS,5
-389181,The Club House,Pottergate,Gilling East,York,Rsme Ltd,Restaurant/Cafe/Canteen,1,5,,285490,5,,54.18498000000000,PI/000025186,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06033500000000,YO62 4JJ,2011-06-15,fhrs_5_en-GB,5,,FHRS,5
-389182,20 Market Place,Pickering,North Yorkshire,,Russells Cafe,Restaurant/Cafe/Canteen,1,0,,285299,5,,54.24557400000000,PI/000013594,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77750300000000,YO18 7AE,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-389183,Church Farm,High Street,Helmsley,York,Ryeburn Tea Rooms,Restaurant/Cafe/Canteen,1,5,,285055,0,,54.24676800000000,PI/000004300,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06456400000000,YO62 5AT,2014-06-09,fhrs_5_en-GB,5,,FHRS,0
-389184,,,,,Ryedale Cheeses,Mobile caterer,7846,0,,285067,0,,,PI/000004455,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-11-28,fhrs_5_en-GB,5,,FHRS,0
-389185,Ryedale House,Old Malton Road,Old Malton,Malton,Ryedale District Council,Restaurant/Cafe/Canteen,1,10,,485775,10,,,PI/000012078,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,YO17 0HH,2013-11-22,fhrs_3_en-GB,3,,FHRS,10
-389186,Hutton-Le-Hole,York,North Yorkshire,,Ryedale Folk Museum,Retailers - other,4613,5,,285077,0,,54.30036163330078,PI/000005495,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91728830337524,YO62 6UA,2014-01-21,fhrs_5_en-GB,5,,FHRS,0
-389187,Piercy End,Kirkbymoorside,York,,Ryedale Garages Ltd.,Retailers - other,4613,0,,285125,5,,54.26667000000000,PI/000006401,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93086900000000,YO62 6DG,2012-03-26,fhrs_5_en-GB,5,,FHRS,5
-389188,Saville Street,Malton,North Yorkshire,,Ryedale Palace Cinema,Retailers - other,4613,5,,285176,0,,54.13346481323242,PI/000008412,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 0LL,2012-02-15,fhrs_5_en-GB,5,,FHRS,5
-389189,Gale Lane,Nawton,York,,Ryedale School,School/college/university,7845,5,,285205,0,,54.25065500000000,PI/000009111,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.99577700000000,YO62 7SL,2014-10-24,fhrs_5_en-GB,5,,FHRS,0
-389190,Farfield Farm,Scrayingham,York,North Yorkshire,Ryedale Vineyards,Hotel/bed & breakfast/guest house,7842,10,,285450,0,,54.06092600000000,PI/000022171,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.82094500000000,YO60 7LS,2012-01-13,fhrs_4_en-GB,4,,FHRS,5
-389191,Newbiggin,Malton,North Yorkshire,,Sainsbury's Local,Retailers - supermarkets/hypermarkets,7840,0,,285172,0,,54.13346481323242,PI/000008075,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 7JE,2013-05-28,fhrs_5_en-GB,5,,FHRS,0
-389192,Sand Hutton,York,North Yorkshire,,Sand Hutton C E Primary School,School/college/university,7845,0,,285351,5,,54.01860427856445,PI/000015374,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93823093175888,YO41 1LB,2014-07-03,fhrs_5_en-GB,5,,FHRS,0
-389193,Flaxton,York,North Yorkshire,,Sandburn Hall,Restaurant/Cafe/Canteen,1,5,,285007,5,,54.03685760498047,PI/000002542,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97826057672501,YO60 7RB,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-389194,F.E.R.A.,Sand Hutton,York,North Yorkshire,Sandmartins Nursery,Hospitals/Childcare/Caring Premises,5,0,,285353,0,,54.01690200000000,PI/000015393,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97073700000000,YO41 1LZ,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-389195,Estate Office,Scampston Hall,Scampston,Malton,Scampston Hall Visitor Centre,Restaurant/Cafe/Canteen,1,0,,537065,0,,54.16777000000000,PI/000015585,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.68331000000000,YO17 8NG,2013-04-19,fhrs_5_en-GB,5,,FHRS,5
-389196,4 St Michael Street,Malton,North Yorkshire,,Scoops,Retailers - other,4613,10,,285178,5,,54.13556500000000,PI/000008550,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79755100000000,YO17 7LJ,2013-01-29,fhrs_4_en-GB,4,,FHRS,5
-389197,6 Bridge Street,Helmsley,York,,Scotts Of Helmsley,Takeaway/sandwich shop,7844,0,,285046,5,,54.24582700000000,PI/000004104,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06033400000000,YO62 5BG,2013-05-03,fhrs_5_en-GB,5,,FHRS,5
-389198,14 Piercy End,Kirkbymoorside,York,,Scrumptious Deli,Retailers - other,4613,5,,285121,5,,54.26816300000000,PI/000006361,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93098400000000,YO62 6DF,2013-07-23,fhrs_4_en-GB,4,,FHRS,10
-389199,Stape,Pickering,North Yorkshire,,Seavy Slack,Hotel/bed & breakfast/guest house,7842,10,,285505,5,,54.32680892944336,PI/000025278,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78146201372147,YO18 8HZ,2011-11-23,fhrs_4_en-GB,4,,FHRS,5
-389200,School,Settrington,Malton,North Yorkshire,Settrington Ce Primary,School/college/university,7845,0,,285357,0,,54.13346481323242,PI/000015644,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 8NB,2014-11-28,fhrs_4_en-GB,4,,FHRS,10
-389201,Thorgill,Rosedale West,Pickering,,Sevenford House,Hotel/bed & breakfast/guest house,7842,10,,285392,5,,54.34970700000000,PI/000017773,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.88708300000000,YO18 8SE,2011-11-23,fhrs_4_en-GB,4,,FHRS,5
-389202,West End,Ampleforth,York,,Shallowdale House,Hotel/bed & breakfast/guest house,7842,10,,284968,0,,54.20100700000000,PI/000000543,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.11387100000000,YO62 4DY,2012-02-01,fhrs_4_en-GB,4,,FHRS,0
-389203,School,St. Hildas Street,Sherburn,Malton,Sherburn Ce Primary,School/college/university,7845,0,,285361,0,,54.17899900000000,PI/000015882,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.53267100000000,YO17 8PG,2013-06-18,fhrs_5_en-GB,5,,FHRS,0
-389204,St. Hildas Street,Sherburn,Malton,,Sherburn Methodist Church,Other catering premises,7841,5,,375516,5,,54.17532900000000,PI/000024063,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.53246400000000,YO17 8QQ,2012-02-01,fhrs_5_en-GB,5,,FHRS,5
-389205,West End,Sheriff Hutton,York,,Sheriff Hutton County Primary School,School/college/university,7845,5,,285367,0,,54.08919100000000,PI/000016253,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.00909700000000,YO60 6SH,2014-12-12,fhrs_5_en-GB,5,,FHRS,0
-389206,Sheriff Hutton,York,North Yorkshire,,Sheriff Hutton Stores,Retailers - other,4613,5,,285365,5,,54.08937835693359,PI/000016049,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.00441408157349,YO60 6SS,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-389207,Hutton-Le-Hole,York,North Yorkshire,,Shop On The Green,Restaurant/Cafe/Canteen,1,5,,285078,0,,54.30036163330078,PI/000005517,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91728830337524,YO62 6UA,2012-05-02,fhrs_5_en-GB,5,,FHRS,0
-389208,14 Market Place,Kirkbymoorside,York,,Sinh Ley,Takeaway/sandwich shop,7844,10,,285114,5,,54.26999100000000,PI/000006250,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93144400000000,YO62 6DA,2014-11-05,fhrs_4_en-GB,4,,FHRS,5
-389209,Friars Hill,Sinnington,York,,Sinnington Primary School,School/college/university,7845,0,,285368,5,,54.26151500000000,PI/000016345,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.86448000000000,YO62 6SL,2013-06-20,fhrs_5_en-GB,5,,FHRS,0
-389210,Skelly Forecourts Ltd (Shell Staxto,Staxton,Scarborough,North Yorkshire,Skelly Forecourts Ltd,Retailers - other,4613,5,,285382,5,,54.20116100000000,PI/000016898,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.43245000000000,YO12 4NW,2014-01-31,fhrs_5_en-GB,5,,FHRS,0
-389211,The Green,Slingsby,York,,Slingsby Community Primary School,School/college/university,7845,0,,285374,0,,54.16481200000000,PI/000016633,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93305200000000,YO62 4AA,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-389212,Yedingham Road Ebberston,Scarborough,North Yorkshire,,Snainton Golf Centre,Restaurant/Cafe/Canteen,1,0,,285467,5,,54.22925500000000,PI/000023657,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.61020300000000,YO13 9PG,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-389213,Scarborough Road,East Heslerton,Malton,North Yorkshire,Snooty Fox,Pub/bar/nightclub,7843,10,,485738,0,,,PI/000002058,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-09-12,fhrs_2_en-GB,2,,FHRS,15
-389214,Langdale End,Scarborough,North Yorkshire,,South Moor Farm,Hotel/bed & breakfast/guest house,7842,10,,285128,5,,54.29253400000000,PI/000006685,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.61749200000000,YO13 0LW,2011-11-17,fhrs_4_en-GB,4,,FHRS,5
-389215,1 Milton Avenue,Malton,North Yorkshire,,Spar,Retailers - other,4613,5,,285165,0,,54.14043500000000,PI/000007958,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79113300000000,YO17 7LB,2012-01-25,fhrs_5_en-GB,5,,FHRS,5
-389216,22 Market Place,Kirkbymoorside,York,,Spar,Retailers - other,4613,5,,285118,0,,54.26999100000000,PI/000006257,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93144400000000,YO62 6DA,2012-08-15,fhrs_4_en-GB,4,,FHRS,10
-389217,26 Yorkersgate,Malton,North Yorkshire,,Speedy Pepper,Takeaway/sandwich shop,7844,5,,285195,10,,54.13459100000000,PI/000008709,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79808400000000,YO17 7LN,2014-03-26,fhrs_4_en-GB,4,,FHRS,5
-389218,Willowdene,Upper Carr Lane,Pickering,North Yorkshire,Spencers,Restaurant/Cafe/Canteen,1,10,,668970,5,,54.22224500000000,13/00078/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.76288500000000,YO18 7JP,2014-05-16,fhrs_4_en-GB,4,,FHRS,5
-389219,41 Hungate,Pickering,North Yorkshire,,Spice 4U,Restaurant/Cafe/Canteen,1,10,,285288,5,,54.24477600000000,PI/000013273,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77683600000000,YO18 7DG,2013-08-14,fhrs_4_en-GB,4,,FHRS,5
-389220,21 Church Street,Norton,Malton,,Spice Lounge,Restaurant/Cafe/Canteen,1,10,,285218,15,,54.13242100000000,PI/000010417,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78879600000000,YO17 9HP,2013-03-19,fhrs_2_en-GB,2,,FHRS,10
-389221,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Spooks,Retailers - other,4613,0,,445043,5,,54.20589200000000,PI/000023801,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-389222,Cattle Market,Spital Street,Malton,North Yorkshire,Spotted Cow,Pub/bar/nightclub,7843,10,,285177,5,,54.13630300000000,PI/000008508,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80037600000000,YO17 7JN,2013-07-10,fhrs_3_en-GB,3,,FHRS,10
-389223,Langton Road,Norton,Malton,,Spring Cottage,Hospitals/Childcare/Caring Premises,5,10,,285234,5,,54.11912500000000,PI/000011042,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78046200000000,YO17 9PY,2014-05-20,fhrs_3_en-GB,3,,FHRS,10
-389224,Back Lane,Ampleforth,York,,St Benedicts RC Primary School,School/college/university,7845,0,,284965,0,,54.20012100000000,PI/000000373,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.10225400000000,YO62 4DE,2014-06-13,fhrs_5_en-GB,5,,FHRS,0
-389225,School,Station Road,Ampleforth,York,St Hilda's Ce Primary,School/college/university,7845,0,,284967,0,,54.19854800000000,PI/000000489,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.10705600000000,YO62 4DG,2014-06-13,fhrs_5_en-GB,5,,FHRS,0
-389226,Potter Hill,Pickering,North Yorkshire,,St Joseph's R.C. Church,Hospitals/Childcare/Caring Premises,5,0,,716425,0,,,PI/000014007,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-11-07,fhrs_5_en-GB,5,,FHRS,0
-389227,Gilling Castle,Gilling East,York,North Yorkshire,St Martins Ampleforth,School/college/university,7845,0,,285021,5,,54.18328200000000,PI/000002988,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06493900000000,YO62 4HP,2014-10-06,fhrs_5_en-GB,5,,FHRS,0
-389228,Highfield Road,Malton,North Yorkshire,,St Mary's RC Primary School,School/college/university,7845,0,,285148,0,,54.13346481323242,PI/000007646,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 0DB,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-389229,Swainsea Lane,Pickering,North Yorkshire,,St. Joseph R.C School,School/college/university,7845,0,,285324,0,,54.24957100000000,PI/000014179,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78700900000000,YO18 8AR,2014-11-07,fhrs_5_en-GB,5,,FHRS,0
-389230,Atlas Ward Structures,Sherburn,Malton,North Yorkshire,Staff Canteen,Restaurant/Cafe/Canteen,1,5,,285358,0,,54.17932000000000,PI/000015758,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.52504400000000,YO17 8PQ,2014-03-31,fhrs_5_en-GB,5,,FHRS,0
-389231,Karro Food Group,Hugden Way,Norton Grove Industrial Estate,Malton,Staff Canteen,Restaurant/Cafe/Canteen,1,0,,285232,0,,54.13228600000000,PI/000010856,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77277500000000,YO17 9HG,2013-02-25,fhrs_5_en-GB,5,,FHRS,5
-389232,48 Commercial Street,Norton,Malton,,Star Fast Food,Takeaway/sandwich shop,7844,10,,285224,5,,54.13224900000000,PI/000010464,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78503600000000,YO17 9ES,2013-10-29,fhrs_4_en-GB,4,,FHRS,0
-389233,Piercy End,Kirkbymoorside,York,,Star Fast Foods,Takeaway/sandwich shop,7844,5,,285509,5,,54.26786800000000,PI/000025323,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93071700000000,,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-389234,Main Street,Hovingham,York,,Station Farm,Mobile caterer,7846,5,,504213,5,,54.17614000000000,PI/000024863,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97371300000000,YO62 4LQ,2012-08-24,fhrs_5_en-GB,5,,FHRS,5
-389235,Park Street,Pickering,North Yorkshire,,Station Hotel,Pub/bar/nightclub,7843,10,,285316,5,,54.24699200000000,PI/000013926,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77818300000000,YO18 7AJ,2014-11-07,fhrs_4_en-GB,4,,FHRS,0
-389236,Malton Road,Pickering,North Yorkshire,,Steam & Moorland Garden Centre,Restaurant/Cafe/Canteen,1,0,,285295,0,,54.13346481323242,PI/000013522,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO18 7HG,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-389237,Kirkham Abbey,York,North Yorkshire,,Stone Trough Inn,Pub/bar/nightclub,7843,10,,285127,15,,54.08338928222656,PI/000006676,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.87853503227234,YO60 7JS,2014-10-31,fhrs_2_en-GB,2,,FHRS,15
-389238,37 Commercial Street,Norton,Malton,,Stuart's Fruit & Veg,Retailers - other,4613,10,,285220,5,,54.13246600000000,PI/000010453,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78607000000000,YO17 9HX,2014-11-19,fhrs_2_en-GB,2,,FHRS,15
-389239,21 Westgate,Rillington,Malton,,Stuarts Of Driffield,Takeaway/sandwich shop,7844,0,,285340,0,,54.15670600000000,PI/000015094,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69742800000000,YO17 8LN,2013-10-01,fhrs_5_en-GB,5,,FHRS,0
-389240,56 Castlegate,Malton,North Yorkshire,,Stuarts Of Driffield,Takeaway/sandwich shop,7844,0,,285436,0,,54.13409500000000,PI/000021293,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79526700000000,YO17 7DT,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-389241,12 Wheelgate,Malton,North Yorkshire,,Suddabys Crown Hotel,Pub/bar/nightclub,7843,0,,285183,5,,54.13577500000000,PI/000008628,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79691700000000,YO17 7HP,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-389242,Summit Coffee House & Bakery,2 Market Place,Kirkbymoorside,,Summit Coffee House And Bakery,Manufacturers/packers,7839,10,,565347,0,,54.26920000000000,13/00026/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93040500000000,YO62 6BB,2013-07-02,fhrs_4_en-GB,4,,FHRS,5
-389243,136 Westgate,Pickering,North Yorkshire,,Sun Inn,Pub/bar/nightclub,7843,5,,285326,5,,54.24643200000000,PI/000014349,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78585800000000,YO18 8BB,2011-01-31,fhrs_5_en-GB,5,,FHRS,5
-389244,Normanby,Sinnington,York,,Sun Inn,Pub/bar/nightclub,7843,10,,285211,5,,54.22633743286133,PI/000010094,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.87489497661591,YO62 6RH,2013-10-25,fhrs_4_en-GB,4,,FHRS,5
-389245,Cold Kirby,Hambleton,Thirsk,,Sutton Bank Tea Rooms,Restaurant/Cafe/Canteen,1,0,,284990,5,,54.24065780639648,PI/000001709,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.20941448211670,YO7 2EH,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-389246,Yorkersgate,Malton,North Yorkshire,,Talbot Hotel,Hotel/bed & breakfast/guest house,7842,5,,458879,0,,54.13395000000000,PI/000008732,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80053600000000,YO17 7AJ,2013-03-20,fhrs_5_en-GB,5,,FHRS,0
-389247,Roxby Road,Thornton-Le-Dale,Pickering,,Tangalwood,Hotel/bed & breakfast/guest house,7842,10,,285507,5,,54.23176500000000,PI/000025280,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72335700000000,YO18 7TQ,2011-12-01,fhrs_4_en-GB,4,,FHRS,5
-389248,4 Wells Lane,Malton,North Yorkshire,,Tangs Delight,Takeaway/sandwich shop,7844,10,,285181,10,,54.13429500000000,PI/000008589,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79637800000000,YO17 7NX,2013-12-04,fhrs_3_en-GB,3,,FHRS,10
-389249,Nova Lane,Middleton,Pickering,,Tantara Country Hotel,Hotel/bed & breakfast/guest house,7842,10,,668977,0,,54.27517000000000,PI/000023836,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79613200000000,YO18 8PN,2014-05-23,fhrs_4_en-GB,4,,FHRS,10
-389250,Tasman,Middleton Carr Lane,Middleton,Pickering,Tasman Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,10,,668971,5,,54.25785100000000,13/00083/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80431200000000,YO18 8PU,2014-05-23,fhrs_4_en-GB,4,,FHRS,0
-389251,42 Market Place,Pickering,North Yorkshire,,Taylor's Of Pickering Ltd,Retailers - other,4613,0,,285302,5,,54.24557400000000,PI/000013610,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77750300000000,YO18 7AE,2014-08-29,fhrs_5_en-GB,5,,FHRS,5
-389252,School,Terrington,York,North Yorkshire,Terrington Ce Primary,School/college/university,7845,0,,285386,0,,54.13346481323242,PI/000017583,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO60 6NS,2014-12-12,fhrs_4_en-GB,4,,FHRS,10
-389253,Terrington,York,North Yorkshire,,Terrington Hall School,School/college/university,7845,0,,285387,5,,54.12800216674800,PI/000017640,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97295922040939,YO60 6PR,2013-09-03,fhrs_5_en-GB,5,,FHRS,5
-389254,Terrington,York,North Yorkshire,,Terrington Village Store & Cafe,Retailers - other,4613,10,,285388,0,,54.07979583740234,PI/000017642,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.01421189308167,YO60 6RR,2013-07-09,fhrs_4_en-GB,4,,FHRS,0
-389255,Royal Oak,Eastgate,Pickering,North Yorkshire,Tex Mex At The Oak,Pub/bar/nightclub,7843,10,,285280,10,,54.24280700000000,PI/000012912,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77315000000000,YO18 7DW,2013-08-13,fhrs_2_en-GB,2,,FHRS,15
-389256,Town Street,Old Malton,Malton,,The Abbey Residential Home,Hospitals/Childcare/Caring Premises,5,10,,285254,5,,54.14260900000000,PI/000012147,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78118100000000,YO17 7HB,2014-06-03,fhrs_4_en-GB,4,,FHRS,5
-389257,Arboretum Cafe,The Arboretum,Castle Howard,York,The Arboretum Cafe,Restaurant/Cafe/Canteen,1,0,,517225,0,,,PI/000021509,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-03-06,fhrs_5_en-GB,5,,FHRS,5
-389258,Stamford Bridge Road,Gate Helmsley,York,,The Balloon Tree Farmshop & Cafe,Restaurant/Cafe/Canteen,1,5,,285017,0,,53.99052200000000,PI/000002906,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93771000000000,YO41 1NB,2014-06-11,fhrs_5_en-GB,5,,FHRS,0
-389259,Hutton-Le-Hole,York,North Yorkshire,,The Barn Guest House & Tearoom,Hotel/bed & breakfast/guest house,7842,5,,285073,5,,54.30036163330078,PI/000005454,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91728830337524,YO62 6UA,2014-07-25,fhrs_5_en-GB,5,,FHRS,0
-389260,3 Castlegate,Helmsley,York,,The Beck Tearoom,Restaurant/Cafe/Canteen,1,0,,285443,0,,54.24555200000000,PI/000021998,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06193600000000,YO62 5AB,2013-02-25,fhrs_5_en-GB,5,,FHRS,5
-389261,Oldstead,York,North Yorkshire,,The Black Swan At Oldstead,Restaurant/Cafe/Canteen,1,5,,285256,0,,54.21406555175780,PI/000012208,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.18791735172272,YO61 4BL,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-389262,Chestnut Avenue,Thornton-Le-Dale,Pickering,,The Buck Inn,Pub/bar/nightclub,7843,0,,285397,5,,54.23645600000000,PI/000017983,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72080300000000,YO18 7RW,2015-01-16,fhrs_5_en-GB,5,,FHRS,5
-389263,Unit 2,The Workshop,Hutton Le Hole Garden Furniture,Hutton-Le-Hole,The Chocolate Factory,Retailers - other,4613,0,,285076,0,,54.30036100000000,PI/000005479,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91728800000000,YO62 6UA,2014-08-08,fhrs_5_en-GB,5,,FHRS,5
-389264,Scarborough Road,Rillington,Malton,,The Coach & Horses,Pub/bar/nightclub,7843,10,,285338,5,,54.15890900000000,PI/000015048,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69247400000000,YO17 8LH,2014-01-28,fhrs_4_en-GB,4,,FHRS,5
-389265,Rosedale Abbey,Pickering,,,The Coach House Inn,Restaurant/Cafe/Canteen,1,0,,285350,5,,54.35168075561523,PI/000015240,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.88273674249649,YO18 8SD,2014-05-30,fhrs_5_en-GB,5,,FHRS,5
-389266,Castle Howard,York,North Yorkshire,,The Coffee Shop,Takeaway/sandwich shop,7844,0,,285511,0,,54.12141799926758,PI/000025353,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90596789121628,YO60 7DA,2013-10-08,fhrs_5_en-GB,5,,FHRS,0
-389267,Market Place,Helmsley,York,,The Co-Operative,Retailers - other,4613,0,,285064,5,,54.24641400000000,PI/000004354,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06068900000000,YO62 5BH,2014-11-21,fhrs_4_en-GB,4,,FHRS,10
-389268,Kirby Mills,Kirkbymoorside,York,,The Corn Mill,Hotel/bed & breakfast/guest house,7842,5,,285112,0,,54.26406800000000,PI/000006200,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.92028100000000,YO62 6NP,2012-06-19,fhrs_5_en-GB,5,,FHRS,5
-389269,Dalby Forest,Low Dalby,Thornton-Le-Dale,Pickering,The Courtyard,Restaurant/Cafe/Canteen,1,0,,485806,0,,54.27444400000000,PI/000025383,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.68694600000000,YO18 7LT,2014-08-08,fhrs_5_en-GB,5,,FHRS,5
-389270,Hutton-Le-Hole,York,North Yorkshire,,The Crown,Pub/bar/nightclub,7843,10,,285074,5,,54.30036163330078,PI/000005462,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91728830337524,YO62 6UA,2013-11-01,fhrs_3_en-GB,3,,FHRS,10
-389271,26 Church Street,Norton,Malton,Y017 9HS,The Derwent Arms,Pub/bar/nightclub,7843,10,,285216,5,,,PI/000010397,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-08-15,fhrs_4_en-GB,4,,FHRS,5
-389272,Grimtson Manor Farm,Gilling East,York,North Yorkshire,The Drey,Hospitals/Childcare/Caring Premises,5,10,,285459,0,,54.17135000000000,PI/000023123,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.05275400000000,YO62 4HR,2013-01-30,fhrs_4_en-GB,4,,FHRS,5
-389273,Castle Howard Estate Ltd,Castle Howard,York,North Yorkshire,The Farm Shop,Retailers - other,4613,0,,284988,5,,54.12141800000000,PI/000001375,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90596800000000,YO60 7DA,2013-10-08,fhrs_5_en-GB,5,,FHRS,0
-389274,Plains Farm,Scampston,Malton,North Yorkshire,The Farmhouse Bakery,Retailers - other,4613,10,,285355,10,,54.16777000000000,PI/000015582,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.68331000000000,YO17 8NG,2014-03-05,fhrs_2_en-GB,2,,FHRS,15
-389275,Castle Howard,York,North Yorkshire,,The Farmshop Butchery,Retailers - other,4613,5,,284984,5,,54.12141799926758,PI/000001348,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90596789121628,YO60 7DA,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-389276,Market Place,Helmsley,York,,The Feathers Hotel,Restaurant/Cafe/Canteen,1,0,,285065,0,,54.24641400000000,PI/000004355,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06068900000000,YO62 5BH,2014-08-18,fhrs_5_en-GB,5,,FHRS,5
-389277,1 High Street,Helmsley,York,,The Feversham Arms Hotel,Restaurant/Cafe/Canteen,1,5,,285052,10,,54.24803400000000,PI/000004272,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06444300000000,YO62 5AG,2013-10-01,fhrs_4_en-GB,4,,FHRS,5
-389278,11 Westgate,Rillington,Malton,,The Fleece,Pub/bar/nightclub,7843,20,,285339,15,,54.15670600000000,PI/000015090,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69742800000000,YO17 8LN,2013-12-11,fhrs_1_en-GB,1,,FHRS,10
-389279,Visitors Centre,Duncombe Park,Helmsley,,The Fountain,Restaurant/Cafe/Canteen,1,0,,626526,0,,54.23924100000000,13/00064/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.07453900000000,YO62 5EB,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-389280,Lockton,Pickering,North Yorkshire,,The Fox & Rabbit Inn,Pub/bar/nightclub,7843,0,,285137,0,,54.28308486938477,PI/000007021,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.70304566621780,YO18 7NQ,2013-05-14,fhrs_5_en-GB,5,,FHRS,5
-389281,Park Street,Pickering,North Yorkshire,,The Fruit Shop,Retailers - other,4613,5,,285317,0,,54.24699200000000,PI/000013927,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77818300000000,YO18 7AJ,2012-02-22,fhrs_5_en-GB,5,,FHRS,0
-389282,Ganton,Scarborough,North Yorkshire,,The Ganton Greyhound,Pub/bar/nightclub,7843,10,,285013,5,,54.18599700927734,PI/000002773,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.48863932490349,YO12 4NX,2013-10-01,fhrs_4_en-GB,4,,FHRS,5
-389283,12 Yorkersgate,Malton,North Yorkshire,,The Gate Inn,Pub/bar/nightclub,7843,5,,285193,0,,54.12353400000000,PI/000008695,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69032300000000,YO17 0AB,2012-02-06,fhrs_4_en-GB,4,,FHRS,10
-389284,Great Barugh,Malton,North Yorkshire,,The Golden Lion Inn,Pub/bar/nightclub,7843,5,,285023,5,,54.20116043090820,PI/000003073,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.85394805669784,YO17 6UZ,2014-12-11,fhrs_4_en-GB,4,,FHRS,10
-389285,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,The Gourmet Grill,Restaurant/Cafe/Canteen,1,5,,445044,5,,54.20589200000000,PI/000025421,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-389286,High Street,Thornton-Le-Dale,Pickering,,The Grange Guest House,Hotel/bed & breakfast/guest house,7842,5,,285398,0,,54.23752300000000,PI/000018122,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.71213100000000,YO18 7QW,2012-01-13,fhrs_5_en-GB,5,,FHRS,0
-389287,Great Habton,Malton,North Yorkshire,,The Grapes,Pub/bar/nightclub,7843,0,,285024,0,,54.17770385742188,PI/000003154,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.83896869421005,YO17 6TU,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-389288,High Street,Ebberston,Scarborough,,The Grapes,Pub/bar/nightclub,7843,10,,284999,5,,54.23562800000000,PI/000002159,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.62513300000000,YO13 9PA,2013-11-19,fhrs_3_en-GB,3,,FHRS,10
-389289,Slingsby,York,North Yorkshire,,The Grapes Inn,Pub/bar/nightclub,7843,5,,285372,0,,54.16770935058594,PI/000016578,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93231898546219,YO62 4AL,2013-02-05,fhrs_5_en-GB,5,,FHRS,0
-389290,High Back Side,Middleton,Pickering,,The Hawthorns,Hotel/bed & breakfast/guest house,7842,,,285483,,,54.25870400000000,PI/000024954,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80238400000000,YO18 8PB,2012-03-06,fhrs_5_en-GB,5,,FHRS,
-389291,34 Market Place,Malton,North Yorkshire,,The Hidden Monkey,Restaurant/Cafe/Canteen,1,5,,285157,5,,54.13574200000000,PI/000007816,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79820400000000,YO17 7LW,2014-10-31,fhrs_5_en-GB,5,,FHRS,5
-389292,Main Street,Levisham,Pickering,,The Horse Shoe Inn,Pub/bar/nightclub,7843,0,,285135,0,,54.30336800000000,PI/000006916,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72131100000000,YO18 7NL,2013-05-14,fhrs_4_en-GB,4,,FHRS,10
-389293,Duncombe Park,Helmsley,York,,The House,Restaurant/Cafe/Canteen,1,0,,285051,0,,54.23924100000000,PI/000004201,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.07453900000000,YO62 5EB,2013-04-09,fhrs_5_en-GB,5,,FHRS,0
-389294,Mill Street,Norton,Malton,,The Hyde Park,Pub/bar/nightclub,7843,5,,285236,0,,54.13218100000000,PI/000011158,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78101200000000,YO17 9JH,2012-01-25,fhrs_4_en-GB,4,,FHRS,10
-389295,Chestnut Avenue,Thornton-Le-Dale,Pickering,,The Ice Cream Parlour,Restaurant/Cafe/Canteen,1,10,,340940,5,,54.23645600000000,PI/000017988,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72080300000000,YO18 7RW,2012-04-24,fhrs_4_en-GB,4,,FHRS,5
-389296,Hawnby,York,North Yorkshire,,The Inn At Hawnby,Restaurant/Cafe/Canteen,1,5,,285036,0,,54.30114746093750,PI/000003929,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.16708874702454,YO62 5QS,2013-03-06,fhrs_5_en-GB,5,,FHRS,5
-389297,8 Piercy End,Kirkbymoorside,York,,The Lemon Tree,Restaurant/Cafe/Canteen,1,0,,285123,5,,54.26816300000000,PI/000006394,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93098400000000,YO62 6DF,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-389298,Blakey Ridge,Kirkbymoorside,York,,The Lion Inn,Pub/bar/nightclub,7843,10,,285002,10,,54.38839600000000,PI/000002413,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.95621300000000,YO62 7LQ,2014-05-30,fhrs_3_en-GB,3,,FHRS,10
-389299,,,,,The Log Cabin,Mobile caterer,7846,5,,285440,5,,,PI/000021704,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-389300,Oswaldkirk,York,North Yorkshire,,The Malt Shovel,Pub/bar/nightclub,7843,5,,285257,5,,54.20306777954100,PI/000012470,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.04842650890350,YO62 5XT,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-389301,Heygate Bank,Rosedale Abbey,Pickering,North Yorkshire,The Milburn Arms Hotel,Hotel/bed & breakfast/guest house,7842,10,,688348,5,,54.35420800000000,14/00022/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.88690000000000,YO18 8RA,2014-07-25,fhrs_4_en-GB,4,,FHRS,5
-389302,Levisham,Pickering,North Yorkshire,,The Moorlands,Hotel/bed & breakfast/guest house,7842,10,,550566,0,,54.30336800000000,PI/000006911,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72131100000000,YO18 7NL,2013-05-14,fhrs_4_en-GB,4,,FHRS,5
-389303,Yorkersgate,Malton,North Yorkshire,,The Mount Hotel,Pub/bar/nightclub,7843,10,,285199,15,,54.13346481323242,PI/000008734,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.31587803363800,YO17 7AB,2013-08-13,fhrs_2_en-GB,2,,FHRS,10
-389304,Terrington,York,North Yorkshire,,The Mount House,Hotel/bed & breakfast/guest house,7842,5,,285389,5,,54.12734985351563,PI/000017647,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97738260030746,YO60 6QB,2012-04-05,fhrs_5_en-GB,5,,FHRS,5
-389305,3 Yorkersgate,Malton,North Yorkshire,,The New Globe,Pub/bar/nightclub,7843,10,,285197,5,,54.13431400000000,PI/000008712,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79832200000000,YO17 7AA,2013-07-05,fhrs_3_en-GB,3,,FHRS,10
-389306,Cropton,Pickering,North Yorkshire,,The New Inn,Pub/bar/nightclub,7843,10,,284995,0,,54.29070663452148,PI/000001896,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.84093976020813,YO18 8HH,2013-11-19,fhrs_4_en-GB,4,,FHRS,10
-389307,Thornton-Le-Dale,Pickering,North Yorkshire,,The New Inn,Pub/bar/nightclub,7843,0,,285395,5,,54.23587036132813,PI/000017885,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72229397296906,YO18 7LF,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-389308,4 Market Place,Malton,North Yorkshire,,The New Malton,Restaurant/Cafe/Canteen,1,5,,285158,5,,54.13528100000000,PI/000007818,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79878300000000,YO17 7LX,2013-09-03,fhrs_5_en-GB,5,,FHRS,5
-389309,Middle Shop,The Square,Maltongate,Thornton-Le-Dale,The Old Butchery,Retailers - other,4613,0,,285477,10,,54.23587000000000,PI/000024416,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72229400000000,YO18 7LF,2014-11-27,fhrs_4_en-GB,4,,FHRS,5
-389310,Wilton,Pickering,North Yorkshire,,The Old Forge,Hotel/bed & breakfast/guest house,7842,5,,285422,5,,54.23524475097656,PI/000019514,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.68104040622711,YO18 7JY,2012-05-31,fhrs_5_en-GB,5,,FHRS,5
-389311,Old Maltongate,Malton,North Yorkshire,,The Old Lodge Hotel,Hotel/bed & breakfast/guest house,7842,5,,285173,5,,54.13531000000000,PI/000008116,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79452800000000,YO17 7EG,2013-04-23,fhrs_5_en-GB,5,,FHRS,5
-389312,17 Market Place,Helmsley,York,,The Old Police Station Cafe,Restaurant/Cafe/Canteen,1,10,,285058,5,,54.24593600000000,PI/000004337,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06163600000000,YO62 5BL,2013-10-29,fhrs_4_en-GB,4,,FHRS,5
-389313,Toftly View,Newton-On-Rawcliffe,Pickering,North Yorkshire,The Old Vicarage,Hotel/bed & breakfast/guest house,7842,,,285210,,,54.30153000000000,PI/000010037,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.75178100000000,YO18 8QD,2012-04-05,fhrs_5_en-GB,5,,FHRS,
-389314,Rosedale East,Pickering,North Yorkshire,,The Orange Tree,Hotel/bed & breakfast/guest house,7842,0,,285342,0,,54.37077500000000,PI/000015170,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.91483700000000,YO18 8RH,2013-04-16,fhrs_5_en-GB,5,,FHRS,5
-389315,6 Eastgate Square,Pickering,North Yorkshire,,The Organic Farm Shop,Retailers - other,4613,0,,285282,0,,54.24393700000000,PI/000012926,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77380700000000,YO18 7DP,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-389316,Middleton,Pickering,North Yorkshire,,The Post Office,Retailers - other,4613,5,,509746,5,,54.25749700000000,PI/000008895,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79942500000000,YO18 8NX,2013-02-07,fhrs_5_en-GB,5,,FHRS,5
-389317,Spittal Farm Craft Centre,Staxton,Scarborough,North Yorkshire,The Ridings Tea Room,Restaurant/Cafe/Canteen,1,0,,285455,5,,54.20116100000000,PI/000022760,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.43245000000000,YO12 4NW,2013-07-23,fhrs_5_en-GB,5,,FHRS,5
-389318,Bridge Street,Pickering,North Yorkshire,,The Rose Inn,Pub/bar/nightclub,7843,5,,285264,0,,54.24653400000000,PI/000012665,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77910200000000,YO18 8DT,2011-12-04,fhrs_4_en-GB,4,,FHRS,10
-389319,Nunnington,York,North Yorkshire,,The Royal Oak Inn,Pub/bar/nightclub,7843,0,,285249,0,,54.20464706420898,PI/000011988,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.98084104061127,YO62 5US,2013-07-03,fhrs_5_en-GB,5,,FHRS,5
-389320,1 Foster Wold Cottage,Sherburn,Malton,,The Skullery,Mobile caterer,7846,5,,537064,5,,54.15199200000000,12/00037/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.51897200000000,YO17 8EP,2013-04-22,fhrs_5_en-GB,5,,FHRS,5
-389321,High Street,Harome,York,,The Star Inn,Restaurant/Cafe/Canteen,1,5,,285027,5,,54.23066600000000,PI/000003256,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.00997700000000,YO62 5JE,2013-05-24,fhrs_5_en-GB,5,,FHRS,5
-389322,Main Road,Weaverthorpe,Malton,North Yorkshire,The Star Inn,Pub/bar/nightclub,7843,5,,591840,0,,54.12449500000000,13/00096/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.52099400000000,YO17 8EY,2013-10-09,fhrs_4_en-GB,4,,FHRS,10
-389323,26 Hungate,Pickering,North Yorkshire,,The Tea Shop,Restaurant/Cafe/Canteen,1,5,,285286,5,,54.24457500000000,PI/000013261,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77733400000000,YO18 7DL,2015-01-16,fhrs_5_en-GB,5,,FHRS,5
-389324,46 Commercial Street,Norton,Malton,,The Union,Pub/bar/nightclub,7843,5,,285223,0,,54.13224900000000,PI/000010461,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78503600000000,YO17 9ES,2012-01-25,fhrs_5_en-GB,5,,FHRS,5
-389325,Castle Howard Road,Malton,North Yorkshire,,The Uplands,Hospitals/Childcare/Caring Premises,5,5,,285141,0,,54.13737700000000,PI/000007347,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.81259100000000,YO17 6NJ,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-389326,Spring Villa,Main Street,Ampleforth,York,The Village Shop,Retailers - other,4613,10,,284966,5,,54.20108400000000,PI/000000446,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.10966900000000,YO62 4DX,2013-11-05,fhrs_4_en-GB,4,,FHRS,5
-389327,Malton Railway Station,Norton Road,Norton,Malton,The Whistle Stop Cafe,Restaurant/Cafe/Canteen,1,5,,285238,10,,53.23936080932617,PI/000011213,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.13890004158020,YO17 0PD,2013-11-05,fhrs_4_en-GB,4,,FHRS,5
-389328,West End,Ampleforth,York,,The White Horse Inn,Pub/bar/nightclub,7843,5,,284969,5,,54.20108400000000,PI/000000551,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.10966900000000,YO62 4DX,2013-10-17,fhrs_4_en-GB,4,,FHRS,10
-389329,Low Street,Thornton-Le-Clay,Malton,,The White Swan,Pub/bar/nightclub,7843,10,,285393,0,,54.07675400000000,PI/000017824,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.95727400000000,YO60 7TG,2014-11-14,fhrs_4_en-GB,4,,FHRS,5
-389330,Market Place,Pickering,North Yorkshire,,The White Swan Inn,Pub/bar/nightclub,7843,5,,285306,10,,54.24600500000000,PI/000013633,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77749100000000,YO18 7AA,2014-08-15,fhrs_4_en-GB,4,,FHRS,5
-389331,Howebridge Farm,Low Marishes,Malton,North Yorkshire,The Whole Hogg,Restaurant/Cafe/Canteen,1,0,,285476,5,,54.17729100000000,PI/000024366,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.76243400000000,YO17 6RQ,2014-07-18,fhrs_5_en-GB,5,,FHRS,5
-389332,Isabella Court,72A Westgate,Pickering,North Yorkshire,The Wilf Ward Family Trust,Hospitals/Childcare/Caring Premises,5,5,,285327,15,,54.24760200000000,PI/000014396,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78878500000000,YO18 8AU,2013-04-09,fhrs_2_en-GB,2,,FHRS,5
-389333,Wass,York,North Yorkshire,,The Wombwell Arms,Pub/bar/nightclub,7843,10,,285408,0,,54.20631408691406,PI/000018576,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.15067553520203,YO61 4BE,2014-05-30,fhrs_4_en-GB,4,,FHRS,0
-389334,11 Market Place,Malton,North Yorkshire,,The Yard,Pub/bar/nightclub,7843,5,,285152,0,,54.13558400000000,PI/000007792,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79946300000000,YO17 7LP,2013-11-11,fhrs_4_en-GB,4,,FHRS,10
-389335,15 Market Place,Kirkbymoorside,York,,Thomas Of Kirkbymoorside,Retailers - other,4613,5,,285115,5,,54.16481200000000,PI/000006251,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93305200000000,YO62 4AA,2014-03-11,fhrs_4_en-GB,4,,FHRS,10
-389336,26 Wheelgate,Malton,North Yorkshire,,Thomas Of Malton,Retailers - other,4613,0,,285186,0,,54.12353400000000,PI/000008638,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.69032300000000,YO17 0HR,2013-09-18,fhrs_5_en-GB,5,,FHRS,5
-389337,18 Market Place,Helmsley,York,,Thomas Of York Ltd,Manufacturers/packers,7839,10,,285059,10,,54.24593600000000,PI/000004338,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06163600000000,YO62 5BL,2014-11-28,fhrs_3_en-GB,3,,FHRS,10
-389338,3 Market Place,Helmsley,York,,Thomas Of York Ltd,Retailers - other,4613,5,,285060,0,,54.24694700000000,PI/000004343,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.06101400000000,YO62 5BJ,2014-10-24,fhrs_5_en-GB,5,,FHRS,5
-389339,33 Market Place,Pickering,North Yorkshire,,Thomas Of York Ltd.,Retailers - other,4613,0,,285300,0,,54.24557400000000,PI/000013600,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77750300000000,YO18 7AE,2013-08-28,fhrs_5_en-GB,5,,FHRS,5
-389340,Outdoor Catering Unit,The Bakers Yard,Sawmill Lane,Helmsley,Thomas Of York Ltd.,Mobile caterer,7846,0,,445902,5,,54.24262800000000,PI/000025422,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.05354700000000,YO62 5DQ,2014-07-04,fhrs_5_en-GB,5,,FHRS,5
-389341,Flaxton,York,North Yorkshire,,Thompson Arms,Pub/bar/nightclub,7843,5,,285008,5,,54.06221008300781,PI/000002558,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97287154197693,YO60 7PZ,2012-08-16,fhrs_5_en-GB,5,,FHRS,5
-389342,Castle Close,Thornton-Le-Dale,Pickering,,Thornton Dale C.E. Primary School,School/college/university,7845,0,,285396,0,,54.23538300000000,PI/000017941,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72726500000000,YO18 7TW,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-389343,2 Pickering Road,Thornton-Le-Dale,Pickering,,Thornton Dale Fisheries,Takeaway/sandwich shop,7844,5,,285399,5,,54.23643100000000,PI/000018227,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72266000000000,YO18 7LG,2015-01-16,fhrs_4_en-GB,4,,FHRS,10
-389344,Thornton-Le-Dale,Pickering,North Yorkshire,,Thornton Dale Village Hall,Hospitals/Childcare/Caring Premises,5,5,,375515,5,,54.23646163940430,PI/000017892,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72005999088287,,2011-12-14,fhrs_4_en-GB,4,,FHRS,10
-389345,York Road,Stamford Bridge,York,,Three Cups Inn,Pub/bar/nightclub,7843,0,,285376,0,,53.99261000000000,PI/000016836,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.92382200000000,YO41 1AX,2014-08-29,fhrs_5_en-GB,5,,FHRS,5
-389346,West Lutton,Malton,North Yorkshire,,Three Tuns,Pub/bar/nightclub,7843,5,,285420,5,,54.11018753051758,PI/000019034,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.57866811752319,YO17 8TA,2012-08-15,fhrs_5_en-GB,5,,FHRS,5
-389347,2A Barkers Yard,Helmsley,North Yorkshire,,Thundercliffes,Retailers - other,4613,0,,517232,0,,54.24526500000000,13/00032/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.05161500000000,YO62 5DR,2013-03-06,fhrs_5_en-GB,5,,FHRS,0
-389348,Dalby Forest Visitor Centre,Low Dalby,Thornton-Le-Dale,Pickering,Tree Tops,Restaurant/Cafe/Canteen,1,0,,285452,5,,54.27444458007813,PI/000022490,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.68694579601288,YO18 7LT,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-389349,Gladvic Farm,Potter Brompton,Scarborough,North Yorkshire,Trotters,Manufacturers/packers,7839,0,,285333,5,,54.17826400000000,PI/000014648,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.51663900000000,YO12 4PF,2013-10-15,fhrs_5_en-GB,5,,FHRS,0
-389350,29 Yorkersgate,Malton,North Yorkshire,Y017 7AA,Tui's,Restaurant/Cafe/Canteen,1,10,,285196,5,,,PI/000008710,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-09-03,fhrs_3_en-GB,3,,FHRS,10
-389351,5 Church Street,Norton,Malton,,Tyke 2000 Ltd,Retailers - other,4613,5,,285217,0,,54.13271000000000,PI/000010406,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.78797600000000,YO17 9HR,2012-01-25,fhrs_4_en-GB,4,,FHRS,10
-389352,Eastgate Square,Pickering,North Yorkshire,,Unit 10,Retailers - other,4613,0,,340941,5,,54.24393700000000,PI/000025351,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77380700000000,YO18 7DP,2012-03-15,fhrs_5_en-GB,5,,FHRS,0
-389353,Champley Mews,Market Place,Pickering,North Yorkshire,United Co-Operatives,Retailers - supermarkets/hypermarkets,7840,0,,285271,0,,54.24477600000000,PI/000012739,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77683600000000,YO18 7DG,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-389354,Piercy End,Kirkbymoorside,York,,United Co-Operatives,Retailers - other,4613,0,,285124,5,,54.26957200000000,PI/000006400,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93076300000000,YO62 6DB,2013-05-01,fhrs_5_en-GB,5,,FHRS,5
-389355,Scoreby And Gate Helmsley Village H,Gate Helmsley,York,North Yorkshire,Upper Helmsley,Other catering premises,7841,5,,375509,5,,,PI/000002859,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2012-01-10,fhrs_4_en-GB,4,,FHRS,10
-389356,Barton-Le-Street,Malton,North Yorkshire,,Village Hall,Other catering premises,7841,5,,375505,5,,54.13782119750977,PI/000000794,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80022001266479,,2011-12-22,fhrs_5_en-GB,5,,FHRS,5
-389357,Brawby,Malton,North Yorkshire,,Village Hall,Other catering premises,7841,,,284977,,,54.19327926635742,PI/000001066,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.87093001604080,,2012-01-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-389358,Bulmer,York,North Yorkshire,,Village Hall,Other catering premises,7841,,,284978,,,53.95333099365234,PI/000001169,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.08342003822327,YO62 7BW,2010-08-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-389359,Cropton,Pickering,North Yorkshire,,Village Hall,Other catering premises,7841,,,284997,,,54.24694442749023,PI/000001900,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77265924215317,YO18 7HL,2010-08-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-389360,Helmsley Walled Garden,Cleveland Way,Helmsley,York,Vinehouse Cafe,Restaurant/Cafe/Canteen,1,10,,452659,5,,,PI/000004182,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,YO6 5AH,2014-04-26,fhrs_4_en-GB,4,,FHRS,5
-389361,Mill Lane,Pickering,North Yorkshire,,Vivers Mill,Hotel/bed & breakfast/guest house,7842,,,285503,,,54.24133800000000,PI/000025275,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77897900000000,YO18 8DJ,2012-04-10,fhrs_5_en-GB,5,,FHRS,
-389362,2 Commercial Street,Norton,Malton,,W Fletcher & Sons,Manufacturers/packers,7839,5,,285219,5,,54.13045000000000,PI/000010442,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79203600000000,YO17 9DP,2014-11-27,fhrs_4_en-GB,4,,FHRS,10
-389363,2 Piercy End,Kirkbymoorside,York,,Waind & Son Ltd.,Manufacturers/packers,7839,5,,285122,5,,54.26816300000000,PI/000006367,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93098400000000,YO62 6DF,2014-11-28,fhrs_5_en-GB,5,,FHRS,5
-389364,The Square,Thornton-Le-Dale,Pickering,,Wardill Bros,Retailers - other,4613,5,,285403,5,,54.23587000000000,PI/000018359,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72229400000000,YO18 7LF,2011-03-10,fhrs_5_en-GB,5,,FHRS,5
-389365,Whitbygate,Thornton-Le-Dale,Pickering,,Warrington Guest House,Hotel/bed & breakfast/guest house,7842,0,,285405,5,,54.23710800000000,PI/000018403,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.72204100000000,YO18 7RY,2013-08-21,fhrs_5_en-GB,5,,FHRS,5
-389366,Flamingo Land Ltd,T/a Flaming Land Resort,Kirby Misperton,Malton,Waterfront Cafe,Restaurant/Cafe/Canteen,1,0,,285445,5,,54.20589200000000,PI/000022071,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.80802100000000,YO17 6UX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-389367,Hovingham,York,North Yorkshire,,Wath Court Nursery,Hospitals/Childcare/Caring Premises,5,0,,285474,0,,54.16670227050781,PI/000024188,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.96333163976669,YO62 4NN,2014-10-24,fhrs_5_en-GB,5,,FHRS,0
-389368,Weaverthorpe,Malton,North Yorkshire,,Weaverthorpe C.E. (VC) Primary School,School/college/university,7845,0,,285410,5,,54.12480926513672,PI/000018651,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.52315527200699,YO17 8ES,2014-07-03,fhrs_5_en-GB,5,,FHRS,5
-389369,Welburn,York,North Yorkshire,,Welburn Community Primary School,School/college/university,7845,0,,285412,0,,54.10294723510742,PI/000018717,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.90180474519730,YO60 7DX,2014-10-24,fhrs_5_en-GB,5,,FHRS,0
-389370,Welburn,Kirkbymoorside,York,,Welburn Hall School,School/college/university,7845,0,,285411,5,,54.25299453735352,PI/000018708,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.95496809482574,YO62 7HQ,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-389371,Welburn,York,North Yorkshire,,Welburn Lodge,Hotel/bed & breakfast/guest house,7842,10,,285414,0,,54.09323883056640,PI/000018764,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.87938559055328,YO60 7EW,2011-11-23,fhrs_4_en-GB,4,,FHRS,0
-389372,Welburn,York,North Yorkshire,,Welburn Village Hall,Other catering premises,7841,,,285415,,,54.10158157348633,PI/000018766,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.89705395698547,YO60 7EG,2010-09-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-389373,Town Street,Old Malton,Malton,,Wentworth Arms,Pub/bar/nightclub,7843,5,,285255,5,,54.14575300000000,PI/000012150,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77747500000000,YO17 7HD,2014-06-27,fhrs_4_en-GB,4,,FHRS,10
-389374,West Heslerton,Malton,North Yorkshire,,West Heslerton C.E. Primary School,School/college/university,7845,0,,285416,0,,54.17110443115234,PI/000018844,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.60420191287994,YO17 8RD,2014-11-28,fhrs_5_en-GB,5,,FHRS,0
-389375,Pockley,York,North Yorkshire,,West View Cottage,Hotel/bed & breakfast/guest house,7842,0,,285332,5,,54.26587295532230,PI/000014634,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.02344346046448,YO62 7TE,2012-04-13,fhrs_5_en-GB,5,,FHRS,5
-389376,Westler,Amotherby,Malton,North Yorkshire,Westler Staff Restaurant,Restaurant/Cafe/Canteen,1,20,,284957,5,,54.14849300000000,PI/000000220,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.84935500000000,YO17 6TQ,2013-11-20,fhrs_1_en-GB,1,,FHRS,20
-389377,,,,,White Cottage Catering,Other catering premises,7841,10,,285462,5,,,PI/000023202,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-08-21,fhrs_4_en-GB,4,,FHRS,5
-389378,Rosedale East,Pickering,North Yorkshire,,White Horse Farm Inn,Restaurant/Cafe/Canteen,1,0,,285347,0,,54.34970700000000,PI/000015203,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.88708300000000,YO18 8SE,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-389379,Church Street,Kirkbymoorside,York,,White Swan,Pub/bar/nightclub,7843,5,,285110,0,,54.26995600000000,PI/000006020,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.93043100000000,YO62 6AZ,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-389380,Newton-upon-Rawcliffe,Pickering,North Yorkshire,,White Swan,Pub/bar/nightclub,7843,0,,285209,0,,54.26664300000000,PI/000010034,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.82375800000000,YO18 8PQ,2013-01-23,fhrs_5_en-GB,5,,FHRS,5
-389381,Ampleforth,York,North Yorkshire,,White Swan Inn,Pub/bar/nightclub,7843,0,,284964,0,,54.20133972167969,PI/000000370,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.10311722755432,YO62 4DA,2014-06-13,fhrs_5_en-GB,5,,FHRS,0
-389382,Concorde Cafe,Willowgate,Pickering,North Yorkshire,Willowgate Bistro,Restaurant/Cafe/Canteen,1,5,,668969,5,,54.24634800000000,13/00073/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77582300000000,YO18 7BE,2014-05-07,fhrs_4_en-GB,4,,FHRS,10
-389383,East Lane,Ampleforth College,York,,Windmill Hill,Pub/bar/nightclub,7843,0,,284971,0,,54.20087600000000,PI/000000634,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-1.09511000000000,YO62 4HE,2014-03-28,fhrs_5_en-GB,5,,FHRS,0
-389384,Brambling Fields,Scarborough Road,Norton,Malton,Wold View,Hotel/bed & breakfast/guest house,7842,10,,285240,5,,54.14156700000000,PI/000011582,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.74540500000000,YO17 8EE,2011-11-17,fhrs_4_en-GB,4,,FHRS,5
-389385,Deer Park Farm,Sandy Lane,Wintringham,Malton,Wolds Way Lavender,Restaurant/Cafe/Canteen,1,0,,324484,0,,,PI/000019549,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2013-10-09,fhrs_5_en-GB,5,,FHRS,0
-389386,Westow,York,North Yorkshire,,Woodhouse Farm,Hotel/bed & breakfast/guest house,7842,10,,285508,5,,54.06462478637695,PI/000025281,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.85580003261566,YO60 7LL,2011-12-17,fhrs_4_en-GB,4,,FHRS,5
-389387,Hovingham,York,North Yorkshire,,Worsley Arms,Restaurant/Cafe/Canteen,1,10,,285071,5,,54.17052078247070,PI/000004797,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.97884589433670,YO62 4LA,2014-12-05,fhrs_3_en-GB,3,,FHRS,10
-389388,29 Hungate,Pickering,North Yorkshire,,WRVS Ryedale,Restaurant/Cafe/Canteen,1,0,,285287,5,,54.24477600000000,PI/000013265,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.77683600000000,YO18 7DG,2014-11-07,fhrs_5_en-GB,5,,FHRS,0
-389389,Wyville Hall Farm,Slingsby,York,North Yorkshire,Wyville Farm Shop,Retailers - other,4613,20,,285373,10,,54.16483600000000,PI/000016591,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.92962100000000,YO62 4AP,2014-02-05,fhrs_1_en-GB,1,,FHRS,10
-389390,The Hall,Chestnut Avenue,Thornton-Le-Dale,Pickering,York Heritage Limited,Hospitals/Childcare/Caring Premises,5,5,,369077,5,,,PI/000023398,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,,,2014-06-18,fhrs_5_en-GB,5,,FHRS,5
-389391,The Old Post Office,Town Street,Scampston,Malton,Yorkshire Honey,Farmers/growers,7838,5,,668974,5,,54.16777000000000,14/00027/FOOD,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.68331000000000,YO17 8NG,2014-05-07,fhrs_4_en-GB,4,,FHRS,10
-389392,Terrington,York,North Yorkshire,,Yorkshire Lavender,Restaurant/Cafe/Canteen,1,10,,324483,5,,54.13088226318359,PI/000017659,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.99774169921875,YO60 6PB,2013-10-07,fhrs_3_en-GB,3,,FHRS,10
-389393,3 Castlegate,Malton,North Yorkshire,,Yorkshire Tea Rooms,Restaurant/Cafe/Canteen,1,5,,285139,5,,54.13428400000000,PI/000007254,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.79529200000000,YO17 7DP,2014-02-24,fhrs_4_en-GB,4,,FHRS,10
-389394,Fordon Lane Staxton,Scarborough,North Yorkshire,,Yorkshire Wolds Gallery & Coffee Shop,Restaurant/Cafe/Canteen,1,10,,285461,0,,54.17366000000000,PI/000023193,254,fshs.admin@ryedale.gov.uk,Ryedale,http://www.ryedale.gov.uk/,-0.45219700000000,YO12 4TF,2013-06-27,fhrs_4_en-GB,4,,FHRS,0
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+388830,"""Rory's Bar""",4,10,0,10,2013-03-06,54.135281,-0.798783
+388831,"""Sweetest Thing""",3,10,5,10,2014-05-16,54.135281,-0.798783
+388832,1 Knapton Lodge Cottage,4,5,5,10,2013-11-11,54.1788825989,-0.663221955299
+388833,10 Troutbeck Close,3,10,5,10,2009-02-10,,
+388834,4 Cherry Tree Walk,5,5,5,5,2012-04-23,54.1519699097,-0.854893565178
+388835,45 Elmslac Road,4,0,0,10,2013-01-08,54.2495346069,-1.0608175993
+388836,54 Bondgate,5,5,5,5,2014-08-13,54.2473144531,-1.05758368969
+388837,A Dunning,3,10,10,5,2014-03-26,54.246534,-0.779102
+388838,Abbey Stores & Tearoom,5,5,0,0,2013-03-19,54.353354,-0.887892
+388839,Acklam Village Hall,Exempt,nan,nan,nan,2012-01-16,54.057457,-0.800824
+388840,Agar Arms,5,nan,nan,nan,2013-02-26,53.9903945923,-0.971421062946
+388841,Alba Rose Care Home,5,0,5,0,2014-06-26,54.25131,-0.790994
+388842,American Bar,5,5,0,0,2014-09-04,54.205892,-0.808021
+388843,American Diner,5,5,5,5,2014-09-04,54.205892,-0.808021
+388844,Amotherby County Primary School,5,5,0,0,2014-05-21,54.149534,-0.853032
+388845,Ampleforth College,5,0,0,0,2014-11-21,54.202384,-1.084116
+388846,Arden House Res.Home,5,0,5,0,2013-05-21,54.243321,-0.776864
+388847,Asda Supermarket,5,0,0,0,2014-02-04,54.132324,-0.796986
+388848,Ashfield Country Manor,4,10,5,5,2014-03-25,54.210193634,-0.812220871449
+388849,Ashfield Elderly Persons Home,5,5,0,0,2013-10-01,54.139968,-0.788453
+388850,Ashfield House,5,0,0,0,2014-11-24,54.244222,-0.77007
+388851,August Guest House,5,5,5,5,2012-04-16,54.365691,-0.900257
+388852,Auntie Anne's Castlegate Bakery,5,5,5,5,2014-01-24,54.245552,-1.061936
+388853,B A T A Garage,5,5,5,5,2013-02-12,53.9665870667,-1.07468152046
+388854,Balaker Limited,2,10,15,10,2014-03-26,54.236431,-0.72266
+388855,Balderson's Cafe,5,5,5,5,2013-07-01,54.236456,-0.720803
+388856,Banavie,5,5,5,5,2012-05-09,54.235288,-0.724245
+388857,Barker Stakes Farm,4,5,5,10,2011-11-24,54.227421,-0.790204
+388858,Barneys Sarnies,5,5,0,0,2014-07-25,,
+388859,Bay Horse,3,10,5,10,2013-07-09,54.0725135803,-0.793122529984
+388860,Bay Horse Inn,3,10,10,5,2014-08-08,54.246005,-0.777491
+388861,Beadlam Grange Farmshop & Tearoom,5,5,5,5,2014-01-21,54.2556533813,-1.02133631706
+388862,Beansheaf Hotel,4,10,5,5,2014-08-15,54.1334648132,-1.31587803364
+388863,Beckside Tearooms,5,0,0,0,2013-02-25,54.246534,-0.779102
+388864,Beechams,5,5,5,5,2012-03-27,54.123534,-0.690323
+388865,Beechwood Place,5,5,5,5,2014-09-25,54.13045,-0.792036
+388866,Birdgate Chocolatiers,5,5,0,0,2013-06-27,54.245396,-0.775897
+388867,Bits & Pizzas,3,10,10,5,2013-11-27,54.246411,-0.776665
+388868,Black Bull Inn,4,10,0,5,2013-07-02,54.222008,-0.770485
+388869,Black Swan,5,5,5,5,2013-03-13,54.26979,-0.932002
+388870,Black Swan Hotel,5,5,0,5,2013-11-05,54.246947,-1.061014
+388871,Black Swan Inn,3,5,10,10,2014-05-02,54.2453956604,-0.775897324085
+388872,Blacksmiths Arms,5,5,0,0,2013-02-20,54.053894043,-0.965423464775
+388873,Blacksmiths Arms,5,0,0,0,2014-01-22,54.3053207397,-0.882516980171
+388874,Blacksmiths Arms,5,5,5,0,2013-09-10,54.077381134,-0.847486078739
+388875,Blacksmiths Arms Hotel,5,0,5,5,2014-05-30,54.32916,-0.852376
+388876,Blue Ball,4,5,5,10,2014-12-05,54.1378,-0.79995
+388877,Blue Bell Inn,5,5,0,0,2013-10-09,54.1240577698,-0.52634960413
+388878,Boat House,5,5,5,5,2013-10-08,54.121418,-0.905968
+388879,Boma Cafe,5,5,0,0,2014-09-04,54.205892,-0.808021
+388880,Bothams,5,0,0,0,2013-03-19,54.246992,-0.778183
+388881,Bramble Cottage,4,5,5,10,2011-12-01,54.2312660217,-1.00660276413
+388882,Bramwood Guest House,5,0,0,5,2012-02-01,54.245052,-0.774757
+388883,Brandysnap Bistro,5,5,5,5,2011-03-29,54.237108,-0.722041
+388884,Brawby Grange,4,5,5,10,2011-12-01,54.207772,-0.877439
+388885,Breckenholme Trading Co Ltd,5,0,0,0,2013-10-28,54.024237,-0.729277
+388886,Breezy Knees Gardens & Nursery,5,5,0,0,2013-08-13,54.003267,-0.972813
+388887,Bridge Foot Guest House,5,5,5,5,2012-04-24,54.236455,-0.718148
+388888,Bridge House,5,nan,nan,nan,2012-04-05,54.246534,-0.779102
+388889,Bridgets's. A Slice Of Heaven,5,0,5,5,2014-05-09,54.269078,-0.933801
+388890,Brush & Boot,5,0,5,0,2014-05-23,54.100397,-0.963059
+388891,Buck Inn,3,10,5,10,2014-02-04,54.2636642456,-0.827174067497
+388892,Burnley House,5,5,5,5,2011-11-30,54.3003616333,-0.917288303375
+388893,Burythorpe House Hotel,5,5,5,5,2014-05-02,54.0787086487,-0.789702415466
+388894,Byland Abbey Inn Tearoom,5,0,5,0,2013-04-05,,
+388895,Cafe Cocoa,5,5,5,5,2014-11-13,54.244884,-0.775882
+388896,Cafe Frog,5,0,0,5,2013-08-20,54.246411,-0.776665
+388897,Cafeteria,5,0,0,0,2013-10-08,54.1214179993,-0.905967891216
+388898,Caffe Stop,5,5,5,5,2014-01-14,54.243937,-0.773807
+388899,Cakes Unlimited Of North Yorkshire,5,0,5,5,2010-10-21,,
+388900,Capplemans,5,5,5,5,2013-11-11,54.246005,-0.777491
+388901,Captain Barney's Play Cafe,5,0,0,5,2015-01-23,54.133979,-0.797138
+388902,Carlton Lodge,4,0,5,10,2011-11-28,53.9665870667,-1.07468152046
+388903,Carr House,4,5,5,10,2011-11-30,54.2000961304,-1.13452327251
+388904,Castle Inn,5,5,5,5,2011-09-16,54.0889053345,-1.00517451763
+388905,Castle Quality Meats,5,5,5,5,2013-07-04,54.083822,-1.016394
+388906,Castlegate Cafe,5,5,5,5,2014-01-24,53.9665870667,-1.07468152046
+388907,Cawthorne House,5,0,0,5,2012-05-02,54.243045,-0.772698
+388908,Cayley Arms,5,5,5,0,2013-07-29,,
+388909,Cedar Barn Farm Shop & Cafe,5,5,5,5,2015-01-29,54.238118,-0.756825
+388910,Celebrate! Unit 2 Craft Workshop,5,5,5,5,2011-02-09,54.245006,-1.066829
+388911,Central Stores,5,0,0,5,2013-03-19,54.178999,-0.532671
+388912,Chancery,5,0,0,0,2013-06-18,,
+388913,Chen Xin's,2,10,15,10,2013-12-10,54.132421,-0.788796
+388914,Cherry Tree Cottage,4,5,5,10,2013-11-11,54.0487823486,-0.924677610397
+388915,Chestnut Cottage,4,5,5,10,2011-12-07,54.235628,-0.625133
+388916,Chicos,3,10,10,10,2014-04-23,54.244776,-0.776836
+388917,Cilantro,3,10,10,10,2013-09-03,54.245574,-0.777503
+388918,Cinnamon Twist,4,10,0,10,2014-06-18,54.246614,-1.063217
+388919,Cliff Hanger Kiosk,5,5,5,5,2014-09-04,54.205892,-0.808021
+388920,Coach House,5,0,0,0,2014-09-04,54.205892,-0.808021
+388921,Coastway Service Station,4,0,10,5,2013-03-27,54.086281,-0.930664
+388922,Cocoa Tree,4,5,0,10,2014-10-24,54.245552,-1.061936
+388923,Connies,3,5,10,10,2014-03-25,54.136521,-0.796941
+388924,Cooks Motor Co Ltd,5,5,5,0,2013-03-25,54.265707,-0.926641
+388925,Co-Operative Lateshop,5,5,0,0,2013-05-28,54.242807,-0.77315
+388926,Cooplands,5,5,5,0,2014-08-01,54.246005,-0.777491
+388927,Cooplands,5,0,5,0,2014-08-01,54.245574,-0.777503
+388928,Coopland's,5,0,0,0,2014-10-06,54.135775,-0.796917
+388929,Costa,5,0,0,0,2013-10-07,54.135775,-0.796917
+388930,Costa,5,0,5,0,2014-09-04,54.205892,-0.808021
+388931,Costcutter,5,5,0,0,2014-01-22,54.245827,-1.060334
+388932,Costcutter,4,0,0,10,2012-02-15,54.243045,-0.772698
+388933,Costcutter,4,10,0,5,2012-02-15,54.236431,-0.72266
+388934,Costcutter,5,5,0,5,2012-02-16,54.132466,-0.78607
+388935,Costcutter Shop,5,5,5,5,2014-09-04,54.205892,-0.808021
+388936,Costello's,5,0,0,0,2015-01-13,54.135584,-0.799463
+388937,Cottonhouse,5,0,5,5,2014-01-24,54.245635,-1.060983
+388938,Country Crust,4,5,5,10,2011-01-31,54.245574,-0.777503
+388939,Courtyard Cafe,5,5,0,0,2013-10-08,54.1214179993,-0.905967891216
+388940,Cranedale Centre,5,5,0,0,2013-04-19,54.0953178406,-0.616258502007
+388941,Crema Coffee House,5,0,0,5,2014-04-26,54.245635,-1.060983
+388942,Cresswell Arms,3,10,10,5,2014-05-16,54.152238,-0.872786
+388943,Cropton Cabins,4,5,5,10,2012-10-25,54.3164710999,-0.836557149887
+388944,Cross Keys,5,5,5,5,2013-06-18,54.0386390686,-0.714224159718
+388945,Crossways Hotel,4,10,5,5,2014-01-28,54.1334648132,-1.31587803364
+388946,Crown & Cushion,5,0,5,0,2013-09-13,54.1033668518,-0.901518344879
+388947,D & E Catering,4,0,5,10,2014-11-21,54.12419,-0.798859
+388948,D J Horsley Ltd,5,5,0,0,2013-07-17,54.245574,-0.777503
+388949,D P Trading,5,0,0,5,2013-02-05,,
+388950,Daffy Caffy,4,0,0,10,2013-03-27,54.36469,-0.973344
+388951,Daisy Day Care,5,0,5,5,2013-06-25,,
+388952,Dales Of Malton,4,5,5,10,2013-01-29,54.142609,-0.781181
+388953,Dawnay Arms,3,10,5,10,2014-03-11,54.123534,-0.690323
+388954,Deansfield Court,5,5,0,0,2014-10-31,54.129325,-0.775005
+388955,Defra - York Fera,5,0,0,0,2014-03-13,54.0169029236,-0.970736861229
+388956,Derek Fox,4,5,10,5,2014-12-11,54.135584,-0.799463
+388957,Desi Spice Club,3,5,10,10,2014-10-30,54.2531471252,-0.997143983841
+388958,Dino Ice Age,5,0,0,0,2014-09-04,54.205892,-0.808021
+388959,Draft Farm,5,0,5,0,2014-11-14,54.0507507324,-0.963195204735
+388960,Duke Of York,5,5,5,5,2013-09-06,53.9879646301,-0.949350893497
+388961,East Riding,4,10,0,5,2012-01-16,54.178999,-0.532671
+388962,Easterside Farm,4,5,5,10,2011-12-07,54.2988891602,-1.15235221386
+388963,Eastgate Fisheries,5,5,0,5,2013-06-18,54.1334648132,-1.31587803364
+388964,Ebberston Village Hall,5,5,5,5,2012-01-03,54.2351799011,-0.621659994125
+388965,Eden Camp,5,0,0,0,2014-01-28,54.1602287292,-0.778932571411
+388966,Eden House B&B,5,5,5,0,2013-01-10,54.242807,-0.77315
+388967,El Gringos,1,10,15,20,2014-03-26,54.134994,-0.797919
+388968,Eleven Westgate,5,5,0,0,2014-10-08,54.246127,-0.785913
+388969,Elm House,4,5,5,10,2011-11-23,54.3039283752,-0.753220021725
+388970,Fairfax Arms,4,10,0,10,2013-12-03,54.184233,-1.058988
+388971,Farfields Farm,5,5,0,5,2014-10-08,54.2830848694,-0.703045666218
+388972,Farm Bakery,5,5,5,5,2014-05-02,54.178885,-0.500743
+388973,Feast Deli,5,5,5,5,2014-03-12,54.246005,-0.777491
+388974,Feversham Arms,5,5,5,5,2013-11-26,54.36469,-0.973344
+388975,Fine Food Theatre,4,10,0,10,2013-11-21,54.135281,-0.798783
+388976,Fish & Chips Of Pickering,5,5,0,0,2013-08-13,,
+388977,Five Acre View,4,5,5,10,2011-11-23,54.3623275757,-0.898022651672
+388978,Flamborough Rigg Cottage,4,5,5,10,2011-11-24,54.3256378174,-0.789999902248
+388979,Flamin Dragon,4,5,10,5,2014-09-04,54.205892,-0.808021
+388980,Florios Restaurant,4,10,0,0,2014-06-26,,
+388981,Flower Of May,5,0,0,5,2014-05-13,54.353291,-0.887878
+388982,Forest & Vale Hotel,5,5,0,0,2014-12-05,54.244575,-0.777334
+388983,Forest Holidays,5,5,5,5,2012-07-19,54.315332,-0.806567
+388984,Forge Tearooms,5,0,0,0,2013-04-09,54.3003616333,-0.917288303375
+388985,Fortune Inn,5,0,0,5,2013-08-01,54.246992,-0.778183
+388986,Foston C E Primary School,5,0,0,0,2013-11-11,54.076759,-0.952674
+388987,Fox & Hounds Country Inn,5,5,5,5,2013-04-17,54.260113,-0.858747
+388988,Frankies Fish & Chips,5,0,0,0,2014-09-04,54.205892,-0.808021
+388989,G F Turner (Butchers Shop),4,10,5,5,2014-02-05,54.156706,-0.697428
+388990,G G Walker & Son,5,5,5,5,2014-03-24,,
+388991,Ganton Golf Club,5,5,0,0,2013-01-29,54.1905288696,-0.495171904564
+388992,Garbutt Farm,4,5,5,10,2011-12-01,54.2439537048,-1.21169936657
+388993,Gate Farm,4,5,0,10,2012-01-13,54.1241836548,-0.946903347969
+388994,George & Dragon Hotel,5,0,5,0,2014-01-28,54.26979,-0.932002
+388995,George Hotel,4,5,5,10,2012-07-30,54.1334648132,-1.31587803364
+388996,Gepetto's,5,5,5,0,2013-10-16,54.245827,-1.060334
+388997,Get Stuffed,2,10,15,10,2013-08-06,54.132466,-0.78607
+388998,Gillamoor C E School,5,5,0,0,2014-09-12,54.301225,-0.953071
+388999,Gilling East Village Hall,Exempt,nan,nan,nan,2011-11-16,54.1849822998,-1.06033468246
+389000,Glaves & McNay,4,10,5,5,2014-02-12,54.197826,-0.440057
+389001,Glebe Farm,5,5,5,5,2013-11-06,54.1297492981,-0.486095845699
+389002,Gold Lion,3,10,10,10,2013-03-06,54.1334648132,-1.31587803364
+389003,Golden Lion,4,10,0,5,2012-02-15,54.135584,-0.799463
+389004,Graze Of Malton,4,5,5,10,2014-04-26,,
+389005,Graze On The Green,5,5,0,5,2014-07-25,54.354208,-0.8869
+389006,Greystones Cafe,4,10,5,5,2013-07-02,54.242807,-0.77315
+389007,Grindale House,3,5,10,10,2011-01-20,54.242807,-0.77315
+389008,Habton House Farm,4,5,5,10,2011-11-23,54.1835861206,-0.854342162609
+389009,Half Moon Inn,4,5,0,10,2013-11-19,54.0452346802,-0.803840219975
+389010,Ham & Cheese,3,10,5,10,2013-08-21,54.1431503296,-0.72409337759
+389011,Hare & Hounds,2,15,5,10,2014-05-02,54.2776603699,-0.411159992218
+389012,Hare Inn,3,10,5,10,2014-02-24,54.2446708679,-1.15918779373
+389013,Harlands Garage,4,0,0,10,2013-03-19,54.241571,-0.775397
+389014,Harpers A64 Ltd,5,5,5,5,2013-07-30,54.197826,-0.440057
+389015,Hawnby Post Office & Cafe,4,5,10,5,2014-03-27,54.29732,-1.168411
+389016,Hawnby Village Hall,4,10,5,5,2012-02-20,54.2973213196,-1.16841053963
+389017,Hayloft Foods,5,0,0,5,2013-06-12,54.125518,-0.818607
+389018,Helmsley CP School,5,5,0,5,2014-09-12,54.24832,-1.0573
+389019,Helmsley Fish Shop,5,5,0,5,2013-04-09,,
+389020,Helmsley Spice,1,10,15,20,2014-04-23,54.245827,-1.060334
+389021,Hero Ices,5,0,0,0,2014-09-04,54.205892,-0.808021
+389022,Hero Pancakes,5,0,0,0,2014-09-04,54.205892,-0.808021
+389023,Heron Foods,5,5,0,5,2012-02-06,,
+389024,Hertford Vale Ce,5,5,0,0,2014-06-05,54.1982192993,-0.446128338575
+389025,Hickory's Roadhouse,3,10,10,10,2014-03-31,,
+389026,High Dalby House,5,0,0,5,2014-10-01,54.286432,-0.691757
+389027,High Farm,4,5,5,10,2011-11-24,54.2927894592,-0.837839186192
+389028,High Park Farm,5,0,0,0,2014-11-04,54.291443,-0.94344
+389029,High Rigg,5,5,5,5,2012-08-31,54.268703,-1.004597
+389030,Highwayman Inn,3,10,5,10,2013-08-21,54.0888290405,-1.00751554966
+389031,Hillyard Cottage,5,5,5,5,2014-08-14,54.370775,-0.914837
+389032,Hope Central Coffee House,5,5,5,0,2013-10-29,54.123534,-0.690323
+389033,Hornsey Meats,0,20,15,20,2014-12-11,,
+389034,Horse Shoe Inn,4,10,5,5,2013-11-19,54.245052,-0.774757
+389035,House Martins,5,5,0,5,2013-06-18,54.135565,-0.797551
+389036,House Martins Out Of School Club,5,0,0,5,2013-11-12,54.141963,-0.787492
+389037,Hovingham Bakery & Spa Tearoom,4,5,0,10,2013-10-09,54.1334648132,-1.31587803364
+389038,Hovingham Cevc Primary School,5,5,0,0,2014-06-10,54.173349,-0.978424
+389039,Hovingham Stores,5,5,0,0,2013-05-20,54.1733474731,-0.978423893452
+389040,Humpty Dumpty,5,5,0,0,2013-11-05,54.245699,-0.786278
+389041,Hunters Of Helmsley,4,5,10,5,2014-06-17,54.245936,-1.061636
+389042,Huttons Ambo Village Shop,3,10,5,10,2013-09-03,54.0979423523,-0.836915194988
+389043,India The Restaurant,2,5,15,10,2013-12-12,54.134314,-0.798322
+389044,J & K W Paley & Sons,4,0,0,10,2012-02-07,54.1334648132,-1.31587803364
+389045,J B Motors,5,5,0,5,2012-03-27,54.138456,-0.799901
+389046,J B Spice,3,10,10,10,2013-12-10,54.269956,-0.930431
+389047,Jinnah Restaurant,5,5,5,0,2013-07-23,54.055978,-0.936209
+389048,Jolly Farmers Inn,3,10,5,10,2014-06-26,54.057428,-0.801703
+389049,Jolly Sailor,5,5,5,5,2014-09-04,54.205892,-0.808021
+389050,Jungle Joe's Burgers,5,0,5,0,2014-09-04,54.205892,-0.808021
+389051,Kala King Chocolate,4,5,5,10,2014-05-09,54.249396,-1.017509
+389052,Kingfisher Cafe,5,0,5,5,2014-09-25,54.134994,-0.797919
+389053,Kings Head,4,10,5,5,2013-09-10,54.1334648132,-1.31587803364
+389054,Kings Head Hotel,3,5,10,10,2014-01-28,54.270689,-0.933069
+389055,Kirkbymoorside C P School,5,0,0,0,2013-07-02,54.2677726746,-0.938625574112
+389056,Kirkbymoorside Golf Club,5,0,5,0,2013-05-16,54.271966,-0.935139
+389057,Kirkbymoorside Out Of School Club,4,5,0,10,2014-06-27,54.267772,-0.938626
+389058,Kirk's Mobile Butchers Van,2,15,10,10,2012-12-07,54.205403,-0.974644
+389059,Lady Lumleys School,5,5,0,5,2014-11-28,54.251134,-0.783402
+389060,Langton Primary School,5,5,0,0,2014-09-03,54.0937995911,-0.781617939472
+389061,Laskill Grange,4,5,5,10,2011-12-07,54.3088150024,-1.13633298874
+389062,Lastingham Grange,5,5,5,0,2012-11-26,,
+389063,Laurel Bank,5,nan,nan,nan,2012-04-05,54.249303,-0.786249
+389064,Lavenders Tea Rooms & Delicatessen,5,0,0,5,2014-11-07,54.23571,-0.721624
+389065,Lazy Sundae,5,5,5,0,2013-10-29,54.246411,-0.776665
+389066,Leavening Community Primary School,5,5,0,0,2014-12-12,54.0581283569,-0.802492141724
+389067,Lee's Takeaway,1,10,15,20,2013-11-27,54.243045,-0.772698
+389068,Leoni,5,5,0,0,2013-02-20,54.135775,-0.796917
+389069,Lettered Board Inn,3,10,5,10,2011-12-01,54.244884,-0.775882
+389070,Levisham Station,5,5,0,0,2012-03-27,54.3063011169,-0.723800003529
+389071,Lidl,5,0,0,0,2015-02-02,54.13045,-0.792036
+389072,Lidl UK GMBH,5,0,0,0,2014-03-12,54.24348,-0.781924
+389073,Lime Kiln Farm,4,5,0,10,2012-01-13,54.1328773499,-0.912063360214
+389074,Londis,5,0,0,0,2013-05-14,54.2547035217,-0.795976042747
+389075,Low Penhowe,4,0,0,10,2011-12-14,54.0760879517,-0.803763508797
+389076,Luttons Community Primary School,5,0,0,0,2014-09-12,54.1119689941,-0.575593650341
+389077,Main Kitchens,5,5,0,0,2013-10-08,54.1214179993,-0.905967891216
+389078,Main Street Bakery,4,5,0,10,2013-02-26,54.232364,-0.623446
+389079,Malt Shovel,4,10,5,5,2014-05-16,54.1733474731,-0.978423893452
+389080,Malton & Norton Hospital,5,5,0,0,2014-03-05,54.137156,-0.806566
+389081,Malton & Norton R U F C,5,0,0,5,2013-07-08,54.139968,-0.788453
+389082,Malton Community Primary School,5,5,0,0,2013-10-07,54.141963,-0.787492
+389083,Malton Fisheries,5,5,5,5,2014-03-26,54.136293,-0.798463
+389084,Malton Relish,3,5,10,10,2013-10-15,54.135742,-0.798204
+389085,Malton School,5,5,0,5,2014-01-14,54.139078,-0.811868
+389086,Malton Spice,2,10,15,10,2013-12-10,54.134095,-0.795267
+389087,Mama Mia,2,15,10,10,2013-09-10,54.137522,-0.800035
+389088,Manor Farm,4,5,5,10,2011-12-01,54.1771125793,-0.583713650703
+389089,Manor Farm,4,5,5,10,2011-11-30,54.3012237549,-0.953071117401
+389090,Mansion House & Tearooms,5,0,0,0,2014-09-04,54.205892,-0.808021
+389091,Marley's Butchers,4,10,0,10,2014-11-05,54.24536,-1.058027
+389092,McKechnie Staff Canteen,5,5,5,5,2015-01-29,54.24543,-0.799853
+389093,Meadowfield Nursery School,5,0,0,0,2014-10-24,54.152919,-0.854485
+389094,Methodist Hall,5,5,0,5,2012-03-06,54.246518,-1.055576
+389095,Metro Diner,5,5,5,5,2013-07-29,54.205892,-0.808021
+389096,Metropolis Bar & Grill,5,5,0,0,2014-09-04,54.205892,-0.808021
+389097,Middleton Arms,3,10,10,10,2013-09-10,54.0978393555,-0.713984429836
+389098,Miller's Greengrocers & Florist,4,10,5,5,2013-11-05,54.129767,-0.782262
+389099,Ming Yan,2,10,15,10,2013-03-18,54.132466,-0.78607
+389100,Monastery Kitchen,5,5,0,0,2014-11-21,54.2016792297,-1.08356416225
+389101,Moors Inn,5,5,0,5,2014-09-17,,
+389102,Moorside Fisheries,5,0,0,0,2013-07-09,54.269956,-0.930431
+389103,Morrisons,5,5,0,0,2013-02-08,54.134095,-0.795267
+389104,Mr Cass,4,5,5,10,2014-03-24,54.04992,-0.959871
+389105,Mr M Hazel,4,0,5,10,2013-08-21,54.131522,-0.786036
+389106,Mr Wilf's Cafe,5,0,5,0,2014-02-06,54.24348,-0.781924
+389107,Mrs Jam,3,10,10,10,2012-07-20,,
+389108,Nawton Community Primary School,5,5,5,0,2014-01-24,54.2556381226,-0.993982851505
+389109,Nawton Green Fisheries,5,5,5,0,2014-01-24,54.253135,-0.995763
+389110,New Brew,5,0,5,0,2014-04-26,54.13379,-0.791725
+389111,New Yan's Takeaway Shop,0,20,20,20,2014-03-25,54.132249,-0.785036
+389112,Nice Things Cafe,4,10,5,5,2013-10-01,54.245936,-1.061636
+389113,No. 17,5,0,0,5,2012-02-15,54.1334648132,-1.31587803364
+389114,North Yorkshire Moors Railway,5,5,0,0,2013-01-29,54.246992,-0.778183
+389115,Norton College,5,5,0,5,2013-11-18,54.12555,-0.782997
+389116,Norton County Primary,5,0,0,0,2014-09-03,54.131018,-0.785087
+389117,Noyon,2,10,15,10,2014-10-23,54.243045,-0.772698
+389118,Number 4,5,0,0,0,2013-11-11,54.246005,-0.777491
+389119,Nutmegs,5,5,5,0,2013-09-10,54.30414,-0.752962
+389120,Nycc Adult & Community Services,5,5,5,5,2013-05-01,54.1334648132,-1.31587803364
+389121,Old El Paso,5,0,5,5,2014-09-04,54.205892,-0.808021
+389122,Old Malton Memorial Hall,4,10,5,5,2011-12-19,54.144235,-0.778572
+389123,Old Manse Hotel,1,5,5,20,2014-08-08,54.247394,-0.785031
+389124,Old Station House Bakery,4,5,0,10,2013-09-03,54.168028,-0.93179
+389125,Omega Oak Barn,5,5,0,0,2013-10-29,54.253454,-0.999592
+389126,One Of Each,4,5,0,10,2013-11-26,54.131014,-0.781169
+389127,One Stop Shop,5,0,0,0,2015-01-29,54.127354,-0.777405
+389128,Overton's Quality Butchers,5,5,5,5,2014-03-06,54.135565,-0.797551
+389129,P M Butchers,5,5,5,5,2014-11-27,54.132466,-0.78607
+389130,Pattacakes Village Shop,4,10,0,10,2013-11-12,54.102946,-0.901805
+389131,Pear Tree House Bed & Breakfast,4,0,0,10,2013-03-26,54.246432,-0.785858
+389132,Peasey Hill Fish Shop,5,5,0,0,2014-10-31,54.140435,-0.791133
+389133,Peat Rigg Activity Centre,4,10,5,0,2013-11-28,54.2997894287,-0.822644114494
+389134,Penny Bank Cafe,3,5,10,10,2014-03-12,54.26979,-0.932002
+389135,Pheasant Hotel,3,10,5,10,2014-11-04,54.2280273438,-1.00911962986
+389136,Pickering Community Infant & Nurseryschool,5,0,5,0,2014-01-14,54.245568,-0.773314
+389137,Pickering Junior School,5,5,0,5,2014-11-28,54.248371,-0.784742
+389138,Pickering Trout Lake,4,10,5,5,2011-03-21,54.2514381409,-0.77963244915
+389139,Picnic Planet,5,0,0,0,2014-09-04,54.205892,-0.808021
+389140,Pitchers Bar,5,5,0,0,2014-09-04,54.205892,-0.808021
+389141,Pizza Figaro,3,10,5,10,2013-09-03,54.245396,-0.775897
+389142,Pizza Master,2,15,15,10,2013-08-14,54.132466,-0.78607
+389143,Pizza Pie,5,5,5,5,2014-09-04,54.205892,-0.808021
+389144,Pizza's World,5,0,5,0,2012-07-30,54.083822,-1.016394
+389145,Plaza Coffee Bar,5,0,0,0,2014-09-04,54.205892,-0.808021
+389146,Plaza Sweets,5,5,5,0,2014-09-04,54.205892,-0.808021
+389147,Plough Inn,4,5,0,10,2013-10-01,54.247195,-0.974498
+389148,Plumpton Court Guest House,5,0,0,5,2012-10-04,54.2551765442,-0.995958805084
+389149,Polly's,5,5,5,5,2012-03-14,54.246209,-0.781598
+389150,Poppies,5,5,0,5,2014-11-07,54.246411,-0.776665
+389151,Porters Coffee Shop,5,0,5,5,2014-11-14,54.245827,-1.060334
+389152,Post Office & Store,3,nan,nan,nan,2013-06-18,54.156751,-0.694089
+389153,Post Office & Stores,4,0,5,10,2013-07-23,54.17758,-0.533457
+389154,Potter Hill Fish Shop,5,5,5,0,2014-02-24,54.246209,-0.781598
+389155,Primrose Hill Day Nursery,5,0,0,0,2014-06-09,53.995152,-0.916663
+389156,Prospect House Care Home,5,5,0,0,2012-12-11,53.9879646301,-0.949350893497
+389157,Providence Inn,3,10,5,10,2014-05-02,54.2024040222,-0.631908237934
+389158,Puddleducks,5,0,5,5,2014-06-09,54.083822,-1.016394
+389159,Purple Mountain Cafe,4,10,5,5,2011-03-30,54.2335624695,-0.724175632
+389160,Quarmby's Delicatessen,5,0,5,0,2014-03-05,54.089308,-1.006938
+389161,Queens Head,2,5,15,10,2013-12-04,54.1378211975,-0.800220012665
+389162,R J's Fish & Chips,4,0,5,10,2014-03-11,54.178999,-0.532671
+389163,R.C. Hann,5,5,5,0,2014-02-28,54.244884,-0.775882
+389164,Railway Mens,5,0,0,0,2015-02-04,54.13045,-0.792036
+389165,Railway Tavern,4,10,0,5,2012-02-16,54.131573,-0.787581
+389166,Rains Farm,5,nan,nan,nan,2012-04-02,54.2156867981,-0.653215646744
+389167,Rievaulx Abbey,5,0,0,0,2013-02-12,54.2583808899,-1.11690878868
+389168,Rillington County Primary School,5,5,0,0,2014-01-14,54.301574,-0.781354
+389169,Rillington Village Hall,4,10,5,5,2012-02-01,54.13325496,-0.78067169
+389170,Rivermead Care Home,5,5,0,0,2013-10-29,54.135457,-0.77787
+389171,Riverside 1,5,5,5,5,2014-09-04,54.205892,-0.808021
+389172,Rob Meynell Catering,4,5,5,10,2013-08-06,,
+389173,Rockery Cottage,4,0,5,10,2011-11-11,54.245625,-0.974798
+389174,Rockingham House,5,5,5,0,2014-05-20,54.136074,-0.801669
+389175,Rose & Crown,3,10,5,10,2013-01-24,54.2533721924,-0.99509704113
+389176,Rosedale Abbey Community Primary School,5,5,0,5,2013-07-18,54.3533554077,-0.887892067432
+389177,Royal Oak,4,10,5,5,2014-06-27,54.245936,-1.061636
+389178,Royal Oak,2,15,0,5,2012-03-26,54.1334648132,-1.31587803364
+389179,Royal Oak,1,5,5,20,2014-02-05,54.142609,-0.781181
+389180,Royal Oak Inn,4,5,5,10,2014-09-12,54.301225,-0.953071
+389181,Rsme Ltd,5,5,5,5,2011-06-15,54.18498,-1.060335
+389182,Russells Cafe,5,5,5,0,2014-02-24,54.245574,-0.777503
+389183,Ryeburn Tea Rooms,5,0,0,5,2014-06-09,54.246768,-1.064564
+389184,Ryedale Cheeses,5,0,0,0,2014-11-28,,
+389185,Ryedale District Council,3,10,10,10,2013-11-22,,
+389186,Ryedale Folk Museum,5,0,0,5,2014-01-21,54.3003616333,-0.917288303375
+389187,Ryedale Garages Ltd.,5,5,5,0,2012-03-26,54.26667,-0.930869
+389188,Ryedale Palace Cinema,5,5,0,5,2012-02-15,54.1334648132,-1.31587803364
+389189,Ryedale School,5,0,0,5,2014-10-24,54.250655,-0.995777
+389190,Ryedale Vineyards,4,5,0,10,2012-01-13,54.060926,-0.820945
+389191,Sainsbury's Local,5,0,0,0,2013-05-28,54.1334648132,-1.31587803364
+389192,Sand Hutton C E Primary School,5,0,5,0,2014-07-03,54.0186042786,-0.938230931759
+389193,Sandburn Hall,5,5,5,5,2014-03-12,54.036857605,-0.978260576725
+389194,Sandmartins Nursery,5,5,0,0,2014-03-27,54.016902,-0.970737
+389195,Scampston Hall Visitor Centre,5,5,0,0,2013-04-19,54.16777,-0.68331
+389196,Scoops,4,5,5,10,2013-01-29,54.135565,-0.797551
+389197,Scotts Of Helmsley,5,5,5,0,2013-05-03,54.245827,-1.060334
+389198,Scrumptious Deli,4,10,5,5,2013-07-23,54.268163,-0.930984
+389199,Seavy Slack,4,5,5,10,2011-11-23,54.3268089294,-0.781462013721
+389200,Settrington Ce Primary,4,10,0,0,2014-11-28,54.1334648132,-1.31587803364
+389201,Sevenford House,4,5,5,10,2011-11-23,54.349707,-0.887083
+389202,Shallowdale House,4,0,0,10,2012-02-01,54.201007,-1.113871
+389203,Sherburn Ce Primary,5,0,0,0,2013-06-18,54.178999,-0.532671
+389204,Sherburn Methodist Church,5,5,5,5,2012-02-01,54.175329,-0.532464
+389205,Sheriff Hutton County Primary School,5,0,0,5,2014-12-12,54.089191,-1.009097
+389206,Sheriff Hutton Stores,5,5,5,5,2014-03-12,54.0893783569,-1.00441408157
+389207,Shop On The Green,5,0,0,5,2012-05-02,54.3003616333,-0.917288303375
+389208,Sinh Ley,4,5,5,10,2014-11-05,54.269991,-0.931444
+389209,Sinnington Primary School,5,0,5,0,2013-06-20,54.261515,-0.86448
+389210,Skelly Forecourts Ltd,5,0,5,5,2014-01-31,54.201161,-0.43245
+389211,Slingsby Community Primary School,5,5,0,0,2014-05-20,54.164812,-0.933052
+389212,Snainton Golf Centre,5,5,5,0,2014-05-13,54.229255,-0.610203
+389213,Snooty Fox,2,15,0,10,2014-09-12,,
+389214,South Moor Farm,4,5,5,10,2011-11-17,54.292534,-0.617492
+389215,Spar,5,5,0,5,2012-01-25,54.140435,-0.791133
+389216,Spar,4,10,0,5,2012-08-15,54.269991,-0.931444
+389217,Speedy Pepper,4,5,10,5,2014-03-26,54.134591,-0.798084
+389218,Spencers,4,5,5,10,2014-05-16,54.222245,-0.762885
+389219,Spice 4U,4,5,5,10,2013-08-14,54.244776,-0.776836
+389220,Spice Lounge,2,10,15,10,2013-03-19,54.132421,-0.788796
+389221,Spooks,5,5,5,0,2014-09-04,54.205892,-0.808021
+389222,Spotted Cow,3,10,5,10,2013-07-10,54.136303,-0.800376
+389223,Spring Cottage,3,10,5,10,2014-05-20,54.119125,-0.780462
+389224,St Benedicts RC Primary School,5,0,0,0,2014-06-13,54.200121,-1.102254
+389225,St Hilda's Ce Primary,5,0,0,0,2014-06-13,54.198548,-1.107056
+389226,St Joseph's R.C. Church,5,0,0,0,2014-11-07,,
+389227,St Martins Ampleforth,5,0,5,0,2014-10-06,54.183282,-1.064939
+389228,St Mary's RC Primary School,5,5,0,0,2014-02-24,54.1334648132,-1.31587803364
+389229,St. Joseph R.C School,5,0,0,0,2014-11-07,54.249571,-0.787009
+389230,Staff Canteen,5,0,0,5,2014-03-31,54.17932,-0.525044
+389231,Staff Canteen,5,5,0,0,2013-02-25,54.132286,-0.772775
+389232,Star Fast Food,4,0,5,10,2013-10-29,54.132249,-0.785036
+389233,Star Fast Foods,5,5,5,5,2013-12-10,54.267868,-0.930717
+389234,Station Farm,5,5,5,5,2012-08-24,54.17614,-0.973713
+389235,Station Hotel,4,0,5,10,2014-11-07,54.246992,-0.778183
+389236,Steam & Moorland Garden Centre,5,5,0,0,2013-07-09,54.1334648132,-1.31587803364
+389237,Stone Trough Inn,2,15,15,10,2014-10-31,54.0833892822,-0.878535032272
+389238,Stuart's Fruit & Veg,2,15,5,10,2014-11-19,54.132466,-0.78607
+389239,Stuarts Of Driffield,5,0,0,0,2013-10-01,54.156706,-0.697428
+389240,Stuarts Of Driffield,5,5,0,0,2013-10-29,54.134095,-0.795267
+389241,Suddabys Crown Hotel,5,5,5,0,2013-11-26,54.135775,-0.796917
+389242,Summit Coffee House And Bakery,4,5,0,10,2013-07-02,54.2692,-0.930405
+389243,Sun Inn,5,5,5,5,2011-01-31,54.246432,-0.785858
+389244,Sun Inn,4,5,5,10,2013-10-25,54.2263374329,-0.874894976616
+389245,Sutton Bank Tea Rooms,5,5,5,0,2014-02-24,54.2406578064,-1.20941448212
+389246,Talbot Hotel,5,0,0,5,2013-03-20,54.13395,-0.800536
+389247,Tangalwood,4,5,5,10,2011-12-01,54.231765,-0.723357
+389248,Tangs Delight,3,10,10,10,2013-12-04,54.134295,-0.796378
+389249,Tantara Country Hotel,4,10,0,10,2014-05-23,54.27517,-0.796132
+389250,Tasman Bed And Breakfast,4,0,5,10,2014-05-23,54.257851,-0.804312
+389251,Taylor's Of Pickering Ltd,5,5,5,0,2014-08-29,54.245574,-0.777503
+389252,Terrington Ce Primary,4,10,0,0,2014-12-12,54.1334648132,-1.31587803364
+389253,Terrington Hall School,5,5,5,0,2013-09-03,54.1280021667,-0.972959220409
+389254,Terrington Village Store & Cafe,4,0,0,10,2013-07-09,54.0797958374,-1.01421189308
+389255,Tex Mex At The Oak,2,15,10,10,2013-08-13,54.242807,-0.77315
+389256,The Abbey Residential Home,4,5,5,10,2014-06-03,54.142609,-0.781181
+389257,The Arboretum Cafe,5,5,0,0,2013-03-06,,
+389258,The Balloon Tree Farmshop & Cafe,5,0,0,5,2014-06-11,53.990522,-0.93771
+389259,The Barn Guest House & Tearoom,5,0,5,5,2014-07-25,54.3003616333,-0.917288303375
+389260,The Beck Tearoom,5,5,0,0,2013-02-25,54.245552,-1.061936
+389261,The Black Swan At Oldstead,5,5,0,5,2014-03-06,54.2140655518,-1.18791735172
+389262,The Buck Inn,5,5,5,0,2015-01-16,54.236456,-0.720803
+389263,The Chocolate Factory,5,5,0,0,2014-08-08,54.300361,-0.917288
+389264,The Coach & Horses,4,5,5,10,2014-01-28,54.158909,-0.692474
+389265,The Coach House Inn,5,5,5,0,2014-05-30,54.3516807556,-0.882736742496
+389266,The Coffee Shop,5,0,0,0,2013-10-08,54.1214179993,-0.905967891216
+389267,The Co-Operative,4,10,5,0,2014-11-21,54.246414,-1.060689
+389268,The Corn Mill,5,5,0,5,2012-06-19,54.264068,-0.920281
+389269,The Courtyard,5,5,0,0,2014-08-08,54.274444,-0.686946
+389270,The Crown,3,10,5,10,2013-11-01,54.3003616333,-0.917288303375
+389271,The Derwent Arms,4,5,5,10,2014-08-15,,
+389272,The Drey,4,5,0,10,2013-01-30,54.17135,-1.052754
+389273,The Farm Shop,5,0,5,0,2013-10-08,54.121418,-0.905968
+389274,The Farmhouse Bakery,2,15,10,10,2014-03-05,54.16777,-0.68331
+389275,The Farmshop Butchery,5,5,5,5,2013-10-08,54.1214179993,-0.905967891216
+389276,The Feathers Hotel,5,5,0,0,2014-08-18,54.246414,-1.060689
+389277,The Feversham Arms Hotel,4,5,10,5,2013-10-01,54.248034,-1.064443
+389278,The Fleece,1,10,15,20,2013-12-11,54.156706,-0.697428
+389279,The Fountain,5,0,0,0,2013-08-21,54.239241,-1.074539
+389280,The Fox & Rabbit Inn,5,5,0,0,2013-05-14,54.2830848694,-0.703045666218
+389281,The Fruit Shop,5,0,0,5,2012-02-22,54.246992,-0.778183
+389282,The Ganton Greyhound,4,5,5,10,2013-10-01,54.1859970093,-0.488639324903
+389283,The Gate Inn,4,10,0,5,2012-02-06,54.123534,-0.690323
+389284,The Golden Lion Inn,4,10,5,5,2014-12-11,54.2011604309,-0.853948056698
+389285,The Gourmet Grill,5,5,5,5,2014-09-04,54.205892,-0.808021
+389286,The Grange Guest House,5,0,0,5,2012-01-13,54.237523,-0.712131
+389287,The Grapes,5,0,0,0,2014-02-05,54.1777038574,-0.83896869421
+389288,The Grapes,3,10,5,10,2013-11-19,54.235628,-0.625133
+389289,The Grapes Inn,5,0,0,5,2013-02-05,54.1677093506,-0.932318985462
+389290,The Hawthorns,5,nan,nan,nan,2012-03-06,54.258704,-0.802384
+389291,The Hidden Monkey,5,5,5,5,2014-10-31,54.135742,-0.798204
+389292,The Horse Shoe Inn,4,10,0,0,2013-05-14,54.303368,-0.721311
+389293,The House,5,0,0,0,2013-04-09,54.239241,-1.074539
+389294,The Hyde Park,4,10,0,5,2012-01-25,54.132181,-0.781012
+389295,The Ice Cream Parlour,4,5,5,10,2012-04-24,54.236456,-0.720803
+389296,The Inn At Hawnby,5,5,0,5,2013-03-06,54.3011474609,-1.16708874702
+389297,The Lemon Tree,5,5,5,0,2014-02-04,54.268163,-0.930984
+389298,The Lion Inn,3,10,10,10,2014-05-30,54.388396,-0.956213
+389299,The Log Cabin,5,5,5,5,2013-10-15,,
+389300,The Malt Shovel,5,5,5,5,2013-07-08,54.2030677795,-1.0484265089
+389301,The Milburn Arms Hotel,4,5,5,10,2014-07-25,54.354208,-0.8869
+389302,The Moorlands,4,5,0,10,2013-05-14,54.303368,-0.721311
+389303,The Mount Hotel,2,10,15,10,2013-08-13,54.1334648132,-1.31587803364
+389304,The Mount House,5,5,5,5,2012-04-05,54.1273498535,-0.977382600307
+389305,The New Globe,3,10,5,10,2013-07-05,54.134314,-0.798322
+389306,The New Inn,4,10,0,10,2013-11-19,54.2907066345,-0.840939760208
+389307,The New Inn,5,5,5,0,2014-06-09,54.2358703613,-0.722293972969
+389308,The New Malton,5,5,5,5,2013-09-03,54.135281,-0.798783
+389309,The Old Butchery,4,5,10,0,2014-11-27,54.23587,-0.722294
+389310,The Old Forge,5,5,5,5,2012-05-31,54.235244751,-0.681040406227
+389311,The Old Lodge Hotel,5,5,5,5,2013-04-23,54.13531,-0.794528
+389312,The Old Police Station Cafe,4,5,5,10,2013-10-29,54.245936,-1.061636
+389313,The Old Vicarage,5,nan,nan,nan,2012-04-05,54.30153,-0.751781
+389314,The Orange Tree,5,5,0,0,2013-04-16,54.370775,-0.914837
+389315,The Organic Farm Shop,5,5,0,0,2013-07-09,54.243937,-0.773807
+389316,The Post Office,5,5,5,5,2013-02-07,54.257497,-0.799425
+389317,The Ridings Tea Room,5,5,5,0,2013-07-23,54.201161,-0.43245
+389318,The Rose Inn,4,10,0,5,2011-12-04,54.246534,-0.779102
+389319,The Royal Oak Inn,5,5,0,0,2013-07-03,54.2046470642,-0.980841040611
+389320,The Skullery,5,5,5,5,2013-04-22,54.151992,-0.518972
+389321,The Star Inn,5,5,5,5,2013-05-24,54.230666,-1.009977
+389322,The Star Inn,4,10,0,5,2013-10-09,54.124495,-0.520994
+389323,The Tea Shop,5,5,5,5,2015-01-16,54.244575,-0.777334
+389324,The Union,5,5,0,5,2012-01-25,54.132249,-0.785036
+389325,The Uplands,5,5,0,5,2014-06-09,54.137377,-0.812591
+389326,The Village Shop,4,5,5,10,2013-11-05,54.201084,-1.109669
+389327,The Whistle Stop Cafe,4,5,10,5,2013-11-05,53.2393608093,-1.13890004158
+389328,The White Horse Inn,4,10,5,5,2013-10-17,54.201084,-1.109669
+389329,The White Swan,4,5,0,10,2014-11-14,54.076754,-0.957274
+389330,The White Swan Inn,4,5,10,5,2014-08-15,54.246005,-0.777491
+389331,The Whole Hogg,5,5,5,0,2014-07-18,54.177291,-0.762434
+389332,The Wilf Ward Family Trust,2,5,15,5,2013-04-09,54.247602,-0.788785
+389333,The Wombwell Arms,4,0,0,10,2014-05-30,54.2063140869,-1.1506755352
+389334,The Yard,4,10,0,5,2013-11-11,54.135584,-0.799463
+389335,Thomas Of Kirkbymoorside,4,10,5,5,2014-03-11,54.164812,-0.933052
+389336,Thomas Of Malton,5,5,0,0,2013-09-18,54.123534,-0.690323
+389337,Thomas Of York Ltd,3,10,10,10,2014-11-28,54.245936,-1.061636
+389338,Thomas Of York Ltd,5,5,0,5,2014-10-24,54.246947,-1.061014
+389339,Thomas Of York Ltd.,5,5,0,0,2013-08-28,54.245574,-0.777503
+389340,Thomas Of York Ltd.,5,5,5,0,2014-07-04,54.242628,-1.053547
+389341,Thompson Arms,5,5,5,5,2012-08-16,54.062210083,-0.972871541977
+389342,Thornton Dale C.E. Primary School,5,5,0,0,2014-01-22,54.235383,-0.727265
+389343,Thornton Dale Fisheries,4,10,5,5,2015-01-16,54.236431,-0.72266
+389344,Thornton Dale Village Hall,4,10,5,5,2011-12-14,54.2364616394,-0.720059990883
+389345,Three Cups Inn,5,5,0,0,2014-08-29,53.99261,-0.923822
+389346,Three Tuns,5,5,5,5,2012-08-15,54.1101875305,-0.578668117523
+389347,Thundercliffes,5,0,0,0,2013-03-06,54.245265,-1.051615
+389348,Tree Tops,5,0,5,0,2014-07-08,54.2744445801,-0.686945796013
+389349,Trotters,5,0,5,0,2013-10-15,54.178264,-0.516639
+389350,Tui's,3,10,5,10,2013-09-03,,
+389351,Tyke 2000 Ltd,4,10,0,5,2012-01-25,54.13271,-0.787976
+389352,Unit 10,5,0,5,0,2012-03-15,54.243937,-0.773807
+389353,United Co-Operatives,5,5,0,0,2013-07-08,54.244776,-0.776836
+389354,United Co-Operatives,5,5,5,0,2013-05-01,54.269572,-0.930763
+389355,Upper Helmsley,4,10,5,5,2012-01-10,,
+389356,Village Hall,5,5,5,5,2011-12-22,54.1378211975,-0.800220012665
+389357,Village Hall,Exempt,nan,nan,nan,2012-01-10,54.1932792664,-0.870930016041
+389358,Village Hall,Exempt,nan,nan,nan,2010-08-25,53.9533309937,-1.08342003822
+389359,Village Hall,Exempt,nan,nan,nan,2010-08-19,54.2469444275,-0.772659242153
+389360,Vinehouse Cafe,4,5,5,10,2014-04-26,,
+389361,Vivers Mill,5,nan,nan,nan,2012-04-10,54.241338,-0.778979
+389362,W Fletcher & Sons,4,10,5,5,2014-11-27,54.13045,-0.792036
+389363,Waind & Son Ltd.,5,5,5,5,2014-11-28,54.268163,-0.930984
+389364,Wardill Bros,5,5,5,5,2011-03-10,54.23587,-0.722294
+389365,Warrington Guest House,5,5,5,0,2013-08-21,54.237108,-0.722041
+389366,Waterfront Cafe,5,0,5,0,2014-09-04,54.205892,-0.808021
+389367,Wath Court Nursery,5,0,0,0,2014-10-24,54.1667022705,-0.963331639767
+389368,Weaverthorpe C.E. (VC) Primary School,5,5,5,0,2014-07-03,54.1248092651,-0.523155272007
+389369,Welburn Community Primary School,5,0,0,0,2014-10-24,54.1029472351,-0.901804745197
+389370,Welburn Hall School,5,5,5,0,2014-01-24,54.2529945374,-0.954968094826
+389371,Welburn Lodge,4,0,0,10,2011-11-23,54.0932388306,-0.879385590553
+389372,Welburn Village Hall,Exempt,nan,nan,nan,2010-09-06,54.1015815735,-0.897053956985
+389373,Wentworth Arms,4,10,5,5,2014-06-27,54.145753,-0.777475
+389374,West Heslerton C.E. Primary School,5,0,0,0,2014-11-28,54.1711044312,-0.60420191288
+389375,West View Cottage,5,5,5,0,2012-04-13,54.2658729553,-1.02344346046
+389376,Westler Staff Restaurant,1,20,5,20,2013-11-20,54.148493,-0.849355
+389377,White Cottage Catering,4,5,5,10,2013-08-21,,
+389378,White Horse Farm Inn,5,5,0,0,2014-01-24,54.349707,-0.887083
+389379,White Swan,5,5,0,5,2013-12-05,54.269956,-0.930431
+389380,White Swan,5,5,0,0,2013-01-23,54.266643,-0.823758
+389381,White Swan Inn,5,0,0,0,2014-06-13,54.2013397217,-1.10311722755
+389382,Willowgate Bistro,4,10,5,5,2014-05-07,54.246348,-0.775823
+389383,Windmill Hill,5,0,0,0,2014-03-28,54.200876,-1.09511
+389384,Wold View,4,5,5,10,2011-11-17,54.141567,-0.745405
+389385,Wolds Way Lavender,5,0,0,0,2013-10-09,,
+389386,Woodhouse Farm,4,5,5,10,2011-12-17,54.0646247864,-0.855800032616
+389387,Worsley Arms,3,10,5,10,2014-12-05,54.1705207825,-0.978845894337
+389388,WRVS Ryedale,5,0,5,0,2014-11-07,54.244776,-0.776836
+389389,Wyville Farm Shop,1,10,10,20,2014-02-05,54.164836,-0.929621
+389390,York Heritage Limited,5,5,5,5,2014-06-18,,
+389391,Yorkshire Honey,4,10,5,5,2014-05-07,54.16777,-0.68331
+389392,Yorkshire Lavender,3,10,5,10,2013-10-07,54.1308822632,-0.997741699219
+389393,Yorkshire Tea Rooms,4,10,5,5,2014-02-24,54.134284,-0.795292
+389394,Yorkshire Wolds Gallery & Coffee Shop,4,0,0,10,2013-06-27,54.17366,-0.452197

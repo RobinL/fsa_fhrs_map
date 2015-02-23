@@ -1,323 +1,323 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-406065,,,,,A & A Catering,Mobile caterer,7846,5,,127233,5,,,564,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-09-11,fhrs_4_en-GB,4,,FHRS,10
-406066,42 Dungannon Road,,Cookstown,Co. Tyrone,A29 Service Station,Retailers - other,4613,5,,67991,5,,54.61350900000000,152,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74987200000000,BT80 9AE,2014-09-23,fhrs_5_en-GB,5,,FHRS,5
-406067,65 Drum Road,,Cookstown,Co. Tyrone,Adventure World,Other catering premises,7841,5,,140105,5,,54.63521700000000,761,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75541600000000,BT80 8QS,2014-12-18,fhrs_4_en-GB,4,,FHRS,10
-406068,18 Molesworth Street,,Cookstown,Co. Tyrone,Allen Meats,Manufacturers/packers,7839,5,,86950,10,,54.64593300000000,223,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74316000000000,BT80 8NX,2012-11-29,fhrs_3_en-GB,3,,FHRS,10
-406069,82 Burn Road,,Cookstown,Co. Tyrone,Alliance Boots Pharmacy,Retailers - other,4613,,,92778,,,54.64706200000000,263,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75152200000000,BT80 8DR,2011-05-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-406070,7 Conyngham Street,,Moneymore,Co. Londonderry,Americana,Pub/bar/nightclub,7843,10,,62118,0,,54.69049600000000,137,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66861600000000,BT45 7PX,2013-01-30,fhrs_4_en-GB,4,,FHRS,10
-406071,1f Smith Street,,Moneymore,Co. Londonderry,Antonio's Pizzeria,Takeaway/sandwich shop,7844,5,,137825,5,,54.69266900000000,729,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66938200000000,BT45 7PF,2014-06-26,fhrs_5_en-GB,5,,FHRS,5
-406072,90 Shore Road,Ballyronan,Magherafelt,Co. Londonderry,Ardeala B And B Accommodation,Hotel/bed & breakfast/guest house,7842,10,,135991,0,,54.69879200000000,70,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53204500000000,BT45 6JG,2013-03-08,fhrs_4_en-GB,4,,FHRS,5
-406073,Molesworth Street,,Cookstown,Co. Tyrone,Argos Store,Retailers - other,4613,,,108428,,,54.64597400000000,387,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74330600000000,,2013-07-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-406074,Sweep Road,Gortalowry,Cookstown,Co. Tyrone,Asda,Retailers - supermarkets/hypermarkets,7840,10,,132627,10,,54.63038000000000,647,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74376400000000,BT80 8TL,2014-12-16,fhrs_3_en-GB,3,,FHRS,5
-406075,Sweep Road,Gortalowry,Cookstown,Co. Tyrone,Asda Petrol Station,Retailers - other,4613,10,,54127,0,,54.63038000000000,122,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74376400000000,BT80 8TL,2013-02-08,fhrs_4_en-GB,4,,FHRS,5
-406076,31 Killycolp Road,Tullyhogue,Cookstown,Co. Tyrone,Avondale B And B,Hotel/bed & breakfast/guest house,7842,5,,91593,0,,54.60563500000000,254,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74865900000000,BT80 8UL,2012-10-22,fhrs_5_en-GB,5,,FHRS,0
-406077,1 Orritor Road Retail Park,,Cookstown,Co. Tyrone,B & M Bargains,Retailers - other,4613,10,,144260,10,,,827,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2013-02-14,fhrs_4_en-GB,4,,FHRS,0
-406078,Ballinderry,,Cookstown,Co. Londonderry,Ballinderry Bridge Playgroup,School/college/university,7845,5,,123695,0,,54.66115500000000,521,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.56024400000000,BT80 0AX,2014-06-20,fhrs_5_en-GB,5,,FHRS,5
-406079,Littlebridge Road,,Coagh,Co. Londonderry,Ballygoney Presbyterian Church Hall,Other catering premises,7841,,,144560,,,54.64822200000000,835,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.64304300000000,BT45 7NT,2013-07-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-406080,142 Ballinderry Bridge Road,,Coagh,Co. Londonderry,Ballylifford Primary School,School/college/university,7845,0,,110416,0,,54.66896500000000,401,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.54699400000000,BT80 0AY,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-406081,Shore Road,,Ballyronan,Co. Londonderry,Ballyronan Play Group And Marina Kids After Schools Club,Other catering premises,7841,,,91749,,,,255,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-12-19,fhrs_5_en-GB,5,,FHRS,
-406082,52 Gortnaskea Road,,Stewartstown,Co. Tyrone,Ballytrea Primary School,School/college/university,7845,0,,95312,0,,54.60714800000000,283,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.64225900000000,BT71 5NY,2014-06-20,fhrs_5_en-GB,5,,FHRS,5
-406083,27-29 Oldtown Street,,Cookstown,Co. Tyrone,Bardo's,Pub/bar/nightclub,7843,10,,198226,5,,54.64939400000000,911,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74509900000000,BT80 8EE,2012-02-01,fhrs_4_en-GB,4,,FHRS,5
-406084,4 Orritor Street,,Cookstown,Co. Tyrone,Bea Cafe,Restaurant/Cafe/Canteen,1,20,,143421,10,,54.64835700000000,808,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74733000000000,BT80 8BE,2014-02-20,fhrs_1_en-GB,1,,FHRS,10
-406085,52 Millburn Close,,Cookstown,Co. Tyrone,Beacon Playgroup And After School Club,Other catering premises,7841,0,,91212,0,,54.65129100000000,251,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75133000000000,BT80 8HF,2014-06-06,fhrs_5_en-GB,5,,FHRS,5
-406086,5 Orritor Street,,Cookstown,Co. Tyrone,Belfast House,Pub/bar/nightclub,7843,10,,133028,10,,54.64835700000000,654,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74733000000000,BT80 8BE,2013-08-15,fhrs_3_en-GB,3,,FHRS,10
-406087,3 Burn Road,,Cookstown,Co. Tyrone,Bengal Spice,Restaurant/Cafe/Canteen,1,20,,145241,15,,54.64698500000000,856,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74666000000000,BT80 8DJ,2013-08-29,fhrs_1_en-GB,1,,FHRS,15
-406088,3a Killycolp Road,Tullyhogue,Cookstown,Co. Tyrone,Bluebells Restaurant,Restaurant/Cafe/Canteen,1,5,,140156,0,,54.61354800000000,762,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74674400000000,BT80 9AD,2014-03-11,fhrs_5_en-GB,5,,FHRS,5
-406089,,,,,Bon Appetit,Other catering premises,7841,5,,147418,5,,,919,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2013-07-19,fhrs_5_en-GB,5,,FHRS,0
-406090,5 James Street,,Cookstown,Co. Tyrone,Boots Stores Ltd,Retailers - other,4613,,,105061,,,54.64628900000000,360,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74534900000000,BT80 8AA,2014-11-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-406091,Loy Street,Loy,Cookstown,Co. Tyrone,Bosco Playgroup,School/college/university,7845,5,,85273,0,,54.64364500000000,214,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74425300000000,BT80 8PE,2013-09-24,fhrs_5_en-GB,5,,FHRS,0
-406092,221 Orritor Road,,Cookstown,Co. Tyrone,Braeside Costcutter,Retailers - supermarkets/hypermarkets,7840,5,,91970,5,,54.65647300000000,257,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.80001100000000,BT80 9NB,2013-10-30,fhrs_4_en-GB,4,,FHRS,10
-406093,221 Orritor Road,,Cookstown,Co. Tyrone,Braeside Wine Bar,Restaurant/Cafe/Canteen,1,10,,142914,0,,54.65647300000000,80,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.80001100000000,BT80 9NB,2013-05-16,fhrs_4_en-GB,4,,FHRS,5
-406094,58b William Street,,Cookstown,Co. Tyrone,Brewery Grill,Restaurant/Cafe/Canteen,1,5,,88845,10,,54.64737600000000,235,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74447900000000,BT80 8NB,2014-03-04,fhrs_3_en-GB,3,,FHRS,10
-406095,58 William Street,,Cookstown,Co. Tyrone,Brewery Lane Bar,Pub/bar/nightclub,7843,10,,32698,0,,54.64737600000000,1,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74447900000000,BT80 8NB,2013-02-04,fhrs_4_en-GB,4,,FHRS,5
-406096,30 Cookstown Road,,Moneymore,Co. Londonderry,Bridge Farm Potatoes,Retailers - other,4613,,,128546,,,54.68626200000000,586,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.68151600000000,BT45 7QF,2013-12-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-406097,8 Mullan Road,,Coagh,Co. Tyrone,Bridie's,Takeaway/sandwich shop,7844,,,115246,,,54.65399100000000,444,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55694900000000,BT80 0DD,2014-10-23,fhrs_5_en-GB,5,,FHRS,
-406098,123 Broughderg Road,,Mountfield,Co. Tyrone,Broughderg Community Centre,Other catering premises,7841,,,580429,,,54.72190000000000,1131,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.98475000000000,BT79 8JN,2014-11-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-406099,62 William Street,,Cookstown,Co. Tyrone,Brown Sugar,Restaurant/Cafe/Canteen,1,10,,136572,10,,54.64737600000000,709,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74447900000000,BT80 8NB,2013-09-16,fhrs_3_en-GB,3,,FHRS,10
-406100,Coolnafranky Estate,,Cookstown,Co. Tyrone,Buddies After School Club,Hospitals/Childcare/Caring Premises,5,0,,698590,0,,54.63956100000000,1195,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.73408000000000,,2014-06-06,fhrs_5_en-GB,5,,FHRS,5
-406101,Kilmascally Road,,Dungannon,Co. Tyrone,Buddies Out Of Schools Club,Hospitals/Childcare/Caring Premises,5,0,,720010,0,,54.60758500000000,1238,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.52825700000000,BT71 5BL,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-406102,76-78 Burn Road,,Cookstown,Co. Tyrone,Burn Road Service Station,Retailers - other,4613,5,,90793,5,,54.64706200000000,249,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75152200000000,BT80 8DR,2013-03-26,fhrs_5_en-GB,5,,FHRS,5
-406103,Orritor Road,,Cookstown,Co. Tyrone,Cafe Tempest,Restaurant/Cafe/Canteen,1,10,,143374,10,,54.65390700000000,807,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.78743700000000,,2013-07-05,fhrs_3_en-GB,3,,FHRS,10
-406104,8 Smith Street,,Moneymore,Co. Londonderry,Calories Take-Away,Takeaway/sandwich shop,7844,5,,145679,0,,54.69266900000000,87,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66938200000000,BT45 7PF,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-406105,60 Chapel Street,,Cookstown,Co. Tyrone,Care Bear Creche,Hospitals/Childcare/Caring Premises,5,,,128975,,,54.64110800000000,593,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74388200000000,BT80 8QD,2014-01-10,fhrs_5_en-GB,5,,FHRS,
-406106,65 Drum Road,,Cookstown,Co. Tyrone,Care Bear Creche,Hospitals/Childcare/Caring Premises,5,5,,71389,5,,54.63521700000000,162,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75541600000000,BT80 8QS,2014-02-28,fhrs_5_en-GB,5,,FHRS,5
-406107,27 William Street,,Cookstown,Co. Tyrone,Central Inn,Restaurant/Cafe/Canteen,1,,,117450,,,54.64768300000000,467,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74557000000000,BT80 8AX,2014-10-02,fhrs_5_en-GB,5,,FHRS,
-406108,163 Lough Fea Road,,Cookstown,Co. Londonderry,Charis Cancer Care,Other catering premises,7841,,,145462,,,54.73003600000000,863,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.82160300000000,BT80 9TU,2013-11-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-406109,76a Fountain Road,Coolnafranky,Cookstown,Co. Tyrone,Cherie's Cafe,Restaurant/Cafe/Canteen,1,5,,94620,0,,54.63980500000000,278,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74046900000000,BT80 8QF,2013-11-15,fhrs_5_en-GB,5,,FHRS,0
-406110,Crieve Centre,,Stewartstown,Co. Tyrone,China Man,Takeaway/sandwich shop,7844,10,,134371,15,,,677,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2013-07-03,fhrs_2_en-GB,2,,FHRS,10
-406111,,,,,Chippy Van,Mobile caterer,7846,5,,102199,5,,,338,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-406112,Mullanahoe,,Ardboe,Co. Tyrone,Chopsticks,Takeaway/sandwich shop,7844,10,,143872,10,,,816,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-01-16,fhrs_3_en-GB,3,,FHRS,10
-406113,84 Church Street,,Cookstown,Co. Tyrone,Chuck Wagon,Takeaway/sandwich shop,7844,5,,135594,5,,54.63664500000000,694,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74326100000000,BT80 8HX,2013-09-26,fhrs_4_en-GB,4,,FHRS,10
-406114,36 Muff Road,,Cookstown,Co. Londonderry,Churchtown Primary School,School/college/university,7845,5,,145838,5,,54.68347900000000,875,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74082200000000,BT80 9XA,2013-06-24,fhrs_5_en-GB,5,,FHRS,5
-406115,60 Claggan Road,,Cookstown,Co. Londonderry,Claggan Presbyterian Church Hall,Other catering premises,7841,,,198235,,,54.70494200000000,876,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.78134500000000,BT80 9UF,2014-09-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-406116,160 Tanderagee Road,,Pomeroy,Co. Tyrone,Cloughbane Farm (shop),Retailers - other,4613,5,,145186,5,,54.58248700000000,854,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.87132400000000,BT70 3EB,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-406117,21 Molesworth Street,,Cookstown,Co. Tyrone,Clubland,Pub/bar/nightclub,7843,5,,117171,10,,54.64593300000000,464,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74316000000000,BT80 8NX,2013-02-04,fhrs_4_en-GB,4,,FHRS,5
-406118,11 Main Street,,Coagh,Co. Tyrone,Coagh Pharmacies,Retailers - other,4613,,,102442,,,54.64720200000000,34,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.61719000000000,BT80 0EN,2014-08-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-406119,Urbal Road,,Coagh,Co. Tyrone,Coagh Presbyterian Church Hall,Other catering premises,7841,,,144319,,,54.64692500000000,828,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.61967800000000,BT80 0DW,2014-05-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-406120,31 Urbal Road,,Coagh,Co. Tyrone,Coagh Primary School Meals Kitchen,School/college/university,7845,5,,125816,0,,54.64692500000000,544,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.61967800000000,BT80 0DW,2013-09-06,fhrs_5_en-GB,5,,FHRS,5
-406121,11 Ballinderry Bridge Road,,Coagh,Co. Tyrone,Coagh Utd Football Club,Pub/bar/nightclub,7843,5,,72078,0,,54.64850600000000,164,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.60636300000000,BT80 0BR,2013-07-10,fhrs_4_en-GB,4,,FHRS,10
-406122,2 Westland Road,,Cookstown,Co. Tyrone,Cookstown Adult Centre,Other catering premises,7841,10,,131467,0,,54.64682100000000,63,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75687400000000,BT80 8BX,2013-03-01,fhrs_4_en-GB,4,,FHRS,5
-406123,19 William Street,,Cookstown,Co. Tyrone,Cookstown Cafe,Restaurant/Cafe/Canteen,1,10,,134461,10,,54.64768300000000,679,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74557000000000,BT80 8AX,2013-05-23,fhrs_3_en-GB,3,,FHRS,10
-406124,2 Westland Road,,Cookstown,Co. Tyrone,Cookstown Day Centre,Other catering premises,7841,5,,113108,0,,54.64682100000000,422,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75687400000000,BT80 8BX,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-406125,Molesworth Street,,Cookstown,Co. Tyrone,Cookstown High School Meals Kitchen,School/college/university,7845,0,,113896,5,,54.64334600000000,429,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.73707500000000,BT80 8PQ,2013-06-26,fhrs_4_en-GB,4,,FHRS,10
-406126,Molesworth Road,Coolnafranky,Cookstown,Co. Tyrone,Cookstown Hockey Club,Pub/bar/nightclub,7843,5,,145160,5,,54.64412900000000,853,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.73368600000000,,2013-07-30,fhrs_4_en-GB,4,,FHRS,10
-406127,Coolnafranky Estate,Coolnafranky,Cookstown,Co. Tyrone,Cookstown Nursery School Meals Kitchen,School/college/university,7845,0,,137230,0,,54.64338000000000,720,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74127200000000,BT80 8PF,2014-12-18,fhrs_5_en-GB,5,,FHRS,5
-406128,James Street,,Cookstown,Co. Tyrone,Cookstown Presbyterian Church Hall,Other catering premises,7841,,,128914,,,54.64548900000000,592,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74537400000000,BT80 8AE,2014-11-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-406129,Coolnafranky Estate,Loy,Cookstown,Co. Tyrone,Cookstown Primary School Meals Kitchen,School/college/university,7845,0,,114078,0,,54.64338000000000,431,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74127200000000,BT80 8PF,2013-12-11,fhrs_4_en-GB,4,,FHRS,10
-406130,,,,,Cookstown Sizzler,Mobile caterer,7846,10,,127099,5,,,562,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-06-02,fhrs_4_en-GB,4,,FHRS,5
-406131,Sandholes Road,,Cookstown,Co. Tyrone,Copelands Ltd,Restaurant/Cafe/Canteen,1,0,,82967,0,,54.62823800000000,202,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74909600000000,,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-406132,81 Main Street,,Pomeroy,Co. Tyrone,Corner Bar,Pub/bar/nightclub,7843,5,,36793,0,,54.59409100000000,100,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.92833900000000,BT70 2QP,2013-09-24,fhrs_5_en-GB,5,,FHRS,5
-406133,4 Oldtown Street,,Cookstown,Co. Tyrone,Corner Cake Shop,Manufacturers/packers,7839,10,,90393,10,,54.64947400000000,246,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74582400000000,BT80 8EF,2014-03-25,fhrs_3_en-GB,3,,FHRS,10
-406134,173 Battery Road,Cluntoe (Quin),Cookstown,Co. Tyrone,"Costcutters, Ardboe",Retailers - supermarkets/hypermarkets,7840,5,,89117,10,,54.63413200000000,237,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.52155300000000,BT80 0HS,2014-03-20,fhrs_4_en-GB,4,,FHRS,5
-406135,21 Morgans Hill Road,,Cookstown,Co. Tyrone,"Costcutters, Cookstown",Retailers - supermarkets/hypermarkets,7840,5,,109710,10,,54.65214500000000,397,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74958400000000,BT80 8HA,2013-08-21,fhrs_4_en-GB,4,,FHRS,5
-406136,72 Main Street,,Pomeroy,Co. Tyrone,"Costcutters, Pomeroy",Retailers - other,4613,5,,150694,5,,,99,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-06-26,fhrs_5_en-GB,5,,FHRS,0
-406137,102a Loup Road,,Moneymore,Co. Londonderry,Country Fryer,Takeaway/sandwich shop,7844,10,,144587,5,,54.69808400000000,836,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.60526800000000,BT45 7ST,2014-06-30,fhrs_4_en-GB,4,,FHRS,5
-406138,126 Shore Road,Ballyronan,Magherafelt,Co. Londonderry,Cove Bar,Pub/bar/nightclub,7843,5,,133088,0,,54.70824300000000,655,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53133100000000,BT45 6JA,2012-08-01,fhrs_4_en-GB,4,,FHRS,10
-406139,89 Mullanahoe Road,,Dungannon,Co. Tyrone,Cove Manor Private Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,134069,0,,54.61321100000000,672,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55826900000000,BT71 5AU,2014-09-12,fhrs_5_en-GB,5,,FHRS,5
-406140,57 Annaghmore Road,Ardboe,Cookstown,Co. Tyrone,Coyle's Cottage,Restaurant/Cafe/Canteen,1,,,137518,,,54.64586200000000,725,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.52134400000000,BT80 0JA,2014-09-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-406141,40 Creevagh Road,,Cookstown,Co. Tyrone,Crievagh Primary School,School/college/university,7845,0,,145955,0,,54.68475900000000,879,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.79688200000000,BT80 9SZ,2014-02-28,fhrs_5_en-GB,5,,FHRS,5
-406142,1-3 Oldtown Street,,Cookstown,Co. Tyrone,Cuppa Tinos,Restaurant/Cafe/Canteen,1,5,,105817,5,,54.64939400000000,365,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74509900000000,BT80 8EE,2014-06-19,fhrs_5_en-GB,5,,FHRS,5
-406143,28 James Street,,Cookstown,Co. Tyrone,Curley's,Retailers - other,4613,,,125662,,,54.64632500000000,542,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74455800000000,BT80 8LW,2012-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-406144,34 Littlebridge Road,,Coagh,Co. Londonderry,Day Today,Retailers - other,4613,0,,109279,5,,54.64534200000000,394,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66031800000000,BT45 7XX,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-406145,226 Drum Road,,Cookstown,Co. Tyrone,Day Today- Kildress Filling Station,Retailers - supermarkets/hypermarkets,7840,5,,111665,0,,54.64831500000000,41,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.86517800000000,BT80 9HP,2014-02-14,fhrs_4_en-GB,4,,FHRS,10
-406146,30 Drumenny Road,,Cookstown,Co. Tyrone,Derrychrin School Meals Kitchen,School/college/university,7845,0,,110263,0,,54.65326100000000,400,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.56129800000000,BT80 0BX,2014-02-27,fhrs_5_en-GB,5,,FHRS,5
-406147,Desertcreat,,Tullyhogue,Co. Tyrone,Desertcreat Parish Hall,Other catering premises,7841,,,623665,,,54.60247100000000,1157,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74330900000000,BT80 8UJ,2013-11-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-406148,117 Davagh Road,Mountfield,,Co. Tyrone,Devlin's Bar,Pub/bar/nightclub,7843,10,,133964,0,,54.71943100000000,670,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.96572300000000,BT79 8JL,2011-08-26,fhrs_4_en-GB,4,,FHRS,5
-406149,50a Main Street,,Pomeroy,Co. Tyrone,Dew Drop Inn,Pub/bar/nightclub,7843,10,,126283,0,,,552,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2013-02-19,fhrs_4_en-GB,4,,FHRS,10
-406150,10-12a Fairhill Road,Loy,Cookstown,Co. Tyrone,Diamond Palace,Takeaway/sandwich shop,7844,5,,88182,10,,54.64432600000000,230,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74754700000000,BT80 8AG,2014-03-27,fhrs_4_en-GB,4,,FHRS,5
-406151,100 Loup Road,,Moneymore,Co. Londonderry,Discovering Kids Playgroup,Hospitals/Childcare/Caring Premises,5,5,,146135,0,,54.69808400000000,884,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.60526800000000,BT45 7ST,2014-12-18,fhrs_5_en-GB,5,,FHRS,0
-406152,14a North Street,Galvally Or Stevensons Dowery,Stewartstown,Co. Tyrone,Donaghendry Parish Hall,Other catering premises,7841,,,111892,,,,412,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2012-10-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-406153,28 Killygarvan Road,,Dungannon,Co. Tyrone,Donaghey Primary School,School/college/university,7845,0,,135366,0,,54.58621700000000,690,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74387100000000,BT71 4DA,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-406154,86 Ballinderry Bridge Road,,Coagh,Co. Tyrone,Doonio's Pizza,Takeaway/sandwich shop,7844,10,,623668,10,,54.65719400000000,1186,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.57092100000000,BT80 0BT,2013-12-16,fhrs_3_en-GB,3,,FHRS,10
-406155,,,,,Douglas Allen Chip Van,Mobile caterer,7846,10,,145740,5,,,872,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-09-09,fhrs_4_en-GB,4,,FHRS,5
-406156,40-42 Loy Street,Loy,Cookstown,Co. Tyrone,Dragon Garden,Restaurant/Cafe/Canteen,1,0,,198236,10,,54.64364500000000,881,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74425300000000,BT80 8PE,2014-12-03,fhrs_4_en-GB,4,,FHRS,10
-406157,19 Drapersfield Road,,Cookstown,Co. Londonderry,Drapersfield House Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,128603,0,,54.63389500000000,587,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.69479600000000,BT80 8RS,2013-08-22,fhrs_5_en-GB,5,,FHRS,5
-406158,96a Drumenny Road,,Cookstown,Co. Tyrone,Duff's Bar,Pub/bar/nightclub,7843,5,,144527,10,,54.65004200000000,834,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55955300000000,BT80 0BY,2013-11-06,fhrs_4_en-GB,4,,FHRS,5
-406159,58-64 Church Street,Gortalowry,Cookstown,Co. Tyrone,Dunleath Bar,Pub/bar/nightclub,7843,5,,96255,5,,54.63846300000000,291,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74356100000000,BT80 8HY,2013-10-23,fhrs_4_en-GB,4,,FHRS,10
-406160,139 Moneymore Road,,Cookstown,Co. Londonderry,Dunman Factory (Canteen),Restaurant/Cafe/Canteen,1,0,,91018,0,,54.66192900000000,250,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.72467400000000,BT80 9UU,2014-02-26,fhrs_4_en-GB,4,,FHRS,10
-406161,52 Hillhead,,Stewartstown,Co. Tyrone,Early Years Day Care Nursery,School/college/university,7845,5,,137956,0,,54.57510100000000,731,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.67703700000000,BT71 5HY,2014-08-15,fhrs_5_en-GB,5,,FHRS,0
-406162,18 Sweep Road,,Cookstown,Co. Tyrone,Emily's Coffee Bar,Restaurant/Cafe/Canteen,1,10,,130147,5,,54.63392900000000,612,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74642700000000,BT80 8JW,2013-10-22,fhrs_4_en-GB,4,,FHRS,5
-406163,Magherafelt Road,,Moneymore,Co. Londonderry,Eurospar (moneymore),Retailers - other,4613,5,,128493,10,,,585,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2013-09-12,fhrs_3_en-GB,3,,FHRS,10
-406164,12 The Square,,Stewartstown,Co. Tyrone,F P Kelly Chemist,Retailers - other,4613,,,65412,,,54.57070783000001,147,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.00735235000000,,2013-11-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-406165,Fairhill Road,,Cookstown,Co. Tyrone,Fairfields Care Centre,Hospitals/Childcare/Caring Premises,5,5,,127374,10,,54.64390500000000,566,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75553800000000,BT80 8DE,2014-03-18,fhrs_4_en-GB,4,,FHRS,5
-406166,111a Main Street,,Pomeroy,Co. Tyrone,Fairhill Grill,Takeaway/sandwich shop,7844,10,,106848,10,,54.59409100000000,374,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.92833900000000,BT70 2QP,2014-01-22,fhrs_3_en-GB,3,,FHRS,10
-406167,56 William Street,,Cookstown,Co. Tyrone,Falls Chemist,Retailers - other,4613,,,111493,,,54.64737600000000,409,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74447900000000,BT80 8NB,2014-09-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-406168,137 Mullanahoe Road,,Dungannon,Co. Tyrone,Forbes Kitchens Social Club,Pub/bar/nightclub,7843,10,,101842,5,,54.61886400000000,335,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55020500000000,BT71 5AX,2008-11-25,fhrs_4_en-GB,4,,FHRS,5
-406169,125 Mullanahoe Road,,Dungannon,Co. Tyrone,Forbes Spar,Retailers - other,4613,5,,133957,10,,54.61886400000000,67,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55020500000000,BT71 5AX,2014-03-26,fhrs_4_en-GB,4,,FHRS,5
-406170,4a Burn Road,,Cookstown,Co. Tyrone,Fruit Fayre,Retailers - other,4613,10,,86095,0,,54.64698500000000,219,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74666000000000,BT80 8DJ,2012-07-17,fhrs_4_en-GB,4,,FHRS,5
-406171,3 Westland Road South,,Cookstown,Co. Tyrone,Frying Squad,Takeaway/sandwich shop,7844,5,,146201,5,,54.64192200000000,886,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.76015200000000,BT80 8DG,2013-02-19,fhrs_5_en-GB,5,,FHRS,5
-406172,87 Westland Road South,,Cookstown,Co. Tyrone,Gangnam,Takeaway/sandwich shop,7844,10,,704738,10,,54.63937800000000,1218,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75444900000000,,2014-09-04,fhrs_3_en-GB,3,,FHRS,5
-406173,Orritor Road,,Cookstown,Co. Tyrone,Giboney Court,Other catering premises,7841,,,144434,,,54.65390700000000,831,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.78743700000000,,2013-10-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-406174,52 Drum Road,,Cookstown,Co. Tyrone,Glenavon House Hotel,Hotel/bed & breakfast/guest house,7842,5,,132886,0,,54.63521700000000,651,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75541600000000,BT80 8QS,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-406175,Coolnafranky Estate,,Cookstown,Co. Tyrone,Gold Community Partnership- Mobile Unit Cookstown Ps,Hospitals/Childcare/Caring Premises,5,,,198232,,,54.63956100000000,915,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.73408000000000,,2014-05-12,fhrs_5_en-GB,5,,FHRS,
-406176,20 Tanderagee Road,,Pomeroy,Co. Tyrone,Gold Surestart (pomeroy),Hospitals/Childcare/Caring Premises,5,5,,642713,0,,54.58924800000000,1199,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.91117200000000,BT70 3DS,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-406177,31 Chapel Street,,Cookstown,Co. Tyrone,Golden Boat,Restaurant/Cafe/Canteen,1,10,,114995,0,,54.64090900000000,441,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74463200000000,BT80 8QB,2013-06-20,fhrs_4_en-GB,4,,FHRS,10
-406178,54 Oldtown Street,,Cookstown,Co. Tyrone,Golden Bowl,Takeaway/sandwich shop,7844,10,,93158,10,,54.64947400000000,266,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74582400000000,BT80 8EF,2013-09-24,fhrs_2_en-GB,2,,FHRS,15
-406179,31 Oldtown Street,,Cookstown,Co. Tyrone,Golden Town,Takeaway/sandwich shop,7844,10,,145986,5,,54.64939400000000,88,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74509900000000,BT80 8EE,2012-12-12,fhrs_3_en-GB,3,,FHRS,10
-406180,6 Oldtown Street,,Cookstown,Co. Tyrone,Gordons Chemists,Retailers - other,4613,,,99409,,,54.64947400000000,314,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74582400000000,BT80 8EF,2014-11-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-406181,94 Church Street,,Cookstown,Co. Tyrone,Gort Kids,Restaurant/Cafe/Canteen,1,,,130282,,,54.63664500000000,614,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74326100000000,BT80 8HX,2014-01-14,fhrs_4_en-GB,4,,FHRS,
-406182,49 Knockaleery Road,,Cookstown,Co. Tyrone,Granny B's Kitchen,Other catering premises,7841,,,623664,,,54.63170900000000,1136,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.85802200000000,BT80 9EH,2013-11-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-406183,57 Drum Road,,Cookstown,Co. Tyrone,Greenvale Hotel,Hotel/bed & breakfast/guest house,7842,,,110136,,,54.63521700000000,399,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75541600000000,BT80 8QS,2014-05-28,fhrs_5_en-GB,5,,FHRS,
-406184,17 James Street,,Cookstown,Co. Tyrone,Ground Espresso Bar,Restaurant/Cafe/Canteen,1,10,,608657,0,,54.64628900000000,1132,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74534900000000,BT80 8AA,2013-11-14,fhrs_4_en-GB,4,,FHRS,10
-406185,22-24 Hanover Square,,Coagh,Co. Tyrone,Hanover House,Restaurant/Cafe/Canteen,1,10,,147442,10,,54.64706600000000,92,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.65628200000000,,2014-03-20,fhrs_3_en-GB,3,,FHRS,10
-406186,3 Ballyneill Road,,Moneymore,Co. Londonderry,Harry's Bar,Pub/bar/nightclub,7843,5,,118371,5,,54.70665700000000,477,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53984400000000,BT45 6JE,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-406187,123 Shore Road,Ballyronan,Magherafelt,Co. Londonderry,Hawthorne's Bar,Pub/bar/nightclub,7843,10,,78512,0,,54.70824300000000,187,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53133100000000,BT45 6JA,2013-07-30,fhrs_4_en-GB,4,,FHRS,0
-406188,21 Oldtown Street,,Cookstown,Co. Tyrone,Herron's (Country Fried Chicken),Takeaway/sandwich shop,7844,10,,92880,0,,54.64939400000000,264,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74509900000000,BT80 8EE,2013-12-04,fhrs_4_en-GB,4,,FHRS,10
-406189,9-29 Chapel Street,,Cookstown,Co. Tyrone,Holy Trinity College,School/college/university,7845,5,,126387,10,,54.64090900000000,554,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74463200000000,BT80 8QB,2013-10-09,fhrs_3_en-GB,3,,FHRS,10
-406190,Convent Road,Loy,Cookstown,Co. Tyrone,Holy Trinity Primary School (Key Stage 1),School/college/university,7845,5,,112622,0,,54.64278100000000,418,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74844700000000,BT80 8QA,2014-12-17,fhrs_5_en-GB,5,,FHRS,5
-406191,27 Millburn Street,,Cookstown,Co. Tyrone,Hutchinsons,Retailers - other,4613,5,,43558,10,,54.65099600000000,106,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74539000000000,BT80 8EG,2014-03-26,fhrs_4_en-GB,4,,FHRS,5
-406192,,,,,Hutton's Food Van,Mobile caterer,7846,5,,144497,5,,,833,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-09-13,fhrs_5_en-GB,5,,FHRS,5
-406193,Orritor Road,,Cookstown,Co. Tyrone,Iceland,Retailers - supermarkets/hypermarkets,7840,0,,700790,0,,54.65390700000000,1204,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.78743700000000,,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-406194,1 Union Place,,Cookstown,Co. Tyrone,International Food Shop,Retailers - other,4613,10,,144109,5,,54.64783200000000,822,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74341200000000,BT80 8NP,2011-02-10,fhrs_3_en-GB,3,,FHRS,10
-406195,33 James Street,,Cookstown,Co. Tyrone,J Hutton And Sons,Manufacturers/packers,7839,0,,109932,5,,54.64628900000000,398,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74534900000000,BT80 8AA,2014-12-16,fhrs_4_en-GB,4,,FHRS,10
-406196,7 The Square,,Stewartstown,Co. Tyrone,J N Sinclair,Retailers - supermarkets/hypermarkets,7840,,,69091,,,54.57067911000001,155,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.00730439000000,,2012-10-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-406197,Fairhill Road,Loy,Cookstown,Co. Tyrone,Jack And Jill Playgroup,School/college/university,7845,5,,71103,0,,54.64432600000000,161,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74754700000000,BT80 8AG,2014-12-15,fhrs_5_en-GB,5,,FHRS,5
-406198,44&46 Killymoon Street,Gortalowry,Cookstown,Co. Tyrone,JD And SE Harkness,Retailers - other,4613,10,,132743,0,,54.63491800000000,649,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74305100000000,BT80 8JZ,2014-11-21,fhrs_4_en-GB,4,,FHRS,5
-406199,39 William Street,,Cookstown,Co. Tyrone,Joseph's Restaurant,Restaurant/Cafe/Canteen,1,10,,107517,10,,54.64719100000000,380,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74572400000000,BT80 8BD,2013-12-16,fhrs_2_en-GB,2,,FHRS,15
-406200,100 Cookstown Road,,Dungannon,Co. Tyrone,Julie's Cozy Coffee,Restaurant/Cafe/Canteen,1,0,,681282,5,,54.56668400000000,1200,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.77789900000000,BT71 4BS,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-406201,146 Ballinderry Bridge Road,,Coagh,Co. Londonderry,K And M McCrystall,Retailers - other,4613,5,,134418,5,,54.66896500000000,678,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.54699400000000,BT80 0AY,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-406202,70 Molesworth Road,,Cookstown,Co. Tyrone,Karro (canteen),Restaurant/Cafe/Canteen,1,5,,134604,5,,54.64219700000000,681,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.73034200000000,BT80 8PJ,2013-10-21,fhrs_4_en-GB,4,,FHRS,10
-406203,91a Mullanahoe Road,,Dungannon,Co. Tyrone,Kc's Diner,Takeaway/sandwich shop,7844,5,,467522,10,,54.61321100000000,1071,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55826900000000,BT71 5AU,2014-08-21,fhrs_4_en-GB,4,,FHRS,5
-406204,19 Loy Street,,Cookstown,Co. Tyrone,Kiddiwinkles Day Care,Restaurant/Cafe/Canteen,1,5,,140209,0,,54.64353700000000,763,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74514000000000,BT80 8PZ,2013-05-28,fhrs_5_en-GB,5,,FHRS,5
-406205,8 Main Street,,Moneymore,Co. Londonderry,Kiddiwinkles Daycare (moneymore),Hospitals/Childcare/Caring Premises,5,5,,628512,5,,,1155,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-406206,226 Drum Road,,Cookstown,Co. Tyrone,Kildress Chip Shop,Restaurant/Cafe/Canteen,1,10,,115406,5,,54.64831500000000,446,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.86517800000000,BT80 9HP,2014-10-22,fhrs_4_en-GB,4,,FHRS,5
-406207,78 Main Street,,Pomeroy,Co. Tyrone,Kilpatrick's,Retailers - other,4613,,,107040,,,,376,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2011-10-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-406208,7 Kinturk Road,,Cookstown,Co. Tyrone,Kinturk Cultural Centre Ltd,Pub/bar/nightclub,7843,20,,119781,10,,54.65612400000000,489,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.52004100000000,BT80 0JD,2014-06-17,fhrs_1_en-GB,1,,FHRS,5
-406209,Sandholes Road,Knockaconny,Cookstown,Co. Tyrone,Lafarge Canteen,Restaurant/Cafe/Canteen,1,5,,63177,5,,54.62618400000000,14,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75945400000000,BT80 9AR,2013-10-30,fhrs_4_en-GB,4,,FHRS,10
-406210,15 Main Street,,Moneymore,Co. Londonderry,Lawrence Newsagents,Retailers - other,4613,,,116770,,,,460,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2012-09-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-406211,3 Main Street,,Coagh,Co. Tyrone,Leigh's Chippy,Takeaway/sandwich shop,7844,5,,467523,5,,54.64720200000000,866,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.61719000000000,BT80 0EN,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-406212,Molesworth Street,,Cookstown,Co. Tyrone,Lidl UK GmbH,Retailers - supermarkets/hypermarkets,7840,5,,104081,0,,54.64597400000000,353,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74330600000000,,2013-07-30,fhrs_5_en-GB,5,,FHRS,0
-406213,Clagan Road,Tullynure,Cookstown,Co. Londonderry,Lissan Cross Community Playgroup,School/college/university,7845,0,,79014,0,,,19,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-06-06,fhrs_5_en-GB,5,,FHRS,5
-406214,16 Churchtown Road,,Cookstown,Co. Londonderry,Lissan Go,Retailers - other,4613,0,,121891,0,,54.68403800000000,505,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75051100000000,BT80 9XD,2013-07-04,fhrs_5_en-GB,5,,FHRS,5
-406215,Lissan Road,Coolreaghs,Cookstown,Co. Tyrone,Lissan House,Restaurant/Cafe/Canteen,1,10,,580425,0,,,1028,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2013-06-24,fhrs_4_en-GB,4,,FHRS,0
-406216,6 Claggan Road,,Cookstown,Co. Londonderry,Lissan Primary School Meals Kitchen,School/college/university,7845,5,,128647,0,,54.68877200000000,588,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75573100000000,BT80 9XE,2014-06-06,fhrs_5_en-GB,5,,FHRS,5
-406217,45 Bridgend Road,,Coagh,Co. Londonderry,Little Acorns Playgroup,Hospitals/Childcare/Caring Premises,5,5,,623667,0,,54.65151200000000,1181,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.62330300000000,BT80 0AB,2014-11-20,fhrs_5_en-GB,5,,FHRS,5
-406218,47 Chapel Street,,Cookstown,Co. Tyrone,Lmc Fuels,Retailers - other,4613,,,580430,,,54.64090900000000,1146,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74463200000000,BT80 8QB,2014-11-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-406219,20 Dungannon Road,,Cookstown,Co. Tyrone,Loughry Agricultural College (Canteen),Restaurant/Cafe/Canteen,1,5,,92650,5,,54.63038000000000,262,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74376400000000,BT80 8TL,2013-07-23,fhrs_5_en-GB,5,,FHRS,5
-406220,13 Ballyneill Road,Ballyronan More,Ballyronan,Co. Londonderry,Loup Gaelic Football Club,Pub/bar/nightclub,7843,10,,117908,5,,54.70665700000000,472,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53984400000000,BT45 6JE,2013-11-18,fhrs_4_en-GB,4,,FHRS,5
-406221,119 Ruskey Road,,Coagh,Co. Londonderry,Loup School Meals Kitchen,School/college/university,7845,0,,77229,0,,54.69588600000000,181,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.59695300000000,BT45 7TS,2013-10-25,fhrs_5_en-GB,5,,FHRS,5
-406222,15&16 The Square,,Stewartstown,Co. Tyrone,Lowe Bros Quality Butchers,Manufacturers/packers,7839,,,131664,,,54.57705000000000,632,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.67630000000000,,2013-11-11,fhrs_5_en-GB,5,,FHRS,
-406223,2-4 Smith Street,,Moneymore,Co. Londonderry,Lucky Dragon,Takeaway/sandwich shop,7844,10,,482780,10,,54.69266900000000,1033,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66938200000000,BT45 7PF,2014-06-26,fhrs_3_en-GB,3,,FHRS,5
-406224,73 Church Street,,Cookstown,Co. Tyrone,Lucy's Loft,Restaurant/Cafe/Canteen,1,5,,198224,10,,54.63822700000000,908,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74420400000000,BT80 8HT,2013-10-10,fhrs_4_en-GB,4,,FHRS,5
-406225,37 Main Street,,Pomeroy,Co. Tyrone,M Donnelly And Sons,Manufacturers/packers,7839,10,,133910,15,,54.59305000000000,669,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.92346200000000,BT70 2QH,2013-05-21,fhrs_2_en-GB,2,,FHRS,10
-406226,14 The Diamond,,Pomeroy,Co. Tyrone,Mace,Retailers - other,4613,5,,41015,10,,54.70841832000000,102,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-7.59313669000000,,2014-06-23,fhrs_4_en-GB,4,,FHRS,5
-406227,124 Shore Road,Ballynaleney,Toomebridge,Co. Antrim,"Mace, Ballyronan",Retailers - other,4613,5,,73480,5,,54.71829100000000,169,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.45014400000000,BT41 3NR,2013-05-09,fhrs_5_en-GB,5,,FHRS,5
-406228,48 William Street,,Cookstown,Co. Tyrone,Macmahon Butchers,Manufacturers/packers,7839,5,,75608,5,,54.64737600000000,177,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74447900000000,BT80 8NB,2013-08-13,fhrs_5_en-GB,5,,FHRS,5
-406229,Molesworth Road,,Cookstown,Co. Tyrone,Mandarin Buffet,Restaurant/Cafe/Canteen,1,10,,145933,15,,54.64563400000000,878,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.73773200000000,BT80 8NR,2014-03-18,fhrs_2_en-GB,2,,FHRS,5
-406230,87 Westland Road South,,Cookstown,Co. Tyrone,Mandarin Express,Takeaway/sandwich shop,7844,10,,608659,10,,54.63937800000000,1168,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75444900000000,,2013-10-30,fhrs_3_en-GB,3,,FHRS,5
-406231,26 Upper Kildress Road,,Cookstown,Co. Tyrone,Manor View Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,5,,124466,5,,54.64577600000000,53,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.81115500000000,BT80 9RS,2013-08-02,fhrs_5_en-GB,5,,FHRS,5
-406232,Shore Road,Ballyronan,Magherafelt,Co. Londonderry,Marina Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,101018,10,,54.70824300000000,328,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53133100000000,BT45 6JA,2014-03-13,fhrs_4_en-GB,4,,FHRS,5
-406233,Unit A Orritor Road,,Cookstown,Co. Tyrone,Marks & Spencer,Retailers - supermarkets/hypermarkets,7840,0,,142331,0,,54.64846600000000,790,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75349300000000,BT80 8BH,2013-11-05,fhrs_5_en-GB,5,,FHRS,5
-406234,5 The Diamond,,Pomeroy,Co. Tyrone,McAleer Medical Hall,Retailers - other,4613,,,117749,,,54.59414000000000,470,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.92672900000000,BT70 2QX,2013-07-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-406235,17 James Street,,Cookstown,Co. Tyrone,Mcatamneys Butchers,Retailers - other,4613,5,,198228,5,,54.64628900000000,905,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74534900000000,BT80 8AA,2013-11-04,fhrs_5_en-GB,5,,FHRS,5
-406236,107 Mullanahoe Road,,Dungannon,Co. Tyrone,McConville's,Retailers - other,4613,5,,109484,10,,54.61886400000000,396,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55020500000000,BT71 5AX,2014-02-14,fhrs_4_en-GB,4,,FHRS,0
-406237,2 Dirnan Road,,Cookstown,Co. Londonderry,McCrory's Bar,Pub/bar/nightclub,7843,10,,78713,5,,54.70811000000000,188,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.76329900000000,BT80 9XL,2013-01-31,fhrs_4_en-GB,4,,FHRS,5
-406238,Sweep Road,Gortalowry,Cookstown,Co. Tyrone,McDonalds Restaurant,Takeaway/sandwich shop,7844,0,,114367,0,,54.63038000000000,434,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74376400000000,BT80 8TL,2013-08-01,fhrs_5_en-GB,5,,FHRS,5
-406239,Sweep Road,Gortalowry,Cookstown,Co. Tyrone,Mcgee's Butchers,Retailers - other,4613,5,,550731,0,,54.63038000000000,1087,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74376400000000,BT80 8TL,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-406240,10&12 James Street,,Cookstown,Co. Tyrone,McGlaughlin's Bakery,Manufacturers/packers,7839,5,,119649,10,,54.64632500000000,488,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74455800000000,BT80 8LW,2013-12-17,fhrs_3_en-GB,3,,FHRS,10
-406241,27 Drumenny Road,,Cookstown,Co. Tyrone,Mckenna's Todays,Retailers - other,4613,5,,130598,15,,54.65326100000000,619,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.56129800000000,BT80 0BX,2014-12-19,fhrs_2_en-GB,2,,FHRS,10
-406242,36 Drumballyhugh Road,The Rock,Dungannon,Co. Tyrone,McLernon - General Merchant,Retailers - other,4613,5,,63838,5,,54.58748100000000,141,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.83520600000000,BT70 3JA,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-406243,2 Lissan Road,,Cookstown,Co. Tyrone,Milburn Service Station,Retailers - supermarkets/hypermarkets,7840,10,,126606,5,,54.65295800000000,557,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74660000000000,BT80 8EN,2013-11-13,fhrs_3_en-GB,3,,FHRS,10
-406244,60 Dunnamore Road,,Cookstown,Co. Tyrone,Mill Wheel Bar,Pub/bar/nightclub,7843,5,,110698,10,,54.67509900000000,403,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.95125600000000,BT80 9NX,2013-06-24,fhrs_3_en-GB,3,,FHRS,10
-406245,86 31 Chapel Street,Gortalowry,Cookstown,Co. Tyrone,Moe's Bar,Pub/bar/nightclub,7843,5,,125001,0,,54.64110800000000,535,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74388200000000,BT80 8QD,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-406246,Northland Drive,,Moneymore,Co. Londonderry,Moneymore Nursery,Restaurant/Cafe/Canteen,1,5,,144467,0,,54.69544400000000,832,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66764700000000,BT45 7QT,2015-01-28,fhrs_5_en-GB,5,,FHRS,5
-406247,1c Smith Street,,Moneymore,Co. Londonderry,Moneymore Pharmacy,Retailers - other,4613,,,135466,,,54.69266900000000,692,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66938200000000,BT45 7PF,2014-09-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-406248,Northland Drive,,Moneymore,Co. Londonderry,Moneymore Primary School Meals Kitchen,School/college/university,7845,0,,62803,5,,54.69544400000000,139,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66764700000000,BT45 7QT,2013-09-18,fhrs_5_en-GB,5,,FHRS,5
-406249,Cookstown Road,,Moneymore,Co. Londonderry,Moneymore Private Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,120307,0,,54.68626200000000,493,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.68151600000000,BT45 7QF,2014-11-12,fhrs_5_en-GB,5,,FHRS,5
-406250,4 William Street,,Cookstown,Co. Tyrone,Morelli's,Retailers - other,4613,0,,700791,0,,54.64776500000000,1224,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74562900000000,BT80 8AX,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-406251,106 Thornhill Road,Gortvale,Dungannon,Co. Tyrone,Mr D Hayden,Pub/bar/nightclub,7843,5,,103737,0,,54.56732049789676,35,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.83852139225228,,2013-08-12,fhrs_5_en-GB,5,,FHRS,5
-406252,52c William Street,,Cookstown,Co. Tyrone,Mullan's Bar,Pub/bar/nightclub,7843,5,,97110,0,,54.64737600000000,300,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74447900000000,BT80 8NB,2014-12-10,fhrs_4_en-GB,4,,FHRS,10
-406253,33 Chapel Street,,Cookstown,Co. Tyrone,Mulligan's Bar,Pub/bar/nightclub,7843,10,,145308,10,,54.64090900000000,858,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74463200000000,BT80 8QB,2014-01-15,fhrs_4_en-GB,4,,FHRS,0
-406254,73 Molesworth Street,,Cookstown,Co. Tyrone,MUST Hostel,Restaurant/Cafe/Canteen,1,5,,84376,5,,54.64620900000000,21,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74116900000000,BT80 8PA,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-406255,36 Drumballyhugh Road,The Rock,Dungannon,Co. Tyrone,N McLernon,Pub/bar/nightclub,7843,10,,96358,0,,54.58748100000000,292,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.83520600000000,BT70 3JA,2013-07-25,fhrs_4_en-GB,4,,FHRS,5
-406256,46 Chapel Street,,Cookstown,Co. Tyrone,Naiscoil Eoghain,Hospitals/Childcare/Caring Premises,5,5,,141795,5,,54.64110800000000,783,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74388200000000,BT80 8QD,2013-05-10,fhrs_4_en-GB,4,,FHRS,10
-406257,6-8 Main Street,,Coagh,Co. Tyrone,Nearbuy Store,Retailers - other,4613,10,,86445,5,,54.64720200000000,220,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.61719000000000,BT80 0EN,2013-07-02,fhrs_4_en-GB,4,,FHRS,5
-406258,5 Main Street,,Coagh,Co. Tyrone,New Golden Future,Takeaway/sandwich shop,7844,10,,131176,10,,54.64720200000000,625,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.61719000000000,BT80 0EN,2014-03-27,fhrs_3_en-GB,3,,FHRS,5
-406259,2 Orritor Road Retail Park,,Cookstown,Co. Tyrone,New Look,Retailers - other,4613,,,145768,,,54.65581200000000,873,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.79702500000000,,2014-01-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-406260,14 Oldtown Street,,Cookstown,Co. Tyrone,O40 (age Concern),Restaurant/Cafe/Canteen,1,5,,145071,10,,54.64947400000000,850,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74582400000000,BT80 8EF,2014-03-25,fhrs_4_en-GB,4,,FHRS,5
-406261,16 Oaklands Road,,Cookstown,Co. Tyrone,Oaklands Lodge,Hotel/bed & breakfast/guest house,7842,5,,460111,0,,54.63328700000000,1035,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.81927800000000,BT80 9ED,2012-09-21,fhrs_5_en-GB,5,,FHRS,0
-406262,12 Oldtown Street,,Cookstown,Co. Tyrone,Oldtown Inn,Restaurant/Cafe/Canteen,1,5,,90524,0,,54.64947400000000,247,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74582400000000,BT80 8EF,2013-08-21,fhrs_4_en-GB,4,,FHRS,10
-406263,Littlebridge Road,,Coagh,Co. Londonderry,O'neills Filling Station,Retailers - other,4613,,,145375,,,54.64534200000000,860,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66031800000000,BT45 7XX,2013-08-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-406264,Orritor Road,Oritor,Cookstown,Co. Tyrone,Orritor Presbyterian Church Hall,Other catering premises,7841,,,137599,,,54.65860800000000,726,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.81976800000000,BT80 9NE,2013-12-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-406265,256 Orritor Road,,Cookstown,Co. Tyrone,Orritor School Meals Kitchen,School/college/university,7845,5,,76981,0,,54.65860800000000,180,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.81976800000000,BT80 9NE,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-406266,26 Dungannon Road,,Cookstown,Co. Tyrone,Otter Lodge,Restaurant/Cafe/Canteen,1,5,,103881,5,,54.63038000000000,351,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74376400000000,BT80 8TL,2013-10-24,fhrs_4_en-GB,4,,FHRS,10
-406267,6 Molesworth Street,,Cookstown,Co. Tyrone,Performance Nutrition Plus,Retailers - other,4613,,,655739,,,54.64588700000000,961,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74305300000000,BT80 8NX,2013-09-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-406268,80 Fountain Road,,Cookstown,Co. Tyrone,Phoenix Integrated Primary School,School/college/university,7845,10,,139871,0,,54.63980500000000,758,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74046900000000,BT80 8QF,2013-06-05,fhrs_4_en-GB,4,,FHRS,5
-406269,24 Loy Street,,Cookstown,Co. Tyrone,Pizza Deck,Restaurant/Cafe/Canteen,1,5,,642707,0,,54.64364500000000,1129,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74425300000000,BT80 8PE,2014-02-28,fhrs_4_en-GB,4,,FHRS,10
-406270,53 James Street,,Cookstown,Co. Tyrone,Pizza King Tyrone Ltd,Restaurant/Cafe/Canteen,1,5,,580426,0,,54.64548900000000,1040,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74537400000000,BT80 8AE,2013-06-17,fhrs_4_en-GB,4,,FHRS,10
-406271,Kilmascally Road,Mullanahoe,Dungannon,Co. Tyrone,Pizzarack,Takeaway/sandwich shop,7844,10,,580427,0,,54.61435800000000,1072,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53561300000000,BT71 5BJ,2013-07-03,fhrs_4_en-GB,4,,FHRS,10
-406272,18 Fairhill Road,,Cookstown,Co. Tyrone,Pizzeria,Takeaway/sandwich shop,7844,5,,97620,5,,54.64432600000000,304,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74754700000000,BT80 8AG,2013-09-25,fhrs_5_en-GB,5,,FHRS,5
-406273,5a Cavanakeeran Road,,Pomeroy,Co. Tyrone,Pomeroy Pre-School Playgroup,School/college/university,7845,5,,106189,0,,,368,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-11-07,fhrs_5_en-GB,5,,FHRS,0
-406274,5 Cavanakeeran Road,,Pomeroy,Co. Tyrone,Pomeroy Pre-school Playgroup & Afterschool,Hospitals/Childcare/Caring Premises,5,10,,143649,0,,54.59517300000000,812,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.93487100000000,BT70 2RD,2013-05-07,fhrs_4_en-GB,4,,FHRS,5
-406275,3 Edendoit Road,,Pomeroy,Co. Tyrone,Pomeroy School Meals Kitchen,School/college/university,7845,0,,106671,0,,54.59941100000000,372,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.91340700000000,BT70 2RW,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-406276,Molesworth Street,,Cookstown,Co. Tyrone,Pound Stretcher,Retailers - other,4613,5,,101113,0,,54.64597400000000,329,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74330600000000,,2013-02-13,fhrs_4_en-GB,4,,FHRS,10
-406277,26 James Street,,Cookstown,Co. Tyrone,Poundland,Retailers - other,4613,5,,144765,0,,54.64632500000000,842,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74455800000000,BT80 8LW,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-406278,13 Hanover Square,,Coagh,Co. Tyrone,Quality Meats,Manufacturers/packers,7839,5,,135359,5,,54.64706600000000,69,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.65628200000000,,2014-10-20,fhrs_4_en-GB,4,,FHRS,10
-406279,65 James Street,,Cookstown,Co. Tyrone,Quinns Bar,Pub/bar/nightclub,7843,5,,95954,5,,54.64548900000000,289,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74537400000000,BT80 8AE,2014-09-11,fhrs_5_en-GB,5,,FHRS,5
-406280,26-28 Main Street,Tullaghoge,Tullyhoge,Co. Tyrone,R L Hewitt,Retailers - other,4613,5,,50654,15,,54.60628300000000,113,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.72383100000000,BT80 8UA,2014-02-24,fhrs_2_en-GB,2,,FHRS,5
-406281,63-67 Union Street,Loy,Cookstown,Co. Tyrone,Railway Bar,Pub/bar/nightclub,7843,10,,96127,10,,54.64752000000000,290,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74193400000000,BT80 8NN,2013-10-31,fhrs_4_en-GB,4,,FHRS,0
-406282,4 Ardboe Road,,Cookstown,Co. Tyrone,Rainbo Chippy,Takeaway/sandwich shop,7844,10,,608660,15,,54.62886700000000,1174,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.51494600000000,BT80 0HT,2013-10-25,fhrs_2_en-GB,2,,FHRS,10
-406283,Burn Road,,Cookstown,Co. Tyrone,Ritz Cinema,Restaurant/Cafe/Canteen,1,10,,69904,0,,54.64705800000000,158,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74882800000000,,2013-01-31,fhrs_4_en-GB,4,,FHRS,5
-406284,56 Dunnamore Road,,Cookstown,Co. Tyrone,Rivervale Country Private Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,107390,0,,54.67193100000000,379,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.93617900000000,BT80 9NT,2014-02-21,fhrs_5_en-GB,5,,FHRS,5
-406285,38 The Square,,Stewartstown,Co. Tyrone,Roadside Tavern,Pub/bar/nightclub,7843,5,,145686,5,,54.57707900000000,870,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.67635400000000,BT71 5HX,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-406286,Tullyodonnell Road,Drummillard,Dungannon,Co. Tyrone,Rock Primary School (sacred Heart),School/college/university,7845,0,,128230,0,,54.59406300000000,581,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.83396600000000,BT70 3JE,2014-11-07,fhrs_5_en-GB,5,,FHRS,5
-406287,38 Drumgrass Road,,Cookstown,Co. Londonderry,Rossmore Bakery,Other catering premises,7841,,,482781,,,54.67876000000000,1039,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74312300000000,BT80 9UZ,2014-10-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-406288,59 Roughan Road,,Stewartstown,Co. Tyrone,Roughan Lough B&b,Hotel/bed & breakfast/guest house,7842,5,,145642,0,,54.56085400000000,869,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.72574500000000,BT71 4EW,2014-02-03,fhrs_5_en-GB,5,,FHRS,0
-406289,60 Ballymulligan Road,,Moneymore,Co. Londonderry,Saltersland Presbyterian Church Hall,Other catering premises,7841,,,145336,,,54.70890900000000,859,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.59585100000000,BT45 7TT,2014-06-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-406290,101 Main Street,,Pomeroy,Co. Tyrone,Silver Chopsticks,Takeaway/sandwich shop,7844,10,,106939,10,,54.59424300000000,375,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.92825800000000,BT70 2QN,2013-03-27,fhrs_3_en-GB,3,,FHRS,10
-406291,92 Church Street,,Cookstown,Co. Tyrone,Sinley,Takeaway/sandwich shop,7844,5,,133521,0,,54.63664500000000,663,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74326100000000,BT80 8HX,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-406292,28 Littlebridge Road,,Coagh,Co. Londonderry,Sit And Sip,Pub/bar/nightclub,7843,10,,96426,0,,54.64534200000000,293,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66031800000000,BT45 7XX,2013-04-23,fhrs_4_en-GB,4,,FHRS,5
-406293,22 Molesworth Road,,Cookstown,Co. Tyrone,Small World Day Nursery,School/college/university,7845,5,,71723,0,,54.64563400000000,163,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.73773200000000,BT80 8NR,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-406294,140 Moneymore Road,,Cookstown,Co. Londonderry,So- Low Fuels,Retailers - other,4613,10,,558994,0,,54.66192900000000,1034,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.72467400000000,BT80 9UU,2013-06-04,fhrs_4_en-GB,4,,FHRS,5
-406295,Flo Road,,Cookstown,Co. Tyrone,So-low Fuels,Retailers - other,4613,,,198229,,,54.65290300000000,1015,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.86680100000000,BT80 9HZ,2012-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-406296,40 Hillhead,,Stewartstown,Co. Tyrone,Spar,Retailers - other,4613,5,,131477,5,,54.57510100000000,630,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.67703700000000,BT71 5HY,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-406297,87 Westland Road South,,Cookstown,Co. Tyrone,Spar,Retailers - other,4613,5,,146969,0,,54.63937800000000,904,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75444900000000,,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-406298,59 Church Street,Gortalowry,Cookstown,Co. Tyrone,"Spar, Church Street",Retailers - supermarkets/hypermarkets,7840,10,,74755,5,,54.63822700000000,173,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74420400000000,BT80 8HT,2013-05-10,fhrs_3_en-GB,3,,FHRS,10
-406299,43 Lawford Street,,Moneymore,Co. Londonderry,"Spar, Lawford St",Retailers - other,4613,,,140256,,,54.69385200000000,764,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.67075500000000,BT45 7QS,2014-01-10,fhrs_3_en-GB,3,,FHRS,
-406300,1 Springhill Road,Ballindrum,Moneymore,Co. Londonderry,Springhill House - Cafe,Restaurant/Cafe/Canteen,1,5,,94309,0,,54.68582500000000,275,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.65731000000000,BT45 7NQ,2014-10-20,fhrs_5_en-GB,5,,FHRS,5
-406301,50 Lower Grange Road,,Cookstown,Co. Tyrone,St Andrew's Parish Church,Other catering premises,7841,,,642712,,,54.61347400000000,1185,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.70722900000000,BT80 8SL,2014-02-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-406302,9 Cloughfin Road,,Cookstown,Co. Tyrone,"St Joseph's Primary School, Kileenan",School/college/university,7845,0,,87274,0,,54.64647200000000,225,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.87850500000000,BT80 9JB,2014-11-21,fhrs_5_en-GB,5,,FHRS,5
-406303,75 Moneyhaw Road,,Moneymore,Co. Londonderry,St Malachy's Primary School Meals Kitchen,School/college/university,7845,0,,134127,0,,54.65480300000000,673,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66530600000000,BT45 7XR,2013-06-07,fhrs_5_en-GB,5,,FHRS,5
-406304,5 Cavanakeeran Road,,Pomeroy,Co. Tyrone,St Mary's Primary School (pomeroy),School/college/university,7845,5,,150329,0,,54.59517300000000,98,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.93487100000000,BT70 2RD,2013-10-02,fhrs_5_en-GB,5,,FHRS,5
-406305,22 West Street,,Stewartstown,Co. Tyrone,St Mary's Primary School Meals Kitchen,School/college/university,7845,0,,132947,0,,54.57751000000000,652,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.67881500000000,BT71 5HT,2014-06-25,fhrs_5_en-GB,5,,FHRS,5
-406306,40 Dunnamore Road,,Cookstown,Co. Tyrone,"St Mary's Primary School Meals Kitchen, Dunnamore",School/college/university,7845,5,,135304,0,,54.67193100000000,689,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.93617900000000,BT80 9NT,2014-06-23,fhrs_5_en-GB,5,,FHRS,5
-406307,9 Springhill Road,,Moneymore,Co. Londonderry,St Patrick's Primary School Meals Kitchen,School/college/university,7845,0,,42100,5,,54.69003600000000,104,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.66352900000000,BT45 7NG,2014-11-06,fhrs_5_en-GB,5,,FHRS,5
-406308,75 Mullanahoe Road,,Dungannon,Co. Tyrone,"St Patrick's Primary School, Ardboe",School/college/university,7845,5,,135255,0,,54.61321100000000,688,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55826900000000,BT71 5AU,2013-06-03,fhrs_5_en-GB,5,,FHRS,5
-406309,24 Ardboe Road,,Cookstown,Co. Tyrone,St Peter's School Meals Kitchen,School/college/university,7845,0,,117569,0,,54.62886700000000,468,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.51494600000000,BT80 0HT,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-406310,35 Loy Street,,Cookstown,Co. Tyrone,St Vincent De Paul,Other catering premises,7841,0,,56209,0,,54.64353700000000,127,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74514000000000,BT80 8PZ,2013-07-23,fhrs_5_en-GB,5,,FHRS,5
-406311,64-66 Main Street,,Pomeroy,Co. Tyrone,Stepz Restaurant,Restaurant/Cafe/Canteen,1,5,,143707,10,,54.59409100000000,813,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.92833900000000,BT70 2QP,2012-12-13,fhrs_3_en-GB,3,,FHRS,10
-406312,33 Hillhead,,Stewartstown,Co. Tyrone,Stewartstown Primary School,School/college/university,7845,5,,137170,0,,54.57594100000000,719,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.67684200000000,,2013-11-29,fhrs_4_en-GB,4,,FHRS,10
-406313,1 William Street,,Cookstown,Co. Tyrone,Subway,Restaurant/Cafe/Canteen,1,0,,129550,0,,54.64768300000000,604,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74557000000000,BT80 8AX,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-406314,6-12 Burn Road,,Cookstown,Co. Tyrone,Super Valu,Retailers - supermarkets/hypermarkets,7840,5,,146648,5,,54.64690900000000,9,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74804100000000,BT80 8DN,2014-09-02,fhrs_4_en-GB,4,,FHRS,10
-406315,45 James Street,,Cookstown,Co. Tyrone,Superdrug Stores Plc,Retailers - other,4613,,,111799,,,54.64548900000000,411,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74537400000000,BT80 8AE,2012-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-406316,13 Oldtown Street,,Cookstown,Co. Tyrone,Superstars Club,Pub/bar/nightclub,7843,,,550733,,,54.64939400000000,1110,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74509900000000,BT80 8EE,2013-03-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-406317,44-46 William Street,,Cookstown,Co. Tyrone,T Sheehy And Son,Retailers - other,4613,,,91339,,,54.64737600000000,252,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74447900000000,BT80 8NB,2012-10-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-406318,135b Shore Road,Ballyronan,Magherafelt,Co. Londonderry,Tabbda,Other catering premises,7841,,,642710,,,54.70824300000000,1173,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53133100000000,BT45 6JA,2014-02-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-406319,3a Bridgend,,Coagh,Co. Londonderry,Tamlaght Parish Hall,Other catering premises,7841,,,608655,,,54.65004800000000,1081,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.62177200000000,BT80 0EJ,2014-09-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-406320,67 31 Chapel Street,Gortalowry,Cookstown,Co. Tyrone,Tasty Bites,Takeaway/sandwich shop,7844,5,,134701,0,,54.63516000000000,682,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74502500000000,,2013-10-02,fhrs_5_en-GB,5,,FHRS,5
-406321,Orritor Road,,Cookstown,Co. Tyrone,Tesco Stores Ltd Broadfields,Retailers - supermarkets/hypermarkets,7840,0,,107838,0,,54.65390700000000,382,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.78743700000000,,2014-03-28,fhrs_5_en-GB,5,,FHRS,5
-406322,76-78 Burn Road,,Cookstown,Co. Tyrone,The Bar,Pub/bar/nightclub,7843,5,,550732,0,,54.64706200000000,1088,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75152200000000,BT80 8DR,2013-03-26,fhrs_5_en-GB,5,,FHRS,5
-406323,201 Battery Road,,Cookstown,Co. Tyrone,The Battery Bar,Pub/bar/nightclub,7843,0,,78083,0,,54.63239400000000,185,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.50656300000000,BT80 0HY,2013-08-02,fhrs_5_en-GB,5,,FHRS,5
-406324,Sandholes Road,,Cookstown,Co. Tyrone,The Bistro,Restaurant/Cafe/Canteen,1,10,,70803,5,,54.63080100000000,160,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75934500000000,BT80 9LU,2013-10-11,fhrs_4_en-GB,4,,FHRS,5
-406325,27 Molesworth Street,,Cookstown,Co. Tyrone,The Black Horse Bar,Pub/bar/nightclub,7843,5,,128822,0,,54.64593300000000,591,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74316000000000,BT80 8NX,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-406326,,,,,The Candy Box,Retailers - other,4613,,,127739,,,,573,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2012-11-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-406327,27 James Street,,Cookstown,Co. Tyrone,The Cartwheel Bar,Pub/bar/nightclub,7843,5,,110932,0,,54.64628900000000,405,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74534900000000,BT80 8AA,2013-08-21,fhrs_5_en-GB,5,,FHRS,5
-406328,30 William Street,,Cookstown,Co. Tyrone,The Central Bar,Pub/bar/nightclub,7843,10,,127816,5,,54.64737600000000,574,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74447900000000,BT80 8NB,2013-07-25,fhrs_4_en-GB,4,,FHRS,5
-406329,103 Mullanahoe Road,,Dungannon,Co. Tyrone,The Central Takeaway,Takeaway/sandwich shop,7844,10,,93377,5,,54.61321100000000,268,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55826900000000,BT71 5AU,2013-12-04,fhrs_3_en-GB,3,,FHRS,10
-406330,149 Ballinderry Bridge Road,,Coagh,Co. Londonderry,The Corner Bar,Pub/bar/nightclub,7843,5,,143499,0,,54.66896500000000,81,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.54699400000000,BT80 0AY,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-406331,66a Drumconvis Road,,Coagh,Co. Tyrone,The Corner Filling Station,Retailers - other,4613,,,145426,,,54.63924500000000,862,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.59173300000000,BT80 0HF,2014-05-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-406332,120 Main Street,,Pomeroy,Co. Tyrone,The Corner Shop,Retailers - other,4613,10,,106751,0,,54.59409100000000,373,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.92833900000000,BT70 2QP,2013-01-31,fhrs_4_en-GB,4,,FHRS,5
-406333,102 Loup Road,,Moneymore,Co. Londonderry,The Country House,Pub/bar/nightclub,7843,5,,142323,0,,54.69808400000000,79,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.60526800000000,BT45 7ST,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-406334,56a William Street,,Cookstown,Co. Tyrone,The Courtyard Restaurant,Restaurant/Cafe/Canteen,1,5,,134888,5,,54.64737600000000,684,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74447900000000,BT80 8NB,2014-09-09,fhrs_5_en-GB,5,,FHRS,5
-406335,164 Mullanahoe Road,,Dungannon,Co. Tyrone,The Diamond Chinese,Takeaway/sandwich shop,7844,,,104744,,,54.61886400000000,358,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55020500000000,BT71 5AX,2014-01-23,fhrs_4_en-GB,4,,FHRS,
-406336,2-4 Main Street,,Moneymore,Co. Londonderry,The Drapers Arms,Pub/bar/nightclub,7843,5,,97864,0,,,306,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-406337,Killymoon Road,Killymoon Demesne,Cookstown,Co. Tyrone,The Fairways Restaurant,Restaurant/Cafe/Canteen,1,5,,135983,0,,54.63542900000000,7,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.73600400000000,BT80 8TW,2014-01-17,fhrs_4_en-GB,4,,FHRS,10
-406338,1 Tullynure Road,,Cookstown,Co. Londonderry,The Farmer's Rest,Pub/bar/nightclub,7843,5,,110559,0,,54.68971800000000,402,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.76655700000000,BT80 9XH,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-406339,11 Oldtown Street,,Cookstown,Co. Tyrone,The Glenngary Takeaway,Takeaway/sandwich shop,7844,10,,93777,10,,54.64939400000000,270,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74509900000000,BT80 8EE,2011-12-20,fhrs_3_en-GB,3,,FHRS,10
-406340,14 Main Street,,Moneymore,Co. Londonderry,The Golden Chip,Takeaway/sandwich shop,7844,,,149390,,,,96,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-07-16,fhrs_5_en-GB,5,,FHRS,
-406341,34 The Square,,Stewartstown,Co. Tyrone,The Golden Fry,Takeaway/sandwich shop,7844,0,,93029,0,,54.57153502000000,265,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.00832533000000,,2014-10-22,fhrs_4_en-GB,4,,FHRS,10
-406342,50 James Street,,Cookstown,Co. Tyrone,The Granary,Restaurant/Cafe/Canteen,1,,,133685,,,54.64496700000000,666,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74439900000000,BT80 8LT,2014-11-12,fhrs_5_en-GB,5,,FHRS,
-406343,20 The Diamond,,Pomeroy,Co. Tyrone,The Institute Of Irish Leadership (coffee Shop),Restaurant/Cafe/Canteen,1,,,145521,,,54.59414000000000,865,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.92672900000000,BT70 2QX,2013-03-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-406344,52 Millburn Street,,Cookstown,Co. Tyrone,The Original Golden Bowl,Takeaway/sandwich shop,7844,,,93991,,,54.65099600000000,272,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74539000000000,BT80 8EG,2013-10-08,fhrs_4_en-GB,4,,FHRS,
-406345,19 Burn Road,,Cookstown,Co. Tyrone,The Royal British Legion Club,Pub/bar/nightclub,7843,10,,125605,0,,54.64690900000000,541,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74804100000000,BT80 8DN,2013-11-06,fhrs_4_en-GB,4,,FHRS,10
-406346,64 Coagh Street,,Cookstown,Co.Tyrone,The Royal Hotel,Hotel/bed & breakfast/guest house,7842,,,76109,,,,179,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-03-27,fhrs_5_en-GB,5,,FHRS,
-406347,52a James Street,,Cookstown,Co. Tyrone,The Shish Mahal,Takeaway/sandwich shop,7844,,,79963,,,54.64496700000000,193,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74439900000000,BT80 8LT,2014-08-28,fhrs_3_en-GB,3,,FHRS,
-406348,19 Molesworth Street,,Cookstown,Co. Tyrone,The Thatch Bar,Pub/bar/nightclub,7843,10,,144025,0,,54.64593300000000,82,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74316000000000,BT80 8NX,2013-02-04,fhrs_4_en-GB,4,,FHRS,10
-406349,111 Mullanahoe Road,,Dungannon,Co. Tyrone,The Tilley Lamp,Restaurant/Cafe/Canteen,1,5,,133614,10,,54.61886400000000,665,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55020500000000,BT71 5AX,2014-02-17,fhrs_4_en-GB,4,,FHRS,5
-406350,,,,,The Top Notch,Mobile caterer,7846,0,,122351,0,,,509,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-406351,3a Ballyneill Road,Ballyronan,Moneymore,Co. Londonderry,The Village Chippy,Restaurant/Cafe/Canteen,1,5,,77442,5,,54.70665700000000,182,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53984400000000,BT45 6JE,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-406352,119 Shore Road,Ballyronan,Magherafelt,Co. Londonderry,The Village Fuel Depot,Retailers - other,4613,,,114001,,,54.70824300000000,430,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.53133100000000,BT45 6JA,2014-09-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-406353,3 Burn Road,,Cookstown,Co. Tyrone,The White Pheasant,Restaurant/Cafe/Canteen,1,5,,115611,10,,54.64698500000000,448,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74666000000000,BT80 8DJ,2013-07-10,fhrs_4_en-GB,4,,FHRS,5
-406354,38 The Square,,Stewartstown,Co. Tyrone,The Wine Rack,Retailers - other,4613,,,102076,,,54.57167465000000,337,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.00846014000000,,2012-10-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-406355,40-42 James Street,,Cookstown,Co. Tyrone,Time,Restaurant/Cafe/Canteen,1,5,,558993,10,,54.64496700000000,1029,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74439900000000,BT80 8LT,2013-05-28,fhrs_3_en-GB,3,,FHRS,10
-406356,30 Drumenny Road,,Cookstown,Co. Tyrone,Time For Two's Creche,Hospitals/Childcare/Caring Premises,5,0,,145036,0,,54.65326100000000,849,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.56129800000000,BT80 0BX,2014-09-12,fhrs_5_en-GB,5,,FHRS,5
-406357,40 Dunnamore Road,,Cookstown,Co. Tyrone,Time For Two's Creche Dunnamore,Hospitals/Childcare/Caring Premises,5,5,,198225,0,,54.67193100000000,916,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.93617900000000,BT80 9NT,2012-11-07,fhrs_5_en-GB,5,,FHRS,5
-406358,44 Fairhill Road,,Cookstown,Co. Tyrone,Time For Two's Holy Trinity,School/college/university,7845,5,,608656,5,,54.64432600000000,1111,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74754700000000,BT80 8AG,2014-11-13,fhrs_5_en-GB,5,,FHRS,0
-406359,2c Park Avenue,,Cookstown,Co. Tyrone,Tiny Steps Creche,Hospitals/Childcare/Caring Premises,5,0,,87438,0,,54.64541800000000,226,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74974400000000,BT80 8AH,2013-05-22,fhrs_4_en-GB,4,,FHRS,10
-406360,33a Hillhead,,Stewartstown,Co. Tyrone,Tiny Tots Community Playgroup,School/college/university,7845,5,,79259,0,,54.57594100000000,190,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.67684200000000,,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-406361,28 Dunnamore Road,,Cookstown,Co. Tyrone,Tiny Tots Pre-school Education Centre,Hospitals/Childcare/Caring Premises,5,5,,144354,0,,54.66755400000000,829,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.91868600000000,BT80 9NR,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-406362,17 Ardboe Road,,Cookstown,Co. Tyrone,Today's Local (kelly's),Retailers - other,4613,20,,87113,15,,54.62886700000000,224,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.51494600000000,BT80 0HT,2013-09-17,fhrs_1_en-GB,1,,FHRS,10
-406363,60 Dunnamore Road,,Cookstown,Co. Tyrone,Today's Local- Loughran's Shop,Retailers - supermarkets/hypermarkets,7840,5,,127417,10,,54.67509900000000,567,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.95125600000000,BT80 9NX,2013-05-20,fhrs_3_en-GB,3,,FHRS,10
-406364,40 Tullylagan Road,,Cookstown,Co. Tyrone,Tullylagan Country House,Hotel/bed & breakfast/guest house,7842,0,,136637,10,,54.59405500000000,71,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.77410800000000,BT80 8UP,2013-08-28,fhrs_4_en-GB,4,,FHRS,10
-406365,40b Tullylagan Road,Sandholes,Cookstown,Co. Tyrone,Tullylagan Wine Bar,Restaurant/Cafe/Canteen,1,10,,125294,10,,54.59405500000000,538,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.77410800000000,BT80 8UP,2014-11-27,fhrs_3_en-GB,3,,FHRS,10
-406366,58 James Street,,Cookstown,Co. Tyrone,Turkish Kebab House,Takeaway/sandwich shop,7844,20,,88341,10,,54.64496700000000,231,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74439900000000,BT80 8LT,2013-12-19,fhrs_1_en-GB,1,,FHRS,15
-406367,75 Mullanahoe Road,,Dungannon,Co. Tyrone,Twinkle Playgroup At St Patricks Ps,Hospitals/Childcare/Caring Premises,5,5,,310228,0,,54.61321100000000,917,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.55826900000000,BT71 5AU,2013-09-06,fhrs_5_en-GB,5,,FHRS,5
-406368,44 Loy Street,,Cookstown,Co. Tyrone,Villa Vinci,Restaurant/Cafe/Canteen,1,10,,460109,10,,54.64364500000000,1014,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74425300000000,BT80 8PE,2014-09-25,fhrs_3_en-GB,3,,FHRS,10
-406369,30a High Street,,Moneymore,Co. Londonderry,Vintage Tea Room,Restaurant/Cafe/Canteen,1,5,,642708,0,,54.69158500000000,1130,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.67041000000000,BT45 7PD,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-406370,55 Union Street,,Cookstown,Co. Tyrone,Viva Bingo,Restaurant/Cafe/Canteen,1,,,114742,,,54.64752000000000,439,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74193400000000,BT80 8NN,2014-10-02,fhrs_5_en-GB,5,,FHRS,
-406371,11 Main Street,,Moneymore,Co. Londonderry,Vivo Essentials,Retailers - other,4613,5,,149950,10,,,97,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-08-20,fhrs_4_en-GB,4,,FHRS,5
-406372,104 Loup Road,,Moneymore,Co. Londonderry,Vivo Loup,Retailers - supermarkets/hypermarkets,7840,5,,68793,0,,54.69808400000000,154,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.60526800000000,BT45 7ST,2014-11-06,fhrs_5_en-GB,5,,FHRS,5
-406373,2 Ardboe Road,,Cookstown,Co. Tyrone,W J Lavery And Donal Lavery,Pub/bar/nightclub,7843,5,,85148,0,,54.62886700000000,213,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.51494600000000,BT80 0HT,2014-09-11,fhrs_5_en-GB,5,,FHRS,5
-406374,27 Sweep Road,,Cookstown,Co. Tyrone,Washingford Day Care,Hospitals/Childcare/Caring Premises,5,5,,704740,5,,54.63392900000000,1226,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74642700000000,BT80 8JW,2014-09-16,fhrs_5_en-GB,5,,FHRS,0
-406375,Moneymore Road,,Cookstown,Co. Tyrone,Weaver's House Care Home,Hospitals/Childcare/Caring Premises,5,5,,460110,10,,,1031,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,,,2014-03-11,fhrs_4_en-GB,4,,FHRS,5
-406376,20 Wellbrook Road,,Cookstown,Co. Tyrone,Wellbrook Cottage,Restaurant/Cafe/Canteen,1,,,101977,,,54.65151200000000,336,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.83664400000000,BT80 9RY,2012-03-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-406377,Westland Road,,Cookstown,Co. Tyrone,Westlands Old People's Home,Hospitals/Childcare/Caring Premises,5,5,,126339,5,,54.64722000000000,553,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.75556000000000,BT80 8BY,2014-10-22,fhrs_4_en-GB,4,,FHRS,10
-406378,88 Chapel Street,,Cookstown,Co. Tyrone,Wine Market,Retailers - other,4613,,,74048,,,54.64110800000000,170,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74388200000000,BT80 8QD,2013-05-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-406379,48b Molesworth Street,,Cookstown,Co. Tyrone,Woodlands Beacon Centre,Other catering premises,7841,5,,141214,0,,54.64620900000000,776,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74116900000000,BT80 8PA,2013-07-25,fhrs_5_en-GB,5,,FHRS,0
-406380,38 Oaklea Road,,Magherafelt,Co. Londonderry,Woods School Meals Kitchen,School/college/university,7845,0,,107655,0,,54.71974600000000,381,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.54727300000000,BT45 6HX,2013-05-31,fhrs_5_en-GB,5,,FHRS,5
-406381,8 Tullylagan Road,Sandholes,Cookstown,Co. Tyrone,XL Stop And Shop,Retailers - other,4613,10,,74524,0,,54.59409600000000,172,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.77546900000000,BT80 9AZ,2013-05-23,fhrs_4_en-GB,4,,FHRS,5
-406382,8 The Square,,Stewartstown,Co. Tyrone,XL Stop And Shop (Daly's),Retailers - other,4613,0,,99741,0,,54.57057859000000,317,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.00713652000000,,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-406383,22 Dungannon Road,,Cookstown,Co. Tyrone,Xl Stop And Shop (dungannon Road),Retailers - other,4613,5,,125722,15,,54.63038000000000,543,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74376400000000,BT80 8TL,2013-05-31,fhrs_2_en-GB,2,,FHRS,10
-406384,82 Church Street,,Cookstown,Co. Tyrone,Yau's Steakhouse,Takeaway/sandwich shop,7844,10,,623666,5,,54.63664500000000,1180,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74326100000000,BT80 8HX,2013-12-12,fhrs_3_en-GB,3,,FHRS,10
-406385,47 James Street,,Cookstown,Co. Tyrone,Your Local Boots Pharmacy,Retailers - other,4613,,,133478,,,54.64548900000000,662,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74537400000000,BT80 8AE,2014-09-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-406386,52 Union Street,,Cookstown,Co. Tyrone,Your Store,Retailers - other,4613,10,,133372,10,,54.64752000000000,66,811,envhealth@cookstown.gov.uk,Cookstown,http://www.cookstown.gov.uk/,-6.74193400000000,BT80 8NN,2014-12-03,fhrs_3_en-GB,3,,FHRS,10
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+406065,A & A Catering,4,10,5,5,2014-09-11,,
+406066,A29 Service Station,5,5,5,5,2014-09-23,54.613509,-6.749872
+406067,Adventure World,4,10,5,5,2014-12-18,54.635217,-6.755416
+406068,Allen Meats,3,10,10,5,2012-11-29,54.645933,-6.74316
+406069,Alliance Boots Pharmacy,Exempt,nan,nan,nan,2011-05-12,54.647062,-6.751522
+406070,Americana,4,10,0,10,2013-01-30,54.690496,-6.668616
+406071,Antonio's Pizzeria,5,5,5,5,2014-06-26,54.692669,-6.669382
+406072,Ardeala B And B Accommodation,4,5,0,10,2013-03-08,54.698792,-6.532045
+406073,Argos Store,Exempt,nan,nan,nan,2013-07-30,54.645974,-6.743306
+406074,Asda,3,5,10,10,2014-12-16,54.63038,-6.743764
+406075,Asda Petrol Station,4,5,0,10,2013-02-08,54.63038,-6.743764
+406076,Avondale B And B,5,0,0,5,2012-10-22,54.605635,-6.748659
+406077,B & M Bargains,4,0,10,10,2013-02-14,,
+406078,Ballinderry Bridge Playgroup,5,5,0,5,2014-06-20,54.661155,-6.560244
+406079,Ballygoney Presbyterian Church Hall,Exempt,nan,nan,nan,2013-07-05,54.648222,-6.643043
+406080,Ballylifford Primary School,5,5,0,0,2013-11-26,54.668965,-6.546994
+406081,Ballyronan Play Group And Marina Kids After Schools Club,5,nan,nan,nan,2014-12-19,,
+406082,Ballytrea Primary School,5,5,0,0,2014-06-20,54.607148,-6.642259
+406083,Bardo's,4,5,5,10,2012-02-01,54.649394,-6.745099
+406084,Bea Cafe,1,10,10,20,2014-02-20,54.648357,-6.74733
+406085,Beacon Playgroup And After School Club,5,5,0,0,2014-06-06,54.651291,-6.75133
+406086,Belfast House,3,10,10,10,2013-08-15,54.648357,-6.74733
+406087,Bengal Spice,1,15,15,20,2013-08-29,54.646985,-6.74666
+406088,Bluebells Restaurant,5,5,0,5,2014-03-11,54.613548,-6.746744
+406089,Bon Appetit,5,0,5,5,2013-07-19,,
+406090,Boots Stores Ltd,Exempt,nan,nan,nan,2014-11-12,54.646289,-6.745349
+406091,Bosco Playgroup,5,0,0,5,2013-09-24,54.643645,-6.744253
+406092,Braeside Costcutter,4,10,5,5,2013-10-30,54.656473,-6.800011
+406093,Braeside Wine Bar,4,5,0,10,2013-05-16,54.656473,-6.800011
+406094,Brewery Grill,3,10,10,5,2014-03-04,54.647376,-6.744479
+406095,Brewery Lane Bar,4,5,0,10,2013-02-04,54.647376,-6.744479
+406096,Bridge Farm Potatoes,Exempt,nan,nan,nan,2013-12-06,54.686262,-6.681516
+406097,Bridie's,5,nan,nan,nan,2014-10-23,54.653991,-6.556949
+406098,Broughderg Community Centre,Exempt,nan,nan,nan,2014-11-13,54.7219,-6.98475
+406099,Brown Sugar,3,10,10,10,2013-09-16,54.647376,-6.744479
+406100,Buddies After School Club,5,5,0,0,2014-06-06,54.639561,-6.73408
+406101,Buddies Out Of Schools Club,5,0,0,0,2014-11-24,54.607585,-6.528257
+406102,Burn Road Service Station,5,5,5,5,2013-03-26,54.647062,-6.751522
+406103,Cafe Tempest,3,10,10,10,2013-07-05,54.653907,-6.787437
+406104,Calories Take-Away,5,5,0,5,2013-12-12,54.692669,-6.669382
+406105,Care Bear Creche,5,nan,nan,nan,2014-01-10,54.641108,-6.743882
+406106,Care Bear Creche,5,5,5,5,2014-02-28,54.635217,-6.755416
+406107,Central Inn,5,nan,nan,nan,2014-10-02,54.647683,-6.74557
+406108,Charis Cancer Care,Exempt,nan,nan,nan,2013-11-12,54.730036,-6.821603
+406109,Cherie's Cafe,5,0,0,5,2013-11-15,54.639805,-6.740469
+406110,China Man,2,10,15,10,2013-07-03,,
+406111,Chippy Van,5,5,5,5,2014-06-12,,
+406112,Chopsticks,3,10,10,10,2014-01-16,,
+406113,Chuck Wagon,4,10,5,5,2013-09-26,54.636645,-6.743261
+406114,Churchtown Primary School,5,5,5,5,2013-06-24,54.683479,-6.740822
+406115,Claggan Presbyterian Church Hall,Exempt,nan,nan,nan,2014-09-08,54.704942,-6.781345
+406116,Cloughbane Farm (shop),5,5,5,5,2013-09-26,54.582487,-6.871324
+406117,Clubland,4,5,10,5,2013-02-04,54.645933,-6.74316
+406118,Coagh Pharmacies,Exempt,nan,nan,nan,2014-08-28,54.647202,-6.61719
+406119,Coagh Presbyterian Church Hall,Exempt,nan,nan,nan,2014-05-21,54.646925,-6.619678
+406120,Coagh Primary School Meals Kitchen,5,5,0,5,2013-09-06,54.646925,-6.619678
+406121,Coagh Utd Football Club,4,10,0,5,2013-07-10,54.648506,-6.606363
+406122,Cookstown Adult Centre,4,5,0,10,2013-03-01,54.646821,-6.756874
+406123,Cookstown Cafe,3,10,10,10,2013-05-23,54.647683,-6.74557
+406124,Cookstown Day Centre,5,5,0,5,2014-01-22,54.646821,-6.756874
+406125,Cookstown High School Meals Kitchen,4,10,5,0,2013-06-26,54.643346,-6.737075
+406126,Cookstown Hockey Club,4,10,5,5,2013-07-30,54.644129,-6.733686
+406127,Cookstown Nursery School Meals Kitchen,5,5,0,0,2014-12-18,54.64338,-6.741272
+406128,Cookstown Presbyterian Church Hall,Exempt,nan,nan,nan,2014-11-11,54.645489,-6.745374
+406129,Cookstown Primary School Meals Kitchen,4,10,0,0,2013-12-11,54.64338,-6.741272
+406130,Cookstown Sizzler,4,5,5,10,2014-06-02,,
+406131,Copelands Ltd,5,5,0,0,2014-09-04,54.628238,-6.749096
+406132,Corner Bar,5,5,0,5,2013-09-24,54.594091,-6.928339
+406133,Corner Cake Shop,3,10,10,10,2014-03-25,54.649474,-6.745824
+406134,"Costcutters, Ardboe",4,5,10,5,2014-03-20,54.634132,-6.521553
+406135,"Costcutters, Cookstown",4,5,10,5,2013-08-21,54.652145,-6.749584
+406136,"Costcutters, Pomeroy",5,0,5,5,2014-06-26,,
+406137,Country Fryer,4,5,5,10,2014-06-30,54.698084,-6.605268
+406138,Cove Bar,4,10,0,5,2012-08-01,54.708243,-6.531331
+406139,Cove Manor Private Nursing Home,5,5,0,0,2014-09-12,54.613211,-6.558269
+406140,Coyle's Cottage,Exempt,nan,nan,nan,2014-09-01,54.645862,-6.521344
+406141,Crievagh Primary School,5,5,0,0,2014-02-28,54.684759,-6.796882
+406142,Cuppa Tinos,5,5,5,5,2014-06-19,54.649394,-6.745099
+406143,Curley's,Exempt,nan,nan,nan,2012-09-24,54.646325,-6.744558
+406144,Day Today,5,5,5,0,2014-06-17,54.645342,-6.660318
+406145,Day Today- Kildress Filling Station,4,10,0,5,2014-02-14,54.648315,-6.865178
+406146,Derrychrin School Meals Kitchen,5,5,0,0,2014-02-27,54.653261,-6.561298
+406147,Desertcreat Parish Hall,Exempt,nan,nan,nan,2013-11-15,54.602471,-6.743309
+406148,Devlin's Bar,4,5,0,10,2011-08-26,54.719431,-6.965723
+406149,Dew Drop Inn,4,10,0,10,2013-02-19,,
+406150,Diamond Palace,4,5,10,5,2014-03-27,54.644326,-6.747547
+406151,Discovering Kids Playgroup,5,0,0,5,2014-12-18,54.698084,-6.605268
+406152,Donaghendry Parish Hall,Exempt,nan,nan,nan,2012-10-03,,
+406153,Donaghey Primary School,5,5,0,0,2014-10-08,54.586217,-6.743871
+406154,Doonio's Pizza,3,10,10,10,2013-12-16,54.657194,-6.570921
+406155,Douglas Allen Chip Van,4,5,5,10,2014-09-09,,
+406156,Dragon Garden,4,10,10,0,2014-12-03,54.643645,-6.744253
+406157,Drapersfield House Nursing Home,5,5,0,0,2013-08-22,54.633895,-6.694796
+406158,Duff's Bar,4,5,10,5,2013-11-06,54.650042,-6.559553
+406159,Dunleath Bar,4,10,5,5,2013-10-23,54.638463,-6.743561
+406160,Dunman Factory (Canteen),4,10,0,0,2014-02-26,54.661929,-6.724674
+406161,Early Years Day Care Nursery,5,0,0,5,2014-08-15,54.575101,-6.677037
+406162,Emily's Coffee Bar,4,5,5,10,2013-10-22,54.633929,-6.746427
+406163,Eurospar (moneymore),3,10,10,5,2013-09-12,,
+406164,F P Kelly Chemist,Exempt,nan,nan,nan,2013-11-12,54.57070783,-6.00735235
+406165,Fairfields Care Centre,4,5,10,5,2014-03-18,54.643905,-6.755538
+406166,Fairhill Grill,3,10,10,10,2014-01-22,54.594091,-6.928339
+406167,Falls Chemist,Exempt,nan,nan,nan,2014-09-02,54.647376,-6.744479
+406168,Forbes Kitchens Social Club,4,5,5,10,2008-11-25,54.618864,-6.550205
+406169,Forbes Spar,4,5,10,5,2014-03-26,54.618864,-6.550205
+406170,Fruit Fayre,4,5,0,10,2012-07-17,54.646985,-6.74666
+406171,Frying Squad,5,5,5,5,2013-02-19,54.641922,-6.760152
+406172,Gangnam,3,5,10,10,2014-09-04,54.639378,-6.754449
+406173,Giboney Court,Exempt,nan,nan,nan,2013-10-31,54.653907,-6.787437
+406174,Glenavon House Hotel,5,5,0,5,2014-11-19,54.635217,-6.755416
+406175,Gold Community Partnership- Mobile Unit Cookstown Ps,5,nan,nan,nan,2014-05-12,54.639561,-6.73408
+406176,Gold Surestart (pomeroy),5,5,0,5,2014-01-24,54.589248,-6.911172
+406177,Golden Boat,4,10,0,10,2013-06-20,54.640909,-6.744632
+406178,Golden Bowl,2,15,10,10,2013-09-24,54.649474,-6.745824
+406179,Golden Town,3,10,5,10,2012-12-12,54.649394,-6.745099
+406180,Gordons Chemists,Exempt,nan,nan,nan,2014-11-07,54.649474,-6.745824
+406181,Gort Kids,4,nan,nan,nan,2014-01-14,54.636645,-6.743261
+406182,Granny B's Kitchen,Exempt,nan,nan,nan,2013-11-06,54.631709,-6.858022
+406183,Greenvale Hotel,5,nan,nan,nan,2014-05-28,54.635217,-6.755416
+406184,Ground Espresso Bar,4,10,0,10,2013-11-14,54.646289,-6.745349
+406185,Hanover House,3,10,10,10,2014-03-20,54.647066,-6.656282
+406186,Harry's Bar,5,5,5,5,2014-09-16,54.706657,-6.539844
+406187,Hawthorne's Bar,4,0,0,10,2013-07-30,54.708243,-6.531331
+406188,Herron's (Country Fried Chicken),4,10,0,10,2013-12-04,54.649394,-6.745099
+406189,Holy Trinity College,3,10,10,5,2013-10-09,54.640909,-6.744632
+406190,Holy Trinity Primary School (Key Stage 1),5,5,0,5,2014-12-17,54.642781,-6.748447
+406191,Hutchinsons,4,5,10,5,2014-03-26,54.650996,-6.74539
+406192,Hutton's Food Van,5,5,5,5,2014-09-13,,
+406193,Iceland,5,5,0,0,2014-09-04,54.653907,-6.787437
+406194,International Food Shop,3,10,5,10,2011-02-10,54.647832,-6.743412
+406195,J Hutton And Sons,4,10,5,0,2014-12-16,54.646289,-6.745349
+406196,J N Sinclair,Exempt,nan,nan,nan,2012-10-03,54.57067911,-6.00730439
+406197,Jack And Jill Playgroup,5,5,0,5,2014-12-15,54.644326,-6.747547
+406198,JD And SE Harkness,4,5,0,10,2014-11-21,54.634918,-6.743051
+406199,Joseph's Restaurant,2,15,10,10,2013-12-16,54.647191,-6.745724
+406200,Julie's Cozy Coffee,5,5,5,0,2014-06-05,54.566684,-6.777899
+406201,K And M McCrystall,5,5,5,5,2014-09-04,54.668965,-6.546994
+406202,Karro (canteen),4,10,5,5,2013-10-21,54.642197,-6.730342
+406203,Kc's Diner,4,5,10,5,2014-08-21,54.613211,-6.558269
+406204,Kiddiwinkles Day Care,5,5,0,5,2013-05-28,54.643537,-6.74514
+406205,Kiddiwinkles Daycare (moneymore),5,5,5,5,2014-01-14,,
+406206,Kildress Chip Shop,4,5,5,10,2014-10-22,54.648315,-6.865178
+406207,Kilpatrick's,Exempt,nan,nan,nan,2011-10-26,,
+406208,Kinturk Cultural Centre Ltd,1,5,10,20,2014-06-17,54.656124,-6.520041
+406209,Lafarge Canteen,4,10,5,5,2013-10-30,54.626184,-6.759454
+406210,Lawrence Newsagents,Exempt,nan,nan,nan,2012-09-28,,
+406211,Leigh's Chippy,5,5,5,5,2014-09-16,54.647202,-6.61719
+406212,Lidl UK GmbH,5,0,0,5,2013-07-30,54.645974,-6.743306
+406213,Lissan Cross Community Playgroup,5,5,0,0,2014-06-06,,
+406214,Lissan Go,5,5,0,0,2013-07-04,54.684038,-6.750511
+406215,Lissan House,4,0,0,10,2013-06-24,,
+406216,Lissan Primary School Meals Kitchen,5,5,0,5,2014-06-06,54.688772,-6.755731
+406217,Little Acorns Playgroup,5,5,0,5,2014-11-20,54.651512,-6.623303
+406218,Lmc Fuels,Exempt,nan,nan,nan,2014-11-21,54.640909,-6.744632
+406219,Loughry Agricultural College (Canteen),5,5,5,5,2013-07-23,54.63038,-6.743764
+406220,Loup Gaelic Football Club,4,5,5,10,2013-11-18,54.706657,-6.539844
+406221,Loup School Meals Kitchen,5,5,0,0,2013-10-25,54.695886,-6.596953
+406222,Lowe Bros Quality Butchers,5,nan,nan,nan,2013-11-11,54.57705,-6.6763
+406223,Lucky Dragon,3,5,10,10,2014-06-26,54.692669,-6.669382
+406224,Lucy's Loft,4,5,10,5,2013-10-10,54.638227,-6.744204
+406225,M Donnelly And Sons,2,10,15,10,2013-05-21,54.59305,-6.923462
+406226,Mace,4,5,10,5,2014-06-23,54.70841832,-7.59313669
+406227,"Mace, Ballyronan",5,5,5,5,2013-05-09,54.718291,-6.450144
+406228,Macmahon Butchers,5,5,5,5,2013-08-13,54.647376,-6.744479
+406229,Mandarin Buffet,2,5,15,10,2014-03-18,54.645634,-6.737732
+406230,Mandarin Express,3,5,10,10,2013-10-30,54.639378,-6.754449
+406231,Manor View Bed And Breakfast,5,5,5,5,2013-08-02,54.645776,-6.811155
+406232,Marina Private Nursing Home,4,5,10,5,2014-03-13,54.708243,-6.531331
+406233,Marks & Spencer,5,5,0,0,2013-11-05,54.648466,-6.753493
+406234,McAleer Medical Hall,Exempt,nan,nan,nan,2013-07-22,54.59414,-6.926729
+406235,Mcatamneys Butchers,5,5,5,5,2013-11-04,54.646289,-6.745349
+406236,McConville's,4,0,10,5,2014-02-14,54.618864,-6.550205
+406237,McCrory's Bar,4,5,5,10,2013-01-31,54.70811,-6.763299
+406238,McDonalds Restaurant,5,5,0,0,2013-08-01,54.63038,-6.743764
+406239,Mcgee's Butchers,5,5,0,5,2013-03-08,54.63038,-6.743764
+406240,McGlaughlin's Bakery,3,10,10,5,2013-12-17,54.646325,-6.744558
+406241,Mckenna's Todays,2,10,15,5,2014-12-19,54.653261,-6.561298
+406242,McLernon - General Merchant,5,5,5,5,2014-08-20,54.587481,-6.835206
+406243,Milburn Service Station,3,10,5,10,2013-11-13,54.652958,-6.7466
+406244,Mill Wheel Bar,3,10,10,5,2013-06-24,54.675099,-6.951256
+406245,Moe's Bar,5,5,0,5,2013-09-26,54.641108,-6.743882
+406246,Moneymore Nursery,5,5,0,5,2015-01-28,54.695444,-6.667647
+406247,Moneymore Pharmacy,Exempt,nan,nan,nan,2014-09-04,54.692669,-6.669382
+406248,Moneymore Primary School Meals Kitchen,5,5,5,0,2013-09-18,54.695444,-6.667647
+406249,Moneymore Private Nursing Home,5,5,0,0,2014-11-12,54.686262,-6.681516
+406250,Morelli's,5,5,0,0,2014-08-20,54.647765,-6.745629
+406251,Mr D Hayden,5,5,0,5,2013-08-12,54.5673204979,-6.83852139225
+406252,Mullan's Bar,4,10,0,5,2014-12-10,54.647376,-6.744479
+406253,Mulligan's Bar,4,0,10,10,2014-01-15,54.640909,-6.744632
+406254,MUST Hostel,5,5,5,5,2014-06-17,54.646209,-6.741169
+406255,N McLernon,4,5,0,10,2013-07-25,54.587481,-6.835206
+406256,Naiscoil Eoghain,4,10,5,5,2013-05-10,54.641108,-6.743882
+406257,Nearbuy Store,4,5,5,10,2013-07-02,54.647202,-6.61719
+406258,New Golden Future,3,5,10,10,2014-03-27,54.647202,-6.61719
+406259,New Look,Exempt,nan,nan,nan,2014-01-29,54.655812,-6.797025
+406260,O40 (age Concern),4,5,10,5,2014-03-25,54.649474,-6.745824
+406261,Oaklands Lodge,5,0,0,5,2012-09-21,54.633287,-6.819278
+406262,Oldtown Inn,4,10,0,5,2013-08-21,54.649474,-6.745824
+406263,O'neills Filling Station,Exempt,nan,nan,nan,2013-08-05,54.645342,-6.660318
+406264,Orritor Presbyterian Church Hall,Exempt,nan,nan,nan,2013-12-11,54.658608,-6.819768
+406265,Orritor School Meals Kitchen,5,5,0,5,2014-06-24,54.658608,-6.819768
+406266,Otter Lodge,4,10,5,5,2013-10-24,54.63038,-6.743764
+406267,Performance Nutrition Plus,Exempt,nan,nan,nan,2013-09-10,54.645887,-6.743053
+406268,Phoenix Integrated Primary School,4,5,0,10,2013-06-05,54.639805,-6.740469
+406269,Pizza Deck,4,10,0,5,2014-02-28,54.643645,-6.744253
+406270,Pizza King Tyrone Ltd,4,10,0,5,2013-06-17,54.645489,-6.745374
+406271,Pizzarack,4,10,0,10,2013-07-03,54.614358,-6.535613
+406272,Pizzeria,5,5,5,5,2013-09-25,54.644326,-6.747547
+406273,Pomeroy Pre-School Playgroup,5,0,0,5,2014-11-07,,
+406274,Pomeroy Pre-school Playgroup & Afterschool,4,5,0,10,2013-05-07,54.595173,-6.934871
+406275,Pomeroy School Meals Kitchen,5,5,0,0,2014-06-24,54.599411,-6.913407
+406276,Pound Stretcher,4,10,0,5,2013-02-13,54.645974,-6.743306
+406277,Poundland,5,5,0,5,2013-06-05,54.646325,-6.744558
+406278,Quality Meats,4,10,5,5,2014-10-20,54.647066,-6.656282
+406279,Quinns Bar,5,5,5,5,2014-09-11,54.645489,-6.745374
+406280,R L Hewitt,2,5,15,5,2014-02-24,54.606283,-6.723831
+406281,Railway Bar,4,0,10,10,2013-10-31,54.64752,-6.741934
+406282,Rainbo Chippy,2,10,15,10,2013-10-25,54.628867,-6.514946
+406283,Ritz Cinema,4,5,0,10,2013-01-31,54.647058,-6.748828
+406284,Rivervale Country Private Nursing Home,5,5,0,0,2014-02-21,54.671931,-6.936179
+406285,Roadside Tavern,5,5,5,5,2014-05-29,54.577079,-6.676354
+406286,Rock Primary School (sacred Heart),5,5,0,0,2014-11-07,54.594063,-6.833966
+406287,Rossmore Bakery,Exempt,nan,nan,nan,2014-10-27,54.67876,-6.743123
+406288,Roughan Lough B&b,5,0,0,5,2014-02-03,54.560854,-6.725745
+406289,Saltersland Presbyterian Church Hall,Exempt,nan,nan,nan,2014-06-05,54.708909,-6.595851
+406290,Silver Chopsticks,3,10,10,10,2013-03-27,54.594243,-6.928258
+406291,Sinley,5,5,0,5,2014-09-29,54.636645,-6.743261
+406292,Sit And Sip,4,5,0,10,2013-04-23,54.645342,-6.660318
+406293,Small World Day Nursery,5,5,0,5,2014-10-21,54.645634,-6.737732
+406294,So- Low Fuels,4,5,0,10,2013-06-04,54.661929,-6.724674
+406295,So-low Fuels,Exempt,nan,nan,nan,2012-01-24,54.652903,-6.866801
+406296,Spar,5,5,5,5,2013-09-17,54.575101,-6.677037
+406297,Spar,5,5,0,5,2014-11-24,54.639378,-6.754449
+406298,"Spar, Church Street",3,10,5,10,2013-05-10,54.638227,-6.744204
+406299,"Spar, Lawford St",3,nan,nan,nan,2014-01-10,54.693852,-6.670755
+406300,Springhill House - Cafe,5,5,0,5,2014-10-20,54.685825,-6.65731
+406301,St Andrew's Parish Church,Exempt,nan,nan,nan,2014-02-28,54.613474,-6.707229
+406302,"St Joseph's Primary School, Kileenan",5,5,0,0,2014-11-21,54.646472,-6.878505
+406303,St Malachy's Primary School Meals Kitchen,5,5,0,0,2013-06-07,54.654803,-6.665306
+406304,St Mary's Primary School (pomeroy),5,5,0,5,2013-10-02,54.595173,-6.934871
+406305,St Mary's Primary School Meals Kitchen,5,5,0,0,2014-06-25,54.57751,-6.678815
+406306,"St Mary's Primary School Meals Kitchen, Dunnamore",5,5,0,5,2014-06-23,54.671931,-6.936179
+406307,St Patrick's Primary School Meals Kitchen,5,5,5,0,2014-11-06,54.690036,-6.663529
+406308,"St Patrick's Primary School, Ardboe",5,5,0,5,2013-06-03,54.613211,-6.558269
+406309,St Peter's School Meals Kitchen,5,5,0,0,2013-10-15,54.628867,-6.514946
+406310,St Vincent De Paul,5,5,0,0,2013-07-23,54.643537,-6.74514
+406311,Stepz Restaurant,3,10,10,5,2012-12-13,54.594091,-6.928339
+406312,Stewartstown Primary School,4,10,0,5,2013-11-29,54.575941,-6.676842
+406313,Subway,5,5,0,0,2014-10-08,54.647683,-6.74557
+406314,Super Valu,4,10,5,5,2014-09-02,54.646909,-6.748041
+406315,Superdrug Stores Plc,Exempt,nan,nan,nan,2012-09-24,54.645489,-6.745374
+406316,Superstars Club,Exempt,nan,nan,nan,2013-03-15,54.649394,-6.745099
+406317,T Sheehy And Son,Exempt,nan,nan,nan,2012-10-12,54.647376,-6.744479
+406318,Tabbda,Exempt,nan,nan,nan,2014-02-18,54.708243,-6.531331
+406319,Tamlaght Parish Hall,Exempt,nan,nan,nan,2014-09-16,54.650048,-6.621772
+406320,Tasty Bites,5,5,0,5,2013-10-02,54.63516,-6.745025
+406321,Tesco Stores Ltd Broadfields,5,5,0,0,2014-03-28,54.653907,-6.787437
+406322,The Bar,5,5,0,5,2013-03-26,54.647062,-6.751522
+406323,The Battery Bar,5,5,0,0,2013-08-02,54.632394,-6.506563
+406324,The Bistro,4,5,5,10,2013-10-11,54.630801,-6.759345
+406325,The Black Horse Bar,5,5,0,5,2014-03-20,54.645933,-6.74316
+406326,The Candy Box,Exempt,nan,nan,nan,2012-11-02,,
+406327,The Cartwheel Bar,5,5,0,5,2013-08-21,54.646289,-6.745349
+406328,The Central Bar,4,5,5,10,2013-07-25,54.647376,-6.744479
+406329,The Central Takeaway,3,10,5,10,2013-12-04,54.613211,-6.558269
+406330,The Corner Bar,5,5,0,5,2013-10-30,54.668965,-6.546994
+406331,The Corner Filling Station,Exempt,nan,nan,nan,2014-05-02,54.639245,-6.591733
+406332,The Corner Shop,4,5,0,10,2013-01-31,54.594091,-6.928339
+406333,The Country House,5,5,0,5,2013-09-27,54.698084,-6.605268
+406334,The Courtyard Restaurant,5,5,5,5,2014-09-09,54.647376,-6.744479
+406335,The Diamond Chinese,4,nan,nan,nan,2014-01-23,54.618864,-6.550205
+406336,The Drapers Arms,5,5,0,5,2013-09-27,,
+406337,The Fairways Restaurant,4,10,0,5,2014-01-17,54.635429,-6.736004
+406338,The Farmer's Rest,5,5,0,5,2014-10-08,54.689718,-6.766557
+406339,The Glenngary Takeaway,3,10,10,10,2011-12-20,54.649394,-6.745099
+406340,The Golden Chip,5,nan,nan,nan,2014-07-16,,
+406341,The Golden Fry,4,10,0,0,2014-10-22,54.57153502,-6.00832533
+406342,The Granary,5,nan,nan,nan,2014-11-12,54.644967,-6.744399
+406343,The Institute Of Irish Leadership (coffee Shop),Exempt,nan,nan,nan,2013-03-21,54.59414,-6.926729
+406344,The Original Golden Bowl,4,nan,nan,nan,2013-10-08,54.650996,-6.74539
+406345,The Royal British Legion Club,4,10,0,10,2013-11-06,54.646909,-6.748041
+406346,The Royal Hotel,5,nan,nan,nan,2014-03-27,,
+406347,The Shish Mahal,3,nan,nan,nan,2014-08-28,54.644967,-6.744399
+406348,The Thatch Bar,4,10,0,10,2013-02-04,54.645933,-6.74316
+406349,The Tilley Lamp,4,5,10,5,2014-02-17,54.618864,-6.550205
+406350,The Top Notch,5,5,0,0,2013-12-09,,
+406351,The Village Chippy,5,5,5,5,2014-06-24,54.706657,-6.539844
+406352,The Village Fuel Depot,Exempt,nan,nan,nan,2014-09-01,54.708243,-6.531331
+406353,The White Pheasant,4,5,10,5,2013-07-10,54.646985,-6.74666
+406354,The Wine Rack,Exempt,nan,nan,nan,2012-10-19,54.57167465,-6.00846014
+406355,Time,3,10,10,5,2013-05-28,54.644967,-6.744399
+406356,Time For Two's Creche,5,5,0,0,2014-09-12,54.653261,-6.561298
+406357,Time For Two's Creche Dunnamore,5,5,0,5,2012-11-07,54.671931,-6.936179
+406358,Time For Two's Holy Trinity,5,0,5,5,2014-11-13,54.644326,-6.747547
+406359,Tiny Steps Creche,4,10,0,0,2013-05-22,54.645418,-6.749744
+406360,Tiny Tots Community Playgroup,5,0,0,5,2014-06-17,54.575941,-6.676842
+406361,Tiny Tots Pre-school Education Centre,5,0,0,5,2014-05-14,54.667554,-6.918686
+406362,Today's Local (kelly's),1,10,15,20,2013-09-17,54.628867,-6.514946
+406363,Today's Local- Loughran's Shop,3,10,10,5,2013-05-20,54.675099,-6.951256
+406364,Tullylagan Country House,4,10,10,0,2013-08-28,54.594055,-6.774108
+406365,Tullylagan Wine Bar,3,10,10,10,2014-11-27,54.594055,-6.774108
+406366,Turkish Kebab House,1,15,10,20,2013-12-19,54.644967,-6.744399
+406367,Twinkle Playgroup At St Patricks Ps,5,5,0,5,2013-09-06,54.613211,-6.558269
+406368,Villa Vinci,3,10,10,10,2014-09-25,54.643645,-6.744253
+406369,Vintage Tea Room,5,5,0,5,2014-01-22,54.691585,-6.67041
+406370,Viva Bingo,5,nan,nan,nan,2014-10-02,54.64752,-6.741934
+406371,Vivo Essentials,4,5,10,5,2014-08-20,,
+406372,Vivo Loup,5,5,0,5,2014-11-06,54.698084,-6.605268
+406373,W J Lavery And Donal Lavery,5,5,0,5,2014-09-11,54.628867,-6.514946
+406374,Washingford Day Care,5,0,5,5,2014-09-16,54.633929,-6.746427
+406375,Weaver's House Care Home,4,5,10,5,2014-03-11,,
+406376,Wellbrook Cottage,Exempt,nan,nan,nan,2012-03-28,54.651512,-6.836644
+406377,Westlands Old People's Home,4,10,5,5,2014-10-22,54.64722,-6.75556
+406378,Wine Market,Exempt,nan,nan,nan,2013-05-28,54.641108,-6.743882
+406379,Woodlands Beacon Centre,5,0,0,5,2013-07-25,54.646209,-6.741169
+406380,Woods School Meals Kitchen,5,5,0,0,2013-05-31,54.719746,-6.547273
+406381,XL Stop And Shop,4,5,0,10,2013-05-23,54.594096,-6.775469
+406382,XL Stop And Shop (Daly's),5,5,0,0,2014-05-29,54.57057859,-6.00713652
+406383,Xl Stop And Shop (dungannon Road),2,10,15,5,2013-05-31,54.63038,-6.743764
+406384,Yau's Steakhouse,3,10,5,10,2013-12-12,54.636645,-6.743261
+406385,Your Local Boots Pharmacy,Exempt,nan,nan,nan,2014-09-01,54.645489,-6.745374
+406386,Your Store,3,10,10,10,2014-12-03,54.64752,-6.741934

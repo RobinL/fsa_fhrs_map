@@ -1,435 +1,435 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-399409,32 Fountain Street,Massereene,Antrim,,147 Snooker & Pool,Restaurant/Cafe/Canteen,1,10,,615717,5,,54.71359900000000,43/2358/0032/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21125700000000,BT41 4BG,2013-10-14,fhrs_4_en-GB,4,,FHRS,5
-399410,"Retail Area, New South Extensi",Belfast International Airport,Aldergrove,,Aelia Duty Free,Retailers - other,4613,,,579024,,,54.66155400000000,33/0318/0006/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625700000000,BT29 4AB,2013-10-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-399411,11 Tully Road,Nutts Corner,,,Airport Road Cafe,Restaurant/Cafe/Canteen,1,5,,680818,0,,54.67227500000000,36/9923/0011/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22254600000000,BT29 4DX,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-399412,11 Tully Road,Nutts Corner,Crumlin,Co Antrim,Airport Road Service Station,Retailers - other,4613,5,,405638,10,,54.64947000000000,99/0000/0000/0896,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.16810600000000,BT29 4SW,2014-05-20,fhrs_4_en-GB,4,,FHRS,0
-399413,,,,,Alans Super Whip,Mobile caterer,7846,0,,405525,0,,,49/4906/0126/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-05-28,fhrs_5_en-GB,5,,FHRS,0
-399414,Unit 3 Castle Walk,Antrim,,,Alfies Cafe,Restaurant/Cafe/Canteen,1,20,,609607,20,,54.71528400000000,43/1149/0003/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21889600000000,BT41 4DN,2014-12-01,fhrs_1_en-GB,1,,FHRS,10
-399415,Railway Street,Antrim,Co. Antrim,,All Saints Parish Centre,Restaurant/Cafe/Canteen,1,5,,405461,0,,54.71367300000000,43/7929/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21561400000000,BT41 4BA,2014-03-11,fhrs_5_en-GB,5,,FHRS,0
-399416,45 Castle Road,Randalstown,,,Allen Park Golf Club & Restuarant,Restaurant/Cafe/Canteen,1,5,,405488,10,,54.73923700000000,45/1123/0045/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.28433400000000,BT41 4NG,2013-06-25,fhrs_4_en-GB,4,,FHRS,5
-399417,Belfast International Airport,,Crumlin,,Alpha LSG Ltd,Restaurant/Cafe/Canteen,1,0,,405541,5,,54.66155242919922,99/0000/0000/0018,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625709533691,BT29 4AB,2013-11-19,fhrs_5_en-GB,5,,FHRS,5
-399418,1 Antrim Enterprise Agency,58 Greystone Road,Antrim,BT41 1JZ,Amber Catering and Cakes,Restaurant/Cafe/Canteen,1,,,405429,,,54.71622400000000,42/5823/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18233800000000,BT41 1JZ,2014-04-08,fhrs_5_en-GB,5,,FHRS,
-399419,13 - 26 Antrim Arcade,High Street,Antrim,,Anchor Bar,Pub/bar/nightclub,7843,0,,555063,0,,54.71465800000000,43/797X/0013/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21845700000000,BT41 4AN,2013-04-10,fhrs_4_en-GB,4,,FHRS,10
-399420,6 Greystone Road,Greystone,Antrim,,Anglier,Takeaway/sandwich shop,7844,,,405427,,,54.71334794000000,42/2824/0006/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20172495000000,BT41,2014-08-20,fhrs_5_en-GB,5,,FHRS,
-399421,83 Church Street,Town Parks,Antrim,Co Antrim,Anita Byrne Petrol Station,Retailers - other,4613,20,,451703,0,,54.71401100000000,99/0000/0000/0425,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21480800000000,BT41 4BE,2014-08-08,fhrs_1_en-GB,1,,FHRS,10
-399422,32 Station Road,,Antrim,Co Antrim,Antrim Adult Centre,Restaurant/Cafe/Canteen,1,5,,405611,0,,54.71731600000000,99/0000/0000/0606,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21289300000000,BT41 4AB,2012-02-28,fhrs_5_en-GB,5,,FHRS,0
-399423,Catering Dept,45 Bush Road Brettens Walls,Antrim,Co Antrim,Antrim Area Hospital Catering Department,Other catering premises,7841,5,,405547,5,,54.73297000000000,99/0000/0000/0161,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18587300000000,BT41 2QB,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-399424,Antrim Area Hospital,"45 Bush Road, Brettens Walls",Antrim,Co Antrim,Antrim Area Hospital Shop,Retailers - other,4613,0,,405548,0,,54.73297000000000,99/0000/0000/0163,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18587300000000,BT41 2RL,2014-12-03,fhrs_5_en-GB,5,,FHRS,5
-399425,17 Lough Road,,Antrim,Co Antrim,Antrim Board Centre  ( Abacus),Restaurant/Cafe/Canteen,1,5,,405544,0,,54.71323000000000,99/0000/0000/0082,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22216700000000,BT41 4DH,2013-11-05,fhrs_5_en-GB,5,,FHRS,5
-399426,1 Castle Road,,Antrim,Co Antrim,Antrim Boat Club,Pub/bar/nightclub,7843,5,,555065,5,,,99/0000/0000/0297,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-04-29,fhrs_5_en-GB,5,,FHRS,5
-399427,88 Milltown Road,,Antrim,,Antrim Care Home,Hospitals/Childcare/Caring Premises,5,0,,405696,5,,54.70978300000000,99/0008/0000/0868,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17704000000000,BT41 2BS,2014-04-14,fhrs_5_en-GB,5,,FHRS,5
-399428,32F Station Road,,Antrim,Co Antrim,Antrim Day Centre,Restaurant/Cafe/Canteen,1,10,,405612,0,,54.71731600000000,99/0000/0000/0607,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21289300000000,BT41 4AB,2013-12-03,fhrs_4_en-GB,4,,FHRS,0
-399429,3A Lough Road,Balloo,Antrim,,Antrim Gospel Hall,Restaurant/Cafe/Canteen,1,0,,680819,0,,54.71323400000000,99/0000/0000/0079,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22309800000000,BT41 4DG,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-399430,12A Steeple Road,Steeple Road,Antrim,,Antrim Grammar School Meals  Kitchen,School/college/university,7845,0,,405571,5,,54.72207100000000,99/0000/0000/0329,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20939400000000,BT41 1AF,2013-05-31,fhrs_5_en-GB,5,,FHRS,5
-399431,Allen Park,43 Castle Road,Antrim,Co Antrim,Antrim Hockey And Rugby Club,Pub/bar/nightclub,7843,0,,405550,5,,54.72433400000000,99/0000/0000/0191,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.24560000000000,BT41 4NA,2012-02-03,fhrs_5_en-GB,5,,FHRS,5
-399432,31 Station Road,,Antrim,Co Antrim,Antrim Primary School,School/college/university,7845,5,,405610,0,,54.71731600000000,99/0000/0000/0605,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21289300000000,BT41 4AB,2013-06-04,fhrs_4_en-GB,4,,FHRS,10
-399433,2 Lough Road Balloo,,Antrim,Co Antrim,Antrim Royal British Legion Club,Pub/bar/nightclub,7843,0,,635127,0,,54.71323400000000,99/0000/0000/0077,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22309800000000,BT41 4DG,2014-01-09,fhrs_5_en-GB,5,,FHRS,0
-399434,1 Antrim Arcade,18 - 24 High Street,Antrim,Co Antrim,Arcade Chip Shop,Takeaway/sandwich shop,7844,0,,405602,5,,54.71465800000000,99/0000/0000/0505,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21845700000000,BT41 4AN,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-399435,15 Moneyrod Road,,Randalstown,Co Antrim,Ard Na Grande Private Res. Home,Hospitals/Childcare/Caring Premises,5,0,,405650,5,,54.75152400000000,99/0000/0000/1025,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.37542400000000,BT41 3JB,2014-08-07,fhrs_5_en-GB,5,,FHRS,5
-399436,"21, Clady Road",Templepatrick,,,Ardbrin Lodge,Hotel/bed & breakfast/guest house,7842,0,,405528,0,,54.69093800000000,50/1368/0021/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.14360900000000,BT41 4QR,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-399437,33a Belfast Road,,Antrim,,Ardvale,Hotel/bed & breakfast/guest house,7842,0,,509579,0,,54.70391900000000,35/0467/0033/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17840500000000,BT41 2AZ,2013-01-15,fhrs_5_en-GB,5,,FHRS,0
-399438,Junction One Retail Park,Ballymena Road,Antrim,,Asda Cafe,Restaurant/Cafe/Canteen,1,0,,405477,0,,,43/7996/0100/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-12-30,fhrs_5_en-GB,5,,FHRS,5
-399439,150 Junction One Int Outlet,Ballymena Road,Antrim,,Asda Superstore,Retailers - other,4613,5,,405453,10,,54.72586700000000,43/6841/0150/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22864500000000,BT41 4LL,2013-09-24,fhrs_4_en-GB,4,,FHRS,5
-399440,3 - 4  Junction One,Ballymena Road,Antrim,,B & M Bargains,Retailers - other,4613,5,,405447,0,,54.73072900000000,43/6841/0003/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23248500000000,BT41 4LL,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-399441,3 Mill Road,Crumlin,,,B Price Quality Meat and Poultry,Retailers - other,4613,0,,405414,0,,54.62159500000000,38/3993/0003/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21528100000000,BT29 4XL,2012-02-24,fhrs_5_en-GB,5,,FHRS,0
-399442,19 Bridge Street,,Antrim,Co Antrim,Back Shed,Pub/bar/nightclub,7843,5,,405581,0,,54.71421100000000,99/0000/0000/0381,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21920600000000,BT41 4DA,2013-05-09,fhrs_5_en-GB,5,,FHRS,5
-399443,22 Bracken Avenue,,Antrim,Co Antrim,Ballycraigy Primary School,School/college/university,7845,0,,555064,0,,54.70729300000000,99/0000/0000/0101,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18832300000000,BT41 1PU,2013-04-10,fhrs_5_en-GB,5,,FHRS,5
-399444,33 Ballyarnott Road,Muckamore,ANTRIM,,Ballyharvey House,Hotel/bed & breakfast/guest house,7842,0,,451691,0,,54.68634600000000,00/0008/0033/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20129100000000,BT41 4SD,2012-08-13,fhrs_5_en-GB,5,,FHRS,0
-399445,144 - 146 Ballyrobin Road,Aldergrove,CRUMLIN,,Ballyrobin Country House,Hotel/bed & breakfast/guest house,7842,,,405352,,,54.66715400000000,33/030X/0144/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19339700000000,BT29 4EG,2014-03-07,fhrs_5_en-GB,5,,FHRS,
-399446,Unit 8 Twelfth Milestone,954 Antrim Road,Templepatrick,,Bambou,Restaurant/Cafe/Canteen,1,10,,405530,0,,54.70067400000000,50/6394/0008/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10279900000000,BT39 0AT,2014-11-25,fhrs_4_en-GB,4,,FHRS,10
-399447,19 Market Square,Town Parks,Antrim,Co Antrim,Barneys,Pub/bar/nightclub,7843,10,,405606,0,,54.71498000000000,99/0000/0000/0528,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22142300000000,BT41 4AW,2011-09-22,fhrs_4_en-GB,4,,FHRS,10
-399448,,,,,Barry's Diner,Mobile caterer,7846,5,,405509,0,,,45/8284/0090/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-399449,61 Loughview Road,Aldergrove,CRUMLIN,,Bay Cottage B & B,Hotel/bed & breakfast/guest house,7842,5,,432976,5,,54.66998700000000,33/3694/0061/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.27177000000000,BT29 4ED,2012-05-31,fhrs_5_en-GB,5,,FHRS,5
-399450,4 The Arches,Randalstown,,,Baytree Health & Beauty,Retailers - other,4613,0,,585170,0,,54.74984300000000,45/8292/0004/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31928200000000,BT41 3AB,2013-08-01,fhrs_5_en-GB,5,,FHRS,0
-399451,954 Antrim Road,,Templepatrick,,Baytree Health & Beauty,Retailers - other,4613,5,,405672,5,,54.70067400000000,99/0000/0000/1130,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10279900000000,BT39 0AT,2013-07-09,fhrs_5_en-GB,5,,FHRS,0
-399452,30 Seven Mile Straight,Aldergrove,Antrim,,Beechmount Farm B&B,Hotel/bed & breakfast/guest house,7842,0,,405383,0,,54.69737500000000,33/5115/0030/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17700700000000,BT41 4QH,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-399453,17 New Street,Randalstown,,,Benny's Fish and Burger Bar,Restaurant/Cafe/Canteen,1,5,,405498,5,,54.74764200000000,45/4270/0017/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2014-06-20,fhrs_5_en-GB,5,,FHRS,0
-399454,,,,,Bernice Scullion,Restaurant/Cafe/Canteen,1,0,,405538,0,,,51/7922/0044/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-05-10,fhrs_5_en-GB,5,,FHRS,0
-399455,C/o Butlers,14 Shane Street,Randalstown,,Big Occasions Catering - 18Ft Van,Mobile caterer,7846,0,,655675,0,,54.74859900000000,45/5137/0097/0093,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31445700000000,BT41 2AD,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-399456,,,,,Big-Mama Cake's,Restaurant/Cafe/Canteen,1,5,,555057,5,,,00/0008/0026/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-04-24,fhrs_5_en-GB,5,,FHRS,0
-399457,32 Main Street,CRUMLIN,,,Bingo's,Restaurant/Cafe/Canteen,1,5,,405400,0,,54.62041700000000,38/0331/0032/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21400200000000,BT29 4UP,2013-12-21,fhrs_5_en-GB,5,,FHRS,5
-399458,30 Main Street,,Crumlin,,Bodrum Pizza & Kebab House,Takeaway/sandwich shop,7844,5,,405399,10,,54.62041700000000,38/0331/0030/0101,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21400200000000,BT29 4UP,2012-12-12,fhrs_3_en-GB,3,,FHRS,10
-399459,10 Main Street,Toomebridge,,,Boyd's Service Station,Retailers - other,4613,10,,692365,0,,54.75533700000000,51/3870/1010/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46250700000000,BT41 3SA,2014-07-01,fhrs_4_en-GB,4,,FHRS,5
-399460,47 Main Street,Crumlin,Co. Antrim,,Boyles Coach House,Pub/bar/nightclub,7843,,,671743,,,54.62057200000000,38/0331/0047/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2014-10-17,fhrs_4_en-GB,4,,FHRS,
-399461,51 Belfast Road,,Antrim,,Brackenleigh B & B,Hotel/bed & breakfast/guest house,7842,5,,579028,0,,54.71118900000000,99/0000/0000/0376,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20380600000000,BT41 1NY,2013-10-07,fhrs_5_en-GB,5,,FHRS,0
-399462,148 Junction One Retail Park,Ballymena Road,Antrim,,Brewers Fayre,Restaurant/Cafe/Canteen,1,5,,405470,5,,54.72191500000000,43/7996/0000/0116,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22139800000000,BT41 4JG,2013-09-10,fhrs_4_en-GB,4,,FHRS,10
-399463,50 Bush Road,Springfarm,Antrim,BT41 2QB,Brooklands Healthcare Ltd,Hospitals/Childcare/Caring Premises,5,5,,405516,5,,54.73297000000000,47/0837/0050/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18587300000000,BT41 2QB,2014-04-03,fhrs_5_en-GB,5,,FHRS,5
-399464,,,,,BrucesHill Cattle Company (hot food van),Mobile caterer,7846,5,,692367,5,,,99/0008/0014/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-07-01,fhrs_5_en-GB,5,,FHRS,0
-399465,trading at 136 Ballyrobin Rd,Aldergrove,,*Send*to*Home*Address*,Burger Bar (The),Mobile caterer,7846,10,,405351,5,,54.66715400000000,33/030X/0136/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19339700000000,BT29 4EG,2013-06-10,fhrs_3_en-GB,3,,FHRS,10
-399466,0 Junction One Retail Park,Ballymena Road,Antrim,,Burger King,Restaurant/Cafe/Canteen,1,0,,509580,0,,,43/7996/0000/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-01-08,fhrs_5_en-GB,5,,FHRS,5
-399467,Belfast International Airport,Aldergrove,Crumlin,Co Antrim,Burger King,Restaurant/Cafe/Canteen,1,0,,405539,0,,55.29342269897461,99/0000/0000/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22081089019775,BT29 4AB,2014-01-04,fhrs_5_en-GB,5,,FHRS,5
-399468,2 High Street,Town Parks,Antrim,Co Antrim,Bushes Home Bakery,Retailers - other,4613,5,,405599,0,,54.71465800000000,99/0000/0000/0472,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21845700000000,BT41 4AN,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-399469,50 Main Street,,Crumlin,Co Antrim,Bushes Home Bakery,Manufacturers/packers,7839,5,,405622,5,,54.62057200000000,99/0000/0000/0745,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2014-06-11,fhrs_4_en-GB,4,,FHRS,10
-399470,50 Stiles Way,,Antrim,,Cafe 4 U,Restaurant/Cafe/Canteen,1,5,,405426,0,,54.72704600000000,40/5415/0050/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20863100000000,BT41 2UB,2014-06-03,fhrs_5_en-GB,5,,FHRS,0
-399471,Belfast International Airport,,Crumlin,,Cafe Bar Arrivals,Restaurant/Cafe/Canteen,1,0,,405363,0,,,33/318X/0000/0108,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,BT29  4A,2013-01-04,fhrs_5_en-GB,5,,FHRS,0
-399472,,,,,Cakes by Suzanne,Manufacturers/packers,7839,0,,405529,0,,,50/3743/0129/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-04-09,fhrs_5_en-GB,5,,FHRS,0
-399473,4 Rathblane The Folly,Antrim,,,Cakes from M.E. 2 U,Restaurant/Cafe/Canteen,1,0,,585173,0,,54.71542800000000,49/4884/0004/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19882300000000,BT41 1JT,2013-08-21,fhrs_5_en-GB,5,,FHRS,5
-399474,104 Moira Road,Ballydonaghy,Crumlin,Co Antrim,Caldhame House,Hotel/bed & breakfast/guest house,7842,5,,405616,0,,54.60840800000000,99/0000/0000/0667,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19906500000000,BT29 4HG,2011-12-12,fhrs_5_en-GB,5,,FHRS,0
-399475,4B Steeple Road,,Antrim,Co Antrim,Camden Frames,Restaurant/Cafe/Canteen,1,5,,405565,0,,54.72207100000000,99/0000/0000/0323,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20939400000000,BT41 1AF,2014-04-09,fhrs_5_en-GB,5,,FHRS,0
-399476,Tescos Distribution Warehouse,2 Kilbegs Road,Massereene,Antrim,Campbell/Armark,Restaurant/Cafe/Canteen,1,0,,405437,0,,54.73392100000000,43/3281/0002/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23697300000000,BT41 4NN,2013-12-31,fhrs_5_en-GB,5,,FHRS,0
-399477,,,,,Carole's Cakes,Restaurant/Cafe/Canteen,1,0,,655671,0,,,44/0288/0004/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-399478,7 Fennel Road,Town Parks,Antrim,Co Antrim,Castle Lodge Care Centre,Hospitals/Childcare/Caring Premises,5,5,,405588,0,,54.71237300000000,99/0000/0000/0440,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21278500000000,BT41 4PB,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-399479,74 Oriel Road,,Antrim,,Centra,Retailers - other,4613,5,,405441,0,,54.71881600000000,43/4636/0074/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21406900000000,BT41 4HR,2014-07-07,fhrs_5_en-GB,5,,FHRS,0
-399480,4 Church Road,,Randalstown,,Central Primary School Afterschool Club,School/college/university,7845,5,,405505,5,,54.74906500000000,45/7903/0004/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32476600000000,BT41 3AJ,2013-03-05,fhrs_5_en-GB,5,,FHRS,5
-399481,Allen Park,Randalstown Road,Antrim,Co Antrim,Chimney Corner Football and Social Club,Pub/bar/nightclub,7843,0,,405551,0,,54.72433400000000,99/0000/0000/0194,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.24560000000000,BT41 4NA,2012-02-15,fhrs_5_en-GB,5,,FHRS,5
-399482,69 Church Street,,Antrim,Co Antrim,China Court,Takeaway/sandwich shop,7844,10,,405585,10,,54.71401100000000,99/0000/0000/0417,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21480800000000,BT41 4BE,2014-01-27,fhrs_1_en-GB,1,,FHRS,20
-399483,76 Main Street,Crumlin,Co. Antrim,,China Express,Takeaway/sandwich shop,7844,10,,405406,5,,,38/0331/0076/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,BT28 4UU,2013-10-31,fhrs_4_en-GB,4,,FHRS,0
-399484,19A Fountain Street,,Antrim,Co Antrim,China Garden,Takeaway/sandwich shop,7844,0,,405591,10,,54.71359900000000,99/0000/0000/0446,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21125700000000,BT41 4BG,2014-08-27,fhrs_4_en-GB,4,,FHRS,10
-399485,,,,,Chloes Cotton Candy,Retailers - other,4613,0,,622557,0,,,43/6833/0010/0099,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-11-01,fhrs_5_en-GB,5,,FHRS,0
-399486,Allen Court,Townparks South,ANTRIM,,Clanmil Housing,Hospitals/Childcare/Caring Premises,5,5,,405345,0,,54.71265700000000,00/0008/0000/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21378100000000,BT41 4PH,2014-03-25,fhrs_5_en-GB,5,,FHRS,0
-399487,Castle Mall,24 Market Square,,,Classique Coffee Shop,Restaurant/Cafe/Canteen,1,5,,692358,0,,54.71498000000000,01/386X/0024/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22142300000000,BT41 4AW,2014-07-04,fhrs_5_en-GB,5,,FHRS,5
-399488,1 Fountain Hill,Stiles,Antrim,,Clear Pharmacy,Retailers - other,4613,,,405523,,,54.72101400000000,49/2334/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19567300000000,BT41 1LZ,2014-11-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-399489,50 Ballydonaghy Road,,Crumlin,,Clementsmount Fun Farm,Hospitals/Childcare/Caring Premises,5,0,,405390,0,,54.62613600000000,36/0071/0050/0011,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18350900000000,BT29 4ER,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-399490,,,,,Clifton Cakes NI,Restaurant/Cafe/Canteen,1,5,,585168,0,,,44/3023/0048/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-399491,80 Clonkeen Road,,Randalstown,Co Antrim,Clonkeen Gospel Hall,Restaurant/Cafe/Canteen,1,0,,680822,0,,54.77016100000000,99/0000/0000/0949,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.37909000000000,BT41 3JJ,2014-06-13,fhrs_5_en-GB,5,,FHRS,0
-399492,132 Belfast Road,,Antrim,Co Antrim,Clonlee Nursing Home,Hospitals/Childcare/Caring Premises,5,10,,405631,5,,54.70325900000000,99/0000/0000/0835,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17159200000000,BT41 2ET,2014-11-14,fhrs_4_en-GB,4,,FHRS,5
-399493,1 Langtry Lodge,Parkgate,Templepatrick,,Coffee Angels,Restaurant/Cafe/Canteen,1,5,,432977,0,,54.72177500000000,44/3503/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09450200000000,BT39 0LL,2012-07-03,fhrs_5_en-GB,5,,FHRS,0
-399494,,,,,Convery Catering,Mobile caterer,7846,5,,609604,0,,,01/8284/0087/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-10-22,fhrs_5_en-GB,5,,FHRS,0
-399495,30 Main Street,,Randalstown,Co Antrim,Corner House Bar (The),Pub/bar/nightclub,7843,5,,405654,5,,54.75027300000000,99/0000/0000/1054,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31987000000000,BT41 3AB,2014-10-30,fhrs_5_en-GB,5,,FHRS,0
-399496,47 Dublin Road,,Antrim,Co Antrim,Cornerstores,Retailers - other,4613,5,,405387,5,,54.71062700000000,34/1980/0047/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22049600000000,BT41 4EB,2011-08-05,fhrs_5_en-GB,5,,FHRS,5
-399497,Unit 71 Junction One Retail,Ballymena Road,Antrim,,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,405476,5,,54.72586700000000,43/7996/0071/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22864500000000,BT41 4LL,2013-08-02,fhrs_5_en-GB,5,,FHRS,5
-399498,42 - 44 Main Street,Randalstown,,,Costcutter,Retailers - other,4613,10,,405656,0,,54.75027300000000,99/0000/0000/1062,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31987000000000,BT41 3AB,2013-06-18,fhrs_4_en-GB,4,,FHRS,5
-399499,15A Station Road,,Randalstown,Co Antrim,Costcutters Randalstown,Retailers - other,4613,5,,451705,5,,54.74979800000000,99/0000/0000/0941,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31156500000000,BT41 2AE,2012-08-06,fhrs_5_en-GB,5,,FHRS,5
-399500,,,,,Country Cake Designs,Manufacturers/packers,7839,5,,405422,0,,,40/1703/0038/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-11-04,fhrs_5_en-GB,5,,FHRS,0
-399501,159 Castle Road,Randalstown,,,Country Treasures Daycare,Hospitals/Childcare/Caring Premises,5,0,,405489,0,,54.73923700000000,45/1123/0159/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.28433400000000,BT41 4NG,2013-09-16,fhrs_5_en-GB,5,,FHRS,0
-399502,Ballysavage Road,,Templepatrick,Co Antrim,County Antrim Indoor Bowling Club,Restaurant/Cafe/Canteen,1,5,,405669,0,,54.72687300000000,99/0000/0000/1121,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.11372900000000,BT39 0DX,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-399503,19 Bridge Street,Antrim,,,Cova Inn,Pub/bar/nightclub,7843,5,,405543,5,,54.71421100000000,99/0000/0000/0064,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21920600000000,BT41 4DA,2014-07-21,fhrs_5_en-GB,5,,FHRS,5
-399504,38 Thornhill Road,,Antrim,Co Antrim,Creavery Primary,School/college/university,7845,0,,478675,0,,54.75537400000000,99/0000/0000/0172,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23006000000000,BT41 2LH,2012-10-16,fhrs_5_en-GB,5,,FHRS,5
-399505,"115, Staffordstown Road",,Randalstown,,Creeve House Country Guest Inn,Hotel/bed & breakfast/guest house,7842,0,,405503,5,,54.72190700000000,45/534X/0115/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.36234500000000,BT41 3LH,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-399506,118 Staffordstown Road,,Randalstown,,Creggan Primary School,School/college/university,7845,0,,405504,0,,54.73548900000000,45/534X/0118/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.33712600000000,BT41 3LD,2013-04-09,fhrs_5_en-GB,5,,FHRS,0
-399507,,,,,Crispstix,Mobile caterer,7846,5,,405511,0,,,45/8284/0090/0087,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-399508,,,,,Crisptix (van 2),Mobile caterer,7846,0,,569010,0,,,43/4865/0099/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-06-11,fhrs_5_en-GB,5,,FHRS,0
-399509,"30, Crosshill Road",Aldergrove,Crumlin,,Crosshill Lodge B & B,Hotel/bed & breakfast/guest house,7842,5,,405354,5,,54.64329600000000,33/1683/0030/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20821200000000,BT29 4BH,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-399510,Unit 7-8 Craigstown Ind Estate,Craigstown Road,Randalstown.,,Crosskeys Meats,Retailers - other,4613,0,,547967,0,,,45/8322/0007/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-399511,11 Main Street,Crumlin,Co. Antrim,,Crumble & Shake,Restaurant/Cafe/Canteen,1,5,,405397,0,,54.62062000000000,38/0331/0011/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21720000000000,BT29,2011-11-23,fhrs_5_en-GB,5,,FHRS,5
-399512,9 Lurgan Road,Crumlin,,,Crumlin Evangelical Presbyterian Church,Restaurant/Cafe/Canteen,1,,,724007,,,54.61892000000000,38/3713/0009/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22645300000000,BT29 4QA,2014-11-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-399513,62 Main Street,Crumlin,Co. Antrim,,Crumlin Flowers Gifts and Coffee,Restaurant/Cafe/Canteen,1,5,,724006,5,,54.62057200000000,38/0331/0490/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2014-11-27,fhrs_5_en-GB,5,,FHRS,0
-399514,10  Glenavy Road,,Crumlin,Co Antrim,Crumlin Integrated College,School/college/university,7845,0,,405619,5,,54.61173300000000,99/0000/0000/0699,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22159500000000,BT29 4LA,2013-12-03,fhrs_5_en-GB,5,,FHRS,5
-399515,91 Main Street,,Crumlin,Co Antrim,"Crumlin Presbyterian Church,",Restaurant/Cafe/Canteen,1,0,,680821,0,,54.62050500000000,99/0000/0000/0758,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21876600000000,BT29 4UU,2014-06-24,fhrs_5_en-GB,5,,FHRS,0
-399516,27 Mill Road,,Crumlin,Co Antrim,Crumlin Primary School,School/college/university,7845,5,,405615,0,,54.62159500000000,99/0000/0000/0642,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21528100000000,BT29 4XL,2012-05-01,fhrs_5_en-GB,5,,FHRS,0
-399517,26 Mill Road,Ballydonagh,Crumlin,Co Antrim,Crumlin United Football & Social Club,Pub/bar/nightclub,7843,10,,585174,5,,54.62159500000000,99/0000/0000/0641,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21528100000000,BT29 4XL,2013-08-05,fhrs_3_en-GB,3,,FHRS,10
-399518,1/3 Mill Road,Ballytromery,Crumlin,Co Antrim,Crumlin Video,Retailers - other,4613,5,,405624,0,,54.62159500000000,99/0000/0000/0765,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21528100000000,BT29 4XL,2013-10-31,fhrs_5_en-GB,5,,FHRS,5
-399519,Greenmount Campus,22 Greenmount Road,Antrim,Co Antrim,Cyber Cafe,Restaurant/Cafe/Canteen,1,0,,405577,0,,54.69715000000000,99/0000/0000/0361,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21069300000000,BT41 4PU,2013-12-17,fhrs_5_en-GB,5,,FHRS,5
-399520,45 Main Street,Crumlin,,,Dan's Fruit & Veg,Retailers - other,4613,5,,605220,5,,54.62057200000000,38/0331/0045/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2013-09-23,fhrs_4_en-GB,4,,FHRS,10
-399521,2 Castle Walk,Castle Way,Antrim,Co Antrim,Dayfresh,Retailers - other,4613,5,,655681,0,,54.71528400000000,99/0000/0000/1252,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21889600000000,BT41 4DN,2014-03-27,fhrs_4_en-GB,4,,FHRS,10
-399522,,,,,Dinky Donuts NI,Mobile caterer,7846,0,,668761,0,,,36/9923/0040/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-04-06,fhrs_5_en-GB,5,,FHRS,5
-399523,51 Bush Manor,Antrim,,,Divine Fountains,Restaurant/Cafe/Canteen,1,0,,724013,0,,54.72822700000000,47/0837/0051/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20042900000000,BT41 2UA,2014-11-14,fhrs_5_en-GB,5,,FHRS,0
-399524,66 Church Street,,Antrim,,Domino's Pizza,Takeaway/sandwich shop,7844,5,,405460,0,,54.71367300000000,43/7910/0068/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21561400000000,BT41 4BA,2014-03-19,fhrs_5_en-GB,5,,FHRS,5
-399525,49 Main Street,,Randalstown,Co Antrim,Double Value,Takeaway/sandwich shop,7844,5,,405658,0,,54.75045600000000,99/0000/0000/1070,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32337300000000,BT41 3BB,2014-04-01,fhrs_5_en-GB,5,,FHRS,0
-399526,41 New Street,,Randalstown,,Drummaul House Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,405500,0,,54.74764200000000,45/4270/0041/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2014-07-11,fhrs_5_en-GB,5,,FHRS,5
-399527,2 Islandreagh Drive,Dunadry,Muckamore,Co Antrim,Dunadry Inn,Hotel/bed & breakfast/guest house,7842,10,,405629,10,,54.69893100000000,99/0000/0000/0831,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.14277900000000,BT41 2HA,2014-12-03,fhrs_2_en-GB,2,,FHRS,15
-399528,Gloverstown Road,Toome,,,Duneane Presbyterian Church Hall,Restaurant/Cafe/Canteen,1,0,,478674,5,,54.75152900000000,51/253X/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.45483900000000,BT41 3PH,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-399529,20 Dunsilly Road,,Antrim,,Dunsilly Hotel,Hotel/bed & breakfast/guest house,7842,10,,405435,5,,54.74166700000000,43/2080/0020/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23023800000000,BT41 2JH,2014-02-05,fhrs_4_en-GB,4,,FHRS,5
-399530,13 Main Street,,Crumlin,Co Antrim,Elements,Takeaway/sandwich shop,7844,20,,405398,10,,54.62057200000000,38/0331/0013/00X3,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2014-03-19,fhrs_1_en-GB,1,,FHRS,10
-399531,252 Belfast Road,,Dunadry,,Ellie Mays,Pub/bar/nightclub,7843,5,,405527,5,,54.69837300000000,50/0469/0252/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.13453600000000,BT41 2HH,2014-10-22,fhrs_4_en-GB,4,,FHRS,10
-399532,1 Shanes Street,Randalstown,,,Escarmouche,Restaurant/Cafe/Canteen,1,0,,724010,0,,54.74859900000000,45/1123/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31445700000000,BT41 2AD,2014-11-12,fhrs_4_en-GB,4,,FHRS,10
-399533,3 Mill Road,Crumlin,,,Eurospar,Retailers - other,4613,0,,405415,10,,54.62159500000000,38/3993/0075/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21528100000000,BT29 4XL,2014-05-20,fhrs_4_en-GB,4,,FHRS,0
-399534,2- 5 Somerset Park,Rathenraw,Antrim,Co Antrim,Family Caring Centre - Adult,Other catering premises,7841,10,,405559,0,,54.72012900000000,99/0000/0000/0293,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17857800000000,BT41 2TE,2013-08-22,fhrs_4_en-GB,4,,FHRS,5
-399535,81 Main Street,,Crumlin,Co Antrim,Farley House,Takeaway/sandwich shop,7844,10,,405407,5,,54.62050500000000,38/0331/0081/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21876600000000,BT29 4UU,2013-10-28,fhrs_3_en-GB,3,,FHRS,10
-399536,Belfast International Airport,,Crumlin,,Fed and Watered,Restaurant/Cafe/Canteen,1,5,,405368,5,,54.66155242919922,33/318X/0010/0013,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625709533691,BT29 4AB,2014-12-18,fhrs_4_en-GB,4,,FHRS,10
-399537,36 Main Street,,Crumlin,Co Antrim,Fiddlers Inn Bar,Restaurant/Cafe/Canteen,1,5,,405401,5,,54.62057200000000,38/0331/0036/0015,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2013-03-13,fhrs_5_en-GB,5,,FHRS,5
-399538,82 Church Street,Town Parks,Antrim,Co Antrim,First Antrim Presbyterian Church,Restaurant/Cafe/Canteen,1,5,,680820,5,,,99/0000/0000/0424,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-06-23,fhrs_5_en-GB,5,,FHRS,0
-399539,2 Somerset Park,,Antrim,,First Step Creche,Hospitals/Childcare/Caring Premises,5,10,,405425,0,,54.72012900000000,40/5237/0002/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17857800000000,BT41 2TE,2013-09-11,fhrs_4_en-GB,4,,FHRS,10
-399540,Antrim Forum,Lough Road,ANTRIM,,Forum Eatery,Restaurant/Cafe/Canteen,1,0,,405699,10,,54.71540500000000,99/0008/0000/2003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23147600000000,BT41 4DQ,2014-06-16,fhrs_4_en-GB,4,,FHRS,10
-399541,trading at 20 - 30 Lough Road,,Antrim,,Forum Eatery Mobile Van,Mobile caterer,7846,0,,405700,5,,54.71540500000000,99/0008/0000/2011,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23147600000000,BT41 4DQ,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-399542,"7, Parkhall Shopping Centre",Parkhall Road,Antrim,,Fruit of the Vine,Retailers - other,4613,,,405522,,,54.72287100000000,48/6261/0007/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20394100000000,BT41 1BU,2014-03-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-399543,Unit 1 Greystone Shopping Cent,,Antrim,Co Antrim,Fruit Of The Vine,Retailers - other,4613,,,405597,,,54.71347400000000,99/0000/0000/0465,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20035300000000,BT41 1HD,2014-03-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-399544,35 Belfast Road,,Antrim,Co Antrim,Fun Days Private Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,405580,0,,54.70972200000000,99/0000/0000/0372,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19999200000000,BT41 1PB,2013-09-10,fhrs_5_en-GB,5,,FHRS,5
-399545,2 - 4 Junction One Retail Park,Ballymena Road,ANTRIM,,Funky Monkeys,Restaurant/Cafe/Canteen,1,5,,451700,5,,54.73072900000000,43/7996/0200/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23248500000000,BT41 4LL,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-399546,68 - 70 Church Street,Massereene,Antrim,,Furama,Restaurant/Cafe/Canteen,1,10,,405459,10,,54.72103100000000,43/7910/0067/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20348000000000,BT41 1BA,2014-12-01,fhrs_3_en-GB,3,,FHRS,10
-399547,15 Glenavy Road,CRUMLIN,,,Gael Scoil Ghleanndarach,School/college/university,7845,10,,655667,0,,54.61173300000000,38/2423/0015/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22159500000000,BT29 4LA,2014-02-25,fhrs_4_en-GB,4,,FHRS,10
-399548,Craigstown Industrial Estate,Craigstown Road,Randalstown,,Game On,Retailers - other,4613,,,724011,,,54.76986200000000,45/8322/0130/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.27278200000000,BT41 2PT,2014-11-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-399549,Airport Road,Belfast International Airport,Crumlin,,Gate 22 Cafe Bar (Airside),Pub/bar/nightclub,7843,0,,405369,0,,54.66155400000000,33/318X/0022/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625700000000,BT29 4AB,2013-01-09,fhrs_5_en-GB,5,,FHRS,0
-399550,Unit 10,Freight Forwarders Building,Belfast International Airport,CRUMLIN,Gate Aviation Services,Importers/Exporters,14,0,,405353,5,,54.66155400000000,33/0318/0002/0109,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625700000000,BT29 4AB,2014-05-27,fhrs_5_en-GB,5,,FHRS,0
-399551,69 Church Street,,Antrim,,Girassol,Retailers - other,4613,,,451699,,,54.71401100000000,43/7910/0069/0015,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21480800000000,BT41 4BE,2012-09-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-399552,5 Lurgan Road,Crumlin,,,Glenavy Parish,Restaurant/Cafe/Canteen,1,,,692361,,,54.61892000000000,38/3713/0005/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22645300000000,BT29 4QA,2014-07-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-399553,23 Dungonnell Road,Aldergrove,,,Glendaloch B & B,Hotel/bed & breakfast/guest house,7842,0,,692359,0,,54.67616200000000,33/8890/0023/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23398900000000,BT29 4DQ,2014-07-09,fhrs_5_en-GB,5,,FHRS,0
-399554,"22, Gobrana Road",,Crumlin,,Glendona House,Hotel/bed & breakfast/guest house,7842,0,,405411,0,,54.59730800000000,38/2547/0022/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21335800000000,BT29 4LQ,2014-12-15,fhrs_5_en-GB,5,,FHRS,0
-399555,100 Church Road,Craigmore,Randalstown,Co Antrim,Glenkeen Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,405645,0,,54.75080400000000,99/0000/0000/0950,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32777000000000,BT41 3JX,2013-12-30,fhrs_5_en-GB,5,,FHRS,5
-399556,1A Belfast Road,Town Parks,Antrim,,Glenn - More B&B,Hotel/bed & breakfast/guest house,7842,0,,405579,0,,54.71148400000000,99/0000/0000/0371,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20432100000000,BT41 1NY,2014-11-28,fhrs_5_en-GB,5,,FHRS,0
-399557,Stiles Community Centre,11 Fountain Hill,Antrim,Co Antrim,Globe,Hospitals/Childcare/Caring Premises,5,0,,405554,0,,54.72101400000000,99/0000/0000/0242,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19567300000000,BT41 1LZ,2013-04-04,fhrs_5_en-GB,5,,FHRS,0
-399558,8 Castle Street,Massereene,Antrim,,Golden Inn,Takeaway/sandwich shop,7844,10,,405455,10,,54.71841300000000,43/7805/0008/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21965800000000,BT41 4JE,2013-11-28,fhrs_3_en-GB,3,,FHRS,10
-399559,Unit 32 - 34 Castle Mall,Market Square,Antrim,,Gordons Chemist,Retailers - other,4613,,,569009,,,54.71498000000000,43/1130/0010/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22142300000000,BT41 4AW,2013-06-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-399560,71 Roguery Road,,Toomebridge,Co Antrim,Gortgill Service Station,Restaurant/Cafe/Canteen,1,5,,405678,0,,54.76501200000000,99/0000/0000/1174,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.44416400000000,BT41 3TJ,2013-01-08,fhrs_5_en-GB,5,,FHRS,0
-399561,Wedding Centre,2 Main Street,Randalstown,,Granny Shaws,Retailers - other,4613,,,671747,,,54.74984300000000,45/4262/0002/0095,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31928200000000,BT41 3AB,2014-05-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-399562,,,,,Grannys Home Bakes,Restaurant/Cafe/Canteen,1,0,,680823,0,,,99/0008/0092/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-06-27,fhrs_5_en-GB,5,,FHRS,0
-399563,42 Main Street,Toomebridge,,,Grans,Restaurant/Cafe/Canteen,1,5,,609610,5,,54.75377600000000,51/3870/0042/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46200700000000,BT41 3TF,2014-10-28,fhrs_5_en-GB,5,,FHRS,5
-399564,21 Bay Road,Crumlin,,,Gravelbank Bed and Breakfast,Hotel/bed & breakfast/guest house,7842,5,,701829,5,,54.59165900000000,38/0420/0021/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21473500000000,BT29 4GP,2014-08-13,fhrs_5_en-GB,5,,FHRS,0
-399565,41 Caddy Road,,Randalstown,,Greenfields Day Care Nursery,Hospitals/Childcare/Caring Premises,5,0,,405417,0,,54.77594500000000,39/7412/0041/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32797600000000,BT41 3DL,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-399566,45 Tirgracy Road,,Antrim,Co Antrim,Greenmount Agriculture College -Catering,School/college/university,7845,5,,405576,5,,54.69534900000000,99/0000/0000/0360,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21041600000000,BT41 4PS,2012-08-20,fhrs_5_en-GB,5,,FHRS,5
-399567,38 Greystone Road,,Antrim,Co Antrim,Greystone Presbyterian Church,Restaurant/Cafe/Canteen,1,5,,701830,0,,54.71521100000000,99/0000/0000/0469,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19630400000000,BT41 1LY,2014-08-28,fhrs_5_en-GB,5,,FHRS,0
-399568,53 Greystone Road,,Antrim,Co Antrim,Greystone Primary School,School/college/university,7845,0,,405558,0,,54.71616000000000,99/0000/0000/0279,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17211400000000,BT41 2SJ,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-399569,179 Portglenone Road,Groggan,Randalstown,Co Antrim,Groggan Primary School,School/college/university,7845,5,,405648,0,,54.78512200000000,99/0000/0000/0999,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.36650600000000,BT41 3EU,2013-04-30,fhrs_5_en-GB,5,,FHRS,0
-399570,18 New Street,,Randalstown,,Happy Garden,Takeaway/sandwich shop,7844,5,,405499,10,,54.74764200000000,45/4270/0018/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2013-06-11,fhrs_4_en-GB,4,,FHRS,5
-399571,1a Mill Road,,Crumlin,,Happy Garden,Takeaway/sandwich shop,7844,10,,405413,5,,54.62159500000000,38/3993/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21528100000000,BT29 4Xl,2014-05-13,fhrs_3_en-GB,3,,FHRS,10
-399572,18 Church Street,,Antrim,Co Antrim,Happy Garden Take Away,Takeaway/sandwich shop,7844,20,,478677,10,,54.71367300000000,99/0000/0000/0398,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21561400000000,BT41 4BA,2013-10-29,fhrs_1_en-GB,1,,FHRS,10
-399573,35 Main Street,,Toomebridge,Co Antrim,Happy Valley,Takeaway/sandwich shop,7844,5,,405680,5,,54.75377600000000,99/0000/0000/1194,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46200700000000,BT41 3TF,2014-02-04,fhrs_4_en-GB,4,,FHRS,10
-399574,9 Main Street,,Parkgate,,Happy Village,Takeaway/sandwich shop,7844,0,,405697,0,,54.72250600000000,99/0008/0000/0914,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09471600000000,BT39 0DG,2012-05-10,fhrs_5_en-GB,5,,FHRS,0
-399575,Enkalon Ind. Estate,25 Randalstown Road,Antrim,Co Antrim,Heatons RDC,Importers/Exporters,14,,,555066,,,54.72495000000000,99/0000/0000/0590,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23045500000000,BT41 4LD,2013-05-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-399576,9 John Street,Randalstown,Randalstown,BT41 3AD,Heavenly Cakes and Favours,Manufacturers/packers,7839,10,,451701,5,,54.74938200000000,45/8306/0009/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31976700000000,BT41 3AD,2012-08-10,fhrs_4_en-GB,4,,FHRS,0
-399577,34 - 36 Main Street,,Randalstown,Co Antrim,Heffrons Bar Ltd,Pub/bar/nightclub,7843,10,,405655,0,,54.75027300000000,99/0000/0000/1058,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31987000000000,BT41 3AB,2013-07-01,fhrs_4_en-GB,4,,FHRS,0
-399578,Greystone Shopping Centre,,Antrim,,Hendersons Bakery - Spar,Retailers - other,4613,10,,405428,10,,54.71352100000000,42/2824/0007/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18844900000000,BT41 1JW,2013-09-27,fhrs_3_en-GB,3,,FHRS,10
-399579,5 Ahoghill Road,,Randalstown,,Hermitage Cottage Mrs Catherine Dinsmore,Hotel/bed & breakfast/guest house,7842,5,,405418,0,,54.75463700000000,39/7919/0005/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32553000000000,BT41 3BJ,2011-11-23,fhrs_5_en-GB,5,,FHRS,0
-399580,12 Paradise Walk,,Templepatrick,435566 living well Selim Gecit,Hilton Hotel Templepatrick,Hotel/bed & breakfast/guest house,7842,10,,405675,0,,54.71188200000000,99/0000/0000/1152,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09217300000000,BT39 0DD,2013-08-22,fhrs_4_en-GB,4,,FHRS,10
-399581,24 Railway Street,,Antrim,Co Antrim,Ho Wah,Restaurant/Cafe/Canteen,1,,,405608,,,54.70871500000000,99/0000/0000/0555,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19694900000000,BT41 1PP,2013-09-03,fhrs_4_en-GB,4,,FHRS,
-399582,Junction One Retail & Leisure,Ballymena Road,Antrim,,Holiday Inn Express Antrim,Hotel/bed & breakfast/guest house,7842,,,405446,,,54.72586700000000,43/6841/0001/0014,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22864500000000,BT41 4LL,2013-12-17,fhrs_5_en-GB,5,,FHRS,
-399583,"Unit 14, Junction One",Ballymena Road,Antrim,,Holland  & Barrett,Retailers - other,4613,0,,405473,0,,54.72191500000000,43/7996/0014/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22139800000000,BT41 4JG,2012-02-06,fhrs_5_en-GB,5,,FHRS,0
-399584,Unit 3 Castle Mall,Market Square,Antrim,,Holland & Barratt,Retailers - other,4613,0,,405433,0,,54.71498000000000,43/1130/0003/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22142300000000,BT41 4AW,2012-02-08,fhrs_5_en-GB,5,,FHRS,5
-399585,60  Steeple Road,,Antrim,Co Antrim,Holywell Hospital Catering Dept.,Other catering premises,7841,10,,405549,0,,54.73411000000000,99/0000/0000/0186,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21001200000000,BT41 2RJ,2013-09-17,fhrs_4_en-GB,4,,FHRS,10
-399586,12 Market Square,,Antrim,Co Antrim,Iceland Frozen Foods Ltd,Retailers - other,4613,5,,405605,0,,54.71498000000000,99/0000/0000/0519,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22142300000000,BT41 4AW,2012-02-10,fhrs_5_en-GB,5,,FHRS,0
-399587,17 New Street,,Randalstown,,Imperial City,Takeaway/sandwich shop,7844,,,405396,,,54.74590400000000,37/4277/0017/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32485000000000,BT41 3LA,2014-02-03,fhrs_4_en-GB,4,,FHRS,
-399588,13a Main Street,Randalstown,,,"International Food Shop ""Bravo""",Retailers - other,4613,5,,405495,0,,54.75027300000000,45/4262/0013/0095,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31987000000000,BT41 3AB,2014-02-17,fhrs_5_en-GB,5,,FHRS,0
-399589,"Retail Area, New South Extensi",Belfast International Airport,Crumlin,,Irish Quarter,Retailers - other,4613,,,405367,,,54.66155400000000,33/318X/0005/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625700000000,BT29 4AB,2013-08-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-399590,31 Main Street,Randalstown,,,Istanbull Kebab House,Restaurant/Cafe/Canteen,1,5,,626372,10,,54.74984300000000,45/4262/0031/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31928200000000,BT41 3AB,2013-12-03,fhrs_4_en-GB,4,,FHRS,0
-399591,trading at Tannaghmore F.S,157 Lisnevenagh Road,Antrim,,Izie's Outside Catering,Mobile caterer,7846,0,,405698,0,,,99/0008/0000/1112,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-07-01,fhrs_5_en-GB,5,,FHRS,5
-399592,,,,,J & I's Catering,Mobile caterer,7846,10,,405578,10,,,99/0000/0000/0370,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-06-24,fhrs_4_en-GB,4,,FHRS,0
-399593,37 Fountain Street,,Antrim,Co Antrim,Jade Garden,Takeaway/sandwich shop,7844,,,405594,,,54.71359900000000,99/0000/0000/0457,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21125700000000,BT41 4BG,2014-03-06,fhrs_5_en-GB,5,,FHRS,
-399594,,,,,Jimmy's Kitchen,Mobile caterer,7846,0,,405378,0,,,33/3341/0404/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-399595,29 Church Street,Town Parks,Antrim,Co Antrim,John McCabe (Butchers),Retailers - other,4613,5,,405584,10,,54.71401100000000,99/0000/0000/0404,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21480800000000,BT41 4BE,2013-01-23,fhrs_2_en-GB,2,,FHRS,15
-399596,,,,,Johnny's Cool Ice-Cream,Mobile caterer,7846,5,,585172,0,,,47/4301/0062/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-08-01,fhrs_5_en-GB,5,,FHRS,0
-399597,6A Steeple Road,,Antrim,Co Antrim,Jolly Babies,Hospitals/Childcare/Caring Premises,5,5,,405567,0,,54.72207100000000,99/0000/0000/0325,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20939400000000,BT41 1AF,2013-11-19,fhrs_5_en-GB,5,,FHRS,0
-399598,6a Steeple Road,,Antrim,Co Antrim,Jolly Tots & Jolly Kids,Hospitals/Childcare/Caring Premises,5,0,,405568,0,,54.72207100000000,99/0000/0000/0326,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20939400000000,BT41 1AF,2014-04-29,fhrs_5_en-GB,5,,FHRS,0
-399599,Unit7 44 Largy Road,Crumlin,,,Julies Country Food,Mobile caterer,7846,5,,405384,0,,54.62609700000000,33/8904/0044/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.25726500000000,BT29 4RN,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-399600,1 - 5  Somerset Park,,Antrim,,Just 4 Kids,Hospitals/Childcare/Caring Premises,5,10,,405424,0,,54.72012900000000,40/5237/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17857800000000,BT41 2TE,2013-09-11,fhrs_4_en-GB,4,,FHRS,10
-399601,86 Main Street,,Randalstown,Co Antrim,Kandy Shop,Retailers - other,4613,5,,537883,0,,54.75045600000000,99/0000/0000/1078,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32337300000000,BT41 3BB,2013-03-26,fhrs_5_en-GB,5,,FHRS,5
-399602,17 High Street,Antrim,,,Karolina Shop,Retailers - other,4613,0,,405463,10,,54.71428400000000,43/7945/0017/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21872200000000,BT41 4AX,2013-10-14,fhrs_4_en-GB,4,,FHRS,5
-399603,,,,,Katie Cupcake,Restaurant/Cafe/Canteen,1,5,,555060,5,,,33/4860/0004/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-05-03,fhrs_5_en-GB,5,,FHRS,0
-399604,,,,,Katies Fun Foods,Retailers - other,4613,5,,585169,0,,,45/5153/0052/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-08-01,fhrs_5_en-GB,5,,FHRS,0
-399605,2 Castle Street,Massereene,Antrim,,Kebab Express,Takeaway/sandwich shop,7844,10,,405454,15,,54.71841300000000,43/7805/0002/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21965800000000,BT41 4JE,2014-03-04,fhrs_2_en-GB,2,,FHRS,15
-399606,35 Fountain Street,,Antrim,,Kebab King,Takeaway/sandwich shop,7844,0,,405436,5,,54.71359900000000,43/2358/0035/001X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21125700000000,BT41 4BG,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-399607,47 High Street,,Antrim,,Kebab Zone,Takeaway/sandwich shop,7844,10,,405466,15,,54.71428400000000,43/7945/0099/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21872200000000,BT41 4AX,2013-11-05,fhrs_2_en-GB,2,,FHRS,15
-399608,20 Tully Road,Nutts Corner,Crumlin,Co Antrim,Keef Halla Country House,Hotel/bed & breakfast/guest house,7842,5,,405639,5,,54.64947000000000,99/0000/0000/0897,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.16810600000000,BT29 4SW,2014-11-04,fhrs_5_en-GB,5,,FHRS,5
-399609,1 Fountain Hill,Stiles Way,Antrim,Co Antrim,Kentucky Fried Chicken,Takeaway/sandwich shop,7844,,,405555,,,54.72101400000000,99/0000/0000/0245,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19567300000000,BT41 1LZ,2014-11-27,fhrs_4_en-GB,4,,FHRS,
-399610,3- 5 Parkhall Shopping Centre,Querens Road,Antrim,,Kids Kabin,School/college/university,7845,0,,405521,0,,54.72033200000000,48/6261/0005/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19871500000000,BT41 1AJ,2013-10-28,fhrs_5_en-GB,5,,FHRS,5
-399611,26 Killead Road,Aldergrove,CRUMLIN,,Killead Air Lodge,Hotel/bed & breakfast/guest house,7842,0,,405372,5,,54.65728400000000,33/3341/0002/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19605100000000,BT29 4EL,2012-09-06,fhrs_5_en-GB,5,,FHRS,5
-399612,50 Killead Road,Aldergrove,,,Killead Presbyterian Church,Restaurant/Cafe/Canteen,1,,,729962,,,,99/0000/0000/0062,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-11-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-399613,,,,,King Kebab,Mobile caterer,7846,20,,405416,15,,,38/4027/0090/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-12-08,fhrs_1_en-GB,1,,FHRS,15
-399614,928 Antrim Road,,Templepatrick,,Kings Court Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,492537,0,,54.70067400000000,99/0000/0000/1142,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10279900000000,BT39 0AT,2012-12-10,fhrs_5_en-GB,5,,FHRS,0
-399615,40 Creevery Road,,Antrim,Co Antrim,Ladyhill Lodge Private Nursing Home,Hospitals/Childcare/Caring Premises,5,10,,405552,0,,54.76441600000000,99/0000/0000/0203,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21864900000000,BT41 2LQ,2013-08-12,fhrs_4_en-GB,4,,FHRS,0
-399616,Belfast International Airport,Crumlin,Co Antrim,,Lagan Bar and Restaurant,Pub/bar/nightclub,7843,0,,405540,0,,55.29342269897461,99/0000/0000/0013,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22081089019775,BT29 4AB,2012-10-10,fhrs_4_en-GB,4,,FHRS,10
-399617,1C Orchard Road,,Crumlin,,Lakeview Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,405625,5,,54.62020600000000,99/0000/0000/0773,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21676700000000,BT29 4SD,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-399618,15A Vicarage Gardens,Station Road,Antrim,Co Antrim,Laura's Lodge,Hospitals/Childcare/Caring Premises,5,5,,405614,0,,54.71803700000000,99/0000/0000/0615,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21427400000000,BT41 4JP,2013-03-25,fhrs_5_en-GB,5,,FHRS,5
-399619,47 Main Street,,Toomebridge,Co Antrim,Lean Cuts,Retailers - other,4613,5,,405683,5,,54.75377600000000,99/0000/0000/1199,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46200700000000,BT41 3TF,2013-11-29,fhrs_5_en-GB,5,,FHRS,5
-399620,,,,,Lemon Tree Bakery,Restaurant/Cafe/Canteen,1,0,,724012,0,,,46/3458/0017/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-11-21,fhrs_5_en-GB,5,,FHRS,0
-399621,Junction One Retail & Leisure,Ballymena Road,Antrim,,Lidl,Retailers - other,4613,5,,578189,10,,54.72586700000000,43/6841/0000/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22864500000000,BT41 4LL,2013-03-27,fhrs_4_en-GB,4,,FHRS,5
-399622,Unit 3 - 5 Parkhall Shopping C,Queens Road,Antrim,,Little Hands,Hospitals/Childcare/Caring Premises,5,0,,405520,5,,54.72181100000000,48/6261/0003/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20153600000000,BT41 1AT,2014-12-18,fhrs_5_en-GB,5,,FHRS,0
-399623,,,,,Little Treats NI,Manufacturers/packers,7839,5,,405483,0,,,44/3023/0123/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-01-24,fhrs_5_en-GB,5,,FHRS,0
-399624,50 Loanends Road,CRUMLIN,,,Loanends Presbyterian Church,Restaurant/Cafe/Canteen,1,5,,692360,0,,54.66928000000000,36/364X/0050/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10327100000000,BT29 4YW,2014-07-21,fhrs_5_en-GB,5,,FHRS,0
-399625,193 Seven Mile Straight,Nutts Corner,Crumlin,Co Antrim,Loanends Primary School,School/college/university,7845,5,,405636,0,,54.66333900000000,99/0000/0000/0880,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10422900000000,BT29 4YR,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-399626,72 Lough Road,,Antrim,,Loughshore Coffee House,Restaurant/Cafe/Canteen,1,5,,405693,10,,54.71540500000000,99/0008/0000/0078,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23147600000000,BT41 4DQ,2013-09-09,fhrs_3_en-GB,3,,FHRS,10
-399627,66 Main Street,Crumlin,Co. Antrim,,Loughview Meats,Retailers - other,4613,5,,405404,5,,54.62062000000000,38/0331/0066/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21720000000000,BT29,2013-04-18,fhrs_4_en-GB,4,,FHRS,10
-399628,72 Church Street,,Antrim,Co Antrim,Lucky Star,Takeaway/sandwich shop,7844,10,,405586,5,,54.71367300000000,99/0000/0000/0423,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21561400000000,BT41 4BA,2013-05-29,fhrs_4_en-GB,4,,FHRS,5
-399629,15A Old Staffordstown Road,Randalstown,,Co Antrim,Lurgan West Lodge B & B,Hotel/bed & breakfast/guest house,7842,5,,405649,0,,54.74348800000000,99/0000/0000/1012,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32881600000000,BT41 3HN,2014-12-03,fhrs_5_en-GB,5,,FHRS,0
-399630,96 Lylehill Road,Ballynabarnish,Templepatrick,Co Antrim,Lylehill Tavern,Pub/bar/nightclub,7843,10,,578192,5,,54.67366200000000,99/0000/0000/1119,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.06899000000000,BT39 0HL,2013-04-11,fhrs_4_en-GB,4,,FHRS,0
-399631,,,,,Lyttle Goodies  ex Lyttle Ice Cream Van,Mobile caterer,7846,5,,405492,0,,,45/2472/0038/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-04-25,fhrs_5_en-GB,5,,FHRS,0
-399632,6A Loughbeg Road,,Toomebridge,Co Antrim,M & B Henry Vivo,Retailers - other,4613,20,,405679,0,,54.77650000000000,99/0000/0000/1177,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.44467100000000,BT41 3TN,2014-11-27,fhrs_1_en-GB,1,,FHRS,10
-399633,10 Dublin Road,Balloo,Antrim,,Mace Antrim,Retailers - other,4613,5,,405386,5,,54.71277100000000,34/1980/0010/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21967300000000,BT41 4EA,2013-07-22,fhrs_5_en-GB,5,,FHRS,0
-399634,22 - 24  New Street,,Randalstown,Co Antrim,Mace M J Gault,Retailers - other,4613,5,,405664,5,,54.74764200000000,99/0000/0000/1096,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2014-12-03,fhrs_4_en-GB,4,,FHRS,10
-399635,"10, Ballydunmaul Road",Randalstown,,,Mackenzie's Equestrian Centre,Restaurant/Cafe/Canteen,1,10,,655668,10,,54.75875400000000,39/0094/0010/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.37594200000000,BT41 3JD,2014-02-28,fhrs_2_en-GB,2,,FHRS,15
-399636,51-53 High Street,,Antrim,Co Antrim,Maddens Bar,Pub/bar/nightclub,7843,0,,405603,10,,54.71458800000000,99/0000/0000/0507,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21979500000000,BT41 4AY,2012-08-23,fhrs_4_en-GB,4,,FHRS,5
-399637,101 Neillsbrook Park,,Randalstown,Co Antrim,Maine Fold,Restaurant/Cafe/Canteen,1,0,,626373,0,,54.75241100000000,99/0000/0000/0981,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32183200000000,BT41 3BQ,2013-12-11,fhrs_5_en-GB,5,,FHRS,0
-399638,93 Portglenone Road,,Randalstown,,Maine Integrated Playgroup,Hospitals/Childcare/Caring Premises,5,5,,405702,5,,54.75528000000000,99/0008/0093/0016,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32918500000000,BT41 3EH,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-399639,93 Portglenone Road,,Randalstown,,Maine Integrated Primary School,School/college/university,7845,,,569011,,,54.75528000000000,99/0008/0093/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32918500000000,BT41 3EH,2013-11-20,fhrs_5_en-GB,5,,FHRS,
-399640,50a Ahoghill Road,,Randalstown,,Maine Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,405647,5,,54.75928600000000,99/0000/0000/0972,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32849200000000,BT41 3DG,2014-10-14,fhrs_5_en-GB,5,,FHRS,5
-399641,Belfast International Airport,Ballyrobin Road,Crumlin,,Maldron Hotel,Hotel/bed & breakfast/guest house,7842,5,,569008,5,,54.66301400000000,33/030X/0011/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21901400000000,BT29 4ZY,2013-06-03,fhrs_5_en-GB,5,,FHRS,5
-399642,220 Staffordstown Road,,Toomebridge,Co Antrim,Mallons Bar,Pub/bar/nightclub,7843,0,,405676,0,,54.73228300000000,99/0000/0000/1166,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.41772200000000,BT41 3QT,2014-12-03,fhrs_5_en-GB,5,,FHRS,0
-399643,"23, Thornhill Road",ANTRIM,,,Margaret Dennison - B & B,Hotel/bed & breakfast/guest house,7842,0,,405515,0,,54.75537400000000,46/5833/0023/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23006000000000,BT41 2LH,2011-11-24,fhrs_5_en-GB,5,,FHRS,0
-399644,,,,,Marie Mulholland (Home caterer),Restaurant/Cafe/Canteen,1,5,,537871,0,,,40/7329/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-02-18,fhrs_5_en-GB,5,,FHRS,0
-399645,38 Oldstone Hill,,Antrim,Co Antrim,Marquess Meats,Retailers - other,4613,10,,405634,10,,54.69107700000000,99/0000/0000/0845,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20347000000000,BT41 4SB,2014-02-20,fhrs_4_en-GB,4,,FHRS,0
-399646,115 Staffordstown Road,,Randalstown,Co Antrim,Marrions Bar,Pub/bar/nightclub,7843,0,,405646,5,,54.72190700000000,99/0000/0000/0959,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.36234500000000,BT41 3LH,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-399647,8 Main Street,,Randalstown,Co Antrim,Marrions Bar,Pub/bar/nightclub,7843,0,,405652,0,,54.75027300000000,99/0000/0000/1040,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31987000000000,BT41 3AB,2012-01-24,fhrs_5_en-GB,5,,FHRS,0
-399648,,,,,Martin & Anne Ford,Manufacturers/packers,7839,5,,668764,0,,,44/8580/0055/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-04-02,fhrs_5_en-GB,5,,FHRS,0
-399649,"4, Bridge Street",Balloo,Antrim,,Massereene House,Pub/bar/nightclub,7843,5,,595027,0,,54.71421100000000,34/7202/0004/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21920600000000,BT41 4DA,2013-09-10,fhrs_4_en-GB,4,,FHRS,10
-399650,6 Steeple Road,,Antrim,Co Antrim,Massereene Manor Private Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,405566,0,,54.72207100000000,99/0000/0000/0324,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20939400000000,BT41 1AF,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-399651,19b Fountain Street,Massereene,Antrim,,Maud's Antrim,Restaurant/Cafe/Canteen,1,10,,692363,10,,54.71359900000000,43/2358/0019/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21125700000000,BT41 4BG,2014-07-28,fhrs_3_en-GB,3,,FHRS,10
-399652,Twelfth Milestone,"Unit 3, 954 Antrim Road",Templepatrick,,Mauds at the Parlour,Restaurant/Cafe/Canteen,1,5,,405532,10,,54.70067400000000,50/6394/0954/0032,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10279900000000,BT39 0AT,2013-12-05,fhrs_4_en-GB,4,,FHRS,5
-399653,6 Castle Walk Castle Way,,Antrim,Co Antrim,McCormack Family Butchers,Retailers - other,4613,10,,405692,10,,54.71528400000000,99/0000/0000/1254,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21889600000000,BT41 4DN,2013-11-05,fhrs_3_en-GB,3,,FHRS,10
-399654,Junction One,Ballymena Road,Antrim,,McGee Butcher (within Asda's),Retailers - other,4613,0,,537876,0,,,43/6841/0087/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-03-25,fhrs_5_en-GB,5,,FHRS,0
-399655,73 Main Street,,Crumlin,Co Antrim!,McIlroys,Restaurant/Cafe/Canteen,1,,,405405,,,54.65166900000000,38/0331/0073/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21486200000000,BT29 4AU,2014-09-12,fhrs_5_en-GB,5,,FHRS,
-399656,954C Antrim Road,,Templepatrick,Co Antrim,McKay (Newtownards) Ltd.,Retailers - other,4613,,,492536,,,54.70067400000000,99/0000/0000/1132,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10279900000000,BT39 0AT,2012-11-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-399657,11 Ballyginniff Road,Aldergrove,,,McKennas Bar,Pub/bar/nightclub,7843,5,,405350,0,,54.66438700000000,33/0105/0011/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.27219400000000,BT29 4EF,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-399658,236 Lisnevenagh Road,Antrim,,,McLarnon's Ramble Inn,Pub/bar/nightclub,7843,10,,451702,10,,54.77085400000000,46/361X/0236/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.24368000000000,BT41 2JT,2014-10-29,fhrs_3_en-GB,3,,FHRS,10
-399659,954 Antrim Road,,Templepatrick,,McMurray's Butchers - Milestone Garage,Retailers - other,4613,5,,405533,0,,54.70067400000000,50/6394/0954/0105,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10279900000000,BT39 0AT,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-399660,14 High Street,Town Parks,Antrim,Co Antrim,Meat Joint,Retailers - other,4613,5,,405600,0,,54.71428400000000,99/0000/0000/0479,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21872200000000,BT41 4AX,2014-07-23,fhrs_4_en-GB,4,,FHRS,10
-399661,42 Main Street,,Crumlin,Co Antrim,Medicare Pharmacy,Retailers - other,4613,,,509582,,,54.62057200000000,99/0000/0000/0738,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2013-01-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-399662,64 Greystone Road,Antrim,,,Mid Antrim Animal Sanctuary,Restaurant/Cafe/Canteen,1,5,,671748,0,,54.71431200000000,99/0000/0000/0188,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17887000000000,BT41 2QN,2014-05-30,fhrs_5_en-GB,5,,FHRS,0
-399663,29 Main Street,Crumlin,Co. Antrim,,Milanos,Takeaway/sandwich shop,7844,10,,622554,10,,54.62050500000000,38/0331/0029/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21876600000000,BT29 4UU,2013-11-05,fhrs_4_en-GB,4,,FHRS,0
-399664,,,,,Mini Doh! Nuts,Mobile caterer,7846,10,,405472,15,,,43/7996/0010/0501,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-11-04,fhrs_2_en-GB,2,,FHRS,10
-399665,Junction One (Unit 12),Ballymena Road,Antrim,,Moes Bar Grill,Restaurant/Cafe/Canteen,1,,,405448,,,54.72191500000000,43/6841/0012/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22139800000000,BT41 4JG,2013-10-31,fhrs_4_en-GB,4,,FHRS,
-399666,"104, Moneynick Road",Cranfield,Randalstown,,Moneynick Primary School,School/college/university,7845,10,,405394,0,,54.74269400000000,37/403X/0104/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.34169200000000,BT41 3HW,2014-06-16,fhrs_4_en-GB,4,,FHRS,5
-399667,177A Moneynick Road,Toomebridge,Co Antrim,,Moneynick Service Station,Retailers - other,4613,,,405677,,,54.74686500000000,99/0000/0000/1172,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.43509100000000,BT41 3QZ,2014-06-09,fhrs_5_en-GB,5,,FHRS,
-399668,Craigstown Road,,Randalstown,,Mount St Michaels Afterschools Club,School/college/university,7845,5,,405506,0,,54.75074700000000,45/8284/0000/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31001900000000,BT41 2AF,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-399669,"3, Craigstown Road",Randalstown,,,Mount St Michaels Nursery Unit,Hospitals/Childcare/Caring Premises,5,5,,405507,0,,54.75074700000000,45/8284/0003/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31001900000000,BT41 2AF,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-399670,3 Craigstown Road,,Randalstown,Co Antrim,Mount St. Michaels Primary,School/college/university,7845,0,,405644,0,,54.75074700000000,99/0000/0000/0931,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31001900000000,BT41 2AF,2014-06-02,fhrs_5_en-GB,5,,FHRS,5
-399671,,,,,MR COCO,Mobile caterer,7846,5,,405412,0,,,38/3489/0029/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-04-17,fhrs_5_en-GB,5,,FHRS,0
-399672,,,,,Mrs Annette Hughes - Bakery,Manufacturers/packers,7839,5,,451696,0,,,33/8912/0068/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2012-09-20,fhrs_5_en-GB,5,,FHRS,5
-399673,24 Crooked Stone Road,Aldergrove,,,Mrs Trotters,Importers/Exporters,14,,,655665,,,54.66802300000000,33/1667/0024/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19504800000000,BT29 4EH,2014-02-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-399674,1 Abbey Road,Oldstone,Muckamore,Co Antrim,Muckamore Abbey Hospital,Other catering premises,7841,0,,405633,0,,54.69161000000000,99/0000/0000/0843,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19221700000000,BT41 4SH,2014-11-17,fhrs_5_en-GB,5,,FHRS,5
-399675,5A Nursery Park,Antrim,Antrim,Co Antrim,Muckamore Cricket & Lawn Tennis Club,Restaurant/Cafe/Canteen,1,5,,432981,5,,54.70504000000000,99/0000/0000/0206,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19813600000000,BT41 1QR,2012-06-22,fhrs_5_en-GB,5,,FHRS,5
-399676,4 Ballycraigy Road,Ballycraigy,Antrim,Co Antrim,Muckamore Playgroup,Hospitals/Childcare/Caring Premises,5,5,,405545,5,,54.70487300000000,99/0000/0000/0094,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17969600000000,BT41 1QP,2013-11-12,fhrs_5_en-GB,5,,FHRS,0
-399677,58 Main Street,,Toomebridge,Co Antrim,Murrays Centra,Retailers - other,4613,5,,405686,5,,54.75165000000000,99/0000/0000/1205,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46009900000000,BT41 3NJ,2013-06-25,fhrs_4_en-GB,4,,FHRS,10
-399678,15a Glenavy Road,Crumlin,,,Naiscoil Ghleann Darach - Mobile,School/college/university,7845,5,,405410,0,,54.61173300000000,38/2423/0015/0XX7,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22159500000000,BT29 4LA,2013-05-16,fhrs_5_en-GB,5,,FHRS,0
-399679,30 Chapeltown Road,Shilvodan,Antrim,,Naiscoil Na TamhNa Moire,School/college/university,7845,5,,655676,0,,54.78476000000000,46/1277/0030/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.24105700000000,BT41 2LD,2014-03-21,fhrs_5_en-GB,5,,FHRS,0
-399680,1 Ballyquillan Road,Aldergrove,Crumlin,Co Antrim,Naroon House,Hospitals/Childcare/Caring Premises,5,5,,432979,0,,54.64535900000000,99/0000/0000/0036,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.24358200000000,BT29 4DD,2012-06-08,fhrs_5_en-GB,5,,FHRS,0
-399681,1 Neillsbrook Park,,Randalstown,Co Antrim,Neillsbrook Fold  (Luncheon Club),Restaurant/Cafe/Canteen,1,0,,478679,0,,54.75128700000000,99/0000/0000/0982,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32111700000000,BT41 3AX,2014-09-24,fhrs_5_en-GB,5,,FHRS,0
-399682,23 Church Street,Antrim,,,Nelsons Home Bakery,Manufacturers/packers,7839,10,,405458,0,,54.71401100000000,43/7910/0023/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21480800000000,BT41 4BE,2014-04-01,fhrs_4_en-GB,4,,FHRS,5
-399683,Unit 1 Castle Mall,Market Square,Antrim,,New Look,Retailers - other,4613,,,405432,,,54.71528400000000,43/1130/0001/0014,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21889600000000,BT41 4DN,2014-07-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-399684,18 Caulside Park,,Antrim,,Newpark Vivo,Retailers - other,4613,20,,405421,10,,54.71088100000000,40/1185/0018/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17655600000000,BT41 2DR,2014-07-21,fhrs_1_en-GB,1,,FHRS,10
-399685,90 Craigstown Road,Randalstown,N320 NBV,,NI Tram Corporation (Dinky Donuts 2),Mobile caterer,7846,0,,708941,0,,54.75074700000000,45/8284/0090/0095,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31001900000000,BT41 2AF,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-399686,,,,,NI Tram Corporation (dinky donuts),Mobile caterer,7846,5,,405510,0,,,45/8284/0090/001X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-399687,128 Belfast Road,Muckamore,Antrim,Co Antrim,NISA Islandbawn Stores,Retailers - other,4613,5,,405630,5,,54.70449800000000,99/0000/0000/0833,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.17809900000000,BT41 2BA,2014-01-07,fhrs_5_en-GB,5,,FHRS,0
-399688,55B Main Street,,Toomebridge,Co Antrim,Numark Pharmacy,Retailers - other,4613,,,405685,,,54.75533700000000,99/0000/0000/1204,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46250700000000,BT41 3SA,2014-06-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-399689,31 Lurgan Road,,Crumlin,Co Antrim,Oaktree Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,405620,0,,54.60940700000000,99/0000/0000/0707,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23394000000000,BT29 4QB,2014-05-30,fhrs_5_en-GB,5,,FHRS,0
-399690,Schools Kitchen,15C GLENAVY ROAD,Crumlin,,Oaktree Nursery Oaks & Tall Oaks,Restaurant/Cafe/Canteen,1,0,,405409,5,,54.61173300000000,38/2423/0015/0010,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22159500000000,BT29 4LA,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-399691,106 Main Street,Randalstown,C/O 182 Ahoghill Rd Randalstow,Co Antrim,OC Presbyterian Church,Restaurant/Cafe/Canteen,1,0,,405660,0,,54.75045600000000,99/0000/0000/1080,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32337300000000,BT41 3BB,2013-05-24,fhrs_5_en-GB,5,,FHRS,0
-399692,67 Main Street,,Crumlin,Co Antrim,O'Connors Bar & Brasserie,Pub/bar/nightclub,7843,10,,405623,5,,54.62050500000000,99/0000/0000/0750,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21876600000000,BT29 4UU,2014-11-24,fhrs_3_en-GB,3,,FHRS,10
-399693,22 Main Street,,Randalstown,Co Antrim,O'Kanes Bar,Pub/bar/nightclub,7843,0,,405653,0,,54.75027300000000,99/0000/0000/1048,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31987000000000,BT41 3AB,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-399694,7 Neillsbrook Road,,Randalstown,,Old Bleach Bowling  Club,Restaurant/Cafe/Canteen,1,5,,405494,0,,54.75181600000000,45/4254/0007/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31971300000000,BT41 3AE,2013-08-05,fhrs_5_en-GB,5,,FHRS,5
-399695,trading at Springfarm Ind Esta,,Antrim,Co Antrim,Olga McElhinney - The Burger Bar,Mobile caterer,7846,0,,405553,0,,54.73498800000000,99/0000/0000/0234,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625600000000,,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-399696,19 New Street,,Randalstown,Co Antrim,Orchard,Retailers - other,4613,5,,405663,5,,54.74764200000000,99/0000/0000/1092,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2014-10-28,fhrs_5_en-GB,5,,FHRS,0
-399697,Enkalon Industrial Estate,25 Randalstown Road,Antrim,,Oriel Catering - at Heatons RDC,Restaurant/Cafe/Canteen,1,5,,537875,5,,54.72495000000000,43/4857/0025/0023,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23045500000000,BT41 4LD,2013-02-13,fhrs_5_en-GB,5,,FHRS,5
-399698,30 Oriel Road,Springfarm,Antrim,,Oriel House,Hospitals/Childcare/Caring Premises,5,10,,405518,0,,54.71954900000000,47/4638/0030/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21808800000000,BT41 4HP,2014-11-28,fhrs_4_en-GB,4,,FHRS,5
-399699,9 Station Road,,Randalstown,,Parish Centre (St MacNissis),Restaurant/Cafe/Canteen,1,0,,578194,0,,54.75074700000000,99/0008/0000/0949,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31001900000000,BT41 2AF,2014-06-02,fhrs_5_en-GB,5,,FHRS,0
-399700,79 Grange Road,"Parkgate, Templepatrick",Ballyclare,Co Antrim,Parkgate Primary School,School/college/university,7845,0,,405671,0,,54.72551300000000,99/0000/0000/1124,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09223100000000,BT39 0DH,2013-06-03,fhrs_5_en-GB,5,,FHRS,5
-399701,12 Steeple Road,,Antrim,,Parkhall High School School Meals,School/college/university,7845,0,,405570,0,,54.72207100000000,99/0000/0000/0328,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20939400000000,BT41 1AF,2013-06-10,fhrs_5_en-GB,5,,FHRS,5
-399702,Seacash Walk,Park Hall,Antrim,Co Antrim,Parkhall Primary School Meals Kitchen,School/college/university,7845,5,,405557,5,,54.72114400000000,99/0000/0000/0267,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20141000000000,BT41 1AZ,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-399703,6 Birch Hill Road,,Antrim,,Parkhall Senior College Meals Kitchen,School/college/university,7845,0,,405420,5,,54.71959400000000,40/0529/0006/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.16035000000000,BT41 2QR,2014-06-10,fhrs_5_en-GB,5,,FHRS,0
-399704,Unit 10 Parkhall Shopping Cent,Queens Road,Parkhall,Antrim,Parkhall Spar,Retailers - other,4613,0,,405694,0,,54.72033200000000,99/0008/0000/0256,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19871500000000,BT41 1AJ,2014-04-16,fhrs_5_en-GB,5,,FHRS,5
-399705,177 Moneynick Road,,Toomebridge,,Peggy's Diner,Restaurant/Cafe/Canteen,1,5,,405537,5,,54.74982400000000,51/4036/0177/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.45286900000000,BT41 3QP,2014-02-14,fhrs_4_en-GB,4,,FHRS,10
-399706,68 Main Street,Crumlin,Co. Antrim,,Phoenix,Takeaway/sandwich shop,7844,10,,451698,0,,54.62057200000000,38/0331/0068/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2014-09-10,fhrs_4_en-GB,4,,FHRS,5
-399707,47 Main Street,,Randalstown,Co Antrim,Pickens Pub,Pub/bar/nightclub,7843,0,,405657,0,,54.75045600000000,99/0000/0000/1067,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32337300000000,BT41 3BB,2014-07-03,fhrs_5_en-GB,5,,FHRS,0
-399708,3 Railway Street,,Antrim,Co Antrim,Pizza The Action,Takeaway/sandwich shop,7844,5,,405609,5,,54.71508700000000,99/0000/0000/0558,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21463700000000,BT41 4AQ,2014-03-03,fhrs_5_en-GB,5,,FHRS,5
-399709,22 Church Street,Town Parks,Antrim,Co Antrim,Pizza Time,Takeaway/sandwich shop,7844,10,,405583,0,,54.71367300000000,99/0000/0000/0400,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21561400000000,BT41 4BA,2013-07-23,fhrs_4_en-GB,4,,FHRS,0
-399710,,,,,Pizza Van Man,Mobile caterer,7846,5,,701828,5,,,33/5972/0026/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-399711,10b High Street,,Antrim,Co Antrim,Planet Bingo,Retailers - other,4613,,,537880,,,54.71465800000000,99/0000/0000/0476,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21845700000000,BT41 4AN,2013-03-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-399712,50 Main Street,,Randalstown,,Pollyflinders,Restaurant/Cafe/Canteen,1,0,,405497,0,,54.75027300000000,45/4262/0050/0011,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31987000000000,BT41 3AB,2014-02-11,fhrs_5_en-GB,5,,FHRS,5
-399713,Unit 42 Castle Mall,Market Square,Antrim,,Poundland,Retailers - other,4613,5,,405349,0,,54.71528400000000,01/386X/0042/0085,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21889600000000,BT41 4DN,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-399714,Unit 56-58 Castle Mall,Castle Walk,Antrim,Co Antrim,Poundstretcher,Retailers - other,4613,0,,405689,5,,54.71528400000000,99/0000/0000/1235,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21889600000000,BT41 4DN,2014-05-12,fhrs_4_en-GB,4,,FHRS,10
-399715,80 Main Street,,Randalstown,Co Antrim,Quality Meats,Retailers - other,4613,5,,537882,5,,54.75045600000000,99/0000/0000/1076,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32337300000000,BT41 3BB,2013-02-13,fhrs_4_en-GB,4,,FHRS,10
-399716,24 Railway Street,ANTRIM,,,Railway Bar,Pub/bar/nightclub,7843,5,,492533,0,,54.71506200000000,43/7929/0024/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21726000000000,BT41 4AE,2012-12-14,fhrs_5_en-GB,5,,FHRS,5
-399717,58 Main Street,Randalstown,Co Antrim,,Randal Bakery,Manufacturers/packers,7839,10,,405659,10,,54.75045600000000,99/0000/0000/1072,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32337300000000,BT41 3BB,2013-11-11,fhrs_3_en-GB,3,,FHRS,10
-399718,4 Church Road,Randalstown,Randalstown,Co Antrim,Randalstown Central Primary School,School/college/university,7845,5,,405651,0,,54.74906500000000,99/0000/0000/1030,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32476600000000,BT41 3AJ,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-399719,102 Neillsbrook Park,Randalstown,,,Randalstown Community Playgroup,Hospitals/Childcare/Caring Premises,5,0,,405493,5,,54.75181600000000,45/4246/0102/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31971300000000,BT41 3AE,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-399720,5 Neillsbrook Road,,Randalstown,,Randalstown Pharmacy,Retailers - other,4613,,,693300,,,54.75181600000000,45/4254/0005/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31971300000000,BT41 3AE,2014-03-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-399721,27 Norfolk Square,Rathenraw,Antrim,Co Antrim,Rathenraw Primary,School/college/university,7845,5,,405575,0,,54.71947300000000,99/0000/0000/0353,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18874200000000,BT41 2SE,2013-11-08,fhrs_5_en-GB,5,,FHRS,5
-399722,Dining Centre,10 Loughanmore Road,Dunadry,Antrim,Rathmore Centre,School/college/university,7845,5,,405560,5,,54.71684200000000,99/0000/0000/0296,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.15251300000000,BT41 2hq,2012-03-07,fhrs_5_en-GB,5,,FHRS,0
-399723,Unit 10 Junction One Retail Pk,Ballymena Road,Antrim,,Red Panda,Restaurant/Cafe/Canteen,1,5,,478673,10,,54.73072900000000,43/7996/0000/0108,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23248500000000,BT41 4LL,2013-07-03,fhrs_2_en-GB,2,,FHRS,15
-399724,Junction One Retail Park B,Ballymena Road,Antrim,,Redz,Restaurant/Cafe/Canteen,1,,,405471,,,54.72191500000000,43/7996/0010/0102,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22139800000000,BT41 4JG,2013-12-03,fhrs_4_en-GB,4,,FHRS,
-399725,Belfast International Airport,,Crumlin,,Ritazza Landside,Restaurant/Cafe/Canteen,1,10,,405365,0,,54.66155242919922,33/318X/0000/0507,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625709533691,BT29 4AB,2014-06-13,fhrs_4_en-GB,4,,FHRS,0
-399726,11 Fennel Road,Town Parks,Antrim,Co Antrim,Riverside School,School/college/university,7845,5,,405590,5,,54.71237300000000,99/0000/0000/0442,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21278500000000,BT41 4PB,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-399727,147 Portglenone Road,,Randalstown,Co Antrim,Robin Rainey,Retailers - other,4613,,,577633,,,54.76479100000000,99/0000/0000/0946,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.34204600000000,BT41 3EN,2013-07-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-399728,20 Fountain Street,Town Parks,Antrim,Co Antrim,Rolo's Fish and Chip Shop,Takeaway/sandwich shop,7844,0,,405592,5,,54.71335800000000,99/0000/0000/0447,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21195000000000,BT41 4BB,2014-11-18,fhrs_5_en-GB,5,,FHRS,5
-399729,Unit 100 Kilgreel Road,Parkhall,Antrim,Co Antrim,Rosedale,Hospitals/Childcare/Caring Premises,5,10,,405604,0,,54.71813100000000,99/0000/0000/0516,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20176100000000,BT41 1EU,2014-07-08,fhrs_4_en-GB,4,,FHRS,0
-399730,9 Fennell Road,Antrim,,,Rosemary Lodge Care Home,Hospitals/Childcare/Caring Premises,5,5,,405589,5,,54.71237300000000,99/0000/0000/0441,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21278500000000,BT41 4PB,2014-10-27,fhrs_5_en-GB,5,,FHRS,5
-399731,,,,,Rosewood Cottage Cakes,Restaurant/Cafe/Canteen,1,0,,405514,0,,,46/3458/0035/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-06-30,fhrs_5_en-GB,5,,FHRS,0
-399732,60A Durnish Road,Springfarm,Antrim,Co Antrim,Round Tower Community Playgroup,Hospitals/Childcare/Caring Premises,5,0,,405562,5,,54.73254000000000,99/0000/0000/0306,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22175600000000,BT41 2TH,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-399733,60 Durnish Road,Spring Farm,Antrim,Co Antrim,Round Tower Int.  Primary School,School/college/university,7845,0,,405561,0,,54.73254000000000,99/0000/0000/0305,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22175600000000,BT41 2TH,2013-04-19,fhrs_5_en-GB,5,,FHRS,5
-399734,,,,,Ruby Jane's Pantry,Manufacturers/packers,7839,0,,571156,0,,,39/6696/0003/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-06-11,fhrs_5_en-GB,5,,FHRS,0
-399735,61- 63 Main Street,Crumlin,Co. Antrim,,Russells Shop - 4 - You,Retailers - other,4613,,,405403,,,54.62057200000000,38/0331/0061/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2014-06-11,fhrs_4_en-GB,4,,FHRS,
-399736,38 Main Street,,Crumlin,Co Antrim,S Berry's Family Butchers,Retailers - other,4613,0,,405402,0,,54.62057200000000,38/0331/0038/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21661100000000,BT29 4UR,2014-07-29,fhrs_5_en-GB,5,,FHRS,0
-399737,97 Largy Road,Crumlin,,,Sam Smith Catering,Restaurant/Cafe/Canteen,1,5,,724005,5,,54.61485200000000,33/8904/0097/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.30175600000000,BT29 4RT,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-399738,Unit 2 Karl Business Park,92 Old Ballyrobin Road,Templepatrick,,Seabridge Freight Services UK Ltd,Importers/Exporters,14,,,555059,,,54.68160100000000,33/4453/0002/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.14640800000000,BT41 4TJ,2013-05-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-399739,Connor Road,,Parkgate,,Second Donegore Presbyterian Church,Restaurant/Cafe/Canteen,1,5,,405480,0,,54.74411700000000,44/1462/0000/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.11564600000000,BT39 0DU,2014-08-06,fhrs_5_en-GB,5,,FHRS,0
-399740,40 Durnish Road,Springfarm,ANTRIM,,Seymour's XL Stop Shop,Retailers - other,4613,10,,405517,0,,54.73254000000000,47/2090/0040/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22175600000000,BT41 2TH,2012-01-16,fhrs_4_en-GB,4,,FHRS,10
-399741,12B Dublin Road,Massereene,Antrim,,Shunters,Restaurant/Cafe/Canteen,1,10,,708940,5,,54.71506200000000,43/198X/0099/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21726000000000,BT41 4AE,2014-09-19,fhrs_3_en-GB,3,,FHRS,10
-399742,,Rathmore Road,Antrim,,Silver Shadow Catering,Mobile caterer,7846,5,,405445,0,,,43/6833/0088/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,BT41,2014-05-02,fhrs_5_en-GB,5,,FHRS,5
-399743,30 Fountain Street,Town Parks,Antrim,Co Antrim,Simpson's,Retailers - other,4613,0,,405593,5,,54.71359900000000,99/0000/0000/0453,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21125700000000,BT41 4BG,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-399744,1A Largy Road,Crumlin,,Co Antrim,Sleepy Hollow Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,405617,0,,54.62867100000000,99/0000/0000/0672,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22417000000000,BT29 4AH,2013-06-03,fhrs_5_en-GB,5,,FHRS,0
-399745,Crumlin Primary School,27 Mill Road,Crumlin,,Sleepy Hollow Group,School/college/university,7845,5,,537884,10,,54.62159500000000,99/0008/0000/0647,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21528100000000,BT29 4XL,2013-03-19,fhrs_4_en-GB,4,,FHRS,5
-399746,5 Main Street,Parkgate,Templepatrick,Co Antrim,Spar,Retailers - other,4613,10,,405640,0,,54.72250600000000,99/0000/0000/0902,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09471600000000,BT39 0DG,2014-07-23,fhrs_4_en-GB,4,,FHRS,10
-399747,215 Castle Road,Randalstown,,,Spar (Hillview Service Station),Restaurant/Cafe/Canteen,1,,,405490,,,54.74545800000000,45/1123/0215/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.30381000000000,BT41 2EB,2014-11-27,fhrs_5_en-GB,5,,FHRS,
-399748,40 New Street,,Randalstown,Co Antrim,Spar BP Randalstown,Retailers - other,4613,5,,405666,0,,54.74764200000000,99/0000/0000/1103,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2014-08-07,fhrs_5_en-GB,5,,FHRS,5
-399749,Greystone Shopping Centre,Greystone Road,Antrim,Co Antrim,Spar Supermarket,Retailers - other,4613,5,,405598,5,,54.71347400000000,99/0000/0000/0466,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20035300000000,BT41 1HD,2014-07-30,fhrs_4_en-GB,4,,FHRS,10
-399750,106 Ballyrobin Road,Muckamore,,,Spice,Restaurant/Cafe/Canteen,1,10,,405627,10,,54.67527600000000,99/0000/0000/0816,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.16587400000000,BT41 4TF,2013-05-24,fhrs_3_en-GB,3,,FHRS,10
-399751,67 Springfarm Road,Springfarm,Antrim,,Spring Meadows Childrens Home,Hospitals/Childcare/Caring Premises,5,0,,405519,0,,54.71888700000000,47/5286/0067/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18319600000000,BT41 2SG,2012-09-10,fhrs_5_en-GB,5,,FHRS,0
-399752,"5, Craigstown Road",,Randalstown,,St Benedicts College,School/college/university,7845,0,,405508,5,,54.75074700000000,45/8284/0005/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31001900000000,BT41 2AF,2014-11-17,fhrs_5_en-GB,5,,FHRS,5
-399753,C/O Parochial House,3 Oriel Road,Antrim,,St Comgalls Playgroup,Hospitals/Childcare/Caring Premises,5,5,,405440,0,,54.71954900000000,43/4636/0013/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21808800000000,BT41 4HP,2013-11-12,fhrs_5_en-GB,5,,FHRS,0
-399754,"1, Ballymena Road",Massereene,Antrim,,St Comgalls Primary School,School/college/university,7845,5,,405443,0,,54.72191500000000,43/6833/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22139800000000,BT41 4JG,2013-03-19,fhrs_5_en-GB,5,,FHRS,0
-399755,52 Greystone Road,,Antrim,Co Antrim,St Josephs Nursery School,Hospitals/Childcare/Caring Premises,5,0,,405572,0,,,99/0000/0000/0347,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-06-03,fhrs_5_en-GB,5,,FHRS,5
-399756,15 Glenavy Road,Ballytromery,Crumlin,Co Antrim,St Josephs Primary,School/college/university,7845,0,,405618,5,,54.88025400000000,99/0000/0000/0696,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.28002900000000,BT43 6JE,2013-01-11,fhrs_5_en-GB,5,,FHRS,0
-399757,54 Greystone Road,ANTRIM,,,St Josephs Primary School (Meals Kitchen,School/college/university,7845,0,,405573,5,,54.71622400000000,99/0000/0000/0348,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18233800000000,BT41 1JZ,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-399758,43 Oldstone Road,,Muckamore,Co Antrim,St Jude's Church (C OF I),Restaurant/Cafe/Canteen,1,5,,692366,0,,54.69678800000000,99/0000/0000/0842,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19422000000000,BT41 4SE,2014-07-23,fhrs_5_en-GB,5,,FHRS,5
-399759,1A Magheralane Road,Ballygrooby,Randalstown,Co Antrim,St Macnissis Playgroup (Parish Centre),Hospitals/Childcare/Caring Premises,5,5,,478678,0,,54.75024400000000,99/0000/0000/0933,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31454400000000,BT41 2AG,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-399760,69 Main Street,,Toomebridge,Co Antrim,St Oliver Plunkett Primary,School/college/university,7845,0,,432983,0,,54.75165000000000,99/0000/0000/1210,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46009900000000,BT41 3NJ,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-399761,10 - 16 Castle Street,Antrim,,,Stables Bar and Restaurant (The),Pub/bar/nightclub,7843,10,,405456,5,,54.71841300000000,43/7805/0010/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21965800000000,BT41 4JE,2013-07-09,fhrs_2_en-GB,2,,FHRS,15
-399762,50 Junction One Retail Park,Ballymena Road,Antrim,,Starbucks,Restaurant/Cafe/Canteen,1,0,,405474,0,,54.72191500000000,43/7996/0050/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22139800000000,BT41 4JG,2014-11-13,fhrs_5_en-GB,5,,FHRS,0
-399763,Airside Kiosk,Belfast International Airport,Crumlin,BT29  4AB,Starbucks Coffee Co,Restaurant/Cafe/Canteen,1,0,,405366,0,,,33/318X/0004/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2012-09-18,fhrs_5_en-GB,5,,FHRS,0
-399764,Unit 1 954 Antrim Road,,Templepatrick,Co Antrim,Steamers Coffee Shop,Restaurant/Cafe/Canteen,1,,,405673,,,54.70067400000000,99/0000/0000/1135,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10279900000000,BT39 0AT,2014-01-28,fhrs_5_en-GB,5,,FHRS,
-399765,11 High Street,Antrim,,,Steeple Inn,Pub/bar/nightclub,7843,0,,555062,5,,54.71428400000000,43/7945/0011/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21872200000000,BT41 4AX,2013-04-09,fhrs_4_en-GB,4,,FHRS,10
-399766,10 Steeple Road,Steeple Road,Antrim,Co Antrim,Steeple Nursery School,Hospitals/Childcare/Caring Premises,5,5,,405569,0,,54.72207100000000,99/0000/0000/0327,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20939400000000,BT41 1AF,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-399767,3 Straidhavern Road,,Crumlin,,Straidhavern Primary School,School/college/university,7845,0,,642670,0,,54.64499300000000,36/543X/0003/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.14726900000000,BT29 4SN,2010-11-05,fhrs_5_en-GB,5,,FHRS,0
-399768,129B Staffordstown Road,,Randalstown,Co Antrim,Strawberry Fields,Hospitals/Childcare/Caring Premises,5,10,,451706,5,,54.72190700000000,99/0000/0000/0956,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.36234500000000,BT41 3LH,2012-09-05,fhrs_4_en-GB,4,,FHRS,0
-399769,57 Junction One,Ballymena Road,Antrim,,Subway,Restaurant/Cafe/Canteen,1,0,,635125,0,,,43/7996/0057/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,BT41 44L,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-399770,Unit 4 Castle Walk,Market Square,Antrim,,Subway,Restaurant/Cafe/Canteen,1,10,,405347,5,,54.71528400000000,01/386X/0004/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21889600000000,BT41 4DN,2013-09-09,fhrs_4_en-GB,4,,FHRS,5
-399771,15 Junction One Retail Park,Ballymena Road,Antrim,,Sundaes,Restaurant/Cafe/Canteen,1,10,,724009,5,,54.72031900000000,43/7996/0015/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19244500000000,BT41 1LL,2014-11-13,fhrs_4_en-GB,4,,FHRS,5
-399772,98 Airport Road,Belfast International Airport,Crumlin,,Superdrug Stores Plc,Retailers - other,4613,5,,405370,5,,54.66155400000000,33/318X/0098/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625700000000,BT29 4AB,2014-12-18,fhrs_5_en-GB,5,,FHRS,0
-399773,Unit A1 Castle Mall,Market Square,Antrim,,Superdrug Stores Plc,Retailers - other,4613,,,537872,,,54.71498000000000,43/1130/0000/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22142300000000,BT41 4AW,2013-03-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-399774,16 New Street,,Randalstown,Co Antrim,T H Duffin Butchers,Retailers - other,4613,5,,405662,0,,54.74764200000000,99/0000/0000/1088,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2014-04-03,fhrs_4_en-GB,4,,FHRS,10
-399775,157 Lisnevenagh Road,,Randalstown,,Tannaghmore Filling Station,Retailers - other,4613,5,,579030,5,,54.78490900000000,99/0000/0000/1115,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.25138800000000,BT41 2JU,2014-02-20,fhrs_5_en-GB,5,,FHRS,5
-399776,30 Chapeltown Road,Shilvodan,,,Tannaghmore Playgroup,Hospitals/Childcare/Caring Premises,5,0,,579027,0,,54.78476000000000,46/1277/0031/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.24105700000000,BT41 2LD,2013-11-20,fhrs_5_en-GB,5,,FHRS,0
-399777,74 Main Street,RANDALSTOWN,,,Tantastic Tanning Studio,Retailers - other,4613,,,655674,,,54.74984300000000,45/4262/0074/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31928200000000,BT41 3AB,2014-03-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-399778,44 Rickamore Road,Upper Rickamore,Ballyclare,Co Antrim,Tea Junction Haven Christian Centre,Restaurant/Cafe/Canteen,1,10,,555067,5,,54.68368700000000,99/0000/0000/0619,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09608600000000,BT39 0JE,2013-04-29,fhrs_4_en-GB,4,,FHRS,0
-399779,3 Lylehill Road,,Templepatrick,,Templepatrick Primary School,School/college/university,7845,5,,655677,0,,54.69818000000000,50/3743/0003/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09159100000000,BT39 0AQ,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-399780,882 Antrim Road,Templepatrick,,Co Antrim,Templeton Hotel,Hotel/bed & breakfast/guest house,7842,,,405674,,,54.70405600000000,99/0000/0000/1141,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09157900000000,BT39 0AH,2014-11-21,fhrs_3_en-GB,3,,FHRS,
-399781,28 Castle Way,,Antrim,,Tesco Customer Cafe,Restaurant/Cafe/Canteen,1,0,,405695,5,,54.71520100000000,99/0008/0000/0604,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21261400000000,BT41 4BU,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-399782,"28, Castle Way",,Antrim,,Tesco Petrol Filling Station,Retailers - other,4613,0,,668762,0,,54.71520100000000,43/1149/0028/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21261400000000,BT41 4BU,2014-04-14,fhrs_5_en-GB,5,,FHRS,0
-399783,2 - 4 Main Street,Crumlin,Co. Antrim,,Tesco Stores Limited,Retailers - other,4613,,,478672,,,54.62041700000000,38/0331/0000/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21400200000000,BT29 4UP,2015-01-16,fhrs_5_en-GB,5,,FHRS,
-399784,28 Castle Way,Town Parks,Antrim,Co Antrim,Tesco Supermarket,Retailers - other,4613,5,,405582,5,,54.71508700000000,99/0000/0000/0394,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21463700000000,BT41 4AQ,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-399785,Belfast International Airport,Crumlin,,,The Business Lounge,Restaurant/Cafe/Canteen,1,5,,492532,0,,54.66155400000000,33/318X/0077/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625700000000,BT29 4AB,2012-12-13,fhrs_5_en-GB,5,,FHRS,0
-399786,7 Main Street,Parkgate,,,The Chip Stop,Restaurant/Cafe/Canteen,1,5,,405481,0,,,44/1462/0007/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,BT39 ODG,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-399787,15 Railway Street,Antrim,,Co Antrim,The Chippy,Takeaway/sandwich shop,7844,0,,405607,5,,54.71506200000000,99/0000/0000/0552,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21726000000000,BT41 4AE,2013-03-01,fhrs_5_en-GB,5,,FHRS,5
-399788,10a Main Street,,Toomebridge,,The Fried Fish Warehouse,Takeaway/sandwich shop,7844,10,,405535,0,,54.75363812000000,51/3870/0010/0013,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46200631000000,BT41 35A,2014-10-21,fhrs_4_en-GB,4,,FHRS,5
-399789,Unit 6 Antrim Arcade,"High Street, Town Parks",Antrim,,The Galley,Restaurant/Cafe/Canteen,1,0,,432982,0,,54.71482100000000,99/0000/0000/0504,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21855900000000,BT41 4BN,2014-07-17,fhrs_5_en-GB,5,,FHRS,5
-399790,Castle Gardens,Antrim,,,The Garden Coffee Shop,Restaurant/Cafe/Canteen,1,5,,405501,5,,54.71569061279297,45/5137/0098/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21683979034424,BT41,2013-12-30,fhrs_5_en-GB,5,,FHRS,0
-399791,,,,,The Little Buttercream Co Ltd,Restaurant/Cafe/Canteen,1,0,,405382,0,,,33/4763/0008/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2012-02-28,fhrs_5_en-GB,5,,FHRS,0
-399792,122 Raceview,Muckamore,Antrim,,The Mad Hatters Tea Party,Restaurant/Cafe/Canteen,1,5,,609606,0,,54.70276100000000,35/6252/0122/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.18564000000000,BT41 4QB,2013-10-14,fhrs_5_en-GB,5,,FHRS,0
-399793,Market Square,ANTRIM,,,The Old Courthouse,Restaurant/Cafe/Canteen,1,10,,405346,0,,54.71498000000000,01/386X/0000/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22142300000000,BT41 4AW,2014-04-07,fhrs_4_en-GB,4,,FHRS,10
-399794,8 John Street,Randalstown,,,The Old Forge,Restaurant/Cafe/Canteen,1,10,,405512,5,,54.74938200000000,45/8306/0008/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31976700000000,BT41 3AD,2014-07-17,fhrs_4_en-GB,4,,FHRS,5
-399795,49 Main Street,Crumlin,Co. Antrim,,The Olde Sweetie Jar,Retailers - other,4613,10,,708939,10,,54.63221200000000,38/0331/0049/0008,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23707300000000,BT29,2014-09-01,fhrs_3_en-GB,3,,FHRS,10
-399796,6 High Street,Town Parks,Antrim,Co Antrim,The Papershop,Retailers - other,4613,5,,451704,0,,54.71465800000000,99/0000/0000/0473,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21845700000000,BT41 4AN,2012-09-06,fhrs_4_en-GB,4,,FHRS,10
-399797,(Muckamore Cricket Club},Technology Park,Antrim,,The Park Diner,Restaurant/Cafe/Canteen,1,5,,405469,10,,54.60247800000000,43/7988/0000/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-5.89255500000000,BT41,2014-06-13,fhrs_3_en-GB,3,,FHRS,10
-399798,96 Milltown Road,Antrim,,,The Stables,Pub/bar/nightclub,7843,5,,701827,5,,54.74151300000000,33/4011/0096/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23880100000000,BT41 2JJ,2014-08-11,fhrs_5_en-GB,5,,FHRS,0
-399799,19 Bridge Street,Massereene,Antrim,,The Store House,Pub/bar/nightclub,7843,0,,577629,5,,54.71421100000000,43/7201/0019/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21920600000000,BT41 4DA,2013-07-22,fhrs_5_en-GB,5,,FHRS,5
-399800,Belfast International Airport,,Crumlin,02894484544,The Strangford Kitchen and Grill,Restaurant/Cafe/Canteen,1,10,,405364,0,,,33/318X/0000/0116,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,BT29  4A,2014-07-28,fhrs_4_en-GB,4,,FHRS,10
-399801,,,,,The Sweet Spot,Restaurant/Cafe/Canteen,1,0,,405385,5,,,33/8912/0069/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-399802,,,,,The Vintage Candlecup Co,Restaurant/Cafe/Canteen,1,0,,655678,0,,,50/5509/0006/0003,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-03-06,fhrs_5_en-GB,5,,FHRS,0
-399803,24B Railway Street,Antrim,Co. Antrim,,The Vintage Tea Room at Nanabelle's,Restaurant/Cafe/Canteen,1,0,,555061,5,,54.71506200000000,43/7929/0024/0095,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21726000000000,BT41 4AE,2013-05-10,fhrs_5_en-GB,5,,FHRS,0
-399804,,,,,The Vintage Tricycle Company,Mobile caterer,7846,0,,671746,0,,,45/1093/0056/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-05-13,fhrs_5_en-GB,5,,FHRS,0
-399805,23 New Street,,Randalstown,Co Antrim,Thee Pizza,Takeaway/sandwich shop,7844,10,,405665,0,,54.74764200000000,99/0000/0000/1097,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2014-03-11,fhrs_4_en-GB,4,,FHRS,10
-399806,Junction One (Unit 33),Ballymena Road,Antrim,,Thorntons PLC,Retailers - other,4613,0,,405450,5,,54.72586700000000,43/6841/0033/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22864500000000,BT41 4LL,2014-10-29,fhrs_5_en-GB,5,,FHRS,0
-399807,62-66 Main Street,,Toomebridge,Co Antrim,Three Islands Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,405687,0,,54.75165000000000,99/0000/0000/1207,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46009900000000,BT41 3NJ,2014-06-27,fhrs_5_en-GB,5,,FHRS,0
-399808,41 Main Street,,Parkgate,Co Antrim,Thrushfield Nursery School,Hospitals/Childcare/Caring Premises,5,5,,405642,5,,54.72250600000000,99/0000/0000/0913,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09471600000000,BT39 0DG,2011-09-09,fhrs_4_en-GB,4,,FHRS,10
-399809,71 Springfarm Road,,Antrim,Co Antrim,Tiddlywinkers Nursery,Hospitals/Childcare/Caring Premises,5,0,,405563,0,,54.73516000000000,99/0000/0000/0308,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21598900000000,BT41 2JG,2013-01-29,fhrs_5_en-GB,5,,FHRS,5
-399810,Pastoral Centre,49 Main Street,Toomebridge,Co Antrim,Tiny Tots Pre-School Centre (Playgroup),Hospitals/Childcare/Caring Premises,5,0,,405684,0,,54.75165000000000,99/0000/0000/1201,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46009900000000,BT41 3NJ,2014-03-14,fhrs_5_en-GB,5,,FHRS,0
-399811,Unit 8 Parkhall Shopping Centre,Queens Road,Antrim,,Toff's Parkhall,Restaurant/Cafe/Canteen,1,5,,405556,0,,54.71915500000000,99/0000/0000/0256,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19876700000000,BT41 1AL,2013-05-01,fhrs_5_en-GB,5,,FHRS,5
-399812,77 Fountain Street,Town Parks,Antrim,Co Antrim,Top Of The Town,Pub/bar/nightclub,7843,10,,405595,0,,54.70728900000000,99/0000/0000/0460,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.15060400000000,BT41 2HG,2013-07-23,fhrs_4_en-GB,4,,FHRS,5
-399813,56 Main Street,Randalstown,,,Total Nutrition,Retailers - other,4613,,,577632,,,54.74984300000000,45/4262/0056/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.31928200000000,BT41 3AB,2013-07-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-399814,15 Ballymena Road,,Antrim,,Townparks Service Station,Retailers - other,4613,5,,405444,5,,54.72191500000000,43/6833/0001/0014,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.22139800000000,BT41 4JG,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-399815,15 Dundrod Road,Nutts Corner,Crumlin,Co Antrim,Transport/Training Services,Restaurant/Cafe/Canteen,1,0,,405635,0,,54.62721200000000,99/0000/0000/0861,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.13728400000000,BT29 4SR,2014-10-16,fhrs_5_en-GB,5,,FHRS,0
-399816,trading at Steeple Ind Estate,Antrim,,,Trixies Fast Food,Mobile caterer,7846,5,,405524,0,,,49/2342/0018/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-08-27,fhrs_5_en-GB,5,,FHRS,0
-399817,9 New Street,Randalstown,,,Truffles,Restaurant/Cafe/Canteen,1,10,,405395,5,,54.74764200000000,37/4277/0009/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2014-07-24,fhrs_4_en-GB,4,,FHRS,5
-399818,2 Taylorstown Road,,Toomebridge,Co Antrim,Tumbledown Bar,Pub/bar/nightclub,7843,5,,492538,0,,54.78415800000000,99/0000/0000/1175,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.41925700000000,BT41 3PU,2012-12-19,fhrs_5_en-GB,5,,FHRS,0
-399819,11 Main Street,Parkgate,,,Tweedies,Pub/bar/nightclub,7843,0,,405641,10,,54.72250600000000,99/0000/0000/0912,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.09471600000000,BT39 0DG,2014-01-06,fhrs_4_en-GB,4,,FHRS,0
-399820,41 Main Street,,Toomebridge,Co Antrim,Twisters,Takeaway/sandwich shop,7844,5,,405682,0,,54.75377600000000,99/0000/0000/1198,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46200700000000,BT41 3TF,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-399821,38 Main Street,,Toomebridge,Co Antrim,V.G. Grocer,Retailers - other,4613,10,,405681,5,,54.75377600000000,99/0000/0000/1196,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46200700000000,BT41 3TF,2013-05-23,fhrs_4_en-GB,4,,FHRS,5
-399822,,,,,Van Shop,Mobile caterer,7846,5,,724008,5,,,38/3713/0013/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-399823,,,,,Velda's Cakes,Manufacturers/packers,7839,0,,577628,0,,,33/8904/0037/0002,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2013-07-25,fhrs_5_en-GB,5,,FHRS,0
-399824,10 Main Street,Crumlin,,Co Antrim,Village Pantry,Manufacturers/packers,7839,10,,405621,0,,54.62041700000000,99/0000/0000/0719,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21400200000000,BT29 4UP,2013-10-08,fhrs_4_en-GB,4,,FHRS,10
-399825,Unit 14 Antrim Business Park,Enkalon Industrial Estate,Antrim,,Volt Retail Limited,Retailers - other,4613,5,,537873,5,,54.72495000000000,43/3281/0099/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.23045500000000,BT41 4LD,2013-03-21,fhrs_5_en-GB,5,,FHRS,5
-399826,Belfast International Airport,,Crumlin,,W H Smith - Arrivals,Retailers - other,4613,,,451692,,,,33/318X/0005/0032,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,BT29  4A,2012-08-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-399827,Belfast International Airport,Airport Road,CRUMLIN,,W H Smith (Check- In),Retailers - other,4613,,,451693,,,54.66155400000000,33/318X/0300/0001,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625700000000,BT29 4AB,2012-09-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-399828,Belfast International Airport,,Crumlin,,W H Smith Airside,Retailers - other,4613,5,,492531,0,,,33/318X/0001/0006,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,BT29  4A,2012-12-21,fhrs_5_en-GB,5,,FHRS,5
-399829,Belfast International Airport,,Crumlin,,W H Smith Airside2,Retailers - other,4613,5,,730630,0,,54.66155242919922,33/0318/0500/0009,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21625709533691,BT29 4AB,2014-12-18,fhrs_5_en-GB,5,,FHRS,0
-399830,,,,,Wake up and Taste,Importers/Exporters,14,5,,405703,5,,,99/0008/0098/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-05-02,fhrs_4_en-GB,4,,FHRS,10
-399831,,,,,Wake Up And Taste - Kaffine Kiosk,Mobile caterer,7846,5,,578195,0,,,99/0008/0099/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-07-03,fhrs_5_en-GB,5,,FHRS,5
-399832,10-12  New Street,,Randalstown,Co Antrim,Waves Cafe,Restaurant/Cafe/Canteen,1,0,,405661,0,,54.74764200000000,99/0000/0000/1087,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.32192100000000,BT41 3AF,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-399833,155 Lisnevenagh Road,,Randalstown,Co Antrim,Wayside Halt,Pub/bar/nightclub,7843,5,,577634,0,,54.78490900000000,99/0000/0000/1114,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.25138800000000,BT41 2JU,2013-07-16,fhrs_5_en-GB,5,,FHRS,0
-399834,25 Newmill Road,,Parkgate,,Wayside Inn,Pub/bar/nightclub,7843,20,,405484,10,,54.74276300000000,44/4283/0025/0007,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.08878000000000,BT39 0DN,2013-08-07,fhrs_1_en-GB,1,,FHRS,5
-399835,20 Main Street,Toome,Toome,,White River Hotel,Hotel/bed & breakfast/guest house,7842,5,,692364,5,,54.75457400000000,51/3870/0020/000X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.46182100000000,Bt41 3TQ,2014-07-31,fhrs_5_en-GB,5,,FHRS,5
-399836,26-32 High Street,Town Parks,Antrim,Co Antrim,Winemark,Retailers - other,4613,,,405601,,,54.71465800000000,99/0000/0000/0486,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21845700000000,BT41 4AN,2014-10-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-399837,954 Antrim Road,Kilmakee,Templepatrick,Co Antrim,Winemark,Retailers - other,4613,,,622558,,,54.70067400000000,99/0000/0000/1136,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10279900000000,BT39 0AT,2013-11-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-399838,5 Greystone Shopping Centre,Antrim,,Mail to home address only,"Wing Wah Chinese Carry Out,",Takeaway/sandwich shop,7844,10,,405596,10,,54.71347400000000,99/0000/0000/0464,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.20035300000000,BT41 1HD,2014-03-04,fhrs_2_en-GB,2,,FHRS,15
-399839,44 Belfast Road,,Antrim,,Woodburn House B & B,Hotel/bed & breakfast/guest house,7842,5,,405392,0,,54.70972200000000,36/0462/0044/0000,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.19999200000000,BT41 1PB,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-399840,,,,,World Coffee Cup,Mobile caterer,7846,5,,635126,0,,,44/299X/0041/0004,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,,,2014-01-22,fhrs_5_en-GB,5,,FHRS,0
-399841,65 Connor Road,,Parkgate,,Wynfield House,Hotel/bed & breakfast/guest house,7842,5,,405482,0,,54.73410200000000,44/1462/0065/0005,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.10654600000000,BT39 0EA,2012-09-24,fhrs_5_en-GB,5,,FHRS,0
-399842,12c Market Square,Antrim,,,Zara's,Restaurant/Cafe/Canteen,1,20,,537874,15,,54.71528400000000,43/3869/0012/009X,801,environmental.health@antrim.gov.uk,Antrim,http://www.antrim.gov.uk,-6.21889600000000,BT41 4DN,2014-03-10,fhrs_1_en-GB,1,,FHRS,10
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+399409,147 Snooker & Pool,4,5,5,10,2013-10-14,54.713599,-6.211257
+399410,Aelia Duty Free,Exempt,nan,nan,nan,2013-10-15,54.661554,-6.216257
+399411,Airport Road Cafe,5,5,0,5,2014-06-10,54.672275,-6.222546
+399412,Airport Road Service Station,4,0,10,5,2014-05-20,54.64947,-6.168106
+399413,Alans Super Whip,5,0,0,0,2013-05-28,,
+399414,Alfies Cafe,1,10,20,20,2014-12-01,54.715284,-6.218896
+399415,All Saints Parish Centre,5,0,0,5,2014-03-11,54.713673,-6.215614
+399416,Allen Park Golf Club & Restuarant,4,5,10,5,2013-06-25,54.739237,-6.284334
+399417,Alpha LSG Ltd,5,5,5,0,2013-11-19,54.6615524292,-6.21625709534
+399418,Amber Catering and Cakes,5,nan,nan,nan,2014-04-08,54.716224,-6.182338
+399419,Anchor Bar,4,10,0,0,2013-04-10,54.714658,-6.218457
+399420,Anglier,5,nan,nan,nan,2014-08-20,54.71334794,-6.20172495
+399421,Anita Byrne Petrol Station,1,10,0,20,2014-08-08,54.714011,-6.214808
+399422,Antrim Adult Centre,5,0,0,5,2012-02-28,54.717316,-6.212893
+399423,Antrim Area Hospital Catering Department,5,5,5,5,2014-06-17,54.73297,-6.185873
+399424,Antrim Area Hospital Shop,5,5,0,0,2014-12-03,54.73297,-6.185873
+399425,Antrim Board Centre  ( Abacus),5,5,0,5,2013-11-05,54.71323,-6.222167
+399426,Antrim Boat Club,5,5,5,5,2013-04-29,,
+399427,Antrim Care Home,5,5,5,0,2014-04-14,54.709783,-6.17704
+399428,Antrim Day Centre,4,0,0,10,2013-12-03,54.717316,-6.212893
+399429,Antrim Gospel Hall,5,0,0,0,2014-06-17,54.713234,-6.223098
+399430,Antrim Grammar School Meals  Kitchen,5,5,5,0,2013-05-31,54.722071,-6.209394
+399431,Antrim Hockey And Rugby Club,5,5,5,0,2012-02-03,54.724334,-6.2456
+399432,Antrim Primary School,4,10,0,5,2013-06-04,54.717316,-6.212893
+399433,Antrim Royal British Legion Club,5,0,0,0,2014-01-09,54.713234,-6.223098
+399434,Arcade Chip Shop,5,5,5,0,2013-09-17,54.714658,-6.218457
+399435,Ard Na Grande Private Res. Home,5,5,5,0,2014-08-07,54.751524,-6.375424
+399436,Ardbrin Lodge,5,0,0,0,2014-06-17,54.690938,-6.143609
+399437,Ardvale,5,0,0,0,2013-01-15,54.703919,-6.178405
+399438,Asda Cafe,5,5,0,0,2013-12-30,,
+399439,Asda Superstore,4,5,10,5,2013-09-24,54.725867,-6.228645
+399440,B & M Bargains,5,0,0,5,2014-11-24,54.730729,-6.232485
+399441,B Price Quality Meat and Poultry,5,0,0,0,2012-02-24,54.621595,-6.215281
+399442,Back Shed,5,5,0,5,2013-05-09,54.714211,-6.219206
+399443,Ballycraigy Primary School,5,5,0,0,2013-04-10,54.707293,-6.188323
+399444,Ballyharvey House,5,0,0,0,2012-08-13,54.686346,-6.201291
+399445,Ballyrobin Country House,5,nan,nan,nan,2014-03-07,54.667154,-6.193397
+399446,Bambou,4,10,0,10,2014-11-25,54.700674,-6.102799
+399447,Barneys,4,10,0,10,2011-09-22,54.71498,-6.221423
+399448,Barry's Diner,5,5,0,5,2014-09-04,,
+399449,Bay Cottage B & B,5,5,5,5,2012-05-31,54.669987,-6.27177
+399450,Baytree Health & Beauty,5,0,0,0,2013-08-01,54.749843,-6.319282
+399451,Baytree Health & Beauty,5,0,5,5,2013-07-09,54.700674,-6.102799
+399452,Beechmount Farm B&B,5,0,0,0,2014-05-12,54.697375,-6.177007
+399453,Benny's Fish and Burger Bar,5,0,5,5,2014-06-20,54.747642,-6.321921
+399454,Bernice Scullion,5,0,0,0,2013-05-10,,
+399455,Big Occasions Catering - 18Ft Van,5,0,0,0,2014-03-10,54.748599,-6.314457
+399456,Big-Mama Cake's,5,0,5,5,2013-04-24,,
+399457,Bingo's,5,5,0,5,2013-12-21,54.620417,-6.214002
+399458,Bodrum Pizza & Kebab House,3,10,10,5,2012-12-12,54.620417,-6.214002
+399459,Boyd's Service Station,4,5,0,10,2014-07-01,54.755337,-6.462507
+399460,Boyles Coach House,4,nan,nan,nan,2014-10-17,54.620572,-6.216611
+399461,Brackenleigh B & B,5,0,0,5,2013-10-07,54.711189,-6.203806
+399462,Brewers Fayre,4,10,5,5,2013-09-10,54.721915,-6.221398
+399463,Brooklands Healthcare Ltd,5,5,5,5,2014-04-03,54.73297,-6.185873
+399464,BrucesHill Cattle Company (hot food van),5,0,5,5,2014-07-01,,
+399465,Burger Bar (The),3,10,5,10,2013-06-10,54.667154,-6.193397
+399466,Burger King,5,5,0,0,2013-01-08,,
+399467,Burger King,5,5,0,0,2014-01-04,55.293422699,-6.2208108902
+399468,Bushes Home Bakery,5,5,0,5,2013-12-09,54.714658,-6.218457
+399469,Bushes Home Bakery,4,10,5,5,2014-06-11,54.620572,-6.216611
+399470,Cafe 4 U,5,0,0,5,2014-06-03,54.727046,-6.208631
+399471,Cafe Bar Arrivals,5,0,0,0,2013-01-04,,
+399472,Cakes by Suzanne,5,0,0,0,2013-04-09,,
+399473,Cakes from M.E. 2 U,5,5,0,0,2013-08-21,54.715428,-6.198823
+399474,Caldhame House,5,0,0,5,2011-12-12,54.608408,-6.199065
+399475,Camden Frames,5,0,0,5,2014-04-09,54.722071,-6.209394
+399476,Campbell/Armark,5,0,0,0,2013-12-31,54.733921,-6.236973
+399477,Carole's Cakes,5,0,0,0,2014-02-07,,
+399478,Castle Lodge Care Centre,5,5,0,5,2013-10-04,54.712373,-6.212785
+399479,Centra,5,0,0,5,2014-07-07,54.718816,-6.214069
+399480,Central Primary School Afterschool Club,5,5,5,5,2013-03-05,54.749065,-6.324766
+399481,Chimney Corner Football and Social Club,5,5,0,0,2012-02-15,54.724334,-6.2456
+399482,China Court,1,20,10,10,2014-01-27,54.714011,-6.214808
+399483,China Express,4,0,5,10,2013-10-31,,
+399484,China Garden,4,10,10,0,2014-08-27,54.713599,-6.211257
+399485,Chloes Cotton Candy,5,0,0,0,2013-11-01,,
+399486,Clanmil Housing,5,0,0,5,2014-03-25,54.712657,-6.213781
+399487,Classique Coffee Shop,5,5,0,5,2014-07-04,54.71498,-6.221423
+399488,Clear Pharmacy,Exempt,nan,nan,nan,2014-11-03,54.721014,-6.195673
+399489,Clementsmount Fun Farm,5,0,0,0,2014-05-09,54.626136,-6.183509
+399490,Clifton Cakes NI,5,0,0,5,2013-08-21,,
+399491,Clonkeen Gospel Hall,5,0,0,0,2014-06-13,54.770161,-6.37909
+399492,Clonlee Nursing Home,4,5,5,10,2014-11-14,54.703259,-6.171592
+399493,Coffee Angels,5,0,0,5,2012-07-03,54.721775,-6.094502
+399494,Convery Catering,5,0,0,5,2013-10-22,,
+399495,Corner House Bar (The),5,0,5,5,2014-10-30,54.750273,-6.31987
+399496,Cornerstores,5,5,5,5,2011-08-05,54.710627,-6.220496
+399497,Costa Coffee,5,5,5,0,2013-08-02,54.725867,-6.228645
+399498,Costcutter,4,5,0,10,2013-06-18,54.750273,-6.31987
+399499,Costcutters Randalstown,5,5,5,5,2012-08-06,54.749798,-6.311565
+399500,Country Cake Designs,5,0,0,5,2013-11-04,,
+399501,Country Treasures Daycare,5,0,0,0,2013-09-16,54.739237,-6.284334
+399502,County Antrim Indoor Bowling Club,5,0,0,5,2014-01-14,54.726873,-6.113729
+399503,Cova Inn,5,5,5,5,2014-07-21,54.714211,-6.219206
+399504,Creavery Primary,5,5,0,0,2012-10-16,54.755374,-6.23006
+399505,Creeve House Country Guest Inn,5,0,5,0,2014-12-02,54.721907,-6.362345
+399506,Creggan Primary School,5,0,0,0,2013-04-09,54.735489,-6.337126
+399507,Crispstix,5,0,0,5,2014-11-12,,
+399508,Crisptix (van 2),5,0,0,0,2013-06-11,,
+399509,Crosshill Lodge B & B,5,0,5,5,2014-11-26,54.643296,-6.208212
+399510,Crosskeys Meats,5,0,0,0,2013-05-08,,
+399511,Crumble & Shake,5,5,0,5,2011-11-23,54.62062,-6.2172
+399512,Crumlin Evangelical Presbyterian Church,Exempt,nan,nan,nan,2014-11-20,54.61892,-6.226453
+399513,Crumlin Flowers Gifts and Coffee,5,0,5,5,2014-11-27,54.620572,-6.216611
+399514,Crumlin Integrated College,5,5,5,0,2013-12-03,54.611733,-6.221595
+399515,"Crumlin Presbyterian Church,",5,0,0,0,2014-06-24,54.620505,-6.218766
+399516,Crumlin Primary School,5,0,0,5,2012-05-01,54.621595,-6.215281
+399517,Crumlin United Football & Social Club,3,10,5,10,2013-08-05,54.621595,-6.215281
+399518,Crumlin Video,5,5,0,5,2013-10-31,54.621595,-6.215281
+399519,Cyber Cafe,5,5,0,0,2013-12-17,54.69715,-6.210693
+399520,Dan's Fruit & Veg,4,10,5,5,2013-09-23,54.620572,-6.216611
+399521,Dayfresh,4,10,0,5,2014-03-27,54.715284,-6.218896
+399522,Dinky Donuts NI,5,5,0,0,2014-04-06,,
+399523,Divine Fountains,5,0,0,0,2014-11-14,54.728227,-6.200429
+399524,Domino's Pizza,5,5,0,5,2014-03-19,54.713673,-6.215614
+399525,Double Value,5,0,0,5,2014-04-01,54.750456,-6.323373
+399526,Drummaul House Private Nursing Home,5,5,0,5,2014-07-11,54.747642,-6.321921
+399527,Dunadry Inn,2,15,10,10,2014-12-03,54.698931,-6.142779
+399528,Duneane Presbyterian Church Hall,5,0,5,0,2014-11-12,54.751529,-6.454839
+399529,Dunsilly Hotel,4,5,5,10,2014-02-05,54.741667,-6.230238
+399530,Elements,1,10,10,20,2014-03-19,54.620572,-6.216611
+399531,Ellie Mays,4,10,5,5,2014-10-22,54.698373,-6.134536
+399532,Escarmouche,4,10,0,0,2014-11-12,54.748599,-6.314457
+399533,Eurospar,4,0,10,0,2014-05-20,54.621595,-6.215281
+399534,Family Caring Centre - Adult,4,5,0,10,2013-08-22,54.720129,-6.178578
+399535,Farley House,3,10,5,10,2013-10-28,54.620505,-6.218766
+399536,Fed and Watered,4,10,5,5,2014-12-18,54.6615524292,-6.21625709534
+399537,Fiddlers Inn Bar,5,5,5,5,2013-03-13,54.620572,-6.216611
+399538,First Antrim Presbyterian Church,5,0,5,5,2014-06-23,,
+399539,First Step Creche,4,10,0,10,2013-09-11,54.720129,-6.178578
+399540,Forum Eatery,4,10,10,0,2014-06-16,54.715405,-6.231476
+399541,Forum Eatery Mobile Van,5,5,5,0,2013-06-18,54.715405,-6.231476
+399542,Fruit of the Vine,Exempt,nan,nan,nan,2014-03-21,54.722871,-6.203941
+399543,Fruit Of The Vine,Exempt,nan,nan,nan,2014-03-21,54.713474,-6.200353
+399544,Fun Days Private Day Nursery,5,5,0,5,2013-09-10,54.709722,-6.199992
+399545,Funky Monkeys,4,10,5,5,2014-05-13,54.730729,-6.232485
+399546,Furama,3,10,10,10,2014-12-01,54.721031,-6.20348
+399547,Gael Scoil Ghleanndarach,4,10,0,10,2014-02-25,54.611733,-6.221595
+399548,Game On,Exempt,nan,nan,nan,2014-11-19,54.769862,-6.272782
+399549,Gate 22 Cafe Bar (Airside),5,0,0,0,2013-01-09,54.661554,-6.216257
+399550,Gate Aviation Services,5,0,5,0,2014-05-27,54.661554,-6.216257
+399551,Girassol,Exempt,nan,nan,nan,2012-09-04,54.714011,-6.214808
+399552,Glenavy Parish,Exempt,nan,nan,nan,2014-07-18,54.61892,-6.226453
+399553,Glendaloch B & B,5,0,0,0,2014-07-09,54.676162,-6.233989
+399554,Glendona House,5,0,0,0,2014-12-15,54.597308,-6.213358
+399555,Glenkeen Private Nursing Home,5,5,0,5,2013-12-30,54.750804,-6.32777
+399556,Glenn - More B&B,5,0,0,0,2014-11-28,54.711484,-6.204321
+399557,Globe,5,0,0,0,2013-04-04,54.721014,-6.195673
+399558,Golden Inn,3,10,10,10,2013-11-28,54.718413,-6.219658
+399559,Gordons Chemist,Exempt,nan,nan,nan,2013-06-13,54.71498,-6.221423
+399560,Gortgill Service Station,5,0,0,5,2013-01-08,54.765012,-6.444164
+399561,Granny Shaws,Exempt,nan,nan,nan,2014-05-01,54.749843,-6.319282
+399562,Grannys Home Bakes,5,0,0,0,2014-06-27,,
+399563,Grans,5,5,5,5,2014-10-28,54.753776,-6.462007
+399564,Gravelbank Bed and Breakfast,5,0,5,5,2014-08-13,54.591659,-6.214735
+399565,Greenfields Day Care Nursery,5,5,0,0,2013-12-09,54.775945,-6.327976
+399566,Greenmount Agriculture College -Catering,5,5,5,5,2012-08-20,54.695349,-6.210416
+399567,Greystone Presbyterian Church,5,0,0,5,2014-08-28,54.715211,-6.196304
+399568,Greystone Primary School,5,5,0,0,2013-12-12,54.71616,-6.172114
+399569,Groggan Primary School,5,0,0,5,2013-04-30,54.785122,-6.366506
+399570,Happy Garden,4,5,10,5,2013-06-11,54.747642,-6.321921
+399571,Happy Garden,3,10,5,10,2014-05-13,54.621595,-6.215281
+399572,Happy Garden Take Away,1,10,10,20,2013-10-29,54.713673,-6.215614
+399573,Happy Valley,4,10,5,5,2014-02-04,54.753776,-6.462007
+399574,Happy Village,5,0,0,0,2012-05-10,54.722506,-6.094716
+399575,Heatons RDC,Exempt,nan,nan,nan,2013-05-13,54.72495,-6.230455
+399576,Heavenly Cakes and Favours,4,0,5,10,2012-08-10,54.749382,-6.319767
+399577,Heffrons Bar Ltd,4,0,0,10,2013-07-01,54.750273,-6.31987
+399578,Hendersons Bakery - Spar,3,10,10,10,2013-09-27,54.713521,-6.188449
+399579,Hermitage Cottage Mrs Catherine Dinsmore,5,0,0,5,2011-11-23,54.754637,-6.32553
+399580,Hilton Hotel Templepatrick,4,10,0,10,2013-08-22,54.711882,-6.092173
+399581,Ho Wah,4,nan,nan,nan,2013-09-03,54.708715,-6.196949
+399582,Holiday Inn Express Antrim,5,nan,nan,nan,2013-12-17,54.725867,-6.228645
+399583,Holland  & Barrett,5,0,0,0,2012-02-06,54.721915,-6.221398
+399584,Holland & Barratt,5,5,0,0,2012-02-08,54.71498,-6.221423
+399585,Holywell Hospital Catering Dept.,4,10,0,10,2013-09-17,54.73411,-6.210012
+399586,Iceland Frozen Foods Ltd,5,0,0,5,2012-02-10,54.71498,-6.221423
+399587,Imperial City,4,nan,nan,nan,2014-02-03,54.745904,-6.32485
+399588,"International Food Shop ""Bravo""",5,0,0,5,2014-02-17,54.750273,-6.31987
+399589,Irish Quarter,Exempt,nan,nan,nan,2013-08-22,54.661554,-6.216257
+399590,Istanbull Kebab House,4,0,10,5,2013-12-03,54.749843,-6.319282
+399591,Izie's Outside Catering,5,5,0,0,2014-07-01,,
+399592,J & I's Catering,4,0,10,10,2013-06-24,,
+399593,Jade Garden,5,nan,nan,nan,2014-03-06,54.713599,-6.211257
+399594,Jimmy's Kitchen,5,5,0,0,2013-10-01,,
+399595,John McCabe (Butchers),2,15,10,5,2013-01-23,54.714011,-6.214808
+399596,Johnny's Cool Ice-Cream,5,0,0,5,2013-08-01,,
+399597,Jolly Babies,5,0,0,5,2013-11-19,54.722071,-6.209394
+399598,Jolly Tots & Jolly Kids,5,0,0,0,2014-04-29,54.722071,-6.209394
+399599,Julies Country Food,5,0,0,5,2014-03-05,54.626097,-6.257265
+399600,Just 4 Kids,4,10,0,10,2013-09-11,54.720129,-6.178578
+399601,Kandy Shop,5,5,0,5,2013-03-26,54.750456,-6.323373
+399602,Karolina Shop,4,5,10,0,2013-10-14,54.714284,-6.218722
+399603,Katie Cupcake,5,0,5,5,2013-05-03,,
+399604,Katies Fun Foods,5,0,0,5,2013-08-01,,
+399605,Kebab Express,2,15,15,10,2014-03-04,54.718413,-6.219658
+399606,Kebab King,5,0,5,0,2014-11-26,54.713599,-6.211257
+399607,Kebab Zone,2,15,15,10,2013-11-05,54.714284,-6.218722
+399608,Keef Halla Country House,5,5,5,5,2014-11-04,54.64947,-6.168106
+399609,Kentucky Fried Chicken,4,nan,nan,nan,2014-11-27,54.721014,-6.195673
+399610,Kids Kabin,5,5,0,0,2013-10-28,54.720332,-6.198715
+399611,Killead Air Lodge,5,5,5,0,2012-09-06,54.657284,-6.196051
+399612,Killead Presbyterian Church,Exempt,nan,nan,nan,2014-11-05,,
+399613,King Kebab,1,15,15,20,2013-12-08,,
+399614,Kings Court Nursing Home,5,0,0,5,2012-12-10,54.700674,-6.102799
+399615,Ladyhill Lodge Private Nursing Home,4,0,0,10,2013-08-12,54.764416,-6.218649
+399616,Lagan Bar and Restaurant,4,10,0,0,2012-10-10,55.293422699,-6.2208108902
+399617,Lakeview Private Nursing Home,5,0,5,5,2014-05-12,54.620206,-6.216767
+399618,Laura's Lodge,5,5,0,5,2013-03-25,54.718037,-6.214274
+399619,Lean Cuts,5,5,5,5,2013-11-29,54.753776,-6.462007
+399620,Lemon Tree Bakery,5,0,0,0,2014-11-21,,
+399621,Lidl,4,5,10,5,2013-03-27,54.725867,-6.228645
+399622,Little Hands,5,0,5,0,2014-12-18,54.721811,-6.201536
+399623,Little Treats NI,5,0,0,5,2014-01-24,,
+399624,Loanends Presbyterian Church,5,0,0,5,2014-07-21,54.66928,-6.103271
+399625,Loanends Primary School,5,0,0,5,2013-12-04,54.663339,-6.104229
+399626,Loughshore Coffee House,3,10,10,5,2013-09-09,54.715405,-6.231476
+399627,Loughview Meats,4,10,5,5,2013-04-18,54.62062,-6.2172
+399628,Lucky Star,4,5,5,10,2013-05-29,54.713673,-6.215614
+399629,Lurgan West Lodge B & B,5,0,0,5,2014-12-03,54.743488,-6.328816
+399630,Lylehill Tavern,4,0,5,10,2013-04-11,54.673662,-6.06899
+399631,Lyttle Goodies  ex Lyttle Ice Cream Van,5,0,0,5,2013-04-25,,
+399632,M & B Henry Vivo,1,10,0,20,2014-11-27,54.7765,-6.444671
+399633,Mace Antrim,5,0,5,5,2013-07-22,54.712771,-6.219673
+399634,Mace M J Gault,4,10,5,5,2014-12-03,54.747642,-6.321921
+399635,Mackenzie's Equestrian Centre,2,15,10,10,2014-02-28,54.758754,-6.375942
+399636,Maddens Bar,4,5,10,0,2012-08-23,54.714588,-6.219795
+399637,Maine Fold,5,0,0,0,2013-12-11,54.752411,-6.321832
+399638,Maine Integrated Playgroup,5,5,5,5,2013-12-11,54.75528,-6.329185
+399639,Maine Integrated Primary School,5,nan,nan,nan,2013-11-20,54.75528,-6.329185
+399640,Maine Private Nursing Home,5,5,5,5,2014-10-14,54.759286,-6.328492
+399641,Maldron Hotel,5,5,5,5,2013-06-03,54.663014,-6.219014
+399642,Mallons Bar,5,0,0,0,2014-12-03,54.732283,-6.417722
+399643,Margaret Dennison - B & B,5,0,0,0,2011-11-24,54.755374,-6.23006
+399644,Marie Mulholland (Home caterer),5,0,0,5,2013-02-18,,
+399645,Marquess Meats,4,0,10,10,2014-02-20,54.691077,-6.20347
+399646,Marrions Bar,5,0,5,0,2014-12-02,54.721907,-6.362345
+399647,Marrions Bar,5,0,0,0,2012-01-24,54.750273,-6.31987
+399648,Martin & Anne Ford,5,0,0,5,2014-04-02,,
+399649,Massereene House,4,10,0,5,2013-09-10,54.714211,-6.219206
+399650,Massereene Manor Private Nursing Home,5,0,0,0,2014-03-18,54.722071,-6.209394
+399651,Maud's Antrim,3,10,10,10,2014-07-28,54.713599,-6.211257
+399652,Mauds at the Parlour,4,5,10,5,2013-12-05,54.700674,-6.102799
+399653,McCormack Family Butchers,3,10,10,10,2013-11-05,54.715284,-6.218896
+399654,McGee Butcher (within Asda's),5,0,0,0,2013-03-25,,
+399655,McIlroys,5,nan,nan,nan,2014-09-12,54.651669,-6.214862
+399656,McKay (Newtownards) Ltd.,Exempt,nan,nan,nan,2012-11-27,54.700674,-6.102799
+399657,McKennas Bar,5,5,0,5,2013-05-16,54.664387,-6.272194
+399658,McLarnon's Ramble Inn,3,10,10,10,2014-10-29,54.770854,-6.24368
+399659,McMurray's Butchers - Milestone Garage,5,5,0,5,2013-07-16,54.700674,-6.102799
+399660,Meat Joint,4,10,0,5,2014-07-23,54.714284,-6.218722
+399661,Medicare Pharmacy,Exempt,nan,nan,nan,2013-01-15,54.620572,-6.216611
+399662,Mid Antrim Animal Sanctuary,5,0,0,5,2014-05-30,54.714312,-6.17887
+399663,Milanos,4,0,10,10,2013-11-05,54.620505,-6.218766
+399664,Mini Doh! Nuts,2,10,15,10,2013-11-04,,
+399665,Moes Bar Grill,4,nan,nan,nan,2013-10-31,54.721915,-6.221398
+399666,Moneynick Primary School,4,5,0,10,2014-06-16,54.742694,-6.341692
+399667,Moneynick Service Station,5,nan,nan,nan,2014-06-09,54.746865,-6.435091
+399668,Mount St Michaels Afterschools Club,5,5,0,5,2014-12-04,54.750747,-6.310019
+399669,Mount St Michaels Nursery Unit,5,5,0,5,2014-12-01,54.750747,-6.310019
+399670,Mount St. Michaels Primary,5,5,0,0,2014-06-02,54.750747,-6.310019
+399671,MR COCO,5,0,0,5,2014-04-17,,
+399672,Mrs Annette Hughes - Bakery,5,5,0,5,2012-09-20,,
+399673,Mrs Trotters,Exempt,nan,nan,nan,2014-02-06,54.668023,-6.195048
+399674,Muckamore Abbey Hospital,5,5,0,0,2014-11-17,54.69161,-6.192217
+399675,Muckamore Cricket & Lawn Tennis Club,5,5,5,5,2012-06-22,54.70504,-6.198136
+399676,Muckamore Playgroup,5,0,5,5,2013-11-12,54.704873,-6.179696
+399677,Murrays Centra,4,10,5,5,2013-06-25,54.75165,-6.460099
+399678,Naiscoil Ghleann Darach - Mobile,5,0,0,5,2013-05-16,54.611733,-6.221595
+399679,Naiscoil Na TamhNa Moire,5,0,0,5,2014-03-21,54.78476,-6.241057
+399680,Naroon House,5,0,0,5,2012-06-08,54.645359,-6.243582
+399681,Neillsbrook Fold  (Luncheon Club),5,0,0,0,2014-09-24,54.751287,-6.321117
+399682,Nelsons Home Bakery,4,5,0,10,2014-04-01,54.714011,-6.214808
+399683,New Look,Exempt,nan,nan,nan,2014-07-03,54.715284,-6.218896
+399684,Newpark Vivo,1,10,10,20,2014-07-21,54.710881,-6.176556
+399685,NI Tram Corporation (Dinky Donuts 2),5,0,0,0,2014-09-04,54.750747,-6.310019
+399686,NI Tram Corporation (dinky donuts),5,0,0,5,2014-09-04,,
+399687,NISA Islandbawn Stores,5,0,5,5,2014-01-07,54.704498,-6.178099
+399688,Numark Pharmacy,Exempt,nan,nan,nan,2014-06-27,54.755337,-6.462507
+399689,Oaktree Day Nursery,5,0,0,0,2014-05-30,54.609407,-6.23394
+399690,Oaktree Nursery Oaks & Tall Oaks,5,5,5,0,2013-09-23,54.611733,-6.221595
+399691,OC Presbyterian Church,5,0,0,0,2013-05-24,54.750456,-6.323373
+399692,O'Connors Bar & Brasserie,3,10,5,10,2014-11-24,54.620505,-6.218766
+399693,O'Kanes Bar,5,5,0,0,2014-06-24,54.750273,-6.31987
+399694,Old Bleach Bowling  Club,5,5,0,5,2013-08-05,54.751816,-6.319713
+399695,Olga McElhinney - The Burger Bar,5,0,0,0,2014-03-20,54.734988,-6.216256
+399696,Orchard,5,0,5,5,2014-10-28,54.747642,-6.321921
+399697,Oriel Catering - at Heatons RDC,5,5,5,5,2013-02-13,54.72495,-6.230455
+399698,Oriel House,4,5,0,10,2014-11-28,54.719549,-6.218088
+399699,Parish Centre (St MacNissis),5,0,0,0,2014-06-02,54.750747,-6.310019
+399700,Parkgate Primary School,5,5,0,0,2013-06-03,54.725513,-6.092231
+399701,Parkhall High School School Meals,5,5,0,0,2013-06-10,54.722071,-6.209394
+399702,Parkhall Primary School Meals Kitchen,5,0,5,5,2014-05-12,54.721144,-6.20141
+399703,Parkhall Senior College Meals Kitchen,5,0,5,0,2014-06-10,54.719594,-6.16035
+399704,Parkhall Spar,5,5,0,0,2014-04-16,54.720332,-6.198715
+399705,Peggy's Diner,4,10,5,5,2014-02-14,54.749824,-6.452869
+399706,Phoenix,4,5,0,10,2014-09-10,54.620572,-6.216611
+399707,Pickens Pub,5,0,0,0,2014-07-03,54.750456,-6.323373
+399708,Pizza The Action,5,5,5,5,2014-03-03,54.715087,-6.214637
+399709,Pizza Time,4,0,0,10,2013-07-23,54.713673,-6.215614
+399710,Pizza Van Man,5,5,5,5,2014-08-20,,
+399711,Planet Bingo,Exempt,nan,nan,nan,2013-03-25,54.714658,-6.218457
+399712,Pollyflinders,5,5,0,0,2014-02-11,54.750273,-6.31987
+399713,Poundland,5,0,0,5,2014-05-21,54.715284,-6.218896
+399714,Poundstretcher,4,10,5,0,2014-05-12,54.715284,-6.218896
+399715,Quality Meats,4,10,5,5,2013-02-13,54.750456,-6.323373
+399716,Railway Bar,5,5,0,5,2012-12-14,54.715062,-6.21726
+399717,Randal Bakery,3,10,10,10,2013-11-11,54.750456,-6.323373
+399718,Randalstown Central Primary School,5,5,0,5,2013-11-14,54.749065,-6.324766
+399719,Randalstown Community Playgroup,5,5,5,0,2014-12-09,54.751816,-6.319713
+399720,Randalstown Pharmacy,Exempt,nan,nan,nan,2014-03-31,54.751816,-6.319713
+399721,Rathenraw Primary,5,5,0,5,2013-11-08,54.719473,-6.188742
+399722,Rathmore Centre,5,0,5,5,2012-03-07,54.716842,-6.152513
+399723,Red Panda,2,15,10,5,2013-07-03,54.730729,-6.232485
+399724,Redz,4,nan,nan,nan,2013-12-03,54.721915,-6.221398
+399725,Ritazza Landside,4,0,0,10,2014-06-13,54.6615524292,-6.21625709534
+399726,Riverside School,5,0,5,5,2014-11-11,54.712373,-6.212785
+399727,Robin Rainey,Exempt,nan,nan,nan,2013-07-08,54.764791,-6.342046
+399728,Rolo's Fish and Chip Shop,5,5,5,0,2014-11-18,54.713358,-6.21195
+399729,Rosedale,4,0,0,10,2014-07-08,54.718131,-6.201761
+399730,Rosemary Lodge Care Home,5,5,5,5,2014-10-27,54.712373,-6.212785
+399731,Rosewood Cottage Cakes,5,0,0,0,2014-06-30,,
+399732,Round Tower Community Playgroup,5,0,5,0,2014-03-20,54.73254,-6.221756
+399733,Round Tower Int.  Primary School,5,5,0,0,2013-04-19,54.73254,-6.221756
+399734,Ruby Jane's Pantry,5,0,0,0,2013-06-11,,
+399735,Russells Shop - 4 - You,4,nan,nan,nan,2014-06-11,54.620572,-6.216611
+399736,S Berry's Family Butchers,5,0,0,0,2014-07-29,54.620572,-6.216611
+399737,Sam Smith Catering,5,5,5,5,2014-11-25,54.614852,-6.301756
+399738,Seabridge Freight Services UK Ltd,Exempt,nan,nan,nan,2013-05-15,54.681601,-6.146408
+399739,Second Donegore Presbyterian Church,5,0,0,5,2014-08-06,54.744117,-6.115646
+399740,Seymour's XL Stop Shop,4,10,0,10,2012-01-16,54.73254,-6.221756
+399741,Shunters,3,10,5,10,2014-09-19,54.715062,-6.21726
+399742,Silver Shadow Catering,5,5,0,5,2014-05-02,,
+399743,Simpson's,5,5,5,0,2014-10-21,54.713599,-6.211257
+399744,Sleepy Hollow Day Nursery,5,0,0,0,2013-06-03,54.628671,-6.22417
+399745,Sleepy Hollow Group,4,5,10,5,2013-03-19,54.621595,-6.215281
+399746,Spar,4,10,0,10,2014-07-23,54.722506,-6.094716
+399747,Spar (Hillview Service Station),5,nan,nan,nan,2014-11-27,54.745458,-6.30381
+399748,Spar BP Randalstown,5,5,0,5,2014-08-07,54.747642,-6.321921
+399749,Spar Supermarket,4,10,5,5,2014-07-30,54.713474,-6.200353
+399750,Spice,3,10,10,10,2013-05-24,54.675276,-6.165874
+399751,Spring Meadows Childrens Home,5,0,0,0,2012-09-10,54.718887,-6.183196
+399752,St Benedicts College,5,5,5,0,2014-11-17,54.750747,-6.310019
+399753,St Comgalls Playgroup,5,0,0,5,2013-11-12,54.719549,-6.218088
+399754,St Comgalls Primary School,5,0,0,5,2013-03-19,54.721915,-6.221398
+399755,St Josephs Nursery School,5,5,0,0,2013-06-03,,
+399756,St Josephs Primary,5,0,5,0,2013-01-11,54.880254,-6.280029
+399757,St Josephs Primary School (Meals Kitchen,5,5,5,0,2014-12-04,54.716224,-6.182338
+399758,St Jude's Church (C OF I),5,5,0,5,2014-07-23,54.696788,-6.19422
+399759,St Macnissis Playgroup (Parish Centre),5,5,0,5,2014-11-25,54.750244,-6.314544
+399760,St Oliver Plunkett Primary,5,5,0,0,2014-06-09,54.75165,-6.460099
+399761,Stables Bar and Restaurant (The),2,15,5,10,2013-07-09,54.718413,-6.219658
+399762,Starbucks,5,0,0,0,2014-11-13,54.721915,-6.221398
+399763,Starbucks Coffee Co,5,0,0,0,2012-09-18,,
+399764,Steamers Coffee Shop,5,nan,nan,nan,2014-01-28,54.700674,-6.102799
+399765,Steeple Inn,4,10,5,0,2013-04-09,54.714284,-6.218722
+399766,Steeple Nursery School,5,5,0,5,2014-12-05,54.722071,-6.209394
+399767,Straidhavern Primary School,5,0,0,0,2010-11-05,54.644993,-6.147269
+399768,Strawberry Fields,4,0,5,10,2012-09-05,54.721907,-6.362345
+399769,Subway,5,5,0,0,2014-01-08,,
+399770,Subway,4,5,5,10,2013-09-09,54.715284,-6.218896
+399771,Sundaes,4,5,5,10,2014-11-13,54.720319,-6.192445
+399772,Superdrug Stores Plc,5,0,5,5,2014-12-18,54.661554,-6.216257
+399773,Superdrug Stores Plc,Exempt,nan,nan,nan,2013-03-25,54.71498,-6.221423
+399774,T H Duffin Butchers,4,10,0,5,2014-04-03,54.747642,-6.321921
+399775,Tannaghmore Filling Station,5,5,5,5,2014-02-20,54.784909,-6.251388
+399776,Tannaghmore Playgroup,5,0,0,0,2013-11-20,54.78476,-6.241057
+399777,Tantastic Tanning Studio,Exempt,nan,nan,nan,2014-03-06,54.749843,-6.319282
+399778,Tea Junction Haven Christian Centre,4,0,5,10,2013-04-29,54.683687,-6.096086
+399779,Templepatrick Primary School,5,0,0,5,2014-03-18,54.69818,-6.091591
+399780,Templeton Hotel,3,nan,nan,nan,2014-11-21,54.704056,-6.091579
+399781,Tesco Customer Cafe,5,5,5,0,2014-01-08,54.715201,-6.212614
+399782,Tesco Petrol Filling Station,5,0,0,0,2014-04-14,54.715201,-6.212614
+399783,Tesco Stores Limited,5,nan,nan,nan,2015-01-16,54.620417,-6.214002
+399784,Tesco Supermarket,5,5,5,5,2014-12-16,54.715087,-6.214637
+399785,The Business Lounge,5,0,0,5,2012-12-13,54.661554,-6.216257
+399786,The Chip Stop,5,5,0,5,2014-04-29,,
+399787,The Chippy,5,5,5,0,2013-03-01,54.715062,-6.21726
+399788,The Fried Fish Warehouse,4,5,0,10,2014-10-21,54.75363812,-6.46200631
+399789,The Galley,5,5,0,0,2014-07-17,54.714821,-6.218559
+399790,The Garden Coffee Shop,5,0,5,5,2013-12-30,54.7156906128,-6.21683979034
+399791,The Little Buttercream Co Ltd,5,0,0,0,2012-02-28,,
+399792,The Mad Hatters Tea Party,5,0,0,5,2013-10-14,54.702761,-6.18564
+399793,The Old Courthouse,4,10,0,10,2014-04-07,54.71498,-6.221423
+399794,The Old Forge,4,5,5,10,2014-07-17,54.749382,-6.319767
+399795,The Olde Sweetie Jar,3,10,10,10,2014-09-01,54.632212,-6.237073
+399796,The Papershop,4,10,0,5,2012-09-06,54.714658,-6.218457
+399797,The Park Diner,3,10,10,5,2014-06-13,54.602478,-5.892555
+399798,The Stables,5,0,5,5,2014-08-11,54.741513,-6.238801
+399799,The Store House,5,5,5,0,2013-07-22,54.714211,-6.219206
+399800,The Strangford Kitchen and Grill,4,10,0,10,2014-07-28,,
+399801,The Sweet Spot,5,0,5,0,2014-11-26,,
+399802,The Vintage Candlecup Co,5,0,0,0,2014-03-06,,
+399803,The Vintage Tea Room at Nanabelle's,5,0,5,0,2013-05-10,54.715062,-6.21726
+399804,The Vintage Tricycle Company,5,0,0,0,2014-05-13,,
+399805,Thee Pizza,4,10,0,10,2014-03-11,54.747642,-6.321921
+399806,Thorntons PLC,5,0,5,0,2014-10-29,54.725867,-6.228645
+399807,Three Islands Private Nursing Home,5,0,0,5,2014-06-27,54.75165,-6.460099
+399808,Thrushfield Nursery School,4,10,5,5,2011-09-09,54.722506,-6.094716
+399809,Tiddlywinkers Nursery,5,5,0,0,2013-01-29,54.73516,-6.215989
+399810,Tiny Tots Pre-School Centre (Playgroup),5,0,0,0,2014-03-14,54.75165,-6.460099
+399811,Toff's Parkhall,5,5,0,5,2013-05-01,54.719155,-6.198767
+399812,Top Of The Town,4,5,0,10,2013-07-23,54.707289,-6.150604
+399813,Total Nutrition,Exempt,nan,nan,nan,2013-07-10,54.749843,-6.319282
+399814,Townparks Service Station,5,5,5,5,2014-12-04,54.721915,-6.221398
+399815,Transport/Training Services,5,0,0,0,2014-10-16,54.627212,-6.137284
+399816,Trixies Fast Food,5,0,0,5,2014-08-27,,
+399817,Truffles,4,5,5,10,2014-07-24,54.747642,-6.321921
+399818,Tumbledown Bar,5,0,0,5,2012-12-19,54.784158,-6.419257
+399819,Tweedies,4,0,10,0,2014-01-06,54.722506,-6.094716
+399820,Twisters,5,0,0,5,2013-05-08,54.753776,-6.462007
+399821,V.G. Grocer,4,5,5,10,2013-05-23,54.753776,-6.462007
+399822,Van Shop,5,5,5,5,2014-11-19,,
+399823,Velda's Cakes,5,0,0,0,2013-07-25,,
+399824,Village Pantry,4,10,0,10,2013-10-08,54.620417,-6.214002
+399825,Volt Retail Limited,5,5,5,5,2013-03-21,54.72495,-6.230455
+399826,W H Smith - Arrivals,Exempt,nan,nan,nan,2012-08-03,,
+399827,W H Smith (Check- In),Exempt,nan,nan,nan,2012-09-03,54.661554,-6.216257
+399828,W H Smith Airside,5,5,0,5,2012-12-21,,
+399829,W H Smith Airside2,5,0,0,5,2014-12-18,54.6615524292,-6.21625709534
+399830,Wake up and Taste,4,10,5,5,2014-05-02,,
+399831,Wake Up And Taste - Kaffine Kiosk,5,5,0,5,2014-07-03,,
+399832,Waves Cafe,5,5,0,0,2014-05-06,54.747642,-6.321921
+399833,Wayside Halt,5,0,0,5,2013-07-16,54.784909,-6.251388
+399834,Wayside Inn,1,5,10,20,2013-08-07,54.742763,-6.08878
+399835,White River Hotel,5,5,5,5,2014-07-31,54.754574,-6.461821
+399836,Winemark,Exempt,nan,nan,nan,2014-10-31,54.714658,-6.218457
+399837,Winemark,Exempt,nan,nan,nan,2013-11-20,54.700674,-6.102799
+399838,"Wing Wah Chinese Carry Out,",2,15,10,10,2014-03-04,54.713474,-6.200353
+399839,Woodburn House B & B,5,0,0,5,2014-11-12,54.709722,-6.199992
+399840,World Coffee Cup,5,0,0,5,2014-01-22,,
+399841,Wynfield House,5,0,0,5,2012-09-24,54.734102,-6.106546
+399842,Zara's,1,10,15,20,2014-03-10,54.715284,-6.218896

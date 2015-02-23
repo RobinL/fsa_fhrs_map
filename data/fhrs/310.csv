@@ -1,572 +1,572 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-251442,"Unit 3, Warren Yard",Lyne Lane,,Chertsey,360 Vending Ltd,Retailers - other,4613,,,315509,,,51.39079700000000,22342,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54774100000000,KT16 0AW,2015-01-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-251443,"Kingswood Hall, Royal Holloway University Of London",Coopers Hill Lane,,Englefield Green,8Bar9 - Kingswood Hall Bar,Pub/bar/nightclub,7843,0,,352719,5,,,419,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-10-21,fhrs_4_en-GB,4,,FHRS,10
-251444,,,,,A Cup of Vintage,Retailers - other,4613,,,315610,,,,31645,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2011-10-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-251445,Abbey Chase Nursing Home,Abbey Chase,,Chertsey,Abbey Chase Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,315699,5,,51.39352900000000,621,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49350900000000,KT16 8JW,2014-08-21,fhrs_5_en-GB,5,,FHRS,5
-251446,Abbey Rangers Football Club,Addlestone Moor,,Addlestone,Abbey Rangers Football Club,Restaurant/Cafe/Canteen,1,0,,315442,5,,,15,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-09-05,fhrs_5_en-GB,5,,FHRS,0
-251447,Woodlee,London Road,,Virginia Water,ACS Egham International School,School/college/university,7845,0,,315433,5,,51.41602400000000,1404,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57741500000000,TW20 0HS,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-251448,Addlestone Baptist Free Church,Crouch Oak Lane,,Addlestone,Addlestone Baptist Church,Restaurant/Cafe/Canteen,1,0,,315688,5,,51.37202200000000,577,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49229000000000,KT15 2AN,2009-09-08,fhrs_5_en-GB,5,,FHRS,5
-251449,,62 Station Road,,Addlestone,Addlestone Food and Wine,Retailers - other,4613,5,,315587,5,,51.37112900000000,29706,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49003500000000,KT15 2AF,2013-07-04,fhrs_4_en-GB,4,,FHRS,10
-251450,Addlestone Leisure Centre,School Lane,,Addlestone,Addlestone Leisure Centre,Restaurant/Cafe/Canteen,1,,,315265,,,51.37074700000000,1103,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50366700000000,KT15 1TD,2014-05-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-251451,,133 Station Road,,Addlestone,Addlestone Plaice,Restaurant/Cafe/Canteen,1,0,,315584,5,,51.37218400000000,29462,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48606300000000,KT15 2AT,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-251452,Addlestone Youth Centre,Church Road,,Addlestone,Addlestone Youth Centre,Restaurant/Cafe/Canteen,1,,,315474,,,51.36873500000000,1799,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50031300000000,KT15 1SH,2010-09-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-251453,,,,,"After School Kids Club, Parish Centre",School/college/university,7845,0,,352703,5,,,22600,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2010-03-04,fhrs_5_en-GB,5,,FHRS,5
-251454,Riverbourne House,5 Addlestone Road,,Addlestone,Airstream Diner,Mobile caterer,7846,0,,658646,5,,51.37205100000000,78554,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.47236200000000,KT15 2RX,2014-05-06,fhrs_5_en-GB,5,,FHRS,0
-251455,,47 Green Lane,,Addlestone,Akmol Tandoori,Takeaway/sandwich shop,7844,0,,315735,5,,51.37434400000000,7486,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49663900000000,KT15 2TX,2014-03-19,fhrs_5_en-GB,5,,FHRS,5
-251456,,182 Station Road,,Addlestone,Al Amin,Restaurant/Cafe/Canteen,1,10,,315525,15,,51.37253400000000,24742,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48460100000000,KT15 2BD,2013-06-22,fhrs_2_en-GB,2,,FHRS,10
-251457,,,,,All About Taste,Restaurant/Cafe/Canteen,1,0,,315447,5,,,15707,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-251458,Almners Priory,Almners Road,,Lyne,Almners (Childcare) Ltd,Hospitals/Childcare/Caring Premises,5,5,,315256,15,,51.38863800000000,10544,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53184200000000,KT16 0BH,2014-04-08,fhrs_2_en-GB,2,,FHRS,10
-251459,,Staines Road,,Chertsey,Amity Bites (Thorpe Park ),Restaurant/Cafe/Canteen,1,5,,315754,5,,51.40510000000000,8740,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-07-01,fhrs_4_en-GB,4,,FHRS,10
-251460,,Staines Road,,Chertsey,Amity Coffee (Thorpe Park),Restaurant/Cafe/Canteen,1,5,,352697,10,,51.40510000000000,15475,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2012-05-30,fhrs_4_en-GB,4,,FHRS,5
-251461,,Staines Road,,Chertsey,Amity Kebabs (Thorpe Park),Restaurant/Cafe/Canteen,1,5,,315759,10,,51.40510000000000,9079,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-21,fhrs_4_en-GB,4,,FHRS,5
-251462,,231 Pooley Green Road,,Egham,Amore Pizza,Takeaway/sandwich shop,7844,0,,315642,5,,51.42725200000000,39284,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52833200000000,TW20 8AS,2013-06-07,fhrs_5_en-GB,5,,FHRS,5
-251463,,,,,Angelicious Cakes,Retailers - other,4613,,,315503,,,,22142,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-08-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-251464,,,,,Ann Parsons Cakes,Restaurant/Cafe/Canteen,1,,,682817,,,,27821,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-07-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-251465,Anne Boleyn Hotel,The Hythe,,Staines-Upon-Thames,Anne Boleyn Hotel,Restaurant/Cafe/Canteen,1,5,,315501,5,,51.43208300000000,21984,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51567600000000,TW18 3JA,2014-09-09,fhrs_4_en-GB,4,,FHRS,10
-251466,,42a Bond Street,,Englefield Green,Ansell's Butchers,Retailers - other,4613,0,,315479,5,,51.42980700000000,190,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57652700000000,TW20 0PY,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-251467,,161 Station Road,,Addlestone,Antiquado Coffee Lounge,Restaurant/Cafe/Canteen,1,20,,688223,15,,51.37259600000000,7772,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48523100000000,KT15 2BA,2014-08-19,fhrs_1_en-GB,1,,FHRS,5
-251468,,,,,Apple Tree Farm,Retailers - other,4613,,,551382,,,,100278,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-07-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-251469,Unit 2,River Park Avenue,,The Causeway,Argos Ltd,Retailers - other,4613,,,688224,,,51.43257000000000,91,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51937200000000,TW18 3AP,2014-06-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-251470,St Peters Hospital,Guildford Road,,Chertsey,Aspects Restaurant,Restaurant/Cafe/Canteen,1,,,315513,,,51.37710100000000,22885,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52685200000000,KT16 0PZ,2014-04-30,fhrs_5_en-GB,5,,FHRS,
-251471,,,,,Auntie Tickets Kitchen,Retailers - other,4613,0,,481614,5,,,11568,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-10-26,fhrs_5_en-GB,5,,FHRS,5
-251472,Syward Place,Pyrcroft Road,,Chertsey,Automatic Data Processing Ltd,Restaurant/Cafe/Canteen,1,0,,715358,5,,51.39043800000000,9256,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51414900000000,KT16 9ER,2014-10-28,fhrs_5_en-GB,5,,FHRS,5
-251473,,,,,Averys Artisan Produce,Retailers - other,4613,0,,658644,5,,,51122,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-251474,,Wick Road,,Egham,Bailiwick,Restaurant/Cafe/Canteen,1,0,,315440,5,,51.42175800000000,147,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.58381000000000,TW20 0HJ,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-251475,,,,,Bakelicious,Retailers - other,4613,,,457698,,,,26672,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-08-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-251476,,163 High Street,,Egham,Bar 163,Restaurant/Cafe/Canteen,1,0,,315332,5,,51.43163000000000,1215,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54774200000000,TW20 9HP,2014-11-24,fhrs_4_en-GB,4,,FHRS,10
-251477,,Staines Road,,Chertsey,Bar 360 (Thorpe Park),Restaurant/Cafe/Canteen,1,0,,315706,5,,51.40510000000000,633,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2013-07-18,fhrs_5_en-GB,5,,FHRS,5
-251478,,Barley Mow Road,,Englefield Green,Barley Mow Inn,Pub/bar/nightclub,7843,10,,315453,15,,51.43281900000000,16071,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57500900000000,TW20 0NX,2013-07-03,fhrs_2_en-GB,2,,FHRS,10
-251479,Runnymede Warehouse,Windsor Road,,Old Windsor,Bartlett Mitchell Ltd,Restaurant/Cafe/Canteen,1,0,,315613,5,,51.44113800000000,31786,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54941200000000,TW20 0AE,2014-02-05,fhrs_5_en-GB,5,,FHRS,5
-251480,St Johns Beaumont School,Priest Hill,,Old Windsor,Bartlett Mitchell Ltd,School/college/university,7845,0,,315314,5,,51.44673600000000,1188,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57329500000000,SL4 2JN,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-251481,,Staines Road,,Chertsey,Battered Fish & Chips (Thorpe Park),Takeaway/sandwich shop,7844,0,,315632,0,,51.40510000000000,353,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-251482,Old Windsor,Priest Hill,,Old Windsor,Battersea Dogs Home,Restaurant/Cafe/Canteen,1,0,,315743,5,,51.44673600000000,792,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57329500000000,SL4 2JN,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-251483,,2000 Hillswood Drive,,Chertsey,Baxter Storey,Restaurant/Cafe/Canteen,1,0,,481621,0,,,6954,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,KT16 0EU,2014-04-08,fhrs_5_en-GB,5,,FHRS,5
-251484,"Building 1, Aviator Park",Station Road,,Addlestone,Baxter Storey Ltd,Restaurant/Cafe/Canteen,1,5,,315535,0,,51.37496200000000,25480,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48183400000000,KT15 2PG,2015-01-09,fhrs_5_en-GB,5,,FHRS,0
-251485,"Unit 4, Pine Trees Business Es",Chertsey Lane,,Staines,Baxter Storey Ltd,Restaurant/Cafe/Canteen,1,0,,315713,5,,51.43073200000000,645,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51691400000000,TW18 3HR,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-251486,Royal Holloway Athlone,Egham Hill,,Egham,Bedford Library Coffee Shop,School/college/university,7845,5,,481617,0,,51.42533300000000,15343,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2014-10-21,fhrs_5_en-GB,5,,FHRS,0
-251487,,17a Station Road,,Addlestone,Beijing Restaurant,Restaurant/Cafe/Canteen,1,,,315765,,,51.37112700000000,9378,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49197400000000,KT15 2AL,2014-10-16,fhrs_2_en-GB,2,,FHRS,
-251488,,64 Station Road,,Addlestone,Bella Fiori,Retailers - other,4613,,,315724,,,51.37112900000000,691,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49003500000000,KT15 2AF,2012-09-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-251489,,Staines Road,,Chertsey,Ben and Jerry's Kiosk (Thorpe Park),Restaurant/Cafe/Canteen,1,,,315778,,,51.40510000000000,9807,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2013-07-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-251490,,Staines Road,,Chertsey,Ben and Jerry's Scoop Shack (Thorpe Park),Retailers - other,4613,0,,315651,5,,51.40510000000000,39704,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2012-05-29,fhrs_5_en-GB,5,,FHRS,0
-251491,,84-86 Guildford Street,,Chertsey,Bengal Dynasty,Restaurant/Cafe/Canteen,1,10,,315520,15,,51.39100500000000,23973,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50424200000000,KT16 9AD,2013-12-18,fhrs_2_en-GB,2,,FHRS,5
-251492,Cemex House,Coldharbour Lane,,Thorpe,Beretta Catering ltd,Restaurant/Cafe/Canteen,1,0,,551395,5,,51.40967700000000,661,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52083000000000,TW20 8TD,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-251493,,178 High Street,,Egham,Big Fry,Restaurant/Cafe/Canteen,1,0,,315668,5,,51.43128700000000,4976,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54981000000000,TW20 9EJ,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-251494,Botleys Mansion,Stonehill Road,,Ottershaw,Bijou Weddings,Hotel/bed & breakfast/guest house,7842,0,,315606,5,,51.37383600000000,31330,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53393900000000,KT16 0AP,2013-11-27,fhrs_5_en-GB,5,,FHRS,5
-251495,Birchlands,Barley Mow Road,,Englefield Green,Birchlands HFEP,Hospitals/Childcare/Caring Premises,5,0,,315321,5,,51.43165700000000,1198,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57111800000000,TW20 0NP,2014-08-26,fhrs_5_en-GB,5,,FHRS,5
-251496,,Bishopsgate Road,,Englefield Green,Bishopsgate School,School/college/university,7845,0,,315313,5,,51.43943100000000,1187,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.58337800000000,TW20 0YJ,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-251497,,67 Hummer Road,,Egham,Bizzkidz Ltd,Restaurant/Cafe/Canteen,1,0,,429741,5,,51.43364200000000,95150,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54462800000000,TW20 9BP,2014-04-09,fhrs_5_en-GB,5,,FHRS,0
-251498,,134 Thorpe Lea Road,,Egham,BK Food & Wine,Retailers - other,4613,5,,315744,5,,51.42723900000000,8161,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52731100000000,TW20 8BL,2013-06-26,fhrs_5_en-GB,5,,FHRS,5
-251499,,86 New Haw Road,,Addlestone,Black Horse Public House,Pub/bar/nightclub,7843,,,315531,,,51.36349000000000,25315,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48755700000000,KT15 2BX,2014-08-20,fhrs_3_en-GB,3,,FHRS,
-251500,,116 Church Road,,Addlestone,Bokays,Takeaway/sandwich shop,7844,0,,315460,0,,51.36936900000000,16817,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49928700000000,KT15 1SG,2013-08-22,fhrs_5_en-GB,5,,FHRS,0
-251501,,54 Bond Street,,Englefield Green,Bond Street News,Retailers - other,4613,5,,315315,5,,51.42980700000000,1190,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57652700000000,TW20 0PY,2013-11-26,fhrs_4_en-GB,4,,FHRS,10
-251502,,,,,Bonds Bakery Ltd,Restaurant/Cafe/Canteen,1,0,,729205,0,,,26817,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-12-12,fhrs_5_en-GB,5,,FHRS,0
-251503,,57 High Street,,Egham,Boots The Chemists,Retailers - other,4613,,,315780,,,51.43216800000000,998,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54689000000000,TW20 9EX,2014-04-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-251504,,110 Thorpe Lea Road,,Egham,Booze N News,Retailers - other,4613,5,,315347,5,,51.42723900000000,1239,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52731100000000,TW20 8BL,2014-01-21,fhrs_5_en-GB,5,,FHRS,5
-251505,,96 Woodham Lane,,Addlestone,Bosco's,Restaurant/Cafe/Canteen,1,5,,315689,5,,51.35222500000000,583,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49332700000000,KT15 3NQ,2009-07-31,fhrs_5_en-GB,5,,FHRS,5
-251506,St Annes Roman Catholic Primar,Free Prae Road,,Chertsey,Brightsparks Childcare,School/college/university,7845,0,,315596,0,,51.38751000000000,30683,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50095000000000,KT16 8ET,2013-08-07,fhrs_5_en-GB,5,,FHRS,0
-251507,,Brox Road,,Ottershaw,Brockhurst Residential Home,Hospitals/Childcare/Caring Premises,5,0,,315304,5,,51.36216600000000,1165,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52832200000000,KT16 0LE,2014-08-13,fhrs_5_en-GB,5,,FHRS,5
-251508,,8 Station Approach,,Virginia Water,Budgens,Retailers - other,4613,0,,315277,5,,51.40328300000000,1130,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56640900000000,GU25 4DL,2013-02-01,fhrs_5_en-GB,5,,FHRS,5
-251509,,1-5 Station Road North,,Egham,Budgens,Retailers - other,4613,5,,315740,10,,51.43122300000000,7823,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54827300000000,TW20 9LD,2013-12-17,fhrs_3_en-GB,3,,FHRS,10
-251510,,19 The Avenue,,Egham,Burger King,Restaurant/Cafe/Canteen,1,0,,315335,0,,51.43469900000000,1220,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54071000000000,TW20 9AZ,2014-05-07,fhrs_5_en-GB,5,,FHRS,0
-251511,,Staines Road,,Chertsey,Burgerking 1 - Karali Ltd (Thorpe Park),Restaurant/Cafe/Canteen,1,0,,315708,0,,51.40510000000000,635,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-22,fhrs_5_en-GB,5,,FHRS,0
-251512,,Staines Road,,Chertsey,Burgerking 2-Sherrygold Ltd (Thorpe Park),Takeaway/sandwich shop,7844,0,,315249,0,,51.40510000000000,100,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-251513,Royal Holloway University Of L,Egham Hill,,Englefield Green,Cafe Jules,Restaurant/Cafe/Canteen,1,0,,315672,5,,51.42533300000000,5226,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2010-02-12,fhrs_5_en-GB,5,,FHRS,5
-251514,,14 Hamm Moor Lane,,Addlestone,Cafe on the Wey,Restaurant/Cafe/Canteen,1,0,,315714,5,,51.37101500000000,6455,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.47562900000000,KT15 2SA,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-251515,,70 Station Road,,Addlestone,Cafe Two,Restaurant/Cafe/Canteen,1,5,,315609,5,,51.37112900000000,31580,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49003500000000,KT15 2AF,2013-10-16,fhrs_5_en-GB,5,,FHRS,0
-251516,,168 High Street,,Egham,Caffe Gondola,Restaurant/Cafe/Canteen,1,0,,352702,5,,51.43163000000000,22493,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54774200000000,TW20 9HP,2013-11-13,fhrs_5_en-GB,5,,FHRS,5
-251517,25 The Precinct,High Street,,Egham,Caffe Nero,Restaurant/Cafe/Canteen,1,0,,315493,5,,51.43208400000000,21139,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54592900000000,TW20 9HN,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-251518,,,,,Cake Queens,Retailers - other,4613,,,516449,,,,48072,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-02-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-251519,,,,,Cakes by Jo Vass,Retailers - other,4613,,,315742,,,,7901,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-08-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-251520,,,,,Cakey Wonders,Retailers - other,4613,,,481622,,,,7760,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-12-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-251521,,Staines Road,,Chertsey,Calypso Pancakes (Thorpe Park),Restaurant/Cafe/Canteen,1,5,,315755,5,,51.40510000000000,8741,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2012-05-29,fhrs_5_en-GB,5,,FHRS,5
-251522,,Bridge Road,,Chertsey,Camping & Caravanning Club,Restaurant/Cafe/Canteen,1,0,,704259,5,,51.38930500000000,450,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48880400000000,KT16 8JZ,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-251523,5 Burwood Parade,Guildford Street,,Chertsey,Carlo Delicatessan,Retailers - other,4613,5,,315390,5,,51.39064100000000,13188,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50465600000000,KT16 9AE,2012-05-31,fhrs_5_en-GB,5,,FHRS,5
-251524,,77 Station Road,,Addlestone,Carlton Newsagents,Retailers - other,4613,5,,315432,0,,51.37166700000000,1397,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48915500000000,KT15 2AR,2012-08-16,fhrs_5_en-GB,5,,FHRS,0
-251525,Saville Gardens,Wick Lane,,Englefield Green,Casa Caffe Ltd,Mobile caterer,7846,0,,315616,5,,51.42738200000000,32342,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59613600000000,TW20 0UU,2014-02-05,fhrs_5_en-GB,5,,FHRS,5
-251526,Virginia Water Lake,London Road,,Virginia Water,Casa Caffe Ltd,Mobile caterer,7846,0,,315615,5,,51.40921000000000,32315,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59249400000000,GU25 4QF,2014-02-05,fhrs_5_en-GB,5,,FHRS,5
-251527,,10 Station Approach,,Virginia Water,Casa Nova,Restaurant/Cafe/Canteen,1,0,,315276,5,,51.40336100000000,1129,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56762900000000,GU25 4DW,2014-03-11,fhrs_5_en-GB,5,,FHRS,5
-251528,,3 St Judes Road,,Englefield Green,Caspari,Restaurant/Cafe/Canteen,1,0,,315488,5,,51.42935500000000,20465,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57261400000000,TW20 0DB,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-251529,1-2 Liberty House,Guildford Street,,Chertsey,Caspari Restaurant,Restaurant/Cafe/Canteen,1,5,,315553,10,,51.38792200000000,27329,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50856800000000,KT16 9GU,2014-06-09,fhrs_4_en-GB,4,,FHRS,5
-251530,Thorpe Park,Staines Road,,Chertsey,Cast Restaurant,Restaurant/Cafe/Canteen,1,5,,401843,10,,51.40510000000000,39870,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2013-10-03,fhrs_4_en-GB,4,,FHRS,5
-251531,,,,,Castle Childcare Ltd,Hospitals/Childcare/Caring Premises,5,0,,315514,5,,,22917,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-04-28,fhrs_5_en-GB,5,,FHRS,0
-251532,Fullbrook School,Selsdon Road,,Addlestone,Caterlink Ltd,School/college/university,7845,0,,315283,5,,51.34362400000000,1138,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50635900000000,KT15 3HW,2013-03-04,fhrs_5_en-GB,5,,FHRS,5
-251533,1 Orbis,Lovett Road,,Egham,CH & Co,Restaurant/Cafe/Canteen,1,0,,315538,5,,51.43410700000000,26099,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53431300000000,TW18 3AZ,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-251534,,30 The Causeway,,Staines-Upon-Thames,CH & Co Ltd,Restaurant/Cafe/Canteen,1,0,,315709,5,,51.43292300000000,638,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52597800000000,TW18 3AT,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-251535,"Swan House, Watermans Business Park",The Causeway,,Staines-Upon-Thames,CH & Co Ltd,Restaurant/Cafe/Canteen,1,0,,315622,5,,51.43444500000000,33523,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53112200000000,TW18 3BF,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-251536,,107 Guildford Street,,Chertsey,Chandlers News,Retailers - other,4613,5,,315711,5,,51.39107600000000,6390,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50491500000000,KT16 9AS,2014-02-14,fhrs_5_en-GB,5,,FHRS,5
-251537,Cherrybrook Nursery,Scotland Bridge Road,,Addlestone,Cherry Brook Nursery,Farmers/growers,7838,0,,315322,5,,51.34481800000000,12,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50052000000000,KT15 3HQ,2015-01-08,fhrs_5_en-GB,5,,FHRS,0
-251538,Recreation Lodge,Guildford Road,,Chertsey,Chertsey Bowling Club,Restaurant/Cafe/Canteen,1,,,638681,,,51.38618900000000,7366,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51231800000000,KT16 9BW,2012-09-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-251539,4 The Sainsbury Centre,Guildford Street,,Chertsey,Chertsey Cafe,Restaurant/Cafe/Canteen,1,5,,315444,10,,51.39097300000000,15283,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50388400000000,KT16 9AG,2014-09-03,fhrs_4_en-GB,4,,FHRS,5
-251540,,17b Fordwater Road,,Chertsey,Chertsey Convenience Store,Retailers - other,4613,5,,315383,10,,51.38734300000000,1310,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49494800000000,KT16 8HW,2014-05-06,fhrs_4_en-GB,4,,FHRS,5
-251541,Chertsey Cricket Club,Grove Road,,Chertsey,Chertsey Cricket Club,Pub/bar/nightclub,7843,,,352692,,,51.39369100000000,1320,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50899900000000,KT16 9DL,2010-06-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-251542,The Chertsey Hall,Heriot Road,,Chertsey,Chertsey Hall,Restaurant/Cafe/Canteen,1,5,,352720,5,,51.39128800000000,428,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50247900000000,KT16 9DT,2014-07-28,fhrs_5_en-GB,5,,FHRS,5
-251543,,Pyrcroft Road,,Chertsey,Chertsey Nursery School,School/college/university,7845,5,,429732,5,,51.39043800000000,1626,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51414900000000,KT16 9ER,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-251544,,38 Guildford Street,,Chertsey,Chertsey Restaurant,Restaurant/Cafe/Canteen,1,,,315374,,,51.38834300000000,1298,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50703100000000,KT16 9BE,2014-06-03,fhrs_3_en-GB,3,,FHRS,
-251545,,102-106 Bridge Road,,Chertsey,Chertsey Service Station,Retailers - other,4613,5,,315671,5,,51.38933600000000,520,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49047000000000,KT16 8LA,2014-06-08,fhrs_5_en-GB,5,,FHRS,5
-251546,Chertsey Social Club,Pyrcroft Road,,Chertsey,Chertsey Social Club,Pub/bar/nightclub,7843,0,,315387,5,,51.38903100000000,1314,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50956700000000,KT16 9HN,2012-08-02,fhrs_5_en-GB,5,,FHRS,5
-251547,Chertsey Town Football Club,Alwyns Lane,,Chertsey,Chertsey Town Football Club 2007 Ltd,Pub/bar/nightclub,7843,10,,315392,10,,51.39305200000000,1321,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50680600000000,KT16 9DW,2014-03-26,fhrs_3_en-GB,3,,FHRS,10
-251548,"Pavilion, Gogmore Farm Park",Curfew Bell Road,,Chertsey,Chertsey Youth Centre,Retailers - other,4613,,,352709,,,51.39194300000000,26416,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51221800000000,KT16 9HE,2015-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-251549,,93 Guildford Street,,Chertsey,China Chef,Takeaway/sandwich shop,7844,5,,315360,5,,51.39107600000000,12590,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50491500000000,KT16 9AS,2012-12-06,fhrs_4_en-GB,4,,FHRS,10
-251550,Christ Church,Christchurch Road,,Virginia Water,Christ Church,Restaurant/Cafe/Canteen,1,0,,315691,5,,51.40749100000000,587,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.58192100000000,GU25 4PT,2014-06-11,fhrs_5_en-GB,5,,FHRS,5
-251551,,Christchurch Road,,Virginia Water,Christchurch CE Infant School,School/college/university,7845,0,,315272,10,,51.40793700000000,1118,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.58609100000000,GU25 4PX,2009-06-02,fhrs_4_en-GB,4,,FHRS,5
-251552,,,,,Churro up,Retailers - other,4613,5,,516445,5,,,16120,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-02-20,fhrs_5_en-GB,5,,FHRS,5
-251553,Egham Railway Station,Station Road,,Egham,Coffee A`More Ltd.,Restaurant/Cafe/Canteen,1,0,,315449,0,,51.42959900000000,15896,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54707300000000,TW20 9LB,2013-06-25,fhrs_5_en-GB,5,,FHRS,0
-251554,"The Hub, Royal Holloway University Of Lo",Egham Hill,,Englefield Green,Coffee and Cake shop,Restaurant/Cafe/Canteen,1,5,,481619,5,,51.42533300000000,43987,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-251555,,Staines Road,,Chertsey,Coffee Shack (Thorpe Park),Restaurant/Cafe/Canteen,1,0,,315663,5,,51.40510000000000,4736,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2012-05-30,fhrs_5_en-GB,5,,FHRS,5
-251556,Byfleet And New Haw Railway St,Byfleet Road,,New Haw,Coffee Shop,Restaurant/Cafe/Canteen,1,0,,699113,5,,51.34962200000000,25633,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48114900000000,KT15 3LQ,2014-09-01,fhrs_5_en-GB,5,,FHRS,5
-251557,,Staines Road,,Chertsey,Colossus Fries (Thorpe Park ),Restaurant/Cafe/Canteen,1,5,,352727,5,,51.40510000000000,8753,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-28,fhrs_5_en-GB,5,,FHRS,5
-251558,Compass House,Guildford Street,,Chertsey,Compass Group Uk & Ireland Ltd,Restaurant/Cafe/Canteen,1,0,,315340,5,,51.38710100000000,12266,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50835000000000,KT16 9BQ,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-251559,Rusham Park,Whitehall Lane,,Egham,Compass Group UK & Ireland Ltd,Restaurant/Cafe/Canteen,1,0,,315507,5,,51.42142900000000,22288,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55469500000000,TW20 9NW,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-251560,Tamesis,The Glanty,,Egham,Compass Group Uk & Ireland Ltd,Restaurant/Cafe/Canteen,1,0,,315533,5,,51.43471400000000,25475,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53394800000000,TW20 9AW,2013-09-10,fhrs_5_en-GB,5,,FHRS,5
-251561,"Toshiba Court, Weybridge Busin",Addlestone Road,,Addlestone,Compass Group UK & Ireland Ltd,Restaurant/Cafe/Canteen,1,0,,315640,5,,51.37748300000000,391,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48274200000000,KT15 2QR,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-251562,,158 Thorpe Lea Road,,Egham,Compasses Public House,Pub/bar/nightclub,7843,0,,315530,5,,51.42542500000000,24906,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53182900000000,TW20 8HA,2014-05-16,fhrs_5_en-GB,5,,FHRS,5
-251563,,51-53 Green Lane,,Addlestone,Co-op,Retailers - other,4613,10,,315436,15,,51.37434400000000,14300,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49663900000000,KT15 2TX,2014-05-01,fhrs_2_en-GB,2,,FHRS,10
-251564,,14-20 The Broadway,,New Haw,Co-op (Broadway),Retailers - other,4613,0,,315764,5,,51.34886700000000,9292,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50353200000000,KT15 3HA,2013-04-11,fhrs_5_en-GB,5,,FHRS,5
-251565,,2 Ongar Parade,,Addlestone,Co-op Welcome,Retailers - other,4613,5,,315417,5,,51.36302600000000,1369,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50677700000000,KT15 1JH,2013-01-31,fhrs_5_en-GB,5,,FHRS,5
-251566,Abraham Cowley Unit,Holloway Hill,,Lyne,Corner Shop,Retailers - other,4613,,,315450,,,51.37934000000000,160,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52896400000000,KT16 0AE,2012-12-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-251567,,65 High Street,,Egham,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,401845,5,,51.43258500000000,6925,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54568300000000,TW20 9EY,2012-05-15,fhrs_5_en-GB,5,,FHRS,5
-251568,,108-110 Station Road,,Addlestone,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,315745,5,,51.37148900000000,8246,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48725000000000,KT15 2BQ,2014-05-19,fhrs_5_en-GB,5,,FHRS,5
-251569,12 The Sainsbury Centre,Guildford Street,,Chertsey,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,664097,5,,51.39097300000000,100316,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50388400000000,KT16 9AG,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-251570,Pantiles Nurseries,Almners Road,,Lyne,Country Wide Farmers PLC,Retailers - other,4613,,,315574,,,51.38723800000000,29010,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53852700000000,KT16 0BJ,2014-05-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-251571,,8 Ongar Parade,,Addlestone,County Fresh Meats Ltd,Retailers - other,4613,0,,315426,5,,51.36302600000000,1383,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50677700000000,KT15 1JH,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-251572,Silverlands Farm Cottage,Hardwick Lane,,Lyne,Crackling Pig,Mobile caterer,7846,0,,457773,5,,51.38266900000000,78715,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52553800000000,KT16 0AD,2013-07-15,fhrs_5_en-GB,5,,FHRS,5
-251573,"Crockford Bridge Farm Shop, Crockford Bridge Farm",New Haw Road,,Addlestone,Crockford Bridge Farm Shop,Retailers - other,4613,0,,315694,5,,51.36422700000000,606,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48476000000000,KT15 2BU,2013-07-18,fhrs_5_en-GB,5,,FHRS,5
-251574,Royal Holloway University Of London,Egham Hill,,Egham,Crosslands Suite,Restaurant/Cafe/Canteen,1,0,,481615,5,,51.42533300000000,1260,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2014-10-27,fhrs_5_en-GB,5,,FHRS,5
-251575,The Crown Hotel,7 London Street,,Chertsey,Crown Hotel,Pub/bar/nightclub,7843,5,,315379,10,,51.39182000000000,1304,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50187300000000,KT16 8AP,2014-09-01,fhrs_4_en-GB,4,,FHRS,5
-251576,,,,,Cygnus Events Ltd,Retailers - other,4613,,,707942,,,,11440,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-10-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-251577,Darley Dene Infant School,Garfield Road,,Addlestone,Darley Dene Infant School,School/college/university,7845,5,,315425,5,,51.36913100000000,1381,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48913800000000,KT15 2NP,2013-10-02,fhrs_4_en-GB,4,,FHRS,10
-251578,,Addlestone Moor,,Addlestone,Dawny's Daycare,Hospitals/Childcare/Caring Premises,5,0,,352693,5,,51.38166300000000,1355,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49099600000000,KT15 2QH,2013-09-18,fhrs_5_en-GB,5,,FHRS,0
-251579,,17b St Judes Road,,Englefield Green,Deli on the Green,Retailers - other,4613,10,,315510,10,,51.42776100000000,22497,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57240400000000,TW20 0BY,2014-11-12,fhrs_3_en-GB,3,,FHRS,10
-251580,,176 High Street,,Egham,Deli Rumbles,Restaurant/Cafe/Canteen,1,,,315551,,,51.43128700000000,27119,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54981000000000,TW20 9EJ,2014-02-19,fhrs_5_en-GB,5,,FHRS,
-251581,,Staines Road,,Chertsey,Desperado's Mexican Cantina (Thorpe Park),Restaurant/Cafe/Canteen,1,0,,315614,5,,51.40510000000000,32223,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-251582,,Staines Road,,Chertsey,Dog House (Thorpe Park),Restaurant/Cafe/Canteen,1,5,,315776,5,,51.40510000000000,9805,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-21,fhrs_2_en-GB,2,,FHRS,15
-251583,,143 Station Road,,Addlestone,Dominic's Pizza,Takeaway/sandwich shop,7844,20,,315429,15,,51.37218400000000,13883,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48606300000000,KT15 2AT,2014-07-29,fhrs_1_en-GB,1,,FHRS,15
-251584,,144 Station Road,,Addlestone,Domino Pizza,Takeaway/sandwich shop,7844,0,,551383,5,,51.37185800000000,1387,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48584400000000,KT15 2BE,2013-05-31,fhrs_5_en-GB,5,,FHRS,0
-251585,,19 High Street,,Egham,Domino Pizza,Takeaway/sandwich shop,7844,0,,315353,5,,51.43173300000000,12512,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55165100000000,TW20 9DT,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-251586,,Staines Road,,Chertsey,Donut Shack (Thorpe Park),Restaurant/Cafe/Canteen,1,0,,315777,5,,51.40510000000000,9806,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2013-07-18,fhrs_5_en-GB,5,,FHRS,5
-251587,,48 Guildford Street,,Chertsey,Dragon Pearl Chinese Restaurant,Restaurant/Cafe/Canteen,1,0,,315718,5,,51.38834300000000,6723,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50703100000000,KT16 9BE,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-251588,,5 Brox Road,,Ottershaw,Dragon Wok,Takeaway/sandwich shop,7844,0,,315523,5,,51.36443700000000,24207,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53016000000000,KT16 0HG,2013-04-19,fhrs_5_en-GB,5,,FHRS,5
-251589,,,,,Eastwick Coffee Co,Mobile caterer,7846,5,,682816,5,,,24356,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-07-23,fhrs_5_en-GB,5,,FHRS,5
-251590,,67 High Street,,Egham,Eat Thai,Restaurant/Cafe/Canteen,1,,,315557,,,51.43258500000000,27839,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54568300000000,TW20 9EY,2014-08-20,fhrs_4_en-GB,4,,FHRS,
-251591,"Strodes School House, Strodes College",High Street,,Egham,Edwards and Ward Ltd,School/college/university,7845,0,,315358,5,,51.43173300000000,1256,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55165100000000,TW20 9DT,2013-03-13,fhrs_5_en-GB,5,,FHRS,5
-251592,,132a High Street,,Egham,Egham & District Social Club,Pub/bar/nightclub,7843,0,,315371,10,,51.43273300000000,1285,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54388000000000,TW20 9HL,2012-07-02,fhrs_4_en-GB,4,,FHRS,5
-251593,Egham Bowls Club,Manorcrofts Road,,Egham,Egham Bowls Club,Restaurant/Cafe/Canteen,1,5,,315351,5,,51.42723600000000,1248,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54437100000000,TW20 9LX,2013-11-29,fhrs_5_en-GB,5,,FHRS,5
-251594,,83 High Street,,Egham,Egham Charcoal Grill,Takeaway/sandwich shop,7844,0,,315468,5,,51.43289200000000,173,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54504000000000,TW20 9HE,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-251595,,159 High Street,,Egham,Egham Constitutional Club,Pub/bar/nightclub,7843,5,,315370,5,,51.43163000000000,1284,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54774200000000,TW20 9HP,2013-02-04,fhrs_4_en-GB,4,,FHRS,10
-251596,,98-99 High Street,,Egham,Egham Express,Retailers - other,4613,0,,315368,5,,51.43350600000000,1281,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54234500000000,TW20 9HQ,2014-08-11,fhrs_5_en-GB,5,,FHRS,5
-251597,,18 High Street,,Egham,Egham Food and Wine,Retailers - other,4613,5,,315537,10,,51.43173300000000,26076,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55165100000000,TW20 9DT,2013-09-30,fhrs_4_en-GB,4,,FHRS,5
-251598,,Vicarage Road,,Egham,Egham Leisure Centre,Restaurant/Cafe/Canteen,1,0,,315361,5,,51.43063000000000,1267,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53886900000000,TW20 8NL,2014-08-27,fhrs_5_en-GB,5,,FHRS,5
-251599,,43 High Street,,Egham,Egham Oriental Store,Retailers - other,4613,0,,315595,5,,51.43160500000000,30262,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54929600000000,TW20 9DP,2014-07-23,fhrs_4_en-GB,4,,FHRS,10
-251600,,51 High Street,,Egham,Egham Tea Room,Restaurant/Cafe/Canteen,1,0,,315372,5,,51.43190800000000,1286,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54839500000000,TW20 9EW,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-251601,Egham Town Football Club,Tempest Road,,Egham,Egham Town Football Club Ltd,Pub/bar/nightclub,7843,0,,315352,5,,51.42636300000000,1249,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53201400000000,TW20 8HX,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-251602,Egham United Services Club Ltd,Spring Rise,,Egham,Egham United Services Club,Pub/bar/nightclub,7843,5,,315350,5,,51.43010200000000,1247,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55355900000000,TW20 9PE,2013-07-22,fhrs_4_en-GB,4,,FHRS,10
-251603,,,,,Eileen Jackson,Restaurant/Cafe/Canteen,1,5,,315733,10,,,7392,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2011-12-23,fhrs_4_en-GB,4,,FHRS,5
-251604,Eileen Tozer Day Centre,Crouch Oak Lane,,Addlestone,Eileen Tozer Day Centre,Hospitals/Childcare/Caring Premises,5,0,,315712,0,,51.37202200000000,640,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49229000000000,KT15 2AN,2014-02-19,fhrs_5_en-GB,5,,FHRS,0
-251605,Merlewood,Hollow Lane,,Virginia Water,Elizabeth Finn Homes Ltd,Hospitals/Childcare/Caring Premises,5,0,,315266,5,,51.41016300000000,1108,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57092500000000,GU25 4LR,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-251606,,96 Thorpe Lea Road,,Egham,Empire House,Takeaway/sandwich shop,7844,10,,315497,10,,51.42770800000000,21732,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52531100000000,TW20 8BN,2013-09-23,fhrs_3_en-GB,3,,FHRS,10
-251607,Englefield Green Infant School,Barley Mow Road,,Egham,Englefield Green Infant School,School/college/university,7845,0,,315323,5,,51.43165700000000,1200,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57111800000000,TW20 0NP,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-251608,Englefield Green Social Hall,Harvest Road,,Englefield Green,Englefield Green Social Hall,Restaurant/Cafe/Canteen,1,,,315318,,,51.43018900000000,1193,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56877600000000,TW20 0QT,2015-01-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-251609,,117 Station Road,,Addlestone,Euphorium (North London ) Ltd,Retailers - other,4613,0,,732429,0,,51.37194100000000,344,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48674700000000,KT15 2AS,2015-01-27,fhrs_5_en-GB,5,,FHRS,0
-251610,,60-63 High Street,,Egham,Euphorium (North London) Ltd,Retailers - other,4613,0,,732428,5,,51.43216800000000,259,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54689000000000,TW20 9EX,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-251611,Central Veterinary Laboratory,Woodham Lane,,Addlestone,Eurest Services,Restaurant/Cafe/Canteen,1,0,,315637,5,,51.35222500000000,368,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49332700000000,KT15 3NQ,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-251612,Fangrove Caravan Park,Lyne Lane,,Chertsey,Fangrove Residents Club,Pub/bar/nightclub,7843,0,,315300,0,,51.38503100000000,1161,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54112600000000,KT16 0BN,2014-08-20,fhrs_5_en-GB,5,,FHRS,0
-251613,Bourne Valley Garden Centre,Woodham Park Road,,Woodham,Farm Shop,Retailers - other,4613,10,,315255,5,,51.35352600000000,1051,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51494100000000,KT15 3TH,2013-07-18,fhrs_4_en-GB,4,,FHRS,5
-251614,The Farm Shop,Hardwick Lane,,Lyne,Farm Shop Lyne Ltd,Retailers - other,4613,0,,315544,5,,51.38794500000000,26616,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52749500000000,KT16 0AA,2014-04-10,fhrs_5_en-GB,5,,FHRS,5
-251615,,,,,Fatty Mattys,Retailers - other,4613,5,,457778,5,,,96630,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-08-29,fhrs_5_en-GB,5,,FHRS,5
-251616,,121-125 Church Road,,Addlestone,Fermoyle House Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,315703,5,,51.36873500000000,628,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50031300000000,KT15 1SH,2013-10-02,fhrs_5_en-GB,5,,FHRS,5
-251617,St Peters Hospital,Guildford Road,,Chertsey,First Steps Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,315589,5,,51.37710100000000,299,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52685200000000,KT16 0PZ,2014-07-04,fhrs_5_en-GB,5,,FHRS,5
-251618,,89 Guildford Street,,Chertsey,Flaming Grill,Restaurant/Cafe/Canteen,1,0,,315435,5,,51.39107600000000,14189,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50491500000000,KT16 9AS,2014-11-14,fhrs_5_en-GB,5,,FHRS,0
-251619,,,,,Flossy Cockles,Retailers - other,4613,,,481616,,,,14219,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-12-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-251620,,60 Station Road,,Egham,Food Festival,Retailers - other,4613,5,,617173,5,,51.42963900000000,26391,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54813600000000,TW20 9LF,2013-12-04,fhrs_5_en-GB,5,,FHRS,5
-251621,"Founders Building, Royal Holloway University Of London",Egham Hill,,Englefield Green,Founders Kitchen,School/college/university,7845,0,,315359,5,,51.42533300000000,1259,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2014-10-27,fhrs_5_en-GB,5,,FHRS,5
-251622,,Bishopsgate Road,,Englefield Green,Fox & Hounds,Pub/bar/nightclub,7843,20,,315658,20,,51.43949100000000,443,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59061400000000,TW20 0XU,2014-10-20,fhrs_0_en-GB,0,,FHRS,20
-251623,,54 Station Road,,Addlestone,Golden Cafe Ltd,Restaurant/Cafe/Canteen,1,10,,315593,15,,51.37112900000000,30076,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49003500000000,KT15 2AF,2013-09-10,fhrs_2_en-GB,2,,FHRS,15
-251624,,20 High Street,,Egham,Golden Cafe Ltd,Restaurant/Cafe/Canteen,1,5,,315396,5,,51.43173300000000,13280,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55165100000000,TW20 9DT,2013-06-27,fhrs_5_en-GB,5,,FHRS,5
-251625,,,,,Gourmet Nut and Fudge Company,Mobile caterer,7846,,,315751,,,,8477,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-03-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-251626,Great Cockrow Railway,Hardwick Lane,,Lyne,Great Cockcrow Railway,Restaurant/Cafe/Canteen,1,0,,315698,5,,51.38266900000000,618,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52553800000000,KT16 0AD,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-251627,Great Fosters Hotel,Stroude Road,,Egham,Great Fosters (1931) Ltd,Hotel/bed & breakfast/guest house,7842,0,,315269,5,,51.41705100000000,1112,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54459400000000,TW20 9UR,2013-10-19,fhrs_5_en-GB,5,,FHRS,5
-251628,,162 Chertsey Lane,,Staines,Green Lane Store,Retailers - other,4613,0,,315341,5,,51.41632400000000,1230,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51391400000000,TW18 3LY,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-251629,,94 Station Road,,Addlestone,Greggs of Twickenham,Retailers - other,4613,0,,315263,5,,51.37130900000000,1101,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48859200000000,KT15 2AD,2013-05-09,fhrs_5_en-GB,5,,FHRS,0
-251630,,64 High Street,,Egham,Greggs South East,Restaurant/Cafe/Canteen,1,5,,457667,0,,51.43258500000000,16141,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54568300000000,TW20 9EY,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-251631,Unit 2,River Park Avenue,,Egham,Halfords,Retailers - other,4613,,,619624,,,,2537,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-12-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-251632,Foxhills Country Club,Stonehill Road,,Ottershaw,Halfway Houses,Restaurant/Cafe/Canteen,1,0,,315627,5,,51.37386300000000,338,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55344900000000,KT16 0EL,2014-09-03,fhrs_5_en-GB,5,,FHRS,5
-251633,,23 Windsor Street,,Chertsey,Hamiltons,Hotel/bed & breakfast/guest house,7842,0,,315677,5,,51.39234000000000,540,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50454400000000,KT16 8AY,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-251634,Hare Hill Social Club,Ledger Drive,,Addlestone,Hare Hill Social Club,Pub/bar/nightclub,7843,10,,315424,10,,51.36506700000000,1380,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51172400000000,KT15 1AT,2011-12-21,fhrs_3_en-GB,3,,FHRS,10
-251635,Tesco Extra,117 Station Road,,Addlestone,Harris and Hoole Ltd,Restaurant/Cafe/Canteen,1,0,,715359,5,,51.37194100000000,95713,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48674700000000,KT15 2AS,2014-10-20,fhrs_5_en-GB,5,,FHRS,5
-251636,,,,,Harri's Homemade Cakes,Retailers - other,4613,0,,429734,5,,,2904,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-08-29,fhrs_5_en-GB,5,,FHRS,0
-251637,Sir William Perkins School,Guildford Road,,Chertsey,Harrison Catering Services Ltd,School/college/university,7845,0,,315399,5,,51.38679900000000,1331,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51149300000000,KT16 9BN,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-251638,,14 Station Approach,,Virginia Water,Harts Foodhall,Retailers - other,4613,10,,315406,5,,51.40336100000000,1349,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56762900000000,GU25 4DW,2013-03-15,fhrs_4_en-GB,4,,FHRS,0
-251639,,288 Woodham Lane,,Addlestone,Heaters Bakery,Farmers/growers,7838,5,,315284,5,,51.34838300000000,1140,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50159500000000,KT15 3NT,2013-06-11,fhrs_5_en-GB,5,,FHRS,5
-251640,,2 Windsor Street,,Chertsey,Heaters Bakery Chertsey,Retailers - other,4613,5,,315547,5,,51.39274600000000,26814,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50467400000000,KT16 8AS,2013-10-31,fhrs_5_en-GB,5,,FHRS,5
-251641,Heathervale Baptist Church,Heathervale Road,,Addlestone,Heathervale Baptist Church,Restaurant/Cafe/Canteen,1,0,,315687,0,,51.34924600000000,576,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49520600000000,KT15 3NW,2011-10-05,fhrs_5_en-GB,5,,FHRS,0
-251642,St Paul's Church Hall,Church Road,,Addlestone,Hebrews,Restaurant/Cafe/Canteen,1,0,,732426,5,,51.36874200000000,100343,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50302800000000,KT15 1SJ,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-251643,,16 Victoria Street,,Englefield Green,High Rise,Takeaway/sandwich shop,7844,5,,315438,5,,51.42903500000000,14496,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56999100000000,TW20 0QY,2014-07-30,fhrs_4_en-GB,4,,FHRS,10
-251644,35 The Precinct,High Street,,Egham,Holland and Barrett Retail Ltd,Retailers - other,4613,,,315462,,,51.43208400000000,16866,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54592900000000,TW20 9HN,2014-07-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-251645,,25 High Street,,Addlestone,Holly Tree,Pub/bar/nightclub,7843,0,,315411,5,,51.37166500000000,1360,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49325000000000,KT15 1TN,2013-09-26,fhrs_4_en-GB,4,,FHRS,10
-251646,,Ongar Hill,,Addlestone,Holy Family Catholic Primary School,School/college/university,7845,0,,315415,5,,51.36619700000000,1366,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50507900000000,KT15 1BP,2014-12-12,fhrs_5_en-GB,5,,FHRS,5
-251647,,,,,Home Caterer Cakes,Retailers - other,4613,,,722009,,,,48876,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-12-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-251648,,100 Guildford Street,,Chertsey,Honeycomb Chemist,Retailers - other,4613,,,315253,,,51.39100500000000,1033,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50424200000000,KT16 9AD,2013-07-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-251649,Laleham Golf Club,Laleham Reach,,Chertsey,Hopscotch Play,Hospitals/Childcare/Caring Premises,5,0,,699109,5,,51.40212300000000,100336,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49191800000000,KT16 8RW,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-251650,,"Unit 5 Eversley Way, Crabtree Road",,Thorpe Industrial Estate,How can we help you Ltd,Restaurant/Cafe/Canteen,1,0,,668451,5,,51.41749600000000,22999,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52909100000000,TW20 8RE,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-251651,,24 Row Town,,Addlestone,Howards Residential Care Home,Hospitals/Childcare/Caring Premises,5,0,,315701,0,,51.35910600000000,625,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51321000000000,KT15 1EY,2013-09-03,fhrs_5_en-GB,5,,FHRS,0
-251652,,72 High Street,,Egham,Hugos Restaurant,Restaurant/Cafe/Canteen,1,0,,352679,5,,51.43258500000000,10666,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54568300000000,TW20 9EY,2014-10-28,fhrs_4_en-GB,4,,FHRS,10
-251653,3 The Parade,Thorpe Road,,Egham,Hythe Supermarket,Retailers - other,4613,0,,315330,5,,51.42950300000000,1212,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52139800000000,TW18 3HF,2014-08-08,fhrs_4_en-GB,4,,FHRS,10
-251654,,160-162 High Street,,Egham,Iceland Frozen Foods Plc,Retailers - other,4613,5,,315331,5,,51.43163000000000,1214,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54774200000000,TW20 9HP,2012-04-24,fhrs_5_en-GB,5,,FHRS,5
-251655,,124a Station Road,,Addlestone,Iceland Frozen Foods Plc,Retailers - other,4613,5,,315716,5,,51.37148900000000,667,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48725000000000,KT15 2BQ,2013-12-18,fhrs_4_en-GB,4,,FHRS,10
-251656,,17 Station Road North,,Egham,IL Pomodoro,Restaurant/Cafe/Canteen,1,0,,315476,5,,51.43122300000000,18277,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54827300000000,TW20 9LD,2013-01-03,fhrs_4_en-GB,4,,FHRS,10
-251657,Royal Holloway University Of London,Egham Hill,,Egham,Imagine,Restaurant/Cafe/Canteen,1,0,,429730,5,,51.42533300000000,100223,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2014-10-21,fhrs_5_en-GB,5,,FHRS,0
-251658,Phoenix Plaza,8 Pyrcroft Road,,Chertsey,Indos,Restaurant/Cafe/Canteen,1,5,,315532,10,,51.38808700000000,25408,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50885000000000,KT16 9HL,2014-03-26,fhrs_2_en-GB,2,,FHRS,15
-251659,,,,,Irresistible Bakes,Retailers - other,4613,,,315516,,,,23285,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-06-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-251660,,Windsor Road,,Egham,Italian Concept,Restaurant/Cafe/Canteen,1,0,,315560,5,,51.44113800000000,28100,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54941200000000,TW20 0AE,2014-07-15,fhrs_4_en-GB,4,,FHRS,10
-251661,,100 Station Road,,Addlestone,J Golding Group,Retailers - other,4613,,,315431,,,51.37130900000000,1396,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48859200000000,KT15 2AD,2012-11-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-251662,1 The Sainsbury Centre,Guildford Street,,Chertsey,J Sainsbury,Retailers - supermarkets/hypermarkets,7840,0,,315380,0,,51.39097300000000,1305,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50388400000000,KT16 9AG,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-251663,Sainsbury,The Causeway,,Egham,J Sainsbury Plc,Retailers - supermarkets/hypermarkets,7840,0,,315641,5,,51.43257000000000,392,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51937200000000,TW18 3AP,2013-04-29,fhrs_5_en-GB,5,,FHRS,5
-251664,,52 Guildford Street,,Chertsey,Jack Sparrow,Restaurant/Cafe/Canteen,1,10,,315457,10,,51.38834300000000,16475,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50703100000000,KT16 9BE,2014-06-03,fhrs_3_en-GB,3,,FHRS,10
-251665,,,,,Jackie Cox,Farmers/growers,7838,,,664101,,,,8855,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-01-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-251666,,178 Station Road,,Addlestone,Jasmine Curry House,Restaurant/Cafe/Canteen,1,5,,315710,5,,51.37253400000000,6388,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48460100000000,KT15 2BD,2013-11-20,fhrs_4_en-GB,4,,FHRS,10
-251667,,229 Pooley Green Road,,Egham,Jays Pharmacy,Retailers - other,4613,,,315761,,,51.42725200000000,921,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52833200000000,TW20 8AS,2013-02-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-251668,,131 Station Road,,Addlestone,JB's Takeout,Takeaway/sandwich shop,7844,5,,315655,5,,51.37218400000000,425,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48606300000000,KT15 2AT,2014-05-12,fhrs_4_en-GB,4,,FHRS,10
-251669,John Battleday Waterski,Thorpe Road,,Chertsey,John Battleday Waterski,Restaurant/Cafe/Canteen,1,0,,315705,5,,51.40134000000000,6307,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52575700000000,KT16 8PH,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-251670,Jubilee High School,School Lane,,Addlestone,Jubilee High School,School/college/university,7845,0,,315413,0,,51.37074700000000,1364,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50366700000000,KT15 1TD,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-251671,,150 Fangrove Park,,Chertsey,Just a Bite,Mobile caterer,7846,0,,315492,5,,51.38481900000000,21108,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53922200000000,KT16 0BS,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-251672,St Peters Hospital,Guildford Road,,Chertsey,Just Deli Post Graduate Restaurant,Restaurant/Cafe/Canteen,1,5,,315397,5,,51.37710100000000,1329,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52685200000000,KT16 0PZ,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-251673,,119b Guildford Street,,Chertsey,Just Relish,Retailers - other,4613,5,,315732,5,,51.39183200000000,739,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50425800000000,KT16 9AL,2014-09-23,fhrs_5_en-GB,5,,FHRS,5
-251674,,,,,KC Cakes,Retailers - other,4613,,,581509,,,,17420,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-09-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-251675,,290 Woodham Lane,,Addlestone,Kebab Centre,Takeaway/sandwich shop,7844,0,,315753,5,,51.34838300000000,8547,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50159500000000,KT15 3NT,2013-07-29,fhrs_5_en-GB,5,,FHRS,5
-251676,,180 Station Road,,Addlestone,Kebab Land,Takeaway/sandwich shop,7844,5,,315750,5,,51.37253400000000,8423,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48460100000000,KT15 2BD,2013-04-29,fhrs_5_en-GB,5,,FHRS,5
-251677,,,,,Keeda Kakes,Retailers - other,4613,,,581508,,,,13002,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-09-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-251678,,79 Station Road,,Addlestone,Kentucky Fried Chicken,Restaurant/Cafe/Canteen,1,0,,315543,5,,51.37166700000000,26543,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48915500000000,KT15 2AR,2013-07-17,fhrs_5_en-GB,5,,FHRS,5
-251679,1 Charles House,Guildford Street,,Chertsey,Kettle Grill,Restaurant/Cafe/Canteen,1,0,,315585,5,,51.38770300000000,29467,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50837400000000,KT16 9GT,2013-07-11,fhrs_5_en-GB,5,,FHRS,5
-251680,,Staines Road,,Chertsey,KFC Amity Diner - Demipower Ltd (Thorpe Park),Restaurant/Cafe/Canteen,1,0,,315730,5,,51.40510000000000,7233,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-251681,Kingswood Hall Royal Holloway University Of London,Coopers Hill Lane,,Englefield Green,Kingswood Hall,School/college/university,7845,0,,315320,5,,51.43657100000000,1196,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56415900000000,TW20 0LG,2013-05-29,fhrs_5_en-GB,5,,FHRS,5
-251682,11 The Precinct,High Street,,Egham,KJ Garden,Restaurant/Cafe/Canteen,1,10,,632267,15,,51.43208400000000,322,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54592900000000,TW20 9HN,2014-08-20,fhrs_2_en-GB,2,,FHRS,10
-251683,,,,,Kola Bagan Ltd,Restaurant/Cafe/Canteen,1,0,,729206,5,,,29262,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-12-11,fhrs_5_en-GB,5,,FHRS,0
-251684,,45 Green Lane,,Addlestone,Kwok Lai Chinese Takeaway,Takeaway/sandwich shop,7844,0,,315489,5,,51.37434400000000,207,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49663900000000,KT15 2TX,2013-03-01,fhrs_5_en-GB,5,,FHRS,5
-251685,,,,,La Crepe,Restaurant/Cafe/Canteen,1,5,,606002,5,,,33540,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-10-22,fhrs_5_en-GB,5,,FHRS,5
-251686,,17 Station Parade,,Virginia Water,La Piazzetta,Restaurant/Cafe/Canteen,1,0,,315618,5,,51.40233700000000,327,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56409600000000,GU25 4AE,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-251687,,,,,Lady Syvia Dhenin,Retailers - other,4613,,,315624,,,,33552,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-08-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-251688,Thorpe Park,Staines Road,,Chertsey,Lakeview Marquee,Restaurant/Cafe/Canteen,1,,,315629,,,51.40510000000000,345,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-251689,Laleham Golf Course,Laleham Reach,,Chertsey,Laleham Golf Club,Restaurant/Cafe/Canteen,1,0,,315768,5,,51.40885700000000,9510,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49386800000000,KT16 8RP,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-251690,Laleham Golf Course,Laleham Reach,,Chertsey,Laleham Golf Club Bar,Pub/bar/nightclub,7843,,,352691,,,51.40885700000000,1317,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49386800000000,KT16 8RP,2008-09-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-251691,,10-18 Station Road North,,Egham,Le Brunch,Restaurant/Cafe/Canteen,1,0,,315737,5,,51.43114700000000,7553,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54862000000000,TW20 9LE,2013-05-02,fhrs_5_en-GB,5,,FHRS,5
-251692,,6 Ongar Parade,,Addlestone,Lee's Bakery,Retailers - other,4613,5,,315621,5,,51.36302600000000,335,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50677700000000,KT15 1JH,2013-08-21,fhrs_4_en-GB,4,,FHRS,10
-251693,,,,,Little Lunches,Retailers - other,4613,5,,457737,0,,,3665,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-11-28,fhrs_5_en-GB,5,,FHRS,5
-251694,,,,,Little Miss Hubbards Cakes,Retailers - other,4613,,,429735,,,,29618,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-08-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-251695,,6 Brox Road,,Ottershaw,Lloyds Pharmacy,Retailers - other,4613,,,315738,,,51.36445500000000,766,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53086300000000,KT16 0HL,2014-02-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-251696,,296-298 Woodham Lane,,New Haw,Lloyds Pharmacy,Retailers - other,4613,,,315734,,,51.34838300000000,748,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50159500000000,KT15 3NT,2014-02-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-251697,,1 Weir Road,,Chertsey,Lloyds Pharmacy,Retailers - other,4613,,,315746,,,51.38864800000000,8249,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49507800000000,KT16 8NF,2010-01-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-251698,,50-52 Station Road,,Addlestone,LLoyds Pharmacy,Retailers - other,4613,,,315747,,,51.37112900000000,8250,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49003500000000,KT15 2AF,2009-01-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-251699,,17 Station Approach,,Virginia Water,Lloyds Pharmacy Limited,Retailers - other,4613,,,315729,,,51.40336100000000,714,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56762900000000,GU25 4DW,2014-12-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-251700,,98a St Judes Road,,Englefield Green,Lloyds Pharmacy Ltd,Retailers - other,4613,,,315741,,,51.42911700000000,784,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57298100000000,TW20 0DF,2010-01-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-251701,,5-6 High Street,,Egham,Loch Fyne Bar and Grill,Restaurant/Cafe/Canteen,1,10,,315257,5,,51.43180100000000,10611,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55278600000000,TW20 9EA,2014-03-05,fhrs_3_en-GB,3,,FHRS,10
-251702,Automated Precision House,Hamm Moor Lane,,Addlestone,Locker 27,Retailers - other,4613,,,690226,,,51.37004100000000,100302,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.47609200000000,KT15 2SD,2014-08-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-251703,,5-6 The Parade,,Virginia Water,Londis,Retailers - other,4613,0,,315482,5,,51.39695800000000,19628,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56616200000000,GU25 4EH,2014-05-07,fhrs_5_en-GB,5,,FHRS,0
-251704,,49 Guildford Street,,Chertsey,Londis,Retailers - other,4613,5,,315720,5,,51.38878800000000,674,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50743300000000,KT16 9BA,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-251705,,8 Brox Road,,Ottershaw,Londis,Retailers - other,4613,5,,315721,5,,51.36445500000000,6824,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53086300000000,KT16 0HL,2013-10-29,fhrs_5_en-GB,5,,FHRS,0
-251706,,19 High Street,,Addlestone,Loon Hing,Restaurant/Cafe/Canteen,1,5,,315562,0,,51.37121900000000,28317,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49352300000000,KT15 1TL,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-251707,,19 Woodham Lane,,Addlestone,Lovely Jubblies,Mobile caterer,7846,5,,551390,5,,51.35609900000000,26821,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48693800000000,KT15 3LZ,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-251708,"Ground Floor, Krome House",244-256 Station Road,,Addlestone,Luigi's Caffe,Restaurant/Cafe/Canteen,1,0,,581510,0,,51.37378000000000,30112,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48221800000000,KT15 2PS,2013-08-20,fhrs_5_en-GB,5,,FHRS,5
-251709,,,,,Luv That Cake,Retailers - other,4613,,,576551,,,,9591,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-08-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-251710,,16 Station Approach,,Virginia Water,Lux II,Restaurant/Cafe/Canteen,1,5,,315675,5,,51.40336100000000,536,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56762900000000,GU25 4DW,2014-07-04,fhrs_4_en-GB,4,,FHRS,10
-251711,Lyne And Longcross C Of E School,Lyne Lane,,Chertsey,Lyne & Longcross C of E Infant School,School/college/university,7845,0,,315299,5,,51.38162700000000,1160,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54285800000000,KT16 0AJ,2009-06-02,fhrs_5_en-GB,5,,FHRS,5
-251712,,17 High Street,,Egham,Magic Wok Restaurant,Restaurant/Cafe/Canteen,1,0,,315581,5,,51.43173300000000,29289,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55165100000000,TW20 9DT,2014-12-22,fhrs_5_en-GB,5,,FHRS,5
-251713,St Pauls Church,Thorpe Road,,Egham,Magna Carta School,School/college/university,7845,0,,315343,5,,51.42779700000000,1232,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52166900000000,TW18 3HJ,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-251714,Tea Rooms,Windsor Road,,Old Windsor,Magna Carta Tea Rooms,Restaurant/Cafe/Canteen,1,0,,315362,5,,51.44065000000000,1269,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54703900000000,TW20 0AE,2013-09-30,fhrs_5_en-GB,5,,FHRS,5
-251715,Unit 2 Gregory Place,210 New Haw Road,,Addlestone,Majestic Wine Warehouses Ltd,Retailers - other,4613,5,,699108,5,,51.35885400000000,100329,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48719200000000,KT15 2DS,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-251716,,28 St Judes Road,,Englefield Green,Mango Chutney,Restaurant/Cafe/Canteen,1,0,,315389,10,,51.42776100000000,13154,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57240400000000,TW20 0BY,2014-08-07,fhrs_4_en-GB,4,,FHRS,10
-251717,Studio Kitchen,Chobham Lane,,Longcross,Mannys Sauces Ltd,Manufacturers/packers,7839,0,,704260,5,,,52,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,KT16 OEE,2014-08-07,fhrs_5_en-GB,5,,FHRS,5
-251718,Manor Farm Day Centre,Manor Farm Lane,,Egham,Manor Farm Day Centre,Hospitals/Childcare/Caring Premises,5,0,,315333,5,,51.43221900000000,1218,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54297600000000,TW20 9HR,2013-11-13,fhrs_5_en-GB,5,,FHRS,5
-251719,Manorcroft School,Manorcrofts Road,,Egham,Manorcroft Primary School,School/college/university,7845,0,,315344,5,,51.42723600000000,1233,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54437100000000,TW20 9LX,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-251720,Coopers Hill Recreation Trust,Coopers Hill Lane,,Egham,Manorcroft United JFC,Restaurant/Cafe/Canteen,1,,,315319,,,51.43712700000000,1194,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57139300000000,TW20 0JX,2014-06-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-251721,,1 The Broadway,,New Haw,Martin McColl Ltd,Retailers - other,4613,0,,315294,0,,51.34813000000000,1154,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50355600000000,KT15 3ES,2014-04-24,fhrs_5_en-GB,5,,FHRS,5
-251722,,14 Station Parade,,Virginia Water,Martins,Retailers - other,4613,,,352682,,,51.40202700000000,1120,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56374600000000,GU25 4AB,2013-04-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-251723,Farm Shop,Hardwick Lane,,Chertsey,Martins Butchers,Retailers - other,4613,0,,315647,5,,51.38794500000000,39503,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52749500000000,KT16 0AA,2014-08-26,fhrs_5_en-GB,5,,FHRS,5
-251724,,1000 Hillswood Drive,,Chertsey,Matgol Ltd,Restaurant/Cafe/Canteen,1,0,,315439,0,,51.37270100000000,14500,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53159000000000,KT16 0PS,2013-09-25,fhrs_5_en-GB,5,,FHRS,0
-251725,Crockford Bridge Farm,New Haw Road,,Addlestone,Maurice Jones and Son,Retailers - other,4613,5,,579231,5,,51.36422700000000,333,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48476000000000,KT15 2BU,2014-08-08,fhrs_5_en-GB,5,,FHRS,0
-251726,"Mayflower Cottage, Mayflower Nurseries",Thorpe Lea Road,,Egham,Mayflower Nurseries,Retailers - other,4613,,,722010,,,51.42254600000000,89203,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53745800000000,TW20 8JL,2014-12-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-251727,Meadowcroft School,Little Green Lane,,Chertsey,Meadowcroft County First School,School/college/university,7845,0,,315385,5,,51.37672600000000,1312,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51278300000000,KT16 9PT,2014-12-02,fhrs_4_en-GB,4,,FHRS,10
-251728,,99 Brox Road,,Ottershaw,Meath School,School/college/university,7845,0,,315308,5,,51.36102400000000,1172,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52835900000000,KT16 0LF,2013-05-01,fhrs_5_en-GB,5,,FHRS,5
-251729,Royal Holloway University of L,Egham Hill,,Egham,Medicine Bar,Pub/bar/nightclub,7843,0,,315466,5,,51.42533300000000,17292,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2014-05-13,fhrs_5_en-GB,5,,FHRS,0
-251730,,2 St Judes Road,,Englefield Green,Megna Tandoori Restaurant,Restaurant/Cafe/Canteen,1,5,,315327,5,,51.42935500000000,1209,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57261400000000,TW20 0DB,2014-01-17,fhrs_5_en-GB,5,,FHRS,0
-251731,Merrywood Farm At,180a Almners Road,,Lyne,Merrywood Farm Ltd,Retailers - other,4613,0,,429740,5,,51.38723800000000,92171,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53852700000000,KT16 0BJ,2013-09-05,fhrs_5_en-GB,5,,FHRS,0
-251732,Addlestone Methodist Church,71 Station Road,,Addlestone,Methodist Church,Distributors/Transporters,7,,,315685,,,51.37166700000000,571,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48915500000000,KT15 2AR,2014-02-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-251733,,13-15 Ashwood Road,,Englefield Green,Mini Market,Retailers - other,4613,5,,315312,10,,51.42633700000000,1184,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.58181300000000,TW20 0SY,2013-02-20,fhrs_3_en-GB,3,,FHRS,10
-251734,,,,,Miss J A Guest,Mobile caterer,7846,5,,315617,10,,,325,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-04-23,fhrs_3_en-GB,3,,FHRS,10
-251735,,,,,Mmm Cookie Dough,Retailers - other,4613,0,,576550,5,,,7155,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-251736,,,,,Molly Milkshake Cakes,Retailers - other,4613,0,,699110,5,,,17898,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-08-27,fhrs_5_en-GB,5,,FHRS,5
-251737,,210 New Haw Road,,Addlestone,Morrisons Supermarket PLC,Retailers - supermarkets/hypermarkets,7840,0,,704261,0,,51.35885400000000,78412,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48719200000000,KT15 2DS,2014-04-16,fhrs_5_en-GB,5,,FHRS,0
-251738,,,,,Mr Carlos,Mobile caterer,7846,5,,315667,5,,,4952,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-07-30,fhrs_5_en-GB,5,,FHRS,0
-251739,,,,,Mr S & Mrs J E Morris,Retailers - other,4613,,,315605,,,,3131,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2011-03-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-251740,Runnymede Service Station,38-45 The Avenue,,Egham,MRH Runnymede,Retailers - other,4613,0,,315521,5,,51.43492200000000,240,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53913500000000,TW20 9AD,2012-07-23,fhrs_5_en-GB,5,,FHRS,0
-251741,,,,,Mrs Caroline Faulkner,Retailers - other,4613,0,,715357,5,,,5425,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-12-23,fhrs_5_en-GB,5,,FHRS,0
-251742,,,,,Mrs Harshini Patel,Retailers - other,4613,,,352718,,,,39771,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-05-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-251743,,,,,Mrs Kristina West,Retailers - other,4613,,,528491,,,,25845,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-03-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-251744,,,,,Mrs Makiko Searle,Retailers - other,4613,,,516448,,,,30164,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-02-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-251745,,,,,Mrs Pat Gray Chobham WI Market,Restaurant/Cafe/Canteen,1,,,315519,,,,238,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-01-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-251746,,,,,Mrs Tracy Martin,Retailers - other,4613,,,516447,,,,29964,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-02-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-251747,,,,,Mrs Valerie Hessey,Retailers - other,4613,10,,315555,10,,,27639,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-07-08,fhrs_2_en-GB,2,,FHRS,15
-251748,"Runnymede Borough Council, Runnymede Civic Centre",Station Road,,Addlestone,Myers Catering Ltd,Restaurant/Cafe/Canteen,1,,,315441,,,51.37066300000000,14892,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49079700000000,KT15 2AH,2014-02-05,fhrs_5_en-GB,5,,FHRS,
-251749,,229 Woodham Lane,,Addlestone,Nash News,Retailers - other,4613,5,,352684,5,,51.34876200000000,1143,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49957200000000,KT15 3NU,2013-04-12,fhrs_5_en-GB,5,,FHRS,5
-251750,,1 Simplemarsh Road,,Addlestone,National Reserve & Social Club,Pub/bar/nightclub,7843,5,,315420,10,,51.37128000000000,1375,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49684000000000,KT15 1QH,2010-06-29,fhrs_4_en-GB,4,,FHRS,5
-251751,,Staines Road,,Chertsey,Naughty But Nice (Thorpe Park),Restaurant/Cafe/Canteen,1,10,,315494,5,,51.40510000000000,21459,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-23,fhrs_4_en-GB,4,,FHRS,5
-251752,,292 Woodham Lane,,Addlestone,New Haw Cafe and Restaurant,Restaurant/Cafe/Canteen,1,0,,315478,5,,51.34838300000000,18990,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50159500000000,KT15 3NT,2014-10-15,fhrs_5_en-GB,5,,FHRS,0
-251753,New Haw Club And Institute,48 Woodham Lane,,Addlestone,New Haw Club & Institute,Pub/bar/nightclub,7843,0,,315288,5,,51.35580900000000,1147,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48812600000000,KT15 3NA,2014-08-26,fhrs_5_en-GB,5,,FHRS,5
-251754,,2 Woodham Lane,,Addlestone,New Haw News,Retailers - other,4613,0,,315286,5,,51.35580900000000,1144,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48812600000000,KT15 3NA,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-251755,"Abraham Cowley Unit, St Peters",Guildford Road,,Chertsey,NW Surrey Mental Health,Hospitals/Childcare/Caring Premises,5,0,,315398,5,,51.37934000000000,1330,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52896400000000,KT16 0AE,2015-01-14,fhrs_5_en-GB,5,,FHRS,5
-251756,,3 London Street,,Chertsey,Ocean Blue Fish and Chips,Takeaway/sandwich shop,7844,5,,699114,10,,51.39182000000000,26108,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50187300000000,KT16 8AP,2014-09-01,fhrs_3_en-GB,3,,FHRS,10
-251757,,Longcross Road,,Chertsey,Old School Cafe,Restaurant/Cafe/Canteen,1,,,315302,,,51.37908200000000,1163,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56769700000000,KT16 0DP,2014-10-08,fhrs_5_en-GB,5,,FHRS,
-251758,The Olde Swan,27 Windsor Street,,Chertsey,Olde Swan Hotel,Pub/bar/nightclub,7843,0,,315401,10,,51.39234000000000,1334,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50454400000000,KT16 8AY,2014-03-21,fhrs_4_en-GB,4,,FHRS,10
-251759,,5 Dashwood Lang Road,,Addlestone,Olive Catering Services Ltd,Restaurant/Cafe/Canteen,1,0,,551391,5,,51.37301500000000,29470,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.47939800000000,KT15 2NY,2013-06-17,fhrs_5_en-GB,5,,FHRS,5
-251760,,5 Windsor Street,,Chertsey,One Stop,Retailers - other,4613,0,,315363,5,,51.39234000000000,127,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50454400000000,KT16 8AY,2010-02-24,fhrs_5_en-GB,5,,FHRS,5
-251761,,18-20 Brox Road,,Ottershaw,One Stop,Retailers - other,4613,0,,315524,5,,51.36445500000000,2437,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53086300000000,KT16 0HL,2012-11-22,fhrs_5_en-GB,5,,FHRS,0
-251762,Ongar Place School,Milton Road,,Addlestone,Ongar Place Primary School,School/college/university,7845,0,,315416,0,,51.36294900000000,1367,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50216800000000,KT15 1JG,2014-04-28,fhrs_5_en-GB,5,,FHRS,0
-251763,,9-13 Brox Road,,Ottershaw,Otters Spicy Cottage,Restaurant/Cafe/Canteen,1,5,,315653,10,,51.36443700000000,405,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53016000000000,KT16 0HG,2013-10-21,fhrs_4_en-GB,4,,FHRS,5
-251764,,Fletcher Close,,Chertsey,Ottershaw C Of E Infant School,School/college/university,7845,10,,315301,5,,51.36252200000000,1162,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52094200000000,KT16 0JT,2014-10-08,fhrs_3_en-GB,3,,FHRS,10
-251765,,Fletcher Road,,Ottershaw,Ottershaw C of E Junior School,School/college/university,7845,0,,315264,5,,51.36245000000000,1102,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52308400000000,KT16 0JY,2013-04-22,fhrs_5_en-GB,5,,FHRS,5
-251766,Ottershaw Social Club,19 Brox Road,,Ottershaw,Ottershaw Social Club,Pub/bar/nightclub,7843,0,,315307,5,,51.36443700000000,1171,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53016000000000,KT16 0HG,2012-02-14,fhrs_5_en-GB,5,,FHRS,5
-251767,,,,,Paella Passion,Restaurant/Cafe/Canteen,1,0,,551393,0,,,4759,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-06-20,fhrs_5_en-GB,5,,FHRS,0
-251768,,63 Station Road,,Addlestone,Pandrol International Ltd,Restaurant/Cafe/Canteen,1,0,,315704,0,,51.37166700000000,629,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48915500000000,KT15 2AR,2014-03-11,fhrs_5_en-GB,5,,FHRS,0
-251769,,68 Station Road,,Addlestone,Papa Johns Pizza,Takeaway/sandwich shop,7844,5,,315666,10,,51.37112900000000,487,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49003500000000,KT15 2AF,2013-09-30,fhrs_3_en-GB,3,,FHRS,10
-251770,,87a High Street,,Egham,Papa Johns Pizza,Takeaway/sandwich shop,7844,0,,315583,5,,51.43306300000000,294,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54361100000000,TW20 9HF,2014-07-16,fhrs_5_en-GB,5,,FHRS,5
-251771,,50 Guildford Street,,Chertsey,Paradise Kebab,Takeaway/sandwich shop,7844,10,,315568,15,,51.38834300000000,28877,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50703100000000,KT16 9BE,2013-09-11,fhrs_2_en-GB,2,,FHRS,10
-251772,St Peters Hospital,Guildford Road,,Chertsey,Patient Catering,Hospitals/Childcare/Caring Premises,5,0,,315534,5,,51.37710100000000,25478,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52685200000000,KT16 0PZ,2014-07-04,fhrs_5_en-GB,5,,FHRS,5
-251773,,,,,Peace,Retailers - other,4613,,,535383,,,,29600,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-04-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-251774,,135 Station Road,,Addlestone,Peciong Oriental Foods,Retailers - other,4613,0,,315282,5,,51.37218400000000,11367,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48606300000000,KT15 2AT,2012-05-02,fhrs_5_en-GB,5,,FHRS,5
-251775,,Staines Road,,Chertsey,Peckish (Thorpe Park),Restaurant/Cafe/Canteen,1,5,,315506,5,,51.40510000000000,22240,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-251776,,15 Station Road North,,Egham,Peking Chef,Takeaway/sandwich shop,7844,0,,315455,5,,51.43122300000000,16427,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54827300000000,TW20 9LD,2014-01-23,fhrs_5_en-GB,5,,FHRS,5
-251777,"Penton Yacht Club, Penton Hook Marina",Staines Road,,Chertsey,Penton Hook Yacht Club,Pub/bar/nightclub,7843,5,,315388,5,,51.40950700000000,1315,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50396900000000,KT16 8PY,2013-02-05,fhrs_5_en-GB,5,,FHRS,5
-251778,,9 Chapel Avenue,,Addlestone,Peter Myer,Mobile caterer,7846,,,688222,,,51.37331800000000,18644,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49516400000000,KT15 1UH,2014-07-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-251779,Philip Southcote School,Addlestone Moor,,Addlestone,Philip Southcote School,School/college/university,7845,0,,315412,5,,51.38166300000000,1363,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49099600000000,KT15 2QH,2014-05-02,fhrs_5_en-GB,5,,FHRS,5
-251780,Piccolino,London Road,,Virginia Water,Piccolino,Restaurant/Cafe/Canteen,1,0,,315502,0,,51.40870200000000,21992,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59210700000000,GU25 4QE,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-251781,10 The Parade,Trumps Green Road,,Virginia Water,Pitch & Chip,Takeaway/sandwich shop,7844,5,,315259,5,,51.39695800000000,1092,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56616200000000,GU25 4EH,2014-04-14,fhrs_4_en-GB,4,,FHRS,10
-251782,,1 London Street,,Chertsey,Pizza Express,Restaurant/Cafe/Canteen,1,0,,315763,0,,51.39182000000000,9291,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50187300000000,KT16 8AP,2012-07-09,fhrs_5_en-GB,5,,FHRS,5
-251783,,65 Guildford Street,,Chertsey,Pizza Hot Express,Restaurant/Cafe/Canteen,1,20,,315577,15,,51.38973400000000,29067,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50609500000000,KT16 9AU,2014-08-12,fhrs_1_en-GB,1,,FHRS,15
-251784,,118 Station Road,,Addlestone,Pizza Hut,Restaurant/Cafe/Canteen,1,0,,315770,5,,51.37148900000000,9588,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48725000000000,KT15 2BQ,2013-04-02,fhrs_5_en-GB,5,,FHRS,0
-251785,,Staines Road,,Chertsey,Pizza Hut (Thorpe Park),Restaurant/Cafe/Canteen,1,0,,315445,5,,51.40510000000000,15443,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-251786,,,,,Plush Cupcakes,Retailers - other,4613,,,516446,,,,17475,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-03-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-251787,,223 Pooley Green Road,,Egham,Pop Inn Cafe,Restaurant/Cafe/Canteen,1,5,,638680,10,,51.42725200000000,23205,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52833200000000,TW20 8AS,2014-03-12,fhrs_4_en-GB,4,,FHRS,5
-251788,Unit A6,Crabtree Road,,Thorpe Industrial Estate,Premier Cafe,Restaurant/Cafe/Canteen,1,0,,315774,10,,51.41622100000000,9778,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53071400000000,TW20 8RN,2013-03-04,fhrs_4_en-GB,4,,FHRS,5
-251789,,2 Egham Hill,,Englefield Green,Prezzo,Restaurant/Cafe/Canteen,1,0,,315545,5,,51.43149600000000,26738,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55505400000000,TW20 0AY,2013-09-11,fhrs_5_en-GB,5,,FHRS,5
-251790,1000 Hillswood Drive,Guildford Road,,Chertsey,Pride Catering Partnership Ltd,Restaurant/Cafe/Canteen,1,0,,315727,5,,51.37270100000000,6952,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53159000000000,KT16 0PS,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-251791,,43 Simplemarsh Road,,Addlestone,Pub Kitchen Waggon and Horses,Pub/bar/nightclub,7843,10,,715356,15,,51.37128000000000,19801,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49684000000000,KT15 1QH,2014-10-27,fhrs_2_en-GB,2,,FHRS,10
-251792,,Pyrcroft Road,,Chertsey,Pyrcroft Grange Primary School,School/college/university,7845,0,,315384,0,,51.39185300000000,1311,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51653200000000,KT16 9EW,2014-12-16,fhrs_5_en-GB,5,,FHRS,0
-251793,,Addlestone Moor,,Addlestone,Quality Food,Mobile caterer,7846,5,,315591,5,,51.38161087036133,30010,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48767799139023,KT15 2QF,2015-01-24,fhrs_5_en-GB,5,,FHRS,5
-251794,Queenwood Golf Club,Stonehill Road,,Ottershaw,Queenwood Golf Club Ltd,Restaurant/Cafe/Canteen,1,0,,315773,0,,51.37021500000000,9672,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54790400000000,KT16 0AQ,2014-07-03,fhrs_5_en-GB,5,,FHRS,0
-251795,,,,,Quite Simply Catering,Restaurant/Cafe/Canteen,1,0,,581511,0,,,45506,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-251796,,231 Pooley Green Road,,Egham,Raj Brasserie,Restaurant/Cafe/Canteen,1,5,,315337,10,,51.42725200000000,1222,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52833200000000,TW20 8AS,2014-07-14,fhrs_3_en-GB,3,,FHRS,10
-251797,,7 The Broadway,,New Haw,Ramekins Ltd,Retailers - other,4613,0,,315566,0,,51.34813000000000,28776,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50355600000000,KT15 3ES,2014-08-20,fhrs_5_en-GB,5,,FHRS,0
-251798,,136 Church Road,,Addlestone,RAOB GLE Club,Pub/bar/nightclub,7843,0,,315638,5,,51.36908000000000,383,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50060400000000,KT15 1SQ,2014-04-02,fhrs_5_en-GB,5,,FHRS,5
-251799,,87 High Street,,Egham,Red Rose,Takeaway/sandwich shop,7844,5,,315728,5,,51.43306300000000,7066,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54361100000000,TW20 9HF,2013-01-03,fhrs_5_en-GB,5,,FHRS,5
-251800,Bourne Valley Garden Centre,Woodham Park Road,,Woodham,Restaurant & General,Restaurant/Cafe/Canteen,1,0,,315511,5,,51.35352600000000,22513,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51494100000000,KT15 3TH,2013-08-02,fhrs_4_en-GB,4,,FHRS,10
-251801,St Peters Hospital,Guildford Road,,Chertsey,Retreat Cafe,Restaurant/Cafe/Canteen,1,0,,429737,5,,51.37710100000000,505,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52685200000000,KT16 0PZ,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-251802,St Peters Hospital,Guildford Road,,Chertsey,Retreat Shop,Hospitals/Childcare/Caring Premises,5,0,,429733,5,,51.37710100000000,20015,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52685200000000,KT16 0PZ,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-251803,,7 Clay Corner,,Chertsey,Ricky Takeaway,Takeaway/sandwich shop,7844,5,,315522,5,,51.38393900000000,24200,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49454200000000,KT16 8EZ,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-251804,Plot 9,Free Prae Road,,Chertsey,Rio's Diner,Mobile caterer,7846,0,,315620,5,,51.36106900000000,33032,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49891500000000,KT15 8AE,2015-01-08,fhrs_5_en-GB,5,,FHRS,5
-251805,,,,,River Island Bakery,Retailers - other,4613,,,606003,,,,89286,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-10-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-251806,,Staines Road,,Chertsey,Roast and Relish (Thorpe Park),Restaurant/Cafe/Canteen,1,0,,315760,0,,51.40510000000000,9105,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-22,fhrs_5_en-GB,5,,FHRS,0
-251807,,117 Guildford Street,,Chertsey,Roberto's,Restaurant/Cafe/Canteen,1,10,,315607,15,,51.39107600000000,31560,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50491500000000,KT16 9AS,2013-11-11,fhrs_2_en-GB,2,,FHRS,10
-251808,,4 Windsor Street,,Chertsey,Roberts Butchers,Retailers - other,4613,0,,315402,5,,51.39274600000000,1336,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50467400000000,KT16 8AS,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-251809,,106 Thorpe Lea Road,,Egham,Rock n Roe,Restaurant/Cafe/Canteen,1,0,,315367,5,,51.42770800000000,12762,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52531100000000,TW20 8BN,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-251810,Rodwell Farm Nursing Home,Row Town,,Addlestone,Rodwell Farm Nursing Home Ltd,Hospitals/Childcare/Caring Premises,5,,,315700,,,51.35562600000000,624,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51529000000000,KT15 1HH,2014-08-18,fhrs_5_en-GB,5,,FHRS,
-251811,,Green Road,,Thorpe,Rose & Crown,Pub/bar/nightclub,7843,0,,315278,5,,51.40430200000000,1132,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54913900000000,TW20 8QL,2013-07-31,fhrs_5_en-GB,5,,FHRS,5
-251812,,,,,Rosebud Bakery,Retailers - other,4613,,,551396,,,,73959,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-05-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-251813,,94 Church Road,,Addlestone,Royal British Legion,Pub/bar/nightclub,7843,10,,315423,10,,51.36936900000000,1379,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49928700000000,KT15 1SG,2014-06-17,fhrs_3_en-GB,3,,FHRS,10
-251814,,5 Station Parade,,Virginia Water,Royal British Legion,Pub/bar/nightclub,7843,5,,315273,10,,51.40135100000000,1121,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56429900000000,GU25 4AD,2013-10-01,fhrs_3_en-GB,3,,FHRS,10
-251815,British Legion Hall,Pooley Green Road,,Egham,Royal British Legion Club Ltd,Pub/bar/nightclub,7843,,,315366,,,,1274,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-03-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-251816,"Building 2, Aviator Park",Station Road,,Addlestone,Royal Carribean Staff Canteen,Restaurant/Cafe/Canteen,1,,,315552,,,51.37496200000000,27268,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48183400000000,KT15 2PG,2013-09-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-251817,Royal Marine,Lyne Lane,,Chertsey,Royal Marine,Pub/bar/nightclub,7843,0,,315298,5,,51.38677900000000,1159,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54574100000000,KT16 0AN,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-251818,The Royal Standard,Stroude Road,,Virginia Water,Royal Standard Guest House,Hotel/bed & breakfast/guest house,7842,5,,352680,5,,51.40705800000000,10965,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55824000000000,GU25 4BU,2012-08-17,fhrs_5_en-GB,5,,FHRS,5
-251819,,12 Victoria Street,,Englefield Green,Ruby Wines,Retailers - other,4613,,,315310,,,51.42903500000000,1181,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56999100000000,TW20 0QY,2012-11-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-251820,,4 Clay Corner,,Chertsey,Rudy Newsagents,Retailers - other,4613,0,,315395,5,,51.38393900000000,1326,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49454200000000,KT16 8EZ,2014-09-03,fhrs_4_en-GB,4,,FHRS,10
-251821,Runnymede Pleasure Ground,Windsor Road,,Egham,Runnymede Cafe,Restaurant/Cafe/Canteen,1,0,,315364,5,,51.44113800000000,1270,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54941200000000,TW20 0AE,2013-08-02,fhrs_5_en-GB,5,,FHRS,5
-251822,,166 High Street,,Egham,Runnymede Chicken and Ribs,Takeaway/sandwich shop,7844,0,,315775,5,,51.43163000000000,979,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54774200000000,TW20 9HP,2014-09-23,fhrs_5_en-GB,5,,FHRS,5
-251823,,Ford Road,,Chertsey,Runnymede Community Meals,Hospitals/Childcare/Caring Premises,5,0,,315504,5,,51.38471900000000,22202,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49233200000000,KT16 8HG,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-251824,Runnymede Hospital,Guildford Road,,Chertsey,Runnymede Hospital,Hospitals/Childcare/Caring Premises,5,0,,315652,5,,51.37800600000000,401,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52439400000000,KT16 0RQ,2014-05-19,fhrs_5_en-GB,5,,FHRS,5
-251825,Runnymede Hotel And Spa,Windsor Road,,Old Windsor,Runnymede on Thames Hotel,Hotel/bed & breakfast/guest house,7842,0,,315656,5,,51.43751900000000,427,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53755600000000,TW20 0AG,2014-04-09,fhrs_5_en-GB,5,,FHRS,5
-251826,,3000 Hillswood Drive,,Chertsey,Sagra Catering Services Ltd,Restaurant/Cafe/Canteen,1,5,,457711,10,,51.37276100000000,28435,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53643000000000,KT16 0RS,2014-04-08,fhrs_4_en-GB,4,,FHRS,5
-251827,Salesian School,Guildford Road,,Chertsey,Salesian School Kitchen,Restaurant/Cafe/Canteen,1,0,,315400,5,,51.38179100000000,1332,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51866800000000,KT16 9LU,2013-12-02,fhrs_5_en-GB,5,,FHRS,5
-251828,Salesian School Annexe,Highfield Road,,Chertsey,Salesian School Kitchen,School/college/university,7845,0,,315393,5,,51.38369500000000,1323,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50219600000000,KT16 8BX,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-251829,,108 Church Road,,Addlestone,Salvation Army Hall,Restaurant/Cafe/Canteen,1,,,352710,,,51.36936900000000,2811,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49928700000000,KT15 1SG,2014-12-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-251830,,,,,Sarbs Scrumptious Cakes,Retailers - other,4613,0,,699111,5,,,18468,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-08-27,fhrs_5_en-GB,5,,FHRS,5
-251831,Savill Court Hotel,Wick Lane,,Englefield Green,Savill Court Hotel,Hotel/bed & breakfast/guest house,7842,0,,315723,5,,51.43698900000000,690,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59041700000000,TW20 0XN,2013-09-30,fhrs_5_en-GB,5,,FHRS,5
-251832,Savill Gardens Visitor Centre,Wick Lane,,Englefield Green,Savill Garden Restaurant,Restaurant/Cafe/Canteen,1,0,,315697,5,,51.42738200000000,610,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59613600000000,TW20 0UU,2013-04-11,fhrs_5_en-GB,5,,FHRS,5
-251833,Sayes Court Junior School,Sayes Court Farm Drive,,Addlestone,Sayes Court Primary School,School/college/university,7845,0,,315736,0,,51.36671900000000,75,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49388600000000,KT15 1NB,2014-04-25,fhrs_5_en-GB,5,,FHRS,0
-251834,,,,,Scrummy Delights,Retailers - other,4613,0,,401842,5,,,31309,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-08-02,fhrs_5_en-GB,5,,FHRS,5
-251835,,102 High Street,,Egham,Scrumptious,Restaurant/Cafe/Canteen,1,0,,315563,5,,51.43350600000000,28590,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54234500000000,TW20 9HQ,2015-01-08,fhrs_5_en-GB,5,,FHRS,5
-251836,,110 Guildford Street,,Chertsey,Sea Fare,Takeaway/sandwich shop,7844,0,,315748,5,,51.39163000000000,8292,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50390600000000,KT16 9AH,2013-03-04,fhrs_5_en-GB,5,,FHRS,5
-251837,,9 London Street,,Chertsey,Secret Rendezvous Ltd,Restaurant/Cafe/Canteen,1,10,,315731,10,,51.39182000000000,7368,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50187300000000,KT16 8AP,2014-12-22,fhrs_3_en-GB,3,,FHRS,10
-251838,Egham Hill Connect,Egham Hill,,Englefield Green,SF Connect,Retailers - other,4613,0,,315484,5,,51.42949200000000,20,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55880000000000,TW20 0ER,2013-03-06,fhrs_5_en-GB,5,,FHRS,5
-251839,,54 High Street,,Egham,Shaw Trust,Retailers - other,4613,,,315664,,,51.43216800000000,4761,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54689000000000,TW20 9EX,2013-07-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-251840,Addlestone Service Station,Chertsey Road,,Addlestone,Shell Addlestone,Retailers - other,4613,0,,315683,0,,51.37653900000000,562,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49323300000000,KT15 2EA,2013-02-04,fhrs_5_en-GB,5,,FHRS,0
-251841,,186-187 High Street,,Egham,Shell Egham,Retailers - other,4613,0,,315631,5,,51.43159300000000,352,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55341100000000,TW20 9ED,2012-11-28,fhrs_5_en-GB,5,,FHRS,5
-251842,Ayebridges Garage,169-171 Thorpe Lea Road,,Egham,Shell Thorpe Lea Road,Retailers - other,4613,0,,315681,5,,51.42486800000000,557,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53184700000000,TW20 8HP,2014-03-26,fhrs_5_en-GB,5,,FHRS,5
-251843,Service Station,London Road,,Virginia Water,Shell Wheatsheaf,Restaurant/Cafe/Canteen,1,0,,315570,5,,51.40870200000000,28908,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59210700000000,GU25 4QE,2014-07-07,fhrs_5_en-GB,5,,FHRS,5
-251844,The Retreat,Hurst Lane,,Egham,Silver Screen Catering,Mobile caterer,7846,0,,704257,5,,51.40895000000000,100317,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54976900000000,TW20 8QJ,2014-08-19,fhrs_5_en-GB,5,,FHRS,5
-251845,,,,,Simply the Best Cakes,Retailers - other,4613,,,507782,,,,32136,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-01-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-251846,,3 Windsor Street,,Chertsey,Simpsons Fried Chicken,Restaurant/Cafe/Canteen,1,0,,315480,5,,51.39234000000000,19351,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50454400000000,KT16 8AY,2014-11-18,fhrs_4_en-GB,4,,FHRS,10
-251847,2 Heritage Court,Station Road,,Egham,Skewer Pit,Restaurant/Cafe/Canteen,1,0,,625053,5,,51.42984200000000,15581,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54781300000000,TW20 9LF,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-251848,,30 St Judes Road,,Englefield Green,Smiths(Englefield Green) Ltd,Retailers - other,4613,5,,315329,5,,51.42776100000000,1211,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57240400000000,TW20 0BY,2014-04-15,fhrs_4_en-GB,4,,FHRS,10
-251849,,99 Fordwater Road,,Chertsey,Snow & Rock Sports Limited,Retailers - other,4613,,,315707,,,51.38541200000000,6340,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49376100000000,KT16 8HH,2010-10-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-251850,Firfield House,Simplemarsh Road,,Addlestone,Social Care Catering Solutions Ltd,Hospitals/Childcare/Caring Premises,5,0,,315586,0,,51.37243900000000,29514,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50098200000000,KT15 1QR,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-251851,,9 St Judes Road,,Englefield Green,Soprano Italian Restaurant Ltd,Restaurant/Cafe/Canteen,1,5,,315407,10,,51.42776100000000,135,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57240400000000,TW20 0BY,2014-01-23,fhrs_4_en-GB,4,,FHRS,0
-251852,4 Burwood Parade,Guildford Street,,Chertsey,Sorrento Pasta Bar,Restaurant/Cafe/Canteen,1,0,,352698,5,,51.39064100000000,16288,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50465600000000,KT16 9AE,2014-11-03,fhrs_4_en-GB,4,,FHRS,10
-251853,,92 Guildford Street,,Chertsey,Southern  Cooperative,Retailers - other,4613,0,,315258,5,,51.39100500000000,1070,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50424200000000,KT16 9AD,2015-01-13,fhrs_5_en-GB,5,,FHRS,5
-251854,,102 Thorpe Lea Road,,Egham,Soya Oriental,Takeaway/sandwich shop,7844,0,,315461,5,,51.42770800000000,16848,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52531100000000,TW20 8BN,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-251855,,11-13 St Judes Road,,Englefield Green,Spar,Retailers - other,4613,5,,315328,5,,51.42776100000000,1210,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57240400000000,TW20 0BY,2014-10-21,fhrs_4_en-GB,4,,FHRS,10
-251856,,20 Station Parade,,Virginia Water,Spice Box,Takeaway/sandwich shop,7844,10,,315597,15,,51.40233700000000,30770,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56409600000000,GU25 4AE,2014-12-05,fhrs_2_en-GB,2,,FHRS,10
-251857,"Springtime Nursery, The Hythe",Thorpe Road,,Egham,Springtime Nursery School and Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,352723,5,,51.42977700000000,539,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52173500000000,TW18 3HD,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-251858,,26 The Broadway,,New Haw,Sri Super Stores,Retailers - other,4613,0,,315293,5,,51.34886700000000,1153,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50353200000000,KT15 3HA,2013-07-29,fhrs_5_en-GB,5,,FHRS,5
-251859,St Annes Roman Catholic Primar,Free Prae Road,,Chertsey,St Annes RC Primary School,School/college/university,7845,0,,315682,5,,51.38751000000000,56,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50095000000000,KT16 8ET,2014-06-04,fhrs_5_en-GB,5,,FHRS,5
-251860,,Sandhills Lane,,Virginia Water,St Anns Heath Co.Junior School,School/college/university,7845,0,,315260,5,,51.40021300000000,1093,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55661500000000,GU25 4DS,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-251861,St Cuthberts Roman Catholic Pr,Bagshot Road,,Englefield Green,St Cuthberts RC Primary School,School/college/university,7845,0,,315325,5,,51.42461400000000,1202,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57389800000000,TW20 0RY,2013-06-17,fhrs_4_en-GB,4,,FHRS,10
-251862,St Georges College,Weybridge Road,,Addlestone,St George's College Weybridge,School/college/university,7845,0,,315418,0,,51.37771200000000,1371,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.47891200000000,KT15 2QS,2013-09-26,fhrs_5_en-GB,5,,FHRS,0
-251863,,68 Station Road,,Egham,St Johns at Virginia Lodge,Restaurant/Cafe/Canteen,1,0,,315665,5,,51.42984200000000,482,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54781300000000,TW20 9LF,2014-04-23,fhrs_5_en-GB,5,,FHRS,0
-251864,St Judes Church Of England Sch,Bagshot Road,,Englefield Green,St Judes C of E School,School/college/university,7845,0,,315324,5,,51.42576200000000,1201,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57363200000000,TW20 0RU,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-251865,,School Lane,,Addlestone,St Pauls C of E Primary School,School/college/university,7845,5,,315414,5,,51.37074700000000,1365,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50366700000000,KT15 1TD,2013-06-05,fhrs_5_en-GB,5,,FHRS,0
-251866,St Peters Shared Church,Windsor Street,,Chertsey,St Peter's Shared Church,Restaurant/Cafe/Canteen,1,,,315690,,,51.39327800000000,586,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50547600000000,KT16 8AT,2013-02-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-251867,,130 Chertsey Lane,,Staines,Staines Service Station,Retailers - other,4613,0,,315443,5,,51.41891200000000,15256,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51449200000000,TW18 3LS,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-251868,Sainsbury Supermarket,The Causeway,,Egham,Starbucks Coffee Company UK Ltd,Restaurant/Cafe/Canteen,1,0,,315752,5,,51.43257000000000,8546,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51937200000000,TW18 3AP,2013-01-08,fhrs_5_en-GB,5,,FHRS,5
-251869,Stepgates Community School,Stepgates,,Chertsey,Stepgates Community School,School/college/university,7845,0,,315661,5,,51.38825300000000,452,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49789300000000,KT16 8HT,2014-05-02,fhrs_5_en-GB,5,,FHRS,5
-251870,,167 Thorpe Lea Road,,Egham,Stop N Shop,Retailers - other,4613,5,,315348,5,,51.42486800000000,1242,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53184700000000,TW20 8HP,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-251871,,83a St Judes Road,,Englefield Green,Stopps Bakers and Sandwich Bar,Retailers - other,4613,0,,352704,5,,51.42911700000000,22768,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57298100000000,TW20 0DF,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-251872,"Student Union, Royal Holloway",Egham Hill,,Englefield Green,Students Union,Restaurant/Cafe/Canteen,1,5,,315654,10,,51.42533300000000,420,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2014-05-13,fhrs_3_en-GB,3,,FHRS,10
-251873,Longcross Studios,Chobham Lane,,Longcross,Studio Canteen Ltd,Restaurant/Cafe/Canteen,1,0,,315645,10,,51.38171000000000,39340,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59233200000000,KT16 0EE,2013-08-06,fhrs_4_en-GB,4,,FHRS,5
-251874,27 The Precinct,High Street,,Egham,Subway,Restaurant/Cafe/Canteen,1,0,,315500,5,,51.43208400000000,21946,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54592900000000,TW20 9HN,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-251875,3 Liberty House,Guildford Street,,Chertsey,Subway,Restaurant/Cafe/Canteen,1,0,,352706,5,,51.38792200000000,24817,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50856800000000,KT16 9GU,2013-11-26,fhrs_5_en-GB,5,,FHRS,0
-251876,,66 High Street,,Egham,Sue Ryder,Retailers - other,4613,,,315470,,,51.43258500000000,17561,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54568300000000,TW20 9EY,2010-09-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-251877,,5 High Street,,Addlestone,Sugar Sculpture Ltd,Restaurant/Cafe/Canteen,1,5,,315469,5,,51.37121900000000,17349,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49352300000000,KT15 1TL,2013-04-09,fhrs_5_en-GB,5,,FHRS,5
-251878,Sunrise Assisted Living,Christchurch Road,,Virginia Water,Sunrise Senior Living,Hospitals/Childcare/Caring Premises,5,,,315252,,,51.40148700000000,10216,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56147700000000,GU25 4BE,2014-11-26,fhrs_5_en-GB,5,,FHRS,
-251879,,2 Fairfields,,Free Prae Road,Sunset Grill,Mobile caterer,7846,0,,315604,5,,51.36106900000000,313,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49891500000000,KT15 8AE,2013-03-21,fhrs_5_en-GB,5,,FHRS,5
-251880,,,,,Super Scrummy,Mobile caterer,7846,,,664099,,,,2833,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-05-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-251881,,157-158 High Street,,Egham,Superdrug Stores Plc,Retailers - other,4613,,,315486,,,51.43163000000000,20450,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54774200000000,TW20 9HP,2014-06-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-251882,,98 Station Road,,Addlestone,Superdrug Stores Plc,Retailers - other,4613,,,315475,,,51.37130900000000,18004,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48859200000000,KT15 2AD,2013-03-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-251883,,,,,Supermum Bakery,Retailers - other,4613,5,,707943,0,,,49346,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-10-10,fhrs_5_en-GB,5,,FHRS,0
-251884,Chertsey Fire Station,Addlestone Moor,,Addlestone,Surrey Fire & Rescue Service,Restaurant/Cafe/Canteen,1,,,352717,,,51.38166300000000,396,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49099600000000,KT15 2QH,2012-11-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-251885,,96 Church Road,,Addlestone,Surrey Supermarket,Retailers - other,4613,10,,315422,5,,51.36936900000000,1378,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49928700000000,KT15 1SG,2014-11-11,fhrs_4_en-GB,4,,FHRS,5
-251886,,,,,Sweetmans Treats,Retailers - other,4613,,,722007,,,,13779,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-11-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-251887,,,,,Sweets-U-Like,Mobile caterer,7846,5,,315527,10,,,24765,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2015-01-08,fhrs_4_en-GB,4,,FHRS,5
-251888,,56 High Street,,Egham,T R Millman Ltd,Retailers - other,4613,,,315781,,,51.43216800000000,999,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54689000000000,TW20 9EX,2013-07-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-251889,,186 Station Road,,Addlestone,Taj Mahal Restaurant,Restaurant/Cafe/Canteen,1,5,,315262,10,,51.37253400000000,1100,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48460100000000,KT15 2BD,2013-10-03,fhrs_3_en-GB,3,,FHRS,10
-251890,Tasis,Coldharbour Lane,,Thorpe,Tasis Coffee Shop,Retailers - other,4613,0,,315575,5,,51.40922900000000,29046,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52744400000000,TW20 8TE,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-251891,,55 Guildford Street,,Chertsey,Taste Five Five Ltd,Restaurant/Cafe/Canteen,1,0,,315499,5,,51.38878800000000,21868,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50743300000000,KT16 9BA,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-251892,,46 Little Green Lane,,Chertsey,Taylors Stores,Retailers - other,4613,10,,315381,10,,51.37701400000000,1306,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51705500000000,KT16 9PW,2013-12-16,fhrs_3_en-GB,3,,FHRS,10
-251893,,117 Station Road,,Addlestone,Tesco Extra,Retailers - supermarkets/hypermarkets,7840,0,,315771,5,,51.37194100000000,9627,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48674700000000,KT15 2AS,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-251894,,117 Station Road,,Addlestone,Tesco Family Dining Plc,Restaurant/Cafe/Canteen,1,0,,315649,5,,51.37194100000000,39688,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48674700000000,KT15 2AS,2014-10-20,fhrs_5_en-GB,5,,FHRS,5
-251895,,60-63 High Street,,Egham,Tesco Stores Ltd,Retailers - supermarkets/hypermarkets,7840,0,,315365,5,,51.43216800000000,12732,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54689000000000,TW20 9EX,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-251896,,13 High Street,,Addlestone,Thai Yum Yum,Restaurant/Cafe/Canteen,1,10,,315451,10,,51.37121900000000,16038,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49352300000000,KT15 1TL,2014-12-22,fhrs_3_en-GB,3,,FHRS,10
-251897,The Armstrong Gun,Victoria Street,,Englefield Green,The Armstrong Gun P H,Pub/bar/nightclub,7843,5,,315311,10,,51.42934400000000,1182,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57025500000000,TW20 0QX,2013-12-16,fhrs_3_en-GB,3,,FHRS,10
-251898,The Beehive,Middle Hill,,Englefield Green,The Beehive,Pub/bar/nightclub,7843,0,,315309,5,,51.43003500000000,1180,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56495400000000,TW20 0JL,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-251899,,300 Woodham Lane,,Addlestone,The Black Prince,Pub/bar/nightclub,7843,,,315285,,,51.34838300000000,1142,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50159500000000,KT15 3NT,2014-02-18,fhrs_4_en-GB,4,,FHRS,
-251900,The Boathouse And Bridge Lodge,79-81 Bridge Road,,Chertsey,The Bridge Hotel and Boathouse Restaurant,Hotel/bed & breakfast/guest house,7842,0,,315684,5,,51.38930500000000,57,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48880400000000,KT16 8JZ,2013-12-16,fhrs_5_en-GB,5,,FHRS,5
-251901,Tasis England,Coldharbour Lane,,Thorpe,The Brookwood Partnership,School/college/university,7845,0,,315281,5,,51.40967700000000,1136,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52083000000000,TW20 8TD,2014-06-04,fhrs_5_en-GB,5,,FHRS,5
-251902,,,,,The Buttercream Bakery,Retailers - other,4613,,,715355,,,,19075,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-11-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-251903,,222 Brox Road,,Ottershaw,The Castle Public House,Pub/bar/nightclub,7843,5,,315305,0,,51.35779100000000,1166,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53297200000000,KT16 0LW,2013-09-03,fhrs_5_en-GB,5,,FHRS,5
-251904,,1 Fordwater Road,,Chertsey,The Castle Public House,Pub/bar/nightclub,7843,5,,315382,5,,51.38734300000000,1309,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49494800000000,KT16 8HW,2012-10-16,fhrs_4_en-GB,4,,FHRS,10
-251905,,Heriot Road,,Chertsey,The Chertsey & District SS & NR Club,Pub/bar/nightclub,7843,5,,315391,5,,51.38924100000000,1319,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50557900000000,KT16 9DR,2014-02-07,fhrs_5_en-GB,5,,FHRS,5
-251906,,49 Green Lane,,Addlestone,The Chippy,Takeaway/sandwich shop,7844,0,,315427,5,,51.37434400000000,1386,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49663900000000,KT15 2TX,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-251907,Foxhills Country Club,Stonehill Road,,Ottershaw,The Clubhouse and Bar XIX,Restaurant/Cafe/Canteen,1,5,,315297,5,,51.37386300000000,1158,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55344900000000,KT16 0EL,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-251908,,14 St Anns Road,,Chertsey,The Coach & Horses,Pub/bar/nightclub,7843,0,,315261,5,,51.39447000000000,1095,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50663000000000,KT16 9DG,2013-01-29,fhrs_5_en-GB,5,,FHRS,5
-251909,,32 Row Town,,Addlestone,The Cricketers,Pub/bar/nightclub,7843,5,,315518,5,,51.35910600000000,23619,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51321000000000,KT15 1EY,2014-12-08,fhrs_4_en-GB,4,,FHRS,10
-251910,,138 Station Road,,Addlestone,The Crouch Oak,Pub/bar/nightclub,7843,0,,315428,5,,51.37185800000000,1388,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48584400000000,KT15 2BE,2014-02-11,fhrs_5_en-GB,5,,FHRS,5
-251911,,38 High Street,,Egham,The Crown Public House,Pub/bar/nightclub,7843,0,,315357,5,,51.43160500000000,1254,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54929600000000,TW20 9DP,2014-09-23,fhrs_5_en-GB,5,,FHRS,5
-251912,St Anns Heath Junior School,Sandhills Lane,,Virginia Water,The Den,School/college/university,7845,5,,315600,5,,51.40021300000000,31124,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55661500000000,GU25 4DS,2010-07-08,fhrs_5_en-GB,5,,FHRS,5
-251913,,11 The Broadway,,New Haw,The Fishermans Net,Takeaway/sandwich shop,7844,0,,315292,5,,51.34864900000000,1152,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50411400000000,KT15 3EU,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-251914,The Foresters Arms,1 North Street,,Egham,The Forresters Arms,Pub/bar/nightclub,7843,0,,315334,5,,51.42830800000000,1219,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55177400000000,TW20 9RP,2014-03-21,fhrs_5_en-GB,5,,FHRS,5
-251915,Englefield Green Infant School,Barley Mow Road,,Egham,The Gap Club,School/college/university,7845,5,,352701,0,,51.43165700000000,18852,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57111800000000,TW20 0NP,2014-08-05,fhrs_5_en-GB,5,,FHRS,0
-251916,St Judes Church Of England Sch,Bagshot Road,,Englefield Green,The Gap Club,School/college/university,7845,0,,352713,5,,51.42576200000000,30442,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57363200000000,TW20 0RU,2014-10-07,fhrs_5_en-GB,5,,FHRS,0
-251917,Thorpe CE School,The Bence,,Thorpe,The Gap Club,School/college/university,7845,0,,612638,5,,51.40828300000000,98477,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53592900000000,TW20 8QD,2013-11-25,fhrs_5_en-GB,5,,FHRS,5
-251918,,45 Guildford Street,,Chertsey,The George,Pub/bar/nightclub,7843,5,,315405,10,,51.38878800000000,1342,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50743300000000,KT16 9BA,2014-06-10,fhrs_4_en-GB,4,,FHRS,5
-251919,,109 Chertsey Road,,Addlestone,The George Inn,Pub/bar/nightclub,7843,,,315546,,,51.37653900000000,26769,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49323300000000,KT15 2EA,2014-02-03,fhrs_3_en-GB,3,,FHRS,
-251920,The Grange County Infant Schoo,The Avenue,,Addlestone,The Grange Community Infant School,School/college/university,7845,0,,315289,5,,51.35085800000000,1148,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50598100000000,KT15 3RL,2013-04-22,fhrs_5_en-GB,5,,FHRS,5
-251921,The Grange Nursing Home,22 Grange Road,,Addlestone,The Grange Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,315693,5,,51.35082300000000,600,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49969200000000,KT15 3RQ,2014-07-08,fhrs_5_en-GB,5,,FHRS,5
-251922,,Ruxbury Road,,Chertsey,The Grange Retirement Home,Hospitals/Childcare/Caring Premises,5,5,,315377,5,,51.39253200000000,1301,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51827800000000,KT16 9EP,2015-01-07,fhrs_5_en-GB,5,,FHRS,0
-251923,,12 Harvest Road,,Englefield Green,The Happy Man,Pub/bar/nightclub,7843,10,,315317,15,,51.42824400000000,1192,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56778600000000,TW20 0QS,2014-09-22,fhrs_2_en-GB,2,,FHRS,10
-251924,,5 St Judes Road,,Englefield Green,The Holly Tree,Pub/bar/nightclub,7843,0,,315548,5,,51.42935500000000,26859,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57261400000000,TW20 0DB,2014-11-26,fhrs_5_en-GB,5,,FHRS,5
-251925,Chertsey Youth Centre,Chertsey Road,,Addlestone,The Hub,Restaurant/Cafe/Canteen,1,0,,315739,5,,51.38293800000000,7722,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49368400000000,KT15 2EP,2015-01-14,fhrs_5_en-GB,5,,FHRS,5
-251926,Royal Holloway University Of L,Egham Hill,,Egham,The Hub,Restaurant/Cafe/Canteen,1,0,,315599,5,,51.42533300000000,30975,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2014-11-19,fhrs_5_en-GB,5,,FHRS,0
-251927,The Hythe School,Thorpe Road,,Egham,The Hythe Breakfast Club,School/college/university,7845,0,,315496,5,,51.42977700000000,21709,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52173500000000,TW18 3HD,2010-02-02,fhrs_5_en-GB,5,,FHRS,5
-251928,The Hythe School,Thorpe Road,,Egham,The Hythe School,School/college/university,7845,0,,315342,5,,51.42977700000000,1231,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52173500000000,TW18 3HD,2014-05-06,fhrs_5_en-GB,5,,FHRS,0
-251929,,,,,The Lavender Hen Catering Company,Restaurant/Cafe/Canteen,1,0,,315355,5,,,12529,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-251930,,,,,The Little Grey Owl,Retailers - other,4613,5,,699112,5,,,22734,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-08-21,fhrs_5_en-GB,5,,FHRS,5
-251931,,,,,The Little Indian Kitchen,Restaurant/Cafe/Canteen,1,5,,606001,5,,,27900,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-251932,,77 Spinney Hill,,Addlestone,The Local,Retailers - other,4613,10,,315408,10,,51.36612200000000,1350,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51403100000000,KT15 1AY,2013-07-03,fhrs_3_en-GB,3,,FHRS,10
-251933,,292a Woodham Lane,,Addlestone,The Lunch People/Avala Catering Ltd,Retailers - other,4613,0,,551392,0,,51.34838300000000,46728,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50159500000000,KT15 3NT,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-251934,Foxhills Country Club,Stonehill Road,,Ottershaw,The Manor House,Restaurant/Cafe/Canteen,1,0,,315296,5,,51.37386300000000,1157,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55344900000000,KT16 0EL,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-251935,The Monkeys Forehead,Egham Hill,,Egham,The Monkey's Forehead,Pub/bar/nightclub,7843,0,,315464,5,,51.42801700000000,17083,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56389500000000,TW20 0BQ,2014-01-29,fhrs_5_en-GB,5,,FHRS,5
-251936,,81 Station Road,,Addlestone,The Olive Tree Cafe,Restaurant/Cafe/Canteen,1,5,,315526,5,,51.37166700000000,24763,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48915500000000,KT15 2AR,2013-04-03,fhrs_5_en-GB,5,,FHRS,5
-251937,The Otter,Guildford Road,,Chertsey,The Otter Harvester,Restaurant/Cafe/Canteen,1,,,315295,,,51.36510800000000,1156,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53209200000000,KT16 0PQ,2014-05-22,fhrs_5_en-GB,5,,FHRS,
-251938,,9 Hamm Moor Lane,,Addlestone,The Pelican (Rim Nam Thai),Pub/bar/nightclub,7843,5,,315410,5,,51.36928300000000,1357,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.47525500000000,KT15 2SB,2014-08-21,fhrs_4_en-GB,4,,FHRS,10
-251939,Woburn Hill Nursery,Woburn Hill,,Addlestone,The Plantation Coffee Shop,Restaurant/Cafe/Canteen,1,0,,315662,10,,51.37753700000000,4552,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48411900000000,KT15 2QG,2014-05-15,fhrs_4_en-GB,4,,FHRS,5
-251940,,126 Guildford Street,,Chertsey,The Prince Regent,Restaurant/Cafe/Canteen,1,10,,315528,15,,51.39163000000000,24767,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50390600000000,KT16 9AH,2014-07-23,fhrs_2_en-GB,2,,FHRS,10
-251941,,107 Church Road,,Addlestone,The Queens Arms,Pub/bar/nightclub,7843,5,,315421,10,,51.36931100000000,1376,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49826900000000,KT15 1SF,2015-01-19,fhrs_4_en-GB,4,,FHRS,5
-251942,,31 The Broadway,,New Haw,The Raj Cuisine,Restaurant/Cafe/Canteen,1,20,,315290,15,,51.34864900000000,1149,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50411400000000,KT15 3EU,2014-04-04,fhrs_1_en-GB,1,,FHRS,10
-251943,The Red Lion,Village Road,,Thorpe,The Red Lion,Pub/bar/nightclub,7843,0,,315279,5,,51.40829600000000,1133,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53331200000000,TW20 8UE,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-251944,,262 Station Road,,Addlestone,The Regent,Retailers - other,4613,5,,315430,10,,51.37442500000000,1393,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48130600000000,KT15 2PU,2013-11-25,fhrs_3_en-GB,3,,FHRS,10
-251945,,142 Thorpe Lea Road,,Egham,The Robin Hood,Pub/bar/nightclub,7843,5,,315346,10,,51.42542500000000,1237,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53182900000000,TW20 8HA,2014-05-29,fhrs_3_en-GB,3,,FHRS,10
-251946,Rose And Olive Branch,Callow Hill,,Virginia Water,The Rose & Olive Branch,Pub/bar/nightclub,7843,5,,315267,5,,51.41271800000000,1109,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57472800000000,GU25 4LH,2014-03-07,fhrs_4_en-GB,4,,FHRS,10
-251947,,174 Station Road,,Addlestone,The Stanley House,Restaurant/Cafe/Canteen,1,0,,315452,5,,51.37253400000000,16067,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48460100000000,KT15 2BD,2013-02-14,fhrs_5_en-GB,5,,FHRS,5
-251948,Royal Holloway University Of L,Egham Hill,,Englefield Green,The Store on Campus,Retailers - other,4613,0,,315670,5,,51.42533300000000,518,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56723000000000,TW20 0EX,2010-05-24,fhrs_5_en-GB,5,,FHRS,5
-251949,Foxhills Country Club,Stonehill Road,,Ottershaw,The Summer House,Restaurant/Cafe/Canteen,1,0,,315636,5,,51.37386300000000,367,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55344900000000,KT16 0EL,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-251950,,Wick Lane,,Egham,The Sun Inn,Pub/bar/nightclub,7843,30,,315326,25,,51.43152300000000,1206,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59201000000000,TW20 0UF,2014-11-10,fhrs_0_en-GB,0,,FHRS,20
-251951,The Swan Hotel,The Hythe,,Staines-Upon-Thames,The Swan Hotel,Pub/bar/nightclub,7843,10,,315338,15,,51.43263200000000,1224,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51643500000000,TW18 3JB,2014-01-16,fhrs_2_en-GB,2,,FHRS,15
-251952,,Hardwick Lane,,Lyne,The Tea Room @ the Farm Shop,Restaurant/Cafe/Canteen,1,0,,315611,5,,51.38794500000000,31681,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52749500000000,KT16 0AA,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-251953,Abbeymoor Golf Club,Green Lane,,Addlestone,The Tenth Hole,Pub/bar/nightclub,7843,5,,315471,10,,51.37667800000000,17597,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50265400000000,KT15 2XU,2013-10-08,fhrs_3_en-GB,3,,FHRS,10
-251954,Twynersh House,Thorpe Road,,Chertsey,The Twynersh,Restaurant/Cafe/Canteen,1,0,,315446,5,,51.39480400000000,15497,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51518600000000,KT16 9EJ,2013-01-29,fhrs_5_en-GB,5,,FHRS,5
-251955,The Victoria Inn,427 Woodham Lane,,Addlestone,The Victoria,Restaurant/Cafe/Canteen,1,5,,315508,5,,51.34393000000000,22328,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51339900000000,KT15 3QE,2013-04-24,fhrs_5_en-GB,5,,FHRS,5
-251956,,49 Station Road,,Chertsey,The Victory,Pub/bar/nightclub,7843,20,,315680,15,,51.38536300000000,556,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50462700000000,KT16 8BN,2014-04-16,fhrs_1_en-GB,1,,FHRS,15
-251957,The Village Centre,Victoria Street,,Englefield Green,The Village Centre and Cafe Rendezvous,Restaurant/Cafe/Canteen,1,0,,315686,10,,51.42934400000000,573,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57025500000000,TW20 0QX,2013-10-01,fhrs_4_en-GB,4,,FHRS,10
-251958,The Village Pizza,12e Victoria Street,,Englefield Green,The Village Pizza,Takeaway/sandwich shop,7844,0,,315487,5,,51.42903500000000,20464,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56999100000000,TW20 0QY,2013-12-16,fhrs_5_en-GB,5,,FHRS,5
-251959,,London Road,,Virginia Water,The Wheatsheaf,Restaurant/Cafe/Canteen,1,0,,315268,5,,51.40921000000000,1110,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.59249400000000,GU25 4QF,2014-01-29,fhrs_5_en-GB,5,,FHRS,5
-251960,,115 High Street,,Egham,The White Lion,Pub/bar/nightclub,7843,5,,315354,10,,51.43350600000000,1252,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54234500000000,TW20 9HQ,2013-05-02,fhrs_3_en-GB,3,,FHRS,10
-251961,,13 Station Parade,,Virginia Water,The Wine Circle,Restaurant/Cafe/Canteen,1,0,,315673,5,,51.40202700000000,5229,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56374600000000,GU25 4AB,2014-10-30,fhrs_5_en-GB,5,,FHRS,5
-251962,Future House,The Glanty,,Egham,Thomas Franks Ltd,Restaurant/Cafe/Canteen,1,10,,315573,5,,,28982,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,TW20 9DW,2013-10-22,fhrs_4_en-GB,4,,FHRS,5
-251963,Thorpe C Of E Infant School,The Bence,,Thorpe,Thorpe C of E Primary School,School/college/university,7845,0,,315280,5,,51.40828300000000,1134,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53592900000000,TW20 8QD,2013-09-10,fhrs_5_en-GB,5,,FHRS,0
-251964,,108 Thorpe Lea Road,,Egham,Thorpe Lea Bakery,Retailers - other,4613,20,,699115,15,,51.42723900000000,39776,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52731100000000,TW20 8BL,2014-08-26,fhrs_1_en-GB,1,,FHRS,10
-251965,Thorpe Lea Primary School,Huntingfield Way,,Egham,Thorpe Lea Primary School,School/college/university,7845,0,,315345,5,,51.42517600000000,1234,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52415600000000,TW20 8DY,2015-01-23,fhrs_5_en-GB,5,,FHRS,5
-251966,,Green Road,,Egham,Thorpe Post Office & Stores,Retailers - other,4613,0,,315717,5,,51.40571700000000,669,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53635600000000,TW20 8QS,2014-08-28,fhrs_4_en-GB,4,,FHRS,10
-251967,,20 London Street,,Chertsey,Thyme at the Tavern,Restaurant/Cafe/Canteen,1,5,,315549,10,,51.39165600000000,26887,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50239600000000,KT16 8AA,2014-09-24,fhrs_4_en-GB,4,,FHRS,5
-251968,,68 Guildford Street,,Chertsey,Tia Maria,Restaurant/Cafe/Canteen,1,10,,315495,10,,51.39009900000000,21523,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50516300000000,KT16 9BB,2013-10-10,fhrs_3_en-GB,3,,FHRS,5
-251969,The Old School House,Brox Road,,Ottershaw,Toad Hall Nursery,Hospitals/Childcare/Caring Premises,5,0,,315696,5,,51.36329200000000,6083,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52919100000000,KT16 0HH,2015-01-19,fhrs_5_en-GB,5,,FHRS,0
-251970,Golf Complex,Moated Farm Drive,,Addlestone,Topgolf Ltd,Restaurant/Cafe/Canteen,1,0,,315490,5,,51.36055700000000,20761,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48952100000000,KT15 2DW,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-251971,,2 Fairfields,,Free Prae Road,Touch of Class,Mobile caterer,7846,5,,528490,5,,51.36106900000000,100275,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49891500000000,KT15 8AE,2013-03-21,fhrs_5_en-GB,5,,FHRS,5
-251972,Riversdell House,Guildford Street,,Chertsey,Travelodge Chertsey,Hotel/bed & breakfast/guest house,7842,0,,664100,5,,51.38973400000000,29593,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50609500000000,KT16 9AU,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-251973,,Addlestone Moor,,Addlestone,Traylen Catering,Retailers - other,4613,,,732427,,,51.38166300000000,20342,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49099600000000,KT15 2QH,2014-12-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-251974,Ottershaw Service Station,Guildford Road,,Chertsey,Trident Garages Ltd,Retailers - other,4613,0,,315695,5,,51.36372800000000,607,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.53318500000000,KT16 0PG,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-251975,Trumps Green County Infant School,Crown Road,,Virginia Water,Trumps Green Infant School,School/college/university,7845,5,,315271,5,,51.39687200000000,1116,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56938400000000,GU25 4HD,2010-11-09,fhrs_5_en-GB,5,,FHRS,5
-251976,Twynersh Fishing Complex,Thorpe Road,,Chertsey,Twynersh Fishing Complex,Restaurant/Cafe/Canteen,1,5,,352729,5,,51.39480400000000,9976,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51518600000000,KT16 9EJ,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-251977,,,,,Uncle Sams,Mobile caterer,7846,5,,315639,5,,,387,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2012-07-03,fhrs_5_en-GB,5,,FHRS,5
-251978,,92 Station Road,,Addlestone,Vacant shop unit,Retailers - other,4613,,,315598,,,51.37130900000000,30847,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48859200000000,KT15 2AD,2012-12-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-251979,,68a High Street,,Egham,Venus News,Retailers - other,4613,,,315369,,,51.43258500000000,1282,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54568300000000,TW20 9EY,2013-02-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-251980,,4 Station Approach,,Virginia Water,Viceroy of India,Restaurant/Cafe/Canteen,1,10,,315274,10,,51.40328300000000,1126,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56640900000000,GU25 4DL,2014-03-25,fhrs_3_en-GB,3,,FHRS,10
-251981,"Unit 1, Oak House",Victory Park Road,,Addlestone,Victory Local Convenience Store Ltd,Retailers - other,4613,0,,664098,5,,,100326,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,KT15 2FG,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-251982,13-15 The Precinct,High Street,,Egham,Villa Rosa,Restaurant/Cafe/Canteen,1,0,,315674,5,,51.43208400000000,5236,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54592900000000,TW20 9HN,2014-08-08,fhrs_5_en-GB,5,,FHRS,5
-251983,,227 Pooley Green Road,,Egham,Village Food and Wine,Retailers - other,4613,5,,315336,5,,51.42725200000000,1221,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52833200000000,TW20 8AS,2012-12-04,fhrs_5_en-GB,5,,FHRS,0
-251984,,62a Woodham Lane,,Addlestone,Vinceo Ices,Mobile caterer,7846,5,,315550,5,,51.35580900000000,26911,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48812600000000,KT15 3NA,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-251985,The Clubhouse,Crown Road,,Virginia Water,Virginia Water Football Club,Pub/bar/nightclub,7843,,,352681,,,51.39581100000000,1115,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.57088300000000,GU25 4HS,2012-07-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-251986,,6 Station Parade,,Virginia Water,Virginia Water Library Coffee Shop,Restaurant/Cafe/Canteen,1,5,,704258,5,,51.40135100000000,26523,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56429900000000,GU25 4AD,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-251987,6 Northdene Court,32 Egham Hill,,Englefield Green,Virgintea Ltd,Importers/Exporters,14,,,729207,,,51.43011500000000,43369,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.55832000000000,TW20 0AL,2015-01-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-251988,,43 Simplemarsh Road,,Addlestone,Waggon & Horses Public House,Pub/bar/nightclub,7843,10,,315419,5,,51.37128000000000,1374,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.49684000000000,KT15 1QH,2013-05-22,fhrs_4_en-GB,4,,FHRS,5
-251989,"Buffet Carr, Station Forecourt",Guildford Street,,Chertsey,Watts Cooking,Restaurant/Cafe/Canteen,1,0,,315572,10,,51.38729500000000,2897,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50948000000000,KT16 9BG,2014-09-04,fhrs_4_en-GB,4,,FHRS,10
-251990,,,,,Well and Happy,Retailers - other,4613,,,722011,,,,92060,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-11-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-251991,,115 Wendover Road,,Egham,Wendover Road Stores,Retailers - other,4613,5,,315339,5,,51.43174500000000,1226,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52807300000000,TW18 3DQ,2014-06-03,fhrs_4_en-GB,4,,FHRS,10
-251992,Wentworth Club,Wentworth Drive,,Virginia Water,Wentworth Club Limited,Restaurant/Cafe/Canteen,1,0,,315270,5,,51.39963600000000,1113,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.58969700000000,GU25 4LS,2013-08-27,fhrs_5_en-GB,5,,FHRS,5
-251993,,3 Station Approach,,Virginia Water,Wentworth Patisserie,Manufacturers/packers,7839,0,,315275,0,,51.40328300000000,1127,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56640900000000,GU25 4DL,2014-03-21,fhrs_5_en-GB,5,,FHRS,5
-251994,,18 Station Parade,,Virginia Water,Wentworth Wines,Retailers - other,4613,,,315633,,,51.40233700000000,355,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.56409600000000,GU25 4AE,2013-10-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-251995,"Boat Showroom, Bates Wharf",Bridge Road,,Chertsey,Westworld Marine Ltd,Retailers - other,4613,,,315626,,,51.38656500000000,33630,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48691100000000,KT16 8LG,2012-05-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-251996,"Unit 2, Canal Bridge Estate",Byfleet Road,,New Haw,Weybourne Gymnastics Club,Restaurant/Cafe/Canteen,1,5,,315403,10,,51.35880300000000,134,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48532700000000,KT15 3JE,2014-02-19,fhrs_3_en-GB,3,,FHRS,10
-251997,"Wyevale Garden Centre, Crockford Bridge Farm",New Haw Road,,Addlestone,Weybridge Garden Centre Group Ltd,Restaurant/Cafe/Canteen,1,,,315757,,,51.36422700000000,8963,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48476000000000,KT15 2BU,2014-04-15,fhrs_5_en-GB,5,,FHRS,
-251998,,Jessamy Road,,Weybridge,Weybridge Rowing Club,Pub/bar/nightclub,7843,,,315612,,,51.37876200000000,317,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.46019700000000,KT13 8LG,2012-07-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-251999,Runnymede Hospital,Guildford Road,,Chertsey,WH Smith,Retailers - other,4613,0,,457696,5,,51.37800600000000,26015,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52439400000000,KT16 0RQ,2012-10-31,fhrs_5_en-GB,5,,FHRS,0
-252000,The White Hart,New Haw Road,,Addlestone,White Hart,Pub/bar/nightclub,7843,0,,315409,5,,51.35885400000000,1352,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48719200000000,KT15 2DS,2014-04-02,fhrs_5_en-GB,5,,FHRS,5
-252001,White Lodge,Holloway Hill,,Lyne,White Lodge Centre (Cafe Rendezvous),Restaurant/Cafe/Canteen,1,0,,315567,5,,51.37934000000000,2882,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52896400000000,KT16 0AE,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-252002,,Staines Road,,Chertsey,Wild Wong Noodle Bar (Thorpe Park),Restaurant/Cafe/Canteen,1,10,,315660,15,,51.40510000000000,45,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.51232300000000,KT16 8PN,2014-05-21,fhrs_2_en-GB,2,,FHRS,10
-252003,,136 Thorpe Lea Road,,Egham,William Hill Organisation,Retailers - other,4613,,,315762,,,51.42723900000000,924,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.52731100000000,TW20 8BL,2013-09-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-252004,Milton Park,Stroude Road,,Egham,Wilson Vale Catering Management Ltd,Restaurant/Cafe/Canteen,1,0,,457768,5,,51.42066500000000,5810,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54524200000000,TW20 9UW,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-252005,Thorpe Lea Cottage,Wickham Lane,,Egham,Wilsons Fast Food,Mobile caterer,7846,0,,481618,5,,51.42174600000000,30405,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54036000000000,TW20 8NU,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-252006,,123 Station Road,,Addlestone,Wimpy,Restaurant/Cafe/Canteen,1,0,,315576,0,,51.37218400000000,29047,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.48606300000000,KT15 2AT,2014-06-30,fhrs_5_en-GB,5,,FHRS,0
-252007,The Woodham And New Haw Day Centre,Amis Avenue,,Addlestone,Woodham & New Haw Day Centre,Hospitals/Childcare/Caring Premises,5,0,,315542,0,,51.34779200000000,263,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50602300000000,KT15 3ET,2014-04-02,fhrs_5_en-GB,5,,FHRS,0
-252008,,286 Woodham Lane,,Addlestone,Woodham Post Office,Retailers - other,4613,10,,315719,10,,51.34838300000000,673,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50159500000000,KT15 3NT,2014-02-21,fhrs_3_en-GB,3,,FHRS,10
-252009,,309 Woodham Lane,,Addlestone,Woodham Wines and Spirits,Retailers - other,4613,,,315659,,,51.34707800000000,446,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50426500000000,KT15 3PB,2013-07-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-252010,,,,,World Wide Events,Mobile caterer,7846,0,,315556,5,,,27696,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,,,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-252011,,70 High Street,,Egham,Yang Guang Supermarket and Take-Away,Retailers - other,4613,5,,315569,5,,51.43258500000000,28893,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.54568300000000,TW20 9EY,2013-10-09,fhrs_5_en-GB,5,,FHRS,5
-252012,,5 Ongar Parade,,Addlestone,Zaal Indian Restaurant,Restaurant/Cafe/Canteen,1,,,315505,,,51.36302600000000,22218,310,helen.jones@runnymede.gov.uk,Runnymede,http://www.runnymede.gov.uk/portal/site/runnymede,-0.50677700000000,KT15 1JH,2014-07-10,fhrs_5_en-GB,5,,FHRS,
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+251442,360 Vending Ltd,Exempt,nan,nan,nan,2015-01-14,51.390797,-0.547741
+251443,8Bar9 - Kingswood Hall Bar,4,10,5,0,2014-10-21,,
+251444,A Cup of Vintage,Exempt,nan,nan,nan,2011-10-17,,
+251445,Abbey Chase Nursing Home,5,5,5,0,2014-08-21,51.393529,-0.493509
+251446,Abbey Rangers Football Club,5,0,5,0,2014-09-05,,
+251447,ACS Egham International School,5,5,5,0,2013-10-08,51.416024,-0.577415
+251448,Addlestone Baptist Church,5,5,5,0,2009-09-08,51.372022,-0.49229
+251449,Addlestone Food and Wine,4,10,5,5,2013-07-04,51.371129,-0.490035
+251450,Addlestone Leisure Centre,Exempt,nan,nan,nan,2014-05-22,51.370747,-0.503667
+251451,Addlestone Plaice,5,5,5,0,2013-12-13,51.372184,-0.486063
+251452,Addlestone Youth Centre,Exempt,nan,nan,nan,2010-09-01,51.368735,-0.500313
+251453,"After School Kids Club, Parish Centre",5,5,5,0,2010-03-04,,
+251454,Airstream Diner,5,0,5,0,2014-05-06,51.372051,-0.472362
+251455,Akmol Tandoori,5,5,5,0,2014-03-19,51.374344,-0.496639
+251456,Al Amin,2,10,15,10,2013-06-22,51.372534,-0.484601
+251457,All About Taste,5,5,5,0,2013-06-18,,
+251458,Almners (Childcare) Ltd,2,10,15,5,2014-04-08,51.388638,-0.531842
+251459,Amity Bites (Thorpe Park ),4,10,5,5,2014-07-01,51.4051,-0.512323
+251460,Amity Coffee (Thorpe Park),4,5,10,5,2012-05-30,51.4051,-0.512323
+251461,Amity Kebabs (Thorpe Park),4,5,10,5,2014-05-21,51.4051,-0.512323
+251462,Amore Pizza,5,5,5,0,2013-06-07,51.427252,-0.528332
+251463,Angelicious Cakes,Exempt,nan,nan,nan,2013-08-28,,
+251464,Ann Parsons Cakes,Exempt,nan,nan,nan,2014-07-04,,
+251465,Anne Boleyn Hotel,4,10,5,5,2014-09-09,51.432083,-0.515676
+251466,Ansell's Butchers,5,5,5,0,2014-05-15,51.429807,-0.576527
+251467,Antiquado Coffee Lounge,1,5,15,20,2014-08-19,51.372596,-0.485231
+251468,Apple Tree Farm,Exempt,nan,nan,nan,2013-07-04,,
+251469,Argos Ltd,Exempt,nan,nan,nan,2014-06-16,51.43257,-0.519372
+251470,Aspects Restaurant,5,nan,nan,nan,2014-04-30,51.377101,-0.526852
+251471,Auntie Tickets Kitchen,5,5,5,0,2012-10-26,,
+251472,Automatic Data Processing Ltd,5,5,5,0,2014-10-28,51.390438,-0.514149
+251473,Averys Artisan Produce,5,5,5,0,2014-05-08,,
+251474,Bailiwick,5,5,5,0,2014-12-16,51.421758,-0.58381
+251475,Bakelicious,Exempt,nan,nan,nan,2012-08-29,,
+251476,Bar 163,4,10,5,0,2014-11-24,51.43163,-0.547742
+251477,Bar 360 (Thorpe Park),5,5,5,0,2013-07-18,51.4051,-0.512323
+251478,Barley Mow Inn,2,10,15,10,2013-07-03,51.432819,-0.575009
+251479,Bartlett Mitchell Ltd,5,5,5,0,2014-02-05,51.441138,-0.549412
+251480,Bartlett Mitchell Ltd,5,5,5,0,2014-01-22,51.446736,-0.573295
+251481,Battered Fish & Chips (Thorpe Park),5,0,0,0,2014-05-21,51.4051,-0.512323
+251482,Battersea Dogs Home,5,5,5,0,2014-05-22,51.446736,-0.573295
+251483,Baxter Storey,5,5,0,0,2014-04-08,,
+251484,Baxter Storey Ltd,5,0,0,5,2015-01-09,51.374962,-0.481834
+251485,Baxter Storey Ltd,5,5,5,0,2014-01-17,51.430732,-0.516914
+251486,Bedford Library Coffee Shop,5,0,0,5,2014-10-21,51.425333,-0.56723
+251487,Beijing Restaurant,2,nan,nan,nan,2014-10-16,51.371127,-0.491974
+251488,Bella Fiori,Exempt,nan,nan,nan,2012-09-21,51.371129,-0.490035
+251489,Ben and Jerry's Kiosk (Thorpe Park),Exempt,nan,nan,nan,2013-07-18,51.4051,-0.512323
+251490,Ben and Jerry's Scoop Shack (Thorpe Park),5,0,5,0,2012-05-29,51.4051,-0.512323
+251491,Bengal Dynasty,2,5,15,10,2013-12-18,51.391005,-0.504242
+251492,Beretta Catering ltd,5,5,5,0,2014-10-22,51.409677,-0.52083
+251493,Big Fry,5,5,5,0,2013-03-08,51.431287,-0.54981
+251494,Bijou Weddings,5,5,5,0,2013-11-27,51.373836,-0.533939
+251495,Birchlands HFEP,5,5,5,0,2014-08-26,51.431657,-0.571118
+251496,Bishopsgate School,5,5,5,0,2014-12-08,51.439431,-0.583378
+251497,Bizzkidz Ltd,5,0,5,0,2014-04-09,51.433642,-0.544628
+251498,BK Food & Wine,5,5,5,5,2013-06-26,51.427239,-0.527311
+251499,Black Horse Public House,3,nan,nan,nan,2014-08-20,51.36349,-0.487557
+251500,Bokays,5,0,0,0,2013-08-22,51.369369,-0.499287
+251501,Bond Street News,4,10,5,5,2013-11-26,51.429807,-0.576527
+251502,Bonds Bakery Ltd,5,0,0,0,2014-12-12,,
+251503,Boots The Chemists,Exempt,nan,nan,nan,2014-04-08,51.432168,-0.54689
+251504,Booze N News,5,5,5,5,2014-01-21,51.427239,-0.527311
+251505,Bosco's,5,5,5,5,2009-07-31,51.352225,-0.493327
+251506,Brightsparks Childcare,5,0,0,0,2013-08-07,51.38751,-0.50095
+251507,Brockhurst Residential Home,5,5,5,0,2014-08-13,51.362166,-0.528322
+251508,Budgens,5,5,5,0,2013-02-01,51.403283,-0.566409
+251509,Budgens,3,10,10,5,2013-12-17,51.431223,-0.548273
+251510,Burger King,5,0,0,0,2014-05-07,51.434699,-0.54071
+251511,Burgerking 1 - Karali Ltd (Thorpe Park),5,0,0,0,2014-05-22,51.4051,-0.512323
+251512,Burgerking 2-Sherrygold Ltd (Thorpe Park),5,0,0,0,2014-05-21,51.4051,-0.512323
+251513,Cafe Jules,5,5,5,0,2010-02-12,51.425333,-0.56723
+251514,Cafe on the Wey,5,5,5,0,2013-07-16,51.371015,-0.475629
+251515,Cafe Two,5,0,5,5,2013-10-16,51.371129,-0.490035
+251516,Caffe Gondola,5,5,5,0,2013-11-13,51.43163,-0.547742
+251517,Caffe Nero,5,0,5,0,2014-12-05,51.432084,-0.545929
+251518,Cake Queens,Exempt,nan,nan,nan,2013-02-20,,
+251519,Cakes by Jo Vass,Exempt,nan,nan,nan,2013-08-21,,
+251520,Cakey Wonders,Exempt,nan,nan,nan,2012-12-03,,
+251521,Calypso Pancakes (Thorpe Park),5,5,5,5,2012-05-29,51.4051,-0.512323
+251522,Camping & Caravanning Club,5,5,5,0,2013-08-08,51.389305,-0.488804
+251523,Carlo Delicatessan,5,5,5,5,2012-05-31,51.390641,-0.504656
+251524,Carlton Newsagents,5,0,0,5,2012-08-16,51.371667,-0.489155
+251525,Casa Caffe Ltd,5,5,5,0,2014-02-05,51.427382,-0.596136
+251526,Casa Caffe Ltd,5,5,5,0,2014-02-05,51.40921,-0.592494
+251527,Casa Nova,5,5,5,0,2014-03-11,51.403361,-0.567629
+251528,Caspari,5,5,5,0,2015-01-21,51.429355,-0.572614
+251529,Caspari Restaurant,4,5,10,5,2014-06-09,51.387922,-0.508568
+251530,Cast Restaurant,4,5,10,5,2013-10-03,51.4051,-0.512323
+251531,Castle Childcare Ltd,5,0,5,0,2014-04-28,,
+251532,Caterlink Ltd,5,5,5,0,2013-03-04,51.343624,-0.506359
+251533,CH & Co,5,5,5,0,2014-11-10,51.434107,-0.534313
+251534,CH & Co Ltd,5,5,5,0,2014-11-10,51.432923,-0.525978
+251535,CH & Co Ltd,5,5,5,0,2014-11-10,51.434445,-0.531122
+251536,Chandlers News,5,5,5,5,2014-02-14,51.391076,-0.504915
+251537,Cherry Brook Nursery,5,0,5,0,2015-01-08,51.344818,-0.50052
+251538,Chertsey Bowling Club,Exempt,nan,nan,nan,2012-09-14,51.386189,-0.512318
+251539,Chertsey Cafe,4,5,10,5,2014-09-03,51.390973,-0.503884
+251540,Chertsey Convenience Store,4,5,10,5,2014-05-06,51.387343,-0.494948
+251541,Chertsey Cricket Club,Exempt,nan,nan,nan,2010-06-10,51.393691,-0.508999
+251542,Chertsey Hall,5,5,5,5,2014-07-28,51.391288,-0.502479
+251543,Chertsey Nursery School,5,5,5,5,2012-10-22,51.390438,-0.514149
+251544,Chertsey Restaurant,3,nan,nan,nan,2014-06-03,51.388343,-0.507031
+251545,Chertsey Service Station,5,5,5,5,2014-06-08,51.389336,-0.49047
+251546,Chertsey Social Club,5,5,5,0,2012-08-02,51.389031,-0.509567
+251547,Chertsey Town Football Club 2007 Ltd,3,10,10,10,2014-03-26,51.393052,-0.506806
+251548,Chertsey Youth Centre,Exempt,nan,nan,nan,2015-01-21,51.391943,-0.512218
+251549,China Chef,4,10,5,5,2012-12-06,51.391076,-0.504915
+251550,Christ Church,5,5,5,0,2014-06-11,51.407491,-0.581921
+251551,Christchurch CE Infant School,4,5,10,0,2009-06-02,51.407937,-0.586091
+251552,Churro up,5,5,5,5,2013-02-20,,
+251553,Coffee A`More Ltd.,5,0,0,0,2013-06-25,51.429599,-0.547073
+251554,Coffee and Cake shop,5,0,5,5,2014-10-27,51.425333,-0.56723
+251555,Coffee Shack (Thorpe Park),5,5,5,0,2012-05-30,51.4051,-0.512323
+251556,Coffee Shop,5,5,5,0,2014-09-01,51.349622,-0.481149
+251557,Colossus Fries (Thorpe Park ),5,5,5,5,2014-05-28,51.4051,-0.512323
+251558,Compass Group Uk & Ireland Ltd,5,5,5,0,2013-09-02,51.387101,-0.50835
+251559,Compass Group UK & Ireland Ltd,5,5,5,0,2014-01-17,51.421429,-0.554695
+251560,Compass Group Uk & Ireland Ltd,5,5,5,0,2013-09-10,51.434714,-0.533948
+251561,Compass Group UK & Ireland Ltd,5,5,5,0,2013-09-17,51.377483,-0.482742
+251562,Compasses Public House,5,5,5,0,2014-05-16,51.425425,-0.531829
+251563,Co-op,2,10,15,10,2014-05-01,51.374344,-0.496639
+251564,Co-op (Broadway),5,5,5,0,2013-04-11,51.348867,-0.503532
+251565,Co-op Welcome,5,5,5,5,2013-01-31,51.363026,-0.506777
+251566,Corner Shop,Exempt,nan,nan,nan,2012-12-27,51.37934,-0.528964
+251567,Costa Coffee,5,5,5,0,2012-05-15,51.432585,-0.545683
+251568,Costa Coffee,5,5,5,0,2014-05-19,51.371489,-0.48725
+251569,Costa Coffee,5,5,5,0,2014-05-21,51.390973,-0.503884
+251570,Country Wide Farmers PLC,Exempt,nan,nan,nan,2014-05-21,51.387238,-0.538527
+251571,County Fresh Meats Ltd,5,5,5,0,2014-01-08,51.363026,-0.506777
+251572,Crackling Pig,5,5,5,0,2013-07-15,51.382669,-0.525538
+251573,Crockford Bridge Farm Shop,5,5,5,0,2013-07-18,51.364227,-0.48476
+251574,Crosslands Suite,5,5,5,0,2014-10-27,51.425333,-0.56723
+251575,Crown Hotel,4,5,10,5,2014-09-01,51.39182,-0.501873
+251576,Cygnus Events Ltd,Exempt,nan,nan,nan,2014-10-16,,
+251577,Darley Dene Infant School,4,10,5,5,2013-10-02,51.369131,-0.489138
+251578,Dawny's Daycare,5,0,5,0,2013-09-18,51.381663,-0.490996
+251579,Deli on the Green,3,10,10,10,2014-11-12,51.427761,-0.572404
+251580,Deli Rumbles,5,nan,nan,nan,2014-02-19,51.431287,-0.54981
+251581,Desperado's Mexican Cantina (Thorpe Park),5,0,5,0,2014-05-21,51.4051,-0.512323
+251582,Dog House (Thorpe Park),2,15,5,5,2014-05-21,51.4051,-0.512323
+251583,Dominic's Pizza,1,15,15,20,2014-07-29,51.372184,-0.486063
+251584,Domino Pizza,5,0,5,0,2013-05-31,51.371858,-0.485844
+251585,Domino Pizza,5,5,5,0,2014-03-12,51.431733,-0.551651
+251586,Donut Shack (Thorpe Park),5,5,5,0,2013-07-18,51.4051,-0.512323
+251587,Dragon Pearl Chinese Restaurant,5,5,5,0,2014-06-03,51.388343,-0.507031
+251588,Dragon Wok,5,5,5,0,2013-04-19,51.364437,-0.53016
+251589,Eastwick Coffee Co,5,5,5,5,2014-07-23,,
+251590,Eat Thai,4,nan,nan,nan,2014-08-20,51.432585,-0.545683
+251591,Edwards and Ward Ltd,5,5,5,0,2013-03-13,51.431733,-0.551651
+251592,Egham & District Social Club,4,5,10,0,2012-07-02,51.432733,-0.54388
+251593,Egham Bowls Club,5,5,5,5,2013-11-29,51.427236,-0.544371
+251594,Egham Charcoal Grill,5,5,5,0,2013-07-16,51.432892,-0.54504
+251595,Egham Constitutional Club,4,10,5,5,2013-02-04,51.43163,-0.547742
+251596,Egham Express,5,5,5,0,2014-08-11,51.433506,-0.542345
+251597,Egham Food and Wine,4,5,10,5,2013-09-30,51.431733,-0.551651
+251598,Egham Leisure Centre,5,5,5,0,2014-08-27,51.43063,-0.538869
+251599,Egham Oriental Store,4,10,5,0,2014-07-23,51.431605,-0.549296
+251600,Egham Tea Room,5,5,5,0,2014-01-16,51.431908,-0.548395
+251601,Egham Town Football Club Ltd,5,5,5,0,2014-11-11,51.426363,-0.532014
+251602,Egham United Services Club,4,10,5,5,2013-07-22,51.430102,-0.553559
+251603,Eileen Jackson,4,5,10,5,2011-12-23,,
+251604,Eileen Tozer Day Centre,5,0,0,0,2014-02-19,51.372022,-0.49229
+251605,Elizabeth Finn Homes Ltd,5,5,5,0,2014-01-16,51.410163,-0.570925
+251606,Empire House,3,10,10,10,2013-09-23,51.427708,-0.525311
+251607,Englefield Green Infant School,5,5,5,0,2013-07-02,51.431657,-0.571118
+251608,Englefield Green Social Hall,Exempt,nan,nan,nan,2015-01-05,51.430189,-0.568776
+251609,Euphorium (North London ) Ltd,5,0,0,0,2015-01-27,51.371941,-0.486747
+251610,Euphorium (North London) Ltd,5,5,5,0,2015-01-21,51.432168,-0.54689
+251611,Eurest Services,5,5,5,0,2013-07-08,51.352225,-0.493327
+251612,Fangrove Residents Club,5,0,0,0,2014-08-20,51.385031,-0.541126
+251613,Farm Shop,4,5,5,10,2013-07-18,51.353526,-0.514941
+251614,Farm Shop Lyne Ltd,5,5,5,0,2014-04-10,51.387945,-0.527495
+251615,Fatty Mattys,5,5,5,5,2012-08-29,,
+251616,Fermoyle House Nursing Home,5,5,5,0,2013-10-02,51.368735,-0.500313
+251617,First Steps Day Nursery,5,5,5,0,2014-07-04,51.377101,-0.526852
+251618,Flaming Grill,5,0,5,0,2014-11-14,51.391076,-0.504915
+251619,Flossy Cockles,Exempt,nan,nan,nan,2012-12-20,,
+251620,Food Festival,5,5,5,5,2013-12-04,51.429639,-0.548136
+251621,Founders Kitchen,5,5,5,0,2014-10-27,51.425333,-0.56723
+251622,Fox & Hounds,0,20,20,20,2014-10-20,51.439491,-0.590614
+251623,Golden Cafe Ltd,2,15,15,10,2013-09-10,51.371129,-0.490035
+251624,Golden Cafe Ltd,5,5,5,5,2013-06-27,51.431733,-0.551651
+251625,Gourmet Nut and Fudge Company,Exempt,nan,nan,nan,2013-03-26,,
+251626,Great Cockcrow Railway,5,5,5,0,2014-05-09,51.382669,-0.525538
+251627,Great Fosters (1931) Ltd,5,5,5,0,2013-10-19,51.417051,-0.544594
+251628,Green Lane Store,5,5,5,0,2014-12-09,51.416324,-0.513914
+251629,Greggs of Twickenham,5,0,5,0,2013-05-09,51.371309,-0.488592
+251630,Greggs South East,5,0,0,5,2014-03-18,51.432585,-0.545683
+251631,Halfords,Exempt,nan,nan,nan,2013-12-19,,
+251632,Halfway Houses,5,5,5,0,2014-09-03,51.373863,-0.553449
+251633,Hamiltons,5,5,5,0,2014-03-25,51.39234,-0.504544
+251634,Hare Hill Social Club,3,10,10,10,2011-12-21,51.365067,-0.511724
+251635,Harris and Hoole Ltd,5,5,5,0,2014-10-20,51.371941,-0.486747
+251636,Harri's Homemade Cakes,5,0,5,0,2012-08-29,,
+251637,Harrison Catering Services Ltd,5,5,5,0,2014-12-16,51.386799,-0.511493
+251638,Harts Foodhall,4,0,5,10,2013-03-15,51.403361,-0.567629
+251639,Heaters Bakery,5,5,5,5,2013-06-11,51.348383,-0.501595
+251640,Heaters Bakery Chertsey,5,5,5,5,2013-10-31,51.392746,-0.504674
+251641,Heathervale Baptist Church,5,0,0,0,2011-10-05,51.349246,-0.495206
+251642,Hebrews,5,5,5,0,2015-01-22,51.368742,-0.503028
+251643,High Rise,4,10,5,5,2014-07-30,51.429035,-0.569991
+251644,Holland and Barrett Retail Ltd,Exempt,nan,nan,nan,2014-07-01,51.432084,-0.545929
+251645,Holly Tree,4,10,5,0,2013-09-26,51.371665,-0.49325
+251646,Holy Family Catholic Primary School,5,5,5,0,2014-12-12,51.366197,-0.505079
+251647,Home Caterer Cakes,Exempt,nan,nan,nan,2014-12-01,,
+251648,Honeycomb Chemist,Exempt,nan,nan,nan,2013-07-22,51.391005,-0.504242
+251649,Hopscotch Play,5,5,5,0,2014-08-28,51.402123,-0.491918
+251650,How can we help you Ltd,5,5,5,0,2014-06-03,51.417496,-0.529091
+251651,Howards Residential Care Home,5,0,0,0,2013-09-03,51.359106,-0.51321
+251652,Hugos Restaurant,4,10,5,0,2014-10-28,51.432585,-0.545683
+251653,Hythe Supermarket,4,10,5,0,2014-08-08,51.429503,-0.521398
+251654,Iceland Frozen Foods Plc,5,5,5,5,2012-04-24,51.43163,-0.547742
+251655,Iceland Frozen Foods Plc,4,10,5,5,2013-12-18,51.371489,-0.48725
+251656,IL Pomodoro,4,10,5,0,2013-01-03,51.431223,-0.548273
+251657,Imagine,5,0,5,0,2014-10-21,51.425333,-0.56723
+251658,Indos,2,15,10,5,2014-03-26,51.388087,-0.50885
+251659,Irresistible Bakes,Exempt,nan,nan,nan,2014-06-30,,
+251660,Italian Concept,4,10,5,0,2014-07-15,51.441138,-0.549412
+251661,J Golding Group,Exempt,nan,nan,nan,2012-11-08,51.371309,-0.488592
+251662,J Sainsbury,5,0,0,0,2013-12-06,51.390973,-0.503884
+251663,J Sainsbury Plc,5,5,5,0,2013-04-29,51.43257,-0.519372
+251664,Jack Sparrow,3,10,10,10,2014-06-03,51.388343,-0.507031
+251665,Jackie Cox,Exempt,nan,nan,nan,2013-01-22,,
+251666,Jasmine Curry House,4,10,5,5,2013-11-20,51.372534,-0.484601
+251667,Jays Pharmacy,Exempt,nan,nan,nan,2013-02-24,51.427252,-0.528332
+251668,JB's Takeout,4,10,5,5,2014-05-12,51.372184,-0.486063
+251669,John Battleday Waterski,5,5,5,0,2013-09-02,51.40134,-0.525757
+251670,Jubilee High School,5,0,0,0,2014-03-12,51.370747,-0.503667
+251671,Just a Bite,5,5,5,0,2013-09-27,51.384819,-0.539222
+251672,Just Deli Post Graduate Restaurant,5,5,5,5,2013-09-26,51.377101,-0.526852
+251673,Just Relish,5,5,5,5,2014-09-23,51.391832,-0.504258
+251674,KC Cakes,Exempt,nan,nan,nan,2013-09-23,,
+251675,Kebab Centre,5,5,5,0,2013-07-29,51.348383,-0.501595
+251676,Kebab Land,5,5,5,5,2013-04-29,51.372534,-0.484601
+251677,Keeda Kakes,Exempt,nan,nan,nan,2013-09-04,,
+251678,Kentucky Fried Chicken,5,5,5,0,2013-07-17,51.371667,-0.489155
+251679,Kettle Grill,5,5,5,0,2013-07-11,51.387703,-0.508374
+251680,KFC Amity Diner - Demipower Ltd (Thorpe Park),5,0,5,0,2014-05-21,51.4051,-0.512323
+251681,Kingswood Hall,5,5,5,0,2013-05-29,51.436571,-0.564159
+251682,KJ Garden,2,10,15,10,2014-08-20,51.432084,-0.545929
+251683,Kola Bagan Ltd,5,0,5,0,2014-12-11,,
+251684,Kwok Lai Chinese Takeaway,5,5,5,0,2013-03-01,51.374344,-0.496639
+251685,La Crepe,5,5,5,5,2013-10-22,,
+251686,La Piazzetta,5,5,5,0,2013-12-10,51.402337,-0.564096
+251687,Lady Syvia Dhenin,Exempt,nan,nan,nan,2013-08-28,,
+251688,Lakeview Marquee,Exempt,nan,nan,nan,2014-05-21,51.4051,-0.512323
+251689,Laleham Golf Club,5,5,5,0,2013-03-08,51.408857,-0.493868
+251690,Laleham Golf Club Bar,Exempt,nan,nan,nan,2008-09-16,51.408857,-0.493868
+251691,Le Brunch,5,5,5,0,2013-05-02,51.431147,-0.54862
+251692,Lee's Bakery,4,10,5,5,2013-08-21,51.363026,-0.506777
+251693,Little Lunches,5,5,0,5,2012-11-28,,
+251694,Little Miss Hubbards Cakes,Exempt,nan,nan,nan,2012-08-29,,
+251695,Lloyds Pharmacy,Exempt,nan,nan,nan,2014-02-06,51.364455,-0.530863
+251696,Lloyds Pharmacy,Exempt,nan,nan,nan,2014-02-06,51.348383,-0.501595
+251697,Lloyds Pharmacy,Exempt,nan,nan,nan,2010-01-11,51.388648,-0.495078
+251698,LLoyds Pharmacy,Exempt,nan,nan,nan,2009-01-07,51.371129,-0.490035
+251699,Lloyds Pharmacy Limited,Exempt,nan,nan,nan,2014-12-09,51.403361,-0.567629
+251700,Lloyds Pharmacy Ltd,Exempt,nan,nan,nan,2010-01-04,51.429117,-0.572981
+251701,Loch Fyne Bar and Grill,3,10,5,10,2014-03-05,51.431801,-0.552786
+251702,Locker 27,Exempt,nan,nan,nan,2014-08-13,51.370041,-0.476092
+251703,Londis,5,0,5,0,2014-05-07,51.396958,-0.566162
+251704,Londis,5,5,5,5,2014-01-07,51.388788,-0.507433
+251705,Londis,5,0,5,5,2013-10-29,51.364455,-0.530863
+251706,Loon Hing,5,5,0,5,2013-12-11,51.371219,-0.493523
+251707,Lovely Jubblies,5,5,5,5,2013-09-20,51.356099,-0.486938
+251708,Luigi's Caffe,5,5,0,0,2013-08-20,51.37378,-0.482218
+251709,Luv That Cake,Exempt,nan,nan,nan,2013-08-08,,
+251710,Lux II,4,10,5,5,2014-07-04,51.403361,-0.567629
+251711,Lyne & Longcross C of E Infant School,5,5,5,0,2009-06-02,51.381627,-0.542858
+251712,Magic Wok Restaurant,5,5,5,0,2014-12-22,51.431733,-0.551651
+251713,Magna Carta School,5,5,5,0,2014-01-22,51.427797,-0.521669
+251714,Magna Carta Tea Rooms,5,5,5,0,2013-09-30,51.44065,-0.547039
+251715,Majestic Wine Warehouses Ltd,5,5,5,5,2014-08-20,51.358854,-0.487192
+251716,Mango Chutney,4,10,10,0,2014-08-07,51.427761,-0.572404
+251717,Mannys Sauces Ltd,5,5,5,0,2014-08-07,,
+251718,Manor Farm Day Centre,5,5,5,0,2013-11-13,51.432219,-0.542976
+251719,Manorcroft Primary School,5,5,5,0,2014-01-16,51.427236,-0.544371
+251720,Manorcroft United JFC,Exempt,nan,nan,nan,2014-06-04,51.437127,-0.571393
+251721,Martin McColl Ltd,5,5,0,0,2014-04-24,51.34813,-0.503556
+251722,Martins,Exempt,nan,nan,nan,2013-04-23,51.402027,-0.563746
+251723,Martins Butchers,5,5,5,0,2014-08-26,51.387945,-0.527495
+251724,Matgol Ltd,5,0,0,0,2013-09-25,51.372701,-0.53159
+251725,Maurice Jones and Son,5,0,5,5,2014-08-08,51.364227,-0.48476
+251726,Mayflower Nurseries,Exempt,nan,nan,nan,2014-12-09,51.422546,-0.537458
+251727,Meadowcroft County First School,4,10,5,0,2014-12-02,51.376726,-0.512783
+251728,Meath School,5,5,5,0,2013-05-01,51.361024,-0.528359
+251729,Medicine Bar,5,0,5,0,2014-05-13,51.425333,-0.56723
+251730,Megna Tandoori Restaurant,5,0,5,5,2014-01-17,51.429355,-0.572614
+251731,Merrywood Farm Ltd,5,0,5,0,2013-09-05,51.387238,-0.538527
+251732,Methodist Church,Exempt,nan,nan,nan,2014-02-17,51.371667,-0.489155
+251733,Mini Market,3,10,10,5,2013-02-20,51.426337,-0.581813
+251734,Miss J A Guest,3,10,10,5,2013-04-23,,
+251735,Mmm Cookie Dough,5,5,5,0,2013-08-08,,
+251736,Molly Milkshake Cakes,5,5,5,0,2014-08-27,,
+251737,Morrisons Supermarket PLC,5,0,0,0,2014-04-16,51.358854,-0.487192
+251738,Mr Carlos,5,0,5,5,2012-07-30,,
+251739,Mr S & Mrs J E Morris,Exempt,nan,nan,nan,2011-03-01,,
+251740,MRH Runnymede,5,0,5,0,2012-07-23,51.434922,-0.539135
+251741,Mrs Caroline Faulkner,5,0,5,0,2014-12-23,,
+251742,Mrs Harshini Patel,Exempt,nan,nan,nan,2012-05-09,,
+251743,Mrs Kristina West,Exempt,nan,nan,nan,2013-03-18,,
+251744,Mrs Makiko Searle,Exempt,nan,nan,nan,2013-02-21,,
+251745,Mrs Pat Gray Chobham WI Market,Exempt,nan,nan,nan,2013-01-31,,
+251746,Mrs Tracy Martin,Exempt,nan,nan,nan,2013-02-20,,
+251747,Mrs Valerie Hessey,2,15,10,10,2014-07-08,,
+251748,Myers Catering Ltd,5,nan,nan,nan,2014-02-05,51.370663,-0.490797
+251749,Nash News,5,5,5,5,2013-04-12,51.348762,-0.499572
+251750,National Reserve & Social Club,4,5,10,5,2010-06-29,51.37128,-0.49684
+251751,Naughty But Nice (Thorpe Park),4,5,5,10,2014-05-23,51.4051,-0.512323
+251752,New Haw Cafe and Restaurant,5,0,5,0,2014-10-15,51.348383,-0.501595
+251753,New Haw Club & Institute,5,5,5,0,2014-08-26,51.355809,-0.488126
+251754,New Haw News,5,5,5,0,2014-01-07,51.355809,-0.488126
+251755,NW Surrey Mental Health,5,5,5,0,2015-01-14,51.37934,-0.528964
+251756,Ocean Blue Fish and Chips,3,10,10,5,2014-09-01,51.39182,-0.501873
+251757,Old School Cafe,5,nan,nan,nan,2014-10-08,51.379082,-0.567697
+251758,Olde Swan Hotel,4,10,10,0,2014-03-21,51.39234,-0.504544
+251759,Olive Catering Services Ltd,5,5,5,0,2013-06-17,51.373015,-0.479398
+251760,One Stop,5,5,5,0,2010-02-24,51.39234,-0.504544
+251761,One Stop,5,0,5,0,2012-11-22,51.364455,-0.530863
+251762,Ongar Place Primary School,5,0,0,0,2014-04-28,51.362949,-0.502168
+251763,Otters Spicy Cottage,4,5,10,5,2013-10-21,51.364437,-0.53016
+251764,Ottershaw C Of E Infant School,3,10,5,10,2014-10-08,51.362522,-0.520942
+251765,Ottershaw C of E Junior School,5,5,5,0,2013-04-22,51.36245,-0.523084
+251766,Ottershaw Social Club,5,5,5,0,2012-02-14,51.364437,-0.53016
+251767,Paella Passion,5,0,0,0,2013-06-20,,
+251768,Pandrol International Ltd,5,0,0,0,2014-03-11,51.371667,-0.489155
+251769,Papa Johns Pizza,3,10,10,5,2013-09-30,51.371129,-0.490035
+251770,Papa Johns Pizza,5,5,5,0,2014-07-16,51.433063,-0.543611
+251771,Paradise Kebab,2,10,15,10,2013-09-11,51.388343,-0.507031
+251772,Patient Catering,5,5,5,0,2014-07-04,51.377101,-0.526852
+251773,Peace,Exempt,nan,nan,nan,2013-04-24,,
+251774,Peciong Oriental Foods,5,5,5,0,2012-05-02,51.372184,-0.486063
+251775,Peckish (Thorpe Park),5,5,5,5,2014-05-22,51.4051,-0.512323
+251776,Peking Chef,5,5,5,0,2014-01-23,51.431223,-0.548273
+251777,Penton Hook Yacht Club,5,5,5,5,2013-02-05,51.409507,-0.503969
+251778,Peter Myer,Exempt,nan,nan,nan,2014-07-25,51.373318,-0.495164
+251779,Philip Southcote School,5,5,5,0,2014-05-02,51.381663,-0.490996
+251780,Piccolino,5,5,0,0,2013-03-27,51.408702,-0.592107
+251781,Pitch & Chip,4,10,5,5,2014-04-14,51.396958,-0.566162
+251782,Pizza Express,5,5,0,0,2012-07-09,51.39182,-0.501873
+251783,Pizza Hot Express,1,15,15,20,2014-08-12,51.389734,-0.506095
+251784,Pizza Hut,5,0,5,0,2013-04-02,51.371489,-0.48725
+251785,Pizza Hut (Thorpe Park),5,5,5,0,2014-05-21,51.4051,-0.512323
+251786,Plush Cupcakes,Exempt,nan,nan,nan,2013-03-04,,
+251787,Pop Inn Cafe,4,5,10,5,2014-03-12,51.427252,-0.528332
+251788,Premier Cafe,4,5,10,0,2013-03-04,51.416221,-0.530714
+251789,Prezzo,5,5,5,0,2013-09-11,51.431496,-0.555054
+251790,Pride Catering Partnership Ltd,5,5,5,0,2014-05-06,51.372701,-0.53159
+251791,Pub Kitchen Waggon and Horses,2,10,15,10,2014-10-27,51.37128,-0.49684
+251792,Pyrcroft Grange Primary School,5,0,0,0,2014-12-16,51.391853,-0.516532
+251793,Quality Food,5,5,5,5,2015-01-24,51.3816108704,-0.48767799139
+251794,Queenwood Golf Club Ltd,5,0,0,0,2014-07-03,51.370215,-0.547904
+251795,Quite Simply Catering,5,5,0,0,2013-09-02,,
+251796,Raj Brasserie,3,10,10,5,2014-07-14,51.427252,-0.528332
+251797,Ramekins Ltd,5,0,0,0,2014-08-20,51.34813,-0.503556
+251798,RAOB GLE Club,5,5,5,0,2014-04-02,51.36908,-0.500604
+251799,Red Rose,5,5,5,5,2013-01-03,51.433063,-0.543611
+251800,Restaurant & General,4,10,5,0,2013-08-02,51.353526,-0.514941
+251801,Retreat Cafe,5,5,5,0,2014-03-17,51.377101,-0.526852
+251802,Retreat Shop,5,5,5,0,2014-03-17,51.377101,-0.526852
+251803,Ricky Takeaway,5,5,5,5,2014-01-27,51.383939,-0.494542
+251804,Rio's Diner,5,5,5,0,2015-01-08,51.361069,-0.498915
+251805,River Island Bakery,Exempt,nan,nan,nan,2013-10-07,,
+251806,Roast and Relish (Thorpe Park),5,0,0,0,2014-05-22,51.4051,-0.512323
+251807,Roberto's,2,10,15,10,2013-11-11,51.391076,-0.504915
+251808,Roberts Butchers,5,5,5,0,2014-08-28,51.392746,-0.504674
+251809,Rock n Roe,5,5,5,0,2013-10-08,51.427708,-0.525311
+251810,Rodwell Farm Nursing Home Ltd,5,nan,nan,nan,2014-08-18,51.355626,-0.51529
+251811,Rose & Crown,5,5,5,0,2013-07-31,51.404302,-0.549139
+251812,Rosebud Bakery,Exempt,nan,nan,nan,2013-05-15,,
+251813,Royal British Legion,3,10,10,10,2014-06-17,51.369369,-0.499287
+251814,Royal British Legion,3,10,10,5,2013-10-01,51.401351,-0.564299
+251815,Royal British Legion Club Ltd,Exempt,nan,nan,nan,2013-03-20,,
+251816,Royal Carribean Staff Canteen,Exempt,nan,nan,nan,2013-09-12,51.374962,-0.481834
+251817,Royal Marine,5,5,5,0,2014-03-17,51.386779,-0.545741
+251818,Royal Standard Guest House,5,5,5,5,2012-08-17,51.407058,-0.55824
+251819,Ruby Wines,Exempt,nan,nan,nan,2012-11-08,51.429035,-0.569991
+251820,Rudy Newsagents,4,10,5,0,2014-09-03,51.383939,-0.494542
+251821,Runnymede Cafe,5,5,5,0,2013-08-02,51.441138,-0.549412
+251822,Runnymede Chicken and Ribs,5,5,5,0,2014-09-23,51.43163,-0.547742
+251823,Runnymede Community Meals,5,5,5,0,2013-09-26,51.384719,-0.492332
+251824,Runnymede Hospital,5,5,5,0,2014-05-19,51.378006,-0.524394
+251825,Runnymede on Thames Hotel,5,5,5,0,2014-04-09,51.437519,-0.537556
+251826,Sagra Catering Services Ltd,4,5,10,5,2014-04-08,51.372761,-0.53643
+251827,Salesian School Kitchen,5,5,5,0,2013-12-02,51.381791,-0.518668
+251828,Salesian School Kitchen,5,5,5,0,2014-02-06,51.383695,-0.502196
+251829,Salvation Army Hall,Exempt,nan,nan,nan,2014-12-09,51.369369,-0.499287
+251830,Sarbs Scrumptious Cakes,5,5,5,0,2014-08-27,,
+251831,Savill Court Hotel,5,5,5,0,2013-09-30,51.436989,-0.590417
+251832,Savill Garden Restaurant,5,5,5,0,2013-04-11,51.427382,-0.596136
+251833,Sayes Court Primary School,5,0,0,0,2014-04-25,51.366719,-0.493886
+251834,Scrummy Delights,5,5,5,0,2012-08-02,,
+251835,Scrumptious,5,5,5,0,2015-01-08,51.433506,-0.542345
+251836,Sea Fare,5,5,5,0,2013-03-04,51.39163,-0.503906
+251837,Secret Rendezvous Ltd,3,10,10,10,2014-12-22,51.39182,-0.501873
+251838,SF Connect,5,5,5,0,2013-03-06,51.429492,-0.5588
+251839,Shaw Trust,Exempt,nan,nan,nan,2013-07-22,51.432168,-0.54689
+251840,Shell Addlestone,5,0,0,0,2013-02-04,51.376539,-0.493233
+251841,Shell Egham,5,5,5,0,2012-11-28,51.431593,-0.553411
+251842,Shell Thorpe Lea Road,5,5,5,0,2014-03-26,51.424868,-0.531847
+251843,Shell Wheatsheaf,5,5,5,0,2014-07-07,51.408702,-0.592107
+251844,Silver Screen Catering,5,5,5,0,2014-08-19,51.40895,-0.549769
+251845,Simply the Best Cakes,Exempt,nan,nan,nan,2013-01-22,,
+251846,Simpsons Fried Chicken,4,10,5,0,2014-11-18,51.39234,-0.504544
+251847,Skewer Pit,5,5,5,0,2014-01-16,51.429842,-0.547813
+251848,Smiths(Englefield Green) Ltd,4,10,5,5,2014-04-15,51.427761,-0.572404
+251849,Snow & Rock Sports Limited,Exempt,nan,nan,nan,2010-10-01,51.385412,-0.493761
+251850,Social Care Catering Solutions Ltd,5,0,0,0,2014-02-24,51.372439,-0.500982
+251851,Soprano Italian Restaurant Ltd,4,0,10,5,2014-01-23,51.427761,-0.572404
+251852,Sorrento Pasta Bar,4,10,5,0,2014-11-03,51.390641,-0.504656
+251853,Southern  Cooperative,5,5,5,0,2015-01-13,51.391005,-0.504242
+251854,Soya Oriental,5,5,5,0,2014-03-25,51.427708,-0.525311
+251855,Spar,4,10,5,5,2014-10-21,51.427761,-0.572404
+251856,Spice Box,2,10,15,10,2014-12-05,51.402337,-0.564096
+251857,Springtime Nursery School and Day Nursery,5,5,5,0,2013-07-02,51.429777,-0.521735
+251858,Sri Super Stores,5,5,5,0,2013-07-29,51.348867,-0.503532
+251859,St Annes RC Primary School,5,5,5,0,2014-06-04,51.38751,-0.50095
+251860,St Anns Heath Co.Junior School,5,5,5,0,2014-12-08,51.400213,-0.556615
+251861,St Cuthberts RC Primary School,4,10,5,0,2013-06-17,51.424614,-0.573898
+251862,St George's College Weybridge,5,0,0,0,2013-09-26,51.377712,-0.478912
+251863,St Johns at Virginia Lodge,5,0,5,0,2014-04-23,51.429842,-0.547813
+251864,St Judes C of E School,5,5,5,0,2014-12-08,51.425762,-0.573632
+251865,St Pauls C of E Primary School,5,0,5,5,2013-06-05,51.370747,-0.503667
+251866,St Peter's Shared Church,Exempt,nan,nan,nan,2013-02-08,51.393278,-0.505476
+251867,Staines Service Station,5,5,5,0,2013-10-01,51.418912,-0.514492
+251868,Starbucks Coffee Company UK Ltd,5,5,5,0,2013-01-08,51.43257,-0.519372
+251869,Stepgates Community School,5,5,5,0,2014-05-02,51.388253,-0.497893
+251870,Stop N Shop,5,5,5,5,2014-01-27,51.424868,-0.531847
+251871,Stopps Bakers and Sandwich Bar,5,5,5,0,2013-10-15,51.429117,-0.572981
+251872,Students Union,3,10,10,5,2014-05-13,51.425333,-0.56723
+251873,Studio Canteen Ltd,4,5,10,0,2013-08-06,51.38171,-0.592332
+251874,Subway,5,5,5,0,2014-02-25,51.432084,-0.545929
+251875,Subway,5,0,5,0,2013-11-26,51.387922,-0.508568
+251876,Sue Ryder,Exempt,nan,nan,nan,2010-09-30,51.432585,-0.545683
+251877,Sugar Sculpture Ltd,5,5,5,5,2013-04-09,51.371219,-0.493523
+251878,Sunrise Senior Living,5,nan,nan,nan,2014-11-26,51.401487,-0.561477
+251879,Sunset Grill,5,5,5,0,2013-03-21,51.361069,-0.498915
+251880,Super Scrummy,Exempt,nan,nan,nan,2014-05-14,,
+251881,Superdrug Stores Plc,Exempt,nan,nan,nan,2014-06-04,51.43163,-0.547742
+251882,Superdrug Stores Plc,Exempt,nan,nan,nan,2013-03-09,51.371309,-0.488592
+251883,Supermum Bakery,5,0,0,5,2014-10-10,,
+251884,Surrey Fire & Rescue Service,Exempt,nan,nan,nan,2012-11-01,51.381663,-0.490996
+251885,Surrey Supermarket,4,5,5,10,2014-11-11,51.369369,-0.499287
+251886,Sweetmans Treats,Exempt,nan,nan,nan,2014-11-19,,
+251887,Sweets-U-Like,4,5,10,5,2015-01-08,,
+251888,T R Millman Ltd,Exempt,nan,nan,nan,2013-07-22,51.432168,-0.54689
+251889,Taj Mahal Restaurant,3,10,10,5,2013-10-03,51.372534,-0.484601
+251890,Tasis Coffee Shop,5,5,5,0,2014-10-22,51.409229,-0.527444
+251891,Taste Five Five Ltd,5,5,5,0,2014-02-24,51.388788,-0.507433
+251892,Taylors Stores,3,10,10,10,2013-12-16,51.377014,-0.517055
+251893,Tesco Extra,5,5,5,0,2014-05-09,51.371941,-0.486747
+251894,Tesco Family Dining Plc,5,5,5,0,2014-10-20,51.371941,-0.486747
+251895,Tesco Stores Ltd,5,5,5,0,2015-01-21,51.432168,-0.54689
+251896,Thai Yum Yum,3,10,10,10,2014-12-22,51.371219,-0.493523
+251897,The Armstrong Gun P H,3,10,10,5,2013-12-16,51.429344,-0.570255
+251898,The Beehive,5,5,5,0,2014-09-04,51.430035,-0.564954
+251899,The Black Prince,4,nan,nan,nan,2014-02-18,51.348383,-0.501595
+251900,The Bridge Hotel and Boathouse Restaurant,5,5,5,0,2013-12-16,51.389305,-0.488804
+251901,The Brookwood Partnership,5,5,5,0,2014-06-04,51.409677,-0.52083
+251902,The Buttercream Bakery,Exempt,nan,nan,nan,2014-11-19,,
+251903,The Castle Public House,5,5,0,5,2013-09-03,51.357791,-0.532972
+251904,The Castle Public House,4,10,5,5,2012-10-16,51.387343,-0.494948
+251905,The Chertsey & District SS & NR Club,5,5,5,5,2014-02-07,51.389241,-0.505579
+251906,The Chippy,5,5,5,0,2013-10-24,51.374344,-0.496639
+251907,The Clubhouse and Bar XIX,5,5,5,5,2013-03-07,51.373863,-0.553449
+251908,The Coach & Horses,5,5,5,0,2013-01-29,51.39447,-0.50663
+251909,The Cricketers,4,10,5,5,2014-12-08,51.359106,-0.51321
+251910,The Crouch Oak,5,5,5,0,2014-02-11,51.371858,-0.485844
+251911,The Crown Public House,5,5,5,0,2014-09-23,51.431605,-0.549296
+251912,The Den,5,5,5,5,2010-07-08,51.400213,-0.556615
+251913,The Fishermans Net,5,5,5,0,2014-11-11,51.348649,-0.504114
+251914,The Forresters Arms,5,5,5,0,2014-03-21,51.428308,-0.551774
+251915,The Gap Club,5,0,0,5,2014-08-05,51.431657,-0.571118
+251916,The Gap Club,5,0,5,0,2014-10-07,51.425762,-0.573632
+251917,The Gap Club,5,5,5,0,2013-11-25,51.408283,-0.535929
+251918,The George,4,5,10,5,2014-06-10,51.388788,-0.507433
+251919,The George Inn,3,nan,nan,nan,2014-02-03,51.376539,-0.493233
+251920,The Grange Community Infant School,5,5,5,0,2013-04-22,51.350858,-0.505981
+251921,The Grange Nursing Home,5,5,5,0,2014-07-08,51.350823,-0.499692
+251922,The Grange Retirement Home,5,0,5,5,2015-01-07,51.392532,-0.518278
+251923,The Happy Man,2,10,15,10,2014-09-22,51.428244,-0.567786
+251924,The Holly Tree,5,5,5,0,2014-11-26,51.429355,-0.572614
+251925,The Hub,5,5,5,0,2015-01-14,51.382938,-0.493684
+251926,The Hub,5,0,5,0,2014-11-19,51.425333,-0.56723
+251927,The Hythe Breakfast Club,5,5,5,0,2010-02-02,51.429777,-0.521735
+251928,The Hythe School,5,0,5,0,2014-05-06,51.429777,-0.521735
+251929,The Lavender Hen Catering Company,5,5,5,0,2014-03-17,,
+251930,The Little Grey Owl,5,5,5,5,2014-08-21,,
+251931,The Little Indian Kitchen,5,5,5,5,2013-10-30,,
+251932,The Local,3,10,10,10,2013-07-03,51.366122,-0.514031
+251933,The Lunch People/Avala Catering Ltd,5,0,0,0,2014-11-26,51.348383,-0.501595
+251934,The Manor House,5,5,5,0,2013-03-07,51.373863,-0.553449
+251935,The Monkey's Forehead,5,5,5,0,2014-01-29,51.428017,-0.563895
+251936,The Olive Tree Cafe,5,5,5,5,2013-04-03,51.371667,-0.489155
+251937,The Otter Harvester,5,nan,nan,nan,2014-05-22,51.365108,-0.532092
+251938,The Pelican (Rim Nam Thai),4,10,5,5,2014-08-21,51.369283,-0.475255
+251939,The Plantation Coffee Shop,4,5,10,0,2014-05-15,51.377537,-0.484119
+251940,The Prince Regent,2,10,15,10,2014-07-23,51.39163,-0.503906
+251941,The Queens Arms,4,5,10,5,2015-01-19,51.369311,-0.498269
+251942,The Raj Cuisine,1,10,15,20,2014-04-04,51.348649,-0.504114
+251943,The Red Lion,5,5,5,0,2014-09-24,51.408296,-0.533312
+251944,The Regent,3,10,10,5,2013-11-25,51.374425,-0.481306
+251945,The Robin Hood,3,10,10,5,2014-05-29,51.425425,-0.531829
+251946,The Rose & Olive Branch,4,10,5,5,2014-03-07,51.412718,-0.574728
+251947,The Stanley House,5,5,5,0,2013-02-14,51.372534,-0.484601
+251948,The Store on Campus,5,5,5,0,2010-05-24,51.425333,-0.56723
+251949,The Summer House,5,5,5,0,2013-03-07,51.373863,-0.553449
+251950,The Sun Inn,0,20,25,30,2014-11-10,51.431523,-0.59201
+251951,The Swan Hotel,2,15,15,10,2014-01-16,51.432632,-0.516435
+251952,The Tea Room @ the Farm Shop,5,5,5,0,2014-06-03,51.387945,-0.527495
+251953,The Tenth Hole,3,10,10,5,2013-10-08,51.376678,-0.502654
+251954,The Twynersh,5,5,5,0,2013-01-29,51.394804,-0.515186
+251955,The Victoria,5,5,5,5,2013-04-24,51.34393,-0.513399
+251956,The Victory,1,15,15,20,2014-04-16,51.385363,-0.504627
+251957,The Village Centre and Cafe Rendezvous,4,10,10,0,2013-10-01,51.429344,-0.570255
+251958,The Village Pizza,5,5,5,0,2013-12-16,51.429035,-0.569991
+251959,The Wheatsheaf,5,5,5,0,2014-01-29,51.40921,-0.592494
+251960,The White Lion,3,10,10,5,2013-05-02,51.433506,-0.542345
+251961,The Wine Circle,5,5,5,0,2014-10-30,51.402027,-0.563746
+251962,Thomas Franks Ltd,4,5,5,10,2013-10-22,,
+251963,Thorpe C of E Primary School,5,0,5,0,2013-09-10,51.408283,-0.535929
+251964,Thorpe Lea Bakery,1,10,15,20,2014-08-26,51.427239,-0.527311
+251965,Thorpe Lea Primary School,5,5,5,0,2015-01-23,51.425176,-0.524156
+251966,Thorpe Post Office & Stores,4,10,5,0,2014-08-28,51.405717,-0.536356
+251967,Thyme at the Tavern,4,5,10,5,2014-09-24,51.391656,-0.502396
+251968,Tia Maria,3,5,10,10,2013-10-10,51.390099,-0.505163
+251969,Toad Hall Nursery,5,0,5,0,2015-01-19,51.363292,-0.529191
+251970,Topgolf Ltd,5,5,5,0,2015-01-22,51.360557,-0.489521
+251971,Touch of Class,5,5,5,5,2013-03-21,51.361069,-0.498915
+251972,Travelodge Chertsey,5,5,5,0,2014-05-22,51.389734,-0.506095
+251973,Traylen Catering,Exempt,nan,nan,nan,2014-12-01,51.381663,-0.490996
+251974,Trident Garages Ltd,5,5,5,0,2014-05-21,51.363728,-0.533185
+251975,Trumps Green Infant School,5,5,5,5,2010-11-09,51.396872,-0.569384
+251976,Twynersh Fishing Complex,5,5,5,5,2015-01-22,51.394804,-0.515186
+251977,Uncle Sams,5,5,5,5,2012-07-03,,
+251978,Vacant shop unit,Exempt,nan,nan,nan,2012-12-05,51.371309,-0.488592
+251979,Venus News,Exempt,nan,nan,nan,2013-02-24,51.432585,-0.545683
+251980,Viceroy of India,3,10,10,10,2014-03-25,51.403283,-0.566409
+251981,Victory Local Convenience Store Ltd,5,5,5,0,2014-05-21,,
+251982,Villa Rosa,5,5,5,0,2014-08-08,51.432084,-0.545929
+251983,Village Food and Wine,5,0,5,5,2012-12-04,51.427252,-0.528332
+251984,Vinceo Ices,5,0,5,5,2013-05-08,51.355809,-0.488126
+251985,Virginia Water Football Club,Exempt,nan,nan,nan,2012-07-13,51.395811,-0.570883
+251986,Virginia Water Library Coffee Shop,5,5,5,5,2014-01-14,51.401351,-0.564299
+251987,Virgintea Ltd,Exempt,nan,nan,nan,2015-01-13,51.430115,-0.55832
+251988,Waggon & Horses Public House,4,5,5,10,2013-05-22,51.37128,-0.49684
+251989,Watts Cooking,4,10,10,0,2014-09-04,51.387295,-0.50948
+251990,Well and Happy,Exempt,nan,nan,nan,2014-11-19,,
+251991,Wendover Road Stores,4,10,5,5,2014-06-03,51.431745,-0.528073
+251992,Wentworth Club Limited,5,5,5,0,2013-08-27,51.399636,-0.589697
+251993,Wentworth Patisserie,5,5,0,0,2014-03-21,51.403283,-0.566409
+251994,Wentworth Wines,Exempt,nan,nan,nan,2013-10-01,51.402337,-0.564096
+251995,Westworld Marine Ltd,Exempt,nan,nan,nan,2012-05-02,51.386565,-0.486911
+251996,Weybourne Gymnastics Club,3,10,10,5,2014-02-19,51.358803,-0.485327
+251997,Weybridge Garden Centre Group Ltd,5,nan,nan,nan,2014-04-15,51.364227,-0.48476
+251998,Weybridge Rowing Club,Exempt,nan,nan,nan,2012-07-12,51.378762,-0.460197
+251999,WH Smith,5,0,5,0,2012-10-31,51.378006,-0.524394
+252000,White Hart,5,5,5,0,2014-04-02,51.358854,-0.487192
+252001,White Lodge Centre (Cafe Rendezvous),5,5,5,0,2013-10-07,51.37934,-0.528964
+252002,Wild Wong Noodle Bar (Thorpe Park),2,10,15,10,2014-05-21,51.4051,-0.512323
+252003,William Hill Organisation,Exempt,nan,nan,nan,2013-09-17,51.427239,-0.527311
+252004,Wilson Vale Catering Management Ltd,5,5,5,0,2014-05-06,51.420665,-0.545242
+252005,Wilsons Fast Food,5,5,5,0,2013-12-05,51.421746,-0.54036
+252006,Wimpy,5,0,0,0,2014-06-30,51.372184,-0.486063
+252007,Woodham & New Haw Day Centre,5,0,0,0,2014-04-02,51.347792,-0.506023
+252008,Woodham Post Office,3,10,10,10,2014-02-21,51.348383,-0.501595
+252009,Woodham Wines and Spirits,Exempt,nan,nan,nan,2013-07-22,51.347078,-0.504265
+252010,World Wide Events,5,5,5,0,2014-05-20,,
+252011,Yang Guang Supermarket and Take-Away,5,5,5,5,2013-10-09,51.432585,-0.545683
+252012,Zaal Indian Restaurant,5,nan,nan,nan,2014-07-10,51.363026,-0.506777

@@ -1,563 +1,563 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-413348,Ecclesville Centre,Ecclesville Road,Fintona,Co Tyrone,(Last Sure Start) - Fintona Creche,School/college/university,7845,0,,723370,5,,54.49537500000000,305655,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31155900000000,BT78 2BZ,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-413349,,,,,9th Avenue Mobile Catering,Mobile caterer,7846,5,,723436,5,,,305970,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-05-31,fhrs_5_en-GB,5,,FHRS,5
-413350,9 Ronan Road,Agharonan,Seskinore,Tyrone,9th Avenue Pizzeria,Takeaway/sandwich shop,7844,0,,723395,0,,54.48434600000000,305783,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.25450300000000,BT78 2QZ,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-413351,44/46 Main Street,Dromore,,Co Tyrone,A E Kenwell & Sons,Retailers - other,4613,10,,723033,5,,54.51337200000000,300571,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45875400000000,BT78 3AB,2012-08-13,fhrs_4_en-GB,4,,FHRS,0
-413352,8-10 Scarffe'S Entry,Omagh,Omagh,Tyrone,ÃÂ£ Stretcher And Pet Hut,Retailers - other,4613,10,,723022,5,,54.59952900000000,300522,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30068800000000,BT78 1JH,2014-04-11,fhrs_2_en-GB,2,,FHRS,15
-413353,135 Curr Road,Curr,Beragh,Tyrone,A5 Stores & Cafe,Restaurant/Cafe/Canteen,1,10,,723379,10,,54.51040400000000,305714,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17521200000000,BT79 0QT,2014-07-16,fhrs_3_en-GB,3,,FHRS,10
-413354,10 Killybrack Road,Lisanelly,Omagh,Tyrone,Abacus Private Day Nursery,School/college/university,7845,5,,723136,0,,54.61391700000000,300931,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29397200000000,BT79 7HN,2014-11-18,fhrs_5_en-GB,5,,FHRS,5
-413355,,,,,Adele'S Cakes,Other catering premises,7841,5,,723415,5,,,305889,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-03-20,fhrs_5_en-GB,5,,FHRS,0
-413356,1 Creggan Road,Carrickmore,Carrickmore,Tyrone,After School Club,School/college/university,7845,5,,723239,5,,54.59820200000000,303983,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05170100000000,BT79 9BD,2012-06-20,fhrs_5_en-GB,5,,FHRS,5
-413357,,,,,Afternoon Delights,Other catering premises,7841,5,,723291,0,,,305027,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-04-06,fhrs_5_en-GB,5,,FHRS,0
-413358,34 Main Street,Beragh,Beragh,Tyrone,Age Concern,Other catering premises,7841,5,,723322,0,,54.55049700000000,305237,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16083400000000,BT79 0TA,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-413359,39 Main Street,,Drumquin,Tyrone,Aikens,Pub/bar/nightclub,7843,5,,727994,0,,54.61568200000000,306500,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48951300000000,BT78 4SB,2014-12-18,fhrs_4_en-GB,4,,FHRS,10
-413360,Ecclesville Centre,11 Ecclesville Road,Fintona,,Ajs Event Catering,Restaurant/Cafe/Canteen,1,0,,723079,0,,54.49537500000000,300711,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31155900000000,BT78 2BZ,2014-10-20,fhrs_5_en-GB,5,,FHRS,5
-413361,,,,,Aj'S Event Catering - Eddie Macs,Mobile caterer,7846,5,,723503,0,,,306316,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-24,fhrs_5_en-GB,5,,FHRS,5
-413362,,,,,Aj'S Event Catering - Snack Bar,Mobile caterer,7846,5,,723506,0,,,306319,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-413363,,,,,Aj'S Event Catering - The Deli,Mobile caterer,7846,5,,723353,0,,,305498,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-413364,,,,,Aj'S Event Catering - The Philly,Mobile caterer,7846,5,,723504,0,,,306317,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-15,fhrs_5_en-GB,5,,FHRS,5
-413365,,,,,Aj'S Event Catering - Tim Hortons,Mobile caterer,7846,5,,723502,0,,,306315,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-413366,,,,,Aj'S Event Catering -The Coffee Pod,Mobile caterer,7846,5,,723505,0,,,306318,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-413367,12 Mountjoy Road,Lisnamallard,Omagh,Tyrone,Aladdins Kingdom,Restaurant/Cafe/Canteen,1,0,,723140,10,,54.60313600000000,300943,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30147800000000,BT79 7AD,2013-03-15,fhrs_4_en-GB,4,,FHRS,10
-413368,42 Tattysallagh Road,Tattysallagh,Omagh,Tyrone,All Saints PS Dining Centre,School/college/university,7845,0,,723055,10,,54.56002000000000,300644,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.41386500000000,BT78 5BR,2014-04-09,fhrs_4_en-GB,4,,FHRS,10
-413369,14 Ashfield Terrace,,Omagh,Tyrone,All Sports Nutrition,Retailers - other,4613,,,723480,,,54.60228800000000,306150,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30717000000000,BT78 5ES,2013-10-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-413370,15 Main Street,Gortin,,Co. Tyrone,An Bosca Ceoil,Pub/bar/nightclub,7843,10,,723319,0,,54.71780000000000,305205,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23481300000000,BT79 8PQ,2013-07-03,fhrs_4_en-GB,4,,FHRS,10
-413371,Creggan,Omagh,,Co Tyrone,An Creagan Restaurant Ltd,Restaurant/Cafe/Canteen,1,,,723181,,,54.66189500000000,301180,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.03464300000000,BT79 9AF,2013-12-11,fhrs_5_en-GB,5,,FHRS,
-413372,326 Crockanboy Road,Formil,Greencastle,Tyrone,An Teach Ban Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,10,,723374,0,,54.68439300000000,305694,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.06367700000000,BT79 8HA,2012-12-17,fhrs_4_en-GB,4,,FHRS,0
-413373,,,,,Ann T Quinn,Other catering premises,7841,5,,723406,5,,,305830,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-02-03,fhrs_5_en-GB,5,,FHRS,0
-413374,,,,,Ann'S Kitchen,Farmers/growers,7838,5,,723298,0,,,305071,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-09-19,fhrs_5_en-GB,5,,FHRS,0
-413375,19 Tamlaght Road,Gortmore,Omagh,Tyrone,Aramark @ Kerry Foods Omagh,Restaurant/Cafe/Canteen,1,5,,723232,5,,54.59749200000000,303724,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31194000000000,BT78 5AW,2013-10-02,fhrs_5_en-GB,5,,FHRS,5
-413376,66 Drumnakilly Road,Ballynamullan,Omagh,Tyrone,Arandale House Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,0,,723293,0,,54.60182200000000,305037,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.24567200000000,BT79 0JP,2014-05-20,fhrs_5_en-GB,5,,FHRS,0
-413377,,,,,Ardmore,Hotel/bed & breakfast/guest house,7842,0,,723519,5,,,306478,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-413378,Unit 1 Showgrounds Retail Park,Sedan Avenue,Omagh,,Argos Ltd,Retailers - other,4613,,,723240,,,54.60240400000000,303990,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30385800000000,BT79 7AQ,2012-02-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-413379,1 Arleston Park,Mullaghmore,Omagh,Tyrone,Arleston House B & B,Hotel/bed & breakfast/guest house,7842,5,,723127,5,,54.60485100000000,300891,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28592700000000,BT79 7LJ,2013-07-10,fhrs_5_en-GB,5,,FHRS,5
-413380,31 Dromore Road,Coolnagard Lower,Omagh,Tyrone,Asda,Retailers - other,4613,0,,723292,5,,54.59394500000000,305033,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29965500000000,BT78 1QZ,2014-01-06,fhrs_5_en-GB,5,,FHRS,5
-413381,31 Dromore Road,Coolnagard Lower,Omagh,Tyrone,Asda Filling Station,Retailers - other,4613,0,,723351,0,,54.59394500000000,305490,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29965500000000,BT78 1QZ,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-413382,38 Retreat Heights,Mullaghmore,Omagh,Tyrone,Ashview House,Hotel/bed & breakfast/guest house,7842,5,,723290,5,,54.60406000000000,305026,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27083800000000,BT79 0HH,2012-03-28,fhrs_5_en-GB,5,,FHRS,0
-413383,26 Gortin Road,Omagh,,Co. Tyrone,Asian Buffet,Restaurant/Cafe/Canteen,1,5,,723414,10,,54.61330200000000,305888,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30097800000000,BT79 7HX,2013-09-04,fhrs_3_en-GB,3,,FHRS,10
-413384,67 Market Street,Campsie,Omagh,Tyrone,Asian Delights,Restaurant/Cafe/Canteen,1,10,,723403,10,,54.60039600000000,305818,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29683600000000,BT79 0AA,2014-10-14,fhrs_3_en-GB,3,,FHRS,10
-413385,11 Woodside Avenue,Lisnamallard,Omagh,Tyrone,Avalon House,School/college/university,7845,5,,723402,5,,54.60616100000000,305811,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29788200000000,BT79 7BP,2013-01-03,fhrs_5_en-GB,5,,FHRS,5
-413386,1 Great Northern Retail Park,Tamlaght Road,Omagh,,B & M Bargains,Retailers - other,4613,0,,723350,0,,54.59889700000000,305489,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31256600000000,BT78 5GZ,2012-02-06,fhrs_5_en-GB,5,,FHRS,0
-413387,29 Market Street,Omagh,,Co. Tyrone,Bakery Island,Retailers - other,4613,5,,723490,5,,54.60014200000000,306170,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29948600000000,BT78 1EE,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-413388,18 Campsie Road,Campsie,Omagh,Tyrone,Bakewells Patisserie,Manufacturers/packers,7839,10,,723295,10,,54.60100800000000,305046,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2014-06-24,fhrs_3_en-GB,3,,FHRS,10
-413389,23-25 Castle Street,Omagh,Omagh,Tyrone,Barboni's,Restaurant/Cafe/Canteen,1,5,,723518,5,,54.60111100000000,306397,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30552000000000,BT78 1DD,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-413390,,,,,Bells Chippy T/At Fairgreen Fintona,Mobile caterer,7846,5,,723270,0,,,304954,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-04-25,fhrs_5_en-GB,5,,FHRS,5
-413391,15 Beltany Road,Conywarren,Omagh,Tyrone,Beltany House,Hospitals/Childcare/Caring Premises,5,5,,723059,0,,54.61533300000000,300649,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32796900000000,BT78 5NA,2014-10-13,fhrs_5_en-GB,5,,FHRS,5
-413392,42 Main Street,Beragh,Beragh,Tyrone,Beragh Bistro,Restaurant/Cafe/Canteen,1,5,,723396,10,,54.55049700000000,305785,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16083400000000,BT79 0TA,2013-12-05,fhrs_4_en-GB,4,,FHRS,5
-413393,34 Main Street,Beragh,Beragh,Tyrone,Beragh Care & Community Centre,Hospitals/Childcare/Caring Premises,5,5,,722943,0,,54.55049700000000,300052,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16083400000000,BT79 0TA,2014-01-21,fhrs_5_en-GB,5,,FHRS,5
-413394,30 Main Street,Cavanamara,Trillick,Tyrone,Big Bites,Takeaway/sandwich shop,7844,10,,723454,5,,54.45149400000000,306019,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48741300000000,BT78 3SU,2014-08-07,fhrs_3_en-GB,3,,FHRS,10
-413395,4 Arvalee Road,Drumnakilly,Omagh,Tyrone,Birneys Grocers,Retailers - other,4613,,,722928,,,54.60010000000000,300001,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.18785100000000,BT79 0LR,2013-11-07,fhrs_5_en-GB,5,,FHRS,
-413396,96 Loughmuck Road,,Omagh,,Blacksessiagh Regeneration Group,Other catering premises,7841,,,723338,,,54.56434300000000,305372,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.34604500000000,BT78 1SZ,2013-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-413397,26 Market Street,Omagh,Omagh,Tyrone,Bogans Bar,Pub/bar/nightclub,7843,,,723017,,,54.60035100000000,300448,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29985400000000,BT78 1EH,2014-10-06,fhrs_3_en-GB,3,,FHRS,
-413398,43 High Street,Omagh,,Co Tyrone,Boots The Chemists,Retailers - other,4613,,,723005,,,54.59991500000000,300345,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30212100000000,BT78 1BA,2014-03-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-413399,Unit 11 Dromore Road Retail Pk,Dromore Road,Omagh,,Bradleys Pharmacy,Distributors/Transporters,7,,,723341,,,54.59638600000000,305390,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30875600000000,BT78 1RE,2011-06-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-413400,18 Main Street,Drumnaforbe,Drumquin,Tyrone,Bradley's Pharmacy,Retailers - other,4613,,,723048,,,54.61568200000000,300628,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48951300000000,BT78 4SB,2013-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-413401,84 Old Mountfield Road,Omagh,,Co. Tyrone,Bradley's Pharmacy,Retailers - other,4613,,,723307,,,54.60782500000000,305105,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28291900000000,BT79 7ET,2013-08-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-413402,40 Drumbarley Road,Dressoge,Drumquin,Tyrone,Brae Heather,Hotel/bed & breakfast/guest house,7842,0,,723339,0,,54.60657000000000,305373,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.43435000000000,BT78 4SX,2014-06-23,fhrs_5_en-GB,5,,FHRS,0
-413403,28 Eskragh Road,Eskragh,Omagh,Tyrone,Bridge Tavern,Pub/bar/nightclub,7843,10,,723149,10,,54.48179200000000,301031,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.20880500000000,BT78 1UW,2013-09-26,fhrs_3_en-GB,3,,FHRS,10
-413404,23 Georges Street,Omagh,Omagh,Tyrone,Brodericks Bar And Off-Licence,Pub/bar/nightclub,7843,5,,722998,0,,54.60040600000000,300293,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30478900000000,BT78 1DE,2013-10-25,fhrs_5_en-GB,5,,FHRS,0
-413405,18 Woodbank Road,Arvalee,Omagh,Tyrone,Buddies Childtime Centre Ltd,School/college/university,7845,0,,723445,5,,54.58967500000000,305991,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.24402500000000,BT79 0NB,2014-09-05,fhrs_5_en-GB,5,,FHRS,0
-413406,11 Church Hill,Omagh,Omagh,Tyrone,Burger Bistro,Takeaway/sandwich shop,7844,5,,723121,10,,54.59947900000000,300879,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30610500000000,BT78 1DQ,2013-07-05,fhrs_3_en-GB,3,,FHRS,10
-413407,5 Killycurragh Road,Killycurragh,Omagh,Tyrone,Cafe D'Roamer,Mobile caterer,7846,5,,723509,5,,54.61453800000000,306349,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.21531600000000,BT79 0JD,2014-05-29,fhrs_5_en-GB,5,,FHRS,0
-413408,Showgrounds Retail Park,Sedan Avenue,Omagh,Co Tyrone,Caffe Nero,Restaurant/Cafe/Canteen,1,5,,723476,10,,54.60240400000000,306145,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30385800000000,BT79 7AQ,2013-11-19,fhrs_4_en-GB,4,,FHRS,5
-413409,42 Camowen Road,Camowen,Omagh,Tyrone,Camowen Green Organic Farm Shop,Retailers - other,4613,10,,722930,10,,54.57121100000000,300004,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23634200000000,BT79 0HA,2014-06-12,fhrs_3_en-GB,3,,FHRS,10
-413410,34 Main Street,Beragh,Beragh,Tyrone,Camowen Smart Kids,School/college/university,7845,5,,723426,0,,54.55049700000000,305934,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16083400000000,BT79 0TA,2013-11-08,fhrs_5_en-GB,5,,FHRS,5
-413411,,,,,Camphill Community - Artaban House,Hospitals/Childcare/Caring Premises,5,0,,722975,0,,,300172,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-28,fhrs_5_en-GB,5,,FHRS,0
-413412,,,,,Camphill Community Columba House,Hospitals/Childcare/Caring Premises,5,0,,722974,0,,,300171,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-28,fhrs_5_en-GB,5,,FHRS,0
-413413,,,,,Camphill Community Rainbow House,Hospitals/Childcare/Caring Premises,5,0,,722972,0,,,300169,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-28,fhrs_5_en-GB,5,,FHRS,0
-413414,,,,,Camphill Community Riverstown House,Hospitals/Childcare/Caring Premises,5,0,,723223,0,,,303402,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-28,fhrs_5_en-GB,5,,FHRS,0
-413415,,,,,Camphill Community Sloe Cottage,Hospitals/Childcare/Caring Premises,5,0,,722971,0,,,300168,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-28,fhrs_5_en-GB,5,,FHRS,0
-413416,,,,,Camphill Community Sunrise Farm & House,Hospitals/Childcare/Caring Premises,5,0,,722973,0,,,300170,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-28,fhrs_5_en-GB,5,,FHRS,0
-413417,34 Campsie Road,Campsie,Omagh,Tyrone,Campsie Service Station Ltd,Retailers - other,4613,10,,723465,5,,54.60100800000000,306111,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2013-07-03,fhrs_4_en-GB,4,,FHRS,5
-413418,25 High Street,Omagh,Omagh,Tyrone,Carlisle Bookshop,Retailers - other,4613,,,723002,,,54.59991500000000,300317,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30212100000000,BT78 1BA,2014-03-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-413419,11 Termon Road,Aghagogan,Carrickmore,Tyrone,Carmen Build & Agri Supplies,Retailers - other,4613,,,723189,,,54.59614800000000,301231,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.04862400000000,BT79 9JW,2013-11-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-413420,179 Gortin Road,Mountjoy Forest East Division,Omagh,Tyrone,Carrick House B&B,Hotel/bed & breakfast/guest house,7842,5,,723099,5,,54.63608400000000,300812,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29629700000000,BT79 7JQ,2012-08-13,fhrs_5_en-GB,5,,FHRS,5
-413421,15 Termon Road,Carrickmore,,Co Tyrone,Carrickmore Creche & Youth Centre,Other catering premises,7841,5,,723236,5,,54.59178000000000,303841,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.04388400000000,BT79 9JR,2012-02-14,fhrs_5_en-GB,5,,FHRS,5
-413422,39 Main Street,Dromore,Dromore,Tyrone,Carrons Corner Bar,Pub/bar/nightclub,7843,5,,723331,0,,54.51283500000000,305304,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45903900000000,BT78 3AG,2008-03-19,fhrs_5_en-GB,5,,FHRS,5
-413423,64 Main Street,Fintona,,Co Tyrone,Cassidy'S Chemist,Retailers - other,4613,,,723085,,,54.49747900000000,300739,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31817600000000,BT78 2AE,2014-04-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-413424,50-52 Brookmount Road,Omagh,,Co. Tyrone,Centra,Retailers - other,4613,5,,723352,5,,54.60027100000000,305492,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31738600000000,BT78 5HY,2013-08-06,fhrs_5_en-GB,5,,FHRS,5
-413425,21 Main Street,Aghalane,Mountfield,Tyrone,Central Bar,Pub/bar/nightclub,7843,5,,723164,5,,54.64672500000000,301063,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16957100000000,BT79 7PX,2010-07-30,fhrs_4_en-GB,4,,FHRS,10
-413426,2 Campsie Road,Campsie,Omagh,Tyrone,Charlies Bar,Pub/bar/nightclub,7843,0,,722950,0,,54.60100800000000,300087,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2012-06-14,fhrs_4_en-GB,4,,FHRS,10
-413427,Trillick Enterprise Centre,15 Gargadis Road,Trillick,Co. Tyrone,Cherish Sure Start,School/college/university,7845,,,723442,,,54.45414000000000,305984,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49276100000000,BT78 3NX,2012-07-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-413428,,,,,Chez Manu,Mobile caterer,7846,5,,723342,5,,,305391,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-413429,34 Gortin Road,Mountjoy Forest East Division,Omagh,Tyrone,Christ The King Nursery Unit,School/college/university,7845,5,,723260,0,,54.61330200000000,304615,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30097800000000,BT79 7HX,2014-10-14,fhrs_5_en-GB,5,,FHRS,0
-413430,34 Gortin Road,Mountjoy Forest East Division,Omagh,Tyrone,Christ The King Ps Meals Kitchen,School/college/university,7845,0,,723134,0,,54.61330200000000,300928,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30097800000000,BT79 7HX,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-413431,20 Kevlin Road,Meetinghousehill,Omagh,Tyrone,Christian Brothers Grammar School,School/college/university,7845,5,,723014,5,,54.59883600000000,300416,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30509400000000,BT78 1LW,2014-04-15,fhrs_5_en-GB,5,,FHRS,0
-413432,12 Gillygooley Road,Mullaghmenagh Upper,Omagh,Tyrone,Cinema,Retailers - other,4613,0,,723123,5,,54.61123900000000,300882,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33011000000000,BT78 5PN,2014-10-30,fhrs_4_en-GB,4,,FHRS,10
-413433,,,,,Claire'S Creations,Other catering premises,7841,5,,723427,0,,,305936,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-05-16,fhrs_5_en-GB,5,,FHRS,0
-413434,85b Clanabogan Road,Clanabogan Upper,Omagh,Tyrone,Clanabogan Country Club,Retailers - other,4613,10,,722966,10,,54.56619500000000,300156,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.36297500000000,BT78 1SL,2014-11-21,fhrs_3_en-GB,3,,FHRS,10
-413435,85 Clanabogan Road,Clanabogan Upper,Omagh,,Clanabogan Country House B&B,Hotel/bed & breakfast/guest house,7842,5,,722965,5,,54.56619500000000,300155,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.36297500000000,BT78 1SL,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-413436,14 Dromore Road,Coolnagard Upper,Omagh,Tyrone,Classic Service Station,Takeaway/sandwich shop,7844,5,,722979,5,,54.59394500000000,300194,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29965500000000,BT78 1QZ,2013-08-07,fhrs_5_en-GB,5,,FHRS,5
-413437,12-14 Market Street,Omagh,,Co Tyrone,Clinton Cards,Retailers - other,4613,,,723016,,,54.60035100000000,300430,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29985400000000,BT78 1EH,2014-03-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-413438,96 Church Road,Clogherny Glebe Lower,Beragh,Tyrone,Clogherney Church Hall,Other catering premises,7841,,,722931,,,54.55368500000000,300005,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17758400000000,BT79 0SA,2013-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-413439,1 Railway Terrace,Meetinghousehill,Omagh,Tyrone,Coach Inn,Restaurant/Cafe/Canteen,1,0,,722983,10,,54.59752400000000,300202,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30974300000000,BT78 5AJ,2014-06-05,fhrs_4_en-GB,4,,FHRS,10
-413440,41 Market Street,Omagh,,Co Tyrone,Coffee @ Grinders,Restaurant/Cafe/Canteen,1,5,,723228,5,,54.60014200000000,303542,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29948600000000,BT78 1EE,2013-10-14,fhrs_5_en-GB,5,,FHRS,5
-413441,3a Georges Street,Omagh,,Co. Tyrone,Coffee House,Restaurant/Cafe/Canteen,1,5,,723399,10,,54.60040600000000,305794,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30478900000000,BT78 1DE,2014-05-19,fhrs_3_en-GB,3,,FHRS,10
-413442,South West College,2 Mountjoy Road,Omagh,Co Tyrone,Compass Group Uk&Ir (Chartwells Bistro),School/college/university,7845,5,,723283,5,,54.60183000000000,305009,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30247500000000,BT79 7AH,2014-05-07,fhrs_5_en-GB,5,,FHRS,5
-413443,36a Campsie Road,Omagh,,Co Tyrone,Constitutional Club,Retailers - other,4613,,,722957,,,,300110,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,BT79 OAG,2013-12-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-413444,47 Cooley Road,Cooley,Beragh,Tyrone,Cooley Castles Ltd,Restaurant/Cafe/Canteen,1,10,,723231,5,,54.55405000000000,303694,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.14345100000000,BT79 0SP,2013-10-21,fhrs_3_en-GB,3,,FHRS,10
-413445,90 Cooley Road,Six Mile Cross,Sixmilecross,Tyrone,Cooley Ps Meals Kitchen,School/college/university,7845,5,,723276,5,,54.55621200000000,304989,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.12417800000000,BT79 9DH,2014-05-27,fhrs_5_en-GB,5,,FHRS,5
-413446,Convent Ps/Holy Family Ps,Brookmount Road,Omagh,Co Tyrone,Cornabracken @ Holy Family,School/college/university,7845,5,,723447,0,,54.60208200000000,305993,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31040800000000,BT78 5HZ,2014-04-18,fhrs_5_en-GB,5,,FHRS,5
-413447,120 Tamlaght Road,Cornabracken,Omagh,Tyrone,Cornabracken Child Care,School/college/university,7845,5,,723320,5,,54.59542000000000,305214,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33340300000000,BT78 5LW,2014-04-17,fhrs_5_en-GB,5,,FHRS,5
-413448,29 Main Street,Beragh,Beragh,Tyrone,Corner Bar,Pub/bar/nightclub,7843,5,,722941,0,,54.55033100000000,300049,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16272300000000,BT79 0SY,2012-08-09,fhrs_4_en-GB,4,,FHRS,10
-413449,37 Main Street,Gortin,Gortin,Tyrone,Corrys Chemist,Retailers - other,4613,,,723105,,,54.71780000000000,300828,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23481300000000,BT79 8PQ,2010-04-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-413450,14 Main Street,Gortin,Gortin,Tyrone,Costcutter,Retailers - other,4613,5,,723103,10,,54.71808700000000,300821,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23477600000000,BT79 8PH,2014-08-28,fhrs_3_en-GB,3,,FHRS,10
-413451,82 Derry Road,Conywarren,Omagh,Tyrone,Costcutter,Retailers - other,4613,5,,723234,5,,54.60881800000000,303738,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32289200000000,BT78 5ED,2013-04-26,fhrs_5_en-GB,5,,FHRS,5
-413452,141 Greencastle Road,Sheskinshule,Mountfield,Tyrone,Costcutter Greencastle,Retailers - other,4613,5,,723159,0,,54.68654000000000,301053,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.08732100000000,BT79 7QN,2013-11-28,fhrs_5_en-GB,5,,FHRS,5
-413453,18 Main Street,Beragh,Beragh,Tyrone,Costcutter Supermarket,Retailers - other,4613,5,,722940,5,,54.55033100000000,300047,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16272300000000,BT79 0SY,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-413454,13-15 Main Street,Dromore,Dromore,Tyrone,Costcutters,Retailers - other,4613,5,,723029,10,,54.51381500000000,300554,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45922600000000,BT78 3AF,2014-03-21,fhrs_4_en-GB,4,,FHRS,5
-413455,,,,,Country Bakes,Other catering premises,7841,0,,723404,0,,,305820,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-08-15,fhrs_5_en-GB,5,,FHRS,0
-413456,,,,,Country Cupcakes,Other catering premises,7841,5,,723484,5,,,306162,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-12-02,fhrs_5_en-GB,5,,FHRS,0
-413457,232 Omagh Road,Garvaghy,,Tyrone,Cox Foodmarkets,Retailers - other,4613,,,722934,,,54.48751500000000,300019,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.13302400000000,BT70 2DX,2014-12-12,fhrs_5_en-GB,5,,FHRS,
-413458,51 Clanabogan Road,Omagh,,Co. Tyrone,Culmore Diner,Restaurant/Cafe/Canteen,1,5,,722970,5,,54.58320700000000,300163,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33745300000000,BT78 5JN,2013-09-04,fhrs_5_en-GB,5,,FHRS,5
-413459,Dromore Road,Coolnagard Upper,Omagh,Tyrone,Culmore Service Station,Retailers - other,4613,10,,723077,0,,54.59193300000000,300708,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31381300000000,BT78 1RB,2013-11-11,fhrs_4_en-GB,4,,FHRS,10
-413460,Ballinamullan Road,Omagh,,Co. Tyrone,Cumann Iarscoil Na Gcrann,School/college/university,7845,10,,723485,10,,54.60315900000000,306163,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26443200000000,BT79 0GZ,2013-11-15,fhrs_3_en-GB,3,,FHRS,10
-413461,,,,,Cupcakes By Louise,Retailers - other,4613,10,,723501,5,,,306305,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-05-27,fhrs_4_en-GB,4,,FHRS,0
-413462,86 Old Mountfield Road,Mullaghmore,Omagh,Tyrone,Curry King,Takeaway/sandwich shop,7844,10,,723258,10,,54.60782500000000,304519,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28291900000000,BT79 7ET,2013-09-24,fhrs_3_en-GB,3,,FHRS,10
-413463,9 High Street,Omagh,Omagh,Tyrone,Daly's,Pub/bar/nightclub,7843,0,,723000,0,,54.59991500000000,300300,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30212100000000,BT78 1BA,2014-06-16,fhrs_4_en-GB,4,,FHRS,10
-413464,32a Derry Road,Gortmore,Omagh,Tyrone,Day Today,Retailers - other,4613,5,,723497,5,,54.60493200000000,306292,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31552900000000,BT78 5DY,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-413465,34 Mill Street,Edenasop West,Fintona,Tyrone,Day Today,Retailers - other,4613,5,,723093,10,,54.49759600000000,300771,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31510300000000,BT78 2BP,2013-12-09,fhrs_3_en-GB,3,,FHRS,10
-413466,39 Termon Road,Aghagogan,Carrickmore,Tyrone,Day Today,Retailers - other,4613,0,,723191,5,,54.59178000000000,301233,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.04388400000000,BT79 9JR,2014-05-27,fhrs_5_en-GB,5,,FHRS,5
-413467,158 Loughmacrory Road,Loughmacrory,Loughmacrory,Tyrone,Day Today (Grocery Store),Retailers - other,4613,10,,723467,10,,54.62461000000000,306119,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11290800000000,BT79 9LF,2013-07-02,fhrs_3_en-GB,3,,FHRS,5
-413468,26 Termon Road,Aghagogan,Carrickmore,Tyrone,Dean Brian Maguirc College Meals Kitchen,School/college/university,7845,0,,723190,0,,54.59178000000000,301232,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.04388400000000,BT79 9JR,2014-11-04,fhrs_4_en-GB,4,,FHRS,10
-413469,53 Main Street,Fintona,Fintona,Tyrone,Deazley Eats,Restaurant/Cafe/Canteen,1,,,723317,,,54.49809300000000,305197,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31722400000000,BT78 2AG,2013-12-11,fhrs_4_en-GB,4,,FHRS,
-413470,55-57 Main Street,Fintona,Fintona,Tyrone,Deazley Meats,Retailers - other,4613,,,723262,,,54.49809300000000,304627,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31722400000000,BT78 2AG,2014-11-11,fhrs_4_en-GB,4,,FHRS,
-413471,63 Main Street,Cavanamara,Trillick,Tyrone,Declan O'Hagan Pharmacy,Retailers - other,4613,,,723202,,,54.45090800000000,301261,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48913200000000,BT78 3ST,2012-02-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-413472,31 Craigavon Road,Dunnamona Glebe,Fintona,Tyrone,Denamona Pre-School,School/college/university,7845,5,,723244,0,,54.49758900000000,304015,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31220100000000,BT78 2BN,2014-11-05,fhrs_5_en-GB,5,,FHRS,0
-413473,31 Craigavon Road,Dunnamona Glebe,Fintona,Tyrone,Denamona Ps Meals Kitchen,School/college/university,7845,0,,723075,5,,54.49758900000000,300692,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31220100000000,BT78 2BN,2014-05-07,fhrs_5_en-GB,5,,FHRS,5
-413474,C/O Omagh Integrated Ps & Nurs,Dergmoney Lane,9 Ballynahatty Road,,Dergmoney Pre School Centre,School/college/university,7845,0,,723412,5,,54.58522400000000,305880,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29385000000000,BT78 1PN,2013-09-19,fhrs_5_en-GB,5,,FHRS,0
-413475,1 Georges Street,Omagh,Omagh,Tyrone,Dobbins Ltd,Retailers - other,4613,,,722995,,,54.60040600000000,300283,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30478900000000,BT78 1DE,2014-01-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-413476,28 Gortin Road,Mountjoy Forest East Division,Omagh,Tyrone,Dolans Gortin Road,Retailers - other,4613,10,,723407,0,,54.61330200000000,305836,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30097800000000,BT79 7HX,2013-02-11,fhrs_4_en-GB,4,,FHRS,10
-413477,Unit 1 Derry Road,Omagh,,Co Tyrone,Domino'S Pizza,Takeaway/sandwich shop,7844,0,,723359,0,,54.60278600000000,305533,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30942200000000,BT78 5DR,2014-03-26,fhrs_5_en-GB,5,,FHRS,0
-413478,,,,,Dorothy'S Jam,Manufacturers/packers,7839,0,,723345,0,,,305416,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-08-28,fhrs_5_en-GB,5,,FHRS,0
-413479,188 Barony Road,Creggan,Sixmilecross,Tyrone,Doyles Vivo,Retailers - other,4613,10,,723180,10,,54.65080900000000,301177,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05053800000000,BT79 9AB,2014-10-21,fhrs_3_en-GB,3,,FHRS,10
-413480,8a Castle Street,Omagh,Omagh,Tyrone,Dragon Court,Takeaway/sandwich shop,7844,10,,723120,10,,54.60111100000000,300864,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30552000000000,BT78 1DD,2014-09-16,fhrs_3_en-GB,3,,FHRS,5
-413481,10a Omagh Road,Gardrum,Dromore,Tyrone,Dragon Dynasty,Takeaway/sandwich shop,7844,5,,723038,0,,54.51637400000000,300580,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45110200000000,BT78 3AJ,2014-08-05,fhrs_5_en-GB,5,,FHRS,5
-413482,150 Creggan Road,Creggan,Carrickmore,Tyrone,Drom Na Gainne,Hotel/bed & breakfast/guest house,7842,5,,723184,0,,54.63821100000000,301190,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.03642800000000,BT79 9BL,2013-09-26,fhrs_5_en-GB,5,,FHRS,0
-413483,22a Main Street,Dromore,Dromore,Tyrone,Dromore Centre,Hospitals/Childcare/Caring Premises,5,5,,723030,0,,54.51337200000000,300556,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45875400000000,BT78 3AB,2012-02-29,fhrs_5_en-GB,5,,FHRS,0
-413484,14 Omagh Road,Gardrum,Dromore,Tyrone,Dromore Community Playgroup,School/college/university,7845,5,,723211,0,,54.51637400000000,302570,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45110200000000,BT78 3AJ,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-413485,25 Galbally Road,Shanmullagh Glebe,Dromore,Tyrone,Dromore Ps Meals Kitchen,School/college/university,7845,0,,723025,5,,54.51078400000000,300547,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45449600000000,BT78 3EE,2013-11-27,fhrs_5_en-GB,5,,FHRS,0
-413486,37 Omagh Road,Gardrum,Dromore,Tyrone,Dromore Sports Complex,Other catering premises,7841,0,,723457,5,,54.51476700000000,306032,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45333100000000,BT78 3AL,2014-10-07,fhrs_5_en-GB,5,,FHRS,0
-413487,10a Omagh Road,Gardrum,Dromore,Tyrone,Dromore Vivo,Retailers - other,4613,10,,723037,10,,54.51637400000000,300579,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45110200000000,BT78 3AJ,2014-02-19,fhrs_3_en-GB,3,,FHRS,5
-413488,47 Bracky Road,Drumduff,Sixmilecross,Tyrone,Drumduff Ps Dining Centre,School/college/university,7845,0,,722936,0,,54.58267500000000,300029,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.14648500000000,BT79 9PH,2012-12-18,fhrs_5_en-GB,5,,FHRS,5
-413489,109 Camderry Road,Drumlish,Dromore,Tyrone,Drumlish Ps Dining Centre,School/college/university,7845,5,,722964,0,,54.54381500000000,300151,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45424000000000,BT78 3BJ,2014-04-14,fhrs_4_en-GB,4,,FHRS,10
-413490,Mcgirr Park,Omagh Road,Drumquin,,Drumquin Wolfe Tones,Pub/bar/nightclub,7843,10,,723286,10,,54.61439400000000,305019,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48877100000000,BT78 4QY,2009-07-29,fhrs_4_en-GB,4,,FHRS,0
-413491,90 Dublin Road,Dergmoney Lower,Omagh,Tyrone,Drumragh Care Home,Hospitals/Childcare/Caring Premises,5,5,,722993,5,,54.58950500000000,300264,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29170300000000,BT78 1TT,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-413492,70 Crevenagh Road,Galbally,Omagh,Tyrone,Drumragh Integrated College Meal Kitchen,School/college/university,7845,5,,723368,0,,54.58060200000000,305650,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26739100000000,BT79 0EX,2012-11-28,fhrs_5_en-GB,5,,FHRS,5
-413493,86 Racolpa Road,Drumnakilly,Omagh,Tyrone,Dsg2010,Other catering premises,7841,5,,723483,0,,54.60785100000000,306161,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17704900000000,BT79 0JZ,2013-11-19,fhrs_5_en-GB,5,,FHRS,0
-413494,Drumnakilly Road,Omagh,,Co Tyrone,Dun Uladh Heritage Centre,Restaurant/Cafe/Canteen,1,0,,722947,5,,,300077,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,BT78 0GZ,2014-07-22,fhrs_5_en-GB,5,,FHRS,0
-413495,142 Galbally Road,Ballyard,Trillick,Tyrone,Duncan Agri Supplies,Retailers - other,4613,10,,723026,5,,54.46805700000000,300548,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.46826700000000,BT78 3PD,2013-09-23,fhrs_3_en-GB,3,,FHRS,10
-413496,42 Dunmullan Road,Dunmullan,Omagh,Tyrone,Dunmullan Ps Dining Centre,School/college/university,7845,0,,723096,0,,54.67769200000000,300786,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30673900000000,BT79 7TE,2013-04-18,fhrs_5_en-GB,5,,FHRS,0
-413497,Riverside Shopping Centre,2 Irishtown Road,Omagh,,Dunnes Stores,Retailers - other,4613,5,,723007,0,,54.52497500000000,300365,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28630400000000,BT78 1EY,2013-08-05,fhrs_5_en-GB,5,,FHRS,5
-413498,Riverside Shopping Centre,2 Irishtown Road,Omagh,,Dunnes Stores Cafe Reflect,Restaurant/Cafe/Canteen,1,0,,723008,5,,54.52497500000000,300366,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28630400000000,BT78 1EY,2014-04-10,fhrs_5_en-GB,5,,FHRS,5
-413499,21a Knockshee Park,Mullaghmore,Omagh,Tyrone,Early Birds,School/college/university,7845,5,,723312,5,,54.60908100000000,305144,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28113300000000,BT79 7PH,2014-10-15,fhrs_4_en-GB,4,,FHRS,10
-413500,140 Greencastle Road,Sheskinshule,Mountfield,Tyrone,Eddies,Pub/bar/nightclub,7843,5,,723160,5,,54.68654000000000,301054,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.08732100000000,BT79 7QN,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-413501,27 Willowmount Avenue,Mullaghmore,Omagh,Tyrone,Edward John Devaney,Retailers - other,4613,5,,723398,0,,54.61280100000000,305791,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29358900000000,BT79 7EJ,2013-05-22,fhrs_5_en-GB,5,,FHRS,0
-413502,6-8 Bridge Street,Omagh,Omagh,Tyrone,Ernesto,Restaurant/Cafe/Canteen,1,5,,723517,5,,54.60044500000000,306395,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30223500000000,BT78 1BX,2014-11-04,fhrs_5_en-GB,5,,FHRS,5
-413503,167 Newtownsaville Road,Dunbiggan,Omagh,Tyrone,Eskra Childcare Ltd Playtime Day Nursery,School/college/university,7845,0,,723225,5,,54.48359200000000,303501,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.20259900000000,BT78 2RJ,2014-01-10,fhrs_5_en-GB,5,,FHRS,5
-413504,24 Main Street,Drumnaforbe,Drumquin,Tyrone,Fairgreen Bar,Pub/bar/nightclub,7843,5,,723049,5,,54.61568200000000,300631,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48951300000000,BT78 4SB,2012-05-11,fhrs_5_en-GB,5,,FHRS,5
-413505,67 Crockanboy Road,Glenmacoffer,Gortin,Tyrone,Family Grocer Mcswiggan's,Retailers - other,4613,10,,723157,0,,54.71732400000000,301047,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.15900300000000,BT79 7RW,2012-05-25,fhrs_4_en-GB,4,,FHRS,10
-413506,65 Main Street,Beragh,Beragh,Tyrone,Farleys Bar,Pub/bar/nightclub,7843,5,,722946,10,,54.55019900000000,300060,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.15920200000000,BT79 0SZ,2014-05-20,fhrs_4_en-GB,4,,FHRS,5
-413507,6 Gillygooley Road,Mullaghmenagh Upper,Drumquin,Tyrone,Finlay Hydrascreens,Restaurant/Cafe/Canteen,1,,,723122,,,54.61123900000000,300881,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33011000000000,BT78 5PN,2013-11-29,fhrs_5_en-GB,5,,FHRS,
-413508,1 Kiln Street,Fintona,,Co. Tyrone,Fintona Golf Club - Catering,Restaurant/Cafe/Canteen,1,5,,723430,0,,54.49653600000000,305956,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31672500000000,BT78 2BJ,2013-10-11,fhrs_5_en-GB,5,,FHRS,5
-413509,1 Kiln Street,Fintona,,Co. Tyrone,Fintona Golf Club Bar,Pub/bar/nightclub,7843,5,,723431,0,,54.49653600000000,305957,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31672500000000,BT78 2BJ,2013-03-15,fhrs_5_en-GB,5,,FHRS,5
-413510,293 Loughmuck Road,Castletown,Fintona,Tyrone,Fintona Gospel Hall,Retailers - other,4613,5,,723274,0,,54.50046000000000,304974,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31470000000000,BT78 2BX,2012-02-15,fhrs_4_en-GB,4,,FHRS,10
-413511,92 Main Street,Fintona,,Co Tyrone,Fintona Medical Hall,Retailers - other,4613,,,723087,,,54.49747900000000,300750,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31817600000000,BT78 2AE,2013-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-413512,Dublin Road,Omagh,,Co. Tyrone,First Omagh Presbyterian Church Hall,Other catering premises,7841,0,,722938,5,,54.59977700000000,300036,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29856400000000,BT78 1ES,2014-12-12,fhrs_5_en-GB,5,,FHRS,0
-413513,18 Derry Road,,Omagh,Co Tyrone,First Stop Service Station,Retailers - other,4613,20,,723357,10,,54.60278600000000,305524,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30942100000000,BT78 5DR,2013-12-09,fhrs_1_en-GB,1,,FHRS,10
-413514,16 Main Street,Gortin,Gortin,Tyrone,Foothills Bar & Restaurant,Restaurant/Cafe/Canteen,1,5,,723315,5,,54.71808700000000,305160,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23477600000000,BT79 8PH,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-413515,40 Church Street,Dromore,Dromore,Tyrone,Forge Bar,Pub/bar/nightclub,7843,5,,723024,5,,54.51238300000000,300543,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.46057300000000,BT78 3DY,2012-08-03,fhrs_4_en-GB,4,,FHRS,10
-413516,175 Tummery Road,Dromore,,Co. Tyrone,Fortview Residential Care Home,Hospitals/Childcare/Caring Premises,5,5,,723266,0,,54.50002700000000,304945,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.55192500000000,BT78 3LW,2011-06-22,fhrs_5_en-GB,5,,FHRS,5
-413517,1 Drumnakilly Road,Cranny,Omagh,Tyrone,Four Oaks,Hospitals/Childcare/Caring Premises,5,0,,723372,5,,54.59562400000000,305677,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26778600000000,BT79 0JN,2014-07-04,fhrs_5_en-GB,5,,FHRS,5
-413518,,,,,"Funky Slush, Funky Chocolate",Retailers - other,4613,5,,723471,0,,,306138,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-08-23,fhrs_5_en-GB,5,,FHRS,0
-413519,28 Main Street,Drumnaforbe,Drumquin,Tyrone,G + L Gormley - Costcutter,Retailers - other,4613,5,,723050,5,,54.61568200000000,300632,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48951300000000,BT78 4SB,2014-04-07,fhrs_5_en-GB,5,,FHRS,0
-413520,34 Main Street,Beragh,Beragh,Tyrone,G F Hackett,Retailers - other,4613,,,722942,,,54.55049700000000,300051,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16083400000000,BT79 0TA,2012-02-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-413521,38 Main Street,Dromore,Dromore,Tyrone,G.G'S Pizza Parlour,Takeaway/sandwich shop,7844,5,,723510,0,,54.51337200000000,306351,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45875400000000,BT78 3AB,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-413522,Dun Uladh Heritage Centre,Ballinamullan Road,Omagh,Co Tyrone,Gaelscoil Na Gcrann Primary School,School/college/university,7845,,,723428,,,54.59721500000000,305939,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.22596900000000,BT79 0NF,2013-10-28,fhrs_5_en-GB,5,,FHRS,
-413523,2 Mountjoy Road,Lisnamallard,Omagh,Tyrone,Gallery Restaurant,School/college/university,7845,5,,723139,5,,54.60183000000000,300938,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30247500000000,BT79 7AH,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-413524,,,,,Garvaghey Centre Tyrone Gaa,Retailers - other,4613,0,,723492,0,,,306176,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-01-16,fhrs_4_en-GB,4,,FHRS,10
-413525,64 Old Mountfield Road,Lisnamallard,Omagh,Tyrone,Gibson Ps Meals Kitchen,School/college/university,7845,5,,723143,0,,54.60565200000000,300955,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29228900000000,BT79 7EG,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-413526,71 Gillygooley Road,Gillygooly,Omagh,Tyrone,Gillygooley Ps Dining Centre,School/college/university,7845,0,,723070,0,,54.61125200000000,300681,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.38678700000000,BT78 5PX,2014-05-14,fhrs_5_en-GB,5,,FHRS,5
-413527,9 John Street,Omagh,Omagh,Tyrone,Giuseppes,Takeaway/sandwich shop,7844,,,723301,,,54.59947400000000,305088,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30513000000000,BT78 1DW,2013-11-18,fhrs_5_en-GB,5,,FHRS,
-413528,55 Gortview Close,Lisanelly,Omagh,Tyrone,Gk House,Other catering premises,7841,5,,723371,5,,54.61234100000000,305673,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29793000000000,BT79 7WU,2012-03-14,fhrs_5_en-GB,5,,FHRS,0
-413529,6a Creggan Road,Carrickmore,,Co. Tyrone,Gk Traditional Family Butchers Ltd,Retailers - other,4613,5,,723343,5,,54.59820200000000,305393,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05170100000000,BT79 9BD,2010-03-08,fhrs_5_en-GB,5,,FHRS,0
-413530,78 Killyclogher Road,Ballynamullan,Omagh,Tyrone,Glendale Filling Station,Retailers - other,4613,10,,723043,10,,54.60775900000000,300602,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.24850200000000,BT79 7NZ,2013-05-10,fhrs_4_en-GB,4,,FHRS,0
-413531,9a Waterworks Road,Glencordial,Omagh,Tyrone,Glenhordial Permaculture Farm,Other catering premises,7841,5,,723382,0,,54.62427400000000,305723,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26219300000000,BT79 7JS,2013-06-18,fhrs_5_en-GB,5,,FHRS,0
-413532,56 Main Street,Gortin,Gortin,Tyrone,Glenmore Meats,Retailers - other,4613,,,723109,,,54.71727200000000,300836,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23229300000000,BT79 8NH,2014-01-15,fhrs_5_en-GB,5,,FHRS,
-413533,162 Glenpark Road,Lislap East,Gortin,Tyrone,Glens Development Group,Other catering premises,7841,,,723337,,,54.68092700000000,305371,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.25693300000000,BT79 7SU,2011-09-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-413534,54b Main Street,Gortin,,Co Tyrone,Glenview Fast Food,Takeaway/sandwich shop,7844,5,,723108,5,,54.71808700000000,300835,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23477600000000,BT79 8PH,2014-08-08,fhrs_4_en-GB,4,,FHRS,10
-413535,100-104 Main Street,Fintona,,Co Tyrone,Goalpost Bar,Pub/bar/nightclub,7843,5,,723088,5,,54.49747900000000,300753,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31817600000000,BT78 2AE,2013-09-19,fhrs_5_en-GB,5,,FHRS,5
-413536,72 Farmhill Road,Arvalee,Omagh,Tyrone,Golan View Small Residential Home,Hospitals/Childcare/Caring Premises,5,,,723042,,,54.59719700000000,300597,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.25021300000000,BT79 0JW,2010-12-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-413537,12 Main Street,Seskinore,Seskinore,Tyrone,Golden Dragon,Takeaway/sandwich shop,7844,5,,723515,5,,54.51797000000000,306378,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.25285500000000,BT78 1UG,2014-08-13,fhrs_5_en-GB,5,,FHRS,5
-413538,59 Main Street,Beragh,Beragh,Tyrone,Golden Gate Cafe & Takeaway Chinese,Takeaway/sandwich shop,7844,10,,723246,5,,54.55019900000000,304060,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.15920200000000,BT79 0SZ,2013-11-25,fhrs_3_en-GB,3,,FHRS,10
-413539,29a Main Street,Trillick,,Co. Tyrone,Golden House,Takeaway/sandwich shop,7844,10,,723302,10,,54.45186200000000,305092,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48727000000000,BT78 3SS,2013-10-08,fhrs_3_en-GB,3,,FHRS,10
-413540,32 Tattykeel Road,Tattykeel (Buchannan),Omagh,Tyrone,Goldenhill Guesthouse,Hotel/bed & breakfast/guest house,7842,0,,722977,0,,54.57055900000000,300181,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.39591800000000,BT78 5DA,2013-10-24,fhrs_5_en-GB,5,,FHRS,0
-413541,,,,,Good Mood Food,Mobile caterer,7846,5,,723378,0,,,305713,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-09-02,fhrs_5_en-GB,5,,FHRS,5
-413542,53 Drumlegagh Road South,Calkill,Omagh,Tyrone,Gordon Moore,Other catering premises,7841,5,,723254,0,,54.63621700000000,304373,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.36928300000000,BT78 5PJ,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-413543,30 Market Street,Omagh,Omagh,Tyrone,Gordons Chemists,Retailers - other,4613,,,723416,,,54.60035100000000,305892,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29985400000000,BT78 1EH,2012-08-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-413544,29 Curr Road,Gortaclare,Beragh,Tyrone,Gortaclare Stores,Retailers - other,4613,5,,722933,5,,54.52948400000000,300013,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.21274800000000,BT79 0UP,2014-05-15,fhrs_4_en-GB,4,,FHRS,10
-413545,45 Main Street,Gortin,Gortin,Tyrone,Gortin Day To Day,Retailers - other,4613,5,,723106,10,,54.71780000000000,300830,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23481300000000,BT79 8PQ,2014-01-06,fhrs_4_en-GB,4,,FHRS,5
-413546,63 Main Street,Gortin,Gortin,Tyrone,Gortin Outreach Centre,Other catering premises,7841,5,,723112,0,,54.71727200000000,300842,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23229300000000,BT79 8NH,2012-09-20,fhrs_5_en-GB,5,,FHRS,0
-413547,Plumbridge Road,Gortin,,Co Tyrone,Gortin Ps Dining Centre,School/college/university,7845,0,,723095,5,,54.72197900000000,300785,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23226600000000,BT79 8QB,2014-01-08,fhrs_5_en-GB,5,,FHRS,0
-413548,89-91 Main Street,Gortin,,Co Tyrone,Gortin Service Station,Retailers - other,4613,,,723115,,,54.71738500000000,300848,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.22890800000000,BT79 8PU,2008-12-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-413549,18 Derry Road,,Omagh,Co Tyrone,Gortmore Day Centre,Hospitals/Childcare/Caring Premises,5,5,,723173,0,,54.60278600000000,301129,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30942100000000,BT78 5DR,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-413550,5 Glenpark Road,Mountjoy Forest East Division,Gortin,Tyrone,Gortnagarn Ps Dining Centre,School/college/university,7845,0,,723097,0,,54.64197600000000,300789,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29779100000000,BT79 7SP,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-413551,109 Brookmount Road,Lammy,Omagh,Tyrone,Gortrush Childcare Centre,School/college/university,7845,5,,723455,0,,54.59842600000000,306020,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32465800000000,BT78 5JQ,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-413552,12 Hospital Road,Campsie,Omagh,Tyrone,Granard Residential Home,Hospitals/Childcare/Caring Premises,5,5,,722960,5,,54.60042000000000,300124,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28561800000000,BT79 0AN,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-413553,,,,,Granny's,Other catering premises,7841,0,,723486,0,,,306166,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-11-25,fhrs_5_en-GB,5,,FHRS,0
-413554,29 Georges Street,Omagh,Omagh,Tyrone,Grants,Restaurant/Cafe/Canteen,1,5,,722999,5,,54.60040600000000,300295,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30478900000000,BT78 1DE,2014-09-08,fhrs_5_en-GB,5,,FHRS,5
-413555,Old School House,277 Crockanboy Road,Greencastle,,Green Elves Playgroup,School/college/university,7845,0,,723215,5,,54.69185300000000,302753,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.08183600000000,BT79 7QP,2011-04-07,fhrs_5_en-GB,5,,FHRS,0
-413556,58 Greenmount Road,"Gortaclare, Omagh",,Co Tyrone,Greenmount Lodge B & B,Hotel/bed & breakfast/guest house,7842,5,,723150,0,,,301032,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,BT79 0YE,2011-11-21,fhrs_5_en-GB,5,,FHRS,5
-413557,222 Newtownsaville Road,Tamlaght,Omagh,Tyrone,Hacketts Of Newtownsaville,Retailers - other,4613,5,,723154,5,,54.48298200000000,301040,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17848000000000,BT78 2RW,2013-09-18,fhrs_5_en-GB,5,,FHRS,5
-413558,2 Great Northern Retail Park,Sperrin Drive,,Co. Tyrone,Halfords,Retailers - other,4613,0,,723278,0,,54.59889700000000,304991,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31256600000000,BT78 5GZ,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-413559,57 Tattyreagh Road,Tattyreagh Glebe,Omagh,Tyrone,Halfway House,Pub/bar/nightclub,7843,10,,722978,0,,54.54873700000000,300185,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28673800000000,BT78 1PZ,2014-07-18,fhrs_4_en-GB,4,,FHRS,10
-413560,58 Tattyreagh Road,Tattyreagh Glebe,Omagh,Tyrone,Halfway Service Station,Retailers - other,4613,10,,723469,10,,54.54873700000000,306133,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28673800000000,BT78 1PZ,2014-07-09,fhrs_3_en-GB,3,,FHRS,10
-413561,86 Tamlaght Road,Culmore,Omagh,Tyrone,Hamiltons Foodhall Ltd,Retailers - other,4613,10,,722985,10,,54.59602500000000,300212,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32260900000000,BT78 5BB,2014-03-11,fhrs_3_en-GB,3,,FHRS,10
-413562,,,,,Happy Days,Mobile caterer,7846,5,,723507,5,,,306326,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-04-03,fhrs_5_en-GB,5,,FHRS,5
-413563,7 Camowen Terrace,Campsie,Omagh,Tyrone,Harold Mccauley House,Hospitals/Childcare/Caring Premises,5,5,,722948,5,,54.60271700000000,300079,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28810000000000,BT79 0AY,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-413564,19 Main Street,Carrickmore,Carrickmore,Tyrone,Harte'S Pharmacy & Gift Centre,Retailers - other,4613,,,723187,,,54.59733200000000,301209,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05299000000000,BT79 9AY,2014-03-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-413565,16 Main Street,Carrickmore,Carrickmore,Tyrone,Haughey'S Bar,Pub/bar/nightclub,7843,5,,723313,0,,54.59733200000000,305147,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05299000000000,BT79 9AY,2012-08-14,fhrs_5_en-GB,5,,FHRS,0
-413566,Omagh County Hall,Drumragh Avenue,Omagh,Co Tyrone,Hazel'S Catering,Restaurant/Cafe/Canteen,1,5,,723473,5,,54.60240600000000,306140,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30108800000000,BT79 7AF,2013-09-03,fhrs_5_en-GB,5,,FHRS,5
-413567,Unit 7 Showgrounds Retail Park,Sedan Avenue,Omagh,Co Tyrone,Heatons & Sportsworld,Retailers - other,4613,,,723280,,,54.65696200000000,304998,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.12099000000000,BT79 6BL,2012-06-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-413568,51 Gortnagarn Road,Mountjoy Forest East Division,Omagh,Tyrone,Heron'S Burn,Hotel/bed & breakfast/guest house,7842,5,,723272,5,,54.64297200000000,304961,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30838400000000,BT79 7SW,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-413569,23a Old Mountfield Road,Mullaghmore,Omagh,Tyrone,Hillcrest Care Facility,Hospitals/Childcare/Caring Premises,5,5,,723364,0,,54.60524200000000,305586,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28822600000000,BT79 7EL,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-413570,23 Old Mountfield Road,Mullaghmore,Omagh,Tyrone,Hillview Lodge Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,723128,5,,54.60524200000000,300905,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28822600000000,BT79 7EL,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-413571,1 Mcconnell Place,Gortmore,Omagh,Tyrone,Hogshead,Pub/bar/nightclub,7843,0,,723408,0,,54.60211300000000,305838,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30626100000000,BT78 1BY,2013-04-25,fhrs_5_en-GB,5,,FHRS,5
-413572,Unit 3 Royal Arms Mews,Omagh,,Co. Tyrone,Holland & Barrett,Retailers - other,4613,5,,723255,0,,,304391,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,BT78 7DZ,2012-03-26,fhrs_5_en-GB,5,,FHRS,0
-413573,61 Main Street,Fintona,Fintona,Tyrone,Hollywood,Takeaway/sandwich shop,7844,10,,723083,10,,54.49809300000000,300737,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31722400000000,BT78 2AG,2014-05-07,fhrs_3_en-GB,3,,FHRS,10
-413574,24 Dromore Road,Coolnagard Upper,Omagh,Tyrone,Home Bargains,Retailers - other,4613,5,,723393,5,,54.59394500000000,305778,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29965500000000,BT78 1QZ,2014-02-11,fhrs_4_en-GB,4,,FHRS,10
-413575,Unit 5 Great Northern Retail,"Tamlaght Road, Omagh",,Co Tyrone,Homebase Ltd,Retailers - other,4613,,,723241,,,54.59749200000000,303993,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31194000000000,BT78 5AW,2011-09-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-413576,,,,,Huggy Bear - Registration No. Tui 2719,Retailers - other,4613,5,,723498,5,,,306299,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-02-14,fhrs_5_en-GB,5,,FHRS,0
-413577,15 Main Street,Aghalane,Mountfield,Tyrone,Hughie Ruadh'S Bar & Restaurant,Pub/bar/nightclub,7843,5,,723162,5,,54.64672500000000,301061,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16957100000000,BT79 7PX,2014-04-03,fhrs_5_en-GB,5,,FHRS,5
-413578,6 Main Street,Drumnaforbe,Drumquin,Tyrone,Hung'S Kitchen,Takeaway/sandwich shop,7844,10,,723316,10,,54.61568200000000,305168,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48951300000000,BT78 4SB,2014-07-30,fhrs_3_en-GB,3,,FHRS,10
-413579,3 Gortin Road,Lisanelly,Omagh,Tyrone,Ice Off-Licence,Retailers - other,4613,,,723285,,,54.60938300000000,305016,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29901800000000,BT79 7DH,2010-12-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-413580,2 Kevlin Avenue,Omagh,,Co Tyrone,Iceland Frozen Foods,Retailers - other,4613,0,,723013,5,,54.59931600000000,300408,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30268800000000,BT78 1ER,2012-05-02,fhrs_5_en-GB,5,,FHRS,5
-413581,37-39 John Street,Omagh,,Co. Tyrone,Indian Village,Takeaway/sandwich shop,7844,10,,723355,10,,54.59931000000000,305510,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30626200000000,BT78 1DN,2013-03-25,fhrs_3_en-GB,3,,FHRS,10
-413582,7 Royal Arms Mews,Omagh,Omagh,Tyrone,Inn House T/A Una Vita,Restaurant/Cafe/Canteen,1,5,,723389,5,,54.59959700000000,305767,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30161500000000,BT78 1BF,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-413583,17 Georges Street,Omagh,Omagh,Tyrone,Irish National Foresters,Pub/bar/nightclub,7843,5,,722997,0,,54.60040600000000,300292,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30478900000000,BT78 1DE,2014-02-14,fhrs_4_en-GB,4,,FHRS,10
-413584,41 Gortin Road,Mountjoy Forest East Division,Omagh,Tyrone,Irwins Bakery,Distributors/Transporters,7,0,,723513,0,,54.61330200000000,306366,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30097800000000,BT79 7HX,2014-10-15,fhrs_5_en-GB,5,,FHRS,5
-413585,43 Derry Road,Gortmore,Omagh,Tyrone,J Ferris,Retailers - other,4613,5,,723174,0,,54.60881800000000,301131,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32289200000000,BT78 5ED,2012-03-27,fhrs_5_en-GB,5,,FHRS,0
-413586,60 Main Street,Beragh,Beragh,Tyrone,J H Anderson & Sons,Retailers - other,4613,10,,722945,5,,54.55049700000000,300059,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16083400000000,BT79 0TA,2014-05-08,fhrs_4_en-GB,4,,FHRS,5
-413587,164 Ecclesville Road,Lisnagardy,Fintona,Tyrone,J J Donnelly & Sons,Retailers - other,4613,10,,723080,5,,54.48567000000000,300712,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31099700000000,BT78 2EQ,2014-06-25,fhrs_3_en-GB,3,,FHRS,10
-413588,11 Scarffe'S Entry,Omagh,Omagh,Tyrone,Jamm Home Bakery And Coffee Shop,Restaurant/Cafe/Canteen,1,10,,723380,5,,54.59952900000000,305715,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30068800000000,BT78 1JH,2014-10-28,fhrs_4_en-GB,4,,FHRS,5
-413589,17 Main Street,Gortin,Gortin,Tyrone,John P O'Neill,Retailers - other,4613,,,723104,,,54.71780000000000,300824,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23481300000000,BT79 8PQ,2012-02-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-413590,68 Derry Road,Gortmore,Omagh,Tyrone,Juniors Day Care Ltd,School/college/university,7845,5,,723344,5,,54.60881800000000,305395,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32289200000000,BT78 5ED,2014-10-14,fhrs_5_en-GB,5,,FHRS,5
-413591,8-10 Campsie Road,Omagh,,Co. Tyrone,Kamal Mahal,Restaurant/Cafe/Canteen,1,5,,723289,10,,54.60406000000000,305025,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27083800000000,BT79 0HH,2014-10-02,fhrs_3_en-GB,3,,FHRS,10
-413592,7 Castle Street,Omagh,Omagh,Tyrone,Kampar,Restaurant/Cafe/Canteen,1,5,,723269,5,,54.60111100000000,304953,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30552000000000,BT78 1DD,2013-08-01,fhrs_4_en-GB,4,,FHRS,10
-413593,27/29 Market Street,Omagh,,Co. Tyrone,Karolina Shop,Retailers - other,4613,5,,723386,10,,54.60014200000000,305748,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29948600000000,BT78 1EE,2013-07-11,fhrs_4_en-GB,4,,FHRS,5
-413594,14 Church Street,Dromore,Dromore,Tyrone,Kebab House,Takeaway/sandwich shop,7844,10,,723479,10,,54.51272900000000,306149,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45953400000000,BT78 3DX,2013-09-25,fhrs_3_en-GB,3,,FHRS,10
-413595,24 Campsie Road,Campsie,Omagh,Tyrone,Kebab House,Takeaway/sandwich shop,7844,10,,723243,10,,54.60100700000000,304012,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2014-01-09,fhrs_3_en-GB,3,,FHRS,10
-413596,41 High Street,Omagh,Omagh,Tyrone,Kellys Chemist,Retailers - other,4613,,,723004,,,54.59991500000000,300337,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30212100000000,BT78 1BA,2014-03-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-413597,232 Omagh Road,Garvaghy,,Tyrone,Kelly'S Inn,Restaurant/Cafe/Canteen,1,5,,723148,5,,54.48751500000000,301029,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.13302400000000,BT70 2DX,2012-05-28,fhrs_5_en-GB,5,,FHRS,5
-413598,30 Glenhordial Road,Glenhordial,Omagh,Tyrone,Kennedy Bacon,Manufacturers/packers,7839,10,,723508,0,,54.62148300000000,306347,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27295700000000,BT79 7JT,2014-08-01,fhrs_4_en-GB,4,,FHRS,5
-413599,21 Dromore Road,Omagh,,Co Tyrone,Kfc,Restaurant/Cafe/Canteen,1,0,,722968,5,,54.59394500000000,300159,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29965500000000,BT78 1QZ,2013-09-30,fhrs_5_en-GB,5,,FHRS,5
-413600,Old Junction Road,Kilskeery,,Co. Tyrone,Kilskeery Independent Christian School,School/college/university,7845,5,,723267,0,,54.44436100000000,304948,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.55301100000000,BT78 3RN,2013-02-26,fhrs_5_en-GB,5,,FHRS,0
-413601,3 Old Junction Road,Kilskeery Glebe,Trillick,Tyrone,Kilskeery Post Office,Retailers - other,4613,10,,723203,10,,54.44436100000000,301268,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.55301100000000,BT78 3RN,2013-02-07,fhrs_4_en-GB,4,,FHRS,0
-413602,51 Knockmoyle Road,Omagh,,,Knockmoyle Hall,Other catering premises,7841,5,,723305,0,,54.65149800000000,305096,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31339800000000,BT79 7TB,2014-01-23,fhrs_4_en-GB,4,,FHRS,10
-413603,23 Knockmoyle Road,Farrest,Omagh,Tyrone,Knockmoyle Lodge Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,723101,5,,54.65351300000000,300818,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30121700000000,BT79 7TA,2014-10-15,fhrs_5_en-GB,5,,FHRS,5
-413604,78 Moorfield Road,Meeltogues,Trillick,Tyrone,Knocknagor P.S. Dining Centre,School/college/university,7845,10,,723035,5,,54.49192400000000,300573,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.55440500000000,BT78 3TX,2013-09-17,fhrs_4_en-GB,4,,FHRS,5
-413605,,,,,Kool Kandy,Mobile caterer,7846,5,,723514,0,,,306367,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-07-24,fhrs_5_en-GB,5,,FHRS,5
-413606,Omagh Golf Club,83a Dublin Road,Omagh,,L. Duffy Catering,Restaurant/Cafe/Canteen,1,5,,723499,5,,,306301,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,BT79 1HQ,2014-03-19,fhrs_5_en-GB,5,,FHRS,5
-413607,80 Market Street,Campsie,Omagh,Tyrone,La Gondola,Restaurant/Cafe/Canteen,1,5,,723392,10,,54.60039600000000,305777,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29683600000000,BT79 0AA,2013-08-14,fhrs_4_en-GB,4,,FHRS,5
-413608,C.K.S Community Centre,O'Kane Park,Dromore Road,,Ladybird Playgroup,School/college/university,7845,5,,723423,5,,54.59432000000000,305917,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31338600000000,BT78 5AB,2012-04-17,fhrs_5_en-GB,5,,FHRS,0
-413609,2 Willmount Road,,Drumquin,Tyrone,Langfield Ps Dining Centre,School/college/university,7845,5,,723056,0,,54.61697600000000,300645,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49392300000000,BT78 4PG,2014-06-18,fhrs_5_en-GB,5,,FHRS,5
-413610,25 Gortin Road,Mountjoy Forest East Division,Omagh,Tyrone,Last Sure Start,School/college/university,7845,5,,723281,0,,54.61330200000000,304999,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30097800000000,BT79 7HX,2013-11-21,fhrs_5_en-GB,5,,FHRS,0
-413611,21 Main Street,Carrickmore,Carrickmore,Tyrone,Last Sure Start Creche Carrickmore,School/college/university,7845,0,,723325,0,,54.59733200000000,305286,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05299000000000,BT79 9AY,2013-10-16,fhrs_5_en-GB,5,,FHRS,0
-413612,Glendale Filling Station,78 Killyclogher Road,Omagh,Co Tyrone,Liams Mobile Trailer,Mobile caterer,7846,5,,723125,5,,54.60624900000000,300887,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26733200000000,BT79 7LP,2013-11-20,fhrs_5_en-GB,5,,FHRS,5
-413613,19 James Street,Meetinghousehill,Omagh,Tyrone,Lidl (Ni) Gmbh,Retailers - other,4613,5,,723242,5,,54.59897100000000,303996,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30993500000000,BT78 1AP,2014-03-05,fhrs_4_en-GB,4,,FHRS,10
-413614,10 Lisdergan Road,Lisky,Fintona,Tyrone,Lisdergan Meats,Manufacturers/packers,7839,5,,723487,0,,54.48992700000000,306167,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32359500000000,BT78 2NS,2014-04-03,fhrs_5_en-GB,5,,FHRS,0
-413615,Rash Road,Omagh,,Co Tyrone,Lislimnaghan Church Hall,Other catering premises,7841,0,,723068,5,,54.63323100000000,300671,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33512200000000,BT78 5NH,2013-05-22,fhrs_5_en-GB,5,,FHRS,0
-413616,5b Woodside Avenue,Omagh,,Co Tyrone,Lisnamallard Industries Day Centre,Hospitals/Childcare/Caring Premises,5,5,,723147,0,,54.60616100000000,301019,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29788200000000,BT79 7BP,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-413617,128 Loughmacrory Road,Altdrumman,Loughmacrory,Tyrone,Little Angels Day Care,School/college/university,7845,0,,723348,5,,54.62461000000000,305471,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11290800000000,BT79 9LF,2014-04-18,fhrs_5_en-GB,5,,FHRS,5
-413618,Strathroy Community Centre,1c Meelmore Drive,Omagh,,Little Friends Playgroup,School/college/university,7845,5,,723213,0,,54.60853100000000,302574,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27931600000000,BT79 7EX,2014-09-26,fhrs_4_en-GB,4,,FHRS,10
-413619,C/O St Patricks Gac,Chapel Lane,Gortin,Co Tyrone,Little Stars Daycare,School/college/university,7845,0,,723419,5,,54.71923800000000,305906,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.22646800000000,BT79 8ND,2014-08-01,fhrs_4_en-GB,4,,FHRS,10
-413620,11 James Street,Meetinghousehill,Omagh,Tyrone,Loreto Grammar School,School/college/university,7845,5,,723124,5,,54.59916500000000,300885,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30761100000000,BT78 1DH,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-413621,2 Derry Road,Gortmore,Omagh,Tyrone,Lucky Inn Chinese Restaurant,Restaurant/Cafe/Canteen,1,5,,723336,5,,54.60278600000000,305364,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30942200000000,BT78 5DR,2014-10-21,fhrs_4_en-GB,4,,FHRS,10
-413622,94 Old Mountfield Road,Mullaghmore,Omagh,Tyrone,M.H.E. Mullaghmore House Enterprises,Hotel/bed & breakfast/guest house,7842,10,,723284,10,,54.60853100000000,305012,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27931600000000,BT79 7EX,2013-11-29,fhrs_4_en-GB,4,,FHRS,0
-413623,1a - 3a Meelmore Drive,Strathroy,Omagh,,Mace - Dolans,Retailers - other,4613,5,,723450,10,,54.61182100000000,306002,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30895900000000,BT79 7XJ,2014-04-24,fhrs_4_en-GB,4,,FHRS,5
-413624,48 Magheralough Road,Stranagummer,Trillick,Tyrone,Magheralough Ps Dining Centre,School/college/university,7845,0,,723195,0,,54.45371900000000,301244,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.51954600000000,BT78 3SZ,2014-06-16,fhrs_5_en-GB,5,,FHRS,5
-413625,36 Main Street,Carrickmore,Carrickmore,Tyrone,Main Street Takeaway,Takeaway/sandwich shop,7844,10,,723482,5,,54.59733200000000,306159,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05299000000000,BT79 9AY,2013-11-14,fhrs_3_en-GB,3,,FHRS,10
-413626,,,,,Mairead Mcbride Home Catering,Other catering premises,7841,5,,723303,5,,,305094,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-02-23,fhrs_5_en-GB,5,,FHRS,0
-413627,6 Campsie Road,Campsie,Omagh,Tyrone,Mandarin Kitchen,Takeaway/sandwich shop,7844,5,,722951,10,,54.60100800000000,300091,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2014-03-04,fhrs_3_en-GB,3,,FHRS,10
-413628,9a Royal Arms Mews,Omagh,Omagh,Tyrone,Mantis On Main Street,Pub/bar/nightclub,7843,5,,723417,0,,54.59959700000000,305899,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30161500000000,BT78 1BF,2012-05-16,fhrs_5_en-GB,5,,FHRS,5
-413629,Unit 2/3 Showgrounds Retail P,Sedan Avenue,Omagh,,Marks & Spencer ( M+S Cafe),Restaurant/Cafe/Canteen,1,0,,723324,0,,54.60240400000000,305267,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30385800000000,BT79 7AQ,2013-08-06,fhrs_5_en-GB,5,,FHRS,5
-413630,Unit 2/3 Showgrounds Retail Pk,Sedan Avenue,Omagh,,Marks & Spencer Plc,Retailers - other,4613,0,,723259,0,,,304595,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,BT76 7AQ,2013-06-17,fhrs_5_en-GB,5,,FHRS,5
-413631,18 Main Street,Six Mile Cross,Sixmilecross,Tyrone,Mcaleer'S Bar,Pub/bar/nightclub,7843,5,,723397,0,,54.55688500000000,305788,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11801200000000,BT79 9NF,2013-11-07,fhrs_5_en-GB,5,,FHRS,5
-413632,21 Main Street,Fintona,,Co Tyrone,Mcatee'S Bar,Pub/bar/nightclub,7843,5,,723082,10,,54.49837300000000,300725,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31593800000000,BT78 2AA,2013-08-13,fhrs_4_en-GB,4,,FHRS,5
-413633,3 Gortin Road,Lisanelly,Omagh,Tyrone,Mcbride'S Spar,Retailers - other,4613,5,,723135,5,,54.60938300000000,300930,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29901800000000,BT79 7DH,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-413634,86 Old Mountfield Road,Mullaghmore,Omagh,Tyrone,Mcbride'S Spar,Retailers - other,4613,0,,723129,5,,54.60782500000000,300912,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28291900000000,BT79 7ET,2014-06-02,fhrs_5_en-GB,5,,FHRS,5
-413635,39 Main Street,Cavanamara,Trillick,Tyrone,Mccarney Costcutters,Retailers - other,4613,5,,723198,10,,54.45090800000000,301252,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48913200000000,BT78 3ST,2014-02-20,fhrs_4_en-GB,4,,FHRS,5
-413636,40 Main Street,Cavanamara,Trillick,Tyrone,Mccarney Meats,Retailers - other,4613,5,,723197,5,,54.45149400000000,301251,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48741300000000,BT78 3SU,2013-06-19,fhrs_5_en-GB,5,,FHRS,5
-413637,77 Letfern Road,Seskinore,Omagh,Tyrone,McClintock Children's Centre,School/college/university,7845,5,,723250,0,,54.51692400000000,304085,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.25227200000000,BT78 1UQ,2014-10-28,fhrs_5_en-GB,5,,FHRS,0
-413638,77 Letfern Road,Seskinore,Omagh,Tyrone,Mcclintock Ps Dining Centre,School/college/university,7845,0,,723151,0,,54.51692400000000,301034,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.25227200000000,BT78 1UQ,2014-10-28,fhrs_5_en-GB,5,,FHRS,5
-413639,18 Church Street,Dromore,Dromore,Tyrone,Mcdermott'S Pharmacy,Retailers - other,4613,,,723323,,,54.51272900000000,305252,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45953400000000,BT78 3DX,2014-04-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-413640,27 Dromore Road,Coolnagard Lower,Omagh,Tyrone,Mcdonalds,Restaurant/Cafe/Canteen,1,0,,722969,0,,54.59394500000000,300162,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29965500000000,BT78 1QZ,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-413641,Asda Store Ltd,31 Dromore Road,Omagh,Co. Tyrone,Mcgees Butchers (Concession In Asda),Retailers - other,4613,5,,723409,0,,54.59394500000000,305847,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29965500000000,BT78 1QZ,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-413642,54 Main Street,Beragh,Beragh,Tyrone,Mcginn Butchers,Retailers - other,4613,5,,722944,5,,54.55049700000000,300057,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.16083400000000,BT79 0TA,2014-09-24,fhrs_4_en-GB,4,,FHRS,10
-413643,1b Glenpark Road,Mountjoy Forest East,Omagh,Tyrone,Mcgirr'S Day Today,Retailers - other,4613,5,,723459,5,,54.64197600000000,306043,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29779100000000,BT79 7SP,2013-05-23,fhrs_5_en-GB,5,,FHRS,0
-413644,26 Anderson Gardens,Dergmoney Lower,Omagh,Tyrone,Mcgirr'S Spar,Retailers - other,4613,5,,723429,5,,54.59486500000000,305945,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29883400000000,BT78 1HY,2013-09-09,fhrs_5_en-GB,5,,FHRS,5
-413645,63 Main Street,Fintona,Fintona,Tyrone,Mcglinn'S Bar,Pub/bar/nightclub,7843,5,,723084,5,,54.49809300000000,300738,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31722400000000,BT78 2AG,2013-05-14,fhrs_5_en-GB,5,,FHRS,5
-413646,53 Knockmoyle Road,Knockmoyle,Omagh,Tyrone,Mcgrath'S Bar,Pub/bar/nightclub,7843,5,,723102,0,,54.65149800000000,300819,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31339800000000,BT79 7TB,2010-01-19,fhrs_5_en-GB,5,,FHRS,5
-413647,21-23 John Street,Omagh,Omagh,Tyrone,Mcgreads (Medicare) Pharmacy,Retailers - other,4613,,,723011,,,54.59947400000000,300393,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30513000000000,BT78 1DW,2014-03-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-413648,129 Main Street,Lisky,Fintona,Tyrone,Mcguigans Butchers,Retailers - other,4613,,,723090,,,54.49671600000000,300762,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31999400000000,BT78 2AH,2012-02-16,fhrs_5_en-GB,5,,FHRS,
-413649,35 Hospital Road,Campsie,Omagh,Tyrone,Mcleans Foodstore & Hot Food Carryout,Retailers - other,4613,5,,723063,0,,54.59810800000000,300658,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28049100000000,BT79 0DX,2014-03-05,fhrs_5_en-GB,5,,FHRS,5
-413650,25-27 Church Street,,Dromore,Co Tyrone,McNaboes Bar,Pub/bar/nightclub,7843,5,,723388,0,,54.51272800000000,305761,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45953400000000,BT78 3DX,2012-08-17,fhrs_4_en-GB,4,,FHRS,10
-413651,110 Main Street,Fintona,,Co Tyrone,Mcquaid,Retailers - other,4613,,,723089,,,54.49747900000000,300756,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31817600000000,BT78 2AE,2014-03-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-413652,2 Donaghanie Road,Garvaghy,Omagh,Tyrone,Meadowbank Residential Home,Hospitals/Childcare/Caring Premises,5,5,,723061,5,,54.58475000000000,300653,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.25239100000000,BT79 0NR,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-413653,17 Main Street,Six Mile Cross,Sixmilecross,Tyrone,Medical Hall Hacketts,Retailers - other,4613,,,723168,,,54.55692800000000,301088,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11898500000000,BT79 9NH,2011-03-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-413654,16a Main Street,Aghalane,Mountfield,Tyrone,Meenagh'S Vivo,Retailers - other,4613,10,,723163,15,,54.64641200000000,301062,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17108000000000,BT79 7PP,2014-09-26,fhrs_2_en-GB,2,,FHRS,10
-413655,,,,,Melanie Quick,Other catering premises,7841,5,,723481,0,,,306152,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-09-30,fhrs_5_en-GB,5,,FHRS,0
-413656,25 Mellon Road,Omagh,,Co. Tyrone,Mellon Fun Farm,Restaurant/Cafe/Canteen,1,5,,723460,5,,54.66034300000000,306044,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33198300000000,BT78 5QU,2014-07-09,fhrs_5_en-GB,5,,FHRS,5
-413657,88 Main Street,Fintona,Fintona,Tyrone,Mellons Bar,Pub/bar/nightclub,7843,5,,723086,0,,54.49747900000000,300748,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31817600000000,BT78 2AE,2014-01-07,fhrs_5_en-GB,5,,FHRS,0
-413658,33 Church Street,Omagh,Omagh,Tyrone,Methodist Church Hall,Other catering premises,7841,,,722990,,,54.60018900000000,300251,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30603100000000,BT78 1DG,2013-02-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-413659,,,,,Michelles Cakes And Bakes,Other catering premises,7841,10,,723470,0,,,306134,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-08-29,fhrs_4_en-GB,4,,FHRS,0
-413660,42 Main Street,Dromore,Dromore,Tyrone,Molloy Meats,Retailers - other,4613,0,,723328,5,,54.51337200000000,305296,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45875400000000,BT78 3AB,2014-03-24,fhrs_5_en-GB,5,,FHRS,5
-413661,146 Main Street,Lisky,Fintona,Tyrone,Mo'S Newsagents,Retailers - other,4613,5,,723091,5,,54.49666100000000,300765,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31967100000000,BT78 2AF,2014-04-24,fhrs_5_en-GB,5,,FHRS,0
-413662,53 Main Street,Gortin,Gortin,Tyrone,Mossey'S Bar,Pub/bar/nightclub,7843,,,723107,,,54.71727200000000,300833,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23229300000000,BT79 8NH,2013-09-18,fhrs_5_en-GB,5,,FHRS,
-413663,137 Castletown Road,Killinure,Mountjoy,Tyrone,Mountjoy B & B,Hotel/bed & breakfast/guest house,7842,0,,723335,5,,54.64770700000000,305361,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.34738700000000,BT78 5NY,2014-10-23,fhrs_5_en-GB,5,,FHRS,0
-413664,86-88 Beltany Road,Omagh,,Co. Tyrone,Mountjoy Filling Station,Retailers - other,4613,10,,723064,5,,54.64206100000000,300660,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.34492100000000,BT78 5NL,2014-06-19,fhrs_3_en-GB,3,,FHRS,10
-413665,48a Brookmount Road,Gortrush,Omagh,Tyrone,Mr Chippy,Takeaway/sandwich shop,7844,0,,723464,5,,54.60027100000000,306110,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31738600000000,BT78 5HY,2015-01-08,fhrs_5_en-GB,5,,FHRS,5
-413666,,,,,Mr C'S Event Catering - Reg No Hhz 8651,Mobile caterer,7846,5,,723441,0,,,305983,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-09-06,fhrs_5_en-GB,5,,FHRS,5
-413667,,,,,Mr C'S Event Catering - Vji 3061,Mobile caterer,7846,5,,723311,5,,,305122,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-10-29,fhrs_5_en-GB,5,,FHRS,0
-413668,16 Campsie Road,Campsie,Omagh,Tyrone,Mr Eatwells,Retailers - other,4613,5,,722953,5,,54.60100800000000,300099,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2012-12-04,fhrs_5_en-GB,5,,FHRS,5
-413669,20 Campsie Road,Campsie,Omagh,Tyrone,Mr Eatwells Hot Food Bar {New},Restaurant/Cafe/Canteen,1,,,727993,,,54.60100800000000,306394,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2015-01-20,fhrs_5_en-GB,5,,FHRS,
-413670,30a Gortin Road,Mountjoy Forest East,Omagh,Tyrone,Mr Tumbles House Of Fun Ltd,Restaurant/Cafe/Canteen,1,5,,723279,5,,54.61330200000000,304997,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30097800000000,BT79 7HX,2015-01-12,fhrs_4_en-GB,4,,FHRS,10
-413671,,,,,Mr Whirly (Reg No: DA06 0JU,Mobile caterer,7846,10,,723329,5,,,305301,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-04-22,fhrs_3_en-GB,3,,FHRS,10
-413672,,,,,Ms Frances Matthews,Other catering premises,7841,5,,723451,0,,,306003,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-02-15,fhrs_5_en-GB,5,,FHRS,0
-413673,,,,,Ms Kay Mccauley,Other catering premises,7841,5,,723297,5,,,305063,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-413674,,,,,Ms Mairead Mccrory,Other catering premises,7841,10,,723452,0,,,306010,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-11-27,fhrs_4_en-GB,4,,FHRS,0
-413675,58 Coolnagard Avenue,Sedennan,Omagh,Tyrone,Mulhern Close Residential Home,Hospitals/Childcare/Caring Premises,5,,,723385,,,54.58771000000000,305739,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30593400000000,BT78 1GA,2013-10-04,fhrs_5_en-GB,5,,FHRS,
-413676,218 Drumnakilly Road,Mullaghslin Glebe,Sixmilecross,Tyrone,Mullaslin House,Hotel/bed & breakfast/guest house,7842,5,,722937,0,,54.60518600000000,300032,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.12990400000000,BT79 9PG,2013-10-31,fhrs_5_en-GB,5,,FHRS,0
-413677,7 John Street,Omagh,Omagh,Tyrone,Myles Mccann'S Pub,Pub/bar/nightclub,7843,0,,723010,10,,54.59947400000000,300378,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30513000000000,BT78 1DW,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-413678,23-25 King Street,Fintona,,Co. Tyrone,Nags Inn,Pub/bar/nightclub,7843,5,,723346,5,,54.49656500000000,305417,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31859200000000,BT78 2BG,2013-05-14,fhrs_4_en-GB,4,,FHRS,10
-413679,1 Creggan Road,Carrickmore,Carrickmore,Tyrone,Naiscoil Colmcille,School/college/university,7845,5,,723247,5,,54.59820200000000,304061,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05170100000000,BT79 9BD,2012-02-07,fhrs_5_en-GB,5,,FHRS,0
-413680,Ballinamullan,Omagh,,Co Tyrone,Naiscoil Na Gcrann (Nursery) Dun Uladh,School/college/university,7845,5,,723275,0,,54.60315900000000,304975,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26443200000000,BT79 0GZ,2014-09-29,fhrs_4_en-GB,4,,FHRS,10
-413681,Units 2 &3 Showgrounds Retail,Sedan Avenue,Omagh,,New Look Retailers Ltd,Retailers - other,4613,,,723282,,,54.60240400000000,305008,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30385800000000,BT79 7AQ,2014-11-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-413682,6 John Street,Omagh,Omagh,Tyrone,News At 6,Retailers - other,4613,10,,723009,5,,54.59947400000000,300377,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30513000000000,BT78 1DW,2012-12-18,fhrs_4_en-GB,4,,FHRS,5
-413683,33 Main Street,Dromore,Dromore,Tyrone,Newscast,Retailers - other,4613,,,723032,,,54.51362600000000,300564,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45918300000000,BT78 3AE,2012-08-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-413684,166 Loughmacrory Road,Loughmacrory,Loughmacrory,Tyrone,Nippers Alley Playgroup,School/college/university,7845,5,,723310,0,,54.62770600000000,305119,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.10259000000000,BT79 9LG,2014-06-26,fhrs_5_en-GB,5,,FHRS,0
-413685,12 Main Street,Sixmilecross,Sixmilecross,Tyrone,Nisa,Retailers - other,4613,,,723496,,,54.55688500000000,306185,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11801200000000,BT79 9NF,2014-05-14,fhrs_4_en-GB,4,,FHRS,
-413686,55a Derry Road,Gortmore,Omagh,Tyrone,Nite Bite,Restaurant/Cafe/Canteen,1,5,,723175,10,,54.60948000000000,301133,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32227700000000,BT78 5EG,2014-10-06,fhrs_4_en-GB,4,,FHRS,5
-413687,19 High Street,Omagh,Omagh,Tyrone,Number 19,Restaurant/Cafe/Canteen,1,10,,723461,10,,54.59991500000000,306052,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30212100000000,BT78 1BA,2014-10-22,fhrs_3_en-GB,3,,FHRS,5
-413688,33 Main Street,Drumnaforbe,Drumquin,Tyrone,O'Cahan Arms,Pub/bar/nightclub,7843,5,,723051,0,,54.61568200000000,300633,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48951300000000,BT78 4SB,2014-12-12,fhrs_5_en-GB,5,,FHRS,0
-413689,48 Main Street,Dromore,Dromore,Tyrone,O'Connor'S Bar & Restaurant,Pub/bar/nightclub,7843,0,,723034,10,,54.51337200000000,300572,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45875400000000,BT78 3AB,2014-06-24,fhrs_4_en-GB,4,,FHRS,10
-413690,9 Ballynahatty Road,,Omagh,,OIPS Friends Club,Other catering premises,7841,5,,723437,5,,,305971,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,BT79 1PN,2014-10-03,fhrs_5_en-GB,5,,FHRS,5
-413691,22 Main Street,Drumnaforbe,Drumquin,Tyrone,O'Kane'S Bar,Pub/bar/nightclub,7843,5,,723347,0,,54.61568200000000,305419,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48951300000000,BT78 4SB,2012-02-08,fhrs_5_en-GB,5,,FHRS,5
-413692,377 Drumnakilly Road,Carrickmore,Carrickmore,Tyrone,O'Kanes Spar Foodstore,Retailers - other,4613,0,,723073,5,,54.59924800000000,300687,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.06261600000000,BT79 9JY,2014-11-04,fhrs_4_en-GB,4,,FHRS,10
-413693,7 Mellon Park Drive,Bunnynubber,Omagh,Tyrone,Omagh Academicals Rugby Football Club,Retailers - other,4613,5,,723179,0,,54.61656700000000,301166,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33675600000000,BT78 5NE,2013-10-18,fhrs_4_en-GB,4,,FHRS,10
-413694,21-23 Dublin Road,Dergmoney Lower,Omagh,Tyrone,Omagh Academy Gs Meals Kitchen,School/college/university,7845,5,,722991,5,,54.59773800000000,300260,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29846000000000,BT78 1HF,2012-09-19,fhrs_5_en-GB,5,,FHRS,5
-413695,37 Campsie Road,Campsie,Omagh,Tyrone,Omagh County Ps Meals Kitchen,School/college/university,7845,5,,722958,5,,54.60093700000000,300112,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29252500000000,BT79 0AJ,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-413696,Mountjoy Road,Omagh,,Co Tyrone,Omagh District Council,Restaurant/Cafe/Canteen,1,5,,723137,5,,54.60641000000000,300932,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30224200000000,BT79 7BL,2014-02-28,fhrs_5_en-GB,5,,FHRS,5
-413697,9 Woodside Avenue,Lisnamallard,Omagh,Tyrone,Omagh Early Years Centre,School/college/university,7845,,,723214,,,54.60616100000000,302742,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29788200000000,BT79 7BP,2014-05-07,fhrs_5_en-GB,5,,FHRS,
-413698,83a Dublin Road,Dergmoney Lower,Omagh,Tyrone,Omagh Golf Club,Pub/bar/nightclub,7843,5,,723432,0,,54.59444100000000,305958,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29231300000000,BT78 1HQ,2012-03-14,fhrs_4_en-GB,4,,FHRS,10
-413699,14 Crevenagh Road,Campsie,Omagh,Tyrone,Omagh High School Meals Kitchen,School/college/university,7845,5,,723057,5,,54.59833800000000,300647,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28743400000000,BT79 0EQ,2014-11-18,fhrs_5_en-GB,5,,FHRS,5
-413700,Queens Parade,Campsie,Omagh,Tyrone,Omagh Independent Methodist Church,Other catering premises,7841,0,,723333,0,,54.59998700000000,305324,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27618700000000,BT79 0DJ,2014-12-12,fhrs_5_en-GB,5,,FHRS,0
-413701,9 Ballynahatty Road,Dergmoney Upper,Omagh,Tyrone,Omagh Integrated Nursery,School/college/university,7845,5,,722987,5,,54.58522400000000,300215,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29385000000000,BT78 1PN,2013-09-19,fhrs_5_en-GB,5,,FHRS,0
-413702,9 Ballynahatty Road,Dergmoney Upper,Omagh,Tyrone,Omagh Integrated Primary School,School/college/university,7845,5,,722986,0,,54.58522400000000,300214,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29385000000000,BT78 1PN,2014-10-14,fhrs_5_en-GB,5,,FHRS,5
-413703,Hospital Rd Community Centre,18a Queens Parade,Omagh,Co. Tyrone,Omagh Leisure Complex Creche,School/college/university,7845,10,,723434,5,,54.59998700000000,305964,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27618700000000,BT79 0DJ,2012-01-15,fhrs_4_en-GB,4,,FHRS,5
-413704,1 Spillars Place,Dergmoney Lower,Omagh,Tyrone,Omagh Library Headquarters Canteen,Restaurant/Cafe/Canteen,1,0,,723023,0,,54.59615600000000,300526,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30461400000000,BT78 1HL,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-413705,36 Campsie Road,Campsie,Omagh,Tyrone,Omagh Masonic Hall,Other catering premises,7841,,,723205,,,54.60100800000000,302297,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2013-07-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-413706,52 Doogary Road,Doogary,Omagh,Tyrone,Omagh Meats Ltd - Canteen,Restaurant/Cafe/Canteen,1,5,,722935,0,,54.57693700000000,300025,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27950300000000,BT79 0BQ,2014-01-13,fhrs_5_en-GB,5,,FHRS,5
-413707,64a Old Mountfield Road,Lisnamallard,Omagh,Tyrone,Omagh North Nursery School,School/college/university,7845,5,,723144,0,,54.60565200000000,300956,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29228900000000,BT79 7EG,2014-11-12,fhrs_5_en-GB,5,,FHRS,5
-413708,10b Foundry Lane,Omagh,Omagh,Tyrone,Omagh Wellness Centre,Retailers - other,4613,,,723411,,,54.59959700000000,305872,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30303900000000,BT78 1ED,2013-10-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-413709,Old Mountfield Road,Omagh,,Co. Tyrone,Omagh Youth Centre,Other catering premises,7841,10,,723400,5,,54.60565200000000,305795,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29228900000000,BT79 7EG,2011-04-20,fhrs_3_en-GB,3,,FHRS,10
-413710,279 Crockanboy Road,Sheskinshule,Omagh,Tyrone,Our Lady Of Lourdes Ps Meals Kitchen,School/college/university,7845,0,,723185,5,,54.69185300000000,301192,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.08183600000000,BT79 7QP,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-413711,62 Main Street,Gortin,Gortin,Tyrone,Owenkillew Community Centre,Other catering premises,7841,5,,723358,0,,54.71727200000000,305525,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23229300000000,BT79 8NH,2012-09-03,fhrs_5_en-GB,5,,FHRS,5
-413712,62 Main Street,Gortin,Gortin,Tyrone,Owenkillew Development Company,Other catering premises,7841,,,723111,,,54.71727200000000,300840,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23229300000000,BT79 8NH,2012-08-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-413713,62 Main Street,Gortin,Gortin,Tyrone,Owenkillew Thursday Dinners,Other catering premises,7841,5,,723356,10,,54.71727200000000,305521,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23229300000000,BT79 8NH,2014-12-11,fhrs_4_en-GB,4,,FHRS,5
-413714,2 Creggan Road,Carrickmore,Carrickmore,Tyrone,P Donaghy Public House,Pub/bar/nightclub,7843,5,,723182,0,,54.59820200000000,301181,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05170100000000,BT79 9BD,2014-02-26,fhrs_5_en-GB,5,,FHRS,0
-413715,54 Main Street,Cavanamara,Trillick,Tyrone,Packies Bar,Pub/bar/nightclub,7843,0,,723201,5,,54.45149400000000,301259,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48741300000000,BT78 3SU,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-413716,14 Corrasheskin Road,"Drumlish, Dromore",,Co Tyrone,Paula Muldoon & Maria Mcgread,Other catering premises,7841,10,,723349,10,,54.55033000000000,305473,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.44305700000000,BT78 3BP,2013-05-29,fhrs_3_en-GB,3,,FHRS,10
-413717,5 Campsie Road,Campsie,Omagh,Tyrone,Perfect Pizza,Restaurant/Cafe/Canteen,1,5,,723308,10,,54.60054200000000,305109,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29561100000000,BT79 0AE,2013-09-17,fhrs_3_en-GB,3,,FHRS,10
-413718,32 Main Street,Cavanamara,Trillick,Tyrone,Peter Pan Playgroup,School/college/university,7845,5,,723210,0,,54.45149400000000,302569,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48741300000000,BT78 3SU,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-413719,27 John Street,Omagh,Omagh,Tyrone,Philip'S Kitchen,Takeaway/sandwich shop,7844,10,,723235,10,,54.59947400000000,303837,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30513000000000,BT78 1DW,2014-09-30,fhrs_3_en-GB,3,,FHRS,10
-413720,12 Bridge Street,Omagh,Omagh,Tyrone,Philly'S Phinest,Restaurant/Cafe/Canteen,1,10,,723369,10,,54.60044500000000,305651,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30223500000000,BT78 1BX,2014-05-16,fhrs_3_en-GB,3,,FHRS,10
-413721,2 Loughmuck Road,Lammy,Omagh,Tyrone,Pinewood Lodge,Hotel/bed & breakfast/guest house,7842,5,,723366,0,,54.58339600000000,305600,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32617500000000,BT78 1SE,2009-05-13,fhrs_5_en-GB,5,,FHRS,0
-413722,132b Curr Road,Curr,Beragh,Tyrone,Pizzamac,Restaurant/Cafe/Canteen,1,5,,723420,0,,54.51040400000000,305909,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17521200000000,BT79 0QT,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-413723,85 Old Mountfield Road,Mullaghmore,Omagh,Tyrone,Pizzamac,Restaurant/Cafe/Canteen,1,5,,723224,10,,54.60845300000000,303403,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26939800000000,BT79 7LT,2013-08-13,fhrs_4_en-GB,4,,FHRS,5
-413724,28 Campsie Road,Campsie,Omagh,Tyrone,Pizzarama,Other catering premises,7841,0,,722956,5,,54.60100800000000,300108,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-413725,,,,,Pj Ices - Ll51 0lx,Mobile caterer,7846,10,,723446,5,,,305992,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-02-19,fhrs_4_en-GB,4,,FHRS,0
-413726,357b Drumnakilly Road,Carrickmore,Carrickmore,Tyrone,Pokertree Brewing Company,Manufacturers/packers,7839,,,723493,,,54.59924800000000,306181,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.06261600000000,BT79 9JY,2014-10-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-413727,11 Foundry Lane,Omagh,Omagh,Tyrone,Polish Delicatessen Spizarnia,Retailers - other,4613,0,,723401,5,,54.59959700000000,305800,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30303900000000,BT78 1ED,2014-04-28,fhrs_5_en-GB,5,,FHRS,5
-413728,Unit 8 Showgrounds Retail Park,Sedan Avenue,Omagh,,Poundworld,Retailers - other,4613,10,,723489,10,,54.60240400000000,306169,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30385800000000,BT79 7AQ,2013-11-15,fhrs_3_en-GB,3,,FHRS,10
-413729,15 Drudgeon Road,Omagh,,Co. Tyrone,Puddleducks Playgroup,School/college/university,7845,0,,723212,0,,54.55974400000000,302571,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.36109800000000,BT78 1TJ,2014-05-13,fhrs_5_en-GB,5,,FHRS,0
-413730,115 Kilskeery Road,Kilskeery Glebe,Trillick,Tyrone,Queen Elizabeth Ii Ps Dining Centre,School/college/university,7845,5,,723194,5,,54.44173100000000,301243,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.53926100000000,BT78 3RJ,2014-03-21,fhrs_5_en-GB,5,,FHRS,0
-413731,3 Creggan Road,Carrickmore,,Co Tyrone,Quinn'S Carryout,Takeaway/sandwich shop,7844,0,,723183,5,,54.59820200000000,301182,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05170100000000,BT79 9BD,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-413732,O'Kane Park,Omagh,,Co Tyrone,Railway Court,Hospitals/Childcare/Caring Premises,5,5,,722982,5,,54.59351500000000,300201,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31406500000000,BT78 5AA,2013-05-20,fhrs_5_en-GB,5,,FHRS,5
-413733,18 James Street,Meetinghousehill,Omagh,Tyrone,Rainbow Community Playgroup,School/college/university,7845,0,,723209,5,,54.59806600000000,302463,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30872800000000,BT78 1QX,2014-04-28,fhrs_5_en-GB,5,,FHRS,5
-413734,2 Main Street,Drumquin,Drumquin,Tyrone,Rainbow Surestart,School/college/university,7845,5,,723394,0,,54.61568200000000,305781,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48951300000000,BT78 4SB,2013-01-08,fhrs_5_en-GB,5,,FHRS,0
-413735,96 Circular Road,Mullaghmore,Omagh,Tyrone,Ramona House,Other catering premises,7841,5,,723334,5,,54.61020700000000,305329,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28328000000000,BT79 7HA,2015-01-15,fhrs_5_en-GB,5,,FHRS,5
-413736,Owenkillew Community Centre,62 Main Street,Gortin,,Rascals Community Playgroup,School/college/university,7845,0,,723208,0,,54.71727200000000,302462,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23229300000000,BT79 8NH,2013-12-09,fhrs_5_en-GB,5,,FHRS,0
-413737,68 Arvalee Road,Arvalee,Omagh,Tyrone,Recarson Ps Meals Kitchen,School/college/university,7845,0,,722929,0,,54.59491300000000,300002,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23271100000000,BT79 0NE,2013-05-02,fhrs_5_en-GB,5,,FHRS,5
-413738,2 Broadford Road,Castletown,Omagh,Tyrone,Residential Centre & Museum Restaurant,Restaurant/Cafe/Canteen,1,0,,723072,5,,54.66805700000000,300685,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33797800000000,BT78 5QY,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-413739,38 Market Street,Omagh,Omagh,Tyrone,Riverfront Coffee House,Restaurant/Cafe/Canteen,1,5,,723018,0,,54.60035100000000,300465,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29985400000000,BT78 1EH,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-413740,18 Sedan Avenue,Lisnamallard,Omagh,Tyrone,Riverside Restaurant,Restaurant/Cafe/Canteen,1,5,,723145,5,,54.60240400000000,300966,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30385800000000,BT79 7AQ,2014-08-04,fhrs_4_en-GB,4,,FHRS,10
-413741,30 Main Street,Carrickmore,Carrickmore,Tyrone,Rock Cafe,Restaurant/Cafe/Canteen,1,5,,723261,5,,54.59733200000000,304618,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05299000000000,BT79 9AY,2013-09-05,fhrs_4_en-GB,4,,FHRS,10
-413742,90 Tamlaght Road,Culmore,Omagh,Tyrone,Rosewood Beacon Centre,Other catering premises,7841,5,,723277,5,,54.59602500000000,304990,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32260900000000,BT78 5BB,2008-12-03,fhrs_5_en-GB,5,,FHRS,5
-413743,32 Campsie Road,Campsie,Omagh,Tyrone,Royal British Legion,Retailers - other,4613,5,,722959,0,,54.60100800000000,300113,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2013-10-21,fhrs_5_en-GB,5,,FHRS,5
-413744,5 Kiln Street,Ecclesville Demesne,Fintona,Tyrone,Royal British Legion Club,Retailers - other,4613,0,,723081,0,,54.49653600000000,300715,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31672500000000,BT78 2BJ,2013-12-30,fhrs_5_en-GB,5,,FHRS,5
-413745,5 Georges Street,Omagh,Omagh,Tyrone,Ruby Palace,Takeaway/sandwich shop,7844,5,,723361,10,,54.60040600000000,305545,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30478900000000,BT78 1DE,2013-12-10,fhrs_4_en-GB,4,,FHRS,5
-413746,13-16 Royal Arms Mews,Omagh,,Co. Tyrone,Rue,Pub/bar/nightclub,7843,5,,723306,5,,54.59959700000000,305100,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30161500000000,BT78 1BF,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-413747,Kevlin Road,Omagh,,Co Tyrone,Sacred Heart College Meals Kitchen,School/college/university,7845,0,,722984,5,,54.59434900000000,300206,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30600600000000,BT78 1LG,2013-09-25,fhrs_4_en-GB,4,,FHRS,10
-413748,6 Letfern Road,Tattyreagh Glebe,Omagh,Tyrone,Sacred Heart Ps Dining Centre,School/college/university,7845,0,,722976,0,,54.53232600000000,300177,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28857000000000,BT78 1RX,2014-04-15,fhrs_5_en-GB,5,,FHRS,5
-413749,33-35 John Street,Omagh,Omagh,Tyrone,Sallys,Pub/bar/nightclub,7843,5,,723340,5,,54.59947400000000,305374,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30513000000000,BT78 1DW,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-413750,28 Main Street,Dromore,Dromore,Tyrone,Salt & Pepper Restaurant,Restaurant/Cafe/Canteen,1,10,,723031,5,,54.51337200000000,300560,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45875400000000,BT78 3AB,2014-06-04,fhrs_3_en-GB,3,,FHRS,10
-413751,9 Main Street,Fintona,Fintona,Tyrone,Scoffs,Takeaway/sandwich shop,7844,0,,723391,5,,54.49837300000000,305775,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31593800000000,BT78 2AA,2013-11-06,fhrs_5_en-GB,5,,FHRS,5
-413752,27a Campsie Road,Omagh,,Co Tyrone,Scout & Guide Hall,Other catering premises,7841,,,722949,,,54.60054200000000,300085,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29561100000000,BT79 0AE,2014-02-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-413753,22 Bridge Street,Omagh,Omagh,Tyrone,Serendipity Tea Rooms,Restaurant/Cafe/Canteen,1,5,,722989,5,,54.60044500000000,300237,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30223500000000,BT78 1BX,2014-08-18,fhrs_4_en-GB,4,,FHRS,10
-413754,131a Carnalea Road,Seskinore,Omagh,Co Tyrone,Seskinore Farm Meats,Retailers - other,4613,5,,723074,0,,54.51646400000000,300691,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.25624900000000,BT78 2PP,2012-05-15,fhrs_5_en-GB,5,,FHRS,0
-413755,38 High Street,Omagh,Omagh,Tyrone,Shoppers Rest,Restaurant/Cafe/Canteen,1,5,,723003,5,,54.60019000000000,300334,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30154300000000,BT78 1BP,2014-07-18,fhrs_4_en-GB,4,,FHRS,10
-413756,3b Creggan Road,Carrickmore,Carrickmore,Tyrone,Silver Bowl Chinese Take Away,Takeaway/sandwich shop,7844,,,723478,,,54.59820200000000,306148,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05170100000000,BT79 9BD,2014-05-13,fhrs_4_en-GB,4,,FHRS,
-413757,5 Gortin Road,Lisanelly,Omagh,Tyrone,Silverbirch Hotel,Hotel/bed & breakfast/guest house,7842,5,,723133,10,,54.60938300000000,300926,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29901800000000,BT79 7DH,2014-04-11,fhrs_4_en-GB,4,,FHRS,5
-413758,,,,,Sizzlers,Mobile caterer,7846,5,,723443,10,,,305986,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-08-15,fhrs_4_en-GB,4,,FHRS,5
-413759,,,,,Skeboy Foods,Other catering premises,7841,5,,723453,5,,,306018,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-11-30,fhrs_5_en-GB,5,,FHRS,0
-413760,152 Main Street,Fintona,,Co Tyrone,Slevins,Pub/bar/nightclub,7843,5,,723092,5,,54.49666100000000,300766,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31967100000000,BT78 2AF,2012-10-03,fhrs_4_en-GB,4,,FHRS,10
-413761,60 Market Street,Omagh,Omagh,Tyrone,Slevins Chemist,Retailers - other,4613,,,722963,,,54.60050100000000,300133,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29779400000000,BT78 1EL,2013-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-413762,3 Tircur Road,Tircur,Omagh,Tyrone,Slieve Na Mon Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,723116,5,,54.66933800000000,300850,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28673300000000,BT79 7TY,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-413763,18a Queens Parade,Omagh,,Co. Tyrone,Smart Attack Playgroup,School/college/university,7845,5,,723387,0,,54.59998700000000,305758,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27618700000000,BT79 0DJ,2013-10-02,fhrs_5_en-GB,5,,FHRS,0
-413764,4 Deverney Road,Cranny,Omagh,Tyrone,Social Education Centre,School/college/university,7845,0,,723288,5,,54.59524000000000,305023,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26516300000000,BT79 0JJ,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-413765,19 Main Street,Dromore,Dromore,Tyrone,Spar,Retailers - other,4613,0,,723028,5,,54.51362600000000,300551,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45918300000000,BT78 3AE,2014-04-10,fhrs_4_en-GB,4,,FHRS,10
-413766,28 Main Street,Six Mile Cross,Sixmilecross,Tyrone,Spar,Manufacturers/packers,7839,5,,723245,10,,54.55688500000000,304033,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11801200000000,BT79 9NF,2014-01-16,fhrs_4_en-GB,4,,FHRS,5
-413767,52 Main Street,Trillick,,Co Tyrone,Spar,Retailers - other,4613,0,,723200,5,,54.45149400000000,301257,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48741300000000,BT78 3SU,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-413768,5 Kevlin Avenue,Meetinghousehill,Omagh,Tyrone,Spar Express,Retailers - other,4613,,,723440,,,54.59931600000000,305982,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30268800000000,BT78 1ER,2014-02-12,fhrs_5_en-GB,5,,FHRS,
-413769,2 Main Street,Drumquin,Drumquin,Tyrone,Spar Supermarket,Retailers - other,4613,5,,723047,10,,54.61568200000000,300622,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48951300000000,BT78 4SB,2014-05-19,fhrs_4_en-GB,4,,FHRS,5
-413770,31 Kevlin Road,Dergmoney Lower,Omagh,Tyrone,Splash In The Pan,Takeaway/sandwich shop,7844,,,722981,,,54.59410000000000,300200,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30014700000000,BT78 1JR,2014-06-16,fhrs_5_en-GB,5,,FHRS,
-413771,47 Gargadis Road,Cavanamara,Trillick,Tyrone,Springhill Golf Club,Pub/bar/nightclub,7843,10,,723222,5,,54.45414000000000,303314,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49276100000000,BT78 3NX,2013-11-15,fhrs_3_en-GB,3,,FHRS,10
-413772,44 Dromore Road,Coolnagard Upper,Omagh,Tyrone,Springlawn House Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,723076,0,,54.59193300000000,300705,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31381300000000,BT78 1RB,2014-10-29,fhrs_5_en-GB,5,,FHRS,5
-413773,4 Lenagh Road,Aghalane,Mountfield,Tyrone,St Brigid'S Play School Mountfield,School/college/university,7845,5,,723410,0,,54.65113200000000,305861,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17293600000000,BT79 7PT,2012-02-21,fhrs_4_en-GB,4,,FHRS,10
-413774,114 Altamuskin Road,Altamooskan,Sixmilecross,Tyrone,St Brigid'S Ps Dining Centre,School/college/university,7845,5,,723165,5,,54.52476000000000,301071,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.08418600000000,BT79 9JA,2014-05-30,fhrs_5_en-GB,5,,FHRS,5
-413775,4 Lenagh Road,Aghalane,Mountfield,Tyrone,St Brigid'S Ps Dining Centre,School/college/university,7845,5,,723161,0,,54.65113200000000,301055,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17293600000000,BT79 7PT,2013-10-28,fhrs_4_en-GB,4,,FHRS,10
-413776,1 Creggan Road,Carrickmore,Carrickmore,Tyrone,St Columbkille'S Ps Meals Kitchen,School/college/university,7845,0,,723188,0,,54.59820200000000,301228,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05170100000000,BT79 9BD,2013-12-02,fhrs_5_en-GB,5,,FHRS,0
-413777,109 Brookmount Road,Lammy,Omagh,Tyrone,St Conor'S Ps Meals Kitchen,School/college/university,7845,5,,723119,0,,54.59842600000000,300860,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32465800000000,BT78 5JQ,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-413778,2 Old Creamery Road,Gardrum,Dromore,Tyrone,St Dympna'S Ps Dining Centre,School/college/university,7845,5,,723039,0,,,300581,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,BT78 3GA,2014-02-27,fhrs_5_en-GB,5,,FHRS,5
-413779,45 Gortin Road,Omagh,,Co Tyrone,St Enda'S Gaa Club,Retailers - other,4613,10,,723098,0,,54.61330200000000,300800,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30097800000000,BT79 7HX,2013-10-30,fhrs_4_en-GB,4,,FHRS,5
-413780,40 Dunbreen View Road,Tircur,Omagh,Tyrone,St Eugene'S Ps Dining Centre,School/college/university,7845,5,,723117,5,,54.66912500000000,300851,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28264500000000,BT79 7SN,2013-05-03,fhrs_5_en-GB,5,,FHRS,0
-413781,37 Omagh Road,Gardrum,Dromore,Tyrone,St John'S B & E College Meals Kitchen,School/college/university,7845,0,,723040,0,,54.51476700000000,300582,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45333100000000,BT78 3AL,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-413782,13 Church Street,Omagh,Omagh,Tyrone,St Joseph'S Hall,Other catering premises,7841,5,,723233,0,,54.60018900000000,303730,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30603100000000,BT78 1DG,2012-07-24,fhrs_5_en-GB,5,,FHRS,5
-413783,32 Omagh Road,Drumnaforbe,Drumquin,Tyrone,St Joseph'S Ps Meals Kitchen,School/college/university,7845,0,,723053,5,,54.61439400000000,300641,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48877100000000,BT78 4QY,2014-06-13,fhrs_5_en-GB,5,,FHRS,5
-413784,St. Julian'S Road,Omagh,,Co Tyrone,St Julian'S House,Hospitals/Childcare/Caring Premises,5,5,,723257,0,,54.60744000000000,304473,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29544600000000,BT79 7HQ,2013-09-12,fhrs_5_en-GB,5,,FHRS,5
-413785,7 Tattymoyle Road,Tonnaghbane,Fintona,Tyrone,St Lawrences Nursery School,School/college/university,7845,5,,723252,0,,54.49232700000000,304301,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32696500000000,BT78 2NR,2014-10-03,fhrs_5_en-GB,5,,FHRS,5
-413786,7 Tattymoyle Road,Tonnaghbane,Fintona,Tyrone,St Lawrence'S Ps Meals Kitchen,School/college/university,7845,0,,723094,5,,54.49232700000000,300778,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32696500000000,BT78 2NR,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-413787,86 Lettergash Road,Dullaghan,Dromore,Tyrone,St Macartan'S Ps Dining Centre,School/college/university,7845,10,,723027,5,,54.53636200000000,300550,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.52067600000000,BT78 3DF,2013-04-29,fhrs_4_en-GB,4,,FHRS,5
-413788,122 Old Mountfield Road,Killyclogher,Omagh,Tyrone,St Marys Primary School - Nursery Unit,School/college/university,7845,5,,723253,0,,54.60845300000000,304339,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26939800000000,BT79 7LT,2014-12-15,fhrs_5_en-GB,5,,FHRS,5
-413789,122 Old Mountfield Road,Killyclogher,Omagh,Tyrone,St Marys Ps Meals Kitchen,School/college/university,7845,5,,723132,5,,54.60845300000000,300921,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26939800000000,BT79 7LT,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-413790,70 Rarogan Road,Garvaghy,Dungannon,Tyrone,St Matthews Ps Dining Centre,School/college/university,7845,10,,723155,0,,54.48659900000000,301043,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.13554300000000,BT70 2DY,2014-11-14,fhrs_4_en-GB,4,,FHRS,5
-413791,104 Cooley Road,Six Mile Cross,Beragh,Tyrone,St Michaels Parish Hall,Other catering premises,7841,10,,723421,5,,54.55621200000000,305914,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.12417800000000,BT79 9DH,2013-07-23,fhrs_4_en-GB,4,,FHRS,0
-413792,9 Laragh Road,,Beragh,,St Oliver Plunkett Nursery School,School/college/university,7845,,,723256,,,54.54472700000000,304431,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17343700000000,BT79 0TH,2014-05-12,fhrs_5_en-GB,5,,FHRS,
-413793,9 Laragh Road,Beragh,Sixmilecross,Tyrone,St Oliver Plunkett Ps Meals Kitchen,School/college/university,7845,5,,722939,5,,54.54472700000000,300040,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.17343800000000,BT79 0TH,2015-01-13,fhrs_4_en-GB,4,,FHRS,10
-413794,171 Newtownsaville Road,Dunbiggan,Omagh,Tyrone,St Patrick'S Ps Dining Centre,School/college/university,7845,,,723153,,,54.48359200000000,301039,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.20259900000000,BT78 2RJ,2014-06-23,fhrs_5_en-GB,5,,FHRS,
-413795,90 Main Street,Gortin,Gortin,Tyrone,St Patrick'S Ps Dining Centre,School/college/university,7845,0,,723114,5,,54.71738500000000,300846,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.22890800000000,BT79 8PU,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-413796,2 Effernan Road,Cavanamara,Trillick,Tyrone,St Scire'S Ps Meals Kitchen,School/college/university,7845,5,,723192,10,,54.44797500000000,301237,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49007800000000,BT78 3RB,2013-09-16,fhrs_4_en-GB,4,,FHRS,5
-413797,166 Loughmacrory Road,Loughmacrory,Loughmacrory,Tyrone,St Teresa'S Ps Meals Kitchen,School/college/university,7845,5,,723044,5,,54.62770600000000,300607,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.10259000000000,BT79 9LG,2013-11-19,fhrs_5_en-GB,5,,FHRS,5
-413798,37a John Street,Omagh,Omagh,Tyrone,Stake Out,Takeaway/sandwich shop,7844,10,,723012,10,,54.59931000000000,300405,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30626200000000,BT78 1DN,2014-05-07,fhrs_3_en-GB,3,,FHRS,10
-413799,26a Anderson Gardens,Omagh,,Co. Tyrone,Star Kitchen,Takeaway/sandwich shop,7844,10,,723491,10,,54.59486500000000,306175,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29883400000000,BT78 1HY,2014-02-04,fhrs_3_en-GB,3,,FHRS,5
-413800,T/A 206 Omagh Road,Garvaghy,Omagh,,Stevie's,Mobile caterer,7846,5,,723462,5,,54.48535900000000,306056,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.12796200000000,BT70 2DU,2013-07-04,fhrs_5_en-GB,5,,FHRS,5
-413801,17 Bridge Street,Omagh,Omagh,Tyrone,Strains Bar,Pub/bar/nightclub,7843,0,,722988,5,,54.60049700000000,300232,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30189400000000,BT78 1BU,2015-01-13,fhrs_5_en-GB,5,,FHRS,5
-413802,6 Main Street,Six Mile Cross,Sixmilecross,Tyrone,Strand Brae Bar,Pub/bar/nightclub,7843,5,,723167,0,,54.55688500000000,301082,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11801200000000,BT79 9NF,2013-12-11,fhrs_5_en-GB,5,,FHRS,0
-413803,Drumlea Crescent,Strathroy,Omagh,,Strathroy After School Club,Other catering premises,7841,10,,723425,5,,54.61218900000000,305931,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30882900000000,BT79 7XE,2013-11-28,fhrs_4_en-GB,4,,FHRS,5
-413804,Townhall Square,Omagh,,Co. Tyrone,Strule Arts Cafe,Restaurant/Cafe/Canteen,1,5,,723433,0,,54.60070300000000,305962,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30325200000000,BT78 1BL,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-413805,Ulster American Folk Park,Mellon Road,Omagh,,Strule Cafe,Restaurant/Cafe/Canteen,1,5,,723456,5,,54.66805700000000,306031,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33797800000000,BT78 5QY,2014-08-13,fhrs_5_en-GB,5,,FHRS,5
-413806,Dun Uladh Centre,Ballinamullan Road,Omagh,,Strule Erne Daycare,Hospitals/Childcare/Caring Premises,5,5,,723376,0,,54.60315900000000,305709,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26443200000000,BT79 0GZ,2013-10-02,fhrs_5_en-GB,5,,FHRS,5
-413807,9 Campsie Road,Campsie,Omagh,Tyrone,Subway,Restaurant/Cafe/Canteen,1,5,,723363,0,,54.60054200000000,305554,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29561100000000,BT79 0AE,2014-04-28,fhrs_5_en-GB,5,,FHRS,0
-413808,Unit 18 Royal Arms Mews,Omagh,,Co. Tyrone,Subway,Restaurant/Cafe/Canteen,1,5,,723251,5,,54.59991500000000,304096,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30212100000000,BT78 1BA,2014-02-11,fhrs_5_en-GB,5,,FHRS,0
-413809,7-8 Drumquin Enterprise Centre,Castlederg Road,Drumquin,Co Tyrone,Sugar And Spice Early Years Centre,School/college/university,7845,0,,723046,5,,54.62116200000000,300617,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49161200000000,BT78 4PH,2014-11-21,fhrs_5_en-GB,5,,FHRS,5
-413810,7 Thornlea,Dergmoney Upper,Omagh,Tyrone,Su-Lorr (Bed & Breakfast),Hotel/bed & breakfast/guest house,7842,5,,723248,5,,54.59557700000000,304075,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28245400000000,BT79 0EL,2014-08-21,fhrs_5_en-GB,5,,FHRS,0
-413811,Donacavey Church Hall,2 Ecclesville Road,Fintona,,Sunflower Early Years Group,Other catering premises,7841,5,,723078,0,,54.49537500000000,300710,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31155900000000,BT78 2BZ,2012-09-26,fhrs_5_en-GB,5,,FHRS,0
-413812,1a Main Street,Carrickmore,Carrickmore,Tyrone,Super Fresh Foods,Retailers - other,4613,10,,723318,10,,54.59733200000000,305202,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05299000000000,BT79 9AY,2014-05-19,fhrs_2_en-GB,2,,FHRS,15
-413813,,,,,Super Whip - Reg No Aj12 Hdk,Mobile caterer,7846,0,,723477,0,,,306147,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-09-06,fhrs_5_en-GB,5,,FHRS,0
-413814,,,,,Super Whipp Ices Mj06ftc,Mobile caterer,7846,10,,723458,0,,,306040,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-02-20,fhrs_4_en-GB,4,,FHRS,0
-413815,48/50 High Street,Omagh,,Co Tyrone,Superdrug Stores Plc,Retailers - other,4613,,,723006,,,54.60019000000000,300350,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30154300000000,BT78 1BP,2013-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-413816,36 Hospital Road,Campsie,Omagh,Tyrone,Supershop,Retailers - other,4613,10,,723468,10,,54.59867300000000,306121,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27580800000000,BT79 0DG,2014-05-06,fhrs_2_en-GB,2,,FHRS,15
-413817,11-13 Market Street,Omagh,Omagh,Tyrone,Supervalu,Retailers - other,4613,0,,723015,5,,54.60014200000000,300427,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29948600000000,BT78 1EE,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-413818,1-2 Tattymoyle Road,Fintona,,Co. Tyrone,Supervalu,Retailers - other,4613,0,,723300,5,,54.49627600000000,305081,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31998600000000,BT78 2AS,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-413819,,,,,Sweet Things Cakes,Other catering premises,7841,10,,723474,5,,,306142,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-10-10,fhrs_4_en-GB,4,,FHRS,5
-413820,11 Holmview Terrace,Campsie,Omagh,Tyrone,Tara Centre,Other catering premises,7841,,,723220,,,54.60080100000000,303264,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29379600000000,BT79 0AH,2013-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-413821,71 Main Street,Beragh,,Co. Tyrone,Tasty Bites,Takeaway/sandwich shop,7844,10,,723472,10,,54.55019900000000,306139,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.15920200000000,BT79 0SZ,2013-09-10,fhrs_3_en-GB,3,,FHRS,5
-413822,115 Doogary Road,Doogary,Omagh,Tyrone,Tattykeel House,Hotel/bed & breakfast/guest house,7842,0,,723217,0,,54.57177700000000,302777,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.27130700000000,BT79 0BN,2013-12-09,fhrs_5_en-GB,5,,FHRS,0
-413823,6 Scarffe'S Entry,Omagh,Omagh,Tyrone,Tesco W.O.W.,Retailers - other,4613,,,723021,,,54.59952900000000,300521,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30068800000000,BT78 1JH,2013-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-413824,1 Mountjoy Road,Lisnamallard,Omagh,Tyrone,The Book Stop,Retailers - other,4613,5,,723138,10,,54.60183000000000,300937,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30247500000000,BT79 7AH,2014-08-01,fhrs_3_en-GB,3,,FHRS,10
-413825,2 Bridge Street,Omagh,Omagh,Tyrone,The Bridge Express,Retailers - other,4613,5,,723332,5,,54.60044500000000,305306,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30223500000000,BT78 1BX,2013-11-05,fhrs_4_en-GB,4,,FHRS,10
-413826,2 Kilskeery Road,Cordromedy,Trillick,Tyrone,The Bridge Inn,Pub/bar/nightclub,7843,10,,723193,10,,54.44950200000000,301242,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49214000000000,BT78 3RD,2013-11-29,fhrs_3_en-GB,3,,FHRS,10
-413827,,,,,The Cakery Ni,Other catering premises,7841,5,,723500,0,,,306304,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-03-03,fhrs_5_en-GB,5,,FHRS,0
-413828,28a Bridge Street,Omagh,Omagh,Tyrone,The Cellar Bar,Pub/bar/nightclub,7843,10,,723360,0,,54.60044500000000,305544,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30223500000000,BT78 1BX,2014-08-22,fhrs_4_en-GB,4,,FHRS,10
-413829,27 Main Street,Dromore,Dromore,Tyrone,The Central Bar,Pub/bar/nightclub,7843,10,,723264,0,,54.51362600000000,304866,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.45918300000000,BT78 3AE,2014-11-26,fhrs_4_en-GB,4,,FHRS,10
-413830,42 Main Street,Cavanamara,Trillick,Tyrone,The Central Bar,Pub/bar/nightclub,7843,5,,723199,0,,54.45149400000000,301255,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48741300000000,BT78 3SU,2014-12-17,fhrs_5_en-GB,5,,FHRS,0
-413831,15 Main Street,Carrickmore,Carrickmore,Tyrone,The Charm Inn,Restaurant/Cafe/Canteen,1,10,,723186,5,,54.59733200000000,301207,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05299000000000,BT79 9AY,2013-09-20,fhrs_4_en-GB,4,,FHRS,5
-413832,91a Old Mountfield Road,Mullaghmore,Omagh,Tyrone,The Chip Basket,Takeaway/sandwich shop,7844,5,,723521,5,,54.60845300000000,306508,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26939800000000,BT79 7LT,2014-11-11,fhrs_4_en-GB,4,,FHRS,10
-413833,6 Foundry Lane,Omagh,Omagh,Tyrone,The Coffee Shop,Restaurant/Cafe/Canteen,1,5,,723463,10,,54.59959700000000,306057,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30303900000000,BT78 1ED,2015-01-13,fhrs_3_en-GB,3,,FHRS,10
-413834,46 Main Street,Fintona,Fintona,Tyrone,The Country Kitchen,Restaurant/Cafe/Canteen,1,10,,723384,5,,54.49816900000000,305727,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31629700000000,BT78 2AD,2013-09-10,fhrs_4_en-GB,4,,FHRS,5
-413835,5 Gillygooley Road,Conywarren,Drumquin,Tyrone,The Country Stove,Restaurant/Cafe/Canteen,1,5,,723069,0,,54.61123900000000,300675,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.33011000000000,BT78 5PN,2013-08-12,fhrs_5_en-GB,5,,FHRS,5
-413836,15a Campsie Road,Omagh,,Co Tyrone,The Encore Cake An Rroll,Retailers - other,4613,5,,723237,0,,54.60054200000000,303857,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29561100000000,BT79 0AE,2014-10-27,fhrs_4_en-GB,4,,FHRS,10
-413837,Dromore Road Retail Park,Omagh,,Co. Tyrone,The Factory Shop,Retailers - other,4613,,,723327,,,54.59394500000000,305292,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29965500000000,BT78 1QZ,2011-09-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-413838,3 Old Mountfield Road,Omagh,,Co Tyrone,The Galley Cafe - Omagh Leisure Centre,Restaurant/Cafe/Canteen,1,0,,723142,5,,54.60565200000000,300953,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29228900000000,BT79 7EG,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-413839,57 Main Street,Gortin,Gortin,Tyrone,The Gort Inn,Pub/bar/nightclub,7843,5,,723110,0,,54.71727200000000,300838,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23229300000000,BT79 8NH,2014-08-08,fhrs_4_en-GB,4,,FHRS,10
-413840,14 New Brighton Terrace,Meetinghousehill,Omagh,Tyrone,The Hill Shop,Retailers - other,4613,10,,723020,10,,54.59822900000000,300485,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30420700000000,BT78 1LL,2014-02-07,fhrs_3_en-GB,3,,FHRS,10
-413841,155 Doogary Road,Ranelly,Omagh,Tyrone,The Hot Pot,Mobile caterer,7846,10,,723422,10,,54.55197300000000,305915,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.24575800000000,BT79 0HF,2013-11-02,fhrs_3_en-GB,3,,FHRS,10
-413842,6 Old Market Place,Omagh,Omagh,Tyrone,The Humbug,Retailers - other,4613,10,,723516,5,,54.60051400000000,306379,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30163100000000,BT78 1BT,2014-07-17,fhrs_2_en-GB,2,,FHRS,15
-413843,18b Laurel Road,Omagh,,Co. Tyrone,The Laurels,Hotel/bed & breakfast/guest house,7842,5,,723390,5,,54.57943600000000,305770,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.37152200000000,BT78 5DH,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-413844,173 Altamuskin Road,Altamooskan,Sixmilecross,Tyrone,The Magic Roundabout Playgroup,School/college/university,7845,0,,723216,5,,54.52476000000000,302760,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.08418600000000,BT79 9JA,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-413845,8 Foundry Lane,Omagh,Omagh,Tyrone,The Meat Joint,Retailers - other,4613,5,,722994,5,,54.59959700000000,300277,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30303900000000,BT78 1ED,2013-09-02,fhrs_4_en-GB,4,,FHRS,10
-413846,134 Beltany Road,Gortinagin,Omagh,Tyrone,The Mellon Country Hotel Ltd,Hotel/bed & breakfast/guest house,7842,,,723066,,,54.67691400000000,300664,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.35293200000000,BT78 5RA,2014-10-22,fhrs_3_en-GB,3,,FHRS,
-413847,212 Gorticashel Road,Teebane East,Omagh,Tyrone,The Mill Bar And Lounge,Pub/bar/nightclub,7843,10,,723158,10,,54.71654700000000,301051,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05131400000000,BT79 7SB,2013-08-22,fhrs_3_en-GB,3,,FHRS,10
-413848,1-3 Glenpark Road,Omagh,,Co. Tyrone,The Millstone Bar & Restaurant,Restaurant/Cafe/Canteen,1,5,,723495,5,,54.64197600000000,306184,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29779100000000,BT79 7SP,2013-12-03,fhrs_4_en-GB,4,,FHRS,10
-413849,26 Campsie Road,Campsie,Omagh,Tyrone,The News Shoppe,Retailers - other,4613,0,,722955,15,,54.60100800000000,300106,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29383900000000,BT79 0AG,2014-07-17,fhrs_2_en-GB,2,,FHRS,10
-413850,29 Main Street,Six Mile Cross,Sixmilecross,Tyrone,The Old Schoolhouse,Hotel/bed & breakfast/guest house,7842,5,,723170,5,,54.55692800000000,301099,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11898500000000,BT79 9NH,2012-02-02,fhrs_4_en-GB,4,,FHRS,10
-413851,12 Royal Arms Mews,Omagh,Omagh,Tyrone,The Ostlers Arms,Pub/bar/nightclub,7843,0,,723326,0,,54.59959700000000,305291,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30161500000000,BT78 1BF,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-413852,21 Main Street,Carrickmore,Carrickmore,Tyrone,The Patrician Hall,Restaurant/Cafe/Canteen,1,,,723271,,,54.59733200000000,304956,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05299000000000,BT79 9AY,2013-10-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-413853,66 Main Street,Gortin,Gortin,Tyrone,The Pedlars Restaurant,Restaurant/Cafe/Canteen,1,20,,723113,10,,54.71727200000000,300844,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.23229300000000,BT79 8NH,2014-09-08,fhrs_1_en-GB,1,,FHRS,15
-413854,2c Mill Street,Fintona,,Co. Tyrone,The Pizza Place,Takeaway/sandwich shop,7844,5,,723362,5,,54.49759600000000,305550,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31510300000000,BT78 2BP,2013-09-23,fhrs_4_en-GB,4,,FHRS,10
-413855,37-39 John Street,Omagh,,Co. Tyrone,The Pizza Shop,Takeaway/sandwich shop,7844,10,,723405,10,,54.59931000000000,305822,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30626200000000,BT78 1DN,2014-06-24,fhrs_3_en-GB,3,,FHRS,10
-413856,81 Main Street,Fintona,Fintona,Tyrone,The Poet'S Pub,Pub/bar/nightclub,7843,5,,723287,5,,54.49771300000000,305020,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31826500000000,BT78 2AQ,2012-06-14,fhrs_4_en-GB,4,,FHRS,10
-413857,1 Castlederg Road,Drumquin,,Co Tyrone,The Post Inn,Pub/bar/nightclub,7843,5,,723045,0,,54.62053500000000,300612,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49209900000000,BT78 4PH,2012-08-02,fhrs_5_en-GB,5,,FHRS,0
-413858,Unit 4 Main Street,Drumquin,,Co. Tyrone,The Riverside Cafe Takeaway And Sit In,Restaurant/Cafe/Canteen,1,10,,723449,10,,,305998,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,BT79 4SB,2014-05-27,fhrs_3_en-GB,3,,FHRS,10
-413859,"Unit 2, Anderson House",39 Market Street,Omagh,,The Salad Bowl,Retailers - other,4613,5,,723019,0,,54.60050100000000,300466,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29779400000000,BT78 1EL,2013-10-10,fhrs_5_en-GB,5,,FHRS,5
-413860,50 Market Street,Omagh,Omagh,Tyrone,The Sandwich Company,Restaurant/Cafe/Canteen,1,5,,723265,0,,54.60035100000000,304937,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29985400000000,BT78 1EH,2013-08-01,fhrs_5_en-GB,5,,FHRS,5
-413861,86-88 Beltany Road,Omagh,,Co Tyrone,The Sperrin Restaurant,Restaurant/Cafe/Canteen,1,0,,723065,5,,54.64206100000000,300662,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.34492100000000,BT78 5NL,2014-06-23,fhrs_4_en-GB,4,,FHRS,10
-413862,19 -21 Main Street,Trillick,,Co Tyrone,The Spirit Store,Pub/bar/nightclub,7843,0,,723196,5,,54.45186200000000,301246,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48727000000000,BT78 3SS,2013-08-07,fhrs_5_en-GB,5,,FHRS,5
-413863,"Unit 3, 1a Market Road",Omagh,,Co. Tyrone,The Sweet Spot,Retailers - other,4613,5,,723418,5,,54.59984300000000,305900,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29746500000000,BT78 1EX,2012-03-29,fhrs_5_en-GB,5,,FHRS,0
-413864,28 John Street,Omagh,,Co. Tyrone,The Terrace,Pub/bar/nightclub,7843,5,,723294,0,,54.60340600000000,305045,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.09661100000000,BT79 9PU,2012-07-25,fhrs_4_en-GB,4,,FHRS,10
-413865,2 Old Market Place,Omagh,Omagh,Tyrone,The Vault/The Embankment,Pub/bar/nightclub,7843,5,,723299,10,,54.60051400000000,305076,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30163100000000,BT78 1BT,2012-11-20,fhrs_4_en-GB,4,,FHRS,5
-413866,26 Main Street,Six Mile Cross,Sixmilecross,Tyrone,The Whistlers Inn ( Home Fresh Kitchen Ltd),Pub/bar/nightclub,7843,5,,723169,5,,54.55688500000000,301096,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11801200000000,BT79 9NF,2014-08-11,fhrs_4_en-GB,4,,FHRS,10
-413867,19 Campsie Road,Campsie,Omagh,Tyrone,The Wine Company,Retailers - other,4613,,,722954,,,54.60054200000000,300103,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29561100000000,BT79 0AE,2013-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-413868,16-18 Bridge Street,Omagh,Omagh,Tyrone,Thee Plaice,Restaurant/Cafe/Canteen,1,5,,723383,0,,54.60044500000000,305724,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30223500000000,BT78 1BX,2014-10-15,fhrs_5_en-GB,5,,FHRS,5
-413869,11 Millbank Lane,Lisanelly,Omagh,Tyrone,Three Rivers Care Centre,Hospitals/Childcare/Caring Premises,5,5,,723377,5,,54.60872700000000,305710,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29116700000000,BT79 7YD,2014-10-23,fhrs_5_en-GB,5,,FHRS,0
-413870,,,,,Tier-Ific Cakes,Other catering premises,7841,5,,723354,0,,,305501,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-03-29,fhrs_5_en-GB,5,,FHRS,0
-413871,3 Georges Street,Omagh,Omagh,Tyrone,Top News,Retailers - other,4613,10,,722996,0,,54.60040600000000,300284,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30478900000000,BT78 1DE,2012-05-03,fhrs_4_en-GB,4,,FHRS,0
-413872,3b Gortin Road,Lisanelly,Omagh,Tyrone,Top Nosh,Takeaway/sandwich shop,7844,5,,723218,5,,54.60938300000000,302837,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29901800000000,BT79 7DH,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-413873,13-15 John Street,Omagh,,Co. Tyrone,Top Of The Town,Pub/bar/nightclub,7843,10,,723321,5,,54.59947400000000,305230,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30513000000000,BT78 1DW,2014-01-09,fhrs_3_en-GB,3,,FHRS,10
-413874,124 Main Street,Fintona,Fintona,Tyrone,Top Stop Fast Foods Takeaway,Takeaway/sandwich shop,7844,10,,723488,10,,54.49747900000000,306168,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31817600000000,BT78 2AE,2013-12-10,fhrs_2_en-GB,2,,FHRS,15
-413875,Strathroy Enterprise Units,Unit 3 Meelmore Drive,Omagh,,Total Workout,Retailers - other,4613,0,,723475,0,,54.61109300000000,306144,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30884700000000,BT79 7XG,2013-10-21,fhrs_4_en-GB,4,,FHRS,10
-413876,19 Tirmurty Road,Tirmurty,Omagh,Tyrone,Treanor Meats,Retailers - other,4613,10,,723435,10,,54.67832000000000,305966,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28194000000000,BT79 7TZ,2013-08-21,fhrs_3_en-GB,3,,FHRS,5
-413877,,,,,Treats Boutique,Other catering premises,7841,10,,723494,5,,,306183,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2013-12-12,fhrs_4_en-GB,4,,FHRS,0
-413878,15 Gargadis Road,Cavanamara,Trillick,Tyrone,Trillick Enterprise Leisure Centre,Restaurant/Cafe/Canteen,1,,,723206,,,54.45414000000000,302336,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49276100000000,BT78 3NX,2014-02-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-413879,C/O Trillick Leisure Centre,15 Gargadis Road,Trillick,,Trillick Funeral Committee,Other catering premises,7841,,,723466,,,54.45414000000000,306112,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49276100000000,BT78 3NX,2014-12-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-413880,,,,,Truly Scrumptious,Other catering premises,7841,5,,723448,5,,,305994,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2012-09-03,fhrs_5_en-GB,5,,FHRS,0
-413881,118 Newpark Road,Tummery,Dromore,Tyrone,Tummery Ps Dining Centre,School/college/university,7845,5,,723036,0,,54.49481400000000,300574,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.52295300000000,BT78 3JZ,2013-09-16,fhrs_5_en-GB,5,,FHRS,5
-413882,23 Clontarf Drive,Culmore,Omagh,Tyrone,Twenty Three,Hotel/bed & breakfast/guest house,7842,5,,723330,5,,54.59420800000000,305302,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32228400000000,BT78 5BD,2012-02-03,fhrs_5_en-GB,5,,FHRS,5
-413883,1 Donaghanie Road,Cranny,Omagh,Tyrone,Tyrone And Fermanagh Hospital,Hospitals/Childcare/Caring Premises,5,5,,723060,5,,54.59231300000000,300651,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26984100000000,BT79 0NS,2014-06-19,fhrs_5_en-GB,5,,FHRS,5
-413884,10 High Street,Omagh,Omagh,Tyrone,Tyrone County Club,Retailers - other,4613,5,,723001,5,,54.60018900000000,300301,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30293600000000,BT78 1BQ,2014-03-14,fhrs_4_en-GB,4,,FHRS,10
-413885,16 Hospital Road,Campsie,Omagh,Tyrone,Tyrone County Hospital,Hospitals/Childcare/Caring Premises,5,10,,722961,5,,54.60103200000000,300125,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28424600000000,BT79 0AP,2014-01-14,fhrs_3_en-GB,3,,FHRS,10
-413886,55 Market Street,,Omagh,Tyrone,Utopia,Pub/bar/nightclub,7843,5,,722962,5,,54.60050000000000,300131,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.29779300000000,BT78 1EL,2012-03-13,fhrs_4_en-GB,4,,FHRS,10
-413887,102 Reaghan Road,Dunmullan,Omagh,Tyrone,Valerie Alexander,Retailers - other,4613,,,723438,,,54.66260600000000,305974,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30781700000000,BT79 7TH,2012-06-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-413888,116 Old Mountfield Road,Killyclogher,Omagh,Tyrone,Village Inn,Pub/bar/nightclub,7843,5,,723130,10,,54.60845300000000,300918,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26939800000000,BT79 7LT,2013-10-08,fhrs_3_en-GB,3,,FHRS,10
-413889,116a Old Mountfield Road,Omagh,,Co Tyrone,Village Store,Retailers - other,4613,5,,723131,10,,54.60845300000000,300919,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.26939800000000,BT79 7LT,2013-10-01,fhrs_4_en-GB,4,,FHRS,5
-413890,8 Main Street,Seskinore,Seskinore,Tyrone,Village Store,Retailers - other,4613,0,,723152,5,,54.51797000000000,301037,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.25285500000000,BT78 1UG,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-413891,6 Manse Road,Drumnaforbe,Drumquin,Tyrone,Vivo,Retailers - other,4613,10,,723052,5,,54.61572700000000,300636,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48739200000000,BT78 4SD,2013-10-24,fhrs_3_en-GB,3,,FHRS,10
-413892,47 Main Street,Fintona,Fintona,Tyrone,Vivo Essentials,Retailers - other,4613,5,,723204,5,,54.49809300000000,301503,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31722400000000,BT78 2AG,2013-12-10,fhrs_4_en-GB,4,,FHRS,10
-413893,164 Clanabogan Road,Garvagh,,Tyrone,Vivo Store,Retailers - other,4613,10,,722967,10,,54.55541000000000,300157,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.37928000000000,BT78 1SN,2014-10-20,fhrs_3_en-GB,3,,FHRS,10
-413894,1 Hospital Road,Campsie,Omagh,Tyrone,W.E.L.B. Meals Kitchen,Restaurant/Cafe/Canteen,1,5,,723062,5,,54.60049600000000,300657,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28787600000000,BT79 0AW,2013-08-02,fhrs_5_en-GB,5,,FHRS,0
-413895,,,,,Walk 'N' Roll Limited,School/college/university,7845,10,,723512,10,,,306364,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-10-06,fhrs_4_en-GB,4,,FHRS,0
-413896,161 Loughmacrory Road,Loughmacrory,Loughmacrory,Tyrone,Wards Costcutter,Retailers - other,4613,10,,723219,10,,54.62461000000000,302854,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.11290800000000,BT79 9LF,2013-11-07,fhrs_3_en-GB,3,,FHRS,5
-413897,4a Creggan Road,Carrickmore,Carrickmore,Tyrone,Wards Costcutter,Retailers - other,4613,5,,723367,10,,54.59820200000000,305647,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.05170100000000,BT79 9BD,2013-07-17,fhrs_4_en-GB,4,,FHRS,5
-413898,South West College,Mountjoy Road,Omagh,,Washingford Day Care Sharon Kelly,School/college/university,7845,5,,723439,0,,54.52497500000000,305980,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.28630400000000,BT78 7AH,2012-08-31,fhrs_5_en-GB,5,,FHRS,0
-413899,198 Dooish Road,Dooish,Drumquin,Tyrone,Wayside Bar,Pub/bar/nightclub,7843,5,,723226,0,,54.57719500000000,303534,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.49096900000000,BT78 4RE,2012-01-11,fhrs_5_en-GB,5,,FHRS,5
-413900,6 Kevlin Road,Omagh,,Co. Tyrone,Weigh Inn Bar,Pub/bar/nightclub,7843,10,,722980,5,,54.59883600000000,300195,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30509400000000,BT78 1LW,2013-09-19,fhrs_4_en-GB,4,,FHRS,0
-413901,Holy Family - Key Stage 1,Brook Street,Omagh,,WELB - Holy Family -1,School/college/university,7845,0,,723118,5,,54.60120000000000,300854,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.30856600000000,BT78 5HD,2014-06-18,fhrs_5_en-GB,5,,FHRS,5
-413902,Holy Family - Key Stage 2,Brookmount Road,Omagh,,WELB Holy Family - 2,School/college/university,7845,0,,723172,5,,54.60207400000000,301119,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.31047000000000,BT78 5HZ,2013-11-11,fhrs_4_en-GB,4,,FHRS,10
-413903,Unit 23d Gortrush Ind Estate,Great Northern Road,Omagh,Co Tyrone,Western Catering Supplies,Distributors/Transporters,7,10,,723227,5,,54.60616100000000,303535,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32482400000000,BT78 5EJ,2013-10-07,fhrs_4_en-GB,4,,FHRS,5
-413904,Kinine,Trillick,,Co Tyrone,Whispers P.R.H.,Hospitals/Childcare/Caring Premises,5,5,,723041,0,,54.47634600000000,300586,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.55402000000000,BT78 3UA,2011-08-18,fhrs_5_en-GB,5,,FHRS,5
-413905,,,,,Whooppee Ice-Cream Gu4 055,Mobile caterer,7846,5,,723511,5,,,306355,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-09-11,fhrs_5_en-GB,5,,FHRS,5
-413906,9 Deverney Road,Cranny,Omagh,Tyrone,Woodbank House,Hospitals/Childcare/Caring Premises,5,5,,723058,10,,54.59448400000000,300648,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.24735500000000,BT79 0ND,2014-03-05,fhrs_4_en-GB,4,,FHRS,5
-413907,15a Beltany Road,Conywarren,Omagh,Tyrone,Woodlands Childrens Home,Hospitals/Childcare/Caring Premises,5,5,,723171,0,,54.61533300000000,301115,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.32796900000000,BT78 5NA,2012-09-10,fhrs_5_en-GB,5,,FHRS,5
-413908,47a Segully Road,Dooish,Drumquin,Tyrone,Xl Stop & Shop,Retailers - other,4613,0,,723054,5,,54.59320900000000,300643,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,-7.48602000000000,BT78 4RD,2014-01-15,fhrs_5_en-GB,5,,FHRS,5
-413909,,,,,Yumtastic,Other catering premises,7841,5,,723520,0,,,306494,825,eh@omagh.gov.uk,Omagh,http://www.omagh.gov.uk,,,2014-10-28,fhrs_5_en-GB,5,,FHRS,0
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+413348,(Last Sure Start) - Fintona Creche,5,5,5,0,2014-12-16,54.495375,-7.311559
+413349,9th Avenue Mobile Catering,5,5,5,5,2012-05-31,,
+413350,9th Avenue Pizzeria,5,5,0,0,2013-12-11,54.484346,-7.254503
+413351,A E Kenwell & Sons,4,0,5,10,2012-08-13,54.513372,-7.458754
+413352,ÃÂ£ Stretcher And Pet Hut,2,15,5,10,2014-04-11,54.599529,-7.300688
+413353,A5 Stores & Cafe,3,10,10,10,2014-07-16,54.510404,-7.175212
+413354,Abacus Private Day Nursery,5,5,0,5,2014-11-18,54.613917,-7.293972
+413355,Adele'S Cakes,5,0,5,5,2012-03-20,,
+413356,After School Club,5,5,5,5,2012-06-20,54.598202,-7.051701
+413357,Afternoon Delights,5,0,0,5,2012-04-06,,
+413358,Age Concern,5,5,0,5,2014-02-06,54.550497,-7.160834
+413359,Aikens,4,10,0,5,2014-12-18,54.615682,-7.489513
+413360,Ajs Event Catering,5,5,0,0,2014-10-20,54.495375,-7.311559
+413361,Aj'S Event Catering - Eddie Macs,5,5,0,5,2014-03-24,,
+413362,Aj'S Event Catering - Snack Bar,5,5,0,5,2014-03-27,,
+413363,Aj'S Event Catering - The Deli,5,5,0,5,2014-01-28,,
+413364,Aj'S Event Catering - The Philly,5,5,0,5,2014-03-15,,
+413365,Aj'S Event Catering - Tim Hortons,5,5,0,5,2014-03-27,,
+413366,Aj'S Event Catering -The Coffee Pod,5,5,0,5,2014-01-28,,
+413367,Aladdins Kingdom,4,10,10,0,2013-03-15,54.603136,-7.301478
+413368,All Saints PS Dining Centre,4,10,10,0,2014-04-09,54.56002,-7.413865
+413369,All Sports Nutrition,Exempt,nan,nan,nan,2013-10-03,54.602288,-7.30717
+413370,An Bosca Ceoil,4,10,0,10,2013-07-03,54.7178,-7.234813
+413371,An Creagan Restaurant Ltd,5,nan,nan,nan,2013-12-11,54.661895,-7.034643
+413372,An Teach Ban Bed & Breakfast,4,0,0,10,2012-12-17,54.684393,-7.063677
+413373,Ann T Quinn,5,0,5,5,2012-02-03,,
+413374,Ann'S Kitchen,5,0,0,5,2012-09-19,,
+413375,Aramark @ Kerry Foods Omagh,5,5,5,5,2013-10-02,54.597492,-7.31194
+413376,Arandale House Bed And Breakfast,5,0,0,0,2014-05-20,54.601822,-7.245672
+413377,Ardmore,5,0,5,0,2014-12-02,,
+413378,Argos Ltd,Exempt,nan,nan,nan,2012-02-03,54.602404,-7.303858
+413379,Arleston House B & B,5,5,5,5,2013-07-10,54.604851,-7.285927
+413380,Asda,5,5,5,0,2014-01-06,54.593945,-7.299655
+413381,Asda Filling Station,5,5,0,0,2013-12-12,54.593945,-7.299655
+413382,Ashview House,5,0,5,5,2012-03-28,54.60406,-7.270838
+413383,Asian Buffet,3,10,10,5,2013-09-04,54.613302,-7.300978
+413384,Asian Delights,3,10,10,10,2014-10-14,54.600396,-7.296836
+413385,Avalon House,5,5,5,5,2013-01-03,54.606161,-7.297882
+413386,B & M Bargains,5,0,0,0,2012-02-06,54.598897,-7.312566
+413387,Bakery Island,5,5,5,5,2014-01-08,54.600142,-7.299486
+413388,Bakewells Patisserie,3,10,10,10,2014-06-24,54.601008,-7.293839
+413389,Barboni's,5,5,5,5,2014-10-08,54.601111,-7.30552
+413390,Bells Chippy T/At Fairgreen Fintona,5,5,0,5,2014-04-25,,
+413391,Beltany House,5,5,0,5,2014-10-13,54.615333,-7.327969
+413392,Beragh Bistro,4,5,10,5,2013-12-05,54.550497,-7.160834
+413393,Beragh Care & Community Centre,5,5,0,5,2014-01-21,54.550497,-7.160834
+413394,Big Bites,3,10,5,10,2014-08-07,54.451494,-7.487413
+413395,Birneys Grocers,5,nan,nan,nan,2013-11-07,54.6001,-7.187851
+413396,Blacksessiagh Regeneration Group,Exempt,nan,nan,nan,2013-09-24,54.564343,-7.346045
+413397,Bogans Bar,3,nan,nan,nan,2014-10-06,54.600351,-7.299854
+413398,Boots The Chemists,Exempt,nan,nan,nan,2014-03-11,54.599915,-7.302121
+413399,Bradleys Pharmacy,Exempt,nan,nan,nan,2011-06-23,54.596386,-7.308756
+413400,Bradley's Pharmacy,Exempt,nan,nan,nan,2013-09-24,54.615682,-7.489513
+413401,Bradley's Pharmacy,Exempt,nan,nan,nan,2013-08-07,54.607825,-7.282919
+413402,Brae Heather,5,0,0,0,2014-06-23,54.60657,-7.43435
+413403,Bridge Tavern,3,10,10,10,2013-09-26,54.481792,-7.208805
+413404,Brodericks Bar And Off-Licence,5,0,0,5,2013-10-25,54.600406,-7.304789
+413405,Buddies Childtime Centre Ltd,5,0,5,0,2014-09-05,54.589675,-7.244025
+413406,Burger Bistro,3,10,10,5,2013-07-05,54.599479,-7.306105
+413407,Cafe D'Roamer,5,0,5,5,2014-05-29,54.614538,-7.215316
+413408,Caffe Nero,4,5,10,5,2013-11-19,54.602404,-7.303858
+413409,Camowen Green Organic Farm Shop,3,10,10,10,2014-06-12,54.571211,-7.236342
+413410,Camowen Smart Kids,5,5,0,5,2013-11-08,54.550497,-7.160834
+413411,Camphill Community - Artaban House,5,0,0,0,2014-03-28,,
+413412,Camphill Community Columba House,5,0,0,0,2014-03-28,,
+413413,Camphill Community Rainbow House,5,0,0,0,2014-03-28,,
+413414,Camphill Community Riverstown House,5,0,0,0,2014-03-28,,
+413415,Camphill Community Sloe Cottage,5,0,0,0,2014-03-28,,
+413416,Camphill Community Sunrise Farm & House,5,0,0,0,2014-03-28,,
+413417,Campsie Service Station Ltd,4,5,5,10,2013-07-03,54.601008,-7.293839
+413418,Carlisle Bookshop,Exempt,nan,nan,nan,2014-03-11,54.599915,-7.302121
+413419,Carmen Build & Agri Supplies,Exempt,nan,nan,nan,2013-11-07,54.596148,-7.048624
+413420,Carrick House B&B,5,5,5,5,2012-08-13,54.636084,-7.296297
+413421,Carrickmore Creche & Youth Centre,5,5,5,5,2012-02-14,54.59178,-7.043884
+413422,Carrons Corner Bar,5,5,0,5,2008-03-19,54.512835,-7.459039
+413423,Cassidy'S Chemist,Exempt,nan,nan,nan,2014-04-03,54.497479,-7.318176
+413424,Centra,5,5,5,5,2013-08-06,54.600271,-7.317386
+413425,Central Bar,4,10,5,5,2010-07-30,54.646725,-7.169571
+413426,Charlies Bar,4,10,0,0,2012-06-14,54.601008,-7.293839
+413427,Cherish Sure Start,Exempt,nan,nan,nan,2012-07-17,54.45414,-7.492761
+413428,Chez Manu,5,5,5,5,2014-12-05,,
+413429,Christ The King Nursery Unit,5,0,0,5,2014-10-14,54.613302,-7.300978
+413430,Christ The King Ps Meals Kitchen,5,5,0,0,2014-10-21,54.613302,-7.300978
+413431,Christian Brothers Grammar School,5,0,5,5,2014-04-15,54.598836,-7.305094
+413432,Cinema,4,10,5,0,2014-10-30,54.611239,-7.33011
+413433,Claire'S Creations,5,0,0,5,2012-05-16,,
+413434,Clanabogan Country Club,3,10,10,10,2014-11-21,54.566195,-7.362975
+413435,Clanabogan Country House B&B,5,0,5,5,2014-05-14,54.566195,-7.362975
+413436,Classic Service Station,5,5,5,5,2013-08-07,54.593945,-7.299655
+413437,Clinton Cards,Exempt,nan,nan,nan,2014-03-11,54.600351,-7.299854
+413438,Clogherney Church Hall,Exempt,nan,nan,nan,2013-09-24,54.553685,-7.177584
+413439,Coach Inn,4,10,10,0,2014-06-05,54.597524,-7.309743
+413440,Coffee @ Grinders,5,5,5,5,2013-10-14,54.600142,-7.299486
+413441,Coffee House,3,10,10,5,2014-05-19,54.600406,-7.304789
+413442,Compass Group Uk&Ir (Chartwells Bistro),5,5,5,5,2014-05-07,54.60183,-7.302475
+413443,Constitutional Club,Exempt,nan,nan,nan,2013-12-06,,
+413444,Cooley Castles Ltd,3,10,5,10,2013-10-21,54.55405,-7.143451
+413445,Cooley Ps Meals Kitchen,5,5,5,5,2014-05-27,54.556212,-7.124178
+413446,Cornabracken @ Holy Family,5,5,0,5,2014-04-18,54.602082,-7.310408
+413447,Cornabracken Child Care,5,5,5,5,2014-04-17,54.59542,-7.333403
+413448,Corner Bar,4,10,0,5,2012-08-09,54.550331,-7.162723
+413449,Corrys Chemist,Exempt,nan,nan,nan,2010-04-27,54.7178,-7.234813
+413450,Costcutter,3,10,10,5,2014-08-28,54.718087,-7.234776
+413451,Costcutter,5,5,5,5,2013-04-26,54.608818,-7.322892
+413452,Costcutter Greencastle,5,5,0,5,2013-11-28,54.68654,-7.087321
+413453,Costcutter Supermarket,5,5,5,5,2014-05-01,54.550331,-7.162723
+413454,Costcutters,4,5,10,5,2014-03-21,54.513815,-7.459226
+413455,Country Bakes,5,0,0,0,2013-08-15,,
+413456,Country Cupcakes,5,0,5,5,2013-12-02,,
+413457,Cox Foodmarkets,5,nan,nan,nan,2014-12-12,54.487515,-7.133024
+413458,Culmore Diner,5,5,5,5,2013-09-04,54.583207,-7.337453
+413459,Culmore Service Station,4,10,0,10,2013-11-11,54.591933,-7.313813
+413460,Cumann Iarscoil Na Gcrann,3,10,10,10,2013-11-15,54.603159,-7.264432
+413461,Cupcakes By Louise,4,0,5,10,2014-05-27,,
+413462,Curry King,3,10,10,10,2013-09-24,54.607825,-7.282919
+413463,Daly's,4,10,0,0,2014-06-16,54.599915,-7.302121
+413464,Day Today,5,5,5,5,2014-03-06,54.604932,-7.315529
+413465,Day Today,3,10,10,5,2013-12-09,54.497596,-7.315103
+413466,Day Today,5,5,5,0,2014-05-27,54.59178,-7.043884
+413467,Day Today (Grocery Store),3,5,10,10,2013-07-02,54.62461,-7.112908
+413468,Dean Brian Maguirc College Meals Kitchen,4,10,0,0,2014-11-04,54.59178,-7.043884
+413469,Deazley Eats,4,nan,nan,nan,2013-12-11,54.498093,-7.317224
+413470,Deazley Meats,4,nan,nan,nan,2014-11-11,54.498093,-7.317224
+413471,Declan O'Hagan Pharmacy,Exempt,nan,nan,nan,2012-02-03,54.450908,-7.489132
+413472,Denamona Pre-School,5,0,0,5,2014-11-05,54.497589,-7.312201
+413473,Denamona Ps Meals Kitchen,5,5,5,0,2014-05-07,54.497589,-7.312201
+413474,Dergmoney Pre School Centre,5,0,5,0,2013-09-19,54.585224,-7.29385
+413475,Dobbins Ltd,Exempt,nan,nan,nan,2014-01-14,54.600406,-7.304789
+413476,Dolans Gortin Road,4,10,0,10,2013-02-11,54.613302,-7.300978
+413477,Domino'S Pizza,5,0,0,0,2014-03-26,54.602786,-7.309422
+413478,Dorothy'S Jam,5,0,0,0,2013-08-28,,
+413479,Doyles Vivo,3,10,10,10,2014-10-21,54.650809,-7.050538
+413480,Dragon Court,3,5,10,10,2014-09-16,54.601111,-7.30552
+413481,Dragon Dynasty,5,5,0,5,2014-08-05,54.516374,-7.451102
+413482,Drom Na Gainne,5,0,0,5,2013-09-26,54.638211,-7.036428
+413483,Dromore Centre,5,0,0,5,2012-02-29,54.513372,-7.458754
+413484,Dromore Community Playgroup,5,5,0,5,2014-11-25,54.516374,-7.451102
+413485,Dromore Ps Meals Kitchen,5,0,5,0,2013-11-27,54.510784,-7.454496
+413486,Dromore Sports Complex,5,0,5,0,2014-10-07,54.514767,-7.453331
+413487,Dromore Vivo,3,5,10,10,2014-02-19,54.516374,-7.451102
+413488,Drumduff Ps Dining Centre,5,5,0,0,2012-12-18,54.582675,-7.146485
+413489,Drumlish Ps Dining Centre,4,10,0,5,2014-04-14,54.543815,-7.45424
+413490,Drumquin Wolfe Tones,4,0,10,10,2009-07-29,54.614394,-7.488771
+413491,Drumragh Care Home,5,5,5,5,2013-07-16,54.589505,-7.291703
+413492,Drumragh Integrated College Meal Kitchen,5,5,0,5,2012-11-28,54.580602,-7.267391
+413493,Dsg2010,5,0,0,5,2013-11-19,54.607851,-7.177049
+413494,Dun Uladh Heritage Centre,5,0,5,0,2014-07-22,,
+413495,Duncan Agri Supplies,3,10,5,10,2013-09-23,54.468057,-7.468267
+413496,Dunmullan Ps Dining Centre,5,0,0,0,2013-04-18,54.677692,-7.306739
+413497,Dunnes Stores,5,5,0,5,2013-08-05,54.524975,-7.286304
+413498,Dunnes Stores Cafe Reflect,5,5,5,0,2014-04-10,54.524975,-7.286304
+413499,Early Birds,4,10,5,5,2014-10-15,54.609081,-7.281133
+413500,Eddies,5,5,5,5,2013-09-23,54.68654,-7.087321
+413501,Edward John Devaney,5,0,0,5,2013-05-22,54.612801,-7.293589
+413502,Ernesto,5,5,5,5,2014-11-04,54.600445,-7.302235
+413503,Eskra Childcare Ltd Playtime Day Nursery,5,5,5,0,2014-01-10,54.483592,-7.202599
+413504,Fairgreen Bar,5,5,5,5,2012-05-11,54.615682,-7.489513
+413505,Family Grocer Mcswiggan's,4,10,0,10,2012-05-25,54.717324,-7.159003
+413506,Farleys Bar,4,5,10,5,2014-05-20,54.550199,-7.159202
+413507,Finlay Hydrascreens,5,nan,nan,nan,2013-11-29,54.611239,-7.33011
+413508,Fintona Golf Club - Catering,5,5,0,5,2013-10-11,54.496536,-7.316725
+413509,Fintona Golf Club Bar,5,5,0,5,2013-03-15,54.496536,-7.316725
+413510,Fintona Gospel Hall,4,10,0,5,2012-02-15,54.50046,-7.3147
+413511,Fintona Medical Hall,Exempt,nan,nan,nan,2013-09-24,54.497479,-7.318176
+413512,First Omagh Presbyterian Church Hall,5,0,5,0,2014-12-12,54.599777,-7.298564
+413513,First Stop Service Station,1,10,10,20,2013-12-09,54.602786,-7.309421
+413514,Foothills Bar & Restaurant,4,10,5,5,2014-05-13,54.718087,-7.234776
+413515,Forge Bar,4,10,5,5,2012-08-03,54.512383,-7.460573
+413516,Fortview Residential Care Home,5,5,0,5,2011-06-22,54.500027,-7.551925
+413517,Four Oaks,5,5,5,0,2014-07-04,54.595624,-7.267786
+413518,"Funky Slush, Funky Chocolate",5,0,0,5,2013-08-23,,
+413519,G + L Gormley - Costcutter,5,0,5,5,2014-04-07,54.615682,-7.489513
+413520,G F Hackett,Exempt,nan,nan,nan,2012-02-03,54.550497,-7.160834
+413521,G.G'S Pizza Parlour,5,0,0,5,2014-11-26,54.513372,-7.458754
+413522,Gaelscoil Na Gcrann Primary School,5,nan,nan,nan,2013-10-28,54.597215,-7.225969
+413523,Gallery Restaurant,5,5,5,5,2014-05-08,54.60183,-7.302475
+413524,Garvaghey Centre Tyrone Gaa,4,10,0,0,2014-01-16,,
+413525,Gibson Ps Meals Kitchen,5,5,0,5,2013-10-29,54.605652,-7.292289
+413526,Gillygooley Ps Dining Centre,5,5,0,0,2014-05-14,54.611252,-7.386787
+413527,Giuseppes,5,nan,nan,nan,2013-11-18,54.599474,-7.30513
+413528,Gk House,5,0,5,5,2012-03-14,54.612341,-7.29793
+413529,Gk Traditional Family Butchers Ltd,5,0,5,5,2010-03-08,54.598202,-7.051701
+413530,Glendale Filling Station,4,0,10,10,2013-05-10,54.607759,-7.248502
+413531,Glenhordial Permaculture Farm,5,0,0,5,2013-06-18,54.624274,-7.262193
+413532,Glenmore Meats,5,nan,nan,nan,2014-01-15,54.717272,-7.232293
+413533,Glens Development Group,Exempt,nan,nan,nan,2011-09-22,54.680927,-7.256933
+413534,Glenview Fast Food,4,10,5,5,2014-08-08,54.718087,-7.234776
+413535,Goalpost Bar,5,5,5,5,2013-09-19,54.497479,-7.318176
+413536,Golan View Small Residential Home,Exempt,nan,nan,nan,2010-12-14,54.597197,-7.250213
+413537,Golden Dragon,5,5,5,5,2014-08-13,54.51797,-7.252855
+413538,Golden Gate Cafe & Takeaway Chinese,3,10,5,10,2013-11-25,54.550199,-7.159202
+413539,Golden House,3,10,10,10,2013-10-08,54.451862,-7.48727
+413540,Goldenhill Guesthouse,5,0,0,0,2013-10-24,54.570559,-7.395918
+413541,Good Mood Food,5,5,0,5,2014-09-02,,
+413542,Gordon Moore,5,5,0,5,2013-12-09,54.636217,-7.369283
+413543,Gordons Chemists,Exempt,nan,nan,nan,2012-08-08,54.600351,-7.299854
+413544,Gortaclare Stores,4,10,5,5,2014-05-15,54.529484,-7.212748
+413545,Gortin Day To Day,4,5,10,5,2014-01-06,54.7178,-7.234813
+413546,Gortin Outreach Centre,5,0,0,5,2012-09-20,54.717272,-7.232293
+413547,Gortin Ps Dining Centre,5,0,5,0,2014-01-08,54.721979,-7.232266
+413548,Gortin Service Station,Exempt,nan,nan,nan,2008-12-12,54.717385,-7.228908
+413549,Gortmore Day Centre,5,5,0,5,2013-09-05,54.602786,-7.309421
+413550,Gortnagarn Ps Dining Centre,5,0,0,0,2014-11-24,54.641976,-7.297791
+413551,Gortrush Childcare Centre,5,0,0,5,2014-11-26,54.598426,-7.324658
+413552,Granard Residential Home,5,5,5,5,2014-02-26,54.60042,-7.285618
+413553,Granny's,5,0,0,0,2013-11-25,,
+413554,Grants,5,5,5,5,2014-09-08,54.600406,-7.304789
+413555,Green Elves Playgroup,5,0,5,0,2011-04-07,54.691853,-7.081836
+413556,Greenmount Lodge B & B,5,5,0,5,2011-11-21,,
+413557,Hacketts Of Newtownsaville,5,5,5,5,2013-09-18,54.482982,-7.17848
+413558,Halfords,5,0,0,0,2014-03-10,54.598897,-7.312566
+413559,Halfway House,4,10,0,10,2014-07-18,54.548737,-7.286738
+413560,Halfway Service Station,3,10,10,10,2014-07-09,54.548737,-7.286738
+413561,Hamiltons Foodhall Ltd,3,10,10,10,2014-03-11,54.596025,-7.322609
+413562,Happy Days,5,5,5,5,2014-04-03,,
+413563,Harold Mccauley House,5,5,5,5,2014-09-29,54.602717,-7.2881
+413564,Harte'S Pharmacy & Gift Centre,Exempt,nan,nan,nan,2014-03-11,54.597332,-7.05299
+413565,Haughey'S Bar,5,0,0,5,2012-08-14,54.597332,-7.05299
+413566,Hazel'S Catering,5,5,5,5,2013-09-03,54.602406,-7.301088
+413567,Heatons & Sportsworld,Exempt,nan,nan,nan,2012-06-15,54.656962,-7.12099
+413568,Heron'S Burn,5,0,5,5,2014-05-21,54.642972,-7.308384
+413569,Hillcrest Care Facility,5,5,0,5,2014-11-11,54.605242,-7.288226
+413570,Hillview Lodge Nursing Home,5,5,5,5,2014-03-07,54.605242,-7.288226
+413571,Hogshead,5,5,0,0,2013-04-25,54.602113,-7.306261
+413572,Holland & Barrett,5,0,0,5,2012-03-26,,
+413573,Hollywood,3,10,10,10,2014-05-07,54.498093,-7.317224
+413574,Home Bargains,4,10,5,5,2014-02-11,54.593945,-7.299655
+413575,Homebase Ltd,Exempt,nan,nan,nan,2011-09-22,54.597492,-7.31194
+413576,Huggy Bear - Registration No. Tui 2719,5,0,5,5,2014-02-14,,
+413577,Hughie Ruadh'S Bar & Restaurant,5,5,5,5,2014-04-03,54.646725,-7.169571
+413578,Hung'S Kitchen,3,10,10,10,2014-07-30,54.615682,-7.489513
+413579,Ice Off-Licence,Exempt,nan,nan,nan,2010-12-06,54.609383,-7.299018
+413580,Iceland Frozen Foods,5,5,5,0,2012-05-02,54.599316,-7.302688
+413581,Indian Village,3,10,10,10,2013-03-25,54.59931,-7.306262
+413582,Inn House T/A Una Vita,5,5,5,5,2014-01-09,54.599597,-7.301615
+413583,Irish National Foresters,4,10,0,5,2014-02-14,54.600406,-7.304789
+413584,Irwins Bakery,5,5,0,0,2014-10-15,54.613302,-7.300978
+413585,J Ferris,5,0,0,5,2012-03-27,54.608818,-7.322892
+413586,J H Anderson & Sons,4,5,5,10,2014-05-08,54.550497,-7.160834
+413587,J J Donnelly & Sons,3,10,5,10,2014-06-25,54.48567,-7.310997
+413588,Jamm Home Bakery And Coffee Shop,4,5,5,10,2014-10-28,54.599529,-7.300688
+413589,John P O'Neill,Exempt,nan,nan,nan,2012-02-10,54.7178,-7.234813
+413590,Juniors Day Care Ltd,5,5,5,5,2014-10-14,54.608818,-7.322892
+413591,Kamal Mahal,3,10,10,5,2014-10-02,54.60406,-7.270838
+413592,Kampar,4,10,5,5,2013-08-01,54.601111,-7.30552
+413593,Karolina Shop,4,5,10,5,2013-07-11,54.600142,-7.299486
+413594,Kebab House,3,10,10,10,2013-09-25,54.512729,-7.459534
+413595,Kebab House,3,10,10,10,2014-01-09,54.601007,-7.293839
+413596,Kellys Chemist,Exempt,nan,nan,nan,2014-03-11,54.599915,-7.302121
+413597,Kelly'S Inn,5,5,5,5,2012-05-28,54.487515,-7.133024
+413598,Kennedy Bacon,4,5,0,10,2014-08-01,54.621483,-7.272957
+413599,Kfc,5,5,5,0,2013-09-30,54.593945,-7.299655
+413600,Kilskeery Independent Christian School,5,0,0,5,2013-02-26,54.444361,-7.553011
+413601,Kilskeery Post Office,4,0,10,10,2013-02-07,54.444361,-7.553011
+413602,Knockmoyle Hall,4,10,0,5,2014-01-23,54.651498,-7.313398
+413603,Knockmoyle Lodge Nursing Home,5,5,5,5,2014-10-15,54.653513,-7.301217
+413604,Knocknagor P.S. Dining Centre,4,5,5,10,2013-09-17,54.491924,-7.554405
+413605,Kool Kandy,5,5,0,5,2014-07-24,,
+413606,L. Duffy Catering,5,5,5,5,2014-03-19,,
+413607,La Gondola,4,5,10,5,2013-08-14,54.600396,-7.296836
+413608,Ladybird Playgroup,5,0,5,5,2012-04-17,54.59432,-7.313386
+413609,Langfield Ps Dining Centre,5,5,0,5,2014-06-18,54.616976,-7.493923
+413610,Last Sure Start,5,0,0,5,2013-11-21,54.613302,-7.300978
+413611,Last Sure Start Creche Carrickmore,5,0,0,0,2013-10-16,54.597332,-7.05299
+413612,Liams Mobile Trailer,5,5,5,5,2013-11-20,54.606249,-7.267332
+413613,Lidl (Ni) Gmbh,4,10,5,5,2014-03-05,54.598971,-7.309935
+413614,Lisdergan Meats,5,0,0,5,2014-04-03,54.489927,-7.323595
+413615,Lislimnaghan Church Hall,5,0,5,0,2013-05-22,54.633231,-7.335122
+413616,Lisnamallard Industries Day Centre,5,0,0,5,2014-02-18,54.606161,-7.297882
+413617,Little Angels Day Care,5,5,5,0,2014-04-18,54.62461,-7.112908
+413618,Little Friends Playgroup,4,10,0,5,2014-09-26,54.608531,-7.279316
+413619,Little Stars Daycare,4,10,5,0,2014-08-01,54.719238,-7.226468
+413620,Loreto Grammar School,5,5,5,5,2013-11-26,54.599165,-7.307611
+413621,Lucky Inn Chinese Restaurant,4,10,5,5,2014-10-21,54.602786,-7.309422
+413622,M.H.E. Mullaghmore House Enterprises,4,0,10,10,2013-11-29,54.608531,-7.279316
+413623,Mace - Dolans,4,5,10,5,2014-04-24,54.611821,-7.308959
+413624,Magheralough Ps Dining Centre,5,5,0,0,2014-06-16,54.453719,-7.519546
+413625,Main Street Takeaway,3,10,5,10,2013-11-14,54.597332,-7.05299
+413626,Mairead Mcbride Home Catering,5,0,5,5,2012-02-23,,
+413627,Mandarin Kitchen,3,10,10,5,2014-03-04,54.601008,-7.293839
+413628,Mantis On Main Street,5,5,0,5,2012-05-16,54.599597,-7.301615
+413629,Marks & Spencer ( M+S Cafe),5,5,0,0,2013-08-06,54.602404,-7.303858
+413630,Marks & Spencer Plc,5,5,0,0,2013-06-17,,
+413631,Mcaleer'S Bar,5,5,0,5,2013-11-07,54.556885,-7.118012
+413632,Mcatee'S Bar,4,5,10,5,2013-08-13,54.498373,-7.315938
+413633,Mcbride'S Spar,5,5,5,5,2014-11-19,54.609383,-7.299018
+413634,Mcbride'S Spar,5,5,5,0,2014-06-02,54.607825,-7.282919
+413635,Mccarney Costcutters,4,5,10,5,2014-02-20,54.450908,-7.489132
+413636,Mccarney Meats,5,5,5,5,2013-06-19,54.451494,-7.487413
+413637,McClintock Children's Centre,5,0,0,5,2014-10-28,54.516924,-7.252272
+413638,Mcclintock Ps Dining Centre,5,5,0,0,2014-10-28,54.516924,-7.252272
+413639,Mcdermott'S Pharmacy,Exempt,nan,nan,nan,2014-04-03,54.512729,-7.459534
+413640,Mcdonalds,5,5,0,0,2014-05-09,54.593945,-7.299655
+413641,Mcgees Butchers (Concession In Asda),5,5,0,5,2014-11-11,54.593945,-7.299655
+413642,Mcginn Butchers,4,10,5,5,2014-09-24,54.550497,-7.160834
+413643,Mcgirr'S Day Today,5,0,5,5,2013-05-23,54.641976,-7.297791
+413644,Mcgirr'S Spar,5,5,5,5,2013-09-09,54.594865,-7.298834
+413645,Mcglinn'S Bar,5,5,5,5,2013-05-14,54.498093,-7.317224
+413646,Mcgrath'S Bar,5,5,0,5,2010-01-19,54.651498,-7.313398
+413647,Mcgreads (Medicare) Pharmacy,Exempt,nan,nan,nan,2014-03-11,54.599474,-7.30513
+413648,Mcguigans Butchers,5,nan,nan,nan,2012-02-16,54.496716,-7.319994
+413649,Mcleans Foodstore & Hot Food Carryout,5,5,0,5,2014-03-05,54.598108,-7.280491
+413650,McNaboes Bar,4,10,0,5,2012-08-17,54.512728,-7.459534
+413651,Mcquaid,Exempt,nan,nan,nan,2014-03-25,54.497479,-7.318176
+413652,Meadowbank Residential Home,5,5,5,5,2014-05-13,54.58475,-7.252391
+413653,Medical Hall Hacketts,Exempt,nan,nan,nan,2011-03-01,54.556928,-7.118985
+413654,Meenagh'S Vivo,2,10,15,10,2014-09-26,54.646412,-7.17108
+413655,Melanie Quick,5,0,0,5,2013-09-30,,
+413656,Mellon Fun Farm,5,5,5,5,2014-07-09,54.660343,-7.331983
+413657,Mellons Bar,5,0,0,5,2014-01-07,54.497479,-7.318176
+413658,Methodist Church Hall,Exempt,nan,nan,nan,2013-02-05,54.600189,-7.306031
+413659,Michelles Cakes And Bakes,4,0,0,10,2013-08-29,,
+413660,Molloy Meats,5,5,5,0,2014-03-24,54.513372,-7.458754
+413661,Mo'S Newsagents,5,0,5,5,2014-04-24,54.496661,-7.319671
+413662,Mossey'S Bar,5,nan,nan,nan,2013-09-18,54.717272,-7.232293
+413663,Mountjoy B & B,5,0,5,0,2014-10-23,54.647707,-7.347387
+413664,Mountjoy Filling Station,3,10,5,10,2014-06-19,54.642061,-7.344921
+413665,Mr Chippy,5,5,5,0,2015-01-08,54.600271,-7.317386
+413666,Mr C'S Event Catering - Reg No Hhz 8651,5,5,0,5,2012-09-06,,
+413667,Mr C'S Event Catering - Vji 3061,5,0,5,5,2013-10-29,,
+413668,Mr Eatwells,5,5,5,5,2012-12-04,54.601008,-7.293839
+413669,Mr Eatwells Hot Food Bar {New},5,nan,nan,nan,2015-01-20,54.601008,-7.293839
+413670,Mr Tumbles House Of Fun Ltd,4,10,5,5,2015-01-12,54.613302,-7.300978
+413671,Mr Whirly (Reg No: DA06 0JU,3,10,5,10,2013-04-22,,
+413672,Ms Frances Matthews,5,0,0,5,2013-02-15,,
+413673,Ms Kay Mccauley,5,5,5,5,2014-01-08,,
+413674,Ms Mairead Mccrory,4,0,0,10,2012-11-27,,
+413675,Mulhern Close Residential Home,5,nan,nan,nan,2013-10-04,54.58771,-7.305934
+413676,Mullaslin House,5,0,0,5,2013-10-31,54.605186,-7.129904
+413677,Myles Mccann'S Pub,4,10,10,0,2014-05-13,54.599474,-7.30513
+413678,Nags Inn,4,10,5,5,2013-05-14,54.496565,-7.318592
+413679,Naiscoil Colmcille,5,0,5,5,2012-02-07,54.598202,-7.051701
+413680,Naiscoil Na Gcrann (Nursery) Dun Uladh,4,10,0,5,2014-09-29,54.603159,-7.264432
+413681,New Look Retailers Ltd,Exempt,nan,nan,nan,2014-11-21,54.602404,-7.303858
+413682,News At 6,4,5,5,10,2012-12-18,54.599474,-7.30513
+413683,Newscast,Exempt,nan,nan,nan,2012-08-03,54.513626,-7.459183
+413684,Nippers Alley Playgroup,5,0,0,5,2014-06-26,54.627706,-7.10259
+413685,Nisa,4,nan,nan,nan,2014-05-14,54.556885,-7.118012
+413686,Nite Bite,4,5,10,5,2014-10-06,54.60948,-7.322277
+413687,Number 19,3,5,10,10,2014-10-22,54.599915,-7.302121
+413688,O'Cahan Arms,5,0,0,5,2014-12-12,54.615682,-7.489513
+413689,O'Connor'S Bar & Restaurant,4,10,10,0,2014-06-24,54.513372,-7.458754
+413690,OIPS Friends Club,5,5,5,5,2014-10-03,,
+413691,O'Kane'S Bar,5,5,0,5,2012-02-08,54.615682,-7.489513
+413692,O'Kanes Spar Foodstore,4,10,5,0,2014-11-04,54.599248,-7.062616
+413693,Omagh Academicals Rugby Football Club,4,10,0,5,2013-10-18,54.616567,-7.336756
+413694,Omagh Academy Gs Meals Kitchen,5,5,5,5,2012-09-19,54.597738,-7.29846
+413695,Omagh County Ps Meals Kitchen,5,5,5,5,2014-11-13,54.600937,-7.292525
+413696,Omagh District Council,5,5,5,5,2014-02-28,54.60641,-7.302242
+413697,Omagh Early Years Centre,5,nan,nan,nan,2014-05-07,54.606161,-7.297882
+413698,Omagh Golf Club,4,10,0,5,2012-03-14,54.594441,-7.292313
+413699,Omagh High School Meals Kitchen,5,5,5,5,2014-11-18,54.598338,-7.287434
+413700,Omagh Independent Methodist Church,5,0,0,0,2014-12-12,54.599987,-7.276187
+413701,Omagh Integrated Nursery,5,0,5,5,2013-09-19,54.585224,-7.29385
+413702,Omagh Integrated Primary School,5,5,0,5,2014-10-14,54.585224,-7.29385
+413703,Omagh Leisure Complex Creche,4,5,5,10,2012-01-15,54.599987,-7.276187
+413704,Omagh Library Headquarters Canteen,5,5,0,0,2014-11-25,54.596156,-7.304614
+413705,Omagh Masonic Hall,Exempt,nan,nan,nan,2013-07-05,54.601008,-7.293839
+413706,Omagh Meats Ltd - Canteen,5,5,0,5,2014-01-13,54.576937,-7.279503
+413707,Omagh North Nursery School,5,5,0,5,2014-11-12,54.605652,-7.292289
+413708,Omagh Wellness Centre,Exempt,nan,nan,nan,2013-10-03,54.599597,-7.303039
+413709,Omagh Youth Centre,3,10,5,10,2011-04-20,54.605652,-7.292289
+413710,Our Lady Of Lourdes Ps Meals Kitchen,5,5,5,0,2014-12-04,54.691853,-7.081836
+413711,Owenkillew Community Centre,5,5,0,5,2012-09-03,54.717272,-7.232293
+413712,Owenkillew Development Company,Exempt,nan,nan,nan,2012-08-14,54.717272,-7.232293
+413713,Owenkillew Thursday Dinners,4,5,10,5,2014-12-11,54.717272,-7.232293
+413714,P Donaghy Public House,5,0,0,5,2014-02-26,54.598202,-7.051701
+413715,Packies Bar,5,5,5,0,2014-06-05,54.451494,-7.487413
+413716,Paula Muldoon & Maria Mcgread,3,10,10,10,2013-05-29,54.55033,-7.443057
+413717,Perfect Pizza,3,10,10,5,2013-09-17,54.600542,-7.295611
+413718,Peter Pan Playgroup,5,5,0,5,2013-09-26,54.451494,-7.487413
+413719,Philip'S Kitchen,3,10,10,10,2014-09-30,54.599474,-7.30513
+413720,Philly'S Phinest,3,10,10,10,2014-05-16,54.600445,-7.302235
+413721,Pinewood Lodge,5,0,0,5,2009-05-13,54.583396,-7.326175
+413722,Pizzamac,5,5,0,5,2013-10-30,54.510404,-7.175212
+413723,Pizzamac,4,5,10,5,2013-08-13,54.608453,-7.269398
+413724,Pizzarama,5,5,5,0,2014-03-31,54.601008,-7.293839
+413725,Pj Ices - Ll51 0lx,4,0,5,10,2014-02-19,,
+413726,Pokertree Brewing Company,Exempt,nan,nan,nan,2014-10-16,54.599248,-7.062616
+413727,Polish Delicatessen Spizarnia,5,5,5,0,2014-04-28,54.599597,-7.303039
+413728,Poundworld,3,10,10,10,2013-11-15,54.602404,-7.303858
+413729,Puddleducks Playgroup,5,0,0,0,2014-05-13,54.559744,-7.361098
+413730,Queen Elizabeth Ii Ps Dining Centre,5,0,5,5,2014-03-21,54.441731,-7.539261
+413731,Quinn'S Carryout,5,5,5,0,2014-05-13,54.598202,-7.051701
+413732,Railway Court,5,5,5,5,2013-05-20,54.593515,-7.314065
+413733,Rainbow Community Playgroup,5,5,5,0,2014-04-28,54.598066,-7.308728
+413734,Rainbow Surestart,5,0,0,5,2013-01-08,54.615682,-7.489513
+413735,Ramona House,5,5,5,5,2015-01-15,54.610207,-7.28328
+413736,Rascals Community Playgroup,5,0,0,0,2013-12-09,54.717272,-7.232293
+413737,Recarson Ps Meals Kitchen,5,5,0,0,2013-05-02,54.594913,-7.232711
+413738,Residential Centre & Museum Restaurant,5,5,5,0,2014-02-04,54.668057,-7.337978
+413739,Riverfront Coffee House,5,5,0,5,2013-10-17,54.600351,-7.299854
+413740,Riverside Restaurant,4,10,5,5,2014-08-04,54.602404,-7.303858
+413741,Rock Cafe,4,10,5,5,2013-09-05,54.597332,-7.05299
+413742,Rosewood Beacon Centre,5,5,5,5,2008-12-03,54.596025,-7.322609
+413743,Royal British Legion,5,5,0,5,2013-10-21,54.601008,-7.293839
+413744,Royal British Legion Club,5,5,0,0,2013-12-30,54.496536,-7.316725
+413745,Ruby Palace,4,5,10,5,2013-12-10,54.600406,-7.304789
+413746,Rue,5,5,5,5,2014-05-09,54.599597,-7.301615
+413747,Sacred Heart College Meals Kitchen,4,10,5,0,2013-09-25,54.594349,-7.306006
+413748,Sacred Heart Ps Dining Centre,5,5,0,0,2014-04-15,54.532326,-7.28857
+413749,Sallys,4,10,5,5,2014-05-13,54.599474,-7.30513
+413750,Salt & Pepper Restaurant,3,10,5,10,2014-06-04,54.513372,-7.458754
+413751,Scoffs,5,5,5,0,2013-11-06,54.498373,-7.315938
+413752,Scout & Guide Hall,Exempt,nan,nan,nan,2014-02-27,54.600542,-7.295611
+413753,Serendipity Tea Rooms,4,10,5,5,2014-08-18,54.600445,-7.302235
+413754,Seskinore Farm Meats,5,0,0,5,2012-05-15,54.516464,-7.256249
+413755,Shoppers Rest,4,10,5,5,2014-07-18,54.60019,-7.301543
+413756,Silver Bowl Chinese Take Away,4,nan,nan,nan,2014-05-13,54.598202,-7.051701
+413757,Silverbirch Hotel,4,5,10,5,2014-04-11,54.609383,-7.299018
+413758,Sizzlers,4,5,10,5,2014-08-15,,
+413759,Skeboy Foods,5,0,5,5,2012-11-30,,
+413760,Slevins,4,10,5,5,2012-10-03,54.496661,-7.319671
+413761,Slevins Chemist,Exempt,nan,nan,nan,2013-09-24,54.600501,-7.297794
+413762,Slieve Na Mon Private Nursing Home,5,5,5,5,2014-05-20,54.669338,-7.286733
+413763,Smart Attack Playgroup,5,0,0,5,2013-10-02,54.599987,-7.276187
+413764,Social Education Centre,5,5,5,0,2013-10-07,54.59524,-7.265163
+413765,Spar,4,10,5,0,2014-04-10,54.513626,-7.459183
+413766,Spar,4,5,10,5,2014-01-16,54.556885,-7.118012
+413767,Spar,5,0,5,0,2013-12-06,54.451494,-7.487413
+413768,Spar Express,5,nan,nan,nan,2014-02-12,54.599316,-7.302688
+413769,Spar Supermarket,4,5,10,5,2014-05-19,54.615682,-7.489513
+413770,Splash In The Pan,5,nan,nan,nan,2014-06-16,54.5941,-7.300147
+413771,Springhill Golf Club,3,10,5,10,2013-11-15,54.45414,-7.492761
+413772,Springlawn House Nursing Home,5,5,0,5,2014-10-29,54.591933,-7.313813
+413773,St Brigid'S Play School Mountfield,4,10,0,5,2012-02-21,54.651132,-7.172936
+413774,St Brigid'S Ps Dining Centre,5,5,5,5,2014-05-30,54.52476,-7.084186
+413775,St Brigid'S Ps Dining Centre,4,10,0,5,2013-10-28,54.651132,-7.172936
+413776,St Columbkille'S Ps Meals Kitchen,5,0,0,0,2013-12-02,54.598202,-7.051701
+413777,St Conor'S Ps Meals Kitchen,5,5,0,5,2014-05-01,54.598426,-7.324658
+413778,St Dympna'S Ps Dining Centre,5,5,0,5,2014-02-27,,
+413779,St Enda'S Gaa Club,4,5,0,10,2013-10-30,54.613302,-7.300978
+413780,St Eugene'S Ps Dining Centre,5,0,5,5,2013-05-03,54.669125,-7.282645
+413781,St John'S B & E College Meals Kitchen,5,5,0,0,2014-05-08,54.514767,-7.453331
+413782,St Joseph'S Hall,5,5,0,5,2012-07-24,54.600189,-7.306031
+413783,St Joseph'S Ps Meals Kitchen,5,5,5,0,2014-06-13,54.614394,-7.488771
+413784,St Julian'S House,5,5,0,5,2013-09-12,54.60744,-7.295446
+413785,St Lawrences Nursery School,5,5,0,5,2014-10-03,54.492327,-7.326965
+413786,St Lawrence'S Ps Meals Kitchen,5,5,5,0,2014-05-01,54.492327,-7.326965
+413787,St Macartan'S Ps Dining Centre,4,5,5,10,2013-04-29,54.536362,-7.520676
+413788,St Marys Primary School - Nursery Unit,5,5,0,5,2014-12-15,54.608453,-7.269398
+413789,St Marys Ps Meals Kitchen,5,5,5,5,2013-11-26,54.608453,-7.269398
+413790,St Matthews Ps Dining Centre,4,5,0,10,2014-11-14,54.486599,-7.135543
+413791,St Michaels Parish Hall,4,0,5,10,2013-07-23,54.556212,-7.124178
+413792,St Oliver Plunkett Nursery School,5,nan,nan,nan,2014-05-12,54.544727,-7.173437
+413793,St Oliver Plunkett Ps Meals Kitchen,4,10,5,5,2015-01-13,54.544727,-7.173438
+413794,St Patrick'S Ps Dining Centre,5,nan,nan,nan,2014-06-23,54.483592,-7.202599
+413795,St Patrick'S Ps Dining Centre,5,5,5,0,2014-05-13,54.717385,-7.228908
+413796,St Scire'S Ps Meals Kitchen,4,5,10,5,2013-09-16,54.447975,-7.490078
+413797,St Teresa'S Ps Meals Kitchen,5,5,5,5,2013-11-19,54.627706,-7.10259
+413798,Stake Out,3,10,10,10,2014-05-07,54.59931,-7.306262
+413799,Star Kitchen,3,5,10,10,2014-02-04,54.594865,-7.298834
+413800,Stevie's,5,5,5,5,2013-07-04,54.485359,-7.127962
+413801,Strains Bar,5,5,5,0,2015-01-13,54.600497,-7.301894
+413802,Strand Brae Bar,5,0,0,5,2013-12-11,54.556885,-7.118012
+413803,Strathroy After School Club,4,5,5,10,2013-11-28,54.612189,-7.308829
+413804,Strule Arts Cafe,5,5,0,5,2013-12-05,54.600703,-7.303252
+413805,Strule Cafe,5,5,5,5,2014-08-13,54.668057,-7.337978
+413806,Strule Erne Daycare,5,5,0,5,2013-10-02,54.603159,-7.264432
+413807,Subway,5,0,0,5,2014-04-28,54.600542,-7.295611
+413808,Subway,5,0,5,5,2014-02-11,54.599915,-7.302121
+413809,Sugar And Spice Early Years Centre,5,5,5,0,2014-11-21,54.621162,-7.491612
+413810,Su-Lorr (Bed & Breakfast),5,0,5,5,2014-08-21,54.595577,-7.282454
+413811,Sunflower Early Years Group,5,0,0,5,2012-09-26,54.495375,-7.311559
+413812,Super Fresh Foods,2,15,10,10,2014-05-19,54.597332,-7.05299
+413813,Super Whip - Reg No Aj12 Hdk,5,0,0,0,2013-09-06,,
+413814,Super Whipp Ices Mj06ftc,4,0,0,10,2013-02-20,,
+413815,Superdrug Stores Plc,Exempt,nan,nan,nan,2013-09-24,54.60019,-7.301543
+413816,Supershop,2,15,10,10,2014-05-06,54.598673,-7.275808
+413817,Supervalu,5,5,5,0,2014-11-10,54.600142,-7.299486
+413818,Supervalu,5,5,5,0,2013-09-02,54.496276,-7.319986
+413819,Sweet Things Cakes,4,5,5,10,2013-10-10,,
+413820,Tara Centre,Exempt,nan,nan,nan,2013-01-21,54.600801,-7.293796
+413821,Tasty Bites,3,5,10,10,2013-09-10,54.550199,-7.159202
+413822,Tattykeel House,5,0,0,0,2013-12-09,54.571777,-7.271307
+413823,Tesco W.O.W.,Exempt,nan,nan,nan,2013-09-24,54.599529,-7.300688
+413824,The Book Stop,3,10,10,5,2014-08-01,54.60183,-7.302475
+413825,The Bridge Express,4,10,5,5,2013-11-05,54.600445,-7.302235
+413826,The Bridge Inn,3,10,10,10,2013-11-29,54.449502,-7.49214
+413827,The Cakery Ni,5,0,0,5,2014-03-03,,
+413828,The Cellar Bar,4,10,0,10,2014-08-22,54.600445,-7.302235
+413829,The Central Bar,4,10,0,10,2014-11-26,54.513626,-7.459183
+413830,The Central Bar,5,0,0,5,2014-12-17,54.451494,-7.487413
+413831,The Charm Inn,4,5,5,10,2013-09-20,54.597332,-7.05299
+413832,The Chip Basket,4,10,5,5,2014-11-11,54.608453,-7.269398
+413833,The Coffee Shop,3,10,10,5,2015-01-13,54.599597,-7.303039
+413834,The Country Kitchen,4,5,5,10,2013-09-10,54.498169,-7.316297
+413835,The Country Stove,5,5,0,5,2013-08-12,54.611239,-7.33011
+413836,The Encore Cake An Rroll,4,10,0,5,2014-10-27,54.600542,-7.295611
+413837,The Factory Shop,Exempt,nan,nan,nan,2011-09-22,54.593945,-7.299655
+413838,The Galley Cafe - Omagh Leisure Centre,5,5,5,0,2013-10-01,54.605652,-7.292289
+413839,The Gort Inn,4,10,0,5,2014-08-08,54.717272,-7.232293
+413840,The Hill Shop,3,10,10,10,2014-02-07,54.598229,-7.304207
+413841,The Hot Pot,3,10,10,10,2013-11-02,54.551973,-7.245758
+413842,The Humbug,2,15,5,10,2014-07-17,54.600514,-7.301631
+413843,The Laurels,5,0,5,5,2014-02-07,54.579436,-7.371522
+413844,The Magic Roundabout Playgroup,5,5,5,0,2014-12-09,54.52476,-7.084186
+413845,The Meat Joint,4,10,5,5,2013-09-02,54.599597,-7.303039
+413846,The Mellon Country Hotel Ltd,3,nan,nan,nan,2014-10-22,54.676914,-7.352932
+413847,The Mill Bar And Lounge,3,10,10,10,2013-08-22,54.716547,-7.051314
+413848,The Millstone Bar & Restaurant,4,10,5,5,2013-12-03,54.641976,-7.297791
+413849,The News Shoppe,2,10,15,0,2014-07-17,54.601008,-7.293839
+413850,The Old Schoolhouse,4,10,5,5,2012-02-02,54.556928,-7.118985
+413851,The Ostlers Arms,5,0,0,0,2014-11-11,54.599597,-7.301615
+413852,The Patrician Hall,Exempt,nan,nan,nan,2013-10-28,54.597332,-7.05299
+413853,The Pedlars Restaurant,1,15,10,20,2014-09-08,54.717272,-7.232293
+413854,The Pizza Place,4,10,5,5,2013-09-23,54.497596,-7.315103
+413855,The Pizza Shop,3,10,10,10,2014-06-24,54.59931,-7.306262
+413856,The Poet'S Pub,4,10,5,5,2012-06-14,54.497713,-7.318265
+413857,The Post Inn,5,0,0,5,2012-08-02,54.620535,-7.492099
+413858,The Riverside Cafe Takeaway And Sit In,3,10,10,10,2014-05-27,,
+413859,The Salad Bowl,5,5,0,5,2013-10-10,54.600501,-7.297794
+413860,The Sandwich Company,5,5,0,5,2013-08-01,54.600351,-7.299854
+413861,The Sperrin Restaurant,4,10,5,0,2014-06-23,54.642061,-7.344921
+413862,The Spirit Store,5,5,5,0,2013-08-07,54.451862,-7.48727
+413863,The Sweet Spot,5,0,5,5,2012-03-29,54.599843,-7.297465
+413864,The Terrace,4,10,0,5,2012-07-25,54.603406,-7.096611
+413865,The Vault/The Embankment,4,5,10,5,2012-11-20,54.600514,-7.301631
+413866,The Whistlers Inn ( Home Fresh Kitchen Ltd),4,10,5,5,2014-08-11,54.556885,-7.118012
+413867,The Wine Company,Exempt,nan,nan,nan,2013-09-24,54.600542,-7.295611
+413868,Thee Plaice,5,5,0,5,2014-10-15,54.600445,-7.302235
+413869,Three Rivers Care Centre,5,0,5,5,2014-10-23,54.608727,-7.291167
+413870,Tier-Ific Cakes,5,0,0,5,2012-03-29,,
+413871,Top News,4,0,0,10,2012-05-03,54.600406,-7.304789
+413872,Top Nosh,5,5,5,5,2013-12-09,54.609383,-7.299018
+413873,Top Of The Town,3,10,5,10,2014-01-09,54.599474,-7.30513
+413874,Top Stop Fast Foods Takeaway,2,15,10,10,2013-12-10,54.497479,-7.318176
+413875,Total Workout,4,10,0,0,2013-10-21,54.611093,-7.308847
+413876,Treanor Meats,3,5,10,10,2013-08-21,54.67832,-7.28194
+413877,Treats Boutique,4,0,5,10,2013-12-12,,
+413878,Trillick Enterprise Leisure Centre,Exempt,nan,nan,nan,2014-02-11,54.45414,-7.492761
+413879,Trillick Funeral Committee,Exempt,nan,nan,nan,2014-12-09,54.45414,-7.492761
+413880,Truly Scrumptious,5,0,5,5,2012-09-03,,
+413881,Tummery Ps Dining Centre,5,5,0,5,2013-09-16,54.494814,-7.522953
+413882,Twenty Three,5,5,5,5,2012-02-03,54.594208,-7.322284
+413883,Tyrone And Fermanagh Hospital,5,5,5,5,2014-06-19,54.592313,-7.269841
+413884,Tyrone County Club,4,10,5,5,2014-03-14,54.600189,-7.302936
+413885,Tyrone County Hospital,3,10,5,10,2014-01-14,54.601032,-7.284246
+413886,Utopia,4,10,5,5,2012-03-13,54.6005,-7.297793
+413887,Valerie Alexander,Exempt,nan,nan,nan,2012-06-06,54.662606,-7.307817
+413888,Village Inn,3,10,10,5,2013-10-08,54.608453,-7.269398
+413889,Village Store,4,5,10,5,2013-10-01,54.608453,-7.269398
+413890,Village Store,5,5,5,0,2014-05-06,54.51797,-7.252855
+413891,Vivo,3,10,5,10,2013-10-24,54.615727,-7.487392
+413892,Vivo Essentials,4,10,5,5,2013-12-10,54.498093,-7.317224
+413893,Vivo Store,3,10,10,10,2014-10-20,54.55541,-7.37928
+413894,W.E.L.B. Meals Kitchen,5,0,5,5,2013-08-02,54.600496,-7.287876
+413895,Walk 'N' Roll Limited,4,0,10,10,2014-10-06,,
+413896,Wards Costcutter,3,5,10,10,2013-11-07,54.62461,-7.112908
+413897,Wards Costcutter,4,5,10,5,2013-07-17,54.598202,-7.051701
+413898,Washingford Day Care Sharon Kelly,5,0,0,5,2012-08-31,54.524975,-7.286304
+413899,Wayside Bar,5,5,0,5,2012-01-11,54.577195,-7.490969
+413900,Weigh Inn Bar,4,0,5,10,2013-09-19,54.598836,-7.305094
+413901,WELB - Holy Family -1,5,5,5,0,2014-06-18,54.6012,-7.308566
+413902,WELB Holy Family - 2,4,10,5,0,2013-11-11,54.602074,-7.31047
+413903,Western Catering Supplies,4,5,5,10,2013-10-07,54.606161,-7.324824
+413904,Whispers P.R.H.,5,5,0,5,2011-08-18,54.476346,-7.55402
+413905,Whooppee Ice-Cream Gu4 055,5,5,5,5,2014-09-11,,
+413906,Woodbank House,4,5,10,5,2014-03-05,54.594484,-7.247355
+413907,Woodlands Childrens Home,5,5,0,5,2012-09-10,54.615333,-7.327969
+413908,Xl Stop & Shop,5,5,5,0,2014-01-15,54.593209,-7.48602
+413909,Yumtastic,5,0,0,5,2014-10-28,,

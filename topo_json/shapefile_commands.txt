@@ -1,0 +1,8 @@
+
+ogr2ogr -t_srs WGS84  -f GeoJSON   fixed.geojson   district_borough_unitary_region.shp
+
+topojson -o fixed.topojson fixed.geojson --simplify-proportion 0.04
+
+http://stackoverflow.com/questions/13455842/where-to-find-the-uks-regions-map-on-geojson-format
+don't forget to convert from Northing/Easting to Lat/Long if you want to work with Leaflet, Google Maps, etc
+http://www.mapshaper.org/

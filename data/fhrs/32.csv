@@ -1,0 +1,914 @@
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+31044,{c.a.k.e},AwaitingInspection,nan,nan,nan,,,
+31045,19 - The Coffee House,5,0,0,0,2014-03-18,52.21592,-0.065443
+31046,1st Step Day Nursery,5,5,0,5,2014-11-04,52.194742,0.264601
+31047,A and B Catering,Exempt,nan,nan,nan,2014-01-06,52.150972,0.140713
+31048,A Chew n' a Brew,4,10,5,5,2014-11-28,52.289311,0.173288
+31049,A Fond Farewell,5,5,0,5,2014-10-28,,
+31050,Abbeyfield Girton,5,5,0,0,2012-10-04,52.230337,0.089938
+31051,Abington Social Club,4,10,5,5,2014-05-22,52.11175,0.230379
+31052,Abington Village Institute,5,5,5,5,2012-11-27,52.11419,0.23589
+31053,ABM Catering Ltd,5,5,5,5,2014-12-17,52.217993,-0.061356
+31054,Acorn Garage,5,0,0,0,2015-01-22,52.121934,0.237695
+31055,ADM Direct UK Ltd,Exempt,nan,nan,nan,2010-07-28,52.187411,0.037437
+31056,Africfood,4,0,5,10,2011-08-22,,
+31057,All About Kids,AwaitingInspection,nan,nan,nan,,,
+31058,All Saints Church,5,5,5,5,2014-11-24,52.143531,0.121064
+31059,Allsorts Tea and Gifts,5,5,0,0,2013-06-26,52.311748,0.050448
+31060,Amanda's Sandwich Bar/Cafe,5,0,5,0,2014-01-23,52.183543,0.221813
+31061,Ambassador Lodge,5,5,5,5,2012-12-07,,
+31062,Amgen Ltd,5,0,0,5,2013-11-20,52.236375,0.141819
+31063,Amino Communications,5,5,0,0,2013-05-02,52.273611,-0.007115
+31064,Amiraz T/A Spice Box,5,5,5,5,2014-10-07,,
+31065,Anglia Farm Shop,4,10,5,0,2014-01-28,52.226778,0.095379
+31066,Aris Inn Hotel,5,5,5,5,2015-01-07,52.066526,0.053888
+31067,Aristocaters,5,0,0,0,2014-03-20,52.128709,0.180862
+31068,Arrington Nursery,5,5,5,5,2015-02-06,52.131056,-0.059946
+31069,Artist House Cambridge,5,0,0,5,2013-07-05,52.228622,0.087265
+31070,Arty Farty Tea Party (1),AwaitingInspection,nan,nan,nan,,52.258362,0.107285
+31071,Arty Farty Tea Party (2),AwaitingInspection,nan,nan,nan,,,
+31072,Aspect Cuisine Ltd,5,0,0,5,2014-05-23,,
+31073,Astex Pharmaceuticals,5,0,0,0,2014-02-03,52.236701,0.140238
+31074,Astu Hotels 3 Ltd,5,0,0,0,2012-12-17,52.232065,0.146956
+31075,Auntie Allie's,5,5,5,5,2013-05-23,,
+31076,Aussie Bird,AwaitingInspection,nan,nan,nan,,52.142772,0.089021
+31077,Avondale,5,0,0,5,2012-08-22,,
+31078,Azahar,5,0,0,5,2014-07-30,,
+31079,B Searle & Sons,5,5,0,0,2014-03-28,52.123175,0.169387
+31080,Babraham Children's Club,4,5,5,10,2014-10-16,52.130147,0.208416
+31081,Babraham Cofe (Vc) Primary School,5,5,0,0,2014-11-04,52.130147,0.208416
+31082,Bake Well Tarts,5,0,0,5,2012-03-07,,
+31083,Balaban Kebabs,1,5,15,20,2014-02-13,,
+31084,Balsham Stores & Post Office Ltd.,3,5,10,10,2014-03-31,52.131773,0.317194
+31085,Bar Hill Community Primary School,5,5,0,0,2013-06-06,52.253276,0.021745
+31086,Bar Hill Kebabs,5,5,0,0,2015-01-14,52.249465,0.016927
+31087,Bar Hill Sports And Social Club,5,0,5,0,2014-11-25,52.248934,0.015907
+31088,Bar Hill Village Hall,5,0,0,0,2010-05-04,52.248934,0.015907
+31089,Bar Hill Village Management Committe,Exempt,nan,nan,nan,2006-01-19,52.248934,0.015907
+31090,Barat Timor Rumal,4,5,5,10,2012-07-04,,
+31091,Barkers Bakers,5,5,0,5,2012-12-06,52.252415,0.105451
+31092,Barkers Bakers,5,5,0,0,2014-03-06,52.286969,0.12508
+31093,Barkers Bros Butchers Ltd,5,5,5,5,2014-01-06,52.148487,0.133446
+31094,Barley Mow,4,5,5,10,2014-10-30,52.252415,0.105451
+31095,Barrington Cofe Vc Primary School,5,0,5,0,2014-04-02,52.131421,0.039367
+31096,Barrington Stores,4,10,0,5,2015-01-06,52.128055,0.035371
+31097,Barton Cofe Va Primary School,5,5,0,0,2014-12-16,52.182158,0.057252
+31098,Bassingbourn Primary School,5,5,0,0,2012-12-10,52.076838,-0.060108
+31099,Bassingbourn Village College,4,5,5,10,2012-12-19,52.076405,-0.058361
+31100,Baxter Storey,5,0,5,5,2014-01-22,52.100661,0.139267
+31101,Baxterstorey,5,5,0,0,2014-05-28,52.132519,0.205655
+31102,BaxterStorey,5,0,0,0,2014-09-17,52.117121,0.225943
+31103,Bayer Crop Science,5,0,0,5,2014-12-19,52.23524,0.141925
+31104,BBQ Shack,5,0,0,0,2015-01-21,,
+31105,Be Waffle,5,5,5,5,2012-01-26,,
+31106,Beach Babies,5,5,0,0,2013-11-15,52.269042,0.16208
+31107,Beaumonts Butchers,5,5,0,0,2014-03-21,52.183543,0.221813
+31108,Beck Brook Farm,5,0,0,5,2012-08-20,,
+31109,Beech Farm Bed & Breakfast,4,5,5,10,2012-05-23,,
+31110,Bernard's,4,5,5,10,2015-01-07,52.128709,0.180862
+31111,Beryl Patricia Flack,5,5,5,5,2011-08-30,,
+31112,Bewick Bridge CP School,5,5,0,0,2014-01-23,52.190136,0.1822
+31113,BH Home Bakery,4,5,10,5,2010-09-27,,
+31114,Big Bubble Food,3,10,10,10,2014-04-10,,
+31115,Black Horse,4,5,5,10,2011-09-22,52.292326,0.086872
+31116,Blue Apple,5,0,5,0,2014-01-20,52.117121,0.225943
+31117,Bluebell Day Nursery,5,5,0,0,2015-01-29,52.219444,-0.138606
+31118,Boardwalk Conference Centre,4,5,10,5,2013-11-15,52.289311,0.173288
+31119,Bollywood Spice,5,5,5,5,2014-09-04,52.258369,0.177225
+31120,Boots UK Ltd,5,0,0,0,2014-02-26,52.146617,0.134936
+31121,Borakis Ltd,5,5,0,5,2014-03-13,,
+31122,Boswell and Son,5,5,5,5,2014-03-13,52.097103,0.275902
+31123,Boswells,3,10,10,10,2013-11-07,52.314633,0.061365
+31124,Boswells,5,5,0,0,2015-01-06,52.123175,0.169387
+31125,Bourn Cofe Primary School,5,0,0,5,2015-01-21,52.190701,-0.06667
+31126,Bourn Golf and Leisure,5,5,5,5,2013-12-03,52.184654,-0.055492
+31127,Bourn Hall,5,0,0,0,2014-02-17,52.190296,-0.062254
+31128,BP Harston,5,0,0,0,2010-05-25,52.142442,0.084329
+31129,BP Petrol Station,4,10,5,5,2012-05-23,52.218425,-0.011124
+31130,BP Waterbeach,5,5,5,5,2014-10-08,52.294866,0.180687
+31131,BP Whittlesford,3,10,10,5,2014-11-18,52.104203,0.175636
+31132,Brambles End Bread,4,0,5,10,2011-09-05,,
+31133,Brazils Kitchen,AwaitingInspection,nan,nan,nan,,,
+31134,Brenda Cakes,4,5,5,10,2013-05-09,,
+31135,Bridge Hotel,5,5,0,0,2012-12-14,52.259455,0.19964
+31136,Bright Horizons (c/o Crocus Centre),AwaitingInspection,nan,nan,nan,,52.080094,0.186402
+31137,British Queen Public House,5,5,5,5,2014-03-25,52.09733,0.007064
+31138,Brockley Bees,Exempt,nan,nan,nan,,52.25319,-0.07311
+31139,Brookes (Cafe),5,0,0,5,2014-12-02,52.071101,-0.082069
+31140,Brown Bear,5,0,0,0,2013-04-15,,
+31141,Brownsfield Farm,5,5,5,5,2014-02-26,,
+31142,B's Kitchen,AwaitingInspection,nan,nan,nan,,,
+31143,Bumpkins Nursery,5,0,5,5,2013-12-12,52.095646,-0.032255
+31144,Bumpkins Pre-School and Holiday Care,5,5,5,5,2015-02-02,52.1041,-0.018419
+31145,Burdett House,5,5,5,0,2013-11-21,52.249776,0.107215
+31146,Burger King,5,0,0,0,2014-11-05,52.126793,0.222291
+31147,Burger King,5,0,0,0,2014-11-04,52.258979,0.018971
+31148,Burwash Larder,5,5,0,0,2013-01-24,52.181931,0.058923
+31149,Bury Lane Farm Shop,5,5,5,5,2014-01-07,52.079117,0.00416
+31150,Bury Lane Fun Barn Cafe,5,0,0,0,2014-03-13,52.079117,0.00416
+31151,Bushel Box Farm Shop,5,0,0,0,2011-08-15,52.303997,0.052041
+31152,C.R. Mitchell Ice Cream Man,5,5,5,5,2014-08-01,52.160914,0.127944
+31153,Cafe,4,10,5,5,2013-11-18,52.269042,0.16208
+31154,Cafe Abantu,5,5,0,5,2015-02-11,52.193183,-0.063445
+31155,Cafe Diem,5,0,5,5,2013-11-20,52.236653,0.158162
+31156,Cafe Express,5,0,0,5,2014-07-29,,
+31157,Cake Fairy's Kitchen,AwaitingInspection,nan,nan,nan,,52.090976,0.152117
+31158,Cakes and Bakes,5,5,5,5,2011-12-06,,
+31159,Cakes By Katharine,5,5,5,5,2012-07-17,,
+31160,Caldecote Childrens Centre (School),5,5,5,5,2011-05-03,52.211479,-0.021036
+31161,Caldecote Primary School,5,5,5,0,2013-12-08,52.211479,-0.021036
+31162,Cam Valley Orchard (Elbourn Apples),4,10,5,5,2014-01-09,52.091063,0.00544
+31163,Camboats,AwaitingInspection,nan,nan,nan,,52.226019,0.169243
+31164,Cambourne Catering Company,5,0,0,5,2013-06-18,,
+31165,Cambourne Grill at M J Rolls,5,0,5,5,2013-06-06,52.17872,-0.076901
+31166,Cambourne Pre-School,5,0,0,0,2010-04-16,52.21592,-0.065443
+31167,Cambourne Village College,5,0,0,5,2014-01-14,,
+31168,Cambridge Academy Of English,5,5,0,0,2013-02-27,52.241078,0.08098
+31169,Cambridge Assessment,5,5,0,5,2014-12-11,52.233937,0.141892
+31170,Cambridge Cake Boutique,5,5,0,0,2013-07-03,,
+31171,Cambridge Cakes,5,0,0,5,2012-07-03,,
+31172,Cambridge City Cakes,5,5,5,5,2013-09-03,,
+31173,Cambridge Consultants Ltd,5,0,0,0,2014-01-27,52.231942,0.143333
+31174,Cambridge Hog Roast Company,5,5,0,0,2014-01-06,52.251607,0.134406
+31175,Cambridge Meridian Golf Club,5,5,5,0,2014-03-26,52.186504,-0.008979
+31176,Cambridge Motel,5,5,5,0,2014-01-07,52.102714,0.039663
+31177,Cambridge Silicone Radio,5,0,0,5,2014-12-10,52.235252,0.138791
+31178,Cambridge Steiner School,4,10,5,5,2014-10-14,52.185844,0.20073
+31179,Cambridgeshire Army Cadet Force,5,0,0,0,2014-05-22,52.2722,0.178592
+31180,Camping & Caravanning Club,5,5,5,5,2011-05-13,52.164603,0.123324
+31181,Camyoga Limited,5,0,0,0,2014-10-30,52.150076,0.140013
+31182,Carebase (Histon) Ltd,5,0,5,5,2013-11-12,52.246061,0.10575
+31183,Careclubs,5,5,5,5,2013-12-08,52.211479,-0.021036
+31184,Carlo's Ices,5,5,5,5,2010-11-30,52.239075,0.109755
+31185,Cater Link Ltd,5,5,5,0,2014-01-13,52.246803,0.165159
+31186,Cater Link Ltd (Main Kitchen),5,5,5,5,2013-11-22,52.247704,0.116947
+31187,Cavendish Court,5,5,5,5,2014-03-18,,
+31188,Celebrate With Cake,5,5,5,5,2014-10-15,,
+31189,Chateau de Gateau,5,5,5,5,2012-09-19,,
+31190,Cheat,AwaitingInspection,nan,nan,nan,,52.082932,0.016635
+31191,Cheeky Monkeys Ltd,5,0,0,5,2014-11-18,52.168661,0.212254
+31192,Chequer Cottage B&B,5,0,0,5,2014-03-20,,
+31193,Cherry Kids Club,5,5,0,5,2015-01-08,52.190136,0.1822
+31194,Chestnut Playgroup,5,5,5,5,2012-04-19,52.097693,0.282634
+31195,Chestnut Tree,5,5,5,5,2011-05-16,52.13858,0.348135
+31196,Childrens Ark Day Nursery,5,5,0,5,2013-03-27,52.248723,-0.117223
+31197,Childrens Montessori Nursery School,5,5,5,5,2014-06-10,52.154966,-0.196554
+31198,Chilford Hall,5,0,0,5,2013-04-11,52.107169,0.287806
+31199,Chilford Wines And Bistro,5,0,0,5,2013-04-11,52.107169,0.287806
+31200,Chocolicious,5,5,5,5,2011-12-01,,
+31201,Chocs-Away,5,5,5,5,2012-03-29,,
+31202,Chon's,AwaitingInspection,nan,nan,nan,,,
+31203,Chopstix,4,5,5,10,2014-04-24,52.268866,-0.008852
+31204,Chung Hwa,5,0,0,5,2012-04-11,52.266393,0.191131
+31205,Churros Bar,5,5,5,5,2014-10-15,,
+31206,Chutney Joe,5,5,5,5,2014-09-25,52.218532,-0.068433
+31207,CKC@Meridian,5,0,5,5,2012-10-03,52.18974,0.026981
+31208,Claire's Chutneys,5,5,5,5,2013-12-31,,
+31209,Clean Eat Treats,5,5,5,5,2013-02-25,,
+31210,Clownaround Harston,5,0,0,0,2014-10-16,52.142852,0.072773
+31211,Coffee Bug,5,0,0,0,2014-10-15,,
+31212,College Farm,5,5,5,5,2014-02-26,52.113795,0.187467
+31213,College Farm,5,0,0,5,2012-06-08,,
+31214,Comberton Grill,4,5,0,10,2013-06-12,,
+31215,Comberton Village College,5,5,0,5,2014-12-16,52.184821,0.010753
+31216,Comfort Cafe,5,5,5,5,2014-01-20,52.126793,0.222291
+31217,Compass Cafe,5,5,5,5,2011-06-29,52.29243,-0.002296
+31218,Conkers Stores,5,0,5,0,2012-04-10,52.183171,0.052749
+31219,Cook4U,4,0,10,10,2013-11-12,52.243071,-0.110182
+31220,Co-Operative Retail Services Ltd,4,10,5,5,2015-01-15,52.312504,0.056132
+31221,Co-Operative Retail Services Ltd,5,5,5,5,2011-01-19,52.249776,0.107215
+31222,Co-Operative Retail Services Ltd,5,5,5,0,2013-11-12,52.233243,0.086296
+31223,Co-Operative Retail Services Ltd,3,5,10,10,2014-03-03,52.287173,0.125749
+31224,Co-Operative Retail Services Ltd,5,5,0,5,2014-11-19,52.155354,-0.19132
+31225,Cost Cutter Post Office Stores,3,5,10,10,2013-02-25,52.187492,0.021202
+31226,Costa Coffee,5,5,0,0,2011-10-26,52.239377,0.154252
+31227,Costa Coffee,2,15,5,10,2014-01-30,52.253485,0.018428
+31228,Costa Coffee,5,5,0,0,2014-03-27,,
+31229,Costcutter,5,5,5,5,2014-12-04,52.294638,-0.002578
+31230,Coton Cofe (VC) Primary School,5,5,0,0,2013-12-03,52.20864,0.055094
+31231,Coton Farm Shop Ltd,5,5,5,5,2014-06-16,52.211417,0.064956
+31232,Coton Home Club,4,5,0,10,2010-11-24,52.20864,0.055094
+31233,Cottage Cupcakes,5,5,5,5,2013-01-18,,
+31234,Cottage Garden Cookery,5,5,0,0,2014-09-02,,
+31235,Cottenham Community Centre,5,0,0,5,2013-06-14,52.286969,0.12508
+31236,Cottenham Court Nursing Home,5,0,0,0,2014-02-13,52.283529,0.124856
+31237,Cottenham Fish Shop,4,0,5,10,2012-12-06,52.286969,0.12508
+31238,Cottenham Grill,5,0,5,5,2014-11-04,52.271088,-0.005748
+31239,Cottenham Primary School,5,5,5,0,2015-01-15,52.286946,0.119859
+31240,Cottenham Utd Sports & Social Club,5,5,5,5,2010-03-02,52.286946,0.119859
+31241,Cottontails Girton Pre-School,4,0,10,10,2010-07-15,52.238414,0.084707
+31242,Country Homes and Garden Centre,5,0,5,5,2014-01-14,52.102714,0.039663
+31243,Country Kitchen,5,5,5,5,2014-11-13,52.150819,0.0486
+31244,Countryside Day Nurseries,5,5,0,0,2013-07-01,52.267295,0.081709
+31245,Court Yard Cafe,5,5,0,0,2014-10-29,52.250901,-0.118508
+31246,Crocus Early Years Centre,5,5,5,0,2014-11-18,52.080094,0.186402
+31247,Crucial Cuisine,5,0,5,0,2015-02-10,52.272853,-0.009597
+31248,Cupcakes By Claire,AwaitingInspection,nan,nan,nan,,,
+31249,Curry & Pizza Centre,4,5,5,10,2012-07-11,52.242829,0.160718
+31250,Curry Palace,5,0,0,5,2012-11-14,52.287173,0.125749
+31251,D:licious,5,0,5,5,2013-11-12,52.244786,0.108693
+31252,Dalehead Foods,5,5,5,0,2015-01-22,52.103597,0.268391
+31253,Darwin Nursery,5,5,0,5,2012-09-19,52.211843,0.19575
+31254,Davey's Butchers,5,5,5,5,2014-01-09,52.086406,0.01069
+31255,Day Care Centre,5,0,5,0,2013-05-21,52.314802,0.011959
+31256,Day Care Sheltered Housing,5,0,0,0,2010-11-30,,
+31257,Days Of Ashwell,4,10,5,5,2014-11-06,52.146617,0.134936
+31258,DC Fish and Chips Ltd,3,10,10,10,2014-02-27,,
+31259,Deesigns For Loving,4,5,5,10,2010-08-16,,
+31260,Deli Refectory & Cafe,4,10,0,0,2014-10-01,52.234998,0.134473
+31261,Delia's Coffee Shop,4,10,0,5,2011-02-25,52.225727,-0.178842
+31262,Delight Kebab,1,5,20,20,2014-01-22,52.084519,0.017465
+31263,Diamond Grill,5,0,0,5,2013-08-07,52.17872,-0.076901
+31264,Dimensions,Exempt,nan,nan,nan,2011-07-19,52.316835,0.064021
+31265,Dimensions (ADP),Exempt,nan,nan,nan,2012-03-07,52.266393,0.191131
+31266,Dimensions (ADP),Exempt,nan,nan,nan,2011-05-23,52.124115,0.163253
+31267,Direct Caterers,5,5,5,5,2013-11-12,52.289806,0.125362
+31268,Dog & Duck,5,5,0,0,2013-06-05,52.097103,0.275902
+31269,Domino Pizza Group Ltd,5,0,0,0,2013-11-28,52.218198,-0.07057
+31270,Domino Printing Sciences Ltd,5,0,0,5,2014-05-06,52.258123,0.018023
+31271,Domino's Pizza 2 Go,5,0,5,5,2014-01-02,52.268866,-0.008852
+31272,Dorrington Ltd,5,0,0,0,2013-08-02,52.123175,0.169387
+31273,Drivers Farms Ltd,Exempt,nan,nan,nan,2008-11-04,52.11982,0.168918
+31274,Dry Drayton Cofe (C) Primary School,2,15,5,0,2013-04-23,52.239516,0.021339
+31275,Duke of Wellington,5,5,5,5,2014-01-23,52.314633,0.061365
+31276,Duxford Aviation Society,5,5,0,5,2014-12-02,52.094774,0.128167
+31277,Duxford Cofe CP School,4,10,0,0,2014-01-07,52.094572,0.155619
+31278,Duxford Lodge Hotel,5,0,0,5,2013-11-13,52.08874,0.156374
+31279,Duxford Londis,5,5,5,5,2014-01-28,52.09135,0.157741
+31280,Duxford Service Station,5,5,5,5,2014-01-28,52.092962,0.122957
+31281,East Anglias Childrens Hospices,5,0,0,5,2012-12-14,52.243989,0.165593
+31282,Eat The Rainbow,5,5,5,5,2014-10-03,,
+31283,Edward VII Public House,5,5,0,0,2014-11-11,52.081456,-0.132808
+31284,El Mexicana,5,5,0,5,2015-02-09,52.268866,-0.008852
+31285,Elior Customer CafÃ©,5,5,0,0,2013-04-23,52.18679,0.188078
+31286,Elior UK Ltd,5,0,0,0,2014-03-10,52.080094,0.186402
+31287,Elsworth Cofe Va Primary School,5,0,5,0,2014-03-11,52.255972,-0.077224
+31288,Elsworth Community Shop,5,5,0,0,2011-12-01,52.255972,-0.077224
+31289,Elsworth Pre-School,4,10,0,5,2012-05-15,52.255972,-0.077224
+31290,Eltisley Social Club,5,5,5,5,2010-03-02,52.221565,-0.140845
+31291,English Spirit Chocolates,4,5,5,10,2013-02-20,,
+31292,Enjoy Catering,5,0,0,0,2013-11-12,52.294031,0.123907
+31293,Esse Retail And Therapy,Exempt,nan,nan,nan,2014-02-26,52.084665,0.014699
+31294,Eternit Uk Ltd,5,5,5,5,2014-02-26,52.10054,-0.015788
+31295,Excelcare Holdings Ltd,5,0,0,0,2015-01-29,52.256073,0.106034
+31296,Exclusive Cheeses & Country Fayre,5,0,0,5,2014-09-09,52.086138,0.030514
+31297,Famished,3,10,10,10,2014-06-12,,
+31298,Fancy Fridays,5,0,5,5,2014-12-02,,
+31299,Fen Ditton Primary School,5,5,0,0,2015-01-06,52.223069,0.175615
+31300,Fen Drayton Montessori,5,0,0,5,2014-12-17,52.296923,-0.038039
+31301,Fen Drayton Primary School,5,5,0,0,2013-12-06,52.297825,-0.043088
+31302,Fen End Country Kitchen,5,5,0,0,2015-01-22,,
+31303,Fenders & Griddle,5,5,5,5,2012-03-19,52.192048,0.202207
+31304,Fenland Preserves,5,5,5,5,2011-03-30,,
+31305,Fi Bullen Creative Cooking,AwaitingInspection,nan,nan,nan,,,
+31306,Finches Bed & Breakfast,5,0,0,0,2012-06-13,,
+31307,Fired Up Pizza,4,5,5,10,2014-04-02,,
+31308,Fish 'n' Chick 'n',4,10,0,0,2014-11-06,52.253485,0.018428
+31309,Fish 'n' Chick 'n',5,0,0,0,2014-03-18,52.218198,-0.07057
+31310,Fish'n'Chick'n Ltd,5,0,0,0,2014-12-18,52.123175,0.169387
+31311,Flying Dragon,5,5,5,5,2014-10-28,52.076015,0.015754
+31312,Food 2 Go (Barton Road Layby),5,5,0,0,2013-04-23,52.214114,-0.070469
+31313,Food 2 Go (Rayners Conservatories),5,0,0,5,2012-08-30,52.214114,-0.070469
+31314,Forum House Chinese Restaurant,5,0,0,5,2014-12-12,52.146617,0.134936
+31315,Fowlmere Playgroup,5,5,5,5,2014-01-27,52.090733,0.074385
+31316,Fowlmere Primary School,5,0,0,0,2015-01-13,52.091978,0.069567
+31317,Foxton Post Office & Store,5,0,5,5,2012-12-15,52.114983,0.059065
+31318,Foxton Primary School,5,0,0,0,2014-03-26,52.114955,0.059648
+31319,Foxton Tea Rooms,AwaitingInspection,nan,nan,nan,,52.115942,0.060803
+31320,Frankie's Snack Bar,5,5,0,5,2013-08-01,52.217638,0.009849
+31321,Franklin Gardens Sheltered Housing,4,5,5,10,2010-12-01,,
+31322,Fulbourn Institute,5,0,5,0,2014-07-30,52.179257,0.223516
+31323,Fulbourn Pre-School,5,5,5,5,2014-09-11,52.180921,0.220161
+31324,Fulbourn Primary School,5,5,5,0,2014-03-31,52.180921,0.220161
+31325,Fun Pack at Babraham,5,0,0,0,2013-02-14,52.130147,0.208416
+31326,Gamlingay Day Nursery,4,5,5,10,2014-10-21,52.152912,-0.190396
+31327,Gamlingay First School,5,0,0,0,2013-12-11,52.156096,-0.19398
+31328,Gamlingay Pharmacy,Exempt,nan,nan,nan,2003-11-17,52.155354,-0.19132
+31329,Gamlingay Rainbow Pre School,5,5,5,5,2014-06-10,52.154966,-0.196554
+31330,Gamlingay Village College,5,5,0,5,2014-03-07,52.153113,-0.187698
+31331,Garden Restaurant (Sodexho Health),5,0,5,0,2013-12-06,52.24866,-0.115541
+31332,George & Dragon,5,0,0,5,2014-12-03,52.256234,-0.068466
+31333,George Inn,4,5,10,5,2013-04-10,52.241078,0.08098
+31334,Gerber Products,5,5,5,5,2012-01-31,,
+31335,Gig-A-Bite,AwaitingInspection,nan,nan,nan,,52.208159,-0.09353
+31336,Girton College,5,0,0,0,2015-01-09,52.228424,0.083712
+31337,Girton Glebe Primary School,5,5,5,0,2013-11-12,52.238414,0.084707
+31338,Girton Golf Club,3,10,10,10,2013-09-03,52.243361,0.079549
+31339,Girton Nursery,5,0,0,0,2014-12-02,52.248466,0.081194
+31340,Glebe House,5,5,5,5,2014-01-27,52.074647,0.361954
+31341,Gobbledycake,AwaitingInspection,nan,nan,nan,,,
+31342,Gog Magog Golf Club,2,5,15,10,2014-08-21,52.165571,0.161652
+31343,Gog Magog Hills Limited (CafÃ©),5,0,0,0,2013-09-30,52.164973,0.161886
+31344,Gog Magog Hills Limited (Deli),5,0,0,0,2013-09-30,52.164973,0.161886
+31345,Gog Magog Hills Ltd (Shop/Butchery),5,0,0,0,2014-01-15,52.164973,0.161886
+31346,Golden Oldies,5,5,5,0,2011-02-02,52.132187,0.313533
+31347,Goodie's Gorgeous Cakes,5,5,5,5,2013-01-29,,
+31348,Gourmandises,5,5,0,0,2012-03-05,,
+31349,Grab It,AwaitingInspection,nan,nan,nan,,,
+31350,Gracefield Nursing Home,5,0,0,5,2013-06-12,52.218425,-0.011124
+31351,Granny Mo's,5,0,0,0,2010-11-29,,
+31352,Granta Montessori Nursery,5,5,5,5,2014-02-26,52.114008,0.031854
+31353,Granta Park Montessori Nursery,4,10,5,5,2015-01-15,52.117121,0.225943
+31354,Granta School,5,5,0,0,2014-01-21,52.09657,0.271845
+31355,Grants Home Produce,5,5,5,5,2014-01-28,,
+31356,Gravelle's Budgens,5,5,0,5,2014-03-04,52.123175,0.169387
+31357,Great & Little Shelford Cofe (Aided),4,10,0,0,2014-01-06,52.145941,0.131045
+31358,Great Abington Primary School,4,10,5,5,2014-03-31,52.11419,0.23589
+31359,Great Shelford Bowling Club,4,5,10,5,2010-04-23,52.146617,0.134936
+31360,Great Wilbraham CofE  Primary School,5,5,0,0,2013-04-22,52.194742,0.264601
+31361,Green Man,5,5,0,5,2015-02-11,52.102714,0.039663
+31362,Greens Coffee & Co,5,0,0,0,2013-04-18,52.218532,-0.068433
+31363,Gretton Court Ltd,5,5,0,5,2012-12-13,52.23898,0.077103
+31364,Gretton School,5,0,0,5,2013-01-31,52.242884,0.082632
+31365,Guilden Groceries,5,0,5,0,2013-12-12,52.081456,-0.132808
+31366,Guilden Morden CofE Primary School,5,0,5,5,2013-12-12,52.080276,-0.137761
+31367,H. Graves Novelty Cakes & Cupcakes,AwaitingInspection,nan,nan,nan,,52.290952,0.086792
+31368,H. Graves Novelty Cakes & Cupcakes,4,5,5,10,2012-07-03,,
+31369,Hackers Fruit Farm,4,10,5,5,2013-08-14,52.245767,0.046819
+31370,Hall Farm,3,5,10,10,2014-01-28,,
+31371,Hamptons Fayre Game,AwaitingInspection,nan,nan,nan,,52.294996,-0.05364
+31372,Hannah Bakes,5,0,5,5,2012-03-07,,
+31373,Happy Bunnies Nursery School,4,0,0,10,2010-01-07,52.128055,0.035371
+31374,Happy Chef,5,5,5,5,2014-11-19,52.155354,-0.19132
+31375,Happy House,5,5,5,0,2013-11-08,52.309821,0.05787
+31376,Hardwick 3.15 Out of School Club,5,0,5,0,2014-12-03,52.213804,0.003191
+31377,Hardwick Cakes And Celebrations,5,0,0,0,2010-08-18,,
+31378,Hardwick Community Primary School,5,5,0,5,2015-01-08,52.214269,0.011278
+31379,Hardwick Community Primary School,5,5,0,0,2014-11-12,52.214269,0.011278
+31380,Hardwick Home Lunch Club,AwaitingInspection,nan,nan,nan,,52.213778,0.00521
+31381,Hardwick Sports And Social Club,5,0,5,0,2012-06-26,52.212865,0.008184
+31382,Hardwicke Arms Hotel,5,0,0,5,2014-11-24,52.133231,-0.059866
+31383,Hare & Hounds Public House,5,5,0,0,2014-08-27,52.152084,0.028953
+31384,Harris & Hoole Ltd.,5,5,5,5,2015-01-14,52.253897,0.015942
+31385,Harston & Newton CP School,5,5,5,0,2014-01-08,52.138346,0.080981
+31386,Harston Post Office Stores,5,0,0,0,2015-02-11,52.138346,0.080981
+31387,Harvest View,5,0,0,5,2012-07-12,,
+31388,Haslingfield Endowed Primary School,5,5,0,0,2014-01-09,52.149916,0.05347
+31389,Hatley Court Ltd,5,0,0,5,2013-11-21,52.265763,0.19601
+31390,Hatties,5,5,5,5,2014-11-05,52.078204,-0.055686
+31391,Hatties Coffee Shop & Sandwich Bar,5,5,5,5,2012-04-18,,
+31392,Hatton Park Primary School,5,0,0,0,2014-03-19,52.281215,0.046649
+31393,Hauxton Primary School,5,5,0,0,2014-03-18,52.146386,0.10423
+31394,Hedonist Wines,AwaitingInspection,nan,nan,nan,,52.140755,0.122394
+31395,Herons,5,5,5,5,2012-08-03,,
+31396,Hey Sugar-Bespoke Cakes,5,0,0,5,2014-05-23,,
+31397,Heydon Grange Golf Club,1,5,10,20,2014-01-28,52.062574,0.068558
+31398,Hidden Gem Cupcakes,5,5,5,5,2012-04-04,,
+31399,Highgate Country Stores (Butchers),5,0,5,0,2013-05-08,52.311748,0.050448
+31400,Hill View Farm & Shop,4,5,5,10,2013-12-12,52.081863,-0.029139
+31401,Histon and Impington Infant School,5,0,0,5,2012-12-03,52.247985,0.104787
+31402,Histon and Impington Junior School,4,10,0,0,2013-06-13,52.252342,0.108011
+31403,Histon Chop Shop Ltd,5,5,0,0,2014-10-22,52.254694,0.107243
+31404,Histon Country Market,5,5,5,5,2014-06-02,52.312303,0.019269
+31405,Histon Early Years Centre,5,0,5,0,2013-11-21,52.247985,0.104787
+31406,Histon Methodist Church,5,5,5,5,2014-07-29,52.252415,0.105451
+31407,Histon Sweet Speads Ltd (Staff Rest),5,0,0,0,2014-03-24,52.246246,0.104441
+31408,Histon Village Fryer,5,5,0,5,2013-11-15,52.249776,0.107215
+31409,Holiday Inn,5,5,0,0,2012-08-28,52.242261,0.113612
+31410,Holiday Inn Express Cambridge,5,0,5,0,2012-12-11,52.104128,0.163585
+31411,Home Baked,5,5,5,5,2014-08-07,52.112554,0.145883
+31412,Home Close,5,5,5,0,2014-10-09,52.186179,0.216927
+31413,Home Meadow,5,5,0,0,2014-03-05,52.186504,-0.008979
+31414,Honey Bee Kitchen,5,0,0,0,2015-01-13,,
+31415,Hoof,AwaitingInspection,nan,nan,nan,,,
+31416,Hotcakes,5,5,5,5,2012-09-13,,
+31417,Hotel Felix,4,10,5,5,2013-01-09,52.224142,0.091916
+31418,Huntsman Advanced Materials Ltd,5,5,0,0,2014-12-18,52.087978,0.160206
+31419,I Biscotti Di Debora,5,0,0,5,2011-08-03,52.223851,0.005122
+31420,Iced with Style,AwaitingInspection,nan,nan,nan,,52.027821,0.07105
+31421,Icicle Tricycle (Cambridge),5,5,5,5,2012-02-24,,
+31422,Ickleton Social Club,5,5,5,5,2010-03-02,52.073292,0.179795
+31423,Incredible Cakes of Cambridge,5,0,0,0,2011-06-06,,
+31424,Indian Ocean,4,10,0,0,2014-08-21,52.253166,0.10468
+31425,Initial Catering (Autograph),AwaitingInspection,nan,nan,nan,,52.075623,0.012394
+31426,Island Inn,2,15,10,10,2013-03-27,52.238296,-0.111249
+31427,J.J. Patel Post Office/Stores,5,5,5,5,2013-07-01,52.19065,-0.064155
+31428,Jaan's Golden Granola,5,5,5,5,2011-10-26,,
+31429,Jade Fountain Chinese Restaurant,1,10,15,20,2014-01-15,52.123175,0.169387
+31430,Jagex,5,0,0,0,2014-02-12,52.235928,0.14417
+31431,Jaws Fish Bar,4,0,5,10,2013-11-20,52.240487,0.158949
+31432,Jay's Lunchbox,AwaitingInspection,nan,nan,nan,,52.119575,-0.090316
+31433,Jazzy Bean Cafe,5,5,5,5,2014-04-16,52.271906,0.186244
+31434,Jester Country Inn,5,5,5,0,2014-12-03,52.030773,-0.111027
+31435,Jigsaw Bakery,5,5,5,5,2013-03-25,52.097693,0.282634
+31436,Joali,5,5,5,5,2012-09-13,,
+31437,John Lucas-Phillips,5,0,0,0,2014-11-24,,
+31438,Jolley Nice Cakes,5,5,5,5,2012-12-04,,
+31439,Jolly Brewers,5,0,5,5,2013-02-14,52.242487,0.16659
+31440,Jolly Good Beer,AwaitingInspection,nan,nan,nan,,52.224659,-0.091345
+31441,Jolly Lollies,AwaitingInspection,nan,nan,nan,,,
+31442,Jules Sweet Treats,AwaitingInspection,nan,nan,nan,,,
+31443,Kash Store,4,5,5,10,2014-01-06,52.150313,0.141369
+31444,Katherine Robertson,5,5,5,5,2014-01-27,,
+31445,Kaz's Indian Restaurant,5,5,0,5,2014-07-22,52.11982,0.168918
+31446,Kerley's Cookie and Canape Creations,5,5,0,0,2013-03-21,,
+31447,KFC,5,0,0,0,2013-07-17,52.268866,-0.008852
+31448,Kids Unlimited,5,5,0,5,2014-05-20,52.234533,0.139782
+31449,Kids Unlimited,5,0,0,5,2014-06-25,52.185844,0.20073
+31450,King William IV,2,15,15,10,2013-11-15,52.255367,0.103788
+31451,King William Public House,4,5,10,5,2014-01-28,52.036443,0.083871
+31452,Kings Head,4,5,5,10,2010-03-31,52.22076,0.170656
+31453,Kingsway Golf Centre,5,5,0,5,2015-01-20,52.090872,0.030817
+31454,Kirin Takeaway,4,0,10,10,2014-01-21,52.183543,0.221813
+31455,Kneesworth House Hospital,5,0,0,0,2014-01-24,52.07813,-0.030632
+31456,Knibbs Meat Safe,5,5,5,5,2014-05-20,52.193183,-0.063445
+31457,Kyums,AwaitingInspection,nan,nan,nan,,,
+31458,L & H Haulage,Exempt,nan,nan,nan,,52.114244,0.255246
+31459,La Pergola,4,5,5,10,2014-08-14,52.154103,0.012409
+31460,Ladybird Pre-School,5,5,5,5,2014-06-10,52.286454,0.119747
+31461,Lalbagh Restaurant,5,5,0,0,2013-08-01,52.193183,-0.063445
+31462,Langley Larder,5,5,0,5,2015-01-27,52.168661,0.212254
+31463,Lavinia Cottage Kitchen,4,5,5,10,2014-04-23,,
+31464,Lazy Dayz Cafe,5,0,0,5,2012-09-20,52.123559,-0.047518
+31465,Le Petit Four,1,15,15,20,2013-11-05,52.268866,-0.008852
+31466,Leech and Sons,5,5,0,0,2014-07-08,52.084665,0.014699
+31467,Leech and Sons,5,0,0,5,2013-12-06,52.181931,0.058923
+31468,Libre House,5,0,0,0,2012-06-20,,
+31469,Lindsays Bakery,4,10,5,5,2012-12-10,52.077824,-0.057716
+31470,Lindsay's Bakery,5,5,5,5,2013-12-11,52.154027,-0.192762
+31471,Linton Cofe Infants School,5,5,5,5,2015-01-07,52.096733,0.278307
+31472,Linton Granta Playgroup & Toddlers,5,5,5,5,2011-10-04,52.098637,0.271936
+31473,Linton Heights Junior School,5,5,5,0,2014-01-21,52.098991,0.290307
+31474,Linton Kitchen,4,5,5,10,2014-02-06,52.097103,0.275902
+31475,Linton Tandoori,2,5,15,10,2014-01-22,52.096022,0.289951
+31476,Linton Village College,5,5,0,0,2014-11-12,52.098637,0.271936
+31477,Linton Zoological Gardens,5,5,0,0,2014-03-20,52.091816,0.272188
+31478,Little Acorns,5,5,5,5,2014-09-02,52.253276,0.021745
+31479,Little Chef,5,5,0,0,2014-11-05,52.126793,0.222291
+31480,Little Chef,5,5,5,5,2014-11-04,52.258979,0.018971
+31481,Little Hands Nursery,5,5,5,5,2014-02-26,52.19065,-0.064155
+31482,Little Hands Nursery,5,5,5,5,2014-01-28,52.121072,0.092228
+31483,Little Hands Nursery School,5,5,5,5,2014-01-28,52.088353,0.018806
+31484,Little Hands Nursery School,5,5,5,5,2014-02-26,52.081407,0.310804
+31485,Little Miss Cupcake,5,5,5,5,2012-06-20,,
+31486,Little Stars Day Nursery,4,5,5,10,2014-04-16,,
+31487,Little Venice Italian Restaurant,5,0,0,5,2012-08-01,52.228916,-0.105556
+31488,LJ's Sandwich Bar,4,5,0,10,2014-03-25,52.155354,-0.19132
+31489,Londis,5,5,5,5,2015-01-27,52.144524,0.146163
+31490,London Fuel Ltd (T/A Gulf),4,5,5,10,2014-04-09,52.249776,0.107215
+31491,Longstanton Kebabs,5,0,0,0,2014-10-15,52.282272,0.038575
+31492,Lotus House,5,5,5,5,2014-01-15,52.123175,0.169387
+31493,Luke's Traditional Fish and Chips,5,0,0,0,2015-02-11,52.250901,-0.118508
+31494,Luvcake,4,5,5,10,2011-11-16,,
+31495,Lynn's Loaftin,5,5,5,5,2012-06-06,,
+31496,Madame Sunshine,5,5,5,5,2013-02-19,,
+31497,Mango Mystique (Bremin Ltd),4,5,0,10,2013-08-28,,
+31498,Manor Farm,5,5,5,5,2013-02-06,,
+31499,Marchant's Home Produce,5,5,5,5,2014-09-11,,
+31500,Marian James Cakes,5,5,5,5,2013-02-04,,
+31501,Maria's Kitchen,AwaitingInspection,nan,nan,nan,,,
+31502,Marshall Aerospace Design,5,0,0,0,2012-08-23,52.211998,0.173771
+31503,Marshall Motor Group Ltd,5,5,5,5,2014-01-28,52.212599,0.183096
+31504,Mary Stewart,5,5,5,5,2014-03-05,,
+31505,Mary's Greengrocers,5,0,0,0,2014-02-26,52.123175,0.169387
+31506,Massarellas,5,5,5,0,2013-12-03,52.211417,0.064956
+31507,Maximo's Catering,1,0,0,20,2012-07-12,,
+31508,Maycroft Residential Care,5,0,0,0,2014-03-17,52.09733,0.007064
+31509,MBAC Cambridge Airport,5,5,0,0,2014-02-26,52.211998,0.173771
+31510,McDonald's Restaurants Ltd,5,0,0,0,2014-01-09,,
+31511,McDonald's Restaurants Ltd,5,0,0,0,2013-04-09,52.268866,-0.008852
+31512,McDonald's Restaurants Ltd,5,5,0,0,2013-08-13,52.104203,0.175636
+31513,Meadow Out of School Club,4,5,5,10,2011-02-28,52.131773,0.317194
+31514,Meadow Primary School,5,5,0,5,2014-01-20,52.131773,0.317194
+31515,Meadows Cafe,3,10,10,10,2014-11-06,52.230566,0.116908
+31516,Meditrina Coffee Shop,5,0,0,0,2014-03-17,52.132519,0.205655
+31517,Meera Stores & Post Office,5,5,5,5,2014-02-26,52.123175,0.169387
+31518,Melbourn Fish Bar,2,5,15,10,2014-01-08,52.08321,0.015115
+31519,Melbourn Primary School,5,0,0,0,2014-01-08,52.082983,0.016856
+31520,Melbourn Stores,4,5,0,10,2012-12-15,52.084519,0.017465
+31521,Melbourn Village College,5,5,5,5,2014-01-08,52.087658,0.018483
+31522,Meldreth Manor School,5,0,0,0,2014-01-07,52.098464,0.00437
+31523,Meldreth Primary School,5,0,0,0,2014-01-07,52.095221,0.00786
+31524,Menzies,5,5,5,5,2013-11-05,52.254835,0.02627
+31525,Meridian Primary School,5,5,5,5,2013-11-28,52.18974,0.026981
+31526,Metropolitan Housing Partnership,5,0,0,0,2014-11-12,,
+31527,Metropolitan Ltd,5,0,5,5,2014-01-14,52.083463,0.026073
+31528,Michael Beaumont Butchers Ltd,5,0,0,0,2014-10-24,52.097103,0.275902
+31529,Midfield Lodge Nursing Home,5,5,5,0,2013-11-21,52.256275,0.069193
+31530,Millfield Lodge,5,5,0,0,2014-10-14,52.146597,-0.193765
+31531,Milton Cofe Vc Primary School,5,5,5,5,2014-03-17,52.246452,0.161216
+31532,Milton Park Golf Course,5,5,5,5,2013-11-20,52.245065,0.164298
+31533,Mochamania,5,5,5,5,2011-10-26,52.224659,-0.091345
+31534,Monkfield Park Primary School,5,5,0,5,2014-12-17,52.2176,-0.070845
+31535,Moonbeams Pre-School,5,5,5,5,2011-06-07,52.230566,0.116908
+31536,Moonlight Cafe,AwaitingInspection,nan,nan,nan,,52.233893,0.12146
+31537,Moorlands Court,5,0,0,0,2014-02-18,52.088353,0.018806
+31538,Mother Goose Pre-School,5,0,0,0,2014-10-23,52.131124,-0.032036
+31539,Moto Costa Coffee,5,0,0,0,2012-04-18,52.268866,-0.008852
+31540,Mr Cake,5,0,0,0,2010-08-24,,
+31541,MRM Aerodrome (Texaco),5,5,5,5,2015-02-10,52.103706,0.156687
+31542,Mrs Miggins Vintage Teas,AwaitingInspection,nan,nan,nan,,,
+31543,Murketts,5,5,5,5,2014-02-26,52.144524,0.146163
+31544,MustardMary,5,0,0,5,2014-11-03,,
+31545,My Dream Fudge Company,4,5,5,10,2010-05-28,,
+31546,Napp (Sports and Social Club),5,0,5,5,2012-01-25,52.235668,0.148565
+31547,Napp 191 (Restaurant),5,0,5,0,2014-12-17,52.235668,0.148565
+31548,Napp 196 (Conference and Deli),5,5,0,0,2014-12-17,52.235668,0.148565
+31549,Natalie's Tasty Treats,5,0,0,0,2014-10-22,,
+31550,National Trust,4,10,5,0,2014-11-18,52.141257,-0.049272
+31551,New Malton Golf Club,5,5,5,5,2012-12-18,52.116606,0.002467
+31552,Nisa Convenience Store,5,0,5,5,2014-01-15,52.193122,0.182185
+31553,Norfolk Street Deli,5,0,0,0,2014-09-16,52.250901,-0.118508
+31554,Northfields House,5,0,0,5,2012-06-07,,
+31555,Number 77,1,10,10,20,2014-10-16,52.208159,-0.09353
+31556,Oakington Cofe Va Primary School,5,5,5,5,2014-03-20,52.260551,0.069407
+31557,Old Fashioned Sweets,4,0,10,5,2010-08-05,52.095437,-0.006423
+31558,Old School Guest House,5,5,5,5,2012-05-28,,
+31559,Olive Tree Cafe,5,0,5,0,2012-12-14,52.257088,0.063853
+31560,One Stop Shop,5,0,0,5,2010-09-14,52.314454,0.060286
+31561,Orb Bakery,4,5,5,10,2014-02-25,,
+31562,Orchard Close Communal Centre,5,0,0,0,2011-02-28,,
+31563,Orchard Cottage,5,0,0,5,2012-07-04,,
+31564,Orchard House Residential Care Home,5,0,5,0,2014-01-15,52.11982,0.168918
+31565,Orchard Park Community School,5,0,0,0,2013-04-16,52.233617,0.115793
+31566,Orchard Pond B&B,4,5,10,5,2012-03-27,,
+31567,Orchard Tea Gardens Ltd,5,0,0,0,2013-02-12,52.177159,0.096
+31568,Orwell Village Stores,1,0,5,20,2013-12-13,52.133919,-0.012654
+31569,Osteria,5,0,0,0,2015-02-04,52.244061,0.162638
+31570,Out of Hours Club,5,0,0,0,2010-05-04,52.131773,0.317194
+31571,Out of School Club,5,5,5,5,2014-06-02,52.2176,-0.070845
+31572,Out To Lunch,4,10,0,5,2015-01-08,52.170088,0.19169
+31573,Over Bed & Breakfast,5,5,5,5,2012-06-13,,
+31574,Over Community Centre,5,5,0,0,2013-10-03,52.314939,0.011276
+31575,Over Primary School,4,5,10,5,2014-03-04,52.314105,0.017474
+31576,P&S Cruickshank,5,5,5,0,2014-01-14,52.18513,0.019998
+31577,PA Consulting (Melbourn),3,10,10,10,2014-10-28,52.075623,0.012394
+31578,Pantry Food,5,5,0,0,2014-07-03,,
+31579,Papworth Kebab House,4,0,10,10,2014-10-27,,
+31580,Papworth Sheltered Housing,5,0,0,0,2011-02-28,,
+31581,Parish Council Offices At Eco Hub,Exempt,nan,nan,nan,,52.152912,-0.190396
+31582,Pata Negra,5,5,5,5,2014-07-16,,
+31583,Paula's Pantry c/o Beaumont Butchers,5,5,0,5,2014-03-21,52.183543,0.221813
+31584,PEC Caterers,5,5,5,5,2014-03-26,,
+31585,Pelican Out Of School Club,5,5,5,5,2011-03-30,52.252193,-0.123434
+31586,Pemberton Arms,4,5,5,10,2014-10-28,52.138346,0.080981
+31587,Pendragon Community Primary School,5,5,5,5,2012-12-12,52.253006,-0.122535
+31588,Pendragon Pre-School,5,5,5,5,2011-03-30,52.252193,-0.123434
+31589,Petersfield Cofe Primary School,5,0,0,0,2013-12-13,52.131025,-0.017517
+31590,Phil's Pestos and Pasta,4,10,5,5,2014-02-06,,
+31591,Phoenix Trust (Milton) Ltd,4,5,10,5,2011-11-15,52.236653,0.158162
+31592,Pig Out Catering,AwaitingInspection,nan,nan,nan,,52.301713,-0.050368
+31593,Pink's Cakes,5,5,0,5,2014-10-28,,
+31594,Pippins Coffee & Company,AwaitingInspection,nan,nan,nan,,52.214269,0.011278
+31595,Pippins Pre-School,5,0,5,5,2010-07-01,52.126813,0.180317
+31596,Pitts House,4,5,5,10,2012-05-25,,
+31597,Pizza Town,1,10,5,20,2014-01-29,52.249776,0.107215
+31598,Plough and Fleece,2,15,5,0,2014-03-17,52.239322,0.18511
+31599,Plumbs Dairy,4,10,0,0,2012-02-23,52.133074,0.311417
+31600,Pop Up Cafe,AwaitingInspection,nan,nan,nan,,52.265458,0.190675
+31601,Poppies Catering / M J & C Prentice,5,0,0,0,2010-07-01,,
+31602,Post Office,1,15,5,20,2013-12-11,52.067829,-0.088176
+31603,Post Office Stores,1,5,5,20,2013-12-11,52.157326,-0.195626
+31604,Post Office Stores,4,10,5,5,2014-05-13,52.195629,0.266651
+31605,Postino Coffee,5,0,0,0,2014-06-06,52.242519,0.162431
+31606,Premier Inn,4,0,10,5,2013-12-03,52.233499,0.116842
+31607,Pre-School and OSC (The Mobile),5,5,5,5,2014-06-02,52.063278,0.379052
+31608,Princess Cupcake Creations,5,5,5,0,2011-05-23,,
+31609,Pristine Foods Ltd,5,5,0,5,2014-09-04,52.311727,0.050653
+31610,Puffins Out of School Club,5,5,5,5,2014-02-26,52.131025,-0.017517
+31611,Quality Catering,5,5,5,5,2014-08-13,,
+31612,Queens College Sports Ground,4,0,5,10,2010-07-06,52.197927,0.097694
+31613,Queens Head,5,5,5,5,2014-01-28,52.124327,0.099802
+31614,Queens Head,5,0,0,5,2014-08-21,52.09292,0.071713
+31615,Quy Mill Hotel,5,5,0,0,2015-02-05,52.217544,0.217391
+31616,Railway Vue Public House,4,10,0,0,2013-01-22,52.245347,0.110009
+31617,Rainbows,AwaitingInspection,nan,nan,nan,,,
+31618,Raj Curry Hut,0,5,20,30,2014-02-06,52.305252,0.019887
+31619,Rare Breeds Hog Roast,AwaitingInspection,nan,nan,nan,,52.180525,-0.140099
+31620,Ray & Julie's Childcare Provision,5,0,0,0,2014-03-20,,
+31621,Rectory Farm Shop,5,0,0,0,2010-03-02,,
+31622,Red Lion,5,0,5,5,2013-11-15,52.252415,0.105451
+31623,Red Lion,5,5,0,0,2013-03-14,52.179957,0.094406
+31624,Red Lion Hotel,5,5,5,0,2014-10-23,52.104128,0.163585
+31625,Regent Catering,AwaitingInspection,nan,nan,nan,,52.116659,0.055271
+31626,Retroscreen Virology Ltd,5,0,0,0,2014-02-20,52.190296,-0.062254
+31627,Rh Chapman (Old Dairy Cafe),5,0,0,5,2014-03-18,,
+31628,Richie's Cafe and Catering Services,4,10,5,5,2014-11-06,52.114082,0.168011
+31629,Richly Baked,4,5,5,10,2013-05-21,,
+31630,River Grill,5,0,0,0,2014-11-12,,
+31631,RJ's Grill Ltd,5,0,0,5,2014-01-07,52.253416,0.023026
+31632,Roadrunner,4,10,5,0,2014-05-22,,
+31633,Robinson Hall,4,5,5,10,2013-02-12,52.257008,-0.000489
+31634,Roll Inn,4,5,0,10,2012-12-07,52.242829,0.160718
+31635,Rose Corner,5,0,0,0,2012-07-17,,
+31636,Rosegate Farm,5,0,0,0,2014-10-17,52.289116,-0.010525
+31637,Rosemary Newsagents,4,10,5,0,2014-11-28,52.265174,0.195277
+31638,Royal Bengal,5,5,5,0,2015-01-08,52.314633,0.061365
+31639,Royal Oak Public House,5,5,5,0,2014-10-23,52.126158,0.029631
+31640,Royal Society Of Chemistry,5,0,0,0,2014-02-12,52.235678,0.140599
+31641,Roysia Catering Facility,AwaitingInspection,nan,nan,nan,,52.093228,-0.043616
+31642,Royston Garden Centre,5,0,0,0,2014-11-18,52.099688,0.037321
+31643,Royston Restaurant,5,0,0,0,2014-11-18,52.102714,0.039663
+31644,Russell's Amusements,5,0,0,5,2015-01-21,,
+31645,Ruth Cooks 4 You (Root & Fruit),5,0,0,5,2013-08-09,,
+31646,S J Bull & Son Butchers,5,5,5,5,2013-11-21,52.269221,0.190904
+31647,S. F. Catering,5,0,0,5,2014-07-29,,
+31648,S.S. Gawthroup & Sons Ltd,3,10,10,10,2014-07-15,52.287173,0.125749
+31649,Sachin's Indian Restaurant,3,10,5,10,2015-01-20,52.093042,0.07293
+31650,Sadler & Moore,AwaitingInspection,nan,nan,nan,,52.257088,0.063853
+31651,Saffron Infusions,AwaitingInspection,nan,nan,nan,,,
+31652,Sagentia,5,5,0,5,2015-01-21,52.136681,0.070353
+31653,Salvation Army Barn,Exempt,nan,nan,nan,2010-05-04,52.289806,0.125362
+31654,Salvation Army Lunch Club,5,5,5,5,2012-10-09,52.311862,0.06197
+31655,Sam's Cafe,1,5,5,20,2013-04-10,,
+31656,Sam's Kebabs,5,0,0,5,2014-02-04,52.271088,-0.005748
+31657,Sam's Thai Food,4,0,10,10,2014-08-19,52.237274,0.064677
+31658,Sanctuary Care,5,0,5,5,2014-10-23,52.099914,0.277505
+31659,Sandra Johnson,5,5,5,5,2014-01-28,,
+31660,Sarah Pigden Cupcakes,5,5,5,5,2014-07-08,,
+31661,Sarah's Farm Shop,5,0,0,0,2014-10-14,52.05593,-0.136848
+31662,Sawos Kebabs,5,5,5,5,2014-01-21,52.183543,0.221813
+31663,Sawston Childcare Limited,5,5,0,0,2013-04-10,52.11697,0.173307
+31664,Sawston Pizza,5,5,0,5,2014-02-18,52.123175,0.169387
+31665,Sawston Sports Association,5,5,0,5,2014-07-22,52.126471,0.163718
+31666,Sawston Village College,5,5,0,0,2014-01-15,52.126471,0.163718
+31667,Scallywags Countryside Day Nurseries,5,0,0,5,2013-05-22,52.238489,0.084052
+31668,SCDC Communal Hall,5,5,5,5,2010-03-02,,
+31669,SCDC Communal Kitchen,5,5,5,5,2010-03-09,,
+31670,SCDC Communal Kitchen,5,5,5,5,2011-11-30,,
+31671,Scimitar Care Hotels plc,5,0,5,5,2013-11-15,52.2664,0.179612
+31672,"Scoops, Cups & Eats",AwaitingInspection,nan,nan,nan,,52.099292,-0.031948
+31673,Scotsdales Garden Centre,5,5,5,5,2014-03-10,52.160914,0.127944
+31674,Shauns Newsagents,5,0,5,5,2010-03-02,52.292327,0.128152
+31675,Shelford Delicatessen,5,0,5,5,2014-01-06,52.146617,0.134936
+31676,Shelford Rugby Club,1,5,10,20,2014-01-15,52.163076,0.122739
+31677,Shell Four Went Ways,5,5,5,5,2012-09-10,52.126946,0.222766
+31678,Shell Gibbet,5,5,0,0,2013-03-26,52.228916,-0.105556
+31679,Shilpa Indian Cuisine,5,0,5,5,2014-05-06,52.255315,-0.121837
+31680,SI5 Spy Missions Ltd,5,5,0,5,2013-11-05,52.253897,0.015942
+31681,Sidewalk Cafe,5,5,0,0,2013-01-11,,
+31682,Silver Birch Bed & Breakfast,5,0,0,0,2012-05-21,,
+31683,Silverwood Lodge,4,0,0,10,2014-04-29,,
+31684,Simona's Dolci Pasticci,5,5,5,5,2014-10-21,52.272001,0.191804
+31685,Six Bells,5,5,0,5,2015-01-15,52.183543,0.221813
+31686,SKP UK Ltd (Londis),4,0,5,10,2013-05-31,52.222,0.227642
+31687,Smell The Bacon,5,0,0,5,2014-01-28,,
+31688,Smokey Brothers,AwaitingInspection,nan,nan,nan,,52.282329,0.114566
+31689,Snacks4all,AwaitingInspection,nan,nan,nan,,,
+31690,Snap 4 Kids,5,5,5,5,2015-01-20,52.1482,0.105383
+31691,So Scrumptious,5,5,5,5,2013-12-05,52.273611,-0.007115
+31692,Sodexo Ltd,5,5,0,0,2014-08-04,52.234533,0.139782
+31693,Sodexo Ltd,5,0,0,0,2014-08-04,,
+31694,Sophie Josephine Wedd,5,0,0,5,2014-10-07,,
+31695,Souper(foods)man,5,0,0,5,2014-12-04,,
+31696,South Cambs District Council,5,5,5,5,2014-02-04,52.223099,-0.077795
+31697,South Farm,5,0,0,0,2014-10-07,52.098917,-0.092279
+31698,Spar,4,0,5,10,2010-07-13,52.123175,0.169387
+31699,Spire Cambridge Lea Hospital,5,0,0,0,2014-03-18,52.244756,0.113394
+31700,Spit Roast,5,5,0,0,2014-03-13,52.294031,0.123907
+31701,Spotted Giraffe,4,5,5,10,2014-01-20,52.093641,0.272207
+31702,Springfield Guest House,5,0,0,0,2010-03-09,,
+31703,Square & Compasses Public House,3,10,5,10,2014-10-28,52.148487,0.133446
+31704,St Andrew's Cafe,4,0,0,10,2014-07-23,52.253166,0.10468
+31705,St Andrews Stepping Stones,5,5,5,5,2010-03-26,52.253166,0.10468
+31706,Stacey Black,5,5,5,5,2012-06-19,,
+31707,Stanton Farm Day Nursery,5,5,5,0,2013-01-11,52.258369,0.177225
+31708,Stapleford Community Primary School,5,0,5,0,2014-03-18,52.144856,0.152157
+31709,Stapleford Out Of School Club,5,0,0,0,2015-01-07,52.144856,0.152157
+31710,Stars 'N' Jars Limited,3,10,10,10,2013-12-05,52.190735,0.310325
+31711,Start the Diet Tomorrow -JB Catering,5,0,0,0,2014-10-16,,
+31712,Station 357,5,5,0,0,2012-03-06,52.094774,0.128167
+31713,Steeple Morden Bowls Club,5,5,5,5,2014-02-26,52.07016,-0.124714
+31714,Steeple Morden Cofe Vc School,5,0,5,0,2013-12-12,52.07016,-0.124714
+31715,Steeple Morden Lunch Club,5,5,0,0,2014-10-14,52.069919,-0.124797
+31716,Subway,5,0,0,0,2014-03-28,,
+31717,Sugar Mill Celebration Cakes,AwaitingInspection,nan,nan,nan,,52.066229,-0.124062
+31718,Summer House Cottage,AwaitingInspection,nan,nan,nan,,52.067582,0.026142
+31719,Sunflower@Cambourne,5,0,5,5,2013-11-29,52.218532,-0.068433
+31720,Sunnyside Pre-School Play Group,5,5,5,5,2014-02-26,52.144856,0.152157
+31721,Supreme CafÃ©s,5,0,0,0,2014-10-16,,
+31722,Su's Cakes,5,5,5,5,2013-07-10,,
+31723,Swavesey Kids Club,5,5,5,5,2011-05-31,52.296743,-0.003202
+31724,Swavesey Newsagents,5,5,5,5,2014-02-26,52.301555,-0.00325
+31725,Swavesey Primary School,5,5,0,0,2014-02-03,52.296743,-0.003202
+31726,Swavesey Village College,4,5,10,5,2014-11-19,52.294904,-0.005587
+31727,Sweet Appeal,5,5,5,0,2012-04-18,,
+31728,Sweet Talk News Express,5,5,5,5,2013-01-16,52.096022,0.289951
+31729,Sweet Tea,5,5,5,5,2014-11-12,52.123175,0.169387
+31730,Sweet Treats,4,5,5,10,2013-05-01,,
+31731,Sweetie Factory,5,5,0,5,2014-02-04,,
+31732,Swifts Cottage,5,0,0,5,2012-08-15,,
+31733,Sycamore House Restaurant,5,0,5,5,2014-01-14,52.143531,0.121064
+31734,Symonds Nursing Home Ltd,5,5,0,5,2014-01-21,52.099579,0.276685
+31735,T J Leisure,3,10,5,10,2012-07-25,52.220303,-0.065135
+31736,T3Pitstop,5,0,0,5,2014-08-21,52.204505,-0.054216
+31737,Tai Yuen,5,5,5,5,2014-12-03,52.185904,-0.01338
+31738,Taste Buds,5,0,0,5,2015-01-21,,
+31739,Tasty Tempe Limited,4,10,5,0,2011-12-13,,
+31740,Teacake,5,5,0,5,2014-11-11,52.111145,0.02892
+31741,Tesco Extra (Main Shop),5,5,5,5,2015-01-14,52.253897,0.015942
+31742,Tesco Extra (Staff Restaurant),4,5,5,10,2013-11-04,52.253897,0.015942
+31743,Tesco Family Dining Cafe,5,5,0,0,2015-01-14,52.253897,0.015942
+31744,Tesco Stores Ltd,5,5,0,0,2012-02-02,52.146617,0.134936
+31745,Tesco Stores Ltd,4,5,10,5,2013-11-21,52.239377,0.154252
+31746,Tesco Stores Ltd (Staff Canteen),5,5,5,5,2013-11-21,52.239377,0.154252
+31747,Tesco Superstore,5,0,0,0,2014-03-27,52.18679,0.188078
+31748,Teversham Conservative Club,5,5,5,5,2014-01-28,52.202241,0.189393
+31749,Teversham Primary School,5,5,5,0,2015-01-06,52.204309,0.187958
+31750,The Admiral Vernon,5,0,5,5,2014-02-05,52.316406,0.015979
+31751,The Ancient Shepherds,4,5,10,5,2014-11-07,52.22076,0.170656
+31752,The Bakers Arms,5,5,0,0,2014-03-13,52.184686,0.208338
+31753,The Bank MicroPub,4,0,5,10,2013-06-05,52.312504,0.056132
+31754,The Barn Tearooms,5,5,5,5,2013-12-06,52.181931,0.058923
+31755,The Beach Fryer,5,5,5,5,2013-11-21,52.271906,0.186244
+31756,The Bees In The Wall,5,5,5,5,2014-01-28,52.115121,0.14513
+31757,The Bell,5,5,0,5,2013-11-29,52.130348,0.323345
+31758,The Bellbird Primary School,5,5,0,0,2015-02-10,52.124164,0.170341
+31759,The Belle Free House & Restaurant,5,5,5,5,2014-07-23,52.081376,-0.061035
+31760,The Bhangra Bus Cafe Ltd,5,5,0,0,2014-09-16,,
+31761,The Black Bull,2,15,10,10,2014-01-20,52.131773,0.317194
+31762,The Black Bull,5,5,5,5,2014-02-06,52.281792,0.045033
+31763,The Black Bull,5,5,5,5,2011-08-12,52.11982,0.168918
+31764,The Black Horse,5,5,0,0,2014-07-04,52.081175,0.016847
+31765,The Black Horse Public House,4,10,5,0,2013-05-01,52.239516,0.021339
+31766,The Blue Ball,4,10,5,5,2012-08-22,52.18296,0.093903
+31767,The Blue Lion,5,5,5,5,2014-07-03,52.206376,0.005872
+31768,The Boot Inn,4,5,5,10,2014-04-17,52.251882,0.106568
+31769,The Buttery Nursery,5,5,0,5,2015-02-02,52.312504,0.056132
+31770,The Cafe Riverside,2,nan,nan,nan,2014-02-07,52.070238,0.179646
+31771,The Cambridge Belfry,4,10,5,0,2014-11-04,52.22143,-0.068073
+31772,The Cambridge Dining Company,5,0,5,5,2015-01-13,52.142852,0.072773
+31773,The Cambridge Gun Club Ltd,4,10,5,5,2014-08-11,52.31794,0.185504
+31774,The Candy Man,5,5,5,5,2013-09-19,,
+31775,The Carpenters Arms,5,0,0,5,2013-02-20,52.192194,0.265276
+31776,The Chequers,2,15,10,10,2014-04-22,52.287173,0.125749
+31777,The Chequers (& Son of Sid Brewery),5,0,0,5,2014-03-04,52.180525,-0.140099
+31778,The Chequers Inn,5,5,0,5,2015-01-13,52.110475,0.185113
+31779,The Chequers Inn,5,0,0,5,2014-08-07,52.093043,0.072931
+31780,The Chequers Public House,5,5,0,0,2014-10-30,52.133919,-0.012654
+31781,The Chilipot,5,5,5,5,2014-10-24,,
+31782,The Chocolate Cupcake Company,4,5,5,10,2010-03-18,,
+31783,The Cock,5,5,5,5,2014-01-27,52.065098,0.381089
+31784,The Cock Inn,4,5,5,10,2013-12-11,52.155354,-0.19132
+31785,The Conservatory,5,5,5,5,2012-10-18,52.252055,-0.117594
+31786,The Co-operative,5,0,0,0,2010-03-02,52.083597,0.016169
+31787,The Co-Operative Pharmacy,3,5,10,10,2014-03-03,52.286969,0.12508
+31788,The Crown,5,5,5,5,2014-01-21,52.097103,0.275902
+31789,The Crown,5,5,5,5,2014-02-05,52.067504,-0.088672
+31790,The Crown and Punchbowl,5,5,5,0,2014-03-27,52.239322,0.18511
+31791,The Deli,5,0,5,5,2014-06-03,52.309821,0.05787
+31792,The Dolphin Public House,5,5,5,5,2014-02-18,52.080881,0.01409
+31793,The Eltisley,4,10,5,5,2014-02-05,52.221565,-0.140845
+31794,The Exhibition,5,5,5,5,2014-01-14,52.310465,0.018452
+31795,The Fabulous Food Company UK Ltd,AwaitingInspection,nan,nan,nan,,52.142852,0.072773
+31796,The Fox,4,5,10,5,2013-11-05,52.253276,0.021745
+31797,The Gate Lodge,5,5,5,5,2014-01-27,,
+31798,The Geographer,5,0,0,5,2013-10-11,52.245347,0.110009
+31799,The George Inn,4,5,10,5,2014-11-26,52.130147,0.208416
+31800,The Golden Ball,4,10,5,5,2014-09-23,52.259382,-0.02774
+31801,The Green Man,AwaitingInspection,nan,nan,nan,,52.098163,0.095112
+31802,The Green Man,5,0,5,0,2012-08-15,52.179957,0.094406
+31803,The Green Man,5,0,0,5,2012-08-29,52.190735,0.310325
+31804,The Greyhound,5,0,0,5,2014-03-05,52.123175,0.169387
+31805,The Hilltop Bakery,4,5,5,10,2014-04-29,,
+31806,The Hole In The Wall,5,5,0,5,2014-01-29,52.20294,0.253983
+31807,The Hoops,5,5,5,5,2014-02-26,52.182158,0.057252
+31808,The Hoops Public House,4,5,5,10,2013-12-12,52.07843,-0.05302
+31809,The Hoops Tandoori,5,5,5,0,2014-10-14,52.163497,-0.008105
+31810,The Hopbind,1,0,0,20,2010-03-23,52.286969,0.12508
+31811,The Hot Sausage Co (Vehicle: 1611),5,5,0,0,2014-03-11,52.289806,0.125362
+31812,The Hot Sausage Co (Vehicle: 7901),5,5,0,0,2014-03-11,52.289806,0.125362
+31813,The Hot Sausage Company,5,5,5,5,2014-03-10,,
+31814,The Ickleton Lion,5,5,5,5,2014-07-31,52.070865,0.174394
+31815,The Icknield Primary School,5,5,5,0,2014-01-15,52.126813,0.180317
+31816,The Jannah Indian Cuisine,5,5,0,0,2015-02-10,52.155354,-0.19132
+31817,The John Barleycorn,5,nan,nan,nan,2014-04-30,52.096626,0.158375
+31818,The Ladybird Bakery,5,5,5,5,2013-04-17,,
+31819,The Lion & Lamb,5,5,0,5,2014-02-26,52.244061,0.162638
+31820,The Little Rose,AwaitingInspection,nan,nan,nan,,52.149272,0.056364
+31821,The Main Course Company Ltd,AwaitingInspection,nan,nan,nan,,52.257088,0.063853
+31822,The Mayflower,5,5,5,5,2014-12-02,52.11982,0.168918
+31823,The Mess Restaurant,5,0,5,0,2014-01-09,52.094774,0.128167
+31824,The Missing Sock,5,0,0,5,2013-02-28,52.21769,0.224894
+31825,The Monkfield Arms,5,5,0,0,2012-11-27,52.216273,-0.068341
+31826,The Moonbeam Food Company,5,0,0,5,2014-11-27,,
+31827,The Navigator Public House,5,5,5,5,2014-01-14,52.140755,0.122394
+31828,The Newton Community Primary School,5,5,5,5,2014-03-11,52.219444,-0.138606
+31829,The Nursery,5,0,0,0,2013-05-17,52.133058,0.210474
+31830,The Old Crown,4,10,5,0,2014-11-27,52.241078,0.08098
+31831,The Old Red Lion,4,10,5,5,2014-01-27,52.09961,0.350234
+31832,The Old Shop B&B,5,5,0,5,2012-06-19,,
+31833,The Owl Cafe,5,0,5,5,2014-01-15,52.123175,0.169387
+31834,The Park Restaurant & Bistro,5,0,0,5,2013-03-28,52.234998,0.134473
+31835,The Pavilion,5,5,0,0,2014-10-15,52.282272,0.038575
+31836,The Pheasant Public House,5,5,5,5,2015-01-07,52.031602,0.07742
+31837,The Phoenix,5,5,5,5,2014-01-10,52.252342,0.108011
+31838,The Phoenix School Cambridge,5,5,0,5,2014-10-16,52.314454,0.060286
+31839,The Pig and Abbott,5,0,0,5,2014-02-04,52.082962,-0.093747
+31840,The Plough,3,10,5,10,2014-09-18,52.148487,0.133446
+31841,The Plough,3,10,5,10,2014-12-16,52.210104,0.062948
+31842,The Plough Inn,5,5,0,0,2015-02-03,52.226019,0.169243
+31843,The Plough Public House,5,5,0,5,2014-11-06,52.09135,0.157741
+31844,The Poacher,5,5,0,0,2014-06-19,52.25319,-0.07311
+31845,The Poplars,5,0,0,5,2012-10-04,,
+31846,The Poplars Respite Service,5,0,0,0,2011-08-22,52.249776,0.107215
+31847,The Porterhouse,AwaitingInspection,nan,nan,nan,,52.309113,0.054111
+31848,The Queens Head,5,5,5,5,2014-03-18,52.136696,0.076681
+31849,The Red Lion,5,5,0,5,2014-11-25,52.084878,0.181542
+31850,The Restaurant (Scotsdales),5,5,5,0,2014-11-25,52.239322,0.18511
+31851,The Rose,5,5,5,5,2015-02-05,52.144524,0.146163
+31852,The Rose & Crown,4,5,5,10,2014-01-10,52.251594,0.109118
+31853,The Rupert Brooke,AwaitingInspection,nan,nan,nan,,52.18296,0.093903
+31854,The Salvation Army,Exempt,nan,nan,nan,2013-06-13,52.263818,0.193774
+31855,The Sheene Mill (Vinura Ltd),3,10,10,10,2015-01-20,52.084665,0.014698
+31856,The Spanish Amandas,AwaitingInspection,nan,nan,nan,,,
+31857,The Spice Hut,5,5,5,5,2015-01-21,52.089618,0.007419
+31858,The Sun,5,5,5,5,2013-11-22,52.265458,0.190675
+31859,The Tamarind,4,10,5,5,2014-10-09,52.201769,0.192546
+31860,The Teapot,5,5,5,5,2013-12-13,52.090872,0.030817
+31861,The Temple Conference Centre,5,0,5,5,2014-01-21,52.122093,0.218843
+31862,The Three Horseshoes,2,15,10,10,2014-01-09,52.138346,0.080981
+31863,The Three Horseshoes,5,5,0,5,2014-10-29,52.259767,-0.17059
+31864,The Village Hall,Exempt,nan,nan,nan,2008-11-25,52.097924,0.09843
+31865,The Vines Inter Church School,5,0,0,0,2013-11-28,52.215301,-0.052968
+31866,The Welding Institute,5,0,0,0,2014-03-13,52.117121,0.225943
+31867,The Wendy House,5,5,0,5,2014-03-17,52.107499,-0.091985
+31868,The Wendy House Day Nursery,5,5,0,5,2013-11-07,52.251607,0.134406
+31869,The Wheatsheaf,4,10,5,5,2015-01-07,52.09135,0.157741
+31870,The Wheatsheaf,5,5,0,0,2014-10-21,52.155137,-0.188332
+31871,The Wheatsheaf,5,5,5,5,2014-04-07,52.219731,0.22157
+31872,The White Hart Inn,3,5,10,10,2014-01-27,52.177305,0.224545
+31873,The White Horse,5,5,0,0,2015-02-11,52.115942,0.060803
+31874,The White Swan,3,10,5,10,2014-11-18,52.22234,0.225331
+31875,The White Swan,5,0,0,0,2014-08-12,52.278745,-0.059981
+31876,The Whittle Shop Ltd,4,0,0,10,2014-12-16,52.112396,0.148621
+31877,The Willow Tree,5,5,5,5,2014-03-27,52.190954,-0.062957
+31878,This Little Piggy,5,5,5,5,2014-08-21,52.074954,-0.035893
+31879,Thorn House,5,0,0,0,2013-02-26,,
+31880,Three Hills,5,5,5,5,2014-02-13,52.081407,0.310804
+31881,Three Horseshoes,5,5,5,5,2014-02-27,52.18513,0.019998
+31882,Three Horseshoes,5,5,5,5,2014-01-27,52.145446,0.147391
+31883,Three Horseshoes,5,5,0,0,2012-07-05,52.225906,0.043079
+31884,Three Tuns,5,0,0,0,2014-03-25,52.116714,0.238865
+31885,Three Tuns,5,5,5,0,2014-02-05,52.296923,-0.038039
+31886,Thriplow Cofe Va Primary School,5,0,0,5,2013-12-13,52.101385,0.099965
+31887,Thriplow Village Stores,5,0,5,5,2013-12-13,52.097924,0.09843
+31888,Tickell Arms,4,10,0,10,2013-07-03,52.115121,0.14513
+31889,Tiger Catering (c/o The Kings Head),4,10,5,5,2014-02-20,52.123175,0.169387
+31890,Toft Shop,5,5,5,5,2014-01-28,52.185904,-0.01338
+31891,Tom's Kitchen,5,5,0,0,2012-10-10,52.257088,0.063853
+31892,Tots to Teens Childcare,5,5,0,5,2012-10-16,52.250987,-0.12054
+31893,Touch Of Class,5,0,0,5,2015-01-21,,
+31894,Touch Of Class Caterers,5,5,0,5,2013-10-17,,
+31895,Trailer of Life,5,0,0,5,2012-01-30,,
+31896,Treats Petite,5,5,5,0,2010-12-01,,
+31897,Trinaicas,AwaitingInspection,nan,nan,nan,,,
+31898,Trinity School,5,0,5,5,2014-11-12,52.116795,0.057293
+31899,Truckle Cheese Company,5,0,0,0,2014-09-25,52.257088,0.063853
+31900,T's Parties,5,5,5,5,2011-10-06,,
+31901,Tuesday Lunch Club,5,5,0,0,2014-04-01,,
+31902,Two Little Cats Bakery,5,5,5,5,2013-10-15,,
+31903,Unicorn House,5,0,0,0,2012-08-29,52.240487,0.158949
+31904,University of Cambridge,5,5,5,5,2014-03-25,52.224864,0.037292
+31905,Uppercrusts Catering Services,5,0,0,0,2014-03-10,52.269951,0.183025
+31906,Valerie Camb B & B,AwaitingInspection,nan,nan,nan,,52.256275,0.069193
+31907,Victoria's,5,0,5,5,2013-11-22,52.257088,0.063853
+31908,Villiers Park Educational Trust,5,0,0,5,2015-01-20,52.116659,0.055271
+31909,Vine Farm,5,0,0,0,2014-03-05,,
+31910,Vintage Cakes,5,5,5,5,2013-08-13,,
+31911,Volvo Construction Equipment,5,5,0,0,2015-01-13,52.101288,0.158148
+31912,Vujon Indian Cuisine,5,5,0,0,2012-11-07,52.144441,0.087185
+31913,W H Smith,5,0,5,5,2012-03-07,52.268866,-0.008852
+31914,Waggon & Horses,5,0,5,0,2012-03-06,52.097693,0.282634
+31915,Waggon & Horses,5,0,0,0,2010-05-04,52.289038,0.127554
+31916,Waggon & Horses Public House,1,20,5,20,2014-01-12,52.065525,-0.125025
+31917,Wagon Meals,4,5,5,10,2012-04-12,,
+31918,Walkers Shop,4,0,5,10,2010-04-16,52.227766,0.094473
+31919,Wallis And Son Ltd,5,0,5,5,2010-05-04,52.1776,0.062336
+31920,Wandlebury Bed & Breakfast,5,0,0,5,2014-03-12,,
+31921,Ward Kitchens,5,5,5,5,2014-12-10,52.24866,-0.115541
+31922,Waterbeach Community Playgroup,5,5,5,5,2014-01-20,52.269221,0.190904
+31923,Waterbeach Community Primary School,5,0,0,0,2013-11-21,52.269221,0.190904
+31924,Waterbeach Village Stores,3,10,10,10,2014-01-20,52.265458,0.190675
+31925,Whaddon Golf Centre,3,10,5,10,2012-12-10,52.099547,-0.032711
+31926,Whale of a Time Ltd,5,5,5,5,2014-12-16,52.253897,0.015942
+31927,What Ever Cakes,5,0,0,0,2013-05-07,,
+31928,White Horse,3,10,5,10,2013-03-20,52.180421,0.059395
+31929,White Horse,4,10,0,5,2014-11-25,52.26093,0.063211
+31930,White Horse Inn,3,5,10,10,2014-02-07,52.301555,-0.00325
+31931,White Horse Inn,5,0,0,5,2015-01-05,52.242829,0.160718
+31932,White Lion,4,10,5,5,2015-01-07,52.11982,0.168918
+31933,Wigwam Day Nursery,5,5,5,0,2014-10-21,52.248198,-0.122109
+31934,"Wilbraham Memorial Hall, Social Club",5,5,5,5,2014-01-20,52.195629,0.266651
+31935,Wild in the Pantry,5,5,5,0,2013-01-31,,
+31936,Wild Things,5,5,5,5,2014-01-20,,
+31937,Willersmill,5,0,0,0,2014-11-13,52.114008,0.031854
+31938,William Westley Cofe Primary School,5,5,5,5,2014-01-22,52.11308,0.155489
+31939,Willingham Auctions Cafe,5,5,5,5,2014-11-26,52.312504,0.056132
+31940,Willingham Dining Club,AwaitingInspection,nan,nan,nan,,,
+31941,Willingham Honey Pot Pre-School,5,0,0,0,2010-07-01,52.310844,0.058505
+31942,Willingham Primary School,5,5,0,5,2013-11-08,52.310844,0.058505
+31943,Willis Foods,AwaitingInspection,nan,nan,nan,,52.267063,0.188013
+31944,Wilson's Quality Food,5,0,0,5,2015-01-21,,
+31945,Wing Co. Joe's CafÃ©,5,5,0,0,2014-04-25,52.094774,0.128167
+31946,Winners Chinese and Fish & Chips,5,5,5,5,2014-01-30,52.143531,0.121064
+31947,Wm Morrison (Main Store),5,5,5,5,2013-11-28,52.219119,-0.06971
+31948,Wokswagon,3,5,10,10,2013-09-10,52.218532,-0.068433
+31949,Wood Farm,5,0,0,5,2012-07-19,,
+31950,Woodpecker Club,AwaitingInspection,nan,nan,nan,,52.079751,-0.059515
+31951,Woodview Farm Shop,5,0,0,0,2014-03-31,52.146597,-0.193765
+31952,Yasmin Croxford,AwaitingInspection,nan,nan,nan,,,
+31953,Yew Tree Cottage,Exempt,nan,nan,nan,2009-05-19,52.138869,0.345797
+31954,Yole Farm Butchers Shoppe,3,10,5,10,2014-12-04,52.131773,0.317194
+31955,Yuva,5,5,5,5,2014-06-12,52.081137,-0.038439
+31956,Zara,5,5,5,5,2014-01-06,52.150313,0.141369

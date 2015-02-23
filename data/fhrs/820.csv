@@ -1,387 +1,387 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-411012,15 Curran Road,,Castledawson,Co. Londonderry,24 Catering,Restaurant/Cafe/Canteen,1,5,,445394,0,,54.78370600000000,241,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.57331700000000,BT45 8DG,2013-04-22,fhrs_5_en-GB,5,,FHRS,5
-411013,,,,,A Taste Of Home,Manufacturers/packers,7839,5,,445244,0,,,1225,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-09-03,fhrs_5_en-GB,5,,FHRS,0
-411014,,,,,A Touch Of Class,Other catering premises,7841,5,,445214,0,,,1046,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-01-20,fhrs_5_en-GB,5,,FHRS,0
-411015,42 St. Patricks Street,,Draperstown,Co. Londonderry,Abasen,Takeaway/sandwich shop,7844,,,492339,,,54.79281700000000,1414,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78554200000000,BT45 7AL,2014-05-07,fhrs_3_en-GB,3,,FHRS,
-411016,26 Main Street,,Castledawson,Co. Londonderry,Alistairs Bakery,Retailers - other,4613,20,,445234,5,,54.77807700000000,1200,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.56072400000000,BT45 8AB,2014-09-22,fhrs_1_en-GB,1,,FHRS,0
-411017,,,,,All Star Catering,Mobile caterer,7846,5,,447606,10,,,1391,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-03-11,fhrs_4_en-GB,4,,FHRS,0
-411018,54 Main Street,,Castledawson,Co. Londonderry,Al's Pizzeria,Takeaway/sandwich shop,7844,,,445415,,,54.77807700000000,283,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.56072400000000,BT45 8AB,2014-03-10,fhrs_4_en-GB,4,,FHRS,
-411019,177 Sixtowns Road,,Draperstown,Co. Londonderry,Altayeskey Primary School,School/college/university,7845,0,,445373,0,,54.75283800000000,199,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.88252400000000,BT45 7BH,2013-06-21,fhrs_5_en-GB,5,,FHRS,0
-411020,94 Kilrea Road,,Upperlands,Co. Londonderry,Ampertaine School Meals Kitchen,School/college/university,7845,0,,445429,0,,54.88524800000000,33,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.62788600000000,BT46 5SB,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-411021,132a Tirkane Road,An Carn,Maghera,Co. Londonderry,An Carn Siopa,Restaurant/Cafe/Canteen,1,0,,445690,0,,54.87443000000000,955,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.71131900000000,BT46 5NH,2014-02-10,fhrs_5_en-GB,5,,FHRS,0
-411022,53 Moneyneany Road,,Draperstown,Co. Londonderry,An Rath Dubh Centre,Other catering premises,7841,5,,445569,0,,54.82147100000000,67,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.84123600000000,BT45 7EN,2013-09-27,fhrs_5_en-GB,5,,FHRS,0
-411023,120 Deerpark Road,,Toome,Co. Londonderry,Anahorish School Meals Kitchen,School/college/university,7845,0,,445648,5,,54.76971000000000,84,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.50404100000000,BT41 3SS,2012-12-11,fhrs_4_en-GB,4,,FHRS,10
-411024,141 Moneysharvan Road,,Maghera,Co. Londonderry,Anniscliff House,Hospitals/Childcare/Caring Premises,5,10,,445547,10,,54.85487100000000,615,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66784500000000,BT46 5HZ,2014-10-09,fhrs_3_en-GB,3,,FHRS,10
-411025,18 St. Patricks Street,,Draperstown,Co. Londonderry,Apparo,Hotel/bed & breakfast/guest house,7842,5,,445574,5,,54.79281700000000,683,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78554200000000,BT45 7AL,2013-11-29,fhrs_5_en-GB,5,,FHRS,5
-411026,62a Hospital Road,,Magherafelt,Co. Londonderry,Ardrath House,Hospitals/Childcare/Caring Premises,5,10,,445444,0,,54.76239900000000,355,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61620000000000,BT45 5EG,2013-07-09,fhrs_4_en-GB,4,,FHRS,10
-411027,8 Gorteade Road,Upperlands,Maghera,Co. Londonderry,Ardtara Country House,Hotel/bed & breakfast/guest house,7842,10,,445468,5,,54.88836300000000,443,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.63881300000000,BT46 5SA,2013-07-03,fhrs_3_en-GB,3,,FHRS,10
-411028,25-27 Market Street,,Magherafelt,Co. Londonderry,B & M Bargains,Retailers - supermarkets/hypermarkets,7840,0,,580793,0,,54.75499900000000,1464,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60781600000000,BT45 6EE,2013-11-01,fhrs_5_en-GB,5,,FHRS,0
-411029,5-7 Tobermore Road,The Business Centre,Draperstown,Co. Londonderry,Ballinascreen Early Years,Hospitals/Childcare/Caring Premises,5,0,,445642,0,,54.79558800000000,828,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78149500000000,BT45 7AG,2014-02-12,fhrs_5_en-GB,5,,FHRS,0
-411030,30 Magherafelt Road,,Draperstown,Co. Londonderry,Ballinascreen Fold,Hospitals/Childcare/Caring Premises,5,5,,445407,5,,54.79182700000000,258,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.76934100000000,BT45 7AF,2014-02-12,fhrs_5_en-GB,5,,FHRS,5
-411031,5 Culbane Road,,Portglenone,Co. Londonderry,Ballynease Primary School Meals Kitchen,School/college/university,7845,0,,445356,0,,54.84541500000000,169,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.48226300000000,BT44 8NZ,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-411032,68 Rainey Street,,Magherafelt,Co. Londonderry,Bamboo Garden,Takeaway/sandwich shop,7844,10,,445434,5,,54.75588100000000,340,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61188700000000,BT45 5AH,2014-02-25,fhrs_4_en-GB,4,,FHRS,5
-411033,11-13 Broad Street,,Magherafelt,Co. Londonderry,Barista,Restaurant/Cafe/Canteen,1,10,,655807,10,,54.75579000000000,1518,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60709000000000,BT45 6EB,2014-08-19,fhrs_3_en-GB,3,,FHRS,10
-411034,79 William Street,,Bellaghy,Co. Londonderry,Bellaghy Primary School Meals Kitchen,School/college/university,7845,5,,445603,5,,54.81015400000000,75,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51642100000000,BT45 8HZ,2012-10-18,fhrs_4_en-GB,4,,FHRS,10
-411035,59 Tirgarvil Road,Upperlands,Maghera,Co. Londonderry,Benbradagh Care Home,Hospitals/Childcare/Caring Premises,5,,,445494,,,54.87546400000000,502,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.62697200000000,BT46 5UW,2014-05-06,fhrs_5_en-GB,5,,FHRS,
-411036,,,,,Bigger Ices,Mobile caterer,7846,0,,445330,0,,,1364,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2012-06-21,fhrs_5_en-GB,5,,FHRS,5
-411037,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Boots Stores Ltd,Retailers - other,4613,,,445460,,,54.75404500000000,4,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61236900000000,BT45 6PR,2012-05-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-411038,14 Main Street,,Maghera,Co. Londonderry,Bowies Chip Shop,Takeaway/sandwich shop,7844,20,,445540,10,,54.84375500000000,590,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67088900000000,BT46 5AD,2014-05-13,fhrs_1_en-GB,1,,FHRS,15
-411039,55 Mayogall Road,,Gulladuff,Co. Londonderry,Boyles,Pub/bar/nightclub,7843,5,,445459,5,,54.83977100000000,399,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59087400000000,BT45 8PG,2012-05-22,fhrs_5_en-GB,5,,FHRS,5
-411040,66a Gulladuff Road,,Gulladuff,Co. Londonderry,Boyles Shop,Retailers - other,4613,0,,445531,5,,54.83357300000000,572,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60649700000000,BT45 8NT,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-411041,19 Coleraine Road,,Maghera,Co. Londonderry,Bradley Service Station Limited,Retailers - other,4613,5,,445358,5,,54.84550800000000,170,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2014-03-24,fhrs_4_en-GB,4,,FHRS,10
-411042,18 Kilrea Road,,Upperlands,Co. Londonderry,Bradleys Bar,Pub/bar/nightclub,7843,0,,445528,0,,54.91116600000000,569,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66250900000000,BT46 5QF,2014-01-21,fhrs_5_en-GB,5,,FHRS,0
-411043,57 Tobermore Road,,Desertmartin,Co. Londonderry,Bradley's Bar,Pub/bar/nightclub,7843,5,,445430,5,,54.77701400000000,334,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.68053900000000,BT45 5LE,2011-11-22,fhrs_5_en-GB,5,,FHRS,5
-411044,19 Coleraine Road,,Maghera,Co. Londonderry,Bradley's Centra Ltd (Van),Mobile caterer,7846,,,718057,,,54.84550800000000,1574,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411045,,,,,Brendan Higgins,Retailers - other,4613,0,,445246,0,,,1227,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-09-06,fhrs_5_en-GB,5,,FHRS,0
-411046,2 Laurelbrook,,Magherafelt,Co. Londonderry,Brooke Lodge Guesthouse,Hotel/bed & breakfast/guest house,7842,5,,445387,5,,54.75269300000000,222,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59401000000000,BT45 6NT,2013-09-30,fhrs_5_en-GB,5,,FHRS,0
-411047,66 Hospital Road,,Magherafelt,Co. Londonderry,Brooklands Healthcare,Hospitals/Childcare/Caring Premises,5,,,445477,,,54.76239900000000,464,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61620000000000,BT45 5EG,2014-09-18,fhrs_5_en-GB,5,,FHRS,
-411048,24-28 Union Road,,Magherafelt,,Brysons Bar And Restaurant,Pub/bar/nightclub,7843,5,,445583,5,,54.75680500000000,707,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60863900000000,BT45 5DF,2014-04-15,fhrs_5_en-GB,5,,FHRS,5
-411049,21 Hillhead Road,Toomebridge,Toome,Co. Londonderry,Building Blocks Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,621256,0,,54.75810000000000,1456,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.47355600000000,BT41 3SF,2013-11-21,fhrs_5_en-GB,5,,FHRS,0
-411050,36 Queen Street,,Magherafelt,Co. Londonderry,Bureato Mexican Food Bar,Takeaway/sandwich shop,7844,5,,595328,0,,54.75450800000000,1487,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60887400000000,BT45 6AB,2014-01-23,fhrs_5_en-GB,5,,FHRS,0
-411051,15 Station Road,,Maghera,Co. Londonderry,Busy Bee Playgroup,Hospitals/Childcare/Caring Premises,5,5,,445223,5,,54.84505700000000,1165,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66673600000000,BT46 5BS,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-411052,5 Princess Terrace,,Magherafelt,Co. Londonderry,Caffe Dolce,Restaurant/Cafe/Canteen,1,,,445345,,,54.75171900000000,1390,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60931100000000,BT45 6DR,2013-09-02,fhrs_5_en-GB,5,,FHRS,
-411053,,,,,Candyland,Mobile caterer,7846,5,,445252,5,,,1245,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2012-08-31,fhrs_5_en-GB,5,,FHRS,5
-411054,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Card Factory,Retailers - other,4613,,,552340,,,54.75404500000000,1445,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61236900000000,BT45 6PR,2013-08-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-411055,64 William Street,,Bellaghy,Co. Londonderry,Cassidy's Bar,Pub/bar/nightclub,7843,5,,445395,5,,54.81015400000000,242,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51642100000000,BT45 8HZ,2012-02-13,fhrs_5_en-GB,5,,FHRS,5
-411056,72 Main Street,,Castledawson,Co. Londonderry,Castledawson Primary School Meals Kitchen,School/college/university,7845,0,,445611,0,,54.77807700000000,764,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.56072400000000,BT45 8AB,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-411057,14 Bellshill Road,,Castledawson,Co. Londonderry,Castlehill Private Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,445466,5,,54.76835600000000,440,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55317600000000,BT45 8HG,2014-09-22,fhrs_5_en-GB,5,,FHRS,5
-411058,36 Castledawson Road,,Magherafelt,Co. Londonderry,Centra Magherafelt,Retailers - other,4613,5,,445544,5,,54.75938100000000,612,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59983600000000,BT45 6PA,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-411059,20a Tirkane Road,,Maghera,Co. Londonderry,Charlie's Chippy,Takeaway/sandwich shop,7844,10,,445605,5,,54.84689000000000,751,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67662400000000,BT46 5AG,2013-10-09,fhrs_4_en-GB,4,,FHRS,5
-411060,18a Main Street,,Tobermore,Co. Londonderry,China Garden,Takeaway/sandwich shop,7844,5,,445545,0,,54.81157100000000,613,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.70618200000000,BT45 5PN,2013-09-16,fhrs_5_en-GB,5,,FHRS,5
-411061,,,,,Chip N Dip,Mobile caterer,7846,,,676402,,,,1531,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411062,23-25 Church Street,,Magherafelt,Co. Londonderry,Church Street Restaurant,Restaurant/Cafe/Canteen,1,5,,445333,5,,54.75644400000000,1375,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60535800000000,BT45 6AP,2014-01-23,fhrs_4_en-GB,4,,FHRS,10
-411063,64 Tamlaght Road,,Upperlands,Co. Londonderry,Churchtown Presbyterian Church Hall,Other catering premises,7841,,,703392,,,54.89583300000000,1553,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.58115400000000,BT46 5XF,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411064,246 Mayogall Road,,Clady,Co. Londonderry,Clady Quality Meats,Retailers - other,4613,5,,445622,5,,54.86779900000000,78,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51539400000000,BT44 8NN,2013-06-21,fhrs_5_en-GB,5,,FHRS,5
-411065,30a Castledawson Road,,Magherafelt,Co. Londonderry,Clanmil Housing,Hospitals/Childcare/Caring Premises,5,5,,445218,0,,54.75747800000000,1132,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60304000000000,BT45 6AX,2014-03-27,fhrs_5_en-GB,5,,FHRS,0
-411066,63-65 Main Street,,Tobermore,Co. Londonderry,Clares Costcutter,Retailers - other,4613,5,,445504,5,,54.81081200000000,514,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.71076300000000,BT45 5PP,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-411067,11a Ballymulligan Road,,Magherafelt,Co. Londonderry,Clearwater House B And B,Hotel/bed & breakfast/guest house,7842,,,445463,,,54.72562600000000,423,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59184300000000,BT45 6ES,2012-11-07,fhrs_5_en-GB,5,,FHRS,
-411068,5 Cloneen Manor,,Maghera,Co. Londonderry,Cloneen Day Nursery,Hospitals/Childcare/Caring Premises,5,10,,445464,10,,54.85037000000000,424,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66544000000000,BT46 5FQ,2014-12-16,fhrs_3_en-GB,3,,FHRS,10
-411069,1a Main Street,,Castledawson,Co. Londonderry,Corner Bar,Pub/bar/nightclub,7843,5,,445452,0,,54.77830300000000,382,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55861800000000,BT45 8AA,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-411070,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Costa Coffee,Restaurant/Cafe/Canteen,1,10,,445571,5,,54.75404500000000,679,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61236900000000,BT45 6PR,2014-10-16,fhrs_3_en-GB,3,,FHRS,10
-411071,68 Gulladuff Road,,Gulladuff,Co. Londonderry,Cosy Corner Bar,Pub/bar/nightclub,7843,0,,445439,0,,54.83357300000000,347,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60649700000000,BT45 8NT,2014-06-10,fhrs_5_en-GB,5,,FHRS,0
-411072,,,,,Country Bite,Mobile caterer,7846,20,,445312,0,,,1330,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-08-20,fhrs_1_en-GB,1,,FHRS,5
-411073,27 Garvagh Road,,Swatragh,Co. Londonderry,Country Cafe,Restaurant/Cafe/Canteen,1,20,,445572,5,,54.91415000000000,68,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66434300000000,BT46 5QE,2014-10-30,fhrs_1_en-GB,1,,FHRS,10
-411074,83a Annaghmore Road,,Castledawson,Co. Londonderry,Country Creche,Hospitals/Childcare/Caring Premises,5,0,,445359,0,,54.76285800000000,171,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.56070500000000,BT45 8DU,2014-11-21,fhrs_5_en-GB,5,,FHRS,5
-411075,18-22 Main Street,,Maghera,Co. Londonderry,Crawfords Coffee Lounge,Restaurant/Cafe/Canteen,1,5,,445604,0,,54.84415000000000,750,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67251100000000,BT46 5AE,2013-06-28,fhrs_4_en-GB,4,,FHRS,10
-411076,38-40 Hillhead Road,,Toomebridge,Co. Londonderry,Creagh Concrete T/a The Elk Bar And Bistro,Restaurant/Cafe/Canteen,1,10,,445377,5,,54.75810000000000,203,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.47355600000000,BT41 3SF,2013-08-08,fhrs_3_en-GB,3,,FHRS,10
-411077,11 Main Street,,Maghera,Co. Londonderry,Crooks Bar,Pub/bar/nightclub,7843,5,,445465,5,,54.84412300000000,437,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67162400000000,BT46 5AA,2011-11-10,fhrs_4_en-GB,4,,FHRS,10
-411078,157 Drumagarner Road,,Kilrea,Co. Londonderry,Crossroads Primary School Meals Kitchen,School/college/university,7845,0,,445537,5,,54.91890800000000,583,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59160200000000,BT51 5TW,2012-12-10,fhrs_5_en-GB,5,,FHRS,0
-411079,79 Ballymacilcurr Road,,Culnady,Co. Londonderry,Culnady Primary School Meals Kitchen,School/college/university,7845,0,,445511,0,,54.86460000000000,538,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.63230900000000,BT46 5TT,2013-06-13,fhrs_5_en-GB,5,,FHRS,0
-411080,21 Market Street,,Magherafelt,Co. Londonderry,Curley's Wine Cellars,Retailers - other,4613,,,445479,,,54.75499900000000,467,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60781600000000,BT45 6EE,2013-01-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-411081,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Dayfresh,Retailers - other,4613,5,,445371,0,,54.75404500000000,196,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61236900000000,BT45 6PR,2014-01-17,fhrs_5_en-GB,5,,FHRS,0
-411082,37 Kilrea Road,,Upperlands,Co. Londonderry,Day-to-day,Retailers - other,4613,20,,445680,0,,54.87470700000000,93,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.65162800000000,BT46 5SN,2013-08-12,fhrs_1_en-GB,1,,FHRS,5
-411083,76 Sixtowns Road,,Draperstown,Co. Londonderry,Day-to-day,Retailers - other,4613,10,,445392,5,,54.78384500000000,24,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.80477500000000,BT45 7BB,2014-06-17,fhrs_3_en-GB,3,,FHRS,10
-411084,20 Dromore Road,,Desertmartin,Co. Londonderry,Desertmartin Primary School Meals Kitchen,School/college/university,7845,5,,445502,0,,54.77786300000000,512,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66786000000000,BT45 5JZ,2012-10-11,fhrs_4_en-GB,4,,FHRS,10
-411085,9 Main Street,,Tobermore,Co. Londonderry,Diamond Bar,Pub/bar/nightclub,7843,10,,445564,0,,54.81157100000000,645,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.70618200000000,BT45 5PN,2013-08-15,fhrs_4_en-GB,4,,FHRS,5
-411086,30 High Street,,Draperstown,Co. Londonderry,Diamond Meats,Retailers - other,4613,0,,445523,10,,54.79398400000000,561,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78193200000000,BT45 7AA,2013-12-04,fhrs_4_en-GB,4,,FHRS,5
-411087,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Diamond Meats,Manufacturers/packers,7839,10,,445510,15,,54.75404500000000,535,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61236900000000,BT45 6PR,2014-10-22,fhrs_2_en-GB,2,,FHRS,10
-411088,14 The Square,,Draperstown,Co. Londonderry,Diamond Service Station,Retailers - other,4613,5,,445485,10,,54.79372500000000,490,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78291900000000,BT45 7AE,2014-02-28,fhrs_4_en-GB,4,,FHRS,0
-411089,,,,,Dillys Diner,Mobile caterer,7846,5,,445385,0,,,22,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2012-11-22,fhrs_5_en-GB,5,,FHRS,0
-411090,7 Garden Street,,Magherafelt,Co. Londonderry,District 45 Restaurant,Restaurant/Cafe/Canteen,1,10,,703388,5,,54.75719000000000,1548,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61087900000000,BT45 5DD,2014-10-17,fhrs_4_en-GB,4,,FHRS,5
-411091,3 Rainey Street,,Magherafelt,Co. Londonderry,Ditty's Bakery And Coffee Shop,Restaurant/Cafe/Canteen,1,5,,445337,5,,54.75558700000000,138,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60893000000000,BT45 5DA,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-411092,44a Main Street,,Castledawson,Co. Londonderry,Ditty's Castledawson Ltd ( Cafe),Restaurant/Cafe/Canteen,1,10,,445311,5,,54.77807700000000,1329,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.56072400000000,BT45 8AB,2014-03-19,fhrs_4_en-GB,4,,FHRS,5
-411093,,,,,Dolan Heaney,Other catering premises,7841,5,,710142,0,,,1561,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-411094,17 Queen Street,,Magherafelt,Co. Londonderry,Dorman's and Secrets Nightclub,Pub/bar/nightclub,7843,,,730047,,,54.75467200000000,1551,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60910000000000,BT45 6AA,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411095,26-28 Queen Street,,Magherafelt,Co. Londonderry,Downeys Bar,Pub/bar/nightclub,7843,10,,445370,0,,54.75450800000000,195,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60887400000000,BT45 6AB,2013-09-06,fhrs_4_en-GB,4,,FHRS,10
-411096,5-7 Tobermore Road,The Business Centre,Draperstown,Co. Londonderry,Draperstown After School Club,Hospitals/Childcare/Caring Premises,5,5,,445581,5,,54.79558800000000,703,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78149500000000,BT45 7AG,2014-09-26,fhrs_5_en-GB,5,,FHRS,5
-411097,46 St. Patricks Street,,Draperstown,Co. Londonderry,Draperstown Chinese,Takeaway/sandwich shop,7844,,,655804,,,54.79281700000000,1514,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78554200000000,BT45 7AL,2014-07-24,fhrs_4_en-GB,4,,FHRS,
-411098,45 Ballydermot Road,,Bellaghy,Co. Londonderry,Due Hamill B&b,Hotel/bed & breakfast/guest house,7842,,,445332,,,54.79252300000000,1370,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.49998000000000,BT45 8LF,2012-08-08,fhrs_5_en-GB,5,,FHRS,
-411099,94 Main Street,,Maghera,Co. Londonderry,Dugout,Pub/bar/nightclub,7843,5,,445348,0,,54.84505300000000,157,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67450500000000,BT46 5AF,2013-09-06,fhrs_4_en-GB,4,,FHRS,10
-411100,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,"Dunnes Stores, Magherafelt",Retailers - supermarkets/hypermarkets,7840,0,,445509,0,,54.75276800000000,534,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61146500000000,BT45 6AG,2014-03-26,fhrs_5_en-GB,5,,FHRS,0
-411101,70 Tamlaght Road,Upperlands,Maghera,Co. Londonderry,Eotas ( Portrush),School/college/university,7845,10,,611172,0,,54.89454200000000,1476,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.57833200000000,BT46 5XB,2013-11-28,fhrs_4_en-GB,4,,FHRS,10
-411102,56 Quarry Road,,Knockcloghrim,Co. Londonderry,Erins Own G A C Lavey,Pub/bar/nightclub,7843,,,445498,,,54.82842200000000,507,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60301800000000,BT45 8NS,2013-08-08,fhrs_5_en-GB,5,,FHRS,
-411103,107-111 Main Street,,Maghera,Co. Londonderry,Eurospar,Retailers - supermarkets/hypermarkets,7840,5,,445408,5,,54.84510000000000,260,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67386500000000,BT46 5AB,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-411104,61 St Patrick'S Street,,Draperstown,Co. Londonderry,Eurospar,Retailers - supermarkets/hypermarkets,7840,10,,445618,5,,54.79628000000000,772,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78329300000000,BT45 7AT,2013-09-17,fhrs_4_en-GB,4,,FHRS,5
-411105,,,,,First Magherafelt Presbyterian Church,Retailers - other,4613,0,,552343,0,,,1449,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-08-08,fhrs_5_en-GB,5,,FHRS,0
-411106,28 Meeting Street,,Magherafelt,Co. Londonderry,First Magherafelt Presbyterian Church Hall,Other catering premises,7841,5,,509094,5,,54.75376700000000,654,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60535800000000,BT45 6BW,2013-11-05,fhrs_5_en-GB,5,,FHRS,5
-411107,43 St. Patricks Street,,Draperstown,Co. Londonderry,Frankies Pizza Shop,Takeaway/sandwich shop,7844,10,,445651,5,,54.79283600000000,844,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78661500000000,BT45 7AJ,2014-03-11,fhrs_4_en-GB,4,,FHRS,5
-411108,4 Broad Street,,Magherafelt,Co. Londonderry,Freshways,Retailers - other,4613,0,,445321,0,,54.75590700000000,1345,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60787800000000,BT45 6EA,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-411109,244b Mayogall Road,,Clady,Co. Londonderry,Frydays,Takeaway/sandwich shop,7844,,,535655,,,54.86779900000000,1437,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51539400000000,BT44 8NN,2014-05-06,fhrs_3_en-GB,3,,FHRS,
-411110,82 Sixtowns Road,,Draperstown,Co. Londonderry,Gaelscoil Na Speirni,School/college/university,7845,0,,710143,0,,54.78384500000000,1567,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.80477500000000,BT45 7BB,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-411111,40 Meeting Street,,Magherafelt,Co. Londonderry,Gaelscoil Na Tseanchai,School/college/university,7845,0,,509093,0,,54.75376700000000,1428,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60535800000000,BT45 6BW,2013-06-19,fhrs_4_en-GB,4,,FHRS,10
-411112,,,,,Gemma's Cakes,Manufacturers/packers,7839,10,,445335,0,,,1377,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2012-11-05,fhrs_4_en-GB,4,,FHRS,0
-411113,31 Glenshane Road,,Maghera,Co. Londonderry,Glenshane Tourist Services Ltd,Retailers - supermarkets/hypermarkets,7840,0,,445505,5,,54.85207600000000,517,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.75408600000000,BT46 5JZ,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-411114,61 Rainey Street,,Magherafelt,Co. Londonderry,Golden Chicken,Restaurant/Cafe/Canteen,1,10,,611175,10,,54.75621200000000,1491,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61173500000000,BT45 5AF,2014-01-27,fhrs_3_en-GB,3,,FHRS,5
-411115,30a Main Street,,Bellaghy,Co. Londonderry,Golden City,Takeaway/sandwich shop,7844,10,,445438,15,,54.80787700000000,346,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51975500000000,BT45 8HT,2014-03-26,fhrs_2_en-GB,2,,FHRS,10
-411116,11-13 Broad Street,,Magherafelt,Co. Londonderry,Golden Gate,Takeaway/sandwich shop,7844,10,,695912,10,,54.75579000000000,1539,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60709000000000,BT45 6EB,2014-11-13,fhrs_3_en-GB,3,,FHRS,5
-411117,11 Clady Road,,Portglenone,Co. Londonderry,Golden Hill Restaurant,Restaurant/Cafe/Canteen,1,20,,445357,10,,54.87256500000000,17,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.48370400000000,BT44 8JX,2014-03-14,fhrs_1_en-GB,1,,FHRS,10
-411118,14 St. Patricks Street,,Draperstown,Co. Londonderry,Golden House,Takeaway/sandwich shop,7844,10,,703387,15,,54.79281700000000,1546,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78554200000000,BT45 7AL,2014-10-16,fhrs_2_en-GB,2,,FHRS,10
-411119,179 Shore Road,Ballyronan,Magherafelt,Co. Londonderry,Gracelands,Pub/bar/nightclub,7843,10,,445421,5,,54.71957800000000,297,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.52964900000000,BT45 6LS,2013-10-07,fhrs_3_en-GB,3,,FHRS,10
-411120,17-19 Main Street,,Bellaghy,Co. Londonderry,Graham And Son Ltd,Retailers - supermarkets/hypermarkets,7840,5,,445515,10,,54.80849700000000,547,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51831700000000,BT45 8HS,2013-12-10,fhrs_4_en-GB,4,,FHRS,5
-411121,18 Main Street,,Swatragh,Co. Londonderry,Gran Fries,Takeaway/sandwich shop,7844,5,,445563,5,,54.90920300000000,642,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66455400000000,BT46 5QB,2014-03-21,fhrs_5_en-GB,5,,FHRS,5
-411122,15d Main Street,,Swatragh,Co. Londonderry,Gran Tots Playgroup,Hospitals/Childcare/Caring Premises,5,5,,445256,5,,54.90920300000000,1253,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66455400000000,BT46 5QB,2013-02-08,fhrs_5_en-GB,5,,FHRS,0
-411123,15c Main Street,,Swatragh,Co. Londonderry,Granaghan Resource Centre Wednesday Club,Other catering premises,7841,5,,445470,5,,54.90920300000000,454,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66455400000000,BT46 5QB,2013-10-30,fhrs_5_en-GB,5,,FHRS,0
-411124,10a Coleraine Road,,Maghera,Co. Londonderry,Grapevine Off-Licence,Retailers - other,4613,,,445646,,,54.84550800000000,833,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2014-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-411125,43 Main Street,,Castledawson,Co. Londonderry,Great Beef And Co,Manufacturers/packers,7839,5,,445631,10,,54.77830300000000,80,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55861800000000,BT45 8AA,2014-12-17,fhrs_4_en-GB,4,,FHRS,5
-411126,29 Church Street,,Maghera,Co. Londonderry,Greenfield Retail Ltd (t/a Church Street Service Station),Retailers - other,4613,10,,445390,5,,54.84252100000000,23,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66809700000000,BT46 5EA,2014-03-24,fhrs_3_en-GB,3,,FHRS,10
-411127,101 Innishrush Road,,Portglenone,Co. Londonderry,Greenlough Bar,Pub/bar/nightclub,7843,5,,445351,0,,54.87450400000000,160,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.53632000000000,BT44 8LG,2014-01-31,fhrs_5_en-GB,5,,FHRS,0
-411128,232 Mayogall Road,,Clady,Co. Londonderry,Greenlough Community Playgroup,Hospitals/Childcare/Caring Premises,5,0,,445213,0,,54.86779900000000,1037,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51539400000000,BT44 8NN,2014-12-16,fhrs_2_en-GB,2,,FHRS,15
-411129,15 Main Street,,Bellaghy,Co. Londonderry,Hamilton's Pub,Pub/bar/nightclub,7843,5,,445610,5,,54.80849700000000,763,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51831700000000,BT45 8HS,2012-02-21,fhrs_5_en-GB,5,,FHRS,5
-411130,33 Station Road,,Magherafelt,Co. Londonderry,Happy Days Nursery,Hospitals/Childcare/Caring Premises,5,5,,445630,0,,54.76427500000000,797,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60589700000000,BT45 5EB,2013-08-06,fhrs_5_en-GB,5,,FHRS,0
-411131,53 Main Street,,Castledawson,Co. Londonderry,Happy Garden,Takeaway/sandwich shop,7844,10,,445484,0,,54.77830300000000,473,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55861800000000,BT45 8AA,2014-03-27,fhrs_4_en-GB,4,,FHRS,10
-411132,54 Kilrea Road,,Portglenone,Co. Londonderry,Hawthorn Inn,Pub/bar/nightclub,7843,5,,445620,5,,54.87823200000000,775,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.50165800000000,BT44 8JB,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-411133,3-5 Main Street,,Maghera,Co. Londonderry,Hide-out Lounge,Pub/bar/nightclub,7843,5,,445549,5,,54.84412300000000,618,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67162400000000,BT46 5AA,2012-04-11,fhrs_5_en-GB,5,,FHRS,5
-411134,55 Moneymore Road,,Magherafelt,Co. Londonderry,Highfield Service Station,Retailers - other,4613,5,,445480,0,,54.75087900000000,468,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61362600000000,BT45 6HF,2014-03-28,fhrs_5_en-GB,5,,FHRS,5
-411135,18 William Street,,Bellaghy,Co. Londonderry,Hillside Filling Station,Retailers - other,4613,5,,445682,0,,54.81015400000000,932,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51642100000000,BT45 8HZ,2013-12-10,fhrs_5_en-GB,5,,FHRS,0
-411136,,,,,Hl's Kitchen,Mobile caterer,7846,10,,445251,0,,,1241,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2012-10-25,fhrs_4_en-GB,4,,FHRS,0
-411137,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Holland And Barrett,Retailers - other,4613,5,,449794,0,,54.75276800000000,1278,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61146500000000,BT45 6AG,2012-09-18,fhrs_5_en-GB,5,,FHRS,0
-411138,13 Union Road,,Magherafelt,Co. Londonderry,Hollybank Respite Unit,Hospitals/Childcare/Caring Premises,5,5,,445360,0,,54.75680500000000,172,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60863900000000,BT45 5DF,2014-07-07,fhrs_5_en-GB,5,,FHRS,5
-411139,59a Hospital Road,,Magherafelt,Co. Londonderry,Hospital Shop,Retailers - other,4613,5,,445561,0,,54.76239900000000,640,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61620000000000,BT45 5EG,2013-09-18,fhrs_5_en-GB,5,,FHRS,5
-411140,,,,,Hot Drinks Stall,Mobile caterer,7846,5,,485909,0,,,1406,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2012-12-04,fhrs_5_en-GB,5,,FHRS,0
-411141,27-31 Main Street,,Castledawson,Co. Londonderry,Hotel Bar Castledawson,Pub/bar/nightclub,7843,5,,445487,5,,54.77830300000000,493,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55861800000000,BT45 8AA,2012-02-13,fhrs_5_en-GB,5,,FHRS,5
-411142,34 Queen Street,,Magherafelt,Co. Londonderry,Hunger Bitez,Restaurant/Cafe/Canteen,1,10,,611174,5,,54.75450800000000,1490,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60887400000000,BT45 6AB,2014-02-25,fhrs_4_en-GB,4,,FHRS,5
-411143,5 Meeting Street,,Magherafelt,Co. Londonderry,Hutton Meats,Retailers - other,4613,5,,445453,5,,54.75449200000000,383,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60665300000000,BT45 6BN,2013-01-09,fhrs_4_en-GB,4,,FHRS,10
-411144,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Iceland Frozen Foods PLC,Retailers - supermarkets/hypermarkets,7840,0,,445428,5,,54.75276800000000,329,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61146500000000,BT45 6AG,2013-07-09,fhrs_5_en-GB,5,,FHRS,0
-411145,15 Queen Street,,Magherafelt,Co. Londonderry,Imperial Palace,Restaurant/Cafe/Canteen,1,,,445681,,,54.75460200000000,930,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60921200000000,BT45 6AA,2014-08-13,fhrs_3_en-GB,3,,FHRS,
-411146,,,,,Indian Nights Inn,Other catering premises,7841,5,,445221,0,,,1159,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-411147,27 Desertmartin Road,,Tobermore,Co. Londonderry,J B Tyres,Retailers - other,4613,0,,445398,0,,54.80516400000000,247,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.69756800000000,BT45 5QY,2013-08-08,fhrs_4_en-GB,4,,FHRS,10
-411148,1 Union Road,,Magherafelt,Co. Londonderry,J C Stewart,Retailers - supermarkets/hypermarkets,7840,5,,445526,5,,54.75680500000000,565,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60863900000000,BT45 5DF,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-411149,Moneysharvan Road,,Maghera,,James Armstrong,Retailers - other,4613,5,,445227,5,,54.87585100000000,1180,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66422500000000,,2012-02-14,fhrs_5_en-GB,5,,FHRS,5
-411150,8 Main Street,,Bellaghy,Co. Londonderry,James Overend And Son,Retailers - other,4613,,,445560,,,54.80849700000000,639,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51831700000000,BT45 8HS,2014-05-08,fhrs_4_en-GB,4,,FHRS,
-411151,51-53 Rainey Street,,Magherafelt,Co. Londonderry,Jaunty's Diner,Restaurant/Cafe/Canteen,1,5,,445474,0,,54.75621200000000,459,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61173500000000,BT45 5AF,2013-06-06,fhrs_5_en-GB,5,,FHRS,5
-411152,15 Tirgan Road,,Moneymore,Co. Londonderry,Jill's Cakes,Manufacturers/packers,7839,5,,445573,5,,54.71975100000000,682,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.71984800000000,BT45 7UA,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-411153,67 Kilrea Road,,Upperlands,Co. Londonderry,Junes Supershop,Retailers - other,4613,10,,445570,0,,54.87892800000000,670,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.64028400000000,BT46 5RU,2012-10-03,fhrs_4_en-GB,4,,FHRS,0
-411154,70 Rainey Street,,Magherafelt,Co. Londonderry,Karolina Shop,Retailers - other,4613,,,445308,,,54.75588100000000,1322,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61188700000000,BT45 5AH,2012-12-17,fhrs_3_en-GB,3,,FHRS,
-411155,22 Pound Road,,Magherafelt,Co. Londonderry,Kathryn Homes (magherafelt Manor Care Home),Hospitals/Childcare/Caring Premises,5,,,445316,,,54.75554100000000,1338,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59408200000000,BT45 6NR,2014-02-06,fhrs_5_en-GB,5,,FHRS,
-411156,79-81 Main Street,,Maghera,Co. Londonderry,Kearney's Bar,Pub/bar/nightclub,7843,5,,445355,0,,54.84510000000000,168,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67386500000000,BT46 5AB,2013-09-20,fhrs_4_en-GB,4,,FHRS,10
-411157,1 Magherafelt Road,,Castledawson,Co. Londonderry,Kellys Vivoxtra Castledawson,Retailers - other,4613,5,,445486,5,,54.77790100000000,492,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.56337300000000,BT45 8AG,2014-08-18,fhrs_5_en-GB,5,,FHRS,5
-411158,41 Magherafelt Road,,Castledawson,Co. Londonderry,Kentucky Fried Chicken,Restaurant/Cafe/Canteen,1,5,,445404,0,,54.76952800000000,253,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.57934800000000,BT45 8DR,2014-01-09,fhrs_4_en-GB,4,,FHRS,10
-411159,1-4 Parker Avenue,,Castledawson,Co. Londonderry,Kiddies Castle Early Years,Hospitals/Childcare/Caring Premises,5,0,,445567,0,,54.77757200000000,657,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55452500000000,BT45 8AR,2014-11-18,fhrs_5_en-GB,5,,FHRS,0
-411160,64 Rainey Street,,Magherafelt,Co. Londonderry,Kidd-z-Play,Hospitals/Childcare/Caring Premises,5,5,,445566,0,,54.75588100000000,655,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61188700000000,BT45 5AH,2013-08-19,fhrs_5_en-GB,5,,FHRS,0
-411161,43 Queens Avenue,,Magherafelt,Co. Londonderry,Kidd-z-play (after Schools),Hospitals/Childcare/Caring Premises,5,0,,445302,0,,54.75284600000000,1316,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60647700000000,BT45 6BY,2012-02-21,fhrs_5_en-GB,5,,FHRS,0
-411162,1 Tamlaght Road,,Kilrea,Co. Londonderry,Killygullib Poultry Club,Other catering premises,7841,5,,445424,0,,54.90908400000000,313,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59194500000000,BT51 5UL,2014-03-08,fhrs_5_en-GB,5,,FHRS,0
-411163,46 Ballyronan Road,,Magherafelt,Co. Londonderry,Kilronan School Meals Kitchen,School/college/university,7845,0,,445478,0,,54.74871400000000,465,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59955200000000,BT45 6EN,2014-03-13,fhrs_5_en-GB,5,,FHRS,0
-411164,19 Duntibryan Road,,Tobermore,Co. Londonderry,Kilross School Meals Kitchen,School/college/university,7845,5,,445399,0,,54.79730200000000,248,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.73565200000000,BT45 5QL,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-411165,337 Hillhead Road,,Knockcloghrim,Co. Londonderry,Knockloughrim Primary School,School/college/university,7845,5,,445353,0,,54.80999500000000,163,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60133600000000,BT45 8QT,2013-02-28,fhrs_5_en-GB,5,,FHRS,5
-411166,45 Tobermore Road,,Desertmartin,Co. Londonderry,Knocknagin Primary School Meals Kitchen,School/college/university,7845,5,,445612,0,,54.77701400000000,765,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.68053900000000,BT45 5LE,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-411167,3 Main Street,,Castledawson,Co. Londonderry,La Bodega,Retailers - other,4613,,,445634,,,54.77830300000000,810,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55861800000000,BT45 8AA,2014-10-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-411168,40 Blackpark Road,,Toome,Co. Londonderry,Laughterland,Hospitals/Childcare/Caring Premises,5,0,,445666,0,,54.76106000000000,9,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.50423600000000,BT41 3SL,2014-02-13,fhrs_5_en-GB,5,,FHRS,5
-411169,60 Church Street,,Magherafelt,Co. Londonderry,Laurel Villa Townhouse,Hotel/bed & breakfast/guest house,7842,5,,445442,0,,54.75668900000000,350,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60556800000000,BT45 6AW,2013-08-05,fhrs_5_en-GB,5,,FHRS,5
-411170,63a Mayogall Road,,Gulladuff,Co. Londonderry,Lavey Early Years,Hospitals/Childcare/Caring Premises,5,5,,445425,0,,54.83977100000000,318,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59087400000000,BT45 8PG,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-411171,40 Castledawson Road,,Magherafelt,Co. Londonderry,Lidl,Retailers - supermarkets/hypermarkets,7840,5,,445629,0,,54.75938100000000,793,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59983600000000,BT45 6PA,2013-09-11,fhrs_5_en-GB,5,,FHRS,5
-411172,,,,,Limetree Catering,Other catering premises,7841,5,,611177,5,,,1501,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-411173,67 Kilrea Road,The Linenhall Centre,Upperlands,Co. Londonderry,Linenhall Centre,Other catering premises,7841,5,,445382,0,,54.87892800000000,213,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.64028400000000,BT46 5RU,2014-06-18,fhrs_5_en-GB,5,,FHRS,0
-411174,94 Kilrea Road,,Upperlands,Co. Londonderry,Little Amps Early Years Pre-school,Hospitals/Childcare/Caring Premises,5,0,,445625,0,,54.88524800000000,785,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.62788600000000,BT46 5SB,2013-12-16,fhrs_5_en-GB,5,,FHRS,5
-411175,189a Glen Road,,Maghera,Co. Londonderry,Little Rainbows Early Years,Hospitals/Childcare/Caring Premises,5,5,,445423,0,,54.84655500000000,305,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.71058800000000,BT46 5JN,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-411176,20 High Street,,Draperstown,Co. Londonderry,Little Wombles Playgroup,Hospitals/Childcare/Caring Premises,5,5,,445414,5,,54.79398400000000,277,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78193200000000,BT45 7AA,2013-09-29,fhrs_5_en-GB,5,,FHRS,0
-411177,,,,,Love Olive Market Crew,Retailers - other,4613,5,,611169,5,,,1468,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-01-13,fhrs_5_en-GB,5,,FHRS,0
-411178,9 Queen Street,,Magherafelt,Co. Londonderry,Lucky Dip,Takeaway/sandwich shop,7844,20,,445616,15,,54.75460200000000,770,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60921200000000,BT45 6AA,2014-10-08,fhrs_1_en-GB,1,,FHRS,15
-411179,6 Hall Street,,Maghera,Co. Londonderry,Lucky Dragon,Takeaway/sandwich shop,7844,5,,445384,10,,54.84397400000000,219,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67441600000000,BT46 5DA,2013-07-04,fhrs_4_en-GB,4,,FHRS,5
-411180,33 St. Patricks Street,,Draperstown,Co. Londonderry,M Regan And Sons,Retailers - other,4613,5,,445582,5,,54.79283600000000,705,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78661500000000,BT45 7AJ,2012-12-06,fhrs_5_en-GB,5,,FHRS,5
-411181,Toome Business Park Hillhead Road,,Toome,,Ma Gilmours,Mobile caterer,7846,5,,445220,5,,54.75810000000000,1158,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.47355600000000,BT41 3SF,2012-11-07,fhrs_5_en-GB,5,,FHRS,5
-411182,17 Moneysharvan Road,,Maghera,Co. Londonderry,Mace,Retailers - other,4613,5,,445397,5,,54.90351300000000,246,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66834400000000,BT46 5PY,2013-06-14,fhrs_5_en-GB,5,,FHRS,5
-411183,,,,,Mack's Snacks,Mobile caterer,7846,20,,445496,5,,,504,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-12-19,fhrs_1_en-GB,1,,FHRS,5
-411184,41 Queen Street,,Magherafelt,Co. Londonderry,Mac's Fish And Burger Bar,Takeaway/sandwich shop,7844,5,,445626,5,,54.75460200000000,786,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60921200000000,BT45 6AA,2014-03-31,fhrs_4_en-GB,4,,FHRS,10
-411185,26 Coleraine Road,,Maghera,Co. Londonderry,Maghera Day Centre,Hospitals/Childcare/Caring Premises,5,5,,445543,0,,54.84550800000000,609,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-411186,4 Coleraine Road,,Maghera,Co. Londonderry,Maghera Kebabs House,Takeaway/sandwich shop,7844,20,,611173,10,,54.84550800000000,1489,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2014-03-20,fhrs_1_en-GB,1,,FHRS,15
-411187,15 Station Road,,Maghera,Co. Londonderry,Maghera Primary School Kitchen,School/college/university,7845,10,,445517,10,,54.84505700000000,550,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66673600000000,BT46 5BS,2014-05-20,fhrs_3_en-GB,3,,FHRS,5
-411188,55a Hospital Road,,Magherafelt,Co. Londonderry,Magherafelt Adult Centre,Hospitals/Childcare/Caring Premises,5,10,,445614,0,,54.76239900000000,769,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61620000000000,BT45 5EG,2014-10-13,fhrs_4_en-GB,4,,FHRS,0
-411189,6 Ballyronan Road,,Magherafelt,Co. Londonderry,Magherafelt Baptist Church,Other catering premises,7841,20,,445422,0,,54.75232100000000,301,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60379200000000,BT45 6BP,2013-09-20,fhrs_1_en-GB,1,,FHRS,5
-411190,22 Moneymore Road,,Magherafelt,Co. Londonderry,Magherafelt Campus Kitchen,School/college/university,7845,5,,445481,5,,54.75239200000000,469,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61079400000000,BT45 6AE,2014-03-26,fhrs_5_en-GB,5,,FHRS,0
-411191,57 Hospital Road,,Magherafelt,Co. Londonderry,Magherafelt Day Centre,Hospitals/Childcare/Caring Premises,5,5,,445497,0,,54.76239900000000,506,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61620000000000,BT45 5EG,2014-06-02,fhrs_5_en-GB,5,,FHRS,5
-411192,26 Rainey Street,,Magherafelt,Co. Londonderry,Magherafelt Discount Store Ltd,Retailers - other,4613,5,,445492,0,,54.75543700000000,5,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60999100000000,BT45 5AQ,2013-09-20,fhrs_5_en-GB,5,,FHRS,0
-411193,30 Moneymore Road,,Magherafelt,Co. Londonderry,Magherafelt High School Meals Kitchen,School/college/university,7845,5,,452620,0,,54.75089300000000,1394,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61247700000000,BT45 6AF,2013-03-05,fhrs_5_en-GB,5,,FHRS,0
-411194,32a Castledawson Road,,Magherafelt,Co. Londonderry,Magherafelt Nursery School,School/college/university,7845,0,,485911,0,,54.75938100000000,1408,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59983600000000,BT45 6PA,2013-06-18,fhrs_4_en-GB,4,,FHRS,10
-411195,24/26 King Street,,Magherafelt,Co. Londonderry,Magherafelt Parish Centre,Other catering premises,7841,5,,445242,5,,54.75593300000000,1220,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60540700000000,BT45 6AR,2013-08-20,fhrs_5_en-GB,5,,FHRS,5
-411196,32 Castledawson Road,,Magherafelt,Co. Londonderry,Magherafelt Primary School,School/college/university,7845,0,,485910,0,,54.75938100000000,1407,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59983600000000,BT45 6PA,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-411197,27-29 Moneymore Road,,Magherafelt,Co. Londonderry,Magherafelt Women's Group Ltd - Kidz Lodge After Schools,Hospitals/Childcare/Caring Premises,5,0,,445412,0,,54.75276800000000,270,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61146500000000,BT45 6AG,2014-10-02,fhrs_5_en-GB,5,,FHRS,5
-411198,27-29 Moneymore Road,,Magherafelt,Co. Londonderry,Magherafelt Women's Group Ltd - Kidz Lodge Day Care,Hospitals/Childcare/Caring Premises,5,5,,445692,5,,54.75276800000000,967,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61146500000000,BT45 6AG,2014-07-10,fhrs_5_en-GB,5,,FHRS,0
-411199,62 Hillhead Road,0,Toome,Co. Londonderry,Mal's Bar And Restaurant,Pub/bar/nightclub,7843,5,,445491,5,,54.76626100000000,498,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.50705800000000,BT41 3SP,2014-07-10,fhrs_5_en-GB,5,,FHRS,5
-411200,,,,,Mango Catering And Events,Mobile caterer,7846,5,,445249,0,,,1231,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-09-09,fhrs_5_en-GB,5,,FHRS,0
-411201,24 Kilrea Road,,Maghera,Co. Londonderry,Margaret Selfridge,Hotel/bed & breakfast/guest house,7842,5,,635581,0,,54.87184100000000,330,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.65568000000000,BT46 5HX,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-411202,62 Rainey Street,,Magherafelt,Co. Londonderry,Market Tavern,Pub/bar/nightclub,7843,5,,445562,5,,54.75588100000000,641,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61188700000000,BT45 5AH,2014-07-01,fhrs_5_en-GB,5,,FHRS,5
-411203,30 Castledawson Road,,Magherafelt,Co. Londonderry,Marriott House - Clanmil Housing,Hospitals/Childcare/Caring Premises,5,0,,445536,5,,54.75816300000000,580,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60247200000000,BT45 6EF,2014-03-11,fhrs_5_en-GB,5,,FHRS,5
-411204,10 Market Street,,Magherafelt,Co. Londonderry,Mary's Bar And Restaurant,Pub/bar/nightclub,7843,5,,445686,5,,54.75513800000000,944,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60658400000000,BT45 6ED,2014-03-28,fhrs_4_en-GB,4,,FHRS,10
-411205,3 Union Arcade,,Magherafelt,Co. Londonderry,Mauds Parlour,Restaurant/Cafe/Canteen,1,5,,466632,5,,54.75623800000000,1402,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60856600000000,BT45 5AD,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-411206,3a Union Arcade,,Magherafelt,Co. Londonderry,Maxi's Chip Shop And Grill,Takeaway/sandwich shop,7844,10,,535651,5,,54.75623800000000,1433,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60856600000000,BT45 5AD,2013-08-13,fhrs_4_en-GB,4,,FHRS,5
-411207,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Mc Erlains Bakery ( Magherafelt) Ltd,Retailers - other,4613,5,,445366,0,,54.75404500000000,188,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61236900000000,BT45 6PR,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-411208,22 Rainey Street,,Magherafelt,Co. Londonderry,McAlinden Meats,Retailers - other,4613,,,445436,,,54.75537200000000,343,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60899900000000,BT45 5AG,2014-08-05,fhrs_4_en-GB,4,,FHRS,
-411209,76b Sixtowns Road,,Draperstown,Co. Londonderry,McAllisters Bar,Pub/bar/nightclub,7843,0,,445375,5,,54.78384500000000,200,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.80477500000000,BT45 7BB,2013-07-25,fhrs_5_en-GB,5,,FHRS,5
-411210,4 Union Arcade,,Magherafelt,Co. Londonderry,McAtamney Butchers,Retailers - other,4613,5,,445427,5,,54.75623800000000,328,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60856600000000,BT45 5AD,2014-02-20,fhrs_5_en-GB,5,,FHRS,5
-411211,50 Main Street,,Maghera,Co. Londonderry,McAtamney Butchers,Retailers - other,4613,,,445565,,,54.84415000000000,649,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67251100000000,BT46 5AE,2013-07-29,fhrs_5_en-GB,5,,FHRS,
-411212,51a St Patrick'S Street,,Draperstown,Co. Londonderry,McAuley's Bar,Pub/bar/nightclub,7843,5,,445548,5,,54.79628000000000,617,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78329300000000,BT45 7AT,2013-07-25,fhrs_5_en-GB,5,,FHRS,5
-411213,16 Market Street,,Magherafelt,Co. Londonderry,McClenaghan Family Butchers,Manufacturers/packers,7839,,,703393,,,54.75513800000000,1560,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60658400000000,BT45 6ED,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411214,6a Coleraine Road,,Maghera,Co. Londonderry,Mcglaughlin's Bakery,Retailers - other,4613,10,,445328,0,,54.84550800000000,1361,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2013-11-20,fhrs_4_en-GB,4,,FHRS,5
-411215,78 Main Street,,Maghera,Co. Londonderry,Mckees,Retailers - other,4613,5,,445250,5,,54.84505300000000,1232,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67450500000000,BT46 5AF,2013-01-25,fhrs_5_en-GB,5,,FHRS,0
-411216,37 Main Street,,Bellaghy,Co. Londonderry,McKenna's Bar,Pub/bar/nightclub,7843,0,,445376,0,,54.80787700000000,201,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51975500000000,BT45 8HT,2012-11-26,fhrs_5_en-GB,5,,FHRS,0
-411217,2-4 Glen Road,,Maghera,Co. Londonderry,Mckenna's Bar (1908) Ltd,Pub/bar/nightclub,7843,5,,445410,5,,54.84555400000000,264,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67601400000000,BT46 5AW,2011-11-22,fhrs_5_en-GB,5,,FHRS,5
-411218,27 Main Street,,Maghera,Co. Londonderry,McMaster's Bar,Pub/bar/nightclub,7843,5,,445458,5,,54.84412300000000,398,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67162400000000,BT46 5AA,2011-11-10,fhrs_5_en-GB,5,,FHRS,5
-411219,96 Rainey Street,,Magherafelt,Co. Londonderry,Mcswiggans,Retailers - other,4613,,,445450,,,54.75632600000000,380,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61387500000000,BT45 5AL,2014-04-28,fhrs_5_en-GB,5,,FHRS,
-411220,27 Westland Gardens,,Magherafelt,Co. Londonderry,Meadowell Fold Lunch Club,Hospitals/Childcare/Caring Premises,5,0,,445431,0,,54.75490600000000,335,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61224600000000,BT45 5DP,2013-08-20,fhrs_5_en-GB,5,,FHRS,0
-411221,7 Knocknagin Road,,Desertmartin,Co. Londonderry,Meet 'n' Eat,Other catering premises,7841,0,,445225,0,,54.77130200000000,1175,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67412100000000,BT45 5LG,2012-05-30,fhrs_5_en-GB,5,,FHRS,0
-411222,17 Coleraine Road,,Maghera,Co. Londonderry,Mel's Traditional Fish 'n' Chips,Takeaway/sandwich shop,7844,5,,480047,5,,54.84550800000000,1351,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2013-04-23,fhrs_5_en-GB,5,,FHRS,0
-411223,37 Garvagh Road,,Swatragh,Co. Londonderry,Michael Davitts GAC,Pub/bar/nightclub,7843,5,,445627,5,,54.91415000000000,79,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66434300000000,BT46 5QE,2012-02-22,fhrs_5_en-GB,5,,FHRS,5
-411224,35a Station Road,,Maghera,Co. Londonderry,Mid Ulster Garden Centre (gift Shop),Retailers - other,4613,0,,445317,0,,54.84505700000000,1340,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66673600000000,BT46 5BS,2014-12-16,fhrs_5_en-GB,5,,FHRS,0
-411225,35 Station Road,,Maghera,Co. Londonderry,Mid Ulster Garden Centre Coffee Shop,Restaurant/Cafe/Canteen,1,10,,445448,5,,54.84505700000000,376,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66673600000000,BT46 5BS,2014-12-16,fhrs_3_en-GB,3,,FHRS,10
-411226,59 Hospital Road,,Magherafelt,Co. Londonderry,Mid Ulster Hospital Catering Dept,Hospitals/Childcare/Caring Premises,5,5,,445613,0,,54.76185800000000,768,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61444700000000,BT45 5EX,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-411227,3a Loves Hill,,Castledawson,Co. Londonderry,Moes Grill,Restaurant/Cafe/Canteen,1,10,,445272,5,,54.77201000000000,1281,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.57724100000000,BT45 8DP,2014-02-17,fhrs_4_en-GB,4,,FHRS,5
-411228,30a Main Street,,Bellaghy,Co. Londonderry,Mooney's Cafe,Restaurant/Cafe/Canteen,1,5,,655803,5,,54.80787700000000,1512,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51975500000000,BT45 8HT,2014-02-21,fhrs_4_en-GB,4,,FHRS,10
-411229,,,,,Mo's Chippy,Mobile caterer,7846,5,,559615,5,,,1452,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-06-27,fhrs_5_en-GB,5,,FHRS,5
-411230,53 King Street,,Magherafelt,Co. Londonderry,Motobites,Takeaway/sandwich shop,7844,20,,445684,5,,54.75497500000000,94,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60337400000000,BT45 6AS,2014-03-11,fhrs_1_en-GB,1,,FHRS,10
-411231,19 Rocktown Lane,Knockcloghrim,Magherafelt,Co. Londonderry,Mountview Residential Home,Hospitals/Childcare/Caring Premises,5,5,,445451,0,,54.81633300000000,381,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59162800000000,BT45 8QF,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-411232,51 St. Lurachs Road,,Maghera,Co. Londonderry,Movie House Cinema,Retailers - other,4613,0,,445237,0,,54.84404100000000,121,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67319900000000,BT46 5JE,2014-01-21,fhrs_5_en-GB,5,,FHRS,0
-411233,,,,,Mr Whirl,Mobile caterer,7846,0,,445255,0,,,1248,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2012-11-01,fhrs_5_en-GB,5,,FHRS,0
-411234,9 Rainey Street Park,,Magherafelt,Co. Londonderry,Mrs Browns,Takeaway/sandwich shop,7844,,,695914,,,54.75511900000000,1541,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61045300000000,BT45 5AN,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411235,25a William Street,,Bellaghy,Co. Londonderry,Muldoons Costcutters,Retailers - supermarkets/hypermarkets,7840,5,,445446,5,,54.81011900000000,373,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51645300000000,BT45 8HZ,2014-08-28,fhrs_5_en-GB,5,,FHRS,0
-411236,19 Moneyneany Road,,Draperstown,Co. Londonderry,Mulligan's,Pub/bar/nightclub,7843,10,,445441,5,,54.80777500000000,349,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.82573300000000,BT45 7DU,2011-03-21,fhrs_4_en-GB,4,,FHRS,5
-411237,,,,,My Wedding Candy Cart,Retailers - other,4613,0,,580794,0,,,1465,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-10-02,fhrs_5_en-GB,5,,FHRS,0
-411238,Killowen Drive,,Magherafelt,Co. Londonderry,Naiscoil An Tseanchai,School/college/university,7845,5,,445691,0,,54.75110900000000,966,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59847500000000,BT45 6DT,2013-01-24,fhrs_5_en-GB,5,,FHRS,0
-411239,131 Tirkane Road,,Maghera,Co. Londonderry,Naiscoil Charn Tochaire Playgroup,School/college/university,7845,0,,445617,5,,54.87443000000000,771,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.71131900000000,BT46 5NH,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-411240,41-43 Glen Road,,Maghera,Co. Londonderry,Naiscoil Mhachaire Ratha,School/college/university,7845,5,,445576,0,,54.84552100000000,689,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.68035800000000,BT46 5AP,2013-03-08,fhrs_5_en-GB,5,,FHRS,0
-411241,82 Sixtowns Road,,Draperstown,Co. Londonderry,Naiscoil Na Speirini,School/college/university,7845,5,,710141,5,,54.78384500000000,1545,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.80477500000000,BT45 7BB,2014-09-25,fhrs_5_en-GB,5,,FHRS,5
-411242,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,New Look,Retailers - other,4613,,,445217,,,54.75276800000000,1096,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61146500000000,BT45 6AG,2014-01-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-411243,43 New Row,,Castledawson,Co. Londonderry,New Row Primary School Meals Kitchen,School/college/university,7845,5,,445521,0,,54.77680000000000,557,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55534600000000,BT45 8AP,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-411244,36 Blackpark Road,Toomebridge,Toome,Co. Londonderry,Newbridge Stores,Retailers - other,4613,,,445499,,,54.76106000000000,509,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.50423600000000,BT41 3SL,2014-06-23,fhrs_5_en-GB,5,,FHRS,
-411245,2a Market Street,,Magherafelt,,Niamh,Other catering premises,7841,,,445224,,,54.75513800000000,1166,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60658400000000,BT45 6ED,2012-05-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-411246,40 Ballyronan Road,,Magherafelt,Co. Londonderry,Nisa,Retailers - other,4613,5,,445541,5,,54.74871400000000,591,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59955200000000,BT45 6EN,2013-01-17,fhrs_5_en-GB,5,,FHRS,5
-411247,24 Market Street,,Magherafelt,Co. Londonderry,Nisa Local,Retailers - supermarkets/hypermarkets,7840,5,,445584,5,,54.75513800000000,709,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60658400000000,BT45 6ED,2014-08-21,fhrs_2_en-GB,2,,FHRS,15
-411248,18 Rainey Street,,Magherafelt,Co. Londonderry,Nosh Cafe And Sandwich Bar,Restaurant/Cafe/Canteen,1,5,,445386,5,,54.75537200000000,220,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60899900000000,BT45 5AG,2013-12-12,fhrs_4_en-GB,4,,FHRS,10
-411249,31 Glenshane Road,,Maghera,Co. Londonderry,Oakleaf Restaurant,Restaurant/Cafe/Canteen,1,,,445380,,,54.85207600000000,207,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.75408600000000,BT46 5JZ,2013-01-31,fhrs_5_en-GB,5,,FHRS,
-411250,5 Broad Street,,Magherafelt,Co. Londonderry,O'Brien's,Retailers - other,4613,5,,445524,0,,54.75579000000000,562,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60709000000000,BT45 6EB,2012-05-23,fhrs_5_en-GB,5,,FHRS,0
-411251,150 Hillhead Road,,Castledawson,Co. Londonderry,O'Kane Cars,Retailers - other,4613,5,,445488,0,,54.77650200000000,494,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.53799700000000,BT45 8ES,2012-11-12,fhrs_5_en-GB,5,,FHRS,0
-411252,67 Kilrea Road,The Linenhall Centre,Upperlands,Co. Londonderry,Old Mill Coffee Shop,Restaurant/Cafe/Canteen,1,5,,495875,5,,54.87892800000000,1417,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.64028400000000,BT46 5RU,2013-06-12,fhrs_5_en-GB,5,,FHRS,5
-411253,39 St. Patricks Street,,Draperstown,Co. Londonderry,P & B O'kane's Newsagents,Retailers - other,4613,20,,445475,15,,54.79283600000000,461,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78661500000000,BT45 7AJ,2013-07-18,fhrs_1_en-GB,1,,FHRS,15
-411254,114 Main Street,,Maghera,Co. Londonderry,P And N Quality Meats,Manufacturers/packers,7839,10,,445471,5,,54.84505300000000,455,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67450500000000,BT46 5AF,2014-01-08,fhrs_4_en-GB,4,,FHRS,5
-411255,9 Moneysharvan Road,,Maghera,Co. Londonderry,Paddy Lagans,Pub/bar/nightclub,7843,5,,445532,5,,54.90628300000000,573,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66703600000000,BT46 5QA,2012-02-23,fhrs_4_en-GB,4,,FHRS,10
-411256,6 Coleraine Road,,Maghera,Co. Londonderry,Pagoda,Takeaway/sandwich shop,7844,10,,445391,10,,54.84550800000000,239,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2014-02-18,fhrs_3_en-GB,3,,FHRS,10
-411257,,,,,Papa J's Wood Fired Pizza Co,Mobile caterer,7846,5,,535652,5,,,1434,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-11-15,fhrs_5_en-GB,5,,FHRS,0
-411258,7 Hall Street,,Maghera,Co. Londonderry,Pats Pizza,Takeaway/sandwich shop,7844,5,,445419,0,,54.84397400000000,290,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67441600000000,BT46 5DA,2013-11-15,fhrs_5_en-GB,5,,FHRS,5
-411259,44 Main Street,,Maghera,Co. Londonderry,Pizza Man,Takeaway/sandwich shop,7844,10,,445264,5,,54.84415000000000,127,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67251100000000,BT46 5AE,2014-03-21,fhrs_3_en-GB,3,,FHRS,10
-411260,Moneymore Road,,Magherafelt,,Poundland,Retailers - other,4613,0,,445245,5,,54.75276800000000,1226,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61146500000000,BT45 6AG,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-411261,11 Rainey Street Park,,Magherafelt,Co. Londonderry,Poundstretcher,Retailers - other,4613,5,,445426,0,,54.75511900000000,322,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61045300000000,BT45 5AN,2013-01-18,fhrs_5_en-GB,5,,FHRS,0
-411262,18-22 Main Street,,Maghera,Co. Londonderry,R Crawford And Co,Retailers - supermarkets/hypermarkets,7840,10,,445534,5,,54.84415000000000,577,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67251100000000,BT46 5AE,2014-04-09,fhrs_4_en-GB,4,,FHRS,5
-411263,2 Main Street,,Castledawson,Co. Londonderry,R Mawhinney And Son,Retailers - other,4613,5,,445449,5,,54.77807700000000,377,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.56072400000000,BT45 8AB,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-411264,2-4 Kilrea Road,,Swatragh,Co. Londonderry,Rafters Restaurant And Friels Bar,Pub/bar/nightclub,7843,5,,445559,5,,54.91116600000000,633,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66250900000000,BT46 5QF,2014-12-15,fhrs_4_en-GB,4,,FHRS,10
-411265,79 Rainey Street,,Magherafelt,Co. Londonderry,Rainey Endowed School,School/college/university,7845,,,445665,,,54.75667700000000,88,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61234100000000,BT45 5DB,2014-10-06,fhrs_5_en-GB,5,,FHRS,
-411266,7 Meadowbank Road,,Magherafelt,Co. Londonderry,Rainey Old Boys Club,Pub/bar/nightclub,7843,20,,445383,0,,54.74824200000000,217,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60146300000000,BT45 6EQ,2014-01-28,fhrs_1_en-GB,1,,FHRS,10
-411267,,,,,Reaching Out Mid-ulster,Retailers - other,4613,5,,445267,0,,,1274,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-04-30,fhrs_5_en-GB,5,,FHRS,0
-411268,12 Coleraine Road,,Maghera,Co. Londonderry,Reaching Out Mid-ulster Ltd,Restaurant/Cafe/Canteen,1,0,,655805,0,,54.84550800000000,1515,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-411269,,,,,Red Berec,Other catering premises,7841,,,695915,,,,1543,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411270,17a Hall Street,,Maghera,Co. Londonderry,Regan's Bar,Pub/bar/nightclub,7843,5,,445593,5,,54.84397400000000,72,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67441600000000,BT46 5DA,2014-08-05,fhrs_5_en-GB,5,,FHRS,5
-411271,20 Derrynoyd Road,,Draperstown,Co. Londonderry,Regan's Bar,Pub/bar/nightclub,7843,5,,445411,10,,54.79428100000000,27,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78643100000000,BT45 7AH,2011-11-22,fhrs_4_en-GB,4,,FHRS,5
-411272,12 High Street,,Draperstown,Co. Londonderry,Regional Wines,Retailers - other,4613,,,445236,,,54.79398400000000,1207,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78193200000000,BT45 7AA,2013-09-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-411273,,,,,Relish,Other catering premises,7841,0,,546664,0,,,1441,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-411274,29 Park View,,Castledawson,Co. Londonderry,River Park House,Other catering premises,7841,,,445241,,,54.77774700000000,1219,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55192400000000,BT45 8AT,2012-03-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-411275,67 Kilrea Road,The Linenhall Centre,Upperlands,Co. Londonderry,Royal British Legion Community Centre,Pub/bar/nightclub,7843,5,,445489,5,,54.87892800000000,495,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.64028400000000,BT46 5RU,2012-10-10,fhrs_5_en-GB,5,,FHRS,5
-411276,61a Main Street,,Maghera,Co. Londonderry,Ruby's,Restaurant/Cafe/Canteen,1,5,,492341,5,,54.84510000000000,1416,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67386500000000,BT46 5AB,2013-10-31,fhrs_4_en-GB,4,,FHRS,10
-411277,1a Castledawson Road,,Magherafelt,Co. Londonderry,School Meals Kitchen Holy Family,School/college/university,7845,5,,445654,0,,54.75747800000000,852,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60304000000000,BT45 6AX,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-411278,32 Main Street,,Bellaghy,Co. Londonderry,Scullys Flame Grill Bar,Takeaway/sandwich shop,7844,10,,595329,5,,54.80787700000000,1488,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51975500000000,BT45 8HT,2014-02-14,fhrs_4_en-GB,4,,FHRS,5
-411279,116 Deerpark Road,Toomebridge,Toome,Co. Londonderry,SDC,Restaurant/Cafe/Canteen,1,5,,445361,5,,54.76971000000000,173,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.50404100000000,BT41 3SS,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-411280,34 Moneyneany Road,,Draperstown,Co. Londonderry,Seamus J Devlin,Retailers - other,4613,0,,445440,5,,54.81538900000000,348,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.83002300000000,BT45 7DZ,2012-05-29,fhrs_5_en-GB,5,,FHRS,5
-411281,18 Market Street,,Magherafelt,Co. Londonderry,Simplicity Restaurant,Restaurant/Cafe/Canteen,1,10,,445577,5,,54.75513800000000,695,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60658400000000,BT45 6ED,2014-12-15,fhrs_2_en-GB,2,,FHRS,15
-411282,23 Market Street,,Magherafelt,Co. Londonderry,Sizzlers,Restaurant/Cafe/Canteen,1,10,,445525,5,,54.75499900000000,563,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60781600000000,BT45 6EE,2014-07-29,fhrs_4_en-GB,4,,FHRS,5
-411283,23 Market Street,,Magherafelt,Co. Londonderry,Sizzlers Event Catering,Mobile caterer,7846,5,,559614,5,,54.75499900000000,1451,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60781600000000,BT45 6EE,2013-07-10,fhrs_5_en-GB,5,,FHRS,0
-411284,62b Longfield Road,,Desertmartin,Co. Londonderry,Slievegallion Pre-school,Hospitals/Childcare/Caring Premises,5,0,,445649,0,,54.76425500000000,841,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.70029700000000,BT45 5LS,2012-10-18,fhrs_5_en-GB,5,,FHRS,0
-411285,10 St. Patricks Street,,Draperstown,Co. Londonderry,Slims Cafe,Restaurant/Cafe/Canteen,1,0,,445362,5,,54.79281700000000,175,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78554200000000,BT45 7AL,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-411286,3 Church Street,,Magherafelt,Co. Londonderry,Smaczek,Retailers - other,4613,,,445270,,,54.75644400000000,1279,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60535900000000,BT45 6AP,2013-08-30,fhrs_5_en-GB,5,,FHRS,
-411287,76 Rainey Street,,Magherafelt,Co. Londonderry,Snackbox,Takeaway/sandwich shop,7844,10,,445529,5,,54.75588100000000,570,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61188700000000,BT45 5AH,2013-08-28,fhrs_2_en-GB,2,,FHRS,15
-411288,1 Union Arcade,,Magherafelt,Co. Londonderry,Spar,Retailers - supermarkets/hypermarkets,7840,5,,445568,5,,54.75623800000000,666,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60856600000000,BT45 5AD,2013-06-06,fhrs_5_en-GB,5,,FHRS,5
-411289,2-4 Magherafelt Road,,Tobermore,Co. Londonderry,Spar,Retailers - supermarkets/hypermarkets,7840,5,,445457,10,,54.81217800000000,392,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.70406200000000,BT45 5PH,2013-07-02,fhrs_4_en-GB,4,,FHRS,5
-411290,8 Tirkane Road,,Maghera,Co. Londonderry,Spar,Retailers - other,4613,10,,445374,5,,54.84689000000000,20,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67662400000000,BT46 5AG,2013-07-17,fhrs_4_en-GB,4,,FHRS,5
-411291,39 Pound Road,,Magherafelt,Co. Londonderry,Sperrin Integrated College,School/college/university,7845,0,,445506,5,,54.75554100000000,518,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59408200000000,BT45 6NR,2013-05-28,fhrs_4_en-GB,4,,FHRS,10
-411292,62b Church Street,,Magherafelt,Co. Londonderry,Spires Garage,Retailers - other,4613,5,,445240,0,,54.75668900000000,1215,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60556800000000,BT45 6AW,2014-06-27,fhrs_5_en-GB,5,,FHRS,5
-411293,84 Moneymore Road,,Magherafelt,Co. Londonderry,Spires Integrated Primary School,School/college/university,7845,5,,445607,0,,54.74190700000000,757,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.62019100000000,BT45 6HH,2012-10-08,fhrs_5_en-GB,5,,FHRS,0
-411294,130 Tirkane Road,,Maghera,Co. Londonderry,St Brigid's Primary School (tirkane) Meals Kitchen,School/college/university,7845,5,,445472,0,,54.87443000000000,456,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.71131900000000,BT46 5NH,2015-01-08,fhrs_5_en-GB,5,,FHRS,5
-411295,52 Mayogall Road,,Gulladuff,Co. Londonderry,St Brigid's School Meals,School/college/university,7845,0,,445516,0,,54.83977100000000,549,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59087400000000,BT45 8PG,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-411296,2 Magherafelt Road,,Draperstown,Co. Londonderry,St Colm's High School Meals Kitchen,School/college/university,7845,5,,445495,0,,54.79182700000000,503,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.76934100000000,BT45 7AF,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-411297,82 Sixtowns Road,,Draperstown,Co. Londonderry,St Columba's Primary School Meals Kitchen,School/college/university,7845,0,,445550,0,,54.78384500000000,619,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.80477500000000,BT45 7BB,2014-10-24,fhrs_5_en-GB,5,,FHRS,5
-411298,70 Iniscarn Road,,Desertmartin,Co. Londonderry,St Columb's Primary School Meals Kitchen,School/college/university,7845,5,,445418,5,,54.76761800000000,29,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.71498100000000,BT45 5NQ,2014-06-02,fhrs_4_en-GB,4,,FHRS,10
-411299,51 Moneyneany Road,,Draperstown,Co. Londonderry,St Eoghan's School Meals Kitchen,School/college/university,7845,5,,445514,0,,54.82147100000000,546,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.84123600000000,BT45 7EN,2012-12-06,fhrs_5_en-GB,5,,FHRS,5
-411300,30 Moneysharvan Road,,Maghera,Co. Londonderry,St John's Primary School Meals Kitchen,School/college/university,7845,0,,445400,0,,54.90351300000000,249,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66834400000000,BT46 5PY,2013-06-14,fhrs_5_en-GB,5,,FHRS,0
-411301,25 Church Street,,Maghera,Co. Londonderry,St Lurach's Luncheon Club,Other catering premises,7841,0,,445229,10,,54.84252100000000,1190,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66809700000000,BT46 5EA,2014-11-24,fhrs_4_en-GB,4,,FHRS,5
-411302,3 Castledawson Road,,Magherafelt,Co. Londonderry,St Mary's Grammar School,School/college/university,7845,10,,445493,5,,54.75753300000000,500,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60164000000000,BT45 6BE,2014-12-05,fhrs_4_en-GB,4,,FHRS,5
-411303,25a Mullaghboy Road,,Bellaghy,Co. Londonderry,St Mary's Nursery,School/college/university,7845,0,,445635,0,,54.80972700000000,812,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51968700000000,BT45 8HX,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-411304,25 Mullaghboy Road,,Bellaghy,Co. Londonderry,St Mary's Primary And Nursery School,School/college/university,7845,5,,445433,0,,54.80972700000000,338,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51968700000000,BT45 8HX,2014-03-07,fhrs_5_en-GB,5,,FHRS,0
-411305,220 Mayogall Road,,Clady,Co. Londonderry,St Mary's Primary School (greenlough),School/college/university,7845,,,445379,,,54.86779900000000,205,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51539400000000,BT44 8NN,2014-06-10,fhrs_4_en-GB,4,,FHRS,
-411306,24 Magherafelt Road,,Draperstown,Co. Londonderry,St Mary's Primary School Meals Kitchen,School/college/university,7845,5,,445467,0,,54.79182700000000,441,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.76934100000000,BT45 7AF,2012-12-06,fhrs_5_en-GB,5,,FHRS,5
-411307,47 Glen Road,,Maghera,Co. Londonderry,St Mary's Primary School Meals Kitchen,School/college/university,7845,0,,445347,0,,54.84552100000000,15,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.68035800000000,BT46 5AP,2013-06-17,fhrs_5_en-GB,5,,FHRS,5
-411308,1 Tullyheran Road,,Maghera,Co. Londonderry,St Mary's School Meals Kitchen,School/college/university,7845,0,,445352,5,,54.84721900000000,161,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.69538800000000,BT46 5JQ,2012-12-10,fhrs_5_en-GB,5,,FHRS,5
-411309,230 Mayogall Road,,Clady,Co. Londonderry,St Mary's School Meals Kitchen,School/college/university,7845,5,,445538,0,,54.86779900000000,584,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51539400000000,BT44 8NN,2012-12-04,fhrs_5_en-GB,5,,FHRS,5
-411310,25 Coleraine Road,,Maghera,Co. Londonderry,St Patrick's College,School/college/university,7845,5,,445469,0,,54.84550800000000,452,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2012-12-07,fhrs_5_en-GB,5,,FHRS,5
-411311,161 Glen Road,,Maghera,Co. Londonderry,"St Patrick's Primary, Glen",School/college/university,7845,10,,445609,0,,54.84655500000000,76,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.71058800000000,BT46 5JN,2013-02-26,fhrs_4_en-GB,4,,FHRS,5
-411312,59 Moneymore Road,,Magherafelt,Co. Londonderry,St Pius X High School Meals Kitchen,School/college/university,7845,0,,445667,5,,54.74966000000000,90,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61542300000000,BT45 6HQ,2014-06-16,fhrs_5_en-GB,5,,FHRS,5
-411313,47 Church Street,,Magherafelt,Co. Londonderry,St Swithin's Parish Church Hall,Other catering premises,7841,5,,445693,0,,54.75644400000000,975,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60535900000000,BT45 6AP,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-411314,225 Shore Road,Ballyronan,Magherafelt,Co. Londonderry,St Trea's Primary School Meals Kitchen,School/college/university,7845,5,,445432,0,,54.73820500000000,337,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.52544900000000,BT45 6LL,2013-06-20,fhrs_5_en-GB,5,,FHRS,5
-411315,130 Tirkane Road,,Maghera,Co. Londonderry,Stepping Stones Pre-school,Hospitals/Childcare/Caring Premises,5,5,,635579,0,,54.87443000000000,1510,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.71131900000000,BT46 5NH,2014-02-10,fhrs_5_en-GB,5,,FHRS,5
-411316,10 Maghera Road,,Tobermore,Co. Londonderry,Stockman And Sons,Retailers - other,4613,5,,445381,0,,54.81501500000000,21,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.70310000000000,BT45 5QB,2014-01-21,fhrs_5_en-GB,5,,FHRS,0
-411317,,,,,Street Reach,Mobile caterer,7846,0,,580791,0,,,1460,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-12-09,fhrs_5_en-GB,5,,FHRS,0
-411318,20 Rainey Street Park,,Magherafelt,Co. Londonderry,Subway,Restaurant/Cafe/Canteen,1,5,,445416,0,,54.75511900000000,286,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61045300000000,BT45 5AN,2014-03-26,fhrs_5_en-GB,5,,FHRS,5
-411319,32 Moyola Road,,Castledawson,Co. Londonderry,Sugar Art,Manufacturers/packers,7839,5,,445608,0,,54.77983400000000,759,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55065200000000,BT45 8EP,2014-01-13,fhrs_5_en-GB,5,,FHRS,0
-411320,36 Main Street,,Maghera,Co. Londonderry,Sunrise Takeaway,Takeaway/sandwich shop,7844,,,718054,,,54.84415000000000,1571,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67251100000000,BT46 5AE,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411321,4 Main Street,,Desertmartin,Co. Londonderry,Superchip,Takeaway/sandwich shop,7844,10,,445462,0,,54.76992800000000,419,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67256500000000,BT45 5LN,2014-03-25,fhrs_4_en-GB,4,,FHRS,5
-411322,34 Clady Road,,Portglenone,Co. Londonderry,Supervalu,Retailers - other,4613,5,,445219,5,,54.87276600000000,1156,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.49120600000000,BT44 8NG,2014-12-18,fhrs_5_en-GB,5,,FHRS,5
-411323,,,,,Sweet Cakes From Suzi,Other catering premises,7841,5,,611168,0,,,1467,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-01-15,fhrs_5_en-GB,5,,FHRS,0
-411324,10 Loves Road,,Magherafelt,Co. Londonderry,Sweet Sensations,Manufacturers/packers,7839,5,,445365,0,,54.74736400000000,178,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.58462800000000,BT45 6NP,2014-03-03,fhrs_5_en-GB,5,,FHRS,5
-411325,,,,,Sweet Treats,Manufacturers/packers,7839,5,,611171,0,,,1474,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-411326,44 Queen Street,,Magherafelt,Co. Londonderry,Taaj Restaurant,Restaurant/Cafe/Canteen,1,5,,676396,0,,54.75450800000000,1513,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60887400000000,BT45 6AB,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-411327,27 Main Street,,Tamlaght O'Crilly,Co. Londonderry,Tamlaght Store,Retailers - other,4613,10,,445445,0,,54.89583300000000,372,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.58115400000000,BT46 5XF,2012-10-22,fhrs_4_en-GB,4,,FHRS,0
-411328,41 Glenone Road,,Portglenone,Co. Londonderry,Teady Mcerlean's,Pub/bar/nightclub,7843,5,,445530,0,,54.86949700000000,571,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.50804200000000,BT44 8LH,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-411329,24 Ballyronan Road,,Magherafelt,Co. Londonderry,Tesco,Retailers - supermarkets/hypermarkets,7840,0,,445325,5,,54.75232100000000,1353,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60379200000000,BT45 6BP,2013-03-11,fhrs_5_en-GB,5,,FHRS,5
-411330,,,,,The Angus Grill,Mobile caterer,7846,,,710145,,,,1569,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411331,60 Main Street,,Maghera,Co. Londonderry,The Auction Room,Restaurant/Cafe/Canteen,1,10,,655802,5,,54.84417000000000,1479,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67266600000000,BT46 5AE,2014-02-24,fhrs_4_en-GB,4,,FHRS,5
-411332,31-33 Main Street,,Maghera,Co. Londonderry,The Back Door,Pub/bar/nightclub,7843,5,,445372,5,,54.84412300000000,198,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67162400000000,BT46 5AA,2011-12-22,fhrs_5_en-GB,5,,FHRS,5
-411333,4 Union Road,,Magherafelt,Co. Londonderry,The Butterfly,Restaurant/Cafe/Canteen,1,10,,445254,5,,54.75680500000000,1247,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60863900000000,BT45 5DF,2014-03-25,fhrs_4_en-GB,4,,FHRS,0
-411334,6 Broad Street,,Magherafelt,Co. Londonderry,The Cake Shop,Manufacturers/packers,7839,20,,445653,10,,54.75590700000000,851,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60787800000000,BT45 6EA,2014-12-11,fhrs_1_en-GB,1,,FHRS,10
-411335,25 Main Street,,Bellaghy,Co. Londonderry,The Central Bar,Pub/bar/nightclub,7843,5,,445641,0,,54.80787700000000,826,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51975500000000,BT45 8HT,2013-09-12,fhrs_5_en-GB,5,,FHRS,5
-411336,1 Desertmartin Road,,Tobermore,Co. Londonderry,The Chip Basket,Takeaway/sandwich shop,7844,,,445318,,,54.80516400000000,1341,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.69756800000000,BT45 5QY,2014-03-06,fhrs_5_en-GB,5,,FHRS,
-411337,,,,,The Chocolate Box Ni,Manufacturers/packers,7839,5,,676401,5,,,1530,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-12-22,fhrs_5_en-GB,5,,FHRS,5
-411338,,,,,The Chocolate Foundry,Other catering premises,7841,,,655810,,,,1521,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411339,58 Rainey Street,,Magherafelt,Co. Londonderry,The Coachman Inn,Pub/bar/nightclub,7843,5,,445660,0,,54.75588100000000,86,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61188700000000,BT45 5AH,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-411340,122 Main Street,,Maghera,Co. Londonderry,The Coffee Shop,Restaurant/Cafe/Canteen,1,10,,445260,5,,54.84505300000000,1262,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67450500000000,BT46 5AF,2014-07-28,fhrs_4_en-GB,4,,FHRS,5
-411341,6-8 St. Patricks Street,,Draperstown,Co. Londonderry,The Corner House Bar And Restaurant,Pub/bar/nightclub,7843,5,,445500,5,,54.79281700000000,510,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78554200000000,BT45 7AL,2014-01-20,fhrs_4_en-GB,4,,FHRS,10
-411342,4 Main Street,,Tobermore,Co. Londonderry,The Crispy Chip @ Tobermore,Takeaway/sandwich shop,7844,5,,445633,5,,54.81157100000000,808,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.70618200000000,BT45 5PN,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-411343,26 Market Street,,Magherafelt,Co. Londonderry,The Diamond Espresso,Restaurant/Cafe/Canteen,1,0,,445664,0,,54.75513800000000,87,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60658400000000,BT45 6ED,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-411344,5 Queen Street,,Magherafelt,Co. Londonderry,The Diamond Fish And Burger Bar,Restaurant/Cafe/Canteen,1,10,,445258,5,,54.75460200000000,1260,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60921200000000,BT45 6AA,2014-04-17,fhrs_4_en-GB,4,,FHRS,5
-411345,34-36 Rainey Street,,Magherafelt,Co. Londonderry,The Dry Dock,Pub/bar/nightclub,7843,10,,445668,5,,54.75543700000000,91,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60999100000000,BT45 5AQ,2013-09-05,fhrs_4_en-GB,4,,FHRS,5
-411346,27 King Street,,Magherafelt,Co. Londonderry,The Flax Inn,Pub/bar/nightclub,7843,5,,445501,0,,54.75593300000000,511,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60540700000000,BT45 6AR,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-411347,38 Main Street,,Castledawson,Co. Londonderry,The Fruit Shop,Retailers - other,4613,5,,445688,5,,54.77807700000000,948,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.56072400000000,BT45 8AB,2014-07-25,fhrs_5_en-GB,5,,FHRS,5
-411348,32 Moneyneany Road,,Draperstown,Co. Londonderry,The Hogan Stand Bar,Pub/bar/nightclub,7843,5,,445396,0,,54.81538900000000,245,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.83002300000000,BT45 7DZ,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-411349,47 Main Street,,Castledawson,Co. Londonderry,The Inn Castledawson,Restaurant/Cafe/Canteen,1,20,,676400,15,,54.77830300000000,1529,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55861800000000,BT45 8AA,2014-07-08,fhrs_1_en-GB,1,,FHRS,10
-411350,31 St. Patricks Street,,Draperstown,Co. Londonderry,The Jolly Fry'r,Takeaway/sandwich shop,7844,5,,445406,5,,54.79283600000000,255,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78661500000000,BT45 7AJ,2013-07-18,fhrs_5_en-GB,5,,FHRS,5
-411351,60 Desertmartin Road,,Moneymore,Co. Londonderry,The Jungle Paintball,Other catering premises,7841,20,,445689,0,,54.71524400000000,953,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67083100000000,BT45 7RB,2014-11-24,fhrs_0_en-GB,0,,FHRS,25
-411352,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,The Kiosk,Retailers - other,4613,20,,445644,5,,54.75276800000000,831,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61146500000000,BT45 6AG,2014-12-17,fhrs_1_en-GB,1,,FHRS,15
-411353,21 Rainey Street,,Magherafelt,Co. Londonderry,The Kitchen,Restaurant/Cafe/Canteen,1,5,,445344,5,,54.75558700000000,139,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60893000000000,BT45 5DA,2014-04-17,fhrs_4_en-GB,4,,FHRS,10
-411354,36a Castledawson Road,,Magherafelt,Co. Londonderry,The Manlee,Takeaway/sandwich shop,7844,10,,445623,10,,54.75938100000000,780,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.59983600000000,BT45 6PA,2014-03-27,fhrs_2_en-GB,2,,FHRS,15
-411355,25 St Patrick'S Street,,Draperstown,Co. Londonderry,The Market Inn,Pub/bar/nightclub,7843,5,,445552,0,,54.79283600000000,620,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78661500000000,BT45 7AJ,2014-04-11,fhrs_5_en-GB,5,,FHRS,0
-411356,,,,,The Nippy Chippy ( Van 2),Mobile caterer,7846,5,,445340,5,,,1385,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-411357,116 Hillhead Road,,Castledawson,Co. Londonderry,The Old Thatch Inn,Restaurant/Cafe/Canteen,1,10,,535654,5,,54.77291600000000,1436,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.53114900000000,BT45 8ET,2014-10-14,fhrs_4_en-GB,4,,FHRS,5
-411358,12a Boyne Row,,Castledawson,Co. Londonderry,The Oldtown Chippy,Takeaway/sandwich shop,7844,10,,655806,5,,54.77783600000000,1517,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.56238000000000,BT45 8AE,2014-08-27,fhrs_2_en-GB,2,,FHRS,15
-411359,29 Queen Street,,Magherafelt,Co. Londonderry,The Pizza Man,Restaurant/Cafe/Canteen,1,5,,445369,5,,54.75460200000000,194,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60921200000000,BT45 6AA,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-411360,31 Church Street,,Magherafelt,Co. Londonderry,The Pizza Shop,Takeaway/sandwich shop,7844,5,,445363,0,,54.75644400000000,176,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60535900000000,BT45 6AP,2014-03-27,fhrs_5_en-GB,5,,FHRS,0
-411361,,,,,The Roaming Aroma,Mobile caterer,7846,,,730048,,,,1575,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-411362,5 St. Patricks Street,,Draperstown,Co. Londonderry,The Shamrock,Pub/bar/nightclub,7843,5,,445402,0,,54.79283600000000,251,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78661500000000,BT45 7AJ,2013-09-06,fhrs_5_en-GB,5,,FHRS,0
-411363,220 Sixtowns Road,,Draperstown,Co. Londonderry,The Shepherds Rest,Restaurant/Cafe/Canteen,1,5,,445522,0,,54.75283800000000,558,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.88252400000000,BT45 7BH,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-411364,24 Rainey Street,,Magherafelt,Co. Londonderry,The Step Inn Bar,Pub/bar/nightclub,7843,10,,445393,0,,54.75537200000000,240,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60899900000000,BT45 5AG,2013-09-05,fhrs_4_en-GB,4,,FHRS,0
-411365,,,,,The Sweetie Wagon Candy Cart,Retailers - other,4613,0,,666047,0,,,1525,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2014-08-20,fhrs_5_en-GB,5,,FHRS,0
-411366,42-48 Church Street,,Magherafelt,Co. Londonderry,The Terrace Hotel,Hotel/bed & breakfast/guest house,7842,,,445417,,,54.75668900000000,287,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60556800000000,BT45 6AW,2014-08-11,fhrs_2_en-GB,2,,FHRS,
-411367,76a Sixtowns Road,,Draperstown,Co. Londonderry,The Village Griddle,Takeaway/sandwich shop,7844,5,,445235,5,,54.78384500000000,1203,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.80477500000000,BT45 7BB,2013-07-25,fhrs_4_en-GB,4,,FHRS,10
-411368,41 Main Street,,Bellaghy,Co. Londonderry,The Village Takeaway,Takeaway/sandwich shop,7844,,,445645,,,54.80787700000000,832,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51975500000000,BT45 8HT,2014-08-20,fhrs_5_en-GB,5,,FHRS,
-411369,35a Queen Street,,Magherafelt,Co. Londonderry,The Vintage Coffee Shop At Roglyn,Restaurant/Cafe/Canteen,1,5,,492338,0,,54.75460200000000,1412,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60921200000000,BT45 6AA,2013-06-07,fhrs_4_en-GB,4,,FHRS,10
-411370,187 Mayogall Road,,Clady,Co. Londonderry,The Waterwall Bar,Pub/bar/nightclub,7843,5,,445346,0,,54.86518400000000,14,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.52566100000000,BT44 8NW,2014-01-31,fhrs_5_en-GB,5,,FHRS,0
-411371,,,,,The Wild Hog,Mobile caterer,7846,10,,445268,5,,,1276,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-11-30,fhrs_3_en-GB,3,,FHRS,10
-411372,22 Broad Street,,Magherafelt,Co. Londonderry,The Wine Sellers,Retailers - other,4613,,,445643,,,54.75590700000000,83,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60787800000000,BT45 6EA,2013-09-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-411373,11 Ballyheifer Road,,Magherafelt,Co. Londonderry,Three Spires Ltd,Hospitals/Childcare/Caring Premises,5,5,,445435,5,,54.76665900000000,341,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61398800000000,BT45 5DX,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-411374,,,,,Tillie Cunningham,Manufacturers/packers,7839,0,,445687,5,,,945,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2012-08-11,fhrs_5_en-GB,5,,FHRS,5
-411375,8 Tobermore Road,,Draperstown,Co. Londonderry,Time Out,Restaurant/Cafe/Canteen,1,5,,445329,5,,54.79868300000000,1363,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.77930200000000,BT45 7HG,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-411376,36 Tirgan Road,,Moneymore,Co. Londonderry,Tirgan Community Association,Other catering premises,7841,5,,552338,5,,54.73772000000000,1442,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.69970300000000,BT45 7RX,2013-08-09,fhrs_5_en-GB,5,,FHRS,0
-411377,6 Maghera Road,,Tobermore,Co. Londonderry,Tobermore Primary School Meals Kitchen,School/college/university,7845,0,,445533,0,,54.81501500000000,574,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.70310000000000,BT45 5QB,2012-12-03,fhrs_5_en-GB,5,,FHRS,0
-411378,6 Desertmartin Road,Tobermore Business Centre,Tobermore,Co. Londonderry,Tobertinys Community Playgroup,Hospitals/Childcare/Caring Premises,5,0,,445650,0,,54.81065900000000,843,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.70401800000000,BT45 5SG,2014-11-18,fhrs_5_en-GB,5,,FHRS,0
-411379,40 King Street,,Magherafelt,Co. Londonderry,Today's Express,Retailers - other,4613,10,,445527,0,,54.75497500000000,567,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60337400000000,BT45 6AS,2013-09-05,fhrs_4_en-GB,4,,FHRS,0
-411380,17 Kilrea Road,,Swatragh,Co. Londonderry,Todays Local S M Filling Station,Retailers - other,4613,10,,445277,5,,54.91116600000000,129,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.66250900000000,BT46 5QF,2013-04-26,fhrs_4_en-GB,4,,FHRS,0
-411381,19 Main Street,,Castledawson,Co. Londonderry,Toners,Retailers - supermarkets/hypermarkets,7840,,,445473,,,54.77830300000000,458,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55861800000000,BT45 8AA,2014-08-18,fhrs_4_en-GB,4,,FHRS,
-411382,26-28 High Street,,Draperstown,Co. Londonderry,Toners,Retailers - supermarkets/hypermarkets,7840,5,,445401,5,,54.79398400000000,25,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.78193200000000,BT45 7AA,2014-06-30,fhrs_4_en-GB,4,,FHRS,10
-411383,16 Coleraine Road,,Maghera,Co. Londonderry,Toners Nisa Extra Maghera,Retailers - supermarkets/hypermarkets,7840,20,,445447,5,,54.84550800000000,374,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67262200000000,BT46 5BN,2014-10-03,fhrs_1_en-GB,1,,FHRS,5
-411384,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Uncle Bills Sweets,Retailers - other,4613,5,,695911,5,,54.75404500000000,1538,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61236900000000,BT45 6PR,2014-08-07,fhrs_5_en-GB,5,,FHRS,5
-411385,,,,,Upperlands Coffee Company,Manufacturers/packers,7839,0,,445204,0,,,1009,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-11-07,fhrs_5_en-GB,5,,FHRS,0
-411386,87 Culnady Road,Upperlands,Maghera,Co. Londonderry,Village Store,Retailers - other,4613,10,,445483,5,,54.87214300000000,472,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.63605700000000,BT46 5TN,2013-08-19,fhrs_4_en-GB,4,,FHRS,0
-411387,Meadowlane Shopping Centre,,Magherafelt,Co. Londonderry,Viva Cafe,Restaurant/Cafe/Canteen,1,5,,445490,0,,54.75404500000000,497,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61236900000000,BT45 6PR,2014-06-19,fhrs_4_en-GB,4,,FHRS,10
-411388,39 Glenone Road,,Portglenone,Co. Londonderry,Vivo Essentials,Retailers - supermarkets/hypermarkets,7840,5,,445409,5,,54.86929400000000,263,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.50756700000000,BT44 8LD,2014-10-09,fhrs_5_en-GB,5,,FHRS,5
-411389,7 Main Street,,Desertmartin,Co. Londonderry,Vivo Foodstores,Retailers - supermarkets/hypermarkets,7840,20,,445364,0,,54.76992800000000,177,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67256500000000,BT45 5LN,2013-10-09,fhrs_1_en-GB,1,,FHRS,5
-411390,53 Main Street,,Maghera,Co. Londonderry,Walsh's Hotel,Hotel/bed & breakfast/guest house,7842,10,,445456,10,,54.84412300000000,391,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67162400000000,BT46 5AA,2014-02-26,fhrs_3_en-GB,3,,FHRS,10
-411391,62 Tirkane Road,,Maghera,Co. Londonderry,Watty Grahams GAC,Pub/bar/nightclub,7843,20,,445546,0,,54.84689000000000,614,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.67662400000000,BT46 5AG,2014-03-25,fhrs_1_en-GB,1,,FHRS,15
-411392,,,,,Wee Buns And Cakes,Manufacturers/packers,7839,5,,586603,0,,,1444,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,,,2013-08-16,fhrs_5_en-GB,5,,FHRS,0
-411393,19 Main Street,,Castledawson,Co. Londonderry,Wilma's Plaice,Takeaway/sandwich shop,7844,5,,445228,5,,54.77830300000000,119,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.55861800000000,BT45 8AA,2013-08-07,fhrs_5_en-GB,5,,FHRS,5
-411394,30 Ballyscullion Road,,Bellaghy,Co. Londonderry,Wolfe Tones GAC,Pub/bar/nightclub,7843,5,,445585,5,,54.80625100000000,71,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.51681300000000,BT45 8LD,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-411395,48 Glen Road,,Maghera,Co. Londonderry,Xl Stop And Shop,Retailers - other,4613,5,,445503,5,,54.84552100000000,513,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.68035800000000,BT46 5AP,2011-11-22,fhrs_5_en-GB,5,,FHRS,5
-411396,5 Rainey Street Park,,Magherafelt,Co. Londonderry,Xtravision,Retailers - other,4613,5,,445323,0,,54.75511900000000,1348,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.61045300000000,BT45 5AN,2011-11-29,fhrs_5_en-GB,5,,FHRS,5
-411397,30 Queen Street,,Magherafelt,Co. Londonderry,Zara,Takeaway/sandwich shop,7844,20,,445334,15,,54.75450800000000,1376,820,envhealth@magherafelt.gov.uk,Magherafelt,http://www.magherafelt.gov.uk,-6.60887400000000,BT45 6AB,2014-05-19,fhrs_1_en-GB,1,,FHRS,15
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+411012,24 Catering,5,5,0,5,2013-04-22,54.783706,-6.573317
+411013,A Taste Of Home,5,0,0,5,2013-09-03,,
+411014,A Touch Of Class,5,0,0,5,2014-01-20,,
+411015,Abasen,3,nan,nan,nan,2014-05-07,54.792817,-6.785542
+411016,Alistairs Bakery,1,0,5,20,2014-09-22,54.778077,-6.560724
+411017,All Star Catering,4,0,10,5,2013-03-11,,
+411018,Al's Pizzeria,4,nan,nan,nan,2014-03-10,54.778077,-6.560724
+411019,Altayeskey Primary School,5,0,0,0,2013-06-21,54.752838,-6.882524
+411020,Ampertaine School Meals Kitchen,5,5,0,0,2014-06-05,54.885248,-6.627886
+411021,An Carn Siopa,5,0,0,0,2014-02-10,54.87443,-6.711319
+411022,An Rath Dubh Centre,5,0,0,5,2013-09-27,54.821471,-6.841236
+411023,Anahorish School Meals Kitchen,4,10,5,0,2012-12-11,54.76971,-6.504041
+411024,Anniscliff House,3,10,10,10,2014-10-09,54.854871,-6.667845
+411025,Apparo,5,5,5,5,2013-11-29,54.792817,-6.785542
+411026,Ardrath House,4,10,0,10,2013-07-09,54.762399,-6.6162
+411027,Ardtara Country House,3,10,5,10,2013-07-03,54.888363,-6.638813
+411028,B & M Bargains,5,0,0,0,2013-11-01,54.754999,-6.607816
+411029,Ballinascreen Early Years,5,0,0,0,2014-02-12,54.795588,-6.781495
+411030,Ballinascreen Fold,5,5,5,5,2014-02-12,54.791827,-6.769341
+411031,Ballynease Primary School Meals Kitchen,5,5,0,0,2014-05-20,54.845415,-6.482263
+411032,Bamboo Garden,4,5,5,10,2014-02-25,54.755881,-6.611887
+411033,Barista,3,10,10,10,2014-08-19,54.75579,-6.60709
+411034,Bellaghy Primary School Meals Kitchen,4,10,5,5,2012-10-18,54.810154,-6.516421
+411035,Benbradagh Care Home,5,nan,nan,nan,2014-05-06,54.875464,-6.626972
+411036,Bigger Ices,5,5,0,0,2012-06-21,,
+411037,Boots Stores Ltd,Exempt,nan,nan,nan,2012-05-08,54.754045,-6.612369
+411038,Bowies Chip Shop,1,15,10,20,2014-05-13,54.843755,-6.670889
+411039,Boyles,5,5,5,5,2012-05-22,54.839771,-6.590874
+411040,Boyles Shop,5,5,5,0,2014-06-10,54.833573,-6.606497
+411041,Bradley Service Station Limited,4,10,5,5,2014-03-24,54.845508,-6.672622
+411042,Bradleys Bar,5,0,0,0,2014-01-21,54.911166,-6.662509
+411043,Bradley's Bar,5,5,5,5,2011-11-22,54.777014,-6.680539
+411044,Bradley's Centra Ltd (Van),AwaitingInspection,nan,nan,nan,,54.845508,-6.672622
+411045,Brendan Higgins,5,0,0,0,2013-09-06,,
+411046,Brooke Lodge Guesthouse,5,0,5,5,2013-09-30,54.752693,-6.59401
+411047,Brooklands Healthcare,5,nan,nan,nan,2014-09-18,54.762399,-6.6162
+411048,Brysons Bar And Restaurant,5,5,5,5,2014-04-15,54.756805,-6.608639
+411049,Building Blocks Day Nursery,5,0,0,5,2013-11-21,54.7581,-6.473556
+411050,Bureato Mexican Food Bar,5,0,0,5,2014-01-23,54.754508,-6.608874
+411051,Busy Bee Playgroup,5,5,5,5,2014-05-20,54.845057,-6.666736
+411052,Caffe Dolce,5,nan,nan,nan,2013-09-02,54.751719,-6.609311
+411053,Candyland,5,5,5,5,2012-08-31,,
+411054,Card Factory,Exempt,nan,nan,nan,2013-08-08,54.754045,-6.612369
+411055,Cassidy's Bar,5,5,5,5,2012-02-13,54.810154,-6.516421
+411056,Castledawson Primary School Meals Kitchen,5,5,0,0,2014-05-29,54.778077,-6.560724
+411057,Castlehill Private Nursing Home,5,5,5,0,2014-09-22,54.768356,-6.553176
+411058,Centra Magherafelt,5,5,5,5,2014-03-25,54.759381,-6.599836
+411059,Charlie's Chippy,4,5,5,10,2013-10-09,54.84689,-6.676624
+411060,China Garden,5,5,0,5,2013-09-16,54.811571,-6.706182
+411061,Chip N Dip,AwaitingInspection,nan,nan,nan,,,
+411062,Church Street Restaurant,4,10,5,5,2014-01-23,54.756444,-6.605358
+411063,Churchtown Presbyterian Church Hall,AwaitingInspection,nan,nan,nan,,54.895833,-6.581154
+411064,Clady Quality Meats,5,5,5,5,2013-06-21,54.867799,-6.515394
+411065,Clanmil Housing,5,0,0,5,2014-03-27,54.757478,-6.60304
+411066,Clares Costcutter,5,5,5,5,2014-02-18,54.810812,-6.710763
+411067,Clearwater House B And B,5,nan,nan,nan,2012-11-07,54.725626,-6.591843
+411068,Cloneen Day Nursery,3,10,10,10,2014-12-16,54.85037,-6.66544
+411069,Corner Bar,5,5,0,5,2014-10-21,54.778303,-6.558618
+411070,Costa Coffee,3,10,5,10,2014-10-16,54.754045,-6.612369
+411071,Cosy Corner Bar,5,0,0,0,2014-06-10,54.833573,-6.606497
+411072,Country Bite,1,5,0,20,2013-08-20,,
+411073,Country Cafe,1,10,5,20,2014-10-30,54.91415,-6.664343
+411074,Country Creche,5,5,0,0,2014-11-21,54.762858,-6.560705
+411075,Crawfords Coffee Lounge,4,10,0,5,2013-06-28,54.84415,-6.672511
+411076,Creagh Concrete T/a The Elk Bar And Bistro,3,10,5,10,2013-08-08,54.7581,-6.473556
+411077,Crooks Bar,4,10,5,5,2011-11-10,54.844123,-6.671624
+411078,Crossroads Primary School Meals Kitchen,5,0,5,0,2012-12-10,54.918908,-6.591602
+411079,Culnady Primary School Meals Kitchen,5,0,0,0,2013-06-13,54.8646,-6.632309
+411080,Curley's Wine Cellars,Exempt,nan,nan,nan,2013-01-18,54.754999,-6.607816
+411081,Dayfresh,5,0,0,5,2014-01-17,54.754045,-6.612369
+411082,Day-to-day,1,5,0,20,2013-08-12,54.874707,-6.651628
+411083,Day-to-day,3,10,5,10,2014-06-17,54.783845,-6.804775
+411084,Desertmartin Primary School Meals Kitchen,4,10,0,5,2012-10-11,54.777863,-6.66786
+411085,Diamond Bar,4,5,0,10,2013-08-15,54.811571,-6.706182
+411086,Diamond Meats,4,5,10,0,2013-12-04,54.793984,-6.781932
+411087,Diamond Meats,2,10,15,10,2014-10-22,54.754045,-6.612369
+411088,Diamond Service Station,4,0,10,5,2014-02-28,54.793725,-6.782919
+411089,Dillys Diner,5,0,0,5,2012-11-22,,
+411090,District 45 Restaurant,4,5,5,10,2014-10-17,54.75719,-6.610879
+411091,Ditty's Bakery And Coffee Shop,5,5,5,5,2014-05-12,54.755587,-6.60893
+411092,Ditty's Castledawson Ltd ( Cafe),4,5,5,10,2014-03-19,54.778077,-6.560724
+411093,Dolan Heaney,5,0,0,5,2014-11-25,,
+411094,Dorman's and Secrets Nightclub,AwaitingInspection,nan,nan,nan,,54.754672,-6.6091
+411095,Downeys Bar,4,10,0,10,2013-09-06,54.754508,-6.608874
+411096,Draperstown After School Club,5,5,5,5,2014-09-26,54.795588,-6.781495
+411097,Draperstown Chinese,4,nan,nan,nan,2014-07-24,54.792817,-6.785542
+411098,Due Hamill B&b,5,nan,nan,nan,2012-08-08,54.792523,-6.49998
+411099,Dugout,4,10,0,5,2013-09-06,54.845053,-6.674505
+411100,"Dunnes Stores, Magherafelt",5,0,0,0,2014-03-26,54.752768,-6.611465
+411101,Eotas ( Portrush),4,10,0,10,2013-11-28,54.894542,-6.578332
+411102,Erins Own G A C Lavey,5,nan,nan,nan,2013-08-08,54.828422,-6.603018
+411103,Eurospar,5,5,5,5,2013-10-15,54.8451,-6.673865
+411104,Eurospar,4,5,5,10,2013-09-17,54.79628,-6.783293
+411105,First Magherafelt Presbyterian Church,5,0,0,0,2013-08-08,,
+411106,First Magherafelt Presbyterian Church Hall,5,5,5,5,2013-11-05,54.753767,-6.605358
+411107,Frankies Pizza Shop,4,5,5,10,2014-03-11,54.792836,-6.786615
+411108,Freshways,5,5,0,0,2014-02-03,54.755907,-6.607878
+411109,Frydays,3,nan,nan,nan,2014-05-06,54.867799,-6.515394
+411110,Gaelscoil Na Speirni,5,0,0,0,2014-11-12,54.783845,-6.804775
+411111,Gaelscoil Na Tseanchai,4,10,0,0,2013-06-19,54.753767,-6.605358
+411112,Gemma's Cakes,4,0,0,10,2012-11-05,,
+411113,Glenshane Tourist Services Ltd,5,5,5,0,2013-08-08,54.852076,-6.754086
+411114,Golden Chicken,3,5,10,10,2014-01-27,54.756212,-6.611735
+411115,Golden City,2,10,15,10,2014-03-26,54.807877,-6.519755
+411116,Golden Gate,3,5,10,10,2014-11-13,54.75579,-6.60709
+411117,Golden Hill Restaurant,1,10,10,20,2014-03-14,54.872565,-6.483704
+411118,Golden House,2,10,15,10,2014-10-16,54.792817,-6.785542
+411119,Gracelands,3,10,5,10,2013-10-07,54.719578,-6.529649
+411120,Graham And Son Ltd,4,5,10,5,2013-12-10,54.808497,-6.518317
+411121,Gran Fries,5,5,5,5,2014-03-21,54.909203,-6.664554
+411122,Gran Tots Playgroup,5,0,5,5,2013-02-08,54.909203,-6.664554
+411123,Granaghan Resource Centre Wednesday Club,5,0,5,5,2013-10-30,54.909203,-6.664554
+411124,Grapevine Off-Licence,Exempt,nan,nan,nan,2014-01-21,54.845508,-6.672622
+411125,Great Beef And Co,4,5,10,5,2014-12-17,54.778303,-6.558618
+411126,Greenfield Retail Ltd (t/a Church Street Service Station),3,10,5,10,2014-03-24,54.842521,-6.668097
+411127,Greenlough Bar,5,0,0,5,2014-01-31,54.874504,-6.53632
+411128,Greenlough Community Playgroup,2,15,0,0,2014-12-16,54.867799,-6.515394
+411129,Hamilton's Pub,5,5,5,5,2012-02-21,54.808497,-6.518317
+411130,Happy Days Nursery,5,0,0,5,2013-08-06,54.764275,-6.605897
+411131,Happy Garden,4,10,0,10,2014-03-27,54.778303,-6.558618
+411132,Hawthorn Inn,5,5,5,5,2014-05-15,54.878232,-6.501658
+411133,Hide-out Lounge,5,5,5,5,2012-04-11,54.844123,-6.671624
+411134,Highfield Service Station,5,5,0,5,2014-03-28,54.750879,-6.613626
+411135,Hillside Filling Station,5,0,0,5,2013-12-10,54.810154,-6.516421
+411136,Hl's Kitchen,4,0,0,10,2012-10-25,,
+411137,Holland And Barrett,5,0,0,5,2012-09-18,54.752768,-6.611465
+411138,Hollybank Respite Unit,5,5,0,5,2014-07-07,54.756805,-6.608639
+411139,Hospital Shop,5,5,0,5,2013-09-18,54.762399,-6.6162
+411140,Hot Drinks Stall,5,0,0,5,2012-12-04,,
+411141,Hotel Bar Castledawson,5,5,5,5,2012-02-13,54.778303,-6.558618
+411142,Hunger Bitez,4,5,5,10,2014-02-25,54.754508,-6.608874
+411143,Hutton Meats,4,10,5,5,2013-01-09,54.754492,-6.606653
+411144,Iceland Frozen Foods PLC,5,0,5,0,2013-07-09,54.752768,-6.611465
+411145,Imperial Palace,3,nan,nan,nan,2014-08-13,54.754602,-6.609212
+411146,Indian Nights Inn,5,0,0,5,2014-07-08,,
+411147,J B Tyres,4,10,0,0,2013-08-08,54.805164,-6.697568
+411148,J C Stewart,5,5,5,5,2014-03-04,54.756805,-6.608639
+411149,James Armstrong,5,5,5,5,2012-02-14,54.875851,-6.664225
+411150,James Overend And Son,4,nan,nan,nan,2014-05-08,54.808497,-6.518317
+411151,Jaunty's Diner,5,5,0,5,2013-06-06,54.756212,-6.611735
+411152,Jill's Cakes,5,5,5,5,2014-01-17,54.719751,-6.719848
+411153,Junes Supershop,4,0,0,10,2012-10-03,54.878928,-6.640284
+411154,Karolina Shop,3,nan,nan,nan,2012-12-17,54.755881,-6.611887
+411155,Kathryn Homes (magherafelt Manor Care Home),5,nan,nan,nan,2014-02-06,54.755541,-6.594082
+411156,Kearney's Bar,4,10,0,5,2013-09-20,54.8451,-6.673865
+411157,Kellys Vivoxtra Castledawson,5,5,5,5,2014-08-18,54.777901,-6.563373
+411158,Kentucky Fried Chicken,4,10,0,5,2014-01-09,54.769528,-6.579348
+411159,Kiddies Castle Early Years,5,0,0,0,2014-11-18,54.777572,-6.554525
+411160,Kidd-z-Play,5,0,0,5,2013-08-19,54.755881,-6.611887
+411161,Kidd-z-play (after Schools),5,0,0,0,2012-02-21,54.752846,-6.606477
+411162,Killygullib Poultry Club,5,0,0,5,2014-03-08,54.909084,-6.591945
+411163,Kilronan School Meals Kitchen,5,0,0,0,2014-03-13,54.748714,-6.599552
+411164,Kilross School Meals Kitchen,5,5,0,5,2014-06-05,54.797302,-6.735652
+411165,Knockloughrim Primary School,5,5,0,5,2013-02-28,54.809995,-6.601336
+411166,Knocknagin Primary School Meals Kitchen,5,5,0,5,2014-06-05,54.777014,-6.680539
+411167,La Bodega,Exempt,nan,nan,nan,2014-10-21,54.778303,-6.558618
+411168,Laughterland,5,5,0,0,2014-02-13,54.76106,-6.504236
+411169,Laurel Villa Townhouse,5,5,0,5,2013-08-05,54.756689,-6.605568
+411170,Lavey Early Years,5,0,0,5,2014-02-24,54.839771,-6.590874
+411171,Lidl,5,5,0,5,2013-09-11,54.759381,-6.599836
+411172,Limetree Catering,5,5,5,5,2014-01-28,,
+411173,Linenhall Centre,5,0,0,5,2014-06-18,54.878928,-6.640284
+411174,Little Amps Early Years Pre-school,5,5,0,0,2013-12-16,54.885248,-6.627886
+411175,Little Rainbows Early Years,5,5,0,5,2014-05-20,54.846555,-6.710588
+411176,Little Wombles Playgroup,5,0,5,5,2013-09-29,54.793984,-6.781932
+411177,Love Olive Market Crew,5,0,5,5,2014-01-13,,
+411178,Lucky Dip,1,15,15,20,2014-10-08,54.754602,-6.609212
+411179,Lucky Dragon,4,5,10,5,2013-07-04,54.843974,-6.674416
+411180,M Regan And Sons,5,5,5,5,2012-12-06,54.792836,-6.786615
+411181,Ma Gilmours,5,5,5,5,2012-11-07,54.7581,-6.473556
+411182,Mace,5,5,5,5,2013-06-14,54.903513,-6.668344
+411183,Mack's Snacks,1,5,5,20,2014-12-19,,
+411184,Mac's Fish And Burger Bar,4,10,5,5,2014-03-31,54.754602,-6.609212
+411185,Maghera Day Centre,5,5,0,5,2014-03-25,54.845508,-6.672622
+411186,Maghera Kebabs House,1,15,10,20,2014-03-20,54.845508,-6.672622
+411187,Maghera Primary School Kitchen,3,5,10,10,2014-05-20,54.845057,-6.666736
+411188,Magherafelt Adult Centre,4,0,0,10,2014-10-13,54.762399,-6.6162
+411189,Magherafelt Baptist Church,1,5,0,20,2013-09-20,54.752321,-6.603792
+411190,Magherafelt Campus Kitchen,5,0,5,5,2014-03-26,54.752392,-6.610794
+411191,Magherafelt Day Centre,5,5,0,5,2014-06-02,54.762399,-6.6162
+411192,Magherafelt Discount Store Ltd,5,0,0,5,2013-09-20,54.755437,-6.609991
+411193,Magherafelt High School Meals Kitchen,5,0,0,5,2013-03-05,54.750893,-6.612477
+411194,Magherafelt Nursery School,4,10,0,0,2013-06-18,54.759381,-6.599836
+411195,Magherafelt Parish Centre,5,5,5,5,2013-08-20,54.755933,-6.605407
+411196,Magherafelt Primary School,5,5,0,0,2013-06-18,54.759381,-6.599836
+411197,Magherafelt Women's Group Ltd - Kidz Lodge After Schools,5,5,0,0,2014-10-02,54.752768,-6.611465
+411198,Magherafelt Women's Group Ltd - Kidz Lodge Day Care,5,0,5,5,2014-07-10,54.752768,-6.611465
+411199,Mal's Bar And Restaurant,5,5,5,5,2014-07-10,54.766261,-6.507058
+411200,Mango Catering And Events,5,0,0,5,2014-09-09,,
+411201,Margaret Selfridge,5,0,0,5,2014-01-28,54.871841,-6.65568
+411202,Market Tavern,5,5,5,5,2014-07-01,54.755881,-6.611887
+411203,Marriott House - Clanmil Housing,5,5,5,0,2014-03-11,54.758163,-6.602472
+411204,Mary's Bar And Restaurant,4,10,5,5,2014-03-28,54.755138,-6.606584
+411205,Mauds Parlour,5,5,5,5,2014-10-21,54.756238,-6.608566
+411206,Maxi's Chip Shop And Grill,4,5,5,10,2013-08-13,54.756238,-6.608566
+411207,Mc Erlains Bakery ( Magherafelt) Ltd,5,5,0,5,2014-05-15,54.754045,-6.612369
+411208,McAlinden Meats,4,nan,nan,nan,2014-08-05,54.755372,-6.608999
+411209,McAllisters Bar,5,5,5,0,2013-07-25,54.783845,-6.804775
+411210,McAtamney Butchers,5,5,5,5,2014-02-20,54.756238,-6.608566
+411211,McAtamney Butchers,5,nan,nan,nan,2013-07-29,54.84415,-6.672511
+411212,McAuley's Bar,5,5,5,5,2013-07-25,54.79628,-6.783293
+411213,McClenaghan Family Butchers,AwaitingInspection,nan,nan,nan,,54.755138,-6.606584
+411214,Mcglaughlin's Bakery,4,5,0,10,2013-11-20,54.845508,-6.672622
+411215,Mckees,5,0,5,5,2013-01-25,54.845053,-6.674505
+411216,McKenna's Bar,5,0,0,0,2012-11-26,54.807877,-6.519755
+411217,Mckenna's Bar (1908) Ltd,5,5,5,5,2011-11-22,54.845554,-6.676014
+411218,McMaster's Bar,5,5,5,5,2011-11-10,54.844123,-6.671624
+411219,Mcswiggans,5,nan,nan,nan,2014-04-28,54.756326,-6.613875
+411220,Meadowell Fold Lunch Club,5,0,0,0,2013-08-20,54.754906,-6.612246
+411221,Meet 'n' Eat,5,0,0,0,2012-05-30,54.771302,-6.674121
+411222,Mel's Traditional Fish 'n' Chips,5,0,5,5,2013-04-23,54.845508,-6.672622
+411223,Michael Davitts GAC,5,5,5,5,2012-02-22,54.91415,-6.664343
+411224,Mid Ulster Garden Centre (gift Shop),5,0,0,0,2014-12-16,54.845057,-6.666736
+411225,Mid Ulster Garden Centre Coffee Shop,3,10,5,10,2014-12-16,54.845057,-6.666736
+411226,Mid Ulster Hospital Catering Dept,5,5,0,5,2014-01-16,54.761858,-6.614447
+411227,Moes Grill,4,5,5,10,2014-02-17,54.77201,-6.577241
+411228,Mooney's Cafe,4,10,5,5,2014-02-21,54.807877,-6.519755
+411229,Mo's Chippy,5,5,5,5,2013-06-27,,
+411230,Motobites,1,10,5,20,2014-03-11,54.754975,-6.603374
+411231,Mountview Residential Home,5,0,0,5,2014-12-02,54.816333,-6.591628
+411232,Movie House Cinema,5,0,0,0,2014-01-21,54.844041,-6.673199
+411233,Mr Whirl,5,0,0,0,2012-11-01,,
+411234,Mrs Browns,AwaitingInspection,nan,nan,nan,,54.755119,-6.610453
+411235,Muldoons Costcutters,5,0,5,5,2014-08-28,54.810119,-6.516453
+411236,Mulligan's,4,5,5,10,2011-03-21,54.807775,-6.825733
+411237,My Wedding Candy Cart,5,0,0,0,2013-10-02,,
+411238,Naiscoil An Tseanchai,5,0,0,5,2013-01-24,54.751109,-6.598475
+411239,Naiscoil Charn Tochaire Playgroup,5,5,5,0,2013-06-18,54.87443,-6.711319
+411240,Naiscoil Mhachaire Ratha,5,0,0,5,2013-03-08,54.845521,-6.680358
+411241,Naiscoil Na Speirini,5,5,5,5,2014-09-25,54.783845,-6.804775
+411242,New Look,Exempt,nan,nan,nan,2014-01-17,54.752768,-6.611465
+411243,New Row Primary School Meals Kitchen,5,5,0,5,2014-12-02,54.7768,-6.555346
+411244,Newbridge Stores,5,nan,nan,nan,2014-06-23,54.76106,-6.504236
+411245,Niamh,Exempt,nan,nan,nan,2012-05-15,54.755138,-6.606584
+411246,Nisa,5,5,5,5,2013-01-17,54.748714,-6.599552
+411247,Nisa Local,2,15,5,5,2014-08-21,54.755138,-6.606584
+411248,Nosh Cafe And Sandwich Bar,4,10,5,5,2013-12-12,54.755372,-6.608999
+411249,Oakleaf Restaurant,5,nan,nan,nan,2013-01-31,54.852076,-6.754086
+411250,O'Brien's,5,0,0,5,2012-05-23,54.75579,-6.60709
+411251,O'Kane Cars,5,0,0,5,2012-11-12,54.776502,-6.537997
+411252,Old Mill Coffee Shop,5,5,5,5,2013-06-12,54.878928,-6.640284
+411253,P & B O'kane's Newsagents,1,15,15,20,2013-07-18,54.792836,-6.786615
+411254,P And N Quality Meats,4,5,5,10,2014-01-08,54.845053,-6.674505
+411255,Paddy Lagans,4,10,5,5,2012-02-23,54.906283,-6.667036
+411256,Pagoda,3,10,10,10,2014-02-18,54.845508,-6.672622
+411257,Papa J's Wood Fired Pizza Co,5,0,5,5,2013-11-15,,
+411258,Pats Pizza,5,5,0,5,2013-11-15,54.843974,-6.674416
+411259,Pizza Man,3,10,5,10,2014-03-21,54.84415,-6.672511
+411260,Poundland,5,5,5,0,2013-07-09,54.752768,-6.611465
+411261,Poundstretcher,5,0,0,5,2013-01-18,54.755119,-6.610453
+411262,R Crawford And Co,4,5,5,10,2014-04-09,54.84415,-6.672511
+411263,R Mawhinney And Son,5,5,5,5,2014-05-29,54.778077,-6.560724
+411264,Rafters Restaurant And Friels Bar,4,10,5,5,2014-12-15,54.911166,-6.662509
+411265,Rainey Endowed School,5,nan,nan,nan,2014-10-06,54.756677,-6.612341
+411266,Rainey Old Boys Club,1,10,0,20,2014-01-28,54.748242,-6.601463
+411267,Reaching Out Mid-ulster,5,0,0,5,2013-04-30,,
+411268,Reaching Out Mid-ulster Ltd,5,0,0,0,2014-03-12,54.845508,-6.672622
+411269,Red Berec,AwaitingInspection,nan,nan,nan,,,
+411270,Regan's Bar,5,5,5,5,2014-08-05,54.843974,-6.674416
+411271,Regan's Bar,4,5,10,5,2011-11-22,54.794281,-6.786431
+411272,Regional Wines,Exempt,nan,nan,nan,2013-09-06,54.793984,-6.781932
+411273,Relish,5,0,0,0,2014-01-14,,
+411274,River Park House,Exempt,nan,nan,nan,2012-03-08,54.777747,-6.551924
+411275,Royal British Legion Community Centre,5,5,5,5,2012-10-10,54.878928,-6.640284
+411276,Ruby's,4,10,5,5,2013-10-31,54.8451,-6.673865
+411277,School Meals Kitchen Holy Family,5,5,0,5,2013-10-08,54.757478,-6.60304
+411278,Scullys Flame Grill Bar,4,5,5,10,2014-02-14,54.807877,-6.519755
+411279,SDC,4,10,5,5,2014-05-13,54.76971,-6.504041
+411280,Seamus J Devlin,5,5,5,0,2012-05-29,54.815389,-6.830023
+411281,Simplicity Restaurant,2,15,5,10,2014-12-15,54.755138,-6.606584
+411282,Sizzlers,4,5,5,10,2014-07-29,54.754999,-6.607816
+411283,Sizzlers Event Catering,5,0,5,5,2013-07-10,54.754999,-6.607816
+411284,Slievegallion Pre-school,5,0,0,0,2012-10-18,54.764255,-6.700297
+411285,Slims Cafe,5,5,5,0,2014-03-31,54.792817,-6.785542
+411286,Smaczek,5,nan,nan,nan,2013-08-30,54.756444,-6.605359
+411287,Snackbox,2,15,5,10,2013-08-28,54.755881,-6.611887
+411288,Spar,5,5,5,5,2013-06-06,54.756238,-6.608566
+411289,Spar,4,5,10,5,2013-07-02,54.812178,-6.704062
+411290,Spar,4,5,5,10,2013-07-17,54.84689,-6.676624
+411291,Sperrin Integrated College,4,10,5,0,2013-05-28,54.755541,-6.594082
+411292,Spires Garage,5,5,0,5,2014-06-27,54.756689,-6.605568
+411293,Spires Integrated Primary School,5,0,0,5,2012-10-08,54.741907,-6.620191
+411294,St Brigid's Primary School (tirkane) Meals Kitchen,5,5,0,5,2015-01-08,54.87443,-6.711319
+411295,St Brigid's School Meals,5,5,0,0,2014-05-21,54.839771,-6.590874
+411296,St Colm's High School Meals Kitchen,5,5,0,5,2014-06-09,54.791827,-6.769341
+411297,St Columba's Primary School Meals Kitchen,5,5,0,0,2014-10-24,54.783845,-6.804775
+411298,St Columb's Primary School Meals Kitchen,4,10,5,5,2014-06-02,54.767618,-6.714981
+411299,St Eoghan's School Meals Kitchen,5,5,0,5,2012-12-06,54.821471,-6.841236
+411300,St John's Primary School Meals Kitchen,5,0,0,0,2013-06-14,54.903513,-6.668344
+411301,St Lurach's Luncheon Club,4,5,10,0,2014-11-24,54.842521,-6.668097
+411302,St Mary's Grammar School,4,5,5,10,2014-12-05,54.757533,-6.60164
+411303,St Mary's Nursery,5,5,0,0,2014-05-15,54.809727,-6.519687
+411304,St Mary's Primary And Nursery School,5,0,0,5,2014-03-07,54.809727,-6.519687
+411305,St Mary's Primary School (greenlough),4,nan,nan,nan,2014-06-10,54.867799,-6.515394
+411306,St Mary's Primary School Meals Kitchen,5,5,0,5,2012-12-06,54.791827,-6.769341
+411307,St Mary's Primary School Meals Kitchen,5,5,0,0,2013-06-17,54.845521,-6.680358
+411308,St Mary's School Meals Kitchen,5,5,5,0,2012-12-10,54.847219,-6.695388
+411309,St Mary's School Meals Kitchen,5,5,0,5,2012-12-04,54.867799,-6.515394
+411310,St Patrick's College,5,5,0,5,2012-12-07,54.845508,-6.672622
+411311,"St Patrick's Primary, Glen",4,5,0,10,2013-02-26,54.846555,-6.710588
+411312,St Pius X High School Meals Kitchen,5,5,5,0,2014-06-16,54.74966,-6.615423
+411313,St Swithin's Parish Church Hall,5,0,0,5,2014-03-18,54.756444,-6.605359
+411314,St Trea's Primary School Meals Kitchen,5,5,0,5,2013-06-20,54.738205,-6.525449
+411315,Stepping Stones Pre-school,5,5,0,5,2014-02-10,54.87443,-6.711319
+411316,Stockman And Sons,5,0,0,5,2014-01-21,54.815015,-6.7031
+411317,Street Reach,5,0,0,0,2013-12-09,,
+411318,Subway,5,5,0,5,2014-03-26,54.755119,-6.610453
+411319,Sugar Art,5,0,0,5,2014-01-13,54.779834,-6.550652
+411320,Sunrise Takeaway,AwaitingInspection,nan,nan,nan,,54.84415,-6.672511
+411321,Superchip,4,5,0,10,2014-03-25,54.769928,-6.672565
+411322,Supervalu,5,5,5,5,2014-12-18,54.872766,-6.491206
+411323,Sweet Cakes From Suzi,5,0,0,5,2014-01-15,,
+411324,Sweet Sensations,5,5,0,5,2014-03-03,54.747364,-6.584628
+411325,Sweet Treats,5,0,0,5,2014-03-18,,
+411326,Taaj Restaurant,5,5,0,5,2014-05-21,54.754508,-6.608874
+411327,Tamlaght Store,4,0,0,10,2012-10-22,54.895833,-6.581154
+411328,Teady Mcerlean's,5,5,0,5,2013-10-04,54.869497,-6.508042
+411329,Tesco,5,5,5,0,2013-03-11,54.752321,-6.603792
+411330,The Angus Grill,AwaitingInspection,nan,nan,nan,,,
+411331,The Auction Room,4,5,5,10,2014-02-24,54.84417,-6.672666
+411332,The Back Door,5,5,5,5,2011-12-22,54.844123,-6.671624
+411333,The Butterfly,4,0,5,10,2014-03-25,54.756805,-6.608639
+411334,The Cake Shop,1,10,10,20,2014-12-11,54.755907,-6.607878
+411335,The Central Bar,5,5,0,5,2013-09-12,54.807877,-6.519755
+411336,The Chip Basket,5,nan,nan,nan,2014-03-06,54.805164,-6.697568
+411337,The Chocolate Box Ni,5,5,5,5,2014-12-22,,
+411338,The Chocolate Foundry,AwaitingInspection,nan,nan,nan,,,
+411339,The Coachman Inn,5,5,0,5,2014-12-02,54.755881,-6.611887
+411340,The Coffee Shop,4,5,5,10,2014-07-28,54.845053,-6.674505
+411341,The Corner House Bar And Restaurant,4,10,5,5,2014-01-20,54.792817,-6.785542
+411342,The Crispy Chip @ Tobermore,5,5,5,5,2013-10-15,54.811571,-6.706182
+411343,The Diamond Espresso,5,5,0,0,2013-07-09,54.755138,-6.606584
+411344,The Diamond Fish And Burger Bar,4,5,5,10,2014-04-17,54.754602,-6.609212
+411345,The Dry Dock,4,5,5,10,2013-09-05,54.755437,-6.609991
+411346,The Flax Inn,5,5,0,5,2014-05-12,54.755933,-6.605407
+411347,The Fruit Shop,5,5,5,5,2014-07-25,54.778077,-6.560724
+411348,The Hogan Stand Bar,5,5,0,5,2013-09-27,54.815389,-6.830023
+411349,The Inn Castledawson,1,10,15,20,2014-07-08,54.778303,-6.558618
+411350,The Jolly Fry'r,5,5,5,5,2013-07-18,54.792836,-6.786615
+411351,The Jungle Paintball,0,25,0,20,2014-11-24,54.715244,-6.670831
+411352,The Kiosk,1,15,5,20,2014-12-17,54.752768,-6.611465
+411353,The Kitchen,4,10,5,5,2014-04-17,54.755587,-6.60893
+411354,The Manlee,2,15,10,10,2014-03-27,54.759381,-6.599836
+411355,The Market Inn,5,0,0,5,2014-04-11,54.792836,-6.786615
+411356,The Nippy Chippy ( Van 2),5,5,5,5,2014-03-31,,
+411357,The Old Thatch Inn,4,5,5,10,2014-10-14,54.772916,-6.531149
+411358,The Oldtown Chippy,2,15,5,10,2014-08-27,54.777836,-6.56238
+411359,The Pizza Man,5,5,5,5,2014-02-18,54.754602,-6.609212
+411360,The Pizza Shop,5,0,0,5,2014-03-27,54.756444,-6.605359
+411361,The Roaming Aroma,AwaitingInspection,nan,nan,nan,,,
+411362,The Shamrock,5,0,0,5,2013-09-06,54.792836,-6.786615
+411363,The Shepherds Rest,5,5,0,5,2014-03-27,54.752838,-6.882524
+411364,The Step Inn Bar,4,0,0,10,2013-09-05,54.755372,-6.608999
+411365,The Sweetie Wagon Candy Cart,5,0,0,0,2014-08-20,,
+411366,The Terrace Hotel,2,nan,nan,nan,2014-08-11,54.756689,-6.605568
+411367,The Village Griddle,4,10,5,5,2013-07-25,54.783845,-6.804775
+411368,The Village Takeaway,5,nan,nan,nan,2014-08-20,54.807877,-6.519755
+411369,The Vintage Coffee Shop At Roglyn,4,10,0,5,2013-06-07,54.754602,-6.609212
+411370,The Waterwall Bar,5,0,0,5,2014-01-31,54.865184,-6.525661
+411371,The Wild Hog,3,10,5,10,2013-11-30,,
+411372,The Wine Sellers,Exempt,nan,nan,nan,2013-09-06,54.755907,-6.607878
+411373,Three Spires Ltd,5,5,5,5,2014-08-01,54.766659,-6.613988
+411374,Tillie Cunningham,5,5,5,0,2012-08-11,,
+411375,Time Out,5,5,5,5,2013-12-06,54.798683,-6.779302
+411376,Tirgan Community Association,5,0,5,5,2013-08-09,54.73772,-6.699703
+411377,Tobermore Primary School Meals Kitchen,5,0,0,0,2012-12-03,54.815015,-6.7031
+411378,Tobertinys Community Playgroup,5,0,0,0,2014-11-18,54.810659,-6.704018
+411379,Today's Express,4,0,0,10,2013-09-05,54.754975,-6.603374
+411380,Todays Local S M Filling Station,4,0,5,10,2013-04-26,54.911166,-6.662509
+411381,Toners,4,nan,nan,nan,2014-08-18,54.778303,-6.558618
+411382,Toners,4,10,5,5,2014-06-30,54.793984,-6.781932
+411383,Toners Nisa Extra Maghera,1,5,5,20,2014-10-03,54.845508,-6.672622
+411384,Uncle Bills Sweets,5,5,5,5,2014-08-07,54.754045,-6.612369
+411385,Upperlands Coffee Company,5,0,0,0,2013-11-07,,
+411386,Village Store,4,0,5,10,2013-08-19,54.872143,-6.636057
+411387,Viva Cafe,4,10,0,5,2014-06-19,54.754045,-6.612369
+411388,Vivo Essentials,5,5,5,5,2014-10-09,54.869294,-6.507567
+411389,Vivo Foodstores,1,5,0,20,2013-10-09,54.769928,-6.672565
+411390,Walsh's Hotel,3,10,10,10,2014-02-26,54.844123,-6.671624
+411391,Watty Grahams GAC,1,15,0,20,2014-03-25,54.84689,-6.676624
+411392,Wee Buns And Cakes,5,0,0,5,2013-08-16,,
+411393,Wilma's Plaice,5,5,5,5,2013-08-07,54.778303,-6.558618
+411394,Wolfe Tones GAC,5,5,5,5,2014-05-13,54.806251,-6.516813
+411395,Xl Stop And Shop,5,5,5,5,2011-11-22,54.845521,-6.680358
+411396,Xtravision,5,5,0,5,2011-11-29,54.755119,-6.610453
+411397,Zara,1,15,15,20,2014-05-19,54.754508,-6.608874

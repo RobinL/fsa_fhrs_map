@@ -1,591 +1,591 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-190993,165 Burnley Road,Bacup,,,1 Stop Loco,Retailers - other,4613,10,,628280,5,,53.72388600000000,7033,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19817600000000,OL13 8QE,2014-01-23,fhrs_4_en-GB,4,,FHRS,5
-190994,Scout Headquarters,Burnley Road,Bacup,,2nd Rossendale Scout Group,Restaurant/Cafe/Canteen,1,5,,118318,5,,53.70564100000000,4764,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20284700000000,OL13 8AE,2010-07-05,fhrs_5_en-GB,5,,FHRS,5
-190995,6B Ormerod Street,Rawtenstall,Lancashire,,A  Right Royal Tea Party,Retailers - other,4613,0,,551866,5,,53.70294700000000,7000,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28528300000000,BB4 8EB,2013-05-15,fhrs_5_en-GB,5,,FHRS,0
-190996,603 Market Street,Whitworth,Lancashire,,A J Nuttall (Chemists),Retailers - other,4613,,,88343,,,53.66123100000000,231,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17397200000000,OL12 8QS,2011-01-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-190997,84 Bank Street,Rossendale,Lancashire,,A Y News,Retailers - other,4613,10,,465277,10,,53.70390900000000,5906,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28538000000000,BB4 8EG,2013-02-08,fhrs_3_en-GB,3,,FHRS,10
-190998,Old Clough,Bacup,Lancashire,,Abba Care Home,Hospitals/Childcare/Caring Premises,5,5,,84251,0,,53.72986900000000,2091,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19453700000000,OL13 8RA,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-190999,Burnley Road,Loveclough,Rawtenstall,,Abbeycroft Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,90106,0,,53.73474300000000,244,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28684700000000,BB4 8QL,2014-02-09,fhrs_5_en-GB,5,,FHRS,5
-191000,Burnley Road,Bacup,Lancashire,,Aged Blind and Disabled Centre,Other catering premises,7841,,,143650,,,53.70418600000000,812,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20232500000000,OL13 8AB,2010-08-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-191001,Calder Road,Rossendale,Lancashire,,Alder Grange Community & Technology School (Kitchen),Restaurant/Cafe/Canteen,1,0,,89069,0,,53.70830500000000,2367,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28489500000000,BB4 8HW,2012-02-22,fhrs_5_en-GB,5,,FHRS,0
-191002,Haslingden Road,Rawtenstall,Lancashire,,All Saints Catholic Language College,School/college/university,7845,0,,137600,0,,53.69739300000000,726,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30678200000000,BB4 6SJ,2011-11-28,fhrs_5_en-GB,5,,FHRS,0
-191003,Holcombe Road,Helmshore,,,Anacapri at The White Horse,Restaurant/Cafe/Canteen,1,5,,664542,5,,53.68089500000000,7052,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33209700000000,BB4 4LU,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-191004,Roundhill Road,Haslingden,Lancashire,,Anar Kali,Restaurant/Cafe/Canteen,1,10,,559685,10,,53.71998000000000,7007,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33707200000000,BB4 5TU,2013-06-06,fhrs_3_en-GB,3,,FHRS,10
-191005,Huttock Top Farm,Newchurch Old Road,Bacup,,Animal Quackers,Restaurant/Cafe/Canteen,1,5,,107022,5,,53.69770600000000,3758,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20712600000000,OL13 8HS,2014-08-04,fhrs_5_en-GB,5,,FHRS,5
-191006,142 Market Street,Whitworth,,,Annabellas,Other catering premises,7841,10,,696034,5,,53.65227500000000,7071,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17656800000000,OL12 8SZ,2014-08-13,fhrs_4_en-GB,4,,FHRS,5
-191007,1 Broadway Crescent,"Haslingden, Rossendale",Lancashire,,Annando,Takeaway/sandwich shop,7844,5,,197831,5,,53.69058700000000,5313,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32773600000000,BB4 4HW,2013-08-28,fhrs_4_en-GB,4,,FHRS,10
-191008,Fallbarn Road,Rossendale,Lancashire,,Annie Peaches Tearooms,Restaurant/Cafe/Canteen,1,5,,121509,5,,53.69967200000000,5021,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27917200000000,BB4 7NX,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-191009,Lower Mill,St Mary's Way,Rawtenstall,,Asda,Retailers - supermarkets/hypermarkets,7840,0,,101760,5,,53.70403200000000,3342,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28636500000000,BB4 8EL,2013-03-20,fhrs_5_en-GB,5,,FHRS,0
-191010,Lower Mill,St Mary's Way,Rawtenstall,,Asda Cafe (Compass Group (Eurest)),Restaurant/Cafe/Canteen,1,0,,101767,0,,53.69436900000000,3343,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29420500000000,BB4 6DL,2011-11-15,fhrs_5_en-GB,5,,FHRS,0
-191011,26 Crow Woods,"Ramsbottom, Edenfield, Bury",Lancashire,,Ash Cottage,Hospitals/Childcare/Caring Premises,5,5,,145805,5,,53.67960800000000,874,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30568400000000,BL0 0HY,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-191012,Turnpike Newchurch Road,Waterfoot,,,Ashlands Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,719390,5,,53.69783700000000,7085,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25117000000000,BB4 9DU,2014-11-14,fhrs_5_en-GB,5,,FHRS,5
-191013,255A Bacup Road,Rossendale,Lancashire,,Ashoka,Restaurant/Cafe/Canteen,1,5,,125392,5,,53.70059900000000,5389,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27464900000000,BB4 7PA,2013-07-04,fhrs_5_en-GB,5,,FHRS,5
-191014,526 Market Street,"Whitworth, Rochdale",Lancashire,,Ashoka,Takeaway/sandwich shop,7844,5,,87114,5,,53.66036800000000,224,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17440800000000,OL12 8QW,2014-06-16,fhrs_5_en-GB,5,,FHRS,5
-191015,325 Bacup Road,Rossendale,Lancashire,,Ashworth Arms Hotel,Pub/bar/nightclub,7843,5,,113996,5,,53.70059900000000,43,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27464900000000,BB4 7PA,2012-10-22,fhrs_4_en-GB,4,,FHRS,10
-191016,,,,,Auntie B's Cakes,Other catering premises,7841,5,,409901,5,,,5747,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191017,361 Rochdale Road,Bacup,Lancashire,,Azaan Tandoori Take-away,Takeaway/sandwich shop,7844,10,,102096,5,,53.69106900000000,3371,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18171300000000,OL13 9TH,2013-07-16,fhrs_4_en-GB,4,,FHRS,5
-191018,Blackburn Road,"Haslingden, Rossendale",Lancashire,,Azam Services (Texaco),Retailers - other,4613,0,,143001,0,,53.70640700000000,801,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32754100000000,BB4 5QG,2010-05-01,fhrs_5_en-GB,5,,FHRS,0
-191019,Bocholt Way,Rossendale,Lancashire,,B & M Retail Ltd,Retailers - supermarkets/hypermarkets,7840,0,,444742,5,,53.70009500000000,5832,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28633900000000,BB4 7NL,2012-10-30,fhrs_5_en-GB,5,,FHRS,0
-191020,1220 Burnley Road,Loveclough,Lancashire,,B Riley & Sons,Retailers - other,4613,10,,132517,5,,53.74273200000000,645,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28386900000000,BB4 8RG,2014-10-07,fhrs_4_en-GB,4,,FHRS,5
-191021,5 Pleasant Street,"Haslingden,",Rossendale,,Babolli Pizza House,Takeaway/sandwich shop,7844,5,,124033,5,,53.70499300000000,525,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32528800000000,BB4 5LG,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-191022,Glen Road,Waterfoot,Lancashire,,Bacup and Rawtenstall Grammar,Restaurant/Cafe/Canteen,1,0,,110139,5,,53.69344100000000,399,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24741800000000,BB4 7BJ,2014-04-30,fhrs_5_en-GB,5,,FHRS,0
-191023,Cowtoot Lane,Bacup,Lancashire,,Bacup Borough Football Club,Pub/bar/nightclub,7843,10,,78762,5,,53.70832700000000,1882,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19816400000000,OL13 8EE,2012-10-05,fhrs_3_en-GB,3,,FHRS,10
-191024,7 Rochdale Road,Bacup,Lancashire,,Bacup Chippy,Takeaway/sandwich shop,7844,5,,126142,5,,53.70176400000000,550,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19922400000000,OL13 9NW,2014-11-12,fhrs_4_en-GB,4,,FHRS,10
-191025,Lanehead Lane,Bacup,Lancashire,,Bacup Cricket Supporters Club,Pub/bar/nightclub,7843,0,,111066,5,,53.70501500000000,406,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20099600000000,OL13 9BT,2013-09-10,fhrs_5_en-GB,5,,FHRS,5
-191026,74-80 Pennine Road,Bacup,Lancashire,,Bacup Family Centre,Restaurant/Cafe/Canteen,1,5,,209148,5,,53.70078600000000,2343,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19273600000000,OL13 9JP,2012-01-24,fhrs_5_en-GB,5,,FHRS,5
-191027,Maden Road,Bacup,Lancashire,,Bacup Golf Club,Pub/bar/nightclub,7843,5,,132220,5,,53.70183600000000,64,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20464700000000,OL13 8HN,2014-08-27,fhrs_4_en-GB,4,,FHRS,10
-191028,Burnley Road,Bacup,Lancashire,,Bacup Hub,Restaurant/Cafe/Canteen,1,5,,84237,5,,53.70564100000000,209,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20284700000000,OL13 8AE,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191029,19 St. James Street,Bacup,Lancashire,,Bacup News,Retailers - other,4613,,,128055,,,53.70275200000000,578,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19998600000000,OL13 9NJ,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191030,166 Bacup Road,Rawtenstall,Lancashire,,Bacup Road Resource and Recovery Centre,Restaurant/Cafe/Canteen,1,0,,139362,0,,53.70059900000000,75,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27464900000000,BB4 7PA,2011-06-16,fhrs_5_en-GB,5,,FHRS,0
-191031,Linden Lea,Rawtenstall,"Rossendale, Lancashire",,Balladen CP Out of School Club,Other catering premises,7841,0,,85940,5,,53.69310800000000,2179,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29157700000000,BB4 6DX,2011-06-16,fhrs_5_en-GB,5,,FHRS,0
-191032,Linden Lea,Rawtenstall,Lancashire,,Balladen CP School,School/college/university,7845,0,,136315,0,,53.86120605468750,706,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.56927990913391,BB4 6DX,2012-01-24,fhrs_5_en-GB,5,,FHRS,5
-191033,232A Newchurch Road,Stacksteads,Bacup,,Ballys Bites,Restaurant/Cafe/Canteen,1,5,,504589,5,,53.69284697000000,5977,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21739091000000,0L13 0UE,2013-04-24,fhrs_5_en-GB,5,,FHRS,5
-191034,King Georges Chambers,St. James Square,Bacup,,Bammys,Takeaway/sandwich shop,7844,5,,108251,5,,53.70354100000000,3856,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20114100000000,OL13 9AA,2014-07-28,fhrs_5_en-GB,5,,FHRS,5
-191035,45A Bank Street,Rossendale,Lancashire,,Bank Street News,Retailers - other,4613,,,108331,,,53.70331700000000,3862,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28449700000000,BB4 7QN,2012-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-191036,214 Newchurch Road,Bacup,Lancashire,,Barearts Beers,Retailers - other,4613,5,,197832,5,,53.69281900000000,5504,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21593000000000,OL13 0TS,2013-04-22,fhrs_5_en-GB,5,,FHRS,5
-191037,Stall 3 Rawtenstall Market,Newchurch Road,Rawtenstall,,Barlows,Restaurant/Cafe/Canteen,1,5,,395838,5,,53.69882965087891,5727,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29227995872498,,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-191038,264 Market Street,Whitworth,,,Basil's,Restaurant/Cafe/Canteen,1,0,,504587,0,,53.65493500000000,5891,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17677600000000,OL12 8PW,2013-02-12,fhrs_5_en-GB,5,,FHRS,0
-191039,326 Newchurch Road,Bacup,Lancashire,,Beaconsfield Conservative Club,Pub/bar/nightclub,7843,5,,119783,5,,53.69152100000000,489,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22779600000000,OL13 0LD,2012-10-22,fhrs_4_en-GB,4,,FHRS,10
-191040,Hurstdale House Crankshaw Street,Rawtenstall,,,Bear Buddies,Hospitals/Childcare/Caring Premises,5,5,,733046,5,,53.70523200000000,7092,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28413100000000,BB4 7SH,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-191041,Plantation Mill,Flip Road,Haslingden,,Beau's,Restaurant/Cafe/Canteen,1,5,,395826,5,,53.70341300000000,5684,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33436500000000,BB4 5EJ,2014-03-09,fhrs_5_en-GB,5,,FHRS,5
-191042,83 Eden Avenue,"Ramsbottom, Edenfield, Bury",Lancashire,,Bed and Breakfast,Hotel/bed & breakfast/guest house,7842,0,,102041,0,,53.66769500000000,3366,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30744400000000,BL0 0LD,2012-10-22,fhrs_5_en-GB,5,,FHRS,0
-191043,Cloughfold Cp School,Peel Street,Rossendale,,Belmont Primary School (Kitchen),School/college/university,7845,0,,125962,0,,53.69948600000000,5464,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26984000000000,BB4 7LJ,2011-12-08,fhrs_5_en-GB,5,,FHRS,5
-191044,Haslingden Road,Rossendale,,,Belmont School,School/college/university,7845,5,,112865,5,,53.69906900000000,420,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30179600000000,BB4 6RX,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-191045,238 Bacup Road,Rossendale,Lancashire,,Ben's Sandwich Bar,Takeaway/sandwich shop,7844,0,,125655,5,,53.69833000000000,5419,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26840900000000,BB4 7LG,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-191046,Market Street,Whitworth,,,Berni Inn,Other catering premises,7841,10,,587073,5,,53.66658200000000,7015,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17175500000000,OL12 8DN,2013-08-28,fhrs_4_en-GB,4,,FHRS,0
-191047,4 Deardengate,"Haslingden, Rossendale",Lancashire,,Big Lamp Chippy,Takeaway/sandwich shop,7844,5,,101684,5,,53.70580200000000,3336,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32534000000000,BB4 5QJ,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-191048,7 Market Street,"Ramsbottom, Edenfield, Bury",Lancashire,,Bizzy Plaice,Restaurant/Cafe/Canteen,1,0,,94277,0,,53.67022600000000,2747,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30528300000000,BL0 0JQ,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-191049,2 Blackburn Road,"Haslingden, Rossendale",Lancashire,,Black Bull Hotel,Pub/bar/nightclub,7843,10,,92459,5,,53.70552700000000,2604,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32715600000000,BB4 5QQ,2011-06-16,fhrs_4_en-GB,4,,FHRS,5
-191050,13 Bacup Road,Rossendale,Lancashire,,Blossom,Restaurant/Cafe/Canteen,1,5,,101186,5,,53.70054300000000,3296,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28717500000000,BB4 7NG,2013-07-04,fhrs_5_en-GB,5,,FHRS,5
-191051,Vale Street,Bacup,Lancashire,,"Blossoms Private Day Nursery Ltd.,",Hospitals/Childcare/Caring Premises,5,0,,101528,5,,53.70505600000000,3324,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19381000000000,0L13 9EL,2014-08-05,fhrs_5_en-GB,5,,FHRS,5
-191052,1 Old Street,Rossendale,Lancashire,,Blue Bell,Pub/bar/nightclub,7843,5,,101412,5,,53.69742400000000,3315,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25128900000000,BB4 9EA,2012-04-12,fhrs_4_en-GB,4,,FHRS,10
-191053,69 Church Street,"Newchurch, Rossendale",Lancashire,,Boars Head,Pub/bar/nightclub,7843,5,,122156,5,,53.69802100000000,5072,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25339800000000,BB4 9EH,2013-08-01,fhrs_4_en-GB,4,,FHRS,10
-191054,161 Bacup Road,"Rawtenstall, Rossendale",Lancashire,,Boots Uk Limited,Retailers - other,4613,,,120010,,,53.70862700000000,4909,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29928200000000,BB4 7NU,,fhrs_exempt_en-GB,Exempt,,FHRS,
-191055,Ashday Lea Lodge,Haslingden Road,Rossendale,,Bradshaw Catering Limited,Pub/bar/nightclub,7843,5,,131908,5,,53.69951400000000,635,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29239300000000,BB4 6QX,2013-09-06,fhrs_5_en-GB,5,,FHRS,0
-191056,21 Union Street,Bacup,Lancashire,,Brians of Bacup,Retailers - other,4613,5,,124013,5,,53.70242700000000,5248,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2013-07-25,fhrs_4_en-GB,4,,FHRS,10
-191057,33 Burnley Road East,Rossendale,Lancashire,,Bricknell's Sweets,Retailers - other,4613,,,123364,,,53.69373600000000,5182,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25253900000000,BB4 9AG,2014-05-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-191058,Helmshore Road,"Helmshore, Rossendale",Lancashire,,Bridge End Hotel,Pub/bar/nightclub,7843,5,,144800,5,,53.68496900000000,843,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33116000000000,BB4 4LQ,2010-07-28,fhrs_5_en-GB,5,,FHRS,5
-191059,Rochdale Road,Bacup,Lancashire,,Britannia C P School,School/college/university,7845,0,,144436,0,,53.69234700000000,831,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18100700000000,OL13 9TS,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-191060,355 Rochdale Road,Bacup,Lancashire,,Britannia Chippy,Takeaway/sandwich shop,7844,5,,126460,5,,53.69106900000000,555,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18171300000000,OL13 9TH,2014-01-29,fhrs_5_en-GB,5,,FHRS,5
-191061,359 Rochdale Road,Britannia,Bacup,,Britannia Post Office,Retailers - other,4613,5,,704362,5,,53.69106900000000,7072,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18171300000000,OL13 9TH,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-191062,13 Burnley Road East,Rossendale,Lancashire,,British Red Cross Shop,Restaurant/Cafe/Canteen,1,,,84133,,,53.69373600000000,2082,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25253900000000,BB4 9AG,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191063,Meadows Avenue,Bacup,Lancashire,,Broadclough Lodge,Hospitals/Childcare/Caring Premises,5,5,,102124,5,,53.71069300000000,3373,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20235600000000,OL13 8DF,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191064,13 Broadway Crescent,Helmshore,Rossendale,,Broadway Bites,Takeaway/sandwich shop,7844,5,,81517,0,,53.69058700000000,199,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32773600000000,BB4 4HW,2013-05-20,fhrs_5_en-GB,5,,FHRS,5
-191065,Broadway,Haslingden,Lancashire,,Broadway CP School (kitchen),School/college/university,7845,0,,137054,0,,53.69165420532230,717,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31867337226868,BB4 4EH,2014-06-20,fhrs_5_en-GB,5,,FHRS,5
-191066,Rawtenstall Station,Bury Road,Rossendale,,Buffer Stops,Restaurant/Cafe/Canteen,1,5,,529996,5,,53.69831400000000,6096,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29090100000000,BB4 6AG,2013-06-19,fhrs_5_en-GB,5,,FHRS,5
-191067,51 Burnley Road,Rawtenstall,Lancashire,,Bumba's Grill,Restaurant/Cafe/Canteen,1,5,,292031,5,,53.70627800000000,5636,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28700200000000,BB4 8EW,2013-11-20,fhrs_4_en-GB,4,,FHRS,10
-191068,2-8 Todmorden Road,Bacup,Lancashire,,Burwood Residential Care Home Ltd,Hospitals/Childcare/Caring Premises,5,0,,148157,0,,53.70456100000000,926,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19835800000000,OL13 9BN,2015-01-16,fhrs_5_en-GB,5,,FHRS,0
-191069,Cowtoot Lane,Bacup,,,Buttercups Club Limited (Bacup Nursery School),Hospitals/Childcare/Caring Premises,5,0,,395830,0,,53.70723000000000,5699,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19862800000000,OL13 8EF,2014-05-13,fhrs_5_en-GB,5,,FHRS,0
-191070,30 Warner Street,"Haslingden, Rossendale",Lancashire,,Butties 2 Buffets,Restaurant/Cafe/Canteen,1,0,,123926,5,,53.70371700000000,5236,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32523300000000,BB4 5SJ,2014-04-28,fhrs_5_en-GB,5,,FHRS,5
-191071,Glentop Works Newchurch Road,Stacksteads,,,C & T Street Food,Mobile caterer,7846,5,,647257,5,,53.69136800000000,7037,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24142500000000,OL13 0NW,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-191072,26 Bury Road,Rossendale,Lancashire,,Cafe Artisan,Restaurant/Cafe/Canteen,1,5,,101704,5,,53.70016300000000,3338,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28794500000000,BB4 6AA,2013-02-20,fhrs_5_en-GB,5,,FHRS,5
-191073,Musbury Mill Shop,Holcombe Road,Rossendale,,Cafe Tor,Restaurant/Cafe/Canteen,1,0,,107012,5,,53.68945300000000,3757,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33817600000000,BB4 4NP,2014-06-16,fhrs_5_en-GB,5,,FHRS,5
-191074,Unitarian Church Bank Street,Rawtenstall,,,CafÃ© Yes,Restaurant/Cafe/Canteen,1,5,,621191,5,,53.70249700000000,7026,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28574900000000,BB4 7QY,2013-12-19,fhrs_4_en-GB,4,,FHRS,10
-191075,23 Deardengate,Haslingden,,,Caffe Aroma,Restaurant/Cafe/Canteen,1,5,,628275,5,,53.70570200000000,7028,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32574800000000,BB4 5QN,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-191076,,,,,Cake A Day,Other catering premises,7841,10,,551868,0,,,7002,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2013-05-15,fhrs_4_en-GB,4,,FHRS,5
-191077,Knowsley Road,"Haslingden,",Rossendale,,Camfil Ltd,Restaurant/Cafe/Canteen,1,0,,53440,0,,53.69254500000000,1204,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32187600000000,BB4 4EG,2011-06-16,fhrs_5_en-GB,5,,FHRS,0
-191078,24 Blackburn Road,"Haslingden, Rossendale",Lancashire,,Capanna,Takeaway/sandwich shop,7844,10,,73482,10,,53.70552700000000,169,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32715600000000,BB4 5QQ,2014-02-25,fhrs_3_en-GB,3,,FHRS,10
-191079,Stall 6 Rawtenstall Market,Newchurch Road,Rossendale,,Carol's Cooked Meats,Retailers - other,4613,0,,86077,0,,53.70419600000000,2189,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2013-01-17,fhrs_5_en-GB,5,,FHRS,5
-191080,93-95 Bacup Road,Rossendale,Lancashire,,Casa Tapas,Restaurant/Cafe/Canteen,1,5,,86675,5,,53.70083900000000,2213,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27989100000000,BB4 7NW,2013-06-26,fhrs_5_en-GB,5,,FHRS,5
-191081,Burnley Road,Bacup,Lancashire,,Central Methodist Church Hall,Other catering premises,7841,5,,140211,10,,53.70418600000000,763,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20232500000000,OL13 8AB,2012-10-22,fhrs_4_en-GB,4,,FHRS,5
-191082,247 Burnley Road East,Waterfoot,Lancashire,,Chadwick's Orig Bury Black Pud,Retailers - other,4613,5,,99612,5,,53.70061700000000,316,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24986900000000,BB4 9HU,2012-02-27,fhrs_5_en-GB,5,,FHRS,5
-191083,609 Burnley Road,Rawtenstall,Lancashire,,Chan's Take Away,Takeaway/sandwich shop,7844,0,,96256,0,,53.72654100000000,291,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28542700000000,BB4 8AN,2011-11-17,fhrs_5_en-GB,5,,FHRS,5
-191084,305 Market Street,"Shawforth, Rochdale",Lancashire,,Chapel Chippy,Takeaway/sandwich shop,7844,5,,123914,5,,53.68164600000000,5234,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.16526000000000,OL12 8HF,2013-02-27,fhrs_5_en-GB,5,,FHRS,5
-191085,Cherry Crescent,Rossendale,Lancashire,,Cherry Crescent Centre,Hospitals/Childcare/Caring Premises,5,,,103883,,,53.69436900000000,351,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29420500000000,BB4 6DL,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191086,226-228 Bury Road,Rawtenstall,Lancashire,,Cherry Tree Lodge Ltd,Hospitals/Childcare/Caring Premises,5,5,,145615,5,,53.69496100000000,868,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29442100000000,BB4 6DJ,2014-03-06,fhrs_5_en-GB,5,,FHRS,0
-191087,32 Manchester Road,Haslingden,Rossendale,,Chesters Chicken,Takeaway/sandwich shop,7844,10,,409905,10,,53.70442800000000,5761,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32482900000000,BB4 5ST,2014-02-25,fhrs_3_en-GB,3,,FHRS,10
-191088,23 Manchester Road,Haslingden,,,Chicago's,Takeaway/sandwich shop,7844,10,,612378,5,,53.70394300000000,7023,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32475000000000,BB4 5SL,2013-11-26,fhrs_4_en-GB,4,,FHRS,5
-191089,Stall 81 Newchurch Road,Rossendale,Lancashire,,Chicken Fayre,Retailers - other,4613,5,,86533,10,,53.70419600000000,2203,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2014-09-18,fhrs_3_en-GB,3,,FHRS,10
-191090,19 Union Street,Bacup,Lancashire,,Chixys Chicken,Takeaway/sandwich shop,7844,20,,123906,10,,53.70242700000000,5233,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2015-01-08,fhrs_1_en-GB,1,,FHRS,15
-191091,546 Burnley Road,Crawshawbooth,Rawtenstall,,Cinnamon Tree,Takeaway/sandwich shop,7844,10,,133967,5,,53.72363100000000,670,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28790800000000,BB4 8NE,2014-09-02,fhrs_4_en-GB,4,,FHRS,5
-191092,30 Deardengate,"Haslingden,",Rossendale,,Cissy Greens,Retailers - other,4613,5,,106849,5,,53.70580200000000,374,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32534000000000,BB4 5QJ,2014-09-17,fhrs_4_en-GB,4,,FHRS,10
-191093,Haslingden Old Road,Rossendale,Lancashire,,Classic Tastes Cafe,Restaurant/Cafe/Canteen,1,0,,395832,5,,53.70347800000000,5701,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29611700000000,BB4 8RR,2013-03-14,fhrs_5_en-GB,5,,FHRS,5
-191094,Grane Road,"Haslingden,",Lancashire,,Clough Head Cafe,Restaurant/Cafe/Canteen,1,5,,86065,5,,53.70288800000000,2188,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.35750600000000,BB4 4AT,2013-08-02,fhrs_5_en-GB,5,,FHRS,5
-191095,272-276 Bacup Road,Rossendale,Lancashire,,Cloughfold Conservative Club,Pub/bar/nightclub,7843,5,,145363,5,,53.69833000000000,86,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26840900000000,BB4 7LG,2011-01-17,fhrs_5_en-GB,5,,FHRS,5
-191096,163 Market Street,Ramsbottom,Edenfield,,Coach and Horses,Pub/bar/nightclub,7843,5,,67609,0,,53.67384600000000,151,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30611100000000,BL0 0HJ,2013-01-04,fhrs_5_en-GB,5,,FHRS,0
-191097,Cockhall Lane,"Whitworth, Rochdale",Lancashire,,Cock & Magpie,Pub/bar/nightclub,7843,0,,529997,5,,53.66298700000000,6113,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17783900000000,OL12 8BQ,2013-05-23,fhrs_5_en-GB,5,,FHRS,5
-191098,Stall 6 Bacup Market,Union Street,Bacup,,Cockshott Greengrocers,Retailers - other,4613,5,,55134,10,,53.70242700000000,1244,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2012-10-22,fhrs_4_en-GB,4,,FHRS,5
-191099,Helmshore Mills Textile Museum,Helmshore,,,Coffee Mill CafÃ©,Restaurant/Cafe/Canteen,1,5,,657035,5,,53.68945300000000,7050,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33817600000000,BB4 4NP,2014-04-22,fhrs_5_en-GB,5,,FHRS,0
-191100,11 Manchester Road,Haslingden,,,Cohens Chemist,Retailers - other,4613,,,119399,,,53.70394300000000,4859,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32475000000000,BB4 5SL,,fhrs_exempt_en-GB,Exempt,,FHRS,
-191101,278 Newchurch Road,Bacup,Lancashire,,Cohens Chemist,Retailers - other,4613,,,116607,,,53.69164600000000,458,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22343600000000,OL13 0UJ,2010-11-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-191102,1 Manchester Road,"Haslingden, Rossendale",Lancashire,,Commercial Hotel,Pub/bar/nightclub,7843,10,,444747,5,,53.70394300000000,70,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32475000000000,BB4 5SL,2012-10-22,fhrs_4_en-GB,4,,FHRS,5
-191103,Hollin Lane,Rawtenstall,Lancashire,,Constable Lee School (Kitchen),School/college/university,7845,0,,136142,0,,53.70983500000000,703,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28795000000000,BB4 8HT,2012-09-20,fhrs_5_en-GB,5,,FHRS,5
-191104,Irwell Street,Bacup,Lancashire,,Co-op Food Market,Retailers - supermarkets/hypermarkets,7840,0,,139518,0,,53.70205000000000,752,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20022500000000,OL13 0AD,2012-01-25,fhrs_5_en-GB,5,,FHRS,5
-191105,1 John Street,Haslingden,Lancashire,,Co-op Late Shop,Retailers - supermarkets/hypermarkets,7840,0,,143376,0,,53.70642600000000,807,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32708700000000,BB4 5QB,2011-10-25,fhrs_5_en-GB,5,,FHRS,5
-191106,695 Bacup Road,Rossendale,Lancashire,,Co-op Late Shop,Retailers - supermarkets/hypermarkets,7840,5,,148986,5,,53.69248000000000,95,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25566600000000,BB4 7HB,2012-02-16,fhrs_5_en-GB,5,,FHRS,5
-191107,Thorneylea,"Whitworth, Rochdale",Lancashire,,Co-op Late Shop,Retailers - supermarkets/hypermarkets,7840,0,,114369,0,,53.66097200000000,434,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17251900000000,OL12 8QY,2013-08-12,fhrs_5_en-GB,5,,FHRS,5
-191108,24a Park Road,Waterfoot,,,Coppice Cakes,Retailers - other,4613,0,,733045,5,,53.69535100000000,7091,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24512700000000,BB4 9BW,2015-01-19,fhrs_5_en-GB,5,,FHRS,5
-191109,24 Park Road,Waterfoot,"Rossendale, Lancashire",,Coppice Store,Takeaway/sandwich shop,7844,10,,102011,10,,53.69535100000000,3362,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24512800000000,BB4 9BW,2012-01-24,fhrs_3_en-GB,3,,FHRS,5
-191110,721 Bacup Road,Waterfoot,,,Cordeys Craft Bakers,Retailers - other,4613,5,,628274,5,,53.69228800000000,7027,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25271200000000,BB4 7EU,2013-12-03,fhrs_5_en-GB,5,,FHRS,5
-191111,40 Bank Street,Rawtenstall,,,Cordey's Craft Bakers,Retailers - other,4613,5,,612377,5,,53.70266900000000,7022,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28509900000000,BB4 8DY,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-191112,Stall 21/22,Bacup Market,"Union Street, Bacup.",,Corner Cafe,Restaurant/Cafe/Canteen,1,5,,122718,0,,53.70242700000000,5117,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2013-01-17,fhrs_5_en-GB,5,,FHRS,0
-191113,532 Burnley Road,Rawtenstall,Lancashire,,Cottage Bakery,Retailers - other,4613,5,,94203,5,,53.72363100000000,274,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28790800000000,BB4 8NE,2013-03-25,fhrs_5_en-GB,5,,FHRS,5
-191114,47 Bank Street,Rossendale,Lancashire,,Country Garden,Retailers - other,4613,0,,57163,5,,53.70331700000000,129,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28449700000000,BB4 7QN,2011-03-02,fhrs_5_en-GB,5,,FHRS,5
-191115,Cowpe Road,Rossendale,Lancashire,,Cowpe Sunday School,Restaurant/Cafe/Canteen,1,,,105362,,,53.68680200000000,362,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25015000000000,BB4 7DQ,2011-03-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-191116,11a Loveclough Fold,Rossendale,Lancashire,,CPA Social Club,Pub/bar/nightclub,7843,0,,129342,0,,53.74171400000000,60,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28833500000000,BB4 8QT,2013-01-17,fhrs_5_en-GB,5,,FHRS,0
-191117,264-266 Burnley Road,Rawtenstall,Lancashire,,Craven Heifer,Pub/bar/nightclub,7843,0,,93992,0,,53.71472400000000,272,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29183200000000,BB4 8LA,2011-03-02,fhrs_5_en-GB,5,,FHRS,5
-191118,Burnley Road,Crawshawbooth.,Rawtenstall,,Crawshaw Hall Medical Centre & Nursing Home,Hospitals/Childcare/Caring Premises,5,10,,90654,5,,53.72141700000000,248,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28942400000000,BB4 8LZ,2014-07-02,fhrs_4_en-GB,4,,FHRS,5
-191119,Adelaide Street,Crawshawbooth,Lancashire,,Crawshawbooth Community Centre,Restaurant/Cafe/Canteen,1,5,,84378,5,,53.72515800000000,21,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28484200000000,BB4 8PW,2011-06-28,fhrs_5_en-GB,5,,FHRS,5
-191120,554 Burnley Road,Rawtenstall,Lancashire,,Crawshawbooth Fish and Chips,Takeaway/sandwich shop,7844,5,,94622,5,,53.72363100000000,278,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28790800000000,BB4 8NE,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-191121,Burnley Road,Crawshawbooth,Lancashire,,Crawshawbooth Primary School,School/college/university,7845,0,,136774,0,,53.72654100000000,712,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28542700000000,BB4 8AN,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-191122,Haslingden Road,Rossendale,Lancashire,,Cribden House School (Kitchen),School/college/university,7845,5,,114997,0,,53.69906900000000,441,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30179600000000,BB4 6RX,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-191123,Alden Road,Rossendale,Lancashire,,Cronkshaw Fold Farm,Restaurant/Cafe/Canteen,1,10,,108378,0,,53.67520000000000,3865,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.34042300000000,BB4 4AQ,2010-06-14,fhrs_4_en-GB,4,,FHRS,10
-191124,21 St. James Street,Bacup,Lancashire,,D & A Gregory & Sons,Retailers - other,4613,5,,128110,5,,53.70275200000000,579,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19998600000000,OL13 9NJ,2014-07-16,fhrs_5_en-GB,5,,FHRS,5
-191125,6 Blackburn Road,Haslingden,Rossendale,,D.T. Law Butchers Ltd,Retailers - other,4613,5,,72441,10,,53.70552700000000,165,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32715600000000,BB4 5QQ,2014-03-11,fhrs_4_en-GB,4,,FHRS,5
-191126,45 Helmshore Road,"Haslingden, Rossendale",Lancashire,,Danesmoor,Hospitals/Childcare/Caring Premises,5,10,,121674,10,,53.69883300000000,5033,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32634600000000,BB4 4BW,2014-10-10,fhrs_3_en-GB,3,,FHRS,10
-191127,12 Deardengate,Haslingden,,,Dearden Tea Rooms,Restaurant/Cafe/Canteen,1,5,,711627,5,,53.70580200000000,7079,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32534000000000,BB4 5QJ,2014-10-10,fhrs_5_en-GB,5,,FHRS,0
-191128,1104 Burnley Road East,Rossendale,Lancashire,,Deb's Snack Bar,Mobile caterer,7846,5,,125670,5,,53.72657100000000,5420,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24294500000000,BB4 9PX,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-191129,10 Heald Lane,Weir,Lancashire,,Deerplay Rest Home,Hospitals/Childcare/Caring Premises,5,5,,148763,5,,53.72554200000000,942,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19653200000000,OL13 8QN,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-191130,711 Bacup Road,Waterfoot,,,Dixy Chicken,Takeaway/sandwich shop,7844,20,,704363,10,,53.69228800000000,7073,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25271200000000,BB4 7EU,2014-09-04,fhrs_1_en-GB,1,,FHRS,10
-191131,103-105 Bank Street,Rossendale,Lancashire,,Do Dah's,Restaurant/Cafe/Canteen,1,5,,101657,5,,53.70331700000000,3334,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28449700000000,BB4 7QN,2014-06-19,fhrs_4_en-GB,4,,FHRS,10
-191132,Burnley Road,Bacup,Lancashire,,Doals Community Centre,Other catering premises,7841,5,,124451,5,,53.72700400000000,5297,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19817600000000,OL13 8RW,2011-10-27,fhrs_5_en-GB,5,,FHRS,0
-191133,2 Meadway,"Ramsbottom, Bury",Lancashire,,Donuts,Mobile caterer,7846,,,94268,,,53.65889000000000,2746,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31618700000000,BL0 0PN,2011-11-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-191134,701 Bacup Road,Rossendale,Lancashire,,Duke of Buccleugh,Pub/bar/nightclub,7843,5,,197829,5,,53.69248000000000,5524,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25566600000000,BB4 7HB,2012-07-03,fhrs_5_en-GB,5,,FHRS,5
-191135,Market Street,Ramsbottom,Edenfield,,Edenfield CoE CP School (Kitchen),School/college/university,7845,0,,135882,0,,53.67466500000000,698,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30564800000000,BL0 0HL,2011-01-17,fhrs_5_en-GB,5,,FHRS,0
-191136,Exchange Street,"Edenfield,",Lancashire,,Edenfield Community Centre,Other catering premises,7841,,,146376,,,53.66872900000000,891,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31043300000000,BL0 0QH,2010-05-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-191137,Gincroft Lane,Edenfield,Rossendale,,Edenfield Cricket Club,Pub/bar/nightclub,7843,0,,109933,5,,53.66970100000000,398,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30317500000000,BL0 0JW,2012-09-06,fhrs_5_en-GB,5,,FHRS,0
-191138,Edgeside Lane,Waterfoot,Rossendale,,Edgeside Baptist Church,Other catering premises,7841,,,108873,,,53.70241600000000,391,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24526000000000,BB4 9TR,2012-04-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-191139,37 Crabtree Avenue,Rossendale,Lancashire,,Edgeside Stores,Retailers - other,4613,5,,102800,5,,53.70074200000000,3425,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24593100000000,BB4 9TD,2011-11-15,fhrs_5_en-GB,5,,FHRS,5
-191140,Holme Bank,Rawtenstall,,,Educare Nursery,School/college/university,7845,0,,122040,0,,53.69744800000000,506,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29190900000000,BB4 6HJ,2014-07-30,fhrs_5_en-GB,5,,FHRS,5
-191141,,,,,Enticed Cakes,Other catering premises,7841,5,,733047,5,,,7093,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2015-01-29,fhrs_5_en-GB,5,,FHRS,0
-191142,Syke Street,Haslingden,Lancashire,,Eurest (Tesco),Restaurant/Cafe/Canteen,1,0,,91196,0,,53.69388000000000,2509,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31664600000000,BB4 6LY,2012-07-03,fhrs_5_en-GB,5,,FHRS,0
-191143,Station Court,"New Hall Hey Road, Rawtenstall","Rossendale, Lancashire",,Family Bargains,Retailers - supermarkets/hypermarkets,7840,0,,355577,0,,53.69843900000000,5673,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29100800000000,BB4 6AJ,2012-11-05,fhrs_5_en-GB,5,,FHRS,5
-191144,218 Newchurch Road,Bacup,Lancashire,,Farholme Tavern,Pub/bar/nightclub,7843,5,,144951,5,,53.69281900000000,847,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21593000000000,OL13 0TS,2012-10-22,fhrs_4_en-GB,4,,FHRS,10
-191145,Fearns Moss,Bacup,Lancashire,,Fearns High School (kitchen),School/college/university,7845,0,,135305,0,,53.69548800000000,689,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.23954000000000,OL13 0TG,2011-09-28,fhrs_5_en-GB,5,,FHRS,5
-191146,Queens Square,Rossendale,Lancashire,,Fire Station,Restaurant/Cafe/Canteen,1,5,,124278,5,,53.69996300000000,528,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28911000000000,BB4 6AB,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191147,56/58 Bury Road,Rawtenstall,,,Fizzy Bits,Restaurant/Cafe/Canteen,1,5,,621190,5,,53.69831400000000,7025,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29090100000000,BB4 6AG,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-191148,275A Helmshore Road,Haslingden,Rossendale,,Flaxmoss Chippy,Takeaway/sandwich shop,7844,0,,117839,5,,53.69489300000000,471,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32763300000000,BB4 4DJ,2013-05-23,fhrs_5_en-GB,5,,FHRS,5
-191149,198 Burnley Road,Rossendale,Lancashire,,Flying Start Nursery,Hospitals/Childcare/Caring Premises,5,5,,40857,5,,53.70898600000000,1018,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28952000000000,BB4 8HH,2014-08-11,fhrs_4_en-GB,4,,FHRS,10
-191150,12 Pleasant Street,"Haslingden,",Lancashire,,Foresters Arms,Pub/bar/nightclub,7843,5,,131063,5,,53.70499300000000,624,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32528800000000,BB4 5LG,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191151,725 Bacup Road,Rossendale,Lancashire,,Forshaw Newsagents,Retailers - other,4613,,,41016,,,53.69228800000000,102,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25271200000000,BB4 7EU,2010-10-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-191152,8 Bury Road,Rossendale,Lancashire,,Freddys Fried Chicken,Takeaway/sandwich shop,7844,5,,119000,5,,53.70016300000000,4828,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28794500000000,BB4 6AA,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-191153,253 Burnley Road East,Rossendale,Lancashire,,Freds Grocers,Retailers - other,4613,5,,99743,5,,53.70061700000000,317,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24986900000000,BB4 9HU,2011-06-14,fhrs_5_en-GB,5,,FHRS,5
-191154,452 Market Street,"Shawforth,",Lancashire,,Freehold Cottage,Hospitals/Childcare/Caring Premises,5,5,,79663,5,,53.68615600000000,192,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.16698900000000,OL12 8JB,2013-01-17,fhrs_5_en-GB,5,,FHRS,0
-191155,16 King Street,Bacup,,,Gabriella's,Restaurant/Cafe/Canteen,1,10,,704364,5,,53.62951400000000,7074,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.15241500000000,OL12 0AH,2014-09-11,fhrs_4_en-GB,4,,FHRS,5
-191156,Stubbins Lane,"Ramsbottom, Bury",Lancashire,,Georgia Pacific (Dine Limited),Restaurant/Cafe/Canteen,1,5,,99840,10,,53.65727500000000,3179,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31844400000000,BL0 0NH,2014-02-20,fhrs_4_en-GB,4,,FHRS,5
-191157,375 Bury Road,Rossendale,Lancashire,,Gillies Pies,Other catering premises,7841,5,,90487,5,,53.69271300000000,2467,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29847900000000,BB4 6EH,2013-11-06,fhrs_5_en-GB,5,,FHRS,5
-191158,17 Market Street,Edenfield,"Bury, Lancashire",,Golden Kitchen Chinese Takeaway,Takeaway/sandwich shop,7844,5,,144498,5,,53.67022600000000,833,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30528300000000,BL0 0JQ,2013-07-24,fhrs_5_en-GB,5,,FHRS,5
-191159,Gaghills Road,Waterfoot,Lancashire,,Good as Gold Child Care Centre,Hospitals/Childcare/Caring Premises,5,0,,40714,0,,53.69457700000000,1016,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24993900000000,BB4 9BB,2013-08-20,fhrs_5_en-GB,5,,FHRS,5
-191160,101 Deardengate,Haslingden,,,Great Wall,Takeaway/sandwich shop,7844,10,,636432,10,,53.70425400000000,7036,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32620600000000,BB4 5SN,2014-02-26,fhrs_3_en-GB,3,,FHRS,5
-191161,Greenfield Gardens,"Haslingden,",Rossendale,,Greenfield Gardens Bowling Centre,Pub/bar/nightclub,7843,5,,123398,5,,53.70290900000000,5186,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32507500000000,BB4 4BE,2011-03-28,fhrs_5_en-GB,5,,FHRS,0
-191162,39 Deardengate,"Haslingden,",Rossendale,,Greenfields,Retailers - other,4613,5,,107042,5,,53.70570200000000,376,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32574800000000,BB4 5QN,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191163,Greenfield Street,Rossendale,Lancashire,,Greenfields Nursery Ltd,School/college/university,7845,0,,150367,0,,53.70491700000000,980,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28822000000000,BB4 8JW,2014-07-01,fhrs_5_en-GB,5,,FHRS,5
-191164,Cribden Side,Haslingden,Lancashire,,Greenhouse Farm Nursery Ltd,School/college/university,7845,5,,55927,5,,53.71923300000000,1263,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31754900000000,BB4 5UB,2014-03-10,fhrs_5_en-GB,5,,FHRS,5
-191165,43 Deardengate,"Haslingden,",Rossendale,,Greggs,Retailers - other,4613,0,,107172,0,,53.70570200000000,377,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32574800000000,BB4 5QN,2013-02-07,fhrs_5_en-GB,5,,FHRS,5
-191166,53 Bank Street,Rossendale,Lancashire,,Greggs,Retailers - other,4613,0,,146991,0,,53.70331700000000,905,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28449700000000,BB4 7QN,2013-01-17,fhrs_5_en-GB,5,,FHRS,0
-191167,Myrtle Earth Farm,Edge Lane,Rossendale,,Gregsons,Mobile caterer,7846,0,,110182,0,,53.70274600000000,3993,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26716500000000,BB4 7SS,2015-01-12,fhrs_5_en-GB,5,,FHRS,0
-191168,84-86 Hudrake,"Haslingden, Rossendale",Lancashire,,Griffin Inn,Pub/bar/nightclub,7843,10,,144702,5,,53.71096500000000,840,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32397100000000,BB4 5AF,2011-09-15,fhrs_3_en-GB,3,,FHRS,10
-191169,719 Bacup Road,Waterfoot,"Rossendale, Lancashire",,H. Trickett & Co. Butchers,Retailers - other,4613,0,,36794,0,,53.69228800000000,100,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25271200000000,BB4 7EU,2015-01-20,fhrs_5_en-GB,5,,FHRS,5
-191170,37 Burnley Road,Rawtenstall,,,Halal Food Store,Retailers - other,4613,10,,657026,5,,53.70630400000000,7041,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28706300000000,BB4 8EW,2014-04-03,fhrs_3_en-GB,3,,FHRS,10
-191171,2 Meadow Cottages,Whitworth,,,Halfway Chippy,Takeaway/sandwich shop,7844,10,,89048,5,,53.66835400000000,2365,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17085400000000,OL12 8LH,2014-04-07,fhrs_4_en-GB,4,,FHRS,5
-191172,755-757 Market Street,"Whitworth, Rochdale",Lancashire,,Halfway House,Pub/bar/nightclub,7843,5,,82024,5,,53.66925300000000,200,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17076700000000,OL12 8LS,2010-10-25,fhrs_5_en-GB,5,,FHRS,5
-191173,31 Market Street,Bacup,,,Happy Garden,Takeaway/sandwich shop,7844,5,,679137,5,,53.70209300000000,7058,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20134600000000,OL13 0AJ,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-191174,628 Blackburn Road,"Rising Bridge,",Lancashire,,Happy Valley,Takeaway/sandwich shop,7844,5,,100878,0,,53.72587000000000,3268,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33260300000000,BB5 2SB,2012-10-01,fhrs_5_en-GB,5,,FHRS,0
-191175,76 Burnley Road,Bacup,Lancashire,,Happy Valley Takeaway,Takeaway/sandwich shop,7844,0,,88594,5,,53.70564100000000,233,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20284700000000,OL13 8AE,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-191176,Newchurch Road,Bacup,Lancashire,,Hare & Hounds,Pub/bar/nightclub,7843,10,,132814,5,,53.69205000000000,650,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.23302400000000,OL13 0NB,2011-07-11,fhrs_4_en-GB,4,,FHRS,5
-191177,910 Burnley Road East,"Lumb, Rossendale",Lancashire,,Hargreaves Arms,Pub/bar/nightclub,7843,5,,572102,5,,53.71928100000000,7008,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24796400000000,BB4 9PQ,2013-07-03,fhrs_5_en-GB,5,,FHRS,5
-191178,Clod Lane,Haslingden,Rossendale,,Haslingden Cricket Club,Pub/bar/nightclub,7843,5,,71391,5,,53.69284300000000,162,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31456300000000,BB4 6LX,2013-03-22,fhrs_5_en-GB,5,,FHRS,5
-191179,30 Manchester Road,Haslingden,Rossendale,,Haslingden Food Store,Retailers - other,4613,10,,444733,5,,53.70442800000000,5790,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32482900000000,BB4 5ST,2012-07-19,fhrs_4_en-GB,4,,FHRS,5
-191180,Lancaster Avenue,"Haslingden, Rossendale",Lancashire,,Haslingden Hall and Lodge Care Home,Hospitals/Childcare/Caring Premises,5,5,,101605,0,,53.69176800000000,3330,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32648800000000,BB4 4HP,2014-03-03,fhrs_5_en-GB,5,,FHRS,5
-191181,Broadway,"Haslingden,",Rossendale,,Haslingden High School(Kitchen),School/college/university,7845,0,,135256,0,,53.68943023681641,688,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32030725479126,BB4 4EY,2013-01-17,fhrs_5_en-GB,5,,FHRS,5
-191182,Ryefield Avenue,Haslingden,"Rossendale,",,Haslingden Primary School,School/college/university,7845,0,,137107,0,,53.70213000000000,718,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32397800000000,BB4 4BJ,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-191183,Manchester Road,Haslingden,,,Haslingden Service Station,Retailers - other,4613,5,,50408,5,,53.70201000000000,1123,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32149300000000,BB4 6NP,2012-04-30,fhrs_5_en-GB,5,,FHRS,5
-191184,Ryefield Avenue,Haslingden,,,Haslingden Space Ltd,School/college/university,7845,5,,587074,5,,53.70213000000000,7016,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32397800000000,BB4 4BJ,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-191185,14-18 Blackburn Road,"Haslingden, Rossendale",Lancashire,,Haslingden Superstore,Retailers - other,4613,10,,395839,10,,53.70552700000000,5736,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32715600000000,BB4 5QQ,2014-11-26,fhrs_2_en-GB,2,,FHRS,15
-191186,7 Regent Street,"Haslingden,",Rossendale,,Haslingden Trades Club,Pub/bar/nightclub,7843,5,,53750,5,,53.70694000000000,121,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32669700000000,BB4 5HQ,2011-03-02,fhrs_4_en-GB,4,,FHRS,10
-191187,24 Bury Road,"Haslingden, Rossendale",Lancashire,,Hayhurst Bakery,Retailers - other,4613,5,,144169,5,,53.70584300000000,824,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32350700000000,BB4 5PL,2015-01-16,fhrs_4_en-GB,4,,FHRS,10
-191188,Woodlea Road,Waterfoot,Lancashire,,Healey Care,Hospitals/Childcare/Caring Premises,5,10,,144468,5,,53.69374000000000,832,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25058500000000,BB4 7BD,2013-07-30,fhrs_4_en-GB,4,,FHRS,5
-191189,Market Street,"Whitworth, Rochdale",Lancashire,,Healey Conservative Club,Pub/bar/nightclub,7843,0,,81222,5,,53.64124300000000,198,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17863900000000,OL12 8RW,2012-10-22,fhrs_5_en-GB,5,,FHRS,0
-191190,1 Oakenshaw Avenue,Whitworth.,Rossendale,,Healey House,Hospitals/Childcare/Caring Premises,5,0,,124475,0,,53.64766500000000,530,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17965200000000,0L12 8ST,2012-08-09,fhrs_5_en-GB,5,,FHRS,5
-191191,103 Market Street,"Whitworth, Rochdale",Lancashire,,Healey Off Licence,Retailers - other,4613,,,101086,,,53.64234600000000,3286,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18033800000000,OL12 8SE,2010-06-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-191192,Top Barn Lane,Rossendale,Lancashire,,Hedgehog Club - Staghills Childrens Centre,School/college/university,7845,0,,93311,5,,53.69727500000000,2675,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25786100000000,BB4 7UE,2014-08-06,fhrs_5_en-GB,5,,FHRS,0
-191193,Newchurch Road,Rossendale,Lancashire,,Heightside House Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,120025,5,,53.69939400000000,491,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25891900000000,BB4 9HG,2014-05-27,fhrs_4_en-GB,4,,FHRS,10
-191194,Rhodes Avenue,Rossendale,Lancashire,,Helmshore Pre-School Group,Other catering premises,7841,,,51420,,,53.68757000000000,1152,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33013500000000,BB4 4JS,2011-06-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-191195,Helmshore Cp School,Gregory Fold,Rossendale,,Helmshore Primary School (Kitchen),School/college/university,7845,5,,125008,5,,53.68938000000000,5350,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33198200000000,BB4 4JW,2013-03-26,fhrs_5_en-GB,5,,FHRS,5
-191196,47 Burnley Road,Rawtenstall,Lancashire,,Heng Ju,Takeaway/sandwich shop,7844,10,,91972,5,,53.70627800000000,257,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28700200000000,BB4 8EW,2013-07-03,fhrs_4_en-GB,4,,FHRS,5
-191197,5 Bank Street,Rossendale,Lancashire,,Herbal Health,Retailers - other,4613,,,50300,,,53.70137100000000,112,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28668100000000,BB4 6QS,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191198,26 Burnley Road,Bacup,Lancashire,,Heritage Kitchen Range of Preserves,Retailers - other,4613,5,,103596,5,,53.70418600000000,3489,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20232500000000,OL13 8AB,2011-01-17,fhrs_5_en-GB,5,,FHRS,5
-191199,425 Newchurch Road,Rossendale,Lancashire,,Higher Cloughfold General Store,Retailers - other,4613,5,,209154,5,,53.70232800000000,5584,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27337300000000,BB4 7SU,2013-10-28,fhrs_5_en-GB,5,,FHRS,5
-191200,Grane Road,"Haslingden,",Rossendale,,Highfield Hall Care Home,Hospitals/Childcare/Caring Premises,5,10,,110820,0,,53.69909400000000,404,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33302800000000,BB4 5ES,2014-12-02,fhrs_4_en-GB,4,,FHRS,10
-191201,Cedar Avenue,Haslingden,Rossendale,,Hillside Nursery School,School/college/university,7845,0,,55850,0,,53.70516700000000,1261,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31757900000000,BB4 5NH,2011-11-15,fhrs_5_en-GB,5,,FHRS,0
-191202,Crankshaw Street,Rossendale,Lancashire,,Hillview Care Centre,Hospitals/Childcare/Caring Premises,5,5,,125804,5,,53.70466900000000,5437,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28320400000000,BB4 7RA,2014-11-07,fhrs_5_en-GB,5,,FHRS,5
-191203,312 Grane Road,Haslingden,Rossendale,,Holden Arms,Pub/bar/nightclub,7843,5,,66877,5,,53.69857700000000,15,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33771900000000,BB4 4PB,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-191204,Grane Road,"Haslingden,",Lancashire,,Holden Wood Tearooms,Restaurant/Cafe/Canteen,1,5,,107458,5,,53.69938000000000,3794,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.34004300000000,BB4 4PD,2013-03-12,fhrs_5_en-GB,5,,FHRS,5
-191205,Church Street,Bacup,Lancashire,,Hollybank House,Hospitals/Childcare/Caring Premises,5,5,,87778,5,,53.69271300000000,2281,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22451700000000,OL13 0RW,2011-09-27,fhrs_5_en-GB,5,,FHRS,5
-191206,Holme Lane,Rawtenstall,,,Holme Manor Residential Home,Hospitals/Childcare/Caring Premises,5,5,,141084,5,,53.69334200000000,774,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30230000000000,BB4 6JB,2014-08-28,fhrs_4_en-GB,4,,FHRS,10
-191207,Booth Road,Bacup,Lancashire,,Holy Trinity CP (Kitchen),School/college/university,7845,0,,136209,0,,53.69337100000000,704,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22371700000000,OL13 0QP,2014-06-16,fhrs_5_en-GB,5,,FHRS,0
-191208,548 Burnley Road,Crawshawbooth,Lancashire,,Home Made Fayre,Retailers - other,4613,10,,89007,10,,53.72363100000000,2362,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28790800000000,BB4 8NE,2015-01-12,fhrs_3_en-GB,3,,FHRS,10
-191209,Stall 14 Rawtenstall Market,Rawtenstall,,,Home Made Fayre,Retailers - other,4613,10,,657033,5,,53.70419600000000,7048,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2014-04-24,fhrs_4_en-GB,4,,FHRS,5
-191210,46 Burnley Road East,Rossendale,Lancashire,,Hong Kong,Takeaway/sandwich shop,7844,5,,292030,5,,53.69314100000000,5618,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25320200000000,BB4 9AF,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-191211,Lomas Lane,Rossendale,Lancashire,,Horncliffe Mount Farm Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,5,,101989,5,,53.68847100000000,3360,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29128700000000,BB4 6HU,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191212,10 Bury Road,"Haslingden,",Lancashire,,Howards Meat Market,Retailers - other,4613,0,,101240,0,,53.70584300000000,330,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32350700000000,BB4 5PL,2011-07-11,fhrs_5_en-GB,5,,FHRS,5
-191213,,,,,I Love Lucy Cupcakes,Other catering premises,7841,,,109425,,,,3953,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2012-04-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-191214,2a Rochdale Road,Bacup,Lancashire,,Icing On The Cake,Retailers - other,4613,5,,515703,0,,53.70210600000000,6074,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19908900000000,OL13 9NZ,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-191215,91 Bacup Road,Rossendale,Lancashire,,Ilex Chippy,Takeaway/sandwich shop,7844,5,,56537,5,,53.70083900000000,1279,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27989100000000,BB4 7NW,2013-08-22,fhrs_5_en-GB,5,,FHRS,5
-191216,43 Burnley Road East,Waterfoot,,,Indian Kitchen,Takeaway/sandwich shop,7844,5,,628279,5,,53.69364600000000,7032,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25258400000000,BB4 9AG,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-191217,Broadway,"Haslingden, Rossendale",Lancashire,,Interfloor,Restaurant/Cafe/Canteen,1,5,,355580,5,,53.69260025024414,784,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31833219528198,BB4 4LS,2013-04-26,fhrs_5_en-GB,5,,FHRS,5
-191218,George Street,"Haslingden,",Rossendale,,Irish Democratic Club,Pub/bar/nightclub,7843,5,,109712,5,,53.70720700000000,397,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32419900000000,BB4 5RX,2012-10-22,fhrs_5_en-GB,5,,FHRS,0
-191219,Burnley Road,Bacup,Lancashire,,Irwell Inn,Pub/bar/nightclub,7843,5,,85275,5,,53.70823700000000,214,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20366300000000,OL13 8DB,2012-11-23,fhrs_4_en-GB,4,,FHRS,10
-191220,7 Broadway Crescent,"Haslingden, Rossendale",Lancashire,,Its All Good,Retailers - other,4613,5,,145717,5,,53.69058700000000,871,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32773600000000,BB4 4HW,2011-01-17,fhrs_5_en-GB,5,,FHRS,5
-191221,Stall 28 Rawtenstall Market,Newchurch Road,Rawtenstall,,J & R 's Biscuit Bar,Retailers - other,4613,5,,86178,5,,53.70419600000000,2195,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2012-10-22,fhrs_4_en-GB,4,,FHRS,10
-191222,Blackburn Road,Haslingden,,,J J's at Winfields,Restaurant/Cafe/Canteen,1,5,,664545,5,,53.72105000000000,7055,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32392700000000,BB4 5DD,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-191223,216 Newchurch Road,Stacksteads,Bacup,,J&G Sandwich and Confectioners,Retailers - other,4613,5,,93032,5,,53.69281900000000,265,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21593000000000,OL13 0TS,2015-01-28,fhrs_5_en-GB,5,,FHRS,5
-191224,20 Newchurch Road,Rossendale,Lancashire,,J. J. Cooked Meats,Retailers - other,4613,10,,113416,5,,53.70419600000000,4246,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2014-10-22,fhrs_4_en-GB,4,,FHRS,5
-191225,9 St. James Street,Bacup,Lancashire,,J.D. Discount Store,Retailers - supermarkets/hypermarkets,7840,,,90452,,,53.70275200000000,2464,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19998600000000,OL13 9NJ,2011-03-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-191226,597 Market Street,"Whitworth, Rochdale",Lancashire,,Jans,Restaurant/Cafe/Canteen,1,10,,123755,10,,53.66123100000000,5217,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17397200000000,OL12 8QS,2014-05-15,fhrs_3_en-GB,3,,FHRS,10
-191227,26 Top Barn Lane,Rossendale,Lancashire,,Jasmine House,Takeaway/sandwich shop,7844,5,,128649,5,,53.69727500000000,588,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25786100000000,BB4 7UE,2013-03-22,fhrs_5_en-GB,5,,FHRS,5
-191228,93 Manchester Road,"Haslingden,",Lancashire,,Jesters,Retailers - other,4613,,,145064,,,53.70156100000000,85,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32144500000000,BB4 6NT,2010-06-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-191229,Lee Road,Bacup,Lancashire,,JJO Works Canteen,Restaurant/Cafe/Canteen,1,10,,119890,5,,53.69138300000000,49,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20948700000000,OL13 0EA,2011-12-01,fhrs_3_en-GB,3,,FHRS,10
-191230,Lee Road,Bacup,Lancashire,,JJO Works Canteen,Restaurant/Cafe/Canteen,1,5,,504590,5,,53.69138300000000,5979,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20948700000000,OL13 0EA,2013-04-18,fhrs_5_en-GB,5,,FHRS,5
-191231,24 Burnley Road East,Waterfoot,"Rossendale, Lancashire",,Jo-Jo's,Takeaway/sandwich shop,7844,10,,97866,10,,53.69314100000000,306,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25320200000000,BB4 9AF,2013-11-12,fhrs_2_en-GB,2,,FHRS,15
-191232,739 Market Street,"Whitworth, Rochdale",Lancashire,,Joshua Law Traditional Family Butchers,Retailers - other,4613,10,,125635,5,,53.66775200000000,5414,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17056400000000,OL12 8LD,2014-10-14,fhrs_4_en-GB,4,,FHRS,0
-191233,1 Jubilee Road,"Haslingden,",Lancashire,,Jubilee Stores,Retailers - other,4613,,,101225,,,53.69883500000000,33,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33240500000000,BB4 5EU,2014-10-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-191234,26 Burnley Road East,Rossendale,Lancashire,,Juns Kitchen,Takeaway/sandwich shop,7844,10,,86618,10,,53.69314100000000,2209,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25320200000000,BB4 9AF,2014-07-23,fhrs_3_en-GB,3,,FHRS,10
-191235,4-6 Union Street,Bacup,Lancashire,,Just Wot U Need Ltd,Retailers - supermarkets/hypermarkets,7840,5,,139318,5,,53.70242700000000,749,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2010-05-01,fhrs_5_en-GB,5,,FHRS,5
-191236,,,,,K.W. Meats,Retailers - other,4613,10,,54467,5,,,1228,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2013-01-31,fhrs_4_en-GB,4,,FHRS,0
-191237,Kay Street,Rawtenstall,Lancashire,,Kay Street Baptist Church,Restaurant/Cafe/Canteen,1,0,,103738,0,,53.70156600000000,35,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28377400000000,BB4 7LS,2013-10-03,fhrs_5_en-GB,5,,FHRS,0
-191238,,,,,Kelly's Condiments,Other catering premises,7841,5,,515704,5,,,6083,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2013-04-29,fhrs_5_en-GB,5,,FHRS,5
-191239,12 Springfield Road,Rossendale,,,Keva Cup Cakes,Retailers - other,4613,5,,110401,5,,53.70862700000000,4009,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29928200000000,BB4 7US,2012-10-22,fhrs_5_en-GB,5,,FHRS,0
-191240,149 Cherry Crescent,Rossendale,Lancashire,,Keys Child Care,Hospitals/Childcare/Caring Premises,5,,,54363,,,53.69198200000000,1226,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29272000000000,BB4 6DS,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191241,Royds Road,Bacup,Lancashire,,Kimberley Workings Mens Club,Pub/bar/nightclub,7843,5,,101775,10,,53.68911400000000,3344,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.23585400000000,OL13 0PF,2010-06-30,fhrs_3_en-GB,3,,FHRS,10
-191242,241 Burnley Road East,Rossendale,Lancashire,,kiran,Takeaway/sandwich shop,7844,5,,147304,5,,53.70061700000000,915,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24986900000000,BB4 9HU,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-191243,125 Blackburn Road,"Haslingden, Rossendale",Lancashire,,La Veranda,Restaurant/Cafe/Canteen,1,5,,144137,5,,53.70875600000000,823,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32633200000000,BB4 5HL,2014-08-28,fhrs_4_en-GB,4,,FHRS,10
-191244,52 Deardengate,Haslingden,,,Lagaan,Restaurant/Cafe/Canteen,1,10,,719387,5,,53.70425400000000,7082,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32620600000000,BB4 5SN,2014-11-05,fhrs_4_en-GB,4,,FHRS,5
-191245,1 Vale Mill Court,Edenfield,Bury.,,Lancashire Black Puddings,Retailers - other,4613,0,,103660,0,,53.67623700000000,3494,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30585600000000,BL0 0GY,2012-11-14,fhrs_5_en-GB,5,,FHRS,0
-191246,Unit 2 Taylors Court,Todd Hall Road,"Haslingden, Rossendale",,Lancashire Farm Foods Limited,Distributors/Transporters,7,5,,98095,0,,53.70733000000000,3078,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33195700000000,BB4 5LA,2011-11-24,fhrs_5_en-GB,5,,FHRS,5
-191247,Stubbins Vale Road,Ramsbottom,,,Lavender Hills Care Home,Hospitals/Childcare/Caring Premises,5,10,,688369,10,,53.66302900000000,7063,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32152900000000,BL0 0NP,2014-07-09,fhrs_3_en-GB,3,,FHRS,5
-191248,Bacup Road,Rossendale,Lancashire,,Lidl Supermarket,Retailers - supermarkets/hypermarkets,7840,0,,112715,0,,53.70009500000000,4189,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28633900000000,BB4 7NL,2010-05-18,fhrs_5_en-GB,5,,FHRS,0
-191249,282 Bolton Road North,"Ramsbottom, Bury",Lancashire,,Lisa Jane Cakes,Retailers - other,4613,5,,126002,0,,53.65834400000000,5472,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31527500000000,BL0 0NG,2012-01-09,fhrs_5_en-GB,5,,FHRS,5
-191250,3 Irwell Street,Bacup,Lancashire,,Lloyds Pharmacy,Retailers - other,4613,,,102967,,,53.70213594000000,3439,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20002564000000,0L13 0AD,2007-10-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-191251,Rochdale Road,Bacup,,,Lloyds Pharmacy,Retailers - other,4613,,,90506,,,53.70459900000000,2468,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19971600000000,OL13 9AL,,fhrs_exempt_en-GB,Exempt,,FHRS,
-191252,"The Rake,Lobden",Whitworth,Lancashire,,Lobden Golf Club,Pub/bar/nightclub,7843,5,,123577,5,,53.65322300000000,52,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.16740300000000,OL12 8XJ,2010-11-11,fhrs_5_en-GB,5,,FHRS,5
-191253,Bacup Road,Waterfoot,Rossendale,,Lords of Rossendale,Retailers - other,4613,0,,142399,0,,53.69322500000000,791,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26036500000000,BB4 7JE,2010-11-11,fhrs_5_en-GB,5,,FHRS,5
-191254,Unit 2 Springbank Mill,Mill Street,Whitworth,,Lord's The Caterers Limited,Other catering premises,7841,5,,124238,5,,53.66063100000000,5275,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17272900000000,OL12 8QP,2014-08-07,fhrs_5_en-GB,5,,FHRS,5
-191255,Commercial Street,Loveclough,Rossendale,,Loveclough Working Mens Social Club,Pub/bar/nightclub,7843,5,,61318,5,,53.74054900000000,1346,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28725100000000,BB4 8QX,2010-06-30,fhrs_5_en-GB,5,,FHRS,5
-191256,70 Burnley Road,Bacup,Lancashire,,Lucky Garden,Takeaway/sandwich shop,7844,5,,101436,5,,53.70564100000000,3317,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20284700000000,OL13 8AE,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-191257,Burnley Road East,Rossendale,Lancashire,,Lumb Valley Residential Home,Hospitals/Childcare/Caring Premises,5,10,,97113,10,,53.71928100000000,300,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24796400000000,BB4 9PQ,2014-11-28,fhrs_3_en-GB,3,,FHRS,10
-191258,30 St. James Street,Bacup,Lancashire,,Lyn's Cafe,Restaurant/Cafe/Canteen,1,5,,90729,5,,53.70275200000000,2484,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19998600000000,OL13 9NJ,2014-08-06,fhrs_4_en-GB,4,,FHRS,10
-191259,28 Top Barn Lane,Rossendale,Lancashire,,M & M Stores,Retailers - other,4613,5,,83816,10,,53.69727500000000,2064,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25786100000000,BB4 7UE,2012-01-24,fhrs_3_en-GB,3,,FHRS,10
-191260,Stall 9-11 Rawtenstall Market,Rawtenstall,,,M Smithies,Retailers - other,4613,5,,733043,5,,53.70419500000000,7089,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28203400000000,BB4 7QX,2015-01-15,fhrs_4_en-GB,4,,FHRS,10
-191261,,,,,Ma Beans,Other catering premises,7841,5,,444744,5,,,5834,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2012-07-30,fhrs_5_en-GB,5,,FHRS,0
-191262,617 Burnley Road,Rawtenstall,Lancashire,,Mad Hatters,Restaurant/Cafe/Canteen,1,5,,124501,5,,53.72654100000000,5302,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28542700000000,BB4 8AN,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-191263,462 Newchurch Road,Stacksteads,Lancashire,,Maddys Sandwich Shop,Other catering premises,7841,0,,587070,5,,53.69205000000000,7012,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.23302400000000,OL13 0NB,2013-09-04,fhrs_5_en-GB,5,,FHRS,5
-191264,The Maden Centre,Rochdale Road,Bacup,,Maden Early Years,Hospitals/Childcare/Caring Premises,5,5,,209147,0,,53.70210600000000,5565,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19908900000000,OL13 9NZ,2014-10-20,fhrs_5_en-GB,5,,FHRS,5
-191265,Rawtenstall Market Newchurch Road,Rawtenstall,,,Madhatters Cupcake Delights,Retailers - other,4613,5,,664543,5,,53.70419600000000,7053,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-191266,33 Beaconsfield Street,"Haslingden, Rossendale",Lancashire,,Man Lung,Takeaway/sandwich shop,7844,5,,123381,5,,53.70426100000000,5184,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32355600000000,BB4 5TD,2014-06-20,fhrs_4_en-GB,4,,FHRS,10
-191267,Manchester Road,"Haslingden,",Rossendale,,Manchester Road Methodist Church,Restaurant/Cafe/Canteen,1,5,,110210,5,,53.70394300000000,3996,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32475000000000,BB4 5SL,2011-11-04,fhrs_5_en-GB,5,,FHRS,5
-191268,17 Union Street,Bacup,Lancashire,,Mannings,Retailers - other,4613,5,,129623,5,,53.70242700000000,605,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2015-01-15,fhrs_4_en-GB,4,,FHRS,10
-191269,282 Newchurch Road,Bacup,Lancashire,,Mannings,Retailers - other,4613,5,,115247,5,,53.69164600000000,444,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22343600000000,OL13 0UJ,2013-02-21,fhrs_5_en-GB,5,,FHRS,5
-191270,33 Deardengate,"Haslingden,",Lancashire,,Mannings,Retailers - other,4613,5,,106940,10,,53.70570200000000,375,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32574800000000,BB4 5QN,2014-07-08,fhrs_4_en-GB,4,,FHRS,5
-191271,6-8 Kay Street,Rossendale,Lancashire,,Mannings,Retailers - other,4613,0,,83886,0,,53.70156600000000,2069,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28377400000000,BB4 7LS,2012-01-24,fhrs_5_en-GB,5,,FHRS,0
-191272,75 Burnley Road East,Rossendale,Lancashire,,Mannings,Retailers - other,4613,0,,98892,5,,53.69539200000000,312,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25126100000000,BB4 9AR,2013-06-04,fhrs_5_en-GB,5,,FHRS,5
-191273,99 Bank Street,Rossendale,Lancashire,,Mannings,Retailers - other,4613,5,,64629,5,,53.70331700000000,144,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28449700000000,BB4 7QN,2014-11-11,fhrs_4_en-GB,4,,FHRS,10
-191274,74 Market Street,Bacup,Lancashire,,Mario's Ristorante,Restaurant/Cafe/Canteen,1,5,,89520,5,,53.70032300000000,2398,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20085300000000,OL13 0AT,2014-04-25,fhrs_4_en-GB,4,,FHRS,10
-191275,65A Bank Street,Rawternstall,Lancashire,,Mark Harrison Butchers,Retailers - other,4613,5,,559684,0,,53.70062600000000,7006,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28226800000000,BB4 7NQ,2015-01-08,fhrs_5_en-GB,5,,FHRS,0
-191276,Market Street,Bacup,,,Market Street Filling Station,Retailers - other,4613,0,,142560,0,,53.69786000000000,794,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20091700000000,OL13 0AZ,2010-08-03,fhrs_5_en-GB,5,,FHRS,0
-191277,11 Market Street,Ramsbottom,Edenfield,,Market Street News,Retailers - other,4613,,,62805,,,53.67022600000000,139,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30528300000000,BL0 0JQ,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191278,11 Market Street,Edenfield,,,Market Street News,Retailers - other,4613,5,,657025,5,,53.67022600000000,7040,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30528300000000,BL0 0JQ,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-191279,Newchurch Road,Rossendale,Lancashire,,Marl Pits Swimming Baths,Restaurant/Cafe/Canteen,1,0,,143595,0,,53.70272300000000,811,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27342100000000,BB4 7SN,2013-01-17,fhrs_5_en-GB,5,,FHRS,5
-191280,254 Burnley Road East,Waterfoot,,,Mason Arms,Pub/bar/nightclub,7843,5,,688368,5,,53.70059100000000,7062,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24983800000000,BB4 9HU,2014-07-07,fhrs_5_en-GB,5,,FHRS,5
-191281,Gladstone Street,Bacup,,,McColls,Retailers - other,4613,5,,657028,5,,53.70325100000000,7043,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19708000000000,OL13 9JZ,2014-04-07,fhrs_5_en-GB,5,,FHRS,5
-191282,Blackburn Road,"Rising Bridge,",Lancashire,,McDonald's Restaurant Ltd.,Restaurant/Cafe/Canteen,1,0,,74955,0,,53.72587000000000,174,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33260300000000,BB5 2SB,2014-05-28,fhrs_5_en-GB,5,,FHRS,0
-191283,97 Deardengate,"Haslingden,",Rossendale,,Mega Bite,Takeaway/sandwich shop,7844,5,,107962,5,,53.70425400000000,383,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32620600000000,BB4 5SN,2013-12-18,fhrs_5_en-GB,5,,FHRS,5
-191284,35-37 Deardengate,"Haslingden, Rossendale",Lancashire,,Mega Chill,Retailers - other,4613,10,,452268,10,,53.70570200000000,5878,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32574800000000,BB4 5QN,2012-10-23,fhrs_4_en-GB,4,,FHRS,0
-191285,14 Manchester Road,Haslingden,Lancashire,,Mels Cafe,Restaurant/Cafe/Canteen,1,10,,101125,5,,53.70442800000000,3290,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32482900000000,BB4 5ST,2013-08-01,fhrs_4_en-GB,4,,FHRS,5
-191286,36 Manchester Road,"Haslingden, Rossendale",Lancashire,,Millon Indian Takeaway,Takeaway/sandwich shop,7844,10,,142917,5,,53.70442800000000,80,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32482900000000,BB4 5ST,2014-01-16,fhrs_3_en-GB,3,,FHRS,10
-191287,7 Bacup Road,Rossendale,Lancashire,,Mi-Mi's,Takeaway/sandwich shop,7844,10,,135361,5,,53.70054300000000,69,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28717500000000,BB4 7NG,2014-02-18,fhrs_4_en-GB,4,,FHRS,5
-191288,20 Blackburn Road,"Haslingden, Rossendale",Lancashire,,Mings Chinese Take-Away,Takeaway/sandwich shop,7844,5,,73241,5,,53.70552700000000,168,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32715600000000,BB4 5QQ,2014-09-03,fhrs_5_en-GB,5,,FHRS,5
-191289,54 Bolton Road North,"Ramsbottom, Bury",Lancashire,,Mini Market,Retailers - other,4613,5,,76110,5,,53.66633200000000,179,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30604200000000,BL0 0EZ,2011-11-15,fhrs_4_en-GB,4,,FHRS,10
-191290,365 Rochdale Road,Bacup,Lancashire,,Moore's Mini Market,Retailers - other,4613,0,,122630,5,,53.69106900000000,5109,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18171300000000,OL13 9TH,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-191291,54A Bank Street,Rossendale,Lancashire,,Mooreys Health Store,Retailers - other,4613,,,103501,,,53.70266900000000,3480,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28509900000000,BB4 8DY,2010-10-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-191292,Stall 4 Haslingden Market,Blackburn Road,Haslingden,,Mr & Mrs P&D Camm,Retailers - other,4613,10,,44807,5,,53.70640700000000,1086,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32754100000000,BB4 5QG,2010-06-03,fhrs_4_en-GB,4,,FHRS,5
-191293,290-292 Bolton Road North,Ramsbottom,Lancashire,,Mr & Mrs Paul Emmott,Retailers - other,4613,0,,77880,0,,53.65834400000000,184,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31527500000000,BL0 0NG,2013-08-19,fhrs_5_en-GB,5,,FHRS,5
-191294,Stall 17 Rawtenstall Market,Newchurch Road,Rawtenstall,,Mr Anthony Shaw,Retailers - other,4613,5,,86895,5,,53.70419600000000,2227,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-191295,Helmshore Road,Haslingden,,,Mr C's Petrol Station,Retailers - other,4613,0,,142852,5,,53.70127100000000,799,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32582000000000,BB4 4BG,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191296,Stall 50 Rawtenstall Market,Newchurch Road,Rossendale,,Mr Kevan Cockshott,Retailers - other,4613,5,,86456,5,,53.70419600000000,2200,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2012-10-22,fhrs_4_en-GB,4,,FHRS,10
-191297,Stall 14 Bacup Market,Union Street,Bacup,,Mr P Cross,Retailers - other,4613,5,,111666,5,,53.70242700000000,41,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2010-08-25,fhrs_4_en-GB,4,,FHRS,10
-191298,82 Burnley Road,Rawtenstall,Lancashire,,Mr. Booze,Retailers - other,4613,10,,481355,5,,53.70898600000000,5940,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28952000000000,BB4 8HH,2012-11-23,fhrs_4_en-GB,4,,FHRS,5
-191299,Great House Farm,Tor Side,"Helmshore, Rossendale",,Mr. John Holt,Retailers - other,4613,5,,102083,5,,53.67861100000000,3370,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33905800000000,BB4 4AJ,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191300,Stall 15 Bacup Market,Union Street,Bacup,,Mr. John Monk,Retailers - other,4613,5,,125108,5,,53.70242700000000,5361,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2012-01-18,fhrs_5_en-GB,5,,FHRS,5
-191301,Stall 3 Haslingden Market,Blackburn Road,Haslingden,,Mr. John Monk,Retailers - other,4613,5,,44516,5,,53.70640700000000,1080,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32754100000000,BB4 5QG,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191302,Stall 70 Rawtenstall Market,Newchurch Road,"Rawtenstall, Rossendale",,Mr. John Monk,Retailers - other,4613,5,,125098,5,,53.70419600000000,5360,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2012-01-05,fhrs_4_en-GB,4,,FHRS,10
-191303,602 Blackburn Road,"Rising Bridge, Accrington",Lancashire,,Mrs B Poole,Retailers - other,4613,0,,145907,5,,53.72587000000000,877,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33260300000000,BB5 2SB,2011-11-29,fhrs_5_en-GB,5,,FHRS,0
-191304,Stall36-37 Rawtenstall Market,Newchurch Road,Rawtenstall,,Mrs Diane Camm,Retailers - other,4613,5,,86599,5,,53.70419600000000,2208,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2011-01-17,fhrs_5_en-GB,5,,FHRS,5
-191305,425 Helmshore Road,Helmshore,"Rossendale, Lancashire",,Neary's,Retailers - other,4613,5,,83774,5,,53.68804800000000,2062,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32962400000000,BB4 4JR,2010-06-30,fhrs_5_en-GB,5,,FHRS,5
-191306,19 Manchester Road,"Haslingden, Rossendale",Lancashire,,New Fortune House,Takeaway/sandwich shop,7844,0,,92872,5,,53.70394300000000,2639,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32475000000000,BB4 5SL,2013-07-24,fhrs_5_en-GB,5,,FHRS,5
-191307,11 Rochdale Road,Bacup,Lancashire,,New Inn,Pub/bar/nightclub,7843,0,,130941,5,,53.70176400000000,623,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19922400000000,OL13 9NW,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191308,40 Burnley Road East,Rossendale,Lancashire,,Newchurch & Dist.Conservative,Pub/bar/nightclub,7843,5,,98235,5,,53.69314100000000,309,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25320200000000,BB4 9AF,2011-11-15,fhrs_5_en-GB,5,,FHRS,5
-191309,Dark Lane,Waterfoot,Lancashire,,Newchurch CP School,School/college/university,7845,5,,137761,0,,53.69584600000000,728,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25771600000000,BB4 7UA,2011-09-07,fhrs_5_en-GB,5,,FHRS,0
-191310,21 Bacup Road,Rawtenstall,Lancashire,,Nila,Restaurant/Cafe/Canteen,1,5,,128758,5,,53.70054300000000,59,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28717500000000,BB4 7NG,2014-10-23,fhrs_5_en-GB,5,,FHRS,5
-191311,353 Manchester Road,"Haslingden, Rossendale",Lancashire,,Nino's Dial Pizza,Takeaway/sandwich shop,7844,5,,44928,5,,53.69626900000000,109,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31752700000000,BB4 6PT,2013-06-27,fhrs_5_en-GB,5,,FHRS,5
-191312,245 Bacup Road,Rawtenstall,Lancashire,,Nino's Restaurant,Restaurant/Cafe/Canteen,1,0,,144694,5,,53.70059900000000,84,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27464900000000,BB4 7PA,2013-12-04,fhrs_5_en-GB,5,,FHRS,5
-191313,14 Deardengate,"Haslingden,",Rossendale,,Nisa Stores,Retailers - supermarkets/hypermarkets,7840,5,,133141,5,,53.70580200000000,656,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32534000000000,BB4 5QJ,2011-06-20,fhrs_5_en-GB,5,,FHRS,5
-191314,2 Wesley Terrace,Bacup,Lancashire,,No Plates Catering,Mobile caterer,7846,,,504592,,,53.72567000000000,6044,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19545700000000,OL13 8QS,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-191315,1 North Street,Rossendale,,,North Street Restaurant,Restaurant/Cafe/Canteen,1,5,,559683,5,,53.70213200000000,7005,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28411100000000,BB4 7LX,2013-09-30,fhrs_5_en-GB,5,,FHRS,5
-191316,Plantation View,Burnley Road,Bacup,,Northern CP School (Kitchen),School/college/university,7845,0,,137341,0,,53.71881500000000,722,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19919800000000,OL13 8PY,2012-01-24,fhrs_5_en-GB,5,,FHRS,0
-191317,678 Burnley Road East,Rossendale,Lancashire,,Number 678,Hotel/bed & breakfast/guest house,7842,5,,110055,5,,53.71257800000000,3985,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25095500000000,BB4 9NT,2011-06-16,fhrs_5_en-GB,5,,FHRS,0
-191318,Haslingden Old Road,Rawtenstall,"Rossendale,",,Oakenhead Day Centre,Other catering premises,7841,0,,132687,0,,53.70347800000000,648,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29611700000000,BB4 8RR,2012-10-24,fhrs_5_en-GB,5,,FHRS,5
-191319,Haslingden Community Link Bury Road,Haslingden,,,Old School CafÃ©,Restaurant/Cafe/Canteen,1,10,,688370,5,,53.70377100000000,7064,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32197600000000,BB4 5PG,2014-07-22,fhrs_4_en-GB,4,,FHRS,5
-191320,New Line,Bacup,Lancashire,,Olive House HFE,Hospitals/Childcare/Caring Premises,5,5,,122353,0,,53.69382858276367,509,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20300245285034,OL13 0BY,2014-07-17,fhrs_5_en-GB,5,,FHRS,5
-191321,40 King Street,Bacup,Lancashire,,One Stop,Retailers - supermarkets/hypermarkets,7840,5,,110256,5,,53.70192300000000,40,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20080000000000,OL13 0AH,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191322,131 Haslingden Old Road,Rossendale,Lancashire,,One Three One Guest House,Hotel/bed & breakfast/guest house,7842,5,,101919,5,,53.70347800000000,3355,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29611700000000,BB4 8RR,2011-06-27,fhrs_5_en-GB,5,,FHRS,0
-191323,St James Place,Bacup Road,Waterfoot,,Palatine Club,Pub/bar/nightclub,7843,5,,61357,5,,53.69248000000000,1347,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25566600000000,BB4 7HB,2011-01-17,fhrs_5_en-GB,5,,FHRS,5
-191324,1 Burnley Road East,Waterfoot,,,Paula's CafÃ©,Restaurant/Cafe/Canteen,1,10,,727580,5,,53.69364600000000,7086,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25258400000000,BB4 9AG,2014-12-09,fhrs_4_en-GB,4,,FHRS,5
-191325,78 Burnley Road,Bacup,Lancashire,,Pavillion Express,Takeaway/sandwich shop,7844,5,,101361,5,,53.70564100000000,3309,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20284700000000,OL13 8AE,2013-06-27,fhrs_4_en-GB,4,,FHRS,10
-191326,2 The Parade Broadway,Haslingden,,,Pearsons Vintage Tearooms,Restaurant/Cafe/Canteen,1,10,,719389,5,,53.69000200000000,7084,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32821600000000,BB4 4HD,2014-11-07,fhrs_4_en-GB,4,,FHRS,5
-191327,Peers Clough Road,Rossendale,Lancashire,,Peers Clough Farm,Hotel/bed & breakfast/guest house,7842,5,,87849,5,,53.72683400000000,2287,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25049400000000,BB4 9NG,2011-09-16,fhrs_5_en-GB,5,,FHRS,5
-191328,24 Penny Lodge Lane,Rossendale,,,Penny Lodge B & B,Hotel/bed & breakfast/guest house,7842,5,,125641,5,,53.74031500000000,5415,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29087300000000,BB4 8PD,2011-11-08,fhrs_5_en-GB,5,,FHRS,5
-191329,,,,,Perfect Party Cakes,Other catering premises,7841,0,,489725,0,,,5951,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2013-05-15,fhrs_5_en-GB,5,,FHRS,0
-191330,Higher Cockham Farm,Roundhill Road,Haslingden,,Perpetualcare,Hospitals/Childcare/Caring Premises,5,,,85512,,,53.71998000000000,2158,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33707200000000,BB4 5TU,2011-06-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-191331,Stall 18 Bacup Market,Union Street,Bacup,,Pete's Butchers,Retailers - other,4613,5,,134890,5,,53.70242700000000,684,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2010-06-30,fhrs_5_en-GB,5,,FHRS,5
-191332,316A Newchurch Road,Bacup,Lancashire,,Pizza Costa,Takeaway/sandwich shop,7844,10,,125239,10,,53.69164600000000,5375,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22343600000000,OL13 0UJ,2013-11-01,fhrs_2_en-GB,2,,FHRS,15
-191333,15 St. James Street,Bacup,Lancashire,,Pizza King,Takeaway/sandwich shop,7844,5,,515702,5,,53.70275200000000,6068,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19998600000000,OL13 9NJ,2013-05-30,fhrs_4_en-GB,4,,FHRS,10
-191334,34 Manchester Road,"Haslingden,",Lancashire,,Pizza Perfect,Takeaway/sandwich shop,7844,5,,87730,5,,53.70442800000000,2277,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32482900000000,BB4 5ST,2014-01-22,fhrs_4_en-GB,4,,FHRS,10
-191335,10 Burnley Road East,Waterfoot,"Rossendale, Lancashire",,Pizza Supreme,Takeaway/sandwich shop,7844,5,,124546,5,,53.69314100000000,5306,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25320200000000,BB4 9AF,2014-09-09,fhrs_4_en-GB,4,,FHRS,10
-191336,335 Market Steet,Whitworth,,,Pizza Time Express,Takeaway/sandwich shop,7844,20,,679138,10,,53.65632800000000,7059,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17687300000000,OL12 8QJ,2014-06-24,fhrs_1_en-GB,1,,FHRS,15
-191337,250A Newchurch Road,Bacup,Lancashire,,Pizza Uno,Takeaway/sandwich shop,7844,10,,87967,10,,53.69276000000000,2296,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21859500000000,OL13 0UE,2014-07-02,fhrs_2_en-GB,2,,FHRS,15
-191338,742-744 Burnley Road,Crawshawbooth,Lancashire,,Pleasant View Stores,Retailers - other,4613,10,,132323,5,,53.72920600000000,642,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28726400000000,BB4 8BH,2013-01-17,fhrs_4_en-GB,4,,FHRS,5
-191339,173 Market Street,"Whitworth, Rochdale",Lancashire,,Porky's Pit Stop,Restaurant/Cafe/Canteen,1,0,,209150,5,,53.64486200000000,5538,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18101500000000,OL12 8RU,2013-07-29,fhrs_5_en-GB,5,,FHRS,5
-191340,7 Hall Street,"Whitworth,",Rossendale,,Posh Pig,Restaurant/Cafe/Canteen,1,5,,114287,5,,53.65558000000000,433,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17835200000000,OL12 8TL,2013-02-14,fhrs_5_en-GB,5,,FHRS,5
-191341,687 Blackburn Road,Rising Bridge,,,Puddleducks @ Rising Bridge,Hospitals/Childcare/Caring Premises,5,5,,688373,5,,53.72696800000000,7067,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33559700000000,BB5 2RY,2014-07-31,fhrs_5_en-GB,5,,FHRS,5
-191342,220 Helmshore Road,Haslingden,,,Puddleducks Childrens Nursery Ltd,School/college/university,7845,0,,117653,0,,53.69489300000000,469,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32763300000000,BB4 4DJ,2014-01-29,fhrs_5_en-GB,5,,FHRS,0
-191343,Stonefold Rising Bridge Road,Rising Bridge,,,Puddleducks SOS Club,Hospitals/Childcare/Caring Premises,5,5,,727582,5,,53.72389000000000,7088,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33055600000000,BB5 2SW,2014-12-17,fhrs_5_en-GB,5,,FHRS,0
-191344,12 Yorkshire Street,Bacup,Lancashire,,Queens Hotel,Pub/bar/nightclub,7843,5,,465279,5,,53.70360500000000,5921,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20009600000000,OL13 9AE,2014-03-28,fhrs_4_en-GB,4,,FHRS,10
-191345,31a Burnley Road East,Rossendale,Lancashire,,Quickstop,Retailers - other,4613,5,,84924,5,,53.69373600000000,2115,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25253900000000,BB4 9AG,2010-06-30,fhrs_5_en-GB,5,,FHRS,5
-191346,19 Birch Avenue,"Haslingden, Rossendale",Lancashire,,R & B Sethi News (Londis),Retailers - other,4613,5,,84885,5,,53.70412300000000,2113,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31816200000000,BB4 5NF,2011-09-23,fhrs_5_en-GB,5,,FHRS,5
-191347,222 Newchurch Road,Bacup,Lancashire,,R & K Moore,Retailers - other,4613,5,,93242,5,,53.69281900000000,267,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21593000000000,OL13 0TS,2014-03-12,fhrs_4_en-GB,4,,FHRS,10
-191348,Offecon House Bury Road,Haslingden,,,Rainbow Childcare,Hospitals/Childcare/Caring Premises,5,10,,711628,10,,53.70213900000000,7080,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32051000000000,BB4 5PE,2014-10-17,fhrs_2_en-GB,2,,FHRS,15
-191349,345 Burnley Road East,Rossendale,Lancashire,,RAOB Club and Institute,Pub/bar/nightclub,7843,5,,100082,5,,53.70420300000000,320,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25032900000000,BB4 9JR,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191350,3 Grange Crescent,Rossendale,Lancashire,,Rawtenstall Conservative Club,Pub/bar/nightclub,7843,5,,61388,5,,53.70223000000000,1348,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28459600000000,BB4 7QT,2012-04-12,fhrs_5_en-GB,5,,FHRS,5
-191351,Bacup Road,"Rawtenstall, Rossendale",Lancashire,,Rawtenstall Cricket Club,Pub/bar/nightclub,7843,5,,129980,0,,53.69618800000000,61,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26577500000000,BB4 7JL,2011-08-25,fhrs_5_en-GB,5,,FHRS,0
-191352,142 Market Street,"Ramsbottom, Edenfield, Bury",Lancashire,,Razzmatazz,Other catering premises,7841,,,515700,,,53.67356900000000,6065,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30559500000000,BL0 0JF,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-191353,Whitworth Square,"Whitworth,",Rossendale,,Red Lion Hotel,Pub/bar/nightclub,7843,5,,114539,5,,53.65547100000000,436,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17302600000000,OL12 8PY,2013-02-20,fhrs_5_en-GB,5,,FHRS,5
-191354,114 Bury Road,Rossendale,Lancashire,,Rehmans,Takeaway/sandwich shop,7844,5,,145556,5,,53.69622700000000,866,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29132500000000,BB4 6DD,2013-02-28,fhrs_5_en-GB,5,,FHRS,5
-191355,261 Helmshore Road,"Helmshore, Rossendale",Lancashire,,Relish,Takeaway/sandwich shop,7844,5,,90745,5,,53.69489300000000,2486,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32763300000000,BB4 4DJ,2013-06-24,fhrs_5_en-GB,5,,FHRS,5
-191356,599-603 Burnley Road,Rawtenstall,Lancashire,,Riley's Butchers,Retailers - other,4613,5,,96129,5,,53.72654100000000,290,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28542700000000,BB4 8AN,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-191357,110 Bury Road,Rossendale,Lancashire,,Rio's Pizza,Takeaway/sandwich shop,7844,5,,101347,5,,53.69622700000000,3308,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29132500000000,BB4 6DD,2014-02-20,fhrs_5_en-GB,5,,FHRS,5
-191358,Market Street,"Whitworth, Rochdale",Lancashire,,Riverside Civic Hall,Other catering premises,7841,5,,143710,0,,53.66595300000000,813,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17149500000000,OL12 8DP,2011-07-15,fhrs_5_en-GB,5,,FHRS,0
-191359,Old Groundworks Buildiing,New Hall Hey Road,Rossendale,,Riverside Health Club,Restaurant/Cafe/Canteen,1,,,355576,,,53.69678600000000,5672,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29803900000000,BB4 6HR,2012-04-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-191360,51 Bury Road,Rossendale,Lancashire,,Riverside Inn,Pub/bar/nightclub,7843,5,,106982,5,,53.69622700000000,3754,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29132500000000,BB4 6DD,2010-04-20,fhrs_5_en-GB,5,,FHRS,0
-191361,280 Holcombe Road,Rossendale,Lancashire,,Robin Hood Inn,Pub/bar/nightclub,7843,5,,132231,5,,53.68945300000000,640,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33817600000000,BB4 4NP,2010-08-03,fhrs_4_en-GB,4,,FHRS,10
-191362,482 Burnley Road East,Rossendale,Lancashire,,Roebuck,Pub/bar/nightclub,7843,5,,101453,5,,53.70420300000000,3319,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25032900000000,BB4 9JR,2011-06-16,fhrs_5_en-GB,5,,FHRS,5
-191363,276 Manchester Road,"Haslingden, Rossendale",Lancashire,,Rose and Crown,Pub/bar/nightclub,7843,0,,146034,0,,53.69684300000000,881,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31769800000000,BB4 6PU,2011-09-27,fhrs_5_en-GB,5,,FHRS,0
-191364,264 Newchurch Road,"Stacksteads,",Bacup,,Rose 'N' Bowl,Restaurant/Cafe/Canteen,1,5,,114843,5,,53.69216000000000,440,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22236300000000,OL13 0UG,2013-02-07,fhrs_5_en-GB,5,,FHRS,5
-191365,Huttock End Lane,Stacksteads,Bacup,,Rosemount Working Mens Club,Pub/bar/nightclub,7843,5,,119652,5,,53.69382800000000,488,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21978200000000,OL13 8LD,2011-11-15,fhrs_4_en-GB,4,,FHRS,10
-191366,,,,,Rosie D's Butty Bar,Mobile caterer,7846,5,,551867,5,,,7001,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2013-05-13,fhrs_5_en-GB,5,,FHRS,5
-191367,681 Bacup Road,Rossendale,Lancashire,,Ross chippy,Takeaway/sandwich shop,7844,5,,88003,5,,53.69248000000000,2298,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25566600000000,BB4 7HB,2014-02-17,fhrs_5_en-GB,5,,FHRS,5
-191368,15 Manchester Road,"Haslingden,",Lancashire,,Rossendale Booze,Retailers - other,4613,,,92492,,,53.70394300000000,2606,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32475000000000,BB4 5SL,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191369,Newchurch Road,Rawtenstall,Lancashire,,Rossendale Children & Parenting Support Service,Hospitals/Childcare/Caring Premises,5,5,,120445,5,,53.70419600000000,494,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191370,Princess Street,Bacup,Lancashire,,Rossendale Club Limited,Pub/bar/nightclub,7843,5,,124116,5,,53.70301800000000,526,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20163800000000,OL13 8HQ,2011-03-02,fhrs_5_en-GB,5,,FHRS,5
-191371,552 Burnley Road,Rawtenstall,Lancashire,,Rossendale Convenience Store,Retailers - other,4613,5,,147193,5,,53.72363100000000,911,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28790800000000,BB4 8NE,2011-07-11,fhrs_5_en-GB,5,,FHRS,5
-191372,Stone Fold Village,Accrington,Lancashire,,Rossendale Equestrian Centre,Restaurant/Cafe/Canteen,1,5,,144739,5,,53.72987700000000,841,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32361600000000,BB5 2DP,2013-08-27,fhrs_5_en-GB,5,,FHRS,5
-191373,Ewood Lane,"Haslingden,",,,Rossendale Golf Club Limited,Pub/bar/nightclub,7843,0,,109134,0,,53.68663000000000,393,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31538000000000,BB4 6LH,2013-08-22,fhrs_5_en-GB,5,,FHRS,0
-191374,New Cribden House,161 Bacup Road,Rawtenstall.,,Rossendale Hospice,Hospitals/Childcare/Caring Premises,5,5,,118359,5,,53.70135800000000,4768,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28050100000000,BB4 7PL,2010-06-02,fhrs_5_en-GB,5,,FHRS,0
-191375,Bamford Road,Ramsbottom,,,Rossendale School,Restaurant/Cafe/Canteen,1,0,,87451,0,,53.65226700000000,2260,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28330600000000,BL0 0RT,2014-05-19,fhrs_5_en-GB,5,,FHRS,0
-191376,Bacup Road,Rossendale,Lancashire,,Rossendale Service Station,Retailers - other,4613,5,,142792,5,,53.69248000000000,798,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25566600000000,BB4 7HB,2010-05-13,fhrs_5_en-GB,5,,FHRS,0
-191377,Marl Pits,Rossendale,Lancashire,,Rossendale Sports Club,Pub/bar/nightclub,7843,5,,89716,5,,53.70392200000000,241,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27562500000000,BB4 7SW,2012-11-01,fhrs_5_en-GB,5,,FHRS,5
-191378,Cloughfold Recreation Ground,Hareholme Lane,Rawtenstall,,Rossendale Valley Riding Club Cafe,Restaurant/Cafe/Canteen,1,0,,395833,5,,53.69913700000000,5702,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26523400000000,BB4 7LA,2012-08-19,fhrs_5_en-GB,5,,FHRS,5
-191379,1 Market Place,Edenfield,,,Rostron Arms,Pub/bar/nightclub,7843,5,,657027,5,,53.66893400000000,7042,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30429000000000,BL0 0JS,2014-04-04,fhrs_4_en-GB,4,,FHRS,10
-191380,3 Burnley Road East,Waterfoot,"Rossendale, Lancashire",,Rowans Butchers,Retailers - other,4613,5,,97506,5,,53.69364600000000,303,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25258400000000,BB4 9AG,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-191381,599 Market Street,"Whitworth, Rochdale",Lancashire,,Rowlands Fish & Chips,Restaurant/Cafe/Canteen,1,0,,87888,5,,53.65686400000000,229,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17280500000000,OL12 8QF,2013-02-21,fhrs_5_en-GB,5,,FHRS,5
-191382,81 Deardengate,"Haslingden,",Rossendale,,Royal British Legion (Has)Club,Pub/bar/nightclub,7843,5,,107519,5,,53.70425400000000,380,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32620600000000,BB4 5SN,2011-11-15,fhrs_5_en-GB,5,,FHRS,5
-191383,Rochdale Road,Bacup,Lancashire.,,Royal Court Theatre,Restaurant/Cafe/Canteen,1,,,78680,,,53.69975200000000,1878,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19827500000000,OL13 9NR,2011-06-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-191384,91 Newchurch Road,Bacup,Lancashire,,Royal Oak,Pub/bar/nightclub,7843,5,,92214,5,,53.69322600000000,259,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20933000000000,OL13 0DH,2011-11-15,fhrs_4_en-GB,4,,FHRS,10
-191385,10 Commerce Street,"Haslingden, Rossendale",Lancashire,,Runamok,Restaurant/Cafe/Canteen,1,0,,102806,0,,53.70799700000000,3426,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33135600000000,BB4 5JT,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-191386,Stall 9 Bacup Market,Union Street,Bacup,,S Fossey Greengrocers,Retailers - other,4613,5,,134226,5,,53.70242700000000,675,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2011-09-27,fhrs_5_en-GB,5,,FHRS,5
-191387,221 Bacup Road,Rawtenstall,,,Sagarrika,Takeaway/sandwich shop,7844,5,,621189,5,,53.70059900000000,7024,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27464900000000,BB4 7PA,2013-12-02,fhrs_5_en-GB,5,,FHRS,5
-191388,49 Bury Road,"Haslingden, Rossendale",Lancashire,,Sanavis,Retailers - other,4613,,,101468,,,53.70377100000000,332,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32197600000000,BB4 5PG,2012-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-191389,12 Bury Road,Rossendale,Lancashire,,Sanleo Restaurant Ltd,Restaurant/Cafe/Canteen,1,5,,292029,5,,53.70016300000000,5607,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28794500000000,BB4 6AA,2012-11-29,fhrs_5_en-GB,5,,FHRS,5
-191390,,,,,Satguru Sri Ramana Dev Ashram Seva,Mobile caterer,7846,5,,696032,5,,,7069,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2014-08-06,fhrs_5_en-GB,5,,FHRS,0
-191391,404-406 Newchurch Road,Bacup,Lancashire,,School Street mini market,Retailers - other,4613,5,,132888,5,,53.69152100000000,651,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22779600000000,OL13 0LD,2011-07-11,fhrs_5_en-GB,5,,FHRS,0
-191392,9 -11 Broadway Crescent,Helmshore,,,Select and Save (Grocers),Retailers - other,4613,5,,145934,5,,53.69058700000000,878,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32773600000000,BB4 4HW,2012-01-24,fhrs_5_en-GB,5,,FHRS,5
-191393,7 St. James Street,Bacup,Lancashire,,Service Stores,Retailers - other,4613,5,,127868,5,,53.70275200000000,575,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19998600000000,OL13 9NJ,2011-06-16,fhrs_5_en-GB,5,,FHRS,5
-191394,Todmorden Road,Bacup,Lancashire,,Sharneyford School,School/college/university,7845,0,,137283,5,,53.71435900000000,721,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18048000000000,OL13 9UQ,2010-05-01,fhrs_5_en-GB,5,,FHRS,5
-191395,Haslingden Road,Rawtenstall.,,,Shell West End Garage,Retailers - other,4613,0,,114669,5,,53.69951400000000,438,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29239300000000,BB4 6QX,2012-10-22,fhrs_5_en-GB,5,,FHRS,0
-191396,Blackburn Road,"Rising Bridge, Accrington",Lancashire,,"Shell, Rising Bridge",Retailers - other,4613,0,,142661,0,,53.72587000000000,796,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33260300000000,BB5 2SB,2011-01-05,fhrs_5_en-GB,5,,FHRS,0
-191397,225 Haslingden Road,Rawtenstall,Rossendale,,Shepherd's Inn,Pub/bar/nightclub,7843,5,,115614,5,,53.69914900000000,448,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29832800000000,BB4 6RE,2011-06-16,fhrs_5_en-GB,5,,FHRS,5
-191398,38 Dean Lane,Water,,,Shiva Trust,Retailers - other,4613,,,711625,,,53.72921500000000,7077,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.23777700000000,BB4 9RA,2014-10-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-191399,101 Newchurch Road,Bacup,Lancashire,,Sing Yee Chinese Takeaway,Takeaway/sandwich shop,7844,5,,92386,5,,53.69322600000000,260,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20933000000000,OL13 0DH,2014-08-06,fhrs_5_en-GB,5,,FHRS,5
-191400,258-260 Bacup Road,Rossendale,Lancashire,,Singh Off Licence,Retailers - other,4613,,,150219,,,53.69833000000000,977,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26840900000000,BB4 7LG,2014-05-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-191401,15 Market Place,Ramsbottom,Edenfield,,Sixsmith's Bakery,Manufacturers/packers,7839,20,,54554,10,,53.66893400000000,123,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30429000000000,BL0 0JS,2014-03-04,fhrs_1_en-GB,1,,FHRS,10
-191402,248 Newchurch Road,Stacksteads,,,Sky4Jak Convenience,Retailers - other,4613,5,,657030,5,,53.69276000000000,7045,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21868600000000,OL13 0UE,2014-04-08,fhrs_5_en-GB,5,,FHRS,0
-191403,The Rookeries,Market Street,Whitworth,,Small World Nurseries,School/college/university,7845,5,,79964,5,,53.64124300000000,193,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17863900000000,OL12 8RW,2014-04-22,fhrs_4_en-GB,4,,FHRS,10
-191404,318 Newchurch Road,Bacup,Lancashire,,Snack Attack,Restaurant/Cafe/Canteen,1,5,,90673,5,,53.69152100000000,2481,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22779600000000,OL13 0LD,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-191405,2 Holden Place,Haslingden,Rossendale,,Snack Box,Mobile caterer,7846,5,,197835,5,,53.69778300000000,5496,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33550100000000,BB4 4PU,2013-08-19,fhrs_5_en-GB,5,,FHRS,5
-191406,301 Blackburn Road,"Haslingden, Rossendale",Lancashire,,Snack Stop,Restaurant/Cafe/Canteen,1,5,,355574,10,,53.71519800000000,5657,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32417000000000,BB4 5JQ,2012-10-15,fhrs_3_en-GB,3,,FHRS,10
-191407,Balladen House,Union Road,Rossendale,,Snax,Restaurant/Cafe/Canteen,1,5,,124207,5,,53.69786200000000,5272,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30972400000000,BB4 6NE,2012-01-13,fhrs_5_en-GB,5,,FHRS,0
-191408,Haslingden Old Road,Rossendale,Lancashire,,Snowy Owls Montessori,Hospitals/Childcare/Caring Premises,5,10,,125412,5,,53.70347800000000,5391,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29611700000000,BB4 8RR,2014-04-16,fhrs_4_en-GB,4,,FHRS,0
-191409,Unit 5 Hugh Business Park,Rossendale,Lancashire,,Soulmatefood,Retailers - other,4613,0,,121954,0,,53.69085600000000,5055,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25015900000000,BB4 7BT,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-191410,Burnley Road,Rawtenstall,Lancashire,,"SPAR Stores,",Retailers - other,4613,0,,142928,0,,53.70627800000000,800,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28700200000000,BB4 8EW,2012-01-24,fhrs_5_en-GB,5,,FHRS,0
-191411,600 Blackburn Road,"Rising Bridge, Accrington",Lancashire,,Spice Room,Restaurant/Cafe/Canteen,1,10,,103022,5,,53.72587000000000,3444,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33260300000000,BB5 2SB,2014-11-04,fhrs_4_en-GB,4,,FHRS,5
-191412,4 Burnley Road,Rawtenstall,Lancashire,,Spicemaster,Takeaway/sandwich shop,7844,10,,41829,10,,53.70627800000000,1035,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28700200000000,BB4 8EW,2014-03-26,fhrs_3_en-GB,3,,FHRS,10
-191413,211 Haslingden Road,Rawtenstall,Rossendale,,Spring Terrace Working Mens Club,Pub/bar/nightclub,7843,5,,115323,5,,53.69914900000000,445,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29832800000000,BB4 6RE,2011-07-11,fhrs_4_en-GB,4,,FHRS,10
-191414,Springvale Mill,Waterside Road,Haslingden,,Springvale Cafe,Restaurant/Cafe/Canteen,1,5,,481352,5,,53.70181900000000,5929,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33229200000000,BB4 5EZ,2013-01-08,fhrs_5_en-GB,5,,FHRS,5
-191415,Ashworth Road,Waterfoot,Rossendale,,St Anne's Edgeside CoE Primary School,School/college/university,7845,0,,136395,0,,53.70279200000000,707,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25017000000000,BB4 9JE,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-191416,Ashworth Road,Rossendale,Lancashire,,St Annes Nursery School,School/college/university,7845,5,,148849,5,,53.70279200000000,945,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25017000000000,BB4 9JE,2010-05-01,fhrs_5_en-GB,5,,FHRS,5
-191417,John Street,Whitworth,Lancashire,,St Anselms RC (kitchen),School/college/university,7845,0,,135597,0,,53.66480900000000,694,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17350300000000,OL12 8DB,2012-07-02,fhrs_5_en-GB,5,,FHRS,5
-191418,Hall Street,Whitworth,Lancashire,,St Bartholomews C P,School/college/university,7845,0,,135719,0,,53.65558000000000,696,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17835200000000,OL12 8TL,2012-10-10,fhrs_5_en-GB,5,,FHRS,0
-191419,Church Lane,Haslingden,Lancashire,,"St James Catering, St James Church",Other catering premises,7841,0,,55062,0,,53.86120605468750,1242,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.56927990913391,BB4 5QZ,2014-05-27,fhrs_5_en-GB,5,,FHRS,0
-191420,Burnley Road,Rawtenstall,Lancashire,,St James Parochial Centre,Other catering premises,7841,,,81311,,,53.70898600000000,1983,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28952000000000,BB4 8HH,2010-06-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-191421,Burnley Road,Rawtenstall,Lancashire,,St James the Less Parish Centre Luncheon Club,Restaurant/Cafe/Canteen,1,0,,122002,0,,53.70898600000000,5057,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28952000000000,BB4 8HH,2014-04-23,fhrs_5_en-GB,5,,FHRS,0
-191422,Old School Room,Burnley Road,Rawtenstall,,St James The Less Play Group,School/college/university,7845,,,88435,,,53.70898600000000,2317,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28952000000000,BB4 8HH,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191423,Unity Way,"Rawtenstall,",Lancashire,,St James the Less RC School,School/college/university,7845,0,,136884,5,,53.70436200000000,714,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29115500000000,BB4 8SU,2014-06-19,fhrs_5_en-GB,5,,FHRS,5
-191424,Moss Side Street,"Shawforth, Rochdale",Lancashire,,St John and St Michael (Kitchen),School/college/university,7845,5,,135529,5,,53.67963500000000,693,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.16390500000000,OL12 8EP,2011-03-02,fhrs_5_en-GB,5,,FHRS,5
-191425,Market Street,Facit,"Whitworth,",,St John's Church Hall,Other catering premises,7841,,,112129,,,53.66982900000000,414,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17002700000000,OL12 8LU,2012-04-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-191426,Huttock End Lane,Bacup,Lancashire,,St Josephs CP School,School/college/university,7845,5,,136000,5,,53.69382800000000,700,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21978200000000,OL13 8LD,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191427,Haslingden Old Road,Rossendale,Lancashire,,St Marys Cof E School,School/college/university,7845,0,,147389,0,,53.70456300000000,918,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28965600000000,BB4 8RZ,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-191428,South Shore Street,"Haslingden,",Rossendale,,St Marys Footbal Club,Pub/bar/nightclub,7843,5,,91561,5,,53.70457700000000,2538,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32948100000000,BB4 5DX,2010-10-31,fhrs_5_en-GB,5,,FHRS,5
-191429,Lime Road,"Haslingden,",Rossendale,,St Mary's Primary School,School/college/university,7845,0,,136977,0,,53.70318700000000,716,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31512500000000,BB4 5NP,2010-05-01,fhrs_5_en-GB,5,,FHRS,0
-191430,Tong Lane,Bacup,Lancashire,,St Mary's RC Primary School,School/college/university,7845,0,,136929,0,,53.70180500000000,715,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19039300000000,OL13 9LJ,2011-06-21,fhrs_5_en-GB,5,,FHRS,5
-191431,St. Peters Road,Newchurch,Waterfoot,,St Peters RC CP School (Kitchen),School/college/university,7845,0,,136483,0,,53.69909500000000,708,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25561500000000,BB4 9EZ,2014-06-10,fhrs_5_en-GB,5,,FHRS,0
-191432,Lane Ends Road,Bacup,,,St Saviours cp school,School/college/university,7845,0,,136264,0,,53.69501000000000,705,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19607200000000,OL13 9RG,2011-03-02,fhrs_5_en-GB,5,,FHRS,0
-191433,Raven Avenue,Rossendale,Lancashire,,St Veronicas Primary (Kitchen),School/college/university,7845,0,,136047,0,,53.68905300000000,701,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32683100000000,BB4 4EZ,2010-05-01,fhrs_5_en-GB,5,,FHRS,0
-191434,Blackburn Road,"Haslingden, Rossendale",Lancashire,,St. James C Of E Primary Schoo,School/college/university,7845,0,,123273,0,,53.70875600000000,5174,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32633200000000,BB4 5HL,2011-10-19,fhrs_5_en-GB,5,,FHRS,0
-191435,Rhodes Avenue,Rossendale,,,St. Thomas' Church Hall,Restaurant/Cafe/Canteen,1,,,150891,,,53.68757000000000,994,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33013500000000,BB4 4JS,2012-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-191436,Helmshore Road,"Haslingden, Rossendale",Lancashire,,St. Veronicas Church Hall,Other catering premises,7841,,,117174,,,53.68804800000000,464,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32962400000000,BB4 4JR,2011-01-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-191437,330 Newchurch Road,Bacup,Lancashire,,Stacksteads Post Office,Retailers - other,4613,,,55532,,,53.69152100000000,1253,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22779600000000,OL13 0LD,2010-05-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-191438,239 Bacup Road,Rossendale,Lancashire,,Star of India,Takeaway/sandwich shop,7844,5,,126033,5,,53.70059900000000,5479,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27464900000000,BB4 7PA,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-191439,505 Helmshore Road,"Helmshore, Rossendale",Lancashire,,Station Hotel,Pub/bar/nightclub,7843,5,,144916,5,,53.68804800000000,846,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32962400000000,BB4 4JR,2012-01-24,fhrs_4_en-GB,4,,FHRS,10
-191440,727 Bacup Road,Waterfoot,Lancashire,,Steve's Quality Fruiterers,Retailers - other,4613,5,,41557,5,,53.69228800000000,103,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25271200000000,BB4 7EU,2011-01-17,fhrs_5_en-GB,5,,FHRS,5
-191441,Rising Bridge Road,Accrington,Lancashire,,Stone Fold School (kitchen),School/college/university,7845,0,,136095,0,,53.72389000000000,702,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33055600000000,BB5 2SW,2011-06-16,fhrs_5_en-GB,5,,FHRS,5
-191442,,,,,Stonefold Fayre,Takeaway/sandwich shop,7844,5,,124902,5,,,5338,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2011-10-04,fhrs_5_en-GB,5,,FHRS,0
-191443,Bolton Road North,Stubbins,Lancashire,,Stubbins CP School (Kitchen),School/college/university,7845,0,,135798,0,,53.66081500000000,697,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31220600000000,BL0 0NA,2012-01-24,fhrs_5_en-GB,5,,FHRS,0
-191444,286 Bolton Road North,"Ramsbottom, Bury",Lancashire,,Stubbins Tandoori,Takeaway/sandwich shop,7844,5,,121354,5,,53.65834400000000,5009,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31527500000000,BL0 0NG,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-191445,Stubbylee Lane,Bacup,Lancashire,,Stubbylee Community CafÃ©,Restaurant/Cafe/Canteen,1,10,,551869,5,,53.68979500000000,7003,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20272600000000,OL13 0DD,2013-05-17,fhrs_3_en-GB,3,,FHRS,10
-191446,Burnley Road,Rawtenstall,Lancashire,,Subway,Restaurant/Cafe/Canteen,1,5,,107423,5,,53.70627800000000,3791,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28700200000000,BB4 8EW,2013-08-05,fhrs_5_en-GB,5,,FHRS,0
-191447,Blackburn Road,Haslingden,Lancashire,,Sun Dragon Cantonese,Restaurant/Cafe/Canteen,1,0,,49827,5,,53.72099100000000,1107,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32551800000000,BB4 5AZ,2011-07-11,fhrs_5_en-GB,5,,FHRS,0
-191448,234 Newchurch Road,Bacup,Lancashire,,Sunny Chippy,Takeaway/sandwich shop,7844,5,,94104,5,,53.69276000000000,273,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21859500000000,OL13 0UE,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-191449,176 Bury Road,"Haslingden, Rossendale",Lancashire,,Sunny Fish and Chips,Takeaway/sandwich shop,7844,10,,101627,10,,53.70213900000000,3332,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32051000000000,BB4 5PE,2014-01-09,fhrs_3_en-GB,3,,FHRS,5
-191450,Market Street,"Whitworth,",Lancashire,,Sunnybank Day Centre,Hospitals/Childcare/Caring Premises,5,5,,140258,5,,53.65757700000000,764,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17692300000000,OL12 8QL,2014-02-05,fhrs_5_en-GB,5,,FHRS,5
-191451,Helmshore Road,"Helmshore,",Rossendale,,Sunnybank Social Club,Pub/bar/nightclub,7843,5,,117274,5,,53.68496900000000,465,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33116000000000,BB4 4LQ,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191452,Coupland Street,"Whitworth,",Lancashire,,Sunnyside Rest Home,Hospitals/Childcare/Caring Premises,5,5,,140325,0,,53.65584300000000,765,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17653800000000,OL12 8QQ,2011-01-24,fhrs_5_en-GB,5,,FHRS,5
-191453,Stall 25-36,Rawtenstall Market,"Newchurch Road, Rawtenstall",,Sweet Nostalgia and Sues Sweets,Retailers - other,4613,5,,86191,5,,53.70419600000000,2196,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2012-10-22,fhrs_4_en-GB,4,,FHRS,10
-191454,,,,,Sweet Sensations,Other catering premises,7841,5,,657034,5,,,7049,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2014-04-30,fhrs_5_en-GB,5,,FHRS,5
-191455,45D Bank Street,Rossendale,Lancashire,,Sweeties,Retailers - other,4613,10,,209152,5,,53.70331700000000,5583,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28449700000000,BB4 7QN,2012-02-10,fhrs_4_en-GB,4,,FHRS,5
-191456,49 Deardengate,Haslingden,,,Swish Coffee,Retailers - other,4613,0,,657032,0,,53.70570200000000,7047,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32574800000000,BB4 5QN,2014-04-01,fhrs_5_en-GB,5,,FHRS,0
-191457,Rawtenstall Road End,"Haslingden, Rossendale",Lancashire,,Sykeside Leisure Limited,Hotel/bed & breakfast/guest house,7842,0,,145769,5,,53.69585000000000,873,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31611500000000,BB4 6QE,2013-02-14,fhrs_5_en-GB,5,,FHRS,0
-191458,8-10 Blackburn Road,Haslingden,,,Taste,Restaurant/Cafe/Canteen,1,5,,711624,5,,53.70552700000000,7076,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32715600000000,BB4 5QQ,2014-10-09,fhrs_5_en-GB,5,,FHRS,5
-191459,,,,,Taste of Kyrgizia,Retailers - other,4613,5,,711626,5,,,7078,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2014-10-15,fhrs_5_en-GB,5,,FHRS,0
-191460,Bacup Market Union Street,Bacup,,,Teatime Treats,Retailers - other,4613,0,,628278,5,,53.70242700000000,7031,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-191461,Bury Road,Rossendale,Lancashire,,Tesco (Compass Group (Eurest)),Restaurant/Cafe/Canteen,1,0,,122729,0,,53.86120605468750,5118,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.56927990913391,BB4 6DT,2011-10-24,fhrs_5_en-GB,5,,FHRS,5
-191462,Bury Road,Rossendale,Lancashire,,Tesco (Costa),Restaurant/Cafe/Canteen,1,0,,465278,5,,53.86120605468750,5919,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.56927990913391,BB4 6DT,2013-01-09,fhrs_5_en-GB,5,,FHRS,0
-191463,Syke Street,"Haslingden, Rossendale",Lancashire,,Tesco (Costa),Restaurant/Cafe/Canteen,1,0,,124358,0,,53.69388000000000,5288,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31664600000000,BB4 6LY,2011-09-21,fhrs_5_en-GB,5,,FHRS,0
-191464,Market Street,Whitworth,,,Tesco Stores Ltd,Retailers - other,4613,0,,711629,0,,53.66123100000000,7081,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17397200000000,OL12 8QS,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-191465,Syke Street,"Haslingden,",Lancashire,,Tesco Stores Ltd Haslingden 5124,Retailers - supermarkets/hypermarkets,7840,0,,91418,0,,53.69388000000000,2525,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31664600000000,BB4 6LY,2012-01-24,fhrs_5_en-GB,5,,FHRS,0
-191466,Bury Road,Rossendale,Lancashire,,Tesco Stores Ltd Rawtenstall 4137,Retailers - supermarkets/hypermarkets,7840,0,,102019,0,,53.86120605468750,3363,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.56927990913391,BB4 6DT,2011-09-07,fhrs_5_en-GB,5,,FHRS,0
-191467,Stall 78 Rawtenstall Market Newchurch Road,Rawtenstall,,,Thai Shack,Takeaway/sandwich shop,7844,5,,628277,5,,53.70419600000000,7030,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-191468,Britannia CP School,Rochdale Road,Bacup,,The Best Club (Britannia) Ltd,Other catering premises,7841,5,,292032,0,,53.69234700000000,5637,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18100700000000,OL13 9TS,2013-10-10,fhrs_5_en-GB,5,,FHRS,0
-191469,145 Market Street,"Whitworth,",,,The Birches,Pub/bar/nightclub,7843,10,,80751,10,,53.64486200000000,196,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18101500000000,OL12 8RU,2014-06-16,fhrs_3_en-GB,3,,FHRS,10
-191470,591 Burnley Road,Rawtenstall,Lancashire,,The Black Dog,Pub/bar/nightclub,7843,10,,95414,5,,53.72363100000000,284,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28790800000000,BB4 8NE,2013-01-17,fhrs_3_en-GB,3,,FHRS,10
-191471,1 Britannia Heights,Bacup,,,The Britannia Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,5,,605158,5,,53.69034700000000,7021,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17780300000000,OL13 9SD,2013-10-25,fhrs_5_en-GB,5,,FHRS,0
-191472,10 Union Street,Bacup,Lancashire,,The British Queens,Pub/bar/nightclub,7843,5,,121390,5,,53.70242700000000,5011,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20039300000000,OL13 0AA,2011-11-17,fhrs_5_en-GB,5,,FHRS,5
-191473,99 Burnley Road,Rawtenstall,Lancashire,,"The Burnley Road Chippy,",Takeaway/sandwich shop,7844,5,,93161,0,,53.70627800000000,266,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28700200000000,BB4 8EW,2014-01-23,fhrs_5_en-GB,5,,FHRS,5
-191474,1085 Burnley Road East,Rossendale,Lancashire,,The Commercial Hotel,Pub/bar/nightclub,7843,5,,95865,5,,53.72657100000000,288,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24294500000000,BB4 9PX,2011-06-16,fhrs_4_en-GB,4,,FHRS,10
-191475,582 Burnley Road,Rawtenstall,Lancashire,,The Corner,Restaurant/Cafe/Canteen,1,0,,101693,0,,53.72534300000000,3337,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28637400000000,BB4 8AJ,2012-01-24,fhrs_5_en-GB,5,,FHRS,0
-191476,626 Burnley Road East,Rossendale,Lancashire,,The Corner Shop,Retailers - other,4613,5,,100682,5,,53.71257800000000,325,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25095500000000,BB4 9NT,2013-02-05,fhrs_5_en-GB,5,,FHRS,5
-191477,242 Bacup Road,Cloughfold,Rawtenstall,,The Cottage Chip Shop,Takeaway/sandwich shop,7844,0,,143500,0,,53.69833000000000,81,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26840900000000,BB4 7LG,2012-10-29,fhrs_5_en-GB,5,,FHRS,5
-191478,Greave Road,Bacup,,,The Crown Inn,Pub/bar/nightclub,7843,5,,636431,5,,53.70803400000000,7035,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19045100000000,OL13 9HX,2014-01-30,fhrs_5_en-GB,5,,FHRS,5
-191479,20 Bacup Road,Rossendale,Lancashire,,The Crown Public House Plc,Pub/bar/nightclub,7843,5,,55887,5,,53.70092400000000,1262,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28573800000000,BB4 7ND,2010-06-04,fhrs_5_en-GB,5,,FHRS,5
-191480,339 Market Street,"Whitworth, Rochdale",Lancashire,,The Crusty Cob,Restaurant/Cafe/Canteen,1,5,,121898,5,,53.65632800000000,5050,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17687300000000,OL12 8QJ,2013-10-09,fhrs_5_en-GB,5,,FHRS,5
-191481,Grane Road,"Haslingden,",Lancashire,,The Duke of Wellington,Pub/bar/nightclub,7843,0,,110701,5,,53.70288800000000,403,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.35750600000000,BB4 4AT,2013-02-12,fhrs_5_en-GB,5,,FHRS,5
-191482,"Northern Foods, Blackburn Road",Rising Bridge,Accrington,,The Eating Place (OCS Catering),Restaurant/Cafe/Canteen,1,5,,395837,5,,53.72671200000000,5725,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33686800000000,BB5 2SA,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-191483,45b Bank Street,Rossendale,Lancashire,,The Fig Tree,Restaurant/Cafe/Canteen,1,0,,124281,0,,53.70331700000000,5280,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28449700000000,BB4 7QN,2011-09-21,fhrs_5_en-GB,5,,FHRS,0
-191484,Station Court New Hall Hey Road,Rawtenstall,,,The Fire Pit,Restaurant/Cafe/Canteen,1,5,,727581,5,,53.69843900000000,7087,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29100800000000,BB4 6AJ,2014-12-15,fhrs_5_en-GB,5,,FHRS,5
-191485,Bye Road,Ramsbottom,Lancashire,,The Fisherman's Retreat,Pub/bar/nightclub,7843,5,,125938,0,,53.65392000000000,546,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30218400000000,BL0 0HH,2013-03-19,fhrs_5_en-GB,5,,FHRS,0
-191486,Todmorden Road,Bacup,Lancashire,,The Flowers Inn,Pub/bar/nightclub,7843,5,,129193,5,,53.70963300000000,597,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18539900000000,OL13 9UA,2010-05-01,fhrs_5_en-GB,5,,FHRS,5
-191487,535 Market Street,"Whitworth, Rochdale",Lancashire,,The Friendly Kitchen,Restaurant/Cafe/Canteen,1,5,,145038,5,,53.66033200000000,849,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17443800000000,OL12 8QW,2013-07-19,fhrs_4_en-GB,4,,FHRS,10
-191488,92-94 Rochdale Road,Bacup,,,The George & Dragon,Pub/bar/nightclub,7843,20,,711623,15,,53.69975200000000,7075,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19827500000000,OL13 9NR,2014-10-03,fhrs_1_en-GB,1,,FHRS,15
-191489,1222 Burnley Road,Loveclough,,,The Glory,Pub/bar/nightclub,7843,5,,647259,5,,53.74273200000000,7039,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28386900000000,BB4 8RG,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-191490,148 Manchester Road,"Haslingden, Rossendale",Lancashire,,The Green Squirrel,Pub/bar/nightclub,7843,5,,124261,5,,53.70201000000000,5278,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32149300000000,BB4 6NP,2011-11-03,fhrs_5_en-GB,5,,FHRS,5
-191491,6 Ormerod Street,Rawtenstall,,,The Hut,Restaurant/Cafe/Canteen,1,10,,688372,5,,53.70294700000000,7066,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28528300000000,BB4 8EB,2014-07-31,fhrs_4_en-GB,4,,FHRS,5
-191492,612 Burnley Road,Crawshawbooth,Lancashire,,The Indian Harvest,Restaurant/Cafe/Canteen,1,5,,137827,5,,53.72534300000000,729,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28637400000000,BB4 8AJ,2013-03-21,fhrs_5_en-GB,5,,FHRS,5
-191493,Booth Place,Rossendale,,,The Jolly Sailor,Pub/bar/nightclub,7843,10,,124020,10,,53.69464200000000,5249,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24889400000000,BB4 9BD,2014-09-15,fhrs_3_en-GB,3,,FHRS,10
-191494,Bankside Lane,Bacup,Lancashire,,The Laurels Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,66210,5,,53.86120605468750,149,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.56927990913391,OL13 8HG,2013-08-05,fhrs_5_en-GB,5,,FHRS,0
-191495,St Philips Church Hall,Chatterton Road,Ramsbottom,,The Learning Tree Playgroup,Other catering premises,7841,0,,148824,0,,53.66187000000000,944,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31462000000000,BL0 0PQ,2011-09-27,fhrs_5_en-GB,5,,FHRS,0
-191496,Broadway,Haslingden,"Rossendale, Lancashire",,"The Learning Tree, Out of school care.",Other catering premises,7841,0,,88312,0,,53.69165420532227,2308,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31867337226868,BB4 4EH,2012-10-22,fhrs_5_en-GB,5,,FHRS,0
-191497,Market Square,Deardengate,Haslingden,,The Lindens Rest Home,Hospitals/Childcare/Caring Premises,5,5,,144261,5,,53.70653000000000,827,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32552700000000,BB4 5PU,2014-10-28,fhrs_5_en-GB,5,,FHRS,5
-191498,254 Burnley Road East,Rossendale,Lancashire,,The Masons Arms,Pub/bar/nightclub,7843,5,,101021,5,,53.69815800000000,328,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24806700000000,BB4 9DQ,2012-01-24,fhrs_5_en-GB,5,,FHRS,5
-191499,6 Co-Operation Street,"Crawshawbooth,",Rossendale,,The Masons Arms,Pub/bar/nightclub,7843,5,,104902,0,,53.72408100000000,359,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28803200000000,BB4 8AG,2012-01-24,fhrs_5_en-GB,5,,FHRS,5
-191500,Stall 12 Bacup Market,Union Street,Bacup,,The Muffin Stalls Ltd,Retailers - other,4613,5,,125683,5,,53.62869200000000,5422,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.15539100000000,OL12 0AA,2013-07-31,fhrs_5_en-GB,5,,FHRS,5
-191501,Stall 21 Rawtenstall Market,Newchurch Road,Rawtenstall,,The Muffin Stalls Ltd,Retailers - other,4613,5,,209155,5,,53.70419600000000,5589,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2013-11-28,fhrs_5_en-GB,5,,FHRS,5
-191502,69 Burnley Road East,Rossendale,Lancashire,,The New Millenium Theatre,Restaurant/Cafe/Canteen,1,,,146478,,,53.69539200000000,894,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25126100000000,BB4 9AR,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191503,New Hall Hey Road,Rossendale,Lancashire,,The Old Cobblers Inn,Pub/bar/nightclub,7843,0,,103614,0,,53.69678600000000,349,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29803900000000,BB4 6HR,2013-01-23,fhrs_5_en-GB,5,,FHRS,5
-191504,21 Booth Road,Rossendale,Lancashire,,The Old Tuck Shop,Takeaway/sandwich shop,7844,0,,102002,0,,53.69447500000000,3361,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24724300000000,BB4 9BQ,2012-01-24,fhrs_5_en-GB,5,,FHRS,5
-191505,210 Newchurch Road,Stacksteads,Bacup,,The Paper Shop,Retailers - other,4613,,,92653,,,53.69281900000000,262,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21593000000000,OL13 0TS,2011-03-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-191506,Lower Lane,"Haslingden, Rossendale",Lancashire,,The Parish Nursery,School/college/university,7845,5,,139764,5,,53.70864300000000,756,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32521000000000,BB4 5RA,2014-04-16,fhrs_4_en-GB,4,,FHRS,10
-191507,1 Bank Street,Rossendale,Lancashire,,The Queens Arms Hotel,Pub/bar/nightclub,7843,5,,49553,5,,53.70093800000000,110,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28723800000000,BB4 7NF,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191508,1 Charles Lane,"Haslingden,",Rossendale,,The Roebuck,Pub/bar/nightclub,7843,5,,103215,5,,53.70353300000000,346,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32665500000000,BB4 5EA,2010-08-03,fhrs_5_en-GB,5,,FHRS,5
-191509,7A Bank Street,Rossendale,Lancashire,,The Sandwich Bar,Takeaway/sandwich shop,7844,0,,148056,5,,53.70137100000000,922,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28668100000000,BB4 6QS,2014-02-12,fhrs_5_en-GB,5,,FHRS,5
-191510,95 Newchurch Road,Bacup,,,The Sandwitch Food Company,Restaurant/Cafe/Canteen,1,0,,719388,0,,53.69318100000000,7083,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20946600000000,OL13 0DH,2014-11-12,fhrs_5_en-GB,5,,FHRS,5
-191511,464 Market Street,"Whitworth,",Rossendale,,The Sportsman,Pub/bar/nightclub,7843,10,,113458,5,,53.65888300000000,425,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17527900000000,OL12 8QN,2013-03-26,fhrs_4_en-GB,4,,FHRS,5
-191512,52a Bank Street,Rossendale,Lancashire,,The Studio,Restaurant/Cafe/Canteen,1,5,,59610,5,,53.70266900000000,131,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28509900000000,BB4 8DY,2013-05-21,fhrs_5_en-GB,5,,FHRS,5
-191513,First Floor 6 Ormerod Street,Rawtenstall,,,The Sweetest Thing Bakery,Other catering premises,7841,5,,688374,5,,53.70294700000000,7068,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28528300000000,BB4 8EB,2014-07-21,fhrs_5_en-GB,5,,FHRS,5
-191514,17 Burnley Road East,Rossendale,Lancashire,,The Tea Shop,Restaurant/Cafe/Canteen,1,10,,134519,10,,53.69373600000000,680,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25253900000000,BB4 9AG,2011-06-29,fhrs_3_en-GB,3,,FHRS,10
-191515,499 Market Street,"Whitworth, Rochdale",Lancashire,,The Top Shop Whitworth,Takeaway/sandwich shop,7844,0,,124398,0,,53.65888300000000,5291,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17527900000000,OL12 8QN,2013-02-15,fhrs_5_en-GB,5,,FHRS,5
-191516,Commerce Street,"Haslingden, Rossendale",Lancashire,,The Traveller's Rest,Mobile caterer,7846,5,,103087,5,,53.70799700000000,345,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33135600000000,BB4 5JT,2011-11-04,fhrs_4_en-GB,4,,FHRS,10
-191517,Rossendale Museum Haslingden Road,Rawtenstall,,,The Whitaker CafÃ©,Restaurant/Cafe/Canteen,1,0,,605156,0,,53.69914900000000,7019,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29832800000000,BB4 6RE,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-191518,Church Lane,Edenfield,,,The Woodlands,Hospitals/Childcare/Caring Premises,5,10,,628276,5,,53.67273400000000,7029,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31191600000000,BL0 0QL,2014-01-14,fhrs_4_en-GB,4,,FHRS,5
-191519,488 Manchester Road,"Haslingden, Rossendale",Lancashire,,The Woolpack,Pub/bar/nightclub,7843,5,,50655,5,,53.69285900000000,113,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31192800000000,BB4 6LN,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-191520,Cowtoot Lane,Bacup,Lancashire,,Thorn County Primary School,School/college/university,7845,5,,137407,0,,53.70723000000000,723,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19862800000000,OL13 8EF,2013-09-16,fhrs_5_en-GB,5,,FHRS,5
-191521,100-102 Bury Road,Rossendale,Lancashire,,Thoroughbreads,Retailers - other,4613,0,,145958,0,,53.69622700000000,879,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29132500000000,BB4 6DD,2011-07-11,fhrs_5_en-GB,5,,FHRS,0
-191522,Bacup Conservative Club,Irwell Terrace,Bacup,,Th'owd Con Club,Pub/bar/nightclub,7843,0,,123510,0,,53.70332800000000,5193,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19951900000000,OL13 9AW,2011-02-11,fhrs_5_en-GB,5,,FHRS,5
-191523,62 Deardengate,"Haslingden, Rossendale",Lancashire,,Three Lions Chippy,Takeaway/sandwich shop,7844,5,,123919,5,,53.70425400000000,5235,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32620600000000,BB4 5SN,2014-11-27,fhrs_5_en-GB,5,,FHRS,5
-191524,604 Bacup Road,Waterfoot,Lancashire,,Tim's Chip Stop,Restaurant/Cafe/Canteen,1,5,,147096,0,,53.69228800000000,91,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25271200000000,BB4 7EU,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-191525,15-17 Rochdale Road,Bacup,Lancashire,,TJ's Liquor Store,Retailers - other,4613,,,55105,,,53.70176400000000,1243,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19922400000000,OL13 9NW,2010-05-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-191526,Stubbins Lane,"Ramsbottom,",Lancashire,,TNT Staff Restaurant,Restaurant/Cafe/Canteen,1,0,,127234,0,,53.65440500000000,564,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31625900000000,BL0 0PS,2011-11-15,fhrs_5_en-GB,5,,FHRS,5
-191527,Tonacliffe Road,"Whitworth, Rochdale",Lancashire,,Tonacliffe Primary School,School/college/university,7845,0,,147232,0,,53.64822600000000,912,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17918300000000,OL12 8SS,2014-06-18,fhrs_5_en-GB,5,,FHRS,5
-191528,Stall 7-8 Haslingden Market,Haslingden,,,Tony Shaw,Retailers - other,4613,5,,679139,5,,53.70640700000000,7060,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32754100000000,BB4 5QG,2014-06-27,fhrs_5_en-GB,5,,FHRS,5
-191529,7 Bank Street,Rossendale,Lancashire,,Tony's Fresh Fish and Chips,Takeaway/sandwich shop,7844,5,,51044,5,,53.70137100000000,114,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28668100000000,BB4 6QS,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-191530,5 Yorkshire Street,Bacup,Lancashire,,Tony's Pizza & Kebab House,Takeaway/sandwich shop,7844,10,,130688,5,,53.70360500000000,620,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20009600000000,OL13 9AE,2015-01-15,fhrs_3_en-GB,3,,FHRS,10
-191531,49 Newchurch Road,Rossendale,Lancashire,,Top Shop,Retailers - other,4613,,,120696,,,53.70419600000000,496,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28177700000000,BB4 7QX,2010-08-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-191532,Clod Lane,"Haslingden,",Rossendale,,Tor View Play Scheme,Other catering premises,7841,,,51330,,,53.69104200000000,1149,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31241500000000,BB4 6LR,2011-06-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-191533,Clod Lane,Haslingden,Lancashire,,Tor View School,School/college/university,7845,5,,135468,0,,53.69104200000000,692,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31241500000000,BB4 6LR,2014-05-15,fhrs_5_en-GB,5,,FHRS,0
-191534,147 Market Street,"Shawforth, Rochdale",Lancashire,,Trading Post (Wallbank Ltd),Retailers - other,4613,5,,122647,5,,53.67436800000000,5110,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.16998500000000,OL12 8NX,2011-11-24,fhrs_5_en-GB,5,,FHRS,5
-191535,27-27 Deardengate,"Haslingden, Rossendale",Lancashire,,Tricks & Treats,Retailers - other,4613,,,133030,,,53.70570200000000,654,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32574800000000,BB4 5QN,2011-01-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-191536,Haworth Drive,Bacup,Lancashire,,Tunstead Community Centre,Other catering premises,7841,,,132950,,,53.69414400000000,652,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.22343400000000,OL13 0SA,2011-03-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-191537,Helmshore Road,"Haslingden,",Lancashire,,Turfcote Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,144226,5,,53.69384600000000,826,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32920000000000,BB4 4DP,2014-05-14,fhrs_5_en-GB,5,,FHRS,5
-191538,232 Newchurch Road,Stacksteads,,,Usha Express,Other catering premises,7841,5,,587069,5,,53.69276000000000,7011,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.21868600000000,OL13 0UE,2013-09-03,fhrs_5_en-GB,5,,FHRS,5
-191539,7 Market Place,"Ramsbottom,",Edenfield,,Valentine's Butchers,Retailers - other,4613,5,,51996,5,,53.66889700000000,117,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30469800000000,BL0 0JZ,2014-11-18,fhrs_5_en-GB,5,,FHRS,5
-191540,240 Grane Road,"Haslingden,",Rossendale,,Valley Cantonese Retaurant,Restaurant/Cafe/Canteen,1,5,,111332,5,,53.69857700000000,408,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33771900000000,BB4 4PB,2014-09-08,fhrs_4_en-GB,4,,FHRS,10
-191541,335 Market Street,"Whitworth, Rochdale",Lancashire,,Venice Express,Takeaway/sandwich shop,7844,5,,123966,5,,53.65632800000000,5242,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17687300000000,OL12 8QJ,2013-08-22,fhrs_4_en-GB,4,,FHRS,10
-191542,741 Market Street,"Whitworth, Rochdale",Lancashire,,Village Bakery,Retailers - other,4613,5,,101165,5,,53.66775200000000,3294,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17056400000000,OL12 8LD,2014-01-30,fhrs_4_en-GB,4,,FHRS,10
-191543,252 Bolton Road North,"Ramsbottom, Bury",Lancashire,,Village Chippy,Takeaway/sandwich shop,7844,0,,76982,5,,53.65834400000000,180,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.31527500000000,BL0 0NG,2012-10-09,fhrs_5_en-GB,5,,FHRS,5
-191544,409 Helmshore Road,"Haslingden, Rossendale",Lancashire,,Village Nursery,School/college/university,7845,5,,101782,5,,53.69120400000000,3345,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32922500000000,BB4 4JA,2014-12-19,fhrs_5_en-GB,5,,FHRS,5
-191545,9 Market Street,"Ramsbottom,",Edenfield,,Village Pharmacy,Retailers - other,4613,,,62488,,,53.67022600000000,138,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.30528300000000,BL0 0JQ,2010-09-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-191546,576 Burnley Road,Rawtenstall,Lancashire,,Village Premier Food & Drink,Retailers - other,4613,,,95192,,,53.72534300000000,282,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28637400000000,BB4 8AJ,2012-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-191547,414 Holcombe Road,Rossendale,Lancashire,,Village Stores Limited,Other catering premises,7841,10,,515701,10,,53.68348900000000,6067,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.33355600000000,BB4 4LX,2015-01-08,fhrs_3_en-GB,3,,FHRS,10
-191548,Flat 7 Cobden House,Bacup Road,Rossendale,,Vincent Hardman Catering,Mobile caterer,7846,5,,102841,5,,53.69658500000000,3428,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.26496000000000,BB4 7JJ,2013-07-26,fhrs_5_en-GB,5,,FHRS,5
-191549,560 Burnley Road,Rawtenstall,Lancashire,,Vincenzo's,Restaurant/Cafe/Canteen,1,5,,122582,5,,53.72363100000000,5102,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28790800000000,BB4 8NE,2013-03-21,fhrs_5_en-GB,5,,FHRS,5
-191550,23-27 Bacup Road,"Rawtenstall, Rossendale",Lancashire,,Vogue,Pub/bar/nightclub,7843,5,,444732,5,,53.70062600000000,5789,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28226800000000,BB4 7NQ,2012-07-18,fhrs_5_en-GB,5,,FHRS,5
-191551,Albert Mill,Park Road,Helmshore,,Walker Tea Rooms,Restaurant/Cafe/Canteen,1,5,,551870,0,,53.69016300000000,7004,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.34119500000000,BB4 4AR,2013-05-29,fhrs_5_en-GB,5,,FHRS,0
-191552,2-4 Thorburn Drive,"Whitworth,",Lancashire,,Wallbank Stores,Retailers - other,4613,5,,128700,5,,53.65199500000000,589,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18348100000000,OL12 8UJ,2012-01-24,fhrs_4_en-GB,4,,FHRS,10
-191553,White Carr Lane,Bury,,,Walmersley Golf Club,Pub/bar/nightclub,7843,5,,109485,5,,53.62149900000000,396,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.27646300000000,BL9 6TE,2014-03-14,fhrs_5_en-GB,5,,FHRS,5
-191554,Burnley Road East,Water,Lancashire,,Water CP School (Kitchen),School/college/university,7845,0,,137233,0,,53.72657100000000,720,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24294500000000,BB4 9PX,2012-07-13,fhrs_5_en-GB,5,,FHRS,5
-191555,1095 Burnley Road East,Rossendale,Lancashire,,Water Village Store Limited,Retailers - other,4613,5,,409902,5,,53.72803000000000,5748,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24178600000000,BB4 9QR,2012-08-01,fhrs_4_en-GB,4,,FHRS,10
-191556,29A Burnley Road East,Waterfoot,Rossendale,,Waterfoot Post Office,Retailers - other,4613,,,95591,,,53.69373600000000,286,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25253900000000,BB4 9AG,2011-01-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-191557,Wolfenden Green,Rossendale,Lancashire,,Waterfoot Primary,School/college/university,7845,0,,124216,0,,53.69349700000000,5273,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24623700000000,BB4 9DA,2012-01-17,fhrs_5_en-GB,5,,FHRS,5
-191558,16-18 Ashworth Street,"Waterfoot, Rossendale",Lancashire,,Waterfoot Social Club,Pub/bar/nightclub,7843,5,,147103,5,,53.69208800000000,910,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24981800000000,BB4 7AY,2012-10-22,fhrs_4_en-GB,4,,FHRS,10
-191559,63 Burnley Road East,Rossendale,Lancashire,,Watts News,Retailers - other,4613,,,98621,,,53.69539200000000,311,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25126100000000,BB4 9AR,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191560,,,,,We Luv Cakes,Other catering premises,7841,5,,117627,5,,,4687,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191561,Burnley Road,Bacup,Lancashire,,Weir Hotel,Pub/bar/nightclub,7843,5,,125885,5,,53.72388600000000,5451,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19817600000000,OL13 8QE,2012-05-28,fhrs_4_en-GB,4,,FHRS,10
-191562,12-14 South Street,Bacup,Lancashire,,Welcome Arms,Pub/bar/nightclub,7843,5,,86038,5,,53.70302300000000,2186,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19886600000000,OL13 9AP,2011-09-27,fhrs_5_en-GB,5,,FHRS,5
-191563,255 Burnley Road East,Rossendale,Lancashire,,Welcome Village,Takeaway/sandwich shop,7844,0,,99855,0,,53.70061700000000,318,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24986900000000,BB4 9HU,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-191564,10 Todmorden Road,Bacup,Lancashire,,Wellington Hotel,Pub/bar/nightclub,7843,5,,129140,5,,53.70456100000000,596,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.19835800000000,OL13 9BN,2011-09-27,fhrs_4_en-GB,4,,FHRS,10
-191565,371 Bury Road,Rossendale,Lancashire,,Whitchaff Inn,Pub/bar/nightclub,7843,5,,102862,5,,53.69271300000000,343,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.29847900000000,BB4 6EH,2014-02-19,fhrs_5_en-GB,5,,FHRS,5
-191566,612 Burnley Road,Rawtenstall,Lancashire,,White Bull,Pub/bar/nightclub,7843,5,,92572,5,,53.72534300000000,2612,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28637400000000,BB4 8AJ,2012-11-12,fhrs_4_en-GB,4,,FHRS,10
-191567,72 Burnley Road,Rawtenstall,Lancashire,,White Lion,Pub/bar/nightclub,7843,5,,92094,5,,53.70627800000000,258,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28700200000000,BB4 8EW,2011-07-11,fhrs_5_en-GB,5,,FHRS,5
-191568,Burnley Road East,Whitewell Bottom,Lancashire,,Whitewell Bottom Community Ctr,Other catering premises,7841,,,96760,,,53.71257800000000,297,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25095500000000,BB4 9NT,2012-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-191569,289 Market Street,"Whitworth, Rochdale",Lancashire,,Whitworth Chippy,Takeaway/sandwich shop,7844,5,,85410,5,,53.65493500000000,215,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17677600000000,OL12 8PW,2013-06-25,fhrs_5_en-GB,5,,FHRS,5
-191570,Hall Street,"Whitworth,",Lancashire,,Whitworth Community High School (Kitchen,School/college/university,7845,0,,137520,0,,53.65778600000000,725,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.18197800000000,OL12 8TS,2011-07-07,fhrs_5_en-GB,5,,FHRS,5
-191571,Rawstron Street,"Whitworth,",Lancashire,,Whitworth Football & Cricket C,Pub/bar/nightclub,7843,5,,125002,5,,53.66175000000000,535,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17538200000000,OL12 8BA,2010-05-05,fhrs_5_en-GB,5,,FHRS,5
-191572,Hallfold United Reform Church,Hall Street,Whitworth,,Whitworth Play Group Committee,Other catering premises,7841,,,51658,,,53.65558000000000,1159,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17835200000000,OL12 8TL,2013-06-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-191573,498 Market Street,"Whitworth,",Lancashire,,Whitworth Vale Brass Band Club,Pub/bar/nightclub,7843,5,,61461,5,,53.66033200000000,1350,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17443800000000,OL12 8QW,2012-01-24,fhrs_5_en-GB,5,,FHRS,5
-191574,Tong Lane,"Whitworth, Rochdale",Lancashire,,Whitworth Water Ski Centre,Restaurant/Cafe/Canteen,1,10,,85768,5,,53.66239700000000,2172,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17553600000000,OL12 8BE,2011-05-21,fhrs_4_en-GB,4,,FHRS,5
-191575,273 Market Street,"Whitworth, Rochdale",Lancashire,,Whitworth Workers,Pub/bar/nightclub,7843,5,,61422,5,,53.65493500000000,1349,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.17677600000000,OL12 8PW,2010-05-01,fhrs_5_en-GB,5,,FHRS,5
-191576,Lee Street,Bacup,,,Wm Morrison Supermarket PLC,Retailers - supermarkets/hypermarkets,7840,5,,647258,0,,,7038,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,,OL13 0AG,2014-03-28,fhrs_5_en-GB,5,,FHRS,0
-191577,58-60 Millar Barn Lane,Waterfoot,Lancashire,,Ye Olde Boot & Shoe Inn,Pub/bar/nightclub,7843,5,,90395,5,,53.69366200000000,246,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.24934300000000,BB4 7AU,2012-12-18,fhrs_5_en-GB,5,,FHRS,5
-191578,40 Hall Carr Road,Rossendale,Lancashire,,Yong Hao Chinese Takeaway,Takeaway/sandwich shop,7844,10,,54413,10,,53.69750700000000,1227,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.28606400000000,BB4 6AW,2011-12-21,fhrs_3_en-GB,3,,FHRS,10
-191579,8 Union Street,Bacup,,,Yummy Tums,Retailers - other,4613,5,,733044,5,,53.70244500000000,7090,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.20031700000000,OL13 0AA,2015-01-15,fhrs_5_en-GB,5,,FHRS,5
-191580,58 Deardengate,"Haslingden, Rossendale",Lancashire,,Zinlynna,Restaurant/Cafe/Canteen,1,5,,107393,5,,53.70425400000000,379,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32620600000000,BB4 5SN,2014-01-30,fhrs_5_en-GB,5,,FHRS,5
-191581,707 Bacup Road,Rossendale,Lancashire,,Zorba Balti,Takeaway/sandwich shop,7844,10,,149951,10,,53.69228800000000,97,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.25271200000000,BB4 7EU,2014-02-27,fhrs_3_en-GB,3,,FHRS,10
-191582,38 Blackburn Road,"Haslingden, Rossendale",Lancashire,,Zorba Takeaway,Takeaway/sandwich shop,7844,5,,74265,5,,53.70552700000000,171,204,envhealth@rossendalebc.gov.uk,Rossendale,http://www.rossendale.gov.uk,-2.32715600000000,BB4 5QQ,2014-09-30,fhrs_4_en-GB,4,,FHRS,10
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+190993,1 Stop Loco,4,5,5,10,2014-01-23,53.723886,-2.198176
+190994,2nd Rossendale Scout Group,5,5,5,5,2010-07-05,53.705641,-2.202847
+190995,A  Right Royal Tea Party,5,0,5,0,2013-05-15,53.702947,-2.285283
+190996,A J Nuttall (Chemists),Exempt,nan,nan,nan,2011-01-17,53.661231,-2.173972
+190997,A Y News,3,10,10,10,2013-02-08,53.703909,-2.28538
+190998,Abba Care Home,5,5,0,5,2012-10-22,53.729869,-2.194537
+190999,Abbeycroft Nursing Home,5,5,0,5,2014-02-09,53.734743,-2.286847
+191000,Aged Blind and Disabled Centre,Exempt,nan,nan,nan,2010-08-03,53.704186,-2.202325
+191001,Alder Grange Community & Technology School (Kitchen),5,0,0,0,2012-02-22,53.708305,-2.284895
+191002,All Saints Catholic Language College,5,0,0,0,2011-11-28,53.697393,-2.306782
+191003,Anacapri at The White Horse,5,5,5,5,2014-05-06,53.680895,-2.332097
+191004,Anar Kali,3,10,10,10,2013-06-06,53.71998,-2.337072
+191005,Animal Quackers,5,5,5,5,2014-08-04,53.697706,-2.207126
+191006,Annabellas,4,5,5,10,2014-08-13,53.652275,-2.176568
+191007,Annando,4,10,5,5,2013-08-28,53.690587,-2.327736
+191008,Annie Peaches Tearooms,5,5,5,5,2013-10-08,53.699672,-2.279172
+191009,Asda,5,0,5,0,2013-03-20,53.704032,-2.286365
+191010,Asda Cafe (Compass Group (Eurest)),5,0,0,0,2011-11-15,53.694369,-2.294205
+191011,Ash Cottage,5,5,5,5,2014-12-05,53.679608,-2.305684
+191012,Ashlands Nursing Home,5,5,5,5,2014-11-14,53.697837,-2.25117
+191013,Ashoka,5,5,5,5,2013-07-04,53.700599,-2.274649
+191014,Ashoka,5,5,5,5,2014-06-16,53.660368,-2.174408
+191015,Ashworth Arms Hotel,4,10,5,5,2012-10-22,53.700599,-2.274649
+191016,Auntie B's Cakes,5,5,5,5,2012-10-22,,
+191017,Azaan Tandoori Take-away,4,5,5,10,2013-07-16,53.691069,-2.181713
+191018,Azam Services (Texaco),5,0,0,0,2010-05-01,53.706407,-2.327541
+191019,B & M Retail Ltd,5,0,5,0,2012-10-30,53.700095,-2.286339
+191020,B Riley & Sons,4,5,5,10,2014-10-07,53.742732,-2.283869
+191021,Babolli Pizza House,5,5,5,5,2013-08-08,53.704993,-2.325288
+191022,Bacup and Rawtenstall Grammar,5,0,5,0,2014-04-30,53.693441,-2.247418
+191023,Bacup Borough Football Club,3,10,5,10,2012-10-05,53.708327,-2.198164
+191024,Bacup Chippy,4,10,5,5,2014-11-12,53.701764,-2.199224
+191025,Bacup Cricket Supporters Club,5,5,5,0,2013-09-10,53.705015,-2.200996
+191026,Bacup Family Centre,5,5,5,5,2012-01-24,53.700786,-2.192736
+191027,Bacup Golf Club,4,10,5,5,2014-08-27,53.701836,-2.204647
+191028,Bacup Hub,5,5,5,5,2012-10-22,53.705641,-2.202847
+191029,Bacup News,Exempt,nan,nan,nan,2012-10-22,53.702752,-2.199986
+191030,Bacup Road Resource and Recovery Centre,5,0,0,0,2011-06-16,53.700599,-2.274649
+191031,Balladen CP Out of School Club,5,0,5,0,2011-06-16,53.693108,-2.291577
+191032,Balladen CP School,5,5,0,0,2012-01-24,53.8612060547,-2.56927990913
+191033,Ballys Bites,5,5,5,5,2013-04-24,53.69284697,-2.21739091
+191034,Bammys,5,5,5,5,2014-07-28,53.703541,-2.201141
+191035,Bank Street News,Exempt,nan,nan,nan,2012-01-24,53.703317,-2.284497
+191036,Barearts Beers,5,5,5,5,2013-04-22,53.692819,-2.21593
+191037,Barlows,5,5,5,5,2014-01-16,53.6988296509,-2.29227995872
+191038,Basil's,5,0,0,0,2013-02-12,53.654935,-2.176776
+191039,Beaconsfield Conservative Club,4,10,5,5,2012-10-22,53.691521,-2.227796
+191040,Bear Buddies,5,5,5,5,2015-01-21,53.705232,-2.284131
+191041,Beau's,5,5,5,5,2014-03-09,53.703413,-2.334365
+191042,Bed and Breakfast,5,0,0,0,2012-10-22,53.667695,-2.307444
+191043,Belmont Primary School (Kitchen),5,5,0,0,2011-12-08,53.699486,-2.26984
+191044,Belmont School,5,5,5,5,2013-07-02,53.699069,-2.301796
+191045,Ben's Sandwich Bar,5,5,5,0,2013-08-08,53.69833,-2.268409
+191046,Berni Inn,4,0,5,10,2013-08-28,53.666582,-2.171755
+191047,Big Lamp Chippy,5,5,5,5,2014-02-25,53.705802,-2.32534
+191048,Bizzy Plaice,5,5,0,0,2013-07-16,53.670226,-2.305283
+191049,Black Bull Hotel,4,5,5,10,2011-06-16,53.705527,-2.327156
+191050,Blossom,5,5,5,5,2013-07-04,53.700543,-2.287175
+191051,"Blossoms Private Day Nursery Ltd.,",5,5,5,0,2014-08-05,53.705056,-2.19381
+191052,Blue Bell,4,10,5,5,2012-04-12,53.697424,-2.251289
+191053,Boars Head,4,10,5,5,2013-08-01,53.698021,-2.253398
+191054,Boots Uk Limited,Exempt,nan,nan,nan,,53.708627,-2.299282
+191055,Bradshaw Catering Limited,5,0,5,5,2013-09-06,53.699514,-2.292393
+191056,Brians of Bacup,4,10,5,5,2013-07-25,53.702427,-2.200393
+191057,Bricknell's Sweets,Exempt,nan,nan,nan,2014-05-07,53.693736,-2.252539
+191058,Bridge End Hotel,5,5,5,5,2010-07-28,53.684969,-2.33116
+191059,Britannia C P School,5,0,0,0,2014-06-17,53.692347,-2.181007
+191060,Britannia Chippy,5,5,5,5,2014-01-29,53.691069,-2.181713
+191061,Britannia Post Office,5,5,5,5,2014-09-04,53.691069,-2.181713
+191062,British Red Cross Shop,Exempt,nan,nan,nan,2012-10-22,53.693736,-2.252539
+191063,Broadclough Lodge,5,5,5,5,2012-10-22,53.710693,-2.202356
+191064,Broadway Bites,5,5,0,5,2013-05-20,53.690587,-2.327736
+191065,Broadway CP School (kitchen),5,5,0,0,2014-06-20,53.6916542053,-2.31867337227
+191066,Buffer Stops,5,5,5,5,2013-06-19,53.698314,-2.290901
+191067,Bumba's Grill,4,10,5,5,2013-11-20,53.706278,-2.287002
+191068,Burwood Residential Care Home Ltd,5,0,0,0,2015-01-16,53.704561,-2.198358
+191069,Buttercups Club Limited (Bacup Nursery School),5,0,0,0,2014-05-13,53.70723,-2.198628
+191070,Butties 2 Buffets,5,5,5,0,2014-04-28,53.703717,-2.325233
+191071,C & T Street Food,5,5,5,5,2014-03-04,53.691368,-2.241425
+191072,Cafe Artisan,5,5,5,5,2013-02-20,53.700163,-2.287945
+191073,Cafe Tor,5,5,5,0,2014-06-16,53.689453,-2.338176
+191074,CafÃ© Yes,4,10,5,5,2013-12-19,53.702497,-2.285749
+191075,Caffe Aroma,5,5,5,5,2014-01-16,53.705702,-2.325748
+191076,Cake A Day,4,5,0,10,2013-05-15,,
+191077,Camfil Ltd,5,0,0,0,2011-06-16,53.692545,-2.321876
+191078,Capanna,3,10,10,10,2014-02-25,53.705527,-2.327156
+191079,Carol's Cooked Meats,5,5,0,0,2013-01-17,53.704196,-2.281777
+191080,Casa Tapas,5,5,5,5,2013-06-26,53.700839,-2.279891
+191081,Central Methodist Church Hall,4,5,10,5,2012-10-22,53.704186,-2.202325
+191082,Chadwick's Orig Bury Black Pud,5,5,5,5,2012-02-27,53.700617,-2.249869
+191083,Chan's Take Away,5,5,0,0,2011-11-17,53.726541,-2.285427
+191084,Chapel Chippy,5,5,5,5,2013-02-27,53.681646,-2.16526
+191085,Cherry Crescent Centre,Exempt,nan,nan,nan,2012-10-22,53.694369,-2.294205
+191086,Cherry Tree Lodge Ltd,5,0,5,5,2014-03-06,53.694961,-2.294421
+191087,Chesters Chicken,3,10,10,10,2014-02-25,53.704428,-2.324829
+191088,Chicago's,4,5,5,10,2013-11-26,53.703943,-2.32475
+191089,Chicken Fayre,3,10,10,5,2014-09-18,53.704196,-2.281777
+191090,Chixys Chicken,1,15,10,20,2015-01-08,53.702427,-2.200393
+191091,Cinnamon Tree,4,5,5,10,2014-09-02,53.723631,-2.287908
+191092,Cissy Greens,4,10,5,5,2014-09-17,53.705802,-2.32534
+191093,Classic Tastes Cafe,5,5,5,0,2013-03-14,53.703478,-2.296117
+191094,Clough Head Cafe,5,5,5,5,2013-08-02,53.702888,-2.357506
+191095,Cloughfold Conservative Club,5,5,5,5,2011-01-17,53.69833,-2.268409
+191096,Coach and Horses,5,0,0,5,2013-01-04,53.673846,-2.306111
+191097,Cock & Magpie,5,5,5,0,2013-05-23,53.662987,-2.177839
+191098,Cockshott Greengrocers,4,5,10,5,2012-10-22,53.702427,-2.200393
+191099,Coffee Mill CafÃ©,5,0,5,5,2014-04-22,53.689453,-2.338176
+191100,Cohens Chemist,Exempt,nan,nan,nan,,53.703943,-2.32475
+191101,Cohens Chemist,Exempt,nan,nan,nan,2010-11-08,53.691646,-2.223436
+191102,Commercial Hotel,4,5,5,10,2012-10-22,53.703943,-2.32475
+191103,Constable Lee School (Kitchen),5,5,0,0,2012-09-20,53.709835,-2.28795
+191104,Co-op Food Market,5,5,0,0,2012-01-25,53.70205,-2.200225
+191105,Co-op Late Shop,5,5,0,0,2011-10-25,53.706426,-2.327087
+191106,Co-op Late Shop,5,5,5,5,2012-02-16,53.69248,-2.255666
+191107,Co-op Late Shop,5,5,0,0,2013-08-12,53.660972,-2.172519
+191108,Coppice Cakes,5,5,5,0,2015-01-19,53.695351,-2.245127
+191109,Coppice Store,3,5,10,10,2012-01-24,53.695351,-2.245128
+191110,Cordeys Craft Bakers,5,5,5,5,2013-12-03,53.692288,-2.252712
+191111,Cordey's Craft Bakers,5,5,5,5,2013-11-14,53.702669,-2.285099
+191112,Corner Cafe,5,0,0,5,2013-01-17,53.702427,-2.200393
+191113,Cottage Bakery,5,5,5,5,2013-03-25,53.723631,-2.287908
+191114,Country Garden,5,5,5,0,2011-03-02,53.703317,-2.284497
+191115,Cowpe Sunday School,Exempt,nan,nan,nan,2011-03-02,53.686802,-2.25015
+191116,CPA Social Club,5,0,0,0,2013-01-17,53.741714,-2.288335
+191117,Craven Heifer,5,5,0,0,2011-03-02,53.714724,-2.291832
+191118,Crawshaw Hall Medical Centre & Nursing Home,4,5,5,10,2014-07-02,53.721417,-2.289424
+191119,Crawshawbooth Community Centre,5,5,5,5,2011-06-28,53.725158,-2.284842
+191120,Crawshawbooth Fish and Chips,5,5,5,5,2013-07-09,53.723631,-2.287908
+191121,Crawshawbooth Primary School,5,5,0,0,2014-06-10,53.726541,-2.285427
+191122,Cribden House School (Kitchen),5,5,0,5,2014-03-12,53.699069,-2.301796
+191123,Cronkshaw Fold Farm,4,10,0,10,2010-06-14,53.6752,-2.340423
+191124,D & A Gregory & Sons,5,5,5,5,2014-07-16,53.702752,-2.199986
+191125,D.T. Law Butchers Ltd,4,5,10,5,2014-03-11,53.705527,-2.327156
+191126,Danesmoor,3,10,10,10,2014-10-10,53.698833,-2.326346
+191127,Dearden Tea Rooms,5,0,5,5,2014-10-10,53.705802,-2.32534
+191128,Deb's Snack Bar,5,5,5,5,2013-05-16,53.726571,-2.242945
+191129,Deerplay Rest Home,5,5,5,5,2014-02-06,53.725542,-2.196532
+191130,Dixy Chicken,1,10,10,20,2014-09-04,53.692288,-2.252712
+191131,Do Dah's,4,10,5,5,2014-06-19,53.703317,-2.284497
+191132,Doals Community Centre,5,0,5,5,2011-10-27,53.727004,-2.198176
+191133,Donuts,Exempt,nan,nan,nan,2011-11-09,53.65889,-2.316187
+191134,Duke of Buccleugh,5,5,5,5,2012-07-03,53.69248,-2.255666
+191135,Edenfield CoE CP School (Kitchen),5,0,0,0,2011-01-17,53.674665,-2.305648
+191136,Edenfield Community Centre,Exempt,nan,nan,nan,2010-05-01,53.668729,-2.310433
+191137,Edenfield Cricket Club,5,0,5,0,2012-09-06,53.669701,-2.303175
+191138,Edgeside Baptist Church,Exempt,nan,nan,nan,2012-04-12,53.702416,-2.24526
+191139,Edgeside Stores,5,5,5,5,2011-11-15,53.700742,-2.245931
+191140,Educare Nursery,5,5,0,0,2014-07-30,53.697448,-2.291909
+191141,Enticed Cakes,5,0,5,5,2015-01-29,,
+191142,Eurest (Tesco),5,0,0,0,2012-07-03,53.69388,-2.316646
+191143,Family Bargains,5,5,0,0,2012-11-05,53.698439,-2.291008
+191144,Farholme Tavern,4,10,5,5,2012-10-22,53.692819,-2.21593
+191145,Fearns High School (kitchen),5,5,0,0,2011-09-28,53.695488,-2.23954
+191146,Fire Station,5,5,5,5,2012-10-22,53.699963,-2.28911
+191147,Fizzy Bits,5,5,5,5,2013-12-09,53.698314,-2.290901
+191148,Flaxmoss Chippy,5,5,5,0,2013-05-23,53.694893,-2.327633
+191149,Flying Start Nursery,4,10,5,5,2014-08-11,53.708986,-2.28952
+191150,Foresters Arms,5,5,5,5,2012-10-22,53.704993,-2.325288
+191151,Forshaw Newsagents,Exempt,nan,nan,nan,2010-10-27,53.692288,-2.252712
+191152,Freddys Fried Chicken,5,5,5,5,2013-09-26,53.700163,-2.287945
+191153,Freds Grocers,5,5,5,5,2011-06-14,53.700617,-2.249869
+191154,Freehold Cottage,5,0,5,5,2013-01-17,53.686156,-2.166989
+191155,Gabriella's,4,5,5,10,2014-09-11,53.629514,-2.152415
+191156,Georgia Pacific (Dine Limited),4,5,10,5,2014-02-20,53.657275,-2.318444
+191157,Gillies Pies,5,5,5,5,2013-11-06,53.692713,-2.298479
+191158,Golden Kitchen Chinese Takeaway,5,5,5,5,2013-07-24,53.670226,-2.305283
+191159,Good as Gold Child Care Centre,5,5,0,0,2013-08-20,53.694577,-2.249939
+191160,Great Wall,3,5,10,10,2014-02-26,53.704254,-2.326206
+191161,Greenfield Gardens Bowling Centre,5,0,5,5,2011-03-28,53.702909,-2.325075
+191162,Greenfields,5,5,5,5,2012-10-22,53.705702,-2.325748
+191163,Greenfields Nursery Ltd,5,5,0,0,2014-07-01,53.704917,-2.28822
+191164,Greenhouse Farm Nursery Ltd,5,5,5,5,2014-03-10,53.719233,-2.317549
+191165,Greggs,5,5,0,0,2013-02-07,53.705702,-2.325748
+191166,Greggs,5,0,0,0,2013-01-17,53.703317,-2.284497
+191167,Gregsons,5,0,0,0,2015-01-12,53.702746,-2.267165
+191168,Griffin Inn,3,10,5,10,2011-09-15,53.710965,-2.323971
+191169,H. Trickett & Co. Butchers,5,5,0,0,2015-01-20,53.692288,-2.252712
+191170,Halal Food Store,3,10,5,10,2014-04-03,53.706304,-2.287063
+191171,Halfway Chippy,4,5,5,10,2014-04-07,53.668354,-2.170854
+191172,Halfway House,5,5,5,5,2010-10-25,53.669253,-2.170767
+191173,Happy Garden,5,5,5,5,2014-06-17,53.702093,-2.201346
+191174,Happy Valley,5,0,0,5,2012-10-01,53.72587,-2.332603
+191175,Happy Valley Takeaway,5,5,5,0,2013-07-02,53.705641,-2.202847
+191176,Hare & Hounds,4,5,5,10,2011-07-11,53.69205,-2.233024
+191177,Hargreaves Arms,5,5,5,5,2013-07-03,53.719281,-2.247964
+191178,Haslingden Cricket Club,5,5,5,5,2013-03-22,53.692843,-2.314563
+191179,Haslingden Food Store,4,5,5,10,2012-07-19,53.704428,-2.324829
+191180,Haslingden Hall and Lodge Care Home,5,5,0,5,2014-03-03,53.691768,-2.326488
+191181,Haslingden High School(Kitchen),5,5,0,0,2013-01-17,53.6894302368,-2.32030725479
+191182,Haslingden Primary School,5,5,0,0,2014-05-20,53.70213,-2.323978
+191183,Haslingden Service Station,5,5,5,5,2012-04-30,53.70201,-2.321493
+191184,Haslingden Space Ltd,5,5,5,5,2013-09-20,53.70213,-2.323978
+191185,Haslingden Superstore,2,15,10,10,2014-11-26,53.705527,-2.327156
+191186,Haslingden Trades Club,4,10,5,5,2011-03-02,53.70694,-2.326697
+191187,Hayhurst Bakery,4,10,5,5,2015-01-16,53.705843,-2.323507
+191188,Healey Care,4,5,5,10,2013-07-30,53.69374,-2.250585
+191189,Healey Conservative Club,5,0,5,0,2012-10-22,53.641243,-2.178639
+191190,Healey House,5,5,0,0,2012-08-09,53.647665,-2.179652
+191191,Healey Off Licence,Exempt,nan,nan,nan,2010-06-30,53.642346,-2.180338
+191192,Hedgehog Club - Staghills Childrens Centre,5,0,5,0,2014-08-06,53.697275,-2.257861
+191193,Heightside House Nursing Home,4,10,5,5,2014-05-27,53.699394,-2.258919
+191194,Helmshore Pre-School Group,Exempt,nan,nan,nan,2011-06-16,53.68757,-2.330135
+191195,Helmshore Primary School (Kitchen),5,5,5,5,2013-03-26,53.68938,-2.331982
+191196,Heng Ju,4,5,5,10,2013-07-03,53.706278,-2.287002
+191197,Herbal Health,Exempt,nan,nan,nan,2012-10-22,53.701371,-2.286681
+191198,Heritage Kitchen Range of Preserves,5,5,5,5,2011-01-17,53.704186,-2.202325
+191199,Higher Cloughfold General Store,5,5,5,5,2013-10-28,53.702328,-2.273373
+191200,Highfield Hall Care Home,4,10,0,10,2014-12-02,53.699094,-2.333028
+191201,Hillside Nursery School,5,0,0,0,2011-11-15,53.705167,-2.317579
+191202,Hillview Care Centre,5,5,5,5,2014-11-07,53.704669,-2.283204
+191203,Holden Arms,5,5,5,5,2014-06-12,53.698577,-2.337719
+191204,Holden Wood Tearooms,5,5,5,5,2013-03-12,53.69938,-2.340043
+191205,Hollybank House,5,5,5,5,2011-09-27,53.692713,-2.224517
+191206,Holme Manor Residential Home,4,10,5,5,2014-08-28,53.693342,-2.3023
+191207,Holy Trinity CP (Kitchen),5,0,0,0,2014-06-16,53.693371,-2.223717
+191208,Home Made Fayre,3,10,10,10,2015-01-12,53.723631,-2.287908
+191209,Home Made Fayre,4,5,5,10,2014-04-24,53.704196,-2.281777
+191210,Hong Kong,5,5,5,5,2013-11-14,53.693141,-2.253202
+191211,Horncliffe Mount Farm Bed & Breakfast,5,5,5,5,2012-10-22,53.688471,-2.291287
+191212,Howards Meat Market,5,5,0,0,2011-07-11,53.705843,-2.323507
+191213,I Love Lucy Cupcakes,Exempt,nan,nan,nan,2012-04-12,,
+191214,Icing On The Cake,5,0,0,5,2013-05-08,53.702106,-2.199089
+191215,Ilex Chippy,5,5,5,5,2013-08-22,53.700839,-2.279891
+191216,Indian Kitchen,5,5,5,5,2014-01-28,53.693646,-2.252584
+191217,Interfloor,5,5,5,5,2013-04-26,53.6926002502,-2.31833219528
+191218,Irish Democratic Club,5,0,5,5,2012-10-22,53.707207,-2.324199
+191219,Irwell Inn,4,10,5,5,2012-11-23,53.708237,-2.203663
+191220,Its All Good,5,5,5,5,2011-01-17,53.690587,-2.327736
+191221,J & R 's Biscuit Bar,4,10,5,5,2012-10-22,53.704196,-2.281777
+191222,J J's at Winfields,5,5,5,5,2014-05-20,53.72105,-2.323927
+191223,J&G Sandwich and Confectioners,5,5,5,5,2015-01-28,53.692819,-2.21593
+191224,J. J. Cooked Meats,4,5,5,10,2014-10-22,53.704196,-2.281777
+191225,J.D. Discount Store,Exempt,nan,nan,nan,2011-03-02,53.702752,-2.199986
+191226,Jans,3,10,10,10,2014-05-15,53.661231,-2.173972
+191227,Jasmine House,5,5,5,5,2013-03-22,53.697275,-2.257861
+191228,Jesters,Exempt,nan,nan,nan,2010-06-03,53.701561,-2.321445
+191229,JJO Works Canteen,3,10,5,10,2011-12-01,53.691383,-2.209487
+191230,JJO Works Canteen,5,5,5,5,2013-04-18,53.691383,-2.209487
+191231,Jo-Jo's,2,15,10,10,2013-11-12,53.693141,-2.253202
+191232,Joshua Law Traditional Family Butchers,4,0,5,10,2014-10-14,53.667752,-2.170564
+191233,Jubilee Stores,Exempt,nan,nan,nan,2014-10-07,53.698835,-2.332405
+191234,Juns Kitchen,3,10,10,10,2014-07-23,53.693141,-2.253202
+191235,Just Wot U Need Ltd,5,5,5,5,2010-05-01,53.702427,-2.200393
+191236,K.W. Meats,4,0,5,10,2013-01-31,,
+191237,Kay Street Baptist Church,5,0,0,0,2013-10-03,53.701566,-2.283774
+191238,Kelly's Condiments,5,5,5,5,2013-04-29,,
+191239,Keva Cup Cakes,5,0,5,5,2012-10-22,53.708627,-2.299282
+191240,Keys Child Care,Exempt,nan,nan,nan,2012-10-22,53.691982,-2.29272
+191241,Kimberley Workings Mens Club,3,10,10,5,2010-06-30,53.689114,-2.235854
+191242,kiran,5,5,5,5,2013-07-02,53.700617,-2.249869
+191243,La Veranda,4,10,5,5,2014-08-28,53.708756,-2.326332
+191244,Lagaan,4,5,5,10,2014-11-05,53.704254,-2.326206
+191245,Lancashire Black Puddings,5,0,0,0,2012-11-14,53.676237,-2.305856
+191246,Lancashire Farm Foods Limited,5,5,0,5,2011-11-24,53.70733,-2.331957
+191247,Lavender Hills Care Home,3,5,10,10,2014-07-09,53.663029,-2.321529
+191248,Lidl Supermarket,5,0,0,0,2010-05-18,53.700095,-2.286339
+191249,Lisa Jane Cakes,5,5,0,5,2012-01-09,53.658344,-2.315275
+191250,Lloyds Pharmacy,Exempt,nan,nan,nan,2007-10-30,53.70213594,-2.20002564
+191251,Lloyds Pharmacy,Exempt,nan,nan,nan,,53.704599,-2.199716
+191252,Lobden Golf Club,5,5,5,5,2010-11-11,53.653223,-2.167403
+191253,Lords of Rossendale,5,5,0,0,2010-11-11,53.693225,-2.260365
+191254,Lord's The Caterers Limited,5,5,5,5,2014-08-07,53.660631,-2.172729
+191255,Loveclough Working Mens Social Club,5,5,5,5,2010-06-30,53.740549,-2.287251
+191256,Lucky Garden,5,5,5,5,2013-09-05,53.705641,-2.202847
+191257,Lumb Valley Residential Home,3,10,10,10,2014-11-28,53.719281,-2.247964
+191258,Lyn's Cafe,4,10,5,5,2014-08-06,53.702752,-2.199986
+191259,M & M Stores,3,10,10,5,2012-01-24,53.697275,-2.257861
+191260,M Smithies,4,10,5,5,2015-01-15,53.704195,-2.282034
+191261,Ma Beans,5,0,5,5,2012-07-30,,
+191262,Mad Hatters,5,5,5,5,2013-10-08,53.726541,-2.285427
+191263,Maddys Sandwich Shop,5,5,5,0,2013-09-04,53.69205,-2.233024
+191264,Maden Early Years,5,5,0,5,2014-10-20,53.702106,-2.199089
+191265,Madhatters Cupcake Delights,5,0,5,5,2014-05-09,53.704196,-2.281777
+191266,Man Lung,4,10,5,5,2014-06-20,53.704261,-2.323556
+191267,Manchester Road Methodist Church,5,5,5,5,2011-11-04,53.703943,-2.32475
+191268,Mannings,4,10,5,5,2015-01-15,53.702427,-2.200393
+191269,Mannings,5,5,5,5,2013-02-21,53.691646,-2.223436
+191270,Mannings,4,5,10,5,2014-07-08,53.705702,-2.325748
+191271,Mannings,5,0,0,0,2012-01-24,53.701566,-2.283774
+191272,Mannings,5,5,5,0,2013-06-04,53.695392,-2.251261
+191273,Mannings,4,10,5,5,2014-11-11,53.703317,-2.284497
+191274,Mario's Ristorante,4,10,5,5,2014-04-25,53.700323,-2.200853
+191275,Mark Harrison Butchers,5,0,0,5,2015-01-08,53.700626,-2.282268
+191276,Market Street Filling Station,5,0,0,0,2010-08-03,53.69786,-2.200917
+191277,Market Street News,Exempt,nan,nan,nan,2012-10-22,53.670226,-2.305283
+191278,Market Street News,5,5,5,5,2014-04-01,53.670226,-2.305283
+191279,Marl Pits Swimming Baths,5,5,0,0,2013-01-17,53.702723,-2.273421
+191280,Mason Arms,5,5,5,5,2014-07-07,53.700591,-2.249838
+191281,McColls,5,5,5,5,2014-04-07,53.703251,-2.19708
+191282,McDonald's Restaurant Ltd.,5,0,0,0,2014-05-28,53.72587,-2.332603
+191283,Mega Bite,5,5,5,5,2013-12-18,53.704254,-2.326206
+191284,Mega Chill,4,0,10,10,2012-10-23,53.705702,-2.325748
+191285,Mels Cafe,4,5,5,10,2013-08-01,53.704428,-2.324829
+191286,Millon Indian Takeaway,3,10,5,10,2014-01-16,53.704428,-2.324829
+191287,Mi-Mi's,4,5,5,10,2014-02-18,53.700543,-2.287175
+191288,Mings Chinese Take-Away,5,5,5,5,2014-09-03,53.705527,-2.327156
+191289,Mini Market,4,10,5,5,2011-11-15,53.666332,-2.306042
+191290,Moore's Mini Market,5,5,5,0,2013-07-02,53.691069,-2.181713
+191291,Mooreys Health Store,Exempt,nan,nan,nan,2010-10-13,53.702669,-2.285099
+191292,Mr & Mrs P&D Camm,4,5,5,10,2010-06-03,53.706407,-2.327541
+191293,Mr & Mrs Paul Emmott,5,5,0,0,2013-08-19,53.658344,-2.315275
+191294,Mr Anthony Shaw,5,5,5,5,2013-10-17,53.704196,-2.281777
+191295,Mr C's Petrol Station,5,5,5,0,2012-10-22,53.701271,-2.32582
+191296,Mr Kevan Cockshott,4,10,5,5,2012-10-22,53.704196,-2.281777
+191297,Mr P Cross,4,10,5,5,2010-08-25,53.702427,-2.200393
+191298,Mr. Booze,4,5,5,10,2012-11-23,53.708986,-2.28952
+191299,Mr. John Holt,5,5,5,5,2012-10-22,53.678611,-2.339058
+191300,Mr. John Monk,5,5,5,5,2012-01-18,53.702427,-2.200393
+191301,Mr. John Monk,5,5,5,5,2012-10-22,53.706407,-2.327541
+191302,Mr. John Monk,4,10,5,5,2012-01-05,53.704196,-2.281777
+191303,Mrs B Poole,5,0,5,0,2011-11-29,53.72587,-2.332603
+191304,Mrs Diane Camm,5,5,5,5,2011-01-17,53.704196,-2.281777
+191305,Neary's,5,5,5,5,2010-06-30,53.688048,-2.329624
+191306,New Fortune House,5,5,5,0,2013-07-24,53.703943,-2.32475
+191307,New Inn,5,5,5,0,2012-10-22,53.701764,-2.199224
+191308,Newchurch & Dist.Conservative,5,5,5,5,2011-11-15,53.693141,-2.253202
+191309,Newchurch CP School,5,0,0,5,2011-09-07,53.695846,-2.257716
+191310,Nila,5,5,5,5,2014-10-23,53.700543,-2.287175
+191311,Nino's Dial Pizza,5,5,5,5,2013-06-27,53.696269,-2.317527
+191312,Nino's Restaurant,5,5,5,0,2013-12-04,53.700599,-2.274649
+191313,Nisa Stores,5,5,5,5,2011-06-20,53.705802,-2.32534
+191314,No Plates Catering,AwaitingInspection,nan,nan,nan,,53.72567,-2.195457
+191315,North Street Restaurant,5,5,5,5,2013-09-30,53.702132,-2.284111
+191316,Northern CP School (Kitchen),5,0,0,0,2012-01-24,53.718815,-2.199198
+191317,Number 678,5,0,5,5,2011-06-16,53.712578,-2.250955
+191318,Oakenhead Day Centre,5,5,0,0,2012-10-24,53.703478,-2.296117
+191319,Old School CafÃ©,4,5,5,10,2014-07-22,53.703771,-2.321976
+191320,Olive House HFE,5,5,0,5,2014-07-17,53.6938285828,-2.20300245285
+191321,One Stop,5,5,5,5,2012-10-22,53.701923,-2.2008
+191322,One Three One Guest House,5,0,5,5,2011-06-27,53.703478,-2.296117
+191323,Palatine Club,5,5,5,5,2011-01-17,53.69248,-2.255666
+191324,Paula's CafÃ©,4,5,5,10,2014-12-09,53.693646,-2.252584
+191325,Pavillion Express,4,10,5,5,2013-06-27,53.705641,-2.202847
+191326,Pearsons Vintage Tearooms,4,5,5,10,2014-11-07,53.690002,-2.328216
+191327,Peers Clough Farm,5,5,5,5,2011-09-16,53.726834,-2.250494
+191328,Penny Lodge B & B,5,5,5,5,2011-11-08,53.740315,-2.290873
+191329,Perfect Party Cakes,5,0,0,0,2013-05-15,,
+191330,Perpetualcare,Exempt,nan,nan,nan,2011-06-29,53.71998,-2.337072
+191331,Pete's Butchers,5,5,5,5,2010-06-30,53.702427,-2.200393
+191332,Pizza Costa,2,15,10,10,2013-11-01,53.691646,-2.223436
+191333,Pizza King,4,10,5,5,2013-05-30,53.702752,-2.199986
+191334,Pizza Perfect,4,10,5,5,2014-01-22,53.704428,-2.324829
+191335,Pizza Supreme,4,10,5,5,2014-09-09,53.693141,-2.253202
+191336,Pizza Time Express,1,15,10,20,2014-06-24,53.656328,-2.176873
+191337,Pizza Uno,2,15,10,10,2014-07-02,53.69276,-2.218595
+191338,Pleasant View Stores,4,5,5,10,2013-01-17,53.729206,-2.287264
+191339,Porky's Pit Stop,5,5,5,0,2013-07-29,53.644862,-2.181015
+191340,Posh Pig,5,5,5,5,2013-02-14,53.65558,-2.178352
+191341,Puddleducks @ Rising Bridge,5,5,5,5,2014-07-31,53.726968,-2.335597
+191342,Puddleducks Childrens Nursery Ltd,5,0,0,0,2014-01-29,53.694893,-2.327633
+191343,Puddleducks SOS Club,5,0,5,5,2014-12-17,53.72389,-2.330556
+191344,Queens Hotel,4,10,5,5,2014-03-28,53.703605,-2.200096
+191345,Quickstop,5,5,5,5,2010-06-30,53.693736,-2.252539
+191346,R & B Sethi News (Londis),5,5,5,5,2011-09-23,53.704123,-2.318162
+191347,R & K Moore,4,10,5,5,2014-03-12,53.692819,-2.21593
+191348,Rainbow Childcare,2,15,10,10,2014-10-17,53.702139,-2.32051
+191349,RAOB Club and Institute,5,5,5,5,2012-10-22,53.704203,-2.250329
+191350,Rawtenstall Conservative Club,5,5,5,5,2012-04-12,53.70223,-2.284596
+191351,Rawtenstall Cricket Club,5,0,0,5,2011-08-25,53.696188,-2.265775
+191352,Razzmatazz,AwaitingInspection,nan,nan,nan,,53.673569,-2.305595
+191353,Red Lion Hotel,5,5,5,5,2013-02-20,53.655471,-2.173026
+191354,Rehmans,5,5,5,5,2013-02-28,53.696227,-2.291325
+191355,Relish,5,5,5,5,2013-06-24,53.694893,-2.327633
+191356,Riley's Butchers,5,5,5,5,2013-11-12,53.726541,-2.285427
+191357,Rio's Pizza,5,5,5,5,2014-02-20,53.696227,-2.291325
+191358,Riverside Civic Hall,5,0,0,5,2011-07-15,53.665953,-2.171495
+191359,Riverside Health Club,Exempt,nan,nan,nan,2012-04-12,53.696786,-2.298039
+191360,Riverside Inn,5,0,5,5,2010-04-20,53.696227,-2.291325
+191361,Robin Hood Inn,4,10,5,5,2010-08-03,53.689453,-2.338176
+191362,Roebuck,5,5,5,5,2011-06-16,53.704203,-2.250329
+191363,Rose and Crown,5,0,0,0,2011-09-27,53.696843,-2.317698
+191364,Rose 'N' Bowl,5,5,5,5,2013-02-07,53.69216,-2.222363
+191365,Rosemount Working Mens Club,4,10,5,5,2011-11-15,53.693828,-2.219782
+191366,Rosie D's Butty Bar,5,5,5,5,2013-05-13,,
+191367,Ross chippy,5,5,5,5,2014-02-17,53.69248,-2.255666
+191368,Rossendale Booze,Exempt,nan,nan,nan,2012-10-22,53.703943,-2.32475
+191369,Rossendale Children & Parenting Support Service,5,5,5,5,2012-10-22,53.704196,-2.281777
+191370,Rossendale Club Limited,5,5,5,5,2011-03-02,53.703018,-2.201638
+191371,Rossendale Convenience Store,5,5,5,5,2011-07-11,53.723631,-2.287908
+191372,Rossendale Equestrian Centre,5,5,5,5,2013-08-27,53.729877,-2.323616
+191373,Rossendale Golf Club Limited,5,0,0,0,2013-08-22,53.68663,-2.31538
+191374,Rossendale Hospice,5,0,5,5,2010-06-02,53.701358,-2.280501
+191375,Rossendale School,5,0,0,0,2014-05-19,53.652267,-2.283306
+191376,Rossendale Service Station,5,0,5,5,2010-05-13,53.69248,-2.255666
+191377,Rossendale Sports Club,5,5,5,5,2012-11-01,53.703922,-2.275625
+191378,Rossendale Valley Riding Club Cafe,5,5,5,0,2012-08-19,53.699137,-2.265234
+191379,Rostron Arms,4,10,5,5,2014-04-04,53.668934,-2.30429
+191380,Rowans Butchers,5,5,5,5,2014-09-16,53.693646,-2.252584
+191381,Rowlands Fish & Chips,5,5,5,0,2013-02-21,53.656864,-2.172805
+191382,Royal British Legion (Has)Club,5,5,5,5,2011-11-15,53.704254,-2.326206
+191383,Royal Court Theatre,Exempt,nan,nan,nan,2011-06-16,53.699752,-2.198275
+191384,Royal Oak,4,10,5,5,2011-11-15,53.693226,-2.20933
+191385,Runamok,5,5,0,0,2013-10-01,53.707997,-2.331356
+191386,S Fossey Greengrocers,5,5,5,5,2011-09-27,53.702427,-2.200393
+191387,Sagarrika,5,5,5,5,2013-12-02,53.700599,-2.274649
+191388,Sanavis,Exempt,nan,nan,nan,2012-01-24,53.703771,-2.321976
+191389,Sanleo Restaurant Ltd,5,5,5,5,2012-11-29,53.700163,-2.287945
+191390,Satguru Sri Ramana Dev Ashram Seva,5,0,5,5,2014-08-06,,
+191391,School Street mini market,5,0,5,5,2011-07-11,53.691521,-2.227796
+191392,Select and Save (Grocers),5,5,5,5,2012-01-24,53.690587,-2.327736
+191393,Service Stores,5,5,5,5,2011-06-16,53.702752,-2.199986
+191394,Sharneyford School,5,5,5,0,2010-05-01,53.714359,-2.18048
+191395,Shell West End Garage,5,0,5,0,2012-10-22,53.699514,-2.292393
+191396,"Shell, Rising Bridge",5,0,0,0,2011-01-05,53.72587,-2.332603
+191397,Shepherd's Inn,5,5,5,5,2011-06-16,53.699149,-2.298328
+191398,Shiva Trust,Exempt,nan,nan,nan,2014-10-10,53.729215,-2.237777
+191399,Sing Yee Chinese Takeaway,5,5,5,5,2014-08-06,53.693226,-2.20933
+191400,Singh Off Licence,Exempt,nan,nan,nan,2014-05-08,53.69833,-2.268409
+191401,Sixsmith's Bakery,1,10,10,20,2014-03-04,53.668934,-2.30429
+191402,Sky4Jak Convenience,5,0,5,5,2014-04-08,53.69276,-2.218686
+191403,Small World Nurseries,4,10,5,5,2014-04-22,53.641243,-2.178639
+191404,Snack Attack,5,5,5,5,2014-09-16,53.691521,-2.227796
+191405,Snack Box,5,5,5,5,2013-08-19,53.697783,-2.335501
+191406,Snack Stop,3,10,10,5,2012-10-15,53.715198,-2.32417
+191407,Snax,5,0,5,5,2012-01-13,53.697862,-2.309724
+191408,Snowy Owls Montessori,4,0,5,10,2014-04-16,53.703478,-2.296117
+191409,Soulmatefood,5,5,0,0,2014-03-31,53.690856,-2.250159
+191410,"SPAR Stores,",5,0,0,0,2012-01-24,53.706278,-2.287002
+191411,Spice Room,4,5,5,10,2014-11-04,53.72587,-2.332603
+191412,Spicemaster,3,10,10,10,2014-03-26,53.706278,-2.287002
+191413,Spring Terrace Working Mens Club,4,10,5,5,2011-07-11,53.699149,-2.298328
+191414,Springvale Cafe,5,5,5,5,2013-01-08,53.701819,-2.332292
+191415,St Anne's Edgeside CoE Primary School,5,0,0,0,2014-05-21,53.702792,-2.25017
+191416,St Annes Nursery School,5,5,5,5,2010-05-01,53.702792,-2.25017
+191417,St Anselms RC (kitchen),5,5,0,0,2012-07-02,53.664809,-2.173503
+191418,St Bartholomews C P,5,0,0,0,2012-10-10,53.65558,-2.178352
+191419,"St James Catering, St James Church",5,0,0,0,2014-05-27,53.8612060547,-2.56927990913
+191420,St James Parochial Centre,Exempt,nan,nan,nan,2010-06-30,53.708986,-2.28952
+191421,St James the Less Parish Centre Luncheon Club,5,0,0,0,2014-04-23,53.708986,-2.28952
+191422,St James The Less Play Group,Exempt,nan,nan,nan,2012-10-22,53.708986,-2.28952
+191423,St James the Less RC School,5,5,5,0,2014-06-19,53.704362,-2.291155
+191424,St John and St Michael (Kitchen),5,5,5,5,2011-03-02,53.679635,-2.163905
+191425,St John's Church Hall,Exempt,nan,nan,nan,2012-04-12,53.669829,-2.170027
+191426,St Josephs CP School,5,5,5,5,2012-10-22,53.693828,-2.219782
+191427,St Marys Cof E School,5,0,0,0,2014-05-21,53.704563,-2.289656
+191428,St Marys Footbal Club,5,5,5,5,2010-10-31,53.704577,-2.329481
+191429,St Mary's Primary School,5,0,0,0,2010-05-01,53.703187,-2.315125
+191430,St Mary's RC Primary School,5,5,0,0,2011-06-21,53.701805,-2.190393
+191431,St Peters RC CP School (Kitchen),5,0,0,0,2014-06-10,53.699095,-2.255615
+191432,St Saviours cp school,5,0,0,0,2011-03-02,53.69501,-2.196072
+191433,St Veronicas Primary (Kitchen),5,0,0,0,2010-05-01,53.689053,-2.326831
+191434,St. James C Of E Primary Schoo,5,0,0,0,2011-10-19,53.708756,-2.326332
+191435,St. Thomas' Church Hall,Exempt,nan,nan,nan,2012-01-24,53.68757,-2.330135
+191436,St. Veronicas Church Hall,Exempt,nan,nan,nan,2011-01-25,53.688048,-2.329624
+191437,Stacksteads Post Office,Exempt,nan,nan,nan,2010-05-01,53.691521,-2.227796
+191438,Star of India,5,5,5,5,2013-10-30,53.700599,-2.274649
+191439,Station Hotel,4,10,5,5,2012-01-24,53.688048,-2.329624
+191440,Steve's Quality Fruiterers,5,5,5,5,2011-01-17,53.692288,-2.252712
+191441,Stone Fold School (kitchen),5,5,0,0,2011-06-16,53.72389,-2.330556
+191442,Stonefold Fayre,5,0,5,5,2011-10-04,,
+191443,Stubbins CP School (Kitchen),5,0,0,0,2012-01-24,53.660815,-2.312206
+191444,Stubbins Tandoori,5,5,5,5,2013-09-02,53.658344,-2.315275
+191445,Stubbylee Community CafÃ©,3,10,5,10,2013-05-17,53.689795,-2.202726
+191446,Subway,5,0,5,5,2013-08-05,53.706278,-2.287002
+191447,Sun Dragon Cantonese,5,0,5,0,2011-07-11,53.720991,-2.325518
+191448,Sunny Chippy,5,5,5,5,2013-03-27,53.69276,-2.218595
+191449,Sunny Fish and Chips,3,5,10,10,2014-01-09,53.702139,-2.32051
+191450,Sunnybank Day Centre,5,5,5,5,2014-02-05,53.657577,-2.176923
+191451,Sunnybank Social Club,5,5,5,5,2012-10-22,53.684969,-2.33116
+191452,Sunnyside Rest Home,5,5,0,5,2011-01-24,53.655843,-2.176538
+191453,Sweet Nostalgia and Sues Sweets,4,10,5,5,2012-10-22,53.704196,-2.281777
+191454,Sweet Sensations,5,5,5,5,2014-04-30,,
+191455,Sweeties,4,5,5,10,2012-02-10,53.703317,-2.284497
+191456,Swish Coffee,5,0,0,0,2014-04-01,53.705702,-2.325748
+191457,Sykeside Leisure Limited,5,0,5,0,2013-02-14,53.69585,-2.316115
+191458,Taste,5,5,5,5,2014-10-09,53.705527,-2.327156
+191459,Taste of Kyrgizia,5,0,5,5,2014-10-15,,
+191460,Teatime Treats,5,5,5,0,2014-01-27,53.702427,-2.200393
+191461,Tesco (Compass Group (Eurest)),5,5,0,0,2011-10-24,53.8612060547,-2.56927990913
+191462,Tesco (Costa),5,0,5,0,2013-01-09,53.8612060547,-2.56927990913
+191463,Tesco (Costa),5,0,0,0,2011-09-21,53.69388,-2.316646
+191464,Tesco Stores Ltd,5,0,0,0,2014-10-27,53.661231,-2.173972
+191465,Tesco Stores Ltd Haslingden 5124,5,0,0,0,2012-01-24,53.69388,-2.316646
+191466,Tesco Stores Ltd Rawtenstall 4137,5,0,0,0,2011-09-07,53.8612060547,-2.56927990913
+191467,Thai Shack,5,5,5,5,2014-01-16,53.704196,-2.281777
+191468,The Best Club (Britannia) Ltd,5,0,0,5,2013-10-10,53.692347,-2.181007
+191469,The Birches,3,10,10,10,2014-06-16,53.644862,-2.181015
+191470,The Black Dog,3,10,5,10,2013-01-17,53.723631,-2.287908
+191471,The Britannia Bed & Breakfast,5,0,5,5,2013-10-25,53.690347,-2.177803
+191472,The British Queens,5,5,5,5,2011-11-17,53.702427,-2.200393
+191473,"The Burnley Road Chippy,",5,5,0,5,2014-01-23,53.706278,-2.287002
+191474,The Commercial Hotel,4,10,5,5,2011-06-16,53.726571,-2.242945
+191475,The Corner,5,0,0,0,2012-01-24,53.725343,-2.286374
+191476,The Corner Shop,5,5,5,5,2013-02-05,53.712578,-2.250955
+191477,The Cottage Chip Shop,5,5,0,0,2012-10-29,53.69833,-2.268409
+191478,The Crown Inn,5,5,5,5,2014-01-30,53.708034,-2.190451
+191479,The Crown Public House Plc,5,5,5,5,2010-06-04,53.700924,-2.285738
+191480,The Crusty Cob,5,5,5,5,2013-10-09,53.656328,-2.176873
+191481,The Duke of Wellington,5,5,5,0,2013-02-12,53.702888,-2.357506
+191482,The Eating Place (OCS Catering),5,5,5,5,2014-01-09,53.726712,-2.336868
+191483,The Fig Tree,5,0,0,0,2011-09-21,53.703317,-2.284497
+191484,The Fire Pit,5,5,5,5,2014-12-15,53.698439,-2.291008
+191485,The Fisherman's Retreat,5,0,0,5,2013-03-19,53.65392,-2.302184
+191486,The Flowers Inn,5,5,5,5,2010-05-01,53.709633,-2.185399
+191487,The Friendly Kitchen,4,10,5,5,2013-07-19,53.660332,-2.174438
+191488,The George & Dragon,1,15,15,20,2014-10-03,53.699752,-2.198275
+191489,The Glory,5,5,5,5,2014-03-25,53.742732,-2.283869
+191490,The Green Squirrel,5,5,5,5,2011-11-03,53.70201,-2.321493
+191491,The Hut,4,5,5,10,2014-07-31,53.702947,-2.285283
+191492,The Indian Harvest,5,5,5,5,2013-03-21,53.725343,-2.286374
+191493,The Jolly Sailor,3,10,10,10,2014-09-15,53.694642,-2.248894
+191494,The Laurels Nursing Home,5,0,5,5,2013-08-05,53.8612060547,-2.56927990913
+191495,The Learning Tree Playgroup,5,0,0,0,2011-09-27,53.66187,-2.31462
+191496,"The Learning Tree, Out of school care.",5,0,0,0,2012-10-22,53.6916542053,-2.31867337227
+191497,The Lindens Rest Home,5,5,5,5,2014-10-28,53.70653,-2.325527
+191498,The Masons Arms,5,5,5,5,2012-01-24,53.698158,-2.248067
+191499,The Masons Arms,5,5,0,5,2012-01-24,53.724081,-2.288032
+191500,The Muffin Stalls Ltd,5,5,5,5,2013-07-31,53.628692,-2.155391
+191501,The Muffin Stalls Ltd,5,5,5,5,2013-11-28,53.704196,-2.281777
+191502,The New Millenium Theatre,Exempt,nan,nan,nan,2012-10-22,53.695392,-2.251261
+191503,The Old Cobblers Inn,5,5,0,0,2013-01-23,53.696786,-2.298039
+191504,The Old Tuck Shop,5,5,0,0,2012-01-24,53.694475,-2.247243
+191505,The Paper Shop,Exempt,nan,nan,nan,2011-03-02,53.692819,-2.21593
+191506,The Parish Nursery,4,10,5,5,2014-04-16,53.708643,-2.32521
+191507,The Queens Arms Hotel,5,5,5,5,2012-10-22,53.700938,-2.287238
+191508,The Roebuck,5,5,5,5,2010-08-03,53.703533,-2.326655
+191509,The Sandwich Bar,5,5,5,0,2014-02-12,53.701371,-2.286681
+191510,The Sandwitch Food Company,5,5,0,0,2014-11-12,53.693181,-2.209466
+191511,The Sportsman,4,5,5,10,2013-03-26,53.658883,-2.175279
+191512,The Studio,5,5,5,5,2013-05-21,53.702669,-2.285099
+191513,The Sweetest Thing Bakery,5,5,5,5,2014-07-21,53.702947,-2.285283
+191514,The Tea Shop,3,10,10,10,2011-06-29,53.693736,-2.252539
+191515,The Top Shop Whitworth,5,5,0,0,2013-02-15,53.658883,-2.175279
+191516,The Traveller's Rest,4,10,5,5,2011-11-04,53.707997,-2.331356
+191517,The Whitaker CafÃ©,5,5,0,0,2013-10-04,53.699149,-2.298328
+191518,The Woodlands,4,5,5,10,2014-01-14,53.672734,-2.311916
+191519,The Woolpack,5,5,5,5,2014-02-06,53.692859,-2.311928
+191520,Thorn County Primary School,5,5,0,5,2013-09-16,53.70723,-2.198628
+191521,Thoroughbreads,5,0,0,0,2011-07-11,53.696227,-2.291325
+191522,Th'owd Con Club,5,5,0,0,2011-02-11,53.703328,-2.199519
+191523,Three Lions Chippy,5,5,5,5,2014-11-27,53.704254,-2.326206
+191524,Tim's Chip Stop,5,5,0,5,2014-01-16,53.692288,-2.252712
+191525,TJ's Liquor Store,Exempt,nan,nan,nan,2010-05-01,53.701764,-2.199224
+191526,TNT Staff Restaurant,5,5,0,0,2011-11-15,53.654405,-2.316259
+191527,Tonacliffe Primary School,5,5,0,0,2014-06-18,53.648226,-2.179183
+191528,Tony Shaw,5,5,5,5,2014-06-27,53.706407,-2.327541
+191529,Tony's Fresh Fish and Chips,5,5,5,5,2013-07-16,53.701371,-2.286681
+191530,Tony's Pizza & Kebab House,3,10,5,10,2015-01-15,53.703605,-2.200096
+191531,Top Shop,Exempt,nan,nan,nan,2010-08-03,53.704196,-2.281777
+191532,Tor View Play Scheme,Exempt,nan,nan,nan,2011-06-16,53.691042,-2.312415
+191533,Tor View School,5,0,0,5,2014-05-15,53.691042,-2.312415
+191534,Trading Post (Wallbank Ltd),5,5,5,5,2011-11-24,53.674368,-2.169985
+191535,Tricks & Treats,Exempt,nan,nan,nan,2011-01-17,53.705702,-2.325748
+191536,Tunstead Community Centre,Exempt,nan,nan,nan,2011-03-02,53.694144,-2.223434
+191537,Turfcote Nursing Home,5,5,5,5,2014-05-14,53.693846,-2.3292
+191538,Usha Express,5,5,5,5,2013-09-03,53.69276,-2.218686
+191539,Valentine's Butchers,5,5,5,5,2014-11-18,53.668897,-2.304698
+191540,Valley Cantonese Retaurant,4,10,5,5,2014-09-08,53.698577,-2.337719
+191541,Venice Express,4,10,5,5,2013-08-22,53.656328,-2.176873
+191542,Village Bakery,4,10,5,5,2014-01-30,53.667752,-2.170564
+191543,Village Chippy,5,5,5,0,2012-10-09,53.658344,-2.315275
+191544,Village Nursery,5,5,5,5,2014-12-19,53.691204,-2.329225
+191545,Village Pharmacy,Exempt,nan,nan,nan,2010-09-02,53.670226,-2.305283
+191546,Village Premier Food & Drink,Exempt,nan,nan,nan,2012-01-24,53.725343,-2.286374
+191547,Village Stores Limited,3,10,10,10,2015-01-08,53.683489,-2.333556
+191548,Vincent Hardman Catering,5,5,5,5,2013-07-26,53.696585,-2.26496
+191549,Vincenzo's,5,5,5,5,2013-03-21,53.723631,-2.287908
+191550,Vogue,5,5,5,5,2012-07-18,53.700626,-2.282268
+191551,Walker Tea Rooms,5,0,0,5,2013-05-29,53.690163,-2.341195
+191552,Wallbank Stores,4,10,5,5,2012-01-24,53.651995,-2.183481
+191553,Walmersley Golf Club,5,5,5,5,2014-03-14,53.621499,-2.276463
+191554,Water CP School (Kitchen),5,5,0,0,2012-07-13,53.726571,-2.242945
+191555,Water Village Store Limited,4,10,5,5,2012-08-01,53.72803,-2.241786
+191556,Waterfoot Post Office,Exempt,nan,nan,nan,2011-01-17,53.693736,-2.252539
+191557,Waterfoot Primary,5,5,0,0,2012-01-17,53.693497,-2.246237
+191558,Waterfoot Social Club,4,10,5,5,2012-10-22,53.692088,-2.249818
+191559,Watts News,Exempt,nan,nan,nan,2012-10-22,53.695392,-2.251261
+191560,We Luv Cakes,5,5,5,5,2012-10-22,,
+191561,Weir Hotel,4,10,5,5,2012-05-28,53.723886,-2.198176
+191562,Welcome Arms,5,5,5,5,2011-09-27,53.703023,-2.198866
+191563,Welcome Village,5,5,0,0,2012-10-22,53.700617,-2.249869
+191564,Wellington Hotel,4,10,5,5,2011-09-27,53.704561,-2.198358
+191565,Whitchaff Inn,5,5,5,5,2014-02-19,53.692713,-2.298479
+191566,White Bull,4,10,5,5,2012-11-12,53.725343,-2.286374
+191567,White Lion,5,5,5,5,2011-07-11,53.706278,-2.287002
+191568,Whitewell Bottom Community Ctr,Exempt,nan,nan,nan,2012-10-22,53.712578,-2.250955
+191569,Whitworth Chippy,5,5,5,5,2013-06-25,53.654935,-2.176776
+191570,Whitworth Community High School (Kitchen,5,5,0,0,2011-07-07,53.657786,-2.181978
+191571,Whitworth Football & Cricket C,5,5,5,5,2010-05-05,53.66175,-2.175382
+191572,Whitworth Play Group Committee,Exempt,nan,nan,nan,2013-06-12,53.65558,-2.178352
+191573,Whitworth Vale Brass Band Club,5,5,5,5,2012-01-24,53.660332,-2.174438
+191574,Whitworth Water Ski Centre,4,5,5,10,2011-05-21,53.662397,-2.175536
+191575,Whitworth Workers,5,5,5,5,2010-05-01,53.654935,-2.176776
+191576,Wm Morrison Supermarket PLC,5,0,0,5,2014-03-28,,
+191577,Ye Olde Boot & Shoe Inn,5,5,5,5,2012-12-18,53.693662,-2.249343
+191578,Yong Hao Chinese Takeaway,3,10,10,10,2011-12-21,53.697507,-2.286064
+191579,Yummy Tums,5,5,5,5,2015-01-15,53.702445,-2.200317
+191580,Zinlynna,5,5,5,5,2014-01-30,53.704254,-2.326206
+191581,Zorba Balti,3,10,10,10,2014-02-27,53.692288,-2.252712
+191582,Zorba Takeaway,4,10,5,5,2014-09-30,53.705527,-2.327156

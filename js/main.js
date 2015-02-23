@@ -1,3 +1,5 @@
+//DELETED THE LAT AND LONG DATA FROM FHRS!!!!
+
 //https://github.com/Leaflet/Leaflet.markercluster
 //http://consumerinsight.which.co.uk/maps/hygiene
 //
@@ -20,10 +22,17 @@ L.TopoJSON = L.GeoJSON.extend({
     }
 })
 
+//Make sure we're looking in the right place for icons
+L.Icon.Default.imagePath = "images/"
+
+
 
 $(function() {
 
+    setCSSSize()
     createMap()
+
+    $(window).resize(setCSSSize);
 
     $(".checkbox").change(function() {
         showHideLayers(this)
@@ -40,15 +49,35 @@ $(function() {
         setView: true,
         maxZoom: 30
     }).on("locationfound", function(e) {
-
         highlightMapCentre()
     }).on("locationerror", function(e) {
-        FSA_APP.map.setView([52.505, -0.09], 5);
-
+        FSA_APP.map.setView([52.53, -0.09], 5);
+        highlightMapCentre()
+ 
     })
 
 
+    setTimeout(function(){ $("#twitter-widget-0").css("height",$("#map").height()); }, 2000);
+    
+
+
 })
+
+function setCSSSize() {
+
+    if ($(window).width() < 1000) {
+        var newWidth = $(window).width()
+    } else {
+        var newWidth = $(window).width()-600
+    }
+    $("#map").css("width",newWidth);
+    $("#map").css("height",$(window).height()-100);
+    
+    $("#twitter-widget-0").css("height",$("#map").height()); 
+    
+    
+    
+}
 
 
 
@@ -103,7 +132,7 @@ function createAuthorityLookups() {
         for (var i = 0; i < data.length; i++) {
             authorityCodeToGeoJsonLookup[data[i]["localauthoritycode"]] = {
                 "authorityCodeToGeoJsonLookup": data[i]["localauthorityname"],
-                "LAD13CD": data[i]["LAD13CD"]
+                "authorityid": data[i]["LAD13CD"]
             }
             geojsonToAuthorityCodeLookup[data[i]["LAD13CD"]] = {
                 "localauthorityname": data[i]["localauthorityname"],
@@ -125,18 +154,31 @@ function createAuthorityLookups() {
 function addFHRSCircles(geojsonid) {
 
     authorityid = geojsonToAuthorityCodeLookup[geojsonid]["authorityid"]
-
+    
     d3.csv("data/fhrs/" + authorityid + ".csv", function(data) {
 
-        addToMap(data)
+        
+
+        addToMap(data) 
+       
+
+
 
     });
 
 
+
     function addToMap(data) {
+
         var markerArray = [];
 
+        var source   = $("#popup-template").html();
+
+        var template = Handlebars.compile(source)
+
         for (var i = 0; i < data.length; i++) {
+
+
 
             d = data[i]
             lat = d["latitude"]
@@ -145,54 +187,60 @@ function addFHRSCircles(geojsonid) {
             businessname = d["businessname"]
 
 
-            if (typeof lat === 'undefined') {
+            if (typeof lat === 'undefined'||typeof lng === 'undefined'||rating=="Exempt") {
                 continue
             };
 
             //Convert to numeric
-            lat = lat + 0.0
-            lng = lng + 0.0
-
             function getFillColour(rating) {
-
 
                 var color = d3.scale.linear()
                     .domain([0, 1, 2, 3, 4, 5])
-                    .range(["#868686", "#E60000", "#FF7611", "#FDC400", "#B4E800", "#63FE05"]);
+                    .range(["#BB0004", "#E83400", "#FF7611", "#FDC400", "#B4E800", "#63FE05"]);
 
                 color = color(rating)
-                if (rating == "Exempt") {
+                if (rating == "AwaitingInspection") {
                     color = "#868686"
                 }
                 return color
             }
+
             style = {
 
-                "color": "#0625FF",
                 "weight": 0,
-                "opacity": 1,
                 "fillColor": getFillColour(rating),
-                "fillOpacity": 0.7,
-                "radius": 5
+                "fillOpacity": 0.9,
+                "radius": 8
 
             };
 
-
-
-
-            m = L.circleMarker([lat, lng], style)
+            var m = L.circleMarker([lat, lng], style)
 
             
 
-            m.bindPopup("<div> Name: " + d.businessname + "</div>" + "<div> FHRS rating:" + d.ratingvalue + "</div>")
+            var html = template(d)
+            
+            m.bindPopup(html, {"offset":L.point(0,-10)})
+         
+                    
+            m.on("mouseover", function() {
+                this.openPopup();
+                this.setStyle({"weight":4, "radius":14, "fillOpacity":1})
+            });
+            m.on("mouseout", function() {
+      
+                this.setStyle({"weight":0, "radius":8, "fillOpacity":0.9})
+            });
+
+         
+
 
             markerArray.push(m);
 
         };
 
+        FSA_APP.layers.FHRS_circles = L.featureGroup(markerArray).addTo(map)
 
-
-        FSA_APP.layers.FHRS_circles = L.featureGroup(markerArray).addTo(map);
 
     }
 
@@ -218,17 +266,33 @@ function addGeoJson(geoData) {
 
     function handleLayer(layer) {
 
-        layer.bindPopup(layer.feature.properties.LAD13NM);
+        layer.bindPopup(layer.feature.properties.NAME);
 
         layer.on({
             click: highlight_and_add
         });
 
-
+            
         function highlight_and_add(e) {
 
+            var layer = e.target
+
+            var my_l = FSA_APP.layers.local_authorities
+            
             my_l.eachLayer(function(layer2) {
                 layer2.setStyle(defaultStyle)
+
+                layer2.off();
+                
+                 layer2.on({
+                     click: highlight_and_add
+                 });
+
+                
+
+
+               
+
             })
 
             //Increase opacity of the layer that has been clicked on
@@ -236,25 +300,36 @@ function addGeoJson(geoData) {
                 "fillOpacity": 0.3
             })
 
-
-            FSA_APP.map.fitBounds(layer.getBounds());
+            if (map.getZoom()<12) {
+                FSA_APP.map.fitBounds(layer.getBounds());
+            }
 
             //Now remove and recreate the layer that displays FHRS ratings
             if (FSA_APP.layers.FHRS_circles) {
                 FSA_APP.map.removeLayer(FSA_APP.layers.FHRS_circles)
             }
-            FSA_APP.layers.FHRS_circles = null
 
+         
+            addFHRSCircles(layer.feature.properties.CODE)
 
+            layer.off()
 
-            addFHRSCircles(layer.feature.id)
+            layer.unbindPopup();
+            layer.bindPopup(layer.feature.properties.NAME);
+   
+            layer.openPopup(e.latlng)
 
+            
+            layer.unbindPopup();
 
+       
+            
 
         }
 
 
     }
+
     my_l.eachLayer(function(layer2) {
         layer2.setStyle(defaultStyle)
     })
@@ -287,9 +362,11 @@ function highlightMapCentre() {
     simulateClick(w, h)
 
 
-}
 
+
+}
 function simulateClick(x, y) {
+
     var clickEvent = document.createEvent('MouseEvents');
     clickEvent.initMouseEvent(
         'click', true, true, window, 0,
@@ -297,7 +374,14 @@ function simulateClick(x, y) {
         false, false, 0, null
     );
     document.elementFromPoint(x, y).dispatchEvent(clickEvent);
+
+
+
+
+ 
+
 }
+
 
 function addProsecutions() {
 
@@ -314,6 +398,17 @@ function addProsecutions() {
 
         var markerArray = [];
 
+        var myIcon = L.icon({
+            iconUrl: 'images/marker-icon2.png',
+            iconRetinaUrl: 'images/marker-icon-2x2.png',
+          
+            iconAnchor: [22, 94],
+            popupAnchor: [-3, -76],
+          
+            shadowSize: [68, 95],
+            shadowAnchor: [22, 94]
+        });
+
         for (var i = 0; i < data.length; i++) {
             lat = data[i]["lat"]
             lng = data[i]["lng"]
@@ -321,6 +416,7 @@ function addProsecutions() {
  
 
 
+            // markerArray.push(L.marker([lat, lng], {icon:myIcon}));
             markerArray.push(L.marker([lat, lng]));
 
         };

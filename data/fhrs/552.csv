@@ -1,523 +1,523 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-460127,,15 Brynheulog Street,Ebbw Vale,Blaenau Gwent,4T Traditional Teatime Treats,Other catering premises,7841,0,,736043,0,,51.78203700000000,40480,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21200900000000,NP23 6JY,2015-01-20,fhrs_5_en-GB,5,,FHRS,0
-460128,(private address),,,,A Little Taste of Loveliness,Retailers - other,4613,0,,491693,0,,,20644,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2012-11-13,fhrs_5_en-GB,5,,FHRS,0
-460129,(private address),,,,A M Snack Bar,Mobile caterer,7846,10,,623574,0,,,40198,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-01-08,fhrs_4_en-GB,4,,FHRS,5
-460130,Touch Of Class,Greenfield Crescent,Beaufort,Ebbw Vale,A Touch of Class,Pub/bar/nightclub,7843,0,,504718,0,,51.79764200000000,37639,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21422600000000,NP23 5PF,2012-12-21,fhrs_5_en-GB,5,,FHRS,0
-460131,,Glandwr Street,Aberbeeg,Abertillery,Aberbeeg Rugby Club,Pub/bar/nightclub,7843,5,,589492,0,,,35331,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-09-13,fhrs_4_en-GB,4,,FHRS,10
-460132,Abertillery Comprehensive School,Alma Street,Abertillery,Blaenau Gwent,Abertillery Comprehensive,School/college/university,7845,0,,42558,0,,51.73521800000000,10493,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13461200000000,NP13 1YL,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-460133,,Alma Street,Abertillery,,Abertillery Leisure Centre,Restaurant/Cafe/Canteen,1,5,,106558,5,,51.73521800000000,37077,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13461200000000,NP13 1YL,2014-05-28,fhrs_4_en-GB,4,,FHRS,10
-460134,Abertillery Pavilion,Abertillery,,,Abertillery Park Cafe,Restaurant/Cafe/Canteen,1,0,,191860,10,,51.75588000000000,36913,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15873100000000,,2013-08-15,fhrs_4_en-GB,4,,FHRS,0
-460135,,7 Somerset Street,Abertillery,Blaenau Gwent,Abertillery Pizzas & Kebab,Takeaway/sandwich shop,7844,10,,238952,10,,51.72988100000000,39637,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13424700000000,NP13 1DJ,2014-02-06,fhrs_3_en-GB,3,,FHRS,10
-460136,,Newall Street,Abertillery,,Abertillery Primary,School/college/university,7845,5,,93451,0,,51.73383100000000,26848,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13213000000000,NP13 1EH,2014-09-03,fhrs_5_en-GB,5,,FHRS,5
-460137,,5 Carmel Street,Abertillery,,Abertillery Sports Club,Pub/bar/nightclub,7843,0,,491691,0,,51.72958600000000,153,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13502200000000,NP13 1DG,2012-12-17,fhrs_5_en-GB,5,,FHRS,5
-460138,Aldi Foodstore Ltd,The Walk,Ebbw Vale,Blaenau Gwent,Aldi,Retailers - supermarkets/hypermarkets,7840,0,,516615,0,,51.77612900000000,35034,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20688000000000,NP23 6AY,2013-03-04,fhrs_5_en-GB,5,,FHRS,0
-460139,Roman Catholic School,Heol Yr Ysgol,Ebbw Vale,,All Saints Catholic Primary School,School/college/university,7845,0,,238908,0,,51.77765900000000,34992,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22238700000000,NP23 6QP,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-460140,(private address),,,,Allan Stokes Catering,Mobile caterer,7846,10,,566887,15,,,3976,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-06-26,fhrs_2_en-GB,2,,FHRS,5
-460141,,Station Road,Waunlwyd,Ebbw Vale,Ambala,Restaurant/Cafe/Canteen,1,10,,669795,5,,51.75461900000000,40074,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19390400000000,NP23 6TN,2014-02-21,fhrs_4_en-GB,4,,FHRS,5
-460142,,Highfield Close,Nantybwch,Tredegar,Ambay Service Station Kiosk,Retailers - other,4613,5,,107929,10,,51.78876400000000,38270,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.26147100000000,NP22 3SB,2013-11-24,fhrs_4_en-GB,4,,FHRS,5
-460143,,24 Church Street,Abertillery,Blaenau Gwent,Amphletts Butchers,Retailers - other,4613,5,,384231,0,,51.73172400000000,39716,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13429300000000,NP13 1DB,2015-02-04,fhrs_5_en-GB,5,,FHRS,0
-460144,Festival Angling Club,Pagoda,Festival Park,Ebbw Vale,Angling Club,Restaurant/Cafe/Canteen,1,10,,106419,0,,,36966,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-09-15,fhrs_4_en-GB,4,,FHRS,10
-460145,,Dukestown Road,Tredegar,,Armoury Stores,Retailers - other,4613,10,,108984,5,,51.78410700000000,39194,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24453900000000,NP22 4QR,2014-03-12,fhrs_3_en-GB,3,,FHRS,10
-460146,Asda,Lakeside Retail Park,Nantyglo,Brynmawr,Asda Stores Ltd,Retailers - supermarkets/hypermarkets,7840,0,,238922,0,,51.79526000000000,37521,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17876600000000,NP23 4SL,2014-10-03,fhrs_5_en-GB,5,,FHRS,5
-460147,,69-71 Ashvale,Tredegar,,Ashvale Stores Ltd,Retailers - other,4613,0,,87929,0,,51.78505500000000,22932,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25767100000000,NP22 4AQ,2013-08-29,fhrs_5_en-GB,5,,FHRS,0
-460148,,47 Ashvale,Tredegar,Blaenau Gwent,Ashvale Supper Bar,Takeaway/sandwich shop,7844,0,,72920,0,,51.78447900000000,16656,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25611800000000,NP22 4AG,2013-03-29,fhrs_5_en-GB,5,,FHRS,0
-460149,Augusta House,Augusta House,Victoria,Ebbw Vale,Augusta House,Hospitals/Childcare/Caring Premises,5,5,,384221,5,,51.75356300000000,36967,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19609300000000,NP23 8DN,2012-05-16,fhrs_5_en-GB,5,,FHRS,0
-460150,,32 Bethcar Street,Ebbw Vale,,B & M Stores,Retailers - other,4613,0,,579596,0,,,38908,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,NP23 6XX,2013-08-20,fhrs_5_en-GB,5,,FHRS,0
-460151,,George Daggar Avenue,Abertillery,,B & S Off Licence,Retailers - other,4613,0,,466775,0,,51.73846700000000,30618,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.14355700000000,NP13 1SJ,2014-11-17,fhrs_5_en-GB,5,,FHRS,0
-460152,,5 Queen Street,Nantyglo,Ebbw Vale,B & S Stores,Retailers - other,4613,10,,191859,0,,51.77953800000000,37379,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16573000000000,NP23 4LX,2013-12-16,fhrs_4_en-GB,4,,FHRS,0
-460153,,2 Crosscombe Terrace,Cwm,Ebbw Vale,B Cake Studio,Other catering premises,7841,5,,583472,0,,51.73997200000000,35987,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18138100000000,NP23 7SP,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-460154,Bailey Arms,School Terrace,Cwm,Ebbw Vale,Bailey Arms,Pub/bar/nightclub,7843,0,,669819,10,,51.74285000000000,40302,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18219500000000,NP23 7QY,2014-06-08,fhrs_4_en-GB,4,,FHRS,0
-460155,Bank House,Llangynidr Road,Beaufort,Ebbw Vale,Bank House,Hospitals/Childcare/Caring Premises,5,5,,238942,5,,51.80659200000000,13903,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20860700000000,NP23 5EY,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-460156,,91 Commercial Street,Tredegar,Blaenau Gwent,Bargain Booze,Retailers - other,4613,0,,238916,0,,51.77433600000000,37308,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24600900000000,NP22 3DN,2012-03-12,fhrs_5_en-GB,5,,FHRS,5
-460157,,17 Church Street,Abertillery,Blaenau Gwent,Bargains Xtra,Retailers - other,4613,,,550607,,,51.73087900000000,39564,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13425800000000,NP13 1DA,2011-12-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-460158,,38 Commercial Street,Tredegar,Blaenau Gwent,BCJ Winter Butchers,Retailers - other,4613,10,,79698,0,,51.77514200000000,19208,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24632100000000,NP22 3DJ,2014-04-16,fhrs_4_en-GB,4,,FHRS,10
-460159,,28B Intermediate Road,Brynmawr,Ebbw Vale,Beacon Lodge Ltd,Hospitals/Childcare/Caring Premises,5,0,,149834,0,,51.80207900000000,9674,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17215600000000,NP23 4SF,2014-03-14,fhrs_5_en-GB,5,,FHRS,0
-460160,,Osborne Road,Brynmawr,Ebbw Vale,Beacon Stores,Retailers - other,4613,0,,191855,0,,51.79744600000000,35124,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18405800000000,NP23 4HG,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-460161,,,Beaufort,Ebbw Vale,Beaufort Bowls Club,Pub/bar/nightclub,7843,10,,63941,0,,51.79762500000000,1413,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21580600000000,NP23 5PJ,2014-03-07,fhrs_4_en-GB,4,,FHRS,0
-460162,,Bangor Road,Beaufort,Ebbw Vale,Beaufort Hill County Primary School,School/college/university,7845,0,,85936,0,,51.79613600000000,21788,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19971400000000,NP23 5QD,2013-12-11,fhrs_5_en-GB,5,,FHRS,0
-460163,Beaufort Rugby Club,School Road,Rassau,Ebbw Vale,Beaufort RFC,Pub/bar/nightclub,7843,10,,238931,0,,51.79762500000000,37140,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21580600000000,NP23 5PJ,2013-08-28,fhrs_4_en-GB,4,,FHRS,0
-460164,,Beaufort Terrace,Beaufort,Ebbw Vale,Beaufort Sports & Social,Pub/bar/nightclub,7843,5,,579595,5,,51.79218300000000,38883,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20648200000000,NP23 5NN,2013-07-25,fhrs_5_en-GB,5,,FHRS,5
-460165,,Beaufort Hill,Beaufort,Ebbw Vale,Beaufort Theatre Ballroom,Pub/bar/nightclub,7843,10,,195790,5,,51.79688500000000,34893,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19948700000000,NP23 5QQ,2013-08-07,fhrs_4_en-GB,4,,FHRS,0
-460166,Bedwellty House,Morgan Street,Tredegar,,Bedwellty House,Restaurant/Cafe/Canteen,1,,,94759,,,51.76887400000000,27917,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24297500000000,NP22 3XN,2013-10-30,fhrs_4_en-GB,4,,FHRS,
-460167,,1-2 Lower Salisbury Street,Tredegar,Blaenau Gwent,Bedwellty Park Bowls Club,Pub/bar/nightclub,7843,5,,550588,0,,51.77076900000000,28647,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24572300000000,NP22 3PT,2013-03-12,fhrs_5_en-GB,5,,FHRS,5
-460168,Bedwellty Park Residential Home,Morgan Street,Tredegar,Blaenau Gwent,Bedwellty Park Residential Home,Hospitals/Childcare/Caring Premises,5,5,,191865,5,,51.77079300000000,16376,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24431700000000,NP22 3NA,2013-07-10,fhrs_5_en-GB,5,,FHRS,5
-460169,,Scwrfa Road,Scwrfa,Tredegar,Belle Vue Inn,Pub/bar/nightclub,7843,10,,318364,15,,51.78415000000000,39530,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24812100000000,NP22 4AZ,2013-10-02,fhrs_2_en-GB,2,,FHRS,15
-460170,The Bert Denning Centre,Warwick Road,Brynmawr,Ebbw Vale,Bert Denning Centre,Other catering premises,7841,0,,445059,0,,51.79730700000000,36987,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17735500000000,NP23 4AR,2012-08-08,fhrs_5_en-GB,5,,FHRS,5
-460171,Unit 18 Blaenau Gwent Workshop,Pond Road,Nantyglo,Ebbw Vale,Best Bite Biscuits,Manufacturers/packers,7839,0,,106533,0,,51.79294900000000,37043,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17611000000000,NP23 4BL,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-460172,,11 The Circle,Tredegar,Blaenau Gwent,Best Kebab & Pizza,Takeaway/sandwich shop,7844,5,,583473,5,,51.77145100000000,40026,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24588600000000,NP22 3PS,2013-08-29,fhrs_4_en-GB,4,,FHRS,10
-460173,,8 Alexandra Road,Six Bells,Abertillery,Best Kebab Fish Bar,Takeaway/sandwich shop,7844,5,,384230,5,,51.72193900000000,39694,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.12796800000000,NP13 2LG,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-460174,,1 Honeyfield Road,Rassau,Ebbw Vale,Big Fry,Takeaway/sandwich shop,7844,5,,107486,0,,51.80023100000000,37965,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22291000000000,NP23 5TA,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-460175,(private address),,,,Bindweed Bakery,Retailers - other,4613,10,,623995,0,,,879,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-01-08,fhrs_4_en-GB,4,,FHRS,0
-460176,Blaenau Gwent Learning Zone,Lime Avenue,Victoria,Ebbw Vale,Blaenau Gwent Learning Zone Coleg Gwent,School/college/university,7845,5,,669794,5,,51.77542100000000,39918,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20403400000000,NP23 6GL,2013-04-01,fhrs_5_en-GB,5,,FHRS,5
-460177,,Blaenavon Road,Brynmawr,Ebbw Vale,Blaen-y-Cwm County Primary School,School/college/university,7845,5,,238927,0,,51.79498500000000,10380,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17303100000000,NP23 4BR,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-460178,,Duffryn Park,Blaina,Abertillery,Blaina Bowls Club,Pub/bar/nightclub,7843,5,,445057,0,,51.73632500000000,35165,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13881800000000,NP13 3DA,2012-07-11,fhrs_5_en-GB,5,,FHRS,0
-460179,,100 High Street,Blaina,Blaenau Gwent,Blaina Constitutional Club,Pub/bar/nightclub,7843,20,,669822,5,,51.76588100000000,40325,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16024800000000,NP13 3AE,2014-06-09,fhrs_1_en-GB,1,,FHRS,0
-460180,,110 High Street,Blaina,Blaenau Gwent,Blaina News,Retailers - other,4613,,,550578,,,51.76726400000000,11413,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16038500000000,NP13 3AF,2013-05-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-460181,,Pump Street,Blaina,Abertillery,Blaina Senior Citizens Hall,Other catering premises,7841,0,,108025,0,,51.76608900000000,38348,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15831200000000,NP13 3LR,2011-09-05,fhrs_5_en-GB,5,,FHRS,5
-460182,,39 Commercial Street,Tredegar,Blaenau Gwent,Body In Balance,Retailers - other,4613,0,,109237,0,,51.77514200000000,39371,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24632100000000,NP22 3DJ,2011-08-02,fhrs_5_en-GB,5,,FHRS,0
-460183,,Gwent Shopping Centre,Tredegar,,Boots Chemist,Retailers - other,4613,,,482849,,,51.77494600000000,23888,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24530100000000,NP22 3EJ,2012-03-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-460184,Unit 7,Church Street,Abertillery,,Boots Co Plc,Retailers - other,4613,,,550593,,,51.73087900000000,31491,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13425800000000,NP13 1DA,2012-11-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-460185,,11 Market Street,Ebbw Vale,,Boots The Chemists Ltd,Retailers - other,4613,,,626513,,,51.77983000000000,16210,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20722500000000,NP23 6HL,2013-07-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-460186,,Unit 3,Tafarnaubach,Tredegar,Bow's Cafe,Restaurant/Cafe/Canteen,1,10,,516621,10,,51.78504500000000,39932,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.28027200000000,NP22 3AA,2014-07-07,fhrs_3_en-GB,3,,FHRS,10
-460187,,9-13 Commercial Road,Llanhilleth,Abertillery,Boyals Convenience Store,Retailers - other,4613,5,,109353,0,,51.70059400000000,39461,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13536700000000,NP13 2JA,2014-08-19,fhrs_5_en-GB,5,,FHRS,0
-460188,Bridge House Residential Home,Beulah Place,Ebbw Vale,Blaenau Gwent,Bridge House Residential Home,Hospitals/Childcare/Caring Premises,5,5,,93300,0,,51.77853600000000,26740,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19751100000000,NP23 6EU,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-460189,,8 King Street,Brynmawr,Blaenau Gwent,Bridgend Inn,Pub/bar/nightclub,7843,0,,415020,0,,51.80200200000000,39762,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16816600000000,NP23 4RE,2014-05-28,fhrs_5_en-GB,5,,FHRS,0
-460190,(private address),,,,Bruce's Fresh Fish,Mobile caterer,7846,0,,99590,0,,,31577,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2011-10-31,fhrs_5_en-GB,5,,FHRS,0
-460191,Bryn Bach Country Park,Merthyr Road,Tafarnaubach,Tredegar,Bryn Bach Parc,Restaurant/Cafe/Canteen,1,5,,717084,0,,51.78530900000000,40461,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.27001500000000,NP22 3AY,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-460192,,Merthyr Road,Tredegar,,Brynbach Primary School,School/college/university,7845,0,,93491,0,,51.78601200000000,26886,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25982900000000,NP22 3RX,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-460193,,Bryngwyn Road,Six Bells,Abertillery,Bryngwyn Primary,School/college/university,7845,0,,95751,0,,51.72339300000000,28678,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.12723700000000,NP13 2PD,2014-01-15,fhrs_5_en-GB,5,,FHRS,5
-460194,,52A Bryn Terrace,Brynithel,Abertillery,Brynithel Convenience Stores,Retailers - other,4613,0,,108471,0,,51.70480600000000,38722,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.14139100000000,NP13 2HF,2014-03-01,fhrs_5_en-GB,5,,FHRS,5
-460195,Bryn Villas,,Brynithel,Abertillery,Brynithel Post Office,Retailers - other,4613,,,608600,,,51.70429600000000,18370,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.14119000000000,NP13 2HE,2013-11-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-460196,,Intermediate Road,Brynmawr,Ebbw Vale,Brynmawr Foundation School,School/college/university,7845,5,,103902,0,,51.80572200000000,35123,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16750800000000,NP23 4XT,2013-09-16,fhrs_5_en-GB,5,,FHRS,5
-460197,,8 Beaufort Street,Brynmawr,Blaenau Gwent,Brynmawr Post Office Ltd,Retailers - other,4613,,,626517,,,51.79980100000000,5987,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17610000000000,NP23 4AE,2013-11-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-460198,,Blaenavon Road,Brynmawr,Ebbw Vale,Brynmawr Pre school Nursery,Hospitals/Childcare/Caring Premises,5,0,,318362,0,,51.79498500000000,38739,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17303100000000,NP23 4BR,2013-10-09,fhrs_5_en-GB,5,,FHRS,0
-460199,Brynmawr Rugby Football Social Club,Catholic Road,Brynmawr,Blaenau Gwent,Brynmawr Rugby Football Social,Pub/bar/nightclub,7843,0,,632199,0,,51.79711600000000,30781,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17217300000000,NP23 4EF,2014-02-04,fhrs_5_en-GB,5,,FHRS,0
-460200,The Royal British Legion,Beaufort Street,Brynmawr,Blaenau Gwent,Brynmawr Social Club,Pub/bar/nightclub,7843,5,,129273,0,,51.79980100000000,5983,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17610000000000,NP23 4AE,2014-04-23,fhrs_5_en-GB,5,,FHRS,0
-460201,,6 Market Square,Brynmawr,Blaenau Gwent,Brynmawr Tandoori Balti House,Takeaway/sandwich shop,7844,10,,106497,5,,51.79844800000000,37011,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17378800000000,NP23 4AJ,2014-02-06,fhrs_3_en-GB,3,,FHRS,10
-460202,,6 Station Road,Brynmawr,Blaenau Gwent,Buffs,Pub/bar/nightclub,7843,5,,238911,5,,51.79704700000000,39532,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17454900000000,NP23 4NA,2012-01-28,fhrs_5_en-GB,5,,FHRS,5
-460203,,69 High Street,Blaina,Blaenau Gwent,Bush Inn,Pub/bar/nightclub,7843,10,,669807,15,,51.76588100000000,40263,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16024800000000,NP13 3AE,2014-08-19,fhrs_2_en-GB,2,,FHRS,15
-460204,,Unit J & K Crown Business Park,Dukestown,Tredegar,Butterflies Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,238960,0,,51.78926200000000,39684,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24679800000000,NP22 4EF,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-460205,(private address),,,,'C' for Cakes,Retailers - other,4613,0,,415019,0,,,39309,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2012-06-13,fhrs_5_en-GB,5,,FHRS,0
-460206,,13 Somerset Street,Abertillery,Blaenau Gwent,CafÃ© Express,Restaurant/Cafe/Canteen,1,10,,583480,5,,51.72988100000000,40085,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13424700000000,NP13 1DJ,2013-08-28,fhrs_4_en-GB,4,,FHRS,5
-460207,Unit 56,Festival Park Shopping Centre,Victoria,Ebbw Vale,Cafe Nova,Restaurant/Cafe/Canteen,1,10,,107577,10,,51.74813200000000,38045,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19608000000000,NP23 8FP,2013-07-22,fhrs_3_en-GB,3,,FHRS,10
-460208,,35 Bethcar Street,Ebbw Vale,,Caffe Sidoli,Restaurant/Cafe/Canteen,1,0,,107027,0,,51.77791300000000,37589,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20824600000000,NP23 6HW,2014-06-26,fhrs_5_en-GB,5,,FHRS,0
-460209,(private address),,,,Cake Maker,Retailers - other,4613,0,,415016,0,,,23181,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2012-02-24,fhrs_5_en-GB,5,,FHRS,0
-460210,,27 Well Street,Brynmawr,Ebbw Vale,Candy Floss,Retailers - other,4613,,,482848,,,51.79814500000000,2174,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18075500000000,NP23 4HD,2012-08-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-460211,,37 Somerset Street,Abertillery,Blaenau Gwent,Cantonese kitchen,Takeaway/sandwich shop,7844,30,,550618,20,,51.72903100000000,39958,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13377700000000,NP13 1DL,2014-11-03,fhrs_0_en-GB,0,,FHRS,20
-460212,,24 Gwent Shopping Centre,Tredegar,,Card Factory,Retailers - other,4613,,,550600,,,51.77494600000000,38522,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24530100000000,NP22 3EJ,2012-05-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-460213,,62 Beaufort Rise,Beaufort,Ebbw Vale,Carini's,Retailers - other,4613,0,,69119,5,,51.79747300000000,15505,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20792800000000,NP23 5JQ,2013-06-25,fhrs_5_en-GB,5,,FHRS,0
-460214,Springvale,Brook Street,Brynmawr,Blaenau Gwent,Carls Catering,Retailers - other,4613,0,,550619,0,,51.79860700000000,39959,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18220300000000,NP23 4HH,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-460215,(private address),,,,Carls Catering Mobile Service,Mobile caterer,7846,5,,83297,0,,,20333,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-03-04,fhrs_5_en-GB,5,,FHRS,0
-460216,,,Aberbeeg,Abertillery,Carpenters Arms,Pub/bar/nightclub,7843,0,,104131,0,,51.71025900000000,35341,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.12977600000000,NP13 2AY,2014-02-04,fhrs_5_en-GB,5,,FHRS,0
-460217,,High Street,Ebbw Vale,Blaenau Gwent,Castle Inn,Pub/bar/nightclub,7843,0,,551522,0,,51.77042000000000,40022,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20859700000000,NP23 6BP,2013-05-21,fhrs_4_en-GB,4,,FHRS,10
-460218,Castle Inn,Rassau Road,Rassau,Ebbw Vale,Castle Inn,Pub/bar/nightclub,7843,5,,238943,5,,51.79619500000000,39356,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23659200000000,NP23 5DA,2013-11-25,fhrs_5_en-GB,5,,FHRS,5
-460219,,95 Attlee Way,Cefn Golau,Tredegar,Cefn Golau Post Office,Retailers - other,4613,5,,107620,0,,51.76752500000000,38083,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25232900000000,NP22 3TD,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-460220,Unit 5-7,Rassau Industrial Estate,Rassau,Ebbw Vale,Celtic Oriental Ltd,Manufacturers/packers,7839,5,,669790,0,,51.80259900000000,39013,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23383700000000,NP23 5SD,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-460221,Cendl Inn,Beaufort Hill,Beaufort,Ebbw Vale,Cendl Inn,Pub/bar/nightclub,7843,0,,100713,5,,51.79746400000000,32521,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19827000000000,NP23 5QN,2014-05-21,fhrs_4_en-GB,4,,FHRS,10
-460222,,46 Bethcar Street,Ebbw Vale,Blaenau Gwent,Central Cafe,Restaurant/Cafe/Canteen,1,0,,90779,5,,51.77678600000000,24888,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20770900000000,NP23 6HG,2013-08-12,fhrs_5_en-GB,5,,FHRS,0
-460223,,35 Commercial Street,Tredegar,,Central Fish Bar,Takeaway/sandwich shop,7844,0,,71948,0,,51.77514200000000,16368,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24632100000000,NP22 3DJ,2014-07-07,fhrs_5_en-GB,5,,FHRS,0
-460224,Chapel Garage,Blaina Road,Brynmawr,Blaenau Gwent,Chapel Garage Kiosk,Retailers - other,4613,5,,238918,5,,51.79449600000000,38120,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17520800000000,NP23 4PT,2013-11-06,fhrs_5_en-GB,5,,FHRS,5
-460225,,28 Commercial Street,Tredegar,,Chop Suey House Take Away,Takeaway/sandwich shop,7844,0,,107064,5,,51.77421300000000,37613,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24652800000000,NP22 3DH,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-460226,,105 Beaufort Rise,Beaufort,Ebbw Vale,Chula,Takeaway/sandwich shop,7844,10,,516622,0,,51.79747300000000,39933,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20792800000000,NP23 5JQ,2014-02-13,fhrs_4_en-GB,4,,FHRS,0
-460227,(private address),,,,Cians Cupcake Toppers,Retailers - other,4613,0,,579602,0,,,5064,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-07-11,fhrs_5_en-GB,5,,FHRS,0
-460228,,103 Eureka Place,Ebbw Vale,Blaenau Gwent,Claireâs Sweet Delights,Retailers - other,4613,0,,736046,0,,51.77846800000000,40556,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20936200000000,NP23 6LN,2015-01-27,fhrs_5_en-GB,5,,FHRS,0
-460229,(private address),,,,Claires Catering,Mobile caterer,7846,5,,107950,0,,,38295,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-02-01,fhrs_5_en-GB,5,,FHRS,5
-460230,(private address),,,,Claire's Diner,Mobile caterer,7846,0,,80067,0,,,19336,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-460231,,87 Bailey Street,Brynmawr,Blaenau Gwent,Classic Fish Bar,Takeaway/sandwich shop,7844,10,,100930,10,,51.79849800000000,32716,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17419500000000,NP23 4AN,2014-03-12,fhrs_3_en-GB,3,,FHRS,10
-460232,,Stockton Way,Tredegar,Blaenau Gwent,Clych Methrin Tic Toc,Hospitals/Childcare/Caring Premises,5,0,,466798,0,,51.78019800000000,39872,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24943200000000,NP22 3ES,2012-10-22,fhrs_5_en-GB,5,,FHRS,5
-460233,,Parrot Row,Blaina,Abertillery,Coed y Garn Primary School,School/college/university,7845,0,,107312,0,,51.77699400000000,37827,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16385300000000,NP13 3AH,2014-04-30,fhrs_5_en-GB,5,,FHRS,0
-460234,,72 High Street,Blaina,Blaenau Gwent,Coffee Bar 72,Restaurant/Cafe/Canteen,1,5,,108615,5,,51.76478000000000,38866,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15975600000000,NP13 3BN,2013-04-11,fhrs_4_en-GB,4,,FHRS,10
-460235,Commercial Hotel,Market Street,Abertillery,Blaenau Gwent,Commercial Hotel,Pub/bar/nightclub,7843,5,,318350,5,,51.72994600000000,15836,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13401700000000,NP13 1AH,2011-12-06,fhrs_5_en-GB,5,,FHRS,5
-460236,Rassau Community Centre,Summerfield Road,Rassau,Ebbw Vale,Community Centre,Other catering premises,7841,5,,106429,10,,51.80103600000000,36975,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22335300000000,NP23 5SU,2013-07-19,fhrs_4_en-GB,4,,FHRS,5
-460237,,53 High Street,Blaina,Abertillery,Cooperative Food,Retailers - supermarkets/hypermarkets,7840,10,,191854,10,,51.76738500000000,10372,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15998300000000,NP13 3XB,2013-07-30,fhrs_4_en-GB,4,,FHRS,0
-460238,,Unit 54a Festival Park Shopping Centre,Victoria,Ebbw Vale,Costa,Restaurant/Cafe/Canteen,1,5,,579597,0,,51.74813200000000,39864,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19608000000000,NP23 8FP,2013-07-05,fhrs_5_en-GB,5,,FHRS,0
-460239,,28 Bailey Street,Brynmawr,Ebbw Vale,Costcutters,Retailers - other,4613,10,,105608,0,,51.79785800000000,36340,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17529500000000,NP23 4AW,2014-10-23,fhrs_2_en-GB,2,,FHRS,15
-460240,,95 Commercial Street,Tredegar,,Cottons Newsagents,Retailers - other,4613,,,626514,,,51.77433600000000,1725,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24600900000000,NP22 3DN,2013-11-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-460241,,Cwmdraw Industrial Estate,Ebbw Vale,Blaenau Gwent,Country Choice,Retailers - other,4613,,,621609,,,51.77818200000000,40088,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19954200000000,NP23 5AE,2013-11-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-460242,(private address),,,,Crepes a la Cas,Mobile caterer,7846,10,,579593,10,,,29539,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-06-03,fhrs_3_en-GB,3,,FHRS,10
-460243,,16 Canning Street,Cwm,Ebbw Vale,Curry Express Ltd,Takeaway/sandwich shop,7844,10,,608604,15,,51.74148200000000,40142,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18411500000000,NP23 7RW,2014-10-29,fhrs_2_en-GB,2,,FHRS,15
-460244,Cwm Welfare Ground,Canning Street,Cwm,Ebbw Vale,Cwm Bowls Club,Pub/bar/nightclub,7843,5,,680313,0,,51.74399400000000,40334,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18651200000000,NP23 7RD,2014-07-01,fhrs_5_en-GB,5,,FHRS,0
-460245,Cwm Comrades club & Institute,86 Marine Street,Cwm,Ebbw Vale,Cwm Comrades Club & Institute,Pub/bar/nightclub,7843,5,,81622,0,,51.73806000000000,19928,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18105600000000,NP23 7SX,2014-06-08,fhrs_5_en-GB,5,,FHRS,0
-460246,Conservative Club,Mill Terrace,Cwm,Ebbw Vale,Cwm Conservative Club,Pub/bar/nightclub,7843,0,,516611,0,,51.74085100000000,11654,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18250500000000,NP23 7SR,2013-02-04,fhrs_5_en-GB,5,,FHRS,5
-460247,,1 Canning Street,Cwm,Ebbw Vale,Cwm Convenience Store,Retailers - other,4613,0,,104192,0,,51.74158500000000,35391,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18374100000000,NP23 7RN,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-460248,Cwm Junior And Infants School,Canning Street,Cwm,Ebbw Vale,Cwm Junior & Infants,School/college/university,7845,0,,127057,0,,51.74399400000000,5612,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18651200000000,NP23 7RD,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-460249,,46 Marine Street,Cwm,Ebbw Vale,Cwm Kebab & Pizza,Takeaway/sandwich shop,7844,10,,106623,15,,51.73976400000000,37149,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18243300000000,NP23 7ST,2014-03-24,fhrs_2_en-GB,2,,FHRS,15
-460250,Cwm Workmens Club,Canning Street,Cwm,Ebbw Vale,Cwm Nat Workingmens Club,Pub/bar/nightclub,7843,0,,482851,5,,51.74294400000000,25351,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18538400000000,NP23 7RH,2012-11-22,fhrs_5_en-GB,5,,FHRS,0
-460251,Post Office,Mill Terrace,Cwm,Ebbw Vale,Cwm Post Office,Retailers - other,4613,,,482844,,,51.74085100000000,15817,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18250500000000,NP23 7SR,2012-05-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-460252,Premier Club,William Street,Cwm,Ebbw Vale,Cwm Premier Club,Pub/bar/nightclub,7843,0,,191853,0,,51.73941900000000,9440,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18277200000000,NP23 7TH,2011-12-19,fhrs_5_en-GB,5,,FHRS,5
-460253,,Church Street,Tredegar,,Cwm Seren Care Home,Hospitals/Childcare/Caring Premises,5,0,,107625,5,,51.77710600000000,38087,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24591200000000,NP22 3DX,2013-06-10,fhrs_5_en-GB,5,,FHRS,5
-460254,,53 Cwmcelyn Road,Blaina,Blaenau Gwent,Cwmcelyn Food Store,Retailers - other,4613,5,,39973,0,,51.76893900000000,10057,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15650100000000,NP13 3LA,2014-02-06,fhrs_5_en-GB,5,,FHRS,0
-460255,Cwmcelyn Nursing Home,High Street,Blaina,Blaenau Gwent,Cwmcelyn Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,94810,0,,51.77008400000000,27971,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16161700000000,NP13 3AQ,2014-07-02,fhrs_5_en-GB,5,,FHRS,0
-460256,Cwrt Mytton,Alma Street,Abertillery,Blaenau Gwent,Cwrt Mytton Home For The Elderly,Hospitals/Childcare/Caring Premises,5,0,,90554,0,,51.73137400000000,24718,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13790400000000,NP13 1TE,2014-05-20,fhrs_5_en-GB,5,,FHRS,0
-460257,,57 Beaufort Street,Brynmawr,Blaenau Gwent,Cwtch,Restaurant/Cafe/Canteen,1,0,,669800,0,,51.79980100000000,40156,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17610000000000,NP23 4AE,2014-02-17,fhrs_5_en-GB,5,,FHRS,0
-460258,,Rising Sun Industrial Estate,Blaina,Abertillery,Cylch Meithrin Helyg Bychan,Hospitals/Childcare/Caring Premises,5,0,,238957,0,,51.77331300000000,39063,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16562100000000,,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-460259,Unit 4,Ashvale Industrial Estate,Fairview,Tredegar,Cylch Meithrin Pobl Bach,Hospitals/Childcare/Caring Premises,5,5,,466791,0,,51.78128900000000,38795,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25589900000000,NP22 3HA,2012-11-14,fhrs_5_en-GB,5,,FHRS,0
-460260,,22 Bailey Street,Brynmawr,Blaenau Gwent,Cymro Inn,Pub/bar/nightclub,7843,0,,191849,0,,51.79849800000000,39610,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17419500000000,NP23 4AN,2011-12-19,fhrs_5_en-GB,5,,FHRS,0
-460261,Glengarriff,Reservoir Road,Beaufort,Ebbw Vale,Daisy Dell Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,107448,0,,51.80080800000000,37930,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21409400000000,NP23 5DE,2014-02-17,fhrs_5_en-GB,5,,FHRS,0
-460262,,By-Pass Road,Ebbw Vale,,David Taylor Garages Ltd (Kiosk),Retailers - other,4613,5,,550598,0,,51.77747900000000,38071,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20584300000000,NP23 8UW,2013-04-16,fhrs_5_en-GB,5,,FHRS,5
-460263,,61 Marine Street,Cwm,Ebbw Vale,Davies Newsbox,Retailers - other,4613,0,,466776,5,,51.73967900000000,3188,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18198200000000,NP23 7SS,2012-10-29,fhrs_5_en-GB,5,,FHRS,0
-460264,,2 Libanus Road,Ebbw Vale,Blaenau Gwent,Deano's,Takeaway/sandwich shop,7844,5,,107558,10,,51.78254000000000,38032,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20771700000000,NP23 6EJ,2013-11-13,fhrs_4_en-GB,4,,FHRS,5
-460265,,Stockton Way,Tredegar,,Deighton Junior & Infants,School/college/university,7845,5,,104060,0,,51.78019800000000,3528,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24943200000000,NP22 3ES,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-460266,Unit 1-3 Dizzy Kidz,Ashvale Industrial Estate,Fairview,Tredegar,Dizzy Kidz,Hospitals/Childcare/Caring Premises,5,0,,107434,0,,51.78128900000000,37919,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25589900000000,NP22 3HA,2014-02-17,fhrs_5_en-GB,5,,FHRS,0
-460267,(private address),,,,Doliâs & Dragons Childminding Services,Hospitals/Childcare/Caring Premises,5,0,,736048,0,,,40559,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2015-02-02,fhrs_5_en-GB,5,,FHRS,5
-460268,Unit 8,The Walk Retail Centre,Ebbw Vale,,Domino's Pizza,Takeaway/sandwich shop,7844,0,,191862,0,,51.77723200000000,37735,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20717000000000,NP23 6DL,2014-01-21,fhrs_5_en-GB,5,,FHRS,5
-460269,Dukestown Post Office,5 Scwrfa Road,Scwrfa,Tredegar,Dukestown Store & Off Licence,Retailers - other,4613,20,,466784,5,,51.78415000000000,38312,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24812100000000,NP22 4AZ,2014-01-17,fhrs_1_en-GB,1,,FHRS,15
-460270,"Dukestown Workmens Club,",1 Evans Terrace,Dukestown,Tredegar,Dukestown Workingmens Club,Pub/bar/nightclub,7843,0,,550585,0,,51.78742200000000,21099,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24905200000000,NP22 4EH,2013-05-08,fhrs_5_en-GB,5,,FHRS,5
-460271,,57 Badminton Grove,Ebbw Vale,Blaenau Gwent,E & S Stores,Retailers - other,4613,5,,384233,0,,51.79079400000000,7726,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21035900000000,NP23 5NA,2012-05-01,fhrs_5_en-GB,5,,FHRS,5
-460272,East Pentwyn Stores,7 East Pentwyn,Blaina,Abertillery,East Pentwyn Stores,Retailers - other,4613,10,,318353,0,,51.76427500000000,24452,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15345400000000,NP13 3JE,2013-08-02,fhrs_4_en-GB,4,,FHRS,5
-460273,East Side Post Office,Bridge Terrace,Cwmtillery,Abertillery,East Side Post Office & Stores,Retailers - other,4613,0,,191858,5,,51.74600500000000,8911,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13217400000000,NP13 1LD,2011-12-20,fhrs_5_en-GB,5,,FHRS,0
-460274,Ebbw Fawr Learning Community,Lime Avenue,Victoria,Ebbw Vale,Ebbw Fawr Learning Community Secondary Phase,School/college/university,7845,5,,691424,5,,51.77542100000000,40200,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20403400000000,NP23 6GL,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-460275,,40 Bethcar Street,Ebbw Vale,,Ebbw Vale Conservative Club,Pub/bar/nightclub,7843,0,,583468,0,,51.77678600000000,16325,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20770900000000,NP23 6HG,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-460276,Ebbw Vale Ex-Servicemens Club,Queen Square,Ebbw Vale,Blaenau Gwent,Ebbw Vale Ex-Servicemens Institute Ltd,Pub/bar/nightclub,7843,10,,95553,5,,51.77868100000000,28542,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20529500000000,NP23 6EF,2013-08-14,fhrs_4_en-GB,4,,FHRS,5
-460277,New Primary School,Strand Annealing Lane,Ebbw Vale,Blaenau Gwent,Ebbw Vale Learning Community Primary Phase,School/college/university,7845,5,,669802,5,,,40202,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-04-08,fhrs_5_en-GB,5,,FHRS,5
-460278,Blaenau Gwent Sports Centre,Lime Avenue,Victoria,Ebbw Vale,Ebbw Vale Sports Centre,Restaurant/Cafe/Canteen,1,5,,608603,5,,51.76591100000000,40120,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20286800000000,NP23 6GL,2013-11-11,fhrs_5_en-GB,5,,FHRS,0
-460279,,87 Badminton Grove,Ebbw Vale,,Epic Cakes,Other catering premises,7841,0,,415017,0,,51.79079400000000,33318,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21035900000000,NP23 5NA,2012-07-10,fhrs_5_en-GB,5,,FHRS,0
-460280,Asda,Lakeside Retail Park,Nantyglo,Brynmawr,Eurest Customer Cafe Asda,Restaurant/Cafe/Canteen,1,0,,706823,0,,51.79526000000000,40443,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17876600000000,NP23 4SL,2014-10-03,fhrs_5_en-GB,5,,FHRS,0
-460281,,92 Commercial Street,Tredegar,Blaenau Gwent,Europa Cafe,Restaurant/Cafe/Canteen,1,0,,384217,0,,51.77433600000000,32050,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24600900000000,NP22 3DN,2013-10-16,fhrs_5_en-GB,5,,FHRS,5
-460282,,109 Somerset Street,Abertillery,,EX Home Guard Officers,Pub/bar/nightclub,7843,0,,550592,0,,51.72758300000000,30595,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13201800000000,NP13 1DR,2013-03-24,fhrs_5_en-GB,5,,FHRS,0
-460283,Eugene Cross Park Club,Pontygof,Ebbw Vale,Blaenau Gwent,EXP Social Club,Pub/bar/nightclub,7843,,,109390,,,51.78294400000000,39497,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20603200000000,NP23 5AZ,2013-06-10,fhrs_5_en-GB,5,,FHRS,
-460284,,5 Market Street,Ebbw Vale,Blaenau Gwent,Family Kebab House & USA Fried Chicken,Takeaway/sandwich shop,7844,10,,108174,10,,51.78068600000000,38490,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20707400000000,NP23 6HJ,2013-11-13,fhrs_3_en-GB,3,,FHRS,5
-460285,,14 Gwent Shopping Centre,Tredegar,Blaenau Gwent,Farm Foods,Retailers - supermarkets/hypermarkets,7840,0,,105958,0,,51.77494600000000,36623,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24530100000000,NP22 3EJ,2013-01-04,fhrs_5_en-GB,5,,FHRS,0
-460286,Farm Foods,Lakeside Retail Park,Nantyglo,Brynmawr,Farm Foods,Retailers - supermarkets/hypermarkets,7840,0,,107709,0,,51.79526000000000,38127,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17876600000000,NP23 4SL,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-460287,Farmers Arms,Beaufort Hill,Beaufort,Ebbw Vale,Farmers Arms,Pub/bar/nightclub,7843,5,,608601,5,,51.79944600000000,40031,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19346400000000,NP23 5QS,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-460288,Fern A F C Sports & Social Club,Mount Street,Tredegar,Blaenau Gwent,Fern AFC Sports & Social Club,Pub/bar/nightclub,7843,10,,68162,0,,51.77388700000000,15239,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24679400000000,NP22 3QL,2013-09-12,fhrs_2_en-GB,2,,FHRS,15
-460289,,Attlee Way,Cefn Golau,Tredegar,First Friends,Hospitals/Childcare/Caring Premises,5,5,,550602,0,,51.76752500000000,38862,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25232900000000,NP22 3TD,2013-02-05,fhrs_5_en-GB,5,,FHRS,0
-460290,,12 Tillery Street,Abertillery,Blaenau Gwent,Five Star Fish Bar,Takeaway/sandwich shop,7844,0,,384232,5,,51.73293600000000,6207,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13351300000000,NP13 1HT,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-460291,,9 Bethcar Street,Ebbw Vale,Blaenau Gwent,Flames Kebab,Takeaway/sandwich shop,7844,5,,669806,0,,51.77899700000000,40258,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20779700000000,NP23 6HH,2014-03-12,fhrs_4_en-GB,4,,FHRS,10
-460292,,95 Bethcar Street,Ebbw Vale,Blaenau Gwent,Frenchies,Takeaway/sandwich shop,7844,0,,669815,10,,51.77596600000000,40286,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20789000000000,NP23 6BB,2014-05-21,fhrs_4_en-GB,4,,FHRS,5
-460293,,7 Bethcar Street,Ebbw Vale,Blaenau Gwent,Fresh & Fruity,Retailers - other,4613,10,,669814,5,,51.77899700000000,40285,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20779700000000,NP23 6HH,2014-04-15,fhrs_4_en-GB,4,,FHRS,5
-460294,Ebbw Vale Market,Bethcar Street,Ebbw Vale,,Fresh & Fruity,Retailers - other,4613,0,,445060,0,,,38548,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2012-08-10,fhrs_5_en-GB,5,,FHRS,0
-460295,,105 Vale Terrace,Tredegar,Blaenau Gwent,Fruit Basket,Retailers - other,4613,0,,621612,0,,51.76256300000000,40174,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23603400000000,NP22 4HY,2013-12-17,fhrs_5_en-GB,5,,FHRS,0
-460296,,Wesleyan Row,Ebbw Vale,Gwent,Geoff Rees Fitness Centre,Retailers - other,4613,,,550581,,,,15855,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,NP3 6EH,2012-10-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-460297,,Oakfield Road,Tredegar,,Georgetown Primary School,School/college/university,7845,0,,100956,10,,51.76672400000000,32742,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23545300000000,NP22 4LJ,2013-07-08,fhrs_4_en-GB,4,,FHRS,0
-460298,,102 Commercial Street,Tredegar,Blaenau Gwent,Get Fresh,Retailers - other,4613,0,,736040,0,,51.78387600000000,40436,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25778200000000,NP22 3HN,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-460299,(private address),,,,Gill Clark Cakes,Retailers - other,4613,0,,579600,0,,,40058,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-07-15,fhrs_5_en-GB,5,,FHRS,0
-460300,(private address),,,,Gingervince & Gilly,Mobile caterer,7846,0,,466774,0,,,24674,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2012-10-12,fhrs_5_en-GB,5,,FHRS,0
-460301,Unit 13,Cwmtillery Industrial Estate,Cwmtillery,Abertillery,Gladiator & Aphrodite Production Ltd,Manufacturers/packers,7839,0,,736042,0,,51.74202000000000,40447,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13507200000000,NP13 1LZ,2014-12-12,fhrs_5_en-GB,5,,FHRS,0
-460302,,Coach Bach,Tredegar,,Glanhowy Junior & Infants,School/college/university,7845,0,,191866,5,,51.78355900000000,2217,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24955400000000,NP22 4RW,2013-07-17,fhrs_5_en-GB,5,,FHRS,5
-460303,Shop 1,Heol Pen Y Cae,Ebbw Vale,Blaenau Gwent,Glyn Coed Fish Bar,Takeaway/sandwich shop,7844,0,,669810,0,,51.79129000000000,40268,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21196800000000,NP23 5UD,2014-05-06,fhrs_5_en-GB,5,,FHRS,0
-460304,,90 Glyn Terrace,Tredegar,Blaenau Gwent,Glyn Terrace Stores,Retailers - other,4613,10,,107565,0,,51.76149700000000,38036,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23316500000000,NP22 4JB,2012-06-26,fhrs_4_en-GB,4,,FHRS,0
-460305,,Badminton Grove,Ebbw Vale,,Glyncoed Primary School,School/college/university,7845,0,,238940,0,,51.79208800000000,11111,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21222100000000,NP23 5UL,2015-02-02,fhrs_5_en-GB,5,,FHRS,0
-460306,Shop 2,2 Heol Penycae,Ebbw Vale,,Glyncoed Stores,Retailers - other,4613,5,,106966,0,,51.79129000000000,37519,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21196800000000,NP23 5UD,2014-04-10,fhrs_5_en-GB,5,,FHRS,0
-460307,,1 Railway Street,Llanhilleth,Abertillery,Go Go Wok,Takeaway/sandwich shop,7844,10,,691423,5,,51.69997700000000,40155,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13591500000000,NP13 2JD,2014-03-03,fhrs_4_en-GB,4,,FHRS,5
-460308,,34a Castle Street,Tredegar,Blaenau Gwent,Golden Chopsticks,Takeaway/sandwich shop,7844,10,,691422,5,,51.77209000000000,40086,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24586000000000,NP22 3DQ,2014-04-02,fhrs_4_en-GB,4,,FHRS,5
-460309,,54 Beaufort Street,Brynmawr,Blaenau Gwent,Golden City,Takeaway/sandwich shop,7844,10,,107333,10,,51.79946500000000,37841,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17546800000000,NP23 4AF,2014-03-28,fhrs_3_en-GB,3,,FHRS,10
-460310,,21 Queen Street,Nantyglo,Ebbw Vale,Golden Lion,Pub/bar/nightclub,7843,10,,67730,5,,51.78093400000000,15132,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16646200000000,NP23 4LW,2014-02-17,fhrs_4_en-GB,4,,FHRS,5
-460311,,34 Beaufort Street,Brynmawr,Blaenau Gwent,Golden Palace,Takeaway/sandwich shop,7844,10,,61868,10,,51.79846000000000,13626,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17526700000000,NP23 4AB,2013-05-16,fhrs_3_en-GB,3,,FHRS,10
-460312,,17 Commercial Street,Tredegar,,Good Taste,Takeaway/sandwich shop,7844,5,,238936,5,,51.77421300000000,37505,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24652800000000,NP22 3DH,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-460313,Greenfield Bungalow,Greenfield Crescent,Beaufort,Ebbw Vale,Greenfield Bungalow,Hospitals/Childcare/Caring Premises,5,0,,706821,0,,51.79764200000000,40421,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21422600000000,NP23 5PF,2014-09-11,fhrs_5_en-GB,5,,FHRS,0
-460314,,17 Gwent Shopping Centre,Tredegar,,Greggs,Retailers - other,4613,0,,550586,0,,51.77494600000000,23900,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24530100000000,NP22 3EJ,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-460315,,30 Beaufort Street,Brynmawr,Ebbw Vale,Greggs,Retailers - other,4613,0,,384224,0,,51.79846000000000,37580,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17526700000000,NP23 4AB,2014-04-29,fhrs_4_en-GB,4,,FHRS,10
-460316,Unit 6,9-15 Church Street,Abertillery,Blaenau Gwent,Greggs,Retailers - other,4613,0,,466799,0,,51.73087900000000,39882,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13425800000000,NP13 1DA,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-460317,,21 Market Street,Ebbw Vale,Blaenau Gwent,Greggs Plc,Retailers - other,4613,0,,88456,5,,51.77983000000000,23189,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20722500000000,NP23 6HL,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-460318,Hereford House,Market Street,Ebbw Vale,,Grist Family Butchers,Retailers - other,4613,10,,106892,0,,52.03591400000000,37447,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-2.42514200000000,,2013-09-18,fhrs_4_en-GB,4,,FHRS,10
-460319,Grosvenor Nursing Home,Victoria Street,Abertillery,Blaenau Gwent,Grosvenor Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,78949,5,,51.73547200000000,18949,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13810900000000,NP13 1PG,2013-06-20,fhrs_5_en-GB,5,,FHRS,0
-460320,Nisa Local,Rassau Road,Rassau,Ebbw Vale,GV Supermarket,Retailers - other,4613,0,,717081,0,,51.79626600000000,40449,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22631200000000,NP23 5BL,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-460321,,60 Vale Terrace,Tredegar,Blaenau Gwent,Happy Gathering,Takeaway/sandwich shop,7844,10,,238953,10,,51.76414600000000,32862,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23774400000000,NP22 4HU,2013-11-14,fhrs_3_en-GB,3,,FHRS,10
-460322,,50 Gladstone Street,Abertillery,Blaenau Gwent,Happy Shopper,Retailers - other,4613,10,,238909,5,,51.73371000000000,26653,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13996200000000,NP13 1NE,2014-03-19,fhrs_3_en-GB,3,,FHRS,10
-460323,,28A Church Street,Abertillery,,Hector's Cosy Cafe,Restaurant/Cafe/Canteen,1,5,,103262,5,,51.73172400000000,34623,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13429300000000,NP13 1DB,2013-11-13,fhrs_5_en-GB,5,,FHRS,5
-460324,(private address),,,,Hey Diddle Griddle,Mobile caterer,7846,5,,688610,10,,,11020,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-07-17,fhrs_4_en-GB,4,,FHRS,0
-460325,Hilltop Garage,King Street,Brynmawr,Blaenau Gwent,Hilltop Garage (kiosk),Retailers - other,4613,10,,107224,0,,51.79932900000000,37749,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18365800000000,NP23 4JD,2014-03-26,fhrs_4_en-GB,4,,FHRS,0
-460326,,19 Hilltop Shopping Centre,Ebbw Vale,,Hilltop Minimarket,Retailers - other,4613,10,,384216,15,,51.77912300000000,11648,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21644000000000,NP23 6PX,2013-11-20,fhrs_2_en-GB,2,,FHRS,10
-460327,Hill Top Sports & Social Club,Darby Crescent,Ebbw Vale,Blaenau Gwent,Hilltop Sports & Social Club,Pub/bar/nightclub,7843,0,,80893,0,,51.77900300000000,19666,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22630800000000,NP23 6QG,2014-04-15,fhrs_5_en-GB,5,,FHRS,0
-460328,,9 Somerset Street,Abertillery,Blaenau Gwent,Ho Ho Take Away,Takeaway/sandwich shop,7844,0,,238947,10,,51.72988100000000,8355,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13424700000000,NP13 1DJ,2013-09-18,fhrs_4_en-GB,4,,FHRS,5
-460329,Unit 1,Festival Park Shopping Centre,Victoria,Ebbw Vale,Holland & Barrett,Retailers - other,4613,0,,108953,0,,51.74813200000000,39163,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19608000000000,NP23 8FP,2013-11-05,fhrs_5_en-GB,5,,FHRS,5
-460330,,14-19 James Street,Ebbw Vale,,Home Bargains,Retailers - other,4613,0,,107925,0,,51.78014400000000,38268,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20819000000000,NP23 6JG,2014-04-15,fhrs_5_en-GB,5,,FHRS,0
-460331,,Gwent Shopping Centre,Tredegar,Blaenau Gwent,Home Bargains,Retailers - other,4613,0,,238945,0,,51.75339126586910,39670,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20731496810913,NP22 3EJ,2015-02-11,fhrs_5_en-GB,5,,FHRS,0
-460332,Unit 2,Lakeside Retail Park,Nantyglo,Ebbw Vale,Home Bargains,Retailers - other,4613,0,,107777,0,,51.79526000000000,38158,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17876600000000,NP23 4SL,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-460333,,86 Bailey Street,Brynmawr,Blaenau Gwent,Homestead Cafe,Restaurant/Cafe/Canteen,1,5,,108345,5,,51.79849800000000,38627,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17419500000000,NP23 4AN,2013-05-14,fhrs_4_en-GB,4,,FHRS,10
-460334,,4 High Street,Llanhilleth,Abertillery,Hong Kong Takeaway,Takeaway/sandwich shop,7844,5,,102879,5,,51.70008300000000,34314,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13238700000000,NP13 2RA,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-460335,,31 High Street,Abertillery,,Iceland,Retailers - supermarkets/hypermarkets,7840,0,,566886,0,,51.73028500000000,38839,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13333000000000,NP13 1AG,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-460336,Unit 1,The Walk,Ebbw Vale,Blaenau Gwent,Iceland,Retailers - supermarkets/hypermarkets,7840,0,,384219,0,,51.77612900000000,36109,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20688000000000,NP23 6AY,2012-04-26,fhrs_5_en-GB,5,,FHRS,5
-460337,,Queen Victoria Street,Tredegar,Blaenau Gwent,Intrim,Pub/bar/nightclub,7843,0,,191845,0,,51.77289600000000,39550,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24701300000000,NP22 3PX,2012-01-06,fhrs_4_en-GB,4,,FHRS,10
-460338,Bush Hotel,Park Row,Tredegar,Blaenau Gwent,Ironside RFC,Pub/bar/nightclub,7843,10,,669805,5,,51.76942800000000,40221,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24751200000000,NP22 3NG,2014-03-31,fhrs_4_en-GB,4,,FHRS,5
-460339,Social Club,Queen Victoria Street,Tredegar,,Ironsides,Pub/bar/nightclub,7843,10,,318357,0,,51.77084700000000,37614,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25198600000000,NP22 3QA,2012-02-27,fhrs_4_en-GB,4,,FHRS,0
-460340,,1 Queensway,Garnlydan,Ebbw Vale,Istanbul,Takeaway/sandwich shop,7844,20,,579598,10,,51.80388000000000,40015,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20834600000000,NP23 5EE,2013-05-21,fhrs_1_en-GB,1,,FHRS,10
-460341,,96 Queen Victoria Street,Tredegar,,Jade Garden,Takeaway/sandwich shop,7844,0,,100310,0,,51.77289600000000,32183,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24701300000000,NP22 3PX,2013-11-07,fhrs_5_en-GB,5,,FHRS,0
-460342,,2 Catholic Road,Brynmawr,Ebbw Vale,Janeâs CafÃ©,Restaurant/Cafe/Canteen,1,20,,551520,10,,51.79711600000000,20271,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17217300000000,NP23 4EF,2014-11-11,fhrs_1_en-GB,1,,FHRS,10
-460343,(private address),,,,Jan's Cakes for Occasions,Retailers - other,4613,0,,482845,0,,,1786,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2012-09-04,fhrs_5_en-GB,5,,FHRS,5
-460344,,2A Henwain Street,Blaina,Abertillery,Jassim Stores,Retailers - other,4613,20,,466792,15,,51.75862800000000,39031,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15807700000000,NP13 3DT,2014-05-09,fhrs_1_en-GB,1,,FHRS,0
-460345,,35 Marine Street,Cwm,Ebbw Vale,JJâs,Retailers - other,4613,0,,669824,5,,51.73971400000000,7309,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18199700000000,NP23 7SS,2014-05-15,fhrs_5_en-GB,5,,FHRS,0
-460346,,47 Marine Street,Cwm,Ebbw Vale,Joe's Fish Bar,Takeaway/sandwich shop,7844,,,238912,,,51.73967900000000,38153,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18198200000000,NP23 7SS,2013-11-27,fhrs_4_en-GB,4,,FHRS,
-460347,Outdoor Market,Bethcar Street,Ebbw Vale,,JP Catering,Retailers - other,4613,10,,104312,10,,51.77780100000000,35501,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20854600000000,,2013-01-25,fhrs_3_en-GB,3,,FHRS,10
-460348,The Institute,Church Street,Ebbw Vale,Blaenau Gwent,Kahve,Restaurant/Cafe/Canteen,1,10,,589495,15,,51.77389300000000,40113,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20742900000000,NP23 6BE,2013-09-24,fhrs_2_en-GB,2,,FHRS,5
-460349,,33 Marine Street,Cwm,Ebbw Vale,Kam Kong Garden,Takeaway/sandwich shop,7844,10,,579603,5,,51.73971400000000,5326,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18199700000000,NP23 7SS,2013-07-25,fhrs_4_en-GB,4,,FHRS,5
-460350,,97 High Street,Blaina,Blaenau Gwent,Katieâs Sandwich Bar,Restaurant/Cafe/Canteen,1,0,,669773,0,,51.76588100000000,21150,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16024800000000,NP13 3AE,2014-06-09,fhrs_4_en-GB,4,,FHRS,10
-460351,(private address),,,,Kelly s Catering,Mobile caterer,7846,10,,623573,10,,,38859,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-01-08,fhrs_4_en-GB,4,,FHRS,0
-460352,Kfc,Cemetery Road,Ebbw Vale,Blaenau Gwent,Kentucky Fried Chicken,Takeaway/sandwich shop,7844,5,,106995,0,,51.78872900000000,37551,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21880000000000,NP23 6LE,2014-06-04,fhrs_5_en-GB,5,,FHRS,5
-460353,(private address),,,,Keri's Independent Catering,Mobile caterer,7846,0,,415024,0,,,8610,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-04-30,fhrs_5_en-GB,5,,FHRS,0
-460354,Kids-R-Us,Park Place,Tredegar,Blaenau Gwent,Kidz R Us,Restaurant/Cafe/Canteen,1,10,,107487,0,,51.76798300000000,37966,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23961700000000,NP22 4LD,2013-04-25,fhrs_4_en-GB,4,,FHRS,10
-460355,(private address),,,,Kimina Cakes,Retailers - other,4613,0,,566885,0,,,25537,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-05-01,fhrs_5_en-GB,5,,FHRS,0
-460356,,60 Bethcar Street,Ebbw Vale,Blaenau Gwent,Kim's Kitchen,Takeaway/sandwich shop,7844,10,,149677,10,,51.77678600000000,9649,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20770900000000,NP23 6HG,2014-03-25,fhrs_3_en-GB,3,,FHRS,10
-460357,,41 Glamorgan Street,Brynmawr,Ebbw Vale,King William IV,Pub/bar/nightclub,7843,10,,109059,5,,51.79807600000000,39235,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17589500000000,NP23 4JY,2014-03-11,fhrs_4_en-GB,4,,FHRS,0
-460358,,103 King Street,Brynmawr,Blaenau Gwent,KT's Wine Bar,Pub/bar/nightclub,7843,0,,106902,5,,51.79942200000000,37461,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17886000000000,NP23 4SY,2011-10-26,fhrs_5_en-GB,5,,FHRS,0
-460359,,18 Church Street,Ebbw Vale,Blaenau Gwent,Kung Fu,Takeaway/sandwich shop,7844,10,,717082,10,,51.77283100000000,40451,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20751600000000,NP23 6BG,2014-11-06,fhrs_3_en-GB,3,,FHRS,10
-460360,"Unit 8, Blaenant Industrial Estate",Blaenavon Road,Brynmawr,Blaenau Gwent,La Mediterranea Food Ltd,Manufacturers/packers,7839,,,623994,,,51.79508500000000,40024,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16839300000000,NP23 4BX,2013-08-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-460361,,1 Beaufort Street,Brynmawr,Ebbw Vale,Legends,Pub/bar/nightclub,7843,0,,491696,0,,51.79980100000000,37583,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17610000000000,NP23 4AE,2012-12-11,fhrs_5_en-GB,5,,FHRS,0
-460362,Lidl Uk Gmbh,Gelli Road,Tredegar,Blaenau Gwent,Lidl UK Gmbh,Retailers - supermarkets/hypermarkets,7840,0,,550620,0,,51.77596500000000,5146,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24666300000000,NP22 3RF,2013-05-21,fhrs_5_en-GB,5,,FHRS,0
-460363,,34b Castle Street,Tredegar,Blaenau Gwent,Little Secrets,Retailers - other,4613,5,,550616,0,,51.77209000000000,39945,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24586000000000,NP22 3DQ,2013-03-27,fhrs_5_en-GB,5,,FHRS,0
-460364,,Upper Coronation Street,Tredegar,Blaenau Gwent,Little Theatre,Retailers - other,4613,,,550609,,,51.77199500000000,39705,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24464000000000,NP22 3RJ,2013-02-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-460365,(private address),,,,Little Valley Treats,Retailers - other,4613,5,,119173,5,,,4842,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2011-07-27,fhrs_5_en-GB,5,,FHRS,0
-460366,Conservative & Unionist Club,Commercial Road,Llanhilleth,Abertillery,Llanhilleth Conservative & Uni,Pub/bar/nightclub,7843,10,,126698,0,,51.70059400000000,5580,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13536700000000,NP13 2JA,2014-01-24,fhrs_4_en-GB,4,,FHRS,5
-460367,Llanhilleth Hotel,High Street,Llanhilleth,Abertillery,Llanhilleth Hotel,Hotel/bed & breakfast/guest house,7842,10,,107737,0,,51.69945600000000,38147,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13030200000000,NP13 2RB,2012-12-11,fhrs_4_en-GB,4,,FHRS,10
-460368,Llanhilleth Miners Institute,Meadow Street,Llanhilleth,Abertillery,Llanhilleth Miners Institute,Restaurant/Cafe/Canteen,1,10,,107788,10,,51.69945300000000,38161,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13432500000000,NP13 2JT,2012-12-07,fhrs_3_en-GB,3,,FHRS,5
-460369,Llanhilleth Rugby Football Club,Commercial Road,Llanhilleth,Abertillery,Llanhilleth RFC,Pub/bar/nightclub,7843,5,,238937,5,,51.70136700000000,17421,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13910500000000,NP13 2HT,2012-03-07,fhrs_5_en-GB,5,,FHRS,5
-460370,,69 Meadow Street,Llanhilleth,Abertillery,LLanhilleth Stores,Retailers - other,4613,10,,106242,0,,51.69944400000000,3683,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13616300000000,NP13 2JJ,2013-07-24,fhrs_4_en-GB,4,,FHRS,5
-460371,"Unit 3-4, Ebbw Vale Shopping Centre",Market Street,Ebbw Vale,Blaenau Gwent,Lloyds Pharmacy,Retailers - other,4613,,,579590,,,51.78059100000000,17266,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20756400000000,NP23 6HP,2013-07-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-460372,,College Road,Ebbw Vale,,Llys Glyncoed Extra Care Scheme,Restaurant/Cafe/Canteen,1,0,,384227,5,,51.79487700000000,39133,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20765600000000,NP23 5HF,2013-10-10,fhrs_5_en-GB,5,,FHRS,0
-460373,,1 Edward Terrace,Georgetown,Tredegar,Londis,Retailers - other,4613,0,,107816,0,,51.77096600000000,38183,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23985800000000,NP22 3JQ,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-460374,,8 Bethcar Street,Ebbw Vale,Blaenau Gwent,Louis Fish Bar,Takeaway/sandwich shop,7844,0,,95560,0,,51.77857800000000,28562,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20742300000000,NP23 6HQ,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-460375,,36 Church Street,Ebbw Vale,,Loveâs Cakes,Restaurant/Cafe/Canteen,1,5,,626518,0,,51.77283100000000,6126,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20751600000000,NP23 6BG,2014-01-20,fhrs_5_en-GB,5,,FHRS,0
-460376,,3 Gwent Shopping Centre,Tredegar,,Lucky Strike,Retailers - other,4613,,,482850,,,51.77494600000000,23891,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24530100000000,NP22 3EJ,2012-11-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-460377,,1 Cwm Cottage Road,Abertillery,Blaenau Gwent,Lucky Super Stores,Retailers - other,4613,10,,504719,0,,51.72728800000000,39814,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.12901300000000,NP13 1AT,2013-01-10,fhrs_4_en-GB,4,,FHRS,5
-460378,,26 Commercial Street,Tredegar,,M & B Fish Bar,Takeaway/sandwich shop,7844,5,,88402,5,,51.77421300000000,2313,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24652800000000,NP22 3DH,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-460379,,36 Church Street,Abertillery,Blaenau Gwent,M & J Veg,Retailers - other,4613,0,,706819,0,,51.73172400000000,40361,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13429300000000,NP13 1DB,2014-09-11,fhrs_5_en-GB,5,,FHRS,0
-460380,Maes Y Dderwen,Charles Street,Tredegar,Blaenau Gwent,Maes Y Dderwen Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,482846,0,,51.78349700000000,19162,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25206100000000,NP22 4AF,2012-12-12,fhrs_5_en-GB,5,,FHRS,0
-460381,Avalon House,Dukestown Road,Tredegar,Gwent,Mai Palace,Takeaway/sandwich shop,7844,10,,238920,5,,51.78410700000000,7368,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24453900000000,NP22 4QR,2014-02-05,fhrs_3_en-GB,3,,FHRS,10
-460382,,57 Beaufort Street,Brynmawr,Blaenau Gwent,Mandaâs Coffee Shop,Restaurant/Cafe/Canteen,1,0,,706822,0,,51.79980100000000,40432,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17610000000000,NP23 4AE,2014-10-08,fhrs_5_en-GB,5,,FHRS,0
-460383,,2 Commercial Street Arcade,Abertillery,,Marenghi's Cafe`,Restaurant/Cafe/Canteen,1,5,,78341,5,,51.73009100000000,1862,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13484600000000,NP13 1DH,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-460384,Tredegar Snooker Centre,Park Place,Tredegar,Blaenau Gwent,Mark Williams Snooker Club,Pub/bar/nightclub,7843,0,,550603,0,,51.76798300000000,38863,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23961700000000,NP22 4LD,2013-03-04,fhrs_5_en-GB,5,,FHRS,0
-460385,,16 Market Street,Abertillery,Blaenau Gwent,Market Fish Saloon,Takeaway/sandwich shop,7844,10,,128426,0,,51.72994600000000,5834,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13401700000000,NP13 1AH,2014-10-29,fhrs_4_en-GB,4,,FHRS,0
-460386,Market Hall Cinema,Market Square,Brynmawr,Blaenau Gwent,Market Hall Cinema,Other catering premises,7841,,,669799,,,51.79844800000000,40141,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17378800000000,NP23 4AJ,2014-04-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-460387,,Festival Park Shopping Centre,Victoria,Ebbw Vale,Market Shack,Mobile caterer,7846,10,,589494,15,,,40057,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-09-04,fhrs_2_en-GB,2,,FHRS,15
-460388,,68 Bethcar Street,Ebbw Vale,Blaenau Gwent,Market Tavern,Pub/bar/nightclub,7843,0,,318371,0,,51.77678600000000,5600,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20770900000000,NP23 6HG,2014-03-27,fhrs_4_en-GB,4,,FHRS,10
-460389,,10 Beaufort Street,Brynmawr,Blaenau Gwent,Marmaris Takeaway Fast Food Ltd,Takeaway/sandwich shop,7844,0,,415021,0,,51.79946500000000,39763,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17546800000000,NP23 4AF,2014-01-23,fhrs_5_en-GB,5,,FHRS,0
-460390,,13A Market Street,Ebbw Vale,,Marshalls Newsagents,Retailers - other,4613,,,579601,,,51.77983000000000,5022,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20722500000000,NP23 6HL,2013-07-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-460391,,2 Carmel Street,Abertillery,Blaenau Gwent,Martin's Newsbox,Retailers - other,4613,,,482868,,,51.72943300000000,4963,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13496000000000,NP13 1DG,2014-02-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-460392,,100 Bailey Street,Brynmawr,Blaenau Gwent,Masala,Takeaway/sandwich shop,7844,10,,108456,0,,51.79849800000000,38713,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17419500000000,NP23 4AN,2013-01-17,fhrs_4_en-GB,4,,FHRS,10
-460393,Masonic Hall,Western Terrace,Ebbw Vale,Blaenau Gwent,Masonic Hall,Pub/bar/nightclub,7843,,,550595,,,51.78298000000000,34367,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20871500000000,NP23 6ES,2011-11-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-460394,Masonic Hall,Morgan Street,Tredegar,Blaenau Gwent,Masonic Hall,Pub/bar/nightclub,7843,0,,71993,0,,51.77079300000000,16379,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24431700000000,NP22 3NA,2014-03-19,fhrs_5_en-GB,5,,FHRS,0
-460395,Unit 54,Festival Park Shopping Centre,Victoria,Ebbw Vale,Massarella's Resaurant,Restaurant/Cafe/Canteen,1,0,,107470,0,,51.74813200000000,37945,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19608000000000,NP23 8FP,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-460396,,13 Castle Street,Tredegar,Blaenau Gwent,Master Kebab,Takeaway/sandwich shop,7844,5,,583474,5,,51.77210900000000,40027,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24654200000000,NP22 3DF,2014-03-26,fhrs_4_en-GB,4,,FHRS,10
-460397,,5 Libanus Road,Ebbw Vale,Blaenau Gwent,Maya,Takeaway/sandwich shop,7844,10,,669798,15,,51.78254000000000,40123,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20771700000000,NP23 6EJ,2014-01-06,fhrs_2_en-GB,2,,FHRS,5
-460398,Mcdonalds Restaurant,The Walk,Ebbw Vale,Blaenau Gwent,McDonalds,Restaurant/Cafe/Canteen,1,5,,466778,5,,51.77612900000000,35036,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20688000000000,NP23 6AY,2013-11-27,fhrs_5_en-GB,5,,FHRS,0
-460399,Central Depot,Barleyfield Industrial Estate,Brynmawr,Ebbw Vale,Meals On Wheels Service,Restaurant/Cafe/Canteen,1,10,,106460,0,,51.79328300000000,36997,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17239200000000,NP23 4YF,2013-05-21,fhrs_4_en-GB,4,,FHRS,0
-460400,,47 Beaufort Street,Brynmawr,Blaenau Gwent,Meats R Us,Retailers - other,4613,5,,106011,0,,51.79910000000000,36667,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17516800000000,NP23 4AG,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-460401,,38 Marine Street,Cwm,Ebbw Vale,Miaâs Cafe,Restaurant/Cafe/Canteen,1,10,,669803,0,,51.73976400000000,40216,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18243300000000,NP23 7ST,2014-02-10,fhrs_4_en-GB,4,,FHRS,0
-460402,,51 Somerset Street,Abertillery,Blaenau Gwent,Mike's News,Retailers - other,4613,0,,318352,5,,51.72903100000000,2390,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13377700000000,NP13 1DL,2012-03-19,fhrs_4_en-GB,4,,FHRS,10
-460403,,105 Commercial Street,Tredegar,,Mini's Diner,Restaurant/Cafe/Canteen,1,10,,109052,10,,51.77352500000000,39230,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24619000000000,NP22 3DW,2014-10-01,fhrs_2_en-GB,2,,FHRS,15
-460404,(private address),,,,Miss Daisyâs Kitchen,Retailers - other,4613,5,,626515,0,,,17395,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-01-20,fhrs_5_en-GB,5,,FHRS,0
-460405,(private address),,,,Missy Mooâs,Mobile caterer,7846,10,,669820,0,,,40303,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-04-29,fhrs_4_en-GB,4,,FHRS,0
-460406,,Unit 6 Bridge Street Industrial Estate,Tredegar,Blaenau Gwent,Molly's Cafe,Restaurant/Cafe/Canteen,1,5,,109263,5,,51.77194500000000,39383,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24171100000000,NP22 4LA,2013-06-04,fhrs_5_en-GB,5,,FHRS,0
-460407,,8-9 Castle Street,Tredegar,Blaenau Gwent,Morganâs Eatery,Restaurant/Cafe/Canteen,1,10,,669808,10,,51.77189800000000,40264,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24614500000000,NP22 3DE,2014-04-28,fhrs_4_en-GB,4,,FHRS,0
-460408,,Beaufort Road,Ebbw Vale,,Morrisons,Retailers - supermarkets/hypermarkets,7840,5,,238924,5,,51.79307000000000,36830,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22242600000000,NP23 5WS,2013-09-19,fhrs_5_en-GB,5,,FHRS,5
-460409,Mount Pleasant Inn,Mount Pleasant Estate,Brynhithel,Abertillery,Mount Pleasant Inn,Pub/bar/nightclub,7843,5,,669804,5,,51.70483100000000,40219,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13608000000000,NP13 2HN,2014-03-15,fhrs_5_en-GB,5,,FHRS,5
-460410,Mountain Air Inn,Llwynhelyg,Nantybwch,Tredegar,Mountain Air Inn,Pub/bar/nightclub,7843,0,,195791,0,,51.79040200000000,15393,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.26219800000000,NP22 3SD,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-460411,,,"Rhymney, Llechryd",Tredegar,Mountain Ash Inn,Pub/bar/nightclub,7843,5,,106381,0,,51.75009536743160,36941,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24608063697815,NP22 5BQ,2014-02-05,fhrs_5_en-GB,5,,FHRS,5
-460412,(private address),,,,Mr Philip Heal,Mobile caterer,7846,0,,238935,0,,,25103,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2012-03-02,fhrs_5_en-GB,5,,FHRS,5
-460413,Rassau Resource Centre,School Road,Rassau,Ebbw Vale,Mrs Puddleducks Day Nursery,Hospitals/Childcare/Caring Premises,5,10,,107440,10,,51.79712300000000,37920,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21834500000000,NP23 5PP,2013-10-18,fhrs_3_en-GB,3,,FHRS,5
-460414,Welfare Hall,Beaufort Hill,Beaufort,Ebbw Vale,Mrs Puddleducks Day Nursery,Hospitals/Childcare/Caring Premises,5,10,,595959,10,,51.79823000000000,40126,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19721700000000,NP23 5QW,2013-10-03,fhrs_3_en-GB,3,,FHRS,5
-460415,,13 Bethcar Street,Ebbw Vale,Blaenau Gwent,Muddy Cup,Restaurant/Cafe/Canteen,1,5,,626516,0,,51.77905100000000,40197,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20778400000000,NP23 6HH,2014-01-20,fhrs_5_en-GB,5,,FHRS,0
-460416,,8 Station Road,Brynmawr,Ebbw Vale,Munchies Pizzas,Takeaway/sandwich shop,7844,5,,69819,0,,51.79704700000000,15765,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17454900000000,NP23 4NA,2013-03-18,fhrs_5_en-GB,5,,FHRS,0
-460417,Mynydd Lodge,Tillery Road,Abertillery,Blaenau Gwent,Mynydd Lodge Guest House,Hotel/bed & breakfast/guest house,7842,0,,491695,0,,51.74337700000000,24381,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13145700000000,NP13 1JN,2012-12-18,fhrs_5_en-GB,5,,FHRS,0
-460418,,5a Morgan Street,Tredegar,Blaenau Gwent,N Joy,Takeaway/sandwich shop,7844,5,,550590,0,,51.77079300000000,30328,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24431700000000,NP22 3NA,2013-04-19,fhrs_5_en-GB,5,,FHRS,5
-460419,,55 Alma Street,Abertillery,Blaenau Gwent,N Joy Pizzas & Fried Chicken,Takeaway/sandwich shop,7844,10,,238950,10,,51.73230400000000,38354,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13564000000000,NP13 1QA,2014-02-06,fhrs_3_en-GB,3,,FHRS,10
-460420,,2 Tredegar Road,Willowtown,Ebbw Vale,Nanaâs Teas and Cakes,Retailers - other,4613,5,,669817,5,,51.78009100000000,40292,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21152300000000,NP23 6LT,2014-04-11,fhrs_5_en-GB,5,,FHRS,0
-460421,,61 Ashvale,Tredegar,Blaenau Gwent,Nantybwch Post Office,Retailers - other,4613,,,583467,,,51.78505500000000,15598,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25767100000000,NP22 4AQ,2013-08-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-460422,,69 King Street,Nantyglo,Brynmawr,Nantyglo Post Office,Retailers - other,4613,5,,560356,0,,51.78434700000000,19686,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17040600000000,NP23 4JN,2013-06-10,fhrs_5_en-GB,5,,FHRS,0
-460423,Nantyglo Rugby Club,Porters Road,Nantyglo,Brynmawr,Nantyglo Rugby Football Club,Other catering premises,7841,0,,45071,10,,51.78961800000000,10931,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16932500000000,NP23 4NH,2013-03-12,fhrs_4_en-GB,4,,FHRS,0
-460424,,17-19 King Street,Nantyglo,Ebbw Vale,Nantyglo Stores & Off Licence,Retailers - other,4613,0,,107156,0,,51.78434700000000,37689,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17040600000000,NP23 4JN,2014-11-12,fhrs_5_en-GB,5,,FHRS,5
-460425,,4 Morgan Street,Tredegar,Blaenau Gwent,Nelson Pharmacy,Retailers - other,4613,,,579592,,,51.77071200000000,26921,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24430100000000,NP22 3NA,2013-07-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-460426,,6 Market Square,Ebbw Vale,Blaenau Gwent,New Ajanta Tandoori,Takeaway/sandwich shop,7844,5,,108367,10,,51.78119600000000,38639,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20644900000000,NP23 6HR,2014-03-27,fhrs_3_en-GB,3,,FHRS,10
-460427,Newbridge End Inn,Penybont Road,Abertillery,Blaenau Gwent,New Bridgend Inn,Pub/bar/nightclub,7843,5,,384223,5,,51.73956200000000,37338,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13450400000000,NP13 1JF,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-460428,,18 Hilltop Shopping Centre,Ebbw Vale,,New Hilltop Fish Bar,Takeaway/sandwich shop,7844,5,,72899,5,,51.77912300000000,16645,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21644000000000,NP23 6PX,2014-02-17,fhrs_4_en-GB,4,,FHRS,10
-460429,,58 Bethcar Street,Ebbw Vale,Blaenau Gwent,Nigel's Crusty Loaf,Retailers - other,4613,5,,103624,10,,51.77678600000000,34901,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20770900000000,NP23 6HG,2014-04-30,fhrs_4_en-GB,4,,FHRS,5
-460430,,Vale Terrace,Tredegar,Blaenau Gwent,Nisa Local,Retailers - other,4613,5,,318369,0,,51.76595600000000,39696,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23914100000000,NP22 4HT,2013-02-28,fhrs_4_en-GB,4,,FHRS,10
-460431,,3 Walters Avenue,Sofrydd,Abertillery,NISA Stores,Retailers - other,4613,10,,95355,5,,51.68346200000000,28331,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13378100000000,NP11 5HT,2012-08-13,fhrs_4_en-GB,4,,FHRS,0
-460432,,Rassau Road,Rassau,Ebbw Vale,Nisa's Store,Retailers - other,4613,10,,491699,0,,51.79653800000000,39883,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22617500000000,NP23 5BL,2012-12-14,fhrs_4_en-GB,4,,FHRS,5
-460433,,Foundry Bridge,Abertillery,,Noble Balti,Takeaway/sandwich shop,7844,5,,445058,0,,51.73220200000000,36245,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13407300000000,NP13 1BX,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-460434,,Oak Street,Abertillery,Blaenau Gwent,Oak street Social club,Pub/bar/nightclub,7843,0,,504722,0,,51.73137400000000,39912,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13790400000000,NP13 1TE,2012-12-14,fhrs_4_en-GB,4,,FHRS,10
-460435,,Bryn Terrace,Waunlwyd,Ebbw Vale,OAP Social Hall,Other catering premises,7841,5,,106374,0,,51.75670300000000,36936,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19345300000000,,2013-07-31,fhrs_5_en-GB,5,,FHRS,0
-460436,,23A Castle Street,Tredegar,,Ollies,Takeaway/sandwich shop,7844,10,,108657,0,,51.77244500000000,38909,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24626200000000,NP22 3DG,2014-12-02,fhrs_4_en-GB,4,,FHRS,5
-460437,,Waun Y Pound Industrial Estate,Ebbw Vale,Blaenau Gwent,Only Foods and Sauces (Portacabin),Restaurant/Cafe/Canteen,1,10,,680312,5,,,40326,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-06-26,fhrs_4_en-GB,4,,FHRS,5
-460438,,19 Church Street,Abertillery,,Oriental Kitchen,Takeaway/sandwich shop,7844,10,,445055,10,,51.73087900000000,2737,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13425800000000,NP13 1DA,2014-01-09,fhrs_3_en-GB,3,,FHRS,10
-460439,,52 Bethcar Street,Ebbw Vale,Blaenau Gwent,Orzelek,Takeaway/sandwich shop,7844,10,,482866,15,,51.77678600000000,39835,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20770900000000,NP23 6HG,2014-03-13,fhrs_2_en-GB,2,,FHRS,15
-460440,,24A Commercial Street,Tredegar,,Pam's Cafe,Restaurant/Cafe/Canteen,1,5,,75858,5,,51.77421300000000,17799,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24652800000000,NP22 3DH,2013-07-26,fhrs_4_en-GB,4,,FHRS,10
-460441,2 Shopping Centre,Honeyfield Road,Rassau,Ebbw Vale,Passion For Food,Other catering premises,7841,0,,717087,0,,51.80021900000000,40479,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22318500000000,NP23 5TA,2014-11-07,fhrs_5_en-GB,5,,FHRS,5
-460442,,86 High Street,Blaina,Blaenau Gwent,Peking Town,Takeaway/sandwich shop,7844,10,,550615,5,,51.76478000000000,39930,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15975600000000,NP13 3BN,2013-03-28,fhrs_4_en-GB,4,,FHRS,5
-460443,Penrhiwgyngi Farm,,Cwm,Ebbw Vale,Penrhiwgyngi (homemade cakes),Other catering premises,7841,5,,109259,0,,51.72206700000000,39381,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18531600000000,NP12 0RH,2014-06-09,fhrs_5_en-GB,5,,FHRS,0
-460444,Penybont Service Station,Victor Road,Cwmtillery,Abertillery,PenyBont Service Station Kiosk,Retailers - other,4613,20,,107599,5,,51.73762000000000,38069,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13449900000000,NP13 1HU,2013-07-25,fhrs_1_en-GB,1,,FHRS,0
-460445,Unit 7,Rising Sun Industrial Estate,Blaina,Abertillery,Piece of Cake,Retailers - other,4613,,,550622,,,51.77215900000000,9653,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16543900000000,NP13 3JW,2012-10-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-460446,,2 Gaen Street,Abertillery,Blaenau Gwent,Pings Place Ltd,Takeaway/sandwich shop,7844,5,,54282,5,,51.73578600000000,12234,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13721900000000,NP13 1PT,2013-11-20,fhrs_5_en-GB,5,,FHRS,5
-460447,unit 23 Innovation Centre,Festival Drive,Victoria,Ebbw Vale,Pit Stop Cafe,Restaurant/Cafe/Canteen,1,0,,669816,0,,51.76006000000000,40291,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19903200000000,NP23 8XA,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-460448,,6 Church Street,Ebbw Vale,Blaenau Gwent,Pizza Pan (Ebbw Vale) Ltd,Takeaway/sandwich shop,7844,0,,93405,0,,51.77389300000000,26818,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20742900000000,NP23 6BE,2013-11-15,fhrs_5_en-GB,5,,FHRS,5
-460449,,2 Intermediate Road,Brynmawr,Ebbw Vale,Plasgeller Care Home Ltd,Hospitals/Childcare/Caring Premises,5,10,,108141,10,,51.80207900000000,38460,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17215600000000,NP23 4SF,2014-03-19,fhrs_4_en-GB,4,,FHRS,0
-460450,Unit 11,Rising Sun Industrial Estate,Blaina,Abertillery,Platinum ll Gym,Retailers - other,4613,,,595957,,,51.77216400000000,38723,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16494600000000,NP13 3JW,2013-10-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-460451,,41 Bethcar Street,Ebbw Vale,Blaenau Gwent,Polkadots,Retailers - other,4613,,,706817,,,51.77791300000000,40322,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20824600000000,NP23 6HW,2014-09-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-460452,Unit 32/33/33a,Festival Park Shopping Centre,Victoria,Ebbw Vale,Poundland,Retailers - other,4613,0,,583476,0,,51.74813200000000,40062,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19608000000000,NP23 8FP,2013-09-02,fhrs_5_en-GB,5,,FHRS,0
-460453,Unit 3-4,The Walk,Ebbw Vale,Blaenau Gwent,Poundstretcher,Retailers - supermarkets/hypermarkets,7840,0,,104810,0,,51.77612900000000,35840,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20688000000000,NP23 6AY,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-460454,,Honeyfield Road,Rassau,Ebbw Vale,Premier,Retailers - other,4613,10,,191851,0,,51.80023100000000,37859,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22291000000000,NP23 5TA,2012-01-09,fhrs_4_en-GB,4,,FHRS,0
-460455,1a Fairview Terrace,Tillery Road,Abertillery,Blaenau Gwent,Premier,Retailers - other,4613,5,,100249,0,,51.73927400000000,32128,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13364200000000,NP13 1JD,2014-06-04,fhrs_5_en-GB,5,,FHRS,0
-460456,,67 Beaufort Rise,Beaufort,Ebbw Vale,Premier Express,Retailers - other,4613,20,,191856,0,,51.79698500000000,38742,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20985800000000,NP23 5JG,2013-06-05,fhrs_1_en-GB,1,,FHRS,15
-460457,,32 Marine Street,Cwm,Ebbw Vale,Premier Store,Retailers - other,4613,20,,551521,10,,51.73976400000000,38880,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18243300000000,NP23 7ST,2014-12-10,fhrs_1_en-GB,1,,FHRS,15
-460458,,19-21 Victoria Street,Abertillery,Blaenau Gwent,Premier Stores,Retailers - other,4613,10,,482867,5,,51.73626000000000,39896,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13844700000000,NP13 1PQ,2012-11-26,fhrs_3_en-GB,3,,FHRS,10
-460459,,1 Church Crescent,Beaufort,Ebbw Vale,Prices of Beaufort,Retailers - other,4613,10,,445066,0,,51.79717800000000,6244,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21472100000000,NP23 5PE,2012-08-16,fhrs_4_en-GB,4,,FHRS,0
-460460,,Queen Street,Abertillery,,Queen St Junior & Infants,School/college/university,7845,0,,114602,0,,51.72783000000000,4370,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13153100000000,NP13 1AP,2014-05-02,fhrs_5_en-GB,5,,FHRS,0
-460461,,1 Cwm Cottage Road,Abertillery,Blaenau Gwent,Rai Convenience Store,Retailers - other,4613,0,,717083,0,,51.72728800000000,40454,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.12901300000000,NP13 1AT,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-460462,,Bridge Street,Abertillery,Blaenau Gwent,Railway Inn,Pub/bar/nightclub,7843,10,,583475,5,,51.73077500000000,40050,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13941000000000,NP13 1UB,2013-08-28,fhrs_4_en-GB,4,,FHRS,0
-460463,Railway Hotel,Dukestown Road,Tredegar,Blaenau Gwent,Railway Tavern,Pub/bar/nightclub,7843,5,,560361,10,,51.78197500000000,40011,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24300200000000,NP22 4QD,2013-06-26,fhrs_4_en-GB,4,,FHRS,5
-460464,,82 Bailey Street,Brynmawr,Blaenau Gwent,Rasiah Trade,Retailers - other,4613,5,,691426,5,,51.79785800000000,40244,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17529500000000,NP23 4AW,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-460465,,4 School Road,Rassau,Ebbw Vale,Rassau Supper & Fish Bar Ltd,Takeaway/sandwich shop,7844,10,,717080,0,,51.79712300000000,40437,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21834500000000,NP23 5PP,2014-10-20,fhrs_4_en-GB,4,,FHRS,10
-460466,,School Road,Rassau,Ebbw Vale,Rassau Supper Bar,Takeaway/sandwich shop,7844,10,,108395,10,,51.79712300000000,38664,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21834500000000,NP23 5PP,2013-06-13,fhrs_3_en-GB,3,,FHRS,10
-460467,,High Street,Blaina,Blaenau Gwent,Red Lion Hotel,Pub/bar/nightclub,7843,0,,550610,0,,51.76478000000000,39738,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15975600000000,NP13 3BN,2014-09-12,fhrs_4_en-GB,4,,FHRS,10
-460468,,Park Road,Ebbw Vale,Blaenau Gwent,Red Rose Care Home,Hospitals/Childcare/Caring Premises,5,0,,238932,5,,51.76322500000000,39673,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20439100000000,NP23 8UP,2013-09-04,fhrs_5_en-GB,5,,FHRS,0
-460469,,29-30 Commercial Street,Tredegar,Blaenau Gwent,Refresh Coffee Shop,Restaurant/Cafe/Canteen,1,0,,583478,5,,51.77514200000000,40075,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24632100000000,NP22 3DJ,2013-08-19,fhrs_5_en-GB,5,,FHRS,0
-460470,Rhos Y Fedwen Primary,Honeyfield Road,Rassau,Ebbw Vale,Rhos y Fedwen Primary,School/college/university,7845,0,,62830,0,,51.80023100000000,13904,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22291000000000,NP23 5TA,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-460471,,10 Marine Street,Cwm,Ebbw Vale,Richie's Fruit & Veg,Retailers - other,4613,20,,92424,10,,51.73976400000000,2602,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18243300000000,NP23 7ST,2014-05-28,fhrs_1_en-GB,1,,FHRS,15
-460472,,59 Powell Street,Abertillery,Blaenau Gwent,Rite Stop,Retailers - other,4613,10,,384222,0,,51.73292700000000,37069,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13257100000000,NP13 1EG,2014-01-15,fhrs_4_en-GB,4,,FHRS,10
-460473,Riverside Social Club & Institute,Itton Street,Cwm,Ebbw Vale,Riverside Work/Mens Club & Ins,Pub/bar/nightclub,7843,0,,238949,0,,51.74154500000000,35070,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18502900000000,NP23 7RP,2012-02-28,fhrs_5_en-GB,5,,FHRS,0
-460474,,16 Church Street,Abertillery,Blaenau Gwent,Rolling Mill,Pub/bar/nightclub,7843,0,,706818,0,,51.73087900000000,40348,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13425800000000,NP13 1DA,2014-09-11,fhrs_5_en-GB,5,,FHRS,0
-460475,St. Arvans Road,Cwmcelyn Road,Blaina,Blaenau Gwent,"Roots, Fruits & Flowers",Retailers - other,4613,0,,550617,0,,51.76947200000000,39954,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15626800000000,NP13 3LJ,2013-05-02,fhrs_5_en-GB,5,,FHRS,5
-460476,,Rose Heyworth Road,Abertillery,,Rose Heyworth Millennium Jnr,School/college/university,7845,0,,106217,5,,51.74099200000000,36814,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.14931300000000,NP13 1SR,2013-07-01,fhrs_5_en-GB,5,,FHRS,5
-460477,Roseland House,,Tredegar,,Roseland House,Hotel/bed & breakfast/guest house,7842,0,,550580,0,,51.78630400000000,14189,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24509200000000,NP22 4RE,2013-03-14,fhrs_5_en-GB,5,,FHRS,0
-460478,Sirhowy Bridge,Dukestown Road,Sirhowy,Tredegar,Roundabout Services Kiosk/Spar,Retailers - other,4613,10,,107598,0,,51.78096100000000,38068,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24361100000000,NP22 4XL,2013-11-25,fhrs_4_en-GB,4,,FHRS,10
-460479,,10 Davies Street,Brynmawr,Ebbw Vale,Royal Exchange,Pub/bar/nightclub,7843,0,,103890,0,,51.79911400000000,35104,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17463200000000,NP23 4AD,2015-01-06,fhrs_5_en-GB,5,,FHRS,0
-460480,,45-46 High Street,Ebbw Vale,,RTB (Ebbw Vale) RFC,Pub/bar/nightclub,7843,0,,94822,10,,51.77042000000000,27981,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20859700000000,NP23 6BP,2014-03-12,fhrs_4_en-GB,4,,FHRS,10
-460481,,14 Commercial Road,Llanhilleth,Abertillery,Russâs Kebab House,Takeaway/sandwich shop,7844,10,,681924,15,,51.70060200000000,40265,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13545400000000,NP13 2JA,2014-06-10,fhrs_2_en-GB,2,,FHRS,15
-460482,(private address),,,,S & A Catering,Takeaway/sandwich shop,7844,5,,669792,0,,,39780,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-06-03,fhrs_4_en-GB,4,,FHRS,10
-460483,Salem Chapel,High Street,Blaina,,Salem Chapel,Restaurant/Cafe/Canteen,1,,,550601,,,51.76478000000000,38657,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15975600000000,NP13 3BN,2012-06-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-460484,,Aubry Terrace,Cwm,Ebbw Vale,Salvation Army Hall,Other catering premises,7841,0,,109028,0,,51.73910600000000,39213,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18080800000000,NP23 7SN,2014-01-21,fhrs_5_en-GB,5,,FHRS,0
-460485,Salvation Army Hall,Hill Street,Abertillery,,Salvation Army Hall,Other catering premises,7841,10,,482857,0,,51.72879300000000,37380,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13426300000000,NP13 1DU,2014-01-22,fhrs_4_en-GB,4,,FHRS,0
-460486,"Unit 12-15, Blaenau Gwent Workshops",Pond Road,Nantyglo,Brynmawr,Scotts Corner Cafe,Restaurant/Cafe/Canteen,1,5,,104725,10,,51.79294900000000,35775,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17611000000000,NP23 4BL,2014-02-10,fhrs_4_en-GB,4,,FHRS,5
-460487,,62-64 Bethcar Street,Ebbw Vale,,Seven Arches,Pub/bar/nightclub,7843,10,,238958,5,,51.77678600000000,1653,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20770900000000,NP23 6HG,2014-01-10,fhrs_3_en-GB,3,,FHRS,10
-460488,,Riverside,Beaufort,Ebbw Vale,Shackletons Chemist,Retailers - other,4613,,,482843,,,51.79532900000000,1092,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21357000000000,NP23 5NT,2012-02-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-460489,,83-84 King Street,Brynmawr,Ebbw Vale,Shane's fish Bar,Takeaway/sandwich shop,7844,0,,238944,5,,51.80013800000000,35110,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17651500000000,NP23 4RG,2013-08-09,fhrs_5_en-GB,5,,FHRS,0
-460490,,2b Commercial Road,Llanhilleth,Abertillery,Shorts Butchers,Retailers - other,4613,10,,84782,15,,51.70059400000000,21072,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13536700000000,NP13 2JA,2013-08-14,fhrs_2_en-GB,2,,FHRS,0
-460491,(private address),,,,Simply Deelish,Mobile caterer,7846,5,,669777,0,,,30550,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-04-30,fhrs_5_en-GB,5,,FHRS,0
-460492,(private address),,,,Simply Deelish,Mobile caterer,7846,10,,466795,10,,,39796,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-03-26,fhrs_3_en-GB,3,,FHRS,10
-460493,,21 Alfred Street,Ebbw Vale,,Simply Divine Cakes,Other catering premises,7841,5,,415023,0,,51.78239700000000,749,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21546900000000,NP23 6NQ,2012-02-13,fhrs_5_en-GB,5,,FHRS,0
-460494,(private address),,,,Sirrome Kershaw,Retailers - other,4613,10,,550587,5,,,24854,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-03-26,fhrs_4_en-GB,4,,FHRS,5
-460495,,Llwynon Road,Six Bells,Abertillery,Six Bells Bowl Club,Restaurant/Cafe/Canteen,1,,,482863,,,,39410,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-07-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-460496,Six Bells Hotel,Victoria Road,Six Bells,Abertillery,Six Bells Hotel,Pub/bar/nightclub,7843,10,,54266,0,,51.71793100000000,12230,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13054600000000,NP13 2LX,2013-12-11,fhrs_4_en-GB,4,,FHRS,0
-460497,,2 Alexandra Road,Six Bells,Abertillery,Six Bells Stores/Londis,Retailers - other,4613,5,,504717,0,,51.72193900000000,32104,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.12796800000000,NP13 2LG,2012-05-15,fhrs_4_en-GB,4,,FHRS,10
-460498,,51 Alexandra Road,Six Bells,Abertillery,Six Bells Working Mens Club,Pub/bar/nightclub,7843,0,,550591,0,,51.72321900000000,30376,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.12850600000000,NP13 2LQ,2013-03-07,fhrs_5_en-GB,5,,FHRS,0
-460499,,7 Park Place,Waunlwyd,Ebbw Vale,Smiling Valley Chinese,Takeaway/sandwich shop,7844,5,,466782,5,,51.75368800000000,37938,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19259000000000,NP23 6TP,2013-04-03,fhrs_5_en-GB,5,,FHRS,5
-460500,,Festival Park Shopping Centre,Victoria,Ebbw Vale,Snax Shack ltd,Takeaway/sandwich shop,7844,10,,579599,10,,,40056,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-07-24,fhrs_3_en-GB,3,,FHRS,5
-460501,,Baptist Place,Beaufort,Ebbw Vale,Soar Chapel Guest House,Hotel/bed & breakfast/guest house,7842,5,,109451,0,,51.79763600000000,39560,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20870100000000,NP23 5JJ,2013-05-20,fhrs_5_en-GB,5,,FHRS,0
-460502,,Sofrydd Road,Crumlin,Newport,Sofrydd Primary School,School/college/university,7845,0,,85102,0,,51.58943176269531,2126,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-2.99829006195068,NP11 5DT,2013-04-29,fhrs_5_en-GB,5,,FHRS,0
-460503,,Sofrydd Road,Crumlin,Newport,Sofrydd Sunflowers Playgroup,Hospitals/Childcare/Caring Premises,5,10,,466789,5,,51.58943176269531,38737,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-2.99829006195068,NP11 5DT,2012-10-10,fhrs_4_en-GB,4,,FHRS,0
-460504,,21 Somerset Street,Abertillery,Blaenau Gwent,Somerset Hotel,Pub/bar/nightclub,7843,0,,318370,0,,51.72988100000000,39715,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13424700000000,NP13 1DJ,2012-03-28,fhrs_5_en-GB,5,,FHRS,0
-460505,(private address),,,,Something Sweet Cupcakes,Retailers - other,4613,5,,516613,0,,,23775,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2013-02-14,fhrs_5_en-GB,5,,FHRS,0
-460506,,5 Market Square,Ebbw Vale,Blaenau Gwent,Southern Style Chicken & Kebab Ebbw Vale,Takeaway/sandwich shop,7844,5,,691425,5,,51.78119600000000,40215,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20644900000000,NP23 6HR,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-460507,,2-4 Church Street,Ebbw Vale,Blaenau Gwent,Spar,Retailers - other,4613,10,,491698,0,,51.77389300000000,39846,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20742900000000,NP23 6BE,2012-12-11,fhrs_4_en-GB,4,,FHRS,0
-460508,,,Llanhilleth,Abertillery,St Illtyd Primary School,School/college/university,7845,0,,106788,0,,51.69945144653320,37337,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13432502746582,NP13 2JT,2013-05-01,fhrs_5_en-GB,5,,FHRS,0
-460509,St. Mary's Church In Wales Primary School,Intermediate Road,Brynmawr,Blaenau Gwent,St Mary Church in Wales School,School/college/university,7845,0,,191847,5,,51.80207900000000,657,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17215600000000,NP23 4SF,2013-07-10,fhrs_5_en-GB,5,,FHRS,0
-460510,,Catholic Road,Brynmawr,Ebbw Vale,St Mary's Roman Catholic School,School/college/university,7845,5,,90255,0,,51.79711600000000,24498,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17217300000000,NP23 4EF,2013-11-08,fhrs_5_en-GB,5,,FHRS,5
-460511,St Peters Church,High Street,Blaina,Blaenau Gwent,St Peterâs Church Luncheon Club,Restaurant/Cafe/Canteen,1,10,,717085,5,,,40476,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-11-19,fhrs_4_en-GB,4,,FHRS,0
-460512,,19a Market Street,Ebbw Vale,Blaenau Gwent,Stanâs,Restaurant/Cafe/Canteen,1,5,,688612,0,,51.77983000000000,40341,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20722500000000,NP23 6HL,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
-460513,"Unit 12, Blaenant Industrial Estate",Blaenavon Road,Brynmawr,Blaenau Gwent,Sue's Bus Cafe,Takeaway/sandwich shop,7844,,,318367,,,51.79508500000000,39626,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16839300000000,NP23 4BX,2014-01-07,fhrs_5_en-GB,5,,FHRS,
-460514,(private address),,,,Sugar & Spice,Retailers - other,4613,5,,482852,5,,,25462,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2012-12-11,fhrs_5_en-GB,5,,FHRS,5
-460515,,5 Princess Court,Sirhowy,Tredegar,Sugarlicious Candy Buffets,Other catering premises,7841,0,,491692,0,,51.77894200000000,17343,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24155600000000,NP22 4PZ,2012-12-20,fhrs_5_en-GB,5,,FHRS,0
-460516,,15 Church Street,Ebbw Vale,Blaenau Gwent,Sun do Takeaway,Takeaway/sandwich shop,7844,0,,145651,5,,51.77389300000000,869,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20742900000000,NP23 6BE,2012-12-11,fhrs_5_en-GB,5,,FHRS,5
-460517,"Unit 23, Blaenau Enterprise Centre",Rising Sun Industrial Estate,Blaina,Blaenau Gwent,Sun Rise Cafe,Restaurant/Cafe/Canteen,1,,,238930,,,51.77215900000000,39654,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16543900000000,NP13 3JW,2013-06-12,fhrs_3_en-GB,3,,FHRS,
-460518,,29 Bethcar Street,Ebbw Vale,,Sun Valley,Restaurant/Cafe/Canteen,1,5,,238915,0,,51.77899700000000,39067,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20779700000000,NP23 6HH,2015-02-09,fhrs_5_en-GB,5,,FHRS,0
-460519,,4 King Street,Tredegar,Blaenau Gwent,Sunnys,Retailers - other,4613,5,,583477,0,,51.78331700000000,40064,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23847200000000,NP22 4PA,2013-08-27,fhrs_5_en-GB,5,,FHRS,5
-460520,,23 Commercial Road,Llanhilleth,Abertillery,Sunrise Pharma Ltd,Retailers - other,4613,,,550606,,,51.70059400000000,39361,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13536700000000,NP13 2JA,,fhrs_exempt_en-GB,Exempt,,FHRS,
-460521,,The Hill,Festival Park Factory Outlet S,"Victoria, Ebbw Vale",Super Tubing,Restaurant/Cafe/Canteen,1,10,,108788,10,,,39011,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-03-27,fhrs_3_en-GB,3,,FHRS,10
-460522,,Gwent Shopping Centre,Tredegar,,Superdrug,Retailers - other,4613,,,482856,,,,34841,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,NP22 3XH,2012-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-460523,,57 Bethcar Street,Ebbw Vale,Blaenau Gwent,Sweets and Things,Retailers - other,4613,0,,669821,0,,51.77791300000000,40323,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20824600000000,NP23 6HW,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-460524,(private address),,,,Sweets4U,Retailers - other,4613,5,,706820,0,,,40400,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-09-16,fhrs_5_en-GB,5,,FHRS,0
-460525,Swffryd Community Centre,Walters Avenue,Crumlin,Newport,Swffryd Community Centre,Other catering premises,7841,5,,66780,0,,51.68346200000000,14986,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13378100000000,NP11 5HT,2013-10-17,fhrs_5_en-GB,5,,FHRS,0
-460526,Swffryd Social Club,Walters Avenue,Crumlin,Newport,Swffryd Social Club,Pub/bar/nightclub,7843,5,,626512,5,,51.68346200000000,14981,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13378100000000,NP11 5HT,2013-11-25,fhrs_5_en-GB,5,,FHRS,0
-460527,,103 High Street,Blaina,Gwent,T H Pritchard & Son,Retailers - other,4613,,,560358,,,,35172,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,NP3 3AE,2013-06-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-460528,,48 Church Street,Abertillery,,T H Pritchard & Son Ltd,Retailers - other,4613,,,550621,,,51.73164200000000,6041,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13433500000000,NP13 1DB,2012-12-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-460529,,31 Somerset Street,Abertillery,,T H Pritchard (medical hall),Retailers - other,4613,,,550623,,,51.72947700000000,9660,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13413600000000,NP13 1XT,2012-11-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-460530,Tafarn Y Uchaf,Trefil Road,Trefil,Tredegar,Tafarn Ty Uchaf,Pub/bar/nightclub,7843,10,,318351,5,,51.80724900000000,1886,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.27746400000000,NP22 4HG,2013-11-15,fhrs_3_en-GB,3,,FHRS,10
-460531,,99 High Street,Blaina,Abertillery,Tasty Bites,Takeaway/sandwich shop,7844,10,,238963,0,,51.76588100000000,37330,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16024800000000,NP13 3AE,2013-10-10,fhrs_4_en-GB,4,,FHRS,5
-460532,,97 King Street,Nantyglo,Brynmawr,Tasty Garden,Takeaway/sandwich shop,7844,5,,107525,5,,51.78333100000000,38005,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16952500000000,NP23 4JW,2013-12-03,fhrs_5_en-GB,5,,FHRS,5
-460533,,1 Tillery Street,Abertillery,Blaenau Gwent,Ted's Newsagents,Retailers - other,4613,,,550597,,,51.73293600000000,3744,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13351300000000,NP13 1HT,2012-12-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-460534,,Gwent Shopping Centre,Tredegar,,Tesco Express,Retailers - supermarkets/hypermarkets,7840,5,,238964,0,,51.77421300000000,39010,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24652800000000,NP22 3DH,2015-02-06,fhrs_5_en-GB,5,,FHRS,5
-460535,Tesco Cafe,North West Approach,Ebbw Vale,Blaenau Gwent,Tesco Family Dining Ltd,Restaurant/Cafe/Canteen,1,5,,736045,0,,51.78646100000000,40527,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21463600000000,NP23 6TS,2015-01-07,fhrs_5_en-GB,5,,FHRS,5
-460536,Tesco Stores Ltd,Castle Street,Abertillery,Blaenau Gwent,Tesco Stores Limited (Store),Retailers - supermarkets/hypermarkets,7840,10,,103978,0,,51.72932000000000,35200,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13739000000000,NP13 1UR,2013-11-25,fhrs_4_en-GB,4,,FHRS,10
-460537,Tesco Store,North West Approach,Ebbw Vale,Blaenau Gwent,Tesco Stores Ltd (Store),Retailers - supermarkets/hypermarkets,7840,5,,84207,0,,51.78646100000000,20877,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21463600000000,NP23 6TS,2013-04-24,fhrs_4_en-GB,4,,FHRS,10
-460538,,7 Market Square,Ebbw Vale,Blaenau Gwent,Thanh Long,Takeaway/sandwich shop,7844,5,,95868,5,,51.78119600000000,288,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20644900000000,NP23 6HR,2013-06-13,fhrs_5_en-GB,5,,FHRS,5
-460539,Greenfield Bungalow,Greenfield Crescent,Beaufort,Ebbw Vale,The Acorns,Hospitals/Childcare/Caring Premises,5,5,,54109,0,,51.79764200000000,12192,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21422600000000,NP23 5PF,2011-08-09,fhrs_5_en-GB,5,,FHRS,0
-460540,,60 High Street,Blaina,Abertillery,The Asha Tandoori Balti,Takeaway/sandwich shop,7844,20,,42626,15,,51.76670100000000,10509,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16000800000000,NP13 3AG,2014-03-20,fhrs_1_en-GB,1,,FHRS,15
-460541,,3-7 Commercial Street,Abertillery,Blaenau Gwent,The Bear,Pub/bar/nightclub,7843,0,,415022,0,,51.72957200000000,6960,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13461600000000,NP13 1DQ,2012-06-26,fhrs_4_en-GB,4,,FHRS,10
-460542,,Pontygof,Ebbw Vale,Blaenau Gwent,The Bridge,Pub/bar/nightclub,7843,5,,318366,5,,51.78294400000000,39609,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20603200000000,NP23 5AZ,2013-03-28,fhrs_5_en-GB,5,,FHRS,5
-460543,British Legion Club,Canning Street,Cwm,Ebbw Vale,The British Legion Club,Pub/bar/nightclub,7843,0,,77742,0,,51.74148200000000,18325,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18411500000000,NP23 7RW,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-460544,,1 Bailey Street,Brynmawr,Ebbw Vale,The Bush Inn,Pub/bar/nightclub,7843,0,,516616,0,,51.79991800000000,37991,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17336200000000,NP23 4DN,2013-02-20,fhrs_5_en-GB,5,,FHRS,0
-460545,Cabin Snacks,Shop Row,Tredegar,Blaenau Gwent,The Cabin Snack Bar,Restaurant/Cafe/Canteen,1,10,,105949,0,,51.77066200000000,36617,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24227000000000,NP22 4LB,2013-03-28,fhrs_4_en-GB,4,,FHRS,10
-460546,(private address),,,,The Cake Boutique,Retailers - other,4613,0,,669769,0,,,16644,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-460547,,Castle Street,Tredegar,Blaenau Gwent,The Cambrian Hotel,Pub/bar/nightclub,7843,,,589493,,,51.77189800000000,39996,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24614500000000,NP22 3DE,2014-01-08,fhrs_5_en-GB,5,,FHRS,
-460548,,73 High Street,Blaina,Abertillery,The Castle,Pub/bar/nightclub,7843,5,,466780,5,,51.76478000000000,37331,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15975600000000,NP13 3BN,2012-11-09,fhrs_4_en-GB,4,,FHRS,10
-460549,Castle Hotel,Castle Street,Tredegar,Blaenau Gwent,The Castle Hotel,Pub/bar/nightclub,7843,5,,318356,0,,51.77210900000000,37597,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24654200000000,NP22 3DF,2012-03-28,fhrs_5_en-GB,5,,FHRS,5
-460550,Gwesty Bach,Clarence Street,Brynmawr,Blaenau Gwent,The Clarence,Pub/bar/nightclub,7843,5,,688613,10,,51.79788000000000,40351,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17216300000000,NP23 4EH,2014-07-23,fhrs_4_en-GB,4,,FHRS,5
-460551,,Ty-Bryn Road,Abertillery,,The Clynmawr,Pub/bar/nightclub,7843,0,,516618,0,,51.73614600000000,3973,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13999400000000,NP13 1PH,2013-02-20,fhrs_4_en-GB,4,,FHRS,10
-460552,,21 Church Street,Abertillery,,The Coffee Bean,Restaurant/Cafe/Canteen,1,5,,108338,5,,51.73172400000000,38623,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13429300000000,NP13 1DB,2014-05-28,fhrs_5_en-GB,5,,FHRS,0
-460553,,35 Church Street,Abertillery,,The Coffee Shop,Restaurant/Cafe/Canteen,1,0,,129261,10,,51.73172400000000,5980,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13429300000000,NP13 1DB,2014-03-10,fhrs_4_en-GB,4,,FHRS,10
-460554,,6 Marine Street,Cwm,Ebbw Vale,The Co-Operative,Retailers - other,4613,,,482854,,,51.73976400000000,31322,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18243300000000,NP23 7ST,2011-12-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-460555,,44 Beaufort Street,Brynmawr,Blaenau Gwent,The Cooperative Pharamcy,Retailers - other,4613,,,717088,,,51.79910000000000,40482,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17516800000000,NP23 4AG,2014-11-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-460556,,6 Marine Street,Cwm,Ebbw Vale,The Cooperative Pharmacy,Retailers - other,4613,,,736044,,,51.73976400000000,40484,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18243300000000,NP23 7ST,2014-12-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-460557,The Corner Club,Somerset Street,Abertillery,Blaenau Gwent,The Corner Club,Pub/bar/nightclub,7843,0,,550582,0,,51.72903100000000,16902,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13377700000000,NP13 1DL,2013-05-17,fhrs_5_en-GB,5,,FHRS,0
-460558,,17 Market Street,Ebbw Vale,Blaenau Gwent,The Crossing Cafe,Restaurant/Cafe/Canteen,1,5,,105953,5,,51.77983000000000,3662,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20722500000000,NP23 6HL,2014-05-26,fhrs_5_en-GB,5,,FHRS,5
-460559,The Crown,Victoria Street,Abertillery,Blaenau Gwent,The Crown,Pub/bar/nightclub,7843,10,,669811,5,,51.73547200000000,40270,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13810900000000,NP13 1PG,2014-04-11,fhrs_4_en-GB,4,,FHRS,0
-460560,,Alma Street,Abertillery,Blaenau Gwent,The Dolls House,Pub/bar/nightclub,7843,5,,688611,0,,51.73230400000000,40000,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13564000000000,NP13 1QA,2014-07-17,fhrs_5_en-GB,5,,FHRS,0
-460561,,Unit 7 Glandwr Industrial Estate,Aberbeeg,Abertillery,The Eden Centre,Restaurant/Cafe/Canteen,1,5,,445064,0,,51.70269000000000,39821,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.14359500000000,NP13 2LN,2014-02-17,fhrs_5_en-GB,5,,FHRS,0
-460562,,18 Market Square,Brynmawr,Blaenau Gwent,The Filling Station,Restaurant/Cafe/Canteen,1,,,109369,,,51.79844800000000,39470,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17378800000000,NP23 4AJ,2013-06-12,fhrs_5_en-GB,5,,FHRS,
-460563,The Fir Tree Inn,Poplar Road,Tredegar,Blaenau Gwent,The Fir Tree Inn,Pub/bar/nightclub,7843,5,,191861,0,,51.76588100000000,27426,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23521200000000,NP22 4LH,2013-10-29,fhrs_5_en-GB,5,,FHRS,0
-460564,Unit 3,Festival Drive,Victoria,Ebbw Vale,The Flower Stork Ltd,Distributors/Transporters,7,,,482860,,,51.75974600000000,38644,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19993700000000,NP23 8XA,2014-02-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-460565,,19 Beaufort Street,Brynmawr,Ebbw Vale,The Fruit Shop,Retailers - other,4613,5,,482859,10,,51.79910000000000,38636,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17516800000000,NP23 4AG,2012-11-26,fhrs_4_en-GB,4,,FHRS,5
-460566,,2 The Circle,Tredegar,Blaenau Gwent,The Fryery,Takeaway/sandwich shop,7844,5,,187539,0,,51.77145100000000,36982,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24588600000000,NP22 3PS,2013-07-25,fhrs_4_en-GB,4,,FHRS,10
-460567,,5-6 Carmel Street,Abertillery,Blaenau Gwent,The Garw,Pub/bar/nightclub,7843,0,,736041,0,,51.72958500000000,40442,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13502100000000,NP13 1DG,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-460568,,Market Street,Abertillery,,The Glasgow Phoenix,Pub/bar/nightclub,7843,5,,516617,0,,51.72994600000000,38380,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13401700000000,NP13 1AH,2013-01-05,fhrs_5_en-GB,5,,FHRS,5
-460569,,91-92 High Street,Blaina,Abertillery,The Grand,Retailers - other,4613,5,,108136,0,,51.76478000000000,38455,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15975600000000,NP13 3BN,2014-11-05,fhrs_5_en-GB,5,,FHRS,0
-460570,,55 Beaufort Rise,Beaufort,Ebbw Vale,The Greyhound Inn,Pub/bar/nightclub,7843,0,,466785,0,,51.79698500000000,38696,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20985800000000,NP23 5JG,2012-10-18,fhrs_5_en-GB,5,,FHRS,0
-460571,Hobby Horse Inn,Greenland Road,Brynmawr,Blaenau Gwent,The Hobby Horse,Pub/bar/nightclub,7843,0,,146270,5,,51.79849300000000,888,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17014900000000,NP23 4DT,2013-03-26,fhrs_5_en-GB,5,,FHRS,5
-460572,,4 Carmel Street,Abertillery,Blaenau Gwent,The Hot Spot,Takeaway/sandwich shop,7844,10,,187645,10,,51.72943300000000,39591,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13496000000000,NP13 1DG,2014-03-31,fhrs_3_en-GB,3,,FHRS,10
-460573,,West Side,Blaina,Abertillery,The Indian Valley,Takeaway/sandwich shop,7844,20,,550599,10,,51.76331100000000,38308,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16458800000000,NP13 3BS,2014-06-19,fhrs_1_en-GB,1,,FHRS,10
-460574,The Inn Place,Market Street,Tredegar,Blaenau Gwent,The Inn Place,Pub/bar/nightclub,7843,0,,669809,0,,51.77092700000000,40267,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24694400000000,NP22 3NF,2014-03-26,fhrs_5_en-GB,5,,FHRS,0
-460575,The King Arms,Newchurch Road,Ebbw Vale,Blaenau Gwent,The Kings Arms,Pub/bar/nightclub,7843,5,,238925,5,,51.78346200000000,9019,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20459600000000,NP23 5BD,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-460576,,25 Beaufort Street,Brynmawr,Blaenau Gwent,The Lounge,Restaurant/Cafe/Canteen,1,0,,669812,0,,51.79864000000000,40273,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17531600000000,NP23 4AQ,2014-03-27,fhrs_5_en-GB,5,,FHRS,0
-460577,Moose Hall,Lower Coronation Street,Tredegar,,The Moose Hall,Pub/bar/nightclub,7843,5,,238955,5,,51.77161700000000,10976,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24377500000000,NP22 3JE,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-460578,Nag's Head,Merthyr Road,Tafarnaubach,Tredegar,The Nags Head Inn,Pub/bar/nightclub,7843,5,,50689,5,,51.78436200000000,11303,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.27613600000000,NP22 3AP,2013-03-29,fhrs_5_en-GB,5,,FHRS,5
-460579,The New Griffin Hotel,Beaufort Street,Brynmawr,Blaenau Gwent,The New Griffin Hotel,Pub/bar/nightclub,7843,5,,669801,5,,51.79844800000000,40171,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17378800000000,NP23 4AJ,2014-02-01,fhrs_5_en-GB,5,,FHRS,5
-460580,,,Nantybwch,Tredegar,The Nine Arches,Pub/bar/nightclub,7843,0,,318358,0,,51.78991500000000,38283,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.26730300000000,NP22 3BB,2013-12-12,fhrs_5_en-GB,5,,FHRS,0
-460581,No 2 Shop,Queensway,Garnlydan,Ebbw Vale,The No 2 Shop,Retailers - other,4613,5,,595956,0,,51.80388000000000,38151,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20834600000000,NP23 5EE,2013-10-09,fhrs_5_en-GB,5,,FHRS,5
-460582,Royal Oak Inn,Dukestown Road,Tredegar,Blaenau Gwent,The Oak,Pub/bar/nightclub,7843,0,,238914,0,,51.78756100000000,38205,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24612700000000,NP22 4DW,2012-02-24,fhrs_5_en-GB,5,,FHRS,0
-460583,,26 Gwent Shopping Centre,Tredegar,Blaenau Gwent,The Ocean,Retailers - other,4613,0,,621613,0,,51.77494600000000,40181,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24530100000000,NP22 3EJ,2013-12-17,fhrs_5_en-GB,5,,FHRS,0
-460584,"Old Butchers Shop, St. Arvans Road",Cwmcelyn Road,Blaina,Blaenau Gwent,The Old Butchers Shop,Retailers - other,4613,20,,106884,15,,51.76947200000000,37437,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15626800000000,NP13 3LJ,2014-10-30,fhrs_1_en-GB,1,,FHRS,10
-460585,The Olympia,Morgan Street,Tredegar,Blaenau Gwent,The Olympia,Pub/bar/nightclub,7843,0,,105561,5,,51.77066900000000,36311,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24416900000000,NP22 3ND,2013-02-06,fhrs_5_en-GB,5,,FHRS,0
-460586,,28 Somerset Street,Abertillery,Blaenau Gwent,The Original Factory Shop,Retailers - other,4613,,,482862,,,51.72991700000000,39339,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13423300000000,NP13 1DJ,2014-06-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-460587,,Market Street,Ebbw Vale,,The Picture House,Pub/bar/nightclub,7843,0,,445056,5,,51.78059100000000,35019,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20756400000000,NP23 6HP,2014-02-25,fhrs_5_en-GB,5,,FHRS,0
-460588,,14 Somerset Street,Abertillery,,The Pontlottyn (J D Wetherspoon),Pub/bar/nightclub,7843,5,,466783,0,,51.72991700000000,38184,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13423300000000,NP13 1DJ,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-460589,Queens Hotel,Abertillery Road,Blaina,Blaenau Gwent,The Queens Hotel,Pub/bar/nightclub,7843,0,,688614,0,,51.75962300000000,40369,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15927600000000,NP13 3DY,2014-07-29,fhrs_5_en-GB,5,,FHRS,0
-460590,Rhyd Hall,The Rhyd,Tredegar,,The Rhyd Hall,Pub/bar/nightclub,7843,0,,108037,5,,51.76294300000000,38358,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23153800000000,NP22 4LY,2014-10-16,fhrs_4_en-GB,4,,FHRS,10
-460591,,Queen Square,Ebbw Vale,Blaenau Gwent,The Rookery Residential Home,Hospitals/Childcare/Caring Premises,5,5,,318368,0,,51.77868100000000,39672,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20529500000000,NP23 6EF,2015-01-30,fhrs_5_en-GB,5,,FHRS,0
-460592,Royal Exchange,High Street,Blaina,Blaenau Gwent,The Royal,Restaurant/Cafe/Canteen,1,5,,669818,0,,51.76588100000000,40298,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16024800000000,NP13 3AE,2014-06-13,fhrs_4_en-GB,4,,FHRS,10
-460593,,27 Bailey Street,Brynmawr,Blaenau Gwent,The Square Card Box,Retailers - other,4613,0,,579604,0,,51.79785800000000,8251,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17529500000000,NP23 4AW,2013-07-15,fhrs_5_en-GB,5,,FHRS,0
-460594,The Tallisman,Market Square,Brynmawr,Blaenau Gwent,The Talisman,Pub/bar/nightclub,7843,0,,103898,0,,51.79844800000000,35118,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17378800000000,NP23 4AJ,2014-02-17,fhrs_5_en-GB,5,,FHRS,5
-460595,,8 Church Street,Ebbw Vale,,The Tara Mahal,Restaurant/Cafe/Canteen,1,5,,106666,0,,51.77389300000000,37197,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20742900000000,NP23 6BE,2013-05-09,fhrs_5_en-GB,5,,FHRS,0
-460596,,41a Castle Street,Tredegar,Blaenau Gwent,The Vault,Pub/bar/nightclub,7843,5,,550611,5,,51.77209000000000,39788,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24586000000000,NP22 3DQ,2013-03-22,fhrs_5_en-GB,5,,FHRS,5
-460597,,Queensway,Garnlydan,Ebbw Vale,The Venue,Pub/bar/nightclub,7843,5,,238959,5,,51.80388000000000,39537,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20834600000000,NP23 5EE,2012-03-14,fhrs_5_en-GB,5,,FHRS,5
-460598,Willow Tree,Lakeside Retail Park,Nantyglo,Brynmawr,The Willow Tree,Pub/bar/nightclub,7843,0,,107716,0,,51.79526000000000,38132,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17876600000000,NP23 4SL,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-460599,Willows Social Club,Church Street,Tredegar,Blaenau Gwent,The Willows Social Club,Pub/bar/nightclub,7843,0,,550596,0,,51.77961200000000,34830,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24531400000000,NP22 3DS,2013-03-21,fhrs_5_en-GB,5,,FHRS,0
-460600,,34 Bailey Street,Brynmawr,Blaenau Gwent,The Wongs,Takeaway/sandwich shop,7844,5,,108323,5,,51.79785800000000,38613,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17529500000000,NP23 4AW,2013-12-03,fhrs_5_en-GB,5,,FHRS,0
-460601,Unit 50,Festival Park Shopping Centre,Victoria,Ebbw Vale,Thornton's Plc,Retailers - other,4613,5,,583471,0,,51.74813200000000,34987,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19608000000000,NP23 8FP,2013-08-27,fhrs_5_en-GB,5,,FHRS,0
-460602,Stone Lodge,Merthyr Road,Tafarnaubach,Tredegar,Tiggywinkles,Hospitals/Childcare/Caring Premises,5,0,,85717,5,,51.78409700000000,21692,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.27820100000000,NP22 3AG,2013-09-12,fhrs_5_en-GB,5,,FHRS,0
-460603,,51 Commercial Street,Tredegar,Blaenau Gwent,Top Banana,Retailers - other,4613,5,,669813,0,,51.77514200000000,40277,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24632100000000,NP22 3DJ,2014-04-16,fhrs_5_en-GB,5,,FHRS,0
-460604,,Ysguborwen,Tredegar,Blaenau Gwent,Top Shop,Retailers - other,4613,5,,191864,10,,51.78614044189450,39539,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23924517631531,NP22 4PN,2013-04-19,fhrs_4_en-GB,4,,FHRS,0
-460605,,14-14A Castle Street,Tredegar,,Tredegar Balti House,Takeaway/sandwich shop,7844,5,,65526,5,,51.77210900000000,14722,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24654200000000,NP22 3DF,2013-08-20,fhrs_4_en-GB,4,,FHRS,10
-460606,,Stable Lane,Tredegar,,Tredegar Comprehensive School,School/college/university,7845,0,,57959,0,,51.76632300000000,12968,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24273100000000,NP22 4BH,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-460607,Tredegar Constitutional Club,Church Street,Tredegar,Blaenau Gwent,Tredegar Constitutional Club,Pub/bar/nightclub,7843,5,,691421,0,,51.77685500000000,26482,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24587600000000,NP22 3DP,2014-04-15,fhrs_5_en-GB,5,,FHRS,0
-460608,,36 Lower Coronation Street,Tredegar,Blaenau Gwent,Tredegar County Club & Institu,Pub/bar/nightclub,7843,0,,80262,0,,51.77084000000000,19412,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24410100000000,NP22 3JF,2014-03-14,fhrs_4_en-GB,4,,FHRS,10
-460609,Tredegar Health Centre,Park Row,Tredegar,Blaenau Gwent,Tredegar Health Centre,Retailers - other,4613,,,482855,,,51.76942800000000,31510,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24751200000000,NP22 3NG,2012-08-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-460610,Tredegar Leisure Centre,Tredegar Comp Access Road,Tredegar,Blaenau Gwent,Tredegar Leisure Centre,Restaurant/Cafe/Canteen,1,0,,717086,0,,51.76632300000000,40477,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24273100000000,NP22 4BH,2014-10-29,fhrs_5_en-GB,5,,FHRS,0
-460611,Orpheus Music Centre,Rawlinson Terrace,Tredegar,Blaenau Gwent,Tredegar Orpheus Music Centre,Pub/bar/nightclub,7843,5,,107108,5,,51.76547800000000,37647,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23760700000000,NP22 4JD,2014-04-15,fhrs_5_en-GB,5,,FHRS,5
-460612,,54-55 Commercial Street,Tredegar,,Tredegar Post Office,Retailers - other,4613,0,,109241,0,,51.77514200000000,39373,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24632100000000,NP22 3DJ,2014-07-07,fhrs_5_en-GB,5,,FHRS,0
-460613,Tredegar Rugby Club,Park Hill,Tredegar,Blaenau Gwent,Tredegar RFC,Pub/bar/nightclub,7843,5,,69312,5,,51.76823400000000,15576,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24820300000000,NP22 3NN,2014-04-15,fhrs_5_en-GB,5,,FHRS,5
-460614,,13 The Circle,Tredegar,Blaenau Gwent,Tredegar Youth Cafe,Restaurant/Cafe/Canteen,1,5,,106442,0,,51.77145100000000,36983,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24588600000000,NP22 3PS,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-460615,,,Trefil,Tredegar,Trefil Rugby Club,Pub/bar/nightclub,7843,10,,103513,0,,51.80471801757813,34803,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.27615952491760,NP22 4HE,2014-01-23,fhrs_4_en-GB,4,,FHRS,0
-460616,,Commonwealth Road,Garnlydan,Ebbw Vale,Twinkle Tots,School/college/university,7845,0,,109474,0,,51.80543000000000,39589,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20972200000000,NP23 5ER,2011-12-01,fhrs_5_en-GB,5,,FHRS,5
-460617,,52 Beaufort Street,Brynmawr,Blaenau Gwent,Twizzles,Takeaway/sandwich shop,7844,,,384226,,,51.79946500000000,38512,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17546800000000,NP23 4AF,2014-02-04,fhrs_4_en-GB,4,,FHRS,
-460618,Ty Bryn Workingmens Club,Rassau Road,Rassau,Ebbw Vale,Ty Bryn Non Political Club,Pub/bar/nightclub,7843,0,,134536,0,,51.79596300000000,6801,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.22352000000000,NP23 5BJ,2011-10-06,fhrs_5_en-GB,5,,FHRS,0
-460619,Ty Cranog,Libanus Road,Ebbw Vale,,Ty Cranog Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,5,,88960,10,,51.78254000000000,23584,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20771700000000,NP23 6EJ,2014-02-17,fhrs_4_en-GB,4,,FHRS,5
-460620,,Chapel Road,Abertillery,Blaenau Gwent,Ty Ebbw Fach,Restaurant/Cafe/Canteen,1,5,,550608,0,,,39598,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,NP13 2NB,2013-03-27,fhrs_5_en-GB,5,,FHRS,0
-460621,Tyron Andrews Butchers,5 Commercial Street,Tredegar,,Tyron Andrews Butchers,Retailers - other,4613,10,,318349,0,,51.77421300000000,15553,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24652800000000,NP22 3DH,2014-03-28,fhrs_4_en-GB,4,,FHRS,10
-460622,Unit 1,Glandwr Industrial Estate,Aberbeeg,Abertillery,Valley Snack Bar,Mobile caterer,7846,20,,717079,10,,51.70269000000000,40434,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.14359500000000,NP13 2LN,2014-10-24,fhrs_1_en-GB,1,,FHRS,0
-460623,Valleys Kitchen,Park Place,Tredegar,Blaenau Gwent,Valley's Kitchen,Takeaway/sandwich shop,7844,5,,108398,0,,51.76727100000000,38668,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23980100000000,NP22 4HS,2014-03-24,fhrs_5_en-GB,5,,FHRS,0
-460624,,4 Park Place,Waunlwyd,Ebbw Vale,Vals General Store & Off Licen,Retailers - other,4613,0,,238919,0,,51.75368800000000,28533,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19259000000000,NP23 6TP,2015-02-11,fhrs_5_en-GB,5,,FHRS,5
-460625,,1 Mill Terrace,Cwm,Ebbw Vale,Victoria Arms Hotel,Hotel/bed & breakfast/guest house,7842,5,,143530,5,,51.74085100000000,8102,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18250500000000,NP23 7SR,2013-03-22,fhrs_5_en-GB,5,,FHRS,5
-460626,,Victoria Business Park,Ebbw Vale,Gwent,Victoria Park Brewsters Fayre,Pub/bar/nightclub,7843,,,384220,,,51.75823400000000,36322,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19914300000000,NP23 8AN,2014-07-04,fhrs_5_en-GB,5,,FHRS,
-460627,Llys Nant Y Mynydd,Hospital Road,Nantyglo,Brynmawr,Vision 21,Hospitals/Childcare/Caring Premises,5,5,,466797,0,,51.78013100000000,39868,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16490500000000,NP23 4LY,2012-10-02,fhrs_5_en-GB,5,,FHRS,0
-460628,,222 King Street,Brynmawr,Ebbw Vale,Wendys Off Licence,Retailers - other,4613,5,,99017,5,,51.80013800000000,31244,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.17651500000000,NP23 4RG,2011-11-29,fhrs_5_en-GB,5,,FHRS,0
-460629,,Golf Road,Nantyglo,Ebbw Vale,West Mon Golf Club,Pub/bar/nightclub,7843,5,,550589,5,,51.78745900000000,29770,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18468100000000,NP23 4QT,2013-03-21,fhrs_5_en-GB,5,,FHRS,5
-460630,,58 Glyn Terrace,Tredegar,,Wheetmans Paper Shop,Retailers - other,4613,0,,108415,0,,51.76291000000000,38687,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.23552200000000,NP22 4JA,2014-02-17,fhrs_5_en-GB,5,,FHRS,0
-460631,White Lion Inn,Queen Street,Blaina,Blaenau Gwent,White Lion,Pub/bar/nightclub,7843,10,,108986,5,,51.76657900000000,39199,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15873000000000,NP13 3JU,2014-01-08,fhrs_4_en-GB,4,,FHRS,0
-460632,Old Troy Building,Pen-y-Lan,Ebbw Vale,,Wiggly Gigglys Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,109026,10,,51.79768000000000,39212,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21227000000000,NP23 5JX,2013-04-12,fhrs_4_en-GB,4,,FHRS,0
-460633,,Brynheulog,Ebbw Vale,,Willowtown Community Primary School,School/college/university,7845,0,,318355,0,,51.78134300000000,35378,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21394800000000,NP23 6NJ,2013-09-30,fhrs_5_en-GB,5,,FHRS,5
-460634,,103 Mount Pleasant Road,Ebbw Vale,,Willowtown Con Club,Pub/bar/nightclub,7843,5,,80342,5,,51.78350000000000,19442,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21228100000000,NP23 6JL,2014-01-10,fhrs_5_en-GB,5,,FHRS,5
-460635,,87 Mount Pleasant Road,Ebbw Vale,Blaenau Gwent,Willowtown General Store,Retailers - other,4613,20,,238967,10,,51.78350000000000,39612,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.21228100000000,NP23 6JL,2013-07-02,fhrs_1_en-GB,1,,FHRS,0
-460636,,Winchestown,Nantyglo,Ebbw Vale,Winchestown Stores,Retailers - other,4613,20,,53937,5,,51.79099800000000,12149,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.18242400000000,NP23 4BB,2013-03-26,fhrs_1_en-GB,1,,FHRS,5
-460637,,Rear Earl Street,Tredegar,,Woffington House Care Home,Hospitals/Childcare/Caring Premises,5,,,148719,,,51.77381100000000,9408,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24889400000000,NP22 3QW,2014-01-20,fhrs_5_en-GB,5,,FHRS,
-460638,,4 Libanus Road,Ebbw Vale,Blaenau Gwent,Wok u Like,Takeaway/sandwich shop,7844,10,,108460,10,,51.78254000000000,38719,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20771700000000,NP23 6EJ,2013-08-21,fhrs_3_en-GB,3,,FHRS,10
-460639,Woodland Sports Club,Griffiths Gardens,Tredegar,Blaenau Gwent,Woodlands Sports & Social Club,Pub/bar/nightclub,7843,0,,106657,0,,51.78296600000000,37186,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.25965700000000,NP22 3HQ,2014-04-15,fhrs_5_en-GB,5,,FHRS,0
-460640,Ye Old Red Lion,Queen Victoria Street,Tredegar,Blaenau Gwent,Ye Olde Red Lion Hotel,Pub/bar/nightclub,7843,10,,108144,10,,51.77289600000000,38462,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24701300000000,NP22 3PX,2014-07-11,fhrs_3_en-GB,3,,FHRS,10
-460641,,38 Somerset Street,Abertillery,Blaenau Gwent,Ye Olde Sweet Shop,Retailers - other,4613,5,,583470,5,,51.72900200000000,22450,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.13405100000000,NP13 1DL,2013-05-28,fhrs_5_en-GB,5,,FHRS,0
-460642,,8 Railway Terrace,Blaina,Blaenau Gwent,Yew Tree Inn,Pub/bar/nightclub,7843,5,,560359,0,,51.76623900000000,39951,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.16398200000000,NP13 3BU,2013-06-06,fhrs_5_en-GB,5,,FHRS,0
-460643,,Festival Drive,Ebbw Vale,,Ysbyty Aneurin Bevan,Hospitals/Childcare/Caring Premises,5,5,,108807,0,,51.76368000000000,39034,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.20292500000000,NP23 8XE,2013-06-04,fhrs_5_en-GB,5,,FHRS,0
-460644,,College Road,Ebbw Vale,,Ysbyty' Tri Chwm,Hospitals/Childcare/Caring Premises,5,0,,384218,0,,51.79950800000000,34066,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.19179800000000,NP23 5RT,2014-02-03,fhrs_5_en-GB,5,,FHRS,0
-460645,,Rising Sun Industrial Estate,Blaina,Abertillery,Ysgol Gymraeg Bro Helyg,School/college/university,7845,0,,482861,0,,,39089,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,,NP1W 3JW,2014-04-28,fhrs_5_en-GB,5,,FHRS,0
-460646,Ystrad Deri Community Hall,Ystrad Deri,Dukestown,Tredegar,Ystrad Deri Community Centre,Other catering premises,7841,5,,106448,0,,51.78701600000000,36989,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24330000000000,NP22 4DE,2014-07-03,fhrs_5_en-GB,5,,FHRS,0
-460647,Ystruth Primary School,East Pentwyn,Blaina,Blaenau Gwent,Ystruth Primary School,School/college/university,7845,0,,191863,5,,51.76700800000000,313,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.15442300000000,NP13 3XG,2013-07-15,fhrs_5_en-GB,5,,FHRS,5
-460648,,39 Castle Street,Tredegar,Blaenau Gwent,Yumee,Takeaway/sandwich shop,7844,10,,238929,5,,51.77209000000000,12503,552,environmental.health@blaenau-gwent.gov.uk,Blaenau Gwent,http://www.blaenau-gwent.gov.uk,-3.24586000000000,NP22 3DQ,2013-08-27,fhrs_3_en-GB,3,,FHRS,10
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+460127,4T Traditional Teatime Treats,5,0,0,0,2015-01-20,51.782037,-3.212009
+460128,A Little Taste of Loveliness,5,0,0,0,2012-11-13,,
+460129,A M Snack Bar,4,5,0,10,2014-01-08,,
+460130,A Touch of Class,5,0,0,0,2012-12-21,51.797642,-3.214226
+460131,Aberbeeg Rugby Club,4,10,0,5,2013-09-13,,
+460132,Abertillery Comprehensive,5,0,0,0,2014-03-05,51.735218,-3.134612
+460133,Abertillery Leisure Centre,4,10,5,5,2014-05-28,51.735218,-3.134612
+460134,Abertillery Park Cafe,4,0,10,0,2013-08-15,51.75588,-3.158731
+460135,Abertillery Pizzas & Kebab,3,10,10,10,2014-02-06,51.729881,-3.134247
+460136,Abertillery Primary,5,5,0,5,2014-09-03,51.733831,-3.13213
+460137,Abertillery Sports Club,5,5,0,0,2012-12-17,51.729586,-3.135022
+460138,Aldi,5,0,0,0,2013-03-04,51.776129,-3.20688
+460139,All Saints Catholic Primary School,5,5,0,0,2014-02-03,51.777659,-3.222387
+460140,Allan Stokes Catering,2,5,15,10,2013-06-26,,
+460141,Ambala,4,5,5,10,2014-02-21,51.754619,-3.193904
+460142,Ambay Service Station Kiosk,4,5,10,5,2013-11-24,51.788764,-3.261471
+460143,Amphletts Butchers,5,0,0,5,2015-02-04,51.731724,-3.134293
+460144,Angling Club,4,10,0,10,2014-09-15,,
+460145,Armoury Stores,3,10,5,10,2014-03-12,51.784107,-3.244539
+460146,Asda Stores Ltd,5,5,0,0,2014-10-03,51.79526,-3.178766
+460147,Ashvale Stores Ltd,5,0,0,0,2013-08-29,51.785055,-3.257671
+460148,Ashvale Supper Bar,5,0,0,0,2013-03-29,51.784479,-3.256118
+460149,Augusta House,5,0,5,5,2012-05-16,51.753563,-3.196093
+460150,B & M Stores,5,0,0,0,2013-08-20,,
+460151,B & S Off Licence,5,0,0,0,2014-11-17,51.738467,-3.143557
+460152,B & S Stores,4,0,0,10,2013-12-16,51.779538,-3.16573
+460153,B Cake Studio,5,0,0,5,2013-08-21,51.739972,-3.181381
+460154,Bailey Arms,4,0,10,0,2014-06-08,51.74285,-3.182195
+460155,Bank House,5,5,5,5,2014-02-03,51.806592,-3.208607
+460156,Bargain Booze,5,5,0,0,2012-03-12,51.774336,-3.246009
+460157,Bargains Xtra,Exempt,nan,nan,nan,2011-12-14,51.730879,-3.134258
+460158,BCJ Winter Butchers,4,10,0,10,2014-04-16,51.775142,-3.246321
+460159,Beacon Lodge Ltd,5,0,0,0,2014-03-14,51.802079,-3.172156
+460160,Beacon Stores,5,0,0,0,2013-12-04,51.797446,-3.184058
+460161,Beaufort Bowls Club,4,0,0,10,2014-03-07,51.797625,-3.215806
+460162,Beaufort Hill County Primary School,5,0,0,0,2013-12-11,51.796136,-3.199714
+460163,Beaufort RFC,4,0,0,10,2013-08-28,51.797625,-3.215806
+460164,Beaufort Sports & Social,5,5,5,5,2013-07-25,51.792183,-3.206482
+460165,Beaufort Theatre Ballroom,4,0,5,10,2013-08-07,51.796885,-3.199487
+460166,Bedwellty House,4,nan,nan,nan,2013-10-30,51.768874,-3.242975
+460167,Bedwellty Park Bowls Club,5,5,0,5,2013-03-12,51.770769,-3.245723
+460168,Bedwellty Park Residential Home,5,5,5,5,2013-07-10,51.770793,-3.244317
+460169,Belle Vue Inn,2,15,15,10,2013-10-02,51.78415,-3.248121
+460170,Bert Denning Centre,5,5,0,0,2012-08-08,51.797307,-3.177355
+460171,Best Bite Biscuits,5,0,0,0,2013-12-04,51.792949,-3.17611
+460172,Best Kebab & Pizza,4,10,5,5,2013-08-29,51.771451,-3.245886
+460173,Best Kebab Fish Bar,5,5,5,5,2014-02-26,51.721939,-3.127968
+460174,Big Fry,5,5,0,5,2014-06-12,51.800231,-3.22291
+460175,Bindweed Bakery,4,0,0,10,2014-01-08,,
+460176,Blaenau Gwent Learning Zone Coleg Gwent,5,5,5,5,2013-04-01,51.775421,-3.204034
+460177,Blaen-y-Cwm County Primary School,5,5,0,5,2013-10-04,51.794985,-3.173031
+460178,Blaina Bowls Club,5,0,0,5,2012-07-11,51.736325,-3.138818
+460179,Blaina Constitutional Club,1,0,5,20,2014-06-09,51.765881,-3.160248
+460180,Blaina News,Exempt,nan,nan,nan,2013-05-07,51.767264,-3.160385
+460181,Blaina Senior Citizens Hall,5,5,0,0,2011-09-05,51.766089,-3.158312
+460182,Body In Balance,5,0,0,0,2011-08-02,51.775142,-3.246321
+460183,Boots Chemist,Exempt,nan,nan,nan,2012-03-05,51.774946,-3.245301
+460184,Boots Co Plc,Exempt,nan,nan,nan,2012-11-13,51.730879,-3.134258
+460185,Boots The Chemists Ltd,Exempt,nan,nan,nan,2013-07-14,51.77983,-3.207225
+460186,Bow's Cafe,3,10,10,10,2014-07-07,51.785045,-3.280272
+460187,Boyals Convenience Store,5,0,0,5,2014-08-19,51.700594,-3.135367
+460188,Bridge House Residential Home,5,0,0,5,2014-02-24,51.778536,-3.197511
+460189,Bridgend Inn,5,0,0,0,2014-05-28,51.802002,-3.168166
+460190,Bruce's Fresh Fish,5,0,0,0,2011-10-31,,
+460191,Bryn Bach Parc,5,0,0,5,2014-10-22,51.785309,-3.270015
+460192,Brynbach Primary School,5,5,0,0,2013-06-05,51.786012,-3.259829
+460193,Bryngwyn Primary,5,5,0,0,2014-01-15,51.723393,-3.127237
+460194,Brynithel Convenience Stores,5,5,0,0,2014-03-01,51.704806,-3.141391
+460195,Brynithel Post Office,Exempt,nan,nan,nan,2013-11-14,51.704296,-3.14119
+460196,Brynmawr Foundation School,5,5,0,5,2013-09-16,51.805722,-3.167508
+460197,Brynmawr Post Office Ltd,Exempt,nan,nan,nan,2013-11-26,51.799801,-3.1761
+460198,Brynmawr Pre school Nursery,5,0,0,0,2013-10-09,51.794985,-3.173031
+460199,Brynmawr Rugby Football Social,5,0,0,0,2014-02-04,51.797116,-3.172173
+460200,Brynmawr Social Club,5,0,0,5,2014-04-23,51.799801,-3.1761
+460201,Brynmawr Tandoori Balti House,3,10,5,10,2014-02-06,51.798448,-3.173788
+460202,Buffs,5,5,5,5,2012-01-28,51.797047,-3.174549
+460203,Bush Inn,2,15,15,10,2014-08-19,51.765881,-3.160248
+460204,Butterflies Day Nursery,5,5,0,0,2014-01-27,51.789262,-3.246798
+460205,'C' for Cakes,5,0,0,0,2012-06-13,,
+460206,CafÃ© Express,4,5,5,10,2013-08-28,51.729881,-3.134247
+460207,Cafe Nova,3,10,10,10,2013-07-22,51.748132,-3.19608
+460208,Caffe Sidoli,5,0,0,0,2014-06-26,51.777913,-3.208246
+460209,Cake Maker,5,0,0,0,2012-02-24,,
+460210,Candy Floss,Exempt,nan,nan,nan,2012-08-14,51.798145,-3.180755
+460211,Cantonese kitchen,0,20,20,30,2014-11-03,51.729031,-3.133777
+460212,Card Factory,Exempt,nan,nan,nan,2012-05-10,51.774946,-3.245301
+460213,Carini's,5,0,5,0,2013-06-25,51.797473,-3.207928
+460214,Carls Catering,5,5,0,0,2013-03-07,51.798607,-3.182203
+460215,Carls Catering Mobile Service,5,0,0,5,2013-03-04,,
+460216,Carpenters Arms,5,0,0,0,2014-02-04,51.710259,-3.129776
+460217,Castle Inn,4,10,0,0,2013-05-21,51.77042,-3.208597
+460218,Castle Inn,5,5,5,5,2013-11-25,51.796195,-3.236592
+460219,Cefn Golau Post Office,5,5,0,5,2014-05-21,51.767525,-3.252329
+460220,Celtic Oriental Ltd,5,5,0,5,2015-01-21,51.802599,-3.233837
+460221,Cendl Inn,4,10,5,0,2014-05-21,51.797464,-3.19827
+460222,Central Cafe,5,0,5,0,2013-08-12,51.776786,-3.207709
+460223,Central Fish Bar,5,0,0,0,2014-07-07,51.775142,-3.246321
+460224,Chapel Garage Kiosk,5,5,5,5,2013-11-06,51.794496,-3.175208
+460225,Chop Suey House Take Away,5,5,5,0,2014-03-20,51.774213,-3.246528
+460226,Chula,4,0,0,10,2014-02-13,51.797473,-3.207928
+460227,Cians Cupcake Toppers,5,0,0,0,2013-07-11,,
+460228,Claireâs Sweet Delights,5,0,0,0,2015-01-27,51.778468,-3.209362
+460229,Claires Catering,5,5,0,5,2013-02-01,,
+460230,Claire's Diner,5,0,0,0,2013-12-06,,
+460231,Classic Fish Bar,3,10,10,10,2014-03-12,51.798498,-3.174195
+460232,Clych Methrin Tic Toc,5,5,0,0,2012-10-22,51.780198,-3.249432
+460233,Coed y Garn Primary School,5,0,0,0,2014-04-30,51.776994,-3.163853
+460234,Coffee Bar 72,4,10,5,5,2013-04-11,51.76478,-3.159756
+460235,Commercial Hotel,5,5,5,5,2011-12-06,51.729946,-3.134017
+460236,Community Centre,4,5,10,5,2013-07-19,51.801036,-3.223353
+460237,Cooperative Food,4,0,10,10,2013-07-30,51.767385,-3.159983
+460238,Costa,5,0,0,5,2013-07-05,51.748132,-3.19608
+460239,Costcutters,2,15,0,10,2014-10-23,51.797858,-3.175295
+460240,Cottons Newsagents,Exempt,nan,nan,nan,2013-11-25,51.774336,-3.246009
+460241,Country Choice,Exempt,nan,nan,nan,2013-11-13,51.778182,-3.199542
+460242,Crepes a la Cas,3,10,10,10,2013-06-03,,
+460243,Curry Express Ltd,2,15,15,10,2014-10-29,51.741482,-3.184115
+460244,Cwm Bowls Club,5,0,0,5,2014-07-01,51.743994,-3.186512
+460245,Cwm Comrades Club & Institute,5,0,0,5,2014-06-08,51.73806,-3.181056
+460246,Cwm Conservative Club,5,5,0,0,2013-02-04,51.740851,-3.182505
+460247,Cwm Convenience Store,5,0,0,0,2014-02-24,51.741585,-3.183741
+460248,Cwm Junior & Infants,5,0,0,0,2014-01-14,51.743994,-3.186512
+460249,Cwm Kebab & Pizza,2,15,15,10,2014-03-24,51.739764,-3.182433
+460250,Cwm Nat Workingmens Club,5,0,5,0,2012-11-22,51.742944,-3.185384
+460251,Cwm Post Office,Exempt,nan,nan,nan,2012-05-17,51.740851,-3.182505
+460252,Cwm Premier Club,5,5,0,0,2011-12-19,51.739419,-3.182772
+460253,Cwm Seren Care Home,5,5,5,0,2013-06-10,51.777106,-3.245912
+460254,Cwmcelyn Food Store,5,0,0,5,2014-02-06,51.768939,-3.156501
+460255,Cwmcelyn Nursing Home,5,0,0,5,2014-07-02,51.770084,-3.161617
+460256,Cwrt Mytton Home For The Elderly,5,0,0,0,2014-05-20,51.731374,-3.137904
+460257,Cwtch,5,0,0,0,2014-02-17,51.799801,-3.1761
+460258,Cylch Meithrin Helyg Bychan,5,0,0,0,2014-03-05,51.773313,-3.165621
+460259,Cylch Meithrin Pobl Bach,5,0,0,5,2012-11-14,51.781289,-3.255899
+460260,Cymro Inn,5,0,0,0,2011-12-19,51.798498,-3.174195
+460261,Daisy Dell Day Nursery,5,0,0,0,2014-02-17,51.800808,-3.214094
+460262,David Taylor Garages Ltd (Kiosk),5,5,0,5,2013-04-16,51.777479,-3.205843
+460263,Davies Newsbox,5,0,5,0,2012-10-29,51.739679,-3.181982
+460264,Deano's,4,5,10,5,2013-11-13,51.78254,-3.207717
+460265,Deighton Junior & Infants,5,5,0,5,2013-06-05,51.780198,-3.249432
+460266,Dizzy Kidz,5,0,0,0,2014-02-17,51.781289,-3.255899
+460267,Doliâs & Dragons Childminding Services,5,5,0,0,2015-02-02,,
+460268,Domino's Pizza,5,5,0,0,2014-01-21,51.777232,-3.20717
+460269,Dukestown Store & Off Licence,1,15,5,20,2014-01-17,51.78415,-3.248121
+460270,Dukestown Workingmens Club,5,5,0,0,2013-05-08,51.787422,-3.249052
+460271,E & S Stores,5,5,0,5,2012-05-01,51.790794,-3.210359
+460272,East Pentwyn Stores,4,5,0,10,2013-08-02,51.764275,-3.153454
+460273,East Side Post Office & Stores,5,0,5,0,2011-12-20,51.746005,-3.132174
+460274,Ebbw Fawr Learning Community Secondary Phase,5,5,5,5,2014-04-01,51.775421,-3.204034
+460275,Ebbw Vale Conservative Club,5,5,0,0,2013-09-02,51.776786,-3.207709
+460276,Ebbw Vale Ex-Servicemens Institute Ltd,4,5,5,10,2013-08-14,51.778681,-3.205295
+460277,Ebbw Vale Learning Community Primary Phase,5,5,5,5,2014-04-08,,
+460278,Ebbw Vale Sports Centre,5,0,5,5,2013-11-11,51.765911,-3.202868
+460279,Epic Cakes,5,0,0,0,2012-07-10,51.790794,-3.210359
+460280,Eurest Customer Cafe Asda,5,0,0,0,2014-10-03,51.79526,-3.178766
+460281,Europa Cafe,5,5,0,0,2013-10-16,51.774336,-3.246009
+460282,EX Home Guard Officers,5,0,0,0,2013-03-24,51.727583,-3.132018
+460283,EXP Social Club,5,nan,nan,nan,2013-06-10,51.782944,-3.206032
+460284,Family Kebab House & USA Fried Chicken,3,5,10,10,2013-11-13,51.780686,-3.207074
+460285,Farm Foods,5,0,0,0,2013-01-04,51.774946,-3.245301
+460286,Farm Foods,5,0,0,0,2014-02-24,51.79526,-3.178766
+460287,Farmers Arms,5,5,5,5,2013-10-29,51.799446,-3.193464
+460288,Fern AFC Sports & Social Club,2,15,0,10,2013-09-12,51.773887,-3.246794
+460289,First Friends,5,0,0,5,2013-02-05,51.767525,-3.252329
+460290,Five Star Fish Bar,5,5,5,0,2013-10-15,51.732936,-3.133513
+460291,Flames Kebab,4,10,0,5,2014-03-12,51.778997,-3.207797
+460292,Frenchies,4,5,10,0,2014-05-21,51.775966,-3.20789
+460293,Fresh & Fruity,4,5,5,10,2014-04-15,51.778997,-3.207797
+460294,Fresh & Fruity,5,0,0,0,2012-08-10,,
+460295,Fruit Basket,5,0,0,0,2013-12-17,51.762563,-3.236034
+460296,Geoff Rees Fitness Centre,Exempt,nan,nan,nan,2012-10-20,,
+460297,Georgetown Primary School,4,0,10,0,2013-07-08,51.766724,-3.235453
+460298,Get Fresh,5,0,0,0,2014-12-02,51.783876,-3.257782
+460299,Gill Clark Cakes,5,0,0,0,2013-07-15,,
+460300,Gingervince & Gilly,5,0,0,0,2012-10-12,,
+460301,Gladiator & Aphrodite Production Ltd,5,0,0,0,2014-12-12,51.74202,-3.135072
+460302,Glanhowy Junior & Infants,5,5,5,0,2013-07-17,51.783559,-3.249554
+460303,Glyn Coed Fish Bar,5,0,0,0,2014-05-06,51.79129,-3.211968
+460304,Glyn Terrace Stores,4,0,0,10,2012-06-26,51.761497,-3.233165
+460305,Glyncoed Primary School,5,0,0,0,2015-02-02,51.792088,-3.212221
+460306,Glyncoed Stores,5,0,0,5,2014-04-10,51.79129,-3.211968
+460307,Go Go Wok,4,5,5,10,2014-03-03,51.699977,-3.135915
+460308,Golden Chopsticks,4,5,5,10,2014-04-02,51.77209,-3.24586
+460309,Golden City,3,10,10,10,2014-03-28,51.799465,-3.175468
+460310,Golden Lion,4,5,5,10,2014-02-17,51.780934,-3.166462
+460311,Golden Palace,3,10,10,10,2013-05-16,51.79846,-3.175267
+460312,Good Taste,5,5,5,5,2013-12-05,51.774213,-3.246528
+460313,Greenfield Bungalow,5,0,0,0,2014-09-11,51.797642,-3.214226
+460314,Greggs,5,5,0,0,2013-03-27,51.774946,-3.245301
+460315,Greggs,4,10,0,0,2014-04-29,51.79846,-3.175267
+460316,Greggs,5,5,0,0,2014-12-08,51.730879,-3.134258
+460317,Greggs Plc,5,5,5,0,2013-03-07,51.77983,-3.207225
+460318,Grist Family Butchers,4,10,0,10,2013-09-18,52.035914,-2.425142
+460319,Grosvenor Nursing Home,5,0,5,5,2013-06-20,51.735472,-3.138109
+460320,GV Supermarket,5,5,0,0,2014-11-11,51.796266,-3.226312
+460321,Happy Gathering,3,10,10,10,2013-11-14,51.764146,-3.237744
+460322,Happy Shopper,3,10,5,10,2014-03-19,51.73371,-3.139962
+460323,Hector's Cosy Cafe,5,5,5,5,2013-11-13,51.731724,-3.134293
+460324,Hey Diddle Griddle,4,0,10,5,2014-07-17,,
+460325,Hilltop Garage (kiosk),4,0,0,10,2014-03-26,51.799329,-3.183658
+460326,Hilltop Minimarket,2,10,15,10,2013-11-20,51.779123,-3.21644
+460327,Hilltop Sports & Social Club,5,0,0,0,2014-04-15,51.779003,-3.226308
+460328,Ho Ho Take Away,4,5,10,0,2013-09-18,51.729881,-3.134247
+460329,Holland & Barrett,5,5,0,0,2013-11-05,51.748132,-3.19608
+460330,Home Bargains,5,0,0,0,2014-04-15,51.780144,-3.20819
+460331,Home Bargains,5,0,0,0,2015-02-11,51.7533912659,-3.20731496811
+460332,Home Bargains,5,0,0,0,2014-02-24,51.79526,-3.178766
+460333,Homestead Cafe,4,10,5,5,2013-05-14,51.798498,-3.174195
+460334,Hong Kong Takeaway,5,5,5,5,2014-02-26,51.700083,-3.132387
+460335,Iceland,5,5,0,0,2013-07-02,51.730285,-3.13333
+460336,Iceland,5,5,0,0,2012-04-26,51.776129,-3.20688
+460337,Intrim,4,10,0,0,2012-01-06,51.772896,-3.247013
+460338,Ironside RFC,4,5,5,10,2014-03-31,51.769428,-3.247512
+460339,Ironsides,4,0,0,10,2012-02-27,51.770847,-3.251986
+460340,Istanbul,1,10,10,20,2013-05-21,51.80388,-3.208346
+460341,Jade Garden,5,0,0,0,2013-11-07,51.772896,-3.247013
+460342,Janeâs CafÃ©,1,10,10,20,2014-11-11,51.797116,-3.172173
+460343,Jan's Cakes for Occasions,5,5,0,0,2012-09-04,,
+460344,Jassim Stores,1,0,15,20,2014-05-09,51.758628,-3.158077
+460345,JJâs,5,0,5,0,2014-05-15,51.739714,-3.181997
+460346,Joe's Fish Bar,4,nan,nan,nan,2013-11-27,51.739679,-3.181982
+460347,JP Catering,3,10,10,10,2013-01-25,51.777801,-3.208546
+460348,Kahve,2,5,15,10,2013-09-24,51.773893,-3.207429
+460349,Kam Kong Garden,4,5,5,10,2013-07-25,51.739714,-3.181997
+460350,Katieâs Sandwich Bar,4,10,0,0,2014-06-09,51.765881,-3.160248
+460351,Kelly s Catering,4,0,10,10,2014-01-08,,
+460352,Kentucky Fried Chicken,5,5,0,5,2014-06-04,51.788729,-3.2188
+460353,Keri's Independent Catering,5,0,0,0,2014-04-30,,
+460354,Kidz R Us,4,10,0,10,2013-04-25,51.767983,-3.239617
+460355,Kimina Cakes,5,0,0,0,2013-05-01,,
+460356,Kim's Kitchen,3,10,10,10,2014-03-25,51.776786,-3.207709
+460357,King William IV,4,0,5,10,2014-03-11,51.798076,-3.175895
+460358,KT's Wine Bar,5,0,5,0,2011-10-26,51.799422,-3.17886
+460359,Kung Fu,3,10,10,10,2014-11-06,51.772831,-3.207516
+460360,La Mediterranea Food Ltd,Exempt,nan,nan,nan,2013-08-13,51.795085,-3.168393
+460361,Legends,5,0,0,0,2012-12-11,51.799801,-3.1761
+460362,Lidl UK Gmbh,5,0,0,0,2013-05-21,51.775965,-3.246663
+460363,Little Secrets,5,0,0,5,2013-03-27,51.77209,-3.24586
+460364,Little Theatre,Exempt,nan,nan,nan,2013-02-28,51.771995,-3.24464
+460365,Little Valley Treats,5,0,5,5,2011-07-27,,
+460366,Llanhilleth Conservative & Uni,4,5,0,10,2014-01-24,51.700594,-3.135367
+460367,Llanhilleth Hotel,4,10,0,10,2012-12-11,51.699456,-3.130302
+460368,Llanhilleth Miners Institute,3,5,10,10,2012-12-07,51.699453,-3.134325
+460369,Llanhilleth RFC,5,5,5,5,2012-03-07,51.701367,-3.139105
+460370,LLanhilleth Stores,4,5,0,10,2013-07-24,51.699444,-3.136163
+460371,Lloyds Pharmacy,Exempt,nan,nan,nan,2013-07-26,51.780591,-3.207564
+460372,Llys Glyncoed Extra Care Scheme,5,0,5,0,2013-10-10,51.794877,-3.207656
+460373,Londis,5,0,0,0,2014-02-24,51.770966,-3.239858
+460374,Louis Fish Bar,5,5,0,0,2013-07-09,51.778578,-3.207423
+460375,Loveâs Cakes,5,0,0,5,2014-01-20,51.772831,-3.207516
+460376,Lucky Strike,Exempt,nan,nan,nan,2012-11-14,51.774946,-3.245301
+460377,Lucky Super Stores,4,5,0,10,2013-01-10,51.727288,-3.129013
+460378,M & B Fish Bar,5,5,5,5,2014-03-12,51.774213,-3.246528
+460379,M & J Veg,5,0,0,0,2014-09-11,51.731724,-3.134293
+460380,Maes Y Dderwen Nursing Home,5,0,0,0,2012-12-12,51.783497,-3.252061
+460381,Mai Palace,3,10,5,10,2014-02-05,51.784107,-3.244539
+460382,Mandaâs Coffee Shop,5,0,0,0,2014-10-08,51.799801,-3.1761
+460383,Marenghi's Cafe`,5,5,5,5,2014-03-20,51.730091,-3.134846
+460384,Mark Williams Snooker Club,5,0,0,0,2013-03-04,51.767983,-3.239617
+460385,Market Fish Saloon,4,0,0,10,2014-10-29,51.729946,-3.134017
+460386,Market Hall Cinema,Exempt,nan,nan,nan,2014-04-17,51.798448,-3.173788
+460387,Market Shack,2,15,15,10,2013-09-04,,
+460388,Market Tavern,4,10,0,0,2014-03-27,51.776786,-3.207709
+460389,Marmaris Takeaway Fast Food Ltd,5,0,0,0,2014-01-23,51.799465,-3.175468
+460390,Marshalls Newsagents,Exempt,nan,nan,nan,2013-07-22,51.77983,-3.207225
+460391,Martin's Newsbox,Exempt,nan,nan,nan,2014-02-25,51.729433,-3.13496
+460392,Masala,4,10,0,10,2013-01-17,51.798498,-3.174195
+460393,Masonic Hall,Exempt,nan,nan,nan,2011-11-17,51.78298,-3.208715
+460394,Masonic Hall,5,0,0,0,2014-03-19,51.770793,-3.244317
+460395,Massarella's Resaurant,5,5,0,0,2014-02-25,51.748132,-3.19608
+460396,Master Kebab,4,10,5,5,2014-03-26,51.772109,-3.246542
+460397,Maya,2,5,15,10,2014-01-06,51.78254,-3.207717
+460398,McDonalds,5,0,5,5,2013-11-27,51.776129,-3.20688
+460399,Meals On Wheels Service,4,0,0,10,2013-05-21,51.793283,-3.172392
+460400,Meats R Us,4,10,0,5,2014-05-13,51.7991,-3.175168
+460401,Miaâs Cafe,4,0,0,10,2014-02-10,51.739764,-3.182433
+460402,Mike's News,4,10,5,0,2012-03-19,51.729031,-3.133777
+460403,Mini's Diner,2,15,10,10,2014-10-01,51.773525,-3.24619
+460404,Miss Daisyâs Kitchen,5,0,0,5,2014-01-20,,
+460405,Missy Mooâs,4,0,0,10,2014-04-29,,
+460406,Molly's Cafe,5,0,5,5,2013-06-04,51.771945,-3.241711
+460407,Morganâs Eatery,4,0,10,10,2014-04-28,51.771898,-3.246145
+460408,Morrisons,5,5,5,5,2013-09-19,51.79307,-3.222426
+460409,Mount Pleasant Inn,5,5,5,5,2014-03-15,51.704831,-3.13608
+460410,Mountain Air Inn,5,5,0,0,2014-03-31,51.790402,-3.262198
+460411,Mountain Ash Inn,5,5,0,5,2014-02-05,51.7500953674,-3.24608063698
+460412,Mr Philip Heal,5,5,0,0,2012-03-02,,
+460413,Mrs Puddleducks Day Nursery,3,5,10,10,2013-10-18,51.797123,-3.218345
+460414,Mrs Puddleducks Day Nursery,3,5,10,10,2013-10-03,51.79823,-3.197217
+460415,Muddy Cup,5,0,0,5,2014-01-20,51.779051,-3.207784
+460416,Munchies Pizzas,5,0,0,5,2013-03-18,51.797047,-3.174549
+460417,Mynydd Lodge Guest House,5,0,0,0,2012-12-18,51.743377,-3.131457
+460418,N Joy,5,5,0,5,2013-04-19,51.770793,-3.244317
+460419,N Joy Pizzas & Fried Chicken,3,10,10,10,2014-02-06,51.732304,-3.13564
+460420,Nanaâs Teas and Cakes,5,0,5,5,2014-04-11,51.780091,-3.211523
+460421,Nantybwch Post Office,Exempt,nan,nan,nan,2013-08-27,51.785055,-3.257671
+460422,Nantyglo Post Office,5,0,0,5,2013-06-10,51.784347,-3.170406
+460423,Nantyglo Rugby Football Club,4,0,10,0,2013-03-12,51.789618,-3.169325
+460424,Nantyglo Stores & Off Licence,5,5,0,0,2014-11-12,51.784347,-3.170406
+460425,Nelson Pharmacy,Exempt,nan,nan,nan,2013-07-22,51.770712,-3.244301
+460426,New Ajanta Tandoori,3,10,10,5,2014-03-27,51.781196,-3.206449
+460427,New Bridgend Inn,5,5,5,5,2013-03-27,51.739562,-3.134504
+460428,New Hilltop Fish Bar,4,10,5,5,2014-02-17,51.779123,-3.21644
+460429,Nigel's Crusty Loaf,4,5,10,5,2014-04-30,51.776786,-3.207709
+460430,Nisa Local,4,10,0,5,2013-02-28,51.765956,-3.239141
+460431,NISA Stores,4,0,5,10,2012-08-13,51.683462,-3.133781
+460432,Nisa's Store,4,5,0,10,2012-12-14,51.796538,-3.226175
+460433,Noble Balti,5,5,0,5,2014-02-06,51.732202,-3.134073
+460434,Oak street Social club,4,10,0,0,2012-12-14,51.731374,-3.137904
+460435,OAP Social Hall,5,0,0,5,2013-07-31,51.756703,-3.193453
+460436,Ollies,4,5,0,10,2014-12-02,51.772445,-3.246262
+460437,Only Foods and Sauces (Portacabin),4,5,5,10,2014-06-26,,
+460438,Oriental Kitchen,3,10,10,10,2014-01-09,51.730879,-3.134258
+460439,Orzelek,2,15,15,10,2014-03-13,51.776786,-3.207709
+460440,Pam's Cafe,4,10,5,5,2013-07-26,51.774213,-3.246528
+460441,Passion For Food,5,5,0,0,2014-11-07,51.800219,-3.223185
+460442,Peking Town,4,5,5,10,2013-03-28,51.76478,-3.159756
+460443,Penrhiwgyngi (homemade cakes),5,0,0,5,2014-06-09,51.722067,-3.185316
+460444,PenyBont Service Station Kiosk,1,0,5,20,2013-07-25,51.73762,-3.134499
+460445,Piece of Cake,Exempt,nan,nan,nan,2012-10-24,51.772159,-3.165439
+460446,Pings Place Ltd,5,5,5,5,2013-11-20,51.735786,-3.137219
+460447,Pit Stop Cafe,5,5,0,0,2014-05-06,51.76006,-3.199032
+460448,Pizza Pan (Ebbw Vale) Ltd,5,5,0,0,2013-11-15,51.773893,-3.207429
+460449,Plasgeller Care Home Ltd,4,0,10,10,2014-03-19,51.802079,-3.172156
+460450,Platinum ll Gym,Exempt,nan,nan,nan,2013-10-09,51.772164,-3.164946
+460451,Polkadots,Exempt,nan,nan,nan,2014-09-19,51.777913,-3.208246
+460452,Poundland,5,0,0,0,2013-09-02,51.748132,-3.19608
+460453,Poundstretcher,5,0,0,0,2014-03-20,51.776129,-3.20688
+460454,Premier,4,0,0,10,2012-01-09,51.800231,-3.22291
+460455,Premier,5,0,0,5,2014-06-04,51.739274,-3.133642
+460456,Premier Express,1,15,0,20,2013-06-05,51.796985,-3.209858
+460457,Premier Store,1,15,10,20,2014-12-10,51.739764,-3.182433
+460458,Premier Stores,3,10,5,10,2012-11-26,51.73626,-3.138447
+460459,Prices of Beaufort,4,0,0,10,2012-08-16,51.797178,-3.214721
+460460,Queen St Junior & Infants,5,0,0,0,2014-05-02,51.72783,-3.131531
+460461,Rai Convenience Store,5,0,0,0,2014-11-11,51.727288,-3.129013
+460462,Railway Inn,4,0,5,10,2013-08-28,51.730775,-3.13941
+460463,Railway Tavern,4,5,10,5,2013-06-26,51.781975,-3.243002
+460464,Rasiah Trade,5,5,5,5,2014-02-03,51.797858,-3.175295
+460465,Rassau Supper & Fish Bar Ltd,4,10,0,10,2014-10-20,51.797123,-3.218345
+460466,Rassau Supper Bar,3,10,10,10,2013-06-13,51.797123,-3.218345
+460467,Red Lion Hotel,4,10,0,0,2014-09-12,51.76478,-3.159756
+460468,Red Rose Care Home,5,0,5,0,2013-09-04,51.763225,-3.204391
+460469,Refresh Coffee Shop,5,0,5,0,2013-08-19,51.775142,-3.246321
+460470,Rhos y Fedwen Primary,5,0,0,0,2014-03-04,51.800231,-3.22291
+460471,Richie's Fruit & Veg,1,15,10,20,2014-05-28,51.739764,-3.182433
+460472,Rite Stop,4,10,0,10,2014-01-15,51.732927,-3.132571
+460473,Riverside Work/Mens Club & Ins,5,0,0,0,2012-02-28,51.741545,-3.185029
+460474,Rolling Mill,5,0,0,0,2014-09-11,51.730879,-3.134258
+460475,"Roots, Fruits & Flowers",5,5,0,0,2013-05-02,51.769472,-3.156268
+460476,Rose Heyworth Millennium Jnr,5,5,5,0,2013-07-01,51.740992,-3.149313
+460477,Roseland House,5,0,0,0,2013-03-14,51.786304,-3.245092
+460478,Roundabout Services Kiosk/Spar,4,10,0,10,2013-11-25,51.780961,-3.243611
+460479,Royal Exchange,5,0,0,0,2015-01-06,51.799114,-3.174632
+460480,RTB (Ebbw Vale) RFC,4,10,10,0,2014-03-12,51.77042,-3.208597
+460481,Russâs Kebab House,2,15,15,10,2014-06-10,51.700602,-3.135454
+460482,S & A Catering,4,10,0,5,2014-06-03,,
+460483,Salem Chapel,Exempt,nan,nan,nan,2012-06-12,51.76478,-3.159756
+460484,Salvation Army Hall,5,0,0,0,2014-01-21,51.739106,-3.180808
+460485,Salvation Army Hall,4,0,0,10,2014-01-22,51.728793,-3.134263
+460486,Scotts Corner Cafe,4,5,10,5,2014-02-10,51.792949,-3.17611
+460487,Seven Arches,3,10,5,10,2014-01-10,51.776786,-3.207709
+460488,Shackletons Chemist,Exempt,nan,nan,nan,2012-02-01,51.795329,-3.21357
+460489,Shane's fish Bar,5,0,5,0,2013-08-09,51.800138,-3.176515
+460490,Shorts Butchers,2,0,15,10,2013-08-14,51.700594,-3.135367
+460491,Simply Deelish,5,0,0,5,2014-04-30,,
+460492,Simply Deelish,3,10,10,10,2013-03-26,,
+460493,Simply Divine Cakes,5,0,0,5,2012-02-13,51.782397,-3.215469
+460494,Sirrome Kershaw,4,5,5,10,2013-03-26,,
+460495,Six Bells Bowl Club,Exempt,nan,nan,nan,2014-07-21,,
+460496,Six Bells Hotel,4,0,0,10,2013-12-11,51.717931,-3.130546
+460497,Six Bells Stores/Londis,4,10,0,5,2012-05-15,51.721939,-3.127968
+460498,Six Bells Working Mens Club,5,0,0,0,2013-03-07,51.723219,-3.128506
+460499,Smiling Valley Chinese,5,5,5,5,2013-04-03,51.753688,-3.19259
+460500,Snax Shack ltd,3,5,10,10,2013-07-24,,
+460501,Soar Chapel Guest House,5,0,0,5,2013-05-20,51.797636,-3.208701
+460502,Sofrydd Primary School,5,0,0,0,2013-04-29,51.5894317627,-2.99829006195
+460503,Sofrydd Sunflowers Playgroup,4,0,5,10,2012-10-10,51.5894317627,-2.99829006195
+460504,Somerset Hotel,5,0,0,0,2012-03-28,51.729881,-3.134247
+460505,Something Sweet Cupcakes,5,0,0,5,2013-02-14,,
+460506,Southern Style Chicken & Kebab Ebbw Vale,5,5,5,5,2014-03-31,51.781196,-3.206449
+460507,Spar,4,0,0,10,2012-12-11,51.773893,-3.207429
+460508,St Illtyd Primary School,5,0,0,0,2013-05-01,51.6994514465,-3.13432502747
+460509,St Mary Church in Wales School,5,0,5,0,2013-07-10,51.802079,-3.172156
+460510,St Mary's Roman Catholic School,5,5,0,5,2013-11-08,51.797116,-3.172173
+460511,St Peterâs Church Luncheon Club,4,0,5,10,2014-11-19,,
+460512,Stanâs,5,5,0,5,2014-07-22,51.77983,-3.207225
+460513,Sue's Bus Cafe,5,nan,nan,nan,2014-01-07,51.795085,-3.168393
+460514,Sugar & Spice,5,5,5,5,2012-12-11,,
+460515,Sugarlicious Candy Buffets,5,0,0,0,2012-12-20,51.778942,-3.241556
+460516,Sun do Takeaway,5,5,5,0,2012-12-11,51.773893,-3.207429
+460517,Sun Rise Cafe,3,nan,nan,nan,2013-06-12,51.772159,-3.165439
+460518,Sun Valley,5,0,0,5,2015-02-09,51.778997,-3.207797
+460519,Sunnys,5,5,0,5,2013-08-27,51.783317,-3.238472
+460520,Sunrise Pharma Ltd,Exempt,nan,nan,nan,,51.700594,-3.135367
+460521,Super Tubing,3,10,10,10,2014-03-27,,
+460522,Superdrug,Exempt,nan,nan,nan,2012-01-24,,
+460523,Sweets and Things,5,0,0,0,2014-05-09,51.777913,-3.208246
+460524,Sweets4U,5,0,0,5,2014-09-16,,
+460525,Swffryd Community Centre,5,0,0,5,2013-10-17,51.683462,-3.133781
+460526,Swffryd Social Club,5,0,5,5,2013-11-25,51.683462,-3.133781
+460527,T H Pritchard & Son,Exempt,nan,nan,nan,2013-06-04,,
+460528,T H Pritchard & Son Ltd,Exempt,nan,nan,nan,2012-12-17,51.731642,-3.134335
+460529,T H Pritchard (medical hall),Exempt,nan,nan,nan,2012-11-13,51.729477,-3.134136
+460530,Tafarn Ty Uchaf,3,10,5,10,2013-11-15,51.807249,-3.277464
+460531,Tasty Bites,4,5,0,10,2013-10-10,51.765881,-3.160248
+460532,Tasty Garden,5,5,5,5,2013-12-03,51.783331,-3.169525
+460533,Ted's Newsagents,Exempt,nan,nan,nan,2012-12-21,51.732936,-3.133513
+460534,Tesco Express,5,5,0,5,2015-02-06,51.774213,-3.246528
+460535,Tesco Family Dining Ltd,5,5,0,5,2015-01-07,51.786461,-3.214636
+460536,Tesco Stores Limited (Store),4,10,0,10,2013-11-25,51.72932,-3.13739
+460537,Tesco Stores Ltd (Store),4,10,0,5,2013-04-24,51.786461,-3.214636
+460538,Thanh Long,5,5,5,5,2013-06-13,51.781196,-3.206449
+460539,The Acorns,5,0,0,5,2011-08-09,51.797642,-3.214226
+460540,The Asha Tandoori Balti,1,15,15,20,2014-03-20,51.766701,-3.160008
+460541,The Bear,4,10,0,0,2012-06-26,51.729572,-3.134616
+460542,The Bridge,5,5,5,5,2013-03-28,51.782944,-3.206032
+460543,The British Legion Club,5,0,0,0,2014-03-12,51.741482,-3.184115
+460544,The Bush Inn,5,0,0,0,2013-02-20,51.799918,-3.173362
+460545,The Cabin Snack Bar,4,10,0,10,2013-03-28,51.770662,-3.24227
+460546,The Cake Boutique,5,0,0,0,2014-03-05,,
+460547,The Cambrian Hotel,5,nan,nan,nan,2014-01-08,51.771898,-3.246145
+460548,The Castle,4,10,5,5,2012-11-09,51.76478,-3.159756
+460549,The Castle Hotel,5,5,0,5,2012-03-28,51.772109,-3.246542
+460550,The Clarence,4,5,10,5,2014-07-23,51.79788,-3.172163
+460551,The Clynmawr,4,10,0,0,2013-02-20,51.736146,-3.139994
+460552,The Coffee Bean,5,0,5,5,2014-05-28,51.731724,-3.134293
+460553,The Coffee Shop,4,10,10,0,2014-03-10,51.731724,-3.134293
+460554,The Co-Operative,Exempt,nan,nan,nan,2011-12-06,51.739764,-3.182433
+460555,The Cooperative Pharamcy,Exempt,nan,nan,nan,2014-11-14,51.7991,-3.175168
+460556,The Cooperative Pharmacy,Exempt,nan,nan,nan,2014-12-15,51.739764,-3.182433
+460557,The Corner Club,5,0,0,0,2013-05-17,51.729031,-3.133777
+460558,The Crossing Cafe,5,5,5,5,2014-05-26,51.77983,-3.207225
+460559,The Crown,4,0,5,10,2014-04-11,51.735472,-3.138109
+460560,The Dolls House,5,0,0,5,2014-07-17,51.732304,-3.13564
+460561,The Eden Centre,5,0,0,5,2014-02-17,51.70269,-3.143595
+460562,The Filling Station,5,nan,nan,nan,2013-06-12,51.798448,-3.173788
+460563,The Fir Tree Inn,5,0,0,5,2013-10-29,51.765881,-3.235212
+460564,The Flower Stork Ltd,Exempt,nan,nan,nan,2014-02-19,51.759746,-3.199937
+460565,The Fruit Shop,4,5,10,5,2012-11-26,51.7991,-3.175168
+460566,The Fryery,4,10,0,5,2013-07-25,51.771451,-3.245886
+460567,The Garw,5,0,0,0,2014-11-25,51.729585,-3.135021
+460568,The Glasgow Phoenix,5,5,0,5,2013-01-05,51.729946,-3.134017
+460569,The Grand,5,0,0,5,2014-11-05,51.76478,-3.159756
+460570,The Greyhound Inn,5,0,0,0,2012-10-18,51.796985,-3.209858
+460571,The Hobby Horse,5,5,5,0,2013-03-26,51.798493,-3.170149
+460572,The Hot Spot,3,10,10,10,2014-03-31,51.729433,-3.13496
+460573,The Indian Valley,1,10,10,20,2014-06-19,51.763311,-3.164588
+460574,The Inn Place,5,0,0,0,2014-03-26,51.770927,-3.246944
+460575,The Kings Arms,5,5,5,5,2014-01-09,51.783462,-3.204596
+460576,The Lounge,5,0,0,0,2014-03-27,51.79864,-3.175316
+460577,The Moose Hall,5,5,5,5,2014-01-07,51.771617,-3.243775
+460578,The Nags Head Inn,5,5,5,5,2013-03-29,51.784362,-3.276136
+460579,The New Griffin Hotel,5,5,5,5,2014-02-01,51.798448,-3.173788
+460580,The Nine Arches,5,0,0,0,2013-12-12,51.789915,-3.267303
+460581,The No 2 Shop,5,5,0,5,2013-10-09,51.80388,-3.208346
+460582,The Oak,5,0,0,0,2012-02-24,51.787561,-3.246127
+460583,The Ocean,5,0,0,0,2013-12-17,51.774946,-3.245301
+460584,The Old Butchers Shop,1,10,15,20,2014-10-30,51.769472,-3.156268
+460585,The Olympia,5,0,5,0,2013-02-06,51.770669,-3.244169
+460586,The Original Factory Shop,Exempt,nan,nan,nan,2014-06-04,51.729917,-3.134233
+460587,The Picture House,5,0,5,0,2014-02-25,51.780591,-3.207564
+460588,The Pontlottyn (J D Wetherspoon),5,0,0,5,2014-10-27,51.729917,-3.134233
+460589,The Queens Hotel,5,0,0,0,2014-07-29,51.759623,-3.159276
+460590,The Rhyd Hall,4,10,5,0,2014-10-16,51.762943,-3.231538
+460591,The Rookery Residential Home,5,0,0,5,2015-01-30,51.778681,-3.205295
+460592,The Royal,4,10,0,5,2014-06-13,51.765881,-3.160248
+460593,The Square Card Box,5,0,0,0,2013-07-15,51.797858,-3.175295
+460594,The Talisman,5,5,0,0,2014-02-17,51.798448,-3.173788
+460595,The Tara Mahal,5,0,0,5,2013-05-09,51.773893,-3.207429
+460596,The Vault,5,5,5,5,2013-03-22,51.77209,-3.24586
+460597,The Venue,5,5,5,5,2012-03-14,51.80388,-3.208346
+460598,The Willow Tree,5,5,0,0,2014-03-31,51.79526,-3.178766
+460599,The Willows Social Club,5,0,0,0,2013-03-21,51.779612,-3.245314
+460600,The Wongs,5,0,5,5,2013-12-03,51.797858,-3.175295
+460601,Thornton's Plc,5,0,0,5,2013-08-27,51.748132,-3.19608
+460602,Tiggywinkles,5,0,5,0,2013-09-12,51.784097,-3.278201
+460603,Top Banana,5,0,0,5,2014-04-16,51.775142,-3.246321
+460604,Top Shop,4,0,10,5,2013-04-19,51.7861404419,-3.23924517632
+460605,Tredegar Balti House,4,10,5,5,2013-08-20,51.772109,-3.246542
+460606,Tredegar Comprehensive School,5,0,0,0,2014-09-04,51.766323,-3.242731
+460607,Tredegar Constitutional Club,5,0,0,5,2014-04-15,51.776855,-3.245876
+460608,Tredegar County Club & Institu,4,10,0,0,2014-03-14,51.77084,-3.244101
+460609,Tredegar Health Centre,Exempt,nan,nan,nan,2012-08-15,51.769428,-3.247512
+460610,Tredegar Leisure Centre,5,0,0,0,2014-10-29,51.766323,-3.242731
+460611,Tredegar Orpheus Music Centre,5,5,5,5,2014-04-15,51.765478,-3.237607
+460612,Tredegar Post Office,5,0,0,0,2014-07-07,51.775142,-3.246321
+460613,Tredegar RFC,5,5,5,5,2014-04-15,51.768234,-3.248203
+460614,Tredegar Youth Cafe,5,5,0,5,2014-03-07,51.771451,-3.245886
+460615,Trefil Rugby Club,4,0,0,10,2014-01-23,51.8047180176,-3.27615952492
+460616,Twinkle Tots,5,5,0,0,2011-12-01,51.80543,-3.209722
+460617,Twizzles,4,nan,nan,nan,2014-02-04,51.799465,-3.175468
+460618,Ty Bryn Non Political Club,5,0,0,0,2011-10-06,51.795963,-3.22352
+460619,Ty Cranog Bed & Breakfast,4,5,10,5,2014-02-17,51.78254,-3.207717
+460620,Ty Ebbw Fach,5,0,0,5,2013-03-27,,
+460621,Tyron Andrews Butchers,4,10,0,10,2014-03-28,51.774213,-3.246528
+460622,Valley Snack Bar,1,0,10,20,2014-10-24,51.70269,-3.143595
+460623,Valley's Kitchen,5,0,0,5,2014-03-24,51.767271,-3.239801
+460624,Vals General Store & Off Licen,5,5,0,0,2015-02-11,51.753688,-3.19259
+460625,Victoria Arms Hotel,5,5,5,5,2013-03-22,51.740851,-3.182505
+460626,Victoria Park Brewsters Fayre,5,nan,nan,nan,2014-07-04,51.758234,-3.199143
+460627,Vision 21,5,0,0,5,2012-10-02,51.780131,-3.164905
+460628,Wendys Off Licence,5,0,5,5,2011-11-29,51.800138,-3.176515
+460629,West Mon Golf Club,5,5,5,5,2013-03-21,51.787459,-3.184681
+460630,Wheetmans Paper Shop,5,0,0,0,2014-02-17,51.76291,-3.235522
+460631,White Lion,4,0,5,10,2014-01-08,51.766579,-3.15873
+460632,Wiggly Gigglys Day Nursery,4,0,10,5,2013-04-12,51.79768,-3.21227
+460633,Willowtown Community Primary School,5,5,0,0,2013-09-30,51.781343,-3.213948
+460634,Willowtown Con Club,5,5,5,5,2014-01-10,51.7835,-3.212281
+460635,Willowtown General Store,1,0,10,20,2013-07-02,51.7835,-3.212281
+460636,Winchestown Stores,1,5,5,20,2013-03-26,51.790998,-3.182424
+460637,Woffington House Care Home,5,nan,nan,nan,2014-01-20,51.773811,-3.248894
+460638,Wok u Like,3,10,10,10,2013-08-21,51.78254,-3.207717
+460639,Woodlands Sports & Social Club,5,0,0,0,2014-04-15,51.782966,-3.259657
+460640,Ye Olde Red Lion Hotel,3,10,10,10,2014-07-11,51.772896,-3.247013
+460641,Ye Olde Sweet Shop,5,0,5,5,2013-05-28,51.729002,-3.134051
+460642,Yew Tree Inn,5,0,0,5,2013-06-06,51.766239,-3.163982
+460643,Ysbyty Aneurin Bevan,5,0,0,5,2013-06-04,51.76368,-3.202925
+460644,Ysbyty' Tri Chwm,5,0,0,0,2014-02-03,51.799508,-3.191798
+460645,Ysgol Gymraeg Bro Helyg,5,0,0,0,2014-04-28,,
+460646,Ystrad Deri Community Centre,5,0,0,5,2014-07-03,51.787016,-3.2433
+460647,Ystruth Primary School,5,5,5,0,2013-07-15,51.767008,-3.154423
+460648,Yumee,3,10,5,10,2013-08-27,51.77209,-3.24586

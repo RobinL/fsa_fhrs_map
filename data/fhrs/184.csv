@@ -1,588 +1,588 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-230906,18 Lawrance Square,Northfleet,Kent,,10 Till 10,Retailers - supermarkets/hypermarkets,7840,5,,102169,5,,51.42752900000000,337701804,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35706900000000,DA11 7HW,2014-10-09,fhrs_5_en-GB,5,,FHRS,5
-230907,,,,,1st Ascot,Other catering premises,7841,5,,579700,5,,,120700101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-08-17,fhrs_5_en-GB,5,,FHRS,5
-230908,117 Rochester Road,Gravesend,Kent,,3K's Convenience Store,Retailers - supermarkets/hypermarkets,7840,10,,75955,5,,51.43515500000000,178411702,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39039700000000,DA12 2HU,2014-01-08,fhrs_4_en-GB,4,,FHRS,5
-230909,1A Kempthorne Street,Gravesend,Kent,,99P Stores,Retailers - supermarkets/hypermarkets,7840,5,,68226,5,,51.44299900000000,152500103,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36683100000000,DA11 0TA,2013-06-14,fhrs_5_en-GB,5,,FHRS,5
-230910,Unit B,Thames Way,Gravesend,Kent,99P Stores Ltd,Retailers - supermarkets/hypermarkets,7840,5,,647132,0,,51.44424400000000,126400201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36040500000000,DA11 0DQ,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-230911,69 Pelham Road South,Gravesend,Kent,,A1 Lahore Grill,Takeaway/sandwich shop,7844,5,,724138,0,,51.43418300000000,171906900,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35400100000000,DA11 8QT,2014-08-18,fhrs_5_en-GB,5,,FHRS,5
-230912,Trinity Road,Gravesend,Kent,,Abbeyfield Edward Moore House,Hospitals/Childcare/Caring Premises,5,0,,80473,0,,51.43737300000000,194800100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37730300000000,DA12 1LX,2014-04-14,fhrs_5_en-GB,5,,FHRS,0
-230913,Nurstead Hill Farm,Nurstead Lane,Longfield,Gravesend,Absolute Catering Ltd,Mobile caterer,7846,5,,667973,5,,51.38899800000000,521000002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33434600000000,DA3 7AN,2014-05-02,fhrs_5_en-GB,5,,FHRS,5
-230914,21 Forge Lane,Gravesend,Kent,,Acme Wines,Retailers - supermarkets/hypermarkets,7840,5,,124294,0,,51.41361300000000,528102102,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45919700000000,ME3 7AJ,2014-01-22,fhrs_5_en-GB,5,,FHRS,0
-230915,100-102 London Road,Gravesend,Kent,,Aldi Food Store Ltd,Retailers - supermarkets/hypermarkets,7840,0,,102299,0,,51.44215100000000,338900961,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35577800000000,DA11 9LY,2012-04-25,fhrs_5_en-GB,5,,FHRS,0
-230916,147 Wrotham Road,Gravesend,Kent,,Alexandria's Residential Home,Hospitals/Childcare/Caring Premises,5,0,,83951,0,,51.43498100000000,207114701,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36617200000000,DA11 0QL,2014-10-06,fhrs_5_en-GB,5,,FHRS,0
-230917,,,,,Alimenti - Food,Mobile caterer,7846,5,,657238,5,,,310209301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-04-16,fhrs_5_en-GB,5,,FHRS,5
-230918,All Saints Community Centre,Perry Street,Northfleet,Gravesend,All Saints Community Lunch Club,Other catering premises,7841,0,,99834,0,,51.43325200000000,317803803,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35107600000000,DA11 8RD,2013-07-05,fhrs_5_en-GB,5,,FHRS,0
-230919,Gravesham Court Day Lounge,Off Windmill Street,Gravesend,Kent,Alzheimers & Dementia Support Services,Restaurant/Cafe/Canteen,1,5,,83697,5,,51.43861000000000,205800000A,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36896600000000,,2012-09-21,fhrs_5_en-GB,5,,FHRS,5
-230920,St Johns Centre Wrotham Road,Meopham,Kent,,Alzheimers Support Lunch Club,Restaurant/Cafe/Canteen,1,5,,517065,5,,,608500009,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-02-26,fhrs_5_en-GB,5,,FHRS,5
-230921,Harvel Street,Meopham,Gravesend,Kent,Amazon & Tiger,Pub/bar/nightclub,7843,5,,128211,0,,51.34421400000000,580600001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37006600000000,DA13 0DE,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-230922,Imperial Business Park,West Mill,Gravesend,Kent,AMF Bowling,Other catering premises,7841,5,,79709,5,,51.44424400000000,192100001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36040500000000,DA11 0DQ,2013-11-06,fhrs_5_en-GB,5,,FHRS,5
-230923,1 Harmer Street,Gravesend,Kent,,Angels,Pub/bar/nightclub,7843,5,,479231,5,,51.44272200000000,145500110,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37342200000000,DA12 2AP,2012-11-12,fhrs_5_en-GB,5,,FHRS,5
-230924,Lancaster House,Gravesend Road,Higham,Rochester,Anisa Indian Cuisine,Takeaway/sandwich shop,7844,5,,582670,5,,51.41445300000000,529100003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45259800000000,ME3 7DZ,2013-09-02,fhrs_4_en-GB,4,,FHRS,10
-230925,Thames Way,Northfleet,Gravesend,Kent,Aramark Limited @ North Kent Police Station,Restaurant/Cafe/Canteen,1,0,,79712,0,,51.43563300000000,192100020,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33817700000000,DA11 8BD,2014-07-09,fhrs_5_en-GB,5,,FHRS,0
-230926,42 - 46 Harmer Street,Gravesend,Kent,,ASD Learning Ltd,School/college/university,7845,5,,702486,0,,51.44250900000000,145504200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37369900000000,DA12 2AX,2014-05-16,fhrs_5_en-GB,5,,FHRS,0
-230927,Thames Way,Gravesend,Kent,,Asda,Retailers - supermarkets/hypermarkets,7840,0,,79713,0,,51.44424400000000,192100100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36040500000000,DA11 0DQ,2013-08-09,fhrs_5_en-GB,5,,FHRS,0
-230928,29 Clarence Place,Gravesend,Kent,,Ashleydown Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,55508,0,,51.43673800000000,125202902,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37092500000000,DA12 1LD,2013-01-09,fhrs_5_en-GB,5,,FHRS,5
-230929,6 Queen Street,Gravesend,Kent,,Asian Market Ltd,Retailers - supermarkets/hypermarkets,7840,5,,75267,0,,51.44277100000000,175300601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37143900000000,DA12 2EE,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-230930,9 The Hive,Northfleet,Kent,,Aydemir Supermarket,Retailers - supermarkets/hypermarkets,7840,10,,101649,5,,51.44625600000000,333300900,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32858700000000,DA11 9DE,2013-11-25,fhrs_4_en-GB,4,,FHRS,0
-230931,2 - 8 Gateway Parade,Whinfell Way,Gravesend,Kent,Balas Little Mart,Retailers - supermarkets/hypermarkets,7840,20,,63774,15,,51.41835100000000,140801228,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39547400000000,DA12 4RU,2014-10-30,fhrs_0_en-GB,0,,FHRS,25
-230932,Hook Green,Wrotham Road,Gravesend,Kent,Bartellas,Restaurant/Cafe/Canteen,1,5,,77151,5,,51.37991500000000,180601141,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36039900000000,DA13 0JE,2014-11-27,fhrs_5_en-GB,5,,FHRS,5
-230933,25-26 Milton Road,,,Gravesend,Bassant,Restaurant/Cafe/Canteen,1,20,,71876,15,,51.44147700000000,163399182,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37450900000000,DA12 2RF,2014-01-06,fhrs_1_en-GB,1,,FHRS,15
-230934,113 Wrotham Road,Gravesend,Kent,,Bat And Ball Public House,Pub/bar/nightclub,7843,0,,83950,10,,51.43655900000000,207111301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36642600000000,DA11 0QP,2014-06-30,fhrs_4_en-GB,4,,FHRS,10
-230935,Coldharbour Road,Northfleet,Gravesend,Kent,Battle Of Britain,Pub/bar/nightclub,7843,5,,702487,5,,51.42498000000000,316904006,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35325500000000,DA11 8NT,2014-05-14,fhrs_5_en-GB,5,,FHRS,5
-230936,1A Queen Street,Gravesend,Kent,,Bayldon Brothers,Retailers - other,4613,0,,75264,0,,51.44281100000000,175300101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37079300000000,DA12 2EQ,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-230937,15 Kempthorne Street,Gravesend,Kent,,BB's Coffee & Muffins,Restaurant/Cafe/Canteen,1,5,,676569,10,,51.44299900000000,152501501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36683100000000,DA11 0TA,2014-06-24,fhrs_3_en-GB,3,,FHRS,10
-230938,42 Pelham Road,Gravesend,Kent,,Benham Lodge,Hospitals/Childcare/Caring Premises,5,10,,74483,0,,51.43820200000000,171804201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36032400000000,DA11 0HZ,2014-02-03,fhrs_4_en-GB,4,,FHRS,0
-230939,80 - 83 London Road,Northfleet,Gravesend,Kent,Best Buy / Tan's Store,Retailers - supermarkets/hypermarkets,7840,5,,102304,0,,51.44212300000000,338908008,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35317200000000,DA11 9NJ,2013-08-22,fhrs_5_en-GB,5,,FHRS,5
-230940,141 Central Avenue,Gravesend,Kent,,Best One,Retailers - supermarkets/hypermarkets,7840,5,,54154,0,,51.42449400000000,122014104,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37246300000000,DA12 5BH,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-230941,198 Rochester Road,Gravesend,Kent,,Best One,Retailers - supermarkets/hypermarkets,7840,5,,75964,5,,51.43172900000000,178419809,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39436100000000,DA12 4TY,2012-08-13,fhrs_5_en-GB,5,,FHRS,5
-230942,European Convenience Stores,Eagle Way,Northfleet,Gravesend,Best One Express,Retailers - supermarkets/hypermarkets,7840,5,,104476,10,,51.44933300000000,356100000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32079900000000,DA11 9BJ,2014-12-15,fhrs_4_en-GB,4,,FHRS,5
-230943,Hever Court Road,Gravesend,Kent,,Best Western Manor Hotel,Hotel/bed & breakfast/guest house,7842,0,,65429,0,,51.41141800000000,147000001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37687700000000,DA12 5UQ,2013-03-01,fhrs_5_en-GB,5,,FHRS,0
-230944,111 Rochester Road,Gravesend,Kent,,Big Daddy's,Takeaway/sandwich shop,7844,5,,635111,0,,51.43515500000000,178411102,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39039700000000,DA12 2HU,2014-02-12,fhrs_5_en-GB,5,,FHRS,5
-230945,4 - 5 Milton Road,Gravesend,Kent,,Bismillah Almadina Food Store,Retailers - supermarkets/hypermarkets,7840,5,,456827,10,,51.44213700000000,163300402,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37165100000000,DA12 2RE,2014-02-05,fhrs_4_en-GB,4,,FHRS,5
-230946,Nurstead Church Lane,Meopham,Kent,,Bite Me Catering @ Nurstead Court,Restaurant/Cafe/Canteen,1,0,,129107,0,,51.39037200000000,595300001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35600700000000,DA13 9AD,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-230947,23 Queen Street,Gravesend,Kent,,Blakes,Pub/bar/nightclub,7843,0,,657237,5,,51.44268400000000,175302301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37085900000000,DA12 2EQ,2013-11-06,fhrs_5_en-GB,5,,FHRS,5
-230948,7 The Parade,Valley Drive,Gravesend,Kent,Blue Ginger,Takeaway/sandwich shop,7844,5,,80959,5,,51.42852700000000,196907001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38508700000000,DA12 5RT,2014-10-30,fhrs_5_en-GB,5,,FHRS,5
-230949,71 Lower Higham Road,Chalk,Kent,,Bobs Store,Retailers - supermarkets/hypermarkets,7840,10,,70130,5,,51.43186900000000,158707107,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39846900000000,DA12 2NG,2013-05-28,fhrs_3_en-GB,3,,FHRS,10
-230950,22 Perry Street,Northfleet,Gravesend,Kent,Bombay Tiffin,Takeaway/sandwich shop,7844,5,,579704,5,,51.43407400000000,347302201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35225500000000,DA11 8QU,2015-01-27,fhrs_5_en-GB,5,,FHRS,5
-230951,90 Windmill Street,Gravesend,Kent,,Briars Court B & B,Hotel/bed & breakfast/guest house,7842,0,,83715,0,,51.43426900000000,205818090,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36891200000000,DA12 1LH,2014-10-21,fhrs_5_en-GB,5,,FHRS,0
-230952,North West Kent College,Dering Way,Gravesend,Kent,Bright Beginnings Nursery,Hospitals/Childcare/Caring Premises,5,0,,60236,0,,51.43313900000000,131600011,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39619100000000,DA12 2JJ,2014-01-24,fhrs_5_en-GB,5,,FHRS,0
-230953,25 - 26 High Street,Gravesend,Kent,,Brilliant Buffet,Restaurant/Cafe/Canteen,1,10,,623266,5,,51.44318200000000,147202503,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36977600000000,DA11 0AZ,2013-09-23,fhrs_4_en-GB,4,,FHRS,5
-230954,21 Pelham Road,Gravesend,Kent,,Bronte Nursery,Hospitals/Childcare/Caring Premises,5,0,,50035,0,,51.43890900000000,111221987,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36004400000000,DA11 0HU,2014-11-03,fhrs_5_en-GB,5,,FHRS,0
-230955,Mayfield House,7 Pelham Road,Gravesend,Kent,Bronte School,School/college/university,7845,0,,74480,5,,51.44036500000000,171800701,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36318400000000,DA11 0HN,2013-09-18,fhrs_5_en-GB,5,,FHRS,0
-230956,182 Old Road West,Gravesend,Kent,,BTK Off-Licence GV,Retailers - supermarkets/hypermarkets,7840,20,,73288,5,,51.43589000000000,168118208,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35541300000000,DA11 0LY,2013-10-09,fhrs_1_en-GB,1,,FHRS,5
-230957,Shell Northfleet Ltd,Stonebridge Road,Northfleet,Gravesend,BTY Services Ltd,Retailers - supermarkets/hypermarkets,7840,5,,100470,5,,51.44933300000000,323000001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32079900000000,DA11 9BJ,2013-07-11,fhrs_5_en-GB,5,,FHRS,5
-230958,,,,,Bulks Banquets,Other catering premises,7841,0,,667975,0,,,846202401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-05-19,fhrs_5_en-GB,5,,FHRS,0
-230959,80 New Road,Gravesend,Kent,,Burger King,Restaurant/Cafe/Canteen,1,0,,456828,0,,51.44227900000000,165108010,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36775800000000,DA11 0AF,2014-08-19,fhrs_5_en-GB,5,,FHRS,0
-230960,Burleigh,Sole Street,Cobham,Gravesend,Burleigh Farmhouse B&B,Hotel/bed & breakfast/guest house,7842,5,,557875,5,,,517800004,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,DA12 3AR,2013-05-22,fhrs_5_en-GB,5,,FHRS,5
-230961,Rear Of Meopham School,Wrotham Road,Meopham,Kent,Busy Bees @ Kinder Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,129873,0,,51.37507600000000,608538003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35951700000000,DA13 0JW,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-230962,16-17 King Street,Gravesend,Kent,,Caesars,Restaurant/Cafe/Canteen,1,5,,68400,5,,51.44247700000000,152901601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37038700000000,DA12 2EB,2014-02-20,fhrs_5_en-GB,5,,FHRS,5
-230963,66 - 67 New Road,Gravesend,Kent,,Cafe Inn,Restaurant/Cafe/Canteen,1,5,,710419,5,,51.44234700000000,165106607,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36568900000000,DA11 0AE,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-230964,30 The Hill,Northfleet,Gravesend,Kent,Cafe On The Hill,Restaurant/Cafe/Canteen,1,5,,686992,0,,51.44340200000000,332703005,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33641500000000,DA11 9EX,2014-07-07,fhrs_5_en-GB,5,,FHRS,5
-230965,170-171 Parrock Street,Gravesend,Kent,,Cafe Taj,Restaurant/Cafe/Canteen,1,10,,123249,15,,51.44001900000000,517131710,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-12-04,fhrs_2_en-GB,2,,FHRS,10
-230966,27A Lawrance Square,Northfleet,Gravesend,Kent,Cake Innovations Ltd,Retailers - supermarkets/hypermarkets,7840,5,,54151,0,,51.42752900000000,122006600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35706900000000,DA11 7HW,2014-06-18,fhrs_5_en-GB,5,,FHRS,0
-230967,,,,,Cakelicious,Other catering premises,7841,0,,510006,0,,,300100001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-02-11,fhrs_5_en-GB,5,,FHRS,0
-230968,,,,,Cakes By Sarah Ltd,Other catering premises,7841,10,,433154,5,,,187506301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-07-16,fhrs_4_en-GB,4,,FHRS,5
-230969,Camer Park,Camer Road,Meopham,Kent,Camer Park Kiosk,Restaurant/Cafe/Canteen,1,5,,127864,5,,51.37809748554525,574900001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36815112858145,,2014-03-03,fhrs_5_en-GB,5,,FHRS,0
-230970,1 Campbell Road,Gravesend,Kent,,Campbell Arms,Pub/bar/nightclub,7843,5,,53674,0,,51.43783700000000,120800100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35611800000000,DA11 0JZ,2013-09-17,fhrs_5_en-GB,5,,FHRS,0
-230971,,,,,Carly Cakes,Other catering premises,7841,5,,190370,5,,,444407100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-01-17,fhrs_5_en-GB,5,,FHRS,5
-230972,Watling Court,Ifield Way,Gravesend,Kent,Caterplus Ltd @ Watling Court,Restaurant/Cafe/Canteen,1,0,,418138,0,,51.41743700000000,619300001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.41015400000000,DA12 5BP,2013-11-25,fhrs_5_en-GB,5,,FHRS,0
-230973,68 - 69 High Street,Gravesend,Kent,,CC Rooms,Pub/bar/nightclub,7843,5,,418136,0,,51.44371600000000,147206800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36915600000000,DA11 0BB,2012-06-28,fhrs_5_en-GB,5,,FHRS,0
-230974,3 Railway Place,Gravesend,Kent,,Central News,Retailers - supermarkets/hypermarkets,7840,5,,75465,5,,51.44132800000000,176300300,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36896100000000,DA12 1AP,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-230975,Ordnance Road,Gravesend,Kent,,Chantry Community Academy,School/college/university,7845,0,,73420,0,,51.44125500000000,168700001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37832500000000,DA12 2RL,2013-12-02,fhrs_5_en-GB,5,,FHRS,0
-230976,Thamesgate Shopping Centre,New Road,Gravesend,Kent,Chapmans Natural Products,Retailers - supermarkets/hypermarkets,7840,0,,50254,0,,51.44197900000000,111907001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36831800000000,DA11 0AU,2013-07-03,fhrs_5_en-GB,5,,FHRS,0
-230977,65 Wrotham Road,Gravesend,Kent,,Chattorey Ltd,Restaurant/Cafe/Canteen,1,5,,719807,5,,51.43766800000000,207106509,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36671400000000,DA11 0QB,2014-08-05,fhrs_5_en-GB,5,,FHRS,5
-230978,179-180 Windmill Street,Gravesend,Kent,,Chefs Delight,Restaurant/Cafe/Canteen,1,5,,83714,5,,51.44173900000000,205817901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36909700000000,DA12 1AH,2013-02-19,fhrs_5_en-GB,5,,FHRS,5
-230979,North Leigh,Gravesend Road,Higham,Rochester,Chestnuts Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,5,,456831,0,,51.41460200000000,529100601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45106700000000,ME3 7DX,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-230980,16A Stone Street,Gravesend,Kent,,Chicken Hut Grill,Takeaway/sandwich shop,7844,5,,686989,10,,51.44183900000000,188801603,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36903000000000,DA11 0NH,2014-04-10,fhrs_4_en-GB,4,,FHRS,5
-230981,47 Wrotham Road,Gravesend,Kent,,Chima & Sons Family Butchers,Retailers - other,4613,,,83943,,,51.43858500000000,207104704,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36719300000000,DA11 0PN,2014-05-27,fhrs_5_en-GB,5,,FHRS,
-230982,16 High Street,Gravesend,Kent,,China China,Restaurant/Cafe/Canteen,1,5,,65512,10,,51.44378700000000,147201601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36964900000000,DA11 0BA,2014-09-02,fhrs_4_en-GB,4,,FHRS,5
-230983,19 Harmer Street,Gravesend,Kent,,China Dove,Restaurant/Cafe/Canteen,1,5,,64996,5,,51.44272200000000,145501909,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37342200000000,DA12 2AP,2013-07-30,fhrs_5_en-GB,5,,FHRS,5
-230984,14 The Parade,Wrotham Road,Meopham,Gravesend,China Garden Takeaway,Takeaway/sandwich shop,7844,5,,129871,5,,51.37592000000000,608528708,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36091200000000,DA13 0JL,2013-04-10,fhrs_5_en-GB,5,,FHRS,5
-230985,7 The Parade,Wrotham Road,Meopham,Gravesend,China Palace,Restaurant/Cafe/Canteen,1,10,,129869,5,,51.37592000000000,608527907,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36091200000000,DA13 0JL,2014-08-08,fhrs_4_en-GB,4,,FHRS,5
-230986,,,,,Christopher's Celebration Cakes,Other catering premises,7841,5,,103272,5,,,346307501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-230987,69A Stonebridge Road,Northfleet,Gravesend,Kent,Classy Kebab,Takeaway/sandwich shop,7844,20,,698957,5,,51.44778100000000,356106910,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32017400000000,DA11 9DT,2014-08-27,fhrs_1_en-GB,1,,FHRS,5
-230988,140 - 143 Milton Road,Gravesend,Kent,,Clocktower Express T/A Nisa,Retailers - supermarkets/hypermarkets,7840,5,,715744,5,,51.41743700000000,163314001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.41015400000000,DA12 2RH,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-230989,36 - 38 The Street,Cobham,Gravesend,Kent,Cobham Community Store,Retailers - supermarkets/hypermarkets,7840,5,,508515,0,,51.39047000000000,518203606,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39948000000000,DA12 3BZ,2015-01-13,fhrs_5_en-GB,5,,FHRS,5
-230990,Cobham,Kent,,,Cobham Hall,School/college/university,7845,5,,123550,5,,51.39342117309570,519600003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.41957309842110,DA12 3BL,2013-01-23,fhrs_5_en-GB,5,,FHRS,5
-230991,Watling Street,Gravesend,Kent,,Cobham 'On The Run' Service Station,Retailers - supermarkets/hypermarkets,7840,0,,123404,0,,51.40089800000000,518601400,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.40103200000000,DA12 3BH,2014-01-07,fhrs_5_en-GB,5,,FHRS,0
-230992,,,,,Cobnut Tree,Other catering premises,7841,0,,144933,0,,,846206900,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-09-12,fhrs_5_en-GB,5,,FHRS,0
-230993,12 New Road,Gravesend,Kent,,Coffee Republic Deli,Restaurant/Cafe/Canteen,1,0,,72495,0,,51.44273800000000,165101212,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36771000000000,DA11 0AA,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-230994,6 Queen Street,Gravesend,Kent,,Coffee Table Shop,Restaurant/Cafe/Canteen,1,5,,445975,5,,51.44277100000000,175300604,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37143900000000,DA12 2EE,2014-09-10,fhrs_5_en-GB,5,,FHRS,5
-230995,Ebbesfleet Rainbow Centre,Rose Street,Northfleet,Gravesend,Community Lunch Club,Other catering premises,7841,0,,103920,0,,51.44537200000000,351500001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32779400000000,DA11 9EQ,2014-06-19,fhrs_5_en-GB,5,,FHRS,0
-230996,Dover Road East,Northfleet,Kent,,Compass @ Dover Road County Primary School,School/college/university,7845,5,,100363,5,,51.43734100000000,322100001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34947300000000,DA11 0RB,2013-05-21,fhrs_5_en-GB,5,,FHRS,5
-230997,Wingfield Bank,Northfleet,Kent,,Compass Grp @ Sainsburys Colleagues Restaurant,Restaurant/Cafe/Canteen,1,0,,105623,0,,51.16965866088867,363500005,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.75830000638962,DA11 8JH,2013-10-02,fhrs_5_en-GB,5,,FHRS,0
-230998,Travis Perkins,Thames Way,Northfleet,Gravesend,Completely Catering,Mobile caterer,7846,5,,557870,0,,,192121013,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,DA11 9QJ,2013-06-12,fhrs_5_en-GB,5,,FHRS,5
-230999,62 High Street,Gravesend,Kent,,Comptons,Restaurant/Cafe/Canteen,1,5,,65519,5,,51.44371600000000,147206206,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36915600000000,DA11 0BB,2013-06-25,fhrs_5_en-GB,5,,FHRS,5
-231000,Vigo Rugby Club,Harvel Road,Meopham,Gravesend,Congratulations Catering,Restaurant/Cafe/Canteen,1,5,,734333,0,,51.33639100000000,587200002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36996300000000,DA13 0UA,2015-01-22,fhrs_5_en-GB,5,,FHRS,0
-231001,14 - 18 Perry Street,Northfleet,Gravesend,Kent,CO-OP,Retailers - supermarkets/hypermarkets,7840,5,,211021,5,,51.43407400000000,347301401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35225500000000,DA11 8QU,2012-08-20,fhrs_5_en-GB,5,,FHRS,5
-231002,35 Dene Holm Road,Northfleet,Kent,,CO-OP,Retailers - supermarkets/hypermarkets,7840,5,,100258,5,,51.42593600000000,321303503,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34281700000000,DA11 8LG,2012-08-09,fhrs_5_en-GB,5,,FHRS,5
-231003,62 Istead Rise,Gravesend,Kent,,CO-OP,Retailers - supermarkets/hypermarkets,7840,5,,101835,5,,51.40604700000000,334906206,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35291500000000,DA13 9JF,2012-10-18,fhrs_5_en-GB,5,,FHRS,5
-231004,42 Villa Road,Higham,Kent,,Copperfields,Hospitals/Childcare/Caring Premises,5,0,,125323,0,,51.41399200000000,538204200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45440000000000,ME3 7BX,2013-07-23,fhrs_5_en-GB,5,,FHRS,5
-231005,1 New Road,Gravesend,Kent,,Costa Coffee,Restaurant/Cafe/Canteen,1,5,,635110,5,,51.44273800000000,165100102,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36771000000000,DA11 0AA,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-231006,127 Rochester Road,Gravesend,Kent,,Costcutter,Retailers - supermarkets/hypermarkets,7840,5,,75959,5,,51.43515500000000,178412703,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39039700000000,DA12 2HU,2014-04-08,fhrs_5_en-GB,5,,FHRS,0
-231007,139 Milton Road,Gravesend,Kent,,Costcutter,Retailers - supermarkets/hypermarkets,7840,5,,71852,5,,51.44162700000000,163313901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37194100000000,DA12 2RG,2014-07-09,fhrs_5_en-GB,5,,FHRS,0
-231008,153 Whitehill Road,Gravesend,Kent,,Costcutter,Retailers - supermarkets/hypermarkets,7840,5,,83396,5,,51.42438400000000,204015305,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37962100000000,DA12 5LS,2013-07-10,fhrs_5_en-GB,5,,FHRS,5
-231009,,,,,Couture Cakes & Dreams,Other catering premises,7841,5,,479232,0,,,317520900,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-11-28,fhrs_5_en-GB,5,,FHRS,0
-231010,44 The Terrace,Gravesend,Kent,,Crown And Thistle,Pub/bar/nightclub,7843,5,,198133,5,,51.44352900000000,191604405,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37439900000000,DA12 2BJ,2014-08-21,fhrs_5_en-GB,5,,FHRS,5
-231011,15 King Street,Gravesend,Kent,,Crumbs,Restaurant/Cafe/Canteen,1,5,,68399,0,,51.44247700000000,152901501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37038700000000,DA12 2EB,2015-01-19,fhrs_5_en-GB,5,,FHRS,5
-231012,Wrotham Road,Culverstone,Kent,,Culverstone Service Station,Retailers - supermarkets/hypermarkets,7840,0,,129879,0,,51.34053200000000,608573703,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34522200000000,DA13 0RF,2013-05-21,fhrs_5_en-GB,5,,FHRS,0
-231013,200 Parrock Street,Gravesend,Kent,,Curry Mecca,Restaurant/Cafe/Canteen,1,5,,74369,5,,51.44000600000000,171320000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37205800000000,DA12 1DX,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-231014,Cyclopark,Wrotham Road,Access To Tollgate Filling Station,Gravesend,Cyclocafe,Restaurant/Cafe/Canteen,1,5,,557871,5,,51.38566300000000,207110102,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37502400000000,DA13 9AF,2013-05-21,fhrs_5_en-GB,5,,FHRS,0
-231015,,,,,Daddy's Yummy Foods,Mobile caterer,7846,0,,667976,0,,,978600000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-06-03,fhrs_5_en-GB,5,,FHRS,0
-231016,,,,,Dainty Cakery,Other catering premises,7841,10,,482694,5,,,322109004,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-12-01,fhrs_4_en-GB,4,,FHRS,5
-231017,16 Milton Road,Gravesend,Kent,,Day One T/A Milton Food & Wine,Retailers - supermarkets/hypermarkets,7840,5,,71841,5,,51.44147700000000,163301601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37450900000000,DA12 2RF,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-231018,76 New Road,Gravesend,Kent,,Debenhams Cafe,Restaurant/Cafe/Canteen,1,5,,579701,5,,51.44227900000000,165107610,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36775800000000,DA11 0AF,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-231019,32 Windmill Street,Gravesend,Kent,,Delhi Kitchen,Restaurant/Cafe/Canteen,1,5,,83704,0,,51.44055500000000,205803202,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36938100000000,DA12 1AS,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-231020,51 Dene Holm Road,Northfleet,Gravesend,Kent,Dene Holm Fish Bar,Takeaway/sandwich shop,7844,,,100259,,,51.42593600000000,321305100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34281700000000,DA11 8LG,2014-01-22,fhrs_5_en-GB,5,,FHRS,
-231021,Deneholm House,Dene Holm Road,Northfleet,Kent,Deneholm Residential Care Home,Hospitals/Childcare/Caring Premises,5,0,,100261,0,,51.42680000000000,321317207,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34952200000000,DA11 8JY,2014-12-08,fhrs_5_en-GB,5,,FHRS,0
-231022,3 East Milton Road,Gravesend,Kent,,Denton Fish Bar,Takeaway/sandwich shop,7844,5,,61165,5,,51.43879700000000,134000300,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38690300000000,DA12 2JL,2013-06-27,fhrs_5_en-GB,5,,FHRS,5
-231023,23 East Milton Road,Gravesend,Kent,,Denton Grocers,Retailers - supermarkets/hypermarkets,7840,5,,61168,5,,51.43879700000000,134002302,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38690300000000,DA12 2JL,2014-04-15,fhrs_4_en-GB,4,,FHRS,10
-231024,Mark Lane,Gravesend,Kent,,Denton Wharf Snack Bar,Mobile caterer,7846,5,,71140,10,,51.44219100000000,161100002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39728300000000,DA12 2QB,2014-08-26,fhrs_4_en-GB,4,,FHRS,5
-231025,75  Wrotham Road,Gravesend,Kent,,Desi Sweet Centre,Retailers - supermarkets/hypermarkets,7840,10,,51673,0,,51.43766800000000,115901075,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36671400000000,DA11 0QB,2014-03-17,fhrs_4_en-GB,4,,FHRS,10
-231026,9 Brewhouse Yard,Gravesend,Kent,,De-Stairs,Retailers - supermarkets/hypermarkets,7840,5,,52312,0,,51.44300100000000,118000103,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37071700000000,DA12 2EJ,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-231027,1 - 2 King Street,Gravesend,Kent,,Discount UK,Retailers - supermarkets/hypermarkets,7840,5,,68397,0,,51.41743700000000,152900102,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.41015400000000,DA12 2ED,2014-11-26,fhrs_5_en-GB,5,,FHRS,5
-231028,80 London Road,Northfleet,Gravesend,Kent,Divine Favour,Retailers - supermarkets/hypermarkets,7840,5,,705103,0,,51.44212200000000,338908000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35323000000000,DA11 9NJ,2014-09-26,fhrs_5_en-GB,5,,FHRS,0
-231029,119 Rochester Road,Gravesend,Kent,,Divine Treats,Retailers - supermarkets/hypermarkets,7840,5,,187421,5,,51.43515500000000,178419119,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39039700000000,DA12 2HU,2013-12-05,fhrs_4_en-GB,4,,FHRS,10
-231030,32 - 34 Queen Street,Gravesend,Kent,,Divizia,Restaurant/Cafe/Canteen,1,5,,623268,5,,51.44282700000000,175303201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37131200000000,DA12 2EE,2013-09-19,fhrs_5_en-GB,5,,FHRS,5
-231031,54 Wellington Street,Gravesend,Kent,,DKB General Stores,Retailers - supermarkets/hypermarkets,7840,10,,82981,0,,51.43911900000000,202005405,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37414200000000,DA12 1JG,2014-12-04,fhrs_4_en-GB,4,,FHRS,10
-231032,21 West Street,Gravesend,Kent,,Domino's Pizza,Takeaway/sandwich shop,7844,0,,83073,0,,51.44469700000000,202321005,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36868900000000,DA11 0BF,2013-05-13,fhrs_5_en-GB,5,,FHRS,0
-231033,Pepperhill Lane,Off Hall Road,Northfleet,Kent,Doorsteps (Kens Snack Bar),Mobile caterer,7846,5,,104352,5,,51.42767200000000,355114501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33105200000000,DA11 8HX,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-231034,172 Windmill Street,Gravesend,Kent,,Dovay Cafe,Restaurant/Cafe/Canteen,1,5,,631883,5,,51.44173900000000,205817208,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36909700000000,DA12 1AH,2014-01-30,fhrs_5_en-GB,5,,FHRS,5
-231035,33A Dover Road,Northfleet,Gravesend,Kent,Dover Road Fish Bar,Takeaway/sandwich shop,7844,5,,100327,10,,51.44153000000000,321901020,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33785900000000,DA11 9PH,2014-07-22,fhrs_4_en-GB,4,,FHRS,5
-231036,35/37 Dover Road,Northfleet,Kent,,Dover Road Stores,Retailers - supermarkets/hypermarkets,7840,5,,100328,5,,51.44153000000000,321903503,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33785900000000,DA11 9PH,2013-10-21,fhrs_5_en-GB,5,,FHRS,5
-231037,The Royal British Legion,Trinity Road,Gravesend,Kent,Dream Days Catering & Events,Other catering premises,7841,0,,710420,0,,51.43772500000000,194800006,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37458800000000,DA12 1NF,2014-10-08,fhrs_5_en-GB,5,,FHRS,0
-231038,177 Vale Road,Northfleet,Kent,,Earl Grey,Pub/bar/nightclub,7843,5,,105139,0,,51.43307800000000,360517708,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34902400000000,DA11 8BP,2013-09-17,fhrs_2_en-GB,2,,FHRS,15
-231039,22 East Milton Road,Gravesend,Kent,,East Milton Newsagents,Retailers - supermarkets/hypermarkets,7840,5,,187400,5,,51.44220600000000,134002204,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37312200000000,DA12 2AB,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-231040,61 Wrotham Road,Gravesend,Kent,,East West Food & Wine,Retailers - supermarkets/hypermarkets,7840,10,,83946,0,,51.43766800000000,207106106,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36671400000000,DA11 0QB,2013-09-17,fhrs_4_en-GB,4,,FHRS,5
-231041,Eastgate,141 Springhead Parkway,Northfleet,Gravesend,Eastgate Coffee Shop,Restaurant/Cafe/Canteen,1,5,,637489,5,,51.43312500000000,355214101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33177600000000,DA11 8AD,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-231042,1 Stonebridge Road,Northfleet,Kent,,Ebbsfleet Grill,Takeaway/sandwich shop,7844,10,,104477,10,,51.44678800000000,356100100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32444100000000,DA11 9DR,2014-08-21,fhrs_3_en-GB,3,,FHRS,10
-231043,67 Stonebridge Road,Northfleet,Gravesend,Kent,Ebbsfleet United F C Ltd,Other catering premises,7841,5,,637490,0,,51.45040600000000,356106707,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32065200000000,DA11 9BA,2014-03-29,fhrs_5_en-GB,5,,FHRS,5
-231044,6-7  Echo Square,Gravesend,Kent,,Echo Supermarket,Retailers - supermarkets/hypermarkets,7840,10,,61286,10,,51.43130300000000,134400607,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37461400000000,DA12 1NP,2013-07-03,fhrs_3_en-GB,3,,FHRS,5
-231045,5 Echo Square,Gravesend,Kent,,Echo's Traditional Fish   Chips,Takeaway/sandwich shop,7844,5,,433151,5,,51.43130300000000,134400501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37461400000000,DA12 1NP,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-231046,London Road,Northfleet,Kent,,Eden Food Service @ Rosherville C Of E Primary School,School/college/university,7845,0,,102300,0,,51.44189900000000,338902102,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34278500000000,DA11 9JQ,2013-05-14,fhrs_5_en-GB,5,,FHRS,5
-231047,Erskine Road,Vigo Village,Kent,,Eden Food Service @ Vigo Village School,School/college/university,7845,0,,128437,0,,51.33056800000000,583700100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35819300000000,DA13 0RL,2013-11-05,fhrs_5_en-GB,5,,FHRS,0
-231048,6 High Street,Northfleet,Kent,,Edinburgh Castle Public House,Pub/bar/nightclub,7843,5,,101547,5,,51.44511600000000,332500601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33120600000000,DA11 9HB,2013-02-28,fhrs_5_en-GB,5,,FHRS,5
-231049,Elite Venue Centre Ltd,Dunkirk Close,Gravesend,Kent,Elite Venue Centre Ltd,Restaurant/Cafe/Canteen,1,,,211026,,,51.41854300000000,132901603,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37763500000000,DA12 5ND,2014-09-26,fhrs_5_en-GB,5,,FHRS,
-231050,Coldharbour Road,Northfleet,Kent,,Ellenor Lions Hospices,Hospitals/Childcare/Caring Premises,5,5,,99728,5,,51.42125200000000,316900001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35529300000000,DA11 7HQ,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-231051,,,,,Emtastic Sweets,Other catering premises,7841,5,,118955,0,,,482102600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-08-28,fhrs_5_en-GB,5,,FHRS,0
-231052,Off Mark Lane,Gravesend,Kent,,ESS Compass Group @ The Met Police Special Training Centre,Restaurant/Cafe/Canteen,1,0,,71141,0,,51.44093900000000,161100015,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.40483000000000,DA12 2HN,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-231053,43 Bath Street,Gravesend,Kent,,Exodus African Express,Retailers - supermarkets/hypermarkets,7840,10,,508514,0,,51.44267600000000,215504301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36544700000000,DA11 0DE,2013-02-04,fhrs_4_en-GB,4,,FHRS,0
-231054,44 Perry Street,Northfleet,Kent,,Express Mini Market,Retailers - supermarkets/hypermarkets,7840,5,,592070,5,,51.43379900000000,347304404,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35119000000000,DA11 8RE,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-231055,7-9 Thamesgate Shopping Centre,New Road,Gravesend,Kent,Farmfoods Ltd,Retailers - supermarkets/hypermarkets,7840,0,,50250,0,,51.44197900000000,111900701,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36831800000000,DA11 0AU,2014-07-02,fhrs_5_en-GB,5,,FHRS,0
-231056,19-20 King Street,Gravesend,Kent,,Favourite Chicken & Ribs,Restaurant/Cafe/Canteen,1,5,,68401,5,,51.44247700000000,152901901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37038700000000,DA12 2EB,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-231057,71 New Road,Gravesend,Kent,,Fishermans Catch,Restaurant/Cafe/Canteen,1,5,,72502,5,,51.44234700000000,165107107,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36568900000000,DA11 0AE,2015-01-20,fhrs_5_en-GB,5,,FHRS,5
-231058,79 London Road,Northfleet,Kent,,Flaming Grill,Takeaway/sandwich shop,7844,20,,102303,5,,51.44212300000000,338907907,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35317200000000,DA11 9NJ,2013-12-11,fhrs_1_en-GB,1,,FHRS,5
-231059,175 High Street,Northfleet,Gravesend,Kent,Fleet Fish Bar,Takeaway/sandwich shop,7844,20,,710422,15,,51.44600400000000,332517502,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32631500000000,DA11 9HG,2014-10-09,fhrs_1_en-GB,1,,FHRS,15
-231060,Broomfield Farm,Ifield Road,Meopham,Kent,Foxendown Fruit Farm,Retailers - supermarkets/hypermarkets,7840,5,,128728,5,,51.35920800000000,589400001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34896300000000,DA13 0QH,2013-10-02,fhrs_5_en-GB,5,,FHRS,5
-231061,,,,,Freds Ice Cream P899 VAB,Retailers - other,4613,0,,73260,0,,,168019601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-07-09,fhrs_5_en-GB,5,,FHRS,0
-231062,Haig Gardens Off Trinity Road,Gravesend,Kent,,Freeways Catering @ Gravesend Social Education Centre,School/college/university,7845,5,,80471,5,,51.43749800000000,194800002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37956900000000,DA12 1NE,2013-08-29,fhrs_5_en-GB,5,,FHRS,0
-231063,Age Concern Gravesend,The Fleming Resource Centre,Clarence Row,Gravesend,Fresh Meal Delivery Service,Restaurant/Cafe/Canteen,1,0,,55556,0,,51.43807200000000,125300000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36985700000000,DA12 1HJ,2014-10-02,fhrs_5_en-GB,5,,FHRS,5
-231064,Windmill Tea Shop,Wrotham Road,Meopham,Gravesend,Fruitcake Factory Studio,Restaurant/Cafe/Canteen,1,10,,548317,5,,51.36014500000000,608526101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35199800000000,DA13 0QA,2013-05-09,fhrs_4_en-GB,4,,FHRS,5
-231065,Gravesend Road,Higham,Kent,,Gads Hill School,School/college/university,7845,0,,124402,0,,51.41118800000000,529100800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45731200000000,ME3 7PA,2014-03-03,fhrs_5_en-GB,5,,FHRS,0
-231066,Wrotham Road,Meopham,Kent,,George Inn,Pub/bar/nightclub,7843,0,,129874,5,,51.36892000000000,608545405,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35973300000000,DA13 0AH,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-231067,1 Queen Street,Gravesend,Kent,,Gigi's,Restaurant/Cafe/Canteen,1,5,,612379,5,,51.44268400000000,175300103,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37085900000000,DA12 2EQ,2014-01-30,fhrs_5_en-GB,5,,FHRS,5
-231068,3-5 Perry Street,Northfleet,Kent,,Gingers Sandwich Bar   Cafe,Restaurant/Cafe/Canteen,1,5,,103393,5,,51.43395900000000,347300300,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35308300000000,DA11 8RA,2014-02-12,fhrs_5_en-GB,5,,FHRS,5
-231069,4 Livingstone Road,Gravesend,Kent,,Golden Fish Bar,Takeaway/sandwich shop,7844,5,,69730,5,,51.41828400000000,157300401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38199400000000,DA12 5DZ,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-231070,69 Stonebridge Road,Northfleet,Gravesend,Kent,Golden Grill,Restaurant/Cafe/Canteen,1,20,,198131,10,,51.44778100000000,356106900,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32017400000000,DA11 9DT,2014-12-16,fhrs_1_en-GB,1,,FHRS,10
-231071,A2 (Near Rede Court),Watling Street,Gravesend,Kent,Gordons Snack Bar,Mobile caterer,7846,5,,125386,5,,51.43043100000000,538800001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.31066700000000,,2013-07-31,fhrs_5_en-GB,5,,FHRS,5
-231072,87 Peacock Street,Gravesend,Kent,,Grandma's Patties,Mobile caterer,7846,10,,579702,0,,51.43927300000000,171608701,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37274000000000,DA12 1EG,2013-08-20,fhrs_4_en-GB,4,,FHRS,0
-231073,Leander Drive,Gravesend,Kent,,Gravesend Boat,Pub/bar/nightclub,7843,10,,50093,5,,51.41825400000000,111401101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39273700000000,DA12 4NQ,2014-08-28,fhrs_4_en-GB,4,,FHRS,5
-231074,193 Parrock Street,Gravesend,Kent,,Gravesend Conservative Club,Pub/bar/nightclub,7843,5,,74365,5,,51.44144700000000,171319309,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37065100000000,DA12 1EW,2012-08-29,fhrs_4_en-GB,4,,FHRS,10
-231075,Church Walk,Gravesend,Kent,,Gravesend Grammar School For Boys,School/college/university,7845,0,,55252,0,,51.43709600000000,124700001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38385000000000,DA12 2PR,2013-07-02,fhrs_5_en-GB,5,,FHRS,0
-231076,25 Wrotham Road,Gravesend,Kent,,Gravesend Masonic Hall Co,Restaurant/Cafe/Canteen,1,5,,83940,0,,51.43994100000000,207102502,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36770900000000,DA11 0PA,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-231077,Springhead Pavilion Brookvale,Springhead Road,Northfleet,Gravesend,Gravesend RNA Club,Pub/bar/nightclub,7843,5,,104351,5,,51.43583900000000,355112002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33503600000000,DA11 8HW,2014-12-11,fhrs_5_en-GB,5,,FHRS,5
-231078,Gravesend Rugby Football Club,Donald Biggs Drive,Gravesend,Kent,Gravesend Rugby Football Club (Catering Facilities),Restaurant/Cafe/Canteen,1,0,,71847,0,,51.43719100000000,163307012,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38051700000000,DA12 2TL,2015-01-28,fhrs_5_en-GB,5,,FHRS,0
-231079,Bath Street,Gravesend,Kent,,Gravesham Community Hospital,Hospitals/Childcare/Caring Premises,5,0,,51565,0,,51.44323200000000,115604306,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36551900000000,DA11 0DG,2015-01-12,fhrs_5_en-GB,5,,FHRS,0
-231080,Northfleet Mill Kimberly Clarke Ltd,Crete Hall Road,Northfleet,Gravesend,Graysons Restaurants @ Kimberley Clark,Restaurant/Cafe/Canteen,1,5,,623269,0,,51.44457300000000,309100802,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33994300000000,DA11 9AD,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-231081,79 New Road,Gravesend,Kent,,Greggs,Restaurant/Cafe/Canteen,1,0,,72504,0,,51.44126100000000,165107907,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36203600000000,DA11 0HF,2014-07-16,fhrs_5_en-GB,5,,FHRS,0
-231082,51 Wrotham Road,Gravesend,Kent,,Griller,Restaurant/Cafe/Canteen,1,5,,83944,0,,51.43858500000000,207105100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36719300000000,DA11 0PN,2014-06-02,fhrs_5_en-GB,5,,FHRS,5
-231083,Wrotham Road,Culverstone,Kent,,GS Plus Ltd @ Culverstone Green Primary School,School/college/university,7845,0,,129878,0,,51.34053200000000,608573203,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34522200000000,DA13 0RF,2013-07-11,fhrs_5_en-GB,5,,FHRS,0
-231084,Khalsa Avenue,Off Trinity Road,Gravesend,Kent,Guru Nanak Day Centre,Restaurant/Cafe/Canteen,1,0,,80472,0,,51.43801200000000,194800005,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37549400000000,DA12 1LU,2014-12-03,fhrs_5_en-GB,5,,FHRS,0
-231085,20 Perry Street,Northfleet,Kent,,Happy Dragon,Takeaway/sandwich shop,7844,5,,103400,0,,51.43407400000000,347302002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35225500000000,DA11 8QU,2014-11-21,fhrs_5_en-GB,5,,FHRS,5
-231086,49 Arthur Street,Gravesend,Kent,,Hardish Singh Virdee,Retailers - supermarkets/hypermarkets,7840,5,,50672,5,,51.43857000000000,113004904,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36568100000000,DA11 0PR,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-231087,Harvel House Farm,Harvel Lane,Meopham,Gravesend,Harvel House Farm Shop,Retailers - supermarkets/hypermarkets,7840,0,,128627,0,,51.34158300000000,587401202,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36497600000000,DA13 0DH,2014-08-29,fhrs_5_en-GB,5,,FHRS,5
-231088,Longfield Road,Meopham,Kent,,Helen Allison School,School/college/university,7845,0,,128902,0,,51.37564100000000,591700000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35828200000000,DA13 0EW,2013-06-21,fhrs_5_en-GB,5,,FHRS,0
-231089,108 Lamorna Avenue,Gravesend,Kent,,Heritage Catering Services,Other catering premises,7841,10,,557869,10,,51.42712600000000,153910801,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38015200000000,DA12 5PT,2014-11-28,fhrs_3_en-GB,3,,FHRS,10
-231090,Goodwood Crescent,Gravesend,Kent,,Hever Court Residential Home,Hospitals/Childcare/Caring Premises,5,5,,64345,0,,51.41423400000000,142804704,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37506700000000,DA12 5EY,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-231091,School Lane,Higham,Kent,,Higham Primary School,School/college/university,7845,5,,125115,0,,51.42270100000000,536107907,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.46368400000000,ME3 7JL,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-231092,33 Hermitage Road,Higham,Kent,,Higham Village Club,Pub/bar/nightclub,7843,5,,124520,5,,51.41588700000000,530303303,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.46310200000000,ME3 7DD,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-231093,1 The Hive,Northfleet,Kent,,Himsons News & Post,Retailers - supermarkets/hypermarkets,7840,5,,101647,5,,51.44625600000000,333300100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32858700000000,DA11 9DE,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-231094,,,,,Hobbit House Childrens Home,Hospitals/Childcare/Caring Premises,5,5,,128519,0,,,585200001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-231095,8 Kempthorne Street,Gravesend,Kent,,Holland & Barrett Ltd,Retailers - supermarkets/hypermarkets,7840,5,,68227,5,,51.44299900000000,152500800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36683100000000,DA11 0TA,2012-07-12,fhrs_5_en-GB,5,,FHRS,5
-231096,Trinity Road,Gravesend,Kent,,Holy Trinity Church Of England Primary School,School/college/university,7845,0,,80470,5,,51.43801200000000,194800001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37549500000000,DA12 1LU,2013-05-20,fhrs_5_en-GB,5,,FHRS,0
-231097,,,,,Home Caterer,Other catering premises,7841,10,,482695,5,,,518209001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-12-12,fhrs_4_en-GB,4,,FHRS,5
-231098,,,,,Homemade With Love Cakes And More,Other catering premises,7841,0,,211024,5,,,111101701,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2015-01-15,fhrs_5_en-GB,5,,FHRS,5
-231099,79 - 85 High Street,Northfleet,Gravesend,Kent,Hotrods Diner,Restaurant/Cafe/Canteen,1,5,,571526,5,,51.44528700000000,332507901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32937300000000,DA11 9HJ,2013-07-22,fhrs_5_en-GB,5,,FHRS,5
-231100,1 Edwin Street,Gravesend,Kent,,House Of Mercy,Hospitals/Childcare/Caring Premises,5,5,,61398,5,,51.44120900000000,134800101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37173200000000,DA12 1EH,2013-05-23,fhrs_5_en-GB,5,,FHRS,5
-231101,3 The Parade,Wrotham Road,Meopham,Gravesend,Humphreys,Takeaway/sandwich shop,7844,5,,129868,5,,51.37592000000000,608527508,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36091200000000,DA13 0JL,2014-03-13,fhrs_5_en-GB,5,,FHRS,5
-231102,208 Rochester Road,Gravesend,Kent,,Hunky Dory Fish Bar,Takeaway/sandwich shop,7844,5,,75968,5,,51.43172900000000,178420800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39436100000000,DA12 4TY,2014-10-29,fhrs_5_en-GB,5,,FHRS,5
-231103,Nura Lite Est,Canal Road,Gravesend,Kent,Ian's Mobile Catering,Mobile caterer,7846,5,,667974,5,,51.44228800000000,552401901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38415000000000,DA12 2RS,2014-04-30,fhrs_4_en-GB,4,,FHRS,10
-231104,1 Overcliffe,Gravesend,Kent,,Iceland,Retailers - supermarkets/hypermarkets,7840,0,,73618,0,,51.44220200000000,169500101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36219900000000,DA11 0EF,2012-10-11,fhrs_5_en-GB,5,,FHRS,0
-231105,Cedar Avenue,Gravesend,Kent,,Ifield School,School/college/university,7845,0,,54065,0,,51.41853400000000,121804412,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37540500000000,DA12 5JT,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-231106,23 Stone Street,Gravesend,Kent,,Il Padrino,Restaurant/Cafe/Canteen,1,5,,686990,0,,51.44089800000000,188802302,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36843500000000,DA11 0NP,2014-07-19,fhrs_5_en-GB,5,,FHRS,5
-231107,India Palace Balti Restaurant,Station Road,Meopham,Gravesend,India Palace,Restaurant/Cafe/Canteen,1,5,,129861,5,,51.38603000000000,608500101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36219400000000,DA13 0LT,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-231108,Watling Street,Shorne,Gravesend,Kent,Inn On The Lake Hotel,Hotel/bed & breakfast/guest house,7842,5,,127428,5,,51.40302700000000,567101101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.40728300000000,DA12 3HB,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-231109,132 Milton Road,Gravesend,Kent,,International Foods,Retailers - supermarkets/hypermarkets,7840,10,,71851,0,,51.44106400000000,163313204,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37489000000000,DA12 2RQ,2013-09-18,fhrs_4_en-GB,4,,FHRS,10
-231110,31 Windmill Street,Gravesend,Kent,,Invicta Social Club,Pub/bar/nightclub,7843,5,,83703,5,,51.44055500000000,205803103,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36938100000000,DA12 1AS,2012-11-20,fhrs_5_en-GB,5,,FHRS,5
-231111,56 Istead Rise,Northfleet,Kent,,Istead Rise Butchers,Retailers - other,4613,5,,101832,5,,51.40604700000000,334905605,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35291500000000,DA13 9JF,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-231112,57 Worcester Close,Istead Rise,Kent,,Istead Rise Community Centre,Other catering premises,7841,5,,211027,5,,51.40706600000000,364005705,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35232100000000,DA13 9LB,2013-06-21,fhrs_5_en-GB,5,,FHRS,5
-231113,Downs Road,Istead Rise,Gravesend,Kent,Istead Rise Primary School,School/college/university,7845,0,,100391,0,,51.40294500000000,322307201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34706200000000,DA13 9HG,2014-11-06,fhrs_5_en-GB,5,,FHRS,0
-231114,58 Istead Rise,Northfleet,Kent,,Istead Rise Village Bakery,Retailers - supermarkets/hypermarkets,7840,5,,101833,10,,51.40604700000000,334905805,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35291500000000,DA13 9JF,2014-11-11,fhrs_4_en-GB,4,,FHRS,5
-231115,164 Windmill Street,Gravesend,Kent,,J M Danslow,Retailers - other,4613,,,83711,,,51.44173900000000,205816406,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36909700000000,DA12 1AH,2015-01-20,fhrs_5_en-GB,5,,FHRS,
-231116,1 The Alma,Leander Drive,Gravesend,Kent,J.K Cafe,Restaurant/Cafe/Canteen,1,5,,50089,5,,51.41836600000000,111400101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39385000000000,DA12 4NG,2013-08-14,fhrs_5_en-GB,5,,FHRS,5
-231117,47 Singlewell Road,Gravesend,Kent,,JA Grocers & Wine,Retailers - supermarkets/hypermarkets,7840,10,,78528,0,,51.42988400000000,187004704,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36783600000000,DA11 7PU,2013-01-28,fhrs_4_en-GB,4,,FHRS,0
-231118,Lawrance Square,Northfleet,Gravesend,Kent,Jack's Cafe,Restaurant/Cafe/Canteen,1,0,,102174,5,,51.42752900000000,337777019,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35706900000000,DA11 7HW,2013-06-27,fhrs_5_en-GB,5,,FHRS,0
-231119,4 Railway Place,Gravesend,Kent,,Jacobs,Takeaway/sandwich shop,7844,5,,75466,5,,51.44132800000000,176300400,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36896100000000,DA12 1AP,2014-05-01,fhrs_4_en-GB,4,,FHRS,10
-231120,156 Parrock Street,Gravesend,Kent,,Jade Garden,Takeaway/sandwich shop,7844,10,,74360,10,,51.44001900000000,171315605,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-03-11,fhrs_3_en-GB,3,,FHRS,10
-231121,,,,,Jasbir Kaur,Other catering premises,7841,5,,482691,5,,,151602000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-11-30,fhrs_5_en-GB,5,,FHRS,5
-231122,16 Livingstone Road,Gravesend,Kent,,Jassal Store,Retailers - supermarkets/hypermarkets,7840,5,,69732,5,,51.41828400000000,157301601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38199400000000,DA12 5DZ,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-231123,Jeskyns Cafe,Henhurst Road,Cobham,Gravesend,Jeskyns Community Woodland Cafe,Restaurant/Cafe/Canteen,1,0,,667972,0,,51.40710000000000,211100101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38755300000000,DA12 3AN,2014-04-29,fhrs_5_en-GB,5,,FHRS,0
-231124,,,,,Jill Olivers Kitchen,Other catering premises,7841,5,,69849,0,,,157810001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-10-04,fhrs_5_en-GB,5,,FHRS,0
-231125,7 Raleigh Close,Gravesend,Kent,,Just One Bite,Other catering premises,7841,0,,686991,0,,,261200700,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,DA12 5BU,2014-07-14,fhrs_5_en-GB,5,,FHRS,0
-231126,167 Darnley Road,Gravesend,Kent,,Kate Feakins Cake Design,Other catering premises,7841,0,,705100,0,,51.43514100000000,130416701,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36228100000000,DA11 0SR,2014-09-30,fhrs_5_en-GB,5,,FHRS,0
-231127,200 Rochester Road,Gravesend,Kent,,Kenny's Cafe,Restaurant/Cafe/Canteen,1,5,,75966,5,,51.43172900000000,178420000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39436100000000,DA12 4TY,2014-02-19,fhrs_5_en-GB,5,,FHRS,5
-231128,10 Milton Road,Gravesend,Kent,,Kent Charcoal Grill,Takeaway/sandwich shop,7844,5,,71838,5,,51.44213700000000,163301001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37165100000000,DA12 2RE,2013-03-18,fhrs_5_en-GB,5,,FHRS,5
-231129,,,,,Kevron Catering,Other catering premises,7841,0,,565895,5,,,100500101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-05-23,fhrs_5_en-GB,5,,FHRS,0
-231130,12 The Parade,Valley Drive,Gravesend,Kent,KFC,Takeaway/sandwich shop,7844,0,,80964,0,,51.42852700000000,196908016,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38508700000000,DA12 5RT,2014-10-24,fhrs_5_en-GB,5,,FHRS,0
-231131,4 - 12 Perry Street,Northfleet,Gravesend,Kent,KFC,Takeaway/sandwich shop,7844,0,,103395,0,,51.43407400000000,347300402,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35225500000000,DA11 8QU,2014-07-28,fhrs_5_en-GB,5,,FHRS,0
-231132,7 King Street,Gravesend,Kent,,King Street Market,Retailers - supermarkets/hypermarkets,7840,5,,499454,5,,51.44247700000000,152900702,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37038700000000,DA12 2EB,2013-01-15,fhrs_5_en-GB,5,,FHRS,5
-231133,The Kings Arms,Wrotham Road,Meopham,Gravesend,Kings Arms,Pub/bar/nightclub,7843,5,,129876,5,,51.36060400000000,608550200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35288400000000,DA13 0QB,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-231134,193A Parrock Street,Gravesend,Kent,,Kings Diner,Restaurant/Cafe/Canteen,1,,,74366,,,51.44144700000000,171319310,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37065100000000,DA12 1EW,2015-01-07,fhrs_5_en-GB,5,,FHRS,
-231135,22 Kitchener Avenue,Gravesend,Kent,,Kings Farm Grill,Takeaway/sandwich shop,7844,5,,68634,5,,51.42616800000000,153502200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37549900000000,DA12 5HY,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-231136,32 Kitchener Avenue,Gravesend,Kent,,Kings Farm Mini Market,Retailers - supermarkets/hypermarkets,7840,5,,68636,5,,51.42616800000000,153503204,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37549900000000,DA12 5HY,2013-10-15,fhrs_5_en-GB,5,,FHRS,0
-231137,Cedar Avenue,Gravesend,Kent,,Kings Farm Primary School,School/college/university,7845,0,,54064,0,,51.41853400000000,121804410,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37540500000000,DA12 5JT,2013-11-19,fhrs_5_en-GB,5,,FHRS,5
-231138,8 - 9 King Street,Gravesend,Kent,,Kings Head,Pub/bar/nightclub,7843,20,,68398,15,,51.44247700000000,152900800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37038700000000,DA12 2EB,2013-07-19,fhrs_1_en-GB,1,,FHRS,15
-231139,21C King Street,Gravesend,Kent,,Kings News & Wine,Retailers - supermarkets/hypermarkets,7840,10,,715743,5,,51.44247700000000,152902105,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37038700000000,DA12 2EB,2014-10-15,fhrs_4_en-GB,4,,FHRS,0
-231140,Knights Place Farm,Watling Street,Cobham,Gravesend,Knights Place Cafe,Restaurant/Cafe/Canteen,1,5,,143883,5,,51.39402000000000,816011101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.44397200000000,ME2 3UB,2013-03-09,fhrs_4_en-GB,4,,FHRS,10
-231141,60 Istead Rise,Northfleet,Kent,,Kohinoor Spice,Restaurant/Cafe/Canteen,1,5,,101834,5,,51.40604700000000,334906001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35291500000000,DA13 9JF,2013-07-31,fhrs_5_en-GB,5,,FHRS,5
-231142,60 Parrock Road,Gravesend,Kent,,Larchwood Grove,Hospitals/Childcare/Caring Premises,5,5,,74329,5,,51.43283300000000,171206006,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37457800000000,DA12 1QH,2012-08-21,fhrs_5_en-GB,5,,FHRS,5
-231143,151 Whitehill Road,Gravesend,Kent,,Le Spice,Takeaway/sandwich shop,7844,,,83395,,,51.42438400000000,204015103,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37962100000000,DA12 5LS,2014-02-11,fhrs_5_en-GB,5,,FHRS,
-231144,140 Pelham Road,Gravesend,Kent,,Lean Meats,Retailers - other,4613,5,,74491,0,,51.43618900000000,171814004,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35755800000000,DA11 0JH,2014-05-08,fhrs_5_en-GB,5,,FHRS,0
-231145,Unit 3,May Avenue,Northfleet,Gravesend,Leisure King Ltd,Retailers - supermarkets/hypermarkets,7840,5,,686993,5,,51.43490900000000,341300300,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35231200000000,DA11 8RU,2014-06-04,fhrs_5_en-GB,5,,FHRS,5
-231146,173 Windmill Street,Gravesend,Kent,,Leonardo's,Restaurant/Cafe/Canteen,1,5,,83713,0,,51.44173900000000,205817307,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36909700000000,DA12 1AH,2013-06-05,fhrs_5_en-GB,5,,FHRS,0
-231147,Unit E1 Thames Way,Imperial Business Park,Gravesend,Kent,Lidl UK,Retailers - supermarkets/hypermarkets,7840,0,,79710,0,,51.44424400000000,192100004,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36040500000000,DA11 0DQ,2013-08-06,fhrs_5_en-GB,5,,FHRS,0
-231148,56 - 58 Shepherd Street,Northfleet,Gravesend,Kent,Little Angels Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,456830,5,,51.43971100000000,353905602,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33841400000000,DA11 9PT,2014-10-07,fhrs_5_en-GB,5,,FHRS,5
-231149,Little Hermitage,Gravesend Road,Higham,Kent,Little Hermitage Wedding Venue,Restaurant/Cafe/Canteen,1,0,,126627,0,,51.45275100000000,557200015,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.58483700000000,ME3 7WU,2014-09-29,fhrs_5_en-GB,5,,FHRS,0
-231150,,,,,Little Kent Cakery,Other catering premises,7841,0,,608728,0,,,346715902,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-08-13,fhrs_5_en-GB,5,,FHRS,0
-231151,2A Devonshire Road,Gravesend,Kent,,Little Stars Day Nursery,Hospitals/Childcare/Caring Premises,5,10,,51402,0,,51.43161400000000,115102002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36991100000000,DA12 5AA,2013-11-25,fhrs_4_en-GB,4,,FHRS,10
-231152,4 - 6 Darnley Road,Gravesend,Kent,,Lituanica / Food4U,Retailers - supermarkets/hypermarkets,7840,5,,201414,0,,51.44211700000000,130400401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36553300000000,DA11 0RU,2013-08-16,fhrs_5_en-GB,5,,FHRS,0
-231153,10-12 Livingstone Road,Gravesend,Kent,,Livingstone Road Stores,Retailers - supermarkets/hypermarkets,7840,5,,69731,5,,51.41828400000000,157301201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38199400000000,DA12 5DZ,2013-10-16,fhrs_5_en-GB,5,,FHRS,5
-231154,11 The Parade,Wrotham Road,Meopham,Gravesend,Londis,Retailers - supermarkets/hypermarkets,7840,5,,129862,10,,51.37592000000000,608501100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36091200000000,DA13 0JL,2014-07-31,fhrs_4_en-GB,4,,FHRS,5
-231155,29 Milton Road,Gravesend,Kent,,Londis,Retailers - supermarkets/hypermarkets,7840,10,,71846,10,,51.44147700000000,163302902,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37450900000000,DA12 2RF,2014-04-07,fhrs_3_en-GB,3,,FHRS,5
-231156,3 The Bay,Vigo Village,Kent,,Londis,Retailers - supermarkets/hypermarkets,7840,5,,127673,10,,51.33045700000000,571900300,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35922100000000,DA13 0TD,2013-10-29,fhrs_4_en-GB,4,,FHRS,5
-231157,188 Rochester Road,Gravesend,Kent,,Lucky Dragon,Takeaway/sandwich shop,7844,5,,75962,5,,51.43172900000000,178418808,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39436100000000,DA12 4TY,2013-10-18,fhrs_5_en-GB,5,,FHRS,5
-231158,149 Whitehill Road,Gravesend,Kent,,Lucky Jade Chinese Takeaway,Takeaway/sandwich shop,7844,5,,83394,5,,51.42438400000000,204014904,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37962100000000,DA12 5LS,2013-09-27,fhrs_5_en-GB,5,,FHRS,0
-231159,B & Q Car Park Clifton Marine Parade,Gravesend,Kent,,Lunch Box,Mobile caterer,7846,5,,55984,5,,51.44558000000000,126400004,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35745200000000,DA11 0DY,2014-04-22,fhrs_5_en-GB,5,,FHRS,5
-231160,60 - 61 Windmill Street,Gravesend,Kent,,M & D Wine Merchants Ltd,Retailers - supermarkets/hypermarkets,7840,5,,83706,0,,51.43875100000000,205806006,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36921600000000,DA12 1BB,2012-04-19,fhrs_5_en-GB,5,,FHRS,5
-231161,53 Wrotham Road,Gravesend,Kent,,Man Of Kent PH,Pub/bar/nightclub,7843,5,,83945,5,,51.43766800000000,207105305,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36671400000000,DA11 0QB,2014-08-04,fhrs_5_en-GB,5,,FHRS,5
-231162,23 High Street,Gravesend,Kent,,Maries Tea Room,Restaurant/Cafe/Canteen,1,5,,686988,5,,51.44378700000000,147202305,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36964900000000,DA11 0BA,2014-07-15,fhrs_4_en-GB,4,,FHRS,10
-231163,18 Kitchener Avenue,Gravesend,Kent,,Marinos Fish Bar,Takeaway/sandwich shop,7844,0,,68632,0,,51.41743700000000,153501801,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.41015400000000,DA12 5MY,2013-08-15,fhrs_5_en-GB,5,,FHRS,5
-231164,Borough Market,High Street,Gravesend,Kent,Market Cafe,Restaurant/Cafe/Canteen,1,5,,731331,5,,51.44318200000000,147202314,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36977600000000,DA11 0AZ,2015-01-13,fhrs_5_en-GB,5,,FHRS,5
-231165,Borough Market,High Street,Gravesend,Kent,Market Garden,Retailers - supermarkets/hypermarkets,7840,0,,508513,0,,51.44318200000000,175300900,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36977600000000,DA11 0AZ,2013-01-30,fhrs_5_en-GB,5,,FHRS,0
-231166,,,,,Marks Ices (N927 UOC),Retailers - other,4613,0,,103294,0,,,346607027,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-07-29,fhrs_5_en-GB,5,,FHRS,0
-231167,33 Dene Holm Road,Northfleet,Kent,,Martins,Retailers - supermarkets/hypermarkets,7840,0,,100257,0,,51.42593600000000,321303303,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34281700000000,DA11 8LG,2013-06-17,fhrs_5_en-GB,5,,FHRS,5
-231168,196 Rochester Road,Gravesend,Kent,,Masum Indian Takeaway,Takeaway/sandwich shop,7844,5,,75963,10,,51.43172900000000,178419601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39436100000000,DA12 4TY,2014-05-20,fhrs_4_en-GB,4,,FHRS,5
-231169,Pelham Road,Gravesend,Kent,,Mayfield Grammar School Gravesend,School/college/university,7845,0,,74488,0,,51.43664600000000,171809809,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35943800000000,DA11 0JE,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-231170,31A The Hill,Northfleet,Kent,,Mayflower,Takeaway/sandwich shop,7844,10,,101578,5,,51.44340200000000,332703104,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33641500000000,DA11 9EX,2013-11-19,fhrs_4_en-GB,4,,FHRS,5
-231171,Hartshill Road,Northfleet,Gravesend,Kent,Mayflower Care Centre,Hospitals/Childcare/Caring Premises,5,0,,145658,0,,51.42979000000000,869500000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35777500000000,DA11 7DX,2014-09-29,fhrs_5_en-GB,5,,FHRS,0
-231172,2 Neville Place,Wrotham Road,Meopham,Kent,McColls,Retailers - supermarkets/hypermarkets,7840,0,,129865,0,,51.38482000000000,608503203,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35750400000000,DA13 0HP,2012-05-15,fhrs_5_en-GB,5,,FHRS,0
-231173,4 The Alma,Leander Drive,Gravesend,Kent,McColls,Retailers - supermarkets/hypermarkets,7840,5,,50091,5,,51.41836600000000,111400400,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39385000000000,DA12 4NG,2014-09-30,fhrs_5_en-GB,5,,FHRS,5
-231174,85 New Road,Gravesend,Kent,,McDonalds Restaurant Ltd,Restaurant/Cafe/Canteen,1,0,,72505,0,,51.44227900000000,165108508,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36775800000000,DA11 0AF,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-231175,18 Forge Lane,Higham,Rochester,Kent,Meadows,Retailers - supermarkets/hypermarkets,7840,5,,637492,5,,51.41502600000000,582101802,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45912900000000,ME3 7AS,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-231176,54 Thong Lane,Gravesend,Kent,,Meat Express,Retailers - other,4613,5,,647134,5,,51.42694800000000,193105400,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39988000000000,DA12 4LD,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-231177,,,,,Meme's Cakes,Other catering premises,7841,0,,657236,0,,,170205501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-04-14,fhrs_5_en-GB,5,,FHRS,0
-231178,30 Wrotham Road,Meopham,Gravesend,Kent,Meopham Bakery Ltd T/A Station Bakery,Retailers - supermarkets/hypermarkets,7840,10,,129864,15,,51.38482000000000,608503003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35750400000000,DA13 0HP,2014-04-28,fhrs_2_en-GB,2,,FHRS,15
-231179,Rear Of Village Hall,Wrotham Road,Meopham,Gravesend,Meopham Country Club,Other catering premises,7841,5,,129875,5,,51.36401100000000,608546406,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35791400000000,DA13 0AT,2013-02-22,fhrs_5_en-GB,5,,FHRS,5
-231180,Wrotham Road,Meopham,Gravesend,Kent,Meopham School,School/college/university,7845,0,,129872,0,,51.36892000000000,608538001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35973300000000,DA13 0AH,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-231181,2 The Parade Wrotham Road,Meopham,Kent,,Meopham Tandoori,Restaurant/Cafe/Canteen,1,5,,129867,5,,51.37592000000000,608527408,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36091200000000,DA13 0JL,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-231182,Wrotham Road,Meopham,Kent,,Meopham Valley Vineyard,Retailers - supermarkets/hypermarkets,7840,0,,129859,0,,51.36323500000000,608500008,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35668200000000,DA13 0AU,2013-09-27,fhrs_5_en-GB,5,,FHRS,0
-231183,Hermitage Road,Higham,Kent,,Merston Court Lunch Club,Restaurant/Cafe/Canteen,1,0,,124536,0,,51.41594700000000,530400001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.46196900000000,ME3 7DE,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-231184,5 The Parade,Valley Drive,Gravesend,Kent,Mia's,Retailers - supermarkets/hypermarkets,7840,0,,80963,0,,51.42852700000000,196908009,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38508700000000,DA12 5RT,2013-11-05,fhrs_5_en-GB,5,,FHRS,5
-231185,127 Singlewell Road,Gravesend,Kent,,Mia's Of Sidcup Ltd,Retailers - supermarkets/hypermarkets,7840,5,,201415,5,,51.42828200000000,187012302,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36746600000000,DA11 7QA,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-231186,50 New Road,Gravesend,Kent,,Milaad 2,Restaurant/Cafe/Canteen,1,5,,715745,5,,51.44261200000000,165105001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36505500000000,DA11 0AD,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-231187,31 Shrubbery Road,Gravesend,Kent,,Millers Cottage Public House,Pub/bar/nightclub,7843,0,,78437,0,,51.43522900000000,186603103,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37258800000000,DA12 1JW,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-231188,Feabrex House,Albion Parade,Gravesend,Kent,Milos,Mobile caterer,7846,5,,698955,5,,51.44311600000000,110700002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38456700000000,DA12 2RN,2014-08-11,fhrs_5_en-GB,5,,FHRS,0
-231189,25 East Milton Road,Gravesend,Kent,,Milton Ale Shades Public House,Pub/bar/nightclub,7843,,,61169,,,51.43879700000000,134002502,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38690300000000,DA12 2JL,2014-01-31,fhrs_4_en-GB,4,,FHRS,
-231190,21 Milton Road,Gravesend,Kent,,Milton Kebab,Takeaway/sandwich shop,7844,10,,71843,5,,51.44147700000000,163302121,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37450900000000,DA12 2RF,2014-09-08,fhrs_4_en-GB,4,,FHRS,5
-231191,Gravesend Methodist Church,Milton Road,Gravesend,Kent,Milton Mini Meals,Other catering premises,7841,5,,71834,5,,51.44213700000000,163300001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37165100000000,DA12 2RE,2012-06-12,fhrs_5_en-GB,5,,FHRS,5
-231192,St Peter And St Pauls Church,East Milton Road,Gravesend,Kent,Milton Munchies,Other catering premises,7841,0,,408560,0,,51.43879700000000,134000002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38690300000000,DA12 2JL,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-231193,9 Milton Road,Gravesend,Kent,,Milton Road Mini Mart,Retailers - supermarkets/hypermarkets,7840,10,,637486,5,,51.44213700000000,163300901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37165100000000,DA12 2RE,2014-01-27,fhrs_4_en-GB,4,,FHRS,5
-231194,109A - 109B Milton Road,Gravesend,Kent,,Milton Road Newsagents,Retailers - supermarkets/hypermarkets,7840,5,,71848,5,,51.44011900000000,163310901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37714400000000,DA12 2PF,2014-01-13,fhrs_5_en-GB,5,,FHRS,5
-231195,34 Raphael Road,Gravesend,Kent,,Milton Social Club,Pub/bar/nightclub,7843,5,,75591,0,,51.43974800000000,176903403,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38613300000000,DA12 2PW,2015-01-23,fhrs_5_en-GB,5,,FHRS,5
-231196,188 Old Road West,Gravesend,Kent,,Miramar,Takeaway/sandwich shop,7844,5,,73289,5,,51.43589000000000,168118808,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35541300000000,DA11 0LY,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-231197,,,,,Mister Softee GL05 TUV,Retailers - other,4613,0,,719808,0,,,347202600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-09-16,fhrs_5_en-GB,5,,FHRS,0
-231198,,,,,Mister Softee PE07 SVO,Retailers - other,4613,0,,707669,0,,,332503100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-09-24,fhrs_5_en-GB,5,,FHRS,0
-231199,Comma Oils And Chemicals Ltd,Dering Way,Gravesend,Kent,Mitie Catering Services Limited,Restaurant/Cafe/Canteen,1,5,,70207,0,,51.43950300000000,159000001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39196200000000,DA12 2QX,2014-08-21,fhrs_5_en-GB,5,,FHRS,5
-231200,10 Queen Street,Gravesend,Kent,,Monika's International,Retailers - supermarkets/hypermarkets,7840,5,,211028,5,,51.44277100000000,175301002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37143900000000,DA12 2EE,2012-02-29,fhrs_4_en-GB,4,,FHRS,10
-231201,258 -260 Mackenzie Way,Gravesend,Kent,,Moores Convenience Store,Retailers - supermarkets/hypermarkets,7840,10,,70853,0,,51.41184200000000,160125805,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38390200000000,DA12 5TY,2014-12-08,fhrs_4_en-GB,4,,FHRS,5
-231202,Coldharbour Road,Northfleet,Kent,,Morrisons,Retailers - supermarkets/hypermarkets,7840,5,,99729,5,,51.42004800000000,316900002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35431100000000,DA11 8AB,2013-03-05,fhrs_5_en-GB,5,,FHRS,5
-231203,9 Queen Street,Gravesend,Kent,,Moyibo Afro-Caribbean Meat & Grocery Store,Retailers - other,4613,10,,571524,10,,51.44268400000000,175300901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37085900000000,DA12 2EQ,2013-07-23,fhrs_3_en-GB,3,,FHRS,5
-231204,,,,,Mr Whippy - DU03 HWK,Retailers - other,4613,0,,101770,0,,,334303600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-09-23,fhrs_5_en-GB,5,,FHRS,0
-231205,,,,,Nannidoo's Pantry & Crafts,Other catering premises,7841,10,,585739,5,,,507000201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-07-24,fhrs_4_en-GB,4,,FHRS,5
-231206,22 Milton Road,Gravesend,Kent,,Nanny Janets,Restaurant/Cafe/Canteen,1,0,,71844,5,,51.44147700000000,163302202,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37450900000000,DA12 2RF,2013-06-25,fhrs_5_en-GB,5,,FHRS,0
-231207,Watling Street,Marling Cross,Gravesend,Kent,Nells Cafe,Restaurant/Cafe/Canteen,1,5,,82869,5,,51.40844900000000,201500402,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38844300000000,DA12 5UD,2014-05-30,fhrs_5_en-GB,5,,FHRS,5
-231208,23 Darnley Road,Gravesend,Kent,,New Dragon,Takeaway/sandwich shop,7844,5,,508510,10,,51.44089600000000,130402301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36495200000000,DA11 0RZ,2014-08-05,fhrs_4_en-GB,4,,FHRS,5
-231209,46 Empress Road,Gravesend,Kent,,New Life Takeaway,Takeaway/sandwich shop,7844,0,,61655,0,,51.43836100000000,135604604,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38886600000000,DA12 2QR,2014-12-15,fhrs_5_en-GB,5,,FHRS,0
-231210,49 New Road,Gravesend,Kent,,New Road Grocery,Retailers - supermarkets/hypermarkets,7840,5,,698956,5,,51.44261200000000,165104900,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36505500000000,DA11 0AD,2014-09-02,fhrs_5_en-GB,5,,FHRS,5
-231211,186 Rochester Road,Gravesend,Kent,,Newsbox,Retailers - supermarkets/hypermarkets,7840,5,,75961,5,,51.43172900000000,178418608,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39436100000000,DA12 4TY,2013-10-23,fhrs_5_en-GB,5,,FHRS,5
-231212,24 Perry Street,Northfleet,Gravesend,Kent,Nicksons Snack Shack,Restaurant/Cafe/Canteen,1,0,,548315,0,,51.43379900000000,347302401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35119000000000,DA11 8RE,2013-04-24,fhrs_5_en-GB,5,,FHRS,0
-231213,52 London Road,Northfleet,Gravesend,Kent,Nisa,Retailers - supermarkets/hypermarkets,7840,5,,102301,5,,51.44204500000000,338905202,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34895200000000,DA11 9JR,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-231214,5 East Milton Road,Gravesend,Kent,,Nisa Local,Retailers - supermarkets/hypermarkets,7840,20,,61166,20,,51.43879700000000,134000501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38690300000000,DA12 2JL,2014-02-04,fhrs_1_en-GB,1,,FHRS,5
-231215,5 - 6 The Hill,Northfleet,Gravesend,Kent,Nisha Convenience T/A Savemore,Retailers - supermarkets/hypermarkets,7840,5,,702488,5,,51.44288500000000,332700602,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33617300000000,DA11 9EU,2014-09-15,fhrs_4_en-GB,4,,FHRS,10
-231216,84 Parrock Road,Gravesend,Kent,,No 84,Restaurant/Cafe/Canteen,1,5,,482693,5,,51.43184800000000,171208401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37524700000000,DA12 1QF,2014-02-13,fhrs_5_en-GB,5,,FHRS,5
-231217,Victoria Centre For Adult Education,Darnley Road,Gravesend,Kent,No.38,Restaurant/Cafe/Canteen,1,5,,592068,5,,51.44177100000000,130400002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36440700000000,DA11 0RX,2013-10-02,fhrs_5_en-GB,5,,FHRS,0
-231218,Lower Higham Road,Gravesend,Kent,,North West Kent College Refectory,School/college/university,7845,0,,60234,0,,51.43242600000000,131600001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39629700000000,DA12 2LY,2013-10-24,fhrs_5_en-GB,5,,FHRS,0
-231219,60 London Road,Northfleet,Gravesend,Kent,Northfleet Canteen,Restaurant/Cafe/Canteen,1,0,,102302,0,,51.44207000000000,338906006,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35129900000000,DA11 9LF,2013-07-31,fhrs_5_en-GB,5,,FHRS,0
-231220,39 Dover Road,Northfleet,Gravesend,Kent,Northfleet District Traders Association,Pub/bar/nightclub,7843,0,,100329,0,,51.44153000000000,321903903,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33785900000000,DA11 9PH,2013-04-26,fhrs_5_en-GB,5,,FHRS,5
-231221,13 Perry Street,Northfleet,Kent,,Northfleet Fish Bar,Takeaway/sandwich shop,7844,5,,103399,5,,51.43395900000000,347301301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35308300000000,DA11 8RA,2015-01-14,fhrs_5_en-GB,5,,FHRS,5
-231222,,,,,Northfleet Ice Cream (Reg V133 KOA),Retailers - other,4613,0,,557873,5,,,317800603,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-05-15,fhrs_5_en-GB,5,,FHRS,0
-231223,,,,,Northfleet Ice Cream JBZ 8943,Retailers - other,4613,0,,705102,0,,,317802600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-09-01,fhrs_5_en-GB,5,,FHRS,0
-231224,Hall Road,Northfleet,Kent,,Northfleet School For Girls,School/college/university,7845,0,,101317,0,,51.42895200000000,330517908,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34082800000000,DA11 8AQ,2013-07-03,fhrs_5_en-GB,5,,FHRS,0
-231225,,,,,Now We're Cooking,Other catering premises,7841,5,,452674,5,,,110900201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-10-01,fhrs_5_en-GB,5,,FHRS,5
-231226,High Street,Northfleet,Kent,,NSFG @ Lawn County Primary School,School/college/university,7845,0,,101548,0,,51.44511600000000,332501801,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33120600000000,DA11 9HB,2013-10-07,fhrs_5_en-GB,5,,FHRS,0
-231227,Windsor Road,Gravesend,Kent,,Oakfields Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,78537,0,,51.42098600000000,187030600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37071300000000,DA12 5BW,2014-04-11,fhrs_5_en-GB,5,,FHRS,0
-231228,49 London Road,Northfleet,Gravesend,Kent,Oboma (UK) Limited,Retailers - supermarkets/hypermarkets,7840,5,,657239,0,,51.44204500000000,338904901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34895200000000,DA11 9JR,2014-04-10,fhrs_5_en-GB,5,,FHRS,0
-231229,Fleetway Sports Club,Bronte View,Gravesend,Kent,Old Gravesendians Association,Other catering premises,7841,5,,74328,0,,51.43574900000000,171201401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37622600000000,DA12 1PX,2013-02-16,fhrs_5_en-GB,5,,FHRS,0
-231230,1 Old Road East,Gravesend,Kent,,Old Prince Of Orange,Pub/bar/nightclub,7843,10,,73252,5,,51.43269800000000,168000101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37054300000000,DA12 1NJ,2013-03-20,fhrs_3_en-GB,3,,FHRS,10
-231231,78 Old Road East,Gravesend,Kent,,Orchard Cottage,Hospitals/Childcare/Caring Premises,5,5,,73257,5,,51.43233700000000,168007807,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38173200000000,DA12 1PE,2013-06-06,fhrs_5_en-GB,5,,FHRS,5
-231232,121 Rochester Road,Gravesend,Kent,,Oriental Delight,Takeaway/sandwich shop,7844,5,,75957,5,,51.43515500000000,178412121,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39039700000000,DA12 2HU,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-231233,St Josephs R.C. School Springhead Road,Northfleet,Kent,,Our Lady's Pre School,Hospitals/Childcare/Caring Premises,5,0,,104364,0,,51.43979600000000,355210100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33686400000000,DA11 9QZ,2013-01-31,fhrs_5_en-GB,5,,FHRS,0
-231234,15/16 The Overcliffe,Gravesend,Kent,,Overcliffe Hotel & Bloomers Restaurant,Hotel/bed & breakfast/guest house,7842,10,,73620,5,,51.44267600000000,169501501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35829500000000,DA11 0EJ,2013-06-12,fhrs_4_en-GB,4,,FHRS,0
-231235,Shears Green Infant School,Packham Road,Northfleet,Gravesend,Owl Pre School,Hospitals/Childcare/Caring Premises,5,0,,103271,0,,51.42558100000000,346300003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35643600000000,DA11 7JF,2014-10-30,fhrs_5_en-GB,5,,FHRS,0
-231236,Thong Lane,Gravesend,Kent,,Palm Beach Cafe @ Cascades Leisure Centre,Restaurant/Cafe/Canteen,1,5,,80010,0,,51.42026800000000,193100002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39848000000000,DA12 4LG,2014-07-07,fhrs_5_en-GB,5,,FHRS,5
-231237,36 Perry Street,Northfleet,Gravesend,Kent,Papa John's,Takeaway/sandwich shop,7844,5,,201419,5,,51.43379900000000,347303600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35119000000000,DA11 8RE,2013-08-05,fhrs_5_en-GB,5,,FHRS,5
-231238,101 Park Avenue,Northfleet,Kent,,Park Avenue Stores,Retailers - supermarkets/hypermarkets,7840,5,,103300,5,,51.43536200000000,346710100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34856600000000,DA11 8DN,2013-05-29,fhrs_5_en-GB,5,,FHRS,5
-231239,159 Parrock Street,Gravesend,Kent,,Party King,Retailers - supermarkets/hypermarkets,7840,0,,74361,0,,51.44001900000000,171315906,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-08-19,fhrs_5_en-GB,5,,FHRS,0
-231240,78 Peacock Street,Gravesend,Kent,,Peacock Public House,Pub/bar/nightclub,7843,5,,74435,5,,51.43927300000000,171607809,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37274000000000,DA12 1EG,2012-07-03,fhrs_5_en-GB,5,,FHRS,5
-231241,63 High Street,Gravesend,Kent,,Peasher Restaurant And Bar,Restaurant/Cafe/Canteen,1,5,,510003,5,,51.44371600000000,147206061,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36915600000000,DA11 0BB,2015-02-02,fhrs_5_en-GB,5,,FHRS,5
-231242,189 Old Road West,Gravesend,Kent,,Pelham Arms PH,Pub/bar/nightclub,7843,5,,73290,5,,51.43524500000000,168118908,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35755200000000,DA11 0LT,2013-09-17,fhrs_4_en-GB,4,,FHRS,10
-231243,180 Old Road West,Gravesend,Kent,,Pelham Grocers T/A Londis,Retailers - supermarkets/hypermarkets,7840,5,,73287,5,,51.43543800000000,168118008,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35825300000000,DA11 0LZ,2014-09-08,fhrs_5_en-GB,5,,FHRS,5
-231244,52 Pelham Road,Gravesend,Kent,,Pelham Lodge,Hospitals/Childcare/Caring Premises,5,0,,74485,0,,51.43820200000000,171805205,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36032400000000,DA11 0HZ,2014-05-16,fhrs_5_en-GB,5,,FHRS,0
-231245,58-72 Pelham Road South,Gravesend,Kent,,Pelham Road Service Station,Retailers - supermarkets/hypermarkets,7840,5,,74504,5,,51.43448700000000,171906801,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35453500000000,DA11 8QS,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-231246,19-20 King Street,Gravesend,Kent,,Perfect Pizza (Fronting Queen Street),Takeaway/sandwich shop,7844,5,,68402,5,,51.44247700000000,152901903,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37038700000000,DA12 2EB,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-231247,71 Pelham Road South,Gravesend,Kent,,Perry Cafe,Restaurant/Cafe/Canteen,1,5,,74505,5,,51.43418300000000,171907107,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35400100000000,DA11 8QT,2015-01-27,fhrs_5_en-GB,5,,FHRS,5
-231248,11 Perry Street,Northfleet,Kent,,Perry Grill,Takeaway/sandwich shop,7844,5,,103397,5,,51.43395900000000,347301101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35308300000000,DA11 8RA,2015-01-28,fhrs_5_en-GB,5,,FHRS,5
-231249,2 Perry Street,Northfleet,Kent,,Perry Street Conservative Club Ltd,Pub/bar/nightclub,7843,5,,103392,0,,51.43407400000000,347300200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35225500000000,DA11 8QU,2012-10-29,fhrs_5_en-GB,5,,FHRS,5
-231250,,,,,Pie In The Sky,Other catering premises,7841,0,,626772,0,,,131200601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-01-09,fhrs_5_en-GB,5,,FHRS,0
-231251,45 New Road,Gravesend,Kent,,Pizza Go Go,Takeaway/sandwich shop,7844,5,,72497,5,,51.44424300000000,165104501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36980200000000,DA11 0AP,2014-09-30,fhrs_5_en-GB,5,,FHRS,0
-231252,12A Perry Street,Northfleet,Kent,,Pizza Hut,Takeaway/sandwich shop,7844,5,,103398,0,,51.43407400000000,347301201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35225500000000,DA11 8QU,2013-10-14,fhrs_5_en-GB,5,,FHRS,5
-231253,Imperial Business Park,Thames Way,Gravesend,Kent,Pizza Hut,Restaurant/Cafe/Canteen,1,0,,79711,0,,51.44424400000000,192100015,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36040500000000,DA11 0DQ,2014-01-06,fhrs_5_en-GB,5,,FHRS,0
-231254,The Old Casino,85 - 87 Wellington Street,Gravesend,Kent,Play And Learn Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,682387,0,,51.43753900000000,202008502,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37355600000000,DA12 1JQ,2014-06-30,fhrs_5_en-GB,5,,FHRS,0
-231255,155 Milton Road,Gravesend,Kent,,Polski Shop,Retailers - supermarkets/hypermarkets,7840,5,,667970,5,,51.44162700000000,163315502,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37194100000000,DA12 2RG,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-231256,6 Porchfield Close,Gravesend,Kent,,Porchfield Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,10,,482689,0,,51.42787700000000,101200601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37814800000000,DA12 5PX,2012-10-15,fhrs_4_en-GB,4,,FHRS,0
-231257,75 Lower Higham Road,Chalk,Kent,,Postscript,Retailers - supermarkets/hypermarkets,7840,0,,70131,0,,51.43201300000000,158707508,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39934000000000,DA12 2NQ,2013-11-12,fhrs_5_en-GB,5,,FHRS,0
-231258,Thamesgate Shopping Centre,New Road,Gravesend,Kent,Poundland,Retailers - supermarkets/hypermarkets,7840,5,,50252,5,,51.44197900000000,111901789,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36831800000000,DA11 0AU,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-231259,26 - 27 St Georges Square,Gravesend,Kent,,Poundstretcher,Retailers - supermarkets/hypermarkets,7840,5,,77539,5,,51.44310500000000,182302600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36736900000000,DA11 0TD,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-231260,Gravesend Boat,Leander Drive,Gravesend,Kent,Prawn Starz,Retailers - other,4613,5,,707667,10,,51.41825400000000,111401201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39273700000000,DA12 4NQ,2014-04-15,fhrs_4_en-GB,4,,FHRS,5
-231261,55 Norfolk Road,Gravesend,Kent,,Premier CJC Convenience Store,Retailers - supermarkets/hypermarkets,7840,5,,508512,5,,51.44068400000000,166105510,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38295800000000,DA12 2RX,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-231262,20 Kitchener Avenue,Gravesend,Kent,,Pricefair,Retailers - supermarkets/hypermarkets,7840,5,,68633,5,,51.42616800000000,153502002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37549900000000,DA12 5HY,2013-05-20,fhrs_5_en-GB,5,,FHRS,5
-231263,Nelson Court,Glen View,Gravesend,Kent,Pride Catering @ Nelson Court,Restaurant/Cafe/Canteen,1,0,,50610,0,,51.43336400000000,112806001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37364200000000,DA12 1PL,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-231264,24 Milton Road,Gravesend,Kent,,Princess Supermarket,Retailers - supermarkets/hypermarkets,7840,10,,61167,5,,51.44147700000000,134002224,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37450900000000,DA12 2RF,2012-05-10,fhrs_4_en-GB,4,,FHRS,5
-231265,Cerne Road,Gravesend,Kent,,Principal Catering  Ltd @ Raynehurst Community School,School/college/university,7845,0,,54302,0,,51.42302600000000,122407209,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39243900000000,DA12 4BN,2013-07-10,fhrs_5_en-GB,5,,FHRS,0
-231266,Packham Road,Northfleet,Gravesend,Kent,Principal Catering  Ltd @ Shears Green Infants School,School/college/university,7845,0,,211023,0,,51.42558100000000,346300001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35643600000000,DA11 7JF,2013-05-16,fhrs_5_en-GB,5,,FHRS,0
-231267,White Avenue,Northfleet,Gravesend,Kent,Principal Catering  Ltd @ Shears Green Junior School,School/college/university,7845,5,,103270,0,,51.42457700000000,346300002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35494600000000,DA11 7JB,2013-05-15,fhrs_5_en-GB,5,,FHRS,5
-231268,Masefield Road,Northfleet,Kent,,Principal Catering @ Painters Ash Primary School,School/college/university,7845,0,,102624,0,,51.42519600000000,341101401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33840600000000,DA11 8EL,2014-05-20,fhrs_5_en-GB,5,,FHRS,0
-231269,Mackenzie Way,Gravesend,Kent,,Principal Catering @ Singlewell Primary School,School/college/university,7845,0,,70848,0,,51.41184200000000,160100200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38390200000000,DA12 5TY,2014-04-25,fhrs_5_en-GB,5,,FHRS,0
-231270,Rochester Road,Gravesend,Kent,,Principal Catering @ St Johns Primary School,School/college/university,7845,5,,75950,0,,51.43423200000000,178400600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38495300000000,DA12 2JW,2014-04-25,fhrs_5_en-GB,5,,FHRS,5
-231271,Cecil Road,Gravesend,Kent,,Principal Catering Consultants @ Cecil Road Primary School,School/college/university,7845,0,,53991,0,,51.43342400000000,121610001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35642300000000,DA11 7BT,2014-11-27,fhrs_5_en-GB,5,,FHRS,0
-231272,161 Parrock Street,Gravesend,Kent,,Priscilla's Pantry,Restaurant/Cafe/Canteen,1,,,623267,,,51.44001900000000,171316107,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-02-18,fhrs_5_en-GB,5,,FHRS,
-231273,Gordon Promenade,Gordon Place,Gravesend,Kent,Promanade Cafe,Restaurant/Cafe/Canteen,1,5,,64441,0,,51.44441600000000,143200001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37680600000000,DA12 2BS,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-231274,40 Arthur Street,Gravesend,Kent,,Punjab Meat Market,Retailers - supermarkets/hypermarkets,7840,5,,50670,0,,51.43857000000000,113004004,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36568100000000,DA11 0PR,2014-07-08,fhrs_5_en-GB,5,,FHRS,5
-231275,14 Shamrock Road,Gravesend,Kent,,Quich'licious,Other catering premises,7841,5,,734331,0,,51.43709900000000,186001400,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39428200000000,DA12 2LH,2014-09-05,fhrs_5_en-GB,5,,FHRS,0
-231276,158 Parrock Street,Gravesend,Kent,,R & M Italiano,Restaurant/Cafe/Canteen,1,5,,676570,5,,51.44001900000000,171215800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-06-25,fhrs_5_en-GB,5,,FHRS,0
-231277,,,,,Rai Dairies,Retailers - other,4613,5,,439537,5,,,314304501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-08-13,fhrs_5_en-GB,5,,FHRS,5
-231278,Sole Street,Gravesend,Kent,,Railway Inn,Pub/bar/nightclub,7843,10,,631884,0,,51.38317400000000,517805806,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37801400000000,DA13 0XY,2014-01-20,fhrs_4_en-GB,4,,FHRS,10
-231279,Wrotham Road,Meopham,Gravesend,Kent,Railway Tavern,Pub/bar/nightclub,7843,10,,129863,5,,51.38482000000000,608501601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35750400000000,DA13 0HP,2013-08-27,fhrs_4_en-GB,4,,FHRS,5
-231280,68 New Road,Gravesend,Kent,,Rainbow,Takeaway/sandwich shop,7844,5,,310161,5,,51.44234700000000,165106807,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36568900000000,DA11 0AE,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-231281,12 Milton Road,Gravesend,Kent,,Rasoighar,Restaurant/Cafe/Canteen,1,10,,71839,0,,51.44213700000000,163301200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37165100000000,DA12 2RE,2013-11-04,fhrs_4_en-GB,4,,FHRS,10
-231282,Red Lion Public House,2 Crete Hall Road,Northfleet,Kent,Red Lion Burger Van,Mobile caterer,7846,10,,99981,10,,,319100202,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-07-29,fhrs_3_en-GB,3,,FHRS,5
-231283,2 Crete Hall Road,Northfleet,Kent,,Red Lion Public House,Pub/bar/nightclub,7843,5,,99980,10,,51.44397000000000,319100201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34758300000000,DA11 9AA,2013-07-23,fhrs_3_en-GB,3,,FHRS,10
-231284,Thong Lane,Gravesend,Kent,,Regans Bar,Pub/bar/nightclub,7843,5,,80011,5,,51.42026800000000,193100003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39848000000000,DA12 4LG,2013-09-17,fhrs_4_en-GB,4,,FHRS,10
-231285,4 Queen Street,Gravesend,Kent,,Reliance Fish Restaurant,Restaurant/Cafe/Canteen,1,5,,75265,5,,51.44277100000000,175300401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37143900000000,DA12 2EE,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-231286,Town Pier,Gravesend,Kent,,Riva Bar & Restaurant,Pub/bar/nightclub,7843,20,,83068,5,,51.44499700000000,202308704,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36939500000000,DA11 0BJ,2013-03-14,fhrs_1_en-GB,1,,FHRS,5
-231287,16 Gateway Parade,Whinfell Way,Gravesend,Kent,Riverview Fish Bar,Takeaway/sandwich shop,7844,5,,63776,5,,51.41835100000000,140801601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39547400000000,DA12 4RU,2014-02-11,fhrs_4_en-GB,4,,FHRS,10
-231288,Cimba Wood,Gravesend,Kent,,Riverview Junior School,School/college/university,7845,0,,55287,0,,51.41981300000000,124806405,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38992700000000,DA12 4SD,2013-10-18,fhrs_5_en-GB,5,,FHRS,0
-231289,181 Windmill Street,Gravesend,Kent,,Robert Pocock Public House,Pub/bar/nightclub,7843,0,,83716,0,,51.44173900000000,205818108,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36909700000000,DA12 1AH,2013-11-13,fhrs_5_en-GB,5,,FHRS,0
-231290,Park Pale,Cobham,Kent,,Rochester & Cobham Golf Club (Bar Area),Pub/bar/nightclub,7843,0,,127432,0,,51.16965866088870,567200001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.75830000638962,ME2 3UL,2013-08-06,fhrs_5_en-GB,5,,FHRS,0
-231291,Park Pale,Cobham,Kent,,Rochester And Cobham Park Golf Club  (Catering Facilities),Restaurant/Cafe/Canteen,1,0,,127431,0,,51.16965866088870,567200000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.75830000638962,ME2 3UL,2013-08-06,fhrs_5_en-GB,5,,FHRS,5
-231292,56 Pelham Road,Gravesend,Kent,,Rosebank,Hospitals/Childcare/Caring Premises,5,0,,74486,0,,51.43820200000000,171805601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36032400000000,DA11 0HZ,2013-07-16,fhrs_5_en-GB,5,,FHRS,0
-231293,5 - 7 St James Road,Gravesend,Kent,,Royal Cash & Carry,Retailers - supermarkets/hypermarkets,7840,,,647133,,,51.44126100000000,171400501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36203600000000,DA11 0HF,2014-06-19,fhrs_5_en-GB,5,,FHRS,
-231294,25 Darnley Road,Gravesend,Kent,,RS Express,Retailers - supermarkets/hypermarkets,7840,0,,59004,0,,51.44089600000000,130402503,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36495200000000,DA11 0RZ,2014-12-09,fhrs_5_en-GB,5,,FHRS,0
-231295,58 Pelham Road,Gravesend,Kent,,Ruby Lodge,Hospitals/Childcare/Caring Premises,5,0,,74487,0,,51.43820200000000,171805800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36032400000000,DA11 0HZ,2012-08-21,fhrs_5_en-GB,5,,FHRS,5
-231296,20 Lawrance Square,Haynes Road,Northfleet,Gravesend,Ruby Murry,Takeaway/sandwich shop,7844,5,,728139,5,,51.42752900000000,337702003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35706900000000,DA11 7HW,2014-08-05,fhrs_5_en-GB,5,,FHRS,5
-231297,87 West Street,Gravesend,Kent,,Rum Puncheon,Pub/bar/nightclub,7843,5,,83069,5,,51.44500600000000,202308708,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36851800000000,DA11 0BL,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-231298,Unit J1e,Springhead Enterprise Park,Northfleet,Gravesend,Sadie's Cafe,Restaurant/Cafe/Canteen,1,5,,548316,0,,51.43594800000000,355208209,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33140100000000,DA11 8HL,2014-09-24,fhrs_5_en-GB,5,,FHRS,0
-231299,29 A The Hill,Gravesend,Kent,,Saffron Lounge,Restaurant/Cafe/Canteen,1,5,,101572,5,,51.44340200000000,332700008,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33641500000000,DA11 9EX,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-231300,Wingfield Bank,Northfleet,Kent,,Sainsburys Supermarket,Retailers - supermarkets/hypermarkets,7840,0,,105622,0,,51.16965866088867,363500001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.75830000638962,DA11 8JH,2013-10-03,fhrs_5_en-GB,5,,FHRS,0
-231301,8 The Hive,Northfleet,Gravesend,Kent,Sallys Fish Bar,Takeaway/sandwich shop,7844,5,,682388,0,,51.44625600000000,333300801,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32858700000000,DA11 9DE,2014-07-02,fhrs_5_en-GB,5,,FHRS,5
-231302,,,,,Sam Ice Cream - LY55 NLD,Retailers - other,4613,5,,74484,0,,,171804401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-06-29,fhrs_5_en-GB,5,,FHRS,0
-231303,7 Milton Road,Gravesend,Kent,,Sanchos,Takeaway/sandwich shop,7844,5,,71836,5,,51.44213700000000,163300701,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37165100000000,DA12 2RE,2014-04-22,fhrs_5_en-GB,5,,FHRS,5
-231304,145 Parrock Street,Gravesend,Kent,,Saprano's Pizza,Restaurant/Cafe/Canteen,1,,,74357,,,51.43920800000000,171314506,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37151300000000,DA12 1EY,2014-06-17,fhrs_4_en-GB,4,,FHRS,
-231305,3 The Parade,Valley Drive,Gravesend,Kent,Save On,Retailers - supermarkets/hypermarkets,7840,5,,80962,10,,51.42852700000000,196907810,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38508700000000,DA12 5RT,2014-12-08,fhrs_4_en-GB,4,,FHRS,0
-231306,Pear Tree Lane,Shorne,Kent,,See Ho Public House,Pub/bar/nightclub,7843,10,,127080,10,,51.40666300000000,561602702,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.43974200000000,DA12 3JX,2013-08-27,fhrs_3_en-GB,3,,FHRS,10
-231307,Gravesend Railway Station,Rathmore Road,Gravesend,Kent,Select Services Shop,Retailers - supermarkets/hypermarkets,7840,5,,75689,5,,51.44098700000000,177200001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36534600000000,DA11 0HP,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-231308,Community Centre,Worcester Close,Istead Rise,Gravesend,Senior Lunch Club,Other catering premises,7841,5,,105692,5,,51.40706600000000,364000000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35232100000000,DA13 9LB,2013-09-16,fhrs_5_en-GB,5,,FHRS,5
-231309,166 Parrock Street,Gravesend,Kent,,Shapla,Restaurant/Cafe/Canteen,1,5,,74363,5,,51.44001900000000,171316602,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-03-18,fhrs_5_en-GB,5,,FHRS,5
-231310,179 Rochester Road,Gravesend,Kent,,Shell Chalk,Retailers - supermarkets/hypermarkets,7840,5,,667971,5,,51.43173200000000,178417900,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39595900000000,DA12 4TN,2014-05-27,fhrs_4_en-GB,4,,FHRS,10
-231311,108 - 110 London Road,,Northfleet,Gravesend,Shere Punjab Of Kent,Restaurant/Cafe/Canteen,1,10,,102298,10,,51.44245500000000,338900109,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35500200000000,DA11 9LZ,2013-05-20,fhrs_3_en-GB,3,,FHRS,10
-231312,171 High Street,Northfleet,Gravesend,Kent,Shergill Food & Wine Ltd,Retailers - supermarkets/hypermarkets,7840,5,,731332,5,,51.44600400000000,332517102,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32631500000000,DA11 9HG,2014-12-29,fhrs_5_en-GB,5,,FHRS,5
-231313,54 Old Road East,Gravesend,Kent,,Sheringham House,Hospitals/Childcare/Caring Premises,5,0,,73256,0,,51.43154200000000,168005405,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37747500000000,DA12 1NR,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-231314,The River Bank,Mark Lane,Gravesend,Kent,Ship & Lobster Public House,Pub/bar/nightclub,7843,5,,75902,5,,51.44219100000000,178100500,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39728300000000,DA12 2QB,2012-03-28,fhrs_5_en-GB,5,,FHRS,5
-231315,Cob Drive,Shorne,Kent,,Shorne Primary School,School/college/university,7845,0,,126330,5,,51.41525700000000,552800000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.43171400000000,DA12 3DU,2013-09-16,fhrs_5_en-GB,5,,FHRS,0
-231316,13A The Street,Shorne,Kent,,Shorne Village Store,Retailers - supermarkets/hypermarkets,7840,5,,127271,5,,51.41418900000000,564401301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.43072300000000,DA12 3EA,2014-08-04,fhrs_5_en-GB,5,,FHRS,5
-231317,Shornewood Country Park,Brewers Road,Shorne,Gravesend,Shorne Wood Country Park Visitors Centre,Restaurant/Cafe/Canteen,1,0,,126231,0,,51.40423300000000,551200101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.41943900000000,DA12 3HX,2013-03-18,fhrs_5_en-GB,5,,FHRS,0
-231318,Riverside Centre,Dickens Road,Gravesend,Kent,Silverstorm Cafe,Restaurant/Cafe/Canteen,1,0,,637491,0,,51.43501600000000,551900101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39190000000000,DA12 2JY,2014-01-20,fhrs_5_en-GB,5,,FHRS,5
-231319,,,,,Simone's Boutique Bakery,Other catering premises,7841,5,,462552,5,,,109000401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-06-19,fhrs_5_en-GB,5,,FHRS,5
-231320,,,,,Simply Lunch,Other catering premises,7841,0,,510004,0,,,187603101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-02-12,fhrs_5_en-GB,5,,FHRS,0
-231321,Kiosk 1,Kempthorne Street,Gravesend,Kent,Simply Spuds,Restaurant/Cafe/Canteen,1,0,,68225,5,,51.44299900000000,152500101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36683100000000,DA11 0TA,2014-07-31,fhrs_5_en-GB,5,,FHRS,0
-231322,58 Singlewell Road,Gravesend,Kent,,Singlewell Food & Wine,Retailers - supermarkets/hypermarkets,7840,5,,78529,5,,51.43181800000000,187005805,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36914500000000,DA11 7PW,2012-10-31,fhrs_5_en-GB,5,,FHRS,5
-231323,129 Singlewell Road,Gravesend,Kent,,Singlewell Road Post Office,Retailers - supermarkets/hypermarkets,7840,5,,78534,5,,51.42828200000000,187012902,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36746600000000,DA11 7QA,2014-08-04,fhrs_5_en-GB,5,,FHRS,5
-231324,Gravesend Road,Higham,Kent,,Sir John Falstaff Public House,Pub/bar/nightclub,7843,0,,124403,0,,51.41114800000000,529102702,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45879200000000,ME3 7NZ,2014-01-24,fhrs_5_en-GB,5,,FHRS,0
-231325,26 Old Perry Street,Northfleet,Kent,,Six Bells Inn & Restaurant,Pub/bar/nightclub,7843,5,,103152,0,,51.43379900000000,345502603,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35119000000000,DA11 8RE,2013-11-19,fhrs_5_en-GB,5,,FHRS,0
-231326,24 Pelham Road South,Gravesend,Kent,,Smart Mini Maket,Retailers - supermarkets/hypermarkets,7840,5,,517064,5,,51.43482100000000,171902401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35449500000000,DA11 8QR,2013-02-20,fhrs_5_en-GB,5,,FHRS,5
-231327,22/23 The Overcliffe,Gravesend,Kent,,Smart Start Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,73621,0,,51.44212900000000,169502302,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35865500000000,DA11 0EH,2014-05-02,fhrs_5_en-GB,5,,FHRS,0
-231328,8 Manor Road,Gravesend,Kent,,Snack Attack,Restaurant/Cafe/Canteen,1,5,,70994,5,,51.44128500000000,160600800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37018200000000,DA12 1AA,2015-01-13,fhrs_5_en-GB,5,,FHRS,5
-231329,Unit C,Thames Way,Gravesend,Kent,Snax R Us,Mobile caterer,7846,5,,104658,5,,51.44424400000000,357500301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36040500000000,DA11 0DQ,2014-06-25,fhrs_4_en-GB,4,,FHRS,10
-231330,Colyer Road,Northfleet,Gravesend,Kent,Sodexo Ltd @ Northfleet Technology College,School/college/university,7845,0,,99806,0,,51.43786700000000,317500000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33904500000000,DA11 8BN,2014-01-16,fhrs_5_en-GB,5,,FHRS,0
-231331,Rochester Road,Gravesend,Kent,,Sodexo Ltd @ St Johns Roman Catholic School,School/college/university,7845,0,,75949,0,,51.43423200000000,178400000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38495300000000,DA12 2JW,2013-09-09,fhrs_5_en-GB,5,,FHRS,0
-231332,Thong Lane,Gravesend,Kent,,Sodexo Ltd @ Thamesview School,School/college/university,7845,0,,124400,0,,51.42220800000000,529100000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39859600000000,DA12 4LF,2014-01-31,fhrs_5_en-GB,5,,FHRS,0
-231333,Thong Lane,Gravesend,Kent,,Southern Valley Golf Club Clubhouse,Pub/bar/nightclub,7843,5,,80012,0,,51.41916400000000,193100007,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.40449200000000,DA12 4LT,2014-12-10,fhrs_5_en-GB,5,,FHRS,5
-231334,1 Parrock Road,Gravesend,Kent,,Southhill Bank,Hotel/bed & breakfast/guest house,7842,5,,74327,0,,51.43520500000000,171200100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37468700000000,DA12 1PY,2013-03-18,fhrs_5_en-GB,5,,FHRS,5
-231335,Wrotham Road,Meopham,Gravesend,Kent,Spar,Retailers - supermarkets/hypermarkets,7840,5,,129880,5,,51.34125000000000,608576942,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34576100000000,DA13 0RQ,2014-04-03,fhrs_5_en-GB,5,,FHRS,0
-231336,100 Old Road West,Gravesend,Kent,,Spar Service Station,Retailers - supermarkets/hypermarkets,7840,0,,73286,0,,51.43459100000000,168110001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36054000000000,DA11 0LR,2013-08-19,fhrs_5_en-GB,5,,FHRS,0
-231337,8 The Parade Wrotham Road,Meopham,Kent,,Spar Supermarket,Retailers - supermarkets/hypermarkets,7840,0,,129870,0,,51.37592000000000,608528108,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36091200000000,DA13 0JL,2013-10-04,fhrs_5_en-GB,5,,FHRS,0
-231338,7 Perry Street,Northfleet,Kent,,Spend + Save,Retailers - supermarkets/hypermarkets,7840,5,,103396,0,,51.43395900000000,347300700,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35308300000000,DA11 8RA,2014-07-23,fhrs_5_en-GB,5,,FHRS,5
-231339,2 Peacock Street,Gravesend,Kent,,Spices,Retailers - supermarkets/hypermarkets,7840,5,,74434,5,,51.44073200000000,171600201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37396700000000,DA12 1EE,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-231340,,,,,Spiderman F217 SMP,Retailers - other,4613,0,,50029,0,,,111207902,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-05-13,fhrs_5_en-GB,5,,FHRS,0
-231341,44 Cedar Avenue,Gravesend,Kent,,Sports Cafe,Restaurant/Cafe/Canteen,1,,,54063,,,51.42070600000000,121804409,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37520100000000,DA12 5JS,2014-10-06,fhrs_5_en-GB,5,,FHRS,
-231342,Woodville Halls,Windmill Street,Gravesend,Kent,Spotlites Brasserie,Restaurant/Cafe/Canteen,1,5,,83710,5,,51.44005100000000,205815806,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36850600000000,DA12 1AU,2014-03-11,fhrs_5_en-GB,5,,FHRS,5
-231343,Gurdawara Temple,Guru Nanak Marg,Saddington Street,Gravesend,Sri Guru Nanak Darbar Gurdwara,Other catering premises,7841,5,,77061,0,,51.43923000000000,180200000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37709800000000,DA12 1AG,2012-03-21,fhrs_5_en-GB,5,,FHRS,5
-231344,Meadow Road,Gravesend,Kent,,St Georges Church Of England Academy,School/college/university,7845,0,,71347,0,,51.42845900000000,161803301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36136100000000,DA11 7LS,2013-06-04,fhrs_5_en-GB,5,,FHRS,0
-231345,18 St Georges Square,Gravesend,Kent,,St Georges Restaurant,Restaurant/Cafe/Canteen,1,5,,77538,0,,51.44074200000000,182301802,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37301700000000,DA12 1DU,2014-01-21,fhrs_5_en-GB,5,,FHRS,0
-231346,46 Old Road East,Gravesend,Kent,,St Joseph Convent Prep School,School/college/university,7845,5,,73255,0,,51.43089200000000,168004604,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38026100000000,DA12 1NY,2013-03-05,fhrs_5_en-GB,5,,FHRS,5
-231347,103 Sun Lane,Gravesend,Kent,,Standons Newsagents,Retailers - supermarkets/hypermarkets,7840,5,,78974,5,,51.42707600000000,189610300,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37640900000000,DA12 5HW,2013-07-19,fhrs_5_en-GB,5,,FHRS,5
-231348,167 Parrock Street,Gravesend,Kent,,Star Grill,Takeaway/sandwich shop,7844,0,,74364,0,,51.44001900000000,171316701,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-09-18,fhrs_5_en-GB,5,,FHRS,5
-231349,Station Approach,Meopham,Gravesend,Kent,Stone Willy's Pizza,Takeaway/sandwich shop,7844,5,,129860,5,,51.38603000000000,608500012,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36219400000000,DA13 0LT,2013-10-29,fhrs_5_en-GB,5,,FHRS,0
-231350,43 High Street,Gravesend,Kent,,Subway,Restaurant/Cafe/Canteen,1,5,,65516,0,,51.44310700000000,147204343,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36905300000000,DA11 0AY,2014-04-23,fhrs_5_en-GB,5,,FHRS,5
-231351,14 Dorchester Road,Gravesend,Kent,,Sue's Home Made Cupcakes,Other catering premises,7841,10,,548314,5,,51.42676600000000,280201401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38101100000000,DA12 5QU,2013-04-17,fhrs_4_en-GB,4,,FHRS,5
-231352,6 Windmill Street,Gravesend,Kent,,Sukhothai,Restaurant/Cafe/Canteen,1,0,,83700,0,,51.44166600000000,205800600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36961100000000,DA12 1AD,2013-12-30,fhrs_5_en-GB,5,,FHRS,5
-231353,71 Havelock Road,Gravesend,Kent,,Sumathy Convenience Store,Retailers - supermarkets/hypermarkets,7840,5,,65070,5,,51.43648000000000,145707107,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35383200000000,DA11 0JL,2014-08-27,fhrs_5_en-GB,5,,FHRS,0
-231354,3 Sunnyside Windmill Street,Gravesend,Kent,,Sunnyside Guest House,Hotel/bed & breakfast/guest house,7842,5,,83708,5,,51.43444900000000,205809209,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36981300000000,DA12 1LG,2014-06-02,fhrs_5_en-GB,5,,FHRS,5
-231355,,,,,Susan Gurr,Other catering premises,7841,5,,456826,5,,,117013001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2012-10-01,fhrs_5_en-GB,5,,FHRS,5
-231356,,,,,Suzi's Cakes,Other catering premises,7841,0,,201416,0,,,123405101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2015-01-15,fhrs_5_en-GB,5,,FHRS,0
-231357,,,,,Sweet Cake Delights,Other catering premises,7841,5,,73293,0,,,168122000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-07-17,fhrs_5_en-GB,5,,FHRS,0
-231358,9-10 Arthur Street,Gravesend,Kent,,T. Dass & Sons,Retailers - supermarkets/hypermarkets,7840,0,,50669,0,,51.43835600000000,113000901,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36559800000000,DA11 0PP,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-231359,6 School Lane,Higham,Kent,,Taste House Chinese Takeaway,Takeaway/sandwich shop,7844,5,,125112,5,,51.41630200000000,536100600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45961500000000,ME3 7AT,2013-03-13,fhrs_5_en-GB,5,,FHRS,5
-231360,30 Queen Street,Gravesend,Kent,,Taste Of China,Restaurant/Cafe/Canteen,1,5,,75270,5,,51.44277100000000,175303203,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37143900000000,DA12 2EE,2014-09-10,fhrs_5_en-GB,5,,FHRS,5
-231361,68 Granville Road,Gravesend,Kent,,Tasty House,Takeaway/sandwich shop,7844,10,,64597,0,,51.43689200000000,143806801,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35435700000000,DA11 0JS,2015-01-14,fhrs_4_en-GB,4,,FHRS,10
-231362,46 The Terrace,Gravesend,Kent,,Taverna Food And Wine,Retailers - supermarkets/hypermarkets,7840,5,,571525,0,,51.44352900000000,191604610,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37439900000000,DA12 2BJ,2013-07-24,fhrs_5_en-GB,5,,FHRS,0
-231363,The Painters Ash Car Park,25 Dene Holm Road,Northfleet,Gravesend,Taylors Shellfish,Mobile caterer,7846,10,,647135,10,,51.42668500000000,321302504,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33907200000000,DA11 8LF,2013-07-05,fhrs_4_en-GB,4,,FHRS,0
-231364,51 - 53 High Street,Gravesend,Kent,,Terry Discount Store,Retailers - supermarkets/hypermarkets,7840,5,,452677,0,,51.44310700000000,147205153,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36905300000000,DA11 0AY,2014-02-13,fhrs_5_en-GB,5,,FHRS,5
-231365,4 - 12 Perry Street,Northfleet,Gravesend,Kent,Tesco,Retailers - supermarkets/hypermarkets,7840,0,,103394,0,,51.43407400000000,347300401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35225500000000,DA11 8QU,2013-05-29,fhrs_5_en-GB,5,,FHRS,0
-231366,The Parade,Wrotham Road,Meopham,Gravesend,Tesco,Retailers - supermarkets/hypermarkets,7840,0,,612380,0,,51.37592000000000,196900001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36091200000000,DA13 0JL,2013-11-25,fhrs_5_en-GB,5,,FHRS,0
-231367,Whinfell Way,Gravesend,Kent,,Tesco,Retailers - supermarkets/hypermarkets,7840,0,,565897,0,,51.41840300000000,203610001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39465700000000,DA12 4SF,2013-06-26,fhrs_5_en-GB,5,,FHRS,0
-231368,Whitehill Road,Gravesend,Kent,,Tesco,Retailers - supermarkets/hypermarkets,7840,0,,83376,0,,51.42438400000000,203900000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37962100000000,DA12 5LS,2014-07-03,fhrs_5_en-GB,5,,FHRS,0
-231369,Valley Drive,Gravesend,Kent,,Tesco Express,Retailers - supermarkets/hypermarkets,7840,0,,80960,0,,51.42852700000000,196907801,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38508700000000,DA12 5RT,2012-07-03,fhrs_5_en-GB,5,,FHRS,0
-231370,72 - 73 New Road,Gravesend,Kent,,Tesco Metro,Retailers - supermarkets/hypermarkets,7840,0,,72503,0,,51.44227900000000,165107207,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36775800000000,DA11 0AF,2014-02-15,fhrs_5_en-GB,5,,FHRS,5
-231371,Thames House,29 Royal Pier Road,Gravesend,Kent,Thames House,Hotel/bed & breakfast/guest house,7842,10,,76180,5,,51.44436300000000,179200000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37365100000000,DA12 2BD,2015-01-15,fhrs_4_en-GB,4,,FHRS,5
-231372,76 Central Avenue,Gravesend,Kent,,The Ascot Arms,Pub/bar/nightclub,7843,5,,54152,5,,51.42707600000000,122007607,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37640900000000,DA12 5HW,2013-02-18,fhrs_5_en-GB,5,,FHRS,5
-231373,26 King Street,Gravesend,Kent,,The Bench Cafe,Restaurant/Cafe/Canteen,1,5,,557868,5,,51.44207400000000,152900026,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37030900000000,DA12 2DU,2013-05-21,fhrs_5_en-GB,5,,FHRS,5
-231374,Trosley Country Park,Waterlow Road,Meopham,Gravesend,The Bluebell Cafe,Restaurant/Cafe/Canteen,1,5,,129942,5,,51.32519400000000,609600000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34185600000000,DA13 0SG,2014-01-13,fhrs_5_en-GB,5,,FHRS,5
-231375,168 Parrock Street,Gravesend,Kent,,The Brothers Fish Bar,Takeaway/sandwich shop,7844,5,,705101,5,,51.44001900000000,171316801,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-06-01,fhrs_5_en-GB,5,,FHRS,5
-231376,Canal Road,Gravesend,Kent,,The Canal Tavern,Pub/bar/nightclub,7843,5,,53768,0,,51.44228800000000,121000101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38415000000000,DA12 2RS,2014-10-23,fhrs_5_en-GB,5,,FHRS,0
-231377,Wrotham Road,Meopham,Kent,,The Chestnuts Care Home,Hospitals/Childcare/Caring Premises,5,0,,129866,0,,51.38674600000000,608504204,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35478500000000,DA13 9AH,2013-11-13,fhrs_5_en-GB,5,,FHRS,0
-231378,33 Windmill Street,Gravesend,Kent,,The China Garden,Restaurant/Cafe/Canteen,1,5,,83705,5,,51.41743700000000,205803301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.41015400000000,DA12 2AS,2015-01-29,fhrs_5_en-GB,5,,FHRS,5
-231379,77 Windmill Street,Gravesend,Kent,,The Clarence,Pub/bar/nightclub,7843,5,,375460,0,,51.43729200000000,205807708,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36932700000000,DA12 1BN,2012-05-23,fhrs_5_en-GB,5,,FHRS,5
-231380,Henley Street,Luddesdown,Kent,,The Cock Inn,Pub/bar/nightclub,7843,5,,125673,0,,51.37870200000000,542000700,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39443800000000,DA13 0XB,2013-10-16,fhrs_5_en-GB,5,,FHRS,5
-231381,7 Manor Road,Gravesend,Kent,,The Compass Ale House,Pub/bar/nightclub,7843,5,,724137,5,,51.44128500000000,160600702,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37018200000000,DA12 1AA,2014-12-09,fhrs_5_en-GB,5,,FHRS,0
-231382,12 Gravesend Road,Higham,Kent,,The Copperfield,Pub/bar/nightclub,7843,0,,126628,0,,51.41919500000000,557201201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.43740400000000,DA12 3JW,2013-09-18,fhrs_5_en-GB,5,,FHRS,5
-231383,47 Arthur Street,Gravesend,Kent,,The Cricketers,Pub/bar/nightclub,7843,5,,707668,0,,51.43857000000000,113004706,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36568100000000,DA11 0PR,2014-10-02,fhrs_5_en-GB,5,,FHRS,5
-231384,Wrotham Road,Meopham,Kent,,The Cricketers Inn,Pub/bar/nightclub,7843,5,,129877,5,,51.36014500000000,608555105,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35199800000000,DA13 0QA,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-231385,29 Perry Street,Northfleet,Kent,,The Crown Public House,Pub/bar/nightclub,7843,5,,103402,5,,51.43395900000000,347302904,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35308300000000,DA11 8RA,2013-05-23,fhrs_5_en-GB,5,,FHRS,5
-231386,,,,,The Cute Cupcake Company,Other catering premises,7841,0,,99833,0,,,317802700,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2011-11-14,fhrs_5_en-GB,5,,FHRS,0
-231387,40 The Street,Cobham,Kent,,The Darnley Arms,Pub/bar/nightclub,7843,5,,123368,10,,51.39047000000000,518204004,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39948000000000,DA12 3BZ,2014-04-15,fhrs_4_en-GB,4,,FHRS,5
-231388,9 Trafalgar Road,Gravesend,Kent,,The Darnley Arms,Pub/bar/nightclub,7843,10,,80311,5,,51.43738200000000,194300900,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36619500000000,DA11 0QA,2014-06-19,fhrs_4_en-GB,4,,FHRS,5
-231389,6 Barrack Row,Gravesend,Kent,,The Early Morning Cafe,Restaurant/Cafe/Canteen,1,0,,51447,0,,51.44193200000000,115200600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36578300000000,DA11 0RT,2014-05-19,fhrs_5_en-GB,5,,FHRS,0
-231390,24 Old Road East,Gravesend,Kent,,The Echo Public House,Pub/bar/nightclub,7843,5,,73254,5,,51.43154200000000,168002402,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37747500000000,DA12 1NR,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-231391,158 Milton Road,Gravesend,Kent,,The Eggfree Cake Box,Retailers - supermarkets/hypermarkets,7840,10,,198130,10,,51.44162700000000,163315800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37194100000000,DA12 2RG,2014-07-28,fhrs_3_en-GB,3,,FHRS,5
-231392,106 London Road,Northfleet,Kent,,The Elephants Head,Pub/bar/nightclub,7843,5,,102306,0,,51.44245500000000,338910600,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35500200000000,DA11 9LZ,2015-01-26,fhrs_5_en-GB,5,,FHRS,0
-231393,150 Parrock Street,Gravesend,Kent,,The Forresters Arms,Pub/bar/nightclub,7843,5,,74358,5,,51.44001900000000,171315005,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-12-30,fhrs_4_en-GB,4,,FHRS,10
-231394,North West Kent College,Lower Higham Road,Gravesend,Kent,The Gallery Restaurant,School/college/university,7845,0,,60235,0,,51.43242600000000,131600002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39629700000000,DA12 2LY,2014-06-26,fhrs_5_en-GB,5,,FHRS,0
-231395,66 West Street,Gravesend,Kent,,The Gandhi,Restaurant/Cafe/Canteen,1,5,,83067,5,,51.44534800000000,202306606,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36673700000000,DA11 0BE,2013-09-30,fhrs_5_en-GB,5,,FHRS,5
-231396,2 Forge Lane,Higham,Rochester,Kent,The Gardeners Arms,Pub/bar/nightclub,7843,5,,124292,0,,51.41502600000000,528100201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45912900000000,ME3 7AS,2015-01-08,fhrs_5_en-GB,5,,FHRS,5
-231397,38 Queen Street,Gravesend,Kent,,The George,Pub/bar/nightclub,7843,5,,75271,0,,51.44277100000000,175303804,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37143900000000,DA12 2EE,2014-08-27,fhrs_5_en-GB,5,,FHRS,5
-231398,The George Inn,Hever Court Road,Gravesend,Kent,The George PH & The Carvery,Pub/bar/nightclub,7843,5,,65431,5,,51.41141800000000,147011401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37687700000000,DA12 5UQ,2014-03-13,fhrs_4_en-GB,4,,FHRS,10
-231399,Luddesdown Road,Luddesdown,Kent,,The Golden Lion,Pub/bar/nightclub,7843,10,,125792,5,,51.37200000000000,543500200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39894500000000,DA13 0XE,2013-12-06,fhrs_4_en-GB,4,,FHRS,5
-231400,23-25 King Street,Gravesend,Kent,,The Goose,Pub/bar/nightclub,7843,5,,72511,5,,51.44207400000000,165123251,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37030900000000,DA12 2DU,2013-10-22,fhrs_5_en-GB,5,,FHRS,5
-231401,1 The Hill,Northfleet,Kent,,The Granby Hotel,Hotel/bed & breakfast/guest house,7842,5,,101573,5,,51.44212200000000,332700100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33658000000000,DA11 9ES,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-231402,153 Milton Road,Gravesend,Kent,,The Grapes Bar Cafe,Pub/bar/nightclub,7843,0,,71856,0,,51.44162700000000,163315306,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37194100000000,DA12 2RG,2014-04-29,fhrs_5_en-GB,5,,FHRS,0
-231403,42 The Grove,Gravesend,Kent,,The Grove Nightclub,Pub/bar/nightclub,7843,0,,64658,0,,51.44120200000000,144104204,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37253700000000,DA12 1DP,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-231404,8  School Lane,Higham,Kent,,The Higham Oven Bake,Takeaway/sandwich shop,7844,0,,125110,0,,51.41630200000000,536100109,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45961500000000,ME3 7AT,2015-01-27,fhrs_5_en-GB,5,,FHRS,0
-231405,8 The Hill,Northfleet,Kent,,The Hill Tandoori,Takeaway/sandwich shop,7844,10,,101575,10,,51.44212200000000,332700800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33658000000000,DA11 9ES,2014-03-12,fhrs_3_en-GB,3,,FHRS,10
-231406,86 - 90 Darnley Road,Gravesend,Kent,,The Hollies,Hospitals/Childcare/Caring Premises,5,0,,59012,0,,51.44005200000000,130408608,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36444800000000,DA11 0SD,2015-01-29,fhrs_5_en-GB,5,,FHRS,0
-231407,1 Love Lane,Wellington Street,Gravesend,Kent,The Jolly Drayman,Pub/bar/nightclub,7843,5,,70045,5,,51.44065400000000,158400100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37472500000000,DA12 1JA,2015-01-06,fhrs_4_en-GB,4,,FHRS,10
-231408,20 High Street,Gravesend,Kent,,The Kent,Restaurant/Cafe/Canteen,1,0,,65513,0,,51.44378700000000,147202001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36964900000000,DA11 0BA,2012-08-30,fhrs_5_en-GB,5,,FHRS,0
-231409,75 School Lane,Higham,Kent,,The Knowle Country House Restaurant,Restaurant/Cafe/Canteen,1,5,,125114,5,,51.41995400000000,536107507,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.46215500000000,ME3 7HP,2014-06-20,fhrs_5_en-GB,5,,FHRS,5
-231410,54 The Street,Cobham,Kent,,The Leather Bottle,Pub/bar/nightclub,7843,5,,123369,5,,51.39047000000000,518205405,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39948000000000,DA12 3BZ,2013-11-20,fhrs_5_en-GB,5,,FHRS,5
-231411,2 Hermitage Road,Higham,Rochester,Kent,The Local Food Store,Retailers - supermarkets/hypermarkets,7840,0,,693495,0,,51.41558300000000,530300201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.46005100000000,ME3 7DA,2014-08-07,fhrs_5_en-GB,5,,FHRS,0
-231412,2 The Alma Leander Drive,Gravesend,Kent,,The Lotus House,Takeaway/sandwich shop,7844,5,,50090,5,,51.41836600000000,111400201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39385000000000,DA12 4NG,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-231413,7 Windmill Street,Gravesend,Kent,,The Marlin Plaice,Takeaway/sandwich shop,7844,5,,719806,0,,51.44166600000000,205800702,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36961100000000,DA12 1AD,2014-11-26,fhrs_5_en-GB,5,,FHRS,5
-231414,70 High Street,Gravesend,Kent,,The Meeting Place,Restaurant/Cafe/Canteen,1,5,,565896,5,,51.44445900000000,147207002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36935300000000,DA11 0BH,2015-01-23,fhrs_5_en-GB,5,,FHRS,5
-231415,Pier Hotel,Pier House,2 Town Pier,Gravesend,The Middle Eight,Pub/bar/nightclub,7843,5,,433155,0,,51.44499700000000,194000101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36939500000000,DA11 0BJ,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-231416,1 Milton Road,Gravesend,Kent,,The New Inn,Pub/bar/nightclub,7843,10,,734330,10,,51.44213700000000,163300102,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37165100000000,DA12 2RE,2015-01-21,fhrs_3_en-GB,3,,FHRS,10
-231417,25 Dene Holm Road,Northfleet,Kent,,The Painters Ash Public House,Pub/bar/nightclub,7843,10,,100255,0,,51.42668500000000,321302502,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33907200000000,DA11 8LF,2013-07-08,fhrs_4_en-GB,4,,FHRS,10
-231418,10 Lawrance Square,Northfleet,Kent,,The Paper Shop,Retailers - supermarkets/hypermarkets,7840,5,,592069,5,,51.42752900000000,337701001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35706900000000,DA11 7HW,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-231419,157-158 Milton Road,Gravesend,Kent,,The Peking Chinese Restaurant,Restaurant/Cafe/Canteen,1,10,,71857,5,,51.44162700000000,163315705,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37194100000000,DA12 2RG,2014-07-11,fhrs_4_en-GB,4,,FHRS,5
-231420,1 Anglesea Place,Gravesend,Kent,,The Railway Bell,Pub/bar/nightclub,7843,5,,50320,0,,51.44195100000000,112000100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36660400000000,DA11 0RR,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-231421,164 Parrock Street,Gravesend,Kent,,The Rickshaw Indian Takeaway,Takeaway/sandwich shop,7844,10,,74362,10,,51.44001900000000,171316401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37098000000000,DA12 1ER,2014-01-16,fhrs_3_en-GB,3,,FHRS,10
-231422,32 The Street,Shorne,Gravesend,Kent,The Rose And Crown,Pub/bar/nightclub,7843,5,,727006,5,,51.41397300000000,564403204,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.43074000000000,DA12 3EA,2014-08-26,fhrs_5_en-GB,5,,FHRS,5
-231423,1 Perry Street,Northfleet,Kent,,The Rose Inn,Pub/bar/nightclub,7843,10,,103391,5,,51.43395900000000,347300100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35308300000000,DA11 8RA,2014-10-09,fhrs_3_en-GB,3,,FHRS,10
-231424,1 Rose Street,Northfleet,Gravesend,Kent,The Rose Inn,Pub/bar/nightclub,7843,5,,103921,0,,51.44537200000000,351500003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.32779400000000,DA11 9EQ,2013-02-26,fhrs_5_en-GB,5,,FHRS,5
-231425,Royal Pier Road,Gravesend,Kent,,The Royal Clarendon Hotel,Hotel/bed & breakfast/guest house,7842,10,,525888,5,,51.44443800000000,179200010,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37259000000000,DA12 2BE,2013-03-13,fhrs_4_en-GB,4,,FHRS,5
-231426,The Grove,Gravesend,Kent,,The Salvation Army,Other catering premises,7841,0,,64657,0,,51.44000600000000,144100001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37205800000000,DA12 1DX,2013-07-15,fhrs_5_en-GB,5,,FHRS,0
-231427,14 The Street,Cobham,Kent,,The Ship Public House,Pub/bar/nightclub,7843,5,,123366,0,,51.39034900000000,518201401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.40234800000000,DA12 3BN,2013-10-02,fhrs_4_en-GB,4,,FHRS,10
-231428,10 Darnley Road,Gravesend,Kent,,The Somerset Arms,Pub/bar/nightclub,7843,10,,59002,5,,51.44211700000000,130401001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36553300000000,DA11 0RU,2013-09-12,fhrs_4_en-GB,4,,FHRS,5
-231429,Christianfields Avenue,Gravesend,Kent,,The Stores,Retailers - supermarkets/hypermarkets,7840,0,,64224,10,,51.42202300000000,142306906,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37852000000000,DA12 5NF,2013-04-11,fhrs_4_en-GB,4,,FHRS,5
-231430,7 Town Pier,Gravesend,Kent,,The Three Daws,Pub/bar/nightclub,7843,,,80242,,,51.44499700000000,194000001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36939500000000,DA11 0BJ,2014-06-11,fhrs_5_en-GB,5,,FHRS,
-231431,44 High Street,Gravesend,Kent,,The Three Tuns,Pub/bar/nightclub,7843,5,,689206,0,,51.44310700000000,147204401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36905300000000,DA11 0AY,2014-07-30,fhrs_5_en-GB,5,,FHRS,5
-231432,4 Erskine Road,Vigo Village,Meopham,Kent,The Villager Public House,Pub/bar/nightclub,7843,5,,128438,5,,51.33056800000000,583700400,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35819300000000,DA13 0RL,2013-05-29,fhrs_5_en-GB,5,,FHRS,5
-231433,62 New Road,Gravesend,Kent,,The Wheatsheaf Public House,Pub/bar/nightclub,7843,10,,72498,5,,51.44234700000000,165106206,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36568900000000,DA11 0AE,2013-09-09,fhrs_4_en-GB,4,,FHRS,5
-231434,11 Windmill Street,Gravesend,Kent,,The Windmill By Divizia,Retailers - supermarkets/hypermarkets,7840,5,,631882,0,,51.44166600000000,205801103,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36961100000000,DA12 1AD,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-231435,5 Windmill Street,Gravesend,Kent,,The Windmill Cafe,Restaurant/Cafe/Canteen,1,0,,83699,0,,51.44166600000000,2058005001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36961100000000,DA12 1AD,2014-10-27,fhrs_5_en-GB,5,,FHRS,5
-231436,45 Shrubbery Road,Gravesend,Kent,,The Windmill Public House,Pub/bar/nightclub,7843,5,,78438,0,,51.43522900000000,186604504,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37258800000000,DA12 1JW,2013-10-03,fhrs_5_en-GB,5,,FHRS,5
-231437,Old Watling Street,Gravesend,Kent,,Three Crutches Public House,Pub/bar/nightclub,7843,20,,124962,15,,51.39916200000000,534500001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45271400000000,ME2 3UG,2014-10-06,fhrs_1_en-GB,1,,FHRS,15
-231438,Hardys Corner,2 Vale Road,Northfleet,Gravesend,TJ Snacks,Mobile caterer,7846,5,,126699,5,,51.43516300000000,558003301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34324600000000,DA11 8BZ,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-231439,15 Milton Road,Gravesend,Kent,,TJ's,Pub/bar/nightclub,7843,0,,71840,0,,51.44147700000000,163301501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37450900000000,DA12 2RF,2014-07-14,fhrs_5_en-GB,5,,FHRS,0
-231440,Coldharbour Road,Northfleet,Gravesend,Kent,Toby Carvery,Restaurant/Cafe/Canteen,1,0,,493358,0,,51.42004800000000,316990001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35431100000000,DA11 8AB,2014-07-10,fhrs_5_en-GB,5,,FHRS,0
-231441,Watling Street,Gravesend,Kent,,Tollgate Service Station,Retailers - supermarkets/hypermarkets,7840,10,,82868,10,,51.41726500000000,201500100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36123000000000,DA11 7NP,2014-11-27,fhrs_3_en-GB,3,,FHRS,10
-231442,,,,,Tonibell Ice Cream Van,Retailers - other,4613,0,,128995,0,,,593300000,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-05-21,fhrs_5_en-GB,5,,FHRS,0
-231443,,,,,Tonibell Ice Cream Van,Retailers - other,4613,0,,557876,0,,,593303010,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-05-21,fhrs_5_en-GB,5,,FHRS,0
-231444,Cimba Wood,Gravesend,Kent,,Total Catering Solutions @ Riverview Infants School,School/college/university,7845,0,,55288,0,,51.41981300000000,124806406,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38992700000000,DA12 4SD,2013-06-06,fhrs_4_en-GB,4,,FHRS,10
-231445,18 The Street,Cobham,Kent,,Total Catering Solutions Ltd @ Cobham Primary School,School/college/university,7845,0,,123367,0,,51.39034900000000,518201801,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.40234800000000,DA12 3BN,2013-11-06,fhrs_5_en-GB,5,,FHRS,0
-231446,Longfield Road,Meopham,Gravesend,Kent,Total Catering Solutions Ltd @ Meopham Community Academy,School/college/university,7845,0,,128903,0,,51.37507600000000,591700001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35951700000000,DA13 0JW,2015-01-12,fhrs_5_en-GB,5,,FHRS,0
-231447,Dover Road,Northfleet,Kent,,Total Catering Solutions Ltd @ St Botolphs Primary School,School/college/university,7845,0,,100325,0,,51.43916300000000,321900001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34333600000000,DA11 9PL,2013-10-14,fhrs_5_en-GB,5,,FHRS,0
-231448,101 Springhead Road,Northfleet,Kent,,Total Catering Solutions Ltd @ St Josephs RC Primary School,School/college/university,7845,0,,104349,0,,51.43979600000000,355110100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33686400000000,DA11 9QZ,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-231449,74 Pelham Road South,Gravesend,Kent,,Traditional Fish & Chips,Takeaway/sandwich shop,7844,10,,74506,5,,51.43790700000000,171907407,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36423700000000,DA11 0QR,2014-05-21,fhrs_4_en-GB,4,,FHRS,5
-231450,40 Old Road West,Gravesend,Kent,,TRM Meats,Retailers - other,4613,0,,73285,0,,51.43351700000000,168104004,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36785200000000,DA11 0LJ,2013-10-30,fhrs_5_en-GB,5,,FHRS,0
-231451,168 Windmill Street,Gravesend,Kent,,Trocadero,Pub/bar/nightclub,7843,5,,510005,5,,51.44173900000000,205816800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36909700000000,DA12 1AH,2015-01-05,fhrs_4_en-GB,4,,FHRS,10
-231452,64 Singlewell Road,Gravesend,Kent,,Trokes,Retailers - supermarkets/hypermarkets,7840,5,,78530,5,,51.43181800000000,187006407,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36914500000000,DA11 7PW,2014-07-31,fhrs_5_en-GB,5,,FHRS,5
-231453,139 Parrock Street,Gravesend,Kent,,Tufail Indian Cuisine,Restaurant/Cafe/Canteen,1,0,,74356,0,,51.43823700000000,171313903,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37238400000000,DA12 1EZ,2014-12-11,fhrs_5_en-GB,5,,FHRS,0
-231454,46 - 47 Windmill Street,Gravesend,Kent,,Twin Dynasty,Restaurant/Cafe/Canteen,1,5,,534300,5,,51.43972200000000,205804601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36923700000000,DA12 1BA,2014-02-07,fhrs_5_en-GB,5,,FHRS,5
-231455,8 Queen Street,Gravesend,Kent,,U Anity,Retailers - supermarkets/hypermarkets,7840,5,,75268,10,,51.44277100000000,175300800,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37143900000000,DA12 2EE,2014-07-22,fhrs_4_en-GB,4,,FHRS,5
-231456,113 Rochester Road,Gravesend,Kent,,Usta Pizza Charcoal Grill,Takeaway/sandwich shop,7844,5,,75953,5,,51.43515500000000,178411301,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39039700000000,DA12 2HU,2014-08-20,fhrs_5_en-GB,5,,FHRS,0
-231457,,,,,Valentino's Soft Ice Cream (C521 JBO),Retailers - other,4613,10,,125623,5,,,541200050,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2014-08-26,fhrs_4_en-GB,4,,FHRS,5
-231458,,,,,Valentino's Soft Ice Cream (G179 LRN),Retailers - other,4613,5,,125624,5,,,541200051,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-07-10,fhrs_5_en-GB,5,,FHRS,0
-231459,2 The Parade,Valley Drive,Gravesend,Kent,Valley Drive Post Office,Retailers - supermarkets/hypermarkets,7840,0,,80961,0,,51.42852700000000,196907809,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38508700000000,DA12 5RT,2014-07-21,fhrs_5_en-GB,5,,FHRS,0
-231460,4 The Parade,Valley Drive,Gravesend,Kent,Valley Fish Bar,Takeaway/sandwich shop,7844,5,,80957,5,,51.42852700000000,196900401,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38508700000000,DA12 5RT,2014-10-16,fhrs_5_en-GB,5,,FHRS,5
-231461,9 The Parade,Valley Drive,Gravesend,Kent,Valley Grill,Takeaway/sandwich shop,7844,5,,433156,5,,51.42852700000000,196908014,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.38508700000000,DA12 5RT,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-231462,Thong Lane,Gravesend,Kent,,View Point,Pub/bar/nightclub,7843,20,,54334,10,,51.42220800000000,122500100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39859600000000,DA12 4LF,2013-09-11,fhrs_1_en-GB,1,,FHRS,5
-231463,1 The Bay,Vigo,Gravesend,Kent,Vigo Food Centre,Takeaway/sandwich shop,7844,,,127672,,,51.33045700000000,571900101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35922100000000,DA13 0TD,2014-07-22,fhrs_5_en-GB,5,,FHRS,
-231464,5 The Bay,Vigo Village,Kent,,Vigo Little India,Takeaway/sandwich shop,7844,20,,127674,10,,51.33045700000000,571900501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35922100000000,DA13 0TD,2014-10-22,fhrs_1_en-GB,1,,FHRS,10
-231465,10 School Lane,Higham,Kent,,Village Fryers,Takeaway/sandwich shop,7844,10,,125113,5,,51.41630200000000,536101001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45961500000000,ME3 7AT,2013-10-21,fhrs_4_en-GB,4,,FHRS,5
-231466,2 School Lane,Higham,Rochester,Kent,Village Greengrocers,Retailers - supermarkets/hypermarkets,7840,0,,125111,5,,51.41630200000000,536100200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.45961500000000,ME3 7AT,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-231467,7 The Alma Leander Drive,Gravesend,Kent,,Village Kebab House,Takeaway/sandwich shop,7844,5,,50092,5,,51.41836600000000,111400700,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39385000000000,DA12 4NG,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-231468,,,,,Vincents Catering,Restaurant/Cafe/Canteen,1,5,,612381,5,,,2071025003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,,,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-231469,Singlewell Road,Gravesend,Kent,,Vincents Catering @ Mid Kent Golf Club,Restaurant/Cafe/Canteen,1,0,,78535,0,,51.42609400000000,187016406,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36805800000000,DA11 7RB,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-231470,141 Waterdales,Northfleet,Gravesend,Kent,Waterdales Kebab House,Takeaway/sandwich shop,7844,0,,734332,5,,51.43335100000000,362314101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33850600000000,DA11 8HY,2015-01-13,fhrs_5_en-GB,5,,FHRS,5
-231471,135 Waterdales,Northfleet,Kent,,Waterdales Supermarket,Retailers - supermarkets/hypermarkets,7840,5,,105423,0,,51.43335100000000,362313503,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33850600000000,DA11 8HY,2013-04-10,fhrs_5_en-GB,5,,FHRS,5
-231472,55 Wellington Street,Gravesend,Kent,,Waterloo Tavern,Pub/bar/nightclub,7843,5,,82982,5,,51.43753900000000,202005505,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37355600000000,DA12 1JQ,2014-04-10,fhrs_5_en-GB,5,,FHRS,5
-231473,Silver Road,Gravesend,Kent,,Westcourt School Catering Service,School/college/university,7845,0,,78486,0,,51.43060300000000,186800001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39221600000000,DA12 4JG,2013-06-06,fhrs_5_en-GB,5,,FHRS,0
-231474,2 - 3 Westcourt Parade,Freeman Road,Gravesend,Kent,Westcourt Supermarket,Retailers - supermarkets/hypermarkets,7840,,,62674,,,51.42703000000000,138511002,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39369900000000,DA12 4EQ,2013-07-18,fhrs_5_en-GB,5,,FHRS,
-231475,1 Parrock Street,Gravesend,Kent,,Whispers,Pub/bar/nightclub,7843,0,,74352,0,,51.44144700000000,171300101,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37065100000000,DA12 1EW,2014-10-06,fhrs_5_en-GB,5,,FHRS,5
-231476,169 Rochester Road,Gravesend,Kent,,White Hart Harvester Restaurant,Pub/bar/nightclub,7843,5,,75960,5,,51.43173200000000,178416909,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39595900000000,DA12 4TN,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-231477,Sun Lane,Gravesend,Kent,,Whitehill County Primary School,School/college/university,7845,0,,78972,0,,51.42753800000000,189608008,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37490800000000,DA12 5HN,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-231478,42 Kempthorne Street,Gravesend,Kent,,Wickenden & Grants,Retailers - supermarkets/hypermarkets,7840,5,,68230,5,,51.44299900000000,152504200,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36683100000000,DA11 0TA,2014-06-20,fhrs_5_en-GB,5,,FHRS,5
-231479,44 New Road,Gravesend,Kent,,Wildwest American Diner,Restaurant/Cafe/Canteen,1,5,,637487,0,,51.44264800000000,165104407,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36636700000000,DA11 0AB,2015-01-06,fhrs_5_en-GB,5,,FHRS,5
-231480,10-16  Thamesgate Centre,Gravesend,Kent,,Wilkinsons Hardware Store Ltd,Retailers - supermarkets/hypermarkets,7840,0,,50251,0,,51.44197900000000,111901201,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36831800000000,DA11 0AU,2012-10-22,fhrs_5_en-GB,5,,FHRS,0
-231481,26 Springhead Road,Gravesend,Kent,,Windmill Lodge,Hospitals/Childcare/Caring Premises,5,0,,56230,0,,51.44035200000000,127004802,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33650400000000,DA11 9QY,2013-10-15,fhrs_5_en-GB,5,,FHRS,0
-231482,1 Echo Square,Gravesend,Kent,,Wing Hing Restaurant,Restaurant/Cafe/Canteen,1,10,,61285,15,,51.43130300000000,134400100,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37461400000000,DA12 1NP,2014-08-06,fhrs_2_en-GB,2,,FHRS,10
-231483,146 Milton Road,Gravesend,Kent,,Wing Lee,Restaurant/Cafe/Canteen,1,10,,71855,5,,51.44162700000000,163314601,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37194100000000,DA12 2RG,2013-08-20,fhrs_4_en-GB,4,,FHRS,5
-231484,Winnats Farm,Wrangling Lane,Luddesdown,Gravesend,Winnats Lodge,Hotel/bed & breakfast/guest house,7842,0,,445974,0,,51.35207600000000,149810001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.39605100000000,DA13 0XF,2012-09-03,fhrs_5_en-GB,5,,FHRS,0
-231485,Wombwell Gardens,Northfleet,Kent,,Wombwell Hall Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,105648,0,,51.42993400000000,363700001,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34659000000000,DA11 8BL,2014-04-16,fhrs_5_en-GB,5,,FHRS,0
-231486,Wrotham Road,Gravesend,Kent,,Woodlands Beefeater,Pub/bar/nightclub,7843,0,,83953,0,,51.43185000000000,207121701,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36401000000000,DA11 7LF,2014-03-10,fhrs_5_en-GB,5,,FHRS,5
-231487,Wrotham Road,Gravesend,Kent,,Wrotham Road Primary School,School/college/university,7845,0,,83947,0,,51.43773800000000,207107007,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.36726400000000,DA11 0QF,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-231488,Sole Street,Cobham,Gravesend,Kent,Ye Little Shoppe,Retailers - supermarkets/hypermarkets,7840,0,,123311,0,,51.38357000000000,517802102,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.37974500000000,DA12 3AX,2013-07-04,fhrs_5_en-GB,5,,FHRS,0
-231489,1 Dover Road,Northfleet,Kent,,Ye Old Leather Bottle,Pub/bar/nightclub,7843,5,,100326,5,,51.44153000000000,321900103,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33785900000000,DA11 9PH,2014-11-26,fhrs_5_en-GB,5,,FHRS,5
-231490,25 The Hill,Northfleet,Gravesend,Kent,Ye Olde Coach And Horses Inn,Restaurant/Cafe/Canteen,1,5,,693494,5,,51.44288500000000,332702003,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.33617300000000,DA11 9EU,2014-08-19,fhrs_5_en-GB,5,,FHRS,5
-231491,Downs Road,Istead Rise,Gravesend,Kent,Young Risers Pre School,Hospitals/Childcare/Caring Premises,5,0,,100392,0,,51.40294500000000,322307208,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.34706200000000,DA13 9HG,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-231492,85 London Road,Northfleet,Gravesend,Kent,Yummy,Takeaway/sandwich shop,7844,5,,557874,0,,51.44212300000000,338908501,184,hygiene.ratingscheme@gravesham.gov.uk,Gravesham,http://www.gravesham.gov.uk/,0.35317200000000,DA11 9NJ,2013-05-14,fhrs_5_en-GB,5,,FHRS,5
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+230906,10 Till 10,5,5,5,5,2014-10-09,51.427529,0.357069
+230907,1st Ascot,5,5,5,5,2013-08-17,,
+230908,3K's Convenience Store,4,5,5,10,2014-01-08,51.435155,0.390397
+230909,99P Stores,5,5,5,5,2013-06-14,51.442999,0.366831
+230910,99P Stores Ltd,5,5,0,5,2014-03-20,51.444244,0.360405
+230911,A1 Lahore Grill,5,5,0,5,2014-08-18,51.434183,0.354001
+230912,Abbeyfield Edward Moore House,5,0,0,0,2014-04-14,51.437373,0.377303
+230913,Absolute Catering Ltd,5,5,5,5,2014-05-02,51.388998,0.334346
+230914,Acme Wines,5,0,0,5,2014-01-22,51.413613,0.459197
+230915,Aldi Food Store Ltd,5,0,0,0,2012-04-25,51.442151,0.355778
+230916,Alexandria's Residential Home,5,0,0,0,2014-10-06,51.434981,0.366172
+230917,Alimenti - Food,5,5,5,5,2014-04-16,,
+230918,All Saints Community Lunch Club,5,0,0,0,2013-07-05,51.433252,0.351076
+230919,Alzheimers & Dementia Support Services,5,5,5,5,2012-09-21,51.43861,0.368966
+230920,Alzheimers Support Lunch Club,5,5,5,5,2013-02-26,,
+230921,Amazon & Tiger,5,5,0,5,2014-02-25,51.344214,0.370066
+230922,AMF Bowling,5,5,5,5,2013-11-06,51.444244,0.360405
+230923,Angels,5,5,5,5,2012-11-12,51.442722,0.373422
+230924,Anisa Indian Cuisine,4,10,5,5,2013-09-02,51.414453,0.452598
+230925,Aramark Limited @ North Kent Police Station,5,0,0,0,2014-07-09,51.435633,0.338177
+230926,ASD Learning Ltd,5,0,0,5,2014-05-16,51.442509,0.373699
+230927,Asda,5,0,0,0,2013-08-09,51.444244,0.360405
+230928,Ashleydown Nursing Home,5,5,0,0,2013-01-09,51.436738,0.370925
+230929,Asian Market Ltd,5,5,0,5,2013-06-05,51.442771,0.371439
+230930,Aydemir Supermarket,4,0,5,10,2013-11-25,51.446256,0.328587
+230931,Balas Little Mart,0,25,15,20,2014-10-30,51.418351,0.395474
+230932,Bartellas,5,5,5,5,2014-11-27,51.379915,0.360399
+230933,Bassant,1,15,15,20,2014-01-06,51.441477,0.374509
+230934,Bat And Ball Public House,4,10,10,0,2014-06-30,51.436559,0.366426
+230935,Battle Of Britain,5,5,5,5,2014-05-14,51.42498,0.353255
+230936,Bayldon Brothers,5,5,0,0,2013-11-12,51.442811,0.370793
+230937,BB's Coffee & Muffins,3,10,10,5,2014-06-24,51.442999,0.366831
+230938,Benham Lodge,4,0,0,10,2014-02-03,51.438202,0.360324
+230939,Best Buy / Tan's Store,5,5,0,5,2013-08-22,51.442123,0.353172
+230940,Best One,5,0,0,5,2014-12-05,51.424494,0.372463
+230941,Best One,5,5,5,5,2012-08-13,51.431729,0.394361
+230942,Best One Express,4,5,10,5,2014-12-15,51.449333,0.320799
+230943,Best Western Manor Hotel,5,0,0,0,2013-03-01,51.411418,0.376877
+230944,Big Daddy's,5,5,0,5,2014-02-12,51.435155,0.390397
+230945,Bismillah Almadina Food Store,4,5,10,5,2014-02-05,51.442137,0.371651
+230946,Bite Me Catering @ Nurstead Court,5,5,0,0,2013-12-13,51.390372,0.356007
+230947,Blakes,5,5,5,0,2013-11-06,51.442684,0.370859
+230948,Blue Ginger,5,5,5,5,2014-10-30,51.428527,0.385087
+230949,Bobs Store,3,10,5,10,2013-05-28,51.431869,0.398469
+230950,Bombay Tiffin,5,5,5,5,2015-01-27,51.434074,0.352255
+230951,Briars Court B & B,5,0,0,0,2014-10-21,51.434269,0.368912
+230952,Bright Beginnings Nursery,5,0,0,0,2014-01-24,51.433139,0.396191
+230953,Brilliant Buffet,4,5,5,10,2013-09-23,51.443182,0.369776
+230954,Bronte Nursery,5,0,0,0,2014-11-03,51.438909,0.360044
+230955,Bronte School,5,0,5,0,2013-09-18,51.440365,0.363184
+230956,BTK Off-Licence GV,1,5,5,20,2013-10-09,51.43589,0.355413
+230957,BTY Services Ltd,5,5,5,5,2013-07-11,51.449333,0.320799
+230958,Bulks Banquets,5,0,0,0,2014-05-19,,
+230959,Burger King,5,0,0,0,2014-08-19,51.442279,0.367758
+230960,Burleigh Farmhouse B&B,5,5,5,5,2013-05-22,,
+230961,Busy Bees @ Kinder Day Nursery,5,5,0,0,2014-11-25,51.375076,0.359517
+230962,Caesars,5,5,5,5,2014-02-20,51.442477,0.370387
+230963,Cafe Inn,5,5,5,5,2014-09-04,51.442347,0.365689
+230964,Cafe On The Hill,5,5,0,5,2014-07-07,51.443402,0.336415
+230965,Cafe Taj,2,10,15,10,2014-12-04,51.440019,0.37098
+230966,Cake Innovations Ltd,5,0,0,5,2014-06-18,51.427529,0.357069
+230967,Cakelicious,5,0,0,0,2013-02-11,,
+230968,Cakes By Sarah Ltd,4,5,5,10,2012-07-16,,
+230969,Camer Park Kiosk,5,0,5,5,2014-03-03,51.3780974855,0.368151128581
+230970,Campbell Arms,5,0,0,5,2013-09-17,51.437837,0.356118
+230971,Carly Cakes,5,5,5,5,2012-01-17,,
+230972,Caterplus Ltd @ Watling Court,5,0,0,0,2013-11-25,51.417437,0.410154
+230973,CC Rooms,5,0,0,5,2012-06-28,51.443716,0.369156
+230974,Central News,5,5,5,5,2013-07-16,51.441328,0.368961
+230975,Chantry Community Academy,5,0,0,0,2013-12-02,51.441255,0.378325
+230976,Chapmans Natural Products,5,0,0,0,2013-07-03,51.441979,0.368318
+230977,Chattorey Ltd,5,5,5,5,2014-08-05,51.437668,0.366714
+230978,Chefs Delight,5,5,5,5,2013-02-19,51.441739,0.369097
+230979,Chestnuts Bed & Breakfast,5,0,0,5,2014-09-04,51.414602,0.451067
+230980,Chicken Hut Grill,4,5,10,5,2014-04-10,51.441839,0.36903
+230981,Chima & Sons Family Butchers,5,nan,nan,nan,2014-05-27,51.438585,0.367193
+230982,China China,4,5,10,5,2014-09-02,51.443787,0.369649
+230983,China Dove,5,5,5,5,2013-07-30,51.442722,0.373422
+230984,China Garden Takeaway,5,5,5,5,2013-04-10,51.37592,0.360912
+230985,China Palace,4,5,5,10,2014-08-08,51.37592,0.360912
+230986,Christopher's Celebration Cakes,5,5,5,5,2013-10-30,,
+230987,Classy Kebab,1,5,5,20,2014-08-27,51.447781,0.320174
+230988,Clocktower Express T/A Nisa,5,5,5,5,2014-11-13,51.417437,0.410154
+230989,Cobham Community Store,5,5,0,5,2015-01-13,51.39047,0.39948
+230990,Cobham Hall,5,5,5,5,2013-01-23,51.3934211731,0.419573098421
+230991,Cobham 'On The Run' Service Station,5,0,0,0,2014-01-07,51.400898,0.401032
+230992,Cobnut Tree,5,0,0,0,2012-09-12,,
+230993,Coffee Republic Deli,5,5,0,0,2013-05-16,51.442738,0.36771
+230994,Coffee Table Shop,5,5,5,5,2014-09-10,51.442771,0.371439
+230995,Community Lunch Club,5,0,0,0,2014-06-19,51.445372,0.327794
+230996,Compass @ Dover Road County Primary School,5,5,5,5,2013-05-21,51.437341,0.349473
+230997,Compass Grp @ Sainsburys Colleagues Restaurant,5,0,0,0,2013-10-02,51.1696586609,0.75830000639
+230998,Completely Catering,5,5,0,5,2013-06-12,,
+230999,Comptons,5,5,5,5,2013-06-25,51.443716,0.369156
+231000,Congratulations Catering,5,0,0,5,2015-01-22,51.336391,0.369963
+231001,CO-OP,5,5,5,5,2012-08-20,51.434074,0.352255
+231002,CO-OP,5,5,5,5,2012-08-09,51.425936,0.342817
+231003,CO-OP,5,5,5,5,2012-10-18,51.406047,0.352915
+231004,Copperfields,5,5,0,0,2013-07-23,51.413992,0.4544
+231005,Costa Coffee,5,0,5,5,2014-02-18,51.442738,0.36771
+231006,Costcutter,5,0,5,5,2014-04-08,51.435155,0.390397
+231007,Costcutter,5,0,5,5,2014-07-09,51.441627,0.371941
+231008,Costcutter,5,5,5,5,2013-07-10,51.424384,0.379621
+231009,Couture Cakes & Dreams,5,0,0,5,2012-11-28,,
+231010,Crown And Thistle,5,5,5,5,2014-08-21,51.443529,0.374399
+231011,Crumbs,5,5,0,5,2015-01-19,51.442477,0.370387
+231012,Culverstone Service Station,5,0,0,0,2013-05-21,51.340532,0.345222
+231013,Curry Mecca,5,5,5,5,2014-02-24,51.440006,0.372058
+231014,Cyclocafe,5,0,5,5,2013-05-21,51.385663,0.375024
+231015,Daddy's Yummy Foods,5,0,0,0,2014-06-03,,
+231016,Dainty Cakery,4,5,5,10,2012-12-01,,
+231017,Day One T/A Milton Food & Wine,5,5,5,5,2013-07-16,51.441477,0.374509
+231018,Debenhams Cafe,5,0,5,5,2013-08-21,51.442279,0.367758
+231019,Delhi Kitchen,5,5,0,5,2014-06-05,51.440555,0.369381
+231020,Dene Holm Fish Bar,5,nan,nan,nan,2014-01-22,51.425936,0.342817
+231021,Deneholm Residential Care Home,5,0,0,0,2014-12-08,51.4268,0.349522
+231022,Denton Fish Bar,5,5,5,5,2013-06-27,51.438797,0.386903
+231023,Denton Grocers,4,10,5,5,2014-04-15,51.438797,0.386903
+231024,Denton Wharf Snack Bar,4,5,10,5,2014-08-26,51.442191,0.397283
+231025,Desi Sweet Centre,4,10,0,10,2014-03-17,51.437668,0.366714
+231026,De-Stairs,5,5,0,5,2014-05-20,51.443001,0.370717
+231027,Discount UK,5,5,0,5,2014-11-26,51.417437,0.410154
+231028,Divine Favour,5,0,0,5,2014-09-26,51.442122,0.35323
+231029,Divine Treats,4,10,5,5,2013-12-05,51.435155,0.390397
+231030,Divizia,5,5,5,5,2013-09-19,51.442827,0.371312
+231031,DKB General Stores,4,10,0,10,2014-12-04,51.439119,0.374142
+231032,Domino's Pizza,5,0,0,0,2013-05-13,51.444697,0.368689
+231033,Doorsteps (Kens Snack Bar),5,5,5,5,2014-09-24,51.427672,0.331052
+231034,Dovay Cafe,5,5,5,5,2014-01-30,51.441739,0.369097
+231035,Dover Road Fish Bar,4,5,10,5,2014-07-22,51.44153,0.337859
+231036,Dover Road Stores,5,5,5,5,2013-10-21,51.44153,0.337859
+231037,Dream Days Catering & Events,5,0,0,0,2014-10-08,51.437725,0.374588
+231038,Earl Grey,2,15,0,5,2013-09-17,51.433078,0.349024
+231039,East Milton Newsagents,5,5,5,5,2013-07-02,51.442206,0.373122
+231040,East West Food & Wine,4,5,0,10,2013-09-17,51.437668,0.366714
+231041,Eastgate Coffee Shop,5,5,5,5,2014-03-07,51.433125,0.331776
+231042,Ebbsfleet Grill,3,10,10,10,2014-08-21,51.446788,0.324441
+231043,Ebbsfleet United F C Ltd,5,5,0,5,2014-03-29,51.450406,0.320652
+231044,Echo Supermarket,3,5,10,10,2013-07-03,51.431303,0.374614
+231045,Echo's Traditional Fish   Chips,5,5,5,5,2014-01-09,51.431303,0.374614
+231046,Eden Food Service @ Rosherville C Of E Primary School,5,5,0,0,2013-05-14,51.441899,0.342785
+231047,Eden Food Service @ Vigo Village School,5,0,0,0,2013-11-05,51.330568,0.358193
+231048,Edinburgh Castle Public House,5,5,5,5,2013-02-28,51.445116,0.331206
+231049,Elite Venue Centre Ltd,5,nan,nan,nan,2014-09-26,51.418543,0.377635
+231050,Ellenor Lions Hospices,5,0,5,5,2014-10-27,51.421252,0.355293
+231051,Emtastic Sweets,5,0,0,5,2014-08-28,,
+231052,ESS Compass Group @ The Met Police Special Training Centre,5,0,0,0,2013-05-08,51.440939,0.40483
+231053,Exodus African Express,4,0,0,10,2013-02-04,51.442676,0.365447
+231054,Express Mini Market,5,5,5,5,2013-10-07,51.433799,0.35119
+231055,Farmfoods Ltd,5,0,0,0,2014-07-02,51.441979,0.368318
+231056,Favourite Chicken & Ribs,5,5,5,5,2013-09-05,51.442477,0.370387
+231057,Fishermans Catch,5,5,5,5,2015-01-20,51.442347,0.365689
+231058,Flaming Grill,1,5,5,20,2013-12-11,51.442123,0.353172
+231059,Fleet Fish Bar,1,15,15,20,2014-10-09,51.446004,0.326315
+231060,Foxendown Fruit Farm,5,5,5,5,2013-10-02,51.359208,0.348963
+231061,Freds Ice Cream P899 VAB,5,0,0,0,2014-07-09,,
+231062,Freeways Catering @ Gravesend Social Education Centre,5,0,5,5,2013-08-29,51.437498,0.379569
+231063,Fresh Meal Delivery Service,5,5,0,0,2014-10-02,51.438072,0.369857
+231064,Fruitcake Factory Studio,4,5,5,10,2013-05-09,51.360145,0.351998
+231065,Gads Hill School,5,0,0,0,2014-03-03,51.411188,0.457312
+231066,George Inn,5,5,5,0,2013-12-12,51.36892,0.359733
+231067,Gigi's,5,5,5,5,2014-01-30,51.442684,0.370859
+231068,Gingers Sandwich Bar   Cafe,5,5,5,5,2014-02-12,51.433959,0.353083
+231069,Golden Fish Bar,5,5,5,5,2013-10-08,51.418284,0.381994
+231070,Golden Grill,1,10,10,20,2014-12-16,51.447781,0.320174
+231071,Gordons Snack Bar,5,5,5,5,2013-07-31,51.430431,0.310667
+231072,Grandma's Patties,4,0,0,10,2013-08-20,51.439273,0.37274
+231073,Gravesend Boat,4,5,5,10,2014-08-28,51.418254,0.392737
+231074,Gravesend Conservative Club,4,10,5,5,2012-08-29,51.441447,0.370651
+231075,Gravesend Grammar School For Boys,5,0,0,0,2013-07-02,51.437096,0.38385
+231076,Gravesend Masonic Hall Co,5,5,0,5,2013-11-14,51.439941,0.367709
+231077,Gravesend RNA Club,5,5,5,5,2014-12-11,51.435839,0.335036
+231078,Gravesend Rugby Football Club (Catering Facilities),5,0,0,0,2015-01-28,51.437191,0.380517
+231079,Gravesham Community Hospital,5,0,0,0,2015-01-12,51.443232,0.365519
+231080,Graysons Restaurants @ Kimberley Clark,5,5,0,5,2013-12-06,51.444573,0.339943
+231081,Greggs,5,0,0,0,2014-07-16,51.441261,0.362036
+231082,Griller,5,5,0,5,2014-06-02,51.438585,0.367193
+231083,GS Plus Ltd @ Culverstone Green Primary School,5,0,0,0,2013-07-11,51.340532,0.345222
+231084,Guru Nanak Day Centre,5,0,0,0,2014-12-03,51.438012,0.375494
+231085,Happy Dragon,5,5,0,5,2014-11-21,51.434074,0.352255
+231086,Hardish Singh Virdee,5,5,5,5,2013-10-07,51.43857,0.365681
+231087,Harvel House Farm Shop,5,5,0,0,2014-08-29,51.341583,0.364976
+231088,Helen Allison School,5,0,0,0,2013-06-21,51.375641,0.358282
+231089,Heritage Catering Services,3,10,10,10,2014-11-28,51.427126,0.380152
+231090,Hever Court Residential Home,5,5,0,5,2013-12-13,51.414234,0.375067
+231091,Higham Primary School,5,5,0,5,2013-10-08,51.422701,0.463684
+231092,Higham Village Club,5,5,5,5,2014-02-26,51.415887,0.463102
+231093,Himsons News & Post,5,5,5,5,2014-01-27,51.446256,0.328587
+231094,Hobbit House Childrens Home,5,0,0,5,2014-03-05,,
+231095,Holland & Barrett Ltd,5,5,5,5,2012-07-12,51.442999,0.366831
+231096,Holy Trinity Church Of England Primary School,5,0,5,0,2013-05-20,51.438012,0.375495
+231097,Home Caterer,4,5,5,10,2012-12-12,,
+231098,Homemade With Love Cakes And More,5,5,5,0,2015-01-15,,
+231099,Hotrods Diner,5,5,5,5,2013-07-22,51.445287,0.329373
+231100,House Of Mercy,5,5,5,5,2013-05-23,51.441209,0.371732
+231101,Humphreys,5,5,5,5,2014-03-13,51.37592,0.360912
+231102,Hunky Dory Fish Bar,5,5,5,5,2014-10-29,51.431729,0.394361
+231103,Ian's Mobile Catering,4,10,5,5,2014-04-30,51.442288,0.38415
+231104,Iceland,5,0,0,0,2012-10-11,51.442202,0.362199
+231105,Ifield School,5,0,0,0,2014-01-28,51.418534,0.375405
+231106,Il Padrino,5,5,0,5,2014-07-19,51.440898,0.368435
+231107,India Palace,5,5,5,5,2014-06-24,51.38603,0.362194
+231108,Inn On The Lake Hotel,5,5,5,5,2013-09-20,51.403027,0.407283
+231109,International Foods,4,10,0,10,2013-09-18,51.441064,0.37489
+231110,Invicta Social Club,5,5,5,5,2012-11-20,51.440555,0.369381
+231111,Istead Rise Butchers,5,5,5,5,2014-02-25,51.406047,0.352915
+231112,Istead Rise Community Centre,5,5,5,5,2013-06-21,51.407066,0.352321
+231113,Istead Rise Primary School,5,0,0,0,2014-11-06,51.402945,0.347062
+231114,Istead Rise Village Bakery,4,5,10,5,2014-11-11,51.406047,0.352915
+231115,J M Danslow,5,nan,nan,nan,2015-01-20,51.441739,0.369097
+231116,J.K Cafe,5,5,5,5,2013-08-14,51.418366,0.39385
+231117,JA Grocers & Wine,4,0,0,10,2013-01-28,51.429884,0.367836
+231118,Jack's Cafe,5,0,5,0,2013-06-27,51.427529,0.357069
+231119,Jacobs,4,10,5,5,2014-05-01,51.441328,0.368961
+231120,Jade Garden,3,10,10,10,2014-03-11,51.440019,0.37098
+231121,Jasbir Kaur,5,5,5,5,2012-11-30,,
+231122,Jassal Store,5,5,5,5,2013-07-08,51.418284,0.381994
+231123,Jeskyns Community Woodland Cafe,5,0,0,0,2014-04-29,51.4071,0.387553
+231124,Jill Olivers Kitchen,5,0,0,5,2012-10-04,,
+231125,Just One Bite,5,0,0,0,2014-07-14,,
+231126,Kate Feakins Cake Design,5,0,0,0,2014-09-30,51.435141,0.362281
+231127,Kenny's Cafe,5,5,5,5,2014-02-19,51.431729,0.394361
+231128,Kent Charcoal Grill,5,5,5,5,2013-03-18,51.442137,0.371651
+231129,Kevron Catering,5,0,5,0,2013-05-23,,
+231130,KFC,5,0,0,0,2014-10-24,51.428527,0.385087
+231131,KFC,5,0,0,0,2014-07-28,51.434074,0.352255
+231132,King Street Market,5,5,5,5,2013-01-15,51.442477,0.370387
+231133,Kings Arms,5,5,5,5,2015-01-22,51.360604,0.352884
+231134,Kings Diner,5,nan,nan,nan,2015-01-07,51.441447,0.370651
+231135,Kings Farm Grill,5,5,5,5,2015-01-21,51.426168,0.375499
+231136,Kings Farm Mini Market,5,0,5,5,2013-10-15,51.426168,0.375499
+231137,Kings Farm Primary School,5,5,0,0,2013-11-19,51.418534,0.375405
+231138,Kings Head,1,15,15,20,2013-07-19,51.442477,0.370387
+231139,Kings News & Wine,4,0,5,10,2014-10-15,51.442477,0.370387
+231140,Knights Place Cafe,4,10,5,5,2013-03-09,51.39402,0.443972
+231141,Kohinoor Spice,5,5,5,5,2013-07-31,51.406047,0.352915
+231142,Larchwood Grove,5,5,5,5,2012-08-21,51.432833,0.374578
+231143,Le Spice,5,nan,nan,nan,2014-02-11,51.424384,0.379621
+231144,Lean Meats,5,0,0,5,2014-05-08,51.436189,0.357558
+231145,Leisure King Ltd,5,5,5,5,2014-06-04,51.434909,0.352312
+231146,Leonardo's,5,0,0,5,2013-06-05,51.441739,0.369097
+231147,Lidl UK,5,0,0,0,2013-08-06,51.444244,0.360405
+231148,Little Angels Day Nursery,5,5,5,5,2014-10-07,51.439711,0.338414
+231149,Little Hermitage Wedding Venue,5,0,0,0,2014-09-29,51.452751,0.584837
+231150,Little Kent Cakery,5,0,0,0,2013-08-13,,
+231151,Little Stars Day Nursery,4,10,0,10,2013-11-25,51.431614,0.369911
+231152,Lituanica / Food4U,5,0,0,5,2013-08-16,51.442117,0.365533
+231153,Livingstone Road Stores,5,5,5,5,2013-10-16,51.418284,0.381994
+231154,Londis,4,5,10,5,2014-07-31,51.37592,0.360912
+231155,Londis,3,5,10,10,2014-04-07,51.441477,0.374509
+231156,Londis,4,5,10,5,2013-10-29,51.330457,0.359221
+231157,Lucky Dragon,5,5,5,5,2013-10-18,51.431729,0.394361
+231158,Lucky Jade Chinese Takeaway,5,0,5,5,2013-09-27,51.424384,0.379621
+231159,Lunch Box,5,5,5,5,2014-04-22,51.44558,0.357452
+231160,M & D Wine Merchants Ltd,5,5,0,5,2012-04-19,51.438751,0.369216
+231161,Man Of Kent PH,5,5,5,5,2014-08-04,51.437668,0.366714
+231162,Maries Tea Room,4,10,5,5,2014-07-15,51.443787,0.369649
+231163,Marinos Fish Bar,5,5,0,0,2013-08-15,51.417437,0.410154
+231164,Market Cafe,5,5,5,5,2015-01-13,51.443182,0.369776
+231165,Market Garden,5,0,0,0,2013-01-30,51.443182,0.369776
+231166,Marks Ices (N927 UOC),5,0,0,0,2013-07-29,,
+231167,Martins,5,5,0,0,2013-06-17,51.425936,0.342817
+231168,Masum Indian Takeaway,4,5,10,5,2014-05-20,51.431729,0.394361
+231169,Mayfield Grammar School Gravesend,5,5,0,0,2014-01-27,51.436646,0.359438
+231170,Mayflower,4,5,5,10,2013-11-19,51.443402,0.336415
+231171,Mayflower Care Centre,5,0,0,0,2014-09-29,51.42979,0.357775
+231172,McColls,5,0,0,0,2012-05-15,51.38482,0.357504
+231173,McColls,5,5,5,5,2014-09-30,51.418366,0.39385
+231174,McDonalds Restaurant Ltd,5,0,0,0,2014-10-22,51.442279,0.367758
+231175,Meadows,5,0,5,5,2014-03-18,51.415026,0.459129
+231176,Meat Express,5,5,5,5,2014-04-01,51.426948,0.39988
+231177,Meme's Cakes,5,0,0,0,2014-04-14,,
+231178,Meopham Bakery Ltd T/A Station Bakery,2,15,15,10,2014-04-28,51.38482,0.357504
+231179,Meopham Country Club,5,5,5,5,2013-02-22,51.364011,0.357914
+231180,Meopham School,5,5,0,0,2014-06-10,51.36892,0.359733
+231181,Meopham Tandoori,5,5,5,5,2013-11-26,51.37592,0.360912
+231182,Meopham Valley Vineyard,5,0,0,0,2013-09-27,51.363235,0.356682
+231183,Merston Court Lunch Club,5,0,0,0,2014-12-05,51.415947,0.461969
+231184,Mia's,5,5,0,0,2013-11-05,51.428527,0.385087
+231185,Mia's Of Sidcup Ltd,5,5,5,5,2013-06-18,51.428282,0.367466
+231186,Milaad 2,5,5,5,5,2014-11-10,51.442612,0.365055
+231187,Millers Cottage Public House,5,5,0,0,2013-09-17,51.435229,0.372588
+231188,Milos,5,0,5,5,2014-08-11,51.443116,0.384567
+231189,Milton Ale Shades Public House,4,nan,nan,nan,2014-01-31,51.438797,0.386903
+231190,Milton Kebab,4,5,5,10,2014-09-08,51.441477,0.374509
+231191,Milton Mini Meals,5,5,5,5,2012-06-12,51.442137,0.371651
+231192,Milton Munchies,5,0,0,0,2014-11-12,51.438797,0.386903
+231193,Milton Road Mini Mart,4,5,5,10,2014-01-27,51.442137,0.371651
+231194,Milton Road Newsagents,5,5,5,5,2014-01-13,51.440119,0.377144
+231195,Milton Social Club,5,5,0,5,2015-01-23,51.439748,0.386133
+231196,Miramar,5,5,5,5,2013-03-27,51.43589,0.355413
+231197,Mister Softee GL05 TUV,5,0,0,0,2014-09-16,,
+231198,Mister Softee PE07 SVO,5,0,0,0,2014-09-24,,
+231199,Mitie Catering Services Limited,5,5,0,5,2014-08-21,51.439503,0.391962
+231200,Monika's International,4,10,5,5,2012-02-29,51.442771,0.371439
+231201,Moores Convenience Store,4,5,0,10,2014-12-08,51.411842,0.383902
+231202,Morrisons,5,5,5,5,2013-03-05,51.420048,0.354311
+231203,Moyibo Afro-Caribbean Meat & Grocery Store,3,5,10,10,2013-07-23,51.442684,0.370859
+231204,Mr Whippy - DU03 HWK,5,0,0,0,2013-09-23,,
+231205,Nannidoo's Pantry & Crafts,4,5,5,10,2013-07-24,,
+231206,Nanny Janets,5,0,5,0,2013-06-25,51.441477,0.374509
+231207,Nells Cafe,5,5,5,5,2014-05-30,51.408449,0.388443
+231208,New Dragon,4,5,10,5,2014-08-05,51.440896,0.364952
+231209,New Life Takeaway,5,0,0,0,2014-12-15,51.438361,0.388866
+231210,New Road Grocery,5,5,5,5,2014-09-02,51.442612,0.365055
+231211,Newsbox,5,5,5,5,2013-10-23,51.431729,0.394361
+231212,Nicksons Snack Shack,5,0,0,0,2013-04-24,51.433799,0.35119
+231213,Nisa,5,5,5,5,2013-07-08,51.442045,0.348952
+231214,Nisa Local,1,5,20,20,2014-02-04,51.438797,0.386903
+231215,Nisha Convenience T/A Savemore,4,10,5,5,2014-09-15,51.442885,0.336173
+231216,No 84,5,5,5,5,2014-02-13,51.431848,0.375247
+231217,No.38,5,0,5,5,2013-10-02,51.441771,0.364407
+231218,North West Kent College Refectory,5,0,0,0,2013-10-24,51.432426,0.396297
+231219,Northfleet Canteen,5,0,0,0,2013-07-31,51.44207,0.351299
+231220,Northfleet District Traders Association,5,5,0,0,2013-04-26,51.44153,0.337859
+231221,Northfleet Fish Bar,5,5,5,5,2015-01-14,51.433959,0.353083
+231222,Northfleet Ice Cream (Reg V133 KOA),5,0,5,0,2013-05-15,,
+231223,Northfleet Ice Cream JBZ 8943,5,0,0,0,2014-09-01,,
+231224,Northfleet School For Girls,5,0,0,0,2013-07-03,51.428952,0.340828
+231225,Now We're Cooking,5,5,5,5,2012-10-01,,
+231226,NSFG @ Lawn County Primary School,5,0,0,0,2013-10-07,51.445116,0.331206
+231227,Oakfields Day Nursery,5,0,0,0,2014-04-11,51.420986,0.370713
+231228,Oboma (UK) Limited,5,0,0,5,2014-04-10,51.442045,0.348952
+231229,Old Gravesendians Association,5,0,0,5,2013-02-16,51.435749,0.376226
+231230,Old Prince Of Orange,3,10,5,10,2013-03-20,51.432698,0.370543
+231231,Orchard Cottage,5,5,5,5,2013-06-06,51.432337,0.381732
+231232,Oriental Delight,5,5,5,5,2014-12-16,51.435155,0.390397
+231233,Our Lady's Pre School,5,0,0,0,2013-01-31,51.439796,0.336864
+231234,Overcliffe Hotel & Bloomers Restaurant,4,0,5,10,2013-06-12,51.442676,0.358295
+231235,Owl Pre School,5,0,0,0,2014-10-30,51.425581,0.356436
+231236,Palm Beach Cafe @ Cascades Leisure Centre,5,5,0,5,2014-07-07,51.420268,0.39848
+231237,Papa John's,5,5,5,5,2013-08-05,51.433799,0.35119
+231238,Park Avenue Stores,5,5,5,5,2013-05-29,51.435362,0.348566
+231239,Party King,5,0,0,0,2014-08-19,51.440019,0.37098
+231240,Peacock Public House,5,5,5,5,2012-07-03,51.439273,0.37274
+231241,Peasher Restaurant And Bar,5,5,5,5,2015-02-02,51.443716,0.369156
+231242,Pelham Arms PH,4,10,5,5,2013-09-17,51.435245,0.357552
+231243,Pelham Grocers T/A Londis,5,5,5,5,2014-09-08,51.435438,0.358253
+231244,Pelham Lodge,5,0,0,0,2014-05-16,51.438202,0.360324
+231245,Pelham Road Service Station,5,5,5,5,2013-11-12,51.434487,0.354535
+231246,Perfect Pizza (Fronting Queen Street),5,5,5,5,2013-09-05,51.442477,0.370387
+231247,Perry Cafe,5,5,5,5,2015-01-27,51.434183,0.354001
+231248,Perry Grill,5,5,5,5,2015-01-28,51.433959,0.353083
+231249,Perry Street Conservative Club Ltd,5,5,0,5,2012-10-29,51.434074,0.352255
+231250,Pie In The Sky,5,0,0,0,2014-01-09,,
+231251,Pizza Go Go,5,0,5,5,2014-09-30,51.444243,0.369802
+231252,Pizza Hut,5,5,0,5,2013-10-14,51.434074,0.352255
+231253,Pizza Hut,5,0,0,0,2014-01-06,51.444244,0.360405
+231254,Play And Learn Day Nursery,5,0,0,5,2014-06-30,51.437539,0.373556
+231255,Polski Shop,5,5,5,5,2014-05-20,51.441627,0.371941
+231256,Porchfield Bed & Breakfast,4,0,0,10,2012-10-15,51.427877,0.378148
+231257,Postscript,5,0,0,0,2013-11-12,51.432013,0.39934
+231258,Poundland,5,5,5,5,2014-11-10,51.441979,0.368318
+231259,Poundstretcher,5,5,5,5,2014-06-17,51.443105,0.367369
+231260,Prawn Starz,4,5,10,5,2014-04-15,51.418254,0.392737
+231261,Premier CJC Convenience Store,5,5,5,5,2014-02-04,51.440684,0.382958
+231262,Pricefair,5,5,5,5,2013-05-20,51.426168,0.375499
+231263,Pride Catering @ Nelson Court,5,5,0,0,2013-12-06,51.433364,0.373642
+231264,Princess Supermarket,4,5,5,10,2012-05-10,51.441477,0.374509
+231265,Principal Catering  Ltd @ Raynehurst Community School,5,0,0,0,2013-07-10,51.423026,0.392439
+231266,Principal Catering  Ltd @ Shears Green Infants School,5,0,0,0,2013-05-16,51.425581,0.356436
+231267,Principal Catering  Ltd @ Shears Green Junior School,5,5,0,5,2013-05-15,51.424577,0.354946
+231268,Principal Catering @ Painters Ash Primary School,5,0,0,0,2014-05-20,51.425196,0.338406
+231269,Principal Catering @ Singlewell Primary School,5,0,0,0,2014-04-25,51.411842,0.383902
+231270,Principal Catering @ St Johns Primary School,5,5,0,5,2014-04-25,51.434232,0.384953
+231271,Principal Catering Consultants @ Cecil Road Primary School,5,0,0,0,2014-11-27,51.433424,0.356423
+231272,Priscilla's Pantry,5,nan,nan,nan,2014-02-18,51.440019,0.37098
+231273,Promanade Cafe,5,5,0,5,2013-09-23,51.444416,0.376806
+231274,Punjab Meat Market,5,5,0,5,2014-07-08,51.43857,0.365681
+231275,Quich'licious,5,0,0,5,2014-09-05,51.437099,0.394282
+231276,R & M Italiano,5,0,5,5,2014-06-25,51.440019,0.37098
+231277,Rai Dairies,5,5,5,5,2012-08-13,,
+231278,Railway Inn,4,10,0,10,2014-01-20,51.383174,0.378014
+231279,Railway Tavern,4,5,5,10,2013-08-27,51.38482,0.357504
+231280,Rainbow,5,5,5,5,2014-01-14,51.442347,0.365689
+231281,Rasoighar,4,10,0,10,2013-11-04,51.442137,0.371651
+231282,Red Lion Burger Van,3,5,10,10,2014-07-29,,
+231283,Red Lion Public House,3,10,10,5,2013-07-23,51.44397,0.347583
+231284,Regans Bar,4,10,5,5,2013-09-17,51.420268,0.39848
+231285,Reliance Fish Restaurant,5,5,5,5,2014-03-04,51.442771,0.371439
+231286,Riva Bar & Restaurant,1,5,5,20,2013-03-14,51.444997,0.369395
+231287,Riverview Fish Bar,4,10,5,5,2014-02-11,51.418351,0.395474
+231288,Riverview Junior School,5,0,0,0,2013-10-18,51.419813,0.389927
+231289,Robert Pocock Public House,5,0,0,0,2013-11-13,51.441739,0.369097
+231290,Rochester & Cobham Golf Club (Bar Area),5,0,0,0,2013-08-06,51.1696586609,0.75830000639
+231291,Rochester And Cobham Park Golf Club  (Catering Facilities),5,5,0,0,2013-08-06,51.1696586609,0.75830000639
+231292,Rosebank,5,0,0,0,2013-07-16,51.438202,0.360324
+231293,Royal Cash & Carry,5,nan,nan,nan,2014-06-19,51.441261,0.362036
+231294,RS Express,5,0,0,0,2014-12-09,51.440896,0.364952
+231295,Ruby Lodge,5,5,0,0,2012-08-21,51.438202,0.360324
+231296,Ruby Murry,5,5,5,5,2014-08-05,51.427529,0.357069
+231297,Rum Puncheon,5,5,5,5,2014-02-03,51.445006,0.368518
+231298,Sadie's Cafe,5,0,0,5,2014-09-24,51.435948,0.331401
+231299,Saffron Lounge,5,5,5,5,2013-11-14,51.443402,0.336415
+231300,Sainsburys Supermarket,5,0,0,0,2013-10-03,51.1696586609,0.75830000639
+231301,Sallys Fish Bar,5,5,0,5,2014-07-02,51.446256,0.328587
+231302,Sam Ice Cream - LY55 NLD,5,0,0,5,2013-06-29,,
+231303,Sanchos,5,5,5,5,2014-04-22,51.442137,0.371651
+231304,Saprano's Pizza,4,nan,nan,nan,2014-06-17,51.439208,0.371513
+231305,Save On,4,0,10,5,2014-12-08,51.428527,0.385087
+231306,See Ho Public House,3,10,10,10,2013-08-27,51.406663,0.439742
+231307,Select Services Shop,5,5,5,5,2013-06-05,51.440987,0.365346
+231308,Senior Lunch Club,5,5,5,5,2013-09-16,51.407066,0.352321
+231309,Shapla,5,5,5,5,2014-03-18,51.440019,0.37098
+231310,Shell Chalk,4,10,5,5,2014-05-27,51.431732,0.395959
+231311,Shere Punjab Of Kent,3,10,10,10,2013-05-20,51.442455,0.355002
+231312,Shergill Food & Wine Ltd,5,5,5,5,2014-12-29,51.446004,0.326315
+231313,Sheringham House,5,0,0,0,2014-02-18,51.431542,0.377475
+231314,Ship & Lobster Public House,5,5,5,5,2012-03-28,51.442191,0.397283
+231315,Shorne Primary School,5,0,5,0,2013-09-16,51.415257,0.431714
+231316,Shorne Village Store,5,5,5,5,2014-08-04,51.414189,0.430723
+231317,Shorne Wood Country Park Visitors Centre,5,0,0,0,2013-03-18,51.404233,0.419439
+231318,Silverstorm Cafe,5,5,0,0,2014-01-20,51.435016,0.3919
+231319,Simone's Boutique Bakery,5,5,5,5,2012-06-19,,
+231320,Simply Lunch,5,0,0,0,2013-02-12,,
+231321,Simply Spuds,5,0,5,0,2014-07-31,51.442999,0.366831
+231322,Singlewell Food & Wine,5,5,5,5,2012-10-31,51.431818,0.369145
+231323,Singlewell Road Post Office,5,5,5,5,2014-08-04,51.428282,0.367466
+231324,Sir John Falstaff Public House,5,0,0,0,2014-01-24,51.411148,0.458792
+231325,Six Bells Inn & Restaurant,5,0,0,5,2013-11-19,51.433799,0.35119
+231326,Smart Mini Maket,5,5,5,5,2013-02-20,51.434821,0.354495
+231327,Smart Start Day Nursery,5,0,0,0,2014-05-02,51.442129,0.358655
+231328,Snack Attack,5,5,5,5,2015-01-13,51.441285,0.370182
+231329,Snax R Us,4,10,5,5,2014-06-25,51.444244,0.360405
+231330,Sodexo Ltd @ Northfleet Technology College,5,0,0,0,2014-01-16,51.437867,0.339045
+231331,Sodexo Ltd @ St Johns Roman Catholic School,5,0,0,0,2013-09-09,51.434232,0.384953
+231332,Sodexo Ltd @ Thamesview School,5,0,0,0,2014-01-31,51.422208,0.398596
+231333,Southern Valley Golf Club Clubhouse,5,5,0,5,2014-12-10,51.419164,0.404492
+231334,Southhill Bank,5,5,0,5,2013-03-18,51.435205,0.374687
+231335,Spar,5,0,5,5,2014-04-03,51.34125,0.345761
+231336,Spar Service Station,5,0,0,0,2013-08-19,51.434591,0.36054
+231337,Spar Supermarket,5,0,0,0,2013-10-04,51.37592,0.360912
+231338,Spend + Save,5,5,0,5,2014-07-23,51.433959,0.353083
+231339,Spices,5,5,5,5,2013-10-01,51.440732,0.373967
+231340,Spiderman F217 SMP,5,0,0,0,2013-05-13,,
+231341,Sports Cafe,5,nan,nan,nan,2014-10-06,51.420706,0.375201
+231342,Spotlites Brasserie,5,5,5,5,2014-03-11,51.440051,0.368506
+231343,Sri Guru Nanak Darbar Gurdwara,5,5,0,5,2012-03-21,51.43923,0.377098
+231344,St Georges Church Of England Academy,5,0,0,0,2013-06-04,51.428459,0.361361
+231345,St Georges Restaurant,5,0,0,5,2014-01-21,51.440742,0.373017
+231346,St Joseph Convent Prep School,5,5,0,5,2013-03-05,51.430892,0.380261
+231347,Standons Newsagents,5,5,5,5,2013-07-19,51.427076,0.376409
+231348,Star Grill,5,5,0,0,2014-09-18,51.440019,0.37098
+231349,Stone Willy's Pizza,5,0,5,5,2013-10-29,51.38603,0.362194
+231350,Subway,5,5,0,5,2014-04-23,51.443107,0.369053
+231351,Sue's Home Made Cupcakes,4,5,5,10,2013-04-17,51.426766,0.381011
+231352,Sukhothai,5,5,0,0,2013-12-30,51.441666,0.369611
+231353,Sumathy Convenience Store,5,0,5,5,2014-08-27,51.43648,0.353832
+231354,Sunnyside Guest House,5,5,5,5,2014-06-02,51.434449,0.369813
+231355,Susan Gurr,5,5,5,5,2012-10-01,,
+231356,Suzi's Cakes,5,0,0,0,2015-01-15,,
+231357,Sweet Cake Delights,5,0,0,5,2014-07-17,,
+231358,T. Dass & Sons,5,5,0,0,2013-09-20,51.438356,0.365598
+231359,Taste House Chinese Takeaway,5,5,5,5,2013-03-13,51.416302,0.459615
+231360,Taste Of China,5,5,5,5,2014-09-10,51.442771,0.371439
+231361,Tasty House,4,10,0,10,2015-01-14,51.436892,0.354357
+231362,Taverna Food And Wine,5,0,0,5,2013-07-24,51.443529,0.374399
+231363,Taylors Shellfish,4,0,10,10,2013-07-05,51.426685,0.339072
+231364,Terry Discount Store,5,5,0,5,2014-02-13,51.443107,0.369053
+231365,Tesco,5,0,0,0,2013-05-29,51.434074,0.352255
+231366,Tesco,5,0,0,0,2013-11-25,51.37592,0.360912
+231367,Tesco,5,0,0,0,2013-06-26,51.418403,0.394657
+231368,Tesco,5,0,0,0,2014-07-03,51.424384,0.379621
+231369,Tesco Express,5,0,0,0,2012-07-03,51.428527,0.385087
+231370,Tesco Metro,5,5,0,0,2014-02-15,51.442279,0.367758
+231371,Thames House,4,5,5,10,2015-01-15,51.444363,0.373651
+231372,The Ascot Arms,5,5,5,5,2013-02-18,51.427076,0.376409
+231373,The Bench Cafe,5,5,5,5,2013-05-21,51.442074,0.370309
+231374,The Bluebell Cafe,5,5,5,5,2014-01-13,51.325194,0.341856
+231375,The Brothers Fish Bar,5,5,5,5,2014-06-01,51.440019,0.37098
+231376,The Canal Tavern,5,0,0,5,2014-10-23,51.442288,0.38415
+231377,The Chestnuts Care Home,5,0,0,0,2013-11-13,51.386746,0.354785
+231378,The China Garden,5,5,5,5,2015-01-29,51.417437,0.410154
+231379,The Clarence,5,5,0,5,2012-05-23,51.437292,0.369327
+231380,The Cock Inn,5,5,0,5,2013-10-16,51.378702,0.394438
+231381,The Compass Ale House,5,0,5,5,2014-12-09,51.441285,0.370182
+231382,The Copperfield,5,5,0,0,2013-09-18,51.419195,0.437404
+231383,The Cricketers,5,5,0,5,2014-10-02,51.43857,0.365681
+231384,The Cricketers Inn,5,5,5,5,2014-01-28,51.360145,0.351998
+231385,The Crown Public House,5,5,5,5,2013-05-23,51.433959,0.353083
+231386,The Cute Cupcake Company,5,0,0,0,2011-11-14,,
+231387,The Darnley Arms,4,5,10,5,2014-04-15,51.39047,0.39948
+231388,The Darnley Arms,4,5,5,10,2014-06-19,51.437382,0.366195
+231389,The Early Morning Cafe,5,0,0,0,2014-05-19,51.441932,0.365783
+231390,The Echo Public House,5,5,5,5,2014-06-10,51.431542,0.377475
+231391,The Eggfree Cake Box,3,5,10,10,2014-07-28,51.441627,0.371941
+231392,The Elephants Head,5,0,0,5,2015-01-26,51.442455,0.355002
+231393,The Forresters Arms,4,10,5,5,2014-12-30,51.440019,0.37098
+231394,The Gallery Restaurant,5,0,0,0,2014-06-26,51.432426,0.396297
+231395,The Gandhi,5,5,5,5,2013-09-30,51.445348,0.366737
+231396,The Gardeners Arms,5,5,0,5,2015-01-08,51.415026,0.459129
+231397,The George,5,5,0,5,2014-08-27,51.442771,0.371439
+231398,The George PH & The Carvery,4,10,5,5,2014-03-13,51.411418,0.376877
+231399,The Golden Lion,4,5,5,10,2013-12-06,51.372,0.398945
+231400,The Goose,5,5,5,5,2013-10-22,51.442074,0.370309
+231401,The Granby Hotel,5,5,5,5,2014-05-13,51.442122,0.33658
+231402,The Grapes Bar Cafe,5,0,0,0,2014-04-29,51.441627,0.371941
+231403,The Grove Nightclub,5,0,0,0,2014-03-18,51.441202,0.372537
+231404,The Higham Oven Bake,5,0,0,0,2015-01-27,51.416302,0.459615
+231405,The Hill Tandoori,3,10,10,10,2014-03-12,51.442122,0.33658
+231406,The Hollies,5,0,0,0,2015-01-29,51.440052,0.364448
+231407,The Jolly Drayman,4,10,5,5,2015-01-06,51.440654,0.374725
+231408,The Kent,5,0,0,0,2012-08-30,51.443787,0.369649
+231409,The Knowle Country House Restaurant,5,5,5,5,2014-06-20,51.419954,0.462155
+231410,The Leather Bottle,5,5,5,5,2013-11-20,51.39047,0.39948
+231411,The Local Food Store,5,0,0,0,2014-08-07,51.415583,0.460051
+231412,The Lotus House,5,5,5,5,2014-01-22,51.418366,0.39385
+231413,The Marlin Plaice,5,5,0,5,2014-11-26,51.441666,0.369611
+231414,The Meeting Place,5,5,5,5,2015-01-23,51.444459,0.369353
+231415,The Middle Eight,5,5,0,5,2013-07-08,51.444997,0.369395
+231416,The New Inn,3,10,10,10,2015-01-21,51.442137,0.371651
+231417,The Painters Ash Public House,4,10,0,10,2013-07-08,51.426685,0.339072
+231418,The Paper Shop,5,5,5,5,2013-12-11,51.427529,0.357069
+231419,The Peking Chinese Restaurant,4,5,5,10,2014-07-11,51.441627,0.371941
+231420,The Railway Bell,5,5,0,5,2013-09-17,51.441951,0.366604
+231421,The Rickshaw Indian Takeaway,3,10,10,10,2014-01-16,51.440019,0.37098
+231422,The Rose And Crown,5,5,5,5,2014-08-26,51.413973,0.43074
+231423,The Rose Inn,3,10,5,10,2014-10-09,51.433959,0.353083
+231424,The Rose Inn,5,5,0,5,2013-02-26,51.445372,0.327794
+231425,The Royal Clarendon Hotel,4,5,5,10,2013-03-13,51.444438,0.37259
+231426,The Salvation Army,5,0,0,0,2013-07-15,51.440006,0.372058
+231427,The Ship Public House,4,10,0,5,2013-10-02,51.390349,0.402348
+231428,The Somerset Arms,4,5,5,10,2013-09-12,51.442117,0.365533
+231429,The Stores,4,5,10,0,2013-04-11,51.422023,0.37852
+231430,The Three Daws,5,nan,nan,nan,2014-06-11,51.444997,0.369395
+231431,The Three Tuns,5,5,0,5,2014-07-30,51.443107,0.369053
+231432,The Villager Public House,5,5,5,5,2013-05-29,51.330568,0.358193
+231433,The Wheatsheaf Public House,4,5,5,10,2013-09-09,51.442347,0.365689
+231434,The Windmill By Divizia,5,5,0,5,2014-02-04,51.441666,0.369611
+231435,The Windmill Cafe,5,5,0,0,2014-10-27,51.441666,0.369611
+231436,The Windmill Public House,5,5,0,5,2013-10-03,51.435229,0.372588
+231437,Three Crutches Public House,1,15,15,20,2014-10-06,51.399162,0.452714
+231438,TJ Snacks,5,5,5,5,2013-10-30,51.435163,0.343246
+231439,TJ's,5,0,0,0,2014-07-14,51.441477,0.374509
+231440,Toby Carvery,5,0,0,0,2014-07-10,51.420048,0.354311
+231441,Tollgate Service Station,3,10,10,10,2014-11-27,51.417265,0.36123
+231442,Tonibell Ice Cream Van,5,0,0,0,2013-05-21,,
+231443,Tonibell Ice Cream Van,5,0,0,0,2013-05-21,,
+231444,Total Catering Solutions @ Riverview Infants School,4,10,0,0,2013-06-06,51.419813,0.389927
+231445,Total Catering Solutions Ltd @ Cobham Primary School,5,0,0,0,2013-11-06,51.390349,0.402348
+231446,Total Catering Solutions Ltd @ Meopham Community Academy,5,0,0,0,2015-01-12,51.375076,0.359517
+231447,Total Catering Solutions Ltd @ St Botolphs Primary School,5,0,0,0,2013-10-14,51.439163,0.343336
+231448,Total Catering Solutions Ltd @ St Josephs RC Primary School,5,5,0,0,2014-02-26,51.439796,0.336864
+231449,Traditional Fish & Chips,4,5,5,10,2014-05-21,51.437907,0.364237
+231450,TRM Meats,5,0,0,0,2013-10-30,51.433517,0.367852
+231451,Trocadero,4,10,5,5,2015-01-05,51.441739,0.369097
+231452,Trokes,5,5,5,5,2014-07-31,51.431818,0.369145
+231453,Tufail Indian Cuisine,5,0,0,0,2014-12-11,51.438237,0.372384
+231454,Twin Dynasty,5,5,5,5,2014-02-07,51.439722,0.369237
+231455,U Anity,4,5,10,5,2014-07-22,51.442771,0.371439
+231456,Usta Pizza Charcoal Grill,5,0,5,5,2014-08-20,51.435155,0.390397
+231457,Valentino's Soft Ice Cream (C521 JBO),4,5,5,10,2014-08-26,,
+231458,Valentino's Soft Ice Cream (G179 LRN),5,0,5,5,2013-07-10,,
+231459,Valley Drive Post Office,5,0,0,0,2014-07-21,51.428527,0.385087
+231460,Valley Fish Bar,5,5,5,5,2014-10-16,51.428527,0.385087
+231461,Valley Grill,5,5,5,5,2014-11-24,51.428527,0.385087
+231462,View Point,1,5,10,20,2013-09-11,51.422208,0.398596
+231463,Vigo Food Centre,5,nan,nan,nan,2014-07-22,51.330457,0.359221
+231464,Vigo Little India,1,10,10,20,2014-10-22,51.330457,0.359221
+231465,Village Fryers,4,5,5,10,2013-10-21,51.416302,0.459615
+231466,Village Greengrocers,5,5,5,0,2014-09-29,51.416302,0.459615
+231467,Village Kebab House,5,5,5,5,2013-10-01,51.418366,0.39385
+231468,Vincents Catering,5,5,5,5,2013-11-14,,
+231469,Vincents Catering @ Mid Kent Golf Club,5,0,0,0,2014-05-09,51.426094,0.368058
+231470,Waterdales Kebab House,5,5,5,0,2015-01-13,51.433351,0.338506
+231471,Waterdales Supermarket,5,5,0,5,2013-04-10,51.433351,0.338506
+231472,Waterloo Tavern,5,5,5,5,2014-04-10,51.437539,0.373556
+231473,Westcourt School Catering Service,5,0,0,0,2013-06-06,51.430603,0.392216
+231474,Westcourt Supermarket,5,nan,nan,nan,2013-07-18,51.42703,0.393699
+231475,Whispers,5,5,0,0,2014-10-06,51.441447,0.370651
+231476,White Hart Harvester Restaurant,5,5,5,5,2013-10-01,51.431732,0.395959
+231477,Whitehill County Primary School,5,0,0,0,2014-05-14,51.427538,0.374908
+231478,Wickenden & Grants,5,5,5,5,2014-06-20,51.442999,0.366831
+231479,Wildwest American Diner,5,5,0,5,2015-01-06,51.442648,0.366367
+231480,Wilkinsons Hardware Store Ltd,5,0,0,0,2012-10-22,51.441979,0.368318
+231481,Windmill Lodge,5,0,0,0,2013-10-15,51.440352,0.336504
+231482,Wing Hing Restaurant,2,10,15,10,2014-08-06,51.431303,0.374614
+231483,Wing Lee,4,5,5,10,2013-08-20,51.441627,0.371941
+231484,Winnats Lodge,5,0,0,0,2012-09-03,51.352076,0.396051
+231485,Wombwell Hall Nursing Home,5,0,0,0,2014-04-16,51.429934,0.34659
+231486,Woodlands Beefeater,5,5,0,0,2014-03-10,51.43185,0.36401
+231487,Wrotham Road Primary School,5,0,0,0,2014-11-24,51.437738,0.367264
+231488,Ye Little Shoppe,5,0,0,0,2013-07-04,51.38357,0.379745
+231489,Ye Old Leather Bottle,5,5,5,5,2014-11-26,51.44153,0.337859
+231490,Ye Olde Coach And Horses Inn,5,5,5,5,2014-08-19,51.442885,0.336173
+231491,Young Risers Pre School,5,0,0,0,2014-10-22,51.402945,0.347062
+231492,Yummy,5,5,0,5,2013-05-14,51.442123,0.353172

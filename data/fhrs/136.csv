@@ -1,412 +1,412 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-232324,RAF Odiham,Alton Road,Odiham,HOOK,18 Sqdn. Ground Crew Bar,Restaurant/Cafe/Canteen,1,5,,4571,5,,51.24046500000000,01200/2016/X/008,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94521800000000,RG29 1QT,2014-01-29,fhrs_5_en-GB,5,,FHRS,5
-232325,RAF Odiham,Alton Road,Odiham,HOOK,27(R)Sqdn. Ground Crew Bar,Restaurant/Cafe/Canteen,1,5,,4572,5,,51.30820000000000,01200/2016/X/011,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95194900000000,RG27 1QT,2011-02-22,fhrs_4_en-GB,4,,FHRS,10
-232326,RAF Odiham,Alton Road,Odiham,HOOK,7 Sqdn. Groundcrew Bar,Restaurant/Cafe/Canteen,1,5,,4573,5,,51.24046500000000,01200/2016/X/012,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94521800000000,RG29 1QT,2011-02-10,fhrs_5_en-GB,5,,FHRS,5
-232327,194 Fleet Road,Fleet,Hampshire,,700 Degrees (takeaway Section Of Golden Triangle),Takeaway/sandwich shop,7844,5,,589413,5,,,13/00048/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-10-06,fhrs_5_en-GB,5,,FHRS,5
-232328,London Road,HOOK,Hampshire,,A Taste Of Little India,Takeaway/sandwich shop,7844,10,,589401,10,,51.28260100000000,07540/2118/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96326700000000,RG27 9DJ,2014-03-17,fhrs_3_en-GB,3,,FHRS,10
-232329,184-186A,Reading Road South,Church Crookham,FLEET,Abbeyfield Lodge,Hospitals/Childcare/Caring Premises,5,5,,32509,10,,51.26443100000000,09680/0184/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82906000000000,GU52 6AE,2012-03-22,fhrs_4_en-GB,4,,FHRS,5
-232330,General,Cove Road,Fleet,Hampshire,ABC Catering,Mobile caterer,7846,10,,361088,10,,51.29222100000000,09/00119/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82387800000000,,2013-12-01,fhrs_4_en-GB,4,,FHRS,0
-232331,194 Clarence Road,Fleet,,,ABC Kindergarten Ltd,School/college/university,7845,0,,8906,5,,51.27807000000000,03420/0194/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84236300000000,GU51 3XP,2014-07-30,fhrs_5_en-GB,5,,FHRS,5
-232332,13 Church Road,Fleet,Hampshire,,Active Monkeys Play Centre,Restaurant/Cafe/Canteen,1,10,,644346,10,,51.28373500000000,14/00002/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84333900000000,GU51 4NA,2014-01-16,fhrs_3_en-GB,3,,FHRS,10
-232333,33 Reading Road South,FLEET,Hampshire,,Al Fresco,Restaurant/Cafe/Canteen,1,5,,32516,5,,51.27743300000000,09690/0033/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84259400000000,GU52 7QP,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-232334,47 Albert Street,Fleet,,,Albert Social Club,Pub/bar/nightclub,7843,10,,4480,10,,51.28298000000000,01130/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83786600000000,GU51 3RL,2011-11-17,fhrs_3_en-GB,3,,FHRS,5
-232335,46 London Road,Blackwater,Camberley,,Aldi Stores Limited,Retailers - other,4613,5,,24217,5,,51.33082400000000,07520/0046/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.78096400000000,GU17 0AA,2013-02-01,fhrs_5_en-GB,5,,FHRS,5
-232336,2,Kingfisher Parade,Rosemary Lane,Blackwater,Ali Shan Tandoori,Takeaway/sandwich shop,7844,10,,32676,10,,51.33694500000000,09970/0000/3/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79637800000000,GU17 0LL,2014-08-14,fhrs_3_en-GB,3,,FHRS,10
-232337,Leawood Road,FLEET,Hampshire,,All Saints Junior School,School/college/university,7845,5,,24096,5,,51.27517200000000,07360/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85588300000000,GU51 5AJ,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-232338,Ancells Farm Community Centre,Falkners Close,Fleet,Hampshire,Ancells Farm Pre-School,Hospitals/Childcare/Caring Premises,5,5,,418878,5,,51.29497900000000,10/00017/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82386600000000,GU51 2XF,2012-06-01,fhrs_5_en-GB,5,,FHRS,5
-232339,Unit 3,11 Falkners Close,Fleet,,Ancells Fish And Chips,Takeaway/sandwich shop,7844,,,14018,,,51.29497900000000,04600/0011/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82386600000000,GU51 2XF,2012-01-23,fhrs_5_en-GB,5,,FHRS,
-232340,Anite Telecoms Ltd,Automation House,Harvest Crescent,Fleet,Anite Telecom,Restaurant/Cafe/Canteen,1,5,,492853,10,,51.29789100000000,09/00226/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82909900000000,GU51 2UZ,2014-06-26,fhrs_3_en-GB,3,,FHRS,10
-232341,,,,,Appetisers,Restaurant/Cafe/Canteen,1,0,,589398,5,,,05960/0020/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-09-26,fhrs_5_en-GB,5,,FHRS,5
-232342,335-337 Fleet Road,Fleet,,,ASK Restaurants Ltd,Restaurant/Cafe/Canteen,1,5,,14437,5,,51.27835800000000,05/00002/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84515100000000,GU51 3NT,2013-10-18,fhrs_5_en-GB,5,,FHRS,0
-232343,31 Plough Road,Yateley,Hampshire,,Babbling Brook Cafe Ltd,Other catering premises,7841,5,,30682,10,,51.34225400000000,09/00246/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82238400000000,GU46 7UW,2014-01-27,fhrs_4_en-GB,4,,FHRS,5
-232344,Unit 2,Monteagle Lane,Yateley,,Balfour News,Retailers - other,4613,5,,27860,5,,51.33981500000000,08250/2016/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84655100000000,GU46 6LT,2013-02-19,fhrs_5_en-GB,5,,FHRS,5
-232345,Post Office,2 Harpton Parade,Yateley,,Balfour News And Post Office,Retailers - other,4613,5,,1634,5,,51.34329500000000,00310/0002/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83026800000000,GU46 7SB,2010-06-07,fhrs_4_en-GB,4,,FHRS,10
-232346,Dimesion Data,2 Waterfront Business Park,Fleet,,Baxter Storey,Restaurant/Cafe/Canteen,1,5,,14547,5,,51.29049700000000,05/00018/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83149500000000,GU51 3QY,2011-04-14,fhrs_5_en-GB,5,,FHRS,0
-232347,Beacon House,Victoria Hill Road,FLEET,Hampshire,Beacon House Residential Home,Hospitals/Childcare/Caring Premises,5,5,,52643,5,,51.28361100000000,11910/2016/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84990900000000,GU51 4LG,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-232348,5 White Hart House,London Road,Blackwater,Camberley,Beijing Restaurant,Other catering premises,7841,20,,2926,10,,51.33151000000000,01000/0005/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77770200000000,GU17 9AD,2014-10-15,fhrs_1_en-GB,1,,FHRS,15
-232349,31 High Street,Hartley Wintney,Hook,Hampshire,Bellini,Other catering premises,7841,10,,34559,5,,51.30761900000000,10/00128/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89844600000000,RG27 8NW,2012-05-28,fhrs_4_en-GB,4,,FHRS,5
-232350,Down Farm,Alton Road,Odiham,HOOK,Best Kebab's (mobile),Mobile caterer,7846,10,,589393,10,,51.23662900000000,01200/2014/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95473100000000,RG29 1QX,2013-07-11,fhrs_3_en-GB,3,,FHRS,10
-232351,Roundabout At Junction A287,Farnham Road,Odiham,Hook,"Big Tasty (Van Stored At Down Farm) 49 Knights Street, RG21",Mobile caterer,7846,10,,589408,10,,,11/00122/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2013-07-11,fhrs_3_en-GB,3,,FHRS,5
-232352,Blackwater Valley Golf Centre,Chandlers Lane,Yateley,Hampshire,Bistro 19,Restaurant/Cafe/Canteen,1,5,,26011,5,,51.34817700000000,08/00177/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83282900000000,GU46 7SZ,2014-12-11,fhrs_5_en-GB,5,,FHRS,5
-232353,227B Fleet Road,FLEET,Hampshire,,Boots The Chemist,Retailers - other,4613,0,,14290,5,,51.28123800000000,04900/0225/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84173800000000,GU51 3BX,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-232354,141 Clarence Road,FLEET,Hampshire,,British Red Cross Society,Other catering premises,7841,5,,8905,10,,51.27807000000000,03420/0141/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84236300000000,GU51 3XP,2011-08-10,fhrs_4_en-GB,4,,FHRS,5
-232355,Redfields Garden Centre Ltd,Ewshot Lane,Church Crookham,Fleet,Brown And Green,Retailers - other,4613,,,631801,,,51.25524200000000,13/00131/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84547200000000,GU52 8UB,2014-02-27,fhrs_4_en-GB,4,,FHRS,
-232356,11 Wessex Avenue,Odiham,Hook,Hampshire,Bumblebee Catering Ltd,Other catering premises,7841,5,,612390,5,,51.24537200000000,13/00065/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94397400000000,RG29 1PW,2013-09-24,fhrs_5_en-GB,5,,FHRS,5
-232357,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,Burger King,Restaurant/Cafe/Canteen,1,5,,28373,5,,51.29612200000000,08910/2002/X/012,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2014-05-30,fhrs_5_en-GB,5,,FHRS,5
-232358,Buryfields,Odiham,Hook,,Buryfields Infant School,School/college/university,7845,5,,23918,5,,51.25185400000000,07090/2028/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93987100000000,RG29 1NE,2011-05-27,fhrs_5_en-GB,5,,FHRS,5
-232359,Dera Pyestock,Ively Road,Farnborough,,Busy Bees Nursery,Hospitals/Childcare/Caring Premises,5,0,,21107,0,,51.28163600000000,06830/2000/X/003,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79217500000000,GU14 0LL,2014-04-09,fhrs_5_en-GB,5,,FHRS,5
-232360,14 Tweseldown Road,Church Crookham,Fleet,Hampshire,Buttercups Day Nursery,School/college/university,7845,5,,52135,5,,51.25909900000000,11740/0014/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83085800000000,GU52 8DE,2014-11-04,fhrs_5_en-GB,5,,FHRS,5
-232361,Fleet Railway Station,Station Approach,Fleet,Hampshire,Cafe Destino Ltd,Restaurant/Cafe/Canteen,1,5,,722203,10,,51.29049700000000,14/00108/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83149500000000,GU51 3QY,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-232362,River Court,Meadows Business Park,Station Road,Blackwater,Caffe Kix Ltd,Manufacturers/packers,7839,5,,530897,5,,51.33301200000000,12/00150/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77774800000000,GU17 9AB,2014-05-23,fhrs_5_en-GB,5,,FHRS,0
-232363,4 Falkners Close,Fleet,Hampshire,,Caffe Lusso Ltd,Restaurant/Cafe/Canteen,1,5,,722204,5,,51.29497900000000,14/00147/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82386600000000,GU51 2XF,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-232364,Hitches Lane,Fleet,,,Calthorpe Park School,School/college/university,7845,5,,20831,5,,51.27891300000000,06480/2010/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86234200000000,GU51 5JA,2014-05-14,fhrs_4_en-GB,4,,FHRS,10
-232365,9 - 10 Optrex Business Park,Ridge Lane,Rotherwick,Hook,Carbonis,Mobile caterer,7846,5,,693227,5,,51.29661700000000,14/00066/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.98756300000000,RG27 9AY,2014-08-01,fhrs_5_en-GB,5,,FHRS,0
-232366,RAF Odiham,Alton Road,Odiham,HOOK,CASF Tea Bar,Restaurant/Cafe/Canteen,1,10,,4566,5,,51.24046500000000,01200/2016/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94521800000000,RG29 1QT,2011-02-22,fhrs_4_en-GB,4,,FHRS,5
-232367,Robert Mays School,West Street,Odiham,HOOK,Cater Link,School/college/university,7845,5,,54518,5,,51.25312900000000,12290/2030/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95263800000000,RG29 1NA,2014-09-25,fhrs_5_en-GB,5,,FHRS,0
-232368,Reading Road,Eversley,Hook,,Centre Stores,Retailers - other,4613,5,,32414,5,,51.34852200000000,09590/2007/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86899100000000,RG27 0NB,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-232369,Glaston Hill Road,Eversley,HOOK,Hampshire,Charles Kingsley School,School/college/university,7845,0,,16906,0,,51.34728600000000,05380/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.87791000000000,RG27 0LX,2013-03-06,fhrs_5_en-GB,5,,FHRS,0
-232370,5 Kingfisher Parade,Darby Green Road,Blackwater,Camberley,Chens,Takeaway/sandwich shop,7844,10,,13418,10,,51.33614800000000,04060/2023/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79664300000000,GU17 0DF,2014-07-23,fhrs_3_en-GB,3,,FHRS,10
-232371,Reading Road,Eversley Cross,HOOK,Hampshire,Chequers Public House,Pub/bar/nightclub,7843,5,,32419,10,,51.34818700000000,09600/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85762700000000,RG27 0NS,2013-08-14,fhrs_4_en-GB,4,,FHRS,0
-232372,Reading Road,Mattingley,Hook,,Cherry Lodge Guest House,Hotel/bed & breakfast/guest house,7842,5,,32443,10,,51.29844800000000,09620/2044/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.99030600000000,RG27 9BB,2012-03-16,fhrs_4_en-GB,4,,FHRS,5
-232373,15 Cypress Way,Blackwater,Camberley,Surrey,Choices (Munchtimes),Restaurant/Cafe/Canteen,1,0,,30487,5,,51.33345600000000,09/00202/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.80069000000000,GU17 0EG,2011-06-17,fhrs_5_en-GB,5,,FHRS,0
-232374,Maze Hill,Plough Lane,Bramshill,Hook,Christine Vandervlist,Manufacturers/packers,7839,5,,555283,5,,51.34085100000000,13/00032/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.92033300000000,RG27 0RF,2013-05-22,fhrs_5_en-GB,5,,FHRS,5
-232375,355 Fleet Road,Fleet,,,Chutneys Indian Takeaway,Takeaway/sandwich shop,7844,10,,14302,10,,51.27835800000000,04900/0355/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84515100000000,GU51 3NT,2014-08-14,fhrs_3_en-GB,3,,FHRS,5
-232376,7 Harpton Parade,Village Way,YATELEY,Hampshire,Cinnamon Bay Restaurant,Other catering premises,7841,5,,1636,5,,51.32195400000000,00310/0007/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81124600000000,GU17 7SB,2014-02-10,fhrs_5_en-GB,5,,FHRS,5
-232377,Clare Park,Crondall Lane,Crondall,Farnham,Clare Park Private Retirement Residences Ltd,Hospitals/Childcare/Caring Premises,5,5,,56693,5,,51.22224800000000,12825/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85360100000000,GU10 5DT,2014-12-09,fhrs_5_en-GB,5,,FHRS,0
-232378,86 Fleet Road,Fleet,,,Clarks  Butchers,Retailers - other,4613,10,,14282,10,,51.28329800000000,04900/0086/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84000900000000,GU51 4PA,2012-02-14,fhrs_3_en-GB,3,,FHRS,10
-232379,The Street,Rotherwick,HOOK,Hampshire,Coach And Horses Public House,Pub/bar/nightclub,7843,10,,51441,15,,51.30141200000000,11520/2029/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.97958300000000,RG27 9BG,2014-05-21,fhrs_2_en-GB,2,,FHRS,5
-232380,Bramshill Police College,Reading Drive North,Bramshill,Hook,College Shop,Retailers - other,4613,,,32094,,,51.33209800000000,09240/0000/X/004,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.91608900000000,RG27 0JH,2012-03-12,fhrs_5_en-GB,5,,FHRS,
-232381,1 Ridgeway Parade,The Verne,Church Crookham,FLEET,Co-op,Retailers - other,4613,5,,187561,10,,51.26440800000000,00710/0001/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84026900000000,GU52 6NY,2014-01-30,fhrs_4_en-GB,4,,FHRS,5
-232382,21-23 Plough Road,Yateley,,,Co-Operative Stores,Retailers - supermarkets/hypermarkets,7840,10,,32063,10,,51.34225400000000,09200/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82238400000000,GU46 7UW,2014-05-07,fhrs_3_en-GB,3,,FHRS,10
-232383,6 Linkway Parade,Linkway,FLEET,Hampshire,Cost Cutters,Retailers - other,4613,10,,1834,5,,51.26938200000000,00440/0006/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84041600000000,GU52 7UL,2012-06-20,fhrs_4_en-GB,4,,FHRS,5
-232384,1 Belgravia House,High Street,Hartley Wintney,Hook,Costa Coffee,Manufacturers/packers,7839,5,,530896,5,,51.30665300000000,12/00111/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89900000000000,RG27 8NY,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-232385,37A The Hart Centre,Fleet Road,Fleet,,Costa Coffee,Other catering premises,7841,10,,9574,10,,51.28079700000000,04/00030/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84173500000000,GU51 3LA,2014-04-23,fhrs_3_en-GB,3,,FHRS,5
-232386,1 - 4 Elizabeth Parade,Tudor Drive,YATELEY,Hampshire,Costcutter Express,Retailers - supermarkets/hypermarkets,7840,20,,51969,10,,51.33104200000000,11690/0042/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82694800000000,GU46 6BY,2012-04-24,fhrs_1_en-GB,1,,FHRS,10
-232387,Court Moor School,Springwoods,FLEET,Hampshire,Court Moor Food Service,School/college/university,7845,5,,43874,5,,51.27085500000000,10670/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84574100000000,GU52 7RY,2014-04-25,fhrs_5_en-GB,5,,FHRS,5
-232388,Youth Centre,Court Moor School,Springwoods,Fleet,Courtmoor Community Playgroup,Hospitals/Childcare/Caring Premises,5,5,,220490,10,,,07/00009/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2013-09-10,fhrs_4_en-GB,4,,FHRS,5
-232389,C Of E Primary School,Cranford Park Drive,Yateley,Hampshire,Cranford Park C Of E Primary School,School/college/university,7845,5,,45640,5,,51.33772800000000,11/00018/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82567200000000,GU46 6LB,2013-12-17,fhrs_5_en-GB,5,,FHRS,0
-232390,Croft Lane,Crondall,Farnham,Surrey,Crondall County Primary School,School/college/university,7845,0,,9258,5,,51.23102100000000,03880/2020/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86063000000000,GU10 5QG,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-232391,Pankridge Street,Crondall,FARNHAM,Surrey,Crondall Village Stores,Retailers - other,4613,10,,28383,15,,51.23780700000000,08920/2068/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85905600000000,,2013-11-29,fhrs_2_en-GB,2,,FHRS,5
-232392,Tweseldown Road,Church Crookham,Fleet,,Crookham County Junior School,School/college/university,7845,5,,52143,5,,51.25979700000000,11740/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83151400000000,GU52 8BW,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-232393,Gally Hill Road,Church Crookham,FLEET,Hampshire,Crookham Infants School,School/college/university,7845,0,,16831,0,,51.25951200000000,05320/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84259900000000,GU52 6LH,2012-05-17,fhrs_5_en-GB,5,,FHRS,0
-232394,The Street,Crookham Village,FLEET,Hampshire,Crookham Street Social Club,Other catering premises,7841,5,,51268,10,,51.26626800000000,11470/2056/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86308400000000,GU51 5SJ,2010-11-23,fhrs_3_en-GB,3,,FHRS,10
-232395,Crookham Village Post Office,The Street,Crookham Village,Fleet,Crookham Village Store,Retailers - other,4613,5,,30278,5,,,09/00171/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-232396,Minley Road,Blackwater,CAMBERLEY,Surrey,Crown Taverners Cricket Club,Other catering premises,7841,,,712920,,,,08180/2005/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-10-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-232397,Blackwater And Hawley Leisure Centr,Hawley Green,Blackwater,Camberley,D.A.S.H.  (Leonard Cheshire Disability),Other catering premises,7841,,,220484,,,51.32607400000000,10/00129/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77985600000000,GU17 9BW,2012-03-07,fhrs_3_en-GB,3,,FHRS,
-232398,Serendipity,295 Fleet Road,Fleet,Hampshire,Daisy's Tearoom,Manufacturers/packers,7839,5,,589410,5,,51.27964700000000,12/00105/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84362800000000,GU51 3BT,2014-01-21,fhrs_5_en-GB,5,,FHRS,5
-232399,9 Gally Hill Road,Church Crookham,FLEET,Hampshire,Dawyk Beech,Hotel/bed & breakfast/guest house,7842,10,,16828,5,,51.25951200000000,05320/0009/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84259900000000,GU52 6LH,2011-02-22,fhrs_4_en-GB,4,,FHRS,5
-232400,The Key,Fleet,Hampshire,,De Havilland Arms,Pub/bar/nightclub,7843,10,,58913,10,,51.04148101806641,13033/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-1.34305000305176,GU51 4PD,2014-03-13,fhrs_4_en-GB,4,,FHRS,0
-232401,1 The Parade,Reading Road,Yateley,Hampshire,Deep Blue,Restaurant/Cafe/Canteen,1,5,,644342,5,,51.34096800000000,10/00004/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81875600000000,GU46 7UN,2014-03-19,fhrs_5_en-GB,5,,FHRS,5
-232402,14 Reading Road,YATELEY,Hampshire,,Dees Newsagents,Retailers - other,4613,10,,32478,5,,51.34096800000000,09660/0014/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81875600000000,GU46 7UN,2011-06-17,fhrs_4_en-GB,4,,FHRS,5
-232403,Pinewood Hill,FLEET,Hampshire,,Derriford House,Hospitals/Childcare/Caring Premises,5,5,,32036,5,,51.28554500000000,09150/2014/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83446000000000,GU51 3AW,2013-09-10,fhrs_5_en-GB,5,,FHRS,0
-232404,4 Redes Close,Hook,Hampshire,,Devilish Desserts UK,Other catering premises,7841,5,,17925,5,,51.28423400000000,06/00047/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94569300000000,RG27 9UX,2009-02-10,fhrs_5_en-GB,5,,FHRS,0
-232405,105 Reading Road,Yateley,Hampshire,,Dog And Partridge,Pub/bar/nightclub,7843,10,,705725,10,,51.34197200000000,14/00116/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82833500000000,GU46 7LR,2014-08-21,fhrs_3_en-GB,3,,FHRS,10
-232406,Chatter Alley,Dogmersfield,Hook,,Dogmersfield Primary School,School/college/university,7845,,,8595,,,51.27224731445313,03070/2027/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.87887787818909,RG27 8SS,2014-06-20,fhrs_5_en-GB,5,,FHRS,
-232407,254 Fleet Road,Fleet,,,Domino's Pizza,Takeaway/sandwich shop,7844,5,,14295,5,,51.27877600000000,04900/0254/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84564200000000,GU51 4BX,2014-05-28,fhrs_5_en-GB,5,,FHRS,5
-232408,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,Eat In North Side,Restaurant/Cafe/Canteen,1,5,,28364,5,,51.29612200000000,08910/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-232409,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,Eat In South,Restaurant/Cafe/Canteen,1,10,,28365,10,,51.29612200000000,08910/2002/2/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2014-02-03,fhrs_3_en-GB,3,,FHRS,5
-232410,198 Fleet Road,Fleet,,,El Castello Restaurant,Restaurant/Cafe/Canteen,1,5,,14289,5,,51.27990300000000,04900/0198/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84410900000000,GU51 4BY,2014-05-24,fhrs_5_en-GB,5,,FHRS,5
-232411,Reading Road North,FLEET,Hampshire,,Elliot House,Hospitals/Childcare/Caring Premises,5,5,,32496,5,,51.28151000000000,09670/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84927300000000,GU51 4AQ,2010-12-14,fhrs_4_en-GB,4,,FHRS,10
-232412,The Key,Fleet,Hampshire,,Elvetham Heath Day Nursery,School/college/university,7845,0,,58914,0,,51.29048900000000,13033/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85898700000000,GU51 1HA,2014-06-30,fhrs_5_en-GB,5,,FHRS,5
-232413,Turners Way,Elvetham Heath,Fleet,Hampshire,Elvetham Heath Primary School,School/college/university,7845,5,,58975,5,,51.28182900000000,13039/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83858800000000,GU51 1GX,2014-07-01,fhrs_5_en-GB,5,,FHRS,5
-232414,Emilys In Flight Food Service,Unit B3,Redfields Industrial Park,Church Crookham,Emily's In Flight Food Service,Manufacturers/packers,7839,5,,25549,0,,51.25218600000000,08/00099/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84840000000000,GU52 0RD,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-232415,British Car Auctions,Blackbush Airport,London Road,Hartley Wintney,Expedier Catering Limited,Restaurant/Cafe/Canteen,1,5,,6226,10,,51.32588300000000,02050/2000/X/002,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85076100000000,GU17 9LG,2013-07-29,fhrs_4_en-GB,4,,FHRS,5
-232416,Falkners Close,Fleet,Hampshire,,Falkners Arms,Pub/bar/nightclub,7843,5,,25790,10,,51.29497900000000,08/00134/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82386600000000,GU51 2XF,2014-07-29,fhrs_4_en-GB,4,,FHRS,5
-232417,1A Linkway Parade,Fleet,Hampshire,,Finnegans Temperance Diner,Restaurant/Cafe/Canteen,1,10,,690223,10,,51.27006500000000,13/00104/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84130200000000,GU52 7UH,2013-09-12,fhrs_3_en-GB,3,,FHRS,5
-232418,115 Clarence Road,Fleet,Hampshire,,Fleet Baptist Pre-School,Hospitals/Childcare/Caring Premises,5,5,,46409,10,,51.28066500000000,11/00064/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83931500000000,GU51 3RS,2014-05-13,fhrs_3_en-GB,3,,FHRS,10
-232419,Velmead Road,FLEET,Hampshire,,Fleet County Infant School,School/college/university,7845,10,,52346,5,,51.27469700000000,11810/2000/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82607500000000,GU52 7LQ,2011-11-02,fhrs_4_en-GB,4,,FHRS,5
-232420,Fleet Community  Hospital,Church Road,Fleet,Hampshire,Fleet Hospital (Canteen),Hospitals/Childcare/Caring Premises,5,5,,8797,5,,51.28756500000000,03310/0077/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84869200000000,GU51 4LZ,2015-01-29,fhrs_5_en-GB,5,,FHRS,0
-232421,Reading Road South,FLEET,Hampshire,,Fleet Methodist Church,Other catering premises,7841,5,,418877,5,,51.27456100000000,09690/2006/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84028500000000,,2012-03-20,fhrs_5_en-GB,5,,FHRS,5
-232422,6 Clarence Road,Fleet,,,Fleet Social Club,Pub/bar/nightclub,7843,5,,8899,5,,51.28313600000000,03420/0006/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83639900000000,GU51 3RZ,2009-12-22,fhrs_5_en-GB,5,,FHRS,5
-232423,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,Forecourt South,Retailers - other,4613,5,,28367,5,,51.29612200000000,08910/2002/X/003,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2014-07-29,fhrs_5_en-GB,5,,FHRS,5
-232424,34 Fitzroy Road,Fleet,Hampshire,,Forever Fudge,Retailers - other,4613,5,,530900,5,,51.27931100000000,13/00013/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85337100000000,GU51 4JW,2013-03-06,fhrs_5_en-GB,5,,FHRS,5
-232425,Unit F,Fountains Mall,90 High Street,Odiham,Fountains Coffee Shop,Restaurant/Cafe/Canteen,1,10,,20740,5,,51.25425500000000,06380/0090/0/004,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93984400000000,RG29 1LP,2013-10-21,fhrs_4_en-GB,4,,FHRS,5
-232426,Dogmersfield Park,Church Lane,Dogmersfield,Hook,Four Seasons Hotel Hampshire,Hotel/bed & breakfast/guest house,7842,5,,9396,5,,51.32194200000000,04/00007/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96839300000000,RG27 8TE,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-232427,71 Crookham Road,Fleet,,,Fox And Hounds Public House,Pub/bar/nightclub,7843,5,,9274,5,,51.27015900000000,03920/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85084700000000,GU51 5NP,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-232428,144 Fleet Road,Fleet,Hampshire,,Frankie's Cafe And Restaurant,Other catering premises,7841,5,,30630,10,,51.28167200000000,09/00232/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84201400000000,GU51 4BE,2014-04-24,fhrs_4_en-GB,4,,FHRS,5
-232429,261 Fleet Road,FLEET,Hampshire,,Fratelli Deli Cafe Ltd,Restaurant/Cafe/Canteen,1,5,,14296,5,,51.28077700000000,04900/0261/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84240900000000,GU51 3BN,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-232430,Freelands Croft,Redfields Lane,Church Crookham,Fleet,Freelands Croft Nursing Home,Hospitals/Childcare/Caring Premises,5,,,34188,,,51.26017800000000,10/00097/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84632300000000,GU52 0AD,2014-11-12,fhrs_5_en-GB,5,,FHRS,
-232431,Potley Hill Road,YATELEY,Hampshire,,Frogmore Community College,Hospitals/Childcare/Caring Premises,5,5,,32232,5,,51.33603600000000,09360/2005/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81032700000000,GU46 6AG,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-232432,Green Lane,Frogmore,Blackwater,Camberley,Frogmore County Infant School,School/college/university,7845,5,,17164,5,,51.33346800000000,05620/2004/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79570800000000,GU17 0NY,2014-05-07,fhrs_5_en-GB,5,,FHRS,5
-232433,Green Lane,Frogmore,Blackwater,Camberley,Frogmore Junior School,School/college/university,7845,5,,17165,5,,51.33346800000000,05620/2008/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79570800000000,GU17 0NY,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-232434,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,Fuel Sales North,Retailers - other,4613,10,,28366,10,,51.29612200000000,08910/2002/X/002,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2014-02-03,fhrs_3_en-GB,3,,FHRS,10
-232435,Rivervale Barn,Mill Farm,Mill Lane,Yateley,Galloping Gourmet,Restaurant/Cafe/Canteen,1,0,,530889,5,,51.35043600000000,09/00225/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82583600000000,GU46 7SS,2014-07-10,fhrs_5_en-GB,5,,FHRS,5
-232436,2 Bell Lane,Blackwater,Camberley,Surrey,Gemco,Retailers - supermarkets/hypermarkets,7840,10,,5497,10,,51.33366100000000,01900/0002/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79263100000000,GU17 0NW,2013-11-21,fhrs_3_en-GB,3,,FHRS,10
-232437,50 Stilwell Close,Yateley,Hampshire,,Going The Whole Hog,Other catering premises,7841,0,,46004,0,,51.34125800000000,11/00041/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82252400000000,GU46 6XH,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-232438,192 Fleet Road,Fleet,,,Golden Triangle,Restaurant/Cafe/Canteen,1,0,,14789,5,,51.27990300000000,05/00053/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84410900000000,GU51 4BY,2014-10-07,fhrs_5_en-GB,5,,FHRS,5
-232439,Destiny,London Road,HOOK,Hampshire,Good Food Bar,Mobile caterer,7846,0,,24252,5,,51.28717500000000,07540/2066/X/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94674400000000,RG27 9EH,2011-02-08,fhrs_5_en-GB,5,,FHRS,5
-232440,Ridge Lane,Rotherwick,HOOK,Hampshire,Gordon Brown Outdoor Educ Cntr,Other catering premises,7841,5,,32587,10,,51.29130100000000,09820/2006/X/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.97805700000000,RG27 9AT,2014-04-09,fhrs_4_en-GB,4,,FHRS,5
-232441,3 White Hart House,London Road,Blackwater,CAMBERLEY,Grandma Buggins,Takeaway/sandwich shop,7844,10,,2925,10,,51.33151000000000,01000/0003/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77770200000000,GU17 9AD,2014-02-06,fhrs_3_en-GB,3,,FHRS,10
-232442,London Road,HOOK,Hampshire,,Graves Butchers,Retailers - other,4613,5,,24250,5,,51.28260100000000,07540/2034/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96326700000000,RG27 9DJ,2014-08-14,fhrs_5_en-GB,5,,FHRS,5
-232443,Vertu Ltd,Beacon Hill Road,Church Crookham,Fleet,Graysons At Vertu,Restaurant/Cafe/Canteen,1,5,,555282,10,,51.25959800000000,11/00109/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82689000000000,GU52 8DY,2013-07-30,fhrs_4_en-GB,4,,FHRS,5
-232444,Silvergate,Redfields Industrial Park,Church Crookham,Fleet,Graysons Restaurants Ltd At Vertu,Restaurant/Cafe/Canteen,1,5,,589414,10,,,13/00058/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2013-08-21,fhrs_4_en-GB,4,,FHRS,5
-232445,Green Lane,Hartley Wintney,HOOK,Hampshire,Greenfields Junior School,School/college/university,7845,0,,17170,5,,51.30216100000000,05630/2011/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.90418500000000,RG27 8DQ,2014-07-07,fhrs_5_en-GB,5,,FHRS,5
-232446,239 Fleet Road,Fleet,,,Greggs,Takeaway/sandwich shop,7844,5,,14294,5,,51.28077700000000,04900/0239/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84240900000000,GU51 3BN,2014-04-10,fhrs_5_en-GB,5,,FHRS,5
-232447,Grey House,Mount Pleasant,Hartley Wintney,HOOK,Grey House School,School/college/university,7845,0,,27952,5,,51.30374900000000,08370/2008/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89806500000000,RG27 8PW,2014-06-30,fhrs_5_en-GB,5,,FHRS,0
-232448,264 - 266 Fleet Road,Fleet,,,Gushan Indian Cuisine,Restaurant/Cafe/Canteen,1,10,,14316,5,,51.27877600000000,04900/2642/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84564200000000,GU51 4BX,2014-03-24,fhrs_3_en-GB,3,,FHRS,10
-232449,North Hants Golf Club,Minley Road,Fleet,Hampshire,Halfway House,Restaurant/Cafe/Canteen,1,5,,530887,5,,51.29532600000000,08/00153/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83240500000000,GU51 1RF,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-232450,1 Lasham Road,Fleet,Hampshire,,Hampshire Hot Dogs,Mobile caterer,7846,5,,681295,5,,51.29390500000000,13/00115/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86439600000000,GU51 1HE,2014-03-26,fhrs_5_en-GB,5,,FHRS,5
-232451,The Harlington Centre,Fleet Road,FLEET,Hampshire,Harlington Cafe,Restaurant/Cafe/Canteen,1,5,,14292,5,,51.27990300000000,04900/0236/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84410900000000,GU51 4BY,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-232452,Bramshill Police College,Reading Drive North,Bramshill,Hook,Harrison Catering Services Ltd,Restaurant/Cafe/Canteen,1,0,,32092,0,,51.33209800000000,09240/0000/X/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.91608900000000,RG27 0JH,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-232453,Hartley Wintney Football Club,Green Lane,Hartley Wintney,HOOK,Hartley Wintney F C,Pub/bar/nightclub,7843,10,,17169,10,,51.30114100000000,05630/2010/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.90377900000000,RG27 8DX,2014-12-06,fhrs_3_en-GB,3,,FHRS,10
-232454,London Road,Hartley Wintney,HOOK,Hampshire,Hartley Wintney Golf Club (The Halfway House),Other catering premises,7841,5,,24237,10,,51.29861200000000,07530/2046/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.91323400000000,RG27 8HJ,2014-05-12,fhrs_4_en-GB,4,,FHRS,5
-232455,High Street,Hartley Wintney,HOOK,Hampshire,Hartley Wintney Traditional Butchers,Retailers - other,4613,5,,20732,10,,51.30665300000000,06370/2039/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89900000000000,RG27 8NY,2014-10-23,fhrs_4_en-GB,4,,FHRS,5
-232456,480 High Street,Hartley Wintney,Hook,Hampshire,Hartley Wintney Village Bakery,Manufacturers/packers,7839,,,644345,,,51.30654400000000,13/00028/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89986300000000,RG27 8NS,2014-08-14,fhrs_4_en-GB,4,,FHRS,
-232457,High Street,Hartley Wintney,HOOK,Hampshire,Hartleys,Takeaway/sandwich shop,7844,5,,20730,5,,51.30665300000000,06370/2028/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89900000000000,RG27 8NY,2014-11-27,fhrs_5_en-GB,5,,FHRS,5
-232458,186 Reading Road South,Fleet,Hampshire,,Hawkeye Pizza,Takeaway/sandwich shop,7844,5,,25998,5,,51.26443100000000,08/00175/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82906000000000,GU52 6AE,2015-01-26,fhrs_5_en-GB,5,,FHRS,0
-232459,Ratcliffe House,Hawley Road,Blackwater,Camberley,Hawley Almshouse And Relief In Need Charity,Hospitals/Childcare/Caring Premises,5,5,,20513,5,,51.32916200000000,06100/2007/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.78544400000000,GU17 9DD,2011-03-28,fhrs_5_en-GB,5,,FHRS,5
-232460,10 Willow Lane,Blackwater,Camberley,Surrey,Hawley Bridge Memorial Club,Other catering premises,7841,10,,55553,10,,51.32956900000000,12530/2013/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.78216000000000,GU17 9DL,2014-01-31,fhrs_3_en-GB,3,,FHRS,5
-232461,Hawley Road,Blackwater,Camberley,Surrey,Hawley County Primary School,School/college/university,7845,5,,20515,10,,51.32606300000000,06100/2031/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77535000000000,GU17 9BH,2014-02-12,fhrs_4_en-GB,4,,FHRS,5
-232462,Gibraltar Barracks,Minley Road,Blackwater,Camberley,Hawley Hard (Satellite Kitchen),Other catering premises,7841,5,,27728,5,,51.31801900000000,08180/2004/X/005,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81957500000000,GU17 9LP,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-232463,Gibraltar Barracks,Minley Road,Blackwater,CAMBERLEY,Hawley Lake Sail Training Centre,Other catering premises,7841,5,,220480,5,,51.31817630297665,08180/2004/X/006,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82147764246540,,2014-01-31,fhrs_4_en-GB,4,,FHRS,10
-232464,Fernhill Road,Blackwater,Camberley,Surrey,Hawley Place Nursery School,School/college/university,7845,5,,14178,5,,51.31780800000000,04770/2008/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.78053500000000,GU17 9HU,2009-02-11,fhrs_5_en-GB,5,,FHRS,5
-232465,Fernhill Road,Blackwater,Camberley,Surrey,Hawley Place School,School/college/university,7845,5,,14177,5,,51.31780800000000,04770/2007/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.78053500000000,GU17 9HU,2013-11-29,fhrs_5_en-GB,5,,FHRS,5
-232466,52 Fleet Road,Fleet,Hampshire,,Heath House Day Nursery,School/college/university,7845,5,,25993,5,,51.04148101806641,08/00174/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-1.34305000305176,GU51 4PD,2014-10-17,fhrs_5_en-GB,5,,FHRS,0
-232467,Reading Road South,FLEET,Hampshire,,Heatherside County Infants School,School/college/university,7845,0,,32518,5,,51.27553300000000,09690/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84043400000000,GU52 7TH,2009-11-06,fhrs_5_en-GB,5,,FHRS,5
-232468,Reading Road South,FLEET,Hampshire,,Heatherside County Junior School,School/college/university,7845,5,,32519,5,,51.27553300000000,09690/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84043400000000,GU52 7TH,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-232469,Bracken Lane,YATELEY,Hampshire,,Hedgecroft,Hospitals/Childcare/Caring Premises,5,5,,1668,5,,51.34165000000000,00350/0000/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84479600000000,GU46 6JW,2014-07-18,fhrs_5_en-GB,5,,FHRS,5
-232470,14 Old Cove Road,Fleet,,,Heron On The Lake,Pub/bar/nightclub,7843,5,,9194,5,,51.29222400000000,03780/0014/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82799500000000,GU51 2RY,2015-01-29,fhrs_5_en-GB,5,,FHRS,5
-232471,Highfield Farm,Church Lane,Heckfield,HOOK,Highfield Park,Hotel/bed & breakfast/guest house,7842,5,,8781,10,,51.34091300000000,03290/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96203800000000,RG27 0LG,2014-05-29,fhrs_4_en-GB,4,,FHRS,5
-232472,Highwayman Inn,Monteagle Lane,Yateley,Hampshire,Highwayman,Pub/bar/nightclub,7843,10,,33556,10,,51.33587900000000,10/00051/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84502700000000,GU46 6LU,2014-06-12,fhrs_3_en-GB,3,,FHRS,10
-232473,Beacon Hill Road,Ewshot,Farnham,,Hill Brow,Hospitals/Childcare/Caring Premises,5,5,,5355,0,,51.23735200000000,01770/2007/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82691100000000,GU10 5DB,2013-09-10,fhrs_5_en-GB,5,,FHRS,5
-232474,Beacon Hill Road,Ewshot,Farnham,Surrey,Hill House,Manufacturers/packers,7839,,,46110,,,51.24703400000000,11/00047/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82487400000000,GU10 5BZ,2013-10-24,fhrs_5_en-GB,5,,FHRS,
-232475,233 Fleet Road,Fleet,,,Holland And Barrett Ltd,Retailers - other,4613,5,,530883,5,,51.28077700000000,04900/0233/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84240900000000,GU51 3BN,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-232476,8 Linkway Parade,Linkway,FLEET,Hampshire,Homecure Hams,Distributors/Transporters,7,5,,1835,5,,51.26938200000000,00440/0008/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84041600000000,GU52 7UL,2013-08-15,fhrs_5_en-GB,5,,FHRS,5
-232477,Church View,HOOK,Hampshire,,Hook County Junior School,School/college/university,7845,10,,8844,5,,51.28330500000000,03350/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95851900000000,RG27 9NR,2014-11-27,fhrs_4_en-GB,4,,FHRS,5
-232478,London Road,HOOK,Hampshire,,Hook House Hotel,Hotel/bed & breakfast/guest house,7842,5,,24251,5,,51.28768600000000,07540/2045/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95066200000000,RG27 9EQ,2014-10-23,fhrs_5_en-GB,5,,FHRS,5
-232479,Layby,London Road,Hook,Hampshire,Hook Kebab Van,Mobile caterer,7846,5,,361090,10,,51.28956700000000,11/00073/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93708400000000,,2014-06-30,fhrs_4_en-GB,4,,FHRS,5
-232480,1 Fairholme Parade,Station Road,HOOK,Hampshire,Hook Tandoori Restaurant,Takeaway/sandwich shop,7844,,,44765,,,51.28087700000000,10850/0000/3/035,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96253100000000,RG27 9HE,2012-02-14,fhrs_5_en-GB,5,,FHRS,
-232481,162A Aldershot Road,Church Crookham,FLEET,Hampshire,Ho's Fish Bar,Takeaway/sandwich shop,7844,5,,4502,5,,51.26244400000000,01150/0162/A/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82999900000000,GU52 8JT,2014-09-30,fhrs_5_en-GB,5,,FHRS,5
-232482,189 Fleet Road,FLEET,Hampshire,,Iceland Freezer Centre,Retailers - supermarkets/hypermarkets,7840,5,,14288,5,,51.28187800000000,04900/0189/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84101900000000,GU51 3BL,2011-09-28,fhrs_5_en-GB,5,,FHRS,5
-232483,90 Fleet Road,Fleet,,,Indiana Spice,Takeaway/sandwich shop,7844,5,,14283,10,,51.28329800000000,04900/0090/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84000900000000,GU51 4PA,2014-11-23,fhrs_4_en-GB,4,,FHRS,5
-232484,3 Bartley Wood Business Park,Bartley Way,HOOK,Hampshire,ISS HP,Restaurant/Cafe/Canteen,1,5,,5271,5,,51.27945400000000,01700/0003/X/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95117900000000,RG27 9XA,2014-01-30,fhrs_5_en-GB,5,,FHRS,5
-232485,Gibraltar Barracks,Minley Road,Blackwater,Camberley,Jackson Club,Pub/bar/nightclub,7843,5,,27726,5,,51.31801900000000,08180/2004/X/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81957500000000,GU17 9LP,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-232486,West Green Road,Hartley Wintney,Hook,Hampshire,James Farm Day Nursery,Restaurant/Cafe/Canteen,1,5,,30509,5,,51.30938800000000,09/00207/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.92042600000000,RG27 8JL,2014-10-09,fhrs_5_en-GB,5,,FHRS,5
-232487,RAF Odiham,Alton Road,Odiham,HOOK,Joint Helicopter Support Unit,Restaurant/Cafe/Canteen,1,5,,4574,5,,51.24046500000000,01200/2016/X/014,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94521800000000,RG29 1QT,2011-03-23,fhrs_5_en-GB,5,,FHRS,5
-232488,Gibraltar Barracks,Minley Road,Blackwater,Camberley,Junior Ranks Club And Bar,Pub/bar/nightclub,7843,5,,30677,5,,51.31801900000000,09/00245/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81957500000000,GU17 9LP,2013-09-30,fhrs_5_en-GB,5,,FHRS,0
-232489,RAF Odiham,Alton Road,Odiham,HOOK,Junior Ranks Kitchen,Restaurant/Cafe/Canteen,1,0,,644340,5,,51.24046500000000,01200/2016/X/005,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94521800000000,RG29 1QT,2009-10-22,fhrs_5_en-GB,5,,FHRS,5
-232490,115 Reading Road,YATELEY,Hampshire,,KFC,Takeaway/sandwich shop,7844,,,32486,,,51.34197200000000,09660/0115/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82833500000000,GU46 7LR,2015-01-16,fhrs_4_en-GB,4,,FHRS,
-232491,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,KFC North Side,Restaurant/Cafe/Canteen,1,,,28369,,,51.29612200000000,08910/2002/X/007,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2015-01-16,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-232492,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,KFC South Side,Restaurant/Cafe/Canteen,1,0,,28372,0,,51.29612200000000,08910/2002/X/011,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-232493,Springfield House,Blue Prior Business Park,Redfields Lane,Church Crookham,Kidsunlimited Ltd,Manufacturers/packers,7839,5,,466617,5,,,12/00083/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-04-16,fhrs_5_en-GB,5,,FHRS,5
-232494,Blackbush Sunday Market,Blackbushe Airport,London Road,Blackwater,King Chef,Manufacturers/packers,7839,20,,589411,10,,,12/00130/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2013-09-29,fhrs_1_en-GB,1,,FHRS,10
-232495,65 High Street,Odiham,Hook,,Kings Restaurant,Restaurant/Cafe/Canteen,1,10,,20738,15,,51.25400900000000,06380/0065/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93843100000000,RG29 1LF,2014-11-05,fhrs_2_en-GB,2,,FHRS,10
-232496,66B Reading Road,YATELEY,Hampshire,,Kismet,Restaurant/Cafe/Canteen,1,,,32483,,,51.34167800000000,09660/0066/B/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82054600000000,GU46 7UH,2014-08-22,fhrs_3_en-GB,3,,FHRS,
-232497,3 Linkway,Fleet,Hampshire,,L And N Butchers,Manufacturers/packers,7839,,,612389,,,51.26908100000000,13/00025/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83914800000000,GU52 7UN,2013-10-08,fhrs_5_en-GB,5,,FHRS,
-232498,203 Fleet Road,Fleet,Hampshire,,La Casa CIBO Ltd,Restaurant/Cafe/Canteen,1,,,30664,,,51.28187800000000,09/00242/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84101900000000,GU51 3BL,2014-07-30,fhrs_5_en-GB,5,,FHRS,
-232499,260 Fleet Road,Fleet,Hampshire,,Laziz Takeaway,Takeaway/sandwich shop,7844,20,,418880,15,,51.27877600000000,12/00088/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84564200000000,GU51 4BX,2014-11-21,fhrs_1_en-GB,1,,FHRS,10
-232500,57 London Road,Blackwater,CAMBERLEY,Surrey,Lee's Fish Bar,Takeaway/sandwich shop,7844,5,,24219,5,,51.33053700000000,07520/0057/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.78012500000000,GU17 0AB,2014-10-24,fhrs_5_en-GB,5,,FHRS,0
-232501,Unit 4,Taplins Court,Taplins Farm Lane,Winchfield,Lewis Bros,Other catering premises,7841,,,28560,,,51.29960900000000,09/00008/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89964100000000,RG27 8DY,2013-10-09,fhrs_5_en-GB,5,,FHRS,
-232502,40 Frogmore Road,Blackwater,Camberley,,Lin Thai Catering,Farmers/growers,7838,5,,14805,10,,51.33333900000000,05/00055/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79368800000000,GU17 0NP,2013-07-17,fhrs_4_en-GB,4,,FHRS,5
-232503,2 Linkway Parade,Linkway,FLEET,Hampshire,Linkway News,Retailers - other,4613,5,,1831,5,,51.26938200000000,00440/0002/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84041600000000,GU52 7UL,2009-01-30,fhrs_5_en-GB,5,,FHRS,5
-232504,45 Church Road,Fleet,,,Lismoyne Hotel,Hotel/bed & breakfast/guest house,7842,,,8800,,,51.28429900000000,03310/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84574800000000,GU51 4NE,2014-11-11,fhrs_4_en-GB,4,,FHRS,
-232505,Little Cottage,Hazeley Heath,Hartley Wintney,Hook,Little Cottage Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,5,,28532,0,,51.31886200000000,09/00006/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.92779500000000,RG27 8LY,2009-01-09,fhrs_5_en-GB,5,,FHRS,5
-232506,The Key,Fleet,Hampshire,,"Little Elves, Community Pre School",School/college/university,7845,10,,58912,5,,51.29048900000000,13033/2000/X/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85898700000000,GU51 1HA,2010-09-24,fhrs_4_en-GB,4,,FHRS,5
-232507,Yateley Town Council,Reading Road,Yateley,Hampshire,Little Gems Pre-School,School/college/university,7845,5,,26074,0,,51.34281000000000,08/00191/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83658300000000,GU46 7RP,2008-11-27,fhrs_5_en-GB,5,,FHRS,5
-232508,3 Ridgeway Parade,The Verne,Church Crookham,FLEET,Little Monsters Day Nursery,School/college/university,7845,5,,2181,5,,51.26440800000000,00710/0003/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84026900000000,GU52 6NY,2014-10-17,fhrs_5_en-GB,5,,FHRS,5
-232509,RAF Odiham,Kersley Crescent,Odiham,Hook,Little Wings (formerly RAF Odiham Childcare Centre),Hospitals/Childcare/Caring Premises,5,5,,17526,5,,51.24024900000000,06/00006/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95326000000000,RG29 1QL,2013-11-27,fhrs_5_en-GB,5,,FHRS,0
-232510,20 Northfield Road,Church Crookham,Fleet,,Londis Northfield Stores,Retailers - other,4613,10,,28103,5,,51.26608100000000,08580/0020/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82589400000000,GU52 6ED,2013-03-06,fhrs_4_en-GB,4,,FHRS,5
-232511,London Road,Hook,,,Londis Stores,Retailers - other,4613,10,,24255,10,,51.28297800000000,07540/2090/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96215400000000,RG27 9DY,2013-10-16,fhrs_3_en-GB,3,,FHRS,5
-232512,The Street,Long Sutton,Hook,,Long Sutton Primary School,School/college/university,7845,10,,21087,5,,51.22084000000000,06800/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94476500000000,RG29 1ST,2011-09-14,fhrs_4_en-GB,4,,FHRS,5
-232513,Long Sutton,Hook,Hampshire,,Lord Wandsworth College,School/college/university,7845,5,,50122,5,,51.21578979492188,11150/0000/X/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.92944544553757,RG29 1TG,2014-03-19,fhrs_5_en-GB,5,,FHRS,5
-232514,Gibraltar Barracks,Minley Road,Blackwater,Camberley,MacDonalds Mess/Main Kitchen,Restaurant/Cafe/Canteen,1,0,,27727,5,,51.31801900000000,08180/2004/X/002,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81957500000000,GU17 9LP,2013-07-24,fhrs_5_en-GB,5,,FHRS,0
-232515,RAF Station,Alton Road,Odiham,Hook,Mace,Retailers - other,4613,5,,4567,5,,51.24046500000000,01200/2016/X/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94521800000000,RG29 1QT,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-232516,1 - 3 Aylesham Way,Yateley,,,Magic Chef,Takeaway/sandwich shop,7844,10,,18240,10,,51.34047200000000,06/00092/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84021700000000,GU46 6NR,2012-05-29,fhrs_3_en-GB,3,,FHRS,5
-232517,London Road,Hartley Wintney,Hook,,Mama Mia Restaurant,Restaurant/Cafe/Canteen,1,5,,21616,5,,51.29698400000000,07/00043/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.91222600000000,RG27 8RT,2014-08-28,fhrs_5_en-GB,5,,FHRS,0
-232518,126 Fleet Road,FLEET,Hampshire,,Marks And Spencer Simply Food,Retailers - supermarkets/hypermarkets,7840,5,,14285,5,,51.28167200000000,04900/0126/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84201400000000,GU51 4BE,2010-09-08,fhrs_5_en-GB,5,,FHRS,5
-232519,241 Aldershot Road,Church Crookham,Fleet,,Marlborough House,Hospitals/Childcare/Caring Premises,5,5,,4503,10,,51.26472100000000,01150/0241/3/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82387900000000,GU52 8EJ,2014-09-24,fhrs_4_en-GB,4,,FHRS,5
-232520,229 Fleet Road,FLEET,Hampshire,,Martins,Retailers - other,4613,10,,14291,10,,51.28077700000000,04900/0229/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84240900000000,GU51 3BN,2009-09-30,fhrs_3_en-GB,3,,FHRS,5
-232521,108 High Street,Odiham,Hook,,Martins Newsagents,Retailers - other,4613,5,,20741,5,,51.25425500000000,06380/0108/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93984400000000,RG29 1LP,2013-09-23,fhrs_4_en-GB,4,,FHRS,10
-232522,London Road,Hook,,,Maryfield Convent,Hospitals/Childcare/Caring Premises,5,0,,24245,5,,51.28145000000000,07540/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96633200000000,RG27 9LA,2014-08-14,fhrs_5_en-GB,5,,FHRS,0
-232523,The Bury,Odiham,HOOK,Hampshire,Mayhill County Junior School,School/college/university,7845,5,,50316,5,,51.25330352783203,11200/2017/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94013857841492,RG29 1LY,2014-04-04,fhrs_5_en-GB,5,,FHRS,5
-232524,24 London Road,Blackwater,CAMBERLEY,Surrey,McCalls Newsagents,Retailers - other,4613,5,,24210,0,,51.33119000000000,07520/0024/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77898800000000,GU17 9AA,2015-01-22,fhrs_5_en-GB,5,,FHRS,0
-232525,191 Fleet Road,Fleet,,,McDonalds,Restaurant/Cafe/Canteen,1,0,,14287,5,,51.28187800000000,04900/0187/B/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84101900000000,GU51 3BL,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-232526,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,McDonalds,Restaurant/Cafe/Canteen,1,5,,28368,10,,51.29612200000000,08910/2002/X/005,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2014-05-30,fhrs_4_en-GB,4,,FHRS,5
-232527,345 Fleet Road,FLEET,Hampshire,,Menu Thai,Restaurant/Cafe/Canteen,1,,,14301,,,51.27835800000000,04900/0345/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84515100000000,GU51 3NT,2014-11-18,fhrs_3_en-GB,3,,FHRS,
-232528,Hook Road,North Warnborough,Hook,Hampshire,Mill House,Restaurant/Cafe/Canteen,1,5,,20932,10,,51.26322700000000,06610/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95253700000000,RG29 1ET,2014-04-23,fhrs_4_en-GB,4,,FHRS,5
-232529,High Street,Hartley Wintney,HOOK,Hampshire,Monsoon Indian Restaurant,Restaurant/Cafe/Canteen,1,10,,20734,10,,51.30761900000000,06370/2041/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89844600000000,RG27 8NW,2014-11-18,fhrs_3_en-GB,3,,FHRS,10
-232530,28 Bell Lane,Blackwater,Camberley,,Moonlight Takeaway,Takeaway/sandwich shop,7844,20,,18219,15,,51.33366100000000,06/00089/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79263100000000,GU17 0NW,2014-10-17,fhrs_1_en-GB,1,,FHRS,15
-232531,9 The Hart Centre,Fleet Road,Fleet,Hampshire,More Than Coffee,Other catering premises,7841,10,,530895,10,,51.28079700000000,12/00059/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84173500000000,GU51 3LA,2012-12-19,fhrs_3_en-GB,3,,FHRS,10
-232532,Morrisons,Elvetham Heath Way,Fleet,Hampshire,Morrisons  (includes Staff Canteen),Retailers - supermarkets/hypermarkets,7840,,,59365,,,51.29004300000000,13076/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85747800000000,GU51 1GY,2014-06-24,fhrs_5_en-GB,5,,FHRS,
-232533,19 London Road,Blackwater,Camberley,,Mr Bumble PH,Pub/bar/nightclub,7843,5,,24206,5,,51.33083400000000,07520/0019/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77843800000000,GU17 9AP,2014-11-05,fhrs_5_en-GB,5,,FHRS,5
-232534,4 The Parade,Reading Road,YATELEY,Hampshire,Mr Q Chinese Take Away,Takeaway/sandwich shop,7844,10,,56759,5,,51.34096800000000,12846/0004/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81875600000000,GU46 7UN,2013-12-20,fhrs_4_en-GB,4,,FHRS,5
-232535,Phoenix Green Garage,London Road,Hartley Wintney,HOOK,MVM Services,Retailers - other,4613,10,,530884,5,,51.29698400000000,07530/2025/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.91222600000000,RG27 8RT,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-232536,RAF Odiham,Alton Road,Odiham,HOOK,NAAFI Blades Club,Restaurant/Cafe/Canteen,1,5,,4568,5,,51.24046500000000,01200/2016/X/004,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94521800000000,RG29 1QT,2013-12-18,fhrs_5_en-GB,5,,FHRS,5
-232537,5 Falkners Close,FLEET,Hampshire,,New Era Takeaway,Takeaway/sandwich shop,7844,5,,14015,10,,51.29497900000000,04600/0005/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82386600000000,GU51 2XF,2014-10-24,fhrs_4_en-GB,4,,FHRS,5
-232538,10 Ridgeway Parade,The Verne,Church Crookham,FLEET,New Happy Fountain,Takeaway/sandwich shop,7844,10,,2183,10,,51.26440800000000,00710/0010/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84026900000000,GU52 6NY,2015-01-09,fhrs_3_en-GB,3,,FHRS,5
-232539,Dungells Lane,YATELEY,Hampshire,,Newlands Primary School,School/college/university,7845,5,,13750,5,,51.04148101806641,04350/2010/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-1.34305000305176,GU17 7EY,2014-11-05,fhrs_5_en-GB,5,,FHRS,5
-232540,Lodge Farm,Hook Road,North Warnborough,RG29 1HA,Newlyns Farm Butchery,Retailers - other,4613,5,,28983,5,,51.26768400000000,09/00043/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94720400000000,RG29 1HA,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-232541,Lodge Farm,Hook Road,North Warnborough,RG29 1HA,Newlyns Farm Cafe,Restaurant/Cafe/Canteen,1,,,28821,,,51.26768400000000,09/00029/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94720400000000,,2013-09-18,fhrs_5_en-GB,5,,FHRS,
-232542,Lodge Farm,Hook Road,North Warnborough,,Newlyns Farm Ready Meals,Retailers - other,4613,,,28835,,,51.26768400000000,09/00030/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94720400000000,RG29 1HA,2013-09-18,fhrs_5_en-GB,5,,FHRS,
-232543,Lodge Farm,Hook Road,North Warnborough,Hook,Newlyns Farm Shop,Retailers - other,4613,10,,20934,10,,51.26768400000000,06610/2004/X/002,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94720400000000,RG29 1HA,2013-07-30,fhrs_3_en-GB,3,,FHRS,10
-232544,Minley Road,Fleet,,,North Hants Golf Club,Restaurant/Cafe/Canteen,1,10,,187641,10,,51.29532600000000,08190/2012/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83240500000000,GU51 1RF,2014-09-25,fhrs_4_en-GB,4,,FHRS,0
-232545,Heath Lane,Crondall,Farnham,Surrey,Oak Park Golfing Complex,Other catering premises,7841,5,,20595,10,,51.23205400000000,06210/2005/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85215400000000,GU10 5PB,2014-05-08,fhrs_4_en-GB,4,,FHRS,5
-232546,London Road,Hook,,,Oaklea Guest House,Hotel/bed & breakfast/guest house,7842,10,,530885,5,,51.28145000000000,07540/2014/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96633200000000,RG27 9LA,2013-02-12,fhrs_4_en-GB,4,,FHRS,5
-232547,Trevor Jones Building,St Johns Road,Hartley Wintney,Hook,Oakwood Community Playgroup,School/college/university,7845,,,44243,,,51.29906100000000,10740/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.90064400000000,RG27 8DR,2012-03-12,fhrs_4_en-GB,4,,FHRS,
-232548,Oakwood School,Church Lane,Hartley Wintney,Hook,Oakwood Infant School,School/college/university,7845,0,,8777,5,,51.29960900000000,03280/2008/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89964100000000,RG27 8DY,2014-01-30,fhrs_5_en-GB,5,,FHRS,5
-232549,St Peters Church,Reading Road,Yateley,,Oasis (St Peter's Church Coffee Shop),Restaurant/Cafe/Canteen,1,,,32491,,,51.34167800000000,09660/2022/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82054600000000,GU46 7UJ,2012-03-07,fhrs_5_en-GB,5,,FHRS,
-232550,Unit 6,Crumplins Business Court,Dunleys Hill,Odiham,Odiham Cake Company,Other catering premises,7841,10,,664093,5,,51.25663200000000,14/00053/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94917600000000,RG29 1DU,2014-05-21,fhrs_4_en-GB,4,,FHRS,5
-232551,73 High Street,Odiham,HOOK,Hampshire,Odiham Spice,Restaurant/Cafe/Canteen,1,10,,20739,10,,51.25379700000000,06380/0073/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93988400000000,RG29 1LB,2013-08-15,fhrs_3_en-GB,3,,FHRS,10
-232552,Gibraltar Barracks,Minley Road,Blackwater,Camberley,Officers Mess,Restaurant/Cafe/Canteen,1,0,,361083,5,,51.31801900000000,00480/2007/X/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81957500000000,GU17 9LP,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-232553,RAF Odiham,Alton Road,Odiham,HOOK,Officers Mess Kitchen,Restaurant/Cafe/Canteen,1,0,,4570,5,,51.24046500000000,01200/2016/X/007,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94521800000000,RG29 1QT,2011-04-28,fhrs_5_en-GB,5,,FHRS,0
-232554,London Road,Hook,,,Old Raven House,Hospitals/Childcare/Caring Premises,5,5,,24254,5,,51.28558700000000,07540/2074/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95621600000000,RG27 9EF,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-232555,High Street,Hartley Wintney,HOOK,Hampshire,One Stop,Retailers - other,4613,5,,20733,10,,51.30654400000000,06370/2040/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89986300000000,RG27 8NS,2014-06-09,fhrs_4_en-GB,4,,FHRS,5
-232556,115A Reading Road,YATELEY,Hampshire,,One Stop Community Stores,Retailers - supermarkets/hypermarkets,7840,5,,32487,5,,51.34197200000000,09660/0115/A/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82833500000000,GU46 7LR,2013-01-29,fhrs_5_en-GB,5,,FHRS,5
-232557,63 High Street,Hartley Wintney,Hook,Hampshire,Organically Speaking,Retailers - other,4613,0,,9380,5,,51.30665300000000,04/00005/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89900000000000,RG27 8NY,2013-01-30,fhrs_5_en-GB,5,,FHRS,0
-232558,Rosefield Court,Monachus Lane,Hartley Wintney,Hook,P & N Catering,Manufacturers/packers,7839,5,,612388,5,,,13/00001/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-232559,Peacocks Flower Centre,Farnham Road,Ewshot,Farnham,Peacocks,Other catering premises,7841,10,,576753,10,,51.24514100000000,09/00181/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84887700000000,GU10 5BB,2014-05-14,fhrs_3_en-GB,3,,FHRS,10
-232560,Bowenhurst Golf Centre,Mill Lane,Crondall,Farnham,Peppones,Restaurant/Cafe/Canteen,1,10,,445857,15,,51.24663600000000,08090/2035/X/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.87306800000000,GU10 5RP,2014-04-16,fhrs_2_en-GB,2,,FHRS,10
-232561,200 Fleet Road,Fleet,Hampshire,,Pizza Express,Restaurant/Cafe/Canteen,1,5,,25751,5,,51.27990300000000,08/00127/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84410900000000,GU51 4BY,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-232562,The Borough,Crondall,Farnham,Surrey,Plume Of Feathers,Pub/bar/nightclub,7843,5,,50214,5,,51.23308500000000,11180/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86297100000000,GU10 5NT,2012-05-29,fhrs_5_en-GB,5,,FHRS,5
-232563,High Street,Hartley Wintney,HOOK,Hampshire,Po Lee Chinese Take-Away,Takeaway/sandwich shop,7844,5,,20735,5,,51.30665300000000,06370/2042/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89900000000000,RG27 8NY,2015-01-30,fhrs_5_en-GB,5,,FHRS,5
-232564,5,Grand Parade,Station Road,HOOK,Po Wah,Takeaway/sandwich shop,7844,5,,187697,5,,51.28205900000000,10850/0000/3/040,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96294900000000,RG27 9HF,2015-02-06,fhrs_5_en-GB,5,,FHRS,5
-232565,46 Westover Road,FLEET,Hampshire,,Poppets Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,54780,5,,51.28285500000000,12350/0046/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82447700000000,GU51 3DB,2014-10-03,fhrs_5_en-GB,5,,FHRS,5
-232566,14 Haydon Place,YATELEY,Hampshire,,Porkys,Mobile caterer,7846,5,,58612,5,,51.33994300000000,13007/0014/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81884100000000,,2014-11-27,fhrs_5_en-GB,5,,FHRS,5
-232567,1 Grand Parade,Station Road,Hook,,Premier Express,Retailers - other,4613,10,,21915,5,,51.28205900000000,07/00088/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96294900000000,RG27 9HF,2013-02-19,fhrs_4_en-GB,4,,FHRS,5
-232568,Premier Inn Fleet,7 - 11 Fleet Road,Fleet,Hampshire,Premier Inn Limited,Hotel/bed & breakfast/guest house,7842,0,,612393,5,,51.28836900000000,13/00079/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83361400000000,GU51 3QF,2013-10-23,fhrs_5_en-GB,5,,FHRS,5
-232569,Campbell Place,Reading Road North,Fleet,Hampshire,Pride Catering,Manufacturers/packers,7839,5,,463380,5,,,11/00118/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-232570,77 Reading Road South,Fleet,,,Prince Of Wales Public House,Pub/bar/nightclub,7843,,,32520,,,51.27321500000000,09690/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83791200000000,GU52 7SY,2014-10-24,fhrs_5_en-GB,5,,FHRS,
-232571,317 - 321 Fleet Road,Fleet,,,Propaganda Music Canteen,Pub/bar/nightclub,7843,5,,15058,10,,51.27888300000000,05/00097/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84457900000000,GU51 3BU,2014-08-07,fhrs_4_en-GB,4,,FHRS,5
-232572,The Village Hall,Dunleys Hill,North Warnborough,Hook,Puddleducks Montessori Nursery School,School/college/university,7845,5,,21301,5,,51.25846600000000,07/00007/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95211500000000,RG29 1EA,2011-05-17,fhrs_5_en-GB,5,,FHRS,5
-232573,129 Albert Street,FLEET,Hampshire,,Pumpkin Patch Day Nursery,School/college/university,7845,0,,4479,0,,51.27862400000000,01130/0129/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84300800000000,GU51 3RP,2013-08-08,fhrs_5_en-GB,5,,FHRS,0
-232574,25 Waterfront Business Park,Fleet,Hampshire,,R J Ford & Sons Ltd,Manufacturers/packers,7839,5,,734364,5,,51.28921800000000,14/00103/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83049500000000,GU51 3QT,2014-12-10,fhrs_5_en-GB,5,,FHRS,5
-232575,Station Road,HOOK,Hampshire,,Raven Hotel,Hotel/bed & breakfast/guest house,7842,5,,44775,5,,51.28005000000000,10850/2021/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96157500000000,RG27 9HS,2013-12-03,fhrs_4_en-GB,4,,FHRS,10
-232576,The Key,Fleet,Hampshire,,RB's Pizza,Mobile caterer,7846,5,,445867,5,,51.29071900000000,12/00133/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85679600000000,,2014-04-25,fhrs_5_en-GB,5,,FHRS,5
-232577,1 Rosebank Parade,Reading Road,YATELEY,Hampshire,Real Indian,Takeaway/sandwich shop,7844,10,,56767,10,,51.34225400000000,12847/0001/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82238400000000,GU46 7UW,2014-01-22,fhrs_3_en-GB,3,,FHRS,10
-232578,70 Reading Road,YATELEY,Hampshire,,Reeves Butchers,Retailers - other,4613,,,32484,,,51.34167800000000,09660/0070/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82054600000000,GU46 7UH,2014-03-19,fhrs_4_en-GB,4,,FHRS,
-232579,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,Retail Sales North (WH Smith),Retailers - other,4613,5,,28370,5,,51.29612200000000,08910/2002/X/009,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2013-08-28,fhrs_5_en-GB,5,,FHRS,5
-232580,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,Retail Sales South (WH Smith),Retailers - other,4613,5,,28371,5,,51.29612200000000,08910/2002/X/010,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-232581,23 Pond Croft,Yateley,,,Rice Peking Restaurant,Restaurant/Cafe/Canteen,1,10,,32109,10,,51.34133200000000,09270/0023/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81834400000000,GU46 7UR,2014-02-06,fhrs_3_en-GB,3,,FHRS,10
-232582,Unit 1,Lodge Farm,Hook Road,North Warnborough,Riverford Organic Vegetables,Retailers - other,4613,5,,15048,5,,51.26768400000000,05/00094/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94720400000000,RG29 1HA,2011-01-21,fhrs_5_en-GB,5,,FHRS,5
-232583,2 White Hart House,London Road,Blackwater,Camberley,Rocco's Pizza,Takeaway/sandwich shop,7844,5,,2924,5,,51.33151000000000,01000/0002/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77770200000000,GU17 9AD,2014-04-15,fhrs_5_en-GB,5,,FHRS,5
-232584,Odiham Cottage Hospital,Buryfields,Odiham,Hook,Rosefield Day Centre,Manufacturers/packers,7839,5,,687289,0,,51.25173700000000,12/00014/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93981600000000,RG29 1NE,2014-07-15,fhrs_5_en-GB,5,,FHRS,0
-232585,Holdshott Farm,Reading Road,Heckfield,Hook,Rosie's Tea Room,Restaurant/Cafe/Canteen,1,5,,46611,5,,51.33731900000000,11/00075/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93926500000000,RG27 0JZ,2014-08-15,fhrs_5_en-GB,5,,FHRS,5
-232586,London Road,Blackwater,Camberley,,Royal Swan,Pub/bar/nightclub,7843,5,,428805,5,,51.33106700000000,07520/0020/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77800900000000,,2012-07-19,fhrs_4_en-GB,4,,FHRS,10
-232587,Building 301,Armstrong Way,Ively Road,Farnborough,Run-About,Other catering premises,7841,0,,56852,5,,51.27989800000000,12864/0001/X/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.80331800000000,GU14 0LP,2014-09-11,fhrs_5_en-GB,5,,FHRS,5
-232588,WRVS Centre,Harlington Way,Fleet,,RVS,Other catering premises,7841,5,,17435,5,,51.23189900000000,05950/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.56390700000000,GU13 8AE,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-232589,116-124 Fleet Road,Fleet,Hampshire,,Sainsburys Supermarkets Ltd,Retailers - supermarkets/hypermarkets,7840,5,,25844,5,,51.28167200000000,08/00143/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84201400000000,GU51 4BE,2009-01-14,fhrs_5_en-GB,5,,FHRS,0
-232590,3 The Parade,Reading Road,Yateley,Hampshire,Salamandar,Restaurant/Cafe/Canteen,1,5,,25933,5,,51.34096800000000,08/00163/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81875600000000,GU46 7UN,2008-10-17,fhrs_5_en-GB,5,,FHRS,5
-232591,7 Elvetham Road,FLEET,Hampshire,,SeeAbility,Other catering premises,7841,0,,13895,5,,51.28992300000000,04520/0007/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83433500000000,GU51 4QL,2009-06-08,fhrs_5_en-GB,5,,FHRS,5
-232592,Campbell Place,Reading Road North,Fleet,Hampshire,Sentinel Housing Association   (Fresh Start),Restaurant/Cafe/Canteen,1,5,,7168,5,,,02730/0000/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2004-05-26,fhrs_5_en-GB,5,,FHRS,5
-232593,343 Fleet Road,Fleet,Hampshire,,Sentosa,Restaurant/Cafe/Canteen,1,5,,361092,10,,51.27835800000000,12/00007/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84515100000000,GU51 3NT,2014-04-30,fhrs_4_en-GB,4,,FHRS,5
-232594,Serco Group Plc,Enterprise House,11 Bartley Wood Business Park,Hook,Serco,Restaurant/Cafe/Canteen,1,5,,220476,5,,51.27921900000000,11/00107/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95098400000000,RG27 9XB,2014-01-31,fhrs_5_en-GB,5,,FHRS,0
-232595,Unit 9,Hook Garden Centre,Reading Road,Rotherwick,Serendipity Retail Limited,Restaurant/Cafe/Canteen,1,0,,712921,10,,51.29378500000000,14/00013/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95693400000000,RG27 9DB,2014-10-16,fhrs_4_en-GB,4,,FHRS,10
-232596,Gibraltar Barracks,Minley Road,Blackwater,Camberley,Sergeants Mess,Other catering premises,7841,0,,27725,5,,51.31801900000000,08180/2004/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81957500000000,GU17 9LP,2014-04-29,fhrs_5_en-GB,5,,FHRS,0
-232597,RAF Odiham,Alton Road,Odiham,HOOK,Sgts. Kitchen,Restaurant/Cafe/Canteen,1,0,,4569,5,,51.24046500000000,01200/2016/X/006,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94521800000000,RG29 1QT,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-232598,Fleet Road,Cove,Farnborough,Hampshire,Shell UK,Retailers - other,4613,5,,56715,5,,51.28947500000000,12830/2004/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83364400000000,GU51 4QG,2014-08-21,fhrs_4_en-GB,4,,FHRS,10
-232599,3 Harpton Parade,Village Way,YATELEY,Hampshire,Short 'n Sweet,Retailers - other,4613,5,,1635,5,,51.32195400000000,00310/0003/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81124600000000,GU17 7SB,2014-10-16,fhrs_5_en-GB,5,,FHRS,5
-232600,Shoulder Of Mutton Inn,Hazeley Heath,Hartley Wintney,Hook,Shoulder Of Mutton,Pub/bar/nightclub,7843,10,,676626,15,,51.32736700000000,14/00049/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93556200000000,RG27 8NB,2014-05-21,fhrs_2_en-GB,2,,FHRS,10
-232601,5 Aylesham Way,YATELEY,Hampshire,,Simons Video And Bottle Store,Retailers - other,4613,10,,4953,5,,51.34047200000000,01480/0005/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84021700000000,GU46 6NR,2012-02-13,fhrs_4_en-GB,4,,FHRS,5
-232602,117 High Street,Odiham,Hook,,Southern Co-Operatives Ltd,Retailers - supermarkets/hypermarkets,7840,5,,20742,5,,51.25374200000000,06380/0117/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94083100000000,RG29 1LA,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-232603,Gibraltar Barracks,Minley Road,Blackwater,Camberley,Spar Shop,Retailers - supermarkets/hypermarkets,7840,10,,29234,5,,51.31801900000000,09/00064/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81957500000000,GU17 9LP,2010-10-25,fhrs_4_en-GB,4,,FHRS,5
-232604,25 Frenchmans Creek,Church Crookham,Fleet,,Spar Stores,Retailers - supermarkets/hypermarkets,7840,10,,16621,10,,51.25732800000000,05130/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85000600000000,GU52 0YE,2013-09-30,fhrs_3_en-GB,3,,FHRS,5
-232605,Clare Park Road,Crondall,Farnham,,Spire Healthcare Hospital,Hospitals/Childcare/Caring Premises,5,5,,56692,5,,51.22513400000000,12825/0000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84711400000000,GU10 5XX,2013-12-16,fhrs_5_en-GB,5,,FHRS,5
-232606,,,,,Spit Roast Services,Mobile caterer,7846,5,,576759,5,,,13/00059/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2013-08-07,fhrs_5_en-GB,5,,FHRS,5
-232607,Spring Pre-School,St Barnabas Church,Brinns Lane,Blackwater,Spring Pre School,Pub/bar/nightclub,7843,5,,30518,5,,51.33459800000000,09/00209/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79369800000000,GU17 0BT,2011-09-26,fhrs_5_en-GB,5,,FHRS,5
-232608,St Johns Church,Fleet Road,Hartley Wintney,Hook,St Johns Church Centre And Coffee Shop,Restaurant/Cafe/Canteen,1,5,,631800,0,,51.30207900000000,13/00118/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89639800000000,RG27 8ED,2014-01-21,fhrs_5_en-GB,5,,FHRS,0
-232609,St Neots Road,Eversley,HOOK,Hampshire,St Neots Preparatory School,School/college/university,7845,,,44396,,,51.35053600000000,10770/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89822100000000,RG27 0PN,2012-03-12,fhrs_4_en-GB,4,,FHRS,
-232610,Redfields Lane,Church Crookham,FLEET,Hampshire,St Nicholas School,School/college/university,7845,5,,32544,5,,51.25077500000000,09730/2007/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85021200000000,GU52 0RE,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-232611,178 - 180 Fleet Road,Fleet,,,Starbucks Coffee Company,Restaurant/Cafe/Canteen,1,0,,21764,0,,51.28073900000000,07/00064/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84317000000000,GU51 4DA,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-232612,Welcome Break,Fleet Services Area,M3 Motorway,Fleet,Starbucks Drive Thru,Manufacturers/packers,7839,5,,502307,5,,51.29612200000000,12/00168/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85572100000000,GU51 1AA,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-232613,Stockton Avenue,FLEET,Hampshire,,Stockton House School,School/college/university,7845,5,,44955,5,,51.28837600000000,10900/2029/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84251900000000,GU51 4NH,2014-10-24,fhrs_5_en-GB,5,,FHRS,5
-232614,31 London Road,Blackwater,CAMBERLEY,Surrey,Stop N' Shop,Retailers - other,4613,5,,24214,0,,51.33053700000000,07520/0031/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.78012500000000,GU17 0AB,2015-01-22,fhrs_5_en-GB,5,,FHRS,0
-232615,4B Aldershot Road,Fleet,Hampshire,,Street Food Spain,Manufacturers/packers,7839,,,445859,,,51.27601400000000,12/00011/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83818500000000,GU51 3JT,2014-09-16,fhrs_5_en-GB,5,,FHRS,
-232616,218 Fleet Road,Fleet,,,Subway,Restaurant/Cafe/Canteen,1,5,,18180,5,,51.27990300000000,06/00084/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84410900000000,GU51 4BY,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-232617,,,,,Sugar Plum Cake Company,Other catering premises,7841,5,,612395,5,,,13/00117/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2013-10-09,fhrs_5_en-GB,5,,FHRS,5
-232618,Church Road,Fleet,,,Sunrise Of Fleet,Hospitals/Childcare/Caring Premises,5,5,,15126,5,,51.28445200000000,05/00112/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84306300000000,GU51 4NB,2014-02-03,fhrs_5_en-GB,5,,FHRS,0
-232619,Gurka Square Restaurant,327 Fleet Road,Fleet,Hampshire,Suvakamana Ltd,Restaurant/Cafe/Canteen,1,10,,712922,10,,51.27888300000000,14/00107/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84457900000000,GU51 3BU,2014-07-28,fhrs_3_en-GB,3,,FHRS,10
-232620,Railway Station,Station Road,Hook,Hampshire,Sweet Coffee,Other catering premises,7841,5,,220472,5,,51.28005000000000,11/00012/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96157500000000,RG27 9HS,2013-03-14,fhrs_5_en-GB,5,,FHRS,5
-232621,85 High Street,Odiham,Hook,Hampshire,Swirleeze,Other catering premises,7841,10,,25422,5,,51.25379700000000,08/00082/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93988400000000,RG29 1LB,2012-03-16,fhrs_4_en-GB,4,,FHRS,5
-232622,Tapoles Community Pre-School,Green Lane,Blackwater,Camberley,Tadpoles Community Playschool,Hospitals/Childcare/Caring Premises,5,5,,30514,5,,51.33346800000000,09/00208/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79570800000000,GU17 0NY,2012-12-04,fhrs_5_en-GB,5,,FHRS,5
-232623,Willow Ridge,Kingsley Road,Eversley,Hook,Taste Spuds,Mobile caterer,7846,5,,676650,5,,51.34721000000000,14/00037/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.87557100000000,RG27 0LZ,2014-04-02,fhrs_5_en-GB,5,,FHRS,5
-232624,Broadacres,FLEET,Hampshire,,Tavistock County Infant School,School/college/university,7845,5,,6720,10,,51.04148101806641,02440/2000/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-1.34305000305176,GU51 4EU,2013-06-17,fhrs_4_en-GB,4,,FHRS,5
-232625,Tavistock County Infant School,Broadacres,Fleet,Hampshire,Tavistock Pre-School,Restaurant/Cafe/Canteen,1,10,,29832,10,,51.27616400000000,09/00117/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85706300000000,GU51 4EB,2015-01-16,fhrs_3_en-GB,3,,FHRS,5
-232626,4 Kingfisher Parade,Rosemary Lane,Blackwater,Camberley,Tesco,Retailers - supermarkets/hypermarkets,7840,5,,32677,5,,51.33694500000000,09970/0000/3/003,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79637800000000,GU17 0LL,2012-10-12,fhrs_5_en-GB,5,,FHRS,5
-232627,18 Falkners Close,FLEET,Hampshire,,Tesco Express,Retailers - supermarkets/hypermarkets,7840,0,,445856,10,,51.29497900000000,04600/0018/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82386600000000,GU51 2XF,2013-06-28,fhrs_4_en-GB,4,,FHRS,10
-232628,235 Reading Road South,Church Crookham,FLEET,Hampshire,Tesco Express,Retailers - supermarkets/hypermarkets,7840,5,,32510,5,,51.26431300000000,09680/0235/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82806000000000,GU52 6AB,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-232629,Parade Service Station,Reading Road,YATELEY,Hampshire,Tesco Express,Retailers - other,4613,5,,32493,10,,51.34167800000000,09660/4000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82054600000000,GU46 7UH,2013-03-28,fhrs_4_en-GB,4,,FHRS,5
-232630,Tesco Express,82 London Road,Blackwater,Camberley,Tesco Express Ltd,Restaurant/Cafe/Canteen,1,5,,631799,5,,51.33008900000000,12/00087/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.78552000000000,GU17 0AE,2014-01-14,fhrs_4_en-GB,4,,FHRS,10
-232631,Station Road,HOOK,Hampshire,,Tesco Stores,Retailers - supermarkets/hypermarkets,7840,0,,44773,0,,51.27954300000000,10850/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96015200000000,RG27 9JE,2014-07-30,fhrs_5_en-GB,5,,FHRS,5
-232632,The Street,North Warnborough,Hook,Hampshire,The Anchor Inn,Pub/bar/nightclub,7843,5,,51398,5,,51.25708900000000,11510/2009/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95502700000000,RG29 1BE,2013-03-06,fhrs_5_en-GB,5,,FHRS,5
-232633,Vigo Lane,Yateley,,,The Anchor Public House,Pub/bar/nightclub,7843,10,,52709,5,,51.33123700000000,11930/2013/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83844100000000,GU46 6EP,2013-02-19,fhrs_4_en-GB,4,,FHRS,5
-232634,The Hurst,Winchfield,HOOK,Hampshire,The Barley Mow,Pub/bar/nightclub,7843,10,,50764,10,,51.27933120727539,11320/2014/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.88705003261566,RG27 8DE,2014-04-15,fhrs_3_en-GB,3,,FHRS,5
-232635,36 Frogmore Road,Blackwater,Camberley,Surrey,The Bell Inn,Pub/bar/nightclub,7843,5,,16698,5,,51.33333900000000,05220/0036/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.79368800000000,GU17 0NP,2010-08-13,fhrs_5_en-GB,5,,FHRS,5
-232636,The Bury,Odiham,HOOK,Hampshire,The Bell Public House,Pub/bar/nightclub,7843,5,,50315,10,,51.25330352783203,11200/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94013857841492,RG29 1LY,2011-04-01,fhrs_3_en-GB,3,,FHRS,10
-232637,The Street,Crookham Village,FLEET,Hampshire,The Black Horse,Pub/bar/nightclub,7843,20,,51267,15,,51.26626800000000,11470/2011/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86308400000000,GU51 5SJ,2014-07-30,fhrs_1_en-GB,1,,FHRS,15
-232638,Reading Road North,FLEET,Hampshire,,The Briary Care Home,Hospitals/Childcare/Caring Premises,5,5,,32500,5,,51.28093400000000,09670/2008/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84928800000000,GU51 4AG,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-232639,Blackbush Airport,London Road,Hartley Wintney,Hook,The Bushe Cafe Ltd,Restaurant/Cafe/Canteen,1,5,,21723,5,,51.32273800000000,07/00058/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83917200000000,GU17 9LQ,2014-05-21,fhrs_4_en-GB,4,,FHRS,10
-232640,6 Grand Parade,Station Road,Hook,,The Cafe Terrace,Restaurant/Cafe/Canteen,1,5,,44766,5,,51.28205900000000,10850/0000/3/039,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96294900000000,RG27 9HF,2014-05-08,fhrs_4_en-GB,4,,FHRS,10
-232641,Handford Lane,YATELEY,Hampshire,,The Casa,Restaurant/Cafe/Canteen,1,10,,17327,10,,51.33362900000000,05840/2008/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82663800000000,GU46 6BT,2014-06-26,fhrs_3_en-GB,3,,FHRS,5
-232642,White Hill,Well,HOOK,Hampshire,The Chequers Inn,Pub/bar/nightclub,7843,5,,56819,10,,51.21564500000000,12859/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.90970500000000,RG29 1TL,2014-05-29,fhrs_4_en-GB,4,,FHRS,5
-232643,Retail Outlet,Winchfield Station,Station Road,Winchfield,The Coffee Shop,Restaurant/Cafe/Canteen,1,,,45617,,,,11/00017/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2013-09-18,fhrs_5_en-GB,5,,FHRS,
-232644,Cricket Green,Hartley Wintney,HOOK,Hampshire,The Cricketers Public House,Pub/bar/nightclub,7843,5,,9240,5,,51.30620956420898,03860/2013/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89879500865936,RG27 8QB,2014-02-27,fhrs_5_en-GB,5,,FHRS,5
-232645,Cricket Hill Lane,Yateley,,,The Cricketers Public House,Pub/bar/nightclub,7843,5,,9248,5,,51.33432200000000,03870/2030/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82224200000000,GU46 6BA,2013-10-11,fhrs_4_en-GB,4,,FHRS,10
-232646,London Road,HOOK,Hampshire,,The Crooked Billet,Pub/bar/nightclub,7843,5,,24253,10,,51.28717500000000,07540/2067/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94674400000000,RG27 9EH,2014-04-10,fhrs_4_en-GB,4,,FHRS,5
-232647,Minley Road,Blackwater,CAMBERLEY,Surrey,The Crown And Cushion,Pub/bar/nightclub,7843,10,,27724,10,,51.33044800000000,08180/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77682600000000,GU17 9AU,2010-03-02,fhrs_3_en-GB,3,,FHRS,10
-232648,London Road,Blackwater,Camberley,,The Ely Lodge And Restaurant,Pub/bar/nightclub,7843,,,50539,,,51.32417100000000,11260/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82238800000000,GU17 9LJ,2014-07-09,fhrs_4_en-GB,4,,FHRS,
-232649,271 Fleet Road,Fleet,,,The Emporium,Pub/bar/nightclub,7843,5,,14317,10,,51.27997600000000,04900/2712/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84327500000000,GU51 3QW,2014-01-22,fhrs_4_en-GB,4,,FHRS,5
-232650,Crondall Road,Crookham Village,Fleet,Hampshire,The Exchequer,Pub/bar/nightclub,7843,5,,32876,5,,51.26121700000000,10/00011/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86611800000000,GU51 5SU,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-232651,331 Fleet Road,Fleet,,,The Fleet Charcoal Grill,Takeaway/sandwich shop,7844,5,,14298,5,,51.27888300000000,04900/0331/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84457900000000,GU51 3BU,2015-01-08,fhrs_5_en-GB,5,,FHRS,5
-232652,264 Aldershot Road,Church Crookham,FLEET,Hampshire,The Foresters Inn,Pub/bar/nightclub,7843,5,,4504,10,,51.26395300000000,01150/0264/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82626300000000,GU52 8EH,2014-06-09,fhrs_4_en-GB,4,,FHRS,5
-232653,The Street,Long Sutton,Hook,Hampshire,The Four Horseshoes,Pub/bar/nightclub,7843,10,,187616,10,,51.22007700000000,11500/2031/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93995700000000,RG29 1SR,2014-08-18,fhrs_3_en-GB,3,,FHRS,5
-232654,The Street,Greywell,HOOK,Hampshire,The Fox And Goose,Pub/bar/nightclub,7843,10,,51335,10,,51.25689800000000,11490/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.97199900000000,RG29 1BY,2013-12-18,fhrs_3_en-GB,3,,FHRS,10
-232655,Reading Road,Eversley Cross,HOOK,Hampshire,The Frog And Wicket,Pub/bar/nightclub,7843,5,,32420,5,,51.34899500000000,09600/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86020600000000,RG27 0NP,2014-01-30,fhrs_4_en-GB,4,,FHRS,10
-232656,4 Chapel Terrace,Dunleys Hill,North Warnborough,Hook,The Garden Oven Company,Other catering premises,7841,5,,445862,0,,51.25765200000000,12/00093/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95057200000000,RG29 1DZ,2012-09-05,fhrs_5_en-GB,5,,FHRS,0
-232657,Oaklands,Hook Common,Hook,,The Gate Of India,Restaurant/Cafe/Canteen,1,5,,24264,5,,51.27458300000000,07550/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.97785500000000,RG27 9JL,2014-08-26,fhrs_5_en-GB,5,,FHRS,5
-232658,Reading Road,Eversley Centre,HOOK,Hampshire,The Golden Pot,Pub/bar/nightclub,7843,5,,32413,10,,51.34852200000000,09590/2005/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86899100000000,RG27 0NB,2013-07-30,fhrs_4_en-GB,4,,FHRS,5
-232659,121 High Street,Odiham,Hook,,The Grapevine,Restaurant/Cafe/Canteen,1,5,,20743,5,,51.25374200000000,06380/0121/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94083100000000,RG29 1LA,2014-07-15,fhrs_5_en-GB,5,,FHRS,5
-232660,Pankridge Street,Crondall,FARNHAM,Surrey,The Hampshire Arms,Pub/bar/nightclub,7843,10,,28382,10,,51.23429700000000,08920/2056/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86085000000000,GU10 5QU,2013-09-18,fhrs_3_en-GB,3,,FHRS,10
-232661,Elvetham Heath Way,Fleet,Hampshire,,The Happy Plaice,Mobile caterer,7846,5,,492852,10,,,09/00185/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-04-25,fhrs_4_en-GB,4,,FHRS,5
-232662,Fleet Road,Cove,Farnborough,Hampshire,The Harvester At Fleet (Tree House),Restaurant/Cafe/Canteen,1,5,,56713,5,,51.23189900000000,12830/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.56390700000000,GU13 8SH,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-232663,London Road,Hook,Hampshire,,The Hogget,Restaurant/Cafe/Canteen,1,,,530891,,,51.27525200000000,10/00012/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.97725200000000,RG27 9JJ,2014-11-11,fhrs_4_en-GB,4,,FHRS,
-232664,Bowling Alley,Crondall,Farnham,Surrey,The Horns P.H.,Pub/bar/nightclub,7843,10,,6429,10,,51.24459200000000,02190/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.85800300000000,GU10 5RJ,2014-03-31,fhrs_3_en-GB,3,,FHRS,10
-232665,The Hart Centre,Fleet Road,Fleet,,The Jaxx Night Club,Pub/bar/nightclub,7843,5,,2380,5,,51.28079700000000,00880/0046/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84173500000000,GU51 3LA,2009-01-27,fhrs_5_en-GB,5,,FHRS,5
-232666,Reading Road,Mattingley,HOOK,Hampshire,The Leather Bottle,Restaurant/Cafe/Canteen,1,,,32452,,,51.31098600000000,09640/2021/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94978600000000,RG27 8JU,2014-09-24,fhrs_5_en-GB,5,,FHRS,
-232667,72C Reading Road,Yateley,Hampshire,,The Little Shop Of Coffee,Restaurant/Cafe/Canteen,1,10,,530899,5,,51.34175200000000,13/00005/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82074600000000,GU46 7UH,2014-08-05,fhrs_4_en-GB,4,,FHRS,5
-232668,The Mead,King Street,Odiham,HOOK,The Mead Childrens Home,Hospitals/Childcare/Caring Premises,5,10,,23917,10,,51.25067400000000,07090/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93763400000000,RG29 1NF,2014-06-20,fhrs_3_en-GB,3,,FHRS,5
-232669,Odiham Road,Heckfield,Hook,Hampshire,The New Inn,Pub/bar/nightclub,7843,5,,56677,5,,51.33762300000000,12822/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96011700000000,RG27 0LE,2014-10-02,fhrs_5_en-GB,5,,FHRS,5
-232670,2 Crookham Road,Fleet,,,The Oatsheaf Public House,Pub/bar/nightclub,7843,5,,9277,5,,51.27789400000000,03930/0002/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84643900000000,GU51 5DR,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-232671,London Road,HOOK,Hampshire,,The Old White Hart,Pub/bar/nightclub,7843,,,24249,,,51.28260100000000,07540/2033/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96326700000000,RG27 9DJ,2014-11-18,fhrs_5_en-GB,5,,FHRS,
-232672,London Road,Hartley Wintney,HOOK,Hampshire,The Phoenix Inn,Pub/bar/nightclub,7843,5,,24236,5,,51.29698400000000,07530/2024/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.91222600000000,RG27 8RT,2013-11-29,fhrs_4_en-GB,4,,FHRS,10
-232673,Phillips House,Station Road,HOOK,Hampshire,The Pizza House,Other catering premises,7841,10,,44777,10,,51.28175900000000,10850/2025/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96254000000000,RG27 9HD,2013-11-21,fhrs_3_en-GB,3,,FHRS,10
-232674,Alton Road,South Warnborough,HOOK,Hampshire,The Poacher Public House,Pub/bar/nightclub,7843,10,,4588,5,,51.22173700000000,01210/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96671000000000,RG29 1RP,2014-07-15,fhrs_4_en-GB,4,,FHRS,5
-232675,238 Fleet Road,Fleet,,,The Prince Arthur,Pub/bar/nightclub,7843,0,,14293,5,,51.27877600000000,04900/0238/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84564200000000,GU51 4BX,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-232676,Pilcot Road,Crookham Village,Fleet,,The Queens Head,Pub/bar/nightclub,7843,10,,100806,10,,51.26978800000000,3260/2018/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.87463700000000,RG27 8SY,2013-08-19,fhrs_3_en-GB,3,,FHRS,10
-232677,2 Bourley Road,Church Crookham,Fleet,Hampshire,The Ridings Care Home,Hospitals/Childcare/Caring Premises,5,5,,681296,5,,,14/00051/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,GU52 8ER,2014-07-04,fhrs_5_en-GB,5,,FHRS,0
-232678,Reading Road,Yateley,,,The Royal Oak,Pub/bar/nightclub,7843,5,,32490,10,,51.33989200000000,09660/2015/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.81818000000000,GU46 7UG,2014-01-22,fhrs_3_en-GB,3,,FHRS,10
-232679,London Road,HOOK,Hampshire,,The Shack Cafe,Restaurant/Cafe/Canteen,1,,,24256,,,51.28717500000000,07540/2093/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94674400000000,RG27 9EH,2014-08-15,fhrs_4_en-GB,4,,FHRS,
-232680,1 - 3 Fleet Road,Fleet,,,The Station,Hotel/bed & breakfast/guest house,7842,5,,14276,5,,51.29017100000000,04900/0000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83312400000000,GU51 3QJ,2014-10-17,fhrs_5_en-GB,5,,FHRS,5
-232681,Fish And Chip Shop,8 Ridgeway Parade,Church Crookham,Fleet,The Verne Fish And Chips,Manufacturers/packers,7839,5,,361093,5,,51.26440800000000,12/00018/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84026900000000,GU52 6NY,2013-08-02,fhrs_5_en-GB,5,,FHRS,5
-232682,High Street,Hartley Wintney,Hook,,The Viceroy Indian Restaurant,Restaurant/Cafe/Canteen,1,10,,20737,5,,51.30520200000000,06370/2045/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.90343800000000,RG27 8PE,2014-06-30,fhrs_4_en-GB,4,,FHRS,5
-232683,The Old School,London Road,Odiham,HOOK,The Vine Church,Other catering premises,7841,10,,681294,5,,51.25580500000000,07560/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93522300000000,RG29 1AJ,2014-06-23,fhrs_4_en-GB,4,,FHRS,5
-232684,,,,,The Vintage Cupcake Company,Restaurant/Cafe/Canteen,1,5,,589407,5,,,11/00014/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2013-03-05,fhrs_5_en-GB,5,,FHRS,5
-232685,Colt Hill,Odiham,Hook,,The Waterwitch Public House,Other catering premises,7841,,,1428,,,51.25839800000000,00200/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93264100000000,RG29 1AL,2012-01-17,fhrs_4_en-GB,4,,FHRS,
-232686,The Evangelical Church,The Borough,Crondall,Farnham,The Well Coffee Shop,Restaurant/Cafe/Canteen,1,5,,418874,5,,51.23308500000000,07/00051/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.86297100000000,GU10 5NT,2012-06-01,fhrs_5_en-GB,5,,FHRS,5
-232687,London Road,HOOK,Hampshire,,The White Hart Hotel,Pub/bar/nightclub,7843,5,,24248,5,,51.28327300000000,07540/2030/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96098600000000,RG27 9DZ,2013-10-23,fhrs_4_en-GB,4,,FHRS,10
-232688,The Street,Eversley,HOOK,Hampshire,The White Hart PH,Pub/bar/nightclub,7843,5,,51308,10,,51.35419000000000,11480/2021/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.88904300000000,RG27 0PJ,2014-07-08,fhrs_3_en-GB,3,,FHRS,10
-232689,Station Road,Winchfield,HOOK,Hampshire,The Winchfield Inn,Pub/bar/nightclub,7843,5,,44815,5,,51.28536500000000,10860/2006/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.90723800000000,RG27 8BX,2013-09-11,fhrs_5_en-GB,5,,FHRS,5
-232690,Church Lane,Ewshot,Farnham,Surrey,The Windmill Ewshot Ltd,Pub/bar/nightclub,7843,20,,8772,15,,51.24369300000000,03270/2027/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83156400000000,GU10 5BJ,2014-07-16,fhrs_1_en-GB,1,,FHRS,10
-232691,73 Aldershot Road,Church Crookham,FLEET,Hampshire,The Wyvern Public House,Pub/bar/nightclub,7843,5,,4501,5,,51.26024400000000,01150/0073/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83839600000000,GU52 8JY,2014-08-12,fhrs_4_en-GB,4,,FHRS,10
-232692,36 London Road,Blackwater,Camberley,Surrey,Tiffin Wala,Restaurant/Cafe/Canteen,1,10,,589415,10,,51.33119000000000,13/00061/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.77898800000000,GU17 9AA,2014-11-18,fhrs_3_en-GB,3,,FHRS,10
-232693,30 Mill Lane,YATELEY,Hampshire,,Tilsmere Ltd,Other catering premises,7841,5,,576752,5,,51.34491800000000,08110/0030/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82435400000000,GU46 7TN,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-232694,Moto Cross,Pale Lane,Hartley Wintney,Hook,Tina's Gut Buster (mobile),Manufacturers/packers,7839,10,,361096,10,,51.29166800000000,12/00038/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.87018700000000,RG27 8BA,2014-03-30,fhrs_4_en-GB,4,,FHRS,0
-232695,Gough Road,FLEET,Hampshire,,Tinkers Furze B And B,Hotel/bed & breakfast/guest house,7842,5,,17075,5,,51.28655600000000,05530/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84854500000000,GU51 4LL,2012-12-13,fhrs_5_en-GB,5,,FHRS,5
-232696,St Neots Preparatory School Ltd,St Neots Road,Eversley,Hook,Tiny Tuskers,School/college/university,7845,,,644344,,,51.35053600000000,13/00026/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89822100000000,RG27 0PN,2014-02-13,fhrs_4_en-GB,4,,FHRS,
-232697,Topher,18 Church Road,Fleet,Hampshire,Topher Ltd ( Nepalese Curry Kitchen),Mobile caterer,7846,5,,644343,5,,51.28234200000000,12/00098/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83980300000000,GU51 3RH,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-232698,London Road,HOOK,Hampshire,,Trees Newsagents,Retailers - other,4613,10,,24257,5,,51.28044500000000,07540/2102/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.96753000000000,RG27 9LF,2014-01-31,fhrs_3_en-GB,3,,FHRS,10
-232699,Abercorn Building,Aldershot Road,Church Crookham,FLEET,Tweseldown Playgroup,School/college/university,7845,10,,4505,5,,51.27643900000000,01150/0266/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83519900000000,,2012-04-27,fhrs_4_en-GB,4,,FHRS,5
-232700,Beacon Hill Road,Church Crookham,FLEET,Hampshire,Tweseldown Public House,Pub/bar/nightclub,7843,5,,5334,10,,51.25959800000000,01760/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82689000000000,GU52 8DY,2013-03-12,fhrs_4_en-GB,4,,FHRS,5
-232701,Cross Barn,Palace Gate Farm,Odiham,Hook,Two Fold Trust,Other catering premises,7841,5,,29361,5,,51.25446200000000,09/00075/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.94279200000000,RG29 1JX,2011-02-24,fhrs_5_en-GB,5,,FHRS,5
-232702,Ridge Lane,Rotherwick,Hook,,Tylney Hall Hotel,Hotel/bed & breakfast/guest house,7842,5,,32586,10,,51.29180900000000,09820/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.98379700000000,RG27 9AZ,2014-04-29,fhrs_4_en-GB,4,,FHRS,5
-232703,Ridge Lane,Rotherwick,Hook,,Tylney Park Golf Club,Restaurant/Cafe/Canteen,1,5,,56755,10,,51.29130100000000,12844/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.97805700000000,RG27 9AT,2013-10-18,fhrs_4_en-GB,4,,FHRS,5
-232704,Velmead Cty Junior School,Velmead Road,FLEET,Hampshire,Velmead Junior School,School/college/university,7845,5,,52349,10,,,11810/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-10-09,fhrs_4_en-GB,4,,FHRS,5
-232705,Media House,10 - 14 Bartley Wood Business Park,Bartley Way,Hook,"Virgin Media ""The Restaurant""",Restaurant/Cafe/Canteen,1,0,,21433,5,,51.27824500000000,07/00022/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95172300000000,RG27 9UP,2013-12-17,fhrs_5_en-GB,5,,FHRS,5
-232706,Warby House,Odiham Road,Winchfield,Hook,Vista Health Care,Hospitals/Childcare/Caring Premises,5,5,,17728,5,,51.29207800000000,06/00025/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.91257100000000,RG27 8BS,2014-11-28,fhrs_5_en-GB,5,,FHRS,5
-232707,High Street,Hartley Wintney,HOOK,Hampshire,Waggon And Horses Public House,Pub/bar/nightclub,7843,,,20736,,,51.30665300000000,06370/2044/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89900000000000,RG27 8NY,2014-03-05,fhrs_4_en-GB,4,,FHRS,
-232708,Unit4 - 5,The Hart Centre,Fleet Road,Fleet,Waitrose Limited,Retailers - supermarkets/hypermarkets,7840,0,,2379,5,,51.28079700000000,00880/0045/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84173500000000,GU51 3LA,2015-01-30,fhrs_5_en-GB,5,,FHRS,5
-232709,Monteagle Lane,YATELEY,Hampshire,,Waitrose Ltd,Retailers - supermarkets/hypermarkets,7840,0,,27858,5,,51.33900400000000,08250/2012/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84637000000000,GU46 6FR,2013-12-23,fhrs_5_en-GB,5,,FHRS,5
-232710,Warbrook Lane,Eversley,HOOK,Hampshire,Warbrook House,Hotel/bed & breakfast/guest house,7842,5,,53406,10,,51.35010100000000,12030/2011/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89017600000000,RG27 0PL,2014-05-02,fhrs_4_en-GB,4,,FHRS,5
-232711,Unit 5,Webbs Mews,High Street,Hartley Wintney,Warings Master Bakers Ltd,Restaurant/Cafe/Canteen,1,0,,25245,5,,51.30602300000000,08/00060/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.90080800000000,RG27 8NZ,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-232712,1A Crookham Road,Fleet,,,Water Sky,Restaurant/Cafe/Canteen,1,10,,9276,10,,51.27782600000000,03930/0001/A/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84592400000000,GU51 5DJ,2013-07-24,fhrs_4_en-GB,4,,FHRS,0
-232713,333 Fleet Road,FLEET,Hampshire,,WE Indian,Restaurant/Cafe/Canteen,1,5,,14299,5,,51.27888300000000,04900/0333/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84457900000000,GU51 3BU,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-232714,Odiham Road,Heckfield,Hook,Hampshire,Wellington Country Park,Restaurant/Cafe/Canteen,1,5,,56676,10,,51.35978500000000,12822/0001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.95467500000000,RG7 1SP,2014-08-13,fhrs_4_en-GB,4,,FHRS,5
-232715,Welsh Lane,Heckfield,Hook,Hampshire,Wellington Farm Shop,Manufacturers/packers,7839,5,,14760,5,,51.35476300000000,05/00049/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.97249600000000,RG27 0LJ,2014-03-05,fhrs_5_en-GB,5,,FHRS,5
-232716,Thackhams Lane,Hartley Wintney,HOOK,Hampshire,West Green House,Other catering premises,7841,10,,576754,10,,51.30129300000000,11110/2019/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.93094400000000,RG27 8JB,2014-07-23,fhrs_3_en-GB,3,,FHRS,10
-232717,The Homestead,Thackhams Lane,Hartley Wintney,Hook,West Green Nursery School,School/college/university,7845,5,,17849,5,,51.29880100000000,06/00039/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.92099000000000,RG27 8JG,2011-06-28,fhrs_5_en-GB,5,,FHRS,5
-232718,School Lane,YATELEY,Hampshire,,Westfield County Infants School,School/college/university,7845,5,,41480,5,,51.33823000000000,10280/2001/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83902500000000,GU46 6NL,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-232719,School Lane,YATELEY,Hampshire,,Westfield County Junior School,School/college/university,7845,0,,41479,5,,51.33823000000000,10280/2000/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83902500000000,GU46 6NL,2014-11-05,fhrs_5_en-GB,5,,FHRS,5
-232720,86 Reading Road,YATELEY,Hampshire,,White Lion,Pub/bar/nightclub,7843,5,,32485,5,,51.34256200000000,09660/0086/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82882200000000,GU46 7RX,2014-07-10,fhrs_5_en-GB,5,,FHRS,5
-232721,White Lion Antiques,Hartford Bridge,London Road,Hartley Wintney,White Lion Tea Room,Restaurant/Cafe/Canteen,1,5,,187720,10,,51.31362300000000,05/00062/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.89051100000000,RG27 8AE,2013-07-12,fhrs_4_en-GB,4,,FHRS,5
-232722,The Street,Rotherwick,HOOK,Hampshire,Whitewater C Of E Primary School,School/college/university,7845,5,,51437,5,,51.30141200000000,11520/2014/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.97958300000000,RG27 9BG,2014-05-08,fhrs_5_en-GB,5,,FHRS,0
-232723,First Drinks Brand Ltd,Form One,17 Bartley Wood Business Park,Hook,William Grant & Sons Ltd,Restaurant/Cafe/Canteen,1,0,,34369,5,,51.29102500000000,10/00111/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.97733200000000,RG27 9AX,2014-10-23,fhrs_5_en-GB,5,,FHRS,5
-232724,Odiham Road,Winchfield,HOOK,Hampshire,Winchfield House,Manufacturers/packers,7839,5,,28221,5,,51.29207800000000,08750/2002/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.91257100000000,RG27 8BS,2011-09-14,fhrs_5_en-GB,5,,FHRS,5
-232725,43 Fleet Road,Fleet,,,Wok U Like (SW) Ltd,Takeaway/sandwich shop,7844,10,,14281,10,,51.28600200000000,04900/0043/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83615500000000,GU51 3PJ,2014-09-26,fhrs_2_en-GB,2,,FHRS,15
-232726,174 - 178 Reading Road South,Fleet,,,Woodlands,Hospitals/Childcare/Caring Premises,5,,,32508,,,51.26443100000000,09680/0176/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82906000000000,GU52 6AE,2014-04-29,fhrs_5_en-GB,5,,FHRS,
-232727,2 Wakefords Corner,Sandy Lane,Church Crookham,FLEET,Woodlands Nursery,School/college/university,7845,5,,2502,5,,51.25767900000000,00970/0002/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82825700000000,GU52 8DB,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-232728,Chandlers Lane,Yateley,,,Yateley Cricket And Hockey Association,Pub/bar/nightclub,7843,10,,8513,10,,51.34817700000000,03000/2022/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83282900000000,GU46 7SZ,2014-08-04,fhrs_3_en-GB,3,,FHRS,10
-232729,66 Reading Road,YATELEY,Hampshire,,Yateley Kebab,Takeaway/sandwich shop,7844,10,,32482,10,,51.34167800000000,09660/0066/0/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82054600000000,GU46 7UH,2011-02-07,fhrs_3_en-GB,3,,FHRS,5
-232730,51 Reading Road,Yateley,,,Yateley Manor Preparatory School,School/college/university,7845,,,32481,,,51.34157100000000,09660/0051/X/001,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.82505700000000,GU46 7UQ,2013-06-21,fhrs_5_en-GB,5,,FHRS,
-232731,School Lane,YATELEY,Hampshire,,Yateley Secondary School,School/college/university,7845,10,,41481,5,,51.33823000000000,10280/2003/2/000,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.83902500000000,GU46 6NL,2012-03-13,fhrs_4_en-GB,4,,FHRS,5
-232732,20 Reading Road South,Fleet,Hampshire,,Yellow River Takeaway Ltd,Takeaway/sandwich shop,7844,10,,612392,5,,51.27786100000000,13/00076/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84490600000000,GU52 7QL,2013-10-14,fhrs_4_en-GB,4,,FHRS,5
-232733,Street Record,Saxony Way,Yateley,Hampshire,Yummies,Mobile caterer,7846,10,,589409,10,,,12/00010/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,,,2014-08-05,fhrs_3_en-GB,3,,FHRS,10
-232734,24 Reading Road South,Fleet,Hampshire,,Zaal,Restaurant/Cafe/Canteen,1,10,,220475,10,,51.27743300000000,11/00121/COMM,136,eh@hart.gov.uk,Hart,http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm,-0.84259400000000,GU52 7QP,2013-07-24,fhrs_3_en-GB,3,,FHRS,10
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+232324,18 Sqdn. Ground Crew Bar,5,5,5,5,2014-01-29,51.240465,-0.945218
+232325,27(R)Sqdn. Ground Crew Bar,4,10,5,5,2011-02-22,51.3082,-0.951949
+232326,7 Sqdn. Groundcrew Bar,5,5,5,5,2011-02-10,51.240465,-0.945218
+232327,700 Degrees (takeaway Section Of Golden Triangle),5,5,5,5,2014-10-06,,
+232328,A Taste Of Little India,3,10,10,10,2014-03-17,51.282601,-0.963267
+232329,Abbeyfield Lodge,4,5,10,5,2012-03-22,51.264431,-0.82906
+232330,ABC Catering,4,0,10,10,2013-12-01,51.292221,-0.823878
+232331,ABC Kindergarten Ltd,5,5,5,0,2014-07-30,51.27807,-0.842363
+232332,Active Monkeys Play Centre,3,10,10,10,2014-01-16,51.283735,-0.843339
+232333,Al Fresco,5,5,5,5,2014-10-08,51.277433,-0.842594
+232334,Albert Social Club,3,5,10,10,2011-11-17,51.28298,-0.837866
+232335,Aldi Stores Limited,5,5,5,5,2013-02-01,51.330824,-0.780964
+232336,Ali Shan Tandoori,3,10,10,10,2014-08-14,51.336945,-0.796378
+232337,All Saints Junior School,5,0,5,5,2014-01-14,51.275172,-0.855883
+232338,Ancells Farm Pre-School,5,5,5,5,2012-06-01,51.294979,-0.823866
+232339,Ancells Fish And Chips,5,nan,nan,nan,2012-01-23,51.294979,-0.823866
+232340,Anite Telecom,3,10,10,5,2014-06-26,51.297891,-0.829099
+232341,Appetisers,5,5,5,0,2014-09-26,,
+232342,ASK Restaurants Ltd,5,0,5,5,2013-10-18,51.278358,-0.845151
+232343,Babbling Brook Cafe Ltd,4,5,10,5,2014-01-27,51.342254,-0.822384
+232344,Balfour News,5,5,5,5,2013-02-19,51.339815,-0.846551
+232345,Balfour News And Post Office,4,10,5,5,2010-06-07,51.343295,-0.830268
+232346,Baxter Storey,5,0,5,5,2011-04-14,51.290497,-0.831495
+232347,Beacon House Residential Home,5,5,5,5,2014-03-31,51.283611,-0.849909
+232348,Beijing Restaurant,1,15,10,20,2014-10-15,51.33151,-0.777702
+232349,Bellini,4,5,5,10,2012-05-28,51.307619,-0.898446
+232350,Best Kebab's (mobile),3,10,10,10,2013-07-11,51.236629,-0.954731
+232351,"Big Tasty (Van Stored At Down Farm) 49 Knights Street, RG21",3,5,10,10,2013-07-11,,
+232352,Bistro 19,5,5,5,5,2014-12-11,51.348177,-0.832829
+232353,Boots The Chemist,5,0,5,0,2014-12-05,51.281238,-0.841738
+232354,British Red Cross Society,4,5,10,5,2011-08-10,51.27807,-0.842363
+232355,Brown And Green,4,nan,nan,nan,2014-02-27,51.255242,-0.845472
+232356,Bumblebee Catering Ltd,5,5,5,5,2013-09-24,51.245372,-0.943974
+232357,Burger King,5,5,5,5,2014-05-30,51.296122,-0.855721
+232358,Buryfields Infant School,5,5,5,5,2011-05-27,51.251854,-0.939871
+232359,Busy Bees Nursery,5,5,0,0,2014-04-09,51.281636,-0.792175
+232360,Buttercups Day Nursery,5,5,5,5,2014-11-04,51.259099,-0.830858
+232361,Cafe Destino Ltd,3,10,10,5,2014-08-20,51.290497,-0.831495
+232362,Caffe Kix Ltd,5,0,5,5,2014-05-23,51.333012,-0.777748
+232363,Caffe Lusso Ltd,5,5,5,5,2014-10-22,51.294979,-0.823866
+232364,Calthorpe Park School,4,10,5,5,2014-05-14,51.278913,-0.862342
+232365,Carbonis,5,0,5,5,2014-08-01,51.296617,-0.987563
+232366,CASF Tea Bar,4,5,5,10,2011-02-22,51.240465,-0.945218
+232367,Cater Link,5,0,5,5,2014-09-25,51.253129,-0.952638
+232368,Centre Stores,5,5,5,5,2014-12-01,51.348522,-0.868991
+232369,Charles Kingsley School,5,0,0,0,2013-03-06,51.347286,-0.87791
+232370,Chens,3,10,10,10,2014-07-23,51.336148,-0.796643
+232371,Chequers Public House,4,0,10,5,2013-08-14,51.348187,-0.857627
+232372,Cherry Lodge Guest House,4,5,10,5,2012-03-16,51.298448,-0.990306
+232373,Choices (Munchtimes),5,0,5,0,2011-06-17,51.333456,-0.80069
+232374,Christine Vandervlist,5,5,5,5,2013-05-22,51.340851,-0.920333
+232375,Chutneys Indian Takeaway,3,5,10,10,2014-08-14,51.278358,-0.845151
+232376,Cinnamon Bay Restaurant,5,5,5,5,2014-02-10,51.321954,-0.811246
+232377,Clare Park Private Retirement Residences Ltd,5,0,5,5,2014-12-09,51.222248,-0.853601
+232378,Clarks  Butchers,3,10,10,10,2012-02-14,51.283298,-0.840009
+232379,Coach And Horses Public House,2,5,15,10,2014-05-21,51.301412,-0.979583
+232380,College Shop,5,nan,nan,nan,2012-03-12,51.332098,-0.916089
+232381,Co-op,4,5,10,5,2014-01-30,51.264408,-0.840269
+232382,Co-Operative Stores,3,10,10,10,2014-05-07,51.342254,-0.822384
+232383,Cost Cutters,4,5,5,10,2012-06-20,51.269382,-0.840416
+232384,Costa Coffee,5,5,5,5,2014-05-22,51.306653,-0.899
+232385,Costa Coffee,3,5,10,10,2014-04-23,51.280797,-0.841735
+232386,Costcutter Express,1,10,10,20,2012-04-24,51.331042,-0.826948
+232387,Court Moor Food Service,5,5,5,5,2014-04-25,51.270855,-0.845741
+232388,Courtmoor Community Playgroup,4,5,10,5,2013-09-10,,
+232389,Cranford Park C Of E Primary School,5,0,5,5,2013-12-17,51.337728,-0.825672
+232390,Crondall County Primary School,5,0,5,0,2014-10-22,51.231021,-0.86063
+232391,Crondall Village Stores,2,5,15,10,2013-11-29,51.237807,-0.859056
+232392,Crookham County Junior School,5,5,5,5,2013-07-16,51.259797,-0.831514
+232393,Crookham Infants School,5,0,0,0,2012-05-17,51.259512,-0.842599
+232394,Crookham Street Social Club,3,10,10,5,2010-11-23,51.266268,-0.863084
+232395,Crookham Village Store,5,5,5,5,2014-04-29,,
+232396,Crown Taverners Cricket Club,Exempt,nan,nan,nan,2014-10-11,,
+232397,D.A.S.H.  (Leonard Cheshire Disability),3,nan,nan,nan,2012-03-07,51.326074,-0.779856
+232398,Daisy's Tearoom,5,5,5,5,2014-01-21,51.279647,-0.843628
+232399,Dawyk Beech,4,5,5,10,2011-02-22,51.259512,-0.842599
+232400,De Havilland Arms,4,0,10,10,2014-03-13,51.0414810181,-1.34305000305
+232401,Deep Blue,5,5,5,5,2014-03-19,51.340968,-0.818756
+232402,Dees Newsagents,4,5,5,10,2011-06-17,51.340968,-0.818756
+232403,Derriford House,5,0,5,5,2013-09-10,51.285545,-0.83446
+232404,Devilish Desserts UK,5,0,5,5,2009-02-10,51.284234,-0.945693
+232405,Dog And Partridge,3,10,10,10,2014-08-21,51.341972,-0.828335
+232406,Dogmersfield Primary School,5,nan,nan,nan,2014-06-20,51.2722473145,-0.878877878189
+232407,Domino's Pizza,5,5,5,5,2014-05-28,51.278776,-0.845642
+232408,Eat In North Side,5,5,5,5,2014-02-03,51.296122,-0.855721
+232409,Eat In South,3,5,10,10,2014-02-03,51.296122,-0.855721
+232410,El Castello Restaurant,5,5,5,5,2014-05-24,51.279903,-0.844109
+232411,Elliot House,4,10,5,5,2010-12-14,51.28151,-0.849273
+232412,Elvetham Heath Day Nursery,5,5,0,0,2014-06-30,51.290489,-0.858987
+232413,Elvetham Heath Primary School,5,5,5,5,2014-07-01,51.281829,-0.838588
+232414,Emily's In Flight Food Service,5,5,0,5,2014-03-27,51.252186,-0.8484
+232415,Expedier Catering Limited,4,5,10,5,2013-07-29,51.325883,-0.850761
+232416,Falkners Arms,4,5,10,5,2014-07-29,51.294979,-0.823866
+232417,Finnegans Temperance Diner,3,5,10,10,2013-09-12,51.270065,-0.841302
+232418,Fleet Baptist Pre-School,3,10,10,5,2014-05-13,51.280665,-0.839315
+232419,Fleet County Infant School,4,5,5,10,2011-11-02,51.274697,-0.826075
+232420,Fleet Hospital (Canteen),5,0,5,5,2015-01-29,51.287565,-0.848692
+232421,Fleet Methodist Church,5,5,5,5,2012-03-20,51.274561,-0.840285
+232422,Fleet Social Club,5,5,5,5,2009-12-22,51.283136,-0.836399
+232423,Forecourt South,5,5,5,5,2014-07-29,51.296122,-0.855721
+232424,Forever Fudge,5,5,5,5,2013-03-06,51.279311,-0.853371
+232425,Fountains Coffee Shop,4,5,5,10,2013-10-21,51.254255,-0.939844
+232426,Four Seasons Hotel Hampshire,5,5,5,5,2014-03-06,51.321942,-0.968393
+232427,Fox And Hounds Public House,5,5,5,5,2014-02-04,51.270159,-0.850847
+232428,Frankie's Cafe And Restaurant,4,5,10,5,2014-04-24,51.281672,-0.842014
+232429,Fratelli Deli Cafe Ltd,5,5,5,5,2014-01-16,51.280777,-0.842409
+232430,Freelands Croft Nursing Home,5,nan,nan,nan,2014-11-12,51.260178,-0.846323
+232431,Frogmore Community College,5,5,5,5,2014-02-03,51.336036,-0.810327
+232432,Frogmore County Infant School,5,5,5,5,2014-05-07,51.333468,-0.795708
+232433,Frogmore Junior School,5,5,5,5,2014-02-03,51.333468,-0.795708
+232434,Fuel Sales North,3,10,10,10,2014-02-03,51.296122,-0.855721
+232435,Galloping Gourmet,5,5,5,0,2014-07-10,51.350436,-0.825836
+232436,Gemco,3,10,10,10,2013-11-21,51.333661,-0.792631
+232437,Going The Whole Hog,5,5,0,0,2014-12-04,51.341258,-0.822524
+232438,Golden Triangle,5,5,5,0,2014-10-07,51.279903,-0.844109
+232439,Good Food Bar,5,5,5,0,2011-02-08,51.287175,-0.946744
+232440,Gordon Brown Outdoor Educ Cntr,4,5,10,5,2014-04-09,51.291301,-0.978057
+232441,Grandma Buggins,3,10,10,10,2014-02-06,51.33151,-0.777702
+232442,Graves Butchers,5,5,5,5,2014-08-14,51.282601,-0.963267
+232443,Graysons At Vertu,4,5,10,5,2013-07-30,51.259598,-0.82689
+232444,Graysons Restaurants Ltd At Vertu,4,5,10,5,2013-08-21,,
+232445,Greenfields Junior School,5,5,5,0,2014-07-07,51.302161,-0.904185
+232446,Greggs,5,5,5,5,2014-04-10,51.280777,-0.842409
+232447,Grey House School,5,0,5,0,2014-06-30,51.303749,-0.898065
+232448,Gushan Indian Cuisine,3,10,5,10,2014-03-24,51.278776,-0.845642
+232449,Halfway House,5,5,5,5,2014-05-21,51.295326,-0.832405
+232450,Hampshire Hot Dogs,5,5,5,5,2014-03-26,51.293905,-0.864396
+232451,Harlington Cafe,5,5,5,5,2014-03-31,51.279903,-0.844109
+232452,Harrison Catering Services Ltd,5,5,0,0,2013-03-07,51.332098,-0.916089
+232453,Hartley Wintney F C,3,10,10,10,2014-12-06,51.301141,-0.903779
+232454,Hartley Wintney Golf Club (The Halfway House),4,5,10,5,2014-05-12,51.298612,-0.913234
+232455,Hartley Wintney Traditional Butchers,4,5,10,5,2014-10-23,51.306653,-0.899
+232456,Hartley Wintney Village Bakery,4,nan,nan,nan,2014-08-14,51.306544,-0.899863
+232457,Hartleys,5,5,5,5,2014-11-27,51.306653,-0.899
+232458,Hawkeye Pizza,5,0,5,5,2015-01-26,51.264431,-0.82906
+232459,Hawley Almshouse And Relief In Need Charity,5,5,5,5,2011-03-28,51.329162,-0.785444
+232460,Hawley Bridge Memorial Club,3,5,10,10,2014-01-31,51.329569,-0.78216
+232461,Hawley County Primary School,4,5,10,5,2014-02-12,51.326063,-0.77535
+232462,Hawley Hard (Satellite Kitchen),5,0,5,5,2014-10-22,51.318019,-0.819575
+232463,Hawley Lake Sail Training Centre,4,10,5,5,2014-01-31,51.318176303,-0.821477642465
+232464,Hawley Place Nursery School,5,5,5,5,2009-02-11,51.317808,-0.780535
+232465,Hawley Place School,5,5,5,5,2013-11-29,51.317808,-0.780535
+232466,Heath House Day Nursery,5,0,5,5,2014-10-17,51.0414810181,-1.34305000305
+232467,Heatherside County Infants School,5,5,5,0,2009-11-06,51.275533,-0.840434
+232468,Heatherside County Junior School,5,5,5,5,2013-07-09,51.275533,-0.840434
+232469,Hedgecroft,5,5,5,5,2014-07-18,51.34165,-0.844796
+232470,Heron On The Lake,5,5,5,5,2015-01-29,51.292224,-0.827995
+232471,Highfield Park,4,5,10,5,2014-05-29,51.340913,-0.962038
+232472,Highwayman,3,10,10,10,2014-06-12,51.335879,-0.845027
+232473,Hill Brow,5,5,0,5,2013-09-10,51.237352,-0.826911
+232474,Hill House,5,nan,nan,nan,2013-10-24,51.247034,-0.824874
+232475,Holland And Barrett Ltd,5,5,5,5,2013-03-07,51.280777,-0.842409
+232476,Homecure Hams,5,5,5,5,2013-08-15,51.269382,-0.840416
+232477,Hook County Junior School,4,5,5,10,2014-11-27,51.283305,-0.958519
+232478,Hook House Hotel,5,5,5,5,2014-10-23,51.287686,-0.950662
+232479,Hook Kebab Van,4,5,10,5,2014-06-30,51.289567,-0.937084
+232480,Hook Tandoori Restaurant,5,nan,nan,nan,2012-02-14,51.280877,-0.962531
+232481,Ho's Fish Bar,5,5,5,5,2014-09-30,51.262444,-0.829999
+232482,Iceland Freezer Centre,5,5,5,5,2011-09-28,51.281878,-0.841019
+232483,Indiana Spice,4,5,10,5,2014-11-23,51.283298,-0.840009
+232484,ISS HP,5,5,5,5,2014-01-30,51.279454,-0.951179
+232485,Jackson Club,5,5,5,5,2014-10-22,51.318019,-0.819575
+232486,James Farm Day Nursery,5,5,5,5,2014-10-09,51.309388,-0.920426
+232487,Joint Helicopter Support Unit,5,5,5,5,2011-03-23,51.240465,-0.945218
+232488,Junior Ranks Club And Bar,5,0,5,5,2013-09-30,51.318019,-0.819575
+232489,Junior Ranks Kitchen,5,5,5,0,2009-10-22,51.240465,-0.945218
+232490,KFC,4,nan,nan,nan,2015-01-16,51.341972,-0.828335
+232491,KFC North Side,AwaitingInspection,nan,nan,nan,2015-01-16,51.296122,-0.855721
+232492,KFC South Side,5,5,0,0,2014-02-03,51.296122,-0.855721
+232493,Kidsunlimited Ltd,5,5,5,5,2014-04-16,,
+232494,King Chef,1,10,10,20,2013-09-29,,
+232495,Kings Restaurant,2,10,15,10,2014-11-05,51.254009,-0.938431
+232496,Kismet,3,nan,nan,nan,2014-08-22,51.341678,-0.820546
+232497,L And N Butchers,5,nan,nan,nan,2013-10-08,51.269081,-0.839148
+232498,La Casa CIBO Ltd,5,nan,nan,nan,2014-07-30,51.281878,-0.841019
+232499,Laziz Takeaway,1,10,15,20,2014-11-21,51.278776,-0.845642
+232500,Lee's Fish Bar,5,0,5,5,2014-10-24,51.330537,-0.780125
+232501,Lewis Bros,5,nan,nan,nan,2013-10-09,51.299609,-0.899641
+232502,Lin Thai Catering,4,5,10,5,2013-07-17,51.333339,-0.793688
+232503,Linkway News,5,5,5,5,2009-01-30,51.269382,-0.840416
+232504,Lismoyne Hotel,4,nan,nan,nan,2014-11-11,51.284299,-0.845748
+232505,Little Cottage Bed And Breakfast,5,5,0,5,2009-01-09,51.318862,-0.927795
+232506,"Little Elves, Community Pre School",4,5,5,10,2010-09-24,51.290489,-0.858987
+232507,Little Gems Pre-School,5,5,0,5,2008-11-27,51.34281,-0.836583
+232508,Little Monsters Day Nursery,5,5,5,5,2014-10-17,51.264408,-0.840269
+232509,Little Wings (formerly RAF Odiham Childcare Centre),5,0,5,5,2013-11-27,51.240249,-0.95326
+232510,Londis Northfield Stores,4,5,5,10,2013-03-06,51.266081,-0.825894
+232511,Londis Stores,3,5,10,10,2013-10-16,51.282978,-0.962154
+232512,Long Sutton Primary School,4,5,5,10,2011-09-14,51.22084,-0.944765
+232513,Lord Wandsworth College,5,5,5,5,2014-03-19,51.2157897949,-0.929445445538
+232514,MacDonalds Mess/Main Kitchen,5,0,5,0,2013-07-24,51.318019,-0.819575
+232515,Mace,5,5,5,5,2015-01-22,51.240465,-0.945218
+232516,Magic Chef,3,5,10,10,2012-05-29,51.340472,-0.840217
+232517,Mama Mia Restaurant,5,0,5,5,2014-08-28,51.296984,-0.912226
+232518,Marks And Spencer Simply Food,5,5,5,5,2010-09-08,51.281672,-0.842014
+232519,Marlborough House,4,5,10,5,2014-09-24,51.264721,-0.823879
+232520,Martins,3,5,10,10,2009-09-30,51.280777,-0.842409
+232521,Martins Newsagents,4,10,5,5,2013-09-23,51.254255,-0.939844
+232522,Maryfield Convent,5,0,5,0,2014-08-14,51.28145,-0.966332
+232523,Mayhill County Junior School,5,5,5,5,2014-04-04,51.2533035278,-0.940138578415
+232524,McCalls Newsagents,5,0,0,5,2015-01-22,51.33119,-0.778988
+232525,McDonalds,5,5,5,0,2013-10-04,51.281878,-0.841019
+232526,McDonalds,4,5,10,5,2014-05-30,51.296122,-0.855721
+232527,Menu Thai,3,nan,nan,nan,2014-11-18,51.278358,-0.845151
+232528,Mill House,4,5,10,5,2014-04-23,51.263227,-0.952537
+232529,Monsoon Indian Restaurant,3,10,10,10,2014-11-18,51.307619,-0.898446
+232530,Moonlight Takeaway,1,15,15,20,2014-10-17,51.333661,-0.792631
+232531,More Than Coffee,3,10,10,10,2012-12-19,51.280797,-0.841735
+232532,Morrisons  (includes Staff Canteen),5,nan,nan,nan,2014-06-24,51.290043,-0.857478
+232533,Mr Bumble PH,5,5,5,5,2014-11-05,51.330834,-0.778438
+232534,Mr Q Chinese Take Away,4,5,5,10,2013-12-20,51.340968,-0.818756
+232535,MVM Services,3,10,5,10,2014-08-20,51.296984,-0.912226
+232536,NAAFI Blades Club,5,5,5,5,2013-12-18,51.240465,-0.945218
+232537,New Era Takeaway,4,5,10,5,2014-10-24,51.294979,-0.823866
+232538,New Happy Fountain,3,5,10,10,2015-01-09,51.264408,-0.840269
+232539,Newlands Primary School,5,5,5,5,2014-11-05,51.0414810181,-1.34305000305
+232540,Newlyns Farm Butchery,5,5,5,5,2015-01-21,51.267684,-0.947204
+232541,Newlyns Farm Cafe,5,nan,nan,nan,2013-09-18,51.267684,-0.947204
+232542,Newlyns Farm Ready Meals,5,nan,nan,nan,2013-09-18,51.267684,-0.947204
+232543,Newlyns Farm Shop,3,10,10,10,2013-07-30,51.267684,-0.947204
+232544,North Hants Golf Club,4,0,10,10,2014-09-25,51.295326,-0.832405
+232545,Oak Park Golfing Complex,4,5,10,5,2014-05-08,51.232054,-0.852154
+232546,Oaklea Guest House,4,5,5,10,2013-02-12,51.28145,-0.966332
+232547,Oakwood Community Playgroup,4,nan,nan,nan,2012-03-12,51.299061,-0.900644
+232548,Oakwood Infant School,5,5,5,0,2014-01-30,51.299609,-0.899641
+232549,Oasis (St Peter's Church Coffee Shop),5,nan,nan,nan,2012-03-07,51.341678,-0.820546
+232550,Odiham Cake Company,4,5,5,10,2014-05-21,51.256632,-0.949176
+232551,Odiham Spice,3,10,10,10,2013-08-15,51.253797,-0.939884
+232552,Officers Mess,5,0,5,0,2014-10-22,51.318019,-0.819575
+232553,Officers Mess Kitchen,5,0,5,0,2011-04-28,51.240465,-0.945218
+232554,Old Raven House,5,5,5,5,2014-02-04,51.285587,-0.956216
+232555,One Stop,4,5,10,5,2014-06-09,51.306544,-0.899863
+232556,One Stop Community Stores,5,5,5,5,2013-01-29,51.341972,-0.828335
+232557,Organically Speaking,5,0,5,0,2013-01-30,51.306653,-0.899
+232558,P & N Catering,5,5,5,5,2014-11-10,,
+232559,Peacocks,3,10,10,10,2014-05-14,51.245141,-0.848877
+232560,Peppones,2,10,15,10,2014-04-16,51.246636,-0.873068
+232561,Pizza Express,5,5,5,5,2013-09-27,51.279903,-0.844109
+232562,Plume Of Feathers,5,5,5,5,2012-05-29,51.233085,-0.862971
+232563,Po Lee Chinese Take-Away,5,5,5,5,2015-01-30,51.306653,-0.899
+232564,Po Wah,5,5,5,5,2015-02-06,51.282059,-0.962949
+232565,Poppets Day Nursery,5,5,5,5,2014-10-03,51.282855,-0.824477
+232566,Porkys,5,5,5,5,2014-11-27,51.339943,-0.818841
+232567,Premier Express,4,5,5,10,2013-02-19,51.282059,-0.962949
+232568,Premier Inn Limited,5,5,5,0,2013-10-23,51.288369,-0.833614
+232569,Pride Catering,5,0,5,5,2014-11-04,,
+232570,Prince Of Wales Public House,5,nan,nan,nan,2014-10-24,51.273215,-0.837912
+232571,Propaganda Music Canteen,4,5,10,5,2014-08-07,51.278883,-0.844579
+232572,Puddleducks Montessori Nursery School,5,5,5,5,2011-05-17,51.258466,-0.952115
+232573,Pumpkin Patch Day Nursery,5,0,0,0,2013-08-08,51.278624,-0.843008
+232574,R J Ford & Sons Ltd,5,5,5,5,2014-12-10,51.289218,-0.830495
+232575,Raven Hotel,4,10,5,5,2013-12-03,51.28005,-0.961575
+232576,RB's Pizza,5,5,5,5,2014-04-25,51.290719,-0.856796
+232577,Real Indian,3,10,10,10,2014-01-22,51.342254,-0.822384
+232578,Reeves Butchers,4,nan,nan,nan,2014-03-19,51.341678,-0.820546
+232579,Retail Sales North (WH Smith),5,5,5,5,2013-08-28,51.296122,-0.855721
+232580,Retail Sales South (WH Smith),5,5,5,5,2014-02-03,51.296122,-0.855721
+232581,Rice Peking Restaurant,3,10,10,10,2014-02-06,51.341332,-0.818344
+232582,Riverford Organic Vegetables,5,5,5,5,2011-01-21,51.267684,-0.947204
+232583,Rocco's Pizza,5,5,5,5,2014-04-15,51.33151,-0.777702
+232584,Rosefield Day Centre,5,0,0,5,2014-07-15,51.251737,-0.939816
+232585,Rosie's Tea Room,5,5,5,5,2014-08-15,51.337319,-0.939265
+232586,Royal Swan,4,10,5,5,2012-07-19,51.331067,-0.778009
+232587,Run-About,5,5,5,0,2014-09-11,51.279898,-0.803318
+232588,RVS,5,0,5,5,2014-05-21,51.231899,-0.563907
+232589,Sainsburys Supermarkets Ltd,5,0,5,5,2009-01-14,51.281672,-0.842014
+232590,Salamandar,5,5,5,5,2008-10-17,51.340968,-0.818756
+232591,SeeAbility,5,5,5,0,2009-06-08,51.289923,-0.834335
+232592,Sentinel Housing Association   (Fresh Start),5,5,5,5,2004-05-26,,
+232593,Sentosa,4,5,10,5,2014-04-30,51.278358,-0.845151
+232594,Serco,5,0,5,5,2014-01-31,51.279219,-0.950984
+232595,Serendipity Retail Limited,4,10,10,0,2014-10-16,51.293785,-0.956934
+232596,Sergeants Mess,5,0,5,0,2014-04-29,51.318019,-0.819575
+232597,Sgts. Kitchen,5,0,5,0,2014-11-20,51.240465,-0.945218
+232598,Shell UK,4,10,5,5,2014-08-21,51.289475,-0.833644
+232599,Short 'n Sweet,5,5,5,5,2014-10-16,51.321954,-0.811246
+232600,Shoulder Of Mutton,2,10,15,10,2014-05-21,51.327367,-0.935562
+232601,Simons Video And Bottle Store,4,5,5,10,2012-02-13,51.340472,-0.840217
+232602,Southern Co-Operatives Ltd,5,5,5,5,2015-01-22,51.253742,-0.940831
+232603,Spar Shop,4,5,5,10,2010-10-25,51.318019,-0.819575
+232604,Spar Stores,3,5,10,10,2013-09-30,51.257328,-0.850006
+232605,Spire Healthcare Hospital,5,5,5,5,2013-12-16,51.225134,-0.847114
+232606,Spit Roast Services,5,5,5,5,2013-08-07,,
+232607,Spring Pre School,5,5,5,5,2011-09-26,51.334598,-0.793698
+232608,St Johns Church Centre And Coffee Shop,5,0,0,5,2014-01-21,51.302079,-0.896398
+232609,St Neots Preparatory School,4,nan,nan,nan,2012-03-12,51.350536,-0.898221
+232610,St Nicholas School,5,5,5,5,2013-09-23,51.250775,-0.850212
+232611,Starbucks Coffee Company,5,5,0,0,2013-03-08,51.280739,-0.84317
+232612,Starbucks Drive Thru,5,5,5,5,2014-05-22,51.296122,-0.855721
+232613,Stockton House School,5,5,5,5,2014-10-24,51.288376,-0.842519
+232614,Stop N' Shop,5,0,0,5,2015-01-22,51.330537,-0.780125
+232615,Street Food Spain,5,nan,nan,nan,2014-09-16,51.276014,-0.838185
+232616,Subway,5,5,5,5,2014-05-13,51.279903,-0.844109
+232617,Sugar Plum Cake Company,5,5,5,5,2013-10-09,,
+232618,Sunrise Of Fleet,5,0,5,5,2014-02-03,51.284452,-0.843063
+232619,Suvakamana Ltd,3,10,10,10,2014-07-28,51.278883,-0.844579
+232620,Sweet Coffee,5,5,5,5,2013-03-14,51.28005,-0.961575
+232621,Swirleeze,4,5,5,10,2012-03-16,51.253797,-0.939884
+232622,Tadpoles Community Playschool,5,5,5,5,2012-12-04,51.333468,-0.795708
+232623,Taste Spuds,5,5,5,5,2014-04-02,51.34721,-0.875571
+232624,Tavistock County Infant School,4,5,10,5,2013-06-17,51.0414810181,-1.34305000305
+232625,Tavistock Pre-School,3,5,10,10,2015-01-16,51.276164,-0.857063
+232626,Tesco,5,5,5,5,2012-10-12,51.336945,-0.796378
+232627,Tesco Express,4,10,10,0,2013-06-28,51.294979,-0.823866
+232628,Tesco Express,5,5,5,5,2013-03-07,51.264313,-0.82806
+232629,Tesco Express,4,5,10,5,2013-03-28,51.341678,-0.820546
+232630,Tesco Express Ltd,4,10,5,5,2014-01-14,51.330089,-0.78552
+232631,Tesco Stores,5,5,0,0,2014-07-30,51.279543,-0.960152
+232632,The Anchor Inn,5,5,5,5,2013-03-06,51.257089,-0.955027
+232633,The Anchor Public House,4,5,5,10,2013-02-19,51.331237,-0.838441
+232634,The Barley Mow,3,5,10,10,2014-04-15,51.2793312073,-0.887050032616
+232635,The Bell Inn,5,5,5,5,2010-08-13,51.333339,-0.793688
+232636,The Bell Public House,3,10,10,5,2011-04-01,51.2533035278,-0.940138578415
+232637,The Black Horse,1,15,15,20,2014-07-30,51.266268,-0.863084
+232638,The Briary Care Home,5,5,5,5,2015-01-22,51.280934,-0.849288
+232639,The Bushe Cafe Ltd,4,10,5,5,2014-05-21,51.322738,-0.839172
+232640,The Cafe Terrace,4,10,5,5,2014-05-08,51.282059,-0.962949
+232641,The Casa,3,5,10,10,2014-06-26,51.333629,-0.826638
+232642,The Chequers Inn,4,5,10,5,2014-05-29,51.215645,-0.909705
+232643,The Coffee Shop,5,nan,nan,nan,2013-09-18,,
+232644,The Cricketers Public House,5,5,5,5,2014-02-27,51.3062095642,-0.898795008659
+232645,The Cricketers Public House,4,10,5,5,2013-10-11,51.334322,-0.822242
+232646,The Crooked Billet,4,5,10,5,2014-04-10,51.287175,-0.946744
+232647,The Crown And Cushion,3,10,10,10,2010-03-02,51.330448,-0.776826
+232648,The Ely Lodge And Restaurant,4,nan,nan,nan,2014-07-09,51.324171,-0.822388
+232649,The Emporium,4,5,10,5,2014-01-22,51.279976,-0.843275
+232650,The Exchequer,5,5,5,5,2013-12-09,51.261217,-0.866118
+232651,The Fleet Charcoal Grill,5,5,5,5,2015-01-08,51.278883,-0.844579
+232652,The Foresters Inn,4,5,10,5,2014-06-09,51.263953,-0.826263
+232653,The Four Horseshoes,3,5,10,10,2014-08-18,51.220077,-0.939957
+232654,The Fox And Goose,3,10,10,10,2013-12-18,51.256898,-0.971999
+232655,The Frog And Wicket,4,10,5,5,2014-01-30,51.348995,-0.860206
+232656,The Garden Oven Company,5,0,0,5,2012-09-05,51.257652,-0.950572
+232657,The Gate Of India,5,5,5,5,2014-08-26,51.274583,-0.977855
+232658,The Golden Pot,4,5,10,5,2013-07-30,51.348522,-0.868991
+232659,The Grapevine,5,5,5,5,2014-07-15,51.253742,-0.940831
+232660,The Hampshire Arms,3,10,10,10,2013-09-18,51.234297,-0.86085
+232661,The Happy Plaice,4,5,10,5,2014-04-25,,
+232662,The Harvester At Fleet (Tree House),5,5,5,5,2013-12-13,51.231899,-0.563907
+232663,The Hogget,4,nan,nan,nan,2014-11-11,51.275252,-0.977252
+232664,The Horns P.H.,3,10,10,10,2014-03-31,51.244592,-0.858003
+232665,The Jaxx Night Club,5,5,5,5,2009-01-27,51.280797,-0.841735
+232666,The Leather Bottle,5,nan,nan,nan,2014-09-24,51.310986,-0.949786
+232667,The Little Shop Of Coffee,4,5,5,10,2014-08-05,51.341752,-0.820746
+232668,The Mead Childrens Home,3,5,10,10,2014-06-20,51.250674,-0.937634
+232669,The New Inn,5,5,5,5,2014-10-02,51.337623,-0.960117
+232670,The Oatsheaf Public House,5,5,5,5,2014-10-08,51.277894,-0.846439
+232671,The Old White Hart,5,nan,nan,nan,2014-11-18,51.282601,-0.963267
+232672,The Phoenix Inn,4,10,5,5,2013-11-29,51.296984,-0.912226
+232673,The Pizza House,3,10,10,10,2013-11-21,51.281759,-0.96254
+232674,The Poacher Public House,4,5,5,10,2014-07-15,51.221737,-0.96671
+232675,The Prince Arthur,5,5,5,0,2014-10-22,51.278776,-0.845642
+232676,The Queens Head,3,10,10,10,2013-08-19,51.269788,-0.874637
+232677,The Ridings Care Home,5,0,5,5,2014-07-04,,
+232678,The Royal Oak,3,10,10,5,2014-01-22,51.339892,-0.81818
+232679,The Shack Cafe,4,nan,nan,nan,2014-08-15,51.287175,-0.946744
+232680,The Station,5,5,5,5,2014-10-17,51.290171,-0.833124
+232681,The Verne Fish And Chips,5,5,5,5,2013-08-02,51.264408,-0.840269
+232682,The Viceroy Indian Restaurant,4,5,5,10,2014-06-30,51.305202,-0.903438
+232683,The Vine Church,4,5,5,10,2014-06-23,51.255805,-0.935223
+232684,The Vintage Cupcake Company,5,5,5,5,2013-03-05,,
+232685,The Waterwitch Public House,4,nan,nan,nan,2012-01-17,51.258398,-0.932641
+232686,The Well Coffee Shop,5,5,5,5,2012-06-01,51.233085,-0.862971
+232687,The White Hart Hotel,4,10,5,5,2013-10-23,51.283273,-0.960986
+232688,The White Hart PH,3,10,10,5,2014-07-08,51.35419,-0.889043
+232689,The Winchfield Inn,5,5,5,5,2013-09-11,51.285365,-0.907238
+232690,The Windmill Ewshot Ltd,1,10,15,20,2014-07-16,51.243693,-0.831564
+232691,The Wyvern Public House,4,10,5,5,2014-08-12,51.260244,-0.838396
+232692,Tiffin Wala,3,10,10,10,2014-11-18,51.33119,-0.778988
+232693,Tilsmere Ltd,5,5,5,5,2013-07-09,51.344918,-0.824354
+232694,Tina's Gut Buster (mobile),4,0,10,10,2014-03-30,51.291668,-0.870187
+232695,Tinkers Furze B And B,5,5,5,5,2012-12-13,51.286556,-0.848545
+232696,Tiny Tuskers,4,nan,nan,nan,2014-02-13,51.350536,-0.898221
+232697,Topher Ltd ( Nepalese Curry Kitchen),5,5,5,5,2014-03-17,51.282342,-0.839803
+232698,Trees Newsagents,3,10,5,10,2014-01-31,51.280445,-0.96753
+232699,Tweseldown Playgroup,4,5,5,10,2012-04-27,51.276439,-0.835199
+232700,Tweseldown Public House,4,5,10,5,2013-03-12,51.259598,-0.82689
+232701,Two Fold Trust,5,5,5,5,2011-02-24,51.254462,-0.942792
+232702,Tylney Hall Hotel,4,5,10,5,2014-04-29,51.291809,-0.983797
+232703,Tylney Park Golf Club,4,5,10,5,2013-10-18,51.291301,-0.978057
+232704,Velmead Junior School,4,5,10,5,2014-10-09,,
+232705,"Virgin Media ""The Restaurant""",5,5,5,0,2013-12-17,51.278245,-0.951723
+232706,Vista Health Care,5,5,5,5,2014-11-28,51.292078,-0.912571
+232707,Waggon And Horses Public House,4,nan,nan,nan,2014-03-05,51.306653,-0.899
+232708,Waitrose Limited,5,5,5,0,2015-01-30,51.280797,-0.841735
+232709,Waitrose Ltd,5,5,5,0,2013-12-23,51.339004,-0.84637
+232710,Warbrook House,4,5,10,5,2014-05-02,51.350101,-0.890176
+232711,Warings Master Bakers Ltd,5,5,5,0,2015-01-21,51.306023,-0.900808
+232712,Water Sky,4,0,10,10,2013-07-24,51.277826,-0.845924
+232713,WE Indian,5,0,5,5,2014-02-05,51.278883,-0.844579
+232714,Wellington Country Park,4,5,10,5,2014-08-13,51.359785,-0.954675
+232715,Wellington Farm Shop,5,5,5,5,2014-03-05,51.354763,-0.972496
+232716,West Green House,3,10,10,10,2014-07-23,51.301293,-0.930944
+232717,West Green Nursery School,5,5,5,5,2011-06-28,51.298801,-0.92099
+232718,Westfield County Infants School,5,5,5,5,2014-03-31,51.33823,-0.839025
+232719,Westfield County Junior School,5,5,5,0,2014-11-05,51.33823,-0.839025
+232720,White Lion,5,5,5,5,2014-07-10,51.342562,-0.828822
+232721,White Lion Tea Room,4,5,10,5,2013-07-12,51.313623,-0.890511
+232722,Whitewater C Of E Primary School,5,0,5,5,2014-05-08,51.301412,-0.979583
+232723,William Grant & Sons Ltd,5,5,5,0,2014-10-23,51.291025,-0.977332
+232724,Winchfield House,5,5,5,5,2011-09-14,51.292078,-0.912571
+232725,Wok U Like (SW) Ltd,2,15,10,10,2014-09-26,51.286002,-0.836155
+232726,Woodlands,5,nan,nan,nan,2014-04-29,51.264431,-0.82906
+232727,Woodlands Nursery,5,5,5,5,2014-05-06,51.257679,-0.828257
+232728,Yateley Cricket And Hockey Association,3,10,10,10,2014-08-04,51.348177,-0.832829
+232729,Yateley Kebab,3,5,10,10,2011-02-07,51.341678,-0.820546
+232730,Yateley Manor Preparatory School,5,nan,nan,nan,2013-06-21,51.341571,-0.825057
+232731,Yateley Secondary School,4,5,5,10,2012-03-13,51.33823,-0.839025
+232732,Yellow River Takeaway Ltd,4,5,5,10,2013-10-14,51.277861,-0.844906
+232733,Yummies,3,10,10,10,2014-08-05,,
+232734,Zaal,3,10,10,10,2013-07-24,51.277433,-0.842594

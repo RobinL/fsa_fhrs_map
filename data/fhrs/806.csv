@@ -1,315 +1,315 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-401791,91 Knockgorm Road,Kilmacrew,Banbridge,Down,A B & E E Mayne,Retailers - other,4613,5,,731512,5,,54.36060900000000,600006,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15804900000000,BT32 3TE,2011-04-11,fhrs_5_en-GB,5,,FHRS,0
-401792,Ballygowan Road,Ballyvally,Banbridge,Down,A Country Corner,Retailers - other,4613,10,,731513,5,,,600007,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,,BT32 3PU,2014-08-11,fhrs_4_en-GB,4,,FHRS,5
-401793,18-22 Scarva Street,Ballyvally,Banbridge,Down,A J Quinn & Sons,Pub/bar/nightclub,7843,10,,731514,5,,54.34889200000000,600010,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27092600000000,BT32 3DA,2010-12-01,fhrs_4_en-GB,4,,FHRS,0
-401794,Abbeyfield House Scarva Street,Edenderry,Banbridge,Down,Abbeyfield House,Hospitals/Childcare/Caring Premises,5,5,,731515,5,,54.34946200000000,600015,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27430100000000,BT32 3AD,2014-10-02,fhrs_5_en-GB,5,,FHRS,5
-401795,Abercorn Primary School Newry Road,Ballyvally,Banbridge,Down,Abercorn Primary School,School/college/university,7845,0,,731710,5,,54.34485500000000,601002,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27386400000000,BT32 3HR,2013-09-09,fhrs_5_en-GB,5,,FHRS,0
-401796,17 Loughbrickland Road,Drumaran,Gilford,Down,Af Davison,Distributors/Transporters,7,,,731516,,,54.36142900000000,600020,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.34938500000000,BT63 6BJ,2012-05-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-401797,Club House Scarva Road,Ballyvarley,Banbridge,Down,Aghaderg G F C & Ballyvarley H C,Retailers - other,4613,10,,731711,0,,54.34369100000000,601004,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.32899700000000,BT32 3QL,2011-03-02,fhrs_4_en-GB,4,,FHRS,0
-401798,80 Newry Street,Ballyvally,Banbridge,Down,Alexanders,Takeaway/sandwich shop,7844,0,,731784,5,,54.34773400000000,601450,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2012-11-30,fhrs_5_en-GB,5,,FHRS,0
-401799,30 Rathfriland Road,Tullyear,Banbridge,Down,Armaghdown Creameries Ltd Staff Canteen,Restaurant/Cafe/Canteen,1,5,,731814,5,,54.34353200000000,601614,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26178600000000,BT32 4LN,2013-01-23,fhrs_5_en-GB,5,,FHRS,5
-401800,30 Newry Street,Ballyvally,Banbridge,Down,Around A Pound,Retailers - other,4613,10,,731518,0,,54.34773400000000,600036,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2011-02-07,fhrs_4_en-GB,4,,FHRS,0
-401801,29 Ballyvally Heights,Ballyvally,Banbridge,Down,Authentic Baking Company,Other catering premises,7841,0,,731845,5,,54.35681800000000,601745,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.25661000000000,BT32 4AG,2013-02-19,fhrs_5_en-GB,5,,FHRS,0
-401802,4-6 Dunbarton Street,Loughans,Gilford,Down,Babu's Indian Spice,Restaurant/Cafe/Canteen,1,10,,731788,5,,54.37422700000000,601480,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36086000000000,BT63 6HJ,2014-07-10,fhrs_3_en-GB,3,,FHRS,10
-401803,124 Castlewellan Road,Ballydown,Banbridge,Down,Ballydown Filling Station,Retailers - other,4613,5,,731519,10,,54.34333600000000,600047,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.24025000000000,BT32 4JP,2014-05-13,fhrs_4_en-GB,4,,FHRS,5
-401804,64 Lisnaree Road,,Banbridge,Down,Ballydown Primary School,School/college/university,7845,0,,731521,5,,54.34725000000000,600050,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.23014800000000,BT32 4JS,2014-05-01,fhrs_5_en-GB,5,,FHRS,0
-401805,Banbridge Academy Lurgan Road,Edenderry,Banbridge,Down,Banbridge Academy,School/college/university,7845,0,,731522,0,,54.35544900000000,600053,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27012800000000,BT32 4AF,2014-05-16,fhrs_5_en-GB,5,,FHRS,5
-401806,Banbridge Campus Castlewellan Road,Ballyvally,Banbridge,Down,Banbridge Campus Catering,School/college/university,7845,0,,731700,5,,54.35009100000000,600860,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26246300000000,BT32 4AY,2013-09-10,fhrs_5_en-GB,5,,FHRS,5
-401807,116 Huntly Road,Ballykeel,Banbridge,Down,Banbridge Golf Club,Restaurant/Cafe/Canteen,1,5,,731714,5,,54.35840700000000,601008,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27974100000000,BT32 3UR,2013-09-10,fhrs_4_en-GB,4,,FHRS,10
-401808,59 Primrose Gardens,Ballyvally,Banbridge,Down,Banbridge High School,School/college/university,7845,5,,731523,0,,54.34657900000000,600063,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27756000000000,BT32 3EW,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-401809,6 Church Square,,Banbridge,Down,Banbridge Masonic Institute,Retailers - other,4613,0,,731715,5,,54.35159400000000,601009,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26758300000000,BT32 4AT,2010-11-29,fhrs_5_en-GB,5,,FHRS,5
-401810,3a Lurgan Road,Edenderry,Banbridge,Down,Banbridge Nursery School,School/college/university,7845,0,,731716,5,,54.35544900000000,601010,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27012800000000,BT32 4AF,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-401811,Rifle Park Arderys Lane,Ballyvally,Banbridge,Down,Banbridge Rugby Football Club,Retailers - other,4613,5,,731717,5,,54.34290300000000,601011,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27117800000000,BT32 3RF,2013-03-28,fhrs_5_en-GB,5,,FHRS,5
-401812,Old Ballydown Primary School Castlewellan Road,,Banbridge,Down,Banbridge Social Education Centre,Other catering premises,7841,5,,731777,0,,54.33567428588867,601329,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-5.79498720169067,,2012-10-29,fhrs_5_en-GB,5,,FHRS,0
-401813,10 Moyallan Road,Ballymacanallen,Portadown,Down,Bannvale Social Education Centre,School/college/university,7845,0,,731525,0,,54.38972100000000,600087,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.38054800000000,BT63 5JX,2012-10-15,fhrs_5_en-GB,5,,FHRS,0
-401814,23 Bannview Road,Tullyear,Banbridge,Down,Bannview House Care Home,Hospitals/Childcare/Caring Premises,5,0,,731808,5,,54.33681000000000,601559,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27108000000000,BT32 3RL,2014-05-02,fhrs_5_en-GB,5,,FHRS,5
-401815,174 Lurgan Road,Lenaderg,Banbridge,Down,Bannville House Hotel,Hotel/bed & breakfast/guest house,7842,10,,731526,10,,54.37481600000000,600088,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28941200000000,BT32 4NR,2013-09-03,fhrs_2_en-GB,2,,FHRS,15
-401816,24 Halfway Road,,Banbridge,Down,Barbican Centra A1,Retailers - other,4613,10,,731809,10,,54.36767800000000,601573,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.21768200000000,BT32 4ET,2013-09-04,fhrs_3_en-GB,3,,FHRS,10
-401817,34 John Street,Cross,Rathfriland,Down,Barbican Supervalu,Retailers - other,4613,5,,731527,5,,54.23611200000000,600090,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16215900000000,BT34 5QH,2013-12-12,fhrs_5_en-GB,5,,FHRS,0
-401818,44 Whyte Acres,Tullyear,Banbridge,Down,Barnardos Willowgrove Project,Hospitals/Childcare/Caring Premises,5,0,,731528,0,,54.34464800000000,600092,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.25880200000000,BT32 4HZ,2011-02-14,fhrs_5_en-GB,5,,FHRS,0
-401819,Ferris Park Sports Pavillion Banbridge Road,,Dromore,Down,Bella Bambinos Ltd,Hospitals/Childcare/Caring Premises,5,5,,731829,10,,54.41322300000000,601678,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15256300000000,BT25 1AD,2013-01-30,fhrs_4_en-GB,4,,FHRS,5
-401820,9 Lower Quilly Road,Quilly,Dromore,Down,Bellabambinos,Hospitals/Childcare/Caring Premises,5,0,,731782,0,,54.41193700000000,601413,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16548300000000,BT25 1NL,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-401821,Rathfriland Road,,Banbridge,Down,Belmont Hotel,Hotel/bed & breakfast/guest house,7842,5,,731529,5,,54.34422200000000,600100,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26598700000000,BT32 3LH,2014-02-10,fhrs_4_en-GB,4,,FHRS,10
-401822,240 Newry Road,Drumnahare,Banbridge,Down,Bernie Mac's,Mobile caterer,7846,5,,731830,0,,54.32429500000000,601680,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.29389300000000,BT32 3NE,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-401823,18-22 Scarva Street,Ballyvally,Banbridge,Down,Bin 66,Retailers - other,4613,,,731718,,,54.34889200000000,601013,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27092600000000,BT32 3DA,2010-12-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-401824,115 Katesbridge Road,Carnew,Dromore,Down,Bingham,Retailers - other,4613,,,731530,,,54.34386600000000,600104,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.09074700000000,BT25 2EU,2014-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-401825,85-87 Newry Street,Ballyvally,Banbridge,Down,Boots The Chemist Ltd,Retailers - other,4613,,,731531,,,54.34782600000000,600110,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27114000000000,BT32 3EA,2010-10-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-401826,8-10 Castle Street,,Dromore,Down,Boyles Bar,Pub/bar/nightclub,7843,0,,731848,0,,54.41367500000000,601757,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14747500000000,BT251AS,2013-08-16,fhrs_5_en-GB,5,,FHRS,5
-401827,32 Newry Street,,Banbridge,Down,Boyles Bingo,Restaurant/Cafe/Canteen,1,0,,731868,0,,54.34753700000000,601876,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27033800000000,BT32 3HA,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-401828,Bridge Primary School Ballygowan Road,Ballyvally,Banbridge,Down,Bridge Integrated Primary School,School/college/university,7845,0,,731532,0,,54.34685900000000,600121,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28080800000000,BT32 3EL,2013-09-09,fhrs_5_en-GB,5,,FHRS,5
-401829,Bronte Fold Dromore Street,Rossconor,Rathfriland,Down,Bronte Fold,Hospitals/Childcare/Caring Premises,5,0,,731719,0,,54.23924600000000,601016,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16143600000000,BT34 5LU,2013-01-02,fhrs_5_en-GB,5,,FHRS,0
-401830,39 Ballinaskeagh Road,Imdel,Banbridge,Down,Bronte Primary School,School/college/university,7845,0,,731533,5,,54.26415000000000,600126,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.23822300000000,BT32 5BL,2014-05-23,fhrs_5_en-GB,5,,FHRS,0
-401831,71 Ballynafoy Road,Ballynaskeagh,Banbridge,Down,Bronte Steak House,Restaurant/Cafe/Canteen,1,5,,731534,5,,54.28887900000000,600127,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.24334100000000,BT32 5DN,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-401832,31 Market Square,Ballymaganlis,Dromore,Down,Browne's Fry Bar,Takeaway/sandwich shop,7844,5,,731535,5,,54.41444100000000,600130,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2013-08-30,fhrs_5_en-GB,5,,FHRS,5
-401833,"The Outlet, Bridgewater Park",,Banbridge,Down,Burger King,Restaurant/Cafe/Canteen,1,0,,731763,0,,54.33857600000000,601266,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18131900000000,BT32 3GJ,2013-07-31,fhrs_5_en-GB,5,,FHRS,5
-401834,69a Newry Street,,Banbridge,Down,Cafe Coco,Restaurant/Cafe/Canteen,1,5,,731750,5,,54.34777300000000,601158,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27112800000000,BT32 3EA,2013-05-22,fhrs_5_en-GB,5,,FHRS,0
-401835,Downshire Road,Ballyvally,Banbridge,Down,Cafe Eden,Restaurant/Cafe/Canteen,1,5,,731834,5,,54.35116100000000,601701,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26997000000000,BT32 3JY,2012-10-02,fhrs_4_en-GB,4,,FHRS,10
-401836,29 Market Square,Ballymaganlis,Dromore,Down,Cafe Thyme,Restaurant/Cafe/Canteen,1,10,,731866,5,,54.41444100000000,601874,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2014-03-04,fhrs_4_en-GB,4,,FHRS,5
-401837,7 Linenhall Street,Ballyvally,Banbridge,Down,Candylicious,Retailers - other,4613,5,,731812,5,,54.34724300000000,601605,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27245700000000,BT32 3EG,2011-07-05,fhrs_5_en-GB,5,,FHRS,0
-401838,17 Castlewellan Road,Ballyvally,Banbridge,Down,Captain Cooks,Takeaway/sandwich shop,7844,5,,731539,5,,54.35011400000000,600142,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26712200000000,BT32 4AX,2014-06-30,fhrs_4_en-GB,4,,FHRS,10
-401839,19 Tierny Road,Lisnatierny,Newry,Down,Cedar Haven,Hotel/bed & breakfast/guest house,7842,10,,731540,5,,54.26892700000000,600145,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.29868400000000,BT34 1RX,2011-02-08,fhrs_4_en-GB,4,,FHRS,0
-401840,96 Scarva Street,Ballyvally,Banbridge,Down,Centra,Retailers - other,4613,10,,731541,5,,54.34946200000000,600147,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27430100000000,BT32 3AD,2014-04-02,fhrs_4_en-GB,4,,FHRS,5
-401841,23a Church Street,Edenderry,Banbridge,Down,Centra/church St Filling Station,Retailers - other,4613,10,,731776,10,,54.35310000000000,601328,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26733500000000,BT32 4AA,2014-02-05,fhrs_4_en-GB,4,,FHRS,0
-401842,22 Dromore Street,Cross,Rathfriland,Down,Chan's Takeaway Food,Takeaway/sandwich shop,7844,10,,731840,5,,54.23924600000000,601726,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16143600000000,BT34 5LU,2013-06-12,fhrs_4_en-GB,4,,FHRS,5
-401843,79 Newry Street,Ballyvally,Banbridge,Down,Chicken Box,Takeaway/sandwich shop,7844,5,,731770,5,,54.34782600000000,601287,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27114000000000,BT32 3EA,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
-401844,1 Rathfriland Road,Ballyvally,Banbridge,Down,Child's Play Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,731543,5,,54.34422100000000,600155,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26598600000000,BT32 3LH,2014-03-21,fhrs_5_en-GB,5,,FHRS,0
-401845,1 Ballygowan Road,Edenderry,Banbridge,Down,Child's Play Nursery - Parish Centre,Hospitals/Childcare/Caring Premises,5,5,,731544,10,,54.35115900000000,600156,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27232300000000,BT32 3EY,2014-03-20,fhrs_4_en-GB,4,,FHRS,0
-401846,14 Dunbarton Street,Loughans,Gilford,Down,Chilli Masala,Takeaway/sandwich shop,7844,10,,731807,10,,54.37422700000000,601556,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36086000000000,BT63 6HJ,2013-03-26,fhrs_3_en-GB,3,,FHRS,10
-401847,1 Church Square,Cross,Rathfriland,Down,Chip Shop Cafe,Restaurant/Cafe/Canteen,1,,,731593,,,54.23742900000000,600348,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16127200000000,BT34 5PT,2013-08-12,fhrs_4_en-GB,4,,FHRS,
-401848,16 Lower Quilly Road,Quilly,Dromore,Down,Clanmurry,Hotel/bed & breakfast/guest house,7842,10,,731721,5,,54.41193700000000,601020,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16548300000000,BT25 1NL,2011-10-10,fhrs_4_en-GB,4,,FHRS,5
-401849,21 Bridge Street,Ballyvally,Banbridge,Down,Clear Pharmacy,Retailers - other,4613,,,731642,,,54.34971600000000,600637,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26887700000000,BT32 3JL,2013-07-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-401850,66a Cline Road,,Banbridge,Down,Cline Road Shop,Retailers - other,4613,5,,731545,5,,54.34356900000000,600164,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27876300000000,BT32 3HT,2014-03-31,fhrs_4_en-GB,4,,FHRS,10
-401851,28a Monteith Road,,Banbridge,Down,Coffee Italino,Takeaway/sandwich shop,7844,5,,731855,5,,54.29975900000000,601779,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18746700000000,BT32 5LS,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-401852,109 Scarva Road,,Banbridge,Down,Coffee On The Go,Mobile caterer,7846,5,,731870,5,,54.35147500000000,601881,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.29201400000000,BT32 3QD,2014-03-14,fhrs_5_en-GB,5,,FHRS,5
-401853,51 Killysorrell Road,Killysorrell,Dromore,Down,Colin Morton,Retailers - other,4613,5,,731802,5,,54.39791600000000,601531,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.21432200000000,BT25 1LB,2015-01-18,fhrs_5_en-GB,5,,FHRS,5
-401854,25 Grove Hill Road,,Banbridge,Down,Copperfields,Other catering premises,7841,0,,731831,0,,54.30975600000000,601681,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.29185200000000,BT32 3NF,2012-06-18,fhrs_5_en-GB,5,,FHRS,0
-401855,"The Outlet, Bridgewater Park",,Banbridge,Down,Costa Coffee,Restaurant/Cafe/Canteen,1,10,,731767,15,,54.33857600000000,601275,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18131900000000,BT32 3GJ,2014-10-07,fhrs_2_en-GB,2,,FHRS,10
-401856,21 Ballygowan Road,Edenderry,Banbridge,Down,Costcutters,Retailers - other,4613,10,,731590,5,,54.34685900000000,600343,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28080800000000,BT32 3EL,2014-02-05,fhrs_4_en-GB,4,,FHRS,0
-401857,29 Scarva Street,Bovennett,Banbridge,Down,Costcutters,Retailers - other,4613,0,,731553,5,,54.31685300000000,600203,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30515900000000,BT32 3NH,2013-08-05,fhrs_5_en-GB,5,,FHRS,5
-401858,Crozier House (Old People'S Home) Meeting House Road,Ballyvally,Banbridge,Down,Crozier House,Hospitals/Childcare/Caring Premises,5,0,,731548,5,,54.34847900000000,600176,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27468100000000,BT32 3ER,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-401859,1a Meeting House Road,Edenderry,Banbridge,Down,Crozier Lodge,Hospitals/Childcare/Caring Premises,5,0,,731773,0,,54.34847900000000,601316,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27468100000000,BT32 3ER,2011-12-06,fhrs_5_en-GB,5,,FHRS,0
-401860,46 Huntly Road,Edenderry,Banbridge,Down,Day Today,Retailers - other,4613,5,,731599,10,,54.35692000000000,600370,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27874200000000,BT32 3BJ,2013-08-13,fhrs_3_en-GB,3,,FHRS,10
-401861,90 Drumgooland Road,Deehommed,Castlewellan,Down,Dechomet Bar,Pub/bar/nightclub,7843,0,,731551,0,,54.32483200000000,600192,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.09564100000000,BT31 9QX,2011-05-26,fhrs_4_en-GB,4,,FHRS,10
-401862,42 Scarva Street,Bovennett,Banbridge,Down,Delish Dish,Mobile caterer,7846,10,,731864,5,,54.31685300000000,601860,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30515900000000,BT32 3NH,2014-03-20,fhrs_4_en-GB,4,,FHRS,5
-401863,13 Gargarry Road,Gargarry,Castlewellan,Down,Dolly's Brae Inn,Pub/bar/nightclub,7843,5,,731554,0,,54.27298100000000,600204,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.02156300000000,BT31 9RW,2011-05-24,fhrs_5_en-GB,5,,FHRS,0
-401864,23a Church Street,Edenderry,Banbridge,Down,Domino's Pizza,Takeaway/sandwich shop,7844,5,,731817,0,,54.35310000000000,601624,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26733500000000,BT32 4AA,2013-08-01,fhrs_5_en-GB,5,,FHRS,5
-401865,22a Castlewellan Road,Ballyvally,Banbridge,Down,Donard School,School/college/university,7845,5,,731555,5,,54.35009100000000,600206,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26246300000000,BT32 4AY,2014-01-21,fhrs_5_en-GB,5,,FHRS,0
-401866,93 Newry Street,Ballyvally,Banbridge,Down,Doreen's,Retailers - other,4613,10,,731556,10,,54.34680300000000,600207,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27181400000000,BT32 3EF,2013-06-20,fhrs_3_en-GB,3,,FHRS,5
-401867,95 Newry Street,Ballyvally,Banbridge,Down,Downshire Arms Hotel,Hotel/bed & breakfast/guest house,7842,5,,731557,5,,54.34680300000000,600210,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27181400000000,BT32 3EF,2013-06-14,fhrs_4_en-GB,4,,FHRS,10
-401868,39 Glen Road,Tonaghmore,Dromore,Down,Drombane House Ltd,Hospitals/Childcare/Caring Premises,5,5,,731558,5,,54.39071700000000,600215,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.23926900000000,BT25 1JX,2014-08-11,fhrs_5_en-GB,5,,FHRS,5
-401869,2 Banbridge Road,Balleny,Dromore,Down,Dromore Central Primary School,School/college/university,7845,0,,731562,5,,54.41366100000000,600230,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15246600000000,BT25 1AD,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-401870,Dromore Comunnity Centre Lurgan Road,Ballynaris,Dromore,Down,Dromore Community Centre,Retailers - other,4613,,,731826,,,54.41565400000000,601665,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16825900000000,BT25 1HH,2012-05-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-401871,11 Bridge Street,Drumbroneth,Dromore,Down,Dromore Elim Pentecostal Church,Restaurant/Cafe/Canteen,1,10,,731752,0,,54.41406800000000,601210,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14969000000000,BT25 1AN,2011-02-10,fhrs_4_en-GB,4,,FHRS,5
-401872,31 Banbridge Road,Balleny,Dromore,Down,Dromore High School,School/college/university,7845,10,,731559,5,,54.41224400000000,600225,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15618000000000,BT25 1ND,2014-02-04,fhrs_4_en-GB,4,,FHRS,5
-401873,2 Meeting Street,Drumbroneth,Dromore,Down,Dromore Meats,Manufacturers/packers,7839,5,,731560,0,,54.41318000000000,600227,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14923700000000,BT25 1AQ,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-401874,18 Banbridge Road,Balleny,Dromore,Down,Dromore Nursery,Hospitals/Childcare/Caring Premises,5,5,,731810,5,,54.41333600000000,601577,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15411300000000,BT25 1NB,2012-10-16,fhrs_5_en-GB,5,,FHRS,0
-401875,46a Barban Hill,Balleny,Dromore,Down,Dromore Rugby Football Club,Retailers - other,4613,10,,731563,15,,54.40886800000000,600233,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15573100000000,BT25 1PR,2013-02-15,fhrs_2_en-GB,2,,FHRS,5
-401876,133 Dromara Road,Drumadonnell,Banbridge,Down,Drumadonnell Primary School,School/college/university,7845,0,,731564,0,,54.28467600000000,600234,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.09837000000000,BT32 5EY,2015-01-07,fhrs_5_en-GB,5,,FHRS,0
-401877,14 Newry Street,Ballyvally,Banbridge,Down,E Henning,Manufacturers/packers,7839,5,,731565,10,,54.34773400000000,600242,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2014-01-06,fhrs_4_en-GB,4,,FHRS,5
-401878,46 Newry Street,Ballyvally,Banbridge,Down,Eden Health Products,Retailers - other,4613,,,731726,,,54.34773400000000,601027,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2011-11-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-401879,1a Lurgan Road,Edenderry,Banbridge,Down,Edenderry Primary School,School/college/university,7845,5,,731566,5,,54.35544900000000,600249,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27012800000000,BT32 4AF,2013-04-23,fhrs_5_en-GB,5,,FHRS,5
-401880,6 Edenderry Road,Edenderry,Banbridge,Down,Edenvilla,Hospitals/Childcare/Caring Premises,5,10,,731567,0,,54.34895600000000,600250,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27729100000000,BT32 3AF,2011-02-07,fhrs_4_en-GB,4,,FHRS,0
-401881,20 Ballinaskeagh Road,Imdel,Banbridge,Down,Eric Toal,Retailers - other,4613,5,,731568,5,,54.26415000000000,600256,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.23822300000000,BT32 5BL,2011-11-09,fhrs_5_en-GB,5,,FHRS,0
-401882,7 Princes Street,Ballymaganlis,Dromore,Down,Express Pizza Co,Restaurant/Cafe/Canteen,1,10,,731838,0,,54.41517700000000,601724,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14762200000000,BT25 1AY,2014-10-29,fhrs_4_en-GB,4,,FHRS,10
-401883,4 Tullinisky Road,Kinallen,Dromore,Down,Fairhill Primary School,School/college/university,7845,0,,731569,5,,54.37927700000000,600260,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.08453200000000,BT25 2PJ,2014-10-14,fhrs_5_en-GB,5,,FHRS,0
-401884,68 Maypole Park,Ballymaganlis,Dromore,Down,Fed & Watered,Retailers - other,4613,0,,731871,0,,54.41730000000000,601884,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14834300000000,BT25 1SJ,2014-06-13,fhrs_5_en-GB,5,,FHRS,0
-401885,232 Newry Road,,Banbridge,Down,Fegan's Farm Shop,Retailers - other,4613,5,,731860,5,,54.32429600000000,601855,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.29389400000000,BT32 3NE,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-401886,Ballygowan Road,Ballyvally,Banbridge,Down,Florentine Take-away,Takeaway/sandwich shop,7844,10,,731570,10,,,600277,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,,BT32 3PU,2013-08-01,fhrs_3_en-GB,3,,FHRS,5
-401887,2 Kenlis Street,Ballyvally,Banbridge,Down,Four Ways,Takeaway/sandwich shop,7844,0,,731571,0,,54.34617500000000,600278,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26879500000000,BT32 3LR,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-401888,24 Bridge Street,Ballyvally,Banbridge,Down,Fred Elliott,Manufacturers/packers,7839,5,,731572,10,,54.34948800000000,600280,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26988600000000,BT32 3JS,2014-12-10,fhrs_3_en-GB,3,,FHRS,10
-401889,23 Main Street,Rossconor,Rathfriland,Down,Fred Mc Cauley,Manufacturers/packers,7839,5,,731573,5,,54.23813400000000,600281,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16039700000000,BT34 5PS,2014-01-09,fhrs_4_en-GB,4,,FHRS,10
-401890,12 Bridge Street,Ballyvally,Banbridge,Down,French Presse,Restaurant/Cafe/Canteen,1,20,,731720,15,,54.34948800000000,601017,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26988600000000,BT32 3JS,2014-07-07,fhrs_1_en-GB,1,,FHRS,10
-401891,45 Princes Street,Ballymacormick,Dromore,Down,Fresh Oil Ministries,Restaurant/Cafe/Canteen,1,,,731785,,,54.41517700000000,601463,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14762200000000,BT25 1AY,2014-03-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-401892,30 Ringsend Road,Ballygowan,Banbridge,Down,Fresh Winds B&b,Hotel/bed & breakfast/guest house,7842,5,,731511,5,,54.33992500000000,600001,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.29804300000000,BT32 3QQ,2013-05-31,fhrs_5_en-GB,5,,FHRS,0
-401893,57 Bridge Street,Ballyvally,Banbridge,Down,Friar Tucks,Restaurant/Cafe/Canteen,1,5,,731574,5,,54.34971600000000,600282,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26887700000000,BT32 3JL,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-401894,42 Downpatrick Street,Rossconor,Rathfriland,Down,Friends,Pub/bar/nightclub,7843,0,,731708,5,,54.23635500000000,600901,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15800700000000,BT34 5DQ,2011-04-13,fhrs_5_en-GB,5,,FHRS,5
-401895,2a Mountview Terrace,Ballyvally,Banbridge,Down,G S Mc Kinstry,Retailers - other,4613,10,,731575,5,,54.35301900000000,600289,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26549200000000,BT32 4JA,2013-01-04,fhrs_3_en-GB,3,,FHRS,10
-401896,4 Gall Bog Road,Ballooly,Banbridge,Down,Gall Bog Bar,Pub/bar/nightclub,7843,10,,731576,10,,54.37118600000000,600292,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.13824700000000,BT32 3SY,2012-11-06,fhrs_3_en-GB,3,,FHRS,10
-401897,71-73 Newry Street,,Banbridge,Down,Gaze,Restaurant/Cafe/Canteen,1,5,,731775,5,,54.34739000000000,601325,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27139000000000,BT32 3ED,2013-09-12,fhrs_5_en-GB,5,,FHRS,5
-401898,92 Banbridge Road,Knocknagore,Gilford,Down,Gilberry Fayre,Restaurant/Cafe/Canteen,1,5,,731577,5,,54.37969700000000,600305,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.32676500000000,BT63 6DL,2014-08-22,fhrs_4_en-GB,4,,FHRS,10
-401899,1 Banbridge Road,Drumaran,Gilford,Down,Gilford Filling Station,Retailers - other,4613,5,,731578,5,,54.37566800000000,600309,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.34532000000000,BT63 6DJ,2013-09-20,fhrs_5_en-GB,5,,FHRS,0
-401900,4-6 Dunbarton Street,Loughans,Gilford,Down,Gilford Inn,Pub/bar/nightclub,7843,0,,731579,0,,54.37422700000000,600311,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36086000000000,BT63 6HJ,2011-02-11,fhrs_5_en-GB,5,,FHRS,0
-401901,Gilford Primary School Castle Hill,Loughans,Craigavon,Armagh,Gilford Primary School,School/college/university,7845,0,,731547,0,,54.37491100000000,600174,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35900100000000,BT63 6HH,2014-06-17,fhrs_4_en-GB,4,,FHRS,10
-401902,3-5 Downpatrick Street,Rossconor,Rathfriland,Down,Golden Fortune,Takeaway/sandwich shop,7844,10,,731580,10,,54.23756900000000,600318,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15927200000000,BT34 5DG,2014-03-13,fhrs_3_en-GB,3,,FHRS,10
-401903,84 Newry Street,Ballyvally,Banbridge,Down,Golden Jade,Takeaway/sandwich shop,7844,5,,731581,5,,54.34773400000000,600319,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2012-10-05,fhrs_4_en-GB,4,,FHRS,10
-401904,22 Dunbarton Street,Loughans,Gilford,Down,Golden Village,Takeaway/sandwich shop,7844,5,,731582,5,,54.37422700000000,600321,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36086000000000,BT63 6HJ,2014-09-30,fhrs_5_en-GB,5,,FHRS,5
-401905,12 Linenhall Street,Ballyvally,Banbridge,Down,Gordon's Chemist,Retailers - other,4613,,,731584,,,54.34724300000000,600327,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27245700000000,BT32 3EG,2013-06-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-401906,16 Main Street,Cross,Rathfriland,Down,Gordon's Chemist,Retailers - other,4613,,,731583,,,54.23813400000000,600326,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16039700000000,BT34 5PS,2014-06-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-401907,45 Newry Street,Ballyvally,Banbridge,Down,Gordon's Chemist,Retailers - other,4613,,,731585,,,54.34782600000000,600328,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27114000000000,BT32 3EA,2010-10-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-401908,11 Downpatrick Street,Rossconor,Rathfriland,Down,Graham's,Manufacturers/packers,7839,10,,731652,10,,54.23756900000000,600662,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15927200000000,BT34 5DG,2014-01-13,fhrs_1_en-GB,1,,FHRS,20
-401909,28 Market Square,Ballymaganlis,Dromore,Down,Graham's Newsagents,Manufacturers/packers,7839,0,,731587,0,,54.41444100000000,600335,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2013-10-18,fhrs_5_en-GB,5,,FHRS,0
-401910,26 Garvaghy Road,Garvaghy,Banbridge,Down,Granny's Jams & Chutneys,Other catering premises,7841,5,,731821,5,,54.36464100000000,601632,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14146600000000,BT32 3SZ,2011-11-11,fhrs_5_en-GB,5,,FHRS,0
-401911,15 Brague Road,Clay,Banbridge,Down,Greenacres Guest House,Hotel/bed & breakfast/guest house,7842,5,,731588,5,,54.31965900000000,600336,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.23884800000000,BT32 5JZ,2013-05-31,fhrs_5_en-GB,5,,FHRS,0
-401912,11 Townsend Street,,Banbridge,Down,Greenbean Coffee Roasters,Restaurant/Cafe/Canteen,1,10,,731757,5,,54.34741600000000,601237,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26880500000000,BT32 3LF,2014-04-04,fhrs_4_en-GB,4,,FHRS,0
-401913,80 Halfway Road,Edenordinary,Banbridge,Down,Halfway House,Restaurant/Cafe/Canteen,1,5,,731589,5,,54.37853800000000,600340,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.19397000000000,BT32 4HB,2013-09-13,fhrs_4_en-GB,4,,FHRS,10
-401914,7 Dromore Street,Ballyvally,Banbridge,Down,Harry's Bar,Restaurant/Cafe/Canteen,1,10,,731591,0,,54.35241600000000,600346,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26604100000000,BT32 4BS,2013-02-28,fhrs_4_en-GB,4,,FHRS,10
-401915,166 Banbridge Road,Balleny,Dromore,Down,Harry's Country Store,Retailers - other,4613,0,,731592,5,,54.39011200000000,600347,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.17972800000000,BT25 1NG,2012-12-07,fhrs_5_en-GB,5,,FHRS,5
-401916,75 Ardbrin Road,Ardbrin,Banbridge,Down,Hawthorn Inn,Pub/bar/nightclub,7843,10,,731594,5,,54.30609400000000,600350,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18571300000000,BT32 5LL,2011-05-26,fhrs_3_en-GB,3,,FHRS,10
-401917,3a Caddells Lane,Cross,Rathfriland,Down,Herrons Country Fried Chicken,Takeaway/sandwich shop,7844,10,,731596,5,,54.23683700000000,600354,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16017800000000,BT34 5PX,2013-09-02,fhrs_4_en-GB,4,,FHRS,5
-401918,36 Market Square,Ballymaganlis,Dromore,Down,Herron's Country Fried Chicken,Takeaway/sandwich shop,7844,5,,731595,0,,54.41444100000000,600352,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-401919,12 Scarva Street,Ballyvally,Banbridge,Down,Higgins,Pub/bar/nightclub,7843,5,,731597,5,,54.34889200000000,600357,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27092600000000,BT32 3DA,2012-11-08,fhrs_4_en-GB,4,,FHRS,10
-401920,29 Shanrod Road,Shanrod,Banbridge,Down,Hill Mourne View B&b,Hotel/bed & breakfast/guest house,7842,5,,731800,0,,54.33492900000000,601513,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14328400000000,BT32 5PG,2010-09-03,fhrs_5_en-GB,5,,FHRS,0
-401921,44 Barrack Hill,Drumneth,Banbridge,Down,Hilltop Lodge,Hotel/bed & breakfast/guest house,7842,,,731753,,,54.37141200000000,601211,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.19869900000000,BT32 4HE,2011-07-05,fhrs_5_en-GB,5,,FHRS,
-401922,"The Outlet, Bridgewater Park",,Banbridge,Down,Holland And Barrett,Retailers - other,4613,,,731762,,,54.33857600000000,601265,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18131900000000,BT32 3GJ,2011-08-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-401923,Holy Trinity Church Hall Church Street,Ballyvally,Banbridge,Down,Humpty Dumpty Pre-school Playgroup,Hospitals/Childcare/Caring Premises,5,5,,731598,0,,54.35310000000000,600368,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26733500000000,BT32 4AA,2014-03-25,fhrs_5_en-GB,5,,FHRS,0
-401924,70-80 Newry Street,Ballyvally,Banbridge,Down,Iceland Frozen Foods Plc,Retailers - other,4613,0,,731600,0,,54.34773400000000,600371,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2011-10-25,fhrs_5_en-GB,5,,FHRS,5
-401925,19a Drumarkin Road,,Rathfriland,Down,Ilex House,Hotel/bed & breakfast/guest house,7842,0,,731780,5,,54.25250700000000,601400,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.13847400000000,BT34 5ND,2012-04-27,fhrs_5_en-GB,5,,FHRS,0
-401926,62 Castlewellan Road,Tullyear,Banbridge,Down,Iveagh House Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,731602,5,,54.34491300000000,600378,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.25788300000000,BT32 4JD,2014-02-03,fhrs_5_en-GB,5,,FHRS,0
-401927,17 Castle Hill,Rossconor,Rathfriland,Down,Iveagh Meals Kitchen,School/college/university,7845,0,,731603,5,,54.23922700000000,600379,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15545500000000,BT34 5NH,2013-05-30,fhrs_5_en-GB,5,,FHRS,5
-401928,26 Downshire Place,Ballyvally,Banbridge,Down,Iveagh Movie Studio's Cafe,Restaurant/Cafe/Canteen,1,10,,731728,5,,54.35021400000000,601033,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27100900000000,BT32 3DF,2014-07-03,fhrs_3_en-GB,3,,FHRS,10
-401929,7 Gallows Street,Ballymaganlis,Dromore,Down,J Mc Cracken,Retailers - other,4613,10,,731604,10,,54.41517800000000,600386,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14947100000000,BT25 1BG,2012-11-14,fhrs_3_en-GB,3,,FHRS,5
-401930,74 Scarva Street,Edenderry,Banbridge,Down,Jimmy's Chippie,Takeaway/sandwich shop,7844,10,,731772,0,,54.34946200000000,601313,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27430100000000,BT32 3AD,2013-08-28,fhrs_4_en-GB,4,,FHRS,5
-401931,Unit 1 - 4 Rathfriland Enterprise Centre Downpatrick Street,,Banbridge,Down,Jmac Fries,Manufacturers/packers,7839,,,731818,,,54.23756900000000,601626,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15927200000000,BT345DG,2013-06-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-401932,21 Church Square,Ballyvally,Banbridge,Down,Jockey Club,Pub/bar/nightclub,7843,10,,731607,5,,54.35180800000000,600398,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26620500000000,BT32 4AP,2011-01-14,fhrs_4_en-GB,4,,FHRS,5
-401933,Jolly Jester Castle Street,,Dromore,Down,Jolly Jesters,Hospitals/Childcare/Caring Premises,5,0,,731729,0,,54.41343600000000,601034,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15065900000000,BT25 1AF,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-401934,90 Church Street,Ballymaganlis,Dromore,Down,Juice Caboose,Restaurant/Cafe/Canteen,1,0,,731874,5,,54.41501200000000,601942,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15268200000000,BT25 1AA,2014-10-13,fhrs_5_en-GB,5,,FHRS,0
-401935,83 Castlewellan Road,,Banbridge,Down,Kids Academy,Hospitals/Childcare/Caring Premises,5,5,,731520,5,,54.34491400000000,600048,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.25788400000000,BT32 4JD,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-401936,136 Rathfriland Road,Finnis,Dromore,Down,King's,Pub/bar/nightclub,7843,5,,731608,5,,54.36159000000000,600422,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.02405900000000,BT25 2EE,2013-01-17,fhrs_4_en-GB,4,,FHRS,10
-401937,20 Church Street,Edenderry,Banbridge,Down,L. A. Pizza,Takeaway/sandwich shop,7844,5,,731794,0,,54.35310000000000,601494,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26733500000000,BT32 4AA,2014-12-17,fhrs_5_en-GB,5,,FHRS,5
-401938,55 Castlewellan Road,Tullyear,Banbridge,Down,Ladybird Lane Ltd,Hospitals/Childcare/Caring Premises,5,5,,731756,5,,54.34591500000000,601235,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26134700000000,BT32 4JF,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-401939,80 Dublin Road,Ballintaggart,Banbridge,Down,Lakeview Service Station,Retailers - other,4613,5,,731609,5,,54.30837500000000,600426,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30028300000000,BT32 3NW,2010-10-27,fhrs_5_en-GB,5,,FHRS,0
-401940,Laurencetown Community Centre Drumnascamph Road,,Craigavon,Armagh,Laurencetown Community Centre,Other catering premises,7841,0,,731730,0,,54.38468000000000,601035,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30906000000000,BT63 6DU,2011-02-04,fhrs_5_en-GB,5,,FHRS,0
-401941,210 Banbridge Road,Drumnascamph,Gilford,Down,Laurencetown Service Station,Retailers - other,4613,5,,731610,5,,54.37930200000000,600429,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30106200000000,BT63 6DW,2014-10-14,fhrs_4_en-GB,4,,FHRS,10
-401942,236 Banbridge Road,Lisnafiffy (Seapatrick),Gilford,Down,Laverty's Public House,Pub/bar/nightclub,7843,5,,731611,5,,54.37930200000000,600430,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30106200000000,BT63 6DW,2011-05-27,fhrs_5_en-GB,5,,FHRS,5
-401943,11 Backaderry Road,Leitrim,Castlewellan,Down,Leitrim G F C,Retailers - other,4613,,,731731,,,54.28659900000000,601036,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-5.99524800000000,BT31 9SL,2011-05-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-401944,9 Backaderry Road,,Castlewellan,Down,Leitrim Playgroup,Hospitals/Childcare/Caring Premises,5,0,,731612,0,,54.28659900000000,600435,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-5.99524800000000,BT31 9SL,2013-05-14,fhrs_5_en-GB,5,,FHRS,0
-401945,24 Weavers Court,Edenderry,Banbridge,Down,Licensed To Grill/safari Steak Burgers,Mobile caterer,7846,5,,731765,5,,54.35323300000000,601269,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27037500000000,BT32 4RP,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-401946,2 Newry Road,Ballyvally,Banbridge,Down,Lidl Uk Gmbh,Retailers - other,4613,5,,731613,5,,54.34469500000000,600437,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27079500000000,BT32 3HF,2013-09-13,fhrs_5_en-GB,5,,FHRS,5
-401947,Riverside Shopping Centre Mill Street,Loughans,Gilford,Down,Linen House Tea Rooms,Restaurant/Cafe/Canteen,1,0,,731755,5,,54.37277900000000,601227,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35950200000000,BT63 6HQ,2014-05-19,fhrs_5_en-GB,5,,FHRS,5
-401948,"The Outlet, Bridgewater Park",,Banbridge,Down,Linenhill Kitchen & Deli,Restaurant/Cafe/Canteen,1,10,,731849,10,,54.33857600000000,601761,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18131900000000,BT32 3GJ,2013-07-31,fhrs_3_en-GB,3,,FHRS,10
-401949,1 Monteith Road,Lisnasliggan,Banbridge,Down,Lisliggan Stores,Retailers - other,4613,5,,731614,5,,54.30491300000000,600438,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.19977700000000,BT32 5AT,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-401950,67 Huntly Road,Edenderry,Banbridge,Down,Little Friends,Hospitals/Childcare/Caring Premises,5,5,,731615,5,,54.37036900000000,600441,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28307300000000,BT32 3UA,2013-11-05,fhrs_5_en-GB,5,,FHRS,0
-401951,4 Banbridge Road,Drumaran,Gilford,Down,Little Meadow,Restaurant/Cafe/Canteen,1,0,,731538,5,,54.37566800000000,600140,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.34532000000000,BT63 6DJ,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-401952,14 Main Street,Drumnahare,Banbridge,Down,Loughbrickland Pharmacy,Retailers - other,4613,,,731616,,,54.31485100000000,600443,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30267500000000,BT32 3NQ,2014-06-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-401953,Aghaderg Road,,Banbridge,Down,Loughbrickland Pre-school,Hospitals/Childcare/Caring Premises,5,5,,731698,0,,54.32692700000000,600844,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26734400000000,BT32 4LA,2013-04-11,fhrs_5_en-GB,5,,FHRS,5
-401954,15 Newry Street,Ballyvally,Banbridge,Down,M A Quail,Manufacturers/packers,7839,5,,731619,5,,54.34782600000000,600454,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27114000000000,BT32 3EA,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-401955,4 Main Street,Cross,Rathfriland,Down,Mace,Retailers - other,4613,5,,731620,0,,54.23813400000000,600459,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16039700000000,BT34 5PS,2014-06-17,fhrs_4_en-GB,4,,FHRS,10
-401956,2 Hillsborough Road,Ballymacormick,Dromore,Down,Mace - Moundview Station,Retailers - other,4613,10,,731542,0,,54.38212000000000,600149,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.01800800000000,BT25 2BL,2014-10-14,fhrs_4_en-GB,4,,FHRS,5
-401957,Unit 3 Brookfield Industrial Estate,Edenderry,Banbridge,Down,Mac's,Takeaway/sandwich shop,7844,10,,731813,5,,54.35145500000000,601606,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28426200000000,BT32 3AP,2014-10-20,fhrs_3_en-GB,3,,FHRS,10
-401958,27 Dollys Brae,Magheramayo,Castlewellan,Down,Magheramayo Primary School,School/college/university,7845,5,,731621,5,,54.26896200000000,600463,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.00887600000000,BT31 9AZ,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-401959,9 Market Square,Ballymaganlis,Dromore,Down,Maguires Takeaway,Takeaway/sandwich shop,7844,10,,731761,5,,54.41444100000000,601263,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2014-04-03,fhrs_4_en-GB,4,,FHRS,5
-401960,2 John Street,Cross,Rathfriland,Down,Maple Leaf Cafe,Restaurant/Cafe/Canteen,1,10,,731622,0,,54.23611200000000,600469,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16215900000000,BT34 5QH,2014-10-14,fhrs_4_en-GB,4,,FHRS,10
-401961,5 Glenloughan Park,Glenloughan,Craigavon,Down,Marina Moore (mobile Trader),Mobile caterer,7846,5,,731798,5,,54.33279200000000,601510,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36241700000000,BT63 6LP,2013-06-21,fhrs_5_en-GB,5,,FHRS,0
-401962,Unit 42 The Outlet,,Banbridge,Down,Marks & Spencers,Retailers - other,4613,,,731778,,,54.33857600000000,601344,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18131900000000,BT32 3GJ,2012-04-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-401963,5 Scarva Road,Edenderry,Banbridge,Down,Maxol Service Station,Retailers - other,4613,5,,731663,10,,54.35063100000000,600726,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27880500000000,BT32 3AR,2014-09-23,fhrs_4_en-GB,4,,FHRS,5
-401964,21 Kinallen Road,Kilkinamurry,Castlewellan,Down,Mc Cuskers Bar,Pub/bar/nightclub,7843,0,,731623,0,,54.32988500000000,600484,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.10378600000000,BT31 9QU,2013-10-31,fhrs_5_en-GB,5,,FHRS,0
-401965,4 Rathfriland Street,Ballyvally,Banbridge,Down,Mc Grath's Bar,Pub/bar/nightclub,7843,5,,731625,10,,54.31367600000000,600487,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30031000000000,BT32 3NG,2011-04-15,fhrs_3_en-GB,3,,FHRS,10
-401966,39-41 Church Square,Ballyvally,Banbridge,Down,Mc Sherrys Off Licence,Retailers - other,4613,,,731626,,,54.35180800000000,600490,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26620500000000,BT32 4AP,2013-10-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-401967,17 Market Square,Ballymacormick,Dromore,Down,Messrs. M A Quail,Manufacturers/packers,7839,5,,731627,5,,54.41444100000000,600492,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-401968,66 Newry Street,Kiltarriff,Rathfriland,Down,Milestone Service Station,Retailers - other,4613,,,731628,,,54.23631400000000,600495,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16655200000000,BT34 5PZ,2014-06-10,fhrs_5_en-GB,5,,FHRS,
-401969,14 Mill Street,Loughans,Gilford,Down,Mill Street Bistro,Restaurant/Cafe/Canteen,1,10,,731629,5,,54.37277900000000,600497,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35950200000000,BT63 6HQ,2014-02-21,fhrs_4_en-GB,4,,FHRS,5
-401970,Milltown Primary School Lurgan Road,,Banbridge,Down,Milltown Primary School,School/college/university,7845,0,,731732,0,,54.37481600000000,601040,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28941200000000,BT32 4NR,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-401971,33 Rathfriland Street,Ballyvally,Banbridge,Down,Mind Wise,Restaurant/Cafe/Canteen,1,5,,731760,5,,54.34848400000000,601259,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26877500000000,BT32 3LA,2013-09-13,fhrs_5_en-GB,5,,FHRS,5
-401972,39 Ballyroney Road,Tirfergus,Rathfriland,Down,Mini Donuts,Mobile caterer,7846,5,,731552,0,,54.25224500000000,600199,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14953400000000,BT34 5NQ,2014-05-08,fhrs_5_en-GB,5,,FHRS,0
-401973,18 Church Road,Ardtanagh,Dromore,Down,Mossvale Equestrian Centre,Restaurant/Cafe/Canteen,1,5,,731630,5,,54.37452500000000,600504,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.06711600000000,BT25 2NS,2012-03-17,fhrs_5_en-GB,5,,FHRS,5
-401974,170e Banbridge Road,,Dromore,Down,Mother Hubbards Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,731842,5,,54.38066600000000,601733,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.06068600000000,BT25 2NF,2014-10-13,fhrs_5_en-GB,5,,FHRS,5
-401975,Mountvale Private Nursing Home Meeting Street,,Dromore,Down,Mountvale Private Nursing Home,Hospitals/Childcare/Caring Premises,5,,,731734,,,54.41259200000000,601042,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14951100000000,BT25 1AH,2014-03-11,fhrs_5_en-GB,5,,FHRS,
-401976,32 Main Street,Cross,Rathfriland,Down,Mourneview Bar,Pub/bar/nightclub,7843,10,,731631,5,,54.23813400000000,600509,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16039700000000,BT34 5PS,2010-11-29,fhrs_4_en-GB,4,,FHRS,5
-401977,4 Katesbridge Road,Lisnavaghrog,Banbridge,Down,Mourneview Garage,Retailers - other,4613,10,,731806,10,,54.28875300000000,601550,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.11311000000000,BT32 5NP,2013-08-20,fhrs_3_en-GB,3,,FHRS,10
-401978,103 Moyallan Road,Moyallan,Portadown,Down,Moyallen Primary School,School/college/university,7845,0,,731733,5,,54.39949700000000,601041,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.38864800000000,BT63 5JY,2014-02-10,fhrs_5_en-GB,5,,FHRS,0
-401979,2-4 Mill Street,Loughans,Gilford,Down,Mr Chips,Takeaway/sandwich shop,7844,5,,731632,5,,54.37277900000000,600512,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35950200000000,BT63 6HQ,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-401980,14 Market Square,Ballymaganlis,Dromore,Down,Mulholland's On The Square,Pub/bar/nightclub,7843,5,,731634,0,,54.41444100000000,600608,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2011-11-24,fhrs_5_en-GB,5,,FHRS,5
-401981,4 Drumnascamph Road,Knocknagore,Gilford,Down,Munch House,Takeaway/sandwich shop,7844,5,,731820,5,,54.38468000000000,601630,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30906000000000,BT63 6DU,2013-06-17,fhrs_5_en-GB,5,,FHRS,5
-401982,"Unit 4-5, Centra Shopping Centre Scarva Street",Edenderry,Banbridge,Down,Mynt,Retailers - other,4613,10,,731701,5,,54.34946200000000,600863,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27430100000000,BT32 3AD,2013-09-12,fhrs_4_en-GB,4,,FHRS,0
-401983,25 Donard View,,Banbridge,Down,New Bridge Integrated College,School/college/university,7845,10,,731635,5,,54.31841900000000,600614,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.31047300000000,BT32 3LN,2013-11-19,fhrs_4_en-GB,4,,FHRS,5
-401984,66 - 68 Newry Street,Ballyvally,Banbridge,Down,New Look,Other catering premises,7841,,,731636,,,54.34773400000000,600618,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2011-03-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-401985,7 Newry Street,Ballyvally,Banbridge,Down,New Orchard,Retailers - other,4613,10,,731637,5,,54.34782600000000,600619,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27114000000000,BT32 3EA,2010-12-01,fhrs_4_en-GB,4,,FHRS,0
-401986,42 Mill Street,Loughans,Gilford,Down,Nisa,Retailers - other,4613,10,,731670,10,,54.37277900000000,600759,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35950200000000,BT63 6HQ,2013-08-01,fhrs_3_en-GB,3,,FHRS,5
-401987,1a Stramore Terrace,,Banbridge,Down,Noi Mini Mart,Retailers - other,4613,,,731867,,,54.34391900000000,601875,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27373500000000,BT32 3HQ,2014-02-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-401988,223 Rathfriland Road,Finnis,Dromore,Down,O' Hare Tyre And Fuel Services,Retailers - other,4613,,,731638,,,54.35058400000000,600626,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.04009200000000,BT25 2EQ,2011-02-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-401989,Unit 2 Brookfield Industrial Estate,,Banbridge,Down,O' Reillys Bar/offlicence,Pub/bar/nightclub,7843,5,,731606,5,,54.35145500000000,600395,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28426200000000,BT32 3AP,2013-08-01,fhrs_4_en-GB,4,,FHRS,10
-401990,47 Downpatrick Street,Rossconor,Rathfriland,Down,O' Reilly's Grocery,Retailers - other,4613,10,,731639,10,,54.23756900000000,600627,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15927200000000,BT34 5DG,2013-08-12,fhrs_3_en-GB,3,,FHRS,10
-401991,8 Larchwood Court,Edenderry,Banbridge,Down,One Crafty Mummy,Retailers - other,4613,,,731816,,,54.34792300000000,601620,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28611600000000,BT32 3XL,2011-10-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-401992,22 Market Square,Ballymaganlis,Dromore,Down,Owen Cull,Pub/bar/nightclub,7843,0,,731640,0,,54.41444100000000,600631,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-401993,7 Church Square,Cross,Rathfriland,Down,P Downey's,Pub/bar/nightclub,7843,,,731641,,,54.23742900000000,600633,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16127200000000,BT34 5PT,2011-08-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-401994,26 Mill Street,Loughans,Gilford,Down,Parkes Pharmacy,Retailers - other,4613,,,731643,,,54.37277900000000,600638,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35950200000000,BT63 6HQ,2014-06-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-401995,48 Newry Street,Ballyvally,Banbridge,Down,Patrisse Coffee Lounge,Restaurant/Cafe/Canteen,1,5,,731644,5,,54.34773400000000,600639,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-401996,34-38 Newry Street,Kiltarriff,Rathfriland,Down,Peacehaven Residential Home,Hospitals/Childcare/Caring Premises,5,5,,731645,0,,54.23776500000000,600643,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16447800000000,BT34 5PY,2011-08-22,fhrs_5_en-GB,5,,FHRS,0
-401997,33 Dunbarton Street,Loughans,Gilford,Down,Peter Mc Conville,Manufacturers/packers,7839,5,,731633,10,,54.37422700000000,600515,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36086000000000,BT63 6HJ,2014-08-04,fhrs_4_en-GB,4,,FHRS,5
-401998,18 Market Square,Ballymacormick,Dromore,Down,Phun's Welcome,Takeaway/sandwich shop,7844,5,,731647,5,,54.41444100000000,600650,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2013-06-20,fhrs_5_en-GB,5,,FHRS,5
-401999,2 Rathfriland Street,Drumnahare,Banbridge,Down,Piggotts,Restaurant/Cafe/Canteen,1,5,,731648,5,,54.31367600000000,600651,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30031000000000,BT32 3NG,2013-12-02,fhrs_5_en-GB,5,,FHRS,0
-402000,10 Bridge Street,Drumbroneth,Dromore,Down,Pizza Place,Takeaway/sandwich shop,7844,10,,731771,5,,54.41406800000000,601291,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14969000000000,BT25 1AN,2014-02-06,fhrs_3_en-GB,3,,FHRS,10
-402001,59a Banbridge Road,Knocknagore,Gilford,Down,Pot Belly Restaurant,Restaurant/Cafe/Canteen,1,10,,731650,0,,54.37566800000000,600655,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.34532000000000,BT63 6DJ,2014-05-02,fhrs_4_en-GB,4,,FHRS,10
-402002,33 Newry Street,Ballyvally,Banbridge,Down,Poundland,Retailers - other,4613,5,,731789,0,,,601485,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,,BT32 3EB,2013-08-15,fhrs_5_en-GB,5,,FHRS,5
-402003,2 Crozier Mews,Edenderry,Banbridge,Down,Praxis Care,Hospitals/Childcare/Caring Premises,5,0,,731651,0,,54.34807300000000,600657,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28083500000000,BT32 3AT,2013-06-21,fhrs_5_en-GB,5,,FHRS,5
-402004,200 Newry Road,Drumnahare,Banbridge,Down,Quails At The Gallery,Restaurant/Cafe/Canteen,1,,,731779,,,54.33559400000000,601374,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27969500000000,BT32 3NB,2013-12-05,fhrs_4_en-GB,4,,FHRS,
-402005,Railway Inn Reilly Street,,Banbridge,Down,Railway Inn,Pub/bar/nightclub,7843,10,,731735,5,,54.35127000000000,601043,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27315000000000,BT32 3DW,2013-01-07,fhrs_3_en-GB,3,,FHRS,10
-402006,Church Street,Ballymaganlis,Dromore,Down,Rainbow Preschool,Hospitals/Childcare/Caring Premises,5,5,,731653,0,,54.41501200000000,600672,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15268200000000,BT25 1AA,2014-10-13,fhrs_5_en-GB,5,,FHRS,5
-402007,76 Newry Street,Kiltarriff,Rathfriland,Down,Rathfriland Central Kitchen School Meals,School/college/university,7845,5,,731654,5,,54.23631400000000,600677,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16655200000000,BT34 5PZ,2014-01-23,fhrs_5_en-GB,5,,FHRS,5
-402008,Island Bog Road,,Rathfriland,Down,Rathfriland Co-op,Restaurant/Cafe/Canteen,1,0,,731736,0,,54.21211200000000,601045,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18871900000000,BT34 5DT,2014-09-03,fhrs_5_en-GB,5,,FHRS,5
-402009,Iveagh Park Road,,Rathfriland,Down,Rathfriland Football Club,Retailers - other,4613,,,731815,,,54.24645800000000,601616,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15076800000000,,2013-05-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-402010,Rathfriland Manor Private Nursing Home Rossconnor Terrace,,Rathfriland,Down,Rathfriland Manor Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,731737,5,,54.23574200000000,601046,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15904700000000,BT34 5DJ,2014-09-05,fhrs_5_en-GB,5,,FHRS,5
-402011,Rathfriland Community Centre John Street,,Rathfriland,Down,Rathfriland Pre School,Other catering premises,7841,0,,731738,0,,54.23611300000000,601047,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16215900000000,BT34 5QH,2013-09-17,fhrs_5_en-GB,5,,FHRS,0
-402012,7 Main Street,Cross,Rathfriland,Down,Raymond Mc Cullough,Manufacturers/packers,7839,5,,731655,5,,54.23813400000000,600686,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16039700000000,BT34 5PS,2014-09-09,fhrs_5_en-GB,5,,FHRS,5
-402013,42 Bridge Street,Ballyvally,Banbridge,Down,Red Dragon,Takeaway/sandwich shop,7844,5,,731751,5,,54.35058200000000,601180,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26911700000000,BT32 3JU,2014-12-08,fhrs_4_en-GB,4,,FHRS,10
-402014,95 Enagh Road,Carnew,Dromore,Down,Redmonds,Retailers - other,4613,10,,731656,5,,54.35177400000000,600687,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.08342800000000,BT25 2ES,2014-02-28,fhrs_4_en-GB,4,,FHRS,5
-402015,18 Newry Street,Ballyvally,Banbridge,Down,Richmond Bakery,Manufacturers/packers,7839,10,,731657,0,,54.34773400000000,600690,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2014-10-13,fhrs_4_en-GB,4,,FHRS,10
-402016,12 Bridge Street,Drumbroneth,Dromore,Down,Riverside Tea Rooms,Restaurant/Cafe/Canteen,1,10,,731658,15,,54.41406800000000,600691,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14969000000000,BT25 1AN,2013-12-10,fhrs_2_en-GB,2,,FHRS,5
-402017,179 Dublin Road,Meenan,Banbridge,Down,Road Chef,Restaurant/Cafe/Canteen,1,5,,731873,5,,54.27210700000000,601935,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30883800000000,BT32 3PB,2014-07-09,fhrs_5_en-GB,5,,FHRS,0
-402018,33 Mill Street,Loughans,Gilford,Down,Royal British Legion - Gilford,Retailers - other,4613,5,,731659,5,,54.37277900000000,600701,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35950200000000,BT63 6HQ,2011-05-25,fhrs_5_en-GB,5,,FHRS,5
-402019,10 The Cut,Magherally,Banbridge,Down,Ruth Moore (mobile Trader) T/a Rubys Catering,Mobile caterer,7846,10,,731797,0,,54.36037200000000,601507,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.19889000000000,BT32 4EW,2013-01-10,fhrs_4_en-GB,4,,FHRS,5
-402020,52 Dromore Road,Ballyvally,Banbridge,Down,Sara's Carvery,Other catering premises,7841,,,731660,,,54.35525800000000,600717,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.25315400000000,BT32 4EE,2011-08-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-402021,80 Main Street,Scarva,Craigavon,Down,Scarva Primary School Meals Kitchen,School/college/university,7845,5,,731662,0,,54.32909000000000,600725,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36233400000000,BT63 6NS,2013-01-28,fhrs_5_en-GB,5,,FHRS,5
-402022,Scarva Visitors Centre Main Street,,Craigavon,Armagh,Scarva Tea Rooms,Restaurant/Cafe/Canteen,1,10,,731741,5,,54.33148900000000,601052,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36437500000000,BT63 6LS,2013-05-28,fhrs_3_en-GB,3,,FHRS,10
-402023,Seapatrick Parish Centre Edenderry Road,Edenderry,Banbridge,Down,Seapatrick Parish Centre,Other catering premises,7841,,,731742,,,54.34597900000000,601053,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30941900000000,BT32 3QG,2011-03-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-402024,80 Lurgan Road,Kilpike,Banbridge,Down,Seapatrick Private Nursing Home,Hospitals/Childcare/Caring Premises,5,10,,731665,5,,54.36076500000000,600733,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27685800000000,BT32 4LY,2014-01-08,fhrs_4_en-GB,4,,FHRS,5
-402025,91a Primrose Gardens,,Banbridge,Down,Selb School Meals Kitchen Downshire Nursery School,Hospitals/Childcare/Caring Premises,5,0,,731724,0,,54.34658400000000,601023,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27908300000000,BT32 3EN,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-402026,4 Main Street,Drumnahare,Banbridge,Down,Seven Stars,Restaurant/Cafe/Canteen,1,5,,731666,5,,54.31485100000000,600736,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30267500000000,BT32 3NQ,2013-03-20,fhrs_4_en-GB,4,,FHRS,10
-402027,86 Newry Street,Ballyvally,Banbridge,Down,Shepherds,Restaurant/Cafe/Canteen,1,5,,731667,5,,54.34773400000000,600742,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2013-08-09,fhrs_5_en-GB,5,,FHRS,0
-402028,3 Moneyslane Road,Moneyslane,Castlewellan,Down,Shimerin Cakes,Other catering premises,7841,5,,731781,5,,54.28869700000000,601405,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.08505400000000,BT31 9PT,2014-07-07,fhrs_4_en-GB,4,,FHRS,10
-402029,93 Moss Bann Road,Drumnagally,Banbridge,Down,Snack In The Box,Other catering premises,7841,,,731827,,,54.35226400000000,601666,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30851500000000,BT32 3FA,2012-03-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-402030,13-15 Meeting Street,Drumbroneth,Dromore,Down,Spar,Retailers - other,4613,0,,731669,0,,54.41318000000000,600758,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14923700000000,BT25 1AQ,2011-10-07,fhrs_4_en-GB,4,,FHRS,10
-402031,23 Dromore Road,Ballyvally,Banbridge,Down,Spar - Barkers Filling Station,Retailers - other,4613,5,,731671,0,,54.35437800000000,600760,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.25569800000000,BT32 4EB,2011-11-29,fhrs_5_en-GB,5,,FHRS,5
-402032,6 Old Hospital Road,,Banbridge,Down,Spelga Mews (fold Housing Association),Hospitals/Childcare/Caring Premises,5,0,,731841,0,,54.34750900000000,601727,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27779800000000,BT32 3GN,2013-06-13,fhrs_5_en-GB,5,,FHRS,5
-402033,15 Church Square,Kiltarriff,Rathfriland,Down,Square 15,Restaurant/Cafe/Canteen,1,10,,731833,10,,54.23742900000000,601697,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16127200000000,BT34 5PT,2014-02-26,fhrs_3_en-GB,3,,FHRS,5
-402034,24 Donard View Road,Bovennett,Banbridge,Down,St Francis' Primary School,School/college/university,7845,0,,731673,0,,54.31841900000000,600765,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.31047300000000,BT32 3LN,2014-06-13,fhrs_5_en-GB,5,,FHRS,5
-402035,Castle Hill,,Gilford,Armagh,St Johns Primary School,School/college/university,7845,5,,731674,5,,54.37491200000000,600766,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35900200000000,BT63 6HH,2014-03-05,fhrs_5_en-GB,5,,FHRS,5
-402036,St. Marys Primary School Reilly Park,Edenderry,Banbridge,Down,St Mary's Play Group,Hospitals/Childcare/Caring Premises,5,0,,731744,0,,54.35111400000000,601056,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27609300000000,BT32 3DJ,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-402037,67 Downpatrick Street,,Rathfriland,Down,St Marys Primary School,School/college/university,7845,0,,731675,5,,54.23635500000000,600768,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15800700000000,BT34 5DQ,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-402038,St. Marys Primary School Reilly Park,Edenderry,Banbridge,Down,St Mary's Primary School,School/college/university,7845,5,,731743,5,,54.35111400000000,601055,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27609300000000,BT32 3DJ,2013-01-21,fhrs_5_en-GB,5,,FHRS,0
-402039,145 Rathfriland Road,Finnis,Dromore,Down,St Michael's Primary School,School/college/university,7845,5,,731676,0,,54.36159000000000,600769,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.02405900000000,BT25 2EE,2011-03-09,fhrs_5_en-GB,5,,FHRS,5
-402040,10 Drumnascamph Road,Knocknagore,Gilford,Down,St. Colmans Primary School,School/college/university,7845,0,,731672,5,,54.38468000000000,600764,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.30906000000000,BT63 6DU,2013-01-07,fhrs_5_en-GB,5,,FHRS,0
-402041,24 Monteith Road,Tullintanvally,Banbridge,Down,St. Colman's Primary School,School/college/university,7845,0,,731678,0,,54.29975900000000,600771,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18746700000000,BT32 5LS,2013-04-11,fhrs_5_en-GB,5,,FHRS,5
-402042,41a Gallows Street,Ballymaganlis,Dromore,Down,St. Colman's Primary School,School/college/university,7845,0,,731677,5,,54.41659200000000,600770,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14731200000000,BT25 1BD,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-402043,St Patrick'S High School Scarva Road,Edenderry,Banbridge,Down,St. Patrick's College,School/college/university,7845,0,,731679,0,,54.34999000000000,600774,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.28170800000000,BT32 3AS,2013-05-13,fhrs_5_en-GB,5,,FHRS,5
-402044,"The Outlet, Bridgewater Park",,Banbridge,Down,Starbucks Coffee Company,Restaurant/Cafe/Canteen,1,0,,731764,0,,54.33857600000000,601268,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18131900000000,BT32 3GJ,2013-09-17,fhrs_5_en-GB,5,,FHRS,0
-402045,9-11 Gallows Street,Ballymaganlis,Dromore,Down,Sterling Chemist,Retailers - other,4613,,,731605,,,54.41517800000000,600394,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14947100000000,BT25 1BG,2013-02-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-402046,23 Dromore Road,Ballyvally,Banbridge,Down,Subway,Restaurant/Cafe/Canteen,1,5,,731774,5,,54.35437800000000,601324,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.25569800000000,BT32 4EB,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-402047,5 Scarva Street,Ballyvally,Banbridge,Down,Super Fry,Takeaway/sandwich shop,7844,5,,731680,0,,54.34889200000000,600785,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27092600000000,BT32 3DA,2014-02-20,fhrs_5_en-GB,5,,FHRS,0
-402048,52 Newry Street,Ballyvally,Banbridge,Down,Superdrug Stores Plc,Retailers - other,4613,,,731661,,,54.34773400000000,600719,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2013-06-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-402049,26 Newry Street,Ballyvally,Banbridge,Down,Supervalu,Retailers - other,4613,5,,731682,5,,54.34795700000000,600788,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26958100000000,BT32 3HB,2014-10-29,fhrs_5_en-GB,5,,FHRS,5
-402050,16 Banbridge Road,Balleny,Dromore,Down,Supervalu Dromore,Retailers - other,4613,,,731681,,,54.41333600000000,600787,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15411300000000,BT25 1NB,2014-03-11,fhrs_5_en-GB,5,,FHRS,
-402051,26 Demesne Valley,,Dromore,Down,Susanne Taggart,Other catering premises,7841,5,,731843,5,,54.41647800000000,601734,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.13639500000000,BT25 1TD,2012-11-30,fhrs_5_en-GB,5,,FHRS,5
-402052,15a Castlewellan Road,Drumarkin,Rathfriland,Down,Sweet Bites,Manufacturers/packers,7839,,,731759,,,54.23352100000000,601250,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14666000000000,BT34 5LZ,2015-01-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-402053,34 Richmond Heights,Ballyvally,Banbridge,Down,Sweet Tooth,Manufacturers/packers,7839,5,,731754,0,,54.35471500000000,601221,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26092900000000,BT32 4HU,2013-09-12,fhrs_5_en-GB,5,,FHRS,5
-402054,4 Downshire Place,Ballyvally,Banbridge,Down,Tele Pizza,Takeaway/sandwich shop,7844,0,,731683,0,,54.35021400000000,600797,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27100900000000,BT32 3DF,2014-01-08,fhrs_5_en-GB,5,,FHRS,0
-402055,25 Castlewellan Road,Ballyvally,Banbridge,Down,Tesco,Retailers - other,4613,0,,731684,5,,54.35011400000000,600798,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26712200000000,BT32 4AX,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-402056,25a Castlewellan Road,,Banbridge,Down,Tesco Customer Cafe,Restaurant/Cafe/Canteen,1,0,,731758,0,,54.35011400000000,601239,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26712300000000,BT32 4AX,2013-10-22,fhrs_5_en-GB,5,,FHRS,5
-402057,25 Castlewellan Road,Ballyvally,Banbridge,Down,Tesco Filling Station,Retailers - other,4613,5,,731685,5,,54.35011400000000,600799,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26712200000000,BT32 4AX,2013-08-30,fhrs_5_en-GB,5,,FHRS,5
-402058,15 Bridge Street,Ballyvally,Banbridge,Down,Thai Noodle Box,Takeaway/sandwich shop,7844,,,731766,,,54.34971600000000,601273,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26887700000000,BT32 3JL,2014-10-14,fhrs_5_en-GB,5,,FHRS,
-402059,86 Newry Street,,Banbridge,Down,The Albert,Restaurant/Cafe/Canteen,1,5,,731869,5,,54.34753700000000,601880,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27033800000000,BT32 3HA,2014-03-13,fhrs_5_en-GB,5,,FHRS,5
-402060,42 Aughnacloy Road,Tullyorior,Banbridge,Down,The Anglers Rest,Restaurant/Cafe/Canteen,1,10,,731686,5,,54.32479900000000,600800,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.17366900000000,BT32 5QG,2014-03-27,fhrs_4_en-GB,4,,FHRS,5
-402061,43 Newry Street,Ballyvally,Banbridge,Down,The Bistro,Restaurant/Cafe/Canteen,1,10,,731697,5,,54.34782600000000,600829,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27114000000000,BT32 3EA,2015-01-15,fhrs_3_en-GB,3,,FHRS,10
-402062,34-36 Mill Street,Loughans,Gilford,Down,The Bistro @ The Pheasant Lodge,Pub/bar/nightclub,7843,5,,731696,5,,54.37277900000000,600827,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35950200000000,BT63 6HQ,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-402063,75 Newry Street,Ballyvally,Banbridge,Down,The Bus Bar,Pub/bar/nightclub,7843,5,,731537,10,,54.34782600000000,600134,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27114000000000,BT32 3EA,2011-05-23,fhrs_4_en-GB,4,,FHRS,0
-402064,2-4 Mill Street,Loughans,Gilford,Down,The Castle,Pub/bar/nightclub,7843,0,,731549,5,,54.37277900000000,600189,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35950200000000,BT63 6HQ,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-402065,2 Dromara Road,Leitrim,Castlewellan,Down,The Corner House (bar),Pub/bar/nightclub,7843,10,,731546,0,,54.28645500000000,600166,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-5.99953900000000,BT31 9SH,2011-05-26,fhrs_4_en-GB,4,,FHRS,5
-402066,4 Dromara Road,Leitrim,Castlewellan,Down,The Country Food Store,Retailers - other,4613,10,,731854,15,,54.28645500000000,601776,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-5.99953900000000,BT31 9SH,2013-11-05,fhrs_2_en-GB,2,,FHRS,10
-402067,45 Bridge Street,Ballyvally,Banbridge,Down,The Cut Bar,Pub/bar/nightclub,7843,5,,731875,0,,54.34971600000000,601960,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26887700000000,BT32 3JL,2014-10-30,fhrs_5_en-GB,5,,FHRS,0
-402068,32 Downpatrick Street,Rossconor,Rathfriland,Down,The Depot,Pub/bar/nightclub,7843,0,,731688,0,,54.23635500000000,600807,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15800700000000,BT34 5DQ,2013-11-04,fhrs_5_en-GB,5,,FHRS,0
-402069,19 Diamond Road,Drumbroneth,Dromore,Down,The Farm Gate Farmshop,Retailers - other,4613,10,,731836,5,,54.40343000000000,601713,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14034300000000,BT25 1PH,2012-10-15,fhrs_3_en-GB,3,,FHRS,10
-402070,21 Dunbarton Street,,Craigavon,Armagh,The Georgian Tea Room,Restaurant/Cafe/Canteen,1,5,,731861,5,,54.37422700000000,601856,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36086000000000,BT63 6HJ,2014-03-24,fhrs_5_en-GB,5,,FHRS,0
-402071,13 Dromore Street,Ballyvally,Banbridge,Down,The Great Wall,Takeaway/sandwich shop,7844,10,,731727,5,,54.35265100000000,601031,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26427700000000,BT32 4DL,2013-03-07,fhrs_2_en-GB,2,,FHRS,15
-402072,42 Newry Street,Ballyvally,Banbridge,Down,The Home Bakery Banbridge,Retailers - other,4613,10,,731536,5,,54.34773400000000,600133,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2014-01-10,fhrs_2_en-GB,2,,FHRS,15
-402073,19 Gallows Street,Ballymaganlis,Dromore,Down,The Home Bakery Dromore,Retailers - other,4613,5,,731740,10,,54.41517800000000,601050,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14947100000000,BT25 1BG,2013-08-30,fhrs_4_en-GB,4,,FHRS,5
-402074,16 Downpatrick Street,Rossconor,Rathfriland,Down,The Homeland Diner,Restaurant/Cafe/Canteen,1,10,,731689,0,,54.23756900000000,600812,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15927200000000,BT34 5DG,2013-09-03,fhrs_4_en-GB,4,,FHRS,10
-402075,40 Dunbarton Street,Loughans,Gilford,Down,The Honey Pot,Restaurant/Cafe/Canteen,1,10,,731690,5,,54.37422700000000,600813,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36086000000000,BT63 6HJ,2014-10-15,fhrs_4_en-GB,4,,FHRS,5
-402076,38 Bridge Street,Ballyvally,Banbridge,Down,The Imperial Inn,Pub/bar/nightclub,7843,5,,731691,0,,54.35058200000000,600815,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26911700000000,BT32 3JU,2013-06-27,fhrs_5_en-GB,5,,FHRS,5
-402077,35 Leapoges Road,Drummiller,Dromore,Down,The Leapoges Inn,Pub/bar/nightclub,7843,10,,731692,5,,54.40472900000000,600821,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.07142400000000,BT25 1EQ,2011-05-26,fhrs_4_en-GB,4,,FHRS,5
-402078,Banbridge Campus Castlewellan Road,Ballyvally,Banbridge,Down,The Mount Charles Group 'u Eat',Restaurant/Cafe/Canteen,1,5,,731876,0,,54.35009100000000,601966,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26246300000000,BT32 4AY,2015-01-06,fhrs_5_en-GB,5,,FHRS,5
-402079,2 Caddells Lane,Cross,Rathfriland,Down,The Old George,Restaurant/Cafe/Canteen,1,5,,731693,10,,54.23683700000000,600823,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.16017800000000,BT34 5PX,2013-12-19,fhrs_4_en-GB,4,,FHRS,5
-402080,94 Church Street,Ballymaganlis,Dromore,Down,The Old Station Day Care Nursery,Hospitals/Childcare/Caring Premises,5,5,,731694,0,,54.41501200000000,600824,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.15268200000000,BT25 1AA,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-402081,33 Market Square,Ballymaganlis,Dromore,Down,The Olive Branch,Restaurant/Cafe/Canteen,1,5,,731832,0,,54.41444100000000,601683,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2012-08-13,fhrs_5_en-GB,5,,FHRS,5
-402082,Unit 3 Centra Shopping Centre Scarva Street,,Banbridge,Down,The Pantry,Restaurant/Cafe/Canteen,1,5,,731769,5,,54.34889300000000,601286,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27092700000000,BT32 3DA,2013-01-21,fhrs_5_en-GB,5,,FHRS,5
-402083,39 Main Street,Scarva,Craigavon,Down,The Park Inn,Pub/bar/nightclub,7843,0,,731695,0,,54.33149000000000,600826,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36437500000000,BT63 6LS,2013-01-18,fhrs_5_en-GB,5,,FHRS,0
-402084,Unit 44a Bridgewater Park,,Banbridge,Down,The Streat,Restaurant/Cafe/Canteen,1,5,,731801,10,,54.33108700000000,601514,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27607100000000,BT324GJ,2014-12-09,fhrs_4_en-GB,4,,FHRS,5
-402085,48 Main Street,Scarva,Craigavon,Down,The Village Store,Retailers - other,4613,5,,731822,0,,54.33003600000000,601654,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.36449500000000,BT63 6LT,2013-08-01,fhrs_5_en-GB,5,,FHRS,5
-402086,23 Castle Meadows,Drumaran,Gilford,Down,The Wee Cake Shop,Other catering premises,7841,5,,731858,5,,54.37312600000000,601851,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.35528700000000,BT63 6DE,2013-11-22,fhrs_5_en-GB,5,,FHRS,5
-402087,80 Summerhill,,Banbridge,Down,The Wee Cake Shop,Other catering premises,7841,5,,731859,5,,54.34194600000000,601852,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26516000000000,BT32 3LJ,2013-11-22,fhrs_5_en-GB,5,,FHRS,5
-402088,"40a The Outlet, Bridgewater Park",,Banbridge,Down,Thorntons,Retailers - other,4613,0,,731768,0,,54.33857600000000,601278,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.18131900000000,BT32 3GJ,2011-01-20,fhrs_5_en-GB,5,,FHRS,0
-402089,33 Church Square,Ballyvally,Banbridge,Down,Toni's Tandoori,Takeaway/sandwich shop,7844,,,731687,,,54.35180800000000,600804,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26620500000000,BT32 4AP,2014-01-31,fhrs_5_en-GB,5,,FHRS,
-402090,Unit 36 Scarva Road Industrial Estate,,Banbridge,Down,Top Notch,Restaurant/Cafe/Canteen,1,10,,731746,10,,54.35147500000000,601058,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.29201400000000,BT32 3QD,2013-06-03,fhrs_3_en-GB,3,,FHRS,10
-402091,2b Commercial Road,,Banbridge,Down,Treasure Island,Restaurant/Cafe/Canteen,1,5,,731749,5,,54.34799300000000,601134,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27271800000000,BT32 3ES,2014-04-14,fhrs_4_en-GB,4,,FHRS,10
-402092,25 Market Square,Ballymaganlis,Dromore,Down,Tsans Welcome,Takeaway/sandwich shop,7844,5,,731699,10,,54.41444100000000,600850,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2013-01-04,fhrs_4_en-GB,4,,FHRS,5
-402093,46 Moneyslane Road,Deehommed,Castlewellan,Down,Turley's,Pub/bar/nightclub,7843,5,,731618,5,,54.30221400000000,600450,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.06721900000000,BT31 9QD,2013-05-21,fhrs_5_en-GB,5,,FHRS,0
-402094,64 Dromara Road,Benraw,Castlewellan,Down,Turnip House,Other catering premises,7841,5,,731811,5,,54.30513100000000,601604,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.02544500000000,BT31 9UF,2014-06-24,fhrs_4_en-GB,4,,FHRS,10
-402095,Unit 6 Scarva Street,Edenderry,Banbridge,Down,Vong's Hot Food Bar,Takeaway/sandwich shop,7844,5,,731747,5,,54.34946200000000,601059,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27430100000000,BT32 3AD,2012-11-06,fhrs_4_en-GB,4,,FHRS,10
-402096,28 Bridge Street,Ballyvally,Banbridge,Down,W Mulligan,Retailers - other,4613,5,,731702,10,,54.34948800000000,600874,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26988600000000,BT32 3JS,2011-05-11,fhrs_4_en-GB,4,,FHRS,5
-402097,10 Scarva Street,Ballyvally,Banbridge,Down,Walsh's Newsagents,Retailers - other,4613,10,,731703,0,,54.34889200000000,600878,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27092600000000,BT32 3DA,2011-03-22,fhrs_4_en-GB,4,,FHRS,0
-402098,3 Oak Grove,,Banbridge,Down,Wee Buns Big Bites,Other catering premises,7841,5,,731865,5,,54.34833600000000,601862,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.29049800000000,BT32 3GT,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-402099,36-38 Newry Street,Ballyvally,Banbridge,Down,Windsor Home Bakery,Manufacturers/packers,7839,,,731705,,,54.34773400000000,600890,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2014-09-12,fhrs_3_en-GB,3,,FHRS,
-402100,36 Bridge Street,Ballyvally,Banbridge,Down,Windsor Home Bakery & Cafe,Retailers - other,4613,5,,731704,10,,54.34948800000000,600889,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26988600000000,BT32 3JS,2014-08-12,fhrs_4_en-GB,4,,FHRS,5
-402101,82 Newry Street,Ballyvally,Banbridge,Down,Winemark,Retailers - other,4613,,,731706,,,54.34773400000000,600892,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.26972900000000,BT32 3HA,2011-02-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-402102,"Unit 1, Centra Shopping Centre Scarva Street",Edenderry,Banbridge,Down,Wong Lee Cuisine,Restaurant/Cafe/Canteen,1,5,,731707,5,,54.34946200000000,600895,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.27430100000000,BT32 3AD,2013-03-13,fhrs_4_en-GB,4,,FHRS,10
-402103,36 Market Square,Ballymaganlis,Dromore,Down,World Fruit,Retailers - other,4613,,,731646,,,54.41444100000000,600645,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.14884100000000,BT25 1AW,2013-04-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-402104,Rosedale House Moyallan Road,Ballymacanallen,Portadown,Down,Zest,Restaurant/Cafe/Canteen,1,0,,731709,0,,54.38972100000000,600902,806,environment@banbridge.gov.uk,Banbridge,http://www.banbridge.gov.uk,-6.38054800000000,BT63 5JX,2014-03-10,fhrs_5_en-GB,5,,FHRS,5
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+401791,A B & E E Mayne,5,0,5,5,2011-04-11,54.360609,-6.158049
+401792,A Country Corner,4,5,5,10,2014-08-11,,
+401793,A J Quinn & Sons,4,0,5,10,2010-12-01,54.348892,-6.270926
+401794,Abbeyfield House,5,5,5,5,2014-10-02,54.349462,-6.274301
+401795,Abercorn Primary School,5,0,5,0,2013-09-09,54.344855,-6.273864
+401796,Af Davison,Exempt,nan,nan,nan,2012-05-14,54.361429,-6.349385
+401797,Aghaderg G F C & Ballyvarley H C,4,0,0,10,2011-03-02,54.343691,-6.328997
+401798,Alexanders,5,0,5,0,2012-11-30,54.347734,-6.269729
+401799,Armaghdown Creameries Ltd Staff Canteen,5,5,5,5,2013-01-23,54.343532,-6.261786
+401800,Around A Pound,4,0,0,10,2011-02-07,54.347734,-6.269729
+401801,Authentic Baking Company,5,0,5,0,2013-02-19,54.356818,-6.25661
+401802,Babu's Indian Spice,3,10,5,10,2014-07-10,54.374227,-6.36086
+401803,Ballydown Filling Station,4,5,10,5,2014-05-13,54.343336,-6.24025
+401804,Ballydown Primary School,5,0,5,0,2014-05-01,54.34725,-6.230148
+401805,Banbridge Academy,5,5,0,0,2014-05-16,54.355449,-6.270128
+401806,Banbridge Campus Catering,5,5,5,0,2013-09-10,54.350091,-6.262463
+401807,Banbridge Golf Club,4,10,5,5,2013-09-10,54.358407,-6.279741
+401808,Banbridge High School,5,5,0,5,2014-01-08,54.346579,-6.27756
+401809,Banbridge Masonic Institute,5,5,5,0,2010-11-29,54.351594,-6.267583
+401810,Banbridge Nursery School,5,5,5,0,2014-05-22,54.355449,-6.270128
+401811,Banbridge Rugby Football Club,5,5,5,5,2013-03-28,54.342903,-6.271178
+401812,Banbridge Social Education Centre,5,0,0,5,2012-10-29,54.3356742859,-5.79498720169
+401813,Bannvale Social Education Centre,5,0,0,0,2012-10-15,54.389721,-6.380548
+401814,Bannview House Care Home,5,5,5,0,2014-05-02,54.33681,-6.27108
+401815,Bannville House Hotel,2,15,10,10,2013-09-03,54.374816,-6.289412
+401816,Barbican Centra A1,3,10,10,10,2013-09-04,54.367678,-6.217682
+401817,Barbican Supervalu,5,0,5,5,2013-12-12,54.236112,-6.162159
+401818,Barnardos Willowgrove Project,5,0,0,0,2011-02-14,54.344648,-6.258802
+401819,Bella Bambinos Ltd,4,5,10,5,2013-01-30,54.413223,-6.152563
+401820,Bellabambinos,5,0,0,0,2014-09-04,54.411937,-6.165483
+401821,Belmont Hotel,4,10,5,5,2014-02-10,54.344222,-6.265987
+401822,Bernie Mac's,5,5,0,5,2014-06-12,54.324295,-6.293893
+401823,Bin 66,Exempt,nan,nan,nan,2010-12-01,54.348892,-6.270926
+401824,Bingham,Exempt,nan,nan,nan,2014-01-24,54.343866,-6.090747
+401825,Boots The Chemist Ltd,Exempt,nan,nan,nan,2010-10-05,54.347826,-6.27114
+401826,Boyles Bar,5,5,0,0,2013-08-16,54.413675,-6.147475
+401827,Boyles Bingo,5,5,0,0,2014-05-13,54.347537,-6.270338
+401828,Bridge Integrated Primary School,5,5,0,0,2013-09-09,54.346859,-6.280808
+401829,Bronte Fold,5,0,0,0,2013-01-02,54.239246,-6.161436
+401830,Bronte Primary School,5,0,5,0,2014-05-23,54.26415,-6.238223
+401831,Bronte Steak House,5,5,5,5,2013-10-24,54.288879,-6.243341
+401832,Browne's Fry Bar,5,5,5,5,2013-08-30,54.414441,-6.148841
+401833,Burger King,5,5,0,0,2013-07-31,54.338576,-6.181319
+401834,Cafe Coco,5,0,5,5,2013-05-22,54.347773,-6.271128
+401835,Cafe Eden,4,10,5,5,2012-10-02,54.351161,-6.26997
+401836,Cafe Thyme,4,5,5,10,2014-03-04,54.414441,-6.148841
+401837,Candylicious,5,0,5,5,2011-07-05,54.347243,-6.272457
+401838,Captain Cooks,4,10,5,5,2014-06-30,54.350114,-6.267122
+401839,Cedar Haven,4,0,5,10,2011-02-08,54.268927,-6.298684
+401840,Centra,4,5,5,10,2014-04-02,54.349462,-6.274301
+401841,Centra/church St Filling Station,4,0,10,10,2014-02-05,54.3531,-6.267335
+401842,Chan's Takeaway Food,4,5,5,10,2013-06-12,54.239246,-6.161436
+401843,Chicken Box,5,5,5,5,2014-07-22,54.347826,-6.27114
+401844,Child's Play Day Nursery,5,0,5,5,2014-03-21,54.344221,-6.265986
+401845,Child's Play Nursery - Parish Centre,4,0,10,5,2014-03-20,54.351159,-6.272323
+401846,Chilli Masala,3,10,10,10,2013-03-26,54.374227,-6.36086
+401847,Chip Shop Cafe,4,nan,nan,nan,2013-08-12,54.237429,-6.161272
+401848,Clanmurry,4,5,5,10,2011-10-10,54.411937,-6.165483
+401849,Clear Pharmacy,Exempt,nan,nan,nan,2013-07-31,54.349716,-6.268877
+401850,Cline Road Shop,4,10,5,5,2014-03-31,54.343569,-6.278763
+401851,Coffee Italino,5,5,5,5,2013-10-24,54.299759,-6.187467
+401852,Coffee On The Go,5,5,5,5,2014-03-14,54.351475,-6.292014
+401853,Colin Morton,5,5,5,5,2015-01-18,54.397916,-6.214322
+401854,Copperfields,5,0,0,0,2012-06-18,54.309756,-6.291852
+401855,Costa Coffee,2,10,15,10,2014-10-07,54.338576,-6.181319
+401856,Costcutters,4,0,5,10,2014-02-05,54.346859,-6.280808
+401857,Costcutters,5,5,5,0,2013-08-05,54.316853,-6.305159
+401858,Crozier House,5,5,5,0,2014-02-24,54.348479,-6.274681
+401859,Crozier Lodge,5,0,0,0,2011-12-06,54.348479,-6.274681
+401860,Day Today,3,10,10,5,2013-08-13,54.35692,-6.278742
+401861,Dechomet Bar,4,10,0,0,2011-05-26,54.324832,-6.095641
+401862,Delish Dish,4,5,5,10,2014-03-20,54.316853,-6.305159
+401863,Dolly's Brae Inn,5,0,0,5,2011-05-24,54.272981,-6.021563
+401864,Domino's Pizza,5,5,0,5,2013-08-01,54.3531,-6.267335
+401865,Donard School,5,0,5,5,2014-01-21,54.350091,-6.262463
+401866,Doreen's,3,5,10,10,2013-06-20,54.346803,-6.271814
+401867,Downshire Arms Hotel,4,10,5,5,2013-06-14,54.346803,-6.271814
+401868,Drombane House Ltd,5,5,5,5,2014-08-11,54.390717,-6.239269
+401869,Dromore Central Primary School,5,5,5,0,2013-12-10,54.413661,-6.152466
+401870,Dromore Community Centre,Exempt,nan,nan,nan,2012-05-21,54.415654,-6.168259
+401871,Dromore Elim Pentecostal Church,4,5,0,10,2011-02-10,54.414068,-6.14969
+401872,Dromore High School,4,5,5,10,2014-02-04,54.412244,-6.15618
+401873,Dromore Meats,5,5,0,5,2014-05-12,54.41318,-6.149237
+401874,Dromore Nursery,5,0,5,5,2012-10-16,54.413336,-6.154113
+401875,Dromore Rugby Football Club,2,5,15,10,2013-02-15,54.408868,-6.155731
+401876,Drumadonnell Primary School,5,0,0,0,2015-01-07,54.284676,-6.09837
+401877,E Henning,4,5,10,5,2014-01-06,54.347734,-6.269729
+401878,Eden Health Products,Exempt,nan,nan,nan,2011-11-08,54.347734,-6.269729
+401879,Edenderry Primary School,5,5,5,5,2013-04-23,54.355449,-6.270128
+401880,Edenvilla,4,0,0,10,2011-02-07,54.348956,-6.277291
+401881,Eric Toal,5,0,5,5,2011-11-09,54.26415,-6.238223
+401882,Express Pizza Co,4,10,0,10,2014-10-29,54.415177,-6.147622
+401883,Fairhill Primary School,5,0,5,0,2014-10-14,54.379277,-6.084532
+401884,Fed & Watered,5,0,0,0,2014-06-13,54.4173,-6.148343
+401885,Fegan's Farm Shop,5,5,5,5,2013-12-09,54.324296,-6.293894
+401886,Florentine Take-away,3,5,10,10,2013-08-01,,
+401887,Four Ways,5,5,0,0,2014-02-06,54.346175,-6.268795
+401888,Fred Elliott,3,10,10,5,2014-12-10,54.349488,-6.269886
+401889,Fred Mc Cauley,4,10,5,5,2014-01-09,54.238134,-6.160397
+401890,French Presse,1,10,15,20,2014-07-07,54.349488,-6.269886
+401891,Fresh Oil Ministries,Exempt,nan,nan,nan,2014-03-31,54.415177,-6.147622
+401892,Fresh Winds B&b,5,0,5,5,2013-05-31,54.339925,-6.298043
+401893,Friar Tucks,5,5,5,5,2014-09-24,54.349716,-6.268877
+401894,Friends,5,5,5,0,2011-04-13,54.236355,-6.158007
+401895,G S Mc Kinstry,3,10,5,10,2013-01-04,54.353019,-6.265492
+401896,Gall Bog Bar,3,10,10,10,2012-11-06,54.371186,-6.138247
+401897,Gaze,5,5,5,5,2013-09-12,54.34739,-6.27139
+401898,Gilberry Fayre,4,10,5,5,2014-08-22,54.379697,-6.326765
+401899,Gilford Filling Station,5,0,5,5,2013-09-20,54.375668,-6.34532
+401900,Gilford Inn,5,0,0,0,2011-02-11,54.374227,-6.36086
+401901,Gilford Primary School,4,10,0,0,2014-06-17,54.374911,-6.359001
+401902,Golden Fortune,3,10,10,10,2014-03-13,54.237569,-6.159272
+401903,Golden Jade,4,10,5,5,2012-10-05,54.347734,-6.269729
+401904,Golden Village,5,5,5,5,2014-09-30,54.374227,-6.36086
+401905,Gordon's Chemist,Exempt,nan,nan,nan,2013-06-20,54.347243,-6.272457
+401906,Gordon's Chemist,Exempt,nan,nan,nan,2014-06-25,54.238134,-6.160397
+401907,Gordon's Chemist,Exempt,nan,nan,nan,2010-10-20,54.347826,-6.27114
+401908,Graham's,1,20,10,10,2014-01-13,54.237569,-6.159272
+401909,Graham's Newsagents,5,0,0,0,2013-10-18,54.414441,-6.148841
+401910,Granny's Jams & Chutneys,5,0,5,5,2011-11-11,54.364641,-6.141466
+401911,Greenacres Guest House,5,0,5,5,2013-05-31,54.319659,-6.238848
+401912,Greenbean Coffee Roasters,4,0,5,10,2014-04-04,54.347416,-6.268805
+401913,Halfway House,4,10,5,5,2013-09-13,54.378538,-6.19397
+401914,Harry's Bar,4,10,0,10,2013-02-28,54.352416,-6.266041
+401915,Harry's Country Store,5,5,5,0,2012-12-07,54.390112,-6.179728
+401916,Hawthorn Inn,3,10,5,10,2011-05-26,54.306094,-6.185713
+401917,Herrons Country Fried Chicken,4,5,5,10,2013-09-02,54.236837,-6.160178
+401918,Herron's Country Fried Chicken,5,5,0,5,2013-12-11,54.414441,-6.148841
+401919,Higgins,4,10,5,5,2012-11-08,54.348892,-6.270926
+401920,Hill Mourne View B&b,5,0,0,5,2010-09-03,54.334929,-6.143284
+401921,Hilltop Lodge,5,nan,nan,nan,2011-07-05,54.371412,-6.198699
+401922,Holland And Barrett,Exempt,nan,nan,nan,2011-08-26,54.338576,-6.181319
+401923,Humpty Dumpty Pre-school Playgroup,5,0,0,5,2014-03-25,54.3531,-6.267335
+401924,Iceland Frozen Foods Plc,5,5,0,0,2011-10-25,54.347734,-6.269729
+401925,Ilex House,5,0,5,0,2012-04-27,54.252507,-6.138474
+401926,Iveagh House Private Nursing Home,5,0,5,5,2014-02-03,54.344913,-6.257883
+401927,Iveagh Meals Kitchen,5,5,5,0,2013-05-30,54.239227,-6.155455
+401928,Iveagh Movie Studio's Cafe,3,10,5,10,2014-07-03,54.350214,-6.271009
+401929,J Mc Cracken,3,5,10,10,2012-11-14,54.415178,-6.149471
+401930,Jimmy's Chippie,4,5,0,10,2013-08-28,54.349462,-6.274301
+401931,Jmac Fries,Exempt,nan,nan,nan,2013-06-10,54.237569,-6.159272
+401932,Jockey Club,4,5,5,10,2011-01-14,54.351808,-6.266205
+401933,Jolly Jesters,5,5,0,0,2014-12-09,54.413436,-6.150659
+401934,Juice Caboose,5,0,5,0,2014-10-13,54.415012,-6.152682
+401935,Kids Academy,5,5,5,5,2014-03-25,54.344914,-6.257884
+401936,King's,4,10,5,5,2013-01-17,54.36159,-6.024059
+401937,L. A. Pizza,5,5,0,5,2014-12-17,54.3531,-6.267335
+401938,Ladybird Lane Ltd,5,5,5,5,2014-03-20,54.345915,-6.261347
+401939,Lakeview Service Station,5,0,5,5,2010-10-27,54.308375,-6.300283
+401940,Laurencetown Community Centre,5,0,0,0,2011-02-04,54.38468,-6.30906
+401941,Laurencetown Service Station,4,10,5,5,2014-10-14,54.379302,-6.301062
+401942,Laverty's Public House,5,5,5,5,2011-05-27,54.379302,-6.301062
+401943,Leitrim G F C,Exempt,nan,nan,nan,2011-05-24,54.286599,-5.995248
+401944,Leitrim Playgroup,5,0,0,0,2013-05-14,54.286599,-5.995248
+401945,Licensed To Grill/safari Steak Burgers,5,5,5,5,2013-09-27,54.353233,-6.270375
+401946,Lidl Uk Gmbh,5,5,5,5,2013-09-13,54.344695,-6.270795
+401947,Linen House Tea Rooms,5,5,5,0,2014-05-19,54.372779,-6.359502
+401948,Linenhill Kitchen & Deli,3,10,10,10,2013-07-31,54.338576,-6.181319
+401949,Lisliggan Stores,5,5,5,5,2014-03-07,54.304913,-6.199777
+401950,Little Friends,5,0,5,5,2013-11-05,54.370369,-6.283073
+401951,Little Meadow,5,5,5,0,2014-05-21,54.375668,-6.34532
+401952,Loughbrickland Pharmacy,Exempt,nan,nan,nan,2014-06-23,54.314851,-6.302675
+401953,Loughbrickland Pre-school,5,5,0,5,2013-04-11,54.326927,-6.267344
+401954,M A Quail,5,5,5,5,2013-12-05,54.347826,-6.27114
+401955,Mace,4,10,0,5,2014-06-17,54.238134,-6.160397
+401956,Mace - Moundview Station,4,5,0,10,2014-10-14,54.38212,-6.018008
+401957,Mac's,3,10,5,10,2014-10-20,54.351455,-6.284262
+401958,Magheramayo Primary School,5,5,5,5,2013-09-02,54.268962,-6.008876
+401959,Maguires Takeaway,4,5,5,10,2014-04-03,54.414441,-6.148841
+401960,Maple Leaf Cafe,4,10,0,10,2014-10-14,54.236112,-6.162159
+401961,Marina Moore (mobile Trader),5,0,5,5,2013-06-21,54.332792,-6.362417
+401962,Marks & Spencers,Exempt,nan,nan,nan,2012-04-02,54.338576,-6.181319
+401963,Maxol Service Station,4,5,10,5,2014-09-23,54.350631,-6.278805
+401964,Mc Cuskers Bar,5,0,0,0,2013-10-31,54.329885,-6.103786
+401965,Mc Grath's Bar,3,10,10,5,2011-04-15,54.313676,-6.30031
+401966,Mc Sherrys Off Licence,Exempt,nan,nan,nan,2013-10-22,54.351808,-6.266205
+401967,Messrs. M A Quail,5,5,5,5,2014-06-10,54.414441,-6.148841
+401968,Milestone Service Station,5,nan,nan,nan,2014-06-10,54.236314,-6.166552
+401969,Mill Street Bistro,4,5,5,10,2014-02-21,54.372779,-6.359502
+401970,Milltown Primary School,5,0,0,0,2014-03-04,54.374816,-6.289412
+401971,Mind Wise,5,5,5,5,2013-09-13,54.348484,-6.268775
+401972,Mini Donuts,5,0,0,5,2014-05-08,54.252245,-6.149534
+401973,Mossvale Equestrian Centre,5,5,5,5,2012-03-17,54.374525,-6.067116
+401974,Mother Hubbards Day Nursery,5,5,5,5,2014-10-13,54.380666,-6.060686
+401975,Mountvale Private Nursing Home,5,nan,nan,nan,2014-03-11,54.412592,-6.149511
+401976,Mourneview Bar,4,5,5,10,2010-11-29,54.238134,-6.160397
+401977,Mourneview Garage,3,10,10,10,2013-08-20,54.288753,-6.11311
+401978,Moyallen Primary School,5,0,5,0,2014-02-10,54.399497,-6.388648
+401979,Mr Chips,5,5,5,5,2014-01-22,54.372779,-6.359502
+401980,Mulholland's On The Square,5,5,0,5,2011-11-24,54.414441,-6.148841
+401981,Munch House,5,5,5,5,2013-06-17,54.38468,-6.30906
+401982,Mynt,4,0,5,10,2013-09-12,54.349462,-6.274301
+401983,New Bridge Integrated College,4,5,5,10,2013-11-19,54.318419,-6.310473
+401984,New Look,Exempt,nan,nan,nan,2011-03-03,54.347734,-6.269729
+401985,New Orchard,4,0,5,10,2010-12-01,54.347826,-6.27114
+401986,Nisa,3,5,10,10,2013-08-01,54.372779,-6.359502
+401987,Noi Mini Mart,Exempt,nan,nan,nan,2014-02-12,54.343919,-6.273735
+401988,O' Hare Tyre And Fuel Services,Exempt,nan,nan,nan,2011-02-28,54.350584,-6.040092
+401989,O' Reillys Bar/offlicence,4,10,5,5,2013-08-01,54.351455,-6.284262
+401990,O' Reilly's Grocery,3,10,10,10,2013-08-12,54.237569,-6.159272
+401991,One Crafty Mummy,Exempt,nan,nan,nan,2011-10-19,54.347923,-6.286116
+401992,Owen Cull,5,5,0,0,2013-03-07,54.414441,-6.148841
+401993,P Downey's,Exempt,nan,nan,nan,2011-08-15,54.237429,-6.161272
+401994,Parkes Pharmacy,Exempt,nan,nan,nan,2014-06-20,54.372779,-6.359502
+401995,Patrisse Coffee Lounge,5,5,5,5,2013-12-09,54.347734,-6.269729
+401996,Peacehaven Residential Home,5,0,0,5,2011-08-22,54.237765,-6.164478
+401997,Peter Mc Conville,4,5,10,5,2014-08-04,54.374227,-6.36086
+401998,Phun's Welcome,5,5,5,5,2013-06-20,54.414441,-6.148841
+401999,Piggotts,5,0,5,5,2013-12-02,54.313676,-6.30031
+402000,Pizza Place,3,10,5,10,2014-02-06,54.414068,-6.14969
+402001,Pot Belly Restaurant,4,10,0,10,2014-05-02,54.375668,-6.34532
+402002,Poundland,5,5,0,5,2013-08-15,,
+402003,Praxis Care,5,5,0,0,2013-06-21,54.348073,-6.280835
+402004,Quails At The Gallery,4,nan,nan,nan,2013-12-05,54.335594,-6.279695
+402005,Railway Inn,3,10,5,10,2013-01-07,54.35127,-6.27315
+402006,Rainbow Preschool,5,5,0,5,2014-10-13,54.415012,-6.152682
+402007,Rathfriland Central Kitchen School Meals,5,5,5,5,2014-01-23,54.236314,-6.166552
+402008,Rathfriland Co-op,5,5,0,0,2014-09-03,54.212112,-6.188719
+402009,Rathfriland Football Club,Exempt,nan,nan,nan,2013-05-23,54.246458,-6.150768
+402010,Rathfriland Manor Private Nursing Home,5,5,5,5,2014-09-05,54.235742,-6.159047
+402011,Rathfriland Pre School,5,0,0,0,2013-09-17,54.236113,-6.162159
+402012,Raymond Mc Cullough,5,5,5,5,2014-09-09,54.238134,-6.160397
+402013,Red Dragon,4,10,5,5,2014-12-08,54.350582,-6.269117
+402014,Redmonds,4,5,5,10,2014-02-28,54.351774,-6.083428
+402015,Richmond Bakery,4,10,0,10,2014-10-13,54.347734,-6.269729
+402016,Riverside Tea Rooms,2,5,15,10,2013-12-10,54.414068,-6.14969
+402017,Road Chef,5,0,5,5,2014-07-09,54.272107,-6.308838
+402018,Royal British Legion - Gilford,5,5,5,5,2011-05-25,54.372779,-6.359502
+402019,Ruth Moore (mobile Trader) T/a Rubys Catering,4,5,0,10,2013-01-10,54.360372,-6.19889
+402020,Sara's Carvery,Exempt,nan,nan,nan,2011-08-17,54.355258,-6.253154
+402021,Scarva Primary School Meals Kitchen,5,5,0,5,2013-01-28,54.32909,-6.362334
+402022,Scarva Tea Rooms,3,10,5,10,2013-05-28,54.331489,-6.364375
+402023,Seapatrick Parish Centre,Exempt,nan,nan,nan,2011-03-01,54.345979,-6.309419
+402024,Seapatrick Private Nursing Home,4,5,5,10,2014-01-08,54.360765,-6.276858
+402025,Selb School Meals Kitchen Downshire Nursery School,5,5,0,0,2014-01-24,54.346584,-6.279083
+402026,Seven Stars,4,10,5,5,2013-03-20,54.314851,-6.302675
+402027,Shepherds,5,0,5,5,2013-08-09,54.347734,-6.269729
+402028,Shimerin Cakes,4,10,5,5,2014-07-07,54.288697,-6.085054
+402029,Snack In The Box,Exempt,nan,nan,nan,2012-03-28,54.352264,-6.308515
+402030,Spar,4,10,0,0,2011-10-07,54.41318,-6.149237
+402031,Spar - Barkers Filling Station,5,5,0,5,2011-11-29,54.354378,-6.255698
+402032,Spelga Mews (fold Housing Association),5,5,0,0,2013-06-13,54.347509,-6.277798
+402033,Square 15,3,5,10,10,2014-02-26,54.237429,-6.161272
+402034,St Francis' Primary School,5,5,0,0,2014-06-13,54.318419,-6.310473
+402035,St Johns Primary School,5,5,5,5,2014-03-05,54.374912,-6.359002
+402036,St Mary's Play Group,5,5,0,0,2014-03-27,54.351114,-6.276093
+402037,St Marys Primary School,5,5,5,0,2014-03-25,54.236355,-6.158007
+402038,St Mary's Primary School,5,0,5,5,2013-01-21,54.351114,-6.276093
+402039,St Michael's Primary School,5,5,0,5,2011-03-09,54.36159,-6.024059
+402040,St. Colmans Primary School,5,0,5,0,2013-01-07,54.38468,-6.30906
+402041,St. Colman's Primary School,5,5,0,0,2013-04-11,54.299759,-6.187467
+402042,St. Colman's Primary School,5,0,5,0,2014-03-04,54.416592,-6.147312
+402043,St. Patrick's College,5,5,0,0,2013-05-13,54.34999,-6.281708
+402044,Starbucks Coffee Company,5,0,0,0,2013-09-17,54.338576,-6.181319
+402045,Sterling Chemist,Exempt,nan,nan,nan,2013-02-14,54.415178,-6.149471
+402046,Subway,5,5,5,5,2014-05-13,54.354378,-6.255698
+402047,Super Fry,5,0,0,5,2014-02-20,54.348892,-6.270926
+402048,Superdrug Stores Plc,Exempt,nan,nan,nan,2013-06-26,54.347734,-6.269729
+402049,Supervalu,5,5,5,5,2014-10-29,54.347957,-6.269581
+402050,Supervalu Dromore,5,nan,nan,nan,2014-03-11,54.413336,-6.154113
+402051,Susanne Taggart,5,5,5,5,2012-11-30,54.416478,-6.136395
+402052,Sweet Bites,Exempt,nan,nan,nan,2015-01-19,54.233521,-6.14666
+402053,Sweet Tooth,5,5,0,5,2013-09-12,54.354715,-6.260929
+402054,Tele Pizza,5,0,0,0,2014-01-08,54.350214,-6.271009
+402055,Tesco,5,5,5,0,2014-05-20,54.350114,-6.267122
+402056,Tesco Customer Cafe,5,5,0,0,2013-10-22,54.350114,-6.267123
+402057,Tesco Filling Station,5,5,5,5,2013-08-30,54.350114,-6.267122
+402058,Thai Noodle Box,5,nan,nan,nan,2014-10-14,54.349716,-6.268877
+402059,The Albert,5,5,5,5,2014-03-13,54.347537,-6.270338
+402060,The Anglers Rest,4,5,5,10,2014-03-27,54.324799,-6.173669
+402061,The Bistro,3,10,5,10,2015-01-15,54.347826,-6.27114
+402062,The Bistro @ The Pheasant Lodge,5,5,5,5,2013-09-20,54.372779,-6.359502
+402063,The Bus Bar,4,0,10,5,2011-05-23,54.347826,-6.27114
+402064,The Castle,5,5,5,0,2014-06-17,54.372779,-6.359502
+402065,The Corner House (bar),4,5,0,10,2011-05-26,54.286455,-5.999539
+402066,The Country Food Store,2,10,15,10,2013-11-05,54.286455,-5.999539
+402067,The Cut Bar,5,0,0,5,2014-10-30,54.349716,-6.268877
+402068,The Depot,5,0,0,0,2013-11-04,54.236355,-6.158007
+402069,The Farm Gate Farmshop,3,10,5,10,2012-10-15,54.40343,-6.140343
+402070,The Georgian Tea Room,5,0,5,5,2014-03-24,54.374227,-6.36086
+402071,The Great Wall,2,15,5,10,2013-03-07,54.352651,-6.264277
+402072,The Home Bakery Banbridge,2,15,5,10,2014-01-10,54.347734,-6.269729
+402073,The Home Bakery Dromore,4,5,10,5,2013-08-30,54.415178,-6.149471
+402074,The Homeland Diner,4,10,0,10,2013-09-03,54.237569,-6.159272
+402075,The Honey Pot,4,5,5,10,2014-10-15,54.374227,-6.36086
+402076,The Imperial Inn,5,5,0,5,2013-06-27,54.350582,-6.269117
+402077,The Leapoges Inn,4,5,5,10,2011-05-26,54.404729,-6.071424
+402078,The Mount Charles Group 'u Eat',5,5,0,5,2015-01-06,54.350091,-6.262463
+402079,The Old George,4,5,10,5,2013-12-19,54.236837,-6.160178
+402080,The Old Station Day Care Nursery,5,5,0,5,2013-05-16,54.415012,-6.152682
+402081,The Olive Branch,5,5,0,5,2012-08-13,54.414441,-6.148841
+402082,The Pantry,5,5,5,5,2013-01-21,54.348893,-6.270927
+402083,The Park Inn,5,0,0,0,2013-01-18,54.33149,-6.364375
+402084,The Streat,4,5,10,5,2014-12-09,54.331087,-6.276071
+402085,The Village Store,5,5,0,5,2013-08-01,54.330036,-6.364495
+402086,The Wee Cake Shop,5,5,5,5,2013-11-22,54.373126,-6.355287
+402087,The Wee Cake Shop,5,5,5,5,2013-11-22,54.341946,-6.26516
+402088,Thorntons,5,0,0,0,2011-01-20,54.338576,-6.181319
+402089,Toni's Tandoori,5,nan,nan,nan,2014-01-31,54.351808,-6.266205
+402090,Top Notch,3,10,10,10,2013-06-03,54.351475,-6.292014
+402091,Treasure Island,4,10,5,5,2014-04-14,54.347993,-6.272718
+402092,Tsans Welcome,4,5,10,5,2013-01-04,54.414441,-6.148841
+402093,Turley's,5,0,5,5,2013-05-21,54.302214,-6.067219
+402094,Turnip House,4,10,5,5,2014-06-24,54.305131,-6.025445
+402095,Vong's Hot Food Bar,4,10,5,5,2012-11-06,54.349462,-6.274301
+402096,W Mulligan,4,5,10,5,2011-05-11,54.349488,-6.269886
+402097,Walsh's Newsagents,4,0,0,10,2011-03-22,54.348892,-6.270926
+402098,Wee Buns Big Bites,5,0,5,5,2014-03-10,54.348336,-6.290498
+402099,Windsor Home Bakery,3,nan,nan,nan,2014-09-12,54.347734,-6.269729
+402100,Windsor Home Bakery & Cafe,4,5,10,5,2014-08-12,54.349488,-6.269886
+402101,Winemark,Exempt,nan,nan,nan,2011-02-22,54.347734,-6.269729
+402102,Wong Lee Cuisine,4,10,5,5,2013-03-13,54.349462,-6.274301
+402103,World Fruit,Exempt,nan,nan,nan,2013-04-04,54.414441,-6.148841
+402104,Zest,5,5,0,0,2014-03-10,54.389721,-6.380548

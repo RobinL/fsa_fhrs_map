@@ -1,545 +1,545 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-258715,WILTON ROAD,CAMBERLEY,SURREY,,ADAM'S KEBAB,Mobile caterer,7846,5,,82925,5,,51.32539400000000,201846,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75616000000000,,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-258716,PRINCESS WAY,CAMBERLEY,SURREY,,AGE CONCERN SURREY HEATH TEA ROOMS,Restaurant/Cafe/Canteen,1,,,82683,,,51.33734900000000,200811,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74574900000000,GU15 3SP,2014-01-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-258717,LONDON ROAD,CAMBERLEY,SURREY,,AGINCOURT NIGHTCLUB,Pub/bar/nightclub,7843,0,,77343,5,,51.33467900000000,18147,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76523000000000,GU15 3JA,2013-07-15,fhrs_5_en-GB,5,,FHRS,5
-258718,39 OBELISK WAY,CAMBERLEY,SURREY,,ALCATRAZ,Restaurant/Cafe/Canteen,1,10,,83049,15,,51.33830300000000,202257,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74741700000000,GU15 3SG,2014-12-03,fhrs_2_en-GB,2,,FHRS,10
-258719,HOME CATERER,,,,ALEXANDER TAYLOR CAKES LTD,Other catering premises,7841,5,,82811,5,,51.35392700000000,201108,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67428100000000,GU18 5RL,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-258720,ALFA LAVAL,ALFA HOUSE,7 DOMAN ROAD,"CAMBERLEY, SURREY",ALFA LAVAL,Restaurant/Cafe/Canteen,1,0,,135009,0,,51.32905700000000,6853,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76845200000000,GU15 3DN,2014-06-19,fhrs_5_en-GB,5,,FHRS,0
-258721,AMISH RESTAURANT,36 CHERTSEY ROAD,CHOBHAM,WOKING SURREY,AMISH RESTAURANT,Restaurant/Cafe/Canteen,1,10,,56898,5,,51.34993200000000,12874,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.59836000000000,GU24 8PQ,2014-04-24,fhrs_3_en-GB,3,,FHRS,10
-258722,9-10 THE PARADE,FRIMLEY HIGH STREET,CAMBERLEY,SURREY,ANCIENT RAJ,Restaurant/Cafe/Canteen,1,10,,78042,10,,51.31407800000000,1848,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74327000000000,GU16 7HY,2013-08-20,fhrs_3_en-GB,3,,FHRS,10
-258723,STIHL HOUSE,STANHOPE ROAD,CAMBERLEY,SURREY,ANDREAS STIHL CANTEEN,Restaurant/Cafe/Canteen,1,5,,82848,5,,51.33102300000000,201358,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76897400000000,GU15 3YT,2014-01-30,fhrs_5_en-GB,5,,FHRS,0
-258724,FURZE FARM,LUCAS GREEN ROAD,WEST END,WOKING,ANEKE SPACIE,Other catering premises,7841,0,,650240,0,,51.32838400000000,203761,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65411900000000,GU24 9LD,2014-04-08,fhrs_5_en-GB,5,,FHRS,0
-258725,WORKSHOP,116 FRIMLEY ROAD,CAMBERLEY,SURREY,ARIA CATERING,Other catering premises,7841,0,,632979,0,,51.32693000000000,203709,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-258726,69 ARETHUSA WAY,BISLEY,WOKING,SURREY,ARMIN'S CATERING,Other catering premises,7841,0,,69393,0,,51.32338500000000,15596,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63869400000000,GU24 9BY,2013-11-18,fhrs_5_en-GB,5,,FHRS,0
-258727,46 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,SURREY,ARYANA EXPRESS,Retailers - other,4613,0,,82932,0,,51.31386000000000,201870,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74469600000000,GU16 7JF,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-258728,COURTNEY HOUSE,109-111 FRIMLEY ROAD,CAMBERLEY,SURREY,ATIF SUPERSTORE,Retailers - other,4613,5,,82523,0,,51.32752700000000,200390,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75477200000000,GU15 2PP,2013-05-31,fhrs_5_en-GB,5,,FHRS,5
-258729,BAGSHOT COUNTY INFANT SCHOOL,SCHOOL LANE,BAGSHOT,SURREY,BAGSHOT COUNTY INFANT SCHOOL,School/college/university,7845,5,,42381,0,,51.35814100000000,10451,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69405100000000,GU19 5BP,2014-09-22,fhrs_5_en-GB,5,,FHRS,5
-258730,BAGSHOT CRICKET CLUB,LONDON ROAD,BAGSHOT,SURREY,BAGSHOT CRICKET CLUB,Other catering premises,7841,0,,41726,0,,51.36913300000000,10329,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68869600000000,GU19 5HR,2013-05-28,fhrs_5_en-GB,5,,FHRS,5
-258731,28-32 LONDON ROAD,BAGSHOT,SURREY,,BAGSHOT PARK NEURO REHABILITATION,Hospitals/Childcare/Caring Premises,5,5,,83210,10,,51.36531800000000,202716,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69008300000000,GU19 5HN,2015-01-09,fhrs_4_en-GB,4,,FHRS,5
-258732,40 LONDON ROAD,BAGSHOT,SURREY,,BAGSHOT SF CONNECT,Retailers - other,4613,0,,41623,5,,51.36222800000000,10308,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69280000000000,GU19 5HL,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-258733,45 HIGH STREET,BAGSHOT,SURREY,,BAGSHOT VILLAGE CAFE,Restaurant/Cafe/Canteen,1,10,,505811,15,,51.36136200000000,203211,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69339900000000,GU19 5AF,2014-08-28,fhrs_2_en-GB,2,,FHRS,15
-258734,NEVS NEW STORE,120 FRIMLEY ROAD,CAMBERLEY,SURREY,BARGAIN BOOZE,Retailers - other,4613,0,,138264,0,,51.32693000000000,7355,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2014-03-14,fhrs_5_en-GB,5,,FHRS,0
-258735,CAMBERLEY DISTRICT BOWLING CLUB,WILTON ROAD,CAMBERLEY,SURREY,BARTON-TAYLOR CATERING,Other catering premises,7841,0,,83042,0,,51.32579300000000,202234,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75657000000000,GU15 2QW,2014-10-09,fhrs_5_en-GB,5,,FHRS,0
-258736,CANAL CENTRE,CANAL SUITE,MYTCHETT PLACE ROAD,MYTCHETT,BASINGSTOKE CANAL CENTRE - CAFE,Restaurant/Cafe/Canteen,1,0,,102205,0,,,338,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,,2013-05-29,fhrs_5_en-GB,5,,FHRS,5
-258737,SIEMENS,SIR WILLIAM SIEMENS SQUARE,FRIMLEY,CAMBERLEY,BAXTER STOREY,Restaurant/Cafe/Canteen,1,0,,82612,0,,51.31821200000000,200649,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73636900000000,GU16 8QD,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-258738,161 LONDON ROAD,BAGSHOT,SURREY,,BBQ PIT,Takeaway/sandwich shop,7844,5,,143360,5,,51.35600300000000,8067,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69992800000000,GU19 5DH,2014-12-10,fhrs_5_en-GB,5,,FHRS,5
-258739,BEAUMONT LODGE NURSING HOME,BEAUMONT LODGE,19 HEATHERLEY ROAD,CAMBERLEY,BEAUMONT LODGE NURSING HOME,Hospitals/Childcare/Caring Premises,5,0,,141099,0,,51.33406800000000,7742,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75588700000000,GU15 3LX,2015-01-06,fhrs_5_en-GB,5,,FHRS,5
-258740,1 LONDON ROAD,BAGSHOT,SURREY,,BEEFEATER,Restaurant/Cafe/Canteen,1,0,,41341,5,,51.36913300000000,10256,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68869600000000,GU19 5HR,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-258741,BEL VEDERE,3 HIGH STREET,BAGSHOT,SURREY,BEL VEDERE,Restaurant/Cafe/Canteen,1,10,,40894,0,,51.36095400000000,10183,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69392800000000,GU19 5AG,2014-04-30,fhrs_4_en-GB,4,,FHRS,5
-258742,3 THE ATRIUM,PARK STREET,CAMBERLEY,,BELLA ITALIA,Restaurant/Cafe/Canteen,1,0,,83187,0,,51.33731100000000,202649,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74887900000000,GU15 3GP,2013-08-05,fhrs_5_en-GB,5,,FHRS,5
-258743,143 FRIMLEY ROAD,CAMBERLEY,SURREY,,BIJOU,Restaurant/Cafe/Canteen,1,10,,682833,10,,51.32635600000000,203903,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75457400000000,GU15 2PS,2014-09-11,fhrs_3_en-GB,3,,FHRS,5
-258744,42 PARK STREET,CAMBERLEY,SURREY,,BILL'S RESTAURANT LTD,Takeaway/sandwich shop,7844,5,,706482,5,,51.33811600000000,204040,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74848400000000,GU15 3PL,2014-10-01,fhrs_4_en-GB,4,,FHRS,10
-258745,BISLEY YOUTH CLUB,196 GUILDFORD ROAD,BISLEY,WOKING,BISLEY BASE LTD,Other catering premises,7841,10,,595177,0,,51.32808100000000,203619,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63961700000000,GU24 9EP,2013-10-23,fhrs_4_en-GB,4,,FHRS,10
-258746,HAWTHORN WAY,BISLEY,WOKING,SURREY,BISLEY CHURCH OF ENGLAND PRIMARY SCHOOL,School/college/university,7845,0,,72858,0,,51.32527500000000,16627,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63494900000000,GU24 9DF,2013-05-01,fhrs_5_en-GB,5,,FHRS,0
-258747,33 HIGH STREET,CAMBERLEY,SURREY,,BLACKS OUTDOOR RETAIL LIMITED,Retailers - other,4613,,,83036,,,51.27199935913086,202229,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.40499997138977,GU15 3RF,2014-03-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-258748,52-56 HIGH STREET,CHOBHAM,WOKING,SURREY,BLUEBECKERS AT THE WHITE HART,Restaurant/Cafe/Canteen,1,5,,59259,0,,51.34653000000000,13065,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60346100000000,GU24 8AA,2013-09-18,fhrs_4_en-GB,4,,FHRS,10
-258749,43 GUILDFORD ROAD,LIGHTWATER,SURREY,,BOOTS PHARMACY,Retailers - other,4613,,,50100,,,51.35038800000000,11143,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66434500000000,GU18 5SA,2015-02-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-258750,261 FRIMLEY GREEN ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,BOOTS THE CHEMIST,Retailers - other,4613,,,735413,,,51.30346800000000,204220,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72831000000000,GU16 6LD,2015-01-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-258751,BOOTS THE CHEMIST,20 - 30 OBELISK WAY,CAMBERLEY,SURREY,BOOTS THE CHEMIST,Retailers - other,4613,0,,144490,0,,51.33888400000000,8327,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74628100000000,GU15 3SD,2015-01-27,fhrs_5_en-GB,5,,FHRS,0
-258752,8 THE ATRIUM,PARK STREET,CAMBERLEY,SURREY,BOWLPLEX PLC,Restaurant/Cafe/Canteen,1,5,,82348,0,,51.33678100000000,200276,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74809000000000,GU15 3PT,2013-11-06,fhrs_4_en-GB,4,,FHRS,10
-258753,LIGHTWATER VILLAGE COUNTY INFANT SCHOOL,CATENA RISE,LIGHTWATER,,BREAKFAST CLUB,Other catering premises,7841,,,82984,,,51.35289000000000,202011,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67324800000000,GU18 5RD,2014-03-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-258754,HOME CATERER,,,,BRENDA CRESWELL,Other catering premises,7841,0,,187733,0,,51.33806100000000,202520,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65270200000000,GU24 9NN,2014-08-29,fhrs_5_en-GB,5,,FHRS,0
-258755,23 PRINCESS WAY,CAMBERLEY,SURREY,,BRITISH HOME STORES - STORE AND CAFE,Restaurant/Cafe/Canteen,1,5,,144806,0,,51.33734900000000,8430,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74574900000000,GU15 3SP,2014-01-23,fhrs_5_en-GB,5,,FHRS,5
-258756,207 GUILDFORD ROAD,LIGHTWATER,SURREY,,BRONS NEWSAGENTS,Retailers - other,4613,10,,50000,0,,51.35277500000000,11114,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67030700000000,GU18 5RB,2012-02-15,fhrs_4_en-GB,4,,FHRS,0
-258757,BUDGENS STORES,57 GUILDFORD ROAD,LIGHTWATER,SURREY,BUDGENS STORES,Retailers - supermarkets/hypermarkets,7840,0,,50115,0,,51.35038800000000,11149,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66434500000000,GU18 5SA,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-258758,BURGERKING,34 HIGH STREET,CAMBERLEY,SURREY,BURGER KING,Manufacturers/packers,7839,0,,144056,0,,51.33805700000000,8204,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74463800000000,GU15 3RS,2014-07-16,fhrs_5_en-GB,5,,FHRS,5
-258759,BURWOOD HOUSE HOTEL,15 LONDON ROAD,CAMBERLEY,SURREY,BURWOOD HOUSE HOTEL,Hotel/bed & breakfast/guest house,7842,5,,124456,5,,51.34526400000000,5298,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72254500000000,GU15 3UQ,2013-11-08,fhrs_5_en-GB,5,,FHRS,5
-258760,1 BONDS DRIVE,PENNYPOT LANE,CHOBHAM,WOKING SURREY,C & T CATERING,Mobile caterer,7846,5,,81131,0,,51.34109600000000,19763,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.61908900000000,GU24 8DJ,2013-04-19,fhrs_5_en-GB,5,,FHRS,0
-258761,HILLIER GARDEN CENTRE,LONDON ROAD,WINDLESHAM,SURREY,CAFE BIRCH,Restaurant/Cafe/Canteen,1,0,,54931,0,,51.38389000000000,12388,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65470500000000,GU20 6LQ,2013-03-05,fhrs_5_en-GB,5,,FHRS,0
-258762,FRIMLEY PARK HOSPITAL (CAFE GLADE),PORTSMOUTH ROAD,FRIMLEY,"CAMBERLEY, SURREY",CAFE GLADE,Restaurant/Cafe/Canteen,1,0,,101706,0,,51.31968000000000,3338,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74156700000000,GU16 7UJ,2014-06-06,fhrs_5_en-GB,5,,FHRS,0
-258763,LONGACRES NURSERY,LONDON ROAD,BAGSHOT,SURREY,CAFFE AMORE,Other catering premises,7841,5,,41752,5,,51.37210400000000,10334,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68422900000000,GU19 5JB,2013-07-04,fhrs_5_en-GB,5,,FHRS,5
-258764,THE ARMY AND NAVY,47-51 PARK STREET,CAMBERLEY,SURREY,CAFFE NERO,Restaurant/Cafe/Canteen,1,0,,83179,0,,51.33719400000000,202615,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74716000000000,GU15 3PG,2014-11-28,fhrs_5_en-GB,5,,FHRS,5
-258765,HOME CATERER,,,,CAKES BY NINA,Other catering premises,7841,0,,79792,0,,51.33170900000000,19231,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74304600000000,GU15 2JN,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-258766,HOME CATERER,,,,CAKES FOR ANY OCCASION,Other catering premises,7841,0,,86477,0,,51.31109600000000,2201,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72528700000000,GU16 9YG,2013-04-17,fhrs_5_en-GB,5,,FHRS,0
-258767,CAMBERLEY & DISTRICT CLUB,171 LONDON ROAD,CAMBERLEY,SURREY,CAMBERLEY & DISTRICT CLUB,Other catering premises,7841,0,,143384,0,,51.33920600000000,8071,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74780900000000,GU15 3JS,2014-03-14,fhrs_5_en-GB,5,,FHRS,0
-258768,CAMBERLEY BAPTIST CHURCH,FRIMLEY ROAD,CAMBERLEY,SURREY,CAMBERLEY BAPTIST CHURCH,Restaurant/Cafe/Canteen,1,0,,139461,0,,51.33519800000000,7513,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75991900000000,GU15 3EN,2015-01-29,fhrs_5_en-GB,5,,FHRS,0
-258769,SOUTHWELL PARK ROAD,CAMBERLEY,SURREY,,CAMBERLEY BOWLS CLUB,Other catering premises,7841,0,,142420,0,,51.33580500000000,7913,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75265300000000,GU15 3QQ,2013-06-05,fhrs_5_en-GB,5,,FHRS,0
-258770,CAMBERLEY AMATEUR BOXING CLUB,TURF HILL ROAD,CAMBERLEY,SURREY,CAMBERLEY BOXING CLUB 2013,Restaurant/Cafe/Canteen,1,0,,539592,0,,51.34655100000000,203291,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72760700000000,GU15 4EQ,2013-12-20,fhrs_5_en-GB,5,,FHRS,0
-258771,HOME CATERER,,,,CAMBERLEY CAKES,Other catering premises,7841,0,,83029,0,,51.34819700000000,202211,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72187500000000,GU15 4AA,2013-08-30,fhrs_5_en-GB,5,,FHRS,0
-258772,455 LONDON ROAD,CAMBERLEY,SURREY,,CAMBERLEY CASH AND CARRY,Distributors/Transporters,7,20,,616490,10,,51.33467900000000,203666,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76523000000000,GU15 3JA,2013-11-29,fhrs_1_en-GB,1,,FHRS,5
-258773,CAMBERLEY CRICKET CLUB,UPPER VERRAN ROAD,CAMBERLEY,SURREY,CAMBERLEY CRICKET CLUB,Other catering premises,7841,5,,132632,0,,51.32617500000000,6470,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74177700000000,GU15 2JL,2013-04-23,fhrs_5_en-GB,5,,FHRS,5
-258774,CHRISTOPHER TERENCE GREEN,31 HILLCREST ROAD,CAMBERLEY,SURREY,CAMBERLEY GARDEN APIARIES LTD,Manufacturers/packers,7839,,,201420,,,51.34332300000000,202785,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71285000000000,GU15 1LF,2013-09-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-258775,116 LONDON ROAD,CAMBERLEY,SURREY,,CAMBERLEY GUEST HOUSE,Hotel/bed & breakfast/guest house,7842,10,,124410,0,,51.34153200000000,5292,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74082500000000,GU15 3TJ,2014-02-04,fhrs_4_en-GB,4,,FHRS,0
-258776,CAMBERLEY HEATH GOLF CLUB,GOLF DRIVE,CAMBERLEY,SURREY,CAMBERLEY HEATH GOLF CLUB,Other catering premises,7841,5,,95505,0,,51.34277900000000,2849,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72845200000000,GU15 1JQ,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-258777,2 HIGH STREET,CAMBERLEY,SURREY,,CAMBERLEY NEWSAGENTS,Retailers - other,4613,,,143965,,,51.33962300000000,8181,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74557200000000,GU15 3SX,2013-05-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-258778,CAMBERLEY RUGBY FOOTBALL CLUB,WATCHETTS RECREATION GROUND,PARK ROAD,"CAMBERLEY, SURREY",CAMBERLEY RUGBY FOOTBALL CLUB,Other catering premises,7841,0,,131848,0,,51.32621000000000,6345,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75185100000000,GU15 2SR,2013-10-25,fhrs_5_en-GB,5,,FHRS,5
-258779,132 FRIMLEY ROAD,CAMBERLEY,SURREY,,CAMBERLEY STORES,Retailers - other,4613,5,,138420,5,,51.32693000000000,7371,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2012-05-29,fhrs_5_en-GB,5,,FHRS,5
-258780,469 LONDON ROAD,CAMBERLEY,SURREY,,CAMBERLEY TANDOORI & COCKTAIL BAR,Restaurant/Cafe/Canteen,1,5,,520677,0,,51.33467900000000,203253,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76523000000000,GU15 3JA,2013-09-09,fhrs_5_en-GB,5,,FHRS,5
-258781,BURGER BAR,KROONER PARK,CAMBERLEY,SURREY,CAMBERLEY TOWN FOOTBALL CLUB,Other catering premises,7841,0,,72273,5,,51.32701400000000,16458,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75636500000000,GU15 2QP,2013-05-01,fhrs_5_en-GB,5,,FHRS,5
-258782,CAMBERLEY WORKING MENS' CLUB,17 OBELISK WAY,CAMBERLEY,SURREY,CAMBERLEY WORKING MENS' CLUB,Other catering premises,7841,10,,144486,5,,51.33888400000000,8325,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74628100000000,GU15 3SD,2014-11-17,fhrs_4_en-GB,4,,FHRS,0
-258783,121 LONDON ROAD,CAMBERLEY,SURREY,,CAMBRIDGE HOTEL,Pub/bar/nightclub,7843,0,,83191,0,,51.33985200000000,202662,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74517800000000,GU15 3LF,2014-08-29,fhrs_5_en-GB,5,,FHRS,5
-258784,141 GORDON AVENUE,CAMBERLEY,SURREY,,CAMBRIDGE HOUSE RESIDENTIAL HOME,Hospitals/Childcare/Caring Premises,5,0,,129114,0,,51.33020900000000,5955,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75161300000000,GU15 2NR,2014-01-20,fhrs_5_en-GB,5,,FHRS,0
-258785,200 FRIMLEY GREEN ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,CANDY MIX,Retailers - other,4613,5,,428420,0,,51.30373700000000,202968,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72909200000000,GU16 6LL,2012-06-29,fhrs_5_en-GB,5,,FHRS,0
-258786,2A GRACE REYNOLDS WALK,CAMBERLEY,SURREY,,CARD FACTORY,Retailers - other,4613,,,331985,,,51.33799600000000,202835,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74561600000000,GU15 3SN,2012-04-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-258787,UNIT B6,36 PARK STREET,CAMBERLEY,SURREY,CARGO,Retailers - other,4613,,,481397,,,51.33811600000000,202301,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74848400000000,GU15 3PL,2012-12-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-258788,59 PARK STREET,CAMBERLEY,,,CARPENTERS ARMS,Pub/bar/nightclub,7843,0,,83158,0,,51.33653000000000,202556,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74732200000000,GU15 3PE,2014-08-04,fhrs_5_en-GB,5,,FHRS,5
-258789,188 UPPER CHOBHAM ROAD,CAMBERLEY,SURREY,,CARWARDEN HOUSE COMMUNITY SCHOOL,School/college/university,7845,0,,113853,0,,51.32697200000000,4286,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71660900000000,GU15 1EJ,2014-09-12,fhrs_5_en-GB,5,,FHRS,5
-258790,WINDLESHAM GARDEN CENTRE,LONDON ROAD,WINDLESHAM,SURREY,CASA NOSTRA,Restaurant/Cafe/Canteen,1,20,,670103,10,,51.38299500000000,203900,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65740400000000,GU20 6LL,2014-06-17,fhrs_1_en-GB,1,,FHRS,10
-258791,475-477 LONDON ROAD (REAR BUILDING),CAMBERLEY,SURREY,,CATERPAC FOODS,Retailers - other,4613,5,,508520,5,,51.33467900000000,203170,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76523000000000,GU15 3JA,2014-12-12,fhrs_5_en-GB,5,,FHRS,5
-258792,55 THE AVENUE,CAMBERLEY,SURREY,,CATHERINE GUEST HOUSE,Hotel/bed & breakfast/guest house,7842,0,,545808,0,,51.33400400000000,203319,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75410800000000,GU15 3NF,2013-05-29,fhrs_5_en-GB,5,,FHRS,0
-258793,CEDAR LODGE NURSING HOME,ST CATHERINES ROAD,FRIMLEY,"CAMBERLEY, SURREY",CEDAR LODGE NURSING HOME,Hospitals/Childcare/Caring Premises,5,5,,86043,5,,51.30773600000000,2186,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72058900000000,GU16 9NP,2014-02-11,fhrs_5_en-GB,5,,FHRS,5
-258794,KINGS INTERNATIONAL COLLEGE,WATCHETTS DRIVE,CAMBERLEY,SURREY,CHARTWELLS,School/college/university,7845,5,,620227,5,,51.32268300000000,203562,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74990900000000,GU15 2PQ,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-258795,57B MYTCHETT ROAD,MYTCHETT,CAMBERLEY,SURREY,CHEF CHINA,Takeaway/sandwich shop,7844,5,,82987,5,,51.29425400000000,202037,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72618400000000,GU16 6EG,2013-07-24,fhrs_5_en-GB,5,,FHRS,5
-258796,STREET RECORD,RIVERSIDE WAY,CAMBERLEY,,CHEF SNACK BAR,Mobile caterer,7846,5,,453722,5,,,203075,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-258797,HOME CATERER,,,,CHERRY BLOSSOM CAKE COMPANY,Other catering premises,7841,0,,535112,0,,51.35537600000000,203265,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69604000000000,GU19 5EA,2013-05-02,fhrs_5_en-GB,5,,FHRS,0
-258798,CHERRYDALE,SPRINGFIELD ROAD,CAMBERLEY,SURREY,CHERRYDALE RESIDENTIAL CARE HOME,Hospitals/Childcare/Caring Premises,5,0,,74536,0,,51.33361400000000,17203,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71467200000000,GU15 1AE,2014-08-13,fhrs_5_en-GB,5,,FHRS,0
-258799,UNIT 1,BULLHOUSEN FARM,BISLEY GREEN,BISLEY,CHERRYMANS DAIRIES,Distributors/Transporters,7,10,,605243,0,,51.32589000000000,203597,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64609700000000,GU24 9EW,2014-01-09,fhrs_4_en-GB,4,,FHRS,5
-258800,369 LONDON ROAD,CAMBERLEY,SURREY,,CHILLI SPICE,Restaurant/Cafe/Canteen,1,5,,482768,0,,51.33608000000000,203165,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75998100000000,GU15 3HQ,2013-06-26,fhrs_5_en-GB,5,,FHRS,0
-258801,6 THE ATRIUM,PARK STREET,CAMBERLEY,SURREY,CHIQUITOS,Restaurant/Cafe/Canteen,1,5,,82553,5,,51.33546700000000,200495,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75046600000000,GU15 3PU,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-258802,C/O 6 CHEQUER TREE CLOSE,KNAPHILL,WOKING,SURREY,CHOBHAM BURYMEAD FOOTBALL CLUB,Retailers - other,4613,,,60980,,,51.32330900000000,13345,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60620400000000,GU21 2PB,2012-01-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-258803,50 WINDSOR ROAD,CHOBHAM,WOKING,SURREY,CHOBHAM CLUB,Other catering premises,7841,0,,56035,0,,51.35282100000000,12657,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60609900000000,GU24 8LD,2013-03-15,fhrs_5_en-GB,5,,FHRS,0
-258804,HIGH STREET,CHOBHAM,WOKING,SURREY,CHOBHAM CRICKET CLUB,Other catering premises,7841,0,,59673,0,,51.34653000000000,13105,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60346100000000,GU24 8AA,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-258805,FOWLERS WELLS,WINDSOR ROAD,CHOBHAM,WOKING SURREY,CHOBHAM RUGBY FOOTBALL CLUB,Other catering premises,7841,0,,56113,0,,51.34982000000000,12674,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60255700000000,GU24 8NA,2013-03-22,fhrs_5_en-GB,5,,FHRS,5
-258806,STATION ROAD,CHOBHAM,WOKING,SURREY,CHOBHAM VILLAGE HALL,Other catering premises,7841,,,60894,,,51.34586681000000,13322,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60143100000000,GU24 8A,2013-05-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-258807,HOME CATERER,,,,CHRISTINA'S CUPCAKES,Other catering premises,7841,5,,468299,0,,51.34680000000000,202355,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66913000000000,GU18 5XH,2012-11-06,fhrs_5_en-GB,5,,FHRS,0
-258808,ST PAULS CHURCH,CRAWLEY RIDGE,CAMBERLEY,SURREY,CHURCH HALL KITCHEN,Other catering premises,7841,10,,120642,0,,51.33789900000000,4956,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72916700000000,GU15 2AD,2012-02-15,fhrs_4_en-GB,4,,FHRS,5
-258809,CHUTNEYS,13 FARM ROAD,FRIMLEY,CAMBERLEY,CHUTNEYS,Takeaway/sandwich shop,7844,10,,94011,5,,51.32173800000000,2721,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72978600000000,GU16 8TH,2014-01-08,fhrs_3_en-GB,3,,FHRS,10
-258810,MOSS EXPRESS LTD,224 FRIMLEY GREEN ROAD,FRIMLEY GREEN,"CAMBERLEY, SURREY",CINNAMON,Restaurant/Cafe/Canteen,1,20,,140330,5,,51.30373700000000,765,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72909200000000,GU16 6LL,2014-02-19,fhrs_1_en-GB,1,,FHRS,10
-258811,CLAUDE DU VALL,THE CLAUDE DU VILLE,77-81 HIGH STREET,CAMBERLEY,CLAUDE DU VALL,Pub/bar/nightclub,7843,0,,144185,5,,51.33808500000000,8246,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74390600000000,GU15 3RB,2014-04-29,fhrs_4_en-GB,4,,FHRS,10
-258812,HOME CATERER,,,,CLEAN NUTRITION,Other catering premises,7841,10,,449800,0,,51.33612300000000,203044,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75976500000000,GU15 3HF,2012-09-20,fhrs_4_en-GB,4,,FHRS,0
-258813,2 LIGHTWATER MEADOW,LIGHTWATER,SURREY,,COFFEE BUG,Mobile caterer,7846,5,,650237,5,,51.34680000000000,200708,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66913000000000,GU18 5XH,2014-04-11,fhrs_5_en-GB,5,,FHRS,5
-258814,SHAFTESBURY ROAD,BISLEY,WOKING,SURREY,COLDINGLEY PRISON,Restaurant/Cafe/Canteen,1,5,,63911,0,,51.32305700000000,14120,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64217700000000,GU24 9EX,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-258815,COLLINGWOOD SCHOOL,MITCHAM ROAD,CAMBERLEY,SURREY,COLLINGWOOD COLLEGE,School/college/university,7845,0,,74184,0,,51.35028700000000,17064,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71727900000000,GU15 4AJ,2014-07-15,fhrs_5_en-GB,5,,FHRS,5
-258816,MITCHAM ROAD,CAMBERLEY,SURREY,,COLLINGWOOD COLLEGE (SIXTH FORM CENTRE),School/college/university,7845,0,,80726,0,,51.35028700000000,19580,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71727900000000,GU15 4AJ,2012-11-22,fhrs_5_en-GB,5,,FHRS,0
-258817,PORTSMOUTH ROAD,CAMBERLEY,SURREY,,COLLINGWOOD GRANGE NURSING HOME,Hospitals/Childcare/Caring Premises,5,0,,73056,5,,51.34720400000000,16720,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71335900000000,GU15 1LD,2014-10-03,fhrs_5_en-GB,5,,FHRS,5
-258818,CONNAUGHT COUNTY JUNIOR SCHOOL,MANOR WAY,BAGSHOT,SURREY,CONNAUGHT COUNTY JUNIOR SCHOOL,School/college/university,7845,0,,42095,5,,51.35682200000000,10399,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68863100000000,GU19 5JY,2014-05-07,fhrs_5_en-GB,5,,FHRS,0
-258819,CONTINENTAL HOTEL THE LAKESIDE COMPLEX,WHARF ROAD,FRIMLEY GREEN,CAMBERLEY,CONTINENTAL HOTEL,Hotel/bed & breakfast/guest house,7842,5,,52203,5,,51.30264300000000,1176,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72032900000000,GU16 6PT,2014-01-20,fhrs_5_en-GB,5,,FHRS,5
-258820,37 GUILDFORD ROAD,LIGHTWATER,SURREY,,COOK,Retailers - other,4613,0,,82764,0,,51.35038800000000,201052,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66434500000000,GU18 5SA,2014-08-28,fhrs_5_en-GB,5,,FHRS,0
-258821,HOME CATERER,,,,COOKIES,Other catering premises,7841,10,,635280,5,,51.30840500000000,203725,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70542000000000,GU16 6RU,2014-06-24,fhrs_4_en-GB,4,,FHRS,5
-258822,193 - 197 UPPER COLLEGE RIDE,CAMBERLEY,SURREY,,CO-OP,Retailers - supermarkets/hypermarkets,7840,5,,148877,5,,51.34810000000000,9459,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72532400000000,GU15 4HE,2014-07-15,fhrs_5_en-GB,5,,FHRS,5
-258823,6 THE SQUARE,BAGSHOT,SURREY,,CO-OPERATIVE FOOD,Retailers - supermarkets/hypermarkets,7840,5,,83066,5,,51.36119900000000,202306,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69170900000000,GU19 5AY,2014-01-27,fhrs_4_en-GB,4,,FHRS,10
-258824,HOME CATERER,,,,COQUELICOT,Other catering premises,7841,0,,530824,0,,51.31646900000000,203270,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72816600000000,GU16 8XJ,2013-06-06,fhrs_5_en-GB,5,,FHRS,0
-258825,144 FRIMLEY ROAD,CAMBERLEY,SURREY,,CORAL,Retailers - other,4613,,,138556,,,51.32693000000000,7385,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2015-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-258826,BERKSHIRE ROAD,CAMBERLEY,SURREY,,CORDWALLES COUNTY JUNIOR SCHOOL,School/college/university,7845,5,,145269,0,,51.34982100000000,8567,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72490300000000,GU15 4DR,2014-01-23,fhrs_5_en-GB,5,,FHRS,5
-258827,79 THE AVENUE,CAMBERLEY,SURREY,,CORRINA NURSING HOME,Hospitals/Childcare/Caring Premises,5,0,,142654,0,,51.33216900000000,7959,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75576600000000,GU15 3NQ,2013-11-13,fhrs_5_en-GB,5,,FHRS,5
-258828,COST CUTTERS,89 MYTCHETT ROAD,MYTCHETT,CAMBERLEY SURREY,COST CUTTERS,Retailers - other,4613,10,,129687,5,,51.29051600000000,606,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72558500000000,GU16 6ES,2011-11-24,fhrs_4_en-GB,4,,FHRS,5
-258829,NAAFI PRINCESS ROYAL BARRACKS,BRUNSWICK ROAD,DEEPCUT,CAMBERLEY,COSTA COFFEE,Restaurant/Cafe/Canteen,1,0,,82618,5,,51.30432700000000,200655,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69928000000000,GU16 6RN,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-258830,VALLEY END,CHOBHAM,WOKING,SURREY,COWORTH-FLEXLANDS SCHOOL,School/college/university,7845,0,,55848,0,,51.37259500000000,12609,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.62519600000000,GU24 8TE,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-258831,CRAB & DRAGON,220 FRIMLEY ROAD,CAMBERLEY,SURREY,CRAB & DRAGON,Pub/bar/nightclub,7843,0,,138967,0,,51.32249100000000,7427,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75390400000000,GU15 2QJ,2014-01-23,fhrs_5_en-GB,5,,FHRS,5
-258832,CRAWLEY RIDGE COUNTY INFANT SCHOOL,CRAWLEY RIDGE,CAMBERLEY,SURREY,CRAWLEY RIDGE COUNTY INFANT SCHOOL,School/college/university,7845,0,,120295,0,,51.33999700000000,4929,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72695500000000,GU15 2AJ,2015-02-11,fhrs_5_en-GB,5,,FHRS,0
-258833,CRAWLEY RIDGE COUNTY JUNIOR SCHOOL,CRAWLEY RIDGE,CAMBERLEY,SURREY,CRAWLEY RIDGE COUNTY JUNIOR SCHOOL,School/college/university,7845,0,,120315,0,,51.33999700000000,4930,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72695500000000,GU15 2AJ,2015-02-11,fhrs_5_en-GB,5,,FHRS,0
-258834,40 PARK STREET,CAMBERLEY,SURREY,,CREAMS CAFE,Restaurant/Cafe/Canteen,1,0,,707690,0,,51.33811600000000,201803,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74848400000000,GU15 3PL,2014-10-16,fhrs_5_en-GB,5,,FHRS,5
-258835,GRESHAM WAY,FRIMLEY GREEN,CAMBERLEY,SURREY,CROSS FARM COUNTY INFANT SCHOOL,School/college/university,7845,0,,150295,0,,51.30438300000000,979,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73316300000000,GU16 6LZ,2013-02-14,fhrs_5_en-GB,5,,FHRS,5
-258836,CONNAUGHT PAVILION,WHITMOOR ROAD,BAGSHOT,SURREY,CURLEY PARK RANGERS FC,Restaurant/Cafe/Canteen,1,0,,43989,5,,51.35619000000000,10699,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68441200000000,GU19 5QE,2013-02-05,fhrs_5_en-GB,5,,FHRS,0
-258837,HOME CATERER,,,,CURRY CODDLER,Other catering premises,7841,5,,82904,0,,51.32812600000000,201731,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73091500000000,GU15 1HW,2012-11-27,fhrs_5_en-GB,5,,FHRS,0
-258838,UNIGATE DAIRIES LTD,UPDOWN HILL,WINDLESHAM,SURREY,DAIRY CREST,Retailers - other,4613,0,,54021,0,,51.36426500000000,12171,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65434600000000,GU20 6AF,2012-11-20,fhrs_5_en-GB,5,,FHRS,5
-258839,UNIT 5 TO 6,LAWRENCE WAY,CAMBERLEY,SURREY,DAIRY CREST,Distributors/Transporters,7,0,,592087,0,,51.33077200000000,203530,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76995700000000,GU15 3DL,2013-10-22,fhrs_5_en-GB,5,,FHRS,5
-258840,HOME CATERER,,,,DAWN'S CAKES,Other catering premises,7841,0,,650243,0,,51.35281200000000,203777,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71795500000000,GU15 4AW,2014-04-03,fhrs_5_en-GB,5,,FHRS,0
-258841,63 DEEPCUT BRIDGE ROAD,DEEPCUT,CAMBERLEY,,DEEPCUT - CAFE,Restaurant/Cafe/Canteen,1,20,,83110,15,,51.30806300000000,202435,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70458300000000,GU16 6QP,2014-06-18,fhrs_1_en-GB,1,,FHRS,5
-258842,DEEPCUT NEWSAGENT AND OFF LICENCE,59 DEEPCUT BRIDGE ROAD,DEEPCUT,CAMBERLEY,DEEPCUT NEWSAGENT AND OFF LICENCE,Retailers - other,4613,0,,59312,0,,51.30806300000000,1307,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70458300000000,GU16 6QP,2014-02-28,fhrs_5_en-GB,5,,FHRS,5
-258843,218 FRIMLEY GREEN ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,DELLA NONNA,Takeaway/sandwich shop,7844,10,,195920,5,,51.30373700000000,202741,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72909200000000,GU16 6LL,2014-10-08,fhrs_4_en-GB,4,,FHRS,5
-258844,NEWFOUNDLAND ROAD,DEEPCUT,CAMBERLEY,SURREY,DETTINGEN PARK SPAR SHOP,Retailers - other,4613,0,,82613,5,,51.31108800000000,200650,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69758200000000,GU16 6SR,2013-03-25,fhrs_5_en-GB,5,,FHRS,0
-258845,HOME CATERER,,,,DIANE SANDERSON,Other catering premises,7841,0,,83162,0,,51.35845100000000,202566,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69522000000000,GU19 5DB,2014-08-29,fhrs_5_en-GB,5,,FHRS,0
-258846,KNOLL ROAD,CAMBERLEY,SURREY,,DISABILITY INITIATIVE - CATERING,Other catering premises,7841,0,,144331,0,,51.33895100000000,8281,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74349400000000,,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-258847,61 HIGH STREET,BAGSHOT,SURREY,,DOMINOS PIZZA,Takeaway/sandwich shop,7844,0,,41095,0,,51.36200500000000,10210,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69218900000000,GU19 5AH,2013-04-22,fhrs_5_en-GB,5,,FHRS,0
-258848,17 GUILDFORD ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,DOMINO'S PIZZA,Takeaway/sandwich shop,7844,0,,82831,5,,51.30211300000000,201229,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72698500000000,GU16 6NL,2014-10-14,fhrs_5_en-GB,5,,FHRS,0
-258849,HOME CATERER,,,,DONKEY POO,Other catering premises,7841,0,,579794,0,,51.32326700000000,203496,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72985800000000,GU16 8SJ,2013-08-23,fhrs_5_en-GB,5,,FHRS,0
-258850,HOME CATERER,,,,DONNA CAN BAKE,Other catering premises,7841,5,,481399,0,,51.29497500000000,203157,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73125600000000,GU16 6JP,2012-12-11,fhrs_5_en-GB,5,,FHRS,0
-258851,OFFICE,SADDLERS HALT,86 HIGH STREET,CHOBHAM,DRAKES SANDWICH BAR,Takeaway/sandwich shop,7844,5,,585584,0,,51.34799300000000,203465,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60245400000000,GU24 8LZ,2013-09-18,fhrs_5_en-GB,5,,FHRS,0
-258852,9 PARK STREET,CAMBERLEY,SURREY,,DYNASTY,Restaurant/Cafe/Canteen,1,20,,83185,0,,51.33844400000000,202643,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74805900000000,GU15 3PQ,2013-09-27,fhrs_1_en-GB,1,,FHRS,5
-258853,160 WINDSOR ROAD,CHOBHAM,WOKING,SURREY,EASTERN & ORIENTAL RESTAURANT,Restaurant/Cafe/Canteen,1,20,,55991,15,,51.35997400000000,12643,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60800700000000,GU24 8QX,2014-09-02,fhrs_1_en-GB,1,,FHRS,15
-258854,0 TRAFALGAR WAY,CAMBERLEY,SURREY,,EATING OUT,Mobile caterer,7846,5,,137161,10,,,7189,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,,2014-05-19,fhrs_3_en-GB,3,,FHRS,10
-258855,177 LONDON ROAD,CAMBERLEY,SURREY,,EL PIC,Restaurant/Cafe/Canteen,1,10,,143395,5,,51.33920600000000,8074,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74780900000000,GU15 3JS,2014-10-21,fhrs_4_en-GB,4,,FHRS,5
-258856,2 THE PARADE,FRIMLEY,CAMBERLEY,SURREY,ELAICHI,Restaurant/Cafe/Canteen,1,10,,401567,5,,51.31407800000000,202941,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74327000000000,GU16 7HY,2014-01-30,fhrs_4_en-GB,4,,FHRS,5
-258857,EAST LODGE,ERLWOOD MANOR,LONDON ROAD,WINDLESHAM,ELI LILLY & CO LTD (STAFF CANTEEN),Restaurant/Cafe/Canteen,1,5,,331983,5,,51.37565400000000,202829,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67769100000000,GU20 6PH,2014-01-15,fhrs_5_en-GB,5,,FHRS,5
-258858,COLISEUM BUSINESS CENTRE,RIVERSIDE WAY,CAMBERLEY,SURREY,ELIOR,Restaurant/Cafe/Canteen,1,5,,82858,5,,51.32714400000000,201437,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76188700000000,GU15 3YL,2014-02-11,fhrs_5_en-GB,5,,FHRS,5
-258859,ELMFIELD HOUSE,CHURCH LANE,BISLEY,WOKING SURREY,ELMFIELD HOUSE,Hospitals/Childcare/Caring Premises,5,5,,64451,0,,51.32749600000000,14327,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63802700000000,GU24 9ED,2013-09-11,fhrs_5_en-GB,5,,FHRS,0
-258860,HOME CATERER,,,,EMMA TREVES,Other catering premises,7841,0,,83150,0,,51.32973600000000,202535,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75108100000000,GU15 2NS,2015-01-16,fhrs_5_en-GB,5,,FHRS,0
-258861,FRIMLEY GREEN ROAD,FRIMLEY,CAMBERLEY,SURREY,EUREST UK LTD,Restaurant/Cafe/Canteen,1,0,,75052,0,,51.31057900000000,1743,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73733900000000,GU16 7AJ,2013-08-21,fhrs_5_en-GB,5,,FHRS,5
-258862,EVEREST CASH AND CARRY,449 LONDON ROAD,CAMBERLEY,SURREY,EVEREST CASH AND CARRY,Retailers - other,4613,20,,134064,10,,51.33467900000000,6719,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76523000000000,GU15 3JA,2014-09-25,fhrs_1_en-GB,1,,FHRS,15
-258863,UNIT A6,FAIROAKS AIRPORT,CHERTSEY ROAD,CHOBHAM,FAIROAKS AIRPORT BAR,Restaurant/Cafe/Canteen,1,0,,623155,0,,51.35015500000000,203554,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.56337200000000,GU24 8HU,2013-12-17,fhrs_5_en-GB,5,,FHRS,0
-258864,UNIT E1,FAIROAKS AIRPORT,CHERTSEY ROAD,CHOBHAM,FAIROAKS FOODS,Other catering premises,7841,0,,231346,0,,51.35015500000000,202821,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.56337200000000,GU24 8HU,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-258865,337 LONDON ROAD,CAMBERLEY,SURREY,,FARMHOUSE PIZZA,Takeaway/sandwich shop,7844,5,,449801,0,,51.33467900000000,203045,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76523000000000,GU15 3JA,2014-01-06,fhrs_5_en-GB,5,,FHRS,5
-258866,60 CHERTSEY ROAD,CHOBHAM,WOKING,SURREY,FILL YOUR BOOTS,Mobile caterer,7846,0,,199750,0,,51.35073500000000,202769,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.59483200000000,GU24 8PJ,2014-03-24,fhrs_5_en-GB,5,,FHRS,0
-258867,HOME CATERER,,,,FIONA'S CAKES,Other catering premises,7841,0,,589498,0,,51.33698200000000,15228,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.61414500000000,GU24 8DT,2013-10-11,fhrs_5_en-GB,5,,FHRS,0
-258868,29 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,SURREY,FKC,Takeaway/sandwich shop,7844,0,,82721,0,,51.31374500000000,200972,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74403900000000,GU16 7HJ,2014-08-06,fhrs_5_en-GB,5,,FHRS,5
-258869,240-242 LONDON ROAD,BAGSHOT,SURREY,,FLORAL & HARDY,Restaurant/Cafe/Canteen,1,10,,693179,0,,51.35317700000000,203964,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70288000000000,GU19 5EZ,2014-09-30,fhrs_4_en-GB,4,,FHRS,5
-258870,HOME CATERER,,,,FOOD FOR THOUGHT,Other catering premises,7841,0,,82876,0,,51.36726600000000,201547,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65489000000000,GU20 6EA,2013-12-12,fhrs_5_en-GB,5,,FHRS,0
-258871,FOUR HORSESHOES,75 FRIMLEY ROAD,CAMBERLEY,SURREY,FOUR HORSESHOES,Pub/bar/nightclub,7843,5,,620228,5,,51.33024600000000,203659,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75593300000000,GU15 3EQ,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-258872,HOME CATERER,,,,FOX IN A BOX CAKES & CATERING,Other catering premises,7841,0,,719278,0,,51.34005700000000,16205,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72917900000000,GU15 2AR,2014-11-27,fhrs_5_en-GB,5,,FHRS,5
-258873,4 THE ATRIUM,PARK STREET,CAMBERLEY,SURREY,FRANKIE AND BENNYS,Restaurant/Cafe/Canteen,1,5,,82522,0,,51.33731100000000,200375,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74887900000000,GU15 3GP,2014-03-27,fhrs_5_en-GB,5,,FHRS,0
-258874,35 OBELISK WAY,CAMBERLEY,SURREY,,FRENCHIES LTD,Restaurant/Cafe/Canteen,1,0,,650238,0,,51.33830300000000,203723,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74741700000000,GU15 3SG,2014-05-06,fhrs_5_en-GB,5,,FHRS,0
-258875,FRIMHURST FAMILY HOME,GUILDFORD ROAD,FRIMLEY GREEN,CAMBERLEY,FRIMHURST ENTERPRISES CIC,Other catering premises,7841,0,,570432,0,,51.30174300000000,203295,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71695400000000,GU16 6NU,2013-07-17,fhrs_5_en-GB,5,,FHRS,0
-258876,FRIMLEY GREEN ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,FRIMLEY C OF E FIRST & MIDDLE SCHOOL,School/college/university,7845,5,,142563,0,,51.30810100000000,794,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73271600000000,GU16 6ND,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-258877,BALMORAL DRIVE,FRIMLEY,CAMBERLEY,SURREY,FRIMLEY COMMUNITY CENTRE,Other catering premises,7841,5,,65453,0,,51.31088000000000,1471,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73357200000000,GU16 9AR,2012-02-23,fhrs_5_en-GB,5,,FHRS,0
-258878,RECREATION GROUND,CHOBHAM ROAD,"FRIMLEY, CAMBERLEY",SURREY,FRIMLEY CRICKET CLUB,Other catering premises,7841,20,,93100,5,,51.31325912475586,2655,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74528002738953,,2013-05-21,fhrs_1_en-GB,1,,FHRS,5
-258879,FRIMLEY GREEN FOOTBALL CLUB,RECREATION GROUND,"FRIMLEY GREEN ROAD, FRIMLEY GREEN","CAMBERLEY, SURREY",FRIMLEY GREEN FOOTBALL CLUB,Other catering premises,7841,5,,142498,0,,51.30704800000000,793,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73013400000000,GU16 6JY,2015-01-27,fhrs_5_en-GB,5,,FHRS,0
-258880,COMMUNITY CENTRE,BALMORAL DRIVE,FRIMLEY,CAMBERLEY,FRIMLEY GREEN PRE-SCHOOL,School/college/university,7845,,,331981,,,51.31088000000000,202822,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73357200000000,GU16 9AR,2014-05-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-258881,FRIMLEY GREEN SERVICE STATION,FRIMLEY GREEN ROAD,FRIMLEY GREEN,CAMBERLEY SURREY,FRIMLEY GREEN SERVICE STATION,Retailers - other,4613,0,,82687,0,,51.30346800000000,200846,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72831000000000,GU16 6LD,2014-07-21,fhrs_5_en-GB,5,,FHRS,5
-258882,18 STURT ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,FRIMLEY GREEN WORKING MENS CLUB,Other catering premises,7841,5,,51587,0,,51.30114800000000,1157,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72836000000000,GU16 6HX,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-258883,118 FRIMLEY ROAD,CAMBERLEY,SURREY,,FRIMLEY ROAD CAFE,Restaurant/Cafe/Canteen,1,10,,83127,5,,51.32693000000000,202480,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2014-12-04,fhrs_4_en-GB,4,,FHRS,5
-258884,SHELL (UK) LTD,13 CHOBHAM ROAD,FRIMLEY,"CAMBERLEY, SURREY",FRIMLEY SERVICE STATION - TEXACO,Retailers - other,4613,0,,82887,0,,51.32086700000000,20160,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73154600000000,GU16 8PG,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-258885,34 CHERTSEY ROAD,CHOBHAM,WOKING,,GARYS CHIPPY,Takeaway/sandwich shop,7844,5,,449797,10,,51.34993200000000,203032,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.59836000000000,GU24 8PQ,2013-08-22,fhrs_3_en-GB,3,,FHRS,10
-258886,70 GUILDFORD ROAD,LIGHTWATER,SURREY,,GEORGE ARTHUR BUTCHERS,Retailers - other,4613,5,,50164,5,,51.35084100000000,11161,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66391600000000,GU18 5SD,2014-03-18,fhrs_5_en-GB,5,,FHRS,5
-258887,GROUND FLOOR,1 THE SQUARE,LIGHTWATER,SURREY,GEORGE'S COFFEE SHOP,Restaurant/Cafe/Canteen,1,20,,83099,5,,51.35046500000000,202393,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66484500000000,GU18 5SS,2013-06-21,fhrs_1_en-GB,1,,FHRS,10
-258888,HOME CATERER,,,,GI JANE.COM,Other catering premises,7841,5,,64213,0,,51.32314000000000,14228,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64078200000000,GU24 9ET,2013-05-23,fhrs_5_en-GB,5,,FHRS,0
-258889,GOLDEN JADE,67 GUILDFORD ROAD,LIGHTWATER,SURREY,GOLDEN JADE,Takeaway/sandwich shop,7844,10,,50146,10,,51.35176300000000,11159,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66589900000000,GU18 5SB,2014-03-06,fhrs_3_en-GB,3,,FHRS,10
-258890,5 HEATHER RIDGE ARCADE,CAMBERLEY,SURREY,,GOLDEN KITCHEN,Takeaway/sandwich shop,7844,0,,628137,0,,51.32972000000000,203718,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70240800000000,GU15 1AX,2014-02-19,fhrs_5_en-GB,5,,FHRS,0
-258891,31 HIGH STREET,CAMBERLEY,SURREY,,GOOD TASTE,Takeaway/sandwich shop,7844,5,,144039,0,,51.33808500000000,8200,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74390600000000,GU15 3RB,2014-03-24,fhrs_5_en-GB,5,,FHRS,5
-258892,GOOD TASTE COFFEE,67 HIGH STREET,CAMBERLEY,SURREY,GOOD TASTE COFFEE,Restaurant/Cafe/Canteen,1,0,,144158,5,,51.33808500000000,8237,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74390600000000,GU15 3RB,2013-07-23,fhrs_5_en-GB,5,,FHRS,5
-258893,GORDON FILLING STATION,87 GUILDFORD ROAD,WEST END,WOKING,GORDON FILLING STATION,Retailers - other,4613,0,,522319,0,,51.33862500000000,200883,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64234800000000,GU24 9HJ,2013-03-15,fhrs_5_en-GB,5,,FHRS,5
-258894,GORDONS SCHOOL,BAGSHOT ROAD,WEST END,WOKING,GORDON'S SCHOOL KITCHEN,Restaurant/Cafe/Canteen,1,10,,568330,5,,51.34358300000000,203371,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64656700000000,GU24 9PT,2013-10-23,fhrs_4_en-GB,4,,FHRS,5
-258895,6-7 ADMIRALTY WAY,CAMBERLEY,SURREY,,GRAVITY FORCE CAFE ONLY,Restaurant/Cafe/Canteen,1,0,,705186,0,,51.32934600000000,203884,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.77206200000000,GU15 3DT,2014-09-26,fhrs_5_en-GB,5,,FHRS,5
-258896,24-26 PRINCESS WAY,CAMBERLEY,SURREY,,GREGGS,Other catering premises,7841,0,,372028,0,,51.33734900000000,202904,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74574900000000,GU15 3SP,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-258897,35A HIGH STREET,CAMBERLEY,SURREY,,H & R  NEWS,Retailers - other,4613,10,,82691,0,,51.33808500000000,200887,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74390600000000,GU15 3RB,2013-03-07,fhrs_4_en-GB,4,,FHRS,0
-258898,7 GOSDEN ROAD,WEST END,WOKING,SURREY,H A BROWN & SON,Retailers - other,4613,,,61739,,,51.33830400000000,13590,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63954400000000,GU24 9LH,2012-11-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-258899,HALFWAY KIOSK EASTWEST WENTWORTH GOLF CLUB,WEST DRIVE,VIRGINIA WATER,SURREY,HALFWAY KIOSK - EAST/WEST,Restaurant/Cafe/Canteen,1,10,,55052,0,,,12417,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,,2013-10-15,fhrs_4_en-GB,4,,FHRS,5
-258900,HALFWAY KIOSK SOUTH WENTWORTH GOLF CLUB,WEST DRIVE,VIRGINIA WATER,SURREY,HALFWAY KIOSK - SOUTH,Restaurant/Cafe/Canteen,1,10,,55047,5,,51.39963600000000,12416,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.58969700000000,GU25 4LS,2013-10-15,fhrs_4_en-GB,4,,FHRS,5
-258901,HALL GROVE,LONDON ROAD,BAGSHOT,SURREY,HALL GROVE SCHOOL,School/college/university,7845,0,,41785,0,,51.37034800000000,10340,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68076000000000,GU19 5HZ,2014-06-16,fhrs_5_en-GB,5,,FHRS,0
-258902,BADGER DRIVE,LIGHTWATER,SURREY,,HAMMOND COMMUNITY JUNIOR SCHOOL,School/college/university,7845,0,,44849,0,,51.35039300000000,10870,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67912100000000,GU18 5TS,2013-02-14,fhrs_5_en-GB,5,,FHRS,0
-258903,UNIT A6,FAIROAKS AIRPORT,CHERTSEY ROAD,CHOBHAM,HANGAR CAFE,Restaurant/Cafe/Canteen,1,10,,83144,5,,51.35015500000000,202518,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.56337200000000,GU24 8HU,2014-08-27,fhrs_2_en-GB,2,,FHRS,15
-258904,KINGS HEAD,GUILDFORD ROAD,FRIMLEY GREEN,CAMBERLEY,HARVESTER KINGS HEAD,Pub/bar/nightclub,7843,0,,41026,0,,51.30017800000000,1020,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72349600000000,GU16 6NR,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-258905,39 LONDON ROAD,BAGSHOT,SURREY,,HARVESTER WINDLE BROOK,Restaurant/Cafe/Canteen,1,0,,83193,0,,51.36058900000000,202666,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69503000000000,GU19 5EG,2013-06-20,fhrs_5_en-GB,5,,FHRS,5
-258906,HATTON HILL,WINDLESHAM,SURREY,,HATTON HILL NURSERY SCHOOL,School/college/university,7845,5,,54705,0,,51.37046500000000,12334,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66335900000000,GU20 6AB,2014-09-05,fhrs_5_en-GB,5,,FHRS,5
-258907,202 GUILDFORD ROAD,BISLEY,WOKING,SURREY,HEATERS,Retailers - other,4613,5,,64289,0,,51.32608600000000,14258,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63890100000000,GU24 9DJ,2013-05-09,fhrs_5_en-GB,5,,FHRS,5
-258908,MARTINDALE AVEUE,CAMBERLEY,SURREY,,HEATHER RIDGE COUNTY INFANT SCHOOL PTA,School/college/university,7845,0,,108612,0,,51.33224100000000,3886,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70596900000000,GU15 1SD,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-258909,MARDINDALE AVENUE COMMUNITY CENTRE,MARTINDALE AVENUE,CAMBERLEY,SURREY,HEATHERSIDE COMMUNITY CENTRE,Other catering premises,7841,0,,83038,0,,51.32810100000000,20223,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70320000000000,GU15 1BB,2013-07-25,fhrs_5_en-GB,5,,FHRS,0
-258910,6 HEATHER RIDGE ARCADE,CAMBERLEY,SURREY,,HEATHERSIDE PHARMACY,Retailers - other,4613,,,106304,,,51.32972000000000,3688,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70240800000000,GU15 1AX,2014-07-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-258911,GUILDFORD ROAD,BISLEY,WOKING,SURREY,HEN AND CHICKEN PUBLIC HOUSE,Pub/bar/nightclub,7843,10,,64400,10,,51.32608600000000,14303,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63890100000000,GU24 9DJ,2014-03-11,fhrs_3_en-GB,3,,FHRS,10
-258912,5 BEAUMARIS PARADE,FRIMLEY,CAMBERLEY,SURREY,HERBIES PIZZA,Takeaway/sandwich shop,7844,10,,499449,5,,51.31249300000000,203188,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72556400000000,GU16 8UR,2014-06-19,fhrs_3_en-GB,3,,FHRS,10
-258913,HERBIES PIZZA,59 HIGH STREET,BAGSHOT,SURREY,HERBIES PIZZA,Takeaway/sandwich shop,7844,20,,41083,5,,51.36200500000000,10209,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69218900000000,GU19 5AH,2015-01-08,fhrs_1_en-GB,1,,FHRS,15
-258914,HIGH CROSS CHURCH,KNOLL ROAD,CAMBERLEY,SURREY,HIGH CROSS CAFE,Restaurant/Cafe/Canteen,1,0,,462611,5,,51.33853900000000,202987,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74346200000000,GU15 3SY,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-258915,HILLSIDE RESOURCE CENTRE,PORTESBERY ROAD,CAMBERLEY,SURREY,HILLSIDE RESOURCE CENTRE,Retailers - other,4613,5,,144681,5,,51.34032100000000,8395,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73276100000000,GU15 3TF,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-258916,2 CHERTSEY ROAD,WINDLESHAM,SURREY,,HILLVIEW NEWS AGENCY,Retailers - other,4613,5,,638692,5,,51.36473600000000,203174,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65387300000000,GU20 6ET,2014-03-14,fhrs_5_en-GB,5,,FHRS,0
-258917,HOLLAND AND BARRATT,2 GRACE REYNOLDS WALK,CAMBERLEY,SURREY,HOLLAND AND BARRETT,Retailers - other,4613,0,,82917,0,,51.33799600000000,201809,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74561600000000,GU15 3SN,2013-01-08,fhrs_5_en-GB,5,,FHRS,0
-258918,ST CATHERINES ROAD,FRIMLEY,CAMBERLEY,SURREY,HOLLY LODGE,Hospitals/Childcare/Caring Premises,5,5,,82621,0,,51.30773600000000,200660,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72058900000000,GU16 9NP,2014-09-03,fhrs_5_en-GB,5,,FHRS,0
-258919,HOLY TRINITY CHURCH OF ENGLAND SCHOOL,42 BENNER LANE,WEST END,WOKING,HOLY TRINITY PRIMARY SCHOOL,School/college/university,7845,5,,61573,0,,51.33956100000000,13533,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63466900000000,GU24 9JQ,2014-09-10,fhrs_5_en-GB,5,,FHRS,5
-258920,15 HIGH STREET,BAGSHOT,SURREY,,HONG KONG 97,Takeaway/sandwich shop,7844,5,,40763,5,,51.36095400000000,10165,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69392800000000,GU19 5AG,2014-03-10,fhrs_5_en-GB,5,,FHRS,5
-258921,206 GUILDFORD ROAD,BISLEY,WOKING,SURREY,HOT ROCK BUTCHERY,Manufacturers/packers,7839,10,,628134,5,,51.32608600000000,203638,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63890100000000,GU24 9DJ,2014-09-02,fhrs_3_en-GB,3,,FHRS,10
-258922,10 DEAN PARADE,CAMBERLEY,SURREY,,HOT WOK,Takeaway/sandwich shop,7844,0,,145830,5,,51.34845100000000,8748,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72621900000000,GU15 4DQ,2013-08-14,fhrs_5_en-GB,5,,FHRS,5
-258923,BRUNSWICK ROAD,DEEPCUT,CAMBERLEY,SURREY,HQ SERGEANTS' MESS,Restaurant/Cafe/Canteen,1,5,,82615,5,,51.30518600000000,200652,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69810800000000,GU16 6RW,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-258924,LANGSHOT EQUESTRIAN CENTRE,GRACIOUS POND ROAD,CHOBHAM,WOKING,HUMPHREY'S DINER,Restaurant/Cafe/Canteen,1,10,,83142,10,,51.36027000000000,202510,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.59136600000000,GU24 8HJ,2014-02-25,fhrs_3_en-GB,3,,FHRS,10
-258925,HOME CATERER,,,,ICANDY CAKES & BAKES,Other catering premises,7841,0,,670101,0,,51.30438300000000,203890,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73316300000000,GU16 6LZ,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-258926,45 HEATHPARK DRIVE,WINDLESHAM,SURREY,,INDIAN CREATIONS LTD,Manufacturers/packers,7839,0,,693178,0,,51.36695100000000,203871,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64709900000000,GU20 6JA,2014-09-16,fhrs_5_en-GB,5,,FHRS,0
-258927,INDO FINE INDIAN DINING,1 BAGSHOT ROAD,"CHOBHAM, WOKING",SURREY,INDO FINE INDIAN DINING,Restaurant/Cafe/Canteen,1,10,,82878,10,,51.34763500000000,201559,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60405900000000,GU24 8BP,2014-10-27,fhrs_2_en-GB,2,,FHRS,15
-258928,12 GUILDFORD ROAD,BAGSHOT,SURREY,,IZ INDIAN TAKEAWAY,Takeaway/sandwich shop,7844,5,,670104,5,,51.36139100000000,203904,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69111500000000,GU19 5JH,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-258929,17 FARM ROAD,FRIMLEY,CAMBERLEY,SURREY,J R WINES,Retailers - other,4613,10,,592089,0,,51.32173800000000,203589,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72978600000000,GU16 8TH,2013-12-18,fhrs_4_en-GB,4,,FHRS,5
-258930,44 LONDON ROAD,BAGSHOT,SURREY,,JACK'S,Restaurant/Cafe/Canteen,1,0,,445908,0,,51.36222800000000,203035,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69280000000000,GU19 5HL,2013-07-17,fhrs_5_en-GB,5,,FHRS,5
-258931,2B LONDON ROAD,BAGSHOT,SURREY,,JAKES CHILDRENS PLAYWORLD,Restaurant/Cafe/Canteen,1,5,,72380,0,,51.36531800000000,16483,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69008300000000,GU19 5HN,2014-09-12,fhrs_5_en-GB,5,,FHRS,5
-258932,HOME CATERER,,,,JANE DAVIES,Other catering premises,7841,0,,83196,0,,51.34982000000000,202675,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60255700000000,GU24 8NA,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-258933,HOME CATERER,,,,JANY DODDS,Other catering premises,7841,0,,331978,0,,51.34464400000000,202816,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67482100000000,GU18 5QW,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-258934,208 FRIMLEY GREEN ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,JARMANS BAKERY LTD,Retailers - other,4613,0,,139584,5,,51.30373700000000,753,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72909200000000,GU16 6LL,2014-04-04,fhrs_5_en-GB,5,,FHRS,0
-258935,VHUJON BILASH LTD T/A JEERA,1A THE SQUARE,BAGSHOT,SURREY,JEERA,Restaurant/Cafe/Canteen,1,20,,693180,15,,51.36173200000000,203986,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69186600000000,GU19 5AX,2014-09-10,fhrs_1_en-GB,1,,FHRS,15
-258936,58 HIGH STREET,CAMBERLEY,SURREY,,JENNY'S RESTAURANT,Restaurant/Cafe/Canteen,1,0,,82943,0,,51.33805700000000,201900,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74463800000000,GU15 3RS,2014-04-09,fhrs_5_en-GB,5,,FHRS,0
-258937,HOME CATERER,,,,JILL RAGG,Other catering premises,7841,5,,187525,0,,51.35616100000000,202550,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.57730200000000,GU24 8HP,2013-03-15,fhrs_4_en-GB,4,,FHRS,10
-258938,116 FRIMLEY ROAD,CAMBERLEY,SURREY,,JOHN HATTO BUTCHERS LTD,Retailers - other,4613,10,,82905,5,,51.32693000000000,201732,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2014-09-15,fhrs_2_en-GB,2,,FHRS,15
-258939,HOME CATERER,,,,JULIE'S CUPCAKES,Other catering premises,7841,0,,650242,0,,51.33889700000000,203776,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64409200000000,GU24 9PJ,2014-04-23,fhrs_5_en-GB,5,,FHRS,0
-258940,NAAFI PRINCESS ROYAL BARRACKS,BRUNSWICK ROAD,DEEPCUT,"CAMBERLEY, SURREY",JUNIOR RANKS' BAR,Pub/bar/nightclub,7843,10,,82616,0,,51.30432700000000,200653,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69928000000000,GU16 6RN,2013-03-21,fhrs_4_en-GB,4,,FHRS,10
-258941,PRINCESS ROYAL BARRACKS,BRUNSWICK ROAD,DEEPCUT,"CAMBERLEY, SURREY",JUNIOR RANKS' MESS KITCHEN,Restaurant/Cafe/Canteen,1,5,,82617,5,,51.30432700000000,200654,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69928000000000,GU16 6RN,2013-06-20,fhrs_5_en-GB,5,,FHRS,5
-258942,HOME CATERER,,,,K. BURRAGE,Other catering premises,7841,5,,83015,0,,51.34865200000000,202159,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65800600000000,GU18 5XP,2013-07-05,fhrs_5_en-GB,5,,FHRS,0
-258943,3 FRIMLEY ROAD,CAMBERLEY,SURREY,,KARAHI KING,Restaurant/Cafe/Canteen,1,5,,486697,0,,51.33519800000000,203168,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75991900000000,GU15 3EN,2013-04-15,fhrs_5_en-GB,5,,FHRS,0
-258944,HOME CATERER,,,,KATHIE BRUM,Other catering premises,7841,0,,83152,0,,51.33769300000000,202538,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.61499900000000,GU24 8DU,2014-10-13,fhrs_5_en-GB,5,,FHRS,0
-258945,28 HIGH STREET,CAMBERLEY,SURREY,,KFC,Restaurant/Cafe/Canteen,1,0,,144011,0,,51.33805700000000,8192,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74463800000000,GU15 3RS,2014-05-28,fhrs_5_en-GB,5,,FHRS,5
-258946,513 LONDON ROAD,CAMBERLEY,SURREY,,KFC,Restaurant/Cafe/Canteen,1,0,,82343,5,,51.33346000000000,200222,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76900900000000,GU15 3JE,2013-10-24,fhrs_5_en-GB,5,,FHRS,0
-258947,HOME CATERER,,,,KIM JONES,Other catering premises,7841,5,,670100,0,,51.33727200000000,203866,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64979600000000,GU24 9QE,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-258948,68 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,SURREY,KIM'S PLAICE,Takeaway/sandwich shop,7844,0,,82834,0,,51.31333000000000,201248,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74562900000000,GU16 7JE,2014-07-11,fhrs_5_en-GB,5,,FHRS,0
-258949,THE QUAYS,COLEFORD BRIDGE ROAD,MYTCHETT,CAMBERLEY,KINGFISHER ON THE QUAY,Pub/bar/nightclub,7843,0,,670102,5,,51.29315500000000,203892,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73595300000000,GU16 6DS,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-258950,113A FRIMLEY ROAD,CAMBERLEY,SURREY,,KINGS FISH AND CHIP SHOP,Takeaway/sandwich shop,7844,5,,570433,0,,51.32752700000000,203381,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75477200000000,GU15 2PP,2013-06-21,fhrs_5_en-GB,5,,FHRS,0
-258951,KINGSCLEAR NURSING HOME,PARK ROAD,CAMBERLEY,SURREY,KINGSCLEAR NURSING HOME,Hospitals/Childcare/Caring Premises,5,0,,131839,0,,51.33223000000000,6344,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74630500000000,GU15 2LN,2014-08-12,fhrs_5_en-GB,5,,FHRS,5
-258952,HOME CATERER,,,,KUPCAKES,Other catering premises,7841,0,,610238,0,,51.31378300000000,18808,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74764000000000,GU16 7HE,2013-11-12,fhrs_5_en-GB,5,,FHRS,0
-258953,THE ATRIUM,PARK STREET,CAMBERLEY,SURREY,LA-DI-DA,Restaurant/Cafe/Canteen,1,5,,449802,5,,51.33653900000000,203049,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74754000000000,,2014-07-08,fhrs_5_en-GB,5,,FHRS,5
-258954,5 DEAN PARADE,CAMBERLEY,SURREY,,LAINFORD BUTCHERS (CAMBERLEY) LTD,Retailers - other,4613,10,,145886,5,,51.34845100000000,8761,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72621900000000,GU15 4DQ,2014-05-20,fhrs_4_en-GB,4,,FHRS,5
-258955,LAKESIDE COUNTRY CLUB,WHARF ROAD,FRIMLEY GREEN,CAMBERLEY,LAKESIDE COUNTRY CLUB,Other catering premises,7841,5,,52246,5,,51.30264300000000,1178,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72032900000000,GU16 6PT,2014-06-25,fhrs_5_en-GB,5,,FHRS,5
-258956,ALPHINGTON AVENUE,FRIMLEY,CAMBERLEY,SURREY,LAKESIDE COUNTY PRIMARY SCHOOL,School/college/university,7845,0,,89053,5,,51.31843500000000,2365,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72872900000000,GU16 8LL,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-258957,LAKESIDE INTERNATIONAL HOTEL,WHARF ROAD,FRIMLEY GREEN,CAMBERLEY,LAKESIDE INTERNATIONAL HOTEL,Hotel/bed & breakfast/guest house,7842,5,,52300,5,,51.30385100000000,1180,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72140000000000,GU16 6JR,2014-12-11,fhrs_4_en-GB,4,,FHRS,10
-258958,LAKESIDE LEISURE CENTRE THE LAKESIDE COMPLEX,WHARF ROAD,FRIMLEY GREEN,CAMBERLEY,LAKESIDE LEISURE CENTRE,Restaurant/Cafe/Canteen,1,,,52338,,,51.30264300000000,1181,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72032900000000,GU16 6PT,2014-03-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-258959,HOME CATERER,,,,LESLIE'S CAKES,Other catering premises,7841,0,,82874,0,,51.34982000000000,201532,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60255700000000,GU24 8NA,2012-05-14,fhrs_5_en-GB,5,,FHRS,0
-258960,25 THE ATRIUM,CHARLES STREET,CAMBERLEY,SURREY,LIDL,Retailers - supermarkets/hypermarkets,7840,0,,82657,0,,51.33793800000000,200796,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74949400000000,GU15 3GH,2012-06-27,fhrs_5_en-GB,5,,FHRS,0
-258961,74 GUILDFORD ROAD,LIGHTWATER,SURREY,,LIGHTWATER CLUB,Retailers - other,4613,0,,50170,0,,51.35084100000000,11164,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66391600000000,GU18 5SD,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-258962,63-65 MACDONALD ROAD,LIGHTWATER,SURREY,,LIGHTWATER MAJOR MINORS NURSERY (CARING DAYCARE LTD),Restaurant/Cafe/Canteen,1,5,,709525,0,,51.35013600000000,204039,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67464900000000,GU18 5XY,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-258963,54 GUILDFORD ROAD,LIGHTWATER,SURREY,,LIGHTWATER NEWSAGENTS,Retailers - other,4613,,,50110,,,51.35084100000000,11146,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66391600000000,GU18 5SD,2013-03-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-258964,LIGHTWATER LEISURE CENTRE LIGHTWATER COUNTRY PARK,THE AVENUE,LIGHTWATER,,LIGHTWATER PRE-SCHOOL,Other catering premises,7841,5,,83085,0,,51.35143900000000,202341,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67856000000000,GU18 5RG,2014-04-23,fhrs_5_en-GB,5,,FHRS,0
-258965,LIGHTWATER FILLING STATION,66 GUILDFORD ROAD,LIGHTWATER,SURREY,LIGHTWATER SF CONNECT,Retailers - other,4613,0,,50145,0,,51.35084100000000,11158,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66391600000000,GU18 5SD,2013-02-14,fhrs_5_en-GB,5,,FHRS,0
-258966,LIGHTWATER TANDOORI,237 GUILDFORD ROAD,LIGHTWATER,SURREY,LIGHTWATER TANDOORI,Takeaway/sandwich shop,7844,20,,50038,10,,51.35363300000000,11124,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67612700000000,GU18 5RJ,2014-08-07,fhrs_1_en-GB,1,,FHRS,10
-258967,CATENA RISE,LIGHTWATER,SURREY,,LIGHTWATER VILLAGE SCHOOL,School/college/university,7845,0,,45025,0,,51.35289000000000,10917,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67324800000000,GU18 5RD,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-258968,1 DEAN PARADE,CAMBERLEY,SURREY,,LINOLA'S CAFE LIMITED,Other catering premises,7841,5,,589499,0,,51.34845100000000,203523,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72621900000000,GU15 4DQ,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-258969,WINDLESHAM,SURREY,,,LIQUOR WORLD,Retailers - other,4613,,,82609,,,51.36545562744141,200636,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65547478199005,GU20 6DX,2012-06-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-258970,COMMUNITY CENTRE,WHITMOOR ROAD,BAGSHOT,SURREY,LITTLE ECHOES DAY NURSERY,Other catering premises,7841,0,,357082,0,,51.35619000000000,202884,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68441200000000,GU19 5QE,2013-11-11,fhrs_5_en-GB,5,,FHRS,5
-258971,STATION HOUSE,STATION APPROACH,FRIMLEY,CAMBERLEY,LITTLE STREET LTD,Other catering premises,7841,0,,670096,0,,51.31185200000000,203581,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74697500000000,GU16 7QH,2014-06-09,fhrs_5_en-GB,5,,FHRS,0
-258972,HOME CATERER,,,,LITTLUNS DAY CARE,Other catering premises,7841,0,,82995,0,,51.33333200000000,202073,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75606500000000,GU15 3ND,2013-03-22,fhrs_5_en-GB,5,,FHRS,0
-258973,36 HIGH STREET,BAGSHOT,SURREY,,LLOYDS CHEMIST,Retailers - other,4613,,,40938,,,51.36120500000000,10190,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69303000000000,GU19 5AZ,2014-03-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-258974,54-56 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,SURREY,LLOYDS PHARMACY LIMITED,Retailers - other,4613,,,82814,,,51.31386000000000,201121,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74469600000000,GU16 7JF,2015-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-258975,LONGACRES NURSERY,LONDON ROAD,BAGSHOT,,LONGACRES FARMERS MARKET,Mobile caterer,7846,0,,82611,0,,51.37210400000000,200648,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68422900000000,GU19 5JB,2013-08-14,fhrs_5_en-GB,5,,FHRS,0
-258976,C/O LONGACRES NURSERY,LONDON ROAD,BAGSHOT,SURREY,LORASO SOFT ICE CREAM,Other catering premises,7841,0,,41804,0,,51.37210400000000,10343,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68422900000000,GU19 5JB,2013-10-22,fhrs_5_en-GB,5,,FHRS,0
-258977,LORRAINE COUNTY INFANT SCHOOL,HIGHLAND ROAD,CAMBERLEY,SURREY,LORRAINE COUNTY INFANT SCHOOL,School/college/university,7845,0,,146371,0,,51.34710200000000,8908,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73198500000000,GU15 4EX,2013-03-19,fhrs_4_en-GB,4,,FHRS,10
-258978,HOME CATERER,,,,LOU-LU CAKES,Other catering premises,7841,0,,200229,0,,51.32355100000000,202766,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72865900000000,GU16 8SN,2012-03-09,fhrs_5_en-GB,5,,FHRS,0
-258979,STREET RECORD,CAMBRIDGE WALK,CAMBERLEY,,LOVE COFFEE,Restaurant/Cafe/Canteen,1,0,,83122,0,,,202464,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,,2014-06-09,fhrs_5_en-GB,5,,FHRS,0
-258980,HOME CATERER,,,,LUCKEYS CAKES,Other catering premises,7841,0,,83018,0,,51.30310400000000,202184,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72378700000000,GU16 6PS,2013-07-22,fhrs_5_en-GB,5,,FHRS,0
-258981,149 LONDON ROAD,BAGSHOT,SURREY,,M & D SUPERSTORE,Retailers - other,4613,5,,83207,5,,51.35600300000000,202713,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69992800000000,GU19 5DH,2012-02-15,fhrs_5_en-GB,5,,FHRS,5
-258982,FRIMLEY HALL DRIVE,CAMBERLEY,SURREY,,MACDONALD FRIMLEY HALL HOTEL,Hotel/bed & breakfast/guest house,7842,5,,83034,5,,51.33918600000000,20222,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72509700000000,GU15 2BG,2013-07-24,fhrs_5_en-GB,5,,FHRS,5
-258983,HOME CATERER,,,,MADHATTER CAKES,Other catering premises,7841,5,,449796,0,,51.31784500000000,203001,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75667000000000,GU15 2SJ,2012-09-13,fhrs_5_en-GB,5,,FHRS,0
-258984,UNIT L01,THE ATRIUM,CHARLES STREET,CAMBERLEY,MAGIC CASTLE,Restaurant/Cafe/Canteen,1,5,,83183,5,,51.33731100000000,202627,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74887900000000,GU15 3GP,2014-12-16,fhrs_5_en-GB,5,,FHRS,0
-258985,84 PARK STREET,CAMBERLEY,SURREY,,MAJESTIC WINE WAREHOUSE,Retailers - other,4613,,,141884,,,51.33549800000000,7837,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74752200000000,GU15 3NY,2013-02-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-258986,HOME CATERER,,,,MAKALINI'S,Other catering premises,7841,5,,579792,5,,51.34180900000000,203387,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74235400000000,GU15 4HS,2013-08-22,fhrs_5_en-GB,5,,FHRS,0
-258987,6 BONDS DRIVE,PENNYPOT LANE,CHOBHAM,WOKING,MANDERS CATERING,Mobile caterer,7846,5,,595174,0,,51.34109600000000,203613,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.61908900000000,GU24 8DJ,2013-10-30,fhrs_5_en-GB,5,,FHRS,0
-258988,MANZIL RESTAURANT,142 FRIMLEY ROAD,CAMBERLEY,SURREY,MANZIL RESTAURANT,Restaurant/Cafe/Canteen,1,10,,138510,5,,51.32693000000000,7381,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2014-02-25,fhrs_4_en-GB,4,,FHRS,5
-258989,HOME CATERER,,,,MARIETTA OSBOURN,Other catering premises,7841,0,,83151,0,,51.35930200000000,202537,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60664900000000,GU24 8RA,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-258990,MARTINS,38 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,MARTINS,Retailers - other,4613,0,,79882,0,,51.31386000000000,1927,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74469600000000,GU16 7JF,2013-09-03,fhrs_5_en-GB,5,,FHRS,5
-258991,POST OFFICE - MARTINS NEWSAGENTS,8 HEATHER RIDGE ARCADE,CAMBERLEY,SURREY,MARTINS NEWSAGENTS,Retailers - other,4613,5,,76343,5,,51.32972000000000,17981,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70240800000000,GU15 1AX,2014-02-04,fhrs_4_en-GB,4,,FHRS,10
-258992,5 PARK STREET,CAMBERLEY,SURREY,,MCCHINA WOK AWAY,Restaurant/Cafe/Canteen,1,5,,568331,5,,51.33844400000000,203391,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74805900000000,GU15 3PQ,2015-01-19,fhrs_5_en-GB,5,,FHRS,5
-258993,43-45 HIGH STREET,CAMBERLEY,,,MCDONALDS,Restaurant/Cafe/Canteen,1,0,,83087,5,,51.33808500000000,202345,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74390600000000,GU15 3RB,2014-07-30,fhrs_5_en-GB,5,,FHRS,5
-258994,MCDONALDS RESTURANTS LTD,489 LONDON ROAD,CAMBERLEY,SURREY,MCDONALDS TAKE-AWAY,Takeaway/sandwich shop,7844,0,,134186,0,,51.33467900000000,6741,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76523000000000,GU15 3JA,2014-08-05,fhrs_5_en-GB,5,,FHRS,0
-258995,MEADOWCROFT GUESTHOUSE,41 FRIMLEY ROAD,CAMBERLEY,SURREY,MEADOWCROFT GUESTHOUSE,Hotel/bed & breakfast/guest house,7842,0,,139157,0,,51.33302100000000,7464,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75811100000000,GU15 3EL,2012-07-30,fhrs_5_en-GB,5,,FHRS,0
-258996,SURREY HEATH HOUSE,KNOLL ROAD,CAMBERLEY,SURREY,MEALS-ON-WHEELS,Mobile caterer,7846,0,,200228,0,,51.33948000000000,202770,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74317800000000,GU15 3HD,2014-08-19,fhrs_5_en-GB,5,,FHRS,0
-258997,HOME CATERER,,,,MEHNGA PRODUCTS LTD,Other catering premises,7841,5,,74102,0,,51.31593300000000,1702,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73184000000000,GU16 8JZ,2013-09-23,fhrs_5_en-GB,5,,FHRS,0
-258998,14-22 HIGH STREET,CHOBHAM,WOKING,,MEI ASIAN RESTAURANT,Restaurant/Cafe/Canteen,1,5,,83149,0,,51.34653000000000,202530,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60346100000000,GU24 8AA,2013-10-16,fhrs_5_en-GB,5,,FHRS,0
-258999,56 GUILDFORD ROAD,LIGHTWATER,SURREY,,MEI'S KITCHEN,Takeaway/sandwich shop,7844,5,,82763,5,,51.35084100000000,201049,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66391600000000,GU18 5SD,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-259000,MERLIN NARROW BOAT,CANAL CENTRE,MYTCHETT PLACE ROAD,"MYTCHETT, SURREY",MERLIN NARROW BOAT,Restaurant/Cafe/Canteen,1,5,,82321,0,,51.28682000000000,200116,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72062500000000,GU16 6DD,2012-02-22,fhrs_5_en-GB,5,,FHRS,0
-259001,190 MYTCHETT ROAD,MYTCHETT,CAMBERLEY,SURREY,MEXICALI,Mobile caterer,7846,0,,568328,0,,51.28487300000000,203363,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72598500000000,GU16 6AE,2013-07-10,fhrs_5_en-GB,5,,FHRS,0
-259002,GOPAUL LIMITED,128 FRIMLEY ROAD,CAMBERLEY,SURREY,MILANO PIZZA,Takeaway/sandwich shop,7844,10,,468306,5,,51.32693000000000,203132,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2014-06-11,fhrs_3_en-GB,3,,FHRS,10
-259003,MINGLEY,1A FRIMLEY ROAD,CAMBERLEY,SURREY,MINGLEY,Takeaway/sandwich shop,7844,5,,82836,5,,51.33519800000000,201252,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75991900000000,GU15 3EN,2013-07-10,fhrs_4_en-GB,4,,FHRS,10
-259004,830 LONDON ROAD,WINDLESHAM,SURREY,,MINGS WINDLESHAM,Restaurant/Cafe/Canteen,1,20,,83164,10,,51.37542700000000,202569,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67347300000000,GU20 6PG,2014-09-16,fhrs_1_en-GB,1,,FHRS,10
-259005,13 LONDON ROAD,BAGSHOT,SURREY,,MOGUL,Restaurant/Cafe/Canteen,1,0,,41441,0,,51.36237500000000,10272,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69393100000000,GU19 5HJ,2013-03-01,fhrs_5_en-GB,5,,FHRS,0
-259006,MACDONALD ROAD,LIGHTWATER,SURREY,,MOORLANDS NURSING HOME,Hospitals/Childcare/Caring Premises,5,0,,51777,0,,51.34242300000000,11626,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68362900000000,GU18 5US,2014-08-26,fhrs_5_en-GB,5,,FHRS,5
-259007,2 WHARF ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,MORRISON SUPERMARKET PLC,Retailers - supermarkets/hypermarkets,7840,0,,610239,0,,51.30251600000000,203543,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72678700000000,GU16 6LE,2013-11-05,fhrs_5_en-GB,5,,FHRS,0
-259008,138 FRIMLEY ROAD,CAMBERLEY,SURREY,,MR COD,Distributors/Transporters,7,5,,582903,5,,51.32693000000000,203464,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2014-01-15,fhrs_5_en-GB,5,,FHRS,5
-259009,MR LAU'S,9 HEATHER RIDGE ARCADE,CAMBERLEY,SURREY,MR LAU'S,Takeaway/sandwich shop,7844,20,,106329,5,,51.32972000000000,3690,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70240800000000,GU15 1AX,2013-10-08,fhrs_1_en-GB,1,,FHRS,10
-259010,HOME CATERER,,,,MR ROGER FLORIO,Other catering premises,7841,0,,709526,0,,51.35051200000000,204077,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.57713200000000,GU24 8HR,2014-09-30,fhrs_5_en-GB,5,,FHRS,0
-259011,PETROL FILLING STATION SOUTH,LONDON ROAD,WINDLESHAM,SURREY,MRH WINDLESHAM SOUTH,Retailers - other,4613,0,,349074,0,,51.37774100000000,202809,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66902400000000,GU20 6PJ,2012-03-23,fhrs_5_en-GB,5,,FHRS,5
-259012,14 WICKHAM ROAD,CAMBERLEY,SURREY,,MRS CHRISTINE LOVEDAY,Other catering premises,7841,5,,149080,5,,51.34614000000000,9501,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73198300000000,GU15 4EU,2014-02-27,fhrs_5_en-GB,5,,FHRS,0
-259013,HOME CATERER,,,,MRS G BRAND,Other catering premises,7841,0,,83116,0,,51.28691700000000,202445,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72455200000000,GU16 6DG,2014-06-27,fhrs_5_en-GB,5,,FHRS,0
-259014,77 MYTCHETT ROAD,MYTCHETT,CAMBERLEY,SURREY,MYTCHETT NEWSAGENTS,Retailers - other,4613,5,,129033,0,,51.29051600000000,594,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72558500000000,GU16 6ES,2012-10-29,fhrs_5_en-GB,5,,FHRS,5
-259015,HAMESMOOR ROAD,MYTCHETT,CAMBERLEY,SURREY,MYTCHETT PRIMARY SCHOOL,School/college/university,7845,0,,83910,0,,51.29462300000000,207,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72951600000000,GU16 6JB,2015-01-09,fhrs_5_en-GB,5,,FHRS,0
-259016,150 MYTCHETT ROAD,MYTCHETT,CAMBERLEY,SURREY,MYTCHETT SF CONNECT,Retailers - other,4613,0,,120029,5,,51.28487300000000,491,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72598500000000,GU16 6AE,2014-04-30,fhrs_5_en-GB,5,,FHRS,5
-259017,NANDOS,5 THE ATRIUM,PARK STREET,"CAMBERLEY, SURREY",NANDO'S CHICKENLAND LTD,Restaurant/Cafe/Canteen,1,0,,82816,0,,51.33731100000000,201133,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74887900000000,GU15 3GP,2014-10-28,fhrs_5_en-GB,5,,FHRS,5
-259018,8 GUILDFORD ROAD,BAGSHOT,SURREY,,NEW CENTURY,Takeaway/sandwich shop,7844,10,,349077,5,,51.36139100000000,202872,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69111500000000,GU19 5JH,2014-07-15,fhrs_4_en-GB,4,,FHRS,5
-259019,26 HIGH STREET,BAGSHOT,SURREY,,NEW CHINA,Takeaway/sandwich shop,7844,5,,40850,5,,51.36078800000000,10179,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69354500000000,GU19 5AA,2014-06-18,fhrs_4_en-GB,4,,FHRS,10
-259020,413 LONDON ROAD,CAMBERLEY,,,NEW DIWAN-EE-KHAS,Restaurant/Cafe/Canteen,1,20,,83104,5,,51.33505100000000,202409,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76385600000000,GU15 3HZ,2013-07-09,fhrs_1_en-GB,1,,FHRS,10
-259021,NEW LOOK,8A THE SQUARE,CAMBERLEY,SURREY,NEW LOOK,Retailers - other,4613,,,142706,,,51.33810100000000,7968,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74623100000000,GU15 3SL,2014-04-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-259022,30 CHERTSEY ROAD,CHOBHAM,WOKING,SURREY,NIRJALA LTD,Retailers - other,4613,10,,650245,5,,51.34993200000000,203790,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.59836000000000,GU24 8PQ,2014-04-11,fhrs_4_en-GB,4,,FHRS,5
-259023,14-15 DEAN PARADE,CAMBERLEY,SURREY,,NONNA`S PIZZA,Takeaway/sandwich shop,7844,20,,82914,10,,51.34845100000000,201780,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72621900000000,GU15 4DQ,2015-01-20,fhrs_1_en-GB,1,,FHRS,15
-259024,9 GOSDEN ROAD,WEST END,WOKING,SURREY,NORMANDY BUTCHERS,Retailers - other,4613,5,,61751,0,,51.33830400000000,13591,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63954400000000,GU24 9LH,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-259025,1 WATCHMOOR PARK,WATCHMOOR ROAD,CAMBERLEY,SURREY,NOVARTIS,Restaurant/Cafe/Canteen,1,5,,428419,0,,51.32953500000000,202824,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75926800000000,GU15 3AQ,2014-07-01,fhrs_5_en-GB,5,,FHRS,5
-259026,200 FRIMLEY BUSINESS PARK,FRIMLEY,CAMBERLEY,SURREY,NOVARTIS PHARMACEUTICALS UK LTD,Restaurant/Cafe/Canteen,1,0,,82930,0,,51.31376000000000,201862,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75470000000000,GU16 7SR,2013-08-16,fhrs_5_en-GB,5,,FHRS,5
-259027,1 THE GREEN,FRIMLEY GREEN,CAMBERLEY,SURREY,NURSERY ON THE GREEN,Restaurant/Cafe/Canteen,1,0,,82656,5,,51.30204300000000,200793,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72879400000000,GU16 6HF,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-259028,BRUNSWICK ROAD,DEEPCUT,CAMBERLEY,SURREY,OFFICERS' MESS HQ - ISS DEFENCE,Restaurant/Cafe/Canteen,1,5,,82619,5,,51.30432700000000,200656,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69928000000000,GU16 6RN,2013-06-20,fhrs_5_en-GB,5,,FHRS,5
-259029,BRUNSWICK ROAD,DEEPCUT,CAMBERLEY,SURREY,OFFICERS' MESS PRB ISS DEFENCE,Restaurant/Cafe/Canteen,1,0,,82620,0,,51.30432700000000,200657,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69928000000000,GU16 6RN,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-259030,BOWLING CLUB,OLD DEAN RECREATION GROUND,WIMBLEDON ROAD,CAMBERLEY,OLD DEAN BOWLING CLUB,Restaurant/Cafe/Canteen,1,10,,149275,0,,51.35080800000000,9567,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72387000000000,GU15 4AY,2013-04-23,fhrs_4_en-GB,4,,FHRS,5
-259031,125 LONDON ROAD,BAGSHOT,SURREY,,OLD THAI HOUSE,Restaurant/Cafe/Canteen,1,10,,715866,5,,51.35600300000000,10267,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69992800000000,GU19 5DH,2013-10-29,fhrs_4_en-GB,4,,FHRS,5
-259032,44  FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,SURREY,OLIVERS,Restaurant/Cafe/Canteen,1,0,,80126,0,,51.31386000000000,1936,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74469600000000,GU16 7JF,2013-04-11,fhrs_4_en-GB,4,,FHRS,10
-259033,3 ANSELL ROAD,FRIMLEY,CAMBERLEY,SURREY,ONE STOP,Retailers - other,4613,0,,63939,0,,51.31431200000000,1413,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73654800000000,GU16 8BS,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-259034,9-10 THE GREEN,FRIMLEY GREEN,CAMBERLEY,SURREY,ONE STOP,Retailers - other,4613,0,,78073,0,,51.30204300000000,18492,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72879400000000,GU16 6HF,2013-09-03,fhrs_5_en-GB,5,,FHRS,5
-259035,HOME CATERER,,,,OUR SWEET THINGS,Other catering premises,7841,0,,479347,0,,51.32944900000000,203106,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72442000000000,GU15 1JG,2012-10-31,fhrs_5_en-GB,5,,FHRS,0
-259036,OXFAM SHOP,41A FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY SURREY GU16 7HJ,OXFAM SHOP,Retailers - other,4613,,,468296,,,,1931,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,,2012-12-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-259037,81 GUILDFORD ROAD,LIGHTWATER,,,OYSTERS FISH & CHIP SHOP,Takeaway/sandwich shop,7844,5,,83032,0,,51.35176300000000,202218,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66589900000000,GU18 5SB,2014-03-10,fhrs_5_en-GB,5,,FHRS,5
-259038,HOME CATERER,,,,PAMELA HYNDS,Other catering premises,7841,5,,75755,0,,51.31650100000000,1775,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73525400000000,GU16 7JY,2014-02-14,fhrs_5_en-GB,5,,FHRS,0
-259039,64 GUILDFORD ROAD,LIGHTWATER,SURREY,,PAPA JOHNS PIZZA,Takeaway/sandwich shop,7844,0,,82768,5,,51.35084100000000,201064,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66391600000000,GU18 5SD,2013-04-17,fhrs_4_en-GB,4,,FHRS,10
-259040,13-17 HIGH STREET,CHOBHAM,WOKING,SURREY,PASHA,Restaurant/Cafe/Canteen,1,5,,59052,5,,51.34582500000000,13045,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60391300000000,GU24 8AD,2014-02-14,fhrs_5_en-GB,5,,FHRS,5
-259041,HOME CATERER,,,,PATISSERIE BY HILARY,Other catering premises,7841,0,,82928,0,,51.32903900000000,201859,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63302900000000,GU24 9SE,2012-11-16,fhrs_5_en-GB,5,,FHRS,0
-259042,6 BONDS DRIVE,PENNYPOT LANE,CHOBHAM,WOKING,PEAKS CATERING,Mobile caterer,7846,5,,83016,0,,51.34109600000000,202160,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.61908900000000,GU24 8DJ,2013-03-25,fhrs_5_en-GB,5,,FHRS,0
-259043,LONDON ROAD,BAGSHOT,SURREY,,PENNYHILL PARK HOTEL,Hotel/bed & breakfast/guest house,7842,5,,41818,5,,51.35666300000000,10347,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70920200000000,GU19 5EU,2015-01-14,fhrs_5_en-GB,5,,FHRS,5
-259044,PENNYPOT LANE,CHOBHAM,WOKING,SURREY,PENNYPOT NURSERY SCHOOL,School/college/university,7845,0,,60596,0,,51.34559700000000,13234,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.61724500000000,GU24 8DH,2013-08-13,fhrs_5_en-GB,5,,FHRS,0
-259045,HOME CATERER,,,,PHILIPPA PINKERTON,Other catering premises,7841,0,,719280,0,,51.35591700000000,204064,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.55660000000000,GU24 8JF,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-259046,ESHER ROAD,CAMBERLEY,SURREY,,PINE RIDGE COUNTY INFANT SCHOOL,School/college/university,7845,0,,146163,0,,51.35243100000000,8846,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71681700000000,GU15 4AL,2013-02-27,fhrs_5_en-GB,5,,FHRS,5
-259047,PINE RIDGE GOLF CENTRE,OLD BISLEY ROAD,FRIMLEY,CAMBERLEY,PINE RIDGE GOLF CENTRE,Restaurant/Cafe/Canteen,1,10,,82994,10,,51.32110900000000,20207,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70029800000000,GU16 9NX,2013-07-18,fhrs_3_en-GB,3,,FHRS,10
-259048,FRIMLEY PARK HOSPITAL (PINE TREES RESTAURANT),PORTSMOUTH ROAD,FRIMLEY,"CAMBERLEY, SURREY",PINE TREES RESTAURANT,Restaurant/Cafe/Canteen,1,0,,101783,0,,51.31968000000000,3345,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74156700000000,GU16 7UJ,2013-12-17,fhrs_5_en-GB,5,,FHRS,5
-259049,141 PARK ROAD,CAMBERLEY,SURREY,,PINEHURST RESOURCE CENTRE,Hospitals/Childcare/Caring Premises,5,5,,131556,0,,51.33317000000000,6308,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74593500000000,GU15 2LL,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-259050,SHARN PANESAR LTD,FRIMLEY LODGE PARK,STURT ROAD,"FRIMLEY GREEN, SURREY",PISTACHIOS IN THE PARK,Restaurant/Cafe/Canteen,1,0,,481400,0,,51.29930700000000,203158,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72856900000000,GU16 6HY,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-259051,PIZZA EXPRESS,52 PARK STREET,CAMBERLEY,SURREY,PIZZA EXPRESS,Restaurant/Cafe/Canteen,1,5,,141581,5,,51.33678100000000,7809,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74809000000000,GU15 3PT,2013-10-23,fhrs_5_en-GB,5,,FHRS,5
-259052,339A LONDON ROAD,CAMBERLEY,SURREY,,PIZZA GO GO,Takeaway/sandwich shop,7844,5,,428421,5,,51.33608000000000,202986,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75998100000000,GU15 3HQ,2014-03-24,fhrs_5_en-GB,5,,FHRS,5
-259053,PIZZA HUT,136 FRIMLEY ROAD,CAMBERLEY,SURREY,PIZZA HUT,Takeaway/sandwich shop,7844,0,,138441,0,,51.32693000000000,7374,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2013-04-11,fhrs_5_en-GB,5,,FHRS,5
-259054,25 HIGH STREET,CAMBERLEY,SURREY,,POPPINS RESTAURANT,Restaurant/Cafe/Canteen,1,0,,468302,0,,51.33808500000000,203115,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74390600000000,GU15 3RB,2014-06-24,fhrs_5_en-GB,5,,FHRS,0
-259055,57 DEEPCUT BRIDGE ROAD,DEEPCUT,CAMBERLEY,,POPS PIZZA,Takeaway/sandwich shop,7844,5,,331980,5,,51.30738900000000,202820,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70537700000000,GU16 6QT,2013-07-10,fhrs_5_en-GB,5,,FHRS,5
-259056,PORTESBERY SCHOOL,PORTESBERY ROAD,CAMBERLEY,SURREY,PORTESBERY SCHOOL,School/college/university,7845,5,,144712,0,,51.33896200000000,8401,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74016300000000,GU15 3SZ,2014-01-20,fhrs_5_en-GB,5,,FHRS,5
-259057,PORTSMOUTH ROAD,FRIMLEY,CAMBERLEY,SURREY,POSTGRADUATE EDUCATION CENTRE,Restaurant/Cafe/Canteen,1,10,,126088,0,,51.30399400000000,5491,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71418300000000,GU16 5UH,2014-03-14,fhrs_4_en-GB,4,,FHRS,5
-259058,MYTCHETT PLACE ROAD,MYTCHETT,CAMBERLEY,SURREY,POTTERS STEAKHOUSE,Restaurant/Cafe/Canteen,1,0,,103221,0,,51.28682000000000,346,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72062500000000,GU16 6DD,2014-06-11,fhrs_5_en-GB,5,,FHRS,5
-259059,2-4 CAMBRIDGE WALK,CAMBERLEY,SURREY,,POUNDLAND LTD,Retailers - other,4613,0,,628133,0,,51.33767200000000,202247,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74650100000000,GU15 3SW,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-259060,HOME CATERER,,,,PREETI YUMMY CAKES,Other catering premises,7841,0,,468300,0,,51.32102700000000,203072,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75655500000000,GU15 2SF,2012-11-08,fhrs_5_en-GB,5,,FHRS,5
-259061,10 PARK STREET,CAMBERLEY,SURREY,,PREMIER INN,Hotel/bed & breakfast/guest house,7842,10,,724434,10,,51.33811600000000,202761,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74848400000000,GU15 3PL,2015-01-12,fhrs_3_en-GB,3,,FHRS,5
-259062,11 THE ATRIUM,PARK STREET,CAMBERLEY,SURREY,PREZZO,Restaurant/Cafe/Canteen,1,0,,82623,5,,51.33731100000000,200679,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74887900000000,GU15 3GP,2013-11-13,fhrs_5_en-GB,5,,FHRS,5
-259063,PRINCESS CHRISTIAN HOME,STAFFORD LAKE,BISLEY,WOKING,PRINCESS CHRISTIAN CARE CENTRE,Hospitals/Childcare/Caring Premises,5,5,,83130,0,,51.31557700000000,202498,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63688700000000,GU21 2SJ,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-259064,51 HIGH STREET,BAGSHOT,SURREY,,PRINCESS COTTAGE,Restaurant/Cafe/Canteen,1,10,,545809,5,,51.36200500000000,203320,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69218900000000,GU19 5AH,2014-02-19,fhrs_4_en-GB,4,,FHRS,5
-259065,PRIOR ROAD,CAMBERLEY,SURREY,,PRIOR HEATH INFANT SCHOOL,School/college/university,7845,0,,74629,0,,51.33272400000000,17246,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71881700000000,GU15 1DA,2014-07-16,fhrs_5_en-GB,5,,FHRS,5
-259066,14 LYNWOOD DRIVE,MYTCHETT,CAMBERLEY,SURREY,PURE BEAN CAFE LTD,Mobile caterer,7846,0,,660544,0,,51.28984500000000,203732,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72256300000000,GU16 6BY,2014-04-25,fhrs_5_en-GB,5,,FHRS,0
-259067,LONGACRES NURSERY,LONDON ROAD,BAGSHOT,SURREY,R A BEVAN & CO LTD,Retailers - other,4613,5,,200230,5,,51.37210400000000,202768,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68422900000000,GU19 5JB,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-259068,78 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,SURREY,RAILWAY ARMS,Pub/bar/nightclub,7843,0,,83059,0,,51.31333000000000,202291,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74562900000000,GU16 7JE,2014-03-28,fhrs_5_en-GB,5,,FHRS,5
-259069,57D MYTCHETT ROAD,MYTCHETT,CAMBERLEY,SURREY,RAJPUR TANDOORI RESTAURANT,Restaurant/Cafe/Canteen,1,20,,127629,15,,51.29425400000000,571,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72618400000000,GU16 6EG,2014-07-16,fhrs_1_en-GB,1,,FHRS,5
-259070,4 BEAUMARIS PARADE,BALMORAL DRIVE,FRIMLEY,"CAMBERLEY, SURREY",RAM DISPENSING CHEMIST,Retailers - other,4613,,,65392,,,51.31249300000000,1469,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72556400000000,GU16 8UR,2013-03-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-259071,58 UPDOWN HILL,WINDLESHAM,SURREY,,RASHOI INDIAN CUISINE,Restaurant/Cafe/Canteen,1,10,,53989,10,,51.36545600000000,12161,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65547500000000,GU20 6DX,2014-07-17,fhrs_3_en-GB,3,,FHRS,10
-259072,OLD BISLEY ROAD,FRIMLEY,CAMBERLEY,SURREY,RAVENSCOTE COMMUNITY JUNIOR  SCHOOL,School/college/university,7845,0,,109204,0,,51.32337000000000,3935,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71701100000000,GU16 9RE,2014-06-18,fhrs_5_en-GB,5,,FHRS,5
-259073,ME VENTURES 3000 LTD,T/A THE REAL CORNISH CAMBERLEY LTD,14 PRINCESS WAY,CAMBERLEY,REAL CORNISH CAMBERLEY LTD,Restaurant/Cafe/Canteen,1,5,,650247,5,,,203801,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,GU14 3SP,2015-01-16,fhrs_5_en-GB,5,,FHRS,5
-259074,13 HIGH STREET,BAGSHOT,SURREY,,RED DOT PANTRY,Restaurant/Cafe/Canteen,1,0,,710418,0,,51.36095400000000,204004,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69392800000000,GU19 5AG,2014-10-30,fhrs_5_en-GB,5,,FHRS,5
-259075,FRIMLEY ROAD,CAMBERLEY,SURREY,,REDWOOD CAMPUS,School/college/university,7845,0,,139569,0,,51.32302300000000,7527,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75317200000000,GU15 2QB,2014-10-02,fhrs_5_en-GB,5,,FHRS,0
-259076,SENTRUM,STANHOPE ROAD,CAMBERLEY,,RESTAURANT ASSOCIATES,Restaurant/Cafe/Canteen,1,0,,83108,5,,51.33338100000000,202419,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76578100000000,GU15 3BW,2013-05-24,fhrs_5_en-GB,5,,FHRS,0
-259077,156 FRIMLEY ROAD,CAMBERLEY,SURREY,,ROC UK LTD,Retailers - other,4613,0,,670097,0,,51.32427200000000,203842,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75477400000000,GU15 2QL,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-259078,PETROL FILLING STATION NORTH,LONDON ROAD,WINDLESHAM,SURREY,RON & COMPANY,Retailers - other,4613,5,,349076,0,,51.37774100000000,202866,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66902400000000,GU20 6PJ,2012-02-29,fhrs_5_en-GB,5,,FHRS,5
-259079,411 LONDON ROAD,CAMBERLEY,,,ROOSTERS PIRI PIRI,Takeaway/sandwich shop,7844,10,,83090,10,,51.33505100000000,202354,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76385600000000,GU15 3HZ,2014-01-22,fhrs_3_en-GB,3,,FHRS,5
-259080,3 GOSDEN ROAD,WEST END,WOKING,SURREY,ROWLANDS PHARMACY,Retailers - other,4613,,,61725,,,51.33830400000000,13588,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63954400000000,GU24 9LH,2014-01-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-259081,115 FRIMLEY ROAD,CAMBERLEY,SURREY,,ROYAL STANDARD PH,Pub/bar/nightclub,7843,5,,77027,5,,51.32752700000000,18011,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75477200000000,GU15 2PP,2014-02-18,fhrs_4_en-GB,4,,FHRS,10
-259082,CHOBHAM SERVICE STATION,STATION ROAD,CHOBHAM,WOKING,RSS CHOBHAM,Retailers - other,4613,0,,589501,0,,51.34550900000000,203563,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60301800000000,GU24 8AJ,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-259083,SAINSBURY,6 CAMBRIDGE WALK,CAMBERLEY,SURREY,SAINSBURY,Retailers - supermarkets/hypermarkets,7840,0,,143665,5,,51.33767200000000,8122,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74650100000000,GU15 3SW,2013-09-10,fhrs_5_en-GB,5,,FHRS,5
-259084,199 GUILDFORD ROAD,BISLEY,WOKING,SURREY,SAINSBURY'S,Retailers - supermarkets/hypermarkets,7840,0,,701097,0,,51.32642900000000,16728,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63825900000000,GU24 9DL,2014-09-17,fhrs_5_en-GB,5,,FHRS,0
-259085,SAINSBURY'S SUPERMARKET,7 HEATHER RIDGE ARCADE,CAMBERLEY,SURREY,SAINSBURY'S SUPERMARKET,Retailers - supermarkets/hypermarkets,7840,0,,106315,0,,51.32972000000000,3689,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70240800000000,GU15 1AX,2012-10-03,fhrs_5_en-GB,5,,FHRS,5
-259086,WATCHMOOR POINT,CAMBERLEY,SURREY,,SAINSBURY'S SUPERMARKET,Retailers - supermarkets/hypermarkets,7840,0,,139589,0,,51.32332200000000,7531,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76187500000000,GU15 3YN,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-259087,SANDRINGHAM COUNTY INFANT SCHOOL,SANDRINGHAM WAY,FRIMLEY,CAMBERLEY,SANDRINGHAM COUNTY INFANT SCHOOL,School/college/university,7845,5,,86885,0,,51.30890800000000,2226,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72496100000000,GU16 9YF,2013-05-09,fhrs_5_en-GB,5,,FHRS,5
-259088,THE ATRIUM,PARK STREET,CAMBERLEY,SURREY,SBLENDED MILKSHAKES,Restaurant/Cafe/Canteen,1,5,,83092,5,,51.33708700000000,202366,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74983300000000,GU15 3QL,2013-04-25,fhrs_5_en-GB,5,,FHRS,0
-259089,SEA KING,57C MYTCHETT ROAD,"MYTCHETT, CAMBERLEY",SURREY,SEA KING,Takeaway/sandwich shop,7844,5,,82951,0,,51.29425400000000,201951,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72618400000000,GU16 6EG,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-259090,BRUNSWICK ROAD,DEEPCUT,CAMBERLEY,SURREY,SERGEANTS' MESS   PRB,Restaurant/Cafe/Canteen,1,0,,82614,5,,51.30432700000000,200651,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69928000000000,GU16 6RN,2013-10-15,fhrs_5_en-GB,5,,FHRS,0
-259091,HUDSON HOUSE,5 ALBANY PARK,CAMBERLEY,SURREY,SERVEST (TRAVELEX),Restaurant/Cafe/Canteen,1,0,,660545,0,,51.31721200000000,203844,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75212400000000,GU16 7XD,2014-04-15,fhrs_5_en-GB,5,,FHRS,0
-259092,5 SHERIDAN ROAD,FRIMLEY,CAMBERLEY,SURREY,SHERIDAN ROAD HOUSE,Hospitals/Childcare/Caring Premises,5,0,,696013,0,,51.31256800000000,203843,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73995400000000,GU16 7DU,2014-08-28,fhrs_5_en-GB,5,,FHRS,0
-259093,1 HIGH STREET,WEST END,WOKING,SURREY,SHIV CONVENIENCE STORE,Retailers - other,4613,10,,82650,0,,51.34039400000000,200745,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64373200000000,GU24 9PL,2012-02-29,fhrs_4_en-GB,4,,FHRS,5
-259094,HOME CATERER,,,,SIEW KUEN THOMAS,Other catering premises,7841,5,,83147,0,,51.34210300000000,202526,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73620100000000,GU15 3TW,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-259095,114 FRIMLEY ROAD,CAMBERLEY,SURREY,,SILVER DRAGON CHINESE TAKEAWAY,Takeaway/sandwich shop,7844,5,,401565,5,,51.32693000000000,202272,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2014-10-01,fhrs_5_en-GB,5,,FHRS,5
-259096,15 GUILDFORD ROAD,FRIMLEY GREEN,CAMBERLEY,,SILVER SEA FISH BAR,Takeaway/sandwich shop,7844,20,,189340,5,,51.30211300000000,202734,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72698500000000,GU16 6NL,2013-09-06,fhrs_1_en-GB,1,,FHRS,5
-259097,HOME CATERER,,,,SIMPLY DINE,Other catering premises,7841,0,,67314,0,,51.35029500000000,15011,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.59865100000000,GU24 8PD,2014-07-22,fhrs_5_en-GB,5,,FHRS,0
-259098,23 STOCKWOOD RISE,CAMBERLEY,SURREY,,SINGAPORE STREET FOOD,Mobile caterer,7846,5,,687002,0,,51.33560700000000,203915,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72429200000000,GU15 2EA,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
-259099,69 HIGH STREET,CAMBERLEY,SURREY,,SO ASIA,Restaurant/Cafe/Canteen,1,5,,144162,0,,51.33808500000000,8238,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74390600000000,GU15 3RB,2014-08-26,fhrs_5_en-GB,5,,FHRS,5
-259100,LYON WAY,FRIMLEY,CAMBERLEY,SURREY,SODEXO - BAE SYSTEMS,Other catering premises,7841,5,,479350,0,,51.31639000000000,203136,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74758300000000,GU16 7ER,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-259101,OAKHILL,41 DEEPCUT BRIDGE ROAD,DEEPCUT,CAMBERLEY,SONJA MUSKER,Mobile caterer,7846,5,,605244,0,,51.30738900000000,203624,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70537700000000,GU16 6QT,2013-11-11,fhrs_5_en-GB,5,,FHRS,0
-259102,JAMES ROAD,CAMBERLEY,SURREY,,SOUTH CAMBERLEY PRIMARY AND NURSERY SCHOOL,School/college/university,7845,0,,77007,0,,51.32131200000000,18003,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75461000000000,GU15 2RG,2013-12-09,fhrs_5_en-GB,5,,FHRS,0
-259103,7-9 DEAN PARADE,CAMBERLEY,SURREY,,SPAR,Retailers - other,4613,0,,82872,0,,51.34845100000000,201512,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72621900000000,GU15 4DQ,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-259104,PRINCESS ROYAL BARRACKS,BRUNSWICK ROAD,DEEPCUT,CAMBERLEY,SPAR,Retailers - other,4613,0,,409327,0,,51.30432700000000,202954,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69928000000000,GU16 6RN,2012-06-21,fhrs_4_en-GB,4,,FHRS,10
-259105,HOME CATERER,,,,SPARKIE CREATIONS,Other catering premises,7841,,,574426,,,51.35243100000000,203393,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71681700000000,GU15 4AL,2013-08-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-259106,69 MYTCHETT ROAD,MYTCHETT,CAMBERLEY,SURREY,SPICE LOUNGE,Restaurant/Cafe/Canteen,1,0,,83182,0,,51.29425400000000,202618,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72618400000000,GU16 6EG,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-259107,SPICE TRADERS,55 DEEPCUT BRIDGE ROAD,DEEPCUT,CAMBERLEY,SPICE TRADERS,Takeaway/sandwich shop,7844,10,,58991,10,,51.30738900000000,1304,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70537700000000,GU16 6QT,2014-06-05,fhrs_2_en-GB,2,,FHRS,15
-259108,BENNER LANE,WEST END,WOKING,,SPORTS PAVILION,Other catering premises,7841,0,,468295,0,,51.34334600000000,17618,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64080200000000,GU24 9JP,2015-01-13,fhrs_5_en-GB,5,,FHRS,0
-259109,STURT ROAD,FRIMLEY GREEN,CAMBERLEY,,ST ANDREWS CHURCH,Other catering premises,7841,5,,83174,0,,51.29930700000000,202605,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72856900000000,GU16 6HY,2013-03-08,fhrs_5_en-GB,5,,FHRS,0
-259110,11CHURCH ROAD,BAGSHOT,SURREY,,ST ANNES CHURCH HALL,Other catering premises,7841,,,150525,,,51.36028500000000,9848,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69682000000000,GU19 5EQ,2013-05-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-259111,FRIMLEY PARISH,ST PETERS CHURCH,FRIMLEY GREEN ROAD,"FRIMLEY, SURREY",ST FRANCIS CHURCH HALL,Other catering premises,7841,0,,617944,0,,51.31425000000000,20627,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73919000000000,GU16 7AQ,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-259112,129 ARETHUSA WAY,BISLEY,WOKING,SURREY,ST GOURMET LTD,Manufacturers/packers,7839,10,,720114,5,,51.32457600000000,204159,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63980700000000,GU24 9BT,2014-11-18,fhrs_4_en-GB,4,,FHRS,5
-259113,THE LINK,CHURCH ROAD,WINDLESHAM,SURREY,ST JOHNS LINK,Other catering premises,7841,5,,52868,0,,51.36502400000000,11970,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66485300000000,GU20 6BL,2013-03-12,fhrs_5_en-GB,5,,FHRS,0
-259114,BAGSHOT ROAD,CHOBHAM,WOKING,SURREY,ST LAWRENCE PRIMARY SCHOOL,School/college/university,7845,0,,56292,0,,51.34722200000000,12721,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60491900000000,GU24 8AB,2013-12-04,fhrs_5_en-GB,5,,FHRS,5
-259115,1 PARSONAGE WAY,FRIMLEY,CAMBERLEY,SURREY,ST PETER'S CHURCH HALL,Other catering premises,7841,0,,83041,0,,51.31501000000000,202233,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73793500000000,GU16 8HZ,2014-04-17,fhrs_5_en-GB,5,,FHRS,0
-259116,2 THE ATRUIUM,PARK STREET,CAMBERLEY,SURREY,STARBUCKS COFFEE COMPANY,Restaurant/Cafe/Canteen,1,0,,82846,0,,51.33731100000000,201342,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74887900000000,GU15 3GP,2015-02-03,fhrs_5_en-GB,5,,FHRS,5
-259117,SAINSBURY-CAFE,WATCHMOOR POINT,CAMBERLEY,SURREY,STARBUCKS COFFEE COMPANY,Restaurant/Cafe/Canteen,1,0,,139600,0,,51.32332200000000,7534,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76187500000000,GU15 3YN,2015-01-09,fhrs_5_en-GB,5,,FHRS,0
-259118,BAGSHOT MANOR,1 GREEN LANE,BAGSHOT,SURREY,STELJES LTD,Restaurant/Cafe/Canteen,1,5,,579793,0,,51.35850800000000,203492,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68667300000000,GU19 5NL,2013-08-21,fhrs_5_en-GB,5,,FHRS,5
-259119,CHERTSEY ROAD HALL,41 CHERTSEY ROAD,WINDLESHAM,SURREY,STEPPING STONES,School/college/university,7845,10,,610242,0,,,203658,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,GU20 6HJ,2013-11-11,fhrs_4_en-GB,4,,FHRS,0
-259120,CLAPPERS LANE,CHOBHAM,WOKING,SURREY,STIPERSTONES,Hospitals/Childcare/Caring Premises,5,5,,57559,0,,51.34780000000000,12933,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.61423500000000,GU24 8DD,2014-01-27,fhrs_5_en-GB,5,,FHRS,0
-259121,125 WINDSOR ROAD,CHOBHAM,WOKING,SURREY,STOVELL'S,Restaurant/Cafe/Canteen,1,20,,546267,5,,51.35796500000000,203027,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60842700000000,GU24 8QS,2013-05-02,fhrs_1_en-GB,1,,FHRS,5
-259122,6 THE PARADE,FRIMLEY,CAMBERLEY,SURREY,SUBWAY,Restaurant/Cafe/Canteen,1,0,,719279,0,,51.31407800000000,204054,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74327000000000,GU16 7HY,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-259123,SUBWAY,1A GRACE REYNOLDS WALK,CAMBERLEY,SURREY,SUBWAY,Restaurant/Cafe/Canteen,1,10,,143830,5,,51.33799600000000,8150,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74561600000000,GU15 3SN,2013-06-13,fhrs_2_en-GB,2,,FHRS,15
-259124,SUBWAY,473 LONDON ROAD,CAMBERLEY,SURREY,SUBWAY,Restaurant/Cafe/Canteen,1,5,,82920,5,,51.33467900000000,201818,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76523000000000,GU15 3JA,2013-06-06,fhrs_5_en-GB,5,,FHRS,5
-259125,HOME CATERER,,,,SUE BRENNAN,Other catering premises,7841,5,,82961,5,,51.32636500000000,201989,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73277200000000,GU15 1RD,2014-05-15,fhrs_5_en-GB,5,,FHRS,0
-259126,16 OBELISK WAY,CAMBERLEY,SURREY,,SUE RYDER SHOP,Retailers - other,4613,,,144482,,,51.33888400000000,8324,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74628100000000,GU15 3SD,2014-05-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-259127,ADULT EDUCATION CENTRE FRANCE HILL HOUSE,10 FRANCE HILL DRIVE,CAMBERLEY,SURREY,SUE'S BREWS CAFE,Restaurant/Cafe/Canteen,1,0,,650241,0,,51.33419100000000,203764,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75225200000000,GU15 3QB,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-259128,HOME CATERER,,,,SUGAR LEAVES,Other catering premises,7841,0,,409326,0,,51.32788900000000,202893,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70520100000000,GU15 1DW,2012-06-25,fhrs_5_en-GB,5,,FHRS,0
-259129,CHERTSEY ROAD,CHOBHAM,WOKING,SURREY,SUMERFIELD HOUSE DAY NURSERY,School/college/university,7845,0,,57454,0,,51.34914200000000,12924,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.57688800000000,GU24 8HF,2013-08-13,fhrs_5_en-GB,5,,FHRS,0
-259130,14-16 LONDON ROAD,BAGSHOT,SURREY,,SUNRISE SENIOR LIVING OF BAGSHOT,Hospitals/Childcare/Caring Premises,5,0,,82845,0,,51.36531800000000,201335,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69008300000000,GU19 5HN,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-259131,SUPER SHOP,30 HIGH STREET,BAGSHOT,SURREY,SUPER SHOP,Retailers - other,4613,,,40899,,,51.36120500000000,10184,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69303000000000,GU19 5AZ,2013-03-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-259132,6-12 PRINCE OF WALES WALK,CAMBERLEY,SURREY,,SUPERDRUG PLC,Retailers - other,4613,0,,144756,0,,51.33834600000000,8415,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74641100000000,GU15 3SJ,2014-08-22,fhrs_5_en-GB,5,,FHRS,0
-259133,71-73 HIGH STREET,CAMBERLEY,SURREY,,SURREY ARMS,Pub/bar/nightclub,7843,0,,701098,0,,51.33808500000000,204037,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74390600000000,GU15 3RB,2014-09-02,fhrs_5_en-GB,5,,FHRS,5
-259134,SURREY TANDOORI,122 FRIMLEY ROAD,CAMBERLEY,SURREY,SURREY TANDOORI,Takeaway/sandwich shop,7844,5,,138275,0,,51.32693000000000,7356,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2013-06-26,fhrs_5_en-GB,5,,FHRS,0
-259135,16 UPDOWN HILL,WINDLESHAM,SURREY,,SUTTONS,Retailers - other,4613,10,,482767,10,,51.36426500000000,202292,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65434600000000,GU20 6AF,2014-05-28,fhrs_3_en-GB,3,,FHRS,10
-259136,HOME CATERER,,,,SWEET & NEAT CUP CAKES,Other catering premises,7841,5,,530823,0,,51.34402300000000,203255,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70945600000000,GU15 1JT,2013-03-26,fhrs_5_en-GB,5,,FHRS,0
-259137,HOME CATERER,,,,SYLVIAS CAKE DECORATING,Other catering premises,7841,0,,468301,0,,51.29020100000000,203105,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72308400000000,GU16 6BT,2012-11-01,fhrs_5_en-GB,5,,FHRS,0
-259138,14 HOLLY HEDGE CLOSE,FRIMLEY,CAMBERLEY,SURREY,T & J FISHERIES,Mobile caterer,7846,0,,628135,0,,51.32138600000000,203710,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73632500000000,GU16 8SY,2014-02-03,fhrs_5_en-GB,5,,FHRS,0
-259139,FRANCE HILL DRIVE,CAMBERLEY,SURREY,,TALL TREES CAMPUS,School/college/university,7845,0,,140923,0,,51.33446400000000,7707,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75085200000000,GU15 3QA,2013-03-20,fhrs_5_en-GB,5,,FHRS,5
-259140,HOME CATERER,,,,TARA DINING,Other catering premises,7841,0,,509995,0,,51.32935900000000,203214,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70474400000000,GU15 1AS,2013-02-20,fhrs_5_en-GB,5,,FHRS,0
-259141,LYON WAY,FRIMLEY,CAMBERLEY,SURREY,TEAM SPORT INDOOR KARTING,Restaurant/Cafe/Canteen,1,5,,72341,10,,51.31489000000000,16478,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75020700000000,GU16 7EX,2013-03-07,fhrs_4_en-GB,4,,FHRS,5
-259142,TEKELS PARK GUEST HOUSE,TEKELS PARK,CAMBERLEY,SURREY,TEKELS PARK GUEST HOUSE,Other catering premises,7841,5,,132612,0,,51.27199935913090,6467,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.40499997138977,GU15 2LF,2014-02-11,fhrs_5_en-GB,5,,FHRS,5
-259143,SCOTTS GROVE ROAD,CHOBHAM,WOKING,SURREY,TENAKER,Retailers - other,4613,5,,60838,5,,51.33698200000000,13307,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.61414500000000,GU24 8DT,2012-02-28,fhrs_5_en-GB,5,,FHRS,5
-259144,1-3 BEAUMARIS PARADE,FRIMLEY,CAMBERLEY,SURREY,TESCO EXPRESS,Retailers - supermarkets/hypermarkets,7840,0,,65948,0,,51.31249300000000,14853,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72556400000000,GU16 8UR,2012-03-22,fhrs_5_en-GB,5,,FHRS,5
-259145,TESCO,STATION ROAD,CHOBHAM,WOKING,TESCO STORES LIMITED,Retailers - supermarkets/hypermarkets,7840,0,,548032,0,,51.34603800000000,203023,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60215500000000,GU24 8AQ,2013-05-16,fhrs_5_en-GB,5,,FHRS,0
-259146,TEXACO,82-84 PORTSMOUTH ROAD,CAMBERLEY,SURREY,TEXACO - CAMBERLEY SERVICE STATION,Retailers - other,4613,10,,126022,10,,51.32920000000000,5477,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72795800000000,GU15 1JB,2013-07-12,fhrs_3_en-GB,3,,FHRS,5
-259147,5 FRIMLEY ROAD,CAMBERLEY,SURREY,,THAI BRIGHT KITCHEN,Restaurant/Cafe/Canteen,1,10,,357083,5,,51.33519800000000,202889,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75991900000000,GU15 3EN,2014-01-14,fhrs_4_en-GB,4,,FHRS,5
-259148,2 GRAND AVENUE,CAMBERLEY,SURREY,,THE ARENA LEISURE CENTRE,Restaurant/Cafe/Canteen,1,5,,140947,0,,51.33627900000000,7712,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75075900000000,GU15 3QH,2014-10-15,fhrs_5_en-GB,5,,FHRS,5
-259149,FORMER ALLDERS DEPARTMENT STORES LTD,12-18 HIGH STREET,CAMBERLEY,SURREY,THE ARK,Restaurant/Cafe/Canteen,1,5,,568329,0,,,203364,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,GU15 3SA,2013-08-02,fhrs_5_en-GB,5,,FHRS,0
-259150,103 COLEFORD BRIDGE ROAD,MYTCHETT,CAMBERLEY,SURREY,THE ARK NURSERY,School/college/university,7845,0,,82610,0,,51.29083100000000,200647,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73139900000000,GU16 6DN,2012-03-12,fhrs_5_en-GB,5,,FHRS,0
-259151,LIGHTWATER LEISURE CENTRE,LIGHTWATER COUNTRY PARK,THE AVENUE,LIGHTWATER,THE BEANSHACK,Restaurant/Cafe/Canteen,1,10,,595176,5,,51.35143900000000,203615,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67856000000000,GU18 5RG,2014-01-14,fhrs_4_en-GB,4,,FHRS,5
-259152,23 PARK STREET,CAMBERLEY,SURREY,,THE BEAR,Pub/bar/nightclub,7843,20,,462613,5,,,203107,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,GU15 3PR,2013-12-04,fhrs_1_en-GB,1,,FHRS,10
-259153,BEE INN,SCHOOL ROAD,WINDLESHAM,SURREY,THE BEE,Pub/bar/nightclub,7843,10,,83181,5,,51.37401100000000,202617,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67394500000000,GU20 6PD,2014-01-07,fhrs_4_en-GB,4,,FHRS,0
-259154,HOME CATERER,,,,THE BELGIAN WAFFLE COMPANY,Other catering premises,7841,0,,82911,0,,51.33984100000000,201769,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74245100000000,GU15 3HS,2012-09-11,fhrs_5_en-GB,5,,FHRS,0
-259155,THE BRICKMAKERS ARMS,CHERTSEY ROAD,WINDLESHAM,SURREY,THE BRICKMAKERS,Restaurant/Cafe/Canteen,1,0,,505813,0,,51.37210700000000,203216,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64036700000000,GU20 6HT,2013-04-12,fhrs_5_en-GB,5,,FHRS,5
-259156,C/O BISLEY VILLAGE HALL,SCHOOL CLOSE,"BISLEY, WOKING",SURREY,THE BUTTS DAY CENTRE,Other catering premises,7841,5,,64798,0,,51.32969200000000,14478,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63814800000000,GU24 9EG,2014-02-14,fhrs_5_en-GB,5,,FHRS,5
-259157,HOME CATERER,,,,THE CAKE BAKER,Other catering premises,7841,5,,457882,0,,51.32516100000000,202991,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71466500000000,GU16 9RB,2012-10-25,fhrs_5_en-GB,5,,FHRS,0
-259158,THE CASTLE GROVE INN,CASTLE GROVE ROAD,CHOBHAM,WOKING,THE CASTLE GROVE,Pub/bar/nightclub,7843,10,,571523,5,,51.34126300000000,203378,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60666500000000,GU24 8EE,2013-07-22,fhrs_3_en-GB,3,,FHRS,10
-259159,1 HIGH STREET,BAGSHOT,SURREY,,THE CEDAR TREE,Pub/bar/nightclub,7843,0,,40691,0,,51.36095400000000,10157,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69392800000000,GU19 5AG,2014-02-19,fhrs_5_en-GB,5,,FHRS,0
-259160,2 BAGSHOT ROAD,CHOBHAM,WOKING,SURREY,THE CO-OPERATIVE,Retailers - supermarkets/hypermarkets,7840,0,,486696,0,,51.34763500000000,203123,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60405900000000,GU24 8BP,2015-01-05,fhrs_5_en-GB,5,,FHRS,0
-259161,THE BRICK HOUSE,123 WINDSOR ROAD,CHOBHAM,WOKING,THE COVE CATERING LTD,Other catering premises,7841,10,,720115,0,,51.35809400000000,204161,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60872500000000,GU24 8QS,2014-11-05,fhrs_4_en-GB,4,,FHRS,5
-259162,113 GUILDFORD ROAD,LIGHTWATER,SURREY,,THE CROSSLEY CLUB,Retailers - other,4613,5,,49780,0,,51.35234400000000,11057,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66797900000000,GU18 5RA,2013-02-27,fhrs_5_en-GB,5,,FHRS,5
-259163,112 FRIMLEY ROAD,CAMBERLEY,SURREY,,THE FLAME GRILL,Takeaway/sandwich shop,7844,20,,83205,10,,51.32693000000000,202710,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75523300000000,GU15 2QN,2014-02-24,fhrs_1_en-GB,1,,FHRS,10
-259164,AMQH LIMITED,THE FORESTERS ARMS,173 LONDON ROAD,"BAGSHOT, SURREY",THE FORESTERS ARMS,Pub/bar/nightclub,7843,10,,195917,5,,51.35600300000000,202746,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69992800000000,GU19 5DH,2014-06-30,fhrs_2_en-GB,2,,FHRS,15
-259165,THE FOUR HORSESHOES,13 BURROW HILL GREEN,CHOBHAM,WOKING,THE FOUR HORSESHOES,Pub/bar/nightclub,7843,5,,568326,5,,51.35708400000000,203361,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60844000000000,GU24 8QP,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-259166,104 LONDON ROAD,CAMBERLEY,SURREY,,THE FUN FACTORY,Other catering premises,7841,0,,83091,0,,51.34153200000000,202359,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74082500000000,GU15 3TJ,2014-12-11,fhrs_5_en-GB,5,,FHRS,0
-259167,THE GOOSE,88-90 HIGH STREET,CAMBERLEY,SURREY,THE GOOSE,Pub/bar/nightclub,7843,0,,144218,5,,51.33805700000000,8257,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74463800000000,GU15 3RS,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-259168,19 FARM ROAD,FRIMLEY,CAMBERLEY,SURREY,THE GOURMET ORIENTAL,Takeaway/sandwich shop,7844,5,,198181,0,,51.32173800000000,202764,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72978600000000,GU16 8TH,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-259169,STATION ROAD,CHOBHAM,WOKING,SURREY,THE GREEN OLIVE,Restaurant/Cafe/Canteen,1,0,,60912,0,,51.34603800000000,13330,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60215500000000,GU24 8AQ,2014-08-27,fhrs_5_en-GB,5,,FHRS,0
-259170,THE GROVE COUNTY PRIMARY SCHOOL,CHOBHAM ROAD,FRIMLEY,CAMBERLEY,THE GROVE COUNTY PRIMARY SCHOOL,School/college/university,7845,0,,93111,0,,51.32086700000000,2656,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73154600000000,GU16 8PG,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-259171,CHURCH ROAD,WINDLESHAM,SURREY,,THE HALF MOON,Pub/bar/nightclub,7843,5,,52844,0,,51.36390100000000,11962,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66419600000000,GU20 6BN,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-259172,THE HALF WAY HUT AT 10 HOLE,CAMBERLEY HEATH GOLF CLUB,GOLF DRIVE,CAMBERLEY,THE HALF WAY HUT,Other catering premises,7841,10,,650239,10,,51.32944900000000,203739,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72442000000000,GU15 1JG,2014-03-04,fhrs_3_en-GB,3,,FHRS,5
-259173,BRENTMOOR DENE,BRENTMOOR ROAD,WEST END,WOKING,THE HARE AND HOUNDS,Pub/bar/nightclub,7843,10,,83125,5,,51.34007300000000,202479,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64707200000000,GU24 9QG,2014-12-02,fhrs_4_en-GB,4,,FHRS,5
-259174,31 FRIMLEY ROAD,CAMBERLEY,SURREY,,THE HOLLIES,Other catering premises,7841,0,,139098,0,,51.33302100000000,7454,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75811100000000,GU15 3EL,2012-06-07,fhrs_5_en-GB,5,,FHRS,0
-259175,49 WIMBLEDON ROAD,CAMBERLEY,SURREY,,THE HOT DOG CART,Mobile caterer,7846,5,,660543,0,,51.35192000000000,203628,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72605100000000,GU15 4BA,2014-05-02,fhrs_5_en-GB,5,,FHRS,0
-259176,KINGS ARMS,42 HIGH STREET,BAGSHOT,SURREY,THE HUNGRY HORSE,Pub/bar/nightclub,7843,0,,41003,0,,51.36120500000000,10197,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69303000000000,GU19 5AZ,2014-08-19,fhrs_5_en-GB,5,,FHRS,5
-259177,21 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,SURREY,THE INDIAN DELIGHT,Takeaway/sandwich shop,7844,20,,693182,15,,51.31374500000000,204005,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74403900000000,GU16 7HJ,2014-08-26,fhrs_1_en-GB,1,,FHRS,15
-259178,42 GUILDFORD ROAD,WEST END,WOKING,SURREY,THE INN AT WEST END,Restaurant/Cafe/Canteen,1,5,,62746,5,,51.33996100000000,13880,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64439100000000,GU24 9PW,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-259179,HOME CATERER,,,,THE LITTLE CUPCAKERY,Other catering premises,7841,0,,369047,0,,51.34839100000000,202897,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73143300000000,GU15 4BY,2012-07-09,fhrs_5_en-GB,5,,FHRS,0
-259180,2 MYTCHETT ROAD,MYTCHETT,CAMBERLEY,SURREY,THE MINERS ARMS PH,Pub/bar/nightclub,7843,5,,123342,0,,51.29428800000000,518,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72680000000000,GU16 6EZ,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-259181,140 MYTCHETT ROAD,MYTCHETT,CAMBERLEY,SURREY,THE MYTCHETT CENTRE,Pub/bar/nightclub,7843,0,,119898,0,,51.28694600000000,490,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72642900000000,GU16 6AA,2014-06-26,fhrs_5_en-GB,5,,FHRS,0
-259182,205 FRIMLEY GREEN ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,THE OLD WHEATSHEAF,Pub/bar/nightclub,7843,5,,139438,5,,51.30464200000000,751,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72880900000000,GU16 6LA,2014-05-14,fhrs_5_en-GB,5,,FHRS,5
-259183,HOME CATERER,,,,THE PUDDING EMPORIUM,Other catering premises,7841,0,,62554,0,,51.33687700000000,13812,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65998600000000,GU24 9NE,2014-10-13,fhrs_5_en-GB,5,,FHRS,0
-259184,114 GUILDFORD ROAD,LIGHTWATER,SURREY,,THE RED LION,Pub/bar/nightclub,7843,5,,49783,5,,51.35274100000000,11058,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66724900000000,GU18 5RP,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-259185,15 RED LION ROAD,CHOBHAM,WOKING,SURREY,THE RED LION PUB,Pub/bar/nightclub,7843,10,,595175,5,,51.35748600000000,203614,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60143300000000,GU24 8RG,2013-12-05,fhrs_4_en-GB,4,,FHRS,5
-259186,OLD BISLEY ROAD,FRIMLEY,CAMBERLEY,SURREY,THE RIDGEWOOD CENTRE,Other catering premises,7841,0,,109215,0,,51.32429400000000,3936,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70294900000000,GU16 9QE,2015-02-11,fhrs_5_en-GB,5,,FHRS,0
-259187,1 STURT ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,THE ROSE AND THISTLE,Pub/bar/nightclub,7843,0,,51663,0,,51.30085500000000,1159,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72785200000000,GU16 6HT,2014-04-03,fhrs_5_en-GB,5,,FHRS,5
-259188,19 FRIMLEY ROAD,CAMBERLEY,SURREY,,THE SOUTHERN CO-OPERATIVE LTD,Retailers - supermarkets/hypermarkets,7840,0,,585583,0,,51.33544100000000,202985,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75988300000000,GU15 3EN,2013-09-05,fhrs_5_en-GB,5,,FHRS,0
-259189,THE SUN INN,1 CHERTSEY ROAD,WINDLESHAM,SURREY,THE SUN INN,Pub/bar/nightclub,7843,5,,52530,0,,51.36538900000000,11872,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65356600000000,GU20 6EN,2015-01-29,fhrs_5_en-GB,5,,FHRS,5
-259190,THE SURREY CRICKETERS,55 CHERTSEY ROAD,WINDLESHAM,SURREY,THE SURREY CRICKETERS,Pub/bar/nightclub,7843,5,,650246,5,,51.36716500000000,203800,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65078500000000,GU20 6HE,2014-04-09,fhrs_4_en-GB,4,,FHRS,10
-259191,HOME CATERER,,,,THE SWEET OVEN LIMITED,Other catering premises,7841,0,,505809,0,,51.32962900000000,203193,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.63664300000000,GU24 9EF,2013-02-04,fhrs_5_en-GB,5,,FHRS,5
-259192,25 PRINCESS WAY,CAMBERLEY,SURREY,,THE SWEET SHOP,Retailers - other,4613,0,,82947,0,,51.33734900000000,201939,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74574900000000,GU15 3SP,2013-03-13,fhrs_5_en-GB,5,,FHRS,0
-259193,21 HIGH STREET,CAMBERLEY,SURREY,,THE TREASURY,Restaurant/Cafe/Canteen,1,0,,468305,0,,51.33808500000000,203124,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74390600000000,GU15 3RB,2015-01-19,fhrs_5_en-GB,5,,FHRS,0
-259194,HOME CATERER,,,,THE VANILLA CAKE COMPANY,Other catering premises,7841,10,,82909,0,,51.33717400000000,201763,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70403600000000,GU15 1HH,2012-07-25,fhrs_4_en-GB,4,,FHRS,0
-259195,HOME CATERER,,,,THE VANILLA CAKE COMPANY,Other catering premises,7841,5,,435300,0,,51.33359700000000,203000,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70340400000000,GU15 1SJ,2012-08-17,fhrs_5_en-GB,5,,FHRS,0
-259196,THE WHEATSHEAF PH,CUMBERLAND ROAD,CAMBERLEY,SURREY,THE WHEATSHEAF,Pub/bar/nightclub,7843,0,,104309,0,,51.32972000000000,3550,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70240800000000,GU15 1AX,2013-02-18,fhrs_5_en-GB,5,,FHRS,5
-259197,WINDMILL PUBLIC HOUSE,LONDON ROAD,WINDLESHAM,SURREY,THE WINDMILL,Pub/bar/nightclub,7843,0,,55081,5,,51.37774100000000,12422,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66902400000000,GU20 6PJ,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-259198,ARTS LINK,KNOLL ROAD,CAMBERLEY,SURREY,THEATRE CAFE BAR,Restaurant/Cafe/Canteen,1,0,,592088,0,,51.33908300000000,203564,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74385000000000,GU15 3SY,2013-10-09,fhrs_5_en-GB,5,,FHRS,5
-259199,20 GRACE REYNOLDS WALK,CAMBERLEY,SURREY,,THORNTONS,Retailers - other,4613,0,,143853,0,,51.33799600000000,8155,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74561600000000,GU15 3SN,2012-02-23,fhrs_5_en-GB,5,,FHRS,0
-259200,THREE MARINERS,56 HIGH STREET,BAGSHOT,SURREY,THREE MARINERS,Pub/bar/nightclub,7843,10,,41070,5,,51.36198200000000,10207,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69174400000000,GU19 5AW,2014-02-18,fhrs_3_en-GB,3,,FHRS,10
-259201,114 PORTSMOUTH ROAD,CAMBERLEY,SURREY,,TOBY CAVERY,Restaurant/Cafe/Canteen,1,0,,125832,0,,51.32549000000000,5442,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73335600000000,GU15 1HS,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-259202,TOMLINSCOTE COUNTY SECONDARY SCHOOL,TOMLINSCOTE WAY,FRIMLEY,CAMBERLEY,TOMLINSCOTE COUNTY SECONDARY SCHOOL,School/college/university,7845,0,,91253,5,,51.32078100000000,2512,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72369900000000,GU16 8PY,2013-09-19,fhrs_5_en-GB,5,,FHRS,0
-259203,TOMLINSCOTE COUNTY SECONDARY SCHOOL,TOMLINSCOTE WAY,FRIMLEY,CAMBERLEY,TOMLINSCOTE VOCATIONAL CENTRE,School/college/university,7845,5,,83198,0,,51.32078100000000,202687,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72369900000000,GU16 8PY,2012-01-25,fhrs_5_en-GB,5,,FHRS,0
-259204,HOME CATERER,,,,TOM-T CAKES,Other catering premises,7841,0,,628136,0,,51.34623700000000,203712,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67099900000000,GU18 5YR,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-259205,67 DEEPCUT BRIDGE ROAD,DEEPCUT,CAMBERLEY,SURREY,TOP WOK,Takeaway/sandwich shop,7844,5,,505812,5,,51.30806300000000,203212,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70458300000000,GU16 6QP,2014-10-01,fhrs_4_en-GB,4,,FHRS,10
-259206,2 DEAN PARADE,CAMBERLEY,SURREY,,TOUCHWOOD PHARMACY,Retailers - other,4613,,,82723,,,51.34845100000000,200978,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72621900000000,GU15 4DQ,2014-11-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-259207,TRAVELLING GOURMET,WILTON ROAD,CAMBERLEY,SURREY,TRAVELLING GOURMET,Mobile caterer,7846,5,,553101,5,,,203338,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,,,2014-03-18,fhrs_5_en-GB,5,,FHRS,5
-259208,114 PORTSMOUTH ROAD,CAMBERLEY,SURREY,,TRAVELODGE,Hotel/bed & breakfast/guest house,7842,,,83039,,,51.32535844000000,202230,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73261532000000,,2015-01-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-259209,511 LONDON ROAD,CAMBERLEY,SURREY,,TRAVELODGE CAMBERLEY,Hotel/bed & breakfast/guest house,7842,0,,82555,0,,51.33346000000000,200497,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76900900000000,GU15 3JE,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-259210,SUN HOUSE,31-41 PEMBROKE BROADWAY,CAMBERLEY,SURREY,TRAVELODGE CAMBERLEY CENTRAL,Hotel/bed & breakfast/guest house,7842,0,,195919,0,,51.33662600000000,202744,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74371600000000,GU15 3XD,2013-11-25,fhrs_5_en-GB,5,,FHRS,0
-259211,105 PORTSMOUTH ROAD,FRIMLEY,CAMBERLEY,,TREASURE (JOHANNA) MONTESSORI NURSERY PRE SCHOOL,School/college/university,7845,0,,409324,0,,51.31611400000000,201710,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74193700000000,GU16 7AA,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-259212,TRINGHAM HALL,BENNER LANE,WEST END,WOKING,TRINGHAM HALL,Other catering premises,7841,0,,479348,0,,51.34348400000000,203110,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64112800000000,GU24 9JP,2014-02-06,fhrs_5_en-GB,5,,FHRS,0
-259213,16 CASTLE ROAD,CAMBERLEY,SURREY,,UPALONG,Hospitals/Childcare/Caring Premises,5,0,,118666,5,,51.33216600000000,4801,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72954100000000,GU15 2DS,2013-09-04,fhrs_5_en-GB,5,,FHRS,5
-259214,124 GORDON ROAD,CAMBERLEY,SURREY,,USFIELD KITCHEN T/A JIMMY CHOW,Mobile caterer,7846,5,,670098,0,,51.33239800000000,203864,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74944400000000,GU15 2JQ,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-259215,HIGHAMS LANE,CHOBHAM,WOKING,SURREY,VALLEY END C OF E INFANT SCHOOL,School/college/university,7845,0,,55874,0,,51.36559000000000,12616,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.62750300000000,GU24 8TB,2014-06-04,fhrs_5_en-GB,5,,FHRS,5
-259216,WINDLESHAM ROAD,CHOBHAM,WOKING,SURREY,VALLEY END CRICKET CLUB,Other catering premises,7841,20,,61197,0,,51.35896800000000,13412,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.62485700000000,GU24 8SN,2013-07-17,fhrs_1_en-GB,1,,FHRS,5
-259217,HOME CATERER,,,,VANDERFUL CAKES,Other catering premises,7841,5,,83180,0,,51.35956600000000,202616,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.70251300000000,GU19 5EW,2014-09-30,fhrs_5_en-GB,5,,FHRS,0
-259218,HOME CATERER,,,,VANESSA JANE ROUSE,Other catering premises,7841,0,,83160,0,,51.35145600000000,202562,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60029500000000,GU24 8NE,2014-08-21,fhrs_5_en-GB,5,,FHRS,0
-259219,1C FRIMLEY ROAD,CAMBERLEY,SURREY,,VED NEWSAGENT,Retailers - other,4613,10,,83058,0,,51.33544100000000,202290,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75988300000000,GU15 3EN,2014-02-24,fhrs_4_en-GB,4,,FHRS,5
-259220,VEL SHOP,5 VALE ROAD,CAMBERLEY,SURREY,VEL SHOP,Retailers - other,4613,5,,137439,5,,51.33181200000000,7238,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76028300000000,GU15 3DR,2014-05-28,fhrs_5_en-GB,5,,FHRS,5
-259221,79 WINDSOR ROAD,CHOBHAM,WOKING,SURREY,VICKI'S STORES,Retailers - other,4613,10,,56078,5,,51.35282100000000,12667,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60609900000000,GU24 8LD,2012-02-16,fhrs_4_en-GB,4,,FHRS,0
-259222,VILLA BIANCA,58 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,VILLA BIANCA,Restaurant/Cafe/Canteen,1,5,,80615,5,,51.31386000000000,1953,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74469600000000,GU16 7JF,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-259223,VUE,THE ATRIUM,PARK STREET,CAMBERLEY,VUE CINEMA,Retailers - other,4613,0,,82774,0,,51.33719400000000,201091,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74716000000000,GU15 3PG,2013-01-08,fhrs_5_en-GB,5,,FHRS,0
-259224,51-53 HIGH STREET,CAMBERLEY,SURREY,,W H SMITH,Retailers - other,4613,,,144121,,,51.27199935913090,8222,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.40499997138977,GU15 3RG,2012-09-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-259225,9 THE ATRIUM,PARK STREET,CAMBERLEY,SURREY,WAGAMAMA,Restaurant/Cafe/Canteen,1,0,,83006,0,,51.33731100000000,202109,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74887900000000,GU15 3GP,2014-07-31,fhrs_5_en-GB,5,,FHRS,0
-259226,20 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,SURREY,WAITROSE,Retailers - supermarkets/hypermarkets,7840,0,,79435,0,,51.31442000000000,1909,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74415000000000,GU16 7JD,2014-07-29,fhrs_5_en-GB,5,,FHRS,5
-259227,11 FARM ROAD,FRIMLEY,CAMBERLEY,SURREY,WARREN ESTATE NEWSAGENT,Retailers - other,4613,10,,94002,0,,51.32173800000000,2720,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72978600000000,GU16 8TH,2013-03-06,fhrs_4_en-GB,4,,FHRS,5
-259228,WATCHETTS RECREATION GROUND,PARK ROAD,CAMBERLEY,SURREY,WATCHETTS BOWLING CLUB,Other catering premises,7841,5,,131890,0,,51.32621000000000,6349,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.75185100000000,GU15 2SR,2013-06-07,fhrs_5_en-GB,5,,FHRS,0
-259229,6 GRACE REYNOLDS WALK,CAMBERLEY,SURREY,,WATERSTONES,Retailers - other,4613,,,83057,,,51.33799600000000,202289,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74561600000000,GU15 3SN,2014-03-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-259230,HOME CATERER,,,,WENDY TURNER,Other catering premises,7841,5,,221260,0,,51.35409500000000,202572,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.59307700000000,GU24 8RU,2012-03-06,fhrs_5_en-GB,5,,FHRS,0
-259231,HOME CATERER,,,,WENDY'S SIGNATURE CAKES,Other catering premises,7841,5,,82851,0,,51.31536200000000,201389,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.73973400000000,GU16 8JT,2012-06-08,fhrs_5_en-GB,5,,FHRS,0
-259232,ROSEWOOD WAY,WEST END,WOKING,SURREY,WEST END BOWLS CLUB,Other catering premises,7841,5,,63166,0,,51.33880300000000,13993,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64531500000000,GU24 9PF,2013-06-06,fhrs_5_en-GB,5,,FHRS,0
-259233,4 FENNS LANE,WEST END,WOKING,SURREY,WEST END WINES LTD,Retailers - other,4613,,,82955,,,51.33601500000000,201964,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64452100000000,GU24 9QF,2014-03-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-259234,HIGH STREET,WEST END,WOKING,SURREY,WEST END WORKING MENS CLUB,Other catering premises,7841,0,,62796,0,,51.34039400000000,13897,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64373200000000,GU24 9PL,2012-02-15,fhrs_5_en-GB,5,,FHRS,0
-259235,47 GUILDFORD ROAD,BAGSHOT,SURREY,,WHITE HART,Pub/bar/nightclub,7843,0,,610240,5,,51.36133200000000,203557,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68833000000000,GU19 5JW,2013-11-05,fhrs_5_en-GB,5,,FHRS,5
-259236,FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,,WHITE HART,Restaurant/Cafe/Canteen,1,0,,83157,0,,51.30399400000000,202555,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71418300000000,GU16 7HU,2013-09-25,fhrs_5_en-GB,5,,FHRS,0
-259237,WHITE LODGE FARM,STATION ROAD,CHOBHAM,WOKING,WHITE LODGE FARM - SHOP,Retailers - other,4613,0,,83120,0,,51.33779900000000,202457,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.57804300000000,GU24 8AR,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-259238,BURLEIGH ROAD,FRIMLEY,CAMBERLEY,SURREY,WHITEBOURNE,Hospitals/Childcare/Caring Premises,5,0,,72946,5,,51.31433800000000,1667,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74235900000000,GU16 7EP,2014-08-22,fhrs_5_en-GB,5,,FHRS,5
-259239,UNIT B2,THE ATRIUM,PARK STREET,"CAMBERLEY, SURREY",WILDWOOD RESTAURANT,Restaurant/Cafe/Canteen,1,0,,703411,0,,51.33811600000000,203755,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74848400000000,GU15 3PL,2014-09-10,fhrs_5_en-GB,5,,FHRS,5
-259240,6-10 PRINCESS WAY,CAMBERLEY,,,WILKINSON,Retailers - other,4613,0,,635278,0,,51.33737600000000,201972,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74569100000000,GU15 3SP,2014-03-24,fhrs_5_en-GB,5,,FHRS,0
-259241,226 FRIMLEY GREEN ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,WILLIAM HILL,Retailers - other,4613,,,140850,,,51.30373700000000,769,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72909200000000,GU16 6LL,2012-02-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-259242,WINDLE VALLEY DAY CENTRE,6 PARK STREET,BAGSHOT,SURREY,WINDLE VALLEY DAY CENTRE,Other catering premises,7841,0,,42285,0,,51.36169000000000,10434,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.69380600000000,GU19 5AQ,2013-08-12,fhrs_5_en-GB,5,,FHRS,5
-259243,WINDLEMERE GOLF CLUB,WINDLESHAM ROAD,WEST END,WOKING SURREY,WINDLEMERE GOLF CLUB,Restaurant/Cafe/Canteen,1,0,,62219,0,,51.34587100000000,13730,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.64454700000000,GU24 9QL,2014-06-12,fhrs_5_en-GB,5,,FHRS,0
-259244,KENNEL LANE,WINDLESHAM,SURREY,,WINDLESHAM BOWLS CLUB,Other catering premises,7841,5,,83046,0,,51.36847400000000,202242,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66384800000000,GU20 6AA,2013-05-14,fhrs_5_en-GB,5,,FHRS,5
-259245,WINDLESHAM CLUB AND THEATRE,KENNEL LANE,WINDLESHAM,SURREY,WINDLESHAM CLUB AND THEATRE,Other catering premises,7841,0,,53465,0,,51.36847400000000,12045,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66384800000000,GU20 6AA,2014-09-05,fhrs_5_en-GB,5,,FHRS,0
-259246,GROVE END,BAGSHOT,SURREY,,WINDLESHAM GOLF CLUB,Restaurant/Cafe/Canteen,1,5,,39878,0,,51.36696600000000,10041,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.68312700000000,GU19 5HY,2015-01-12,fhrs_5_en-GB,5,,FHRS,5
-259247,SCHOOL ROAD,WINDLESHAM,SURREY,,WINDLESHAM VILLAGE COUNTY INFANTS SCHOOL,School/college/university,7845,5,,82908,5,,51.37401100000000,20176,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.67394500000000,GU20 6PD,2013-10-22,fhrs_5_en-GB,5,,FHRS,5
-259248,20 UPDOWN HILL,WINDLESHAM,,,WINDLESHAM VILLAGE PHARMACY,Retailers - other,4613,,,635281,,,51.36426500000000,203727,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.65434600000000,GU20 6AF,2014-02-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-259249,220 FRIMLEY GREEN ROAD,FRIMLEY GREEN,CAMBERLEY,SURREY,WING LEE TAKE-AWAY,Takeaway/sandwich shop,7844,5,,140045,0,,51.30373700000000,760,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.72909200000000,GU16 6LL,2013-08-29,fhrs_4_en-GB,4,,FHRS,10
-259250,55 ALPHA ROAD,CHOBHAM,WOKING,SURREY,WISHMORE CROSS SCHOOL,School/college/university,7845,5,,56233,0,,51.35145600000000,12701,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.60029500000000,GU24 8NE,2013-02-06,fhrs_5_en-GB,5,,FHRS,0
-259251,SNOWS RIDE,WINDLESHAM,SURREY,,WOODCOTE HOUSE SCHOOL,School/college/university,7845,0,,55420,0,,51.37127200000000,12506,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.66789000000000,GU20 6PF,2014-01-15,fhrs_5_en-GB,5,,FHRS,5
-259252,PORTSMOUTH ROAD,FRIMLEY,CAMBERLEY,SURREY,"WRVS SHOP, FRIMLEY PARK HOSPITAL",Retailers - other,4613,0,,126093,0,,51.31968000000000,5492,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74156700000000,GU16 7UJ,2012-10-16,fhrs_5_en-GB,5,,FHRS,0
-259253,YORKTOWN SUB P.O & STORES,2 VICTORIA AVENUE,CAMBERLEY,SURREY,YORKTOWN SUB P.O & STORES,Retailers - other,4613,5,,137556,5,,51.33449200000000,7254,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.76280900000000,GU15 3HX,2013-03-22,fhrs_5_en-GB,5,,FHRS,5
-259254,11 THE PARADE,FRIMLEY,CAMBERLEY,SURREY,YOUR LOCAL BOOTS PHARMACY (BOOTS UK LTD),Retailers - other,4613,,,82933,,,51.31407800000000,201872,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74327000000000,GU16 7HY,2014-03-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-259255,43 COLLEGE RIDE,CAMBERLEY,SURREY,,YUM AND FREE,Other catering premises,7841,0,,693181,0,,51.34489300000000,204003,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74061800000000,GU15 4JS,2014-09-05,fhrs_5_en-GB,5,,FHRS,0
-259256,82 FRIMLEY HIGH STREET,FRIMLEY,CAMBERLEY,,YUM YUM,Takeaway/sandwich shop,7844,10,,83017,10,,51.31333000000000,202171,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74562900000000,GU16 7JE,2013-09-05,fhrs_3_en-GB,3,,FHRS,5
-259257,HOME CATERER,,,,YVONNE WOOD,Other catering premises,7841,0,,83030,0,,51.33994400000000,202212,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.71462500000000,GU15 1LZ,2013-08-19,fhrs_5_en-GB,5,,FHRS,0
-259258,50 PARK STREET,CAMBERLEY,SURREY,,ZIZZIS,Restaurant/Cafe/Canteen,1,0,,141568,5,,51.33811600000000,7807,312,environmental.health@surreyheath.gov.uk,Surrey Heath,http://www.surreyheath.gov.uk,-0.74848400000000,GU15 3PL,2014-02-14,fhrs_5_en-GB,5,,FHRS,5
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+258715,ADAM'S KEBAB,5,5,5,5,2014-05-15,51.325394,-0.75616
+258716,AGE CONCERN SURREY HEATH TEA ROOMS,Exempt,nan,nan,nan,2014-01-31,51.337349,-0.745749
+258717,AGINCOURT NIGHTCLUB,5,5,5,0,2013-07-15,51.334679,-0.76523
+258718,ALCATRAZ,2,10,15,10,2014-12-03,51.338303,-0.747417
+258719,ALEXANDER TAYLOR CAKES LTD,5,5,5,5,2013-06-18,51.353927,-0.674281
+258720,ALFA LAVAL,5,0,0,0,2014-06-19,51.329057,-0.768452
+258721,AMISH RESTAURANT,3,10,5,10,2014-04-24,51.349932,-0.59836
+258722,ANCIENT RAJ,3,10,10,10,2013-08-20,51.314078,-0.74327
+258723,ANDREAS STIHL CANTEEN,5,0,5,5,2014-01-30,51.331023,-0.768974
+258724,ANEKE SPACIE,5,0,0,0,2014-04-08,51.328384,-0.654119
+258725,ARIA CATERING,5,0,0,0,2014-02-07,51.32693,-0.755233
+258726,ARMIN'S CATERING,5,0,0,0,2013-11-18,51.323385,-0.638694
+258727,ARYANA EXPRESS,5,0,0,0,2014-05-14,51.31386,-0.744696
+258728,ATIF SUPERSTORE,5,5,0,5,2013-05-31,51.327527,-0.754772
+258729,BAGSHOT COUNTY INFANT SCHOOL,5,5,0,5,2014-09-22,51.358141,-0.694051
+258730,BAGSHOT CRICKET CLUB,5,5,0,0,2013-05-28,51.369133,-0.688696
+258731,BAGSHOT PARK NEURO REHABILITATION,4,5,10,5,2015-01-09,51.365318,-0.690083
+258732,BAGSHOT SF CONNECT,5,5,5,0,2013-09-20,51.362228,-0.6928
+258733,BAGSHOT VILLAGE CAFE,2,15,15,10,2014-08-28,51.361362,-0.693399
+258734,BARGAIN BOOZE,5,0,0,0,2014-03-14,51.32693,-0.755233
+258735,BARTON-TAYLOR CATERING,5,0,0,0,2014-10-09,51.325793,-0.75657
+258736,BASINGSTOKE CANAL CENTRE - CAFE,5,5,0,0,2013-05-29,,
+258737,BAXTER STOREY,5,5,0,0,2014-08-20,51.318212,-0.736369
+258738,BBQ PIT,5,5,5,5,2014-12-10,51.356003,-0.699928
+258739,BEAUMONT LODGE NURSING HOME,5,5,0,0,2015-01-06,51.334068,-0.755887
+258740,BEEFEATER,5,5,5,0,2014-03-06,51.369133,-0.688696
+258741,BEL VEDERE,4,5,0,10,2014-04-30,51.360954,-0.693928
+258742,BELLA ITALIA,5,5,0,0,2013-08-05,51.337311,-0.748879
+258743,BIJOU,3,5,10,10,2014-09-11,51.326356,-0.754574
+258744,BILL'S RESTAURANT LTD,4,10,5,5,2014-10-01,51.338116,-0.748484
+258745,BISLEY BASE LTD,4,10,0,10,2013-10-23,51.328081,-0.639617
+258746,BISLEY CHURCH OF ENGLAND PRIMARY SCHOOL,5,0,0,0,2013-05-01,51.325275,-0.634949
+258747,BLACKS OUTDOOR RETAIL LIMITED,Exempt,nan,nan,nan,2014-03-06,51.2719993591,-0.40499997139
+258748,BLUEBECKERS AT THE WHITE HART,4,10,0,5,2013-09-18,51.34653,-0.603461
+258749,BOOTS PHARMACY,Exempt,nan,nan,nan,2015-02-06,51.350388,-0.664345
+258750,BOOTS THE CHEMIST,Exempt,nan,nan,nan,2015-01-06,51.303468,-0.72831
+258751,BOOTS THE CHEMIST,5,0,0,0,2015-01-27,51.338884,-0.746281
+258752,BOWLPLEX PLC,4,10,0,5,2013-11-06,51.336781,-0.74809
+258753,BREAKFAST CLUB,Exempt,nan,nan,nan,2014-03-07,51.35289,-0.673248
+258754,BRENDA CRESWELL,5,0,0,0,2014-08-29,51.338061,-0.652702
+258755,BRITISH HOME STORES - STORE AND CAFE,5,5,0,5,2014-01-23,51.337349,-0.745749
+258756,BRONS NEWSAGENTS,4,0,0,10,2012-02-15,51.352775,-0.670307
+258757,BUDGENS STORES,5,5,0,0,2014-03-20,51.350388,-0.664345
+258758,BURGER KING,5,5,0,0,2014-07-16,51.338057,-0.744638
+258759,BURWOOD HOUSE HOTEL,5,5,5,5,2013-11-08,51.345264,-0.722545
+258760,C & T CATERING,5,0,0,5,2013-04-19,51.341096,-0.619089
+258761,CAFE BIRCH,5,0,0,0,2013-03-05,51.38389,-0.654705
+258762,CAFE GLADE,5,0,0,0,2014-06-06,51.31968,-0.741567
+258763,CAFFE AMORE,5,5,5,5,2013-07-04,51.372104,-0.684229
+258764,CAFFE NERO,5,5,0,0,2014-11-28,51.337194,-0.74716
+258765,CAKES BY NINA,5,0,0,0,2014-01-14,51.331709,-0.743046
+258766,CAKES FOR ANY OCCASION,5,0,0,0,2013-04-17,51.311096,-0.725287
+258767,CAMBERLEY & DISTRICT CLUB,5,0,0,0,2014-03-14,51.339206,-0.747809
+258768,CAMBERLEY BAPTIST CHURCH,5,0,0,0,2015-01-29,51.335198,-0.759919
+258769,CAMBERLEY BOWLS CLUB,5,0,0,0,2013-06-05,51.335805,-0.752653
+258770,CAMBERLEY BOXING CLUB 2013,5,0,0,0,2013-12-20,51.346551,-0.727607
+258771,CAMBERLEY CAKES,5,0,0,0,2013-08-30,51.348197,-0.721875
+258772,CAMBERLEY CASH AND CARRY,1,5,10,20,2013-11-29,51.334679,-0.76523
+258773,CAMBERLEY CRICKET CLUB,5,5,0,5,2013-04-23,51.326175,-0.741777
+258774,CAMBERLEY GARDEN APIARIES LTD,Exempt,nan,nan,nan,2013-09-05,51.343323,-0.71285
+258775,CAMBERLEY GUEST HOUSE,4,0,0,10,2014-02-04,51.341532,-0.740825
+258776,CAMBERLEY HEATH GOLF CLUB,5,5,0,5,2014-03-04,51.342779,-0.728452
+258777,CAMBERLEY NEWSAGENTS,Exempt,nan,nan,nan,2013-05-09,51.339623,-0.745572
+258778,CAMBERLEY RUGBY FOOTBALL CLUB,5,5,0,0,2013-10-25,51.32621,-0.751851
+258779,CAMBERLEY STORES,5,5,5,5,2012-05-29,51.32693,-0.755233
+258780,CAMBERLEY TANDOORI & COCKTAIL BAR,5,5,0,5,2013-09-09,51.334679,-0.76523
+258781,CAMBERLEY TOWN FOOTBALL CLUB,5,5,5,0,2013-05-01,51.327014,-0.756365
+258782,CAMBERLEY WORKING MENS' CLUB,4,0,5,10,2014-11-17,51.338884,-0.746281
+258783,CAMBRIDGE HOTEL,5,5,0,0,2014-08-29,51.339852,-0.745178
+258784,CAMBRIDGE HOUSE RESIDENTIAL HOME,5,0,0,0,2014-01-20,51.330209,-0.751613
+258785,CANDY MIX,5,0,0,5,2012-06-29,51.303737,-0.729092
+258786,CARD FACTORY,Exempt,nan,nan,nan,2012-04-02,51.337996,-0.745616
+258787,CARGO,Exempt,nan,nan,nan,2012-12-19,51.338116,-0.748484
+258788,CARPENTERS ARMS,5,5,0,0,2014-08-04,51.33653,-0.747322
+258789,CARWARDEN HOUSE COMMUNITY SCHOOL,5,5,0,0,2014-09-12,51.326972,-0.716609
+258790,CASA NOSTRA,1,10,10,20,2014-06-17,51.382995,-0.657404
+258791,CATERPAC FOODS,5,5,5,5,2014-12-12,51.334679,-0.76523
+258792,CATHERINE GUEST HOUSE,5,0,0,0,2013-05-29,51.334004,-0.754108
+258793,CEDAR LODGE NURSING HOME,5,5,5,5,2014-02-11,51.307736,-0.720589
+258794,CHARTWELLS,5,5,5,5,2013-12-13,51.322683,-0.749909
+258795,CHEF CHINA,5,5,5,5,2013-07-24,51.294254,-0.726184
+258796,CHEF SNACK BAR,5,0,5,5,2014-05-09,,
+258797,CHERRY BLOSSOM CAKE COMPANY,5,0,0,0,2013-05-02,51.355376,-0.69604
+258798,CHERRYDALE RESIDENTIAL CARE HOME,5,0,0,0,2014-08-13,51.333614,-0.714672
+258799,CHERRYMANS DAIRIES,4,5,0,10,2014-01-09,51.32589,-0.646097
+258800,CHILLI SPICE,5,0,0,5,2013-06-26,51.33608,-0.759981
+258801,CHIQUITOS,5,5,5,5,2013-12-09,51.335467,-0.750466
+258802,CHOBHAM BURYMEAD FOOTBALL CLUB,Exempt,nan,nan,nan,2012-01-06,51.323309,-0.606204
+258803,CHOBHAM CLUB,5,0,0,0,2013-03-15,51.352821,-0.606099
+258804,CHOBHAM CRICKET CLUB,5,0,0,0,2014-09-12,51.34653,-0.603461
+258805,CHOBHAM RUGBY FOOTBALL CLUB,5,5,0,0,2013-03-22,51.34982,-0.602557
+258806,CHOBHAM VILLAGE HALL,Exempt,nan,nan,nan,2013-05-21,51.34586681,-0.601431
+258807,CHRISTINA'S CUPCAKES,5,0,0,5,2012-11-06,51.3468,-0.66913
+258808,CHURCH HALL KITCHEN,4,5,0,10,2012-02-15,51.337899,-0.729167
+258809,CHUTNEYS,3,10,5,10,2014-01-08,51.321738,-0.729786
+258810,CINNAMON,1,10,5,20,2014-02-19,51.303737,-0.729092
+258811,CLAUDE DU VALL,4,10,5,0,2014-04-29,51.338085,-0.743906
+258812,CLEAN NUTRITION,4,0,0,10,2012-09-20,51.336123,-0.759765
+258813,COFFEE BUG,5,5,5,5,2014-04-11,51.3468,-0.66913
+258814,COLDINGLEY PRISON,5,5,0,5,2014-05-29,51.323057,-0.642177
+258815,COLLINGWOOD COLLEGE,5,5,0,0,2014-07-15,51.350287,-0.717279
+258816,COLLINGWOOD COLLEGE (SIXTH FORM CENTRE),5,0,0,0,2012-11-22,51.350287,-0.717279
+258817,COLLINGWOOD GRANGE NURSING HOME,5,5,5,0,2014-10-03,51.347204,-0.713359
+258818,CONNAUGHT COUNTY JUNIOR SCHOOL,5,0,5,0,2014-05-07,51.356822,-0.688631
+258819,CONTINENTAL HOTEL,5,5,5,5,2014-01-20,51.302643,-0.720329
+258820,COOK,5,0,0,0,2014-08-28,51.350388,-0.664345
+258821,COOKIES,4,5,5,10,2014-06-24,51.308405,-0.70542
+258822,CO-OP,5,5,5,5,2014-07-15,51.3481,-0.725324
+258823,CO-OPERATIVE FOOD,4,10,5,5,2014-01-27,51.361199,-0.691709
+258824,COQUELICOT,5,0,0,0,2013-06-06,51.316469,-0.728166
+258825,CORAL,Exempt,nan,nan,nan,2015-01-21,51.32693,-0.755233
+258826,CORDWALLES COUNTY JUNIOR SCHOOL,5,5,0,5,2014-01-23,51.349821,-0.724903
+258827,CORRINA NURSING HOME,5,5,0,0,2013-11-13,51.332169,-0.755766
+258828,COST CUTTERS,4,5,5,10,2011-11-24,51.290516,-0.725585
+258829,COSTA COFFEE,5,5,5,0,2014-01-09,51.304327,-0.69928
+258830,COWORTH-FLEXLANDS SCHOOL,5,0,0,0,2014-09-12,51.372595,-0.625196
+258831,CRAB & DRAGON,5,5,0,0,2014-01-23,51.322491,-0.753904
+258832,CRAWLEY RIDGE COUNTY INFANT SCHOOL,5,0,0,0,2015-02-11,51.339997,-0.726955
+258833,CRAWLEY RIDGE COUNTY JUNIOR SCHOOL,5,0,0,0,2015-02-11,51.339997,-0.726955
+258834,CREAMS CAFE,5,5,0,0,2014-10-16,51.338116,-0.748484
+258835,CROSS FARM COUNTY INFANT SCHOOL,5,5,0,0,2013-02-14,51.304383,-0.733163
+258836,CURLEY PARK RANGERS FC,5,0,5,0,2013-02-05,51.35619,-0.684412
+258837,CURRY CODDLER,5,0,0,5,2012-11-27,51.328126,-0.730915
+258838,DAIRY CREST,5,5,0,0,2012-11-20,51.364265,-0.654346
+258839,DAIRY CREST,5,5,0,0,2013-10-22,51.330772,-0.769957
+258840,DAWN'S CAKES,5,0,0,0,2014-04-03,51.352812,-0.717955
+258841,DEEPCUT - CAFE,1,5,15,20,2014-06-18,51.308063,-0.704583
+258842,DEEPCUT NEWSAGENT AND OFF LICENCE,5,5,0,0,2014-02-28,51.308063,-0.704583
+258843,DELLA NONNA,4,5,5,10,2014-10-08,51.303737,-0.729092
+258844,DETTINGEN PARK SPAR SHOP,5,0,5,0,2013-03-25,51.311088,-0.697582
+258845,DIANE SANDERSON,5,0,0,0,2014-08-29,51.358451,-0.69522
+258846,DISABILITY INITIATIVE - CATERING,5,0,0,0,2014-03-10,51.338951,-0.743494
+258847,DOMINOS PIZZA,5,0,0,0,2013-04-22,51.362005,-0.692189
+258848,DOMINO'S PIZZA,5,0,5,0,2014-10-14,51.302113,-0.726985
+258849,DONKEY POO,5,0,0,0,2013-08-23,51.323267,-0.729858
+258850,DONNA CAN BAKE,5,0,0,5,2012-12-11,51.294975,-0.731256
+258851,DRAKES SANDWICH BAR,5,0,0,5,2013-09-18,51.347993,-0.602454
+258852,DYNASTY,1,5,0,20,2013-09-27,51.338444,-0.748059
+258853,EASTERN & ORIENTAL RESTAURANT,1,15,15,20,2014-09-02,51.359974,-0.608007
+258854,EATING OUT,3,10,10,5,2014-05-19,,
+258855,EL PIC,4,5,5,10,2014-10-21,51.339206,-0.747809
+258856,ELAICHI,4,5,5,10,2014-01-30,51.314078,-0.74327
+258857,ELI LILLY & CO LTD (STAFF CANTEEN),5,5,5,5,2014-01-15,51.375654,-0.677691
+258858,ELIOR,5,5,5,5,2014-02-11,51.327144,-0.761887
+258859,ELMFIELD HOUSE,5,0,0,5,2013-09-11,51.327496,-0.638027
+258860,EMMA TREVES,5,0,0,0,2015-01-16,51.329736,-0.751081
+258861,EUREST UK LTD,5,5,0,0,2013-08-21,51.310579,-0.737339
+258862,EVEREST CASH AND CARRY,1,15,10,20,2014-09-25,51.334679,-0.76523
+258863,FAIROAKS AIRPORT BAR,5,0,0,0,2013-12-17,51.350155,-0.563372
+258864,FAIROAKS FOODS,5,0,0,0,2014-03-18,51.350155,-0.563372
+258865,FARMHOUSE PIZZA,5,5,0,5,2014-01-06,51.334679,-0.76523
+258866,FILL YOUR BOOTS,5,0,0,0,2014-03-24,51.350735,-0.594832
+258867,FIONA'S CAKES,5,0,0,0,2013-10-11,51.336982,-0.614145
+258868,FKC,5,5,0,0,2014-08-06,51.313745,-0.744039
+258869,FLORAL & HARDY,4,5,0,10,2014-09-30,51.353177,-0.70288
+258870,FOOD FOR THOUGHT,5,0,0,0,2013-12-12,51.367266,-0.65489
+258871,FOUR HORSESHOES,5,5,5,5,2013-12-13,51.330246,-0.755933
+258872,FOX IN A BOX CAKES & CATERING,5,5,0,0,2014-11-27,51.340057,-0.729179
+258873,FRANKIE AND BENNYS,5,0,0,5,2014-03-27,51.337311,-0.748879
+258874,FRENCHIES LTD,5,0,0,0,2014-05-06,51.338303,-0.747417
+258875,FRIMHURST ENTERPRISES CIC,5,0,0,0,2013-07-17,51.301743,-0.716954
+258876,FRIMLEY C OF E FIRST & MIDDLE SCHOOL,5,5,0,5,2014-06-12,51.308101,-0.732716
+258877,FRIMLEY COMMUNITY CENTRE,5,0,0,5,2012-02-23,51.31088,-0.733572
+258878,FRIMLEY CRICKET CLUB,1,5,5,20,2013-05-21,51.3132591248,-0.74528002739
+258879,FRIMLEY GREEN FOOTBALL CLUB,5,0,0,5,2015-01-27,51.307048,-0.730134
+258880,FRIMLEY GREEN PRE-SCHOOL,Exempt,nan,nan,nan,2014-05-15,51.31088,-0.733572
+258881,FRIMLEY GREEN SERVICE STATION,5,5,0,0,2014-07-21,51.303468,-0.72831
+258882,FRIMLEY GREEN WORKING MENS CLUB,5,5,0,5,2014-08-01,51.301148,-0.72836
+258883,FRIMLEY ROAD CAFE,4,5,5,10,2014-12-04,51.32693,-0.755233
+258884,FRIMLEY SERVICE STATION - TEXACO,5,0,0,0,2014-09-12,51.320867,-0.731546
+258885,GARYS CHIPPY,3,10,10,5,2013-08-22,51.349932,-0.59836
+258886,GEORGE ARTHUR BUTCHERS,5,5,5,5,2014-03-18,51.350841,-0.663916
+258887,GEORGE'S COFFEE SHOP,1,10,5,20,2013-06-21,51.350465,-0.664845
+258888,GI JANE.COM,5,0,0,5,2013-05-23,51.32314,-0.640782
+258889,GOLDEN JADE,3,10,10,10,2014-03-06,51.351763,-0.665899
+258890,GOLDEN KITCHEN,5,0,0,0,2014-02-19,51.32972,-0.702408
+258891,GOOD TASTE,5,5,0,5,2014-03-24,51.338085,-0.743906
+258892,GOOD TASTE COFFEE,5,5,5,0,2013-07-23,51.338085,-0.743906
+258893,GORDON FILLING STATION,5,5,0,0,2013-03-15,51.338625,-0.642348
+258894,GORDON'S SCHOOL KITCHEN,4,5,5,10,2013-10-23,51.343583,-0.646567
+258895,GRAVITY FORCE CAFE ONLY,5,5,0,0,2014-09-26,51.329346,-0.772062
+258896,GREGGS,5,5,0,0,2014-06-09,51.337349,-0.745749
+258897,H & R  NEWS,4,0,0,10,2013-03-07,51.338085,-0.743906
+258898,H A BROWN & SON,Exempt,nan,nan,nan,2012-11-15,51.338304,-0.639544
+258899,HALFWAY KIOSK - EAST/WEST,4,5,0,10,2013-10-15,,
+258900,HALFWAY KIOSK - SOUTH,4,5,5,10,2013-10-15,51.399636,-0.589697
+258901,HALL GROVE SCHOOL,5,0,0,0,2014-06-16,51.370348,-0.68076
+258902,HAMMOND COMMUNITY JUNIOR SCHOOL,5,0,0,0,2013-02-14,51.350393,-0.679121
+258903,HANGAR CAFE,2,15,5,10,2014-08-27,51.350155,-0.563372
+258904,HARVESTER KINGS HEAD,5,5,0,0,2013-11-26,51.300178,-0.723496
+258905,HARVESTER WINDLE BROOK,5,5,0,0,2013-06-20,51.360589,-0.69503
+258906,HATTON HILL NURSERY SCHOOL,5,5,0,5,2014-09-05,51.370465,-0.663359
+258907,HEATERS,5,5,0,5,2013-05-09,51.326086,-0.638901
+258908,HEATHER RIDGE COUNTY INFANT SCHOOL PTA,5,5,0,0,2013-06-05,51.332241,-0.705969
+258909,HEATHERSIDE COMMUNITY CENTRE,5,0,0,0,2013-07-25,51.328101,-0.7032
+258910,HEATHERSIDE PHARMACY,Exempt,nan,nan,nan,2014-07-09,51.32972,-0.702408
+258911,HEN AND CHICKEN PUBLIC HOUSE,3,10,10,10,2014-03-11,51.326086,-0.638901
+258912,HERBIES PIZZA,3,10,5,10,2014-06-19,51.312493,-0.725564
+258913,HERBIES PIZZA,1,15,5,20,2015-01-08,51.362005,-0.692189
+258914,HIGH CROSS CAFE,5,0,5,0,2014-05-09,51.338539,-0.743462
+258915,HILLSIDE RESOURCE CENTRE,5,5,5,5,2013-10-30,51.340321,-0.732761
+258916,HILLVIEW NEWS AGENCY,5,0,5,5,2014-03-14,51.364736,-0.653873
+258917,HOLLAND AND BARRETT,5,0,0,0,2013-01-08,51.337996,-0.745616
+258918,HOLLY LODGE,5,0,0,5,2014-09-03,51.307736,-0.720589
+258919,HOLY TRINITY PRIMARY SCHOOL,5,5,0,5,2014-09-10,51.339561,-0.634669
+258920,HONG KONG 97,5,5,5,5,2014-03-10,51.360954,-0.693928
+258921,HOT ROCK BUTCHERY,3,10,5,10,2014-09-02,51.326086,-0.638901
+258922,HOT WOK,5,5,5,0,2013-08-14,51.348451,-0.726219
+258923,HQ SERGEANTS' MESS,5,5,5,5,2013-10-15,51.305186,-0.698108
+258924,HUMPHREY'S DINER,3,10,10,10,2014-02-25,51.36027,-0.591366
+258925,ICANDY CAKES & BAKES,5,0,0,0,2014-06-17,51.304383,-0.733163
+258926,INDIAN CREATIONS LTD,5,0,0,0,2014-09-16,51.366951,-0.647099
+258927,INDO FINE INDIAN DINING,2,15,10,10,2014-10-27,51.347635,-0.604059
+258928,IZ INDIAN TAKEAWAY,5,5,5,5,2014-06-17,51.361391,-0.691115
+258929,J R WINES,4,5,0,10,2013-12-18,51.321738,-0.729786
+258930,JACK'S,5,5,0,0,2013-07-17,51.362228,-0.6928
+258931,JAKES CHILDRENS PLAYWORLD,5,5,0,5,2014-09-12,51.365318,-0.690083
+258932,JANE DAVIES,5,0,0,0,2014-11-24,51.34982,-0.602557
+258933,JANY DODDS,5,0,0,0,2014-10-27,51.344644,-0.674821
+258934,JARMANS BAKERY LTD,5,0,5,0,2014-04-04,51.303737,-0.729092
+258935,JEERA,1,15,15,20,2014-09-10,51.361732,-0.691866
+258936,JENNY'S RESTAURANT,5,0,0,0,2014-04-09,51.338057,-0.744638
+258937,JILL RAGG,4,10,0,5,2013-03-15,51.356161,-0.577302
+258938,JOHN HATTO BUTCHERS LTD,2,15,5,10,2014-09-15,51.32693,-0.755233
+258939,JULIE'S CUPCAKES,5,0,0,0,2014-04-23,51.338897,-0.644092
+258940,JUNIOR RANKS' BAR,4,10,0,10,2013-03-21,51.304327,-0.69928
+258941,JUNIOR RANKS' MESS KITCHEN,5,5,5,5,2013-06-20,51.304327,-0.69928
+258942,K. BURRAGE,5,0,0,5,2013-07-05,51.348652,-0.658006
+258943,KARAHI KING,5,0,0,5,2013-04-15,51.335198,-0.759919
+258944,KATHIE BRUM,5,0,0,0,2014-10-13,51.337693,-0.614999
+258945,KFC,5,5,0,0,2014-05-28,51.338057,-0.744638
+258946,KFC,5,0,5,0,2013-10-24,51.33346,-0.769009
+258947,KIM JONES,5,5,0,5,2014-06-09,51.337272,-0.649796
+258948,KIM'S PLAICE,5,0,0,0,2014-07-11,51.31333,-0.745629
+258949,KINGFISHER ON THE QUAY,5,5,5,0,2014-06-03,51.293155,-0.735953
+258950,KINGS FISH AND CHIP SHOP,5,0,0,5,2013-06-21,51.327527,-0.754772
+258951,KINGSCLEAR NURSING HOME,5,5,0,0,2014-08-12,51.33223,-0.746305
+258952,KUPCAKES,5,0,0,0,2013-11-12,51.313783,-0.74764
+258953,LA-DI-DA,5,5,5,5,2014-07-08,51.336539,-0.74754
+258954,LAINFORD BUTCHERS (CAMBERLEY) LTD,4,5,5,10,2014-05-20,51.348451,-0.726219
+258955,LAKESIDE COUNTRY CLUB,5,5,5,5,2014-06-25,51.302643,-0.720329
+258956,LAKESIDE COUNTY PRIMARY SCHOOL,5,5,5,0,2014-12-02,51.318435,-0.728729
+258957,LAKESIDE INTERNATIONAL HOTEL,4,10,5,5,2014-12-11,51.303851,-0.7214
+258958,LAKESIDE LEISURE CENTRE,Exempt,nan,nan,nan,2014-03-10,51.302643,-0.720329
+258959,LESLIE'S CAKES,5,0,0,0,2012-05-14,51.34982,-0.602557
+258960,LIDL,5,0,0,0,2012-06-27,51.337938,-0.749494
+258961,LIGHTWATER CLUB,5,0,0,0,2014-05-09,51.350841,-0.663916
+258962,LIGHTWATER MAJOR MINORS NURSERY (CARING DAYCARE LTD),5,5,0,5,2014-10-21,51.350136,-0.674649
+258963,LIGHTWATER NEWSAGENTS,Exempt,nan,nan,nan,2013-03-06,51.350841,-0.663916
+258964,LIGHTWATER PRE-SCHOOL,5,0,0,5,2014-04-23,51.351439,-0.67856
+258965,LIGHTWATER SF CONNECT,5,0,0,0,2013-02-14,51.350841,-0.663916
+258966,LIGHTWATER TANDOORI,1,10,10,20,2014-08-07,51.353633,-0.676127
+258967,LIGHTWATER VILLAGE SCHOOL,5,5,0,0,2013-03-08,51.35289,-0.673248
+258968,LINOLA'S CAFE LIMITED,5,5,0,5,2013-10-29,51.348451,-0.726219
+258969,LIQUOR WORLD,Exempt,nan,nan,nan,2012-06-07,51.3654556274,-0.65547478199
+258970,LITTLE ECHOES DAY NURSERY,5,5,0,0,2013-11-11,51.35619,-0.684412
+258971,LITTLE STREET LTD,5,0,0,0,2014-06-09,51.311852,-0.746975
+258972,LITTLUNS DAY CARE,5,0,0,0,2013-03-22,51.333332,-0.756065
+258973,LLOYDS CHEMIST,Exempt,nan,nan,nan,2014-03-14,51.361205,-0.69303
+258974,LLOYDS PHARMACY LIMITED,Exempt,nan,nan,nan,2015-01-21,51.31386,-0.744696
+258975,LONGACRES FARMERS MARKET,5,0,0,0,2013-08-14,51.372104,-0.684229
+258976,LORASO SOFT ICE CREAM,5,0,0,0,2013-10-22,51.372104,-0.684229
+258977,LORRAINE COUNTY INFANT SCHOOL,4,10,0,0,2013-03-19,51.347102,-0.731985
+258978,LOU-LU CAKES,5,0,0,0,2012-03-09,51.323551,-0.728659
+258979,LOVE COFFEE,5,0,0,0,2014-06-09,,
+258980,LUCKEYS CAKES,5,0,0,0,2013-07-22,51.303104,-0.723787
+258981,M & D SUPERSTORE,5,5,5,5,2012-02-15,51.356003,-0.699928
+258982,MACDONALD FRIMLEY HALL HOTEL,5,5,5,5,2013-07-24,51.339186,-0.725097
+258983,MADHATTER CAKES,5,0,0,5,2012-09-13,51.317845,-0.75667
+258984,MAGIC CASTLE,5,0,5,5,2014-12-16,51.337311,-0.748879
+258985,MAJESTIC WINE WAREHOUSE,Exempt,nan,nan,nan,2013-02-19,51.335498,-0.747522
+258986,MAKALINI'S,5,0,5,5,2013-08-22,51.341809,-0.742354
+258987,MANDERS CATERING,5,0,0,5,2013-10-30,51.341096,-0.619089
+258988,MANZIL RESTAURANT,4,5,5,10,2014-02-25,51.32693,-0.755233
+258989,MARIETTA OSBOURN,5,0,0,0,2014-10-27,51.359302,-0.606649
+258990,MARTINS,5,5,0,0,2013-09-03,51.31386,-0.744696
+258991,MARTINS NEWSAGENTS,4,10,5,5,2014-02-04,51.32972,-0.702408
+258992,MCCHINA WOK AWAY,5,5,5,5,2015-01-19,51.338444,-0.748059
+258993,MCDONALDS,5,5,5,0,2014-07-30,51.338085,-0.743906
+258994,MCDONALDS TAKE-AWAY,5,0,0,0,2014-08-05,51.334679,-0.76523
+258995,MEADOWCROFT GUESTHOUSE,5,0,0,0,2012-07-30,51.333021,-0.758111
+258996,MEALS-ON-WHEELS,5,0,0,0,2014-08-19,51.33948,-0.743178
+258997,MEHNGA PRODUCTS LTD,5,0,0,5,2013-09-23,51.315933,-0.73184
+258998,MEI ASIAN RESTAURANT,5,0,0,5,2013-10-16,51.34653,-0.603461
+258999,MEI'S KITCHEN,5,5,5,5,2013-09-26,51.350841,-0.663916
+259000,MERLIN NARROW BOAT,5,0,0,5,2012-02-22,51.28682,-0.720625
+259001,MEXICALI,5,0,0,0,2013-07-10,51.284873,-0.725985
+259002,MILANO PIZZA,3,10,5,10,2014-06-11,51.32693,-0.755233
+259003,MINGLEY,4,10,5,5,2013-07-10,51.335198,-0.759919
+259004,MINGS WINDLESHAM,1,10,10,20,2014-09-16,51.375427,-0.673473
+259005,MOGUL,5,0,0,0,2013-03-01,51.362375,-0.693931
+259006,MOORLANDS NURSING HOME,5,5,0,0,2014-08-26,51.342423,-0.683629
+259007,MORRISON SUPERMARKET PLC,5,0,0,0,2013-11-05,51.302516,-0.726787
+259008,MR COD,5,5,5,5,2014-01-15,51.32693,-0.755233
+259009,MR LAU'S,1,10,5,20,2013-10-08,51.32972,-0.702408
+259010,MR ROGER FLORIO,5,0,0,0,2014-09-30,51.350512,-0.577132
+259011,MRH WINDLESHAM SOUTH,5,5,0,0,2012-03-23,51.377741,-0.669024
+259012,MRS CHRISTINE LOVEDAY,5,0,5,5,2014-02-27,51.34614,-0.731983
+259013,MRS G BRAND,5,0,0,0,2014-06-27,51.286917,-0.724552
+259014,MYTCHETT NEWSAGENTS,5,5,0,5,2012-10-29,51.290516,-0.725585
+259015,MYTCHETT PRIMARY SCHOOL,5,0,0,0,2015-01-09,51.294623,-0.729516
+259016,MYTCHETT SF CONNECT,5,5,5,0,2014-04-30,51.284873,-0.725985
+259017,NANDO'S CHICKENLAND LTD,5,5,0,0,2014-10-28,51.337311,-0.748879
+259018,NEW CENTURY,4,5,5,10,2014-07-15,51.361391,-0.691115
+259019,NEW CHINA,4,10,5,5,2014-06-18,51.360788,-0.693545
+259020,NEW DIWAN-EE-KHAS,1,10,5,20,2013-07-09,51.335051,-0.763856
+259021,NEW LOOK,Exempt,nan,nan,nan,2014-04-08,51.338101,-0.746231
+259022,NIRJALA LTD,4,5,5,10,2014-04-11,51.349932,-0.59836
+259023,NONNA`S PIZZA,1,15,10,20,2015-01-20,51.348451,-0.726219
+259024,NORMANDY BUTCHERS,5,5,0,5,2014-04-29,51.338304,-0.639544
+259025,NOVARTIS,5,5,0,5,2014-07-01,51.329535,-0.759268
+259026,NOVARTIS PHARMACEUTICALS UK LTD,5,5,0,0,2013-08-16,51.31376,-0.7547
+259027,NURSERY ON THE GREEN,5,5,5,0,2014-11-25,51.302043,-0.728794
+259028,OFFICERS' MESS HQ - ISS DEFENCE,5,5,5,5,2013-06-20,51.304327,-0.69928
+259029,OFFICERS' MESS PRB ISS DEFENCE,5,5,0,0,2014-01-09,51.304327,-0.69928
+259030,OLD DEAN BOWLING CLUB,4,5,0,10,2013-04-23,51.350808,-0.72387
+259031,OLD THAI HOUSE,4,5,5,10,2013-10-29,51.356003,-0.699928
+259032,OLIVERS,4,10,0,0,2013-04-11,51.31386,-0.744696
+259033,ONE STOP,5,0,0,0,2014-03-18,51.314312,-0.736548
+259034,ONE STOP,5,5,0,0,2013-09-03,51.302043,-0.728794
+259035,OUR SWEET THINGS,5,0,0,0,2012-10-31,51.329449,-0.72442
+259036,OXFAM SHOP,Exempt,nan,nan,nan,2012-12-06,,
+259037,OYSTERS FISH & CHIP SHOP,5,5,0,5,2014-03-10,51.351763,-0.665899
+259038,PAMELA HYNDS,5,0,0,5,2014-02-14,51.316501,-0.735254
+259039,PAPA JOHNS PIZZA,4,10,5,0,2013-04-17,51.350841,-0.663916
+259040,PASHA,5,5,5,5,2014-02-14,51.345825,-0.603913
+259041,PATISSERIE BY HILARY,5,0,0,0,2012-11-16,51.329039,-0.633029
+259042,PEAKS CATERING,5,0,0,5,2013-03-25,51.341096,-0.619089
+259043,PENNYHILL PARK HOTEL,5,5,5,5,2015-01-14,51.356663,-0.709202
+259044,PENNYPOT NURSERY SCHOOL,5,0,0,0,2013-08-13,51.345597,-0.617245
+259045,PHILIPPA PINKERTON,5,0,0,0,2014-11-04,51.355917,-0.5566
+259046,PINE RIDGE COUNTY INFANT SCHOOL,5,5,0,0,2013-02-27,51.352431,-0.716817
+259047,PINE RIDGE GOLF CENTRE,3,10,10,10,2013-07-18,51.321109,-0.700298
+259048,PINE TREES RESTAURANT,5,5,0,0,2013-12-17,51.31968,-0.741567
+259049,PINEHURST RESOURCE CENTRE,5,5,0,5,2013-12-09,51.33317,-0.745935
+259050,PISTACHIOS IN THE PARK,5,0,0,0,2013-05-08,51.299307,-0.728569
+259051,PIZZA EXPRESS,5,5,5,5,2013-10-23,51.336781,-0.74809
+259052,PIZZA GO GO,5,5,5,5,2014-03-24,51.33608,-0.759981
+259053,PIZZA HUT,5,5,0,0,2013-04-11,51.32693,-0.755233
+259054,POPPINS RESTAURANT,5,0,0,0,2014-06-24,51.338085,-0.743906
+259055,POPS PIZZA,5,5,5,5,2013-07-10,51.307389,-0.705377
+259056,PORTESBERY SCHOOL,5,5,0,5,2014-01-20,51.338962,-0.740163
+259057,POSTGRADUATE EDUCATION CENTRE,4,5,0,10,2014-03-14,51.303994,-0.714183
+259058,POTTERS STEAKHOUSE,5,5,0,0,2014-06-11,51.28682,-0.720625
+259059,POUNDLAND LTD,5,5,0,0,2014-01-22,51.337672,-0.746501
+259060,PREETI YUMMY CAKES,5,5,0,0,2012-11-08,51.321027,-0.756555
+259061,PREMIER INN,3,5,10,10,2015-01-12,51.338116,-0.748484
+259062,PREZZO,5,5,5,0,2013-11-13,51.337311,-0.748879
+259063,PRINCESS CHRISTIAN CARE CENTRE,5,5,0,5,2014-01-17,51.315577,-0.636887
+259064,PRINCESS COTTAGE,4,5,5,10,2014-02-19,51.362005,-0.692189
+259065,PRIOR HEATH INFANT SCHOOL,5,5,0,0,2014-07-16,51.332724,-0.718817
+259066,PURE BEAN CAFE LTD,5,0,0,0,2014-04-25,51.289845,-0.722563
+259067,R A BEVAN & CO LTD,5,5,5,5,2014-03-27,51.372104,-0.684229
+259068,RAILWAY ARMS,5,5,0,0,2014-03-28,51.31333,-0.745629
+259069,RAJPUR TANDOORI RESTAURANT,1,5,15,20,2014-07-16,51.294254,-0.726184
+259070,RAM DISPENSING CHEMIST,Exempt,nan,nan,nan,2013-03-06,51.312493,-0.725564
+259071,RASHOI INDIAN CUISINE,3,10,10,10,2014-07-17,51.365456,-0.655475
+259072,RAVENSCOTE COMMUNITY JUNIOR  SCHOOL,5,5,0,0,2014-06-18,51.32337,-0.717011
+259073,REAL CORNISH CAMBERLEY LTD,5,5,5,5,2015-01-16,,
+259074,RED DOT PANTRY,5,5,0,0,2014-10-30,51.360954,-0.693928
+259075,REDWOOD CAMPUS,5,0,0,0,2014-10-02,51.323023,-0.753172
+259076,RESTAURANT ASSOCIATES,5,0,5,0,2013-05-24,51.333381,-0.765781
+259077,ROC UK LTD,5,0,0,0,2014-05-21,51.324272,-0.754774
+259078,RON & COMPANY,5,5,0,5,2012-02-29,51.377741,-0.669024
+259079,ROOSTERS PIRI PIRI,3,5,10,10,2014-01-22,51.335051,-0.763856
+259080,ROWLANDS PHARMACY,Exempt,nan,nan,nan,2014-01-31,51.338304,-0.639544
+259081,ROYAL STANDARD PH,4,10,5,5,2014-02-18,51.327527,-0.754772
+259082,RSS CHOBHAM,5,5,0,0,2013-06-05,51.345509,-0.603018
+259083,SAINSBURY,5,5,5,0,2013-09-10,51.337672,-0.746501
+259084,SAINSBURY'S,5,0,0,0,2014-09-17,51.326429,-0.638259
+259085,SAINSBURY'S SUPERMARKET,5,5,0,0,2012-10-03,51.32972,-0.702408
+259086,SAINSBURY'S SUPERMARKET,5,5,0,0,2014-01-14,51.323322,-0.761875
+259087,SANDRINGHAM COUNTY INFANT SCHOOL,5,5,0,5,2013-05-09,51.308908,-0.724961
+259088,SBLENDED MILKSHAKES,5,0,5,5,2013-04-25,51.337087,-0.749833
+259089,SEA KING,5,5,0,5,2013-05-16,51.294254,-0.726184
+259090,SERGEANTS' MESS   PRB,5,0,5,0,2013-10-15,51.304327,-0.69928
+259091,SERVEST (TRAVELEX),5,0,0,0,2014-04-15,51.317212,-0.752124
+259092,SHERIDAN ROAD HOUSE,5,0,0,0,2014-08-28,51.312568,-0.739954
+259093,SHIV CONVENIENCE STORE,4,5,0,10,2012-02-29,51.340394,-0.643732
+259094,SIEW KUEN THOMAS,5,5,0,5,2014-12-08,51.342103,-0.736201
+259095,SILVER DRAGON CHINESE TAKEAWAY,5,5,5,5,2014-10-01,51.32693,-0.755233
+259096,SILVER SEA FISH BAR,1,5,5,20,2013-09-06,51.302113,-0.726985
+259097,SIMPLY DINE,5,0,0,0,2014-07-22,51.350295,-0.598651
+259098,SINGAPORE STREET FOOD,5,5,0,5,2014-07-22,51.335607,-0.724292
+259099,SO ASIA,5,5,0,5,2014-08-26,51.338085,-0.743906
+259100,SODEXO - BAE SYSTEMS,5,5,0,5,2014-06-10,51.31639,-0.747583
+259101,SONJA MUSKER,5,0,0,5,2013-11-11,51.307389,-0.705377
+259102,SOUTH CAMBERLEY PRIMARY AND NURSERY SCHOOL,5,0,0,0,2013-12-09,51.321312,-0.75461
+259103,SPAR,5,5,0,0,2014-06-03,51.348451,-0.726219
+259104,SPAR,4,10,0,0,2012-06-21,51.304327,-0.69928
+259105,SPARKIE CREATIONS,Exempt,nan,nan,nan,2013-08-19,51.352431,-0.716817
+259106,SPICE LOUNGE,5,5,0,0,2013-10-01,51.294254,-0.726184
+259107,SPICE TRADERS,2,15,10,10,2014-06-05,51.307389,-0.705377
+259108,SPORTS PAVILION,5,0,0,0,2015-01-13,51.343346,-0.640802
+259109,ST ANDREWS CHURCH,5,0,0,5,2013-03-08,51.299307,-0.728569
+259110,ST ANNES CHURCH HALL,Exempt,nan,nan,nan,2013-05-16,51.360285,-0.69682
+259111,ST FRANCIS CHURCH HALL,5,0,0,0,2013-12-04,51.31425,-0.73919
+259112,ST GOURMET LTD,4,5,5,10,2014-11-18,51.324576,-0.639807
+259113,ST JOHNS LINK,5,0,0,5,2013-03-12,51.365024,-0.664853
+259114,ST LAWRENCE PRIMARY SCHOOL,5,5,0,0,2013-12-04,51.347222,-0.604919
+259115,ST PETER'S CHURCH HALL,5,0,0,0,2014-04-17,51.31501,-0.737935
+259116,STARBUCKS COFFEE COMPANY,5,5,0,0,2015-02-03,51.337311,-0.748879
+259117,STARBUCKS COFFEE COMPANY,5,0,0,0,2015-01-09,51.323322,-0.761875
+259118,STELJES LTD,5,5,0,5,2013-08-21,51.358508,-0.686673
+259119,STEPPING STONES,4,0,0,10,2013-11-11,,
+259120,STIPERSTONES,5,0,0,5,2014-01-27,51.3478,-0.614235
+259121,STOVELL'S,1,5,5,20,2013-05-02,51.357965,-0.608427
+259122,SUBWAY,5,0,0,0,2014-11-25,51.314078,-0.74327
+259123,SUBWAY,2,15,5,10,2013-06-13,51.337996,-0.745616
+259124,SUBWAY,5,5,5,5,2013-06-06,51.334679,-0.76523
+259125,SUE BRENNAN,5,0,5,5,2014-05-15,51.326365,-0.732772
+259126,SUE RYDER SHOP,Exempt,nan,nan,nan,2014-05-14,51.338884,-0.746281
+259127,SUE'S BREWS CAFE,5,0,0,0,2014-10-22,51.334191,-0.752252
+259128,SUGAR LEAVES,5,0,0,0,2012-06-25,51.327889,-0.705201
+259129,SUMERFIELD HOUSE DAY NURSERY,5,0,0,0,2013-08-13,51.349142,-0.576888
+259130,SUNRISE SENIOR LIVING OF BAGSHOT,5,5,0,0,2014-12-08,51.365318,-0.690083
+259131,SUPER SHOP,Exempt,nan,nan,nan,2013-03-06,51.361205,-0.69303
+259132,SUPERDRUG PLC,5,0,0,0,2014-08-22,51.338346,-0.746411
+259133,SURREY ARMS,5,5,0,0,2014-09-02,51.338085,-0.743906
+259134,SURREY TANDOORI,5,0,0,5,2013-06-26,51.32693,-0.755233
+259135,SUTTONS,3,10,10,10,2014-05-28,51.364265,-0.654346
+259136,SWEET & NEAT CUP CAKES,5,0,0,5,2013-03-26,51.344023,-0.709456
+259137,SYLVIAS CAKE DECORATING,5,0,0,0,2012-11-01,51.290201,-0.723084
+259138,T & J FISHERIES,5,0,0,0,2014-02-03,51.321386,-0.736325
+259139,TALL TREES CAMPUS,5,5,0,0,2013-03-20,51.334464,-0.750852
+259140,TARA DINING,5,0,0,0,2013-02-20,51.329359,-0.704744
+259141,TEAM SPORT INDOOR KARTING,4,5,10,5,2013-03-07,51.31489,-0.750207
+259142,TEKELS PARK GUEST HOUSE,5,5,0,5,2014-02-11,51.2719993591,-0.40499997139
+259143,TENAKER,5,5,5,5,2012-02-28,51.336982,-0.614145
+259144,TESCO EXPRESS,5,5,0,0,2012-03-22,51.312493,-0.725564
+259145,TESCO STORES LIMITED,5,0,0,0,2013-05-16,51.346038,-0.602155
+259146,TEXACO - CAMBERLEY SERVICE STATION,3,5,10,10,2013-07-12,51.3292,-0.727958
+259147,THAI BRIGHT KITCHEN,4,5,5,10,2014-01-14,51.335198,-0.759919
+259148,THE ARENA LEISURE CENTRE,5,5,0,5,2014-10-15,51.336279,-0.750759
+259149,THE ARK,5,0,0,5,2013-08-02,,
+259150,THE ARK NURSERY,5,0,0,0,2012-03-12,51.290831,-0.731399
+259151,THE BEANSHACK,4,5,5,10,2014-01-14,51.351439,-0.67856
+259152,THE BEAR,1,10,5,20,2013-12-04,,
+259153,THE BEE,4,0,5,10,2014-01-07,51.374011,-0.673945
+259154,THE BELGIAN WAFFLE COMPANY,5,0,0,0,2012-09-11,51.339841,-0.742451
+259155,THE BRICKMAKERS,5,5,0,0,2013-04-12,51.372107,-0.640367
+259156,THE BUTTS DAY CENTRE,5,5,0,5,2014-02-14,51.329692,-0.638148
+259157,THE CAKE BAKER,5,0,0,5,2012-10-25,51.325161,-0.714665
+259158,THE CASTLE GROVE,3,10,5,10,2013-07-22,51.341263,-0.606665
+259159,THE CEDAR TREE,5,0,0,0,2014-02-19,51.360954,-0.693928
+259160,THE CO-OPERATIVE,5,0,0,0,2015-01-05,51.347635,-0.604059
+259161,THE COVE CATERING LTD,4,5,0,10,2014-11-05,51.358094,-0.608725
+259162,THE CROSSLEY CLUB,5,5,0,5,2013-02-27,51.352344,-0.667979
+259163,THE FLAME GRILL,1,10,10,20,2014-02-24,51.32693,-0.755233
+259164,THE FORESTERS ARMS,2,15,5,10,2014-06-30,51.356003,-0.699928
+259165,THE FOUR HORSESHOES,5,5,5,5,2015-01-21,51.357084,-0.60844
+259166,THE FUN FACTORY,5,0,0,0,2014-12-11,51.341532,-0.740825
+259167,THE GOOSE,5,5,5,0,2013-07-08,51.338057,-0.744638
+259168,THE GOURMET ORIENTAL,5,5,0,5,2013-10-15,51.321738,-0.729786
+259169,THE GREEN OLIVE,5,0,0,0,2014-08-27,51.346038,-0.602155
+259170,THE GROVE COUNTY PRIMARY SCHOOL,5,0,0,0,2014-05-21,51.320867,-0.731546
+259171,THE HALF MOON,5,5,0,5,2013-03-27,51.363901,-0.664196
+259172,THE HALF WAY HUT,3,5,10,10,2014-03-04,51.329449,-0.72442
+259173,THE HARE AND HOUNDS,4,5,5,10,2014-12-02,51.340073,-0.647072
+259174,THE HOLLIES,5,0,0,0,2012-06-07,51.333021,-0.758111
+259175,THE HOT DOG CART,5,0,0,5,2014-05-02,51.35192,-0.726051
+259176,THE HUNGRY HORSE,5,5,0,0,2014-08-19,51.361205,-0.69303
+259177,THE INDIAN DELIGHT,1,15,15,20,2014-08-26,51.313745,-0.744039
+259178,THE INN AT WEST END,5,5,5,5,2014-08-20,51.339961,-0.644391
+259179,THE LITTLE CUPCAKERY,5,0,0,0,2012-07-09,51.348391,-0.731433
+259180,THE MINERS ARMS PH,5,0,0,5,2014-03-10,51.294288,-0.7268
+259181,THE MYTCHETT CENTRE,5,0,0,0,2014-06-26,51.286946,-0.726429
+259182,THE OLD WHEATSHEAF,5,5,5,5,2014-05-14,51.304642,-0.728809
+259183,THE PUDDING EMPORIUM,5,0,0,0,2014-10-13,51.336877,-0.659986
+259184,THE RED LION,5,5,5,5,2014-01-27,51.352741,-0.667249
+259185,THE RED LION PUB,4,5,5,10,2013-12-05,51.357486,-0.601433
+259186,THE RIDGEWOOD CENTRE,5,0,0,0,2015-02-11,51.324294,-0.702949
+259187,THE ROSE AND THISTLE,5,5,0,0,2014-04-03,51.300855,-0.727852
+259188,THE SOUTHERN CO-OPERATIVE LTD,5,0,0,0,2013-09-05,51.335441,-0.759883
+259189,THE SUN INN,5,5,0,5,2015-01-29,51.365389,-0.653566
+259190,THE SURREY CRICKETERS,4,10,5,5,2014-04-09,51.367165,-0.650785
+259191,THE SWEET OVEN LIMITED,5,5,0,0,2013-02-04,51.329629,-0.636643
+259192,THE SWEET SHOP,5,0,0,0,2013-03-13,51.337349,-0.745749
+259193,THE TREASURY,5,0,0,0,2015-01-19,51.338085,-0.743906
+259194,THE VANILLA CAKE COMPANY,4,0,0,10,2012-07-25,51.337174,-0.704036
+259195,THE VANILLA CAKE COMPANY,5,0,0,5,2012-08-17,51.333597,-0.703404
+259196,THE WHEATSHEAF,5,5,0,0,2013-02-18,51.32972,-0.702408
+259197,THE WINDMILL,5,5,5,0,2013-11-26,51.377741,-0.669024
+259198,THEATRE CAFE BAR,5,5,0,0,2013-10-09,51.339083,-0.74385
+259199,THORNTONS,5,0,0,0,2012-02-23,51.337996,-0.745616
+259200,THREE MARINERS,3,10,5,10,2014-02-18,51.361982,-0.691744
+259201,TOBY CAVERY,5,5,0,0,2014-06-12,51.32549,-0.733356
+259202,TOMLINSCOTE COUNTY SECONDARY SCHOOL,5,0,5,0,2013-09-19,51.320781,-0.723699
+259203,TOMLINSCOTE VOCATIONAL CENTRE,5,0,0,5,2012-01-25,51.320781,-0.723699
+259204,TOM-T CAKES,5,0,0,0,2014-02-05,51.346237,-0.670999
+259205,TOP WOK,4,10,5,5,2014-10-01,51.308063,-0.704583
+259206,TOUCHWOOD PHARMACY,Exempt,nan,nan,nan,2014-11-17,51.348451,-0.726219
+259207,TRAVELLING GOURMET,5,5,5,5,2014-03-18,,
+259208,TRAVELODGE,Exempt,nan,nan,nan,2015-01-09,51.32535844,-0.73261532
+259209,TRAVELODGE CAMBERLEY,5,5,0,0,2013-10-01,51.33346,-0.769009
+259210,TRAVELODGE CAMBERLEY CENTRAL,5,0,0,0,2013-11-25,51.336626,-0.743716
+259211,TREASURE (JOHANNA) MONTESSORI NURSERY PRE SCHOOL,5,5,0,0,2013-07-16,51.316114,-0.741937
+259212,TRINGHAM HALL,5,0,0,0,2014-02-06,51.343484,-0.641128
+259213,UPALONG,5,5,5,0,2013-09-04,51.332166,-0.729541
+259214,USFIELD KITCHEN T/A JIMMY CHOW,5,0,0,5,2014-05-12,51.332398,-0.749444
+259215,VALLEY END C OF E INFANT SCHOOL,5,5,0,0,2014-06-04,51.36559,-0.627503
+259216,VALLEY END CRICKET CLUB,1,5,0,20,2013-07-17,51.358968,-0.624857
+259217,VANDERFUL CAKES,5,0,0,5,2014-09-30,51.359566,-0.702513
+259218,VANESSA JANE ROUSE,5,0,0,0,2014-08-21,51.351456,-0.600295
+259219,VED NEWSAGENT,4,5,0,10,2014-02-24,51.335441,-0.759883
+259220,VEL SHOP,5,5,5,5,2014-05-28,51.331812,-0.760283
+259221,VICKI'S STORES,4,0,5,10,2012-02-16,51.352821,-0.606099
+259222,VILLA BIANCA,5,5,5,5,2014-03-06,51.31386,-0.744696
+259223,VUE CINEMA,5,0,0,0,2013-01-08,51.337194,-0.74716
+259224,W H SMITH,Exempt,nan,nan,nan,2012-09-11,51.2719993591,-0.40499997139
+259225,WAGAMAMA,5,0,0,0,2014-07-31,51.337311,-0.748879
+259226,WAITROSE,5,5,0,0,2014-07-29,51.31442,-0.74415
+259227,WARREN ESTATE NEWSAGENT,4,5,0,10,2013-03-06,51.321738,-0.729786
+259228,WATCHETTS BOWLING CLUB,5,0,0,5,2013-06-07,51.32621,-0.751851
+259229,WATERSTONES,Exempt,nan,nan,nan,2014-03-06,51.337996,-0.745616
+259230,WENDY TURNER,5,0,0,5,2012-03-06,51.354095,-0.593077
+259231,WENDY'S SIGNATURE CAKES,5,0,0,5,2012-06-08,51.315362,-0.739734
+259232,WEST END BOWLS CLUB,5,0,0,5,2013-06-06,51.338803,-0.645315
+259233,WEST END WINES LTD,Exempt,nan,nan,nan,2014-03-06,51.336015,-0.644521
+259234,WEST END WORKING MENS CLUB,5,0,0,0,2012-02-15,51.340394,-0.643732
+259235,WHITE HART,5,5,5,0,2013-11-05,51.361332,-0.68833
+259236,WHITE HART,5,0,0,0,2013-09-25,51.303994,-0.714183
+259237,WHITE LODGE FARM - SHOP,5,0,0,0,2014-03-20,51.337799,-0.578043
+259238,WHITEBOURNE,5,5,5,0,2014-08-22,51.314338,-0.742359
+259239,WILDWOOD RESTAURANT,5,5,0,0,2014-09-10,51.338116,-0.748484
+259240,WILKINSON,5,0,0,0,2014-03-24,51.337376,-0.745691
+259241,WILLIAM HILL,Exempt,nan,nan,nan,2012-02-20,51.303737,-0.729092
+259242,WINDLE VALLEY DAY CENTRE,5,5,0,0,2013-08-12,51.36169,-0.693806
+259243,WINDLEMERE GOLF CLUB,5,0,0,0,2014-06-12,51.345871,-0.644547
+259244,WINDLESHAM BOWLS CLUB,5,5,0,5,2013-05-14,51.368474,-0.663848
+259245,WINDLESHAM CLUB AND THEATRE,5,0,0,0,2014-09-05,51.368474,-0.663848
+259246,WINDLESHAM GOLF CLUB,5,5,0,5,2015-01-12,51.366966,-0.683127
+259247,WINDLESHAM VILLAGE COUNTY INFANTS SCHOOL,5,5,5,5,2013-10-22,51.374011,-0.673945
+259248,WINDLESHAM VILLAGE PHARMACY,Exempt,nan,nan,nan,2014-02-11,51.364265,-0.654346
+259249,WING LEE TAKE-AWAY,4,10,0,5,2013-08-29,51.303737,-0.729092
+259250,WISHMORE CROSS SCHOOL,5,0,0,5,2013-02-06,51.351456,-0.600295
+259251,WOODCOTE HOUSE SCHOOL,5,5,0,0,2014-01-15,51.371272,-0.66789
+259252,"WRVS SHOP, FRIMLEY PARK HOSPITAL",5,0,0,0,2012-10-16,51.31968,-0.741567
+259253,YORKTOWN SUB P.O & STORES,5,5,5,5,2013-03-22,51.334492,-0.762809
+259254,YOUR LOCAL BOOTS PHARMACY (BOOTS UK LTD),Exempt,nan,nan,nan,2014-03-27,51.314078,-0.74327
+259255,YUM AND FREE,5,0,0,0,2014-09-05,51.344893,-0.740618
+259256,YUM YUM,3,5,10,10,2013-09-05,51.31333,-0.745629
+259257,YVONNE WOOD,5,0,0,0,2013-08-19,51.339944,-0.714625
+259258,ZIZZIS,5,5,5,0,2014-02-14,51.338116,-0.748484

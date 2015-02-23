@@ -4,25 +4,31 @@
 
 <meta charset="UTF-8">
 
-
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
 <title>FSA Data mapper</title>
 
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<link rel="stylesheet" href="css/leaflet.css" />
 
 
 
 <link rel="stylesheet" href="css/custom.css" />
 
 <script src="http://d3js.org/topojson.v1.min.js"></script>  
-<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script src="js/leaflet-src.js"></script>
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script src="js/main.js"></script>
+
+<script src="js/handlebars-v3.0.0.js"></script>
+
+
 </head>
 
 <body>
+
+
 
 
 <div class="controls">
@@ -53,6 +59,19 @@
 
 
 
+
+
+
+
+<script id="popup-template" type="text/x-handlebars-template">
+  <div><strong>   Name: {{businessname}}</strong></div>
+  <div>FHRS rating: {{ratingvalue}}</div>
+  <div><a href="https://www.food.gov.uk/enforcement/enforcework/food-law/annex5-food-establish-intervention/a53-food-hygiene-scoring#toc-2">Structural rating</a>: {{structural}}</div>
+  <div><a href="https://www.food.gov.uk/enforcement/enforcework/food-law/annex5-food-establish-intervention/a53-food-hygiene-scoring#toc-2">Hygiene rating</a>: {{hygiene}}</div>
+  <div><a href="https://www.food.gov.uk/enforcement/enforcework/food-law/annex5-food-establish-intervention/a53-food-hygiene-scoring#toc-3">Confidence in management</a>: {{confidenceinmanagement}}</div>
+  <div>Rating date: {{ratingdate}}</div>
+      
+</script>
 
 </body>
 

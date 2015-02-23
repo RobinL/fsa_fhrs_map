@@ -1,273 +1,273 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-409756,,,,,(Elizabeth) Beth Burke,Mobile caterer,7846,0,,403025,0,,,601,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2013-05-23,fhrs_5_en-GB,5,,FHRS,5
-409757,44 Belfast Road,,Larne,County Antrim,A8 Diner,Restaurant/Cafe/Canteen,1,5,,403045,5,,54.83520800000000,782,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.86628100000000,BT40 2PH,2013-09-18,fhrs_5_en-GB,5,,FHRS,0
-409758,64 Main Street,,Larne,County Antrim,Ann's Pantry,Manufacturers/packers,7839,10,,402901,15,,54.85161700000000,363,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81845000000000,BT40 1SP,2014-07-22,fhrs_2_en-GB,2,,FHRS,0
-409759,11&13 Main Street,,Larne,County Antrim,Apsleys,Restaurant/Cafe/Canteen,1,5,,402993,10,,54.85125700000000,52,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82091400000000,BT40 1JQ,2014-11-06,fhrs_4_en-GB,4,,FHRS,5
-409760,Caterpillar Ni Ltd Old Glenarm Road,,Larne,County Antrim,Aramark,Restaurant/Cafe/Canteen,1,10,,402961,5,,54.86352100000000,463,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81185700000000,BT40 1EJ,2014-08-20,fhrs_4_en-GB,4,,FHRS,5
-409761,"Unit 10 Laharna Retail Park, 63 Circular Road",,Larne,County Antrim,Argos Limited,Retailers - other,4613,,,402984,,,54.85101100000000,507,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81871600000000,BT40 1JS,2011-10-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-409762,1 Redlands Road,,Larne,County Antrim,Asda,Retailers - supermarkets/hypermarkets,7840,5,,403074,5,,54.84601300000000,892,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-409763,100 Bank Road,,Larne,County Antrim,Asian Food Central,Restaurant/Cafe/Canteen,1,5,,485403,5,,54.84622400000000,1010,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81981500000000,BT40 3AN,2014-06-20,fhrs_5_en-GB,5,,FHRS,0
-409764,Bank Road,,Larne,County Antrim,Atlantica Ocean Delights,Manufacturers/packers,7839,0,,403081,0,,54.84558700000000,905,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81787200000000,BT40 3AW,2013-07-23,fhrs_5_en-GB,5,,FHRS,0
-409765,"Unit 3 Laharna Retail Park, 63 Circular Road",,Larne,County Antrim,B & M Bargains,Retailers - other,4613,,,403006,,,54.85101100000000,550,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81871600000000,BT40 1JS,2014-07-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-409766,5 Broadway,,Larne,County Antrim,Bake,Retailers - other,4613,5,,403043,5,,54.85115300000000,76,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81911300000000,BT40 1LT,2014-03-19,fhrs_5_en-GB,5,,FHRS,5
-409767,125 Shanes Hill Road,Glenwherry,Ballymena,County Antrim,Ballyboley Inn,Pub/bar/nightclub,7843,0,,403053,0,,54.82678000000000,821,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99485000000000,BT42 3EP,2013-08-15,fhrs_5_en-GB,5,,FHRS,0
-409768,31 Main Street,Ballycarry,Carrickfergus,County Antrim,Ballycarry Chinese,Takeaway/sandwich shop,7844,10,,403021,5,,54.77244000000000,591,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75097100000000,BT38 9HH,2014-03-12,fhrs_4_en-GB,4,,FHRS,5
-409769,57 Main Street,Ballycarry,Carrickfergus,County Antrim,Ballycarry Play Group,Hospitals/Childcare/Caring Premises,5,0,,403017,0,,54.77244000000000,569,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75097100000000,BT38 9HH,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-409770,23 Hillhead Road,Ballycarry,Carrickfergus,County Antrim,Ballycarry Primary School,School/college/university,7845,0,,402895,0,,54.77625000000000,347,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75293600000000,BT38 9HE,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-409771,274 Coast Road,Ballygally,Larne,County Antrim,Ballygally Castle Hotel,Hotel/bed & breakfast/guest house,7842,5,,402942,5,,54.90222800000000,436,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.86696300000000,BT40 2QZ,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-409772,50 Main Street,,Larne,County Antrim,Ballylumford Sports & Social Club,Pub/bar/nightclub,7843,5,,403030,0,,54.85161700000000,611,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81845000000000,BT40 1SP,2014-02-13,fhrs_5_en-GB,5,,FHRS,5
-409773,,,,,Barbara's Bakes & Cakes,Retailers - other,4613,5,,403109,0,,,985,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2012-02-03,fhrs_5_en-GB,5,,FHRS,0
-409774,45 Ballywillin Road,,Larne,County Antrim,Beltoy Farmhouse Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,0,,402836,0,,54.77982400000000,152,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.79938800000000,BT40 3LH,2012-08-15,fhrs_5_en-GB,5,,FHRS,0
-409775,61 Main Street,,Larne,County Antrim,Berry Tree Cafe,Restaurant/Cafe/Canteen,1,5,,402879,10,,54.85142100000000,3,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81754100000000,BT40 1JE,2013-12-09,fhrs_4_en-GB,4,,FHRS,5
-409776,66 Browndod Road,,Larne,County Antrim,Billy Andys Public House,Pub/bar/nightclub,7843,10,,403032,15,,54.80978100000000,615,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.85970400000000,BT40 3DX,2014-03-19,fhrs_2_en-GB,2,,FHRS,5
-409777,66 Browndod Road,,Larne,County Antrim,Billy Andys Restaurant (PD Catering),Restaurant/Cafe/Canteen,1,10,,402903,5,,54.80978100000000,365,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.85970400000000,BT40 3DX,2014-03-19,fhrs_3_en-GB,3,,FHRS,10
-409778,,,,,Black's Greengrocery,Retailers - other,4613,5,,402967,5,,,472,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-08-18,fhrs_5_en-GB,5,,FHRS,5
-409779,1 Redlands Road,,Larne,County Antrim,Blue Chicago Grill,Restaurant/Cafe/Canteen,1,5,,403086,0,,54.84601300000000,935,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2014-04-04,fhrs_5_en-GB,5,,FHRS,5
-409780,100 Shore Road,Magheramorne,Larne,County Antrim,Blue Circle Social Club,Pub/bar/nightclub,7843,5,,402924,0,,54.81658200000000,404,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.77426900000000,BT40 3HT,2013-07-03,fhrs_5_en-GB,5,,FHRS,5
-409781,5 Riverdale,,Larne,County Antrim,Blue Door Cafe,Restaurant/Cafe/Canteen,1,5,,402927,5,,54.85084700000000,407,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82359800000000,BT40 1LB,2014-12-03,fhrs_4_en-GB,4,,FHRS,10
-409782,6 High Street,,Larne,County Antrim,Bombay Spice (Lisnaskea) Ltd,Restaurant/Cafe/Canteen,1,20,,402858,15,,54.85106300000000,217,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82307300000000,BT40 1JN,2015-01-20,fhrs_0_en-GB,0,,FHRS,20
-409783,40 Main Street,,Larne,County Antrim,Boots Stores Ltd,Retailers - other,4613,,,402899,,,54.85154000000000,360,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82061800000000,BT40 1SS,2012-10-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-409784,84a Ballymullock Road,,Larne,County Antrim,Brae View Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,0,,402856,0,,54.88451100000000,213,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.88032000000000,BT40 2NQ,2012-08-22,fhrs_5_en-GB,5,,FHRS,0
-409785,1-3 Toberwine Street,Glenarm,Ballymena,County Antrim,Bridge End Inn,Pub/bar/nightclub,7843,5,,402905,5,,54.96679300000000,367,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95322800000000,BT44 0AP,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-409786,Broadway,,Larne,County Antrim,Broadways Private Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,402843,5,,54.85115300000000,163,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81911300000000,BT40 1LT,2013-11-26,fhrs_5_en-GB,5,,FHRS,0
-409787,59a Drumahoe Road,Millbrook,Larne,County Antrim,Brookies Korner After School Club,Hospitals/Childcare/Caring Premises,5,10,,403097,5,,54.84051300000000,964,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.86190700000000,BT40 2PF,2011-07-29,fhrs_4_en-GB,4,,FHRS,0
-409788,1 Redlands Road,,Larne,County Antrim,Cafe Riva,Restaurant/Cafe/Canteen,1,5,,403106,5,,54.84601300000000,980,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-409789,Coast Road,Carnfunnock,Larne,County Antrim,Caffe Spice,Restaurant/Cafe/Canteen,1,10,,403038,5,,54.89342000000000,68,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84942500000000,BT40 2QG,2014-09-29,fhrs_4_en-GB,4,,FHRS,5
-409790,7 Upper Cross Street,,Larne,County Antrim,Caffe Spice & Spezia,Restaurant/Cafe/Canteen,1,5,,403028,5,,54.85178700000000,607,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82188200000000,BT40 1SZ,2013-11-06,fhrs_5_en-GB,5,,FHRS,5
-409791,Cairncastle Road,Ballygally,Larne,County Antrim,Cairncastle Primary School,School/college/university,7845,5,,402911,0,,54.89776100000000,377,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.87248400000000,BT40 2RB,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-409792,192-196 Coast Road,,Larne,County Antrim,Cairndhu Golf Club Ltd,Pub/bar/nightclub,7843,0,,403068,5,,54.89342000000000,873,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84942500000000,BT40 2QG,2012-01-17,fhrs_5_en-GB,5,,FHRS,5
-409793,14a Linn Road,,Larne,County Antrim,Cape Cod,Takeaway/sandwich shop,7844,5,,403075,10,,54.85044000000000,893,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83955000000000,BT40 2BT,2014-02-04,fhrs_4_en-GB,4,,FHRS,0
-409794,1 Glenview Road,Glenarm,Ballymena,County Antrim,Carnalbanagh Primary School,School/college/university,7845,0,,402893,0,,54.90125700000000,345,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-6.00985900000000,BT44 0DL,2014-06-24,fhrs_5_en-GB,5,,FHRS,0
-409795,"Unit 2 Laharna Retail Park, 63 Circular Road",,Larne,County Antrim,Carnival Bingo,Restaurant/Cafe/Canteen,1,20,,403023,10,,54.85101100000000,596,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81871600000000,BT40 1JS,2014-10-23,fhrs_1_en-GB,1,,FHRS,0
-409796,9 Harbour Road,Carnlough,Ballymena,County Antrim,Carnlough Controlled Integrated Primary School,School/college/university,7845,5,,402947,0,,54.99271400000000,443,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98992700000000,BT44 0EU,2014-03-31,fhrs_5_en-GB,5,,FHRS,0
-409797,7 Harbour Road,,Carnlough,County Antrim,Carnlough Pharmacy,Retailers - other,4613,,,402878,,,54.99271400000000,293,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98992700000000,BT44 0EU,2013-03-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-409798,6 Moss Road,,Ballyclare,County Antrim,Carrageenan Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,5,,403066,0,,54.79897900000000,859,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.91111300000000,BT39 9UT,2012-04-27,fhrs_5_en-GB,5,,FHRS,0
-409799,105 Main Street,,Larne,County Antrim,Carriages,Restaurant/Cafe/Canteen,1,0,,402963,10,,54.85125700000000,465,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82091400000000,BT40 1JQ,2014-04-30,fhrs_4_en-GB,4,,FHRS,5
-409800,127 Old Glenarm Road,,Larne,County Antrim,Centra Larne,Retailers - other,4613,5,,402991,10,,54.85633100000000,516,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81576600000000,BT40 1NQ,2015-01-06,fhrs_4_en-GB,4,,FHRS,5
-409801,32-34 Pound Street,,Larne,County Antrim,Centre Point Cafe,Restaurant/Cafe/Canteen,1,10,,546656,5,,54.85208600000000,1034,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82456000000000,BT40 1SQ,2014-11-11,fhrs_4_en-GB,4,,FHRS,5
-409802,27-31 Lower Cross Street,,Larne,County Antrim,Chekkers Wine Bar,Pub/bar/nightclub,7843,5,,402996,5,,54.85103900000000,525,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82123700000000,BT40 1JW,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-409803,7 Marine Road,Carnlough,Ballymena,County Antrim,Cheng Du,Takeaway/sandwich shop,7844,5,,402976,5,,54.99136700000000,487,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99104100000000,BT44 0HE,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-409804,1a Victoria Road,,Larne,County Antrim,China Inn,Takeaway/sandwich shop,7844,10,,546659,10,,54.85224300000000,1037,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82078300000000,BT40 1RY,2014-12-17,fhrs_3_en-GB,3,,FHRS,10
-409805,24 Dunluce Street,,Larne,County Antrim,Circle K,Takeaway/sandwich shop,7844,20,,402842,10,,54.85077700000000,161,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82217000000000,BT40 1JG,2014-08-27,fhrs_1_en-GB,1,,FHRS,15
-409806,128 Glenarm Road,,Larne,County Antrim,Clanrye Private Residential Home,Hospitals/Childcare/Caring Premises,5,10,,402871,5,,54.85875600000000,262,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80971600000000,BT40 1DZ,2014-03-11,fhrs_4_en-GB,4,,FHRS,5
-409807,,,,,Clare Agnew,Other catering premises,7841,0,,732101,0,,,1090,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-11-13,fhrs_5_en-GB,5,,FHRS,0
-409808,12 Andrew Avenue,,Larne,County Antrim,Clogrennan Hostel,Hospitals/Childcare/Caring Premises,5,,,402894,,,54.85868800000000,346,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81091900000000,BT40 1EB,2012-09-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-409809,3 Toberwine Street,Glenarm,Ballymena,County Antrim,Coast Road Inn,Pub/bar/nightclub,7843,5,,402898,0,,54.96679300000000,36,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95322800000000,BT44 0AP,2013-05-21,fhrs_5_en-GB,5,,FHRS,5
-409810,111 The Roddens,,Larne,County Antrim,Colebrooke House,Hospitals/Childcare/Caring Premises,5,5,,402892,5,,54.85666000000000,344,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82305200000000,BT40 1PY,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-409811,Blackcave North,,Larne,County Antrim,Corran Integrated Primary School,School/college/university,7845,5,,402848,0,,54.87125000000000,169,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82298200000000,BT40 1TP,2012-03-14,fhrs_5_en-GB,5,,FHRS,5
-409812,2 Upper Waterloo Road,,Larne,County Antrim,Costcutter,Retailers - other,4613,10,,403101,10,,54.85814500000000,975,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81272400000000,BT40 1HD,2014-10-30,fhrs_3_en-GB,3,,FHRS,10
-409813,,,,,Country Diner (Big Van),Mobile caterer,7846,5,,402821,5,,,1007,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-01-22,fhrs_5_en-GB,5,,FHRS,0
-409814,Point Street,,Larne,County Antrim,Country Kitchen,Restaurant/Cafe/Canteen,1,5,,402888,5,,54.85072100000000,338,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82008600000000,BT40 1HU,2013-06-19,fhrs_5_en-GB,5,,FHRS,5
-409815,35 Upper Cairncastle Road,,Larne,County Antrim,Country Kitchen (Bake),Manufacturers/packers,7839,10,,403036,0,,54.85854400000000,66,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83293400000000,BT40 2EF,2014-12-04,fhrs_4_en-GB,4,,FHRS,10
-409816,Churchill Road,,Larne,County Antrim,Craigyhill Presbyterian Church Halls,Other catering premises,7841,,,403029,,,54.85737800000000,608,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83808900000000,BT40 2EW,2013-10-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-409817,91 Raloo Road,Raloo,Larne,County Antrim,Crossways Bar,Pub/bar/nightclub,7843,0,,402926,0,,54.80470200000000,406,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.86207200000000,BT40 3DU,2013-06-25,fhrs_5_en-GB,5,,FHRS,5
-409818,6 Redlands Road,,Larne,County Antrim,Curran Court Hotel,Hotel/bed & breakfast/guest house,7842,,,403055,,,54.84601300000000,826,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2014-06-18,fhrs_5_en-GB,5,,FHRS,
-409819,Curran Road,,Larne,County Antrim,Curran Fold,Hospitals/Childcare/Caring Premises,5,5,,402946,5,,54.85207900000000,441,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80964200000000,BT40 1BU,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-409820,9-11 Upper Main Street,,Larne,County Antrim,D Watt Quality Butcher + Deli,Manufacturers/packers,7839,10,,402874,5,,54.85125700000000,286,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82091400000000,BT40 1JQ,2014-02-19,fhrs_4_en-GB,4,,FHRS,5
-409821,1 Waterfall Road,,Larne,County Antrim,Dairyside Stores Limited,Retailers - other,4613,5,,402904,5,,54.80608700000000,366,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83230500000000,BT40 3LE,2011-12-07,fhrs_5_en-GB,5,,FHRS,0
-409822,2 Bridge Street,,Larne,County Antrim,Dan Campbell's,Pub/bar/nightclub,7843,5,,403003,10,,54.85048800000000,536,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82262100000000,BT40 1LW,2014-08-15,fhrs_4_en-GB,4,,FHRS,5
-409823,90 Hillhead Road,Ballycarry,Carrickfergus,County Antrim,Daneilfarm,Hotel/bed & breakfast/guest house,7842,5,,403054,5,,54.78399100000000,823,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75755900000000,BT38 9JF,2015-01-05,fhrs_5_en-GB,5,,FHRS,5
-409824,,,,,David Speers,Retailers - other,4613,5,,403108,0,,,984,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2012-02-02,fhrs_5_en-GB,5,,FHRS,0
-409825,22 Toberwine Street,Glenarm,Ballymena,County Antrim,Day Today,Retailers - other,4613,,,402881,,,54.96679300000000,319,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95322800000000,BT44 0AP,2014-08-19,fhrs_4_en-GB,4,,FHRS,
-409826,2 Princes Gardens,,Larne,County Antrim,Derrin House,Hotel/bed & breakfast/guest house,7842,0,,402954,5,,54.85317200000000,455,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81347600000000,BT40 1RQ,2014-04-15,fhrs_5_en-GB,5,,FHRS,0
-409827,,,,,Dinner Belle,Other catering premises,7841,0,,655792,0,,,1072,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-04-01,fhrs_5_en-GB,5,,FHRS,0
-409828,,,,,Doagh Sea Herbs,Manufacturers/packers,7839,20,,403077,5,,,897,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-11-24,fhrs_1_en-GB,1,,FHRS,10
-409829,1 Redlands Road,,Larne,County Antrim,Dominos Pizza,Takeaway/sandwich shop,7844,5,,403089,5,,54.84601300000000,941,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2014-06-17,fhrs_4_en-GB,4,,FHRS,10
-409830,1 Harbour Road,Carnlough,Ballymena,County Antrim,Dragon Sun,Takeaway/sandwich shop,7844,0,,403044,0,,54.99271400000000,770,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98992700000000,BT44 0EU,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-409831,47 Glenarm Road,,Larne,County Antrim,Drumalis Retreat + Conference Centre,Hotel/bed & breakfast/guest house,7842,5,,402896,5,,54.85598200000000,357,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80882300000000,BT40 1DT,2013-06-19,fhrs_5_en-GB,5,,FHRS,0
-409832,48 Hillhead Road,Ballycarry,Carrickfergus,County Antrim,Drumgart B & B,Hotel/bed & breakfast/guest house,7842,5,,403063,5,,54.77625000000000,854,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75293600000000,BT38 9HE,2012-07-10,fhrs_5_en-GB,5,,FHRS,5
-409833,35-41 Main Street,,Larne,County Antrim,Dunnes Stores (Bangor) Ltd,Retailers - supermarkets/hypermarkets,7840,0,,402929,0,,54.85142100000000,410,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81754100000000,BT40 1JE,2014-09-23,fhrs_5_en-GB,5,,FHRS,0
-409834,4 High Street,,Larne,County Antrim,Duo's Fast Food,Takeaway/sandwich shop,7844,0,,402824,0,,54.85106300000000,132,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82307300000000,BT40 1JN,2014-02-17,fhrs_5_en-GB,5,,FHRS,5
-409835,32a Mullaghboy Road,Islandmagee,Larne,County Antrim,Earl's,Restaurant/Cafe/Canteen,1,10,,668066,5,,54.83299000000000,1071,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.72153400000000,BT40 3TT,2014-05-21,fhrs_4_en-GB,4,,FHRS,5
-409836,2-3 Curran Point,,Larne,County Antrim,East Antrim Boat Club,Pub/bar/nightclub,7843,5,,402928,5,,54.84575100000000,408,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80156100000000,BT40 1AU,2012-06-26,fhrs_5_en-GB,5,,FHRS,5
-409837,7 Doric Way,,Larne,County Antrim,Eatwell,Takeaway/sandwich shop,7844,10,,402906,10,,54.85235000000000,369,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84080300000000,BT40 2BH,2014-10-06,fhrs_3_en-GB,3,,FHRS,5
-409838,48b Hillhead Road,Ballycarry,Carrickfergus,County Antrim,Eleanor Craigs Fudge,Manufacturers/packers,7839,0,,403115,0,,54.77632300000000,999,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75299400000000,BT38 9HE,2014-09-19,fhrs_5_en-GB,5,,FHRS,0
-409839,77 Pound Street,,Larne,County Antrim,Emerald City,Takeaway/sandwich shop,7844,5,,402918,5,,54.85189400000000,392,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82235900000000,BT40 1SD,2013-12-16,fhrs_5_en-GB,5,,FHRS,5
-409840,,,,,Englewood Residential Home,Hospitals/Childcare/Caring Premises,5,10,,402837,10,,,153,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2013-06-14,fhrs_4_en-GB,4,,FHRS,0
-409841,,,,,Entice Cake Design,Manufacturers/packers,7839,10,,403076,0,,,894,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2013-10-02,fhrs_4_en-GB,4,,FHRS,0
-409842,Forest Glen Mark Street,Glenarm,Ballymena,County Antrim,Forest Glen Fold,Hospitals/Childcare/Caring Premises,5,5,,403072,0,,54.96625300000000,886,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95210000000000,BT44 0AN,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-409843,1 Redlands Road,,Larne,County Antrim,Funky Monkeys,Restaurant/Cafe/Canteen,1,5,,403088,5,,54.84601300000000,940,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2013-08-12,fhrs_5_en-GB,5,,FHRS,0
-409844,206 Old Glenarm Road,,Larne,County Antrim,Gangnam Takeaway,Takeaway/sandwich shop,7844,5,,668064,10,,54.86144100000000,1053,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81860500000000,BT40 1TS,2014-05-21,fhrs_4_en-GB,4,,FHRS,5
-409845,134 The Roddens,,Larne,County Antrim,Gillaroo Lodge,Hospitals/Childcare/Caring Premises,5,0,,403020,0,,54.85778400000000,587,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82713400000000,BT40 1PN,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-409846,2 Greenland Drive,,Larne,County Antrim,Glasgow Rangers Supporters Club - Larne Branch,Pub/bar/nightclub,7843,10,,402831,10,,54.85895700000000,147,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81487600000000,BT40 1EY,2012-10-25,fhrs_3_en-GB,3,,FHRS,10
-409847,Mark Street,Glenarm,Ballymena,County Antrim,Glenarm Community Pre-School,Other catering premises,7841,5,,402934,0,,54.96625300000000,416,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95210000000000,BT44 0AN,2013-10-08,fhrs_5_en-GB,5,,FHRS,0
-409848,8&10 Vennel Street,Glenarm,Ballymena,County Antrim,Glenarm Pharmacy,Retailers - other,4613,,,403016,,,54.96581300000000,568,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95265300000000,BT44 0AS,2012-03-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-409849,96-98 Glenarm Road,,Larne,County Antrim,Glenarm Road Filling Station,Retailers - other,4613,,,402939,,,54.85875600000000,43,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80971600000000,BT40 1DZ,2014-03-06,fhrs_3_en-GB,3,,FHRS,
-409850,107 Bay Road,Carnlough,Ballymena,County Antrim,Glencloy Filling station,Retailers - other,4613,10,,402863,5,,54.98551700000000,254,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99203700000000,BT44 0HP,2013-09-12,fhrs_4_en-GB,4,,FHRS,5
-409851,1 Bridge Street,Carnlough,Ballymena,County Antrim,Glencloy Inn,Pub/bar/nightclub,7843,,,402995,,,54.99184200000000,524,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99095500000000,BT44 0ET,2015-01-16,fhrs_5_en-GB,5,,FHRS,
-409852,53 Glenvale Park,Glynn,Larne,County Antrim,Glynn Post Office,Retailers - other,4613,5,,402980,0,,54.82790900000000,497,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81414100000000,BT40 3EY,2014-04-07,fhrs_5_en-GB,5,,FHRS,0
-409853,26 Main Road,Glynn,Larne,County Antrim,Glynn Primary School,School/college/university,7845,5,,402949,0,,54.82789600000000,446,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81190100000000,BT40 3HF,2013-01-30,fhrs_5_en-GB,5,,FHRS,0
-409854,2 High Street,,Larne,County Antrim,Golden Well,Takeaway/sandwich shop,7844,20,,402968,10,,54.85106300000000,478,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82307300000000,BT40 1JN,2014-10-28,fhrs_1_en-GB,1,,FHRS,10
-409855,3 Upper Waterloo Road,,Larne,County Antrim,Graham's Pizza Joint,Takeaway/sandwich shop,7844,5,,617940,0,,54.85814500000000,1054,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81272400000000,BT40 1HD,2013-10-31,fhrs_5_en-GB,5,,FHRS,0
-409856,5 Cairnbeg Crescent,,Larne,County Antrim,Grassy Banks Bed and Breakfast,Hotel/bed & breakfast/guest house,7842,0,,403024,5,,54.87178800000000,600,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82343600000000,BT40 1UH,2013-03-25,fhrs_5_en-GB,5,,FHRS,0
-409857,,,,,Grays Cakes,Other catering premises,7841,5,,546660,0,,,1040,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2013-04-24,fhrs_5_en-GB,5,,FHRS,5
-409858,7 Green Drive,,Larne,County Antrim,Green Drive Mini-Mart,Retailers - other,4613,10,,536467,5,,54.86053900000000,1032,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83547500000000,BT40 2HB,2015-01-09,fhrs_4_en-GB,4,,FHRS,5
-409859,1 Riverdale,,Larne,County Antrim,Haggan's Fruit And Vegetables,Retailers - other,4613,20,,402989,15,,54.85084700000000,512,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82359900000000,BT40 1LB,2014-08-22,fhrs_1_en-GB,1,,FHRS,15
-409860,352 Coast Road,Ballygally,Larne,County Antrim,Halfway House Hotel,Hotel/bed & breakfast/guest house,7842,5,,402985,5,,54.90913400000000,508,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.88007100000000,BT40 2RA,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-409861,24 Main Road,Glynn,Larne,County Antrim,Hansel & Gretel Pre-school,Hospitals/Childcare/Caring Premises,5,5,,403009,5,,54.82789600000000,555,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81190100000000,BT40 3HF,2013-11-06,fhrs_5_en-GB,5,,FHRS,0
-409862,25 Olderfleet Road,,Larne,County Antrim,Harbour Inn Bed + Breakfast,Hotel/bed & breakfast/guest house,7842,0,,402870,0,,54.84616900000000,261,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80082200000000,BT40 1AS,2014-02-25,fhrs_5_en-GB,5,,FHRS,0
-409863,11 Harbour Road,Carnlough,Ballymena,County Antrim,Harbour Lights Cafe,Restaurant/Cafe/Canteen,1,10,,403094,10,,54.99271400000000,951,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98992700000000,BT44 0EU,2014-03-13,fhrs_3_en-GB,3,,FHRS,10
-409864,81-83 Pound Street,,Larne,County Antrim,Harry's,Retailers - other,4613,10,,402982,0,,54.85189400000000,5,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82235900000000,BT40 1SD,2013-04-12,fhrs_4_en-GB,4,,FHRS,10
-409865,126 Glenarm Road,,Larne,County Antrim,Humphrey's at Rathmore,Hotel/bed & breakfast/guest house,7842,5,,546657,0,,54.85875600000000,1035,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80971600000000,BT40 1DZ,2013-04-22,fhrs_5_en-GB,5,,FHRS,0
-409866,Point Street,,Larne,County Antrim,Iceland Frozen Foods,Retailers - supermarkets/hypermarkets,7840,0,,402835,0,,54.85072100000000,151,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82008600000000,BT40 1HU,2012-11-30,fhrs_5_en-GB,5,,FHRS,5
-409867,,,,,Impressive Cakes,Other catering premises,7841,0,,402902,0,,,364,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-11-18,fhrs_5_en-GB,5,,FHRS,0
-409868,131 Main Street,,Larne,County Antrim,Indulgence,Manufacturers/packers,7839,0,,668065,0,,54.85158500000000,1063,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81462100000000,BT40 1HJ,2014-04-03,fhrs_5_en-GB,5,,FHRS,5
-409869,4 Browndod Road,,Larne,County Antrim,Inver Garden Centre,Retailers - other,4613,,,402864,,,54.83570200000000,255,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.85612200000000,BT40 3JS,2014-05-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-409870,Gloucester Avenue,,Larne,County Antrim,Inver Intermediate Care Unit,Hospitals/Childcare/Caring Premises,5,5,,402952,10,,54.85476500000000,453,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81910500000000,BT40 1NZ,2014-06-09,fhrs_4_en-GB,4,,FHRS,0
-409871,7 Glenarm Road,,Larne,County Antrim,Inverbann,Hotel/bed & breakfast/guest house,7842,0,,402818,0,,54.85362500000000,10,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81166000000000,BT40 1BN,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-409872,,,,,Irish Seaweed,Manufacturers/packers,7839,20,,692260,5,,,1081,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-07-04,fhrs_1_en-GB,1,,FHRS,5
-409873,2 Ballystrudder Road,Islandmagee,Larne,County Antrim,Island Stores Ltd,Retailers - other,4613,5,,402827,0,,54.77703600000000,141,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.71278900000000,BT40 3SH,2014-02-04,fhrs_4_en-GB,4,,FHRS,10
-409874,68 Middle Road,Islandmagee,Larne,County Antrim,Islandmagee Football Club,Pub/bar/nightclub,7843,5,,403052,0,,54.78067000000000,820,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.70775000000000,BT40 3SX,2012-03-30,fhrs_5_en-GB,5,,FHRS,0
-409875,3 Agnew Street,,Larne,County Antrim,Jade House Take Away,Takeaway/sandwich shop,7844,10,,402910,5,,54.85213600000000,376,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81530700000000,BT40 1RF,2014-03-25,fhrs_2_en-GB,2,,FHRS,15
-409876,42 Main Street,Ballycarry,Carrickfergus,County Antrim,Johnston Stores,Retailers - other,4613,10,,402853,10,,54.77244000000000,184,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75097100000000,BT38 9HH,2014-08-04,fhrs_3_en-GB,3,,FHRS,10
-409877,357 Old Glenarm Road,,Larne,County Antrim,Julia Shirley Catering,Other catering premises,7841,0,,403080,5,,54.87623400000000,902,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83739200000000,BT40 2LG,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-409878,,,,,Julie Campbell Cakes,Other catering premises,7841,5,,403090,5,,,942,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2011-04-20,fhrs_5_en-GB,5,,FHRS,0
-409879,19 Largy Road,Carnlough,Ballymena,County Antrim,Karingmore House,Hospitals/Childcare/Caring Premises,5,0,,402817,5,,54.99468200000000,1,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98990700000000,BT44 0EY,2014-02-26,fhrs_5_en-GB,5,,FHRS,0
-409880,6 Upper Main Street,,Larne,County Antrim,Kebab House,Takeaway/sandwich shop,7844,5,,403071,5,,54.85144900000000,885,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82260100000000,BT40 1SX,2014-03-25,fhrs_4_en-GB,4,,FHRS,10
-409881,127 Old Glenarm Road,,Larne,County Antrim,Kennedy's,Takeaway/sandwich shop,7844,5,,402912,10,,54.85633100000000,378,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81576600000000,BT40 1NQ,2013-08-07,fhrs_3_en-GB,3,,FHRS,10
-409882,2 Redlands Road,,Larne,County Antrim,Kentucky Fried Chicken,Restaurant/Cafe/Canteen,1,10,,402992,5,,54.84601300000000,519,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2014-04-09,fhrs_4_en-GB,4,,FHRS,5
-409883,163 Browns Bay Road,Islandmagee,Larne,County Antrim,Kilcoan Maintained Primary School Meals Kitchen,School/college/university,7845,5,,402846,0,,54.82541700000000,166,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.72974200000000,BT40 3TQ,2012-03-06,fhrs_5_en-GB,5,,FHRS,0
-409884,306 Coast Road,Ballygally,Larne,County Antrim,Kinnalargy,Hotel/bed & breakfast/guest house,7842,10,,403067,0,,54.90222800000000,870,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.86696300000000,BT40 2QZ,2013-05-17,fhrs_4_en-GB,4,,FHRS,0
-409885,54 Ferris Bay Road,Islandmagee,Larne,County Antrim,L. G. C,Restaurant/Cafe/Canteen,1,5,,403078,10,,54.85102700000000,898,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.78089100000000,BT40 3RT,2013-05-29,fhrs_4_en-GB,4,,FHRS,5
-409886,13 Point Street,,Larne,County Antrim,La Bodega,Pub/bar/nightclub,7843,10,,494089,10,,54.85041200000000,1029,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82184700000000,BT40 1HY,2012-12-20,fhrs_4_en-GB,4,,FHRS,0
-409887,Unit 50-51 Ledcom Industrial Estate,Bank Road,Larne,County Antrim,Ladybird Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,402828,0,,54.84588400000000,142,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81788700000000,BT40 3AW,2014-03-28,fhrs_5_en-GB,5,,FHRS,5
-409888,72 Ballymena Road,,Larne,County Antrim,Larne Adult Centre,Restaurant/Cafe/Canteen,1,5,,402943,10,,54.84775200000000,437,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84044100000000,BT40 2SG,2014-07-30,fhrs_4_en-GB,4,,FHRS,5
-409889,164 Old Glenarm Road,,Larne,County Antrim,Larne And District Homing Pigeon Society,Pub/bar/nightclub,7843,10,,402962,5,,54.86144100000000,464,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81860500000000,BT40 1TS,2012-12-19,fhrs_4_en-GB,4,,FHRS,5
-409890,1a Glynn Road,,Larne,County Antrim,Larne And Inver Primary School Meals Kitchen,School/college/university,7845,0,,402921,5,,54.84848400000000,395,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82305600000000,BT40 3AY,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-409891,112-120 Glenarm Road,,Larne,County Antrim,Larne Bowling Club,Pub/bar/nightclub,7843,5,,402965,0,,54.85875600000000,467,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80971600000000,BT40 1DZ,2012-07-24,fhrs_5_en-GB,5,,FHRS,5
-409892,46 Coastguard Road,,Larne,County Antrim,Larne Care Centre,Hospitals/Childcare/Caring Premises,5,5,,403042,5,,54.84575100000000,728,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80156100000000,BT40 1AU,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-409893,Gloucester Avenue,,Larne,County Antrim,Larne Chemists Limited,Retailers - other,4613,,,402915,,,54.85374000000000,383,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81908200000000,BT40 1PB,2012-01-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-409894,211 Old Glenarm Road,,Larne,County Antrim,Larne Christian Fellowship,Restaurant/Cafe/Canteen,1,5,,402855,0,,54.86430200000000,201,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81930700000000,BT40 1TT,2014-08-21,fhrs_5_en-GB,5,,FHRS,0
-409895,5 Doric Way,,Larne,County Antrim,Larne Community Care Centre,Other catering premises,7841,5,,402838,5,,54.85235000000000,154,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84080300000000,BT40 2BH,2012-05-16,fhrs_5_en-GB,5,,FHRS,0
-409896,5 Inver Road,,Larne,County Antrim,Larne Football Club,Pub/bar/nightclub,7843,5,,402948,5,,54.84920000000000,445,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82642800000000,BT40 3BW,2013-05-17,fhrs_5_en-GB,5,,FHRS,5
-409897,4 Station Road,,Larne,County Antrim,Larne Football Social Club,Pub/bar/nightclub,7843,10,,403041,10,,54.84950500000000,7,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82188000000000,BT40 3AA,2012-10-26,fhrs_3_en-GB,3,,FHRS,10
-409898,4-6 Lower Cairncastle Road,,Larne,County Antrim,Larne Grammar School,School/college/university,7845,0,,402845,5,,54.85337900000000,165,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83201200000000,BT40 1PQ,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-409899,20 Sallagh Park,,Larne,County Antrim,Larne High School,School/college/university,7845,10,,402959,5,,54.85833000000000,461,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81947300000000,BT40 1NT,2014-03-10,fhrs_4_en-GB,4,,FHRS,5
-409900,St Anthony'S Primary School 43 Fairway,,Larne,County Antrim,Larne Parental Support Project,Other catering premises,7841,0,,403070,5,,54.85511200000000,876,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83850600000000,BT40 2BG,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-409901,41 Main Road,Glynn,Larne,County Antrim,Larne Rugby Football Club,Pub/bar/nightclub,7843,5,,402998,5,,54.82789600000000,527,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81190100000000,BT40 3HF,2013-12-19,fhrs_5_en-GB,5,,FHRS,5
-409902,Upper Cairncastle Road,,Larne,County Antrim,Larne Tech Old Boys,Pub/bar/nightclub,7843,5,,402844,0,,54.85679000000000,164,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83334000000000,BT40 2DT,2013-09-25,fhrs_5_en-GB,5,,FHRS,0
-409903,Point Street,,Larne,County Antrim,Latharna Club,Pub/bar/nightclub,7843,10,,402997,0,,54.85072100000000,526,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82008600000000,BT40 1HU,2012-10-04,fhrs_4_en-GB,4,,FHRS,5
-409904,"Unit 1 Laharna Retail Park, 63 Circular Road",,Larne,County Antrim,Lidl NI Gmbh (Larne),Retailers - supermarkets/hypermarkets,7840,0,,402823,0,,54.85101100000000,111,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81871600000000,BT40 1JS,2014-02-10,fhrs_5_en-GB,5,,FHRS,0
-409905,70-74 Killyglen Road,,Larne,County Antrim,Linn Primary School,School/college/university,7845,0,,402978,0,,54.86339600000000,49,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84105400000000,BT40 2HT,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-409906,169 Linn Road,,Larne,County Antrim,Linn Primary School: Nursery Unit,School/college/university,7845,5,,402969,0,,54.85871200000000,479,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83985600000000,BT40 2AJ,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-409907,Gloucester Park,,Larne,County Antrim,Lisgarel Residental Unit,Hospitals/Childcare/Caring Premises,5,5,,402981,5,,54.85437300000000,498,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81978000000000,BT40 1PD,2014-02-14,fhrs_5_en-GB,5,,FHRS,5
-409908,7 Whitlas Brae,,Larne,County Antrim,Little Robins,Hospitals/Childcare/Caring Premises,5,0,,402916,0,,54.84809300000000,388,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82731300000000,BT40 3BY,2014-02-26,fhrs_5_en-GB,5,,FHRS,0
-409909,20-24 Harbour Road,Carnlough,Ballymena,County Antrim,Londonderry Arms Hotel,Hotel/bed & breakfast/guest house,7842,0,,402920,5,,54.99271400000000,394,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98992700000000,BT44 0EU,2014-10-31,fhrs_5_en-GB,5,,FHRS,5
-409910,202 Linn Road,,Larne,County Antrim,Lough Brothers,Retailers - other,4613,20,,402860,10,,54.85938900000000,242,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84053600000000,BT40 2AL,2014-02-06,fhrs_1_en-GB,1,,FHRS,15
-409911,97 Drumnagreagh Road,Ballygally,Larne,County Antrim,Lynden Heights Bed & Breakfast,Restaurant/Cafe/Canteen,1,0,,402868,0,,54.92637600000000,259,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.89301800000000,BT40 2RR,2014-02-25,fhrs_5_en-GB,5,,FHRS,0
-409912,75 Pound Street,,Larne,County Antrim,Mac's,Takeaway/sandwich shop,7844,5,,402953,10,,54.85189400000000,454,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82235900000000,BT40 1SD,2014-10-23,fhrs_2_en-GB,2,,FHRS,15
-409913,380 Coast Road,Ballygally,Larne,County Antrim,Madelines View,Hotel/bed & breakfast/guest house,7842,5,,732100,5,,54.90913300000000,1078,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.88007100000000,BT40 2RA,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-409914,23 Olderfleet Road,,Larne,County Antrim,Manor Guest House,Hotel/bed & breakfast/guest house,7842,0,,402974,0,,54.84616900000000,484,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80082200000000,BT40 1AS,2012-05-10,fhrs_5_en-GB,5,,FHRS,0
-409915,9-13 Marine Road,Carnlough,Ballymena,County Antrim,Marine Takeaway & Marine Cafe,Restaurant/Cafe/Canteen,1,0,,402922,5,,54.99136700000000,402,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99104100000000,BT44 0HE,2014-04-11,fhrs_5_en-GB,5,,FHRS,5
-409916,Unit 9 Ledcom Industrial Estate,Bank Road,Larne,County Antrim,Marty's Catering Service,Other catering premises,7841,5,,402917,5,,54.84588400000000,389,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81788700000000,BT40 3AW,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-409917,,,,,Mary Watson Cakes,Other catering premises,7841,0,,403064,0,,,855,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-06-02,fhrs_5_en-GB,5,,FHRS,0
-409918,120 Brustin Brae Road,,Larne,County Antrim,Matties Meetinghouse,Pub/bar/nightclub,7843,20,,402829,10,,54.89506800000000,144,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.87984400000000,BT40 2RL,2015-01-08,fhrs_1_en-GB,1,,FHRS,10
-409919,79 Main Street,,Larne,County Antrim,Mauds Ice Cream,Restaurant/Cafe/Canteen,1,10,,402822,10,,54.85151000000000,11,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81649300000000,BT40 1HH,2013-11-20,fhrs_3_en-GB,3,,FHRS,10
-409920,24 High Street,Carnlough,Ballymena,County Antrim,Mc Cormick Brothers,Retailers - other,4613,5,,402832,5,,54.99214200000000,148,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99115900000000,BT44 0EP,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-409921,19 Lower Cross Street,,Larne,County Antrim,Mc Coubrey + Woodside Chemists,Retailers - other,4613,,,403037,,,54.85103900000000,67,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82123700000000,BT40 1JW,2012-10-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-409922,3 Riverdale,,Larne,County Antrim,Mc Dowells Home Bakery,Manufacturers/packers,7839,5,,402900,5,,54.85084700000000,361,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82359900000000,BT40 1LB,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-409923,86&88 Main Street,,Larne,County Antrim,Mc Farlanes Chemist,Retailers - other,4613,,,402951,,,54.85177500000000,450,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81624500000000,BT40 1RE,2012-01-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-409924,1 Redlands Road,,Larne,County Antrim,Mc Gees Butcher,Manufacturers/packers,7839,0,,403091,0,,54.84601300000000,945,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2014-05-28,fhrs_5_en-GB,5,,FHRS,0
-409925,14-16 Harbour Road,Carnlough,Ballymena,County Antrim,Mc Killops,Retailers - other,4613,5,,403039,0,,54.99271400000000,690,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98992700000000,BT44 0EU,2013-09-20,fhrs_5_en-GB,5,,FHRS,0
-409926,2 Bridge Street,Carnlough,Ballymena,County Antrim,McAuleys The Bridge Inn,Pub/bar/nightclub,7843,10,,402839,5,,54.99184200000000,158,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99095500000000,BT44 0ET,2013-10-08,fhrs_3_en-GB,3,,FHRS,10
-409927,31 Upper Cairncastle Road,,Larne,County Antrim,Mervyn Calwell (Butcher),Manufacturers/packers,7839,0,,402930,5,,54.85854400000000,412,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83293400000000,BT40 2EF,2014-12-03,fhrs_5_en-GB,5,,FHRS,0
-409928,46 Main Street,Ballycarry,Carrickfergus,County Antrim,Millar's Bar,Pub/bar/nightclub,7843,5,,402971,10,,54.77244000000000,480,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75097100000000,BT38 9HH,2014-02-21,fhrs_4_en-GB,4,,FHRS,0
-409929,18 Sallagh Park,,Larne,County Antrim,Moyle Primary School,School/college/university,7845,0,,402975,0,,54.85624100000000,485,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81922800000000,BT40 1NS,2014-09-17,fhrs_5_en-GB,5,,FHRS,0
-409930,,,,,Mr Softee,Mobile caterer,7846,5,,402945,5,,,44,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-09-26,fhrs_4_en-GB,4,,FHRS,10
-409931,,,,,Mrs Trotters,Manufacturers/packers,7839,10,,478928,10,,,986,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2012-11-08,fhrs_4_en-GB,4,,FHRS,0
-409932,"Unit 6 Laharna Retail Park, 63 Circular Road",,Larne,County Antrim,New Look,Retailers - other,4613,,,403010,,,54.85101100000000,558,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81871600000000,BT40 1JS,2012-01-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-409933,117 Main Street,,Larne,County Antrim,New Lotus Flower,Restaurant/Cafe/Canteen,1,5,,402819,10,,54.85158500000000,1000,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81462100000000,BT40 1HJ,2013-05-02,fhrs_4_en-GB,4,,FHRS,5
-409934,16 Linn Road,,Larne,County Antrim,Ni Co-op,Retailers - other,4613,0,,402867,5,,54.85129600000000,258,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84015900000000,BT40 2BS,2014-09-19,fhrs_5_en-GB,5,,FHRS,5
-409935,56 Circular Road,,Larne,County Antrim,Ni Co-op,Retailers - supermarkets/hypermarkets,7840,5,,402907,5,,54.84864400000000,372,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82051000000000,BT40 3AE,2014-01-21,fhrs_5_en-GB,5,,FHRS,5
-409936,33c Point Street,Inver,Larne,County Antrim,No. 1 Social Club,Pub/bar/nightclub,7843,10,,402941,0,,54.85041200000000,434,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82184700000000,BT40 1HY,2014-03-28,fhrs_4_en-GB,4,,FHRS,0
-409937,Fleet Street,,Larne,County Antrim,Olderfleet Bar,Pub/bar/nightclub,7843,20,,402891,15,,54.84823100000000,343,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80108400000000,BT40 1BA,2014-09-16,fhrs_1_en-GB,1,,FHRS,10
-409938,116-128 Curran Road,,Larne,County Antrim,Olderfleet Primary School Meals Kitchen,School/college/university,7845,10,,403035,0,,54.85100900000000,65,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80414100000000,BT40 1BX,2013-04-12,fhrs_4_en-GB,4,,FHRS,0
-409939,1 Redlands Road,,Larne,County Antrim,Omniplex Larne,Retailers - other,4613,10,,494091,5,,54.84601300000000,924,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2012-12-18,fhrs_4_en-GB,4,,FHRS,5
-409940,55 Main Street,,Larne,County Antrim,Owen Donnelly's,Manufacturers/packers,7839,5,,402841,10,,54.85142100000000,160,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81754100000000,BT40 1JE,2014-01-29,fhrs_4_en-GB,4,,FHRS,5
-409941,51 Coastguard Road,,Larne,County Antrim,Pablos,Mobile caterer,7846,5,,402833,5,,54.84575100000000,149,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80156100000000,BT40 1AU,2014-09-23,fhrs_5_en-GB,5,,FHRS,5
-409942,Middle Road,Islandmagee,Larne,County Antrim,Playaway Playgroup,Hospitals/Childcare/Caring Premises,5,10,,402825,5,,54.81483100000000,133,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.71485500000000,BT40 3TG,2013-01-16,fhrs_4_en-GB,4,,FHRS,5
-409943,Point Street,Inver,Larne,County Antrim,Poundland,Retailers - other,4613,5,,579697,0,,54.85041200000000,1039,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82184700000000,BT40 1HY,2013-08-21,fhrs_5_en-GB,5,,FHRS,5
-409944,47 Point Street,,Larne,County Antrim,Poundstretcher Ltd,Retailers - other,4613,,,403085,,,54.85072100000000,934,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82008600000000,BT40 1HU,2014-02-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-409945,46&48 Harbour Road,Carnlough,Ballymena,County Antrim,Quay Treats,Restaurant/Cafe/Canteen,1,5,,402866,0,,54.99271400000000,257,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98992700000000,BT44 0EU,2014-05-28,fhrs_5_en-GB,5,,FHRS,5
-409946,198 Linn Road,,Larne,County Antrim,R J Mc Dowell + Son,Manufacturers/packers,7839,5,,403008,0,,54.85938900000000,554,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84053600000000,BT40 2AL,2014-09-16,fhrs_5_en-GB,5,,FHRS,0
-409947,,,,,Raymond's Donuts,Mobile caterer,7846,0,,571244,5,,,1050,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2013-06-21,fhrs_5_en-GB,5,,FHRS,0
-409948,27a Upper Cairncastle Road,,Larne,County Antrim,Red Sea,Takeaway/sandwich shop,7844,10,,403105,10,,54.85854400000000,979,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83293400000000,BT40 2EF,2013-10-09,fhrs_3_en-GB,3,,FHRS,10
-409949,96a Main Street,,Larne,County Antrim,Richard's Fruit Market,Retailers - other,4613,0,,402988,0,,54.85177500000000,511,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81624500000000,BT40 1RE,2012-10-04,fhrs_5_en-GB,5,,FHRS,5
-409950,106 Curran Road,,Larne,County Antrim,Robinson's Service Station,Retailers - other,4613,10,,402849,5,,54.85207900000000,170,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80964200000000,BT40 1BU,2013-09-18,fhrs_4_en-GB,4,,FHRS,5
-409951,The Roddens,,Larne,County Antrim,RODDENSVALE SCHOOL,School/college/university,7845,0,,403048,5,,54.85618400000000,8,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82257900000000,BT40 1PU,2014-04-03,fhrs_5_en-GB,5,,FHRS,5
-409952,,,,,Rose Cottage Jams,Other catering premises,7841,5,,585525,0,,,1047,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-409953,1-3 Shingle Cove,Carnlough,Ballymena,County Antrim,Rowandale Residential Home,Hospitals/Childcare/Caring Premises,5,0,,403002,5,,54.98512700000000,535,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99238400000000,BT44 0EH,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-409954,19 Point Street,,Larne,County Antrim,Royal British Legion Club,Pub/bar/nightclub,7843,10,,402923,5,,54.85041200000000,403,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82184700000000,BT40 1HY,2014-09-08,fhrs_3_en-GB,3,,FHRS,10
-409955,11 Agnew Street,,Larne,County Antrim,Ruby King,Takeaway/sandwich shop,7844,5,,504978,10,,54.85213600000000,1031,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81530700000000,BT40 1RF,2014-09-01,fhrs_4_en-GB,4,,FHRS,5
-409956,168 Old Glenarm Road,,Larne,County Antrim,Ruby's,Pub/bar/nightclub,7843,5,,635724,5,,54.86144100000000,1061,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81860500000000,BT40 1TS,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-409957,,,,,S and C Catering,Mobile caterer,7846,5,,447979,0,,,1019,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2012-08-25,fhrs_5_en-GB,5,,FHRS,0
-409958,,,,,Scrubs Grub,Mobile caterer,7846,5,,402882,0,,,321,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-409959,156 Curran Road,,Larne,County Antrim,Seaview Guest House,Hotel/bed & breakfast/guest house,7842,0,,402865,0,,54.85100900000000,256,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80414100000000,BT40 1BX,2012-07-04,fhrs_5_en-GB,5,,FHRS,0
-409960,11 New Road,Glenarm,Ballymena,County Antrim,Seaview Primary School,School/college/university,7845,0,,403004,0,,54.96797900000000,546,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95215200000000,BT44 0AA,2014-03-28,fhrs_5_en-GB,5,,FHRS,0
-409961,49a Main Street,,Larne,County Antrim,Semi-Chem,Retailers - other,4613,,,402884,,,54.85125700000000,326,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82091400000000,BT40 1JQ,2013-05-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-409962,13 Upper Cairncastle Road,,Larne,County Antrim,Shop 4 You,Retailers - other,4613,5,,402885,5,,54.85854400000000,334,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83293400000000,BT40 2EF,2014-05-23,fhrs_4_en-GB,4,,FHRS,10
-409963,126 Main Street,,Larne,County Antrim,Silver Lounge Cafe,Restaurant/Cafe/Canteen,1,,,402957,,,54.85189200000000,459,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81374700000000,BT40 1RG,2014-09-16,fhrs_5_en-GB,5,,FHRS,
-409964,Ballylumford Road,Islandmagee,Larne,County Antrim,Sodexho Ltd,Restaurant/Cafe/Canteen,1,10,,402887,10,,54.84487200000000,337,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.78730100000000,BT40 3RS,2013-11-14,fhrs_3_en-GB,3,,FHRS,5
-409965,62-64 Harbour Road,Carnlough,Ballymena,County Antrim,Spar (boyles),Retailers - other,4613,10,,402940,10,,54.99271400000000,431,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98992700000000,BT44 0EU,2014-03-13,fhrs_3_en-GB,3,,FHRS,10
-409966,260 Coast Road,Ballygally,Larne,County Antrim,Spar Ballygally,Retailers - supermarkets/hypermarkets,7840,10,,403096,5,,54.89857000000000,962,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.85920600000000,BT40 2QX,2013-08-05,fhrs_4_en-GB,4,,FHRS,5
-409967,44 Belfast Road,,Larne,County Antrim,Spar Kilwaughter,Retailers - other,4613,0,,403040,5,,54.83520800000000,692,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.86628100000000,BT40 2PH,2012-01-17,fhrs_5_en-GB,5,,FHRS,5
-409968,43 Fairway,,Larne,County Antrim,St Anthonys Nursery School,School/college/university,7845,0,,403083,5,,54.85511200000000,923,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83850600000000,BT40 2BG,2014-03-06,fhrs_5_en-GB,5,,FHRS,0
-409969,43 Fairway,,Larne,County Antrim,St Anthony's Primary School,School/college/university,7845,0,,402830,0,,54.85511200000000,146,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83850600000000,BT40 2BG,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-409970,55 Victoria Road,,Larne,County Antrim,St Comgall's Recreation Club,Pub/bar/nightclub,7843,5,,402876,0,,54.85432300000000,291,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81300900000000,BT40 1LY,2012-03-29,fhrs_5_en-GB,5,,FHRS,0
-409971,31 Mill Brae,,Larne,County Antrim,St John's Masonic Club,Pub/bar/nightclub,7843,,,402847,,,54.85181600000000,168,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83055400000000,BT40 2DE,2014-09-25,fhrs_5_en-GB,5,,FHRS,
-409972,25 Tower Road,Carnlough,Ballymena,County Antrim,St Killian's College,School/college/university,7845,0,,402950,0,,55.04336700000000,449,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.96875700000000,BT44 0JS,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-409973,23 Agnew Street,,Larne,County Antrim,St MacNissis Primary School,School/college/university,7845,0,,402886,5,,54.85213600000000,336,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81530700000000,BT40 1RF,2014-03-05,fhrs_5_en-GB,5,,FHRS,5
-409974,8 Portmuck Road,Islandmagee,Larne,County Antrim,St Ronans Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,5,,403018,0,,54.83680900000000,573,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.73305600000000,BT40 3TW,2014-02-25,fhrs_5_en-GB,5,,FHRS,0
-409975,49 Bay Road,Carnlough,Ballymena,County Antrim,St. John's Primary School Kitchen,School/college/university,7845,0,,402944,0,,54.98859400000000,439,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99339900000000,BT44 0HJ,2014-05-19,fhrs_5_en-GB,5,,FHRS,5
-409976,52 Circular Road,,Larne,County Antrim,Station Bar,Pub/bar/nightclub,7843,5,,402964,0,,54.84924800000000,466,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82057100000000,BT40 3AB,2013-01-15,fhrs_5_en-GB,5,,FHRS,5
-409977,11 Browns Bay Road,Islandmagee,Larne,County Antrim,Steele's,Retailers - other,4613,0,,402977,0,,54.85001100000000,489,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75645200000000,BT40 3RX,2013-05-17,fhrs_5_en-GB,5,,FHRS,0
-409978,60 Old Glenarm Road,,Larne,County Antrim,Stephen Hodge,Manufacturers/packers,7839,0,,402935,5,,54.85633100000000,42,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81576600000000,BT40 1NQ,2013-01-14,fhrs_5_en-GB,5,,FHRS,0
-409979,Brustin Brae Road,Ballycraigy,Larne,County Antrim,"Stepping Stones, Craigyhill Methodist Church",Hospitals/Childcare/Caring Premises,5,5,,403012,0,,54.86404000000000,562,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83785700000000,BT40 2HS,2013-10-07,fhrs_5_en-GB,5,,FHRS,0
-409980,68&70 Main Street,,Larne,County Antrim,Subway,Restaurant/Cafe/Canteen,1,5,,403007,10,,54.85161700000000,552,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81845000000000,BT40 1SP,2014-11-10,fhrs_4_en-GB,4,,FHRS,5
-409981,7 Redlands Road,,Larne,County Antrim,Subway,Restaurant/Cafe/Canteen,1,5,,403033,5,,54.84601300000000,617,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2015-01-05,fhrs_5_en-GB,5,,FHRS,5
-409982,34-36 Main Street,,Larne,County Antrim,Superdrug Stores Plc,Retailers - other,4613,,,402859,,,54.85154000000000,223,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82061800000000,BT40 1SS,2012-03-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-409983,21 Main Street,,Larne,County Antrim,T F Woodside + Co Ltd,Retailers - other,4613,5,,402994,0,,54.85131200000000,523,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81694000000000,BT40 1DW,2012-08-10,fhrs_5_en-GB,5,,FHRS,0
-409984,22 Dunluce Street,,Larne,County Antrim,T Mc Keen,Manufacturers/packers,7839,5,,402890,5,,54.85077700000000,342,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82217000000000,BT40 1JG,2014-06-09,fhrs_4_en-GB,4,,FHRS,10
-409985,46 Main Street,,Larne,County Antrim,Tesco,Retailers - supermarkets/hypermarkets,7840,10,,579699,5,,54.85161700000000,1048,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81845000000000,BT40 1SP,2013-07-23,fhrs_4_en-GB,4,,FHRS,0
-409986,27b Point Street,Inver,Larne,County Antrim,The Big Sandwich Company,Restaurant/Cafe/Canteen,1,,,402834,,,54.85041200000000,150,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82184700000000,BT40 1HY,2014-07-28,fhrs_3_en-GB,3,,FHRS,
-409987,96 Main Street,,Larne,County Antrim,The Book Nook and Post Office,Retailers - other,4613,5,,402873,5,,54.85177500000000,277,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81624500000000,BT40 1RE,2014-05-30,fhrs_5_en-GB,5,,FHRS,5
-409988,,,,,The Burger Box,Mobile caterer,7846,5,,460136,5,,,1024,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2014-07-10,fhrs_5_en-GB,5,,FHRS,5
-409989,36 Toberwine Street,Glenarm,Ballymena,County Antrim,The Coffee Cup,Restaurant/Cafe/Canteen,1,5,,403084,5,,54.96679300000000,928,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95322800000000,BT44 0AP,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-409990,Larne Harbour,,Larne,County Antrim,The Coffee Shop,Restaurant/Cafe/Canteen,1,5,,403031,5,,54.84789276123047,612,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.79879760742188,BT40 1AW,2013-10-04,fhrs_5_en-GB,5,,FHRS,0
-409991,6 Main Street,,Larne,County Antrim,The Fruit Centre and World of Flowers,Retailers - other,4613,5,,402972,5,,54.85154000000000,482,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82061800000000,BT40 1SS,2011-09-27,fhrs_5_en-GB,5,,FHRS,5
-409992,50-52 Harbour Road,Carnlough,Ballymena,County Antrim,The Galley,Takeaway/sandwich shop,7844,5,,402919,5,,54.99271400000000,393,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.98992700000000,BT44 0EU,2014-07-25,fhrs_5_en-GB,5,,FHRS,5
-409993,27b Upper Cairncastle Road,,Larne,County Antrim,The Hillstop,Takeaway/sandwich shop,7844,5,,402925,5,,54.85854400000000,405,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83293400000000,BT40 2EF,2014-08-06,fhrs_5_en-GB,5,,FHRS,5
-409994,5 Victoria Road,,Larne,County Antrim,The Little Cafe,Restaurant/Cafe/Canteen,1,5,,635723,0,,54.85224300000000,1060,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82078300000000,BT40 1RY,2014-01-31,fhrs_5_en-GB,5,,FHRS,0
-409995,,,,,The Little Cafe Home Catering,Other catering premises,7841,5,,617941,0,,,1064,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,,,2013-11-12,fhrs_5_en-GB,5,,FHRS,0
-409996,8 The Old Mill Meetinghouse Street,,Larne,County Antrim,The Old Mill,Hospitals/Childcare/Caring Premises,5,,,403079,,,54.85177900000000,901,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82695900000000,BT40 1LP,2013-11-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-409997,11-13 Recreation Road,,Larne,County Antrim,The Pastry Chef,Manufacturers/packers,7839,5,,402875,0,,54.86021700000000,287,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81153700000000,BT40 1HA,2014-11-11,fhrs_4_en-GB,4,,FHRS,10
-409998,48 Lower Waterloo Road,,Larne,County Antrim,The Pharaoh's Kebab,Takeaway/sandwich shop,7844,5,,732099,5,,54.85733700000000,1075,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81421600000000,BT40 1NP,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-409999,28-30 Tower Road,,Larne,County Antrim,The Prom Cafe,Restaurant/Cafe/Canteen,1,0,,403103,5,,54.85289800000000,977,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80475400000000,BT40 1AB,2014-10-01,fhrs_5_en-GB,5,,FHRS,5
-410000,96 Brustin Brae Road,,Larne,County Antrim,The Rainbow Private Day Nursery,School/college/university,7845,5,,403034,5,,54.87885600000000,62,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.86120200000000,BT40 2LJ,2013-12-12,fhrs_5_en-GB,5,,FHRS,0
-410001,55 Middle Road,Islandmagee,Larne,County Antrim,The Rinkha,Retailers - other,4613,5,,402869,0,,54.77599300000000,260,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.70846500000000,BT40 3SL,2013-10-09,fhrs_5_en-GB,5,,FHRS,0
-410002,43 Herbert Avenue,,Larne,County Antrim,The Square,Takeaway/sandwich shop,7844,,,402979,,,54.85750900000000,494,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81431600000000,BT40 1NL,2014-08-18,fhrs_5_en-GB,5,,FHRS,
-410003,43 Station Road,,Larne,County Antrim,The Station,Takeaway/sandwich shop,7844,5,,402857,5,,54.84950500000000,215,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82188000000000,BT40 3AA,2013-10-30,fhrs_4_en-GB,4,,FHRS,10
-410004,"Unit 7 Laharna Retail Park, 63 Circular Road",,Larne,County Antrim,The Streat,Restaurant/Cafe/Canteen,1,0,,403049,5,,54.85101100000000,803,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81871600000000,BT40 1JS,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-410005,20 Main Street,,Larne,County Antrim,The Sweet Life,Retailers - other,4613,5,,692261,5,,54.85154000000000,1082,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82061800000000,BT40 1SS,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-410006,4 Bridge Street,,Larne,County Antrim,The Thatch Bar,Pub/bar/nightclub,7843,10,,402877,5,,54.85048800000000,292,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82262100000000,BT40 1LW,2014-02-07,fhrs_3_en-GB,3,,FHRS,10
-410007,28 Main Street,,Larne,County Antrim,The Upper Crust,Restaurant/Cafe/Canteen,1,5,,402913,5,,54.85154000000000,38,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82061800000000,BT40 1SS,2014-10-17,fhrs_5_en-GB,5,,FHRS,5
-410008,208 Old Glenarm Road,,Larne,County Antrim,The Viking Chippy,Takeaway/sandwich shop,7844,5,,403046,0,,54.86144100000000,792,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81860500000000,BT40 1TS,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-410009,53 Main Street,Ballycarry,Carrickfergus,County Antrim,The Village Butchers,Manufacturers/packers,7839,10,,402854,10,,54.77244000000000,186,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.75097100000000,BT38 9HH,2013-07-29,fhrs_3_en-GB,3,,FHRS,5
-410010,2 Riverdale,,Larne,County Antrim,Thompson's Butchers,Manufacturers/packers,7839,20,,403000,10,,54.85084700000000,533,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82359900000000,BT40 1LB,2014-02-05,fhrs_1_en-GB,1,,FHRS,10
-410011,Redlands Road,,Larne,County Antrim,Topaz Service Station,Retailers - other,4613,5,,403110,5,,54.84601300000000,989,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.80710600000000,BT40 1FD,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-410012,1 Castle Lane,Glenarm,Ballymena,County Antrim,Traditional Icecream,Retailers - other,4613,0,,403062,0,,54.95206000000000,853,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.96830700000000,BT44 0BQ,2012-07-03,fhrs_5_en-GB,5,,FHRS,0
-410013,Unit 26 Ledcom Industrial Estate,Bank Road,Larne,County Antrim,Truly Scrumptious Catering Services,Other catering premises,7841,0,,403069,0,,54.84588400000000,875,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81788700000000,BT40 3AW,2014-02-28,fhrs_5_en-GB,5,,FHRS,0
-410014,36 Braepark Road,,Ballyclare,County Antrim,Upper Ballyboley Primary School Dining Centre,School/college/university,7845,5,,402955,0,,54.79678600000000,456,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95535900000000,BT39 9UW,2012-02-21,fhrs_5_en-GB,5,,FHRS,5
-410015,210 Old Glenarm Road,,Larne,County Antrim,Viking Lodge Spar,Retailers - other,4613,0,,403057,0,,54.86144100000000,831,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81860500000000,BT40 1TS,2014-10-29,fhrs_5_en-GB,5,,FHRS,0
-410016,204 Old Glenarm Road,,Larne,County Antrim,Viking Wineflair,Retailers - other,4613,,,403056,,,54.86144100000000,830,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81860500000000,BT40 1TS,2012-01-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-410017,200 Linn Road,,Larne,County Antrim,Vivo,Retailers - other,4613,10,,402937,0,,54.85938900000000,428,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.84053600000000,BT40 2AL,2014-03-12,fhrs_4_en-GB,4,,FHRS,5
-410018,Castle Demense,Glenarm,Ballymena,County Antrim,Walled Garden Tea Room,Restaurant/Cafe/Canteen,1,0,,403011,5,,54.96800994873047,560,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.95675754547119,BT44 0BD,2014-04-24,fhrs_5_en-GB,5,,FHRS,0
-410019,Old Belfast Road,Millbrook,Larne,County Antrim,Warner Chilcott,Restaurant/Cafe/Canteen,1,5,,402958,10,,54.84145700000000,46,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.85587900000000,BT40 2SH,2014-02-21,fhrs_4_en-GB,4,,FHRS,5
-410020,1-3 High Street,Carnlough,Ballymena,County Antrim,Waterfall Bar,Pub/bar/nightclub,7843,5,,402990,5,,54.99214200000000,515,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.99115900000000,BT44 0EP,2013-05-14,fhrs_5_en-GB,5,,FHRS,0
-410021,1 Willowbank Road,Millbrook,Larne,County Antrim,Wellington Recreation Social Club,Pub/bar/nightclub,7843,5,,403082,0,,54.84145700000000,912,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.85587900000000,BT40 2SH,2014-08-08,fhrs_5_en-GB,5,,FHRS,5
-410022,2 Willowbank Road,Millbrook,Larne,County Antrim,Willowbank Day Care Nursery,Hospitals/Childcare/Caring Premises,5,0,,402914,0,,54.84156400000000,381,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.86038800000000,BT40 2SF,2014-03-14,fhrs_5_en-GB,5,,FHRS,0
-410023,6 Gloucester Avenue,,Larne,County Antrim,Wilson Cash Stores,Retailers - other,4613,10,,403005,10,,54.85476500000000,549,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81910500000000,BT40 1NZ,2013-06-10,fhrs_3_en-GB,3,,FHRS,5
-410024,2 Greenland Drive,,Larne,County Antrim,Wilsons Catering Ltd,Restaurant/Cafe/Canteen,1,5,,403104,5,,54.85895700000000,978,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81487600000000,BT40 1EY,2015-01-13,fhrs_5_en-GB,5,,FHRS,5
-410025,5 St. Johns Place,,Larne,County Antrim,Wilsons Mini-market,Retailers - other,4613,10,,402909,5,,54.85283600000000,375,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.82277500000000,BT40 1TB,2013-09-24,fhrs_4_en-GB,4,,FHRS,0
-410026,15b Upper Cairncastle Road,,Larne,County Antrim,Winemark,Retailers - other,4613,,,402987,,,54.85854400000000,510,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.83293400000000,BT40 2EF,2012-12-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-410027,Broadway,,Larne,County Antrim,Winemark,Retailers - other,4613,,,402933,,,54.85115300000000,415,817,ehealth@larne.gov.uk,Larne,http://www.larne.gov.uk,-5.81911300000000,BT40 1LT,2013-11-26,fhrs_exempt_en-GB,Exempt,,FHRS,
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+409756,(Elizabeth) Beth Burke,5,5,0,0,2013-05-23,,
+409757,A8 Diner,5,0,5,5,2013-09-18,54.835208,-5.866281
+409758,Ann's Pantry,2,0,15,10,2014-07-22,54.851617,-5.81845
+409759,Apsleys,4,5,10,5,2014-11-06,54.851257,-5.820914
+409760,Aramark,4,5,5,10,2014-08-20,54.863521,-5.811857
+409761,Argos Limited,Exempt,nan,nan,nan,2011-10-21,54.851011,-5.818716
+409762,Asda,5,5,5,5,2013-10-24,54.846013,-5.807106
+409763,Asian Food Central,5,0,5,5,2014-06-20,54.846224,-5.819815
+409764,Atlantica Ocean Delights,5,0,0,0,2013-07-23,54.845587,-5.817872
+409765,B & M Bargains,Exempt,nan,nan,nan,2014-07-10,54.851011,-5.818716
+409766,Bake,5,5,5,5,2014-03-19,54.851153,-5.819113
+409767,Ballyboley Inn,5,0,0,0,2013-08-15,54.82678,-5.99485
+409768,Ballycarry Chinese,4,5,5,10,2014-03-12,54.77244,-5.750971
+409769,Ballycarry Play Group,5,5,0,0,2014-05-22,54.77244,-5.750971
+409770,Ballycarry Primary School,5,5,0,0,2014-05-29,54.77625,-5.752936
+409771,Ballygally Castle Hotel,5,5,5,5,2014-05-13,54.902228,-5.866963
+409772,Ballylumford Sports & Social Club,5,5,0,5,2014-02-13,54.851617,-5.81845
+409773,Barbara's Bakes & Cakes,5,0,0,5,2012-02-03,,
+409774,Beltoy Farmhouse Bed And Breakfast,5,0,0,0,2012-08-15,54.779824,-5.799388
+409775,Berry Tree Cafe,4,5,10,5,2013-12-09,54.851421,-5.817541
+409776,Billy Andys Public House,2,5,15,10,2014-03-19,54.809781,-5.859704
+409777,Billy Andys Restaurant (PD Catering),3,10,5,10,2014-03-19,54.809781,-5.859704
+409778,Black's Greengrocery,5,5,5,5,2014-08-18,,
+409779,Blue Chicago Grill,5,5,0,5,2014-04-04,54.846013,-5.807106
+409780,Blue Circle Social Club,5,5,0,5,2013-07-03,54.816582,-5.774269
+409781,Blue Door Cafe,4,10,5,5,2014-12-03,54.850847,-5.823598
+409782,Bombay Spice (Lisnaskea) Ltd,0,20,15,20,2015-01-20,54.851063,-5.823073
+409783,Boots Stores Ltd,Exempt,nan,nan,nan,2012-10-08,54.85154,-5.820618
+409784,Brae View Bed And Breakfast,5,0,0,0,2012-08-22,54.884511,-5.88032
+409785,Bridge End Inn,5,5,5,5,2013-10-08,54.966793,-5.953228
+409786,Broadways Private Nursing Home,5,0,5,0,2013-11-26,54.851153,-5.819113
+409787,Brookies Korner After School Club,4,0,5,10,2011-07-29,54.840513,-5.861907
+409788,Cafe Riva,5,5,5,5,2015-01-22,54.846013,-5.807106
+409789,Caffe Spice,4,5,5,10,2014-09-29,54.89342,-5.849425
+409790,Caffe Spice & Spezia,5,5,5,5,2013-11-06,54.851787,-5.821882
+409791,Cairncastle Primary School,5,0,0,5,2014-05-14,54.897761,-5.872484
+409792,Cairndhu Golf Club Ltd,5,5,5,0,2012-01-17,54.89342,-5.849425
+409793,Cape Cod,4,0,10,5,2014-02-04,54.85044,-5.83955
+409794,Carnalbanagh Primary School,5,0,0,0,2014-06-24,54.901257,-6.009859
+409795,Carnival Bingo,1,0,10,20,2014-10-23,54.851011,-5.818716
+409796,Carnlough Controlled Integrated Primary School,5,0,0,5,2014-03-31,54.992714,-5.989927
+409797,Carnlough Pharmacy,Exempt,nan,nan,nan,2013-03-28,54.992714,-5.989927
+409798,Carrageenan Bed & Breakfast,5,0,0,5,2012-04-27,54.798979,-5.911113
+409799,Carriages,4,5,10,0,2014-04-30,54.851257,-5.820914
+409800,Centra Larne,4,5,10,5,2015-01-06,54.856331,-5.815766
+409801,Centre Point Cafe,4,5,5,10,2014-11-11,54.852086,-5.82456
+409802,Chekkers Wine Bar,5,5,5,5,2013-10-24,54.851039,-5.821237
+409803,Cheng Du,5,5,5,5,2013-10-08,54.991367,-5.991041
+409804,China Inn,3,10,10,10,2014-12-17,54.852243,-5.820783
+409805,Circle K,1,15,10,20,2014-08-27,54.850777,-5.82217
+409806,Clanrye Private Residential Home,4,5,5,10,2014-03-11,54.858756,-5.809716
+409807,Clare Agnew,5,0,0,0,2014-11-13,,
+409808,Clogrennan Hostel,Exempt,nan,nan,nan,2012-09-26,54.858688,-5.810919
+409809,Coast Road Inn,5,5,0,5,2013-05-21,54.966793,-5.953228
+409810,Colebrooke House,5,0,5,5,2014-05-14,54.85666,-5.823052
+409811,Corran Integrated Primary School,5,5,0,5,2012-03-14,54.87125,-5.822982
+409812,Costcutter,3,10,10,10,2014-10-30,54.858145,-5.812724
+409813,Country Diner (Big Van),5,0,5,5,2014-01-22,,
+409814,Country Kitchen,5,5,5,5,2013-06-19,54.850721,-5.820086
+409815,Country Kitchen (Bake),4,10,0,10,2014-12-04,54.858544,-5.832934
+409816,Craigyhill Presbyterian Church Halls,Exempt,nan,nan,nan,2013-10-18,54.857378,-5.838089
+409817,Crossways Bar,5,5,0,0,2013-06-25,54.804702,-5.862072
+409818,Curran Court Hotel,5,nan,nan,nan,2014-06-18,54.846013,-5.807106
+409819,Curran Fold,5,5,5,5,2014-11-13,54.852079,-5.809642
+409820,D Watt Quality Butcher + Deli,4,5,5,10,2014-02-19,54.851257,-5.820914
+409821,Dairyside Stores Limited,5,0,5,5,2011-12-07,54.806087,-5.832305
+409822,Dan Campbell's,4,5,10,5,2014-08-15,54.850488,-5.822621
+409823,Daneilfarm,5,5,5,5,2015-01-05,54.783991,-5.757559
+409824,David Speers,5,0,0,5,2012-02-02,,
+409825,Day Today,4,nan,nan,nan,2014-08-19,54.966793,-5.953228
+409826,Derrin House,5,0,5,0,2014-04-15,54.853172,-5.813476
+409827,Dinner Belle,5,0,0,0,2014-04-01,,
+409828,Doagh Sea Herbs,1,10,5,20,2014-11-24,,
+409829,Dominos Pizza,4,10,5,5,2014-06-17,54.846013,-5.807106
+409830,Dragon Sun,5,5,0,0,2014-08-28,54.992714,-5.989927
+409831,Drumalis Retreat + Conference Centre,5,0,5,5,2013-06-19,54.855982,-5.808823
+409832,Drumgart B & B,5,5,5,5,2012-07-10,54.77625,-5.752936
+409833,Dunnes Stores (Bangor) Ltd,5,0,0,0,2014-09-23,54.851421,-5.817541
+409834,Duo's Fast Food,5,5,0,0,2014-02-17,54.851063,-5.823073
+409835,Earl's,4,5,5,10,2014-05-21,54.83299,-5.721534
+409836,East Antrim Boat Club,5,5,5,5,2012-06-26,54.845751,-5.801561
+409837,Eatwell,3,5,10,10,2014-10-06,54.85235,-5.840803
+409838,Eleanor Craigs Fudge,5,0,0,0,2014-09-19,54.776323,-5.752994
+409839,Emerald City,5,5,5,5,2013-12-16,54.851894,-5.822359
+409840,Englewood Residential Home,4,0,10,10,2013-06-14,,
+409841,Entice Cake Design,4,0,0,10,2013-10-02,,
+409842,Forest Glen Fold,5,5,0,5,2013-10-08,54.966253,-5.9521
+409843,Funky Monkeys,5,0,5,5,2013-08-12,54.846013,-5.807106
+409844,Gangnam Takeaway,4,5,10,5,2014-05-21,54.861441,-5.818605
+409845,Gillaroo Lodge,5,5,0,0,2014-11-19,54.857784,-5.827134
+409846,Glasgow Rangers Supporters Club - Larne Branch,3,10,10,10,2012-10-25,54.858957,-5.814876
+409847,Glenarm Community Pre-School,5,0,0,5,2013-10-08,54.966253,-5.9521
+409848,Glenarm Pharmacy,Exempt,nan,nan,nan,2012-03-22,54.965813,-5.952653
+409849,Glenarm Road Filling Station,3,nan,nan,nan,2014-03-06,54.858756,-5.809716
+409850,Glencloy Filling station,4,5,5,10,2013-09-12,54.985517,-5.992037
+409851,Glencloy Inn,5,nan,nan,nan,2015-01-16,54.991842,-5.990955
+409852,Glynn Post Office,5,0,0,5,2014-04-07,54.827909,-5.814141
+409853,Glynn Primary School,5,0,0,5,2013-01-30,54.827896,-5.811901
+409854,Golden Well,1,10,10,20,2014-10-28,54.851063,-5.823073
+409855,Graham's Pizza Joint,5,0,0,5,2013-10-31,54.858145,-5.812724
+409856,Grassy Banks Bed and Breakfast,5,0,5,0,2013-03-25,54.871788,-5.823436
+409857,Grays Cakes,5,5,0,5,2013-04-24,,
+409858,Green Drive Mini-Mart,4,5,5,10,2015-01-09,54.860539,-5.835475
+409859,Haggan's Fruit And Vegetables,1,15,15,20,2014-08-22,54.850847,-5.823599
+409860,Halfway House Hotel,5,5,5,5,2014-09-29,54.909134,-5.880071
+409861,Hansel & Gretel Pre-school,5,0,5,5,2013-11-06,54.827896,-5.811901
+409862,Harbour Inn Bed + Breakfast,5,0,0,0,2014-02-25,54.846169,-5.800822
+409863,Harbour Lights Cafe,3,10,10,10,2014-03-13,54.992714,-5.989927
+409864,Harry's,4,10,0,10,2013-04-12,54.851894,-5.822359
+409865,Humphrey's at Rathmore,5,0,0,5,2013-04-22,54.858756,-5.809716
+409866,Iceland Frozen Foods,5,5,0,0,2012-11-30,54.850721,-5.820086
+409867,Impressive Cakes,5,0,0,0,2014-11-18,,
+409868,Indulgence,5,5,0,0,2014-04-03,54.851585,-5.814621
+409869,Inver Garden Centre,Exempt,nan,nan,nan,2014-05-28,54.835702,-5.856122
+409870,Inver Intermediate Care Unit,4,0,10,5,2014-06-09,54.854765,-5.819105
+409871,Inverbann,5,0,0,0,2013-05-08,54.853625,-5.81166
+409872,Irish Seaweed,1,5,5,20,2014-07-04,,
+409873,Island Stores Ltd,4,10,0,5,2014-02-04,54.777036,-5.712789
+409874,Islandmagee Football Club,5,0,0,5,2012-03-30,54.78067,-5.70775
+409875,Jade House Take Away,2,15,5,10,2014-03-25,54.852136,-5.815307
+409876,Johnston Stores,3,10,10,10,2014-08-04,54.77244,-5.750971
+409877,Julia Shirley Catering,5,5,5,0,2014-02-18,54.876234,-5.837392
+409878,Julie Campbell Cakes,5,0,5,5,2011-04-20,,
+409879,Karingmore House,5,0,5,0,2014-02-26,54.994682,-5.989907
+409880,Kebab House,4,10,5,5,2014-03-25,54.851449,-5.822601
+409881,Kennedy's,3,10,10,5,2013-08-07,54.856331,-5.815766
+409882,Kentucky Fried Chicken,4,5,5,10,2014-04-09,54.846013,-5.807106
+409883,Kilcoan Maintained Primary School Meals Kitchen,5,0,0,5,2012-03-06,54.825417,-5.729742
+409884,Kinnalargy,4,0,0,10,2013-05-17,54.902228,-5.866963
+409885,L. G. C,4,5,10,5,2013-05-29,54.851027,-5.780891
+409886,La Bodega,4,0,10,10,2012-12-20,54.850412,-5.821847
+409887,Ladybird Day Nursery,5,5,0,0,2014-03-28,54.845884,-5.817887
+409888,Larne Adult Centre,4,5,10,5,2014-07-30,54.847752,-5.840441
+409889,Larne And District Homing Pigeon Society,4,5,5,10,2012-12-19,54.861441,-5.818605
+409890,Larne And Inver Primary School Meals Kitchen,5,5,5,0,2014-03-07,54.848484,-5.823056
+409891,Larne Bowling Club,5,5,0,5,2012-07-24,54.858756,-5.809716
+409892,Larne Care Centre,5,0,5,5,2014-02-18,54.845751,-5.801561
+409893,Larne Chemists Limited,Exempt,nan,nan,nan,2012-01-11,54.85374,-5.819082
+409894,Larne Christian Fellowship,5,0,0,5,2014-08-21,54.864302,-5.819307
+409895,Larne Community Care Centre,5,0,5,5,2012-05-16,54.85235,-5.840803
+409896,Larne Football Club,5,5,5,5,2013-05-17,54.8492,-5.826428
+409897,Larne Football Social Club,3,10,10,10,2012-10-26,54.849505,-5.82188
+409898,Larne Grammar School,5,5,5,0,2014-05-29,54.853379,-5.832012
+409899,Larne High School,4,5,5,10,2014-03-10,54.85833,-5.819473
+409900,Larne Parental Support Project,5,0,5,0,2014-05-21,54.855112,-5.838506
+409901,Larne Rugby Football Club,5,5,5,5,2013-12-19,54.827896,-5.811901
+409902,Larne Tech Old Boys,5,0,0,5,2013-09-25,54.85679,-5.83334
+409903,Latharna Club,4,5,0,10,2012-10-04,54.850721,-5.820086
+409904,Lidl NI Gmbh (Larne),5,0,0,0,2014-02-10,54.851011,-5.818716
+409905,Linn Primary School,5,5,0,0,2014-03-12,54.863396,-5.841054
+409906,Linn Primary School: Nursery Unit,5,5,0,5,2014-06-17,54.858712,-5.839856
+409907,Lisgarel Residental Unit,5,5,5,5,2014-02-14,54.854373,-5.81978
+409908,Little Robins,5,0,0,0,2014-02-26,54.848093,-5.827313
+409909,Londonderry Arms Hotel,5,5,5,0,2014-10-31,54.992714,-5.989927
+409910,Lough Brothers,1,15,10,20,2014-02-06,54.859389,-5.840536
+409911,Lynden Heights Bed & Breakfast,5,0,0,0,2014-02-25,54.926376,-5.893018
+409912,Mac's,2,15,10,5,2014-10-23,54.851894,-5.822359
+409913,Madelines View,5,0,5,5,2014-11-12,54.909133,-5.880071
+409914,Manor Guest House,5,0,0,0,2012-05-10,54.846169,-5.800822
+409915,Marine Takeaway & Marine Cafe,5,5,5,0,2014-04-11,54.991367,-5.991041
+409916,Marty's Catering Service,5,5,5,5,2014-08-20,54.845884,-5.817887
+409917,Mary Watson Cakes,5,0,0,0,2014-06-02,,
+409918,Matties Meetinghouse,1,10,10,20,2015-01-08,54.895068,-5.879844
+409919,Mauds Ice Cream,3,10,10,10,2013-11-20,54.85151,-5.816493
+409920,Mc Cormick Brothers,5,5,5,5,2014-06-09,54.992142,-5.991159
+409921,Mc Coubrey + Woodside Chemists,Exempt,nan,nan,nan,2012-10-16,54.851039,-5.821237
+409922,Mc Dowells Home Bakery,5,0,5,5,2014-01-14,54.850847,-5.823599
+409923,Mc Farlanes Chemist,Exempt,nan,nan,nan,2012-01-11,54.851775,-5.816245
+409924,Mc Gees Butcher,5,0,0,0,2014-05-28,54.846013,-5.807106
+409925,Mc Killops,5,0,0,5,2013-09-20,54.992714,-5.989927
+409926,McAuleys The Bridge Inn,3,10,5,10,2013-10-08,54.991842,-5.990955
+409927,Mervyn Calwell (Butcher),5,0,5,0,2014-12-03,54.858544,-5.832934
+409928,Millar's Bar,4,0,10,5,2014-02-21,54.77244,-5.750971
+409929,Moyle Primary School,5,0,0,0,2014-09-17,54.856241,-5.819228
+409930,Mr Softee,4,10,5,5,2014-09-26,,
+409931,Mrs Trotters,4,0,10,10,2012-11-08,,
+409932,New Look,Exempt,nan,nan,nan,2012-01-05,54.851011,-5.818716
+409933,New Lotus Flower,4,5,10,5,2013-05-02,54.851585,-5.814621
+409934,Ni Co-op,5,5,5,0,2014-09-19,54.851296,-5.840159
+409935,Ni Co-op,5,5,5,5,2014-01-21,54.848644,-5.82051
+409936,No. 1 Social Club,4,0,0,10,2014-03-28,54.850412,-5.821847
+409937,Olderfleet Bar,1,10,15,20,2014-09-16,54.848231,-5.801084
+409938,Olderfleet Primary School Meals Kitchen,4,0,0,10,2013-04-12,54.851009,-5.804141
+409939,Omniplex Larne,4,5,5,10,2012-12-18,54.846013,-5.807106
+409940,Owen Donnelly's,4,5,10,5,2014-01-29,54.851421,-5.817541
+409941,Pablos,5,5,5,5,2014-09-23,54.845751,-5.801561
+409942,Playaway Playgroup,4,5,5,10,2013-01-16,54.814831,-5.714855
+409943,Poundland,5,5,0,5,2013-08-21,54.850412,-5.821847
+409944,Poundstretcher Ltd,Exempt,nan,nan,nan,2014-02-07,54.850721,-5.820086
+409945,Quay Treats,5,5,0,5,2014-05-28,54.992714,-5.989927
+409946,R J Mc Dowell + Son,5,0,0,5,2014-09-16,54.859389,-5.840536
+409947,Raymond's Donuts,5,0,5,0,2013-06-21,,
+409948,Red Sea,3,10,10,10,2013-10-09,54.858544,-5.832934
+409949,Richard's Fruit Market,5,5,0,0,2012-10-04,54.851775,-5.816245
+409950,Robinson's Service Station,4,5,5,10,2013-09-18,54.852079,-5.809642
+409951,RODDENSVALE SCHOOL,5,5,5,0,2014-04-03,54.856184,-5.822579
+409952,Rose Cottage Jams,5,0,0,5,2013-08-21,,
+409953,Rowandale Residential Home,5,5,5,0,2014-06-03,54.985127,-5.992384
+409954,Royal British Legion Club,3,10,5,10,2014-09-08,54.850412,-5.821847
+409955,Ruby King,4,5,10,5,2014-09-01,54.852136,-5.815307
+409956,Ruby's,5,5,5,5,2014-01-16,54.861441,-5.818605
+409957,S and C Catering,5,0,0,5,2012-08-25,,
+409958,Scrubs Grub,5,5,0,5,2013-03-27,,
+409959,Seaview Guest House,5,0,0,0,2012-07-04,54.851009,-5.804141
+409960,Seaview Primary School,5,0,0,0,2014-03-28,54.967979,-5.952152
+409961,Semi-Chem,Exempt,nan,nan,nan,2013-05-08,54.851257,-5.820914
+409962,Shop 4 You,4,10,5,5,2014-05-23,54.858544,-5.832934
+409963,Silver Lounge Cafe,5,nan,nan,nan,2014-09-16,54.851892,-5.813747
+409964,Sodexho Ltd,3,5,10,10,2013-11-14,54.844872,-5.787301
+409965,Spar (boyles),3,10,10,10,2014-03-13,54.992714,-5.989927
+409966,Spar Ballygally,4,5,5,10,2013-08-05,54.89857,-5.859206
+409967,Spar Kilwaughter,5,5,5,0,2012-01-17,54.835208,-5.866281
+409968,St Anthonys Nursery School,5,0,5,0,2014-03-06,54.855112,-5.838506
+409969,St Anthony's Primary School,5,5,0,0,2014-03-06,54.855112,-5.838506
+409970,St Comgall's Recreation Club,5,0,0,5,2012-03-29,54.854323,-5.813009
+409971,St John's Masonic Club,5,nan,nan,nan,2014-09-25,54.851816,-5.830554
+409972,St Killian's College,5,5,0,0,2014-05-06,55.043367,-5.968757
+409973,St MacNissis Primary School,5,5,5,0,2014-03-05,54.852136,-5.815307
+409974,St Ronans Bed & Breakfast,5,0,0,5,2014-02-25,54.836809,-5.733056
+409975,St. John's Primary School Kitchen,5,5,0,0,2014-05-19,54.988594,-5.993399
+409976,Station Bar,5,5,0,5,2013-01-15,54.849248,-5.820571
+409977,Steele's,5,0,0,0,2013-05-17,54.850011,-5.756452
+409978,Stephen Hodge,5,0,5,0,2013-01-14,54.856331,-5.815766
+409979,"Stepping Stones, Craigyhill Methodist Church",5,0,0,5,2013-10-07,54.86404,-5.837857
+409980,Subway,4,5,10,5,2014-11-10,54.851617,-5.81845
+409981,Subway,5,5,5,5,2015-01-05,54.846013,-5.807106
+409982,Superdrug Stores Plc,Exempt,nan,nan,nan,2012-03-23,54.85154,-5.820618
+409983,T F Woodside + Co Ltd,5,0,0,5,2012-08-10,54.851312,-5.81694
+409984,T Mc Keen,4,10,5,5,2014-06-09,54.850777,-5.82217
+409985,Tesco,4,0,5,10,2013-07-23,54.851617,-5.81845
+409986,The Big Sandwich Company,3,nan,nan,nan,2014-07-28,54.850412,-5.821847
+409987,The Book Nook and Post Office,5,5,5,5,2014-05-30,54.851775,-5.816245
+409988,The Burger Box,5,5,5,5,2014-07-10,,
+409989,The Coffee Cup,5,5,5,5,2014-03-31,54.966793,-5.953228
+409990,The Coffee Shop,5,0,5,5,2013-10-04,54.8478927612,-5.79879760742
+409991,The Fruit Centre and World of Flowers,5,5,5,5,2011-09-27,54.85154,-5.820618
+409992,The Galley,5,5,5,5,2014-07-25,54.992714,-5.989927
+409993,The Hillstop,5,5,5,5,2014-08-06,54.858544,-5.832934
+409994,The Little Cafe,5,0,0,5,2014-01-31,54.852243,-5.820783
+409995,The Little Cafe Home Catering,5,0,0,5,2013-11-12,,
+409996,The Old Mill,Exempt,nan,nan,nan,2013-11-06,54.851779,-5.826959
+409997,The Pastry Chef,4,10,0,5,2014-11-11,54.860217,-5.811537
+409998,The Pharaoh's Kebab,5,0,5,5,2014-11-12,54.857337,-5.814216
+409999,The Prom Cafe,5,5,5,0,2014-10-01,54.852898,-5.804754
+410000,The Rainbow Private Day Nursery,5,0,5,5,2013-12-12,54.878856,-5.861202
+410001,The Rinkha,5,0,0,5,2013-10-09,54.775993,-5.708465
+410002,The Square,5,nan,nan,nan,2014-08-18,54.857509,-5.814316
+410003,The Station,4,10,5,5,2013-10-30,54.849505,-5.82188
+410004,The Streat,5,5,5,0,2014-10-22,54.851011,-5.818716
+410005,The Sweet Life,5,5,5,5,2014-08-01,54.85154,-5.820618
+410006,The Thatch Bar,3,10,5,10,2014-02-07,54.850488,-5.822621
+410007,The Upper Crust,5,5,5,5,2014-10-17,54.85154,-5.820618
+410008,The Viking Chippy,5,0,0,5,2014-03-05,54.861441,-5.818605
+410009,The Village Butchers,3,5,10,10,2013-07-29,54.77244,-5.750971
+410010,Thompson's Butchers,1,10,10,20,2014-02-05,54.850847,-5.823599
+410011,Topaz Service Station,5,5,5,5,2013-10-08,54.846013,-5.807106
+410012,Traditional Icecream,5,0,0,0,2012-07-03,54.95206,-5.968307
+410013,Truly Scrumptious Catering Services,5,0,0,0,2014-02-28,54.845884,-5.817887
+410014,Upper Ballyboley Primary School Dining Centre,5,5,0,5,2012-02-21,54.796786,-5.955359
+410015,Viking Lodge Spar,5,0,0,0,2014-10-29,54.861441,-5.818605
+410016,Viking Wineflair,Exempt,nan,nan,nan,2012-01-30,54.861441,-5.818605
+410017,Vivo,4,5,0,10,2014-03-12,54.859389,-5.840536
+410018,Walled Garden Tea Room,5,0,5,0,2014-04-24,54.9680099487,-5.95675754547
+410019,Warner Chilcott,4,5,10,5,2014-02-21,54.841457,-5.855879
+410020,Waterfall Bar,5,0,5,5,2013-05-14,54.992142,-5.991159
+410021,Wellington Recreation Social Club,5,5,0,5,2014-08-08,54.841457,-5.855879
+410022,Willowbank Day Care Nursery,5,0,0,0,2014-03-14,54.841564,-5.860388
+410023,Wilson Cash Stores,3,5,10,10,2013-06-10,54.854765,-5.819105
+410024,Wilsons Catering Ltd,5,5,5,5,2015-01-13,54.858957,-5.814876
+410025,Wilsons Mini-market,4,0,5,10,2013-09-24,54.852836,-5.822775
+410026,Winemark,Exempt,nan,nan,nan,2012-12-19,54.858544,-5.832934
+410027,Winemark,Exempt,nan,nan,nan,2013-11-26,54.851153,-5.819113

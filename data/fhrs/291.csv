@@ -1,566 +1,566 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-345251,47 Planks Lane,,,Wombourne,1st Stop Newsagents,Retailers - other,4613,20,,388649,10,,52.53302800000000,3992,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19615500000000,WV5 8DX,2014-02-19,fhrs_1_en-GB,1,,FHRS,5
-345252,87 Bilbrook Road,,,Bilbrook,A B C Early Learning & Childcare Uk Ltd,Hospitals/Childcare/Caring Premises,5,0,,636642,5,,52.63091700000000,44925,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18571900000000,WV8 1EP,2014-02-21,fhrs_5_en-GB,5,,FHRS,0
-345253,Windsor Gardens,,,Codsall,Abbeyfield House,Hospitals/Childcare/Caring Premises,5,5,,388431,0,,52.62561300000000,219,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19676100000000,WV8 2EX,2013-04-30,fhrs_5_en-GB,5,,FHRS,0
-345254,Sugarloaf Lane,,,Iverley,Abele View Residential Home,Hospitals/Childcare/Caring Premises,5,0,,388777,0,,52.44267400000000,973,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17684800000000,DY7 6PP,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-345255,122A High Street,,,Kinver,Ad's Pride Of Kinver Fish Bar,Takeaway/sandwich shop,7844,5,,388700,5,,52.44753000000000,4740,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22809900000000,DY7 6HL,2014-01-09,fhrs_5_en-GB,5,,FHRS,0
-345256,The Roller Mill,Teddesley Road,,Penkridge,Age Uk South Staffordshire,Hospitals/Childcare/Caring Premises,5,10,,388694,5,,52.72744200000000,4594,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11216700000000,ST19 5BD,2014-11-04,fhrs_4_en-GB,4,,FHRS,5
-345257,School Road,,,Trysull,All Saints C E Primary School,School/college/university,7845,0,,388554,0,,52.54390800000000,3558,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22054800000000,WV5 7HR,2014-05-23,fhrs_5_en-GB,5,,FHRS,5
-345258,15 Station Road,,,Codsall,Allan Bennett Ltd,Manufacturers/packers,7839,10,,388675,10,,52.62993800000000,4147,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20164100000000,WV8 1BX,2014-05-12,fhrs_4_en-GB,4,,FHRS,0
-345259,108 Wardles Lane,,,Great Wyrley,Allen & Cooper Ltd,Retailers - other,4613,10,,388536,10,,52.65807600000000,3463,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01825900000000,WS6 6DY,2014-08-01,fhrs_4_en-GB,4,,FHRS,0
-345260,Stafford Road,,,Huntington,Amo's Convenience Store,Retailers - other,4613,10,,388705,5,,52.70633600000000,5004,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03951700000000,WS12 4NQ,2010-02-26,fhrs_4_en-GB,4,,FHRS,0
-345261,Unit 5,Huntington Industrial Estate,Cocksparrow Lane,Huntington,Amy's Secret Kitchen,Other catering premises,7841,5,,609314,0,,52.71321000000000,43501,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04839000000000,WS12 4PB,2013-09-30,fhrs_5_en-GB,5,,FHRS,5
-345262,Staff Canteen,Argos Distribution Centre,,Acton Trussell,Aramark Catering,Other catering premises,7841,0,,388565,0,,52.76927300000000,3594,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10979900000000,ST18 9AR,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-345263,18A Stafford Road,,,Huntington,Ashcroft Hollow,Hospitals/Childcare/Caring Premises,5,5,,388667,0,,52.71795900000000,4126,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04016500000000,WS12 4PD,2013-10-23,fhrs_5_en-GB,5,,FHRS,0
-345264,Ashwood Lower Lane,,,Ashwood,Ashwood Nurseries Ltd,Other catering premises,7841,0,,388472,0,,52.48853000000000,2577,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20031500000000,DY6 0AE,2014-03-13,fhrs_5_en-GB,5,,FHRS,0
-345265,Brewood Road,,,Coven,Astons Of Coven,Manufacturers/packers,7839,0,,388588,0,,52.65608100000000,3659,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13093500000000,WV9 5DB,2013-11-06,fhrs_5_en-GB,5,,FHRS,0
-345266,Moog,Wobaston Road,,Bilbrook,Autograph Food Service,Restaurant/Cafe/Canteen,1,0,,388384,5,,52.62755900000000,17030,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.16475500000000,WV9 5EW,2012-03-14,fhrs_5_en-GB,5,,FHRS,0
-345267,,,,,Avant Ice Cream Tricycles,Mobile caterer,7846,0,,699965,5,,,48177,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-09-03,fhrs_5_en-GB,5,,FHRS,0
-345268,41 High Street,,,Kinver,Baci Italian Restaurant,Restaurant/Cafe/Canteen,1,10,,493126,10,,52.44804200000000,40302,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22839600000000,DY7 6HF,2014-07-30,fhrs_4_en-GB,4,,FHRS,0
-345269,,,,,Baked @ No 3,Restaurant/Cafe/Canteen,1,0,,388757,0,,,6432,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-03-14,fhrs_5_en-GB,5,,FHRS,0
-345270,80 Wardles Lane,,,Great Wyrley,Baked @ No. 3,Restaurant/Cafe/Canteen,1,5,,729172,0,,52.65807600000000,50141,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01825900000000,WS6 6DY,2015-01-13,fhrs_5_en-GB,5,,FHRS,5
-345271,Wardles Lane,,,Great Wyrley,Bargain Booze,Retailers - other,4613,5,,494300,0,,52.65807600000000,40346,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01825900000000,WS6 6DY,2014-07-16,fhrs_5_en-GB,5,,FHRS,5
-345272,Pennwood Lane,,,Penn Common,Barley Mow,Pub/bar/nightclub,7843,5,,388374,5,,52.55209500000000,1624,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.14699500000000,WV4 5JN,2014-06-16,fhrs_4_en-GB,4,,FHRS,10
-345273,116 High Street,,,Kinver,Basils,Other catering premises,7841,5,,388440,0,,52.44753000000000,2287,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22809900000000,DY7 6HL,2015-01-16,fhrs_5_en-GB,5,,FHRS,5
-345274,Bearnett Drive,,,Penn,Bearnett House,Hospitals/Childcare/Caring Premises,5,5,,388510,0,,52.55111400000000,3149,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17423200000000,WV4 5NN,2013-03-27,fhrs_5_en-GB,5,,FHRS,5
-345275,,,,,Becky's Bakes,Retailers - other,4613,0,,611101,0,,,44062,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-11-21,fhrs_5_en-GB,5,,FHRS,0
-345276,,,,,Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,5,,439575,5,,,38122,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2012-08-20,fhrs_5_en-GB,5,,FHRS,0
-345277,Cannock Road,,,Bednall,Belt View Farm,Retailers - other,4613,5,,388417,0,,52.75394000000000,1966,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05128100000000,ST17 0SG,2012-03-20,fhrs_5_en-GB,5,,FHRS,0
-345278,4 Lane Green Shopping Parade,Duck Lane,,Bilbrook,Bengal Spice,Restaurant/Cafe/Canteen,1,10,,388380,5,,52.62617900000000,16938,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18052800000000,WV8 1JA,2014-08-06,fhrs_3_en-GB,3,,FHRS,10
-345279,22 School Road,,,Himley,Best Western Himley Hotel,Hotel/bed & breakfast/guest house,7842,5,,388690,0,,52.51817600000000,4469,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17996600000000,DY3 4LG,2013-02-19,fhrs_5_en-GB,5,,FHRS,0
-345280,3 - 4 Walkers Way,High Street,,Wombourne,Betty's Courtyard,Restaurant/Cafe/Canteen,1,0,,719172,0,,52.53500000000000,49629,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18327800000000,WV5 9DP,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-345281,28 Pendeford Mill Lane,,,Bilbrook,Bilbrook Fish Bar,Takeaway/sandwich shop,7844,0,,388421,0,,52.62721800000000,2102,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17673500000000,WV8 1JG,2013-11-28,fhrs_5_en-GB,5,,FHRS,5
-345282,98 Wolverhampton Road,,,Codsall,Birches Bridge Fish Bar,Takeaway/sandwich shop,7844,0,,388490,0,,52.62447600000000,2934,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18851300000000,WV8 1PE,2013-11-13,fhrs_5_en-GB,5,,FHRS,0
-345283,Birches Avenue,,,Codsall,Birches First School,School/college/university,7845,5,,388495,0,,52.61806500000000,2989,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17814600000000,WV8 2JG,2014-06-25,fhrs_5_en-GB,5,,FHRS,0
-345284,Six Ashes Road,,,Bobbington,Blakelands Country House,Other catering premises,7841,0,,388425,0,,52.52026500000000,2137,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26840000000000,DY7 5DP,2014-09-26,fhrs_5_en-GB,5,,FHRS,5
-345285,Sytch Lane,,,Wombourne,Blakeley Heath Primary School,School/college/university,7845,5,,388551,0,,52.52680700000000,3531,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19114500000000,WV5 0JR,2014-09-05,fhrs_5_en-GB,5,,FHRS,5
-345286,46 Brook Lane,,,Great Wyrley,Bloomers & Tarts,Takeaway/sandwich shop,7844,5,,388498,5,,52.66381200000000,3023,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01418000000000,WS6 6BQ,2014-05-12,fhrs_4_en-GB,4,,FHRS,10
-345287,Holly Lane,,,Cheslyn Hay,Blowers,Pub/bar/nightclub,7843,5,,669849,0,,52.64988500000000,47113,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02461100000000,WS6 7AR,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-345288,Stafford Road,,,Huntington,Blue Ginger,Restaurant/Cafe/Canteen,1,5,,388743,5,,52.70886200000000,5945,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03990500000000,WS12 4NU,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-345289,Dudley West District Scout Council,Swindon Road,,Hinksford,Bostin Baps C/O Kewford Eagles Football Club,Restaurant/Cafe/Canteen,1,5,,715627,0,,52.50219300000000,49369,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19068400000000,DY6 0AW,2014-11-06,fhrs_5_en-GB,5,,FHRS,0
-345290,20 Windmill Bank,,,Wombourne,Boxleys Of Wombourne,Retailers - other,4613,5,,388546,0,,52.53627100000000,3524,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18660100000000,WV5 9JD,2014-11-03,fhrs_5_en-GB,5,,FHRS,0
-345291,Ivetsey Bank,,,Wheaton Aston,Bradford Arms,Pub/bar/nightclub,7843,0,,388459,10,,52.69419800000000,2523,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23490300000000,ST19 9QT,2014-02-21,fhrs_4_en-GB,4,,FHRS,5
-345292,Wrottesley Park Road,,,Perton,Bradshaws Farm Shop,Retailers - other,4613,10,,388408,5,,52.58998700000000,1747,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21723700000000,WV6 7HL,2011-12-08,fhrs_4_en-GB,4,,FHRS,0
-345293,School Road,,,Brewood,Brewood C.E. (C) Middle School,School/college/university,7845,5,,388564,10,,52.67580000000000,3588,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17603000000000,ST19 9DS,2013-05-03,fhrs_4_en-GB,4,,FHRS,5
-345294,98 Bridgnorth Road,,,Wombourne,Brickbridge House,Hospitals/Childcare/Caring Premises,5,0,,388676,0,,52.52586200000000,4151,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20209200000000,WV5 0AQ,2013-11-22,fhrs_5_en-GB,5,,FHRS,5
-345295,Stone Cross,,,Penkridge,Bridge House Hotel,Restaurant/Cafe/Canteen,1,20,,388682,5,,52.72635000000000,4171,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11617600000000,ST19 5AS,2014-11-10,fhrs_1_en-GB,1,,FHRS,15
-345296,Brindley Heath Junior School,Enville Road,,Kinver,Brindley Heath Junior School,School/college/university,7845,0,,406706,0,,52.45301500000000,36798,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23261600000000,DY7 6AA,2013-11-14,fhrs_5_en-GB,5,,FHRS,0
-345297,3 The Avenue,,,Featherstone,Broadway Wine Lodge,Retailers - other,4613,10,,528981,0,,52.64302200000000,41209,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08883600000000,WV10 7AT,2013-10-21,fhrs_4_en-GB,4,,FHRS,5
-345298,Shop 1,Common Road,,Wombourne,Bromleys Butchers,Retailers - other,4613,5,,388674,0,,52.52796000000000,4146,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19465800000000,WV5 0AN,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-345299,Brookfield Farm,Cannock Road,,Shareshill,Brookfields Farm (Club),Pub/bar/nightclub,7843,10,,388776,10,,52.65327800000000,960,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.07740000000000,WV10 7LZ,2007-05-22,fhrs_4_en-GB,4,,FHRS,0
-345300,,,,,Brown Eyed Girl Bakery,Retailers - other,4613,5,,609319,0,,,43769,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-10-23,fhrs_5_en-GB,5,,FHRS,0
-345301,Unit 4,Modular Court,Enterprise Drive,Four Ashes,Brunch Bite Ltd,Other catering premises,7841,5,,520652,0,,52.67340600000000,41069,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12029500000000,WV10 7DF,2014-08-29,fhrs_5_en-GB,5,,FHRS,0
-345302,Mount Road,,,Wombourne,Brunel Court,Hospitals/Childcare/Caring Premises,5,5,,388679,0,,52.53784000000000,4158,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18945300000000,WV5 9EU,2013-10-22,fhrs_5_en-GB,5,,FHRS,0
-345303,Hilton Park Motorway Service Area,,,Essington,Burger King (Northbound),Restaurant/Cafe/Canteen,1,0,,388361,0,,52.64317600000000,1330,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05738700000000,WV11 2AT,2014-09-30,fhrs_5_en-GB,5,,FHRS,5
-345304,Hilton Park Motorway Service Area,,,Essington,Burger King (Southbound),Takeaway/sandwich shop,7844,0,,388359,0,,52.64317600000000,1321,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05738700000000,WV11 2AT,2014-04-01,fhrs_5_en-GB,5,,FHRS,0
-345305,Butterhill House,Bigwood Lane,,Coppenhall,Butterhill House Residential Home,Hospitals/Childcare/Caring Premises,5,10,,388556,0,,52.76995800000000,3562,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.14913800000000,ST18 9BU,2014-04-24,fhrs_4_en-GB,4,,FHRS,5
-345306,Coppice Farm,Cannock Road,,Bednall,Cabin Cafe,Restaurant/Cafe/Canteen,1,5,,426699,0,,52.73614100000000,37450,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05123000000000,ST19 5RP,2014-09-25,fhrs_5_en-GB,5,,FHRS,5
-345307,HMP Oakwood,Oaks Drive,,Featherstone,Cafe Family Pathway Centre,Restaurant/Cafe/Canteen,1,10,,638486,0,,52.64796400000000,45001,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11302700000000,WV10 7QD,2014-02-24,fhrs_4_en-GB,4,,FHRS,5
-345308,Ivetsey Bank,,,Wheaton Aston,Cafe India,Restaurant/Cafe/Canteen,1,5,,388537,5,,52.69419800000000,3471,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23490300000000,ST19 9QT,2014-12-22,fhrs_5_en-GB,5,,FHRS,5
-345309,17A Church Road,,,Codsall,Cafe Saffron,Restaurant/Cafe/Canteen,1,10,,388552,5,,52.63173000000000,3556,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19995000000000,WV8 1EA,2014-05-28,fhrs_3_en-GB,3,,FHRS,10
-345310,Kings Road,,,Calf Heath,Calf Heath Marina,Pub/bar/nightclub,7843,10,,388654,10,,52.67577300000000,4012,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.09795400000000,WV10 7DU,2011-05-26,fhrs_3_en-GB,3,,FHRS,5
-345311,,,,,Capes Creations,Retailers - other,4613,0,,623699,0,,,44397,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-01-14,fhrs_5_en-GB,5,,FHRS,0
-345312,Factory 1,Balliol Business Park,Balliol Road,Pendeford,Cargill Meats Europe),Restaurant/Cafe/Canteen,1,0,,448337,0,,52.62514300000000,38470,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.16309200000000,WV9 5EU,2014-09-11,fhrs_5_en-GB,5,,FHRS,0
-345313,Acton Court,,,Acton Gate,Catch Corner,Pub/bar/nightclub,7843,0,,388604,5,,52.76549800000000,3754,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10835200000000,ST18 9AP,2013-09-10,fhrs_5_en-GB,5,,FHRS,5
-345314,South Staffordshire Council,Council Offices,,Codsall,Catering Academy Ltd,Other catering premises,7841,5,,388703,5,,52.62567500000000,4988,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19197500000000,WV8 1PX,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-345315,,,,,Celebakery,Other catering premises,7841,0,,516558,0,,,40953,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-02-27,fhrs_5_en-GB,5,,FHRS,0
-345316,Wolverhampton Road,,,Wedges Mills,Chase Gate,Pub/bar/nightclub,7843,0,,388672,5,,52.67433800000000,4132,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04967800000000,WS11 1SY,2013-09-10,fhrs_4_en-GB,4,,FHRS,10
-345317,The Chase Golf Club,Pottal Pool Road,,Penkridge,Chase Golf Club Ltd,Pub/bar/nightclub,7843,0,,388450,0,,52.72567500000000,2444,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05613300000000,ST19 5RN,2013-03-25,fhrs_5_en-GB,5,,FHRS,0
-345318,Church Lane,Four Crosses,,Hatherton,Chase Park,Other catering premises,7841,5,,388378,0,,52.68568600000000,1674,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.07734000000000,WS11 1SB,2013-11-13,fhrs_4_en-GB,4,,FHRS,10
-345319,Cheeky Munchies,Aspley Close,,Four Ashes,Cheeky Munchies,Restaurant/Cafe/Canteen,1,0,,448334,5,,52.67215800000000,38446,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11936000000000,WV10 7DE,2014-02-17,fhrs_5_en-GB,5,,FHRS,5
-345320,Giggetty Lane,,,Wombourne,Cherry Trees Special School,School/college/university,7845,0,,388622,0,,52.52993000000000,3877,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19957500000000,WV5 0AX,2011-03-03,fhrs_4_en-GB,4,,FHRS,10
-345321,26 Station Street,,,Cheslyn Hay,Cheslyn Hay Community & Sports Club,Pub/bar/nightclub,7843,10,,388383,5,,52.66236100000000,17026,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03059200000000,WS6 7ED,2011-09-27,fhrs_4_en-GB,4,,FHRS,5
-345322,1 Rosemary Road,,,Cheslyn Hay,Cheslyn Hay Fish Bar,Takeaway/sandwich shop,7844,10,,388730,10,,52.66300800000000,5532,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03263200000000,WS6 7DY,2014-03-07,fhrs_3_en-GB,3,,FHRS,5
-345323,Saredon Road,,,Cheslyn Hay,Cheslyn Hay High School,School/college/university,7845,5,,388377,5,,52.66124300000000,1668,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04302500000000,WS6 7JQ,2013-11-28,fhrs_5_en-GB,5,,FHRS,5
-345324,Saredon Road,,,Cheslyn Hay,Cheslyn Hay Primary,School/college/university,7845,0,,388376,0,,52.66124300000000,1662,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04302500000000,WS6 7JQ,2014-10-23,fhrs_5_en-GB,5,,FHRS,5
-345325,126 Common Road,,,Wombourne,Chip Inn,Takeaway/sandwich shop,7844,5,,448339,5,,52.52746700000000,38482,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19436100000000,WV5 0NE,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-345326,@ The Forget Me Not Club,Station Street,,Codsall,Church In The Village,Other catering premises,7841,5,,546139,0,,52.62993800000000,41841,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20164100000000,WV8 1BX,2013-04-26,fhrs_5_en-GB,5,,FHRS,0
-345327,Kinver Constitutional Club,119 High Street,,Kinver,Churchview Catering,Pub/bar/nightclub,7843,10,,388438,0,,52.44753000000000,2258,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22809900000000,DY7 6HL,2011-11-03,fhrs_4_en-GB,4,,FHRS,10
-345328,St Bernadettes Roman Catholic Primary School,Lindale Drive,,Wombourne,Cloud 9 Children's Nursery,Hospitals/Childcare/Caring Premises,5,5,,388729,0,,52.53310400000000,5521,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19936900000000,WV5 8DZ,2014-08-21,fhrs_5_en-GB,5,,FHRS,0
-345329,7 High Street,,,Pattingham,Co Op,Retailers - supermarkets/hypermarkets,7840,5,,468692,0,,52.58890300000000,39618,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26409700000000,WV6 7BD,2012-11-09,fhrs_5_en-GB,5,,FHRS,5
-345330,3-4 Common Road,,,Wombourne,Co Op Convenience Store,Retailers - other,4613,5,,388555,5,,52.53146000000000,3559,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18730300000000,WV5 0EZ,2014-02-19,fhrs_5_en-GB,5,,FHRS,5
-345331,Boscomoor Shopping Centre,Wolverhampton Road,,Penkridge,Co Op Food Store,Retailers - supermarkets/hypermarkets,7840,0,,451302,5,,52.71705400000000,38633,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11736600000000,ST19 5NS,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-345332,Co-op Store,24 - 25 High Street,,Kinver,Co Op Midlands,Retailers - other,4613,5,,465201,5,,52.44804200000000,39466,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22839600000000,DY7 6HF,2012-10-25,fhrs_5_en-GB,5,,FHRS,5
-345333,7 High Street,,,Wombourne,Co Op Store,Retailers - supermarkets/hypermarkets,7840,0,,388368,0,,52.53461200000000,1460,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18395500000000,WV5 9DN,2012-11-09,fhrs_5_en-GB,5,,FHRS,0
-345334,7 High Street,,,Pattingham,Co Op Store,Retailers - supermarkets/hypermarkets,7840,5,,468693,0,,52.58890300000000,39622,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26409700000000,WV6 7BD,2012-11-09,fhrs_5_en-GB,5,,FHRS,5
-345335,28-32 Wood Road,,,Codsall,Co Operative,Retailers - supermarkets/hypermarkets,7840,5,,388413,0,,52.63048700000000,1818,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20154000000000,WV8 1DB,2013-04-04,fhrs_5_en-GB,5,,FHRS,0
-345336,High Street,,,Cheslyn Hay,Co Operative,Retailers - supermarkets/hypermarkets,7840,5,,388449,5,,52.66004100000000,2439,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03458200000000,WS6 7AD,2014-09-03,fhrs_5_en-GB,5,,FHRS,5
-345337,School Road,,,Wombourne,Co Operative,Retailers - supermarkets/hypermarkets,7840,10,,388720,5,,52.53688400000000,5319,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18555700000000,WV5 9ED,2012-05-23,fhrs_4_en-GB,4,,FHRS,0
-345338,Quinton Court,Wardles Lane,,Great Wyrley,Co Operative Food,Retailers - supermarkets/hypermarkets,7840,5,,388704,5,,52.65740200000000,5000,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01681000000000,WS6 6DZ,2013-08-14,fhrs_5_en-GB,5,,FHRS,5
-345339,Market Street,,,Penkridge,Co Operative Superstore,Retailers - supermarkets/hypermarkets,7840,5,,388612,5,,52.72521100000000,3812,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11429300000000,ST19 5DH,2013-08-30,fhrs_5_en-GB,5,,FHRS,5
-345340,High Street,,,Wheaton Aston,Coach And Horses,Pub/bar/nightclub,7843,5,,388728,5,,52.71052800000000,5514,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22326800000000,ST19 9NP,2012-03-15,fhrs_5_en-GB,5,,FHRS,5
-345341,Elliotts Lane,,,Codsall,Codsall Community High School,School/college/university,7845,0,,388610,0,,52.62864300000000,3788,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19135300000000,WV8 1PG,2014-09-22,fhrs_5_en-GB,5,,FHRS,0
-345342,8 Wood Road,,,Codsall,Codsall Family Butchers,Retailers - other,4613,5,,388655,10,,52.63048700000000,4024,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20154000000000,WV8 1DB,2015-01-19,fhrs_4_en-GB,4,,FHRS,5
-345343,1  The Square,Wolverhampton Road,,Codsall,Codsall Fish Bar,Takeaway/sandwich shop,7844,5,,388497,5,,52.63046300000000,3022,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19963400000000,WV8 1PT,2015-01-20,fhrs_5_en-GB,5,,FHRS,0
-345344,Wolverhampton Road,,,Codsall,Codsall Middle School,School/college/university,7845,10,,388631,0,,52.63046300000000,3910,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19963400000000,WV8 1PT,2013-09-10,fhrs_4_en-GB,4,,FHRS,5
-345345,139 Wolverhampton Road,,,Codsall,Codsall Spice,Other catering premises,7841,10,,388758,10,,52.62565200000000,6442,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18965500000000,WV8 1PF,2014-09-29,fhrs_4_en-GB,4,,FHRS,0
-345346,The Station,Chapel Lane,,Codsall,Codsall Station,Pub/bar/nightclub,7843,5,,409266,5,,52.62686500000000,37070,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20111000000000,WV8 2EH,2013-12-05,fhrs_4_en-GB,4,,FHRS,10
-345347,Unit E,Central Buildings,High Street,Wombourne,Coffee 212,Restaurant/Cafe/Canteen,1,5,,715621,0,,52.53461200000000,48589,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18395500000000,WV5 9DN,2014-09-23,fhrs_4_en-GB,4,,FHRS,10
-345348,91 High Street,,,Cheslyn Hay,Colliers Arms,Pub/bar/nightclub,7843,0,,388478,0,,52.66013000000000,2699,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03712500000000,WS6 7AE,2013-11-07,fhrs_5_en-GB,5,,FHRS,0
-345349,16-18 Johns Lane,,,Great Wyrley,Conifers Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,388660,0,,52.66127700000000,4078,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01478600000000,WS6 6BY,2014-04-14,fhrs_5_en-GB,5,,FHRS,5
-345350,The Firs,Station Road,,Codsall,Conservative Club,Pub/bar/nightclub,7843,5,,388386,0,,52.63048700000000,17046,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20154000000000,WV8 1DB,2012-03-23,fhrs_5_en-GB,5,,FHRS,0
-345351,13-14 Market Place,,,Brewood,Coopers Fine Foods,Retailers - other,4613,5,,388562,0,,52.67648600000000,3586,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17379900000000,ST19 9BS,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-345352,Six Ashes Road,,,Bobbington,Corbett C E Primary School,School/college/university,7845,10,,388342,5,,52.51500500000000,1069,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.28023100000000,DY7 5DU,2013-09-12,fhrs_4_en-GB,4,,FHRS,5
-345353,Hilton Park Motorway Service Area,,,Essington,Costa Coffee Northbound,Other catering premises,7841,0,,388736,0,,52.64317600000000,5713,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05738700000000,WV11 2AT,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-345354,Badger Slade Lodge,Broadhurst Green Road,,Pottal Pool,Cottage Cafe,Restaurant/Cafe/Canteen,1,0,,428824,0,,52.73523200000000,37558,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02652600000000,WS12 4PS,2014-08-11,fhrs_5_en-GB,5,,FHRS,0
-345355,5 The Parade Shops,Brewood Road,,Coven,Coven Bakery,Manufacturers/packers,7839,10,,388602,10,,52.65831400000000,3736,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13530300000000,WV9 5BX,2013-09-18,fhrs_3_en-GB,3,,FHRS,10
-345356,23 Brewood Road,,,Coven,Coven Fish Bar,Takeaway/sandwich shop,7844,10,,388427,5,,52.65831400000000,2140,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13530300000000,WV9 5BX,2014-01-29,fhrs_4_en-GB,4,,FHRS,5
-345357,Church Hill,,,Kinver,Cross Inn,Pub/bar/nightclub,7843,0,,388731,0,,52.44645700000000,5556,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22526900000000,DY7 6HZ,2015-02-04,fhrs_5_en-GB,5,,FHRS,0
-345358,Filance Lane,,,Penkridge,Cross Keys,Pub/bar/nightclub,7843,5,,388415,5,,52.71969400000000,18490,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11125800000000,ST19 5HJ,2013-12-10,fhrs_5_en-GB,5,,FHRS,0
-345359,Cannock Road,,,Shareshill,Crown Diner And Restaurant,Restaurant/Cafe/Canteen,1,10,,633502,5,,52.65327800000000,44717,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.07740000000000,WV10 7LZ,2014-02-06,fhrs_3_en-GB,3,,FHRS,10
-345360,The Nurseries,Watling Street,,Gailey,Cyril's Tea Room,Other catering premises,7841,5,,388752,5,,52.69203100000000,6253,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12179600000000,ST19 5PR,2014-06-03,fhrs_5_en-GB,5,,FHRS,0
-345361,Stourbridge Lawn Tennis & Squash Club,Sugar Loaf Lane,,Iverley,D & C Catering,Other catering premises,7841,10,,388483,5,,52.43893900000000,2785,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17311100000000,DY7 6PS,2014-04-03,fhrs_3_en-GB,3,,FHRS,10
-345362,,,,,D Dobson Refreshments,Mobile caterer,7846,5,,568262,0,,,42681,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-07-03,fhrs_5_en-GB,5,,FHRS,0
-345363,,,,,D Hyde  Penkridge Market,Retailers - other,4613,5,,623114,0,,,44353,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-11-13,fhrs_5_en-GB,5,,FHRS,0
-345364,,,,,Dans Diner,Mobile caterer,7846,10,,388614,10,,,3815,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2011-08-16,fhrs_2_en-GB,2,,FHRS,15
-345365,Bishops Drive,,,Brewood,Deansfield House,Hospitals/Childcare/Caring Premises,5,0,,388347,0,,52.67908400000000,1090,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.16784900000000,ST19 9HU,2014-06-24,fhrs_5_en-GB,5,,FHRS,0
-345366,106 Wolverhampton Road,,,Codsall,Deli Fusion,Retailers - other,4613,10,,729360,10,,52.62447600000000,50145,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18851300000000,WV8 1PE,2015-01-07,fhrs_3_en-GB,3,,FHRS,10
-345367,2 Crown Bridge,,,Penkridge,Dicken's Of A Tea Shoppe,Other catering premises,7841,0,,388527,0,,52.72571300000000,3410,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11524200000000,ST19 5AA,2014-12-18,fhrs_5_en-GB,5,,FHRS,5
-345368,,,,,Dilly's Delicious Cakes,Other catering premises,7841,5,,570013,5,,,42777,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-07-11,fhrs_5_en-GB,5,,FHRS,5
-345369,J Banks and Co Ltd,Unit A,Vernon Park,Featherstone,Dmc Services,Restaurant/Cafe/Canteen,1,5,,468697,0,,52.63792600000000,39638,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08759900000000,WV10 7HW,2014-10-30,fhrs_5_en-GB,5,,FHRS,0
-345370,17 Long Street,,,Wheaton Aston,Doal Food And News,Retailers - other,4613,10,,388710,15,,52.71283900000000,5070,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21812900000000,ST19 9NF,2013-10-14,fhrs_2_en-GB,2,,FHRS,5
-345371,Straight Mile,Calf Heath,,Hatherton,Dog & Partridge,Pub/bar/nightclub,7843,10,,388504,10,,52.67665000000000,3057,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.09211400000000,WV10 7DW,2015-01-07,fhrs_4_en-GB,4,,FHRS,0
-345372,,,,,Dornes Kitchen,Other catering premises,7841,0,,486754,0,,,40146,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-345373,6 Lane Green Shopping Parade,Duck Lane,,Bilbrook,Duck Lane Newsagents,Retailers - other,4613,20,,609317,15,,52.62617900000000,43629,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18052800000000,WV8 1JA,2013-10-03,fhrs_1_en-GB,1,,FHRS,10
-345374,Stourbridge Road,,,Himley,Dudley Arms,Pub/bar/nightclub,7843,5,,388436,5,,52.51853300000000,2224,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17567900000000,DY3 4LB,2014-08-21,fhrs_5_en-GB,5,,FHRS,5
-345375,39 Dunsley Road,,,Kinver,Dunsley Hall Hotel,Hotel/bed & breakfast/guest house,7842,5,,388543,5,,52.45518800000000,3520,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20980300000000,DY7 6LU,2014-10-16,fhrs_5_en-GB,5,,FHRS,5
-345376,Unit 1 The Old House,47 High Street,,Kinver,Dunsley Hall Tea Room,Other catering premises,7841,10,,388708,10,,52.44898500000000,5043,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22903400000000,DY7 6HE,2013-08-28,fhrs_3_en-GB,3,,FHRS,10
-345377,407 Walsall Road,,,Great Wyrley,E & S Mears,Manufacturers/packers,7839,5,,388605,0,,52.65461600000000,3758,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01128000000000,WS6 6HZ,2014-11-13,fhrs_4_en-GB,4,,FHRS,10
-345378,Hilton Park Motorway Service Area,,,Essington,E D C Northbound Restaurant,Other catering premises,7841,0,,388735,0,,52.64317600000000,5712,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05738700000000,WV11 2AT,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-345379,Moto Hilton Park Services,,,Essington,E D C Southbound Restaurant,Restaurant/Cafe/Canteen,1,0,,388734,0,,52.64317600000000,5711,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05738700000000,WV11 2AT,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-345380,Codsall and Wergs Garden Centre,Wergs Hall Road,,Codsall,Eden Brasserie,Restaurant/Cafe/Canteen,1,5,,388689,0,,52.61628300000000,4467,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19611400000000,WV8 2HJ,2015-02-10,fhrs_5_en-GB,5,,FHRS,0
-345381,Comber Road,,,KInver,Edge View Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,388618,0,,52.44783000000000,3860,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23584000000000,DY7 6HT,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-345382,Enville Road,,,Kinver,Edgecliff High School,School/college/university,7845,10,,388634,5,,52.45301500000000,3931,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23261600000000,DY7 6AA,2013-11-08,fhrs_3_en-GB,3,,FHRS,10
-345383,South Staffordshire College Rodbaston Campus,Farm Drive,,Rodbaston,Elior Catering,Other catering premises,7841,5,,635313,5,,52.70242800000000,44777,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11723700000000,ST19 5PH,2014-02-14,fhrs_5_en-GB,5,,FHRS,0
-345384,,,,,Emazing Bakes,Retailers - other,4613,5,,611100,0,,,44058,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-11-21,fhrs_5_en-GB,5,,FHRS,0
-345385,Hollies Lane,Cox Green,,Enville,Enville Ales Limited,Manufacturers/packers,7839,10,,388399,0,,52.47413800000000,17098,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.28727300000000,DY7 5LG,2014-04-23,fhrs_4_en-GB,4,,FHRS,10
-345386,Broad Lane,,,Essington,Essington (Broad Lane) Wmc,Pub/bar/nightclub,7843,10,,388744,0,,52.63559800000000,5972,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03465100000000,WV11 2RH,2013-01-21,fhrs_4_en-GB,4,,FHRS,10
-345387,Essington Fruit Farm,Bognop Road,,Essington,Essington Fruit Farm And Butchery,Retailers - other,4613,5,,388645,0,,52.63129000000000,3981,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06068100000000,WV11 2BA,2014-09-01,fhrs_5_en-GB,5,,FHRS,0
-345388,Bognop Road,,,Essington,Essington Fruit Farm And Restaurant,Restaurant/Cafe/Canteen,1,5,,388639,0,,52.63129000000000,3960,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06068100000000,WV11 2BA,2011-03-11,fhrs_5_en-GB,5,,FHRS,0
-345389,Essington Fruit Farm,Bognop Road,,Essington,Essington Fruit Farm Tea Shop,Restaurant/Cafe/Canteen,1,5,,447088,0,,52.63129000000000,38354,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06068100000000,WV11 2BA,2013-09-03,fhrs_5_en-GB,5,,FHRS,0
-345390,41 Broad Lane,,,Essington,Essington Manor Residential Home,Hospitals/Childcare/Caring Premises,5,5,,388558,0,,52.63780800000000,3581,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03966200000000,WV11 2RG,2013-11-18,fhrs_5_en-GB,5,,FHRS,5
-345391,138 High Hill,,,Essington,Essington Wmc,Pub/bar/nightclub,7843,10,,486753,0,,52.62403800000000,40118,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05690400000000,WV11 2DW,2012-12-18,fhrs_4_en-GB,4,,FHRS,5
-345392,Cheadles Garage,Stone Cross,,Penkridge,Evergreen,Takeaway/sandwich shop,7844,10,,388523,10,,52.72635000000000,3346,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11617600000000,ST19 5AS,2013-09-16,fhrs_3_en-GB,3,,FHRS,10
-345393,1 Greenfield Buildings,School Road,,Wombourne,Fairytale Cake Company,Retailers - other,4613,0,,638488,0,,52.53723400000000,45201,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18583800000000,WV5 9EJ,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-345394,Watling Street,,,Ivetsey Bank,Falcon Service Station,Retailers - other,4613,5,,658642,5,,52.69419800000000,45721,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23490300000000,ST19 9QT,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-345395,Garden Village,Bridgnorth Road,,Shipley,Farmer And Friends,Restaurant/Cafe/Canteen,1,10,,564457,10,,52.56512300000000,42657,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24384600000000,WV6 7EZ,2014-06-18,fhrs_3_en-GB,3,,FHRS,10
-345396,"Unit23A,Wolverhampton Business Airport",Bobbington,South Staffordshire,Bobbington,Feast Street Cafes,Mobile caterer,7846,0,,726929,0,,,50013,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-12-17,fhrs_5_en-GB,5,,FHRS,0
-345397,20A The Avenue,,,Featherstone,Featherstone Chip Shop,Takeaway/sandwich shop,7844,20,,388446,15,,52.64302200000000,2430,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08883600000000,WV10 7AT,2014-12-16,fhrs_1_en-GB,1,,FHRS,5
-345398,Featherstone Convenience Store,10 Cannock Road,,Featherstone,Featherstone Convenience Store,Retailers - other,4613,20,,638490,5,,52.64245700000000,45269,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08703200000000,WV10 7AA,2014-03-14,fhrs_1_en-GB,1,,FHRS,5
-345399,The Avenue,,,Featherstone,Featherstone Pizza,Takeaway/sandwich shop,7844,10,,388751,10,,52.64302200000000,6249,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08883600000000,WV10 7AT,2014-11-11,fhrs_3_en-GB,3,,FHRS,10
-345400,Hm Prison Featherstone,1 New Road,,Featherstone,Featherstone Visitors Centre,Restaurant/Cafe/Canteen,1,0,,439574,0,,52.64858800000000,38054,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10862400000000,WV10 7PY,2014-02-25,fhrs_5_en-GB,5,,FHRS,0
-345401,Fishley Lane,,,Essington,Fishley Park Golf Range,Pub/bar/nightclub,7843,5,,388715,0,,52.63899200000000,5169,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-1.98850400000000,WS3 5AE,2015-01-07,fhrs_5_en-GB,5,,FHRS,0
-345402,William Hardings House,Mill Street,,Penkridge,Flames,Other catering premises,7841,0,,388496,0,,52.72613600000000,2991,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11432500000000,ST19 5AY,2013-06-11,fhrs_5_en-GB,5,,FHRS,5
-345403,Unit 3,Boscomoor Retail Park,Wolverhampton Road,Penkridge,Flaming Grill,Takeaway/sandwich shop,7844,10,,451301,10,,52.71692200000000,38585,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11413800000000,ST19 5NZ,2014-03-04,fhrs_3_en-GB,3,,FHRS,10
-345404,17 Anders Square,,,Perton,Flamingo Restaurant,Other catering premises,7841,0,,388547,0,,52.59481300000000,3525,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20280800000000,WV6 7QH,2014-02-26,fhrs_5_en-GB,5,,FHRS,0
-345405,,,,,Flornorvan Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,5,,388405,5,,,17130,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2012-04-13,fhrs_5_en-GB,5,,FHRS,0
-345406,Fairfield Drive,,,Kinver,Foley Infants School,School/college/university,7845,0,,388595,0,,52.44923900000000,3699,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23268400000000,DY7 6EW,2014-07-14,fhrs_5_en-GB,5,,FHRS,0
-345407,Unit 7-8,Four Ashes Industrial Estate,Station Road,Four Ashes,Four Ashes Diner,Restaurant/Cafe/Canteen,1,10,,524938,10,,52.67454600000000,41125,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12232400000000,WV10 7DB,2013-03-08,fhrs_3_en-GB,3,,FHRS,5
-345408,Station Drive,,,Four Ashes,Four Ashes Inn,Pub/bar/nightclub,7843,5,,388400,5,,52.67287000000000,17106,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12643100000000,WV10 7BU,2014-06-26,fhrs_4_en-GB,4,,FHRS,10
-345409,Bridgnorth Road,,,Stourton,Fox Inn,Pub/bar/nightclub,7843,10,,388448,15,,52.46560600000000,2435,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23439000000000,DY7 5BL,2014-03-07,fhrs_2_en-GB,2,,FHRS,15
-345410,Bridgnorth Road,,,Shipley,Fox Inn,Pub/bar/nightclub,7843,5,,388583,0,,52.56216800000000,3644,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.25940700000000,WV6 7EH,2014-12-11,fhrs_5_en-GB,5,,FHRS,5
-345411,Baggeridge Country Park,Gospel End Road,,Himley,Freedom Catering,Other catering premises,7841,0,,388677,0,,52.53528600000000,4152,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.15248200000000,DY3 4HB,2014-06-06,fhrs_5_en-GB,5,,FHRS,5
-345412,80 Gorsey Lane,,,Great Wyrley,G And J Supermarket (T & S Stores Plc),Retailers - other,4613,10,,388369,0,,52.65368900000000,1461,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01670500000000,WS6 6EX,2007-09-12,fhrs_4_en-GB,4,,FHRS,0
-345413,Bridgnorth Road,,,Shipley,Gardenlands Restaurant,Restaurant/Cafe/Canteen,1,5,,388521,10,,52.56125400000000,3272,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26634900000000,WV6 7EJ,2014-02-19,fhrs_4_en-GB,4,,FHRS,5
-345414,Greenwich Woods Site,Four Ashes Estate,Mere Lane,Enville,Glasshouse College,School/college/university,7845,10,,388516,5,,52.48509000000000,3221,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.29372100000000,DY7 5JG,2013-10-23,fhrs_4_en-GB,4,,FHRS,0
-345415,Vale Head Farm,Compton Road,,Kinver,Glasshouse College,School/college/university,7845,5,,618773,5,,52.44785300000000,44181,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.25917600000000,DY7 5NJ,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-345416,Glenthorne Drive,,,Cheslyn Hay,Glenthorne Primary School,School/college/university,7845,0,,388372,0,,52.66162500000000,1501,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02736800000000,WS6 7BZ,2015-02-03,fhrs_5_en-GB,5,,FHRS,0
-345417,59 High Street,,,Cheslyn Hay,Gold Leaf Chinese Take Away,Takeaway/sandwich shop,7844,5,,388515,0,,52.66004100000000,3213,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03458200000000,WS6 7AD,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-345418,24 Bull Lane,,,Wombourne,Golden Valley Take Away,Pub/bar/nightclub,7843,0,,388357,0,,52.53944400000000,1178,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18714500000000,WV5 9DA,2013-11-20,fhrs_5_en-GB,5,,FHRS,0
-345419,187 Station Street,,,Cheslyn Hay,Golden Wok,Takeaway/sandwich shop,7844,5,,388749,5,,52.66660600000000,6084,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02575900000000,WS6 7EH,2014-01-23,fhrs_5_en-GB,5,,FHRS,0
-345420,82 Wolverhampton Road,,,Codsall,Good Taste,Takeaway/sandwich shop,7844,0,,388573,0,,52.62447600000000,3611,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18851300000000,WV8 1PE,2014-11-19,fhrs_5_en-GB,5,,FHRS,0
-345421,The Granary,Weston Park,,Weston Under Lizard,"Granary Grill, Bar And Restaurant",Other catering premises,7841,5,,388717,5,,52.69296100000000,5171,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.28647400000000,TF11 8LE,2014-12-01,fhrs_5_en-GB,5,,FHRS,0
-345422,156 Walsall Road,,,Great Wyrley,Great Wyrley Community Support Unit,Restaurant/Cafe/Canteen,1,0,,388348,0,,52.66421700000000,1123,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01206600000000,WS6 6NQ,2014-11-07,fhrs_5_en-GB,5,,FHRS,0
-345423,Station Road,,,Great Wyrley,Great Wyrley High School And Youth Centre,Hospitals/Childcare/Caring Premises,5,5,,388453,0,,52.66664300000000,2455,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01830700000000,WS6 6LQ,2014-02-05,fhrs_5_en-GB,5,,FHRS,5
-345424,Hollybush Garden Centre,Warstone Road,,Saredon,Green Doughnuts,Mobile caterer,7846,5,,451300,0,,52.65431600000000,38569,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05441500000000,WV10 7LX,2012-09-15,fhrs_5_en-GB,5,,FHRS,0
-345425,High Street,,,Swindon,Green Man Inn,Pub/bar/nightclub,7843,0,,388642,0,,52.51269800000000,3976,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20415400000000,DY3 4NR,2013-10-03,fhrs_5_en-GB,5,,FHRS,0
-345426,103 Springhill Lane,,,Lower Penn,Greenway House Residential Home,Hospitals/Childcare/Caring Premises,5,5,,388416,5,,52.55812900000000,1922,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18455500000000,WV4 4TW,2013-06-26,fhrs_5_en-GB,5,,FHRS,0
-345427,18 Station Road,,,Codsall,Greggs,Takeaway/sandwich shop,7844,0,,388568,0,,52.62993800000000,3603,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20164100000000,WV8 1BX,2013-11-05,fhrs_5_en-GB,5,,FHRS,0
-345428,Northbound,Hilton Park Motorway Services,,Essington,Greggs,Restaurant/Cafe/Canteen,1,0,,609325,0,,52.64317600000000,43938,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05738700000000,WV11 2AT,2013-11-14,fhrs_5_en-GB,5,,FHRS,0
-345429,Hinksford Farm,Hinksford Lane,,Hinksford,H & J Products,Retailers - other,4613,10,,542918,5,,52.50826100000000,41801,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19630900000000,DY6 0BH,2013-04-10,fhrs_3_en-GB,3,,FHRS,10
-345430,New Road,,,Featherstone,H M Y O I  Brinsford,Other catering premises,7841,0,,388485,0,,52.64858800000000,2795,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10862400000000,WV10 7PY,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-345431,203 Station Street,,,Cheslyn Hay,H P Westwood   Butchers,Manufacturers/packers,7839,5,,388553,0,,52.66660600000000,3557,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02575900000000,WS6 7EH,2014-10-10,fhrs_4_en-GB,4,,FHRS,10
-345432,New Road,,,Featherstone,H.M. Prison Featherstone,Other catering premises,7841,0,,388444,5,,52.64858800000000,2413,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10862400000000,WV10 7PY,2015-01-29,fhrs_5_en-GB,5,,FHRS,5
-345433,HMYOI Brinsford,New Road,,Featherstone,H.M.Y.O.I. Brinsford Visitor Centre,Other catering premises,7841,10,,388402,5,,52.64858800000000,17114,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10862400000000,WV10 7PY,2013-11-04,fhrs_4_en-GB,4,,FHRS,0
-345434,New Road,,,Swindon,Halfpenny Green Golf Club,Pub/bar/nightclub,7843,10,,388652,0,,52.51899600000000,3997,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23489500000000,DY3 4PP,2011-01-06,fhrs_4_en-GB,4,,FHRS,10
-345435,Tom Lane,Halfpenny Green,,Bobbington,Halfpenny Green Vineyards Tea Room & Restaurant,Restaurant/Cafe/Canteen,1,5,,388409,5,,52.53108100000000,1761,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.25144000000000,DY7 5EP,2014-11-27,fhrs_5_en-GB,5,,FHRS,5
-345436,Wood Farm,Broad Lane,,Essington,Harry's At The Range,Restaurant/Cafe/Canteen,1,10,,388666,5,,52.63364800000000,4093,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03114800000000,WV11 2RJ,2014-06-10,fhrs_4_en-GB,4,,FHRS,5
-345437,56 Long Street,,,Wheaton Aston,Hartley Arms,Pub/bar/nightclub,7843,10,,388491,5,,52.71283900000000,2936,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21812900000000,ST19 9NF,2013-12-06,fhrs_4_en-GB,4,,FHRS,5
-345438,School Lane,,,Shareshill,Havergal C E Primary School,School/college/university,7845,5,,388474,0,,52.65713200000000,2595,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08231500000000,WV10 7LE,2013-09-16,fhrs_5_en-GB,5,,FHRS,0
-345439,South Staffordshire College Rodbaston Campus,Farm Drive,,Rodbaston,Hayrack Cafe,Other catering premises,7841,5,,649157,10,,52.70242800000000,45633,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11723700000000,ST19 5PH,2014-04-16,fhrs_4_en-GB,4,,FHRS,5
-345440,Unit 7,Amptronic Industrial Estate,Heath Mill Road,Wombourne,Heath Mill Cafe,Restaurant/Cafe/Canteen,1,0,,560380,5,,52.52204700000000,42485,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20938500000000,WV5 8AP,2014-12-04,fhrs_4_en-GB,4,,FHRS,10
-345441,,,,,Heath Mill Cafe (R J B  Catering),Other catering premises,7841,10,,676572,0,,,47205,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-06-24,fhrs_4_en-GB,4,,FHRS,0
-345442,65-67 Hill Street,,,Essington,Hill Street Grocers,Retailers - other,4613,5,,482884,5,,52.62783800000000,40038,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06151800000000,WV11 2BS,2012-12-07,fhrs_5_en-GB,5,,FHRS,5
-345443,Hilton Hall,Hilton Lane,,Hilton,Hilton Catering,Restaurant/Cafe/Canteen,1,10,,388392,0,,52.64437300000000,17070,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.07222700000000,WV11 2BQ,2013-11-08,fhrs_4_en-GB,4,,FHRS,0
-345444,Cannock Road,,,Featherstone,Hilton Service Station,Retailers - other,4613,20,,388608,0,,52.64460600000000,3767,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08660700000000,WV10 7AD,2014-09-29,fhrs_1_en-GB,1,,FHRS,15
-345445,Himley Road,,,Himley,Himley Hall,Other catering premises,7841,0,,388635,0,,52.52233200000000,3932,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.16582000000000,DY3 4DF,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-345446,Stourbridge Road,,,Himley,Himley House Hotel,Hotel/bed & breakfast/guest house,7842,10,,388531,5,,52.51868700000000,3430,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17472200000000,DY3 4LD,2014-10-24,fhrs_3_en-GB,3,,FHRS,10
-345447,School Road,,,Himley,Himley Mill Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,388629,0,,52.51817600000000,3908,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17996600000000,DY3 4LG,2014-08-04,fhrs_5_en-GB,5,,FHRS,0
-345448,Himley Hall,Himley Road,,Himley,Himley Park Cafe,Other catering premises,7841,10,,388487,5,,52.52233200000000,2836,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.16582000000000,DY3 4DF,2014-05-29,fhrs_3_en-GB,3,,FHRS,10
-345449,Hinksford Arms,Swindon Road,,Hinksford,Hinksford Arms,Pub/bar/nightclub,7843,20,,694002,10,,52.50609200000000,48025,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19746400000000,DY6 0BA,2014-08-20,fhrs_1_en-GB,1,,FHRS,5
-345450,Oaks Drive,Brinsford,,Featherstone,Hmp Oakwood,Other catering premises,7841,5,,454432,0,,52.63718700000000,38685,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.09685000000000,WV10 7QD,2014-07-31,fhrs_5_en-GB,5,,FHRS,5
-345451,Wolverhampton Road,Laney Green,,Saredon,Hollies Poultry Farmshop,Retailers - other,4613,20,,388661,0,,52.66044400000000,4079,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06051400000000,WV10 7LU,2014-10-30,fhrs_1_en-GB,1,,FHRS,15
-345452,Holly Lane,,,Great Wyrley,Holly Lane Nursery,Hospitals/Childcare/Caring Premises,5,0,,388493,5,,52.64906900000000,2954,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01580100000000,WS6 6AQ,2014-08-26,fhrs_5_en-GB,5,,FHRS,0
-345453,,,,,Holly's Heavenly Cupcakes,Retailers - other,4613,5,,619749,0,,,44221,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-12-12,fhrs_5_en-GB,5,,FHRS,0
-345454,128 Common Road,,,Wombourne,Hong Kong Chinese Take Away,Takeaway/sandwich shop,7844,10,,388545,10,,52.52661200000000,3523,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19471100000000,WV5 0NB,2014-07-25,fhrs_3_en-GB,3,,FHRS,10
-345455,8 Quinton Court,,Wardles Lane,Great Wyrley,Hong Kong Take Away,Takeaway/sandwich shop,7844,10,,510023,10,,52.65807600000000,40701,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01825900000000,WS6 6DY,2014-08-05,fhrs_3_en-GB,3,,FHRS,10
-345456,204 Walsall Road,,,Great Wyrley,Hornegarth House,Hospitals/Childcare/Caring Premises,5,5,,388524,0,,52.66421700000000,3381,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01206600000000,WS6 6NQ,2014-12-04,fhrs_5_en-GB,5,,FHRS,0
-345457,Ivetsey Bank,,,Wheaton Aston,Huntercombe Hospital Stafford,Hospitals/Childcare/Caring Premises,5,5,,388670,5,,52.69419800000000,4130,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23490300000000,ST19 9QT,2014-02-27,fhrs_5_en-GB,5,,FHRS,0
-345458,Hollybush Lane,,,Oaken,Hunters Lodge,Hospitals/Childcare/Caring Premises,5,5,,388570,0,,52.62177300000000,3606,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20817700000000,WV8 2AT,2014-10-21,fhrs_5_en-GB,5,,FHRS,0
-345459,Hurst View,Ivetsey Road,,Wheaton Aston,Hurst View Traditional Cider,Manufacturers/packers,7839,10,,623116,10,,52.69871600000000,44365,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24589300000000,ST19 9QP,2014-01-08,fhrs_3_en-GB,3,,FHRS,10
-345460,20 The Avenue,,,Featherstone,J & K Foodstore (Cost Cutter),Retailers - other,4613,10,,388534,10,,52.64302200000000,3450,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08883600000000,WV10 7AT,2014-10-21,fhrs_4_en-GB,4,,FHRS,0
-345461,118 Station Street,,,Cheslyn Hay,J And S News,Retailers - other,4613,5,,388488,0,,52.66610200000000,2840,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02711900000000,WS6 7EQ,2012-03-29,fhrs_5_en-GB,5,,FHRS,5
-345462,1 Cross Street,,,Cheslyn Hay,J E Lote Family Butchers,Retailers - other,4613,10,,388542,10,,52.66057200000000,3494,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03393200000000,WS6 7DT,2014-10-08,fhrs_3_en-GB,3,,FHRS,5
-345463,Corsers Court,Waveney Avenue,,Perton,Jacey's Catering,Other catering premises,7841,10,,388772,10,,52.59370700000000,7210,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20334900000000,WV6 7RB,2013-01-08,fhrs_3_en-GB,3,,FHRS,5
-345464,11 Lane Green Shopping Parade,Duck Lane,,Bilbrook,Jade House,Takeaway/sandwich shop,7844,10,,388697,5,,52.62617900000000,4643,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18052800000000,WV8 1JA,2014-02-19,fhrs_4_en-GB,4,,FHRS,5
-345465,6 Boscomoor Shopping Centre,Wolverhampton Road,,Penkridge,Jaflong Fine Indian Dining,Restaurant/Cafe/Canteen,1,10,,388439,5,,52.71705400000000,2283,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11736600000000,ST19 5NS,2013-09-11,fhrs_4_en-GB,4,,FHRS,5
-345466,5 Stag Place,Teddesley Park,,Penkridge,Jane M Plejdrup,Mobile caterer,7846,10,,668321,0,,52.74234100000000,45793,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.07350000000000,ST19 5RU,2014-05-13,fhrs_4_en-GB,4,,FHRS,0
-345467,Crown Bridge,,,Penkridge,Jaspers Village Bakery,Retailers - other,4613,5,,388598,5,,52.72571300000000,3705,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11524200000000,ST19 5AA,2014-01-02,fhrs_5_en-GB,5,,FHRS,0
-345468,2 Engleton Lane,,,Brewood,Jimmy's Chinese Takeaway,Takeaway/sandwich shop,7844,20,,388575,15,,52.67882700000000,3618,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17163400000000,ST19 9DZ,2012-02-20,fhrs_1_en-GB,1,,FHRS,10
-345469,17 Church Road,,,Codsall,Jungle Boogie,Restaurant/Cafe/Canteen,1,5,,468699,0,,52.63173000000000,39650,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19995000000000,WV8 1EA,2012-11-08,fhrs_5_en-GB,5,,FHRS,0
-345470,,,,,K T's Diner,Mobile caterer,7846,5,,649158,0,,,45673,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-04-25,fhrs_5_en-GB,5,,FHRS,0
-345471,2 The Avenue,,,Featherstone,Kafe Neo,Restaurant/Cafe/Canteen,1,0,,406705,5,,52.64302200000000,36738,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08883600000000,WV10 7AT,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-345472,Market Street,,,Penkridge,Kaffeine,Restaurant/Cafe/Canteen,1,5,,668325,0,,52.72521100000000,47077,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11429300000000,ST19 5DH,2014-06-16,fhrs_5_en-GB,5,,FHRS,5
-345473,53 High Street,,,Kinver,Kays Butchers,Manufacturers/packers,7839,10,,388684,10,,52.44898500000000,424,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22903400000000,DY7 6HE,2014-05-28,fhrs_3_en-GB,3,,FHRS,5
-345474,,,,,Keith's Supper Whip,Mobile caterer,7846,10,,734854,5,,,50474,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-09-16,fhrs_4_en-GB,4,,FHRS,0
-345475,22A Snowdon Road,,,Burnhill Green,Kerbside Cafe,Mobile caterer,7846,5,,388739,0,,52.60318200000000,5875,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.31432600000000,WV6 7HU,2011-02-21,fhrs_5_en-GB,5,,FHRS,0
-345476,Unit F1 Smestow Bridge Industrial Estate,Bridgnorth Road,,Wombourne,Kids Funworld Limited,Restaurant/Cafe/Canteen,1,5,,388695,0,,52.53153200000000,4595,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21419100000000,WV5 8AY,2013-10-10,fhrs_5_en-GB,5,,FHRS,5
-345477,5 Chenevare Mews,High Street,,Kinver,Kinfayre Coffee Shop,Restaurant/Cafe/Canteen,1,5,,715624,5,,52.44847300000000,49213,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22861900000000,DY7 6HB,2014-10-29,fhrs_5_en-GB,5,,FHRS,5
-345478,36 High Street,,,Kinver,Kings Fayre Bakery Ltd,Manufacturers/packers,7839,5,,388557,0,,52.44804200000000,3574,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22839600000000,DY7 6HF,2014-07-23,fhrs_5_en-GB,5,,FHRS,5
-345479,New Road,,,Featherstone,Kings Repose Restaurant,Other catering premises,7841,5,,388528,5,,52.64894100000000,3422,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.09583900000000,WV10 7NW,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-345480,Barn Lane,,,Kingswood,Kingswood Centre (Catering Only),Restaurant/Cafe/Canteen,1,0,,388519,0,,52.62114500000000,3269,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24504400000000,WV7 3AW,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-345481,County Lane,,,Kingswood,Kingswood Equestiran Trust,Other catering premises,7841,5,,388480,0,,52.61738900000000,2712,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24432800000000,WV7 3AU,2011-03-22,fhrs_5_en-GB,5,,FHRS,0
-345482,Holyhead Road,,,Kingswood,Kingswood Nursery And Infant Centre,Hospitals/Childcare/Caring Premises,5,5,,388464,5,,52.61799900000000,2531,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24508500000000,WV7 3AP,2013-09-06,fhrs_5_en-GB,5,,FHRS,0
-345483,Sandy Lane,,,Kinver,Kinver Edge Farm Shop,Retailers - other,4613,10,,388732,10,,52.48368900000000,5609,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24313900000000,DY7 6NN,2014-02-14,fhrs_3_en-GB,3,,FHRS,10
-345484,1 Stone Lane,,,Kinver,Kinver Garden Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,388512,0,,52.44945800000000,3170,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23056600000000,DY7 6EQ,2014-01-30,fhrs_5_en-GB,5,,FHRS,5
-345485,50 High Street,,,Kinver,Kinver Tandoori Restaurant,Other catering premises,7841,5,,388585,5,,52.44898500000000,3652,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22903400000000,DY7 6HE,2013-08-28,fhrs_4_en-GB,4,,FHRS,10
-345486,Laches Lane,,,Slade Heath,Laches Wood Outdoor Education Centre,School/college/university,7845,5,,388590,5,,52.66069800000000,36610,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11705200000000,WV10 7PA,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-345487,Lake View Nursing Home,Stafford Road,,Great Wyrley,Lakeview And Watersedge Care Home,Hospitals/Childcare/Caring Premises,5,5,,388406,0,,52.63612400000000,17134,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01121600000000,WS6 6BA,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-345488,Holly Lane,,,Great Wyrley,Landywood Primary School,School/college/university,7845,5,,388391,0,,52.64906900000000,17066,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01580100000000,WS6 6AQ,2015-01-13,fhrs_5_en-GB,5,,FHRS,5
-345489,30 Gorsey Lane,,,Great Wyrley,Landywood Stores,Retailers - other,4613,10,,482886,0,,52.65564900000000,40050,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01689800000000,WS6 6JA,2014-12-05,fhrs_4_en-GB,4,,FHRS,0
-345490,Bilbrook Road,,,Codsall,Lane Green Primary School,School/college/university,7845,5,,388430,0,,52.62856200000000,2188,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17984300000000,WV8 1EU,2013-11-21,fhrs_5_en-GB,5,,FHRS,5
-345491,25 Stafford Street,,,Brewood,Lazy Days,Restaurant/Cafe/Canteen,1,0,,486752,0,,52.67768300000000,40090,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17330100000000,ST19 9DX,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-345492,Clay Street,,,Penkridge,Lee Adams Family Butchers,Manufacturers/packers,7839,5,,388580,5,,52.72458000000000,3633,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11568300000000,ST19 5AF,2014-07-29,fhrs_4_en-GB,4,,FHRS,10
-345493,11 Hatherton Street,,,Cheslyn Hay,Lifestyle Convenience Store,Retailers - other,4613,10,,388591,5,,52.65998500000000,36614,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03996300000000,WS6 7HS,2013-06-05,fhrs_3_en-GB,3,,FHRS,10
-345494,,,,,Lilliput Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,388373,0,,,1557,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-09-04,fhrs_5_en-GB,5,,FHRS,5
-345495,,,,,Lisa's Cakes,Retailers - other,4613,5,,585696,5,,,43314,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-09-19,fhrs_5_en-GB,5,,FHRS,5
-345496,The Corbett Church Of England Primary School,Six Ashes Road,,Bobbington,Little Acorns Day Nursery,Other catering premises,7841,0,,732373,5,,52.51500400000000,50409,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.28023000000000,DY7 5DU,2015-01-22,fhrs_5_en-GB,5,,FHRS,0
-345497,Little Acorns Nursery,Common Lane,,Bednall,Little Acorns Private Day Nursery,Other catering premises,7841,10,,615862,10,,52.75744900000000,44114,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06448700000000,ST17 0SF,2013-11-27,fhrs_3_en-GB,3,,FHRS,5
-345498,Boscomoor Lane,,,Penkridge,Little Treasures Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,388762,0,,52.71736100000000,6528,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11564900000000,ST19 5NU,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-345499,St Michaels Square,,,Penkridge,Littleton Arms Hotel,Pub/bar/nightclub,7843,5,,388644,0,,52.72485700000000,3979,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11685400000000,ST19 5AL,2013-11-07,fhrs_5_en-GB,5,,FHRS,0
-345500,Colliers Way,,,Huntington,Littleton Green Community School,School/college/university,7845,0,,388699,0,,52.71092900000000,4735,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04221600000000,WS12 4UD,2014-03-31,fhrs_5_en-GB,5,,FHRS,0
-345501,Cannock Road,,,Shareshill,Lola's Cafe,Mobile caterer,7846,5,,585695,10,,,43298,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-09-04,fhrs_4_en-GB,4,,FHRS,0
-345502,Four Ashes Industrial Estate,Station Road,,Four Ashes,Lola's Cafe,Other catering premises,7841,10,,668322,10,,52.67454600000000,45801,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12232400000000,WV10 7DB,2014-05-14,fhrs_3_en-GB,3,,FHRS,5
-345503,19 High Street,,,Swindon,Londis,Retailers - supermarkets/hypermarkets,7840,5,,433473,5,,52.51333800000000,37762,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20287500000000,DY3 4NP,2014-03-11,fhrs_4_en-GB,4,,FHRS,10
-345504,Levedale Road,,,Penkridge,Longridge Care Home,Hospitals/Childcare/Caring Premises,5,5,,388429,0,,52.73798900000000,2177,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13547600000000,ST18 9AL,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-345505,52 Enville Road,,,Kinver,Lotus House Chinese Take Away,Takeaway/sandwich shop,7844,0,,388522,0,,52.45483500000000,3314,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23500900000000,DY7 6BX,2014-04-08,fhrs_5_en-GB,5,,FHRS,0
-345506,,,,,Low N Slow,Mobile caterer,7846,5,,628375,0,,,44577,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-01-23,fhrs_5_en-GB,5,,FHRS,0
-345507,"Unit 2, Lychgate House",2 High Street,,Pattingham,Lychgate Coffee,Other catering premises,7841,20,,609323,10,,52.58866500000000,43878,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26588100000000,WV6 7BQ,2013-10-28,fhrs_1_en-GB,1,,FHRS,0
-345508,Unit 39,Wombourne Enterprise Park,Bridgnorth Road,Wombourne,M And P Meats Ltd,Distributors/Transporters,7,10,,462600,5,,52.52764100000000,39226,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21312600000000,WV5 0AL,2014-10-23,fhrs_4_en-GB,4,,FHRS,0
-345509,Saredon Filling Station,Cannock Road,,Shareshill,M6 Diesel,Retailers - other,4613,10,,609321,0,,52.65327800000000,43797,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.07740000000000,WV10 7LZ,2014-04-09,fhrs_4_en-GB,4,,FHRS,0
-345510,Acton Court,,,Acton Gate,Mandarin Oriental Brasserie,Other catering premises,7841,10,,388747,5,,52.76549800000000,6043,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10835200000000,ST18 9AP,2014-01-24,fhrs_3_en-GB,3,,FHRS,10
-345511,35 High Street,,,Kinver,Maori Coffee Shop,Restaurant/Cafe/Canteen,1,0,,388363,5,,52.44804200000000,1403,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22839600000000,DY7 6HF,2013-10-31,fhrs_5_en-GB,5,,FHRS,0
-345512,Teddesley Road,,,Penkridge,Marshbrook First School,School/college/university,7845,0,,388659,0,,52.72773000000000,4076,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11141200000000,ST19 5BA,2013-11-21,fhrs_5_en-GB,5,,FHRS,0
-345513,Stafford Road,,,Huntington,Martin Mc Colls,Retailers - other,4613,0,,388696,5,,52.70886200000000,4612,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03990500000000,WS12 4NU,2014-12-10,fhrs_5_en-GB,5,,FHRS,5
-345514,10 Wolverhampton Road,,,Pattingham,Martin Thomas Butchers Shop,Retailers - other,4613,0,,388550,0,,52.59020600000000,3530,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26041400000000,WV6 7AF,2014-11-17,fhrs_5_en-GB,5,,FHRS,0
-345515,,,,,Mary Herman  Smith Catering,Mobile caterer,7846,5,,388501,0,,,3027,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-02-27,fhrs_5_en-GB,5,,FHRS,0
-345516,A449 Layby,Adjacent to Rodbaston College,,Penkridge,Mel's Munch Box,Mobile caterer,7846,10,,558506,5,,,42417,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,Mobile Cat,2013-09-27,fhrs_4_en-GB,4,,FHRS,0
-345517,Hatherton Hotel,Pinfold Lane,,Penkridge,Mercure Stafford South,Hotel/bed & breakfast/guest house,7842,10,,388351,5,,52.72302400000000,1149,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12500700000000,ST19 5QP,2014-12-09,fhrs_3_en-GB,3,,FHRS,10
-345518,,,,,Midland Fun Foods,Mobile caterer,7846,10,,479401,5,,,39818,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2012-11-14,fhrs_4_en-GB,4,,FHRS,0
-345519,Cherry Tree Court,Park Close,,Essington,Milestone Catering,Hospitals/Childcare/Caring Premises,5,5,,609313,0,,52.62629300000000,43489,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05928500000000,WV11 2GA,2013-09-20,fhrs_5_en-GB,5,,FHRS,0
-345520,Corsers Court,Waveney Avenue,,Perton,Milestone Catering,Other catering premises,7841,5,,623698,0,,52.59370700000000,44393,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20334900000000,WV6 7RB,2014-01-06,fhrs_5_en-GB,5,,FHRS,0
-345521,Mill Lane,,,Kinver,Mill House,Hospitals/Childcare/Caring Premises,5,5,,388716,0,,52.45021600000000,5170,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22958400000000,DY7 6ER,2012-06-28,fhrs_5_en-GB,5,,FHRS,0
-345522,Stourbridge Road,,,Penn,Miller & Carter,Pub/bar/nightclub,7843,5,,388434,5,,52.55050900000000,2220,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17045400000000,WV4 5NG,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-345523,1 Boscomoor Shopping Centre,Wolverhampton Road,,Penkridge,Minhs Of Penkridge,Restaurant/Cafe/Canteen,1,10,,442773,10,,52.71705400000000,38126,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11736600000000,ST19 5NS,2014-03-26,fhrs_3_en-GB,3,,FHRS,5
-345524,,,,,Minki's Cakeaway,Retailers - other,4613,0,,531176,0,,,41265,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-03-28,fhrs_5_en-GB,5,,FHRS,0
-345525,,,,,Miss Mable's Cupcakery,Other catering premises,7841,5,,736070,0,,,50538,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-09-16,fhrs_5_en-GB,5,,FHRS,0
-345526,Johns Lane,,,Great Wyrley,Moat Hall County Primary School,School/college/university,7845,5,,388615,0,,52.66200500000000,3835,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01755100000000,WS6 6BX,2014-07-11,fhrs_5_en-GB,5,,FHRS,0
-345527,The Coach And Horses,36 High Street,,Wheaton Aston,Momtaj Spice,Other catering premises,7841,10,,388403,5,,52.71052800000000,17122,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22326800000000,ST19 9NP,2013-09-19,fhrs_3_en-GB,3,,FHRS,10
-345528,,,,,Monster Munchies,Other catering premises,7841,0,,680063,0,,,47245,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-07-03,fhrs_5_en-GB,5,,FHRS,5
-345529,Moseley Old Hall Lane,,,Featherstone,Moseley Old Hall,Restaurant/Cafe/Canteen,1,5,,388338,0,,52.63744600000000,1000,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10239000000000,WV10 7HY,2007-06-06,fhrs_5_en-GB,5,,FHRS,5
-345530,Hilton Park Motorway Service Area,,,Essington,Moto Northbound Forecourt,Retailers - other,4613,5,,388737,0,,52.64317600000000,5715,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05738700000000,WV11 2AT,2013-11-14,fhrs_4_en-GB,4,,FHRS,10
-345531,Hilton Park Motorway Service Area,,,Essington,Moto Southbound Forecourt,Retailers - other,4613,0,,388505,0,,52.64317600000000,3079,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05738700000000,WV11 2AT,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-345532,Ounsdale Road,,,Wombourne,Mount Pleasant Ale & Cider House,Pub/bar/nightclub,7843,0,,465200,5,,52.53605300000000,39422,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19894000000000,WV5 8BP,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-345533,31 High Street,,,Kinver,Mr Chips,Takeaway/sandwich shop,7844,10,,388646,0,,52.44804200000000,3983,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22839600000000,DY7 6HF,2015-01-08,fhrs_4_en-GB,4,,FHRS,5
-345534,13 High Street,,,Swindon,Mr Smiths Fish Bar,Takeaway/sandwich shop,7844,0,,388587,5,,52.51333800000000,3658,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20287500000000,DY3 4NP,2014-03-06,fhrs_5_en-GB,5,,FHRS,0
-345535,,,,,Mrs C's Creative Cakes,Other catering premises,7841,0,,736071,0,,,50542,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2015-01-09,fhrs_5_en-GB,5,,FHRS,0
-345536,,,,,Mrs N Chapman,Other catering premises,7841,0,,520653,0,,,41077,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-03-11,fhrs_5_en-GB,5,,FHRS,0
-345537,,,,,Mrs T's Donuts,Mobile caterer,7846,5,,649159,0,,,45677,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-04-25,fhrs_5_en-GB,5,,FHRS,0
-345538,179B Walsall Road,,,Great Wyrley,Munch Sandwich Bar,Restaurant/Cafe/Canteen,1,5,,676798,5,,52.66493600000000,47217,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01401800000000,WS6 6NL,2014-06-30,fhrs_4_en-GB,4,,FHRS,10
-345539,Greensforge,,,Kingswinford,Navigation Inn,Restaurant/Cafe/Canteen,1,10,,388601,10,,52.49666595458984,3735,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20614123344421,DY6 0AH,2014-11-13,fhrs_3_en-GB,3,,FHRS,10
-345540,5 Rosemary Road,,,Cheslyn Hay,New City,Takeaway/sandwich shop,7844,5,,516560,5,,52.66300800000000,40981,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03263200000000,WS6 7DY,2014-03-03,fhrs_4_en-GB,4,,FHRS,10
-345541,Market Street,,,Penkridge,New Garden Chinese Take Away,Takeaway/sandwich shop,7844,5,,388538,0,,52.72521100000000,3472,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11429300000000,ST19 5DH,2014-12-11,fhrs_5_en-GB,5,,FHRS,5
-345542,191 Station Street,,,Cheslyn Hay,News And Booze Shop,Retailers - other,4613,10,,649153,5,,52.66660600000000,45501,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02575900000000,WS6 7EH,2014-04-08,fhrs_4_en-GB,4,,FHRS,0
-345543,1 - 2 Crown Bridge,,,Penkridge,News Express,Retailers - other,4613,5,,580795,10,,52.72571300000000,43161,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11524200000000,ST19 5AA,2013-08-22,fhrs_4_en-GB,4,,FHRS,5
-345544,13 Station Road,,,Codsall,News Express,Retailers - other,4613,0,,409267,0,,52.62993800000000,37074,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20164100000000,WV8 1BX,2012-06-27,fhrs_5_en-GB,5,,FHRS,5
-345545,90 Wolverhampton Road,,,Codsall,News Express,Retailers - other,4613,0,,409265,0,,52.62447600000000,36974,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18851300000000,WV8 1PE,2012-06-26,fhrs_5_en-GB,5,,FHRS,5
-345546,12 Glenthorne Drive,,,Cheslyn Hay,Nisa Daves Supersave,Retailers - other,4613,10,,468700,5,,52.66162500000000,39670,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02736800000000,WS6 7BZ,2014-11-13,fhrs_4_en-GB,4,,FHRS,5
-345547,38 Brownshore Lane,,,Essington,Nisa Day To Day,Retailers - other,4613,10,,388410,0,,52.63024000000000,1769,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05791600000000,WV11 2AL,2012-12-04,fhrs_4_en-GB,4,,FHRS,5
-345548,JLR Wolverhampton  (SS2),Wobaston Road,,Wolverhampton,O C S Catering Ltd,Other catering premises,7841,0,,649152,5,,52.63001600000000,45453,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13385700000000,WV10 6QJ,2014-04-07,fhrs_5_en-GB,5,,FHRS,0
-345549,Watling Street,,,Hatherton,Oak Farm Hotel,Hotel/bed & breakfast/guest house,7842,5,,388489,0,,52.68568600000000,2841,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.07734000000000,WS11 1SB,2014-08-21,fhrs_5_en-GB,5,,FHRS,0
-345550,Pinfold Lane,,,Penkridge,Old Deanery Farm Cafe,Other catering premises,7841,5,,388466,0,,52.72591700000000,2537,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11795200000000,ST19 5AP,2011-03-09,fhrs_5_en-GB,5,,FHRS,0
-345551,Olde Hall Lane,,,Great Wyrley,Old Wyrley Hall,Pub/bar/nightclub,7843,5,,388607,0,,52.66497100000000,3763,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02050900000000,WS6 6LL,2013-09-19,fhrs_5_en-GB,5,,FHRS,5
-345552,Clay Street,,,Penkridge,Olympic Fish Bar,Takeaway/sandwich shop,7844,5,,388632,5,,52.72458000000000,3914,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11568300000000,ST19 5AF,2014-03-11,fhrs_5_en-GB,5,,FHRS,5
-345553,30 High Street,,,Kinver,Oriental Express,Takeaway/sandwich shop,7844,5,,388447,5,,52.44804200000000,2434,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22839600000000,DY7 6HF,2014-04-16,fhrs_5_en-GB,5,,FHRS,5
-345554,Ounsdale Road,,,Wombourne,Ounsdale High School,School/college/university,7845,0,,388571,0,,52.53564400000000,3607,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19657900000000,WV5 8BJ,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-345555,Unit 4,Boscomoor Shopping Centre,Wolverhampton Road,Penkridge,Oysters Fish Bar,Takeaway/sandwich shop,7844,5,,388578,10,,52.71705400000000,3631,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11736600000000,ST19 5NS,2014-12-15,fhrs_4_en-GB,4,,FHRS,5
-345556,5 Birches Bridge Shopping Parade,Wolverhampton Road,,Codsall,Papa Johns,Takeaway/sandwich shop,7844,10,,388765,5,,52.62447600000000,6554,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18851300000000,WV8 1PE,2013-11-27,fhrs_4_en-GB,4,,FHRS,0
-345557,Park House,,,Essington,Park House Sheltered Housing Scheme ,Pub/bar/nightclub,7843,10,,388358,0,,52.63559800000000,1306,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03465100000000,WV11 2RH,2007-08-07,fhrs_4_en-GB,4,,FHRS,5
-345558,Patshull Park,Burnhill Green,,Pattingham,Patshull Park Hotel,Hotel/bed & breakfast/guest house,7842,0,,388420,0,,52.59444600000000,2100,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.29592800000000,WV6 7HR,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-345559,43 High Street,,,Pattingham,Pattingham Working Mens Club,Pub/bar/nightclub,7843,20,,649155,15,,52.58697100000000,45597,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26774500000000,WV6 7BH,2014-04-14,fhrs_1_en-GB,1,,FHRS,15
-345560,,,,,Paula's Pantry,Other catering premises,7841,5,,468695,0,,,39630,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2012-11-05,fhrs_5_en-GB,5,,FHRS,0
-345561,The Parkway,,,Perton,Pear And Partridge,Pub/bar/nightclub,7843,5,,388355,0,,52.60231100000000,1171,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20809900000000,WV6 7XZ,2015-01-15,fhrs_5_en-GB,5,,FHRS,5
-345562,Pear Tree Farm,Bickford Road,,Bickford,Pear Tree Farm Caterers,Other catering premises,7841,0,,388397,0,,52.72602200000000,17090,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17193800000000,ST19 5QJ,2013-12-10,fhrs_5_en-GB,5,,FHRS,0
-345563,Marsh Lane,,,Penkridge,Penkridge County Middle,School/college/university,7845,5,,388599,5,,52.72864300000000,3706,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10581700000000,ST19 5BW,2014-12-12,fhrs_5_en-GB,5,,FHRS,5
-345564,Penn Common,,,South Staffordshire,Penn Golf Club,Pub/bar/nightclub,7843,5,,388723,5,,52.55209500000000,5401,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.14699500000000,WV4 5JN,2010-08-09,fhrs_5_en-GB,5,,FHRS,5
-345565,Hollybush Garden Centre,Warstone Road,,Saredon,Percy Plonkers Hot Dog Stall,Mobile caterer,7846,5,,451299,0,,52.65431600000000,38565,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05441500000000,WV10 7LX,2012-09-15,fhrs_5_en-GB,5,,FHRS,0
-345566,Church Road,,,Perton,Perton Day Care Centre,Restaurant/Cafe/Canteen,1,0,,388713,0,,52.59544100000000,5135,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20372700000000,WV6 7PD,2015-02-03,fhrs_5_en-GB,5,,FHRS,0
-345567,Manston Drive,,,Perton,Perton First School,School/college/university,7845,0,,388468,0,,52.59823800000000,2552,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20325200000000,WV6 7LX,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-345568,30 Anders Square,,,Perton,Perton Fish And Chip Shop,Takeaway/sandwich shop,7844,10,,388572,0,,52.59481300000000,3608,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20280800000000,WV6 7QH,2014-12-10,fhrs_4_en-GB,4,,FHRS,10
-345569,Wrottesley Park Road,,,Perton,Perton Manor Care Home,Hospitals/Childcare/Caring Premises,5,10,,388486,5,,52.61084600000000,2835,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20586600000000,WV8 2HE,2014-10-31,fhrs_4_en-GB,4,,FHRS,0
-345570,Gainsborough Drive,,,Perton,Perton Middle School,School/college/university,7845,0,,388681,0,,52.59761500000000,4160,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19371200000000,WV6 7NR,2014-04-29,fhrs_5_en-GB,5,,FHRS,0
-345571,Wrottesley Park Road,,,Perton,Perton Park Golf Club,Pub/bar/nightclub,7843,5,,388680,0,,52.58998700000000,4159,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21723700000000,WV6 7HL,2013-05-09,fhrs_5_en-GB,5,,FHRS,0
-345572,,,,,Petit Gateau,Other catering premises,7841,5,,609316,0,,,43621,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-10-03,fhrs_5_en-GB,5,,FHRS,0
-345573,11 High Street,,,Pattingham,Pigot Arms,Pub/bar/nightclub,7843,0,,388623,0,,52.58866500000000,3878,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26588100000000,WV6 7BQ,2014-07-30,fhrs_5_en-GB,5,,FHRS,5
-345574,Cannock Road,,,Pillaton,Pillaton Hall Farm,Retailers - other,4613,5,,388773,5,,52.71702800000000,7690,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08494500000000,ST19 5RZ,2012-05-02,fhrs_5_en-GB,5,,FHRS,0
-345575,Pillaton Garden Centre,Cannock Road,Pillaton,Penkridge,Pillaton Tea Rooms,Restaurant/Cafe/Canteen,1,0,,638485,0,,52.71644300000000,44961,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08598000000000,ST19 5RZ,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-345576,6 Bilbrook Road,,,Bilbrook,Pizzarelli's,Takeaway/sandwich shop,7844,5,,482882,5,,52.62722300000000,39998,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17972000000000,WV8 1EZ,2014-06-30,fhrs_5_en-GB,5,,FHRS,0
-345577,Dobbies Garden World,Watling Street,,Gailey,Planters Cafe,Other catering premises,7841,5,,388500,5,,52.69513900000000,3025,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13262100000000,ST19 5PP,2013-02-28,fhrs_5_en-GB,5,,FHRS,5
-345578,Fordbrook Cottage,Furnace Grange Road,,Lower Penn,Pool Hall Fisheries Cafe,Other catering premises,7841,5,,388766,0,,52.57113300000000,6603,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21842700000000,WV4 4XL,2013-07-17,fhrs_5_en-GB,5,,FHRS,5
-345579,Summer House,Cannock Road ,,Penkridge ,Pop Ins General Store,Retailers - other,4613,5,,388470,5,,52.72370800000000,2574,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10629400000000,ST19 5DX,2011-03-02,fhrs_5_en-GB,5,,FHRS,5
-345580,Coven Post Office,2 The Parade,Brewood Road,Coven,Post Office Counters Ltd,Retailers - other,4613,10,,388340,15,,52.65831400000000,1047,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13530300000000,WV9 5BX,2012-12-17,fhrs_2_en-GB,2,,FHRS,5
-345581,4 White Hill,,,Kinver,Potters Cross Post Office,Retailers - other,4613,5,,428825,0,,52.45481300000000,37574,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23711300000000,DY7 6AD,2012-07-11,fhrs_5_en-GB,5,,FHRS,0
-345582,9 Anders Square,,,Perton,Pound For Pound(Taylors Frozen Food),Retailers - other,4613,10,,388475,5,,52.59481300000000,2597,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20280800000000,WV6 7QH,2012-03-23,fhrs_4_en-GB,4,,FHRS,0
-345583,The Coach House Nursing Home,Wolverhampton Road,,Prestwood,Prestwood Coach House Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,447087,5,,52.47439300000000,38306,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19805800000000,DY7 5AL,2013-08-01,fhrs_5_en-GB,5,,FHRS,5
-345584,Wolverhampton Road,,,Prestwood,Prestwood Diner,Takeaway/sandwich shop,7844,5,,388664,0,,52.46386800000000,4091,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20173400000000,DY7 5AE,2013-11-14,fhrs_4_en-GB,4,,FHRS,10
-345585,Wolverhampton Road,,,Kinver,Prestwood House Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,388687,5,,52.47306100000000,4392,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19893500000000,DY7 5AL,2014-07-31,fhrs_5_en-GB,5,,FHRS,0
-345586,Saxon Road,,,Penkridge,Princefield First School,School/college/university,7845,0,,388418,0,,52.72128000000000,1986,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10651000000000,ST19 5EP,2013-11-21,fhrs_5_en-GB,5,,FHRS,5
-345587,Hazel Lane,,,Great Wyrley,Puddleducks Nursery,Hospitals/Childcare/Caring Premises,5,10,,388596,10,,52.65916500000000,3701,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.00421400000000,WS6 6AA,2013-07-17,fhrs_4_en-GB,4,,FHRS,0
-345588,27A Quinton Court,Wardles Lane,,Great Wyrley,Quinton Balti,Restaurant/Cafe/Canteen,1,10,,388387,10,,52.65740200000000,17050,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01681000000000,WS6 6DZ,2013-07-25,fhrs_3_en-GB,3,,FHRS,5
-345589,Unit G1,Hilton Main Ind Est,Bognop Road,Essington,R C Catering,Other catering premises,7841,10,,388533,10,,52.63545300000000,3444,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08827400000000,WV11 2BE,2014-07-02,fhrs_3_en-GB,3,,FHRS,10
-345590,Brewood Road,,,Coven,Rainbow Inn,Pub/bar/nightclub,7843,5,,388442,5,,52.65893500000000,2336,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13471400000000,WV9 5DH,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-345591,Filance Lane,,,Penkridge,Rana Convenience Store,Retailers - other,4613,10,,388526,5,,52.71969400000000,3404,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11125800000000,ST19 5HJ,2013-04-03,fhrs_4_en-GB,4,,FHRS,5
-345592,Battlefield Hill,,,Wombourne,Red Lion,Pub/bar/nightclub,7843,20,,388465,10,,52.53533100000000,2532,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17844400000000,WV5 0JJ,2014-05-13,fhrs_1_en-GB,1,,FHRS,15
-345593,Six Ashes Road,,,Bobbington,Red Lion,Pub/bar/nightclub,7843,10,,388471,0,,52.51500500000000,2575,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.28023100000000,DY7 5DU,2013-10-09,fhrs_4_en-GB,4,,FHRS,5
-345594,Cannock Road,,,Featherstone,Red White And Blue,Pub/bar/nightclub,7843,10,,388650,0,,52.64460600000000,3995,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08660700000000,WV10 7AD,2014-10-21,fhrs_4_en-GB,4,,FHRS,10
-345595,Smestow Bridge Industrial Estate,Bridgnorth Road,,Wombourne,Rj's Cafe,Restaurant/Cafe/Canteen,1,0,,388366,0,,52.53153200000000,1421,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21419100000000,WV5 8AY,2014-10-20,fhrs_5_en-GB,5,,FHRS,0
-345596,5 Walsall Road,,,Great Wyrley,Robin Hood,Pub/bar/nightclub,7843,20,,388748,10,,52.66497100000000,6046,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02050900000000,WS6 6LL,2011-03-08,fhrs_1_en-GB,1,,FHRS,20
-345597,,,,,Robins Nest Catering,Mobile caterer,7846,5,,388364,0,,,1407,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-03-31,fhrs_5_en-GB,5,,FHRS,0
-345598,Rodbaston Drive,,,Penkridge,Rodbaston Visitors Centre,Restaurant/Cafe/Canteen,1,0,,388603,0,,52.70242800000000,3745,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11723700000000,ST19 5PH,2014-03-22,fhrs_5_en-GB,5,,FHRS,0
-345599,Market Street,,,Penkridge,Russell Butchers,Manufacturers/packers,7839,0,,388641,5,,52.72521100000000,3974,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11429300000000,ST19 5DH,2013-08-06,fhrs_5_en-GB,5,,FHRS,0
-345600,Corsers Court,Waveney Avenue,,Perton,S T Services,Restaurant/Cafe/Canteen,1,0,,683036,0,,52.59354300000000,47677,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20422000000000,WV6 7RA,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-345601,Sainsbury's Supermarkets Limited,Heath Mill Road,,Wombourne,Sainsbury's Customer Cafe,Restaurant/Cafe/Canteen,1,0,,388724,0,,52.52648100000000,5412,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20830000000000,WV5 8AQ,2014-09-15,fhrs_5_en-GB,5,,FHRS,0
-345602,Stone Cross,,,Penkridge,Sainsbury's Local,Retailers - supermarkets/hypermarkets,7840,0,,511464,0,,52.72635000000000,40777,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11617600000000,ST19 5AS,2013-02-28,fhrs_5_en-GB,5,,FHRS,0
-345603,Heath Mill Road,,,Wombourne,Sainsbury's Supermarkets Ltd,Retailers - supermarkets/hypermarkets,7840,5,,388718,0,,52.52648100000000,5202,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20830000000000,WV5 8AQ,2014-06-23,fhrs_5_en-GB,5,,FHRS,0
-345604,Coleridge Drive,,,Perton,Sainsburys Supermarkets Plc,Retailers - supermarkets/hypermarkets,7840,0,,388628,0,,52.59639800000000,3906,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20107400000000,WV6 7QE,2013-07-16,fhrs_5_en-GB,5,,FHRS,0
-345605,Holyhead Road,Oaken,,Codsall,Sandhills Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,388597,0,,52.61484600000000,3702,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22080100000000,WV8 2HT,2014-07-25,fhrs_4_en-GB,4,,FHRS,10
-345606,Yew Tree Court,Maypole Street,,Wombourne,Sandhills Day Nursery,Hospitals/Childcare/Caring Premises,5,10,,619607,10,,52.53534700000000,44213,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18560900000000,WV5 9JB,2014-12-02,fhrs_3_en-GB,3,,FHRS,5
-345607,Sandown Drive,,,Perton,Sandown First School,School/college/university,7845,0,,388460,0,,52.59630500000000,2526,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19758900000000,WV6 7PS,2014-12-15,fhrs_5_en-GB,5,,FHRS,0
-345608,,,,,Say It With Food,Restaurant/Cafe/Canteen,1,0,,388688,0,,,4431,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-10-24,fhrs_5_en-GB,5,,FHRS,0
-345609,C/O Dudley And Kingswinford Rugby Football Club,Swindon Road,,Hinksford,Scrumtious,Restaurant/Cafe/Canteen,1,5,,715626,0,,52.50219300000000,49365,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19068400000000,DY6 0AW,2014-10-24,fhrs_5_en-GB,5,,FHRS,0
-345610,Crockington Lane,,,Seisdon,Seisdon Stores and Off Licence,Retailers - other,4613,10,,388685,0,,52.54984500000000,428,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24190300000000,WV5 7EJ,2007-04-27,fhrs_4_en-GB,4,,FHRS,0
-345611,61 - 63 High Street,,,Cheslyn Hay,Shaan Balti House,Other catering premises,7841,5,,388706,5,,52.66004100000000,5034,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03458200000000,WS6 7AD,2015-01-12,fhrs_4_en-GB,4,,FHRS,10
-345612,64 Church Road,,,Shareshill,Shareshill Post Office And Stores,Retailers - other,4613,10,,388349,5,,52.65581000000000,1125,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08184000000000,WV10 7LD,2009-05-08,fhrs_4_en-GB,4,,FHRS,0
-345613,122 High Street,,,Kinver,Shimla Indian Cuisine,Other catering premises,7841,5,,388653,5,,52.44753000000000,4011,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22809900000000,DY7 6HL,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-345614,Sandy Lane,,,Hatherton,Shoal Hill Tavern,Pub/bar/nightclub,7843,10,,388461,0,,52.69261400000000,2527,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04927000000000,WS11 1RF,2013-01-31,fhrs_4_en-GB,4,,FHRS,10
-345615,The Old Mitre,Bursnips Road,,Essington,Silk Roots,Restaurant/Cafe/Canteen,1,10,,715625,10,,52.63376100000000,49217,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04472600000000,WV11 2RE,2014-10-28,fhrs_3_en-GB,3,,FHRS,10
-345616,7 Penkridge Retail Park,Wolverhampton Road,,Penkridge,Singh Premier,Retailers - other,4613,10,,388514,5,,52.71705400000000,3203,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11736600000000,ST19 5NS,2014-09-25,fhrs_3_en-GB,3,,FHRS,10
-345617,Bridgnorth Road,,,Six Ashes,Six Ashes Inn,Pub/bar/nightclub,7843,20,,388760,5,,52.49466300000000,6455,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.30802700000000,WV15 6EJ,2014-09-17,fhrs_1_en-GB,1,,FHRS,15
-345618,Drayton Lodge,Old Vicarage Lane,,Dunston,Smart Start Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,388581,0,,52.74924700000000,3635,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10629700000000,ST18 9AD,2013-09-02,fhrs_5_en-GB,5,,FHRS,0
-345619,11 Bilbrook Road,,,Codsall,Snackabyte,Other catering premises,7841,5,,388617,0,,52.62856200000000,3859,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17984300000000,WV8 1EU,2013-02-18,fhrs_5_en-GB,5,,FHRS,0
-345620,Landywood Snooker and Pool Club,Holly Lane,,Great Wyrley,Snooker Snack Shop,Restaurant/Cafe/Canteen,1,10,,388613,0,,52.64999400000000,3814,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02171400000000,WS6 6AJ,2013-12-10,fhrs_4_en-GB,4,,FHRS,10
-345621,Four Ashes Road,Somerford,,Brewood,Somerford Hall,Restaurant/Cafe/Canteen,1,5,,388502,5,,52.67572600000000,3039,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.15110800000000,ST19 9DQ,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-345622,7 Stafford Street,,,Brewood,Spar,Retailers - supermarkets/hypermarkets,7840,5,,388574,5,,52.67768300000000,3613,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17330100000000,ST19 9DX,2014-12-23,fhrs_4_en-GB,4,,FHRS,10
-345623,22 High Street,,,Kinver,Spar Stores,Retailers - supermarkets/hypermarkets,7840,5,,388455,5,,52.44715600000000,2503,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22646400000000,DY7 6HG,2013-08-02,fhrs_5_en-GB,5,,FHRS,5
-345624,30 Pendeford Mill Lane,,,Bilbrook,Spar Stores,Retailers - other,4613,10,,553109,5,,52.62721800000000,42205,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17673500000000,WV8 1JG,2013-05-30,fhrs_4_en-GB,4,,FHRS,5
-345625,98 Wardles Lane,,,Great Wyrley,Spar Stores,Retailers - other,4613,5,,388693,5,,52.65807600000000,4557,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01825900000000,WS6 6DY,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-345626,Spar Stores,School Road,,Wheaton Aston,Spar Stores,Retailers - other,4613,0,,493125,0,,52.70986300000000,40298,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21842500000000,ST19 9NH,2014-05-30,fhrs_4_en-GB,4,,FHRS,10
-345627,30/32 Windmill Bank,,,Wombourne,Spar Supermarket,Retailers - other,4613,10,,388569,10,,52.53627100000000,3605,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18660100000000,WV5 9JD,2014-06-03,fhrs_3_en-GB,3,,FHRS,10
-345628,Watling Street,,,Gailey,Spread Eagle,Pub/bar/nightclub,7843,10,,388456,0,,52.69351800000000,2504,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13535300000000,ST19 5PN,2013-12-04,fhrs_4_en-GB,4,,FHRS,5
-345629,Springfield House,Oaken Drive,,Codsall,Springfield House Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,388627,0,,52.62559400000000,3904,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20831300000000,WV8 2EE,2014-01-20,fhrs_5_en-GB,5,,FHRS,5
-345630,Spring Slade Lodge,Camp Road,Broadhurst Green,Cannock,Springslade Lodge Tea Room,Other catering premises,7841,5,,388633,0,,52.73929600000000,3919,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02233700000000,WS12 4PT,2013-02-28,fhrs_5_en-GB,5,,FHRS,0
-345631,Coven Court,Moors Drive,,Coven,SSHA Coven Court Sheltered Housing Scheme,Hospitals/Childcare/Caring Premises,5,10,,388344,0,,52.65912900000000,1079,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13848400000000,WV9 5EL,2007-06-19,fhrs_4_en-GB,4,,FHRS,5
-345632,Wolverhampton Road,,,Codsall,St Christophers Rc Primary School,School/college/university,7845,0,,388432,0,,52.62565200000000,2191,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18965500000000,WV8 1PF,2014-09-16,fhrs_5_en-GB,5,,FHRS,0
-345633,Bargate Street,,,Brewood,St Dominics High School For Girls,School/college/university,7845,0,,388559,0,,52.67840300000000,3582,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17822900000000,ST19 9BA,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-345634,Whiteoaks Drive,,,Bishops Wood,St John's First School,School/college/university,7845,5,,481588,0,,52.68423100000000,39934,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24696500000000,ST19 9AH,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-345635,Hobnock Road,,,Essington,St Johns Primary School,School/college/university,7845,0,,388563,5,,52.63194800000000,3587,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05695800000000,WV11 2RF,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-345636,School Lane,,,Dunston,St Leonards C Of E First School,School/college/university,7845,5,,388484,0,,52.75754400000000,2794,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11663000000000,ST18 9AG,2014-06-13,fhrs_5_en-GB,5,,FHRS,5
-345637,Newport Street,,,Brewood,St Mary And St Chad Ce  First School,School/college/university,7845,0,,388419,0,,52.67590900000000,2081,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17495000000000,ST19 9BT,2013-10-23,fhrs_5_en-GB,5,,FHRS,5
-345638,St Marys First School,Marston Road,,Wheaton Aston,St Marys First School,School/college/university,7845,0,,388398,0,,52.71287800000000,17094,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22126700000000,ST19 9PQ,2013-11-21,fhrs_5_en-GB,5,,FHRS,5
-345639,Marston Road,,,Wheaton Aston,St Mary's First School Nursery,Hospitals/Childcare/Caring Premises,5,10,,638484,0,,52.71287800000000,44933,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22126700000000,ST19 9PQ,2014-02-25,fhrs_4_en-GB,4,,FHRS,0
-345640,Wharf Lane,,,Brewood,St Marys Rc Cp School,School/college/university,7845,0,,388540,0,,52.67973800000000,3480,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18134100000000,ST19 9BG,2013-10-23,fhrs_5_en-GB,5,,FHRS,0
-345641,Market Street,,,Penkridge,St Michael's Cof E First School,School/college/university,7845,5,,482881,0,,52.72479900000000,39954,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11238200000000,ST19 5DJ,2014-12-19,fhrs_5_en-GB,5,,FHRS,0
-345642,Belvide Gardens,,,Codsall,St Nicholas's C Of E (V C) First School,School/college/university,7845,0,,401597,0,,52.63251700000000,36722,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19723500000000,WV8 1AN,2014-05-19,fhrs_5_en-GB,5,,FHRS,5
-345643,School Lane,,,Coven,St Pauls C Of E First School,School/college/university,7845,5,,388560,0,,52.66226900000000,3583,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13571500000000,WV9 5AD,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-345644,Stourbridge Road,,,Penn,St. Anthonys (West Midlands) Cheshire Home,Hospitals/Childcare/Caring Premises,5,5,,388566,5,,52.55063100000000,3601,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.16639900000000,WV4 5NQ,2015-01-07,fhrs_5_en-GB,5,,FHRS,5
-345645,School Road,,,Wombourne,St. Benedict Biscop Primary School,School/college/university,7845,0,,388375,0,,52.53781500000000,1625,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18236100000000,WV5 9DZ,2014-07-11,fhrs_5_en-GB,5,,FHRS,5
-345646,Lindale Drive,,,Wombourne,St. Bernadettes Primary School,School/college/university,7845,0,,388544,0,,52.53310400000000,3521,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19936900000000,WV5 8DZ,2014-06-03,fhrs_5_en-GB,5,,FHRS,0
-345647,Westbeech Road,,,Pattingham,St. Chads C E Primary School,School/college/university,7845,5,,388663,5,,52.59227500000000,4086,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26371800000000,WV6 7AQ,2013-05-15,fhrs_5_en-GB,5,,FHRS,5
-345648,Wombourne Road,,,Swindon,St. Johns Primary School,School/college/university,7845,0,,388381,0,,52.51580100000000,1698,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20293000000000,DY3 4NB,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-345649,Hut Hill Lane,,,Great Wryley,St. Thomas More Rc Primary School,School/college/university,7845,0,,388476,0,,52.66765900000000,2598,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01467000000000,WS6 6PG,2014-03-07,fhrs_5_en-GB,5,,FHRS,0
-345650,Marston Road,,,Wheaton Aston,St.Marys First School,School/college/university,7845,5,,388665,5,,52.71287800000000,4092,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22126700000000,ST19 9PQ,2010-10-15,fhrs_4_en-GB,4,,FHRS,10
-345651,Standeford Farm,Stafford Road,Standeford,Coven,Standeford Farm Cafe,Restaurant/Cafe/Canteen,1,10,,388467,5,,52.66943800000000,2544,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13229200000000,WV10 7BN,2014-03-12,fhrs_4_en-GB,4,,FHRS,0
-345652,,,,,Steven Jones  Sweet Seller ,Mobile caterer,7846,20,,409264,15,,,36926,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2012-06-20,fhrs_1_en-GB,1,,FHRS,5
-345653,Granite One Hundred,,,Acton Gate,Stone Group Limited,Other catering premises,7841,5,,388714,0,,52.76972400000000,5137,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10734000000000,ST18 9AA,2013-05-17,fhrs_5_en-GB,5,,FHRS,0
-345654,Bridgnorth Road,,,Stourton,Stourbridge Rugby Football Club,Pub/bar/nightclub,7843,10,,462601,5,,52.45935800000000,39378,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18330200000000,DY7 6QZ,2014-06-26,fhrs_4_en-GB,4,,FHRS,5
-345655,Featherstone Community Centre,Baneberry Drive,,Featherstone,Strawberry Poppetts Nursery School,Hospitals/Childcare/Caring Premises,5,5,,388492,5,,52.64656100000000,2953,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.09335100000000,WV10 7TR,2014-07-09,fhrs_5_en-GB,5,,FHRS,0
-345656,Cannock Road,,,Featherstone,Subway,Restaurant/Cafe/Canteen,1,5,,715622,5,,52.64460600000000,48633,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08660700000000,WV10 7AD,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-345657,,,,,Sugarella's,Other catering premises,7841,5,,493124,5,,,40290,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2012-12-21,fhrs_5_en-GB,5,,FHRS,5
-345658,36 High Street,,,Cheslyn Hay,Sweet Memories,Retailers - other,4613,0,,465202,5,,52.66004100000000,39474,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03458200000000,WS6 7AD,2012-10-26,fhrs_5_en-GB,5,,FHRS,0
-345659,15 High Street,,,Swindon,Swindon Bakery,Retailers - other,4613,10,,388754,5,,52.51333800000000,6372,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20287500000000,DY3 4NP,2014-11-12,fhrs_4_en-GB,4,,FHRS,5
-345660,Hinksford Lane,,,Swindon,Swindon Cricket Club,Pub/bar/nightclub,7843,10,,531177,5,,52.51196300000000,41281,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20258800000000,DY3 4NU,2013-03-27,fhrs_4_en-GB,4,,FHRS,5
-345661,Bridgnorth Road,,,Swindon,Swindon Golf Club,Pub/bar/nightclub,7843,5,,388592,5,,52.52751700000000,3666,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23141800000000,DY3 4PU,2015-02-05,fhrs_5_en-GB,5,,FHRS,5
-345662,Stafford Road,,,Huntington,Takeaway Hut,Takeaway/sandwich shop,7844,10,,388764,10,,52.70633600000000,6549,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03951700000000,WS12 4NQ,2014-12-04,fhrs_2_en-GB,2,,FHRS,15
-345663,Valiant Way,,,Wolverhampton,Talkington Bates At Moog Aircraft Group,Restaurant/Cafe/Canteen,1,0,,638489,0,,52.63240000000000,45221,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.14054200000000,WV9 5GB,2014-03-03,fhrs_5_en-GB,5,,FHRS,0
-345664,Lowcroft,Church Road,,Wombourne,Taylors,Retailers - other,4613,0,,388640,0,,52.53603200000000,3962,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18437400000000,WV5 9EZ,2012-12-18,fhrs_5_en-GB,5,,FHRS,0
-345665,c/o Wolverhampton Business Airport,Bobbington,,South Staffordshire,Tea At The Green,Other catering premises,7841,5,,388445,5,,52.51432500000000,2414,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26311800000000,DY7 5DY,2014-02-20,fhrs_5_en-GB,5,,FHRS,0
-345666,10 Maypole Street,,,Wombourne,Tea On The Green,Other catering premises,7841,10,,388702,5,,52.53527500000000,4861,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18557900000000,WV5 9JB,2014-03-10,fhrs_4_en-GB,4,,FHRS,5
-345667,Long Lane,Newtown,,Great Wyrley,Teddy Bears Nursery Ltd,Hospitals/Childcare/Caring Premises,5,0,,388770,0,,52.64743000000000,6687,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03049200000000,WS6 7AT,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-345668,Tesco Stores,13 - 15 Bilbrook Road,,Bilbrook,Tesco Express,Retailers - supermarkets/hypermarkets,7840,5,,481587,5,,52.62856200000000,39890,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17984300000000,WV8 1EU,2012-11-26,fhrs_5_en-GB,5,,FHRS,5
-345669,4 The Parade Shops,Brewood Road,,Coven,The Allotment,Retailers - other,4613,10,,388753,10,,52.65831400000000,6345,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13530300000000,WV9 5BX,2014-01-07,fhrs_3_en-GB,3,,FHRS,5
-345670,Huntington Farm,Cocksparrow Lane,,Huntington,The Barns,Hotel/bed & breakfast/guest house,7842,5,,388673,0,,52.71329100000000,4137,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04843500000000,WS12 4PB,2013-09-27,fhrs_5_en-GB,5,,FHRS,0
-345671,Watling Street,,,Brewood,The Bell Inn,Pub/bar/nightclub,7843,10,,388426,0,,52.69421200000000,2138,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17500900000000,ST19 9LN,2014-03-04,fhrs_4_en-GB,4,,FHRS,10
-345672,Bell Road,,,Trysull,The Bell Public House,Pub/bar/nightclub,7843,10,,388473,10,,52.54652000000000,2582,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21778900000000,WV5 7JB,2013-09-25,fhrs_3_en-GB,3,,FHRS,10
-345673,38 Suckling Green Lane,,,Codsall,The Bentlands,Pub/bar/nightclub,7843,5,,388593,0,,52.62167200000000,3686,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19381900000000,WV8 2BP,2013-08-19,fhrs_5_en-GB,5,,FHRS,5
-345674,Cannock Road,,,Penkridge,The Boat,Pub/bar/nightclub,7843,5,,388657,0,,52.72445900000000,4030,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11072300000000,ST19 5DT,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-345675,22 High Green,,,Brewood,The Bridge Inn,Pub/bar/nightclub,7843,5,,679801,10,,52.67719900000000,47237,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17785400000000,ST19 9BD,2014-06-25,fhrs_4_en-GB,4,,FHRS,5
-345676,Wolverhampton Road,,,Codsall,The Bull Hotel,Pub/bar/nightclub,7843,5,,388451,5,,52.63036200000000,2453,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20091900000000,WV8 1PU,2013-12-04,fhrs_4_en-GB,4,,FHRS,10
-345677,27 High Street,,,Kinver,The Butchery,Manufacturers/packers,7839,0,,388624,0,,52.44804200000000,3885,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22839600000000,DY7 6HF,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-345678,,,,,The Cake Barn,Other catering premises,7841,5,,609324,0,,,43894,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-11-06,fhrs_5_en-GB,5,,FHRS,0
-345679,,,,,The Cake Box,Mobile caterer,7846,0,,388738,5,,,5836,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-02-12,fhrs_5_en-GB,5,,FHRS,0
-345680,Bridgnorth Road,,,Enville,The Cat Inn,Pub/bar/nightclub,7843,10,,388389,0,,52.47828800000000,17058,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.25733700000000,DY7 5HA,2013-08-07,fhrs_4_en-GB,4,,FHRS,10
-345681,Birches Bridge Shopping Centre,Wolverhampton Road,,Codsall,The Co Operative Food,Retailers - supermarkets/hypermarkets,7840,5,,448336,5,,52.62447600000000,38462,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18851300000000,WV8 1PE,2012-09-14,fhrs_5_en-GB,5,,FHRS,0
-345682,1 - 3 Church Road,,,Codsall,The Codsall Hive,Other catering premises,7841,10,,638487,0,,52.63173000000000,45005,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19995000000000,WV8 1EA,2014-02-10,fhrs_4_en-GB,4,,FHRS,5
-345683,Watling Street,,,Gailey,The Corner Shop,Retailers - other,4613,10,,388621,0,,52.69203100000000,3876,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12179600000000,ST19 5PR,2014-07-31,fhrs_4_en-GB,4,,FHRS,5
-345684,,,,,The Cottage Guest House,Hotel/bed & breakfast/guest house,7842,5,,388423,5,,,2124,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2007-12-14,fhrs_5_en-GB,5,,FHRS,5
-345685,Barn 2b  South Courtyard,Dunston Business Village,Stafford Road,Penkridge,The Courtyard Bistro,Restaurant/Cafe/Canteen,1,0,,574497,0,,52.75615900000000,42897,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.10801800000000,ST18 9AB,2015-01-15,fhrs_5_en-GB,5,,FHRS,5
-345686,Clive Farm Buildings,Clive Road,,Pattingham,The Cowshed Restaurant,Restaurant/Cafe/Canteen,1,5,,388511,5,,52.57054000000000,3151,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.25439600000000,WV6 7EN,2014-03-13,fhrs_5_en-GB,5,,FHRS,5
-345687,Coppice Mill,,,Himley,The Crooked House (Himley) Ltd,Pub/bar/nightclub,7843,5,,388648,5,,52.51513100000000,3990,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.15244200000000,DY3 4DA,2013-04-24,fhrs_4_en-GB,4,,FHRS,10
-345688,Norton Road,,,Iverley,The Crown,Pub/bar/nightclub,7843,10,,658643,5,,52.43231800000000,45725,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17040800000000,DY8 2RX,2014-04-25,fhrs_4_en-GB,4,,FHRS,5
-345689,1 Wood Road,,,Codsall,The Crown Inn,Pub/bar/nightclub,7843,0,,388768,0,,52.63048700000000,6682,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20154000000000,WV8 1DB,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-345690,Crown Inn,Norton Road,,Iverley,The Crown Inn,Restaurant/Cafe/Canteen,1,10,,448335,5,,52.43231800000000,38450,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17040800000000,DY8 2RX,2012-09-13,fhrs_2_en-GB,2,,FHRS,15
-345691,The Crown Inn,15 High Street,,Pattingham,The Crown Inn,Pub/bar/nightclub,7843,10,,447089,5,,52.58866500000000,38362,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26588100000000,WV6 7BQ,2012-09-12,fhrs_3_en-GB,3,,FHRS,10
-345692,Wood Road,,,Codsall Wood,The Crown Inn,Pub/bar/nightclub,7843,10,,428822,0,,52.64107100000000,37542,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22467300000000,WV8 1QR,2014-07-24,fhrs_4_en-GB,4,,FHRS,5
-345693,13 Church Road,,,Brewood,The Curry Inn,Other catering premises,7841,5,,388584,10,,52.67590900000000,3651,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17495000000000,ST19 9BT,2014-08-28,fhrs_4_en-GB,4,,FHRS,5
-345694,Snowdon Road,,,Burnhill Green,The Dartmouth Arms,Restaurant/Cafe/Canteen,1,5,,388412,5,,52.60318200000000,17906,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.31432600000000,WV6 7HU,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-345695,37 Church Road,,,Shareshill,The Elms,Pub/bar/nightclub,7843,10,,388354,0,,52.65349200000000,1169,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08040200000000,WV10 7JR,2012-11-19,fhrs_4_en-GB,4,,FHRS,10
-345696,80 Wolverhampton Road,,,Codsall,The Farmhouse,Retailers - other,4613,10,,388683,0,,52.62447600000000,4212,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18851300000000,WV8 1PE,2012-11-20,fhrs_4_en-GB,4,,FHRS,10
-345697,Wodehouse Lane,,,Gospel End,The Firs Residential Care Home,Hospitals/Childcare/Caring Premises,5,10,,388441,0,,52.54036500000000,2292,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.15267700000000,DY3 4AE,2014-07-01,fhrs_4_en-GB,4,,FHRS,0
-345698,Watling Street,Hatherton,,South Staffordshire,The Four Crosses,Pub/bar/nightclub,7843,20,,388576,0,,52.68310200000000,3626,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06915500000000,WS11 1RX,2014-06-02,fhrs_1_en-GB,1,,FHRS,10
-345699,Brewood Road,,,Cross Green,The Fox And Anchor,Pub/bar/nightclub,7843,5,,388454,5,,52.65346700000000,2456,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12915400000000,WV10 7PW,2014-03-19,fhrs_5_en-GB,5,,FHRS,5
-345700,The Granary,Weston Park,,Weston Under Lizard,The Granary Deli,Retailers - other,4613,5,,388691,0,,52.69296100000000,4549,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.28647400000000,TF11 8LE,2013-06-18,fhrs_5_en-GB,5,,FHRS,0
-345701,Enville Golf Club,Highgate Common,,Enville,The Greens Restaurant,Other catering premises,7841,5,,388643,5,,52.49846000000000,3978,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24110500000000,DY7 5BN,2011-10-05,fhrs_5_en-GB,5,,FHRS,5
-345702,Greyhound Lane,,,Lower Penn,The Greyhound,Pub/bar/nightclub,7843,5,,388414,5,,52.56336000000000,18334,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20168900000000,WV4 4UW,2014-11-26,fhrs_4_en-GB,4,,FHRS,10
-345703,41A Wolverhampton Road,,,Essington,The Happy House,Takeaway/sandwich shop,7844,10,,388637,10,,52.62669700000000,3936,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06049700000000,WV11 2BX,2013-03-11,fhrs_2_en-GB,2,,FHRS,15
-345704,Stafford Road,,,Coven,The Harrows Inn,Pub/bar/nightclub,7843,10,,458105,5,,52.66734200000000,39198,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13317200000000,WV9 5AW,2013-10-09,fhrs_3_en-GB,3,,FHRS,10
-345705,Hollybush Garden Centre And Aquarium,Warstone Road,,Shareshill,The Hollybush Coffee Shop And  Restaurant,Restaurant/Cafe/Canteen,1,5,,388532,5,,52.65431600000000,3439,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05441500000000,WV10 7LX,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-345706,Wolverhampton Road,Prestwood,,Kinver,The Homestead Residential Home,Hospitals/Childcare/Caring Premises,5,10,,388370,5,,52.47518900000000,1462,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19514600000000,DY7 5AN,2014-07-17,fhrs_3_en-GB,3,,FHRS,10
-345707,Mill Cottage,Mill Lane,,Weston-under-lizard,The Humble Spud,Mobile caterer,7846,10,,388541,0,,52.68540200000000,3493,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.30049300000000,TF11 8PX,2014-06-27,fhrs_4_en-GB,4,,FHRS,5
-345708,,,,,The Indian Rasoi,Mobile caterer,7846,20,,732374,15,,,50417,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2015-01-19,fhrs_1_en-GB,1,,FHRS,15
-345709,Stafford Road,Newtown,,Great Wyrley,The Ivy House,Pub/bar/nightclub,7843,10,,388388,5,,52.63612400000000,17054,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01121600000000,WS6 6BA,2013-09-16,fhrs_4_en-GB,4,,FHRS,5
-345710,Unit 2,Fairfield Drive,,Kinver,The Kinver Brewery,Manufacturers/packers,7839,10,,388503,15,,52.44923900000000,3056,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23268400000000,DY7 6EW,2011-09-29,fhrs_2_en-GB,2,,FHRS,15
-345711,4A Bilbrook Road,,,Bilbrook,The Kitchen,Restaurant/Cafe/Canteen,1,5,,649156,10,,52.62722300000000,45609,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17972000000000,WV8 1EZ,2014-04-14,fhrs_4_en-GB,4,,FHRS,5
-345712,1 Market Place,,,Brewood,The Lion Hotel,Hotel/bed & breakfast/guest house,7842,5,,409269,5,,52.67648600000000,37082,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17379900000000,ST19 9BS,2014-12-10,fhrs_4_en-GB,4,,FHRS,10
-345713,,,,,The Liquorice Stall,Retailers - other,4613,5,,609897,0,,,44014,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-11-13,fhrs_5_en-GB,5,,FHRS,0
-345714,Pillaton Hall Farm,Cannock Road,,Pillaton,The Little Fryer,Takeaway/sandwich shop,7844,0,,388774,0,,52.71702800000000,7694,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08494500000000,ST19 5RZ,2014-04-04,fhrs_5_en-GB,5,,FHRS,0
-345715,Stafford Road,,,Huntington,The Littleton Arms,Pub/bar/nightclub,7843,10,,388669,5,,52.71795900000000,4129,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.04016500000000,WS12 4PD,2014-03-14,fhrs_3_en-GB,3,,FHRS,10
-345716,The Littleton Fryer,,Stafford Road,Huntington,The Littleton Fryer,Takeaway/sandwich shop,7844,10,,406708,0,,52.70886200000000,36910,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03990500000000,WS12 4NU,2014-12-09,fhrs_2_en-GB,2,,FHRS,15
-345717,Moons Lane,,,Cheslyn Hay,The Mary Rose,Pub/bar/nightclub,7843,5,,520654,0,,52.65611200000000,41085,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03488900000000,WS6 7AY,2014-09-09,fhrs_5_en-GB,5,,FHRS,5
-345718,16 Stafford Road,,,Newtown,The Masons,Pub/bar/nightclub,7843,20,,548054,5,,52.63629500000000,41925,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01032900000000,WS6 6AZ,2014-11-11,fhrs_1_en-GB,1,,FHRS,15
-345719,3 Market Place,,,Brewood,The Mess Restaurant,Other catering premises,7841,0,,388433,0,,52.67648600000000,2192,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17379900000000,ST19 9BS,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-345720,29 Brewood Road,,,Coven,The Midcounties Co Operative,Retailers - supermarkets/hypermarkets,7840,0,,466464,0,,52.65831400000000,39510,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.13530300000000,WV9 5BX,2014-09-10,fhrs_5_en-GB,5,,FHRS,5
-345721,The Minerva Inn,Wolverhampton Road,,Essington,The Minerva Inn,Pub/bar/nightclub,7843,10,,508681,0,,52.62669700000000,40557,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06049700000000,WV11 2BX,2013-01-29,fhrs_4_en-GB,4,,FHRS,5
-345722,Lower Penkridge Road,,,Acton Trussell,The Moat House,Hotel/bed & breakfast/guest house,7842,0,,388577,0,,52.75932400000000,3627,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.09633400000000,ST17 0RJ,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-345723,Watling Street,,,Hatherton,The New Hollies Cafe,Other catering premises,7841,5,,388750,5,,52.68568600000000,6108,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.07734000000000,WS11 1SB,2014-04-28,fhrs_5_en-GB,5,,FHRS,5
-345724,1 Station Road,,,Wombourne,The New Inn,Pub/bar/nightclub,7843,0,,388356,0,,52.53746500000000,1177,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18790300000000,WV5 9EY,2013-10-03,fhrs_5_en-GB,5,,FHRS,5
-345725,Kiddemore Green Road,,,Brewood,The New Inns,Pub/bar/nightclub,7843,5,,388606,0,,52.67710900000000,3761,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21107300000000,ST19 9BH,2013-08-28,fhrs_5_en-GB,5,,FHRS,0
-345726,Low Street,,,Cheslyn Hay,The New Talbot,Restaurant/Cafe/Canteen,1,5,,388755,5,,52.66137200000000,6400,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03323700000000,WS6 7DS,2014-09-23,fhrs_5_en-GB,5,,FHRS,0
-345727,Bridgnorth Road,,,Shipley,The New Vine Cafe,Restaurant/Cafe/Canteen,1,10,,388668,10,,52.56512300000000,4127,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24384600000000,WV6 7EZ,2012-07-25,fhrs_3_en-GB,3,,FHRS,10
-345728,Holyhead Road,,,Codsall,The Oaken Arms,Pub/bar/nightclub,7843,0,,388452,5,,52.62079400000000,2454,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22758200000000,WV8 2HX,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-345729,High Street,,,Wombourne,The Old Bush,Pub/bar/nightclub,7843,5,,388721,5,,52.53662100000000,5372,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18122100000000,WV5 9DT,2013-09-04,fhrs_4_en-GB,4,,FHRS,10
-345730,Essington Community Centre,Hobnock Road,,Essington,The Old School Hall Tea Room,Restaurant/Cafe/Canteen,1,5,,609320,0,,52.63194800000000,43789,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05695800000000,WV11 2RF,2013-10-22,fhrs_5_en-GB,5,,FHRS,0
-345731,School Road,,,Trysull,The Plough,Pub/bar/nightclub,7843,0,,388625,0,,52.54390800000000,3890,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22054800000000,WV5 7HR,2014-02-27,fhrs_5_en-GB,5,,FHRS,0
-345732,Bratch Lane,,,Wombourne,The Railway Cafe,Other catering premises,7841,5,,388698,5,,52.54178900000000,4644,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19895100000000,WV5 8DH,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-345733,The Square,Wolverhampton Road,,Codsall,The Rajput,Takeaway/sandwich shop,7844,5,,388630,5,,52.63046300000000,3909,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19963400000000,WV8 1PT,2013-09-11,fhrs_4_en-GB,4,,FHRS,10
-345734,Great Chatwell,,,South Staffordshire,The Red Lion,Pub/bar/nightclub,7843,5,,458104,0,,52.72789200000000,39033,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.30570200000000,TF10 9BJ,2013-10-04,fhrs_4_en-GB,4,,FHRS,10
-345735,Enville Golf Club,Highgate Common,,Enville,The Restaurant,Restaurant/Cafe/Canteen,1,10,,623115,5,,52.49846000000000,44361,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.24110500000000,DY7 5BN,2014-01-02,fhrs_4_en-GB,4,,FHRS,0
-345736,Watling Street,,,Hatherton,The Roman Way Hotel,Hotel/bed & breakfast/guest house,7842,5,,388457,0,,52.68018900000000,2516,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05391500000000,WS11 1SH,2014-11-12,fhrs_4_en-GB,4,,FHRS,10
-345737,Watling Street,,,Penkridge,The Round House,Retailers - other,4613,10,,388422,10,,52.69203100000000,212,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12179600000000,ST19 5PR,2012-03-17,fhrs_3_en-GB,3,,FHRS,5
-345738,8 Norton Lane,,,Great Wyrley,The Royal Oak,Pub/bar/nightclub,7843,5,,388362,0,,52.66641900000000,1401,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01233300000000,WS6 6PE,2014-02-20,fhrs_5_en-GB,5,,FHRS,0
-345739,Six Ashes Road,,,Halfpenny Green,The Royal Oak,Pub/bar/nightclub,7843,5,,674270,0,,52.52444500000000,47181,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.26037800000000,DY7 5EJ,2014-06-20,fhrs_5_en-GB,5,,FHRS,0
-345740,Cannock Road,Brocton,,South Staffordshire,The Seven Stars,Pub/bar/nightclub,7843,5,,388671,0,,52.77221000000000,4131,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06424200000000,ST17 0SU,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-345741,126 Wood Road,,,Codsall,The Shrubbery Rest Home,Hospitals/Childcare/Caring Premises,5,0,,388509,0,,52.63327500000000,3148,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21095000000000,WV8 1DW,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-345742,Market Place,,,Penkridge,The Star Inn,Pub/bar/nightclub,7843,5,,388481,5,,52.72479900000000,2753,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11238200000000,ST19 5DJ,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-345743,92 Gospel End Road,,,Gospel End,The Summerhouse,Pub/bar/nightclub,7843,5,,388775,5,,52.54073300000000,836,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.14619100000000,DY3 4AN,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-345744,Whiston Road,,,Whiston,The Swan,Restaurant/Cafe/Canteen,1,5,,388499,5,,52.72576000000000,3024,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.15970700000000,ST19 5QH,2014-03-04,fhrs_4_en-GB,4,,FHRS,10
-345745,15 Market Place,,,Brewood,The Swan Hotel,Pub/bar/nightclub,7843,5,,388719,0,,52.67648600000000,5269,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17379900000000,ST19 9BS,2014-02-17,fhrs_4_en-GB,4,,FHRS,10
-345746,162 Walsall Road,,,Great Wyrley,The Swan Inn,Pub/bar/nightclub,7843,10,,388395,5,,52.66421700000000,17082,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01206600000000,WS6 6NQ,2012-02-06,fhrs_4_en-GB,4,,FHRS,5
-345747,1 Engleton Lane,,,Brewood,The Three Stirrups,Pub/bar/nightclub,7843,10,,560379,5,,52.67882700000000,42477,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17163400000000,ST19 9DZ,2013-06-24,fhrs_4_en-GB,4,,FHRS,5
-345748,14A Station Street,,,Cheslyn Hay,The Village Bakehouse,Retailers - other,4613,5,,388506,0,,52.66236100000000,3083,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03059200000000,WS6 7ED,2014-09-15,fhrs_4_en-GB,4,,FHRS,10
-345749,16 Stafford Street,,,Brewood,The Village Bakery,Other catering premises,7841,5,,388638,0,,52.67768300000000,3958,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17330100000000,ST19 9DX,2013-10-08,fhrs_5_en-GB,5,,FHRS,0
-345750,3 Rosemary Road,,,Cheslyn Hay,The Village Grill And Pizza House,Takeaway/sandwich shop,7844,10,,388746,10,,52.66300800000000,6017,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03263200000000,WS6 7DY,2014-12-09,fhrs_4_en-GB,4,,FHRS,0
-345751,37 - 39 Station Street,,,Cheslyn Hay,The Village Lodge,Restaurant/Cafe/Canteen,1,5,,388707,0,,52.66236100000000,5037,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03059200000000,WS6 7ED,2014-09-30,fhrs_5_en-GB,5,,FHRS,5
-345752,119 High Street,,,Kinver,The Village Restaurant,Restaurant/Cafe/Canteen,1,10,,428827,5,,52.44753000000000,37582,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22809900000000,DY7 6HL,2015-01-14,fhrs_4_en-GB,4,,FHRS,0
-345753,383 - 385 Walsall Road,,,Great Wyrley,The Village Stores,Retailers - other,4613,10,,388396,15,,52.65701600000000,17086,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01145800000000,WS6 6DP,2013-07-05,fhrs_2_en-GB,2,,FHRS,10
-345754,High Street,,,Wombourne,The Vine,Pub/bar/nightclub,7843,0,,388636,0,,52.53662100000000,3933,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18122100000000,WV5 9DT,2013-09-04,fhrs_5_en-GB,5,,FHRS,5
-345755,1 Dunsley Road,,,Kinver,The Vine Inn,Pub/bar/nightclub,7843,10,,388709,0,,52.45001100000000,5050,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22362400000000,DY7 6LJ,2014-11-07,fhrs_4_en-GB,4,,FHRS,5
-345756,472 Walsall Road,,,Great Wyrley,The Wheatsheaf,Pub/bar/nightclub,7843,5,,388401,0,,52.65418400000000,17110,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01054100000000,WS6 6HX,2013-11-04,fhrs_5_en-GB,5,,FHRS,5
-345757,Wolverhampton Road,,,Laney Green,The Wheatsheaf,Pub/bar/nightclub,7843,10,,388711,10,,52.66044400000000,5071,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06051400000000,WV10 7LU,2014-01-08,fhrs_3_en-GB,3,,FHRS,10
-345758,Stone Cross,,,Penkridge,The White Hart,Pub/bar/nightclub,7843,10,,388529,5,,52.72635000000000,3423,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11617600000000,ST19 5AS,2013-09-17,fhrs_4_en-GB,4,,FHRS,5
-345759,111 High Street,,,Kinver,The White Harte Inn,Pub/bar/nightclub,7843,5,,388767,5,,52.44753000000000,6667,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22809900000000,DY7 6HL,2014-10-23,fhrs_5_en-GB,5,,FHRS,5
-345760,141 Broad Lane,Springhill,,South Staffordshire,The Why Not Inn,Pub/bar/nightclub,7843,5,,388742,10,,52.63559800000000,5925,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03465100000000,WV11 2RH,2015-01-06,fhrs_4_en-GB,4,,FHRS,5
-345761,14 Wolverhampton Road,,,Codsall,The Willows Residential Care Home,Hospitals/Childcare/Caring Premises,5,0,,388525,0,,52.62827500000000,3383,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19615300000000,WV8 1PP,2014-11-21,fhrs_5_en-GB,5,,FHRS,0
-345762,130 Common Road,,,Wombourne,The Wine Lodge,Retailers - other,4613,10,,468698,0,,52.52661200000000,39646,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19471100000000,WV5 0NB,2012-11-13,fhrs_4_en-GB,4,,FHRS,5
-345763,The Winery,Halfpenny Green Vineyards,,Bobbington,The Winery,Farmers/growers,7838,10,,504314,10,,52.53108100000000,40457,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.25144000000000,DY7 5EP,2013-01-30,fhrs_3_en-GB,3,,FHRS,10
-345764,2 Duck Lane,,,Bilbrook,The Woodman,Pub/bar/nightclub,7843,0,,388424,5,,52.62628500000000,2136,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18159200000000,WV8 1HZ,2013-10-07,fhrs_5_en-GB,5,,FHRS,0
-345765,,,,,Thomas Ices (Reg. No. V17 R S O),Mobile caterer,7846,0,,682689,0,,,47665,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-07-17,fhrs_5_en-GB,5,,FHRS,0
-345766,Old Stafford Road,Cross Green,,Coven,Three Hammers Bar & Bistro,Pub/bar/nightclub,7843,5,,388530,10,,52.65068300000000,3424,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12670700000000,WV10 7PP,2014-12-04,fhrs_4_en-GB,4,,FHRS,5
-345767,2 - 3 High Street,,,Wombourne,Tiffu's Ltd,Restaurant/Cafe/Canteen,1,10,,428826,5,,52.53461200000000,37578,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18395500000000,WV5 9DN,2013-07-16,fhrs_3_en-GB,3,,FHRS,10
-345768,,,,,Tinker Bell Ices,Mobile caterer,7846,5,,451298,5,,,38522,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2012-09-18,fhrs_5_en-GB,5,,FHRS,0
-345769,588 - 590 Walsall Road,,,Great Wyrley,Tiwana News & Off Licence,Retailers - other,4613,10,,479403,5,,52.64899700000000,39874,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01243100000000,WS6 6AG,2012-11-29,fhrs_4_en-GB,4,,FHRS,0
-345770,8 Birches Bridge,Wolverhampton Road,,Codsall,Top Range Wines,Retailers - other,4613,10,,511461,0,,52.62447600000000,40709,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18851300000000,WV8 1PE,2013-02-15,fhrs_4_en-GB,4,,FHRS,5
-345771,Watling Street,,,Hatherton,Truckers Rest,Other catering premises,7841,5,,388458,0,,52.68164000000000,2520,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06437500000000,WS11 1SF,2014-03-25,fhrs_5_en-GB,5,,FHRS,0
-345772,Watling Street,,,Hatherton,Tumbledown Farm,Other catering premises,7841,10,,388463,5,,52.68250900000000,2529,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06955300000000,WS11 1RU,2014-04-15,fhrs_3_en-GB,3,,FHRS,10
-345773,Wolverhampton Road,,,Penkridge,Turtles Childrens Nursery,Hospitals/Childcare/Caring Premises,5,0,,388579,5,,52.72284500000000,3632,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11584100000000,ST19 5DR,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-345774,Six Ashes Tea Room,Bridgnorth Road,,Bobbington,Tuscano At Six Ashes,Other catering premises,7841,0,,388469,0,,52.49612100000000,2554,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.31438600000000,WV15 6EQ,2014-04-29,fhrs_5_en-GB,5,,FHRS,0
-345775,Vernon Lodge Preparatory School And Kindergarten,School Lane,,Stretton,Vernon Lodge Preparatory School,School/college/university,7845,5,,699227,0,,52.69927600000000,48161,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17313500000000,ST19 9LJ,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-345776,20 Cannock Road,,,Featherstone,Victoria Harbour,Restaurant/Cafe/Canteen,1,20,,388517,15,,52.64460600000000,3229,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.08660700000000,WV10 7AD,2014-09-18,fhrs_1_en-GB,1,,FHRS,15
-345777,,,,,Victoria's Ltd,Other catering premises,7841,5,,406707,5,,,36906,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-06-11,fhrs_5_en-GB,5,,FHRS,0
-345778,29 Anders Square,,,Perton,Village Bistro,Other catering premises,7841,10,,511463,5,,52.59481300000000,40757,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20280800000000,WV6 7QH,2013-10-09,fhrs_4_en-GB,4,,FHRS,5
-345779,14 Station Road,,,Codsall,"Village Coffee, Bakery And Kitchen",Other catering premises,7841,5,,388769,5,,52.62993800000000,6683,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20164100000000,WV8 1BX,2014-11-10,fhrs_4_en-GB,4,,FHRS,10
-345780,134 Wardles Lane,,,Great Wyrley,Village Fish Bar,Takeaway/sandwich shop,7844,10,,388428,5,,52.65740200000000,2169,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01681000000000,WS6 6DZ,2013-08-19,fhrs_3_en-GB,3,,FHRS,10
-345781,26 High Street,,,Kinver,Village Greens,Retailers - other,4613,5,,388722,0,,52.44804200000000,5382,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22839600000000,DY7 6HF,2013-11-14,fhrs_5_en-GB,5,,FHRS,0
-345782,Clay Street,,,Penkridge,Village Pizza,Takeaway/sandwich shop,7844,10,,409268,5,,52.72458000000000,37078,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11568300000000,ST19 5AF,2014-03-11,fhrs_4_en-GB,4,,FHRS,5
-345783,Hilton Park Motorway Service Area,,,Essington,W H Smith (Northbound ),Retailers - other,4613,5,,388462,5,,52.64317600000000,2528,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.05738700000000,WV11 2AT,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-345784,30 Stafford Street,,,Brewood,W. Maiden & Son,Retailers - other,4613,10,,388589,0,,52.67768300000000,3660,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.17330100000000,ST19 9DX,2014-10-27,fhrs_4_en-GB,4,,FHRS,5
-345785,Bridgnorth Road,,,Wombourne,Waggon And Horses Public House,Pub/bar/nightclub,7843,0,,388609,0,,52.52586200000000,3787,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20209200000000,WV5 0AQ,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-345786,Broad Lane Pavillion,Broad Lane,,Essington,Walsall Football Club,Pub/bar/nightclub,7843,5,,388390,0,,52.63780800000000,17062,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.03966200000000,WV11 2RG,2014-02-20,fhrs_5_en-GB,5,,FHRS,0
-345787,116 Wardles Lane,,,Great Wyrley,Wardles Bakery,Takeaway/sandwich shop,7844,0,,434852,0,,52.65807600000000,37894,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01825900000000,WS6 6DY,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-345788,Wardles Lane Fish Bar,Quinton Court,Wardles Lane,Great Wyrley,Wardles Lane Fish Bar,Takeaway/sandwich shop,7844,10,,482883,10,,52.66073700000000,40014,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01737300000000,WS6 6DA,2014-06-09,fhrs_3_en-GB,3,,FHRS,10
-345789,Cannock Road,,,Shareshill,Watt Meadow Farm,Mobile caterer,7846,10,,388712,0,,52.65327800000000,5079,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.07740000000000,WV10 7LZ,2014-03-06,fhrs_4_en-GB,4,,FHRS,5
-345790,Keepers Lane,,,Tettenhall,Wergs Golf Club,Pub/bar/nightclub,7843,10,,388726,5,,52.60799800000000,5476,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18823500000000,WV6 8UA,2014-03-17,fhrs_4_en-GB,4,,FHRS,0
-345791,Ounsdale Road,,,Wombourne,Westfield Primary School,School/college/university,7845,0,,428821,0,,52.53659900000000,37490,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19505000000000,WV5 8BH,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-345792,Weston Hall,Weston Park,,Weston-Under-Lizard,Weston Park Enterprises Ltd,Restaurant/Cafe/Canteen,1,5,,388508,5,,52.69296100000000,3135,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.28647400000000,TF11 8LE,2014-09-05,fhrs_5_en-GB,5,,FHRS,5
-345793,,,,,White Cottage B & B,Hotel/bed & breakfast/guest house,7842,5,,698645,0,,,48133,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2014-08-29,fhrs_5_en-GB,5,,FHRS,0
-345794,Mount Pleasant,,,Cheslyn Hay,White Horse,Pub/bar/nightclub,7843,10,,388582,5,,52.66048300000000,3637,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.02992500000000,WS6 7AG,2014-01-08,fhrs_4_en-GB,4,,FHRS,0
-345795,Ivetsey Bank,,,Wheaton Aston,Whitegate Farm Shop Limited,Retailers - other,4613,0,,388371,5,,52.69419800000000,1470,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.23490300000000,ST19 9QT,2014-07-24,fhrs_5_en-GB,5,,FHRS,5
-345796,The Avenue,,,Featherstone,Whitgreave Primary School,School/college/university,7845,5,,388611,0,,52.64315500000000,3794,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.09106800000000,WV10 7AS,2013-09-13,fhrs_5_en-GB,5,,FHRS,5
-345797,Whittington,,,Kinver,Whittington Inn,Pub/bar/nightclub,7843,5,,388443,0,,52.44360351562500,2355,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.21370530128479,DY7 6NY,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-345798,,,,,Whoopie Pie Factory,Retailers - other,4613,5,,609318,0,,,43649,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,,,2013-10-10,fhrs_5_en-GB,5,,FHRS,0
-345799,Tinacre Hill,Compton,,Wolverhampton,Wightwick Hall School,School/college/university,7845,0,,388761,0,,52.58427900000000,6498,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20184500000000,WV6 8DA,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-345800,Bognop Road,,,Essington,Willenhall Rugby Club,Pub/bar/nightclub,7843,10,,388367,5,,52.63129000000000,1454,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.06068100000000,WV11 2BA,2007-09-10,fhrs_4_en-GB,4,,FHRS,5
-345801,1 Bridgnorth Road,,,Stourton,Willow Tree Tea Rooms,Other catering premises,7841,20,,388620,5,,52.46196200000000,3862,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20168100000000,DY7 6RP,2014-09-18,fhrs_1_en-GB,1,,FHRS,15
-345802,10 Windmill Bank,,,Wombourne,Windmill Bakery,Restaurant/Cafe/Canteen,1,5,,433474,5,,52.53627100000000,37790,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18660100000000,WV5 9JD,2014-02-10,fhrs_5_en-GB,5,,FHRS,5
-345803,Clay Street,,,Penkridge,Wing Fat,Other catering premises,7841,10,,388626,10,,52.72458000000000,3893,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11568300000000,ST19 5AF,2014-09-16,fhrs_3_en-GB,3,,FHRS,10
-345804,Wolgarston High School,Cannock Road,,Penkridge,Wolgarston High School,School/college/university,7845,5,,546140,0,,52.72214100000000,41845,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.09838400000000,ST19 5RX,2014-12-01,fhrs_5_en-GB,5,,FHRS,0
-345805,Brinsford Lane,,,Coven Heath,Wolverhampton Casuals Football Club,Takeaway/sandwich shop,7844,10,,388404,5,,52.64535200000000,17126,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.12646900000000,WV10 7PR,2013-12-16,fhrs_4_en-GB,4,,FHRS,5
-345806,Castlecroft Road,,,Castlecroft,Wolverhampton Rugby Football Club Ltd,Pub/bar/nightclub,7843,10,,388339,5,,52.57591800000000,1029,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.19110800000000,WV3 8NA,2009-12-14,fhrs_4_en-GB,4,,FHRS,0
-345807,3 Maypole Street,,,Wombourne,Wombourne Fish Bar,Takeaway/sandwich shop,7844,5,,388701,5,,52.53527500000000,4807,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18557900000000,WV5 9JB,2014-09-16,fhrs_4_en-GB,4,,FHRS,10
-345808,Maypole Street,,,Wombourne,Wombourne Pool Bar,Pub/bar/nightclub,7843,0,,388567,0,,52.53527500000000,3602,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18557900000000,WV5 9JB,2013-06-12,fhrs_5_en-GB,5,,FHRS,0
-345809,Wombourne Tandoori,High Street,,Wombourne,Wombourne Tandoori,Restaurant/Cafe/Canteen,1,0,,448338,5,,52.53461200000000,38474,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18395500000000,WV5 9DN,2014-09-25,fhrs_5_en-GB,5,,FHRS,0
-345810,Hand In Hand Centre,Church Road,,Wombourne,Wombourne Volunteer Bureau,Other catering premises,7841,5,,524940,5,,52.53603200000000,41185,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.18437400000000,WV5 9EZ,2013-03-22,fhrs_5_en-GB,5,,FHRS,0
-345811,Trysull Green,,,Trysull,Woodford House Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,388535,0,,52.54202000000000,3458,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.22050900000000,WV5 7HW,2014-05-08,fhrs_5_en-GB,5,,FHRS,0
-345812,Severn Drive,,,Perton,Wrottesley Arms,Pub/bar/nightclub,7843,0,,388353,0,,52.59393500000000,1153,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.20137200000000,WV6 7QU,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-345813,Foxholes Cottage,Stafford Road,,Penkridge,Wycherley's Cheese,Retailers - other,4613,10,,571560,5,,52.73015400000000,42829,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.11463200000000,ST19 5AX,2013-07-22,fhrs_4_en-GB,4,,FHRS,0
-345814,391 Walsall Road,,,Great Wyrley,Wyrley Park Fish Bar,Takeaway/sandwich shop,7844,5,,388658,10,,52.65701600000000,4064,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01145800000000,WS6 6DP,2015-01-19,fhrs_3_en-GB,3,,FHRS,10
-345815,39 Quinton Court Shopping Centre,Wardles Lane,,Great Wyrley,Wyrley Spice,Restaurant/Cafe/Canteen,1,10,,388520,10,,52.66087200000000,3271,291,env.commercial@sstaffs.gov.uk,South Staffordshire,http://www.sstaffs.gov.uk,-2.01264200000000,WS6 6DS,2014-03-04,fhrs_3_en-GB,3,,FHRS,5
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+345251,1st Stop Newsagents,1,5,10,20,2014-02-19,52.533028,-2.196155
+345252,A B C Early Learning & Childcare Uk Ltd,5,0,5,0,2014-02-21,52.630917,-2.185719
+345253,Abbeyfield House,5,0,0,5,2013-04-30,52.625613,-2.196761
+345254,Abele View Residential Home,5,0,0,0,2014-05-14,52.442674,-2.176848
+345255,Ad's Pride Of Kinver Fish Bar,5,0,5,5,2014-01-09,52.44753,-2.228099
+345256,Age Uk South Staffordshire,4,5,5,10,2014-11-04,52.727442,-2.112167
+345257,All Saints C E Primary School,5,5,0,0,2014-05-23,52.543908,-2.220548
+345258,Allan Bennett Ltd,4,0,10,10,2014-05-12,52.629938,-2.201641
+345259,Allen & Cooper Ltd,4,0,10,10,2014-08-01,52.658076,-2.018259
+345260,Amo's Convenience Store,4,0,5,10,2010-02-26,52.706336,-2.039517
+345261,Amy's Secret Kitchen,5,5,0,5,2013-09-30,52.71321,-2.04839
+345262,Aramark Catering,5,0,0,0,2013-12-06,52.769273,-2.109799
+345263,Ashcroft Hollow,5,0,0,5,2013-10-23,52.717959,-2.040165
+345264,Ashwood Nurseries Ltd,5,0,0,0,2014-03-13,52.48853,-2.200315
+345265,Astons Of Coven,5,0,0,0,2013-11-06,52.656081,-2.130935
+345266,Autograph Food Service,5,0,5,0,2012-03-14,52.627559,-2.164755
+345267,Avant Ice Cream Tricycles,5,0,5,0,2014-09-03,,
+345268,Baci Italian Restaurant,4,0,10,10,2014-07-30,52.448042,-2.228396
+345269,Baked @ No 3,5,0,0,0,2014-03-14,,
+345270,Baked @ No. 3,5,5,0,5,2015-01-13,52.658076,-2.018259
+345271,Bargain Booze,5,5,0,5,2014-07-16,52.658076,-2.018259
+345272,Barley Mow,4,10,5,5,2014-06-16,52.552095,-2.146995
+345273,Basils,5,5,0,5,2015-01-16,52.44753,-2.228099
+345274,Bearnett House,5,5,0,5,2013-03-27,52.551114,-2.174232
+345275,Becky's Bakes,5,0,0,0,2013-11-21,,
+345276,Bed And Breakfast,5,0,5,5,2012-08-20,,
+345277,Belt View Farm,5,0,0,5,2012-03-20,52.75394,-2.051281
+345278,Bengal Spice,3,10,5,10,2014-08-06,52.626179,-2.180528
+345279,Best Western Himley Hotel,5,0,0,5,2013-02-19,52.518176,-2.179966
+345280,Betty's Courtyard,5,0,0,0,2014-11-25,52.535,-2.183278
+345281,Bilbrook Fish Bar,5,5,0,0,2013-11-28,52.627218,-2.176735
+345282,Birches Bridge Fish Bar,5,0,0,0,2013-11-13,52.624476,-2.188513
+345283,Birches First School,5,0,0,5,2014-06-25,52.618065,-2.178146
+345284,Blakelands Country House,5,5,0,0,2014-09-26,52.520265,-2.2684
+345285,Blakeley Heath Primary School,5,5,0,5,2014-09-05,52.526807,-2.191145
+345286,Bloomers & Tarts,4,10,5,5,2014-05-12,52.663812,-2.01418
+345287,Blowers,5,5,0,5,2014-06-12,52.649885,-2.024611
+345288,Blue Ginger,5,5,5,5,2014-03-25,52.708862,-2.039905
+345289,Bostin Baps C/O Kewford Eagles Football Club,5,0,0,5,2014-11-06,52.502193,-2.190684
+345290,Boxleys Of Wombourne,5,0,0,5,2014-11-03,52.536271,-2.186601
+345291,Bradford Arms,4,5,10,0,2014-02-21,52.694198,-2.234903
+345292,Bradshaws Farm Shop,4,0,5,10,2011-12-08,52.589987,-2.217237
+345293,Brewood C.E. (C) Middle School,4,5,10,5,2013-05-03,52.6758,-2.17603
+345294,Brickbridge House,5,5,0,0,2013-11-22,52.525862,-2.202092
+345295,Bridge House Hotel,1,15,5,20,2014-11-10,52.72635,-2.116176
+345296,Brindley Heath Junior School,5,0,0,0,2013-11-14,52.453015,-2.232616
+345297,Broadway Wine Lodge,4,5,0,10,2013-10-21,52.643022,-2.088836
+345298,Bromleys Butchers,5,0,0,5,2014-11-11,52.52796,-2.194658
+345299,Brookfields Farm (Club),4,0,10,10,2007-05-22,52.653278,-2.0774
+345300,Brown Eyed Girl Bakery,5,0,0,5,2013-10-23,,
+345301,Brunch Bite Ltd,5,0,0,5,2014-08-29,52.673406,-2.120295
+345302,Brunel Court,5,0,0,5,2013-10-22,52.53784,-2.189453
+345303,Burger King (Northbound),5,5,0,0,2014-09-30,52.643176,-2.057387
+345304,Burger King (Southbound),5,0,0,0,2014-04-01,52.643176,-2.057387
+345305,Butterhill House Residential Home,4,5,0,10,2014-04-24,52.769958,-2.149138
+345306,Cabin Cafe,5,5,0,5,2014-09-25,52.736141,-2.05123
+345307,Cafe Family Pathway Centre,4,5,0,10,2014-02-24,52.647964,-2.113027
+345308,Cafe India,5,5,5,5,2014-12-22,52.694198,-2.234903
+345309,Cafe Saffron,3,10,5,10,2014-05-28,52.63173,-2.19995
+345310,Calf Heath Marina,3,5,10,10,2011-05-26,52.675773,-2.097954
+345311,Capes Creations,5,0,0,0,2014-01-14,,
+345312,Cargill Meats Europe),5,0,0,0,2014-09-11,52.625143,-2.163092
+345313,Catch Corner,5,5,5,0,2013-09-10,52.765498,-2.108352
+345314,Catering Academy Ltd,5,0,5,5,2014-02-24,52.625675,-2.191975
+345315,Celebakery,5,0,0,0,2013-02-27,,
+345316,Chase Gate,4,10,5,0,2013-09-10,52.674338,-2.049678
+345317,Chase Golf Club Ltd,5,0,0,0,2013-03-25,52.725675,-2.056133
+345318,Chase Park,4,10,0,5,2013-11-13,52.685686,-2.07734
+345319,Cheeky Munchies,5,5,5,0,2014-02-17,52.672158,-2.11936
+345320,Cherry Trees Special School,4,10,0,0,2011-03-03,52.52993,-2.199575
+345321,Cheslyn Hay Community & Sports Club,4,5,5,10,2011-09-27,52.662361,-2.030592
+345322,Cheslyn Hay Fish Bar,3,5,10,10,2014-03-07,52.663008,-2.032632
+345323,Cheslyn Hay High School,5,5,5,5,2013-11-28,52.661243,-2.043025
+345324,Cheslyn Hay Primary,5,5,0,0,2014-10-23,52.661243,-2.043025
+345325,Chip Inn,5,5,5,5,2014-03-12,52.527467,-2.194361
+345326,Church In The Village,5,0,0,5,2013-04-26,52.629938,-2.201641
+345327,Churchview Catering,4,10,0,10,2011-11-03,52.44753,-2.228099
+345328,Cloud 9 Children's Nursery,5,0,0,5,2014-08-21,52.533104,-2.199369
+345329,Co Op,5,5,0,5,2012-11-09,52.588903,-2.264097
+345330,Co Op Convenience Store,5,5,5,5,2014-02-19,52.53146,-2.187303
+345331,Co Op Food Store,5,5,5,0,2014-09-04,52.717054,-2.117366
+345332,Co Op Midlands,5,5,5,5,2012-10-25,52.448042,-2.228396
+345333,Co Op Store,5,0,0,0,2012-11-09,52.534612,-2.183955
+345334,Co Op Store,5,5,0,5,2012-11-09,52.588903,-2.264097
+345335,Co Operative,5,0,0,5,2013-04-04,52.630487,-2.20154
+345336,Co Operative,5,5,5,5,2014-09-03,52.660041,-2.034582
+345337,Co Operative,4,0,5,10,2012-05-23,52.536884,-2.185557
+345338,Co Operative Food,5,5,5,5,2013-08-14,52.657402,-2.01681
+345339,Co Operative Superstore,5,5,5,5,2013-08-30,52.725211,-2.114293
+345340,Coach And Horses,5,5,5,5,2012-03-15,52.710528,-2.223268
+345341,Codsall Community High School,5,0,0,0,2014-09-22,52.628643,-2.191353
+345342,Codsall Family Butchers,4,5,10,5,2015-01-19,52.630487,-2.20154
+345343,Codsall Fish Bar,5,0,5,5,2015-01-20,52.630463,-2.199634
+345344,Codsall Middle School,4,5,0,10,2013-09-10,52.630463,-2.199634
+345345,Codsall Spice,4,0,10,10,2014-09-29,52.625652,-2.189655
+345346,Codsall Station,4,10,5,5,2013-12-05,52.626865,-2.20111
+345347,Coffee 212,4,10,0,5,2014-09-23,52.534612,-2.183955
+345348,Colliers Arms,5,0,0,0,2013-11-07,52.66013,-2.037125
+345349,Conifers Nursing Home,5,5,0,5,2014-04-14,52.661277,-2.014786
+345350,Conservative Club,5,0,0,5,2012-03-23,52.630487,-2.20154
+345351,Coopers Fine Foods,5,5,0,5,2014-12-01,52.676486,-2.173799
+345352,Corbett C E Primary School,4,5,5,10,2013-09-12,52.515005,-2.280231
+345353,Costa Coffee Northbound,5,5,0,0,2013-11-14,52.643176,-2.057387
+345354,Cottage Cafe,5,0,0,0,2014-08-11,52.735232,-2.026526
+345355,Coven Bakery,3,10,10,10,2013-09-18,52.658314,-2.135303
+345356,Coven Fish Bar,4,5,5,10,2014-01-29,52.658314,-2.135303
+345357,Cross Inn,5,0,0,0,2015-02-04,52.446457,-2.225269
+345358,Cross Keys,5,0,5,5,2013-12-10,52.719694,-2.111258
+345359,Crown Diner And Restaurant,3,10,5,10,2014-02-06,52.653278,-2.0774
+345360,Cyril's Tea Room,5,0,5,5,2014-06-03,52.692031,-2.121796
+345361,D & C Catering,3,10,5,10,2014-04-03,52.438939,-2.173111
+345362,D Dobson Refreshments,5,0,0,5,2013-07-03,,
+345363,D Hyde  Penkridge Market,5,0,0,5,2013-11-13,,
+345364,Dans Diner,2,15,10,10,2011-08-16,,
+345365,Deansfield House,5,0,0,0,2014-06-24,52.679084,-2.167849
+345366,Deli Fusion,3,10,10,10,2015-01-07,52.624476,-2.188513
+345367,Dicken's Of A Tea Shoppe,5,5,0,0,2014-12-18,52.725713,-2.115242
+345368,Dilly's Delicious Cakes,5,5,5,5,2013-07-11,,
+345369,Dmc Services,5,0,0,5,2014-10-30,52.637926,-2.087599
+345370,Doal Food And News,2,5,15,10,2013-10-14,52.712839,-2.218129
+345371,Dog & Partridge,4,0,10,10,2015-01-07,52.67665,-2.092114
+345372,Dornes Kitchen,5,0,0,0,2013-12-06,,
+345373,Duck Lane Newsagents,1,10,15,20,2013-10-03,52.626179,-2.180528
+345374,Dudley Arms,5,5,5,5,2014-08-21,52.518533,-2.175679
+345375,Dunsley Hall Hotel,5,5,5,5,2014-10-16,52.455188,-2.209803
+345376,Dunsley Hall Tea Room,3,10,10,10,2013-08-28,52.448985,-2.229034
+345377,E & S Mears,4,10,0,5,2014-11-13,52.654616,-2.01128
+345378,E D C Northbound Restaurant,5,5,0,0,2013-11-14,52.643176,-2.057387
+345379,E D C Southbound Restaurant,5,5,0,0,2013-11-14,52.643176,-2.057387
+345380,Eden Brasserie,5,0,0,5,2015-02-10,52.616283,-2.196114
+345381,Edge View Nursing Home,5,0,0,0,2014-03-05,52.44783,-2.23584
+345382,Edgecliff High School,3,10,5,10,2013-11-08,52.453015,-2.232616
+345383,Elior Catering,5,0,5,5,2014-02-14,52.702428,-2.117237
+345384,Emazing Bakes,5,0,0,5,2013-11-21,,
+345385,Enville Ales Limited,4,10,0,10,2014-04-23,52.474138,-2.287273
+345386,Essington (Broad Lane) Wmc,4,10,0,10,2013-01-21,52.635598,-2.034651
+345387,Essington Fruit Farm And Butchery,5,0,0,5,2014-09-01,52.63129,-2.060681
+345388,Essington Fruit Farm And Restaurant,5,0,0,5,2011-03-11,52.63129,-2.060681
+345389,Essington Fruit Farm Tea Shop,5,0,0,5,2013-09-03,52.63129,-2.060681
+345390,Essington Manor Residential Home,5,5,0,5,2013-11-18,52.637808,-2.039662
+345391,Essington Wmc,4,5,0,10,2012-12-18,52.624038,-2.056904
+345392,Evergreen,3,10,10,10,2013-09-16,52.72635,-2.116176
+345393,Fairytale Cake Company,5,5,0,0,2014-03-17,52.537234,-2.185838
+345394,Falcon Service Station,5,5,5,5,2014-04-01,52.694198,-2.234903
+345395,Farmer And Friends,3,10,10,10,2014-06-18,52.565123,-2.243846
+345396,Feast Street Cafes,5,0,0,0,2014-12-17,,
+345397,Featherstone Chip Shop,1,5,15,20,2014-12-16,52.643022,-2.088836
+345398,Featherstone Convenience Store,1,5,5,20,2014-03-14,52.642457,-2.087032
+345399,Featherstone Pizza,3,10,10,10,2014-11-11,52.643022,-2.088836
+345400,Featherstone Visitors Centre,5,0,0,0,2014-02-25,52.648588,-2.108624
+345401,Fishley Park Golf Range,5,0,0,5,2015-01-07,52.638992,-1.988504
+345402,Flames,5,5,0,0,2013-06-11,52.726136,-2.114325
+345403,Flaming Grill,3,10,10,10,2014-03-04,52.716922,-2.114138
+345404,Flamingo Restaurant,5,0,0,0,2014-02-26,52.594813,-2.202808
+345405,Flornorvan Bed & Breakfast,5,0,5,5,2012-04-13,,
+345406,Foley Infants School,5,0,0,0,2014-07-14,52.449239,-2.232684
+345407,Four Ashes Diner,3,5,10,10,2013-03-08,52.674546,-2.122324
+345408,Four Ashes Inn,4,10,5,5,2014-06-26,52.67287,-2.126431
+345409,Fox Inn,2,15,15,10,2014-03-07,52.465606,-2.23439
+345410,Fox Inn,5,5,0,5,2014-12-11,52.562168,-2.259407
+345411,Freedom Catering,5,5,0,0,2014-06-06,52.535286,-2.152482
+345412,G And J Supermarket (T & S Stores Plc),4,0,0,10,2007-09-12,52.653689,-2.016705
+345413,Gardenlands Restaurant,4,5,10,5,2014-02-19,52.561254,-2.266349
+345414,Glasshouse College,4,0,5,10,2013-10-23,52.48509,-2.293721
+345415,Glasshouse College,5,5,5,5,2013-12-06,52.447853,-2.259176
+345416,Glenthorne Primary School,5,0,0,0,2015-02-03,52.661625,-2.027368
+345417,Gold Leaf Chinese Take Away,5,5,0,5,2013-09-05,52.660041,-2.034582
+345418,Golden Valley Take Away,5,0,0,0,2013-11-20,52.539444,-2.187145
+345419,Golden Wok,5,0,5,5,2014-01-23,52.666606,-2.025759
+345420,Good Taste,5,0,0,0,2014-11-19,52.624476,-2.188513
+345421,"Granary Grill, Bar And Restaurant",5,0,5,5,2014-12-01,52.692961,-2.286474
+345422,Great Wyrley Community Support Unit,5,0,0,0,2014-11-07,52.664217,-2.012066
+345423,Great Wyrley High School And Youth Centre,5,5,0,5,2014-02-05,52.666643,-2.018307
+345424,Green Doughnuts,5,0,0,5,2012-09-15,52.654316,-2.054415
+345425,Green Man Inn,5,0,0,0,2013-10-03,52.512698,-2.204154
+345426,Greenway House Residential Home,5,0,5,5,2013-06-26,52.558129,-2.184555
+345427,Greggs,5,0,0,0,2013-11-05,52.629938,-2.201641
+345428,Greggs,5,0,0,0,2013-11-14,52.643176,-2.057387
+345429,H & J Products,3,10,5,10,2013-04-10,52.508261,-2.196309
+345430,H M Y O I  Brinsford,5,5,0,0,2014-01-14,52.648588,-2.108624
+345431,H P Westwood   Butchers,4,10,0,5,2014-10-10,52.666606,-2.025759
+345432,H.M. Prison Featherstone,5,5,5,0,2015-01-29,52.648588,-2.108624
+345433,H.M.Y.O.I. Brinsford Visitor Centre,4,0,5,10,2013-11-04,52.648588,-2.108624
+345434,Halfpenny Green Golf Club,4,10,0,10,2011-01-06,52.518996,-2.234895
+345435,Halfpenny Green Vineyards Tea Room & Restaurant,5,5,5,5,2014-11-27,52.531081,-2.25144
+345436,Harry's At The Range,4,5,5,10,2014-06-10,52.633648,-2.031148
+345437,Hartley Arms,4,5,5,10,2013-12-06,52.712839,-2.218129
+345438,Havergal C E Primary School,5,0,0,5,2013-09-16,52.657132,-2.082315
+345439,Hayrack Cafe,4,5,10,5,2014-04-16,52.702428,-2.117237
+345440,Heath Mill Cafe,4,10,5,0,2014-12-04,52.522047,-2.209385
+345441,Heath Mill Cafe (R J B  Catering),4,0,0,10,2014-06-24,,
+345442,Hill Street Grocers,5,5,5,5,2012-12-07,52.627838,-2.061518
+345443,Hilton Catering,4,0,0,10,2013-11-08,52.644373,-2.072227
+345444,Hilton Service Station,1,15,0,20,2014-09-29,52.644606,-2.086607
+345445,Himley Hall,5,0,0,0,2014-03-10,52.522332,-2.16582
+345446,Himley House Hotel,3,10,5,10,2014-10-24,52.518687,-2.174722
+345447,Himley Mill Nursing Home,5,0,0,5,2014-08-04,52.518176,-2.179966
+345448,Himley Park Cafe,3,10,5,10,2014-05-29,52.522332,-2.16582
+345449,Hinksford Arms,1,5,10,20,2014-08-20,52.506092,-2.197464
+345450,Hmp Oakwood,5,5,0,5,2014-07-31,52.637187,-2.09685
+345451,Hollies Poultry Farmshop,1,15,0,20,2014-10-30,52.660444,-2.060514
+345452,Holly Lane Nursery,5,0,5,0,2014-08-26,52.649069,-2.015801
+345453,Holly's Heavenly Cupcakes,5,0,0,5,2013-12-12,,
+345454,Hong Kong Chinese Take Away,3,10,10,10,2014-07-25,52.526612,-2.194711
+345455,Hong Kong Take Away,3,10,10,10,2014-08-05,52.658076,-2.018259
+345456,Hornegarth House,5,0,0,5,2014-12-04,52.664217,-2.012066
+345457,Huntercombe Hospital Stafford,5,0,5,5,2014-02-27,52.694198,-2.234903
+345458,Hunters Lodge,5,0,0,5,2014-10-21,52.621773,-2.208177
+345459,Hurst View Traditional Cider,3,10,10,10,2014-01-08,52.698716,-2.245893
+345460,J & K Foodstore (Cost Cutter),4,0,10,10,2014-10-21,52.643022,-2.088836
+345461,J And S News,5,5,0,5,2012-03-29,52.666102,-2.027119
+345462,J E Lote Family Butchers,3,5,10,10,2014-10-08,52.660572,-2.033932
+345463,Jacey's Catering,3,5,10,10,2013-01-08,52.593707,-2.203349
+345464,Jade House,4,5,5,10,2014-02-19,52.626179,-2.180528
+345465,Jaflong Fine Indian Dining,4,5,5,10,2013-09-11,52.717054,-2.117366
+345466,Jane M Plejdrup,4,0,0,10,2014-05-13,52.742341,-2.0735
+345467,Jaspers Village Bakery,5,0,5,5,2014-01-02,52.725713,-2.115242
+345468,Jimmy's Chinese Takeaway,1,10,15,20,2012-02-20,52.678827,-2.171634
+345469,Jungle Boogie,5,0,0,5,2012-11-08,52.63173,-2.19995
+345470,K T's Diner,5,0,0,5,2014-04-25,,
+345471,Kafe Neo,5,5,5,0,2013-12-06,52.643022,-2.088836
+345472,Kaffeine,5,5,0,5,2014-06-16,52.725211,-2.114293
+345473,Kays Butchers,3,5,10,10,2014-05-28,52.448985,-2.229034
+345474,Keith's Supper Whip,4,0,5,10,2014-09-16,,
+345475,Kerbside Cafe,5,0,0,5,2011-02-21,52.603182,-2.314326
+345476,Kids Funworld Limited,5,5,0,5,2013-10-10,52.531532,-2.214191
+345477,Kinfayre Coffee Shop,5,5,5,5,2014-10-29,52.448473,-2.228619
+345478,Kings Fayre Bakery Ltd,5,5,0,5,2014-07-23,52.448042,-2.228396
+345479,Kings Repose Restaurant,5,5,5,5,2014-05-01,52.648941,-2.095839
+345480,Kingswood Centre (Catering Only),5,5,0,0,2013-09-05,52.621145,-2.245044
+345481,Kingswood Equestiran Trust,5,0,0,5,2011-03-22,52.617389,-2.244328
+345482,Kingswood Nursery And Infant Centre,5,0,5,5,2013-09-06,52.617999,-2.245085
+345483,Kinver Edge Farm Shop,3,10,10,10,2014-02-14,52.483689,-2.243139
+345484,Kinver Garden Day Nursery,5,5,0,5,2014-01-30,52.449458,-2.230566
+345485,Kinver Tandoori Restaurant,4,10,5,5,2013-08-28,52.448985,-2.229034
+345486,Laches Wood Outdoor Education Centre,5,5,5,5,2014-06-05,52.660698,-2.117052
+345487,Lakeview And Watersedge Care Home,5,5,0,5,2014-08-20,52.636124,-2.011216
+345488,Landywood Primary School,5,5,0,5,2015-01-13,52.649069,-2.015801
+345489,Landywood Stores,4,0,0,10,2014-12-05,52.655649,-2.016898
+345490,Lane Green Primary School,5,5,0,5,2013-11-21,52.628562,-2.179843
+345491,Lazy Days,5,5,0,0,2014-05-13,52.677683,-2.173301
+345492,Lee Adams Family Butchers,4,10,5,5,2014-07-29,52.72458,-2.115683
+345493,Lifestyle Convenience Store,3,10,5,10,2013-06-05,52.659985,-2.039963
+345494,Lilliput Day Nursery,5,5,0,5,2013-09-04,,
+345495,Lisa's Cakes,5,5,5,5,2013-09-19,,
+345496,Little Acorns Day Nursery,5,0,5,0,2015-01-22,52.515004,-2.28023
+345497,Little Acorns Private Day Nursery,3,5,10,10,2013-11-27,52.757449,-2.064487
+345498,Little Treasures Day Nursery,5,5,0,5,2014-02-26,52.717361,-2.115649
+345499,Littleton Arms Hotel,5,0,0,5,2013-11-07,52.724857,-2.116854
+345500,Littleton Green Community School,5,0,0,0,2014-03-31,52.710929,-2.042216
+345501,Lola's Cafe,4,0,10,5,2014-09-04,,
+345502,Lola's Cafe,3,5,10,10,2014-05-14,52.674546,-2.122324
+345503,Londis,4,10,5,5,2014-03-11,52.513338,-2.202875
+345504,Longridge Care Home,5,0,0,5,2014-05-21,52.737989,-2.135476
+345505,Lotus House Chinese Take Away,5,0,0,0,2014-04-08,52.454835,-2.235009
+345506,Low N Slow,5,0,0,5,2014-01-23,,
+345507,Lychgate Coffee,1,0,10,20,2013-10-28,52.588665,-2.265881
+345508,M And P Meats Ltd,4,0,5,10,2014-10-23,52.527641,-2.213126
+345509,M6 Diesel,4,0,0,10,2014-04-09,52.653278,-2.0774
+345510,Mandarin Oriental Brasserie,3,10,5,10,2014-01-24,52.765498,-2.108352
+345511,Maori Coffee Shop,5,0,5,0,2013-10-31,52.448042,-2.228396
+345512,Marshbrook First School,5,0,0,0,2013-11-21,52.72773,-2.111412
+345513,Martin Mc Colls,5,5,5,0,2014-12-10,52.708862,-2.039905
+345514,Martin Thomas Butchers Shop,5,0,0,0,2014-11-17,52.590206,-2.260414
+345515,Mary Herman  Smith Catering,5,0,0,5,2014-02-27,,
+345516,Mel's Munch Box,4,0,5,10,2013-09-27,,
+345517,Mercure Stafford South,3,10,5,10,2014-12-09,52.723024,-2.125007
+345518,Midland Fun Foods,4,0,5,10,2012-11-14,,
+345519,Milestone Catering,5,0,0,5,2013-09-20,52.626293,-2.059285
+345520,Milestone Catering,5,0,0,5,2014-01-06,52.593707,-2.203349
+345521,Mill House,5,0,0,5,2012-06-28,52.450216,-2.229584
+345522,Miller & Carter,5,5,5,5,2014-12-08,52.550509,-2.170454
+345523,Minhs Of Penkridge,3,5,10,10,2014-03-26,52.717054,-2.117366
+345524,Minki's Cakeaway,5,0,0,0,2013-03-28,,
+345525,Miss Mable's Cupcakery,5,0,0,5,2014-09-16,,
+345526,Moat Hall County Primary School,5,0,0,5,2014-07-11,52.662005,-2.017551
+345527,Momtaj Spice,3,10,5,10,2013-09-19,52.710528,-2.223268
+345528,Monster Munchies,5,5,0,0,2014-07-03,,
+345529,Moseley Old Hall,5,5,0,5,2007-06-06,52.637446,-2.10239
+345530,Moto Northbound Forecourt,4,10,0,5,2013-11-14,52.643176,-2.057387
+345531,Moto Southbound Forecourt,5,5,0,0,2013-11-14,52.643176,-2.057387
+345532,Mount Pleasant Ale & Cider House,5,5,5,0,2014-06-12,52.536053,-2.19894
+345533,Mr Chips,4,5,0,10,2015-01-08,52.448042,-2.228396
+345534,Mr Smiths Fish Bar,5,0,5,0,2014-03-06,52.513338,-2.202875
+345535,Mrs C's Creative Cakes,5,0,0,0,2015-01-09,,
+345536,Mrs N Chapman,5,0,0,0,2013-03-11,,
+345537,Mrs T's Donuts,5,0,0,5,2014-04-25,,
+345538,Munch Sandwich Bar,4,10,5,5,2014-06-30,52.664936,-2.014018
+345539,Navigation Inn,3,10,10,10,2014-11-13,52.4966659546,-2.20614123344
+345540,New City,4,10,5,5,2014-03-03,52.663008,-2.032632
+345541,New Garden Chinese Take Away,5,5,0,5,2014-12-11,52.725211,-2.114293
+345542,News And Booze Shop,4,0,5,10,2014-04-08,52.666606,-2.025759
+345543,News Express,4,5,10,5,2013-08-22,52.725713,-2.115242
+345544,News Express,5,5,0,0,2012-06-27,52.629938,-2.201641
+345545,News Express,5,5,0,0,2012-06-26,52.624476,-2.188513
+345546,Nisa Daves Supersave,4,5,5,10,2014-11-13,52.661625,-2.027368
+345547,Nisa Day To Day,4,5,0,10,2012-12-04,52.63024,-2.057916
+345548,O C S Catering Ltd,5,0,5,0,2014-04-07,52.630016,-2.133857
+345549,Oak Farm Hotel,5,0,0,5,2014-08-21,52.685686,-2.07734
+345550,Old Deanery Farm Cafe,5,0,0,5,2011-03-09,52.725917,-2.117952
+345551,Old Wyrley Hall,5,5,0,5,2013-09-19,52.664971,-2.020509
+345552,Olympic Fish Bar,5,5,5,5,2014-03-11,52.72458,-2.115683
+345553,Oriental Express,5,5,5,5,2014-04-16,52.448042,-2.228396
+345554,Ounsdale High School,5,0,0,0,2014-12-05,52.535644,-2.196579
+345555,Oysters Fish Bar,4,5,10,5,2014-12-15,52.717054,-2.117366
+345556,Papa Johns,4,0,5,10,2013-11-27,52.624476,-2.188513
+345557,Park House Sheltered Housing Scheme ,4,5,0,10,2007-08-07,52.635598,-2.034651
+345558,Patshull Park Hotel,5,0,0,0,2014-06-17,52.594446,-2.295928
+345559,Pattingham Working Mens Club,1,15,15,20,2014-04-14,52.586971,-2.267745
+345560,Paula's Pantry,5,0,0,5,2012-11-05,,
+345561,Pear And Partridge,5,5,0,5,2015-01-15,52.602311,-2.208099
+345562,Pear Tree Farm Caterers,5,0,0,0,2013-12-10,52.726022,-2.171938
+345563,Penkridge County Middle,5,5,5,5,2014-12-12,52.728643,-2.105817
+345564,Penn Golf Club,5,5,5,5,2010-08-09,52.552095,-2.146995
+345565,Percy Plonkers Hot Dog Stall,5,0,0,5,2012-09-15,52.654316,-2.054415
+345566,Perton Day Care Centre,5,0,0,0,2015-02-03,52.595441,-2.203727
+345567,Perton First School,5,5,0,0,2014-12-09,52.598238,-2.203252
+345568,Perton Fish And Chip Shop,4,10,0,10,2014-12-10,52.594813,-2.202808
+345569,Perton Manor Care Home,4,0,5,10,2014-10-31,52.610846,-2.205866
+345570,Perton Middle School,5,0,0,0,2014-04-29,52.597615,-2.193712
+345571,Perton Park Golf Club,5,0,0,5,2013-05-09,52.589987,-2.217237
+345572,Petit Gateau,5,0,0,5,2013-10-03,,
+345573,Pigot Arms,5,5,0,0,2014-07-30,52.588665,-2.265881
+345574,Pillaton Hall Farm,5,0,5,5,2012-05-02,52.717028,-2.084945
+345575,Pillaton Tea Rooms,5,0,0,0,2014-03-04,52.716443,-2.08598
+345576,Pizzarelli's,5,0,5,5,2014-06-30,52.627223,-2.17972
+345577,Planters Cafe,5,5,5,5,2013-02-28,52.695139,-2.132621
+345578,Pool Hall Fisheries Cafe,5,5,0,5,2013-07-17,52.571133,-2.218427
+345579,Pop Ins General Store,5,5,5,5,2011-03-02,52.723708,-2.106294
+345580,Post Office Counters Ltd,2,5,15,10,2012-12-17,52.658314,-2.135303
+345581,Potters Cross Post Office,5,0,0,5,2012-07-11,52.454813,-2.237113
+345582,Pound For Pound(Taylors Frozen Food),4,0,5,10,2012-03-23,52.594813,-2.202808
+345583,Prestwood Coach House Nursing Home,5,5,5,5,2013-08-01,52.474393,-2.198058
+345584,Prestwood Diner,4,10,0,5,2013-11-14,52.463868,-2.201734
+345585,Prestwood House Nursing Home,5,0,5,5,2014-07-31,52.473061,-2.198935
+345586,Princefield First School,5,5,0,0,2013-11-21,52.72128,-2.10651
+345587,Puddleducks Nursery,4,0,10,10,2013-07-17,52.659165,-2.004214
+345588,Quinton Balti,3,5,10,10,2013-07-25,52.657402,-2.01681
+345589,R C Catering,3,10,10,10,2014-07-02,52.635453,-2.088274
+345590,Rainbow Inn,5,5,5,5,2014-06-17,52.658935,-2.134714
+345591,Rana Convenience Store,4,5,5,10,2013-04-03,52.719694,-2.111258
+345592,Red Lion,1,15,10,20,2014-05-13,52.535331,-2.178444
+345593,Red Lion,4,5,0,10,2013-10-09,52.515005,-2.280231
+345594,Red White And Blue,4,10,0,10,2014-10-21,52.644606,-2.086607
+345595,Rj's Cafe,5,0,0,0,2014-10-20,52.531532,-2.214191
+345596,Robin Hood,1,20,10,20,2011-03-08,52.664971,-2.020509
+345597,Robins Nest Catering,5,0,0,5,2014-03-31,,
+345598,Rodbaston Visitors Centre,5,0,0,0,2014-03-22,52.702428,-2.117237
+345599,Russell Butchers,5,0,5,0,2013-08-06,52.725211,-2.114293
+345600,S T Services,5,0,0,0,2014-07-08,52.593543,-2.20422
+345601,Sainsbury's Customer Cafe,5,0,0,0,2014-09-15,52.526481,-2.2083
+345602,Sainsbury's Local,5,0,0,0,2013-02-28,52.72635,-2.116176
+345603,Sainsbury's Supermarkets Ltd,5,0,0,5,2014-06-23,52.526481,-2.2083
+345604,Sainsburys Supermarkets Plc,5,0,0,0,2013-07-16,52.596398,-2.201074
+345605,Sandhills Day Nursery,4,10,0,0,2014-07-25,52.614846,-2.220801
+345606,Sandhills Day Nursery,3,5,10,10,2014-12-02,52.535347,-2.185609
+345607,Sandown First School,5,0,0,0,2014-12-15,52.596305,-2.197589
+345608,Say It With Food,5,0,0,0,2013-10-24,,
+345609,Scrumtious,5,0,0,5,2014-10-24,52.502193,-2.190684
+345610,Seisdon Stores and Off Licence,4,0,0,10,2007-04-27,52.549845,-2.241903
+345611,Shaan Balti House,4,10,5,5,2015-01-12,52.660041,-2.034582
+345612,Shareshill Post Office And Stores,4,0,5,10,2009-05-08,52.65581,-2.08184
+345613,Shimla Indian Cuisine,5,5,5,5,2014-09-24,52.44753,-2.228099
+345614,Shoal Hill Tavern,4,10,0,10,2013-01-31,52.692614,-2.04927
+345615,Silk Roots,3,10,10,10,2014-10-28,52.633761,-2.044726
+345616,Singh Premier,3,10,5,10,2014-09-25,52.717054,-2.117366
+345617,Six Ashes Inn,1,15,5,20,2014-09-17,52.494663,-2.308027
+345618,Smart Start Day Nursery,5,0,0,5,2013-09-02,52.749247,-2.106297
+345619,Snackabyte,5,0,0,5,2013-02-18,52.628562,-2.179843
+345620,Snooker Snack Shop,4,10,0,10,2013-12-10,52.649994,-2.021714
+345621,Somerford Hall,5,5,5,5,2014-01-22,52.675726,-2.151108
+345622,Spar,4,10,5,5,2014-12-23,52.677683,-2.173301
+345623,Spar Stores,5,5,5,5,2013-08-02,52.447156,-2.226464
+345624,Spar Stores,4,5,5,10,2013-05-30,52.627218,-2.176735
+345625,Spar Stores,5,5,5,5,2013-12-05,52.658076,-2.018259
+345626,Spar Stores,4,10,0,0,2014-05-30,52.709863,-2.218425
+345627,Spar Supermarket,3,10,10,10,2014-06-03,52.536271,-2.186601
+345628,Spread Eagle,4,5,0,10,2013-12-04,52.693518,-2.135353
+345629,Springfield House Nursing Home,5,5,0,5,2014-01-20,52.625594,-2.208313
+345630,Springslade Lodge Tea Room,5,0,0,5,2013-02-28,52.739296,-2.022337
+345631,SSHA Coven Court Sheltered Housing Scheme,4,5,0,10,2007-06-19,52.659129,-2.138484
+345632,St Christophers Rc Primary School,5,0,0,0,2014-09-16,52.625652,-2.189655
+345633,St Dominics High School For Girls,5,0,0,0,2014-12-05,52.678403,-2.178229
+345634,St John's First School,5,5,0,5,2014-11-25,52.684231,-2.246965
+345635,St Johns Primary School,5,5,5,0,2014-11-13,52.631948,-2.056958
+345636,St Leonards C Of E First School,5,5,0,5,2014-06-13,52.757544,-2.11663
+345637,St Mary And St Chad Ce  First School,5,5,0,0,2013-10-23,52.675909,-2.17495
+345638,St Marys First School,5,5,0,0,2013-11-21,52.712878,-2.221267
+345639,St Mary's First School Nursery,4,0,0,10,2014-02-25,52.712878,-2.221267
+345640,St Marys Rc Cp School,5,0,0,0,2013-10-23,52.679738,-2.181341
+345641,St Michael's Cof E First School,5,0,0,5,2014-12-19,52.724799,-2.112382
+345642,St Nicholas's C Of E (V C) First School,5,5,0,0,2014-05-19,52.632517,-2.197235
+345643,St Pauls C Of E First School,5,5,0,5,2014-06-05,52.662269,-2.135715
+345644,St. Anthonys (West Midlands) Cheshire Home,5,5,5,5,2015-01-07,52.550631,-2.166399
+345645,St. Benedict Biscop Primary School,5,5,0,0,2014-07-11,52.537815,-2.182361
+345646,St. Bernadettes Primary School,5,0,0,0,2014-06-03,52.533104,-2.199369
+345647,St. Chads C E Primary School,5,5,5,5,2013-05-15,52.592275,-2.263718
+345648,St. Johns Primary School,5,5,0,0,2014-03-04,52.515801,-2.20293
+345649,St. Thomas More Rc Primary School,5,0,0,0,2014-03-07,52.667659,-2.01467
+345650,St.Marys First School,4,10,5,5,2010-10-15,52.712878,-2.221267
+345651,Standeford Farm Cafe,4,0,5,10,2014-03-12,52.669438,-2.132292
+345652,Steven Jones  Sweet Seller ,1,5,15,20,2012-06-20,,
+345653,Stone Group Limited,5,0,0,5,2013-05-17,52.769724,-2.10734
+345654,Stourbridge Rugby Football Club,4,5,5,10,2014-06-26,52.459358,-2.183302
+345655,Strawberry Poppetts Nursery School,5,0,5,5,2014-07-09,52.646561,-2.093351
+345656,Subway,5,5,5,5,2014-09-29,52.644606,-2.086607
+345657,Sugarella's,5,5,5,5,2012-12-21,,
+345658,Sweet Memories,5,0,5,0,2012-10-26,52.660041,-2.034582
+345659,Swindon Bakery,4,5,5,10,2014-11-12,52.513338,-2.202875
+345660,Swindon Cricket Club,4,5,5,10,2013-03-27,52.511963,-2.202588
+345661,Swindon Golf Club,5,5,5,5,2015-02-05,52.527517,-2.231418
+345662,Takeaway Hut,2,15,10,10,2014-12-04,52.706336,-2.039517
+345663,Talkington Bates At Moog Aircraft Group,5,0,0,0,2014-03-03,52.6324,-2.140542
+345664,Taylors,5,0,0,0,2012-12-18,52.536032,-2.184374
+345665,Tea At The Green,5,0,5,5,2014-02-20,52.514325,-2.263118
+345666,Tea On The Green,4,5,5,10,2014-03-10,52.535275,-2.185579
+345667,Teddy Bears Nursery Ltd,5,5,0,0,2014-12-16,52.64743,-2.030492
+345668,Tesco Express,5,5,5,5,2012-11-26,52.628562,-2.179843
+345669,The Allotment,3,5,10,10,2014-01-07,52.658314,-2.135303
+345670,The Barns,5,0,0,5,2013-09-27,52.713291,-2.048435
+345671,The Bell Inn,4,10,0,10,2014-03-04,52.694212,-2.175009
+345672,The Bell Public House,3,10,10,10,2013-09-25,52.54652,-2.217789
+345673,The Bentlands,5,5,0,5,2013-08-19,52.621672,-2.193819
+345674,The Boat,5,5,0,5,2014-01-16,52.724459,-2.110723
+345675,The Bridge Inn,4,5,10,5,2014-06-25,52.677199,-2.177854
+345676,The Bull Hotel,4,10,5,5,2013-12-04,52.630362,-2.200919
+345677,The Butchery,5,5,0,0,2013-09-26,52.448042,-2.228396
+345678,The Cake Barn,5,0,0,5,2013-11-06,,
+345679,The Cake Box,5,0,5,0,2013-02-12,,
+345680,The Cat Inn,4,10,0,10,2013-08-07,52.478288,-2.257337
+345681,The Co Operative Food,5,0,5,5,2012-09-14,52.624476,-2.188513
+345682,The Codsall Hive,4,5,0,10,2014-02-10,52.63173,-2.19995
+345683,The Corner Shop,4,5,0,10,2014-07-31,52.692031,-2.121796
+345684,The Cottage Guest House,5,5,5,5,2007-12-14,,
+345685,The Courtyard Bistro,5,5,0,0,2015-01-15,52.756159,-2.108018
+345686,The Cowshed Restaurant,5,5,5,5,2014-03-13,52.57054,-2.254396
+345687,The Crooked House (Himley) Ltd,4,10,5,5,2013-04-24,52.515131,-2.152442
+345688,The Crown,4,5,5,10,2014-04-25,52.432318,-2.170408
+345689,The Crown Inn,5,0,0,0,2014-11-24,52.630487,-2.20154
+345690,The Crown Inn,2,15,5,10,2012-09-13,52.432318,-2.170408
+345691,The Crown Inn,3,10,5,10,2012-09-12,52.588665,-2.265881
+345692,The Crown Inn,4,5,0,10,2014-07-24,52.641071,-2.224673
+345693,The Curry Inn,4,5,10,5,2014-08-28,52.675909,-2.17495
+345694,The Dartmouth Arms,5,5,5,5,2014-05-22,52.603182,-2.314326
+345695,The Elms,4,10,0,10,2012-11-19,52.653492,-2.080402
+345696,The Farmhouse,4,10,0,10,2012-11-20,52.624476,-2.188513
+345697,The Firs Residential Care Home,4,0,0,10,2014-07-01,52.540365,-2.152677
+345698,The Four Crosses,1,10,0,20,2014-06-02,52.683102,-2.069155
+345699,The Fox And Anchor,5,5,5,5,2014-03-19,52.653467,-2.129154
+345700,The Granary Deli,5,0,0,5,2013-06-18,52.692961,-2.286474
+345701,The Greens Restaurant,5,5,5,5,2011-10-05,52.49846,-2.241105
+345702,The Greyhound,4,10,5,5,2014-11-26,52.56336,-2.201689
+345703,The Happy House,2,15,10,10,2013-03-11,52.626697,-2.060497
+345704,The Harrows Inn,3,10,5,10,2013-10-09,52.667342,-2.133172
+345705,The Hollybush Coffee Shop And  Restaurant,5,5,5,5,2014-05-06,52.654316,-2.054415
+345706,The Homestead Residential Home,3,10,5,10,2014-07-17,52.475189,-2.195146
+345707,The Humble Spud,4,5,0,10,2014-06-27,52.685402,-2.300493
+345708,The Indian Rasoi,1,15,15,20,2015-01-19,,
+345709,The Ivy House,4,5,5,10,2013-09-16,52.636124,-2.011216
+345710,The Kinver Brewery,2,15,15,10,2011-09-29,52.449239,-2.232684
+345711,The Kitchen,4,5,10,5,2014-04-14,52.627223,-2.17972
+345712,The Lion Hotel,4,10,5,5,2014-12-10,52.676486,-2.173799
+345713,The Liquorice Stall,5,0,0,5,2013-11-13,,
+345714,The Little Fryer,5,0,0,0,2014-04-04,52.717028,-2.084945
+345715,The Littleton Arms,3,10,5,10,2014-03-14,52.717959,-2.040165
+345716,The Littleton Fryer,2,15,0,10,2014-12-09,52.708862,-2.039905
+345717,The Mary Rose,5,5,0,5,2014-09-09,52.656112,-2.034889
+345718,The Masons,1,15,5,20,2014-11-11,52.636295,-2.010329
+345719,The Mess Restaurant,5,5,0,0,2014-01-07,52.676486,-2.173799
+345720,The Midcounties Co Operative,5,5,0,0,2014-09-10,52.658314,-2.135303
+345721,The Minerva Inn,4,5,0,10,2013-01-29,52.626697,-2.060497
+345722,The Moat House,5,0,0,0,2014-10-27,52.759324,-2.096334
+345723,The New Hollies Cafe,5,5,5,5,2014-04-28,52.685686,-2.07734
+345724,The New Inn,5,5,0,0,2013-10-03,52.537465,-2.187903
+345725,The New Inns,5,0,0,5,2013-08-28,52.677109,-2.211073
+345726,The New Talbot,5,0,5,5,2014-09-23,52.661372,-2.033237
+345727,The New Vine Cafe,3,10,10,10,2012-07-25,52.565123,-2.243846
+345728,The Oaken Arms,5,0,5,0,2014-02-18,52.620794,-2.227582
+345729,The Old Bush,4,10,5,5,2013-09-04,52.536621,-2.181221
+345730,The Old School Hall Tea Room,5,0,0,5,2013-10-22,52.631948,-2.056958
+345731,The Plough,5,0,0,0,2014-02-27,52.543908,-2.220548
+345732,The Railway Cafe,5,5,5,5,2014-06-03,52.541789,-2.198951
+345733,The Rajput,4,10,5,5,2013-09-11,52.630463,-2.199634
+345734,The Red Lion,4,10,0,5,2013-10-04,52.727892,-2.305702
+345735,The Restaurant,4,0,5,10,2014-01-02,52.49846,-2.241105
+345736,The Roman Way Hotel,4,10,0,5,2014-11-12,52.680189,-2.053915
+345737,The Round House,3,5,10,10,2012-03-17,52.692031,-2.121796
+345738,The Royal Oak,5,0,0,5,2014-02-20,52.666419,-2.012333
+345739,The Royal Oak,5,0,0,5,2014-06-20,52.524445,-2.260378
+345740,The Seven Stars,5,5,0,5,2014-04-29,52.77221,-2.064242
+345741,The Shrubbery Rest Home,5,5,0,0,2014-01-28,52.633275,-2.21095
+345742,The Star Inn,5,0,5,5,2014-11-11,52.724799,-2.112382
+345743,The Summerhouse,5,5,5,5,2015-01-22,52.540733,-2.146191
+345744,The Swan,4,10,5,5,2014-03-04,52.72576,-2.159707
+345745,The Swan Hotel,4,10,0,5,2014-02-17,52.676486,-2.173799
+345746,The Swan Inn,4,5,5,10,2012-02-06,52.664217,-2.012066
+345747,The Three Stirrups,4,5,5,10,2013-06-24,52.678827,-2.171634
+345748,The Village Bakehouse,4,10,0,5,2014-09-15,52.662361,-2.030592
+345749,The Village Bakery,5,0,0,5,2013-10-08,52.677683,-2.173301
+345750,The Village Grill And Pizza House,4,0,10,10,2014-12-09,52.663008,-2.032632
+345751,The Village Lodge,5,5,0,5,2014-09-30,52.662361,-2.030592
+345752,The Village Restaurant,4,0,5,10,2015-01-14,52.44753,-2.228099
+345753,The Village Stores,2,10,15,10,2013-07-05,52.657016,-2.011458
+345754,The Vine,5,5,0,0,2013-09-04,52.536621,-2.181221
+345755,The Vine Inn,4,5,0,10,2014-11-07,52.450011,-2.223624
+345756,The Wheatsheaf,5,5,0,5,2013-11-04,52.654184,-2.010541
+345757,The Wheatsheaf,3,10,10,10,2014-01-08,52.660444,-2.060514
+345758,The White Hart,4,5,5,10,2013-09-17,52.72635,-2.116176
+345759,The White Harte Inn,5,5,5,5,2014-10-23,52.44753,-2.228099
+345760,The Why Not Inn,4,5,10,5,2015-01-06,52.635598,-2.034651
+345761,The Willows Residential Care Home,5,0,0,0,2014-11-21,52.628275,-2.196153
+345762,The Wine Lodge,4,5,0,10,2012-11-13,52.526612,-2.194711
+345763,The Winery,3,10,10,10,2013-01-30,52.531081,-2.25144
+345764,The Woodman,5,0,5,0,2013-10-07,52.626285,-2.181592
+345765,Thomas Ices (Reg. No. V17 R S O),5,0,0,0,2014-07-17,,
+345766,Three Hammers Bar & Bistro,4,5,10,5,2014-12-04,52.650683,-2.126707
+345767,Tiffu's Ltd,3,10,5,10,2013-07-16,52.534612,-2.183955
+345768,Tinker Bell Ices,5,0,5,5,2012-09-18,,
+345769,Tiwana News & Off Licence,4,0,5,10,2012-11-29,52.648997,-2.012431
+345770,Top Range Wines,4,5,0,10,2013-02-15,52.624476,-2.188513
+345771,Truckers Rest,5,0,0,5,2014-03-25,52.68164,-2.064375
+345772,Tumbledown Farm,3,10,5,10,2014-04-15,52.682509,-2.069553
+345773,Turtles Childrens Nursery,5,0,5,0,2014-12-05,52.722845,-2.115841
+345774,Tuscano At Six Ashes,5,0,0,0,2014-04-29,52.496121,-2.314386
+345775,Vernon Lodge Preparatory School,5,0,0,5,2014-09-04,52.699276,-2.173135
+345776,Victoria Harbour,1,15,15,20,2014-09-18,52.644606,-2.086607
+345777,Victoria's Ltd,5,0,5,5,2014-06-11,,
+345778,Village Bistro,4,5,5,10,2013-10-09,52.594813,-2.202808
+345779,"Village Coffee, Bakery And Kitchen",4,10,5,5,2014-11-10,52.629938,-2.201641
+345780,Village Fish Bar,3,10,5,10,2013-08-19,52.657402,-2.01681
+345781,Village Greens,5,0,0,5,2013-11-14,52.448042,-2.228396
+345782,Village Pizza,4,5,5,10,2014-03-11,52.72458,-2.115683
+345783,W H Smith (Northbound ),5,5,5,5,2014-03-27,52.643176,-2.057387
+345784,W. Maiden & Son,4,5,0,10,2014-10-27,52.677683,-2.173301
+345785,Waggon And Horses Public House,5,5,0,0,2015-01-21,52.525862,-2.202092
+345786,Walsall Football Club,5,0,0,5,2014-02-20,52.637808,-2.039662
+345787,Wardles Bakery,5,0,0,0,2014-07-08,52.658076,-2.018259
+345788,Wardles Lane Fish Bar,3,10,10,10,2014-06-09,52.660737,-2.017373
+345789,Watt Meadow Farm,4,5,0,10,2014-03-06,52.653278,-2.0774
+345790,Wergs Golf Club,4,0,5,10,2014-03-17,52.607998,-2.188235
+345791,Westfield Primary School,5,5,0,0,2014-03-06,52.536599,-2.19505
+345792,Weston Park Enterprises Ltd,5,5,5,5,2014-09-05,52.692961,-2.286474
+345793,White Cottage B & B,5,0,0,5,2014-08-29,,
+345794,White Horse,4,0,5,10,2014-01-08,52.660483,-2.029925
+345795,Whitegate Farm Shop Limited,5,5,5,0,2014-07-24,52.694198,-2.234903
+345796,Whitgreave Primary School,5,5,0,5,2013-09-13,52.643155,-2.091068
+345797,Whittington Inn,5,5,0,5,2014-08-28,52.4436035156,-2.21370530128
+345798,Whoopie Pie Factory,5,0,0,5,2013-10-10,,
+345799,Wightwick Hall School,5,5,0,0,2014-03-31,52.584279,-2.201845
+345800,Willenhall Rugby Club,4,5,5,10,2007-09-10,52.63129,-2.060681
+345801,Willow Tree Tea Rooms,1,15,5,20,2014-09-18,52.461962,-2.201681
+345802,Windmill Bakery,5,5,5,5,2014-02-10,52.536271,-2.186601
+345803,Wing Fat,3,10,10,10,2014-09-16,52.72458,-2.115683
+345804,Wolgarston High School,5,0,0,5,2014-12-01,52.722141,-2.098384
+345805,Wolverhampton Casuals Football Club,4,5,5,10,2013-12-16,52.645352,-2.126469
+345806,Wolverhampton Rugby Football Club Ltd,4,0,5,10,2009-12-14,52.575918,-2.191108
+345807,Wombourne Fish Bar,4,10,5,5,2014-09-16,52.535275,-2.185579
+345808,Wombourne Pool Bar,5,0,0,0,2013-06-12,52.535275,-2.185579
+345809,Wombourne Tandoori,5,0,5,0,2014-09-25,52.534612,-2.183955
+345810,Wombourne Volunteer Bureau,5,0,5,5,2013-03-22,52.536032,-2.184374
+345811,Woodford House Nursing Home,5,0,0,5,2014-05-08,52.54202,-2.220509
+345812,Wrottesley Arms,5,5,0,0,2014-01-27,52.593935,-2.201372
+345813,Wycherley's Cheese,4,0,5,10,2013-07-22,52.730154,-2.114632
+345814,Wyrley Park Fish Bar,3,10,10,5,2015-01-19,52.657016,-2.011458
+345815,Wyrley Spice,3,5,10,10,2014-03-04,52.660872,-2.012642

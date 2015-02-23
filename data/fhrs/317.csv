@@ -1,562 +1,562 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-337719,,65-67 Long Street,Atherstone,Warwickshire,@67,Retailers - other,4613,10,,401543,10,,52.57759400000000,921,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54826400000000,CV9 1AZ,2014-05-06,fhrs_4_en-GB,4,,FHRS,0
-337720,Nightingales farm,Bentley,Atherstone,Warks,19 Gales Farm Shop,Retailers - other,4613,5,,492336,10,,52.54985900000000,31848,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60585800000000,CV9 2JR,2014-11-21,fhrs_4_en-GB,4,,FHRS,5
-337721,,39A Bridge Street,"Polesworth, Tamworth",Staffordshire,A & A Premier Stores,Retailers - other,4613,5,,189272,10,,52.61912200000000,641,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61551700000000,B78 1DR,2013-08-22,fhrs_4_en-GB,4,,FHRS,5
-337722,,,,,A J Catering,Other catering premises,7841,10,,650290,5,,,2516,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-03-14,fhrs_4_en-GB,4,,FHRS,5
-337723,,2 Nuneaton Road,"Hartshill, Nuneaton",Warwickshire,A J Stores (Day to Day),Retailers - supermarkets/hypermarkets,7840,10,,212673,10,,52.54800200000000,316,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51914800000000,CV10 0SR,2014-01-13,fhrs_3_en-GB,3,,FHRS,5
-337724,,,,,A Piece of Cake,Other catering premises,7841,5,,99167,0,,,31289,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-03-14,fhrs_5_en-GB,5,,FHRS,5
-337725,Mullensgrove Farm,Kingsbury Road,"Curdworth, Sutton Coldfield",West Midlands,A.M.Cooper & Sons,Retailers - other,4613,20,,212666,10,,52.54374100000000,1134,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71718200000000,B76 0DF,2014-01-17,fhrs_1_en-GB,1,,FHRS,15
-337726,,Merevale Lane,Merevale,Warwickshire,Abbey Farm B&B,Hotel/bed & breakfast/guest house,7842,10,,621327,0,,52.57590000000000,31252,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57620000000000,CV9 2LA,2013-12-23,fhrs_4_en-GB,4,,FHRS,5
-337727,Woodford Lodge Farm,Leathermill Lane,Hartshill,Nuneaton,Ace Karting Ltd,Other catering premises,7841,5,,212689,5,,,2006,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,CV10 ORX,2013-07-30,fhrs_5_en-GB,5,,FHRS,0
-337728,,Ansley Common,Nuneaton,Warwickshire,Acorn Wood Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,401518,0,,52.53563000000000,16,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53669400000000,CV10 0QJ,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-337729,,5 Victoria Road,Nuneaton,Warwickshire,Aki's Fish Bar,Takeaway/sandwich shop,7844,5,,401531,5,,52.53860300000000,333,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52031200000000,CV10 0LS,2014-04-07,fhrs_5_en-GB,5,,FHRS,5
-337730,,32 Station Street,Atherstone,Warwickshire,Aldi Stores Ltd,Retailers - supermarkets/hypermarkets,7840,0,,462796,0,,,2154,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,CV9 1BZ,2012-10-15,fhrs_5_en-GB,5,,FHRS,0
-337731,,24 Church Street,Atherstone,Warwickshire,Angel Ale House,Pub/bar/nightclub,7843,5,,423569,5,,52.57795000000000,205,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54722700000000,CV9 1HA,2014-11-24,fhrs_4_en-GB,4,,FHRS,10
-337732,,,,,Annies Catering Company,Mobile caterer,7846,5,,548456,5,,,31328,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-03-23,fhrs_5_en-GB,5,,FHRS,5
-337733,,68 Birmingham Road,"Ansley, Nuneaton",Warwickshire,Ansley Fish Bar,Takeaway/sandwich shop,7844,5,,79019,5,,52.52303900000000,19,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56373900000000,CV10 9PS,2014-04-25,fhrs_5_en-GB,5,,FHRS,0
-337734,,43 Ansley Common,Ansley,Nuneaton,Ansley One Stop,Retailers - other,4613,5,,446877,5,,52.53751800000000,13,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53229500000000,CV10 0PP,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-337735,,148 Birmingham Road,"Ansley, Nuneaton",Warwickshire,Ansley Post Office,Retailers - other,4613,5,,734716,5,,52.51982600000000,20,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55812600000000,CV10 9PQ,2013-11-27,fhrs_4_en-GB,4,,FHRS,10
-337736,,142 Birmingham Road,"Ansley, Nuneaton",Warwickshire,Ansley Social Club & Institute Ltd,Pub/bar/nightclub,7843,5,,462795,5,,52.51982600000000,21,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55812600000000,CV10 9PQ,2012-10-16,fhrs_4_en-GB,4,,FHRS,10
-337737,,52 Station Road,Whitacre Heath,Birmingham,Apply News,Retailers - other,4613,5,,430158,10,,52.53137100000000,818,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.67859500000000,B46 2EH,2014-01-15,fhrs_4_en-GB,4,,FHRS,5
-337738,,Birmingham Road,Church End,Ansley,Arc School,School/college/university,7845,5,,96069,5,,52.53041000000000,29,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57341000000000,CV10 0QR,2013-02-04,fhrs_5_en-GB,5,,FHRS,5
-337739,,Ansley Lane,Ansley,Nuneaton,Arc School,School/college/university,7845,5,,98819,5,,52.52141400000000,31172,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57423400000000,CV10 9ND,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-337740,St Michaels Church,Gun Hill,Arley,Nuneaton,Arley & St Michaels Community Centre,Restaurant/Cafe/Canteen,1,5,,504675,0,,52.50452900000000,31194,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56884300000000,CV7 8HA,2013-01-16,fhrs_5_en-GB,5,,FHRS,0
-337741,,Gun Hill,New Arley,Coventry,Arley Primary School,School/college/university,7845,0,,423583,0,,52.50476500000000,78,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56699900000000,CV7 8HB,2014-03-05,fhrs_5_en-GB,5,,FHRS,5
-337742,,Middleton Lane,"Middleton, Tamworth",Staffordshire,Ash End House Children's Farm,Other catering premises,7841,5,,119656,10,,52.57517400000000,488,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74293600000000,B78 2BL,2014-02-26,fhrs_4_en-GB,4,,FHRS,5
-337743,,Old Watling Street,Atherstone,Warwickshire,Ashleigh Nursery,Hospitals/Childcare/Caring Premises,5,5,,198535,0,,52.57976500000000,809,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55413000000000,CV9 2PA,2014-07-25,fhrs_5_en-GB,5,,FHRS,5
-337744,,Astley Lane,Bedworth,Warwickshire,Astley Book Farm,Restaurant/Cafe/Canteen,1,0,,578579,0,,52.48631500000000,31187,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51974700000000,CV12 0NE,2013-08-01,fhrs_5_en-GB,5,,FHRS,0
-337745,,Bodymoor Heath Lane,Bodymoor Heath,Middleton,Aston Villa Training Ground,Restaurant/Cafe/Canteen,1,0,,189279,0,,52.57181800000000,470,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71810800000000,B78 2BB,2013-12-16,fhrs_5_en-GB,5,,FHRS,0
-337746,,Kings Avenue,Atherstone,Warwickshire,Atherstone Early Years Centre,School/college/university,7845,5,,629806,5,,52.57870900000000,29848,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54124300000000,CV9 1JZ,2014-01-10,fhrs_5_en-GB,5,,FHRS,5
-337747,,The Outwoods,Coleshill Road,Atherstone,Atherstone Golf Club,Pub/bar/nightclub,7843,5,,212660,5,,52.56831000000000,565,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54403700000000,CV9 2RL,2015-01-12,fhrs_5_en-GB,5,,FHRS,5
-337748,,79 Station Street,Atherstone,Warwickshire,Atherstone House,Takeaway/sandwich shop,7844,5,,146272,10,,52.57669600000000,888,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54833200000000,CV9 1DB,2014-02-17,fhrs_3_en-GB,3,,FHRS,10
-337749,,23 Fourways,Carlyon Road Industrial Estate,Atherstone,Atherstone Ices,Mobile caterer,7846,5,,726362,5,,52.57732700000000,32660,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53491200000000,CV9 1LG,2014-07-09,fhrs_5_en-GB,5,,FHRS,5
-337750,Partnership House,Coleshill Road,Atherstone,,Atherstone Over 55's Club,Other catering premises,7841,10,,555996,5,,52.57558800000000,1291,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54778300000000,CV9 1BN,2014-05-30,fhrs_4_en-GB,4,,FHRS,0
-337751,,Ratcliffe Road,Atherstone,Warwickshire,Atherstone Town Cricket Club,Pub/bar/nightclub,7843,10,,114456,10,,52.58159500000000,435,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53669700000000,CV9 1LX,2014-05-15,fhrs_3_en-GB,3,,FHRS,10
-337752,,Sheepy Road,Atherstone,Warwickshire,Atherstone Town F.C.,Pub/bar/nightclub,7843,5,,189286,5,,52.58371300000000,478,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54725700000000,CV9 3AD,2013-09-09,fhrs_4_en-GB,4,,FHRS,10
-337753,,Long Street,Atherstone,Warwickshire,Atherstone Unionist Conservative Club Ltd,Pub/bar/nightclub,7843,5,,370728,5,,52.57630000000000,760,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54374700000000,CV9 1AD,2012-03-30,fhrs_5_en-GB,5,,FHRS,5
-337754,,Tamworth Road,"Kingsbury, Tamworth",Staffordshire,Atlantic Fish Bar,Takeaway/sandwich shop,7844,10,,110824,5,,52.56580900000000,404,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68092500000000,B78 2LD,2014-10-01,fhrs_4_en-GB,4,,FHRS,5
-337755,,St. Nicholas Close,"Austrey, Atherstone",Warwickshire,Austrey C of E Primary School,School/college/university,7845,5,,149468,5,,52.65662200000000,960,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56451100000000,CV9 3EQ,2013-02-08,fhrs_5_en-GB,5,,FHRS,5
-337756,,102 Main Road,"Austrey, Atherstone",Warwickshire,Austrey Post Office & Stores,Retailers - other,4613,5,,430159,10,,52.65465800000000,956,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56354000000000,CV9 3EG,2014-07-22,fhrs_4_en-GB,4,,FHRS,5
-337757,,Austrey Playing fields,Newton Lane,Austrey,Austrey Rangers Football Club,Restaurant/Cafe/Canteen,1,5,,734734,5,,52.65871700000000,31893,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56966400000000,CV9 3EP,2013-10-18,fhrs_5_en-GB,5,,FHRS,5
-337758,Baddesley Ensor Village Hall,Keys Hill,"Baddesley Ensor, Atherstone",Warwickshire,Baddesley Ensor Lunch club/Cafe,Other catering premises,7841,5,,370735,10,,52.58056000000000,961,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60041800000000,CV9 2DF,2013-11-06,fhrs_4_en-GB,4,,FHRS,5
-337759,Baddesley Ensor Post Office,69 New Street,"Baddesley Ensor, Atherstone",Warwickshire,Baddesley Ensor Post Office,Retailers - other,4613,,,734755,,,52.57984300000000,965,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60125000000000,CV9 2DN,2013-03-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-337760,,50 New Street,Baddesley Ensor,Atherstone,Baddesley Ensor Social Club,Pub/bar/nightclub,7843,5,,578581,10,,52.57984300000000,967,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60125000000000,CV9 2DN,2013-08-02,fhrs_3_en-GB,3,,FHRS,10
-337761,,38-40 Keys Hill,"Baddesley Ensor, Atherstone",Warwickshire,Baddesley Fish Bar,Takeaway/sandwich shop,7844,10,,149575,10,,52.58056000000000,963,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60041800000000,CV9 2DF,2014-01-16,fhrs_2_en-GB,2,,FHRS,15
-337762,St Nicholas Parish Church Hall,Hill Top,"Baddesley Ensor, Atherstone",Warwickshire,Baddesley Luncheon Club,Other catering premises,7841,5,,492337,10,,52.58509600000000,973,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60222100000000,CV9 2BQ,2014-07-14,fhrs_4_en-GB,4,,FHRS,5
-337763,,17-19 New Street,"Baddesley Ensor, Atherstone",Warwickshire,Baddesley Stores Ltd,Retailers - other,4613,5,,466425,10,,52.57865400000000,964,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60049400000000,CV9 2DW,2012-11-09,fhrs_4_en-GB,4,,FHRS,0
-337764,"Unit 3, Middleton Hall Craft Centre",Tamworth Road,Middleton,Warwickshire,Bake 180 Coffee Shop,Restaurant/Cafe/Canteen,1,5,,189288,5,,52.58158700000000,496,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71698300000000,B78 2AE,2014-07-21,fhrs_5_en-GB,5,,FHRS,5
-337765,,,,,Baked With Love By Jules,Other catering premises,7841,5,,492333,5,,,30738,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2012-12-14,fhrs_5_en-GB,5,,FHRS,5
-337766,,107 High Street,Coleshill,Birmingham,Balti Cottage Indian Restaurant,Restaurant/Cafe/Canteen,1,10,,423579,10,,52.49790900000000,606,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70579500000000,B46 3BP,2014-02-06,fhrs_3_en-GB,3,,FHRS,5
-337767,Banana Moon Day Nursery,Little Brum,Baddesley Ensor,,Banana Moon Day Nursery @ Baddesley,Hospitals/Childcare/Caring Premises,5,20,,548460,15,,52.58657500000000,31877,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60090900000000,CV9 2ET,2015-01-06,fhrs_1_en-GB,1,,FHRS,15
-337768,Kingsbury Library,Bromage Avenue,Kingsbury,Warwickshire,Banana Moon Day Nursery @ Kingsbury,Hospitals/Childcare/Caring Premises,5,10,,543043,10,,52.56779900000000,31876,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68552900000000,B78 2HN,2014-07-15,fhrs_3_en-GB,3,,FHRS,10
-337769,,125 Long Street,Atherstone,Warwickshire,Bargain Booze,Retailers - other,4613,,,535659,,,52.57695700000000,747,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54608700000000,CV9 1AB,2013-03-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-337770,,Market Street,Atherstone,Warwickshire,Bates Of Atherstone Ltd,Retailers - other,4613,5,,370732,5,,52.57789400000000,901,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54666700000000,CV9 1ET,2013-11-25,fhrs_4_en-GB,4,,FHRS,10
-337771,,,,,Bay Tree Catering,Mobile caterer,7846,5,,83329,5,,,2036,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-11-09,fhrs_5_en-GB,5,,FHRS,5
-337772,,Twenty One Oaks,Bentley,Warwickshire,Bentley House Care Centre,Hospitals/Childcare/Caring Premises,5,5,,212678,10,,52.56563900000000,468,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58290900000000,CV9 2HQ,2014-02-11,fhrs_4_en-GB,4,,FHRS,5
-337773,,Watling Street,"Dordon, Tamworth",Staffordshire,Birch Coppice Sports and Social,Pub/bar/nightclub,7843,10,,401516,10,,52.59806300000000,1246,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61673500000000,B78 1SY,2014-06-25,fhrs_3_en-GB,3,,FHRS,10
-337774,,31 New Street,"Birchmoor, Tamworth",Staffordshire,Birchmoor Working Mens Club,Pub/bar/nightclub,7843,5,,521262,0,,52.61042400000000,686,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.63107000000000,B78 1AF,2013-03-04,fhrs_5_en-GB,5,,FHRS,5
-337775,,Birchwood Avenue,"Dordon, Tamworth",Staffordshire,Birchwood Primary School,School/college/university,7845,5,,409586,0,,52.60766500000000,1187,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61982600000000,B78 1QU,2014-11-12,fhrs_5_en-GB,5,,FHRS,5
-337776,,156 Long Street,Atherstone,Warwickshire,Black Horse,Pub/bar/nightclub,7843,10,,189283,5,,52.57587700000000,357,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54128700000000,CV9 1AE,2013-10-11,fhrs_3_en-GB,3,,FHRS,10
-337777,Blackgreaves Farm,Blackgreaves Lane,Lea Marston,Warwickshire,Blackgreaves Farm House,Hotel/bed & breakfast/guest house,7842,5,,650294,5,,52.54356000000000,32641,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70951600000000,B76 0DA,2014-04-02,fhrs_5_en-GB,5,,FHRS,0
-337778,,39 Blythe Road,Coleshill,Birmingham,Blythewood Guest House,Hotel/bed & breakfast/guest house,7842,5,,590122,5,,52.50131400000000,1011,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70488800000000,B46 1AF,2013-09-18,fhrs_5_en-GB,5,,FHRS,0
-337779,,Coventry Road,Fillongley,Coventry,Bournebrook C of E Primary School,School/college/university,7845,0,,629805,5,,52.48129500000000,1166,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58796200000000,CV7 8ET,2014-01-21,fhrs_5_en-GB,5,,FHRS,5
-337780,,Friary Road,Atherstone,Warwickshire,Bracebridge Court,Hospitals/Childcare/Caring Premises,5,5,,76988,5,,52.58048200000000,180,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53945400000000,CV9 3AL,2015-01-12,fhrs_5_en-GB,5,,FHRS,5
-337781,,Spon Lane,"Grendon, Atherstone",Warwickshire,Bradley Green Nursery School,Hospitals/Childcare/Caring Premises,5,5,,212652,0,,52.59868800000000,1226,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58092700000000,CV9 3DN,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-337782,,Station Road,"Polesworth, Tamworth",Staffordshire,Briars Barn,Hospitals/Childcare/Caring Premises,5,10,,212671,5,,52.62583800000000,2157,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60762900000000,B79 0EH,2014-03-10,fhrs_3_en-GB,3,,FHRS,10
-337783,Middleton Hall - Middleton Hall Trust,Tamworth Road,Middleton,Tamworth,Brittons Caterers,Restaurant/Cafe/Canteen,1,5,,732638,0,,52.56408600000000,32653,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.72169800000000,B78 2BD,2014-08-06,fhrs_5_en-GB,5,,FHRS,0
-337784,"Unit 10b, Springhill Business Park",Colliers Way,Arley,Warwickshire,Brookside Country Meats,Retailers - other,4613,5,,212687,0,,52.50559200000000,2053,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57954300000000,CV7 8HN,2012-01-10,fhrs_5_en-GB,5,,FHRS,0
-337785,"Childrens Farm, Broomey Croft Farm",Bodymoor Heath Lane,Bodymoor Heath,Kingsbury,Broomey Croft Childrens Farm,Restaurant/Cafe/Canteen,1,5,,113353,5,,52.56721900000000,424,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70137800000000,B76 0EE,2014-04-14,fhrs_4_en-GB,4,,FHRS,10
-337786,,108 High Street,Coleshill,Birmingham,Brownies,Retailers - other,4613,0,,664165,5,,52.49860400000000,176,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70685100000000,B46 3BL,2014-04-28,fhrs_5_en-GB,5,,FHRS,0
-337787,,,,,Buffalo Grill (Springfield Promotions),Mobile caterer,7846,5,,495817,5,,,31301,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2012-11-18,fhrs_5_en-GB,5,,FHRS,0
-337788,,,,,Buffet Junction,Other catering premises,7841,0,,98814,0,,,31170,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-337789,,Common Lane,Corley,Coventry,Bull and Butcher,Pub/bar/nightclub,7843,5,,370707,0,,52.46297700000000,1034,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58645500000000,CV7 8AQ,2014-05-02,fhrs_5_en-GB,5,,FHRS,0
-337790,"Heart Of England, Old Hall Farm",Meriden Road,Fillongley,Warwickshire,Burger Box,Mobile caterer,7846,5,,548320,0,,52.46594400000000,31396,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60754900000000,CV7 8DX,2014-07-01,fhrs_5_en-GB,5,,FHRS,5
-337791,Tamworth Motorway Services Are,Green Lane,"Dordon, Tamworth",Staffordshire,Burger King,Restaurant/Cafe/Canteen,1,0,,370711,0,,52.60815400000000,1261,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64105700000000,B77 5PS,2013-10-16,fhrs_5_en-GB,5,,FHRS,5
-337792,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,Burger King (North),Restaurant/Cafe/Canteen,1,0,,68304,0,,52.47184000000000,1527,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-10-30,fhrs_5_en-GB,5,,FHRS,0
-337793,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,Burger King (South),Restaurant/Cafe/Canteen,1,0,,68220,0,,52.47184000000000,1525,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-10-30,fhrs_5_en-GB,5,,FHRS,5
-337794,,Tamworth Road,Corley,Coventry,Butts Croft House,Hospitals/Childcare/Caring Premises,5,5,,212661,10,,52.46362700000000,1038,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55729100000000,CV7 8BB,2014-02-06,fhrs_4_en-GB,4,,FHRS,5
-337795,Glenside,Ansley Lane,Arley,Warks,C H Rowley,Retailers - other,4613,10,,132224,10,,52.51466100000000,64,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58159300000000,CV7 8FU,2014-09-25,fhrs_3_en-GB,3,,FHRS,5
-337796,,Unit 8 Innage Park,Holly Lane Industrial Estate,Atherstone,Cafe 8,Restaurant/Cafe/Canteen,1,5,,606637,5,,52.58296200000000,31909,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55324200000000,CV9 2QZ,2013-10-31,fhrs_5_en-GB,5,,FHRS,5
-337797,,112b High Street,Coleshill,Birmingham,Cafe au Lait,Restaurant/Cafe/Canteen,1,5,,77705,10,,52.49860400000000,183,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70685100000000,B46 3BL,2014-06-10,fhrs_4_en-GB,4,,FHRS,5
-337798,,72a Long Street,Atherstone,Warwickshire,Cafe Resta,Restaurant/Cafe/Canteen,1,5,,94318,5,,52.57797200000000,275,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54823100000000,CV9 1AU,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-337799,,Watling Street,Dordon,Warwickshire,Cafe Simla,Restaurant/Cafe/Canteen,1,10,,74122,5,,52.59806300000000,1703,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61673500000000,B78 1SY,2014-09-23,fhrs_3_en-GB,3,,FHRS,10
-337800,,,,,Cakes We Make,Other catering premises,7841,5,,590126,5,,,31870,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-04-26,fhrs_5_en-GB,5,,FHRS,5
-337801,,Kingsbury Water Park,Bodymoor Heath Lane,"Kingsbury, Staffs",Camping & Caravanning Site,Retailers - other,4613,,,734741,,,52.56074400000000,370,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70018300000000,B76 0DY,2013-01-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-337802,North Warwickshire & Hinckley College,Ratcliffe Road,Atherstone,Warwickshire,Catering Academy,School/college/university,7845,0,,283163,5,,52.57852000000000,938,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54356200000000,CV9 1LF,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-337803,,Coventry Road,Fillongley,Coventry,Caves News,Retailers - other,4613,10,,52224,10,,52.48129500000000,1177,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58796200000000,CV7 8ET,2014-08-21,fhrs_3_en-GB,3,,FHRS,10
-337804,The Cedars,Coton Road,Nether Whitacre,Birmingham,Cedars Cafe,Restaurant/Cafe/Canteen,1,5,,198533,5,,,2272,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,B46 2HJ,2013-12-16,fhrs_5_en-GB,5,,FHRS,0
-337805,,119-123 Long Street,Atherstone,Warwickshire,Central England Co-operative Society,Retailers - supermarkets/hypermarkets,7840,5,,139084,5,,52.57695700000000,745,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54608700000000,CV9 1AB,2014-09-15,fhrs_4_en-GB,4,,FHRS,10
-337806,Cooperative Supermarket,Station Street,Atherstone,Warwickshire,Central England Co-operative Society,Retailers - supermarkets/hypermarkets,7840,5,,283140,5,,,1293,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,CV9 1BZ,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-337807,Co-operative Supermarket,Station Street,Atherstone,Warwickshire,Central England Co-operative Society (Cafe),Restaurant/Cafe/Canteen,1,5,,283147,0,,,1702,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,CV9 1BZ,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-337808,,Watling Street,Dordon,Tamworth,Centurion Service Station,Takeaway/sandwich shop,7844,5,,430142,0,,52.59700200000000,1247,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61125200000000,B78 1SS,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-337809,,69 High Street,Coleshill,Warwickshire,Chalk & Linen,Restaurant/Cafe/Canteen,1,5,,707987,0,,52.50139200000000,217,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70734800000000,B46 1AY,2014-10-15,fhrs_5_en-GB,5,,FHRS,0
-337810,,School Hill,Chapel End,Hartshill,Chapel End Liberal Club,Pub/bar/nightclub,7843,5,,563421,5,,52.53850700000000,325,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52317300000000,CV10 0NF,2013-06-21,fhrs_4_en-GB,4,,FHRS,10
-337811,,Friars Gate,Atherstone,Warwickshire,Chapel House Hotel,Restaurant/Cafe/Canteen,1,10,,430148,5,,52.57823300000000,227,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54592600000000,CV9 1EY,2014-01-16,fhrs_4_en-GB,4,,FHRS,5
-337812,Baddesley Ensor Village Hall,Keys Hill,Baddesley Ensor,Warwickshire,Chattel House kitchen,Other catering premises,7841,5,,734736,5,,52.58056000000000,31915,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60041800000000,CV9 2DF,2013-11-08,fhrs_5_en-GB,5,,FHRS,5
-337813,,,,,Cherrypie Cupcakes,Other catering premises,7841,5,,590124,5,,,31324,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-337814,Memorial Park Centre,Parkfield Road,Coleshill,Birmingham,Chestnut Tree Nursery,Hospitals/Childcare/Caring Premises,5,5,,150671,0,,52.49640200000000,989,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70708600000000,B46 3LE,2014-08-12,fhrs_5_en-GB,5,,FHRS,5
-337815,,84 New Street,"Dordon, Tamworth",Staffordshire,Chilli Massala,Takeaway/sandwich shop,7844,10,,55750,10,,52.59967900000000,1259,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61621900000000,B78 1TQ,2014-10-27,fhrs_3_en-GB,3,,FHRS,10
-337816,,Sycamore Corner,"Gun Hill, Arley",Coventry,China Chef,Takeaway/sandwich shop,7844,5,,212684,5,,52.50531100000000,71,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56647800000000,CV7 8PQ,2013-07-22,fhrs_5_en-GB,5,,FHRS,0
-337817,,,,,Chunky Chips Wicked Dips,Mobile caterer,7846,5,,555998,0,,,31206,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-04-25,fhrs_5_en-GB,5,,FHRS,0
-337818,,109 Ridge Lane,Atherstone,Warks,Church End Brewery Ltd,Retailers - other,4613,5,,616449,0,,52.55074600000000,527,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56637000000000,CV10 0RD,2013-11-20,fhrs_5_en-GB,5,,FHRS,0
-337819,,50 Lichfield Road,Coleshill,Birmingham,Cole End Stores & Off Licence,Retailers - other,4613,5,,283162,10,,52.50449800000000,910,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70905100000000,B46 1EG,2014-02-05,fhrs_4_en-GB,4,,FHRS,5
-337820,Ivy Lodge,High Street,Coleshill,Birmingham,Coleshill & District Social Club Ltd,Pub/bar/nightclub,7843,5,,150631,0,,52.49778400000000,988,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70616400000000,B46 3BJ,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-337821,,Wingfield Road,Coleshill,Birmingham,Coleshill C Of E Primary School,School/college/university,7845,5,,401544,5,,52.49443000000000,998,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70929400000000,B46 3LL,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-337822,Memorial Park Centre,Parkfield Road,Coleshill,Warwickshire,Coleshill Cricket Club,Pub/bar/nightclub,7843,5,,430147,5,,52.49640200000000,2129,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70708600000000,B46 3LE,2013-07-10,fhrs_4_en-GB,4,,FHRS,10
-337823,,,,,Coleshill Cupcakes,Other catering premises,7841,10,,409591,5,,,31389,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2012-06-19,fhrs_4_en-GB,4,,FHRS,5
-337824,,Father Hudsons Society,Coventry Road,Coleshill,Coleshill Day Services,Hospitals/Childcare/Caring Premises,5,10,,212686,15,,,126,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,B46 3EB,2014-02-24,fhrs_2_en-GB,2,,FHRS,5
-337825,,95 High Street,Coleshill,Birmingham,Coleshill Fish Bar,Takeaway/sandwich shop,7844,10,,87447,10,,52.49987200000000,226,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70684200000000,B46 3AG,2014-10-08,fhrs_3_en-GB,3,,FHRS,10
-337826,,105C Wingfield Road,Coleshill,Birmingham,Coleshill General Store,Retailers - other,4613,10,,409599,10,,52.49216400000000,994,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70925000000000,B46 3NH,2015-01-05,fhrs_3_en-GB,3,,FHRS,5
-337827,,91 Coleshill Road,Atherstone,Warwickshire,Coleshill Road Chip Shop,Takeaway/sandwich shop,7844,20,,126612,15,,52.57364400000000,557,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54958800000000,CV9 2AB,2014-09-10,fhrs_1_en-GB,1,,FHRS,10
-337828,,90 Coleshill Road,Atherstone,Warwickshire,Coleshill Road Convenience Store,Retailers - other,4613,0,,466423,5,,52.57260500000000,559,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55067600000000,CV9 2AF,2012-11-12,fhrs_5_en-GB,5,,FHRS,5
-337829,Community Centre,Hudson Avenue,Coleshill,Birmingham,Coleshill Stroke Club,Hospitals/Childcare/Caring Premises,5,5,,212653,0,,52.49425700000000,103,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70841100000000,B46 3LR,2013-08-15,fhrs_5_en-GB,5,,FHRS,0
-337830,,Maxstoke Lane,Coleshill,Warwickshire,Coleshill Tennis & Sports Club,Pub/bar/nightclub,7843,10,,370733,5,,52.49790900000000,913,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70579500000000,B46 3BP,2013-10-18,fhrs_4_en-GB,4,,FHRS,5
-337831,,Packington Lane,Coleshill,Birmingham,Coleshill Town Football Club,Pub/bar/nightclub,7843,5,,451563,0,,52.48432600000000,922,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.69897900000000,B46 3JQ,2014-03-31,fhrs_4_en-GB,4,,FHRS,10
-337832,Sainsburys NDC,Faraday Avenue,Hams Hall,"Coleshill,Birmingham",Compass Contract Services (Sainsburys),Restaurant/Cafe/Canteen,1,5,,75000,5,,52.52432800000000,1741,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70110800000000,B46 1AL,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-337833,,63 Long Street,Atherstone,Warwickshire,Congraves,Retailers - other,4613,10,,212679,10,,52.57759400000000,930,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54826400000000,CV9 1AZ,2014-01-14,fhrs_2_en-GB,2,,FHRS,15
-337834,,82 High Street,Coleshill,Birmingham,Connoisseurs,Retailers - other,4613,5,,66213,10,,52.49949500000000,149,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70731600000000,B46 3AH,2014-08-12,fhrs_3_en-GB,3,,FHRS,10
-337835,I. M. House,South Drive,Coleshill,Birmingham,Coombs Catering Partnership Ltd,Restaurant/Cafe/Canteen,1,5,,504674,5,,52.50197700000000,2248,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.72636200000000,B46 1DF,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-337836,,17 High Street,"Polesworth, Tamworth",Staffordshire,Co-op Late Shop,Retailers - supermarkets/hypermarkets,7840,5,,409598,0,,52.62052100000000,661,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61173800000000,B78 1DX,2014-01-03,fhrs_5_en-GB,5,,FHRS,5
-337837,,109 Tamworth Road,"Kingsbury, Tamworth",Staffordshire,Co-op Late Shop,Retailers - supermarkets/hypermarkets,7840,5,,370718,5,,52.56764600000000,393,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68229900000000,B78 2HH,2012-03-07,fhrs_5_en-GB,5,,FHRS,5
-337838,,Gun Hill,Arley,Coventry,Co-op Late Shop,Retailers - supermarkets/hypermarkets,7840,5,,212676,0,,52.50452900000000,74,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56884300000000,CV7 8HA,2015-01-13,fhrs_4_en-GB,4,,FHRS,10
-337839,,70 New Street,"Dordon, Tamworth",Staffordshire,Co-op Late Shop,Retailers - supermarkets/hypermarkets,7840,10,,54775,5,,52.59967900000000,1235,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61621900000000,B78 1TQ,2013-09-04,fhrs_4_en-GB,4,,FHRS,5
-337840,,Station Street,Atherstone,Warwickshire,Co-op Service Station (Midlands) (IPPC),Retailers - other,4613,,,430146,,,52.57691700000000,1964,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54756300000000,CV9 1BU,2012-02-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-337841,,Church Lane,Corley,Coventry,Corley Bowling Club,Pub/bar/nightclub,7843,5,,41471,5,,52.46272600000000,1028,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56175900000000,CV7 8AZ,2013-04-23,fhrs_5_en-GB,5,,FHRS,5
-337842,,Church Lane,Corley,Coventry,Corley Centre,School/college/university,7845,5,,401513,5,,52.46272600000000,1031,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56175900000000,CV7 8AZ,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-337843,,Tamworth Road,Corley,Coventry,Corley Cricket Club,Pub/bar/nightclub,7843,10,,42051,5,,52.46009100000000,1039,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55663400000000,CV7 8AA,2013-07-24,fhrs_4_en-GB,4,,FHRS,5
-337844,,58 Long Street,Atherstone,Warwickshire,Costa Coffee,Restaurant/Cafe/Canteen,1,5,,548323,5,,52.57797200000000,937,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54823100000000,CV9 1AU,2013-05-07,fhrs_5_en-GB,5,,FHRS,0
-337845,"Moto Service Station, M42 Motorway Services Area",Green Lane,Dordon,Warwickshire,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,606635,0,,52.60815400000000,31390,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64105700000000,B77 5PS,2013-10-16,fhrs_5_en-GB,5,,FHRS,5
-337846,Melbicks Garden Centre,Chester Road,Coleshill,,Costa Coffee (Melbicks),Restaurant/Cafe/Canteen,1,0,,726363,0,,52.46188000000000,32676,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70671200000000,B46 3HX,2014-12-04,fhrs_5_en-GB,5,,FHRS,0
-337847,,100-102 Coleshill Road,ChapeL End,Hartshill,Costcutter,Retailers - supermarkets/hypermarkets,7840,0,,97118,0,,52.53698300000000,300,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52439900000000,CV10 0PH,2013-01-07,fhrs_5_en-GB,5,,FHRS,5
-337848,,76 Mill Crescent,"Kingsbury, Tamworth",Staffordshire,Country Butchers,Retailers - other,4613,5,,409595,5,,52.55927000000000,387,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.67973400000000,B78 2NJ,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-337849,,,,,Country Cuisine,Mobile caterer,7846,5,,54514,0,,,1229,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-03-26,fhrs_5_en-GB,5,,FHRS,0
-337850,,2a Market Street,Atherstone,Warwickshire,Country Veg,Retailers - other,4613,5,,650296,5,,52.57789400000000,32646,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54666700000000,CV9 1ET,2014-04-08,fhrs_5_en-GB,5,,FHRS,5
-337851,,Astley Lane,Bedworth,Warwickshire,Cow Lees Care Home,Hospitals/Childcare/Caring Premises,5,10,,36797,10,,52.48478000000000,100,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51594900000000,CV12 0NF,2014-12-08,fhrs_3_en-GB,3,,FHRS,5
-337852,,,,,Crepe Escapes,Mobile caterer,7846,5,,521261,5,,,31850,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2012-12-07,fhrs_5_en-GB,5,,FHRS,5
-337853,,33 Coleshill Road,"Curdworth, Sutton Coldfield",West Midlands,Curdworth Post Office & Convenience Stores,Retailers - other,4613,10,,451561,5,,52.53321400000000,1124,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73696000000000,B76 9EX,2012-09-18,fhrs_4_en-GB,4,,FHRS,0
-337854,,Farthing Lane,Curdworth,Warwickshire,Curdworth Primary School,School/college/university,7845,0,,50562,0,,52.53309100000000,1127,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73427700000000,B76 9HF,2013-06-25,fhrs_5_en-GB,5,,FHRS,5
-337855,"Unit 10b, Springhill Business Park",Colliers Way,Arley,Warwickshire,D & R Meats,Retailers - other,4613,5,,616447,0,,52.50559200000000,1445,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57954300000000,CV7 8HN,2013-11-13,fhrs_5_en-GB,5,,FHRS,0
-337856,,Manor Farm,Church End,"Ansley, Nuneaton, Warks",D Goadby and Sons(Farm Shop),Retailers - other,4613,5,,78963,5,,52.53041000000000,1896,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57341000000000,CV10 0QR,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-337857,,,,,D.J's Mobile Catering,Mobile caterer,7846,5,,409592,10,,,31391,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-12-16,fhrs_3_en-GB,3,,FHRS,10
-337858,,7 Coleshill Road,Water Orton,Birmingham,Derek Sellars,Retailers - other,4613,10,,189282,10,,52.51672700000000,769,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74114000000000,B46 1SH,2013-05-30,fhrs_3_en-GB,3,,FHRS,10
-337859,Bristan Ltd,Pooley Hall Drive,Birch Coppice Business Park,"Dordon, Staffordshire",Dine (Bristan Ltd),Restaurant/Cafe/Canteen,1,5,,85584,10,,52.59823000000000,2162,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62696500000000,B78 1SG,2013-11-20,fhrs_4_en-GB,4,,FHRS,5
-337860,,Dog Lane,Bodymoor Heath,Kingsbury,Dog and Doublet,Pub/bar/nightclub,7843,10,,106052,15,,52.56205600000000,367,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70747600000000,B76 9JD,2014-08-18,fhrs_2_en-GB,2,,FHRS,15
-337861,,62 Long Street,Atherstone,Warwickshire,Dolphin Fish Bar,Takeaway/sandwich shop,7844,10,,430149,10,,52.57797200000000,269,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54823100000000,CV9 1AU,2014-01-16,fhrs_2_en-GB,2,,FHRS,15
-337862,,217 Long Street,"Dordon, Tamworth",Staffordshire,Dordon Club,Pub/bar/nightclub,7843,5,,370708,10,,52.60386400000000,1232,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61477900000000,B78 1PZ,2014-03-25,fhrs_3_en-GB,3,,FHRS,10
-337863,,Roman Way,"Dordon, Tamworth",Staffordshire,Dordon Community Primary School,School/college/university,7845,5,,52459,0,,52.60420400000000,1185,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61712400000000,B78 1PJ,2014-07-02,fhrs_5_en-GB,5,,FHRS,5
-337864,,Watling Street,"Dordon, Tamworth",Staffordshire,Dordon Filling Station,Retailers - other,4613,10,,55712,10,,52.59582000000000,1258,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60981600000000,B78 1SU,2014-03-24,fhrs_3_en-GB,3,,FHRS,10
-337865,,1 Browns Lane,"Dordon, Tamworth",Staffordshire,Dordon Fish Bar,Takeaway/sandwich shop,7844,5,,51393,5,,52.60082000000000,1151,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61584000000000,B78 1TR,2013-11-20,fhrs_4_en-GB,4,,FHRS,10
-337866,,11 Browns Lane,Dordon,Warwickshire,Dordon Food House,Takeaway/sandwich shop,7844,20,,51500,15,,52.60082000000000,1154,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61584000000000,B78 1TR,2014-12-03,fhrs_1_en-GB,1,,FHRS,15
-337867,,223 Long Street,"Dordon, Tamworth",Staffordshire,Dordon House,Takeaway/sandwich shop,7844,5,,409587,10,,52.60386400000000,1212,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61477900000000,B78 1PZ,2013-12-18,fhrs_4_en-GB,4,,FHRS,5
-337868,,Browns Lane,"Dordon, Tamworth",Staffordshire,Dordon Institute Social Club Ltd,Pub/bar/nightclub,7843,5,,52378,5,,52.60117900000000,1182,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61586600000000,B78 1TL,2014-07-08,fhrs_4_en-GB,4,,FHRS,10
-337869,,15 Browns Lane,"Dordon, Tamworth",Staffordshire,Dordon Wines & Spirits,Retailers - other,4613,,,734706,,,52.60082000000000,1157,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61584000000000,B78 1TR,2014-01-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-337870,,146 High Street,Coleshill,Birmingham,Dreamers Indian Cuisine,Restaurant/Cafe/Canteen,1,10,,504673,10,,52.49681100000000,209,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70539000000000,B46 3BG,2014-10-20,fhrs_3_en-GB,3,,FHRS,5
-337871,,7 Station Buildings,Birmingham Road,Water Orton,Drinks Direct,Retailers - other,4613,,,734749,,,52.51827500000000,763,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74220700000000,B46 1SR,2013-05-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-337872,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,Eat In (North),Restaurant/Cafe/Canteen,1,0,,68346,0,,52.47184000000000,1528,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-10-30,fhrs_5_en-GB,5,,FHRS,0
-337873,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,Eat In (South),Restaurant/Cafe/Canteen,1,0,,42314,0,,52.47184000000000,1044,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-10-30,fhrs_5_en-GB,5,,FHRS,5
-337874,,Gorsey Lane,Coleshill,Birmingham,El Cantina,Restaurant/Cafe/Canteen,1,10,,283136,15,,52.51524400000000,1053,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71014400000000,B46 1JU,2013-08-20,fhrs_2_en-GB,2,,FHRS,10
-337875,,,,,Elaine Chetwynd,Other catering premises,7841,5,,590123,5,,,23027,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-06-12,fhrs_5_en-GB,5,,FHRS,5
-337876,Hanson Thermalite,Canton Lane,Hams Hall,"Coleshill, Birmingham",Elior UK,Restaurant/Cafe/Canteen,1,5,,80548,10,,52.52432800000000,1950,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70110800000000,B46 1AQ,2013-04-30,fhrs_4_en-GB,4,,FHRS,0
-337877,3M,Ratcliffe Road,Atherstone,Warwickshire,Elior(3M),Restaurant/Cafe/Canteen,1,0,,115502,0,,,447,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,CV9 1PG,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-337878,,,,,Em's Custom Cakes,Other catering premises,7841,5,,591437,5,,,31868,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-04-03,fhrs_5_en-GB,5,,FHRS,5
-337879,Ocado Customer Fulfilment Centre 2,Danny Morson Way,Birch Coppice Business Park,Dordon,Eurest (Ocado),Restaurant/Cafe/Canteen,1,0,,508834,0,,52.59330800000000,31862,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62835000000000,B78 1SE,2013-02-05,fhrs_5_en-GB,5,,FHRS,0
-337880,TNT,Parcel Distribution Centre,Holly Lane,Atherstone,Eurest (TNT Parcel Depot),Restaurant/Cafe/Canteen,1,5,,212683,10,,52.58398700000000,536,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55560800000000,CV9 2QU,2013-07-23,fhrs_4_en-GB,4,,FHRS,5
-337881,"TNT Express, Express House",Holly Lane,Atherstone,Warwickshire,Eurest (TNT),Restaurant/Cafe/Canteen,1,5,,370723,5,,52.58398700000000,535,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55560800000000,CV9 2RY,2013-12-16,fhrs_5_en-GB,5,,FHRS,5
-337882,,Danny Morson Way,Dordon,Tamworth,Euro Car Parts,Other catering premises,7841,,,734724,,,52.59330800000000,31234,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62835000000000,B78 1SE,2013-10-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-337883,,Dobbies Garden World,"Nuneaton Road, Mancetter",Warwickshire,Farm Foodhall,Retailers - other,4613,5,,75260,5,,52.56219400000000,1753,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52291700000000,CV9 1RF,2013-05-10,fhrs_5_en-GB,5,,FHRS,5
-337884,Melbick Garden Centre,Chester Road,Coleshill,Birmingham,Farm House Table,Retailers - other,4613,5,,212693,5,,52.46199900000000,2096,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70418000000000,B46 3HY,2013-08-14,fhrs_4_en-GB,4,,FHRS,10
-337885,,8 Coventry Road,Coleshill,Birmingham,Farmers Butcher,Retailers - other,4613,5,,148622,0,,52.49492300000000,94,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70516700000000,B46 3BE,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-337886,St Andrews,37 Blythe Road,Coleshill,Warwickshire,Father Hudsons Society,Hospitals/Childcare/Caring Premises,5,10,,401534,10,,52.50131400000000,59,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70488800000000,B46 1AF,2012-05-15,fhrs_4_en-GB,4,,FHRS,0
-337887,The Parks,Black Hall Lane,Fillongley,Coventry,Fillongley Cricket Club,Pub/bar/nightclub,7843,5,,669990,0,,52.47756800000000,1164,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.63583300000000,CV7 8EN,2014-05-29,fhrs_4_en-GB,4,,FHRS,10
-337888,,Ousterne Lane,Fillongley,Coventry,Fillongley Social Club,Pub/bar/nightclub,7843,5,,543042,10,,52.48141800000000,1167,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58978600000000,CV7 8EU,2013-04-26,fhrs_3_en-GB,3,,FHRS,10
-337889,,Fir Tree Lane,Arley,Coventry,Fir Tree Inn,Pub/bar/nightclub,7843,10,,370725,10,,52.50622500000000,68,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57283400000000,CV7 8GW,2014-05-13,fhrs_3_en-GB,3,,FHRS,10
-337890,,58 Erdington Road,Atherstone,Warwickshire,Fish of the World,Retailers - other,4613,10,,563420,5,,52.57590000000000,31259,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57620000000000,CV9 2LA,2014-09-05,fhrs_4_en-GB,4,,FHRS,5
-337891,,,,,Food Fantasia,Mobile caterer,7846,10,,548461,10,,,31882,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-05-12,fhrs_3_en-GB,3,,FHRS,10
-337892,Unit 4,Station Road,Coleshill,Warwickshire,Food To Go,Mobile caterer,7846,5,,99285,5,,52.50735000000000,31327,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70632100000000,B46 1HT,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-337893,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,Forecourt (North),Retailers - other,4613,10,,283144,15,,52.47184000000000,1531,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2013-09-09,fhrs_2_en-GB,2,,FHRS,5
-337894,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,Forecourt (South),Retailers - other,4613,10,,283145,5,,52.47184000000000,1532,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2013-09-09,fhrs_4_en-GB,4,,FHRS,5
-337895,,12 Market Street,"Polesworth, Tamworth",Staffordshire,Fosters Yard,Hotel/bed & breakfast/guest house,7842,10,,189292,10,,52.61639300000000,663,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61690000000000,B78 1HW,2014-01-08,fhrs_3_en-GB,3,,FHRS,10
-337896,,Ashby Road,No Mans Heath,Tamworth,Four Counties Spice,Restaurant/Cafe/Canteen,1,5,,212690,10,,52.67775400000000,563,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57114900000000,B79 0PB,2013-07-22,fhrs_4_en-GB,4,,FHRS,5
-337897,,23 Fourways,Carlyon Road Industrial Estate,Atherstone,Fourways Play Centre,Restaurant/Cafe/Canteen,1,5,,401528,10,,52.57732700000000,31384,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53491200000000,CV9 1LG,2014-07-09,fhrs_4_en-GB,4,,FHRS,5
-337898,,160 Long Street,Atherstone,Warwickshire,Friendly Plaice,Takeaway/sandwich shop,7844,5,,401532,0,,52.57663300000000,342,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54383200000000,CV9 1AF,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-337899,,14-16 Church Street,Atherstone,Warks,Frozzone Foods Ltd,Retailers - other,4613,20,,409590,15,,52.57795000000000,31232,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54722700000000,CV9 1HA,2013-12-13,fhrs_1_en-GB,1,,FHRS,10
-337900,,70 Coton Road,Whitacre Heath,Birmingham,Gate Riding Club,Other catering premises,7841,,,734750,,,52.53491200000000,814,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.67805300000000,B46 2HL,2013-08-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-337901,,,,,Gee Spot Catering,Mobile caterer,7846,10,,734737,0,,,32652,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-06-19,fhrs_4_en-GB,4,,FHRS,0
-337902,,154 Coventry Road,Coleshill,Birmingham,George and Dragon (Coleshill) Ltd,Pub/bar/nightclub,7843,5,,42581,5,,52.48846800000000,105,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70525400000000,B46 3EH,2013-11-21,fhrs_5_en-GB,5,,FHRS,5
-337903,,,,,Giggle Bizz,Other catering premises,7841,5,,638708,5,,,32179,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-337904,,,,,Go4Coffee Limited,Mobile caterer,7846,0,,719471,0,,,32677,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-11-21,fhrs_5_en-GB,5,,FHRS,0
-337905,,86 New Street,"Dordon, Tamworth",Staffordshire,Golden Peach,Takeaway/sandwich shop,7844,10,,370709,10,,52.59967900000000,1238,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61621900000000,B78 1TQ,2013-11-04,fhrs_3_en-GB,3,,FHRS,10
-337906,,,,,Goughs Catering (Burger Van 1),Mobile caterer,7846,5,,423572,5,,,31264,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-337907,,,,,Goughs Catering (Burger Van 2),Mobile caterer,7846,5,,423573,5,,,31265,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-337908,,,,,Goughs Catering (Burger Van 3),Mobile caterer,7846,5,,423574,5,,,31266,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-337909,,,,,Goughs Catering (Donut Van),Mobile caterer,7846,5,,423571,5,,,31263,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-337910,BMW Motoren GmbH,Canton Lane,Hams Hall,Sutton Coldfield,Graysons Restaurants 'BMW',Restaurant/Cafe/Canteen,1,5,,117074,5,,52.52684500000000,463,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70115000000000,B46 1GB,2013-04-30,fhrs_5_en-GB,5,,FHRS,5
-337911,,,,,Great Griddler,Mobile caterer,7846,10,,85988,5,,,2181,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-10-31,fhrs_3_en-GB,3,,FHRS,10
-337912,,,,,Greenaways Catering,Other catering premises,7841,5,,51839,0,,,1165,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-337913,,91 Long Street,Atherstone,Warwickshire,Greggs,Retailers - other,4613,5,,137526,5,,52.57732100000000,725,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54721900000000,CV9 1BB,2013-03-28,fhrs_5_en-GB,5,,FHRS,5
-337914,Tamworth Services,Green Lane,Dordon,Tamworth,Greggs,Retailers - other,4613,0,,578580,0,,52.60815400000000,31894,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64105700000000,B77 5PS,2013-08-05,fhrs_5_en-GB,5,,FHRS,0
-337915,,Boot Hill,Grendon,Warwickshire,Grendon Community Centre Luncheon Club,Other catering premises,7841,5,,548318,5,,52.59017400000000,27556,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59650700000000,CV9 2EL,2013-05-02,fhrs_5_en-GB,5,,FHRS,5
-337916,,79 Watling Street,"Grendon, Atherstone",Warwickshire,Grendon News,Retailers - other,4613,10,,53445,5,,52.59203900000000,1204,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59505800000000,CV9 2PQ,2013-10-22,fhrs_4_en-GB,4,,FHRS,5
-337917,,150 Boot Hill,"Grendon, Atherstone",Warwickshire,Grendon Supermarket,Retailers - other,4613,10,,54141,5,,52.58585000000000,1220,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59917400000000,CV9 2EW,2013-03-04,fhrs_4_en-GB,4,,FHRS,5
-337918,,Watling Street,Grendon,Atherstone,Grendon Working Mens Club,Pub/bar/nightclub,7843,10,,584305,5,,52.59203900000000,1217,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59505800000000,CV9 2PQ,2013-09-03,fhrs_3_en-GB,3,,FHRS,10
-337919,,"Grimstock Hill, Lichfield Road",Coleshill,Birmingham,Grimscote Manor,Hotel/bed & breakfast/guest house,7842,10,,77552,10,,52.50889900000000,1824,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71473900000000,B46 1LH,2014-07-16,fhrs_3_en-GB,3,,FHRS,5
-337920,,Gilson Road,Coleshill,Birmingham,Grimstock Country House Hotel,Hotel/bed & breakfast/guest house,7842,5,,430143,5,,52.50692300000000,128,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71568000000000,B46 1LJ,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-337921,,1A Gun Hill,Arley,Coventry,Gun Hill  Stores and Post Office,Retailers - supermarkets/hypermarkets,7840,10,,563422,10,,52.50476500000000,72,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56699900000000,CV7 8HB,2013-06-25,fhrs_3_en-GB,3,,FHRS,5
-337922,,107 Long Street,Atherstone,Warwickshire,H&S Household,Retailers - other,4613,10,,401537,10,,52.57695700000000,736,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54608700000000,CV9 1AB,2014-03-14,fhrs_4_en-GB,4,,FHRS,0
-337923,,27 Long Street,Atherstone,Warwickshire,Happy Gathering,Takeaway/sandwich shop,7844,5,,128497,10,,52.57804900000000,585,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54969100000000,CV9 1AY,2014-11-28,fhrs_4_en-GB,4,,FHRS,5
-337924,,North Court,Great Packington,Warwickshire,Harris & Sheldon Group Ltd,Restaurant/Cafe/Canteen,1,5,,370724,10,,52.46005900000000,593,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.67743600000000,CV7 7HF,2012-03-21,fhrs_4_en-GB,4,,FHRS,0
-337925,Hartshill Community Centre,Church Road,Hartshill,,Hartshill Community Cafe,Other catering premises,7841,5,,409593,5,,52.54373500000000,31393,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52002000000000,CV10 0SJ,2013-08-13,fhrs_5_en-GB,5,,FHRS,5
-337926,Hartshill Post Office,33 Church Road,"Hartshill, Nuneaton",Warwickshire,Hartshill Post Office,Retailers - other,4613,,,734721,,,52.54080200000000,264,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52165900000000,CV10 0LT,2013-03-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-337927,,Church Road,Hartshill,Warwickshire,Hartshill School,School/college/university,7845,5,,94739,5,,52.54048700000000,279,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51933300000000,CV10 0NA,2013-03-01,fhrs_5_en-GB,5,,FHRS,0
-337928,,Victoria Road,Hartshill,Nuneaton,Hartshill Sports and Social Club,Pub/bar/nightclub,7843,5,,401530,5,,52.53860300000000,330,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52031200000000,CV10 0LS,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-337929,,Long Street,Atherstone,Warwickshire,Hat and Beaver,Pub/bar/nightclub,7843,10,,495818,10,,52.57663300000000,363,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54383200000000,CV9 1AF,2013-01-08,fhrs_3_en-GB,3,,FHRS,10
-337930,,93-95 Long Street,Atherstone,Warwickshire,Hatters@Bar 93,Pub/bar/nightclub,7843,10,,543044,10,,52.57732100000000,801,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54721900000000,CV9 1BB,2014-05-16,fhrs_3_en-GB,3,,FHRS,10
-337931,,,,,Heavenly Baked Cakes,Other catering premises,7841,5,,726359,5,,,11173,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-05-13,fhrs_5_en-GB,5,,FHRS,0
-337932,,21 Long Street,Atherstone,Warwickshire,Herbs and Spice,Takeaway/sandwich shop,7844,10,,212670,5,,52.57804900000000,583,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54969100000000,CV9 1AY,2014-09-18,fhrs_3_en-GB,3,,FHRS,10
-337933,,Norton Road,Coleshill,Birmingham,High Meadow Infant School,School/college/university,7845,0,,543045,0,,52.50742600000000,916,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71175700000000,B46 1ES,2013-04-12,fhrs_4_en-GB,4,,FHRS,10
-337934,,Farthing Lane,"Curdworth, Sutton Coldfield",West Midlands,Highfield Farm Bed and Breakfast,Hotel/bed & breakfast/guest house,7842,5,,466422,0,,52.53386400000000,1145,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73399200000000,B76 9HE,2012-11-13,fhrs_5_en-GB,5,,FHRS,0
-337935,,Grimstock Hill,Lichfield Road,Coleshill,Hillcrest Self Service,Retailers - other,4613,0,,147200,0,,52.50819000000000,911,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71514100000000,B46 1LD,2014-09-18,fhrs_5_en-GB,5,,FHRS,0
-337936,,87 Lister Road,Atherstone,Warwickshire,Ho Ho,Takeaway/sandwich shop,7844,5,,89279,0,,52.58080700000000,238,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53964200000000,CV9 3DF,2014-12-11,fhrs_5_en-GB,5,,FHRS,0
-337937,Hoar Park Craft Centre,Nuneaton Road,Ansley,Warwickshire,Hoar Park Tea Rooms,Restaurant/Cafe/Canteen,1,10,,122545,15,,52.53135700000000,51,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58711000000000,CV10 0QU,2013-09-19,fhrs_2_en-GB,2,,FHRS,10
-337938,,Tamworth Road,Corley,Coventry,Horse and Jockey,Pub/bar/nightclub,7843,10,,481454,15,,52.46009100000000,1040,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55663400000000,CV7 8AA,2014-02-11,fhrs_2_en-GB,2,,FHRS,10
-337939,,Coleshill Road,Bentley,Atherstone,Horse and Jockey,Pub/bar/nightclub,7843,5,,198536,5,,52.55866800000000,980,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58430200000000,CV9 2HL,2013-07-04,fhrs_5_en-GB,5,,FHRS,5
-337940,,5-7 High Street,"Hurley, Atherstone",Warwickshire,Hurley News Food and Wine,Retailers - other,4613,10,,430154,10,,52.56164400000000,346,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64243900000000,CV9 2NQ,2014-07-23,fhrs_3_en-GB,3,,FHRS,10
-337941,,11 Knowle Hill,Hurley,Atherstone,Hurley Post Office And General Store,Retailers - other,4613,10,,430155,10,,52.55841600000000,347,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.65106500000000,CV9 2JE,2012-07-31,fhrs_3_en-GB,3,,FHRS,5
-337942,,Heanley Lane,Hurley,Warwickshire,Hurley Primary School,School/college/university,7845,0,,102979,0,,52.56143800000000,344,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.63670300000000,CV9 2HY,2013-02-12,fhrs_5_en-GB,5,,FHRS,0
-337943,The Anchor Inn,Hurley Common,Hurley,Warwickshire,Hurley Spice,Restaurant/Cafe/Canteen,1,20,,212659,15,,52.57068600000000,31331,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64471200000000,CV9 2LR,2014-12-11,fhrs_1_en-GB,1,,FHRS,10
-337944,,,,,Hydes Homemade,Other catering premises,7841,10,,455587,5,,,13679,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2012-10-02,fhrs_4_en-GB,4,,FHRS,0
-337945,,,,,Iced and Sliced,Other catering premises,7841,0,,591436,0,,,31243,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-10-08,fhrs_5_en-GB,5,,FHRS,0
-337946,,9 Browns Lane,"Dordon, Tamworth",Staffordshire,Indian Cardamon,Takeaway/sandwich shop,7844,5,,51530,5,,52.60082000000000,1155,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61584000000000,B78 1TR,2013-12-16,fhrs_5_en-GB,5,,FHRS,5
-337947,Bulls Head Inn,Tamworth Road,Polesworth,Warwickshire,Indian Garden,Restaurant/Cafe/Canteen,1,10,,212691,10,,52.61788300000000,2396,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61876300000000,B78 1JH,2013-10-16,fhrs_2_en-GB,2,,FHRS,15
-337948,,123 High Street,Coleshill,Birmingham,Indian Lounge,Restaurant/Cafe/Canteen,1,10,,433964,10,,52.49815200000000,1748,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70580800000000,B46 3BT,2013-09-10,fhrs_3_en-GB,3,,FHRS,10
-337949,,1 Dexter Way,"Birchmoor, Tamworth",Staffordshire,Individual Care Services,Hospitals/Childcare/Caring Premises,5,10,,132817,10,,52.61409400000000,650,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62030200000000,B78 1AZ,2013-03-25,fhrs_4_en-GB,4,,FHRS,0
-337950,,,,,Italian Ventures,Other catering premises,7841,5,,548455,10,,,31237,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-04-29,fhrs_4_en-GB,4,,FHRS,5
-337951,,,,,J & F Buffets,Other catering premises,7841,5,,99311,5,,,31335,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-11-17,fhrs_5_en-GB,5,,FHRS,5
-337952,Atherstone Golf Club,The Outwoods,Coleshill Road,Atherstone,J&T Catering Supplies,Pub/bar/nightclub,7843,5,,212663,5,,52.56831000000000,31358,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54403700000000,CV9 2RL,2015-01-12,fhrs_5_en-GB,5,,FHRS,0
-337953,,5-7 Church Street,Atherstone,Warwickshire,Jack D's,Restaurant/Cafe/Canteen,1,5,,283146,5,,52.57795000000000,1588,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54722700000000,CV9 1HA,2013-09-24,fhrs_4_en-GB,4,,FHRS,10
-337954,Newton Regis Garden Centre,Shuttington Lane,"Shuttington, Tamworth",Staffordshire,Jan's Sisters Cafe Ltd,Restaurant/Cafe/Canteen,1,5,,89039,5,,52.64864300000000,2364,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60681900000000,B79 0HA,2014-04-15,fhrs_4_en-GB,4,,FHRS,10
-337955,,8 Jubilee Court,"Kingsbury, Tamworth",Staffordshire,Jay's Food and Wines,Retailers - supermarkets/hypermarkets,7840,5,,61060,5,,52.56505300000000,1337,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68066500000000,B78 2LL,2013-01-24,fhrs_5_en-GB,5,,FHRS,5
-337956,Jack O Watton Ind Est,Lichfield Road,Water Orton,Birmingham,Jo's Snax,Mobile caterer,7846,10,,71234,10,,52.51929800000000,1614,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.72525300000000,B46 1NU,2014-09-10,fhrs_3_en-GB,3,,FHRS,10
-337957,Unit 14 Alder Mill Business Park,Sheepy Road,Atherstone,Warwickshire,Jumping Bean Burrito,Mobile caterer,7846,5,,664166,0,,52.58970600000000,31660,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54661900000000,CV9 3AH,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-337958,,,,,K P Catering,Mobile caterer,7846,10,,86670,10,,,2212,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2012-11-18,fhrs_4_en-GB,4,,FHRS,0
-337959,,64 Long Street,Atherstone,Warwickshire,Kelly G'z,Retailers - other,4613,,,734722,,,52.57797200000000,270,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54823100000000,CV9 1AU,2014-10-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-337960,The John E Radford Fields,Burrow Hill Lane,Corley,Coventry,Keresley Rugby Football Club,Pub/bar/nightclub,7843,10,,401512,5,,52.46243900000000,1026,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54745600000000,CV7 8BE,2013-12-04,fhrs_3_en-GB,3,,FHRS,10
-337961,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,KFC (North),Restaurant/Cafe/Canteen,1,0,,68085,0,,52.47184000000000,1522,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-10-30,fhrs_5_en-GB,5,,FHRS,0
-337962,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,KFC (South),Restaurant/Cafe/Canteen,1,0,,68167,0,,52.47184000000000,1524,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-10-30,fhrs_5_en-GB,5,,FHRS,0
-337963,,,,,Kiddi Katering,Other catering premises,7841,5,,734733,5,,,31884,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-337964,,Bromage Avenue,"Kingsbury, Tamworth",Staffordshire,Kingsbury Primary School,School/college/university,7845,0,,423576,0,,52.56779900000000,362,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68552900000000,B78 2HN,2014-01-13,fhrs_5_en-GB,5,,FHRS,5
-337965,,Tamworth Road,Kingsbury,Warwickshire,Kingsbury Specialist Science & Maths College,School/college/university,7845,5,,198538,5,,52.56632700000000,403,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68323800000000,B78 2LF,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-337966,Alder Mill Business Park,Unit 14 Sheepy Road,Atherstone,Warwickshire,Kitch Catering,Mobile caterer,7846,5,,664168,0,,52.58970600000000,32650,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54661900000000,CV9 3AH,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-337967,,,,,Konios,Mobile caterer,7846,20,,370716,10,,,2410,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-01-21,fhrs_1_en-GB,1,,FHRS,10
-337968,,,,,La Marquis Crepes and Pastries,Other catering premises,7841,5,,726361,5,,,22877,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-337969,,,,,L'amour Candy Carts,Other catering premises,7841,5,,711642,5,,,28830,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-07-14,fhrs_5_en-GB,5,,FHRS,5
-337970,Hartshill Marina,2 The Clocktower,Atherstone Road,Hartshill,Landgirls Cookery School,Other catering premises,7841,5,,609078,10,,52.55273400000000,31885,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51773900000000,CV10 0TB,2013-05-17,fhrs_3_en-GB,3,,FHRS,10
-337971,,Haunch Lane,Lea Marston,Warwickshire,Lea Marston Hotel & Leisure Complex Ltd,Hotel/bed & breakfast/guest house,7842,5,,114848,5,,52.54670800000000,440,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70272600000000,B76 0BY,2014-10-15,fhrs_5_en-GB,5,,FHRS,5
-337972,,Leather Mill Lane,"Hartshill, Nuneaton",Warwickshire,Leathermill Grange,Hotel/bed & breakfast/guest house,7842,5,,101987,0,,52.55555900000000,336,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.50521500000000,CV10 0RX,2013-04-29,fhrs_5_en-GB,5,,FHRS,0
-337973,,119 Knowle Hill,"Hurley, Atherstone",Warwickshire,Lentils,Takeaway/sandwich shop,7844,10,,103497,10,,52.55974400000000,348,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64134800000000,CV9 2JA,2014-10-13,fhrs_3_en-GB,3,,FHRS,10
-337974,,20 Bridge Street,"Polesworth, Tamworth",Staffordshire,Licensed to Grill,Restaurant/Cafe/Canteen,1,5,,212675,5,,52.61935400000000,635,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61492400000000,B78 1DT,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-337975,,Linden Lane,Warton,Warwickshire,Linden Lodge,Hospitals/Childcare/Caring Premises,5,5,,189291,0,,52.63013700000000,692,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58429100000000,B79 0JN,2014-05-07,fhrs_5_en-GB,5,,FHRS,5
-337976,,Browns Lane,Dordon,"Tamworth,Staffs",Linden Lodge Residential Home,Hospitals/Childcare/Caring Premises,5,5,,189274,0,,52.60082000000000,1712,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61584000000000,B78 1TR,2013-12-09,fhrs_5_en-GB,5,,FHRS,0
-337977,,Church Lane,"Middleton, Tamworth",Staffordshire,Little Acorns Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,118820,5,,52.58222600000000,481,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74072500000000,B78 2AN,2014-10-30,fhrs_5_en-GB,5,,FHRS,5
-337978,,,,,Little Monsters Bakery,Retailers - other,4613,5,,734738,5,,,32657,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-09-08,fhrs_5_en-GB,5,,FHRS,5
-337979,,Old Farm Road,Atherstone,Warwickshire,Little Stars Nursery,Hospitals/Childcare/Caring Premises,5,5,,80338,0,,52.56788900000000,1944,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53067400000000,CV9 1QN,2014-05-20,fhrs_5_en-GB,5,,FHRS,0
-337980,,3 Church Hill,Coleshill,Warwickshire,L'maiz,Takeaway/sandwich shop,7844,5,,548462,10,,52.49966900000000,60,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70498800000000,B46 3AD,2014-01-06,fhrs_4_en-GB,4,,FHRS,5
-337981,,26-28 Whitehouse Road,"Dordon, Tamworth",Staffordshire,Londis,Retailers - other,4613,5,,55340,0,,52.60635700000000,1249,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61555500000000,B78 1QF,2013-07-03,fhrs_5_en-GB,5,,FHRS,5
-337982,,92 Pooley View,Polesworth,Warwickshire,Lone Wolf Coffee,Retailers - other,4613,5,,629807,5,,52.62396100000000,32109,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61362800000000,B78 1BP,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-337983,,,,,Lost in Cake,Other catering premises,7841,5,,548321,5,,,31869,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-05-03,fhrs_5_en-GB,5,,FHRS,5
-337984,,,,,Lyndsey's,Mobile caterer,7846,5,,734753,5,,,9354,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-10-09,fhrs_5_en-GB,5,,FHRS,5
-337985,,10 Bridge Street,"Polesworth, Tamworth",Staffordshire,M J Smith (Butchers) Ltd,Retailers - other,4613,5,,212674,5,,52.61935400000000,630,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61492400000000,B78 1DT,2014-07-29,fhrs_5_en-GB,5,,FHRS,5
-337986,,28 Dordon Road,"Dordon, Tamworth",Staffordshire,Maggies Stores,Retailers - other,4613,5,,563419,10,,52.61142900000000,1184,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61909900000000,B78 1QN,2013-06-26,fhrs_4_en-GB,4,,FHRS,0
-337987,,Coleshill Road,Atherstone,Warwickshire,Maid Of The Mill,Pub/bar/nightclub,7843,5,,127944,10,,52.57319600000000,576,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55000600000000,CV9 2AJ,2013-11-26,fhrs_4_en-GB,4,,FHRS,5
-337988,Manor Road Post Office,Manor Road,"Mancetter, Atherstone",Warwickshire,Mancetter Post Office,Retailers - other,4613,,,734746,,,52.56857700000000,517,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52959000000000,CV9 1NS,2012-02-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-337989,Alpha Stores,5 Church Walk,"Mancetter, Atherstone",Warwickshire,Mancetter Stores,Retailers - other,4613,0,,122843,5,,52.56956300000000,513,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53123200000000,CV9 1PZ,2013-10-24,fhrs_4_en-GB,4,,FHRS,10
-337990,,Unit 8D Colliers Way,Arley,Coventry,Mark Copper Meats,Mobile caterer,7846,5,,634007,0,,52.50559200000000,32102,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57954300000000,CV7 8HN,2014-02-11,fhrs_5_en-GB,5,,FHRS,0
-337991,,Market Street,Atherstone,Warwickshire,Market Tavern,Pub/bar/nightclub,7843,10,,113791,10,,52.57789400000000,428,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54666700000000,CV9 1ET,2013-03-19,fhrs_3_en-GB,3,,FHRS,10
-337992,Tamworth Motorway Services Are,Green Lane,"Dordon, Tamworth",Staffordshire,Marks & Spencer Simply Food,Retailers - other,4613,0,,212688,0,,52.60815400000000,1592,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64105700000000,B77 5PS,2015-01-05,fhrs_5_en-GB,5,,FHRS,0
-337993,,Maxstoke Lane,Meriden,Great Packington,Marriott Forest of Arden Hotel,Hotel/bed & breakfast/guest house,7842,10,,423578,10,,52.46110200000000,572,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.65207000000000,CV7 7HR,2014-02-24,fhrs_3_en-GB,3,,FHRS,10
-337994,,Dog Lane,Bodymoor Heath,Kingsbury,Marston Farm Hotel,Hotel/bed & breakfast/guest house,7842,10,,106586,10,,52.56205600000000,371,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70747600000000,B76 9JD,2014-05-29,fhrs_2_en-GB,2,,FHRS,15
-337995,,Station Road,Coleshill,Birmingham,Martins,Retailers - other,4613,5,,44564,0,,52.50735000000000,1081,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70632100000000,B46 1HT,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-337996,,Castle Lane,"Maxstoke, Coleshill",Birmingham,Maxstoke Park Golf Club Ltd,Pub/bar/nightclub,7843,5,,370721,10,,52.50007500000000,464,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66824600000000,B46 2RD,2013-11-06,fhrs_4_en-GB,4,,FHRS,5
-337997,,3 Market Street,Polesworth,Warwickshire,Maya,Takeaway/sandwich shop,7844,20,,133775,15,,52.61658100000000,667,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61651400000000,B78 1HN,2014-11-25,fhrs_1_en-GB,1,,FHRS,10
-337998,,Sheepy Road,Atherstone,Warwickshire,Maya Bar & Restaurant,Restaurant/Cafe/Canteen,1,10,,198539,5,,52.57916400000000,480,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54739200000000,CV9 1HD,2014-08-11,fhrs_4_en-GB,4,,FHRS,5
-337999,,101-103 Long Street,Atherstone,Warwickshire,McColls,Retailers - other,4613,0,,481457,0,,52.57695700000000,729,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54608700000000,CV9 1AB,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-338000,,London Road,Bassetts Pole,"Sutton Coldfield, West Midland",McDonalds,Restaurant/Cafe/Canteen,1,0,,118171,10,,52.59100900000000,475,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.78057300000000,B75 5SA,2014-06-18,fhrs_4_en-GB,4,,FHRS,5
-338001,,72 Bardon View Road,"Dordon, Tamworth",Staffordshire,Mee Fong,Takeaway/sandwich shop,7844,5,,51231,10,,52.60918100000000,1146,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61600300000000,B78 1QB,2014-04-30,fhrs_4_en-GB,4,,FHRS,5
-338002,,164 Coleshill Road,Atherstone,Warwickshire,Merevale House Residential Care Home,Hospitals/Childcare/Caring Premises,5,5,,74079,10,,52.57260500000000,1701,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55067600000000,CV9 2AF,2014-10-30,fhrs_4_en-GB,4,,FHRS,5
-338003,,Old Watling Street,Atherstone,Warwickshire,Merevale House Residential Home Ltd,Hospitals/Childcare/Caring Premises,5,5,,143514,10,,52.57976500000000,810,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55413000000000,CV9 2PA,2014-09-23,fhrs_4_en-GB,4,,FHRS,5
-338004,,The Woodlands,Hartshill,Warwickshire,Michael Drayton Junior School,School/college/university,7845,5,,423570,10,,52.54329800000000,280,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52310700000000,CV10 0SZ,2014-01-22,fhrs_4_en-GB,4,,FHRS,5
-338005,Middleton Hall,Tamworth Road,"Middleton, Tamworth",Staffordshire,Middleton Hall Trust,Restaurant/Cafe/Canteen,1,5,,189289,5,,52.58158700000000,490,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71698300000000,B78 2AE,2013-11-24,fhrs_5_en-GB,5,,FHRS,5
-338006,,Church Lane,Middleton,"Tamworth,Staffs",Middleton Village Shop,Retailers - other,4613,5,,430144,5,,52.58234200000000,1811,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73645900000000,B78 2AW,2012-07-20,fhrs_5_en-GB,5,,FHRS,0
-338007,,,,,mmmcake,Other catering premises,7841,5,,556000,5,,,31867,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-01-11,fhrs_5_en-GB,5,,FHRS,5
-338008,,,,,Mobile Food Ltd,Mobile caterer,7846,0,,114542,5,,,436,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-02-11,fhrs_5_en-GB,5,,FHRS,5
-338009,,"5 Monument View, Sycamore Avenue","Polesworth, Tamworth",Staffordshire,Monument Foodstore,Retailers - other,4613,10,,134179,10,,52.61280700000000,674,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61146700000000,B78 1NF,2014-02-18,fhrs_3_en-GB,3,,FHRS,10
-338010,,Park Road,Coleshill,Birmingham,Morrisons,Retailers - supermarkets/hypermarkets,7840,5,,492335,5,,52.49865400000000,31399,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70898600000000,B46 3LA,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
-338011,,Motorway Services M42,Dordon Tamworth,Staffs,Moto Forecourt,Retailers - other,4613,0,,370712,0,,52.60815400000000,1264,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64105700000000,B77 5PS,2012-04-20,fhrs_5_en-GB,5,,FHRS,5
-338012,Tamworth Motorway Services,Green Lane,Dordon,Warwickshire,Moto Hospitality,Restaurant/Cafe/Canteen,1,5,,370710,0,,52.60815400000000,1255,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64105700000000,B77 5PS,2013-10-16,fhrs_4_en-GB,4,,FHRS,10
-338013,,Holly Lane,"Wishaw, Sutton Coldfield",West Midlands,Moxhull Hall Hotel,Hotel/bed & breakfast/guest house,7842,5,,401540,5,,52.56222000000000,858,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.76053600000000,B76 9PD,2013-11-28,fhrs_4_en-GB,4,,FHRS,10
-338014,,2 Jubilee Court,"Kingsbury, Tamworth",Staffordshire,Mr News,Retailers - other,4613,,,734742,,,52.56505300000000,380,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68066500000000,B78 2LL,2013-06-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-338015,,76 Long Street,Atherstone,Warwickshire,Mr Simms Olde Sweet Shoppe,Retailers - other,4613,5,,624819,10,,52.57797200000000,31268,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54823100000000,CV9 1AU,2014-01-07,fhrs_4_en-GB,4,,FHRS,0
-338016,,84 Coleshill Road,Chapel End,Hartshill,Mr Steve Mellor,Retailers - other,4613,5,,515833,5,,52.53698300000000,293,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52439900000000,CV10 0PH,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-338017,,,,,Mrs Caroline Smedley,Other catering premises,7841,0,,556001,5,,,569,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-338018,,,,,Mrs Deanna Jayne Baker,Other catering premises,7841,,,734740,,,,32679,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-338019,,,,,Mrs Hillaina Collins,Other catering premises,7841,5,,707988,5,,,32666,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-338020,Foster Yard,12 Market Street,"Polesworth, Tamworth",Staffordshire,Naranji,Takeaway/sandwich shop,7844,20,,64677,15,,52.61639300000000,1442,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61690000000000,B78 1HW,2014-12-03,fhrs_1_en-GB,1,,FHRS,15
-338021,,Victoria Road,Hartshill,Warwickshire,Nathaniel Newton Infant School,School/college/university,7845,0,,101732,0,,52.53860300000000,334,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52031200000000,CV10 0LS,2013-02-28,fhrs_5_en-GB,5,,FHRS,0
-338022,,,,,Naughty but Nice chocolates,Other catering premises,7841,5,,555997,5,,,22065,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-338023,,64 Station Road,"Coleshill, Nether Whitacre",Birmingham,Nether Whitacre Ex Service & Social Club,Pub/bar/nightclub,7843,5,,401538,0,,52.53137100000000,817,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.67859500000000,B46 2EH,2014-01-10,fhrs_5_en-GB,5,,FHRS,5
-338024,,1 Market Street,"Polesworth, Tamworth",Staffordshire,New Jade Garden,Takeaway/sandwich shop,7844,20,,433969,15,,52.61658100000000,662,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61651400000000,B78 1HN,2014-12-15,fhrs_1_en-GB,1,,FHRS,10
-338025,,20 Coleshill Road,Hartshill,"Nuneaton, Warwickshire",New Oriental,Takeaway/sandwich shop,7844,10,,430150,10,,52.53701900000000,284,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51985700000000,CV10 0NY,2014-10-23,fhrs_3_en-GB,3,,FHRS,10
-338026,,Main Road,"Newton Regis, Tamworth",Staffordshire,Newton Regis C of E Primary School,School/college/university,7845,5,,126464,10,,52.66363400000000,555,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58975400000000,B79 0NA,2011-05-25,fhrs_4_en-GB,4,,FHRS,5
-338027,,Shuttington Lane,"Newton Regis, Tamworth",Staffordshire,Newton Regis Garden Store,Retailers - other,4613,,,734747,,,52.65375200000000,564,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60494000000000,B79 0DF,2014-01-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-338028,,,,,Nom Nom Ltd,Mobile caterer,7846,5,,650293,5,,,32103,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-03-18,fhrs_5_en-GB,5,,FHRS,5
-338029,,Hermitage Hill,Tamworth Road,Polesworth,North Warwickshire Recreational Centre,Pub/bar/nightclub,7843,5,,134707,5,,52.61796300000000,682,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62984000000000,B78 1HS,2014-09-26,fhrs_4_en-GB,4,,FHRS,10
-338030,The Grove,Coventry Road,Fillongley,Warwickshire,Northern Care,Hospitals/Childcare/Caring Premises,5,10,,401521,10,,52.47579900000000,2357,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57941500000000,CV7 8BZ,2013-11-26,fhrs_3_en-GB,3,,FHRS,5
-338031,Unit 14 Alder Mill Business Park,Sheepy Road,Atherstone,Warwickshire,Nou Thai,Mobile caterer,7846,5,,664167,0,,52.58970600000000,32649,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54661900000000,CV9 3AH,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-338032,,Trickley Coppice,London Road,"Bassetts Pole, Sutton Coldfiel",NPF Bassetts Pole,Restaurant/Cafe/Canteen,1,5,,117913,0,,52.59100900000000,472,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.78057300000000,B75 5SA,2014-03-19,fhrs_4_en-GB,4,,FHRS,10
-338033,,Ansley Common,Nuneaton,Warwickshire,Nursery Hill Primary School,School/college/university,7845,0,,570195,0,,52.53937500000000,17,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54034100000000,CV10 0PY,2013-07-08,fhrs_4_en-GB,4,,FHRS,10
-338034,,Arley Lane,Ansley,Nuneaton,Oakridge Golf Club,Restaurant/Cafe/Canteen,1,5,,198534,5,,52.51631200000000,18,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55596600000000,CV10 9PH,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-338035,Customer Fulfilment Centre,Danny Morson Way,Birch Coppice Business Park,Dordon,Ocado Limited,Retailers - other,4613,0,,570196,0,,52.59330800000000,31376,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62835000000000,B78 1SE,2013-07-03,fhrs_5_en-GB,5,,FHRS,0
-338036,,Birmingham Road,Coleshill,Birmingham,Old Barn Guest House,Hotel/bed & breakfast/guest house,7842,5,,430140,5,,52.49184000000000,1003,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.72041600000000,B46 1DP,2012-07-31,fhrs_5_en-GB,5,,FHRS,5
-338037,"Heart Of England, Old Hall House",Meriden Road,Fillongley,Warwickshire,Old Hall House,Hotel/bed & breakfast/guest house,7842,5,,682232,0,,52.46594400000000,26051,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60754900000000,CV7 8DX,2014-07-01,fhrs_5_en-GB,5,,FHRS,0
-338038,Sports Ground,Watton Lane,Water Orton,Warwickshire,Old Saltleians Rugby Club,Pub/bar/nightclub,7843,5,,142669,5,,52.51632700000000,796,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73098900000000,B46 1PH,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-338039,,Oldbury Road,Nuneaton,Warwickshire,Oldbury Grange Nursing Home,Hospitals/Childcare/Caring Premises,5,10,,100467,5,,52.54778600000000,323,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53956000000000,CV10 0TJ,2014-06-13,fhrs_4_en-GB,4,,FHRS,0
-338040,Accident Exchange,Alpha 1 Canton Lane,Hams Hall,"Coleshill, Birmingham",Olive Catering (Accident Exchange),Restaurant/Cafe/Canteen,1,10,,401520,10,,52.52959700000000,2302,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70144100000000,B46 1GA,2014-05-21,fhrs_3_en-GB,3,,FHRS,5
-338041,Bovis Homes,Bromwich Court,Highway Point,"Coleshill, Birmingham",Olive Catering (Bovis Homes),Restaurant/Cafe/Canteen,1,5,,189285,5,,52.51524400000000,1694,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71014400000000,B46 1JU,2013-06-26,fhrs_5_en-GB,5,,FHRS,5
-338042,Volkswagen Group (UK) Ltd,Birch Coppice Business Park,Watling Street,Dordon,Olive Catering (CEVA Logistics),Restaurant/Cafe/Canteen,1,5,,72155,5,,,1642,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,B78 1TA,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-338043,,Roman Way,Dordon,Warwickshire,On the Button Childcare,Hospitals/Childcare/Caring Premises,5,5,,55032,5,,52.60420400000000,1241,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61712400000000,B78 1PJ,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-338044,,3 Wingfield Road,Coleshill,Warwickshire,Orchard Blythe,Hospitals/Childcare/Caring Premises,5,5,,150940,0,,52.49443000000000,995,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70929400000000,B46 3LL,2015-01-05,fhrs_5_en-GB,5,,FHRS,5
-338045,Orchard Nurseries,Birmingham Road,Water Orton,Warwickshire,Orchard Nurseries Farm Shop,Retailers - other,4613,10,,99256,15,,52.51649100000000,31313,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.75266500000000,B46 1TG,2013-03-12,fhrs_2_en-GB,2,,FHRS,10
-338046,,150 Long Street,Atherstone,Warwickshire,Oriental Chef,Takeaway/sandwich shop,7844,10,,103975,15,,52.57663300000000,352,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54383200000000,CV9 1AF,2014-10-01,fhrs_2_en-GB,2,,FHRS,15
-338047,,64-70 Birmingham Road,Water Orton,Warwickshire,Orton Manor Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,139259,10,,52.51753100000000,748,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74748700000000,B46 1TH,2014-05-13,fhrs_4_en-GB,4,,FHRS,5
-338048,,Southlands,Atherstone,Warwickshire,Outwoods Primary School,School/college/university,7845,0,,144837,5,,52.57315500000000,844,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54177300000000,CV9 1EH,2014-12-01,fhrs_5_en-GB,5,,FHRS,0
-338049,Somers Wood,Somers Road,Meriden,Coventry,Packington Somers Fisheries,Restaurant/Cafe/Canteen,1,5,,401519,10,,52.43934200000000,1657,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66948200000000,CV7 7PL,2013-12-05,fhrs_4_en-GB,4,,FHRS,5
-338050,,21 Parkfield Road,Coleshill,Birmingham,Parkfield 21,Restaurant/Cafe/Canteen,1,5,,283148,0,,52.49679700000000,1705,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70681900000000,B46 3LD,2013-09-10,fhrs_5_en-GB,5,,FHRS,0
-338051,Lea Marston Sports Ground,Blackgreaves Lane,Lea Marston,Warwickshire,Pavilion,Restaurant/Cafe/Canteen,1,20,,116413,15,,52.54356000000000,456,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70951600000000,B76 0DA,2014-06-19,fhrs_1_en-GB,1,,FHRS,10
-338052,Gate Inn,Gate Lane,Nether Whitacre,Warwickshire,PB's@The Gate,Other catering premises,7841,10,,99263,15,,52.53121100000000,31317,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66295600000000,B46 2DS,2015-01-14,fhrs_2_en-GB,2,,FHRS,10
-338053,,36 Long Street,Atherstone,Warwickshire,Pinocchio Pizzas,Takeaway/sandwich shop,7844,5,,90662,5,,52.57797200000000,248,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54823100000000,CV9 1AU,2014-10-27,fhrs_4_en-GB,4,,FHRS,10
-338054,,19 Edward Road,Water Orton,Warwickshire,Pizza Village,Takeaway/sandwich shop,7844,5,,423575,10,,52.51717800000000,31397,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.72971600000000,B46 1PG,2014-01-14,fhrs_4_en-GB,4,,FHRS,5
-338055,Woodlands Farm,Freasley,Dordon,Warwickshire,Planters Restaurant,Restaurant/Cafe/Canteen,1,5,,198540,5,,52.59610500000000,1252,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64633700000000,B78 2EY,2014-04-09,fhrs_5_en-GB,5,,FHRS,5
-338056,,85 High Street,Coleshill,Birmingham,Polash,Restaurant/Cafe/Canteen,1,10,,409588,10,,52.49987200000000,223,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70684200000000,B46 3AG,2014-08-07,fhrs_3_en-GB,3,,FHRS,10
-338057,,83 Nethersole Street,"Polesworth, Tamworth",Staffordshire,Polesworth Convenience Store,Retailers - other,4613,10,,134077,15,,52.62119500000000,672,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61161400000000,B78 1EF,2013-05-03,fhrs_2_en-GB,2,,FHRS,10
-338058,,5 High Street,Polesworth,Warwickshire,Polesworth Fish Bar,Takeaway/sandwich shop,7844,5,,446881,5,,52.62052100000000,657,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61173800000000,B78 1DX,2014-03-26,fhrs_5_en-GB,5,,FHRS,5
-338059,,8 Friary Road,Atherstone,Warwickshire,Polesworth Group Homes Ltd,Hospitals/Childcare/Caring Premises,5,5,,88349,5,,52.58048200000000,231,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53945400000000,CV9 3AL,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-338060,,64-66 Long Street,Dordon,Warwickshire,Polesworth Group Homes Ltd,Hospitals/Childcare/Caring Premises,5,5,,401515,5,,52.59927800000000,1207,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61452400000000,B78 1SL,2014-01-03,fhrs_5_en-GB,5,,FHRS,5
-338061,Laurel End,Laurel Avenue,"Polesworth ,Tamworth",Staffordshire,Polesworth Group Homes Ltd,Hospitals/Childcare/Caring Premises,5,5,,462797,5,,52.61151300000000,713,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61443200000000,B78 1LT,2014-10-24,fhrs_5_en-GB,5,,FHRS,5
-338062,,Dordon Road,"Dordon, Tamworth",Staffordshire,Polesworth School,School/college/university,7845,5,,423567,5,,52.61055300000000,1186,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62052500000000,B78 1QT,2014-05-22,fhrs_5_en-GB,5,,FHRS,0
-338063,,High Street,Polesworth,"Tamworth, Staffs",Polesworth Sports and Social Club,Pub/bar/nightclub,7843,5,,515834,5,,52.62052100000000,659,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61173800000000,B78 1DX,2013-02-26,fhrs_4_en-GB,4,,FHRS,10
-338064,,,,,Polly's,Mobile caterer,7846,5,,198542,5,,,1385,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-06-19,fhrs_5_en-GB,5,,FHRS,5
-338065,Visitor Centre and Tea Room,Pooley Lane,Polesworth,"Tamworth,Staffs",Pooley Country Park,Restaurant/Cafe/Canteen,1,5,,74200,10,,52.62210700000000,1707,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62113400000000,B78 1JA,2014-07-25,fhrs_4_en-GB,4,,FHRS,5
-338066,,Bixhill Lane,Off Coleshill Road,Shustoke,Priory Farmhouse B&B,Hotel/bed & breakfast/guest house,7842,5,,370715,5,,52.51561300000000,2227,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66622800000000,B46 2AZ,2014-03-13,fhrs_5_en-GB,5,,FHRS,0
-338067,,Long Street,Atherstone,Warwickshire,Queen Elizabeth Lower School & Sports College,School/college/university,7845,5,,212654,0,,52.57587700000000,487,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54128700000000,CV9 1AE,2013-07-11,fhrs_5_en-GB,5,,FHRS,5
-338068,,Long Street,Atherstone,Warwickshire,Queen Elizabeth Upper School & Sports College,School/college/university,7845,0,,107282,5,,52.57360500000000,378,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53492200000000,CV9 1LZ,2014-01-13,fhrs_4_en-GB,4,,FHRS,10
-338069,,,,,Queen of Whisks,Other catering premises,7841,5,,734718,5,,,23024,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-12-15,fhrs_5_en-GB,5,,FHRS,0
-338070,,Main Road,"Newton Regis, Tamworth",Staffordshire,Queens Head,Pub/bar/nightclub,7843,10,,126697,10,,52.66391800000000,558,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59148200000000,B79 0NF,2014-04-30,fhrs_3_en-GB,3,,FHRS,5
-338071,,Ratcliffe Road,Atherstone,Warwickshire,Racemeadow Primary Academy,School/college/university,7845,5,,423577,0,,52.57985100000000,441,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53895800000000,CV9 1LT,2014-01-13,fhrs_5_en-GB,5,,FHRS,0
-338072,,83 Long Street,Atherstone,Warwickshire,Raj Mahal Indian Cuisine Ltd,Restaurant/Cafe/Canteen,1,10,,134427,15,,52.57759400000000,678,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54826400000000,CV9 1AZ,2013-07-03,fhrs_2_en-GB,2,,FHRS,10
-338073,,102 High Street,Coleshill,Birmingham,Rajrani,Restaurant/Cafe/Canteen,1,20,,212681,15,,,171,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,B46 7SW,2014-02-06,fhrs_1_en-GB,1,,FHRS,15
-338074,Barclay House,Kingsbury Road,Curdworth,Warwickshire,Ramadan,Restaurant/Cafe/Canteen,1,5,,650291,0,,52.53570500000000,28609,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73710700000000,B76 9EE,2014-03-19,fhrs_5_en-GB,5,,FHRS,0
-338075,,49 Tamworth Road,"Wood End, Atherstone",Warwickshire,Red Box,Retailers - other,4613,5,,704760,5,,52.58250400000000,875,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64350900000000,CV9 2QH,2014-10-01,fhrs_5_en-GB,5,,FHRS,0
-338076,,Kingsbury Road,"Curdworth, Sutton Coldfield",West Midlands,Reindeer Park Lodge,Hotel/bed & breakfast/guest house,7842,5,,212677,5,,52.54146500000000,1560,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71675400000000,B76 0DE,2012-01-23,fhrs_5_en-GB,5,,FHRS,0
-338077,Riddings Poultry Farm,Watling Street,Grendon,Warwickshire,Riddings Fisheries,Restaurant/Cafe/Canteen,1,0,,54330,0,,52.58836400000000,1225,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58502500000000,CV9 2PE,2013-03-25,fhrs_5_en-GB,5,,FHRS,5
-338078,,"1 Arden Forest, Ridge Lane",Mancetter,Warwickshire,Ridge Lane Stores,Retailers - other,4613,10,,283155,5,,52.55170200000000,521,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56711300000000,CV10 0RF,2014-02-10,fhrs_3_en-GB,3,,FHRS,10
-338079,Wellington House,Coleshill Road,Furnace End,Coleshill,Robert G Tuckey,Retailers - other,4613,5,,189278,5,,52.51870300000000,851,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.63484400000000,B46 2LG,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-338080,,10-11 Ratcliffe Road,Atherstone,Warwickshire,Roosterz,Takeaway/sandwich shop,7844,10,,212662,15,,52.58045000000000,1930,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53570500000000,CV9 1JA,2014-09-23,fhrs_2_en-GB,2,,FHRS,10
-338081,G W Rowley Newsagents,1 Victoria Road,Nuneaton,Warwickshire,Rowleys Newsagents,Retailers - other,4613,10,,548454,10,,52.53860300000000,1277,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52031200000000,CV10 0LS,2014-03-04,fhrs_3_en-GB,3,,FHRS,5
-338082,El Cantena Cafe,Gorsey Lane,Coleshill,Birmingham,Royal Spice,Takeaway/sandwich shop,7844,5,,401514,10,,52.51524400000000,1109,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71014400000000,B46 1JU,2014-01-23,fhrs_4_en-GB,4,,FHRS,5
-338083,Baileys,76 Bardon View Road,"Dordon, Tamworth",Staffordshire,RS & M Bailey,Retailers - other,4613,,,734705,,,52.60918100000000,1148,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61600300000000,B78 1QB,2013-06-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-338084,,3 Station Buildings,Birmingham Road,Water Orton,Rumbles Batch Bar,Takeaway/sandwich shop,7844,5,,139939,5,,52.51827500000000,759,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74220700000000,B46 1SR,2014-08-12,fhrs_5_en-GB,5,,FHRS,5
-338085,,,,,Rust'eze,Mobile caterer,7846,5,,99288,10,,,31329,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-10-07,fhrs_4_en-GB,4,,FHRS,5
-338086,,,,,S Webb Catering Ltd,Mobile caterer,7846,10,,83294,10,,,2033,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-02-27,fhrs_3_en-GB,3,,FHRS,10
-338087,,4 Roman Way,Dordon,Tamworth,Sam's Shop,Retailers - other,4613,5,,99239,5,,52.60420400000000,31309,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61712400000000,B78 1PJ,2014-06-25,fhrs_4_en-GB,4,,FHRS,10
-338088,Alvecote Marina,Robeys Lane,"Alvecote, Tamworth",Staffordshire,Samuel Barlow,Pub/bar/nightclub,7843,10,,77494,5,,52.63429600000000,1822,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.63512500000000,B78 1AS,2014-05-09,fhrs_4_en-GB,4,,FHRS,5
-338089,,9 Main Road,"Shuttington, Tamworth",Staffordshire,Samz Store,Retailers - other,4613,10,,370727,10,,52.64534900000000,722,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62519000000000,B79 0DP,2013-09-25,fhrs_3_en-GB,3,,FHRS,5
-338090,,8A Carlyon Road,Atherstone,Warwickshire,Sandwich Factory Staff Canteen,Restaurant/Cafe/Canteen,1,,,734712,,,52.57616200000000,1606,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53141200000000,CV9 1LQ,2012-10-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-338091,W.H.Smith (Tools) Ltd,Water Orton Lane,Minworth,Sutton Coldfield,Senses Ltd,Restaurant/Cafe/Canteen,1,5,,370729,10,,52.52032200000000,802,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.75341000000000,B76 9BG,2013-10-14,fhrs_4_en-GB,4,,FHRS,5
-338092,,Edison Road,Hams Hall,"Coleshill, Birmingham",Servest (Jaguar Landrover) Tradeteam,Restaurant/Cafe/Canteen,1,0,,370720,5,,52.52475500000000,455,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70650000000000,B46 1TT,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-338093,DHL,Edison Road,Hams Hall,"Coleshill,Birmingham",Servest (Selfridges),Restaurant/Cafe/Canteen,1,5,,71031,10,,52.52326900000000,1608,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70895700000000,B46 1DA,2014-10-13,fhrs_4_en-GB,4,,FHRS,5
-338094,,148 Long Street,Atherstone,Warwickshire,Shakil's Eatery,Restaurant/Cafe/Canteen,1,10,,433967,10,,52.57663300000000,351,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54383200000000,CV9 1AF,2014-01-09,fhrs_3_en-GB,3,,FHRS,10
-338095,Shustoke Farm Barns,Coleshill Road,Shustoke,Birmingham,Shustoke Barn Ltd,Restaurant/Cafe/Canteen,1,5,,590125,0,,52.51437300000000,31853,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.67269200000000,B46 2BL,2013-09-16,fhrs_5_en-GB,5,,FHRS,0
-338096,,Forge Road,Shustoke,Birmingham,Shustoke C of E Primary School,School/college/university,7845,5,,481458,0,,52.51348100000000,731,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66257500000000,B46 2AU,2014-11-13,fhrs_5_en-GB,5,,FHRS,0
-338097,,Reservoir Drive,Shustoke,Birmingham,Shustoke Sailing Club,Pub/bar/nightclub,7843,5,,137607,5,,52.51604900000000,726,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66772800000000,B46 2BE,2014-09-25,fhrs_5_en-GB,5,,FHRS,5
-338098,,,,,Shuttington Fields Farm B&B,Hotel/bed & breakfast/guest house,7842,5,,584307,5,,,31241,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-09-09,fhrs_5_en-GB,5,,FHRS,5
-338099,The Smithy,Warton Lane,Grendon,Warwickshire,Smithy Farm Shop Tea Rooms,Restaurant/Cafe/Canteen,1,5,,535658,5,,52.60378300000000,31875,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56531500000000,CV9 3DU,2013-04-12,fhrs_5_en-GB,5,,FHRS,5
-338100,,Roman Way,Coleshill,Warwickshire,Snackers Food Trailer,Mobile caterer,7846,5,,50246,10,,,1119,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-04-14,fhrs_4_en-GB,4,,FHRS,5
-338101,,2-4 Bridge Street,"Polesworth, Tamworth",Staffordshire,Spar Shop,Retailers - other,4613,5,,466424,5,,52.61935400000000,628,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61492400000000,B78 1DT,2012-11-09,fhrs_5_en-GB,5,,FHRS,5
-338102,,3-5 Browns Lane,"Dordon, Tamworth",Staffordshire,Spar Supermarket,Retailers - other,4613,5,,504672,5,,52.60082000000000,1152,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61584000000000,B78 1TR,2013-01-24,fhrs_5_en-GB,5,,FHRS,5
-338103,,Coppice Lane,Middleton,Warwickshire,Spartans Unity Association,Pub/bar/nightclub,7843,10,,212656,5,,52.58681600000000,482,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.77418800000000,B78 2BS,2013-07-30,fhrs_3_en-GB,3,,FHRS,10
-338104,Carlyon Road Industrial Estate,Riversdale Road,Carlyon Road Ind. Est,"Atherstone, Warks",Spectrum for Arcadia Staff Restaurant,Restaurant/Cafe/Canteen,1,5,,124591,5,,52.57784500000000,531,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52959400000000,CV9 1LP,2013-02-05,fhrs_5_en-GB,5,,FHRS,5
-338105,,78 Bardon View Road,"Dordon, Tamworth",Staffordshire,Spice Land,Takeaway/sandwich shop,7844,10,,51334,10,,52.60918100000000,1149,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61600300000000,B78 1QB,2013-10-22,fhrs_3_en-GB,3,,FHRS,10
-338106,,10 Birmingham Road,Coleshill,Birmingham,Spice Lounge,Pub/bar/nightclub,7843,10,,69518,10,,52.49963500000000,1564,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70951000000000,B46 1AA,2014-12-04,fhrs_2_en-GB,2,,FHRS,15
-338107,,13 Browns Lane,"Dordon, Tamworth",Staffordshire,Spice Mantle,Takeaway/sandwich shop,7844,10,,726360,10,,52.60082000000000,1156,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61584000000000,B78 1TR,2014-10-29,fhrs_3_en-GB,3,,FHRS,10
-338108,,69 Coventry Road,Coleshill,Birmingham,Springfield House,Hotel/bed & breakfast/guest house,7842,5,,492332,0,,52.49092000000000,1018,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70432400000000,B46 3EA,2012-12-04,fhrs_5_en-GB,5,,FHRS,0
-338109,,Church Walk,Atherstone,Warwickshire,St Benedicts R.C. Primary School,School/college/university,7845,10,,446880,5,,52.57206800000000,552,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53489400000000,CV9 1PS,2014-03-04,fhrs_4_en-GB,4,,FHRS,5
-338110,,Father Hudsons Society,Coventry Road,Coleshill,St Catherines Care Home,Hospitals/Childcare/Caring Premises,5,5,,52295,10,,52.49282400000000,118,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70353100000000,B46 3ED,2014-06-20,fhrs_4_en-GB,4,,FHRS,5
-338111,St. Edwards RC Primary School,Packington Lane,Coleshill,Birmingham,St Edwards Wraparound,School/college/university,7845,5,,189276,0,,52.48689000000000,31207,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70310000000000,B46 3JE,2013-11-27,fhrs_5_en-GB,5,,FHRS,5
-338112,St Josephs,Father Hudsons Society,Coventry Road,Coleshill,St Josephs Home,Hospitals/Childcare/Caring Premises,5,5,,54993,5,,52.49282400000000,124,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70353100000000,B46 3ED,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-338113,,Packington Lane,Coleshill,Birmingham,St. Edwards RC Primary School,School/college/university,7845,0,,189290,5,,52.48689000000000,1005,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70310000000000,B46 3JE,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-338114,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,Starbucks (North),Restaurant/Cafe/Canteen,1,0,,68441,5,,52.47184000000000,1530,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-10-30,fhrs_5_en-GB,5,,FHRS,0
-338115,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,Starbucks (south),Restaurant/Cafe/Canteen,1,0,,283141,0,,52.47184000000000,1523,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-02-08,fhrs_5_en-GB,5,,FHRS,0
-338116,,245 Station Road,Nether Whitacre,Coleshill,Station Stores,Retailers - other,4613,10,,401539,10,,52.52231000000000,823,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.67910300000000,B46 2JG,2013-12-05,fhrs_2_en-GB,2,,FHRS,15
-338117,,Stonehouse Lane,Arley,Coventry,Stillwaters Guest House,Hotel/bed & breakfast/guest house,7842,5,,535656,0,,52.50286100000000,1418,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58509400000000,CV7 8GB,2013-03-28,fhrs_5_en-GB,5,,FHRS,0
-338118,,Somers Road,Meriden,Coventry,Stonebridge Golf Centre,Pub/bar/nightclub,7843,5,,401535,5,,52.43934200000000,591,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66948200000000,CV7 7PL,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-338119,,Watling Street,Dordon,Tamworth,Subway,Takeaway/sandwich shop,7844,5,,726364,0,,52.59700200000000,32680,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61125200000000,B78 1SS,2014-12-10,fhrs_5_en-GB,5,,FHRS,0
-338120,Jacksons of Old Arley,Unit 1 Springhill Industrial Estate,Arley,Coventry,Suelaine's Tearoom and Restaurant,Restaurant/Cafe/Canteen,1,10,,430141,15,,52.50559200000000,115,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57954300000000,CV7 8HN,2014-07-08,fhrs_2_en-GB,2,,FHRS,5
-338121,,,,,Suesburg,Mobile caterer,7846,10,,189280,5,,,2318,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-01-28,fhrs_4_en-GB,4,,FHRS,0
-338122,Sunflower Day Nursery Coleshill C Of E Primary School,Wingfield Road,Coleshill,Warwickshire,Sunflowers Nursery,School/college/university,7845,5,,620854,5,,52.49443000000000,32104,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70929400000000,B46 3LL,2014-12-01,fhrs_4_en-GB,4,,FHRS,10
-338123,,82 Coleshill Road,Chapel End,Hartshill,Supermart,Retailers - supermarkets/hypermarkets,7840,5,,370717,10,,52.53698300000000,292,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52439900000000,CV10 0PH,2014-02-06,fhrs_4_en-GB,4,,FHRS,5
-338124,Parmar Store,76 Mill Crescent,"Kingsbury, Tamworth",Staffordshire,Supershop,Retailers - other,4613,5,,108303,10,,52.55956100000000,386,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68116200000000,B78 2NW,2013-03-19,fhrs_4_en-GB,4,,FHRS,5
-338125,"Unit 9, Middleton Hall Craft Centre",Tamworth Road,Middleton,Warwickshire,Sweet Box UK,Retailers - other,4613,0,,634006,0,,52.58158700000000,32096,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71698300000000,B78 2AE,2014-06-13,fhrs_5_en-GB,5,,FHRS,0
-338126,2 Chamberlain Walk,High Street,Coleshill,Warwickshire,Sweet Things,Retailers - other,4613,10,,584306,5,,52.49902800000000,159,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70748100000000,B46 3BZ,2013-08-20,fhrs_3_en-GB,3,,FHRS,10
-338127,"Unit 10, Hoar Park Craft Village",Nuneaton Road,Ansley,Warwickshire,Sweet Williams Cakes,Retailers - other,4613,5,,99302,5,,52.53135700000000,31332,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58711000000000,CV10 0QU,2013-04-23,fhrs_5_en-GB,5,,FHRS,5
-338128,,,,,Tailored Tastes,Other catering premises,7841,5,,189284,5,,,2043,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-06-11,fhrs_5_en-GB,5,,FHRS,5
-338129,Coleshill Town Football Club,Packington Lane,Coleshill,Warwickshire,Take A Bite,Mobile caterer,7846,5,,650295,5,,52.48432600000000,32645,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.69897900000000,B46 3JQ,2014-04-02,fhrs_4_en-GB,4,,FHRS,10
-338130,,Tamworth Road,Wood End,Warwickshire,Tamworth Co-operative Society Ltd,Retailers - other,4613,5,,146002,10,,52.58250400000000,880,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64350900000000,CV9 2QH,2014-07-15,fhrs_4_en-GB,4,,FHRS,5
-338131,,83 High Street,Coleshill,Birmingham,Tao Tao Restaurant,Restaurant/Cafe/Canteen,1,10,,86777,15,,52.49987200000000,222,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70684200000000,B46 3AG,2013-07-23,fhrs_2_en-GB,2,,FHRS,10
-338132,,37 Bridge Street,"Polesworth, Tamworth",Staffordshire,Tarrants Flowers,Retailers - other,4613,5,,132234,5,,52.61912200000000,640,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61551700000000,B78 1DR,2014-12-08,fhrs_4_en-GB,4,,FHRS,10
-338133,,57 Long Street,Atherstone,Warwickshire,Tasty Bites Atherstone Ltd,Takeaway/sandwich shop,7844,5,,130607,0,,52.57759400000000,619,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54826400000000,CV9 1AZ,2014-11-14,fhrs_5_en-GB,5,,FHRS,0
-338134,St James,Father Hudsons Complex,Coventry Road,"Coleshill, Birmingham",Teddy 'n' Daisy's Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,189273,0,,52.49282400000000,116,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70353100000000,B46 3ED,2014-09-17,fhrs_5_en-GB,5,,FHRS,0
-338135,Melbick Garden Centre,Chester Road,Coleshill,Birmingham,Terrace Cafe (Melbicks Garden Centre),Restaurant/Cafe/Canteen,1,5,,131070,0,,52.46199900000000,624,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70418000000000,B46 3HY,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-338136,,8 Station Buildings,Birmingham Road,Water Orton,Tesco Express,Retailers - supermarkets/hypermarkets,7840,0,,212664,0,,52.51827500000000,764,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74220700000000,B46 1SR,2015-01-07,fhrs_5_en-GB,5,,FHRS,0
-338137,,128a High Street,Coleshill,Birmingham,Tesco Express,Retailers - supermarkets/hypermarkets,7840,5,,535657,10,,52.49778400000000,194,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70616400000000,B46 3BJ,2013-04-10,fhrs_4_en-GB,4,,FHRS,5
-338138,,A45 Birmingham Road,Great Packington,Warwickshire,Thai Brasserie,Restaurant/Cafe/Canteen,1,20,,734725,10,,52.44389100000000,31276,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.65970800000000,CV7 7JT,2014-12-04,fhrs_1_en-GB,1,,FHRS,15
-338139,Curdworth Primary School,Farthing Lane,"Curdworth, Sutton Coldfield",West Midlands,The Allsorts Club,Other catering premises,7841,5,,455589,0,,52.53309100000000,1626,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73427700000000,B76 9HF,2014-03-13,fhrs_5_en-GB,5,,FHRS,0
-338140,,118 Hurley Common,Hurley,Atherstone,The Anchor Inn,Pub/bar/nightclub,7843,5,,433968,5,,52.57068600000000,358,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64471200000000,CV9 2LR,2014-02-18,fhrs_4_en-GB,4,,FHRS,10
-338141,,Mancetter Road,Hartshill,Warwickshire,The Anchor Inn,Pub/bar/nightclub,7843,10,,99747,10,,52.54915800000000,317,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.50729300000000,CV10 0RT,2015-01-13,fhrs_3_en-GB,3,,FHRS,10
-338142,,99 Long Street,Atherstone,Warwickshire,The Atherstone Red Lion Hotel,Pub/bar/nightclub,7843,10,,142801,15,,52.57732100000000,798,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54721900000000,CV9 1BB,2014-11-18,fhrs_2_en-GB,2,,FHRS,15
-338143,,Beehive Lane,"Curdworth, Sutton Coldfield",West Midlands,The Beehive,Pub/bar/nightclub,7843,5,,189281,10,,52.53226800000000,1123,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73587400000000,B76 9HG,2014-12-04,fhrs_3_en-GB,3,,FHRS,10
-338144,,Lichfield Road,"Wishaw, Sutton Coldfield",West Midlands,The Belfry Hotel,Hotel/bed & breakfast/guest house,7842,5,,370730,10,,52.55475500000000,859,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73363000000000,B76 9PR,2013-12-03,fhrs_3_en-GB,3,,FHRS,10
-338145,,12 Birmingham Road,Coleshill,Birmingham,The Bell Inn,Pub/bar/nightclub,7843,5,,198543,10,,52.49963500000000,31,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70951000000000,B46 1AA,2014-09-09,fhrs_4_en-GB,4,,FHRS,5
-338146,,Ash End House Farm,Middleton Lane,"Middleton, Warwickshire",The Big Playbarn,Restaurant/Cafe/Canteen,1,10,,283153,5,,52.57517400000000,31256,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74293600000000,B78 2BL,2014-09-10,fhrs_4_en-GB,4,,FHRS,5
-338147,,Main Road,"Austrey, Atherstone",Warwickshire,The Bird In Hand,Pub/bar/nightclub,7843,5,,370734,5,,52.65465800000000,958,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56354000000000,CV9 3EG,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-338148,"Unit 4, Woodhouse Farm",Church Lane,Lea Marston,Warwickshire,The Birmingham Meat Co. Ltd,Retailers - other,4613,5,,89367,5,,52.53695000000000,2386,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70137700000000,B76 0BJ,2013-09-16,fhrs_4_en-GB,4,,FHRS,10
-338149,,Watling Street,Mancetter,Warwickshire,The Blue Boar,Pub/bar/nightclub,7843,10,,370722,5,,52.57170500000000,533,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52734300000000,CV9 1NE,2013-10-01,fhrs_3_en-GB,3,,FHRS,10
-338150,,Watling Street,"Grendon, Atherstone",Warwickshire,The Boot Inn,Pub/bar/nightclub,7843,20,,53876,15,,52.59127400000000,1213,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59457800000000,CV9 2PG,2014-06-19,fhrs_1_en-GB,1,,FHRS,15
-338151,,Birmingham Road,Ansley,Warwickshire,The Boot Inn,Pub/bar/nightclub,7843,10,,88047,15,,52.52087800000000,23,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56051800000000,CV10 9PL,2014-10-13,fhrs_2_en-GB,2,,FHRS,10
-338152,Individual Care Services Ltd,2 Laurel Drive,Hartshill,Warwickshire,The Bridleways,Hospitals/Childcare/Caring Premises,5,5,,97269,0,,52.53823600000000,301,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52509300000000,CV10 0XP,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-338153,,Coleshill Road,Furnace End,Birmingham,The Bull,Pub/bar/nightclub,7843,5,,212665,5,,52.51870300000000,850,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.63484400000000,B46 2LG,2014-02-27,fhrs_4_en-GB,4,,FHRS,10
-338154,,Tamworth Road,Polesworth,Warwickshire,The Bulls Head,Pub/bar/nightclub,7843,5,,423581,0,,52.61788300000000,680,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61876300000000,B78 1JH,2014-02-05,fhrs_4_en-GB,4,,FHRS,10
-338155,,85B Station Street,Atherstone,Warwickshire,The Cakeart Studio,Retailers - other,4613,5,,606636,5,,,31849,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2012-02-06,fhrs_5_en-GB,5,,FHRS,0
-338156,,Coleshill Road,Chapel End,Nuneaton,The Chase,Pub/bar/nightclub,7843,5,,401524,0,,52.53698300000000,304,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52439900000000,CV10 0PH,2014-06-24,fhrs_4_en-GB,4,,FHRS,10
-338157,"Unit 11, Middleton Hall Craft Centre",Tamworth Road,Middleton,Warwickshire,The Cheese and Ale Barn,Retailers - other,4613,5,,696944,5,,52.58158700000000,32659,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.71698300000000,B78 2AE,2014-07-31,fhrs_5_en-GB,5,,FHRS,5
-338158,,Watling Street,Grendon,Atherstone,The Chestnuts Country Hotel,Hotel/bed & breakfast/guest house,7842,5,,57983,0,,52.59505500000000,1297,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60412400000000,CV9 2PZ,2014-07-09,fhrs_5_en-GB,5,,FHRS,0
-338159,,Tamworth Road,"Cliff, Tamworth",Staffordshire,The Cliff House,Pub/bar/nightclub,7843,10,,109400,10,,52.58108800000000,395,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.69000900000000,B78 2DL,2013-10-08,fhrs_3_en-GB,3,,FHRS,10
-338160,,150 High Street,Coleshill,Birmingham,The Coach Hotel,Pub/bar/nightclub,7843,10,,433965,10,,52.49681100000000,211,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70539000000000,B46 3BG,2014-07-16,fhrs_3_en-GB,3,,FHRS,10
-338161,,Bulls Lane,Wishaw,Sutton Coldfield,The Cock Inn,Pub/bar/nightclub,7843,0,,145380,0,,52.54582600000000,860,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.75354700000000,B76 9QL,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-338162,,152-156 High Street,Coleshill,Birmingham,The Coleshill Hotel,Hotel/bed & breakfast/guest house,7842,0,,212657,0,,52.49681100000000,210,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70539000000000,B46 3BG,2013-10-01,fhrs_5_en-GB,5,,FHRS,5
-338163,,Coventry Road,Coleshill,Birmingham,The Coleshill School,School/college/university,7845,10,,42108,5,,52.48497300000000,104,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70595500000000,B46 3EX,2014-02-04,fhrs_4_en-GB,4,,FHRS,5
-338164,,84-86 High Street,Coleshill,Birmingham,The Co-operative,Retailers - supermarkets/hypermarkets,7840,5,,67617,10,,52.49949500000000,151,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70731600000000,B46 3AH,2013-07-09,fhrs_4_en-GB,4,,FHRS,5
-338165,,Black Hall Lane,Fillongley,Coventry,The Cottage Inn,Pub/bar/nightclub,7843,5,,51964,10,,52.48697000000000,1169,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59379900000000,CV7 8EG,2014-05-30,fhrs_4_en-GB,4,,FHRS,5
-338166,,Whitehouse Road,Dordon,"Tamworth, Staffs",The Cuckoo's Rest,Pub/bar/nightclub,7843,5,,54055,5,,52.60570100000000,1218,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61578200000000,B78 1QE,2013-08-15,fhrs_5_en-GB,5,,FHRS,5
-338167,,Coleshill Road,Water Orton,Birmingham,The Digby,Pub/bar/nightclub,7843,5,,140900,0,,52.51672700000000,770,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74114000000000,B46 1SH,2014-09-24,fhrs_5_en-GB,5,,FHRS,0
-338168,,Marsh Lane,Water Orton,Warwickshire,The Dog Inn,Pub/bar/nightclub,7843,10,,141089,15,,52.51948200000000,774,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73922300000000,B46 1NW,2013-11-27,fhrs_2_en-GB,2,,FHRS,10
-338169,,Dog Lane,Nether Whitacre,Birmingham,The Dog Inn,Pub/bar/nightclub,7843,10,,143826,10,,52.53386700000000,815,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.65830600000000,B46 2DU,2014-05-21,fhrs_3_en-GB,3,,FHRS,10
-338170,Coppice Garden Centre,Coppice Lane,Middleton,Warwickshire,The Fig And Olive,Restaurant/Cafe/Canteen,1,5,,212655,0,,52.58689600000000,509,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.75998900000000,B78 2BU,2013-09-09,fhrs_5_en-GB,5,,FHRS,0
-338171,,Orton Road,Warton,Nr Tamworth,The Fox and Dogs,Pub/bar/nightclub,7843,5,,135601,0,,,694,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,B79 0TH,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-338172,,Cockspur Street,Birchmoor,Warwickshire,The Gamecock,Pub/bar/nightclub,7843,5,,135260,0,,52.61086800000000,688,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62920500000000,B78 1AH,2014-05-29,fhrs_4_en-GB,4,,FHRS,10
-338173,,Gate Lane,Nether Whitacre,Nr Coleshill,The Gate Inn,Pub/bar/nightclub,7843,5,,144324,0,,52.53121100000000,828,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66295600000000,B46 2DS,2015-01-14,fhrs_5_en-GB,5,,FHRS,0
-338174,Purley Chase Centre,Purley Chase Lane,Mancetter,Warwickshire,The General Conference Of The New Church,Hotel/bed & breakfast/guest house,7842,5,,430156,5,,52.55648900000000,520,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55387900000000,CV9 2RQ,2014-01-29,fhrs_5_en-GB,5,,FHRS,0
-338175,Ace Karting,Woodford Lodge,Leathermill Lane,Hartshil,The Golden Spoon Catering Company,Other catering premises,7841,5,,492334,0,,52.55555900000000,31371,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.50521500000000,CV10 0RX,2014-12-01,fhrs_5_en-GB,5,,FHRS,0
-338176,,68 High Street,Coleshill,Birmingham,The Green Man,Pub/bar/nightclub,7843,10,,64146,10,,52.49949500000000,142,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70731600000000,B46 3AH,2013-10-31,fhrs_3_en-GB,3,,FHRS,10
-338177,,Church Lane,Middleton,Warwickshire,The Green Man,Pub/bar/nightclub,7843,0,,118377,5,,52.58222600000000,477,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74072500000000,B78 2AN,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-338178,,Church Road,Shustoke,Warwickshire,The Griffin,Pub/bar/nightclub,7843,5,,283160,5,,52.51552500000000,735,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64524500000000,B46 2LB,2013-08-21,fhrs_5_en-GB,5,,FHRS,5
-338179,,Cooks Close,Atherstone,Warwickshire,The Grove Sports & Social Club,Pub/bar/nightclub,7843,5,,401542,5,,52.57561200000000,904,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54483200000000,CV9 1ES,2012-05-29,fhrs_4_en-GB,4,,FHRS,10
-338180,,Church Road,Warton,Polesworth,The Hatters Arms,Pub/bar/nightclub,7843,10,,135660,10,,52.63013700000000,695,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58429100000000,B79 0JN,2013-03-27,fhrs_1_en-GB,1,,FHRS,20
-338181,,45 Church Road,"Hartshill, Nuneaton",Warwickshire,The Hayes Guesthouse,Hotel/bed & breakfast/guest house,7842,5,,455588,5,,52.54277300000000,1464,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51988300000000,CV10 0LU,2012-09-28,fhrs_5_en-GB,5,,FHRS,0
-338182,,,,,The Heritage Cake Company,Other catering premises,7841,5,,734732,5,,,31873,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-338183,,Knowle Hill,Hurley,Atherstone,The Holly Bush,Pub/bar/nightclub,7843,5,,103753,5,,52.55974400000000,350,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.63823600000000,CV9 2HX,2012-09-26,fhrs_5_en-GB,5,,FHRS,5
-338184,,Old Watling Street,Atherstone,Warwickshire,The Kings Head,Pub/bar/nightclub,7843,5,,119287,5,,52.57976500000000,485,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55413000000000,CV9 2PA,2015-02-02,fhrs_5_en-GB,5,,FHRS,5
-338185,,50A Long Street,Atherstone,Warwickshire,The Larder (G&S Catering),Restaurant/Cafe/Canteen,1,5,,669991,5,,52.57797200000000,258,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54823100000000,CV9 1AU,2013-07-04,fhrs_5_en-GB,5,,FHRS,5
-338186,Milton House,9 Market Street,Atherstone,Warwickshire,The Legion,Pub/bar/nightclub,7843,5,,370719,5,,52.57789400000000,413,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54666700000000,CV9 1ET,2013-09-24,fhrs_5_en-GB,5,,FHRS,5
-338187,,12 Jubilee Court,Kingsbury,Warwickshire,The Lemon Tree Pantry,Restaurant/Cafe/Canteen,1,10,,212667,15,,52.56505300000000,1735,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68066500000000,B78 2LL,2014-07-02,fhrs_2_en-GB,2,,FHRS,10
-338188,,4 New Road,Water Orton,Birmingham,The Link,Other catering premises,7841,5,,283161,5,,52.51734700000000,777,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73721600000000,B46 1QU,2014-07-11,fhrs_5_en-GB,5,,FHRS,5
-338189,,5 Market Street,Atherstone,Warwickshire,The Little Coffee Pot Cafe,Restaurant/Cafe/Canteen,1,20,,189277,15,,52.57789400000000,411,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54666700000000,CV9 1ET,2015-01-15,fhrs_1_en-GB,1,,FHRS,10
-338190,,Birmingham Road,Ansley,Warwickshire,The Lord Nelson,Pub/bar/nightclub,7843,5,,401522,5,,52.51982600000000,24,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55812600000000,CV10 9PQ,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-338191,,Grange Road,Hartshill,Warwickshire,The Malt Shovel,Pub/bar/nightclub,7843,5,,189287,10,,52.54864100000000,309,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51937700000000,CV10 0SS,2015-01-15,fhrs_4_en-GB,4,,FHRS,5
-338192,,Coventry Road,Fillongley,Warwickshire,The Manor House,Pub/bar/nightclub,7843,20,,52612,15,,52.48129500000000,1190,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58796200000000,CV7 8ET,2014-02-18,fhrs_1_en-GB,1,,FHRS,10
-338193,,38 Coleshill Road,Chapel End,Hartshill,The Munch Box,Restaurant/Cafe/Canteen,1,5,,283151,10,,52.53701900000000,289,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51985700000000,CV10 0NY,2013-09-09,fhrs_4_en-GB,4,,FHRS,5
-338194,,High Street,Polesworth,Warwickshire,The Nethersole C of E Primary School,School/college/university,7845,5,,423580,5,,52.62000700000000,658,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60856700000000,B78 1DZ,2014-01-22,fhrs_4_en-GB,4,,FHRS,10
-338195,,Church Street,Atherstone,Warwickshire,The New Swan,Pub/bar/nightclub,7843,20,,84105,15,,52.57795000000000,208,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54722700000000,CV9 1HA,2014-07-22,fhrs_1_en-GB,1,,FHRS,10
-338196,,Station Road,Coleshill,Warwickshire,The Norton,Pub/bar/nightclub,7843,5,,212682,5,,52.51607300000000,1089,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70757500000000,B46 1JZ,2014-05-20,fhrs_4_en-GB,4,,FHRS,10
-338197,,Church Road,Warton,Warwickshire,The Office: 1st Floor Restaurant,Restaurant/Cafe/Canteen,1,30,,719472,20,,52.63013700000000,32678,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58429100000000,B79 0JN,2014-11-18,fhrs_0_en-GB,0,,FHRS,10
-338198,,94 Long Street,Atherstone,Warwickshire,The Old Bakery,Restaurant/Cafe/Canteen,1,10,,90114,5,,52.57547200000000,244,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54092300000000,CV9 1AH,2014-03-03,fhrs_4_en-GB,4,,FHRS,5
-338199,,Kingsbury Water Park,Bodymoor Heath Lane,Kingsbury,The Old Barn Coffee Shop,Restaurant/Cafe/Canteen,1,5,,409594,0,,52.56074400000000,365,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70018300000000,B76 0DY,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-338200,,Kingsbury Road,Curdworth,Warwickshire,The Old School House Hotel,Hotel/bed & breakfast/guest house,7842,5,,283138,5,,52.53174400000000,1137,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74744900000000,B76 9DR,2012-02-14,fhrs_5_en-GB,5,,FHRS,5
-338201,,175 Long Street,Atherstone,Warwickshire,The Old Swan Inn,Pub/bar/nightclub,7843,5,,590127,5,,52.57547200000000,794,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54092300000000,CV9 1AH,2013-09-30,fhrs_4_en-GB,4,,FHRS,10
-338202,,The Green,Shustoke,Warwickshire,The Plough,Pub/bar/nightclub,7843,10,,137462,10,,52.51496500000000,724,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66579100000000,B46 2AN,2014-09-25,fhrs_3_en-GB,3,,FHRS,10
-338203,Heart of England,Meriden Road,Fillongley,Coventry,The Quicken Tree,Restaurant/Cafe/Canteen,1,10,,71665,5,,52.46594400000000,1628,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.60754900000000,CV7 8DX,2014-01-21,fhrs_4_en-GB,4,,FHRS,5
-338204,,30 Station Road,Whitacre Heath,Warwickshire,The Railway Inn,Pub/bar/nightclub,7843,5,,446882,5,,52.53137100000000,819,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.67859500000000,B46 2EH,2014-11-12,fhrs_5_en-GB,5,,FHRS,5
-338205,,The Common,"Baddesley Ensor, Atherstone",Warwickshire,The Red Lion,Pub/bar/nightclub,7843,5,,370736,5,,52.58243800000000,968,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59762600000000,CV9 2BT,2012-03-22,fhrs_4_en-GB,4,,FHRS,10
-338206,,53 Bridge Street,Polesworth,"Tamworth,Staffs",The Red Lion,Restaurant/Cafe/Canteen,1,20,,455591,10,,52.61912200000000,648,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61551700000000,B78 1DR,2014-10-09,fhrs_1_en-GB,1,,FHRS,10
-338207,,Coventry Road,Coleshill,Warwickshire,The Red Lion,Pub/bar/nightclub,7843,20,,43562,15,,52.49092000000000,106,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70432400000000,B46 3EA,2014-10-14,fhrs_1_en-GB,1,,FHRS,15
-338208,,Wall Hill Road,Corley,Coventry,The Red Lion Inn,Pub/bar/nightclub,7843,5,,433963,5,,52.46401800000000,1191,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59383400000000,CV7 8AP,2014-08-11,fhrs_5_en-GB,5,,FHRS,5
-338209,Dobbies Garden Centre,Nuneaton Road,Mancetter,Warwickshire,The Restaurant,Restaurant/Cafe/Canteen,1,0,,124481,5,,52.56219400000000,530,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52291700000000,CV9 1RF,2014-06-30,fhrs_4_en-GB,4,,FHRS,10
-338210,,73 Parkfield Road,Coleshill,Birmingham,The Rice Bowl,Takeaway/sandwich shop,7844,5,,148379,5,,52.49679700000000,932,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70681900000000,B46 3LD,2013-01-23,fhrs_5_en-GB,5,,FHRS,5
-338211,,Main Road,"Baxterley, Atherstone",Warwickshire,The Rose Inn,Pub/bar/nightclub,7843,10,,150263,10,,52.56925900000000,978,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58992700000000,CV9 2LE,2014-03-11,fhrs_3_en-GB,3,,FHRS,10
-338212,,Coventry Road,"Kingsbury, Tamworth",Staffordshire,The Royal Oak,Pub/bar/nightclub,7843,5,,113229,10,,52.56461700000000,423,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68246800000000,B78 2LP,2014-03-13,fhrs_4_en-GB,4,,FHRS,5
-338213,,Grendon Road,"Polesworth, Tamworth",Staffordshire,The Royal Oak,Pub/bar/nightclub,7843,5,,132988,0,,52.61473100000000,653,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61159700000000,B78 1NU,2013-08-22,fhrs_5_en-GB,5,,FHRS,5
-338214,,Warton Lane,Grendon,Atherstone,The Smithy Farm Shop,Retailers - other,4613,5,,54099,5,,52.60378300000000,1219,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56531500000000,CV9 3DU,2014-12-10,fhrs_5_en-GB,5,,FHRS,0
-338215,,Castle Road,Hartshill,Nuneaton,The Stables,Hospitals/Childcare/Caring Premises,5,5,,430145,0,,52.54441700000000,1897,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51962900000000,CV10 0SE,2014-02-11,fhrs_5_en-GB,5,,FHRS,0
-338216,,The Green,Atherstone Road,Hartshill,The Stag and Pheasant,Pub/bar/nightclub,7843,5,,100914,5,,52.54789900000000,327,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52047600000000,CV10 0SW,2013-03-25,fhrs_4_en-GB,4,,FHRS,10
-338217,,,,,The Steak Bar,Mobile caterer,7846,5,,87465,10,,,2261,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-11-09,fhrs_4_en-GB,4,,FHRS,5
-338218,,High Street,Coleshill,Birmingham,The Swan Hotel,Hotel/bed & breakfast/guest house,7842,0,,212658,0,,52.49860400000000,212,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70685100000000,B46 3BL,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-338219,,Station Road,Whitacre Heath,Warwickshire,The Swan Inn,Pub/bar/nightclub,7843,5,,189275,5,,52.53171100000000,821,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.67809100000000,B46 2JA,2014-10-24,fhrs_5_en-GB,5,,FHRS,5
-338220,Water Orton Primary School,Attleborough Lane,Water Orton,Warwickshire,The Treehouse,School/college/university,7845,5,,446878,5,,52.51334200000000,1785,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74335500000000,B46 1SB,2012-09-12,fhrs_5_en-GB,5,,FHRS,5
-338221,,77 Parkfield Road,Coleshill,Birmingham,The Uppercrust,Retailers - other,4613,5,,150571,5,,52.49679700000000,986,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70681900000000,B46 3LD,2014-03-17,fhrs_4_en-GB,4,,FHRS,10
-338222,,"1A Station Buildings,Birmingham R",Water Orton,Birmingham,The Village Cantonese,Takeaway/sandwich shop,7844,10,,64323,10,,52.51827500000000,1427,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74220700000000,B46 1SR,2014-06-12,fhrs_3_en-GB,3,,FHRS,5
-338223,West Midlands Water Ski Centre,Tamworth Road,Cliff,"Tamworth,Staffs",The Waterfront Bar,Pub/bar/nightclub,7843,10,,77648,5,,52.58108800000000,1828,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.69000900000000,B78 2DL,2014-09-18,fhrs_4_en-GB,4,,FHRS,5
-338224,,Nuneaton Road,Fillongley,Coventry,The Weavers Arms,Pub/bar/nightclub,7843,5,,283139,10,,52.48851200000000,1174,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.57232800000000,CV7 8DL,2013-09-04,fhrs_3_en-GB,3,,FHRS,10
-338225,,Station Road,Coleshill,Birmingham,The Wheatsheaf Harvester,Pub/bar/nightclub,7843,10,,283137,10,,52.50377500000000,1098,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70770000000000,B46 1EE,2013-05-01,fhrs_3_en-GB,3,,FHRS,10
-338226,,Kingsbury Road,"Curdworth, Sutton Coldfield",West Midlands,The White Horse,Pub/bar/nightclub,7843,5,,50975,5,,52.53326900000000,1138,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74135200000000,B76 9DS,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-338227,,127 Long Street,Atherstone,Warwickshire,The White Horse,Pub/bar/nightclub,7843,10,,212669,15,,,807,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,CV9 1BG,2013-05-01,fhrs_1_en-GB,1,,FHRS,20
-338228,,Station Street,Atherstone,Warwickshire,The White Lion,Pub/bar/nightclub,7843,5,,446884,0,,52.57669600000000,891,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54833200000000,CV9 1DB,2015-01-20,fhrs_4_en-GB,4,,FHRS,10
-338229,,Coventry Road,"Kingsbury, Tamworth",Staffordshire,The White Swan,Pub/bar/nightclub,7843,5,,107048,5,,52.56457800000000,376,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68133200000000,B78 2LN,2013-02-11,fhrs_4_en-GB,4,,FHRS,10
-338230,Nestle Purina ( Wincanton Dist,Faraday Avenue,Coleshill,Warwickshire,Thomas Franks Ltd,Restaurant/Cafe/Canteen,1,5,,58522,5,,52.52432800000000,1300,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70110800000000,B46 1AL,2013-09-12,fhrs_5_en-GB,5,,FHRS,5
-338231,,75 Parkfield Road,Coleshill,Birmingham,Threshers,Retailers - other,4613,,,734756,,,52.49679700000000,985,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70681900000000,B46 3LD,2013-12-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-338232,,,,,TK Catering,Mobile caterer,7846,5,,548322,10,,,31881,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-11-09,fhrs_4_en-GB,4,,FHRS,0
-338233,"Tnt, Kingsbury Link",Trinity Road,"Piccadilly, Kingsbury,","Tamworth, Staffordshire",TNT Kingsbury PDC,Retailers - other,4613,,,734708,,,52.58395500000000,1269,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.65701700000000,B78 2EX,2014-03-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-338234,,4 High Street,Polesworth,Warwickshire,Tomorrows Catering Ltd,Other catering premises,7841,0,,711644,0,,52.62011000000000,656,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61264300000000,B78 1DU,2014-09-26,fhrs_5_en-GB,5,,FHRS,5
-338235,,10 Ratcliffe Road,Atherstone,Warwickshire,Tony's Service Station,Retailers - other,4613,5,,409596,5,,52.58045000000000,445,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53570500000000,CV9 1JA,2014-01-03,fhrs_4_en-GB,4,,FHRS,10
-338236,,98 Coleshill Road,Chapel End,Hartshill,Triple A,Takeaway/sandwich shop,7844,5,,430151,5,,52.53698300000000,299,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52439900000000,CV10 0PH,2014-09-23,fhrs_5_en-GB,5,,FHRS,5
-338237,Dobbies Garden Centre,Nuneaton Road,Mancetter,Warwickshire,Trotters Ltd,Retailers - other,4613,5,,89495,10,,52.56219400000000,2395,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52291700000000,CV9 1RF,2013-12-04,fhrs_3_en-GB,3,,FHRS,10
-338238,Dobbies Garden Centre,Nuneaton Road,Mancetter,Warks,Trotters Organic and Natural Store,Retailers - other,4613,0,,462794,0,,52.56219400000000,1620,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.52291700000000,CV9 1RF,2012-10-30,fhrs_5_en-GB,5,,FHRS,5
-338239,,Unit 11 Hoar Park Craft Village,Nuneaton Road,Ansley,Truffles,Retailers - other,4613,5,,114836,5,,52.53135700000000,44,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58711000000000,CV10 0QU,2013-01-11,fhrs_5_en-GB,5,,FHRS,5
-338240,,,,,Truly Scrumptious,Mobile caterer,7846,5,,521260,5,,,31369,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-01-24,fhrs_5_en-GB,5,,FHRS,0
-338241,,57A Long Street,Atherstone,Warwickshire,UK Pizzas & Kebabs,Takeaway/sandwich shop,7844,10,,130695,10,,52.57759400000000,620,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54826400000000,CV9 1AZ,2014-06-27,fhrs_3_en-GB,3,,FHRS,10
-338242,,,,,Ultimate Ices,Mobile caterer,7846,5,,548319,5,,,31218,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-05-03,fhrs_5_en-GB,5,,FHRS,5
-338243,,7 Market Street,Atherstone,Warwickshire,Unicorn,Takeaway/sandwich shop,7844,10,,111899,10,,52.57789400000000,412,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54666700000000,CV9 1ET,2014-09-29,fhrs_2_en-GB,2,,FHRS,15
-338244,White Horse Service Station,Kingsbury Road,Curdworth,Sutton Coldfield,Victoria's Cafe,Mobile caterer,7846,10,,650292,5,,52.53420800000000,31896,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73931200000000,B76 9DT,2014-04-08,fhrs_4_en-GB,4,,FHRS,0
-338245,Polesworth Post Office,42 Bridge Street,"Polesworth, Tamworth",Staffordshire,Village Post Office and News,Retailers - other,4613,,,734748,,,52.61935400000000,644,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61492400000000,B78 1DT,2013-12-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-338246,,19 Browns Lane,"Dordon, Tamworth",Staffordshire,Vindaloo,Takeaway/sandwich shop,7844,5,,409585,10,,52.60082000000000,1159,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61584000000000,B78 1TR,2013-11-20,fhrs_4_en-GB,4,,FHRS,5
-338247,,,,,Vintage Fayre,Retailers - other,4613,5,,732637,5,,,32113,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-338248,,89-91 Lister Road,Atherstone,Warwickshire,Virk Stores,Retailers - supermarkets/hypermarkets,7840,10,,283149,5,,52.58080700000000,240,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.53964200000000,CV9 3DF,2014-02-11,fhrs_4_en-GB,4,,FHRS,5
-338249,White Hart House,Long Street,Atherstone,Warwickshire,Volunteer Centre North Warwickshire,Restaurant/Cafe/Canteen,1,10,,555999,10,,52.57851900000000,31339,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.55021700000000,CV9 1AX,2015-01-15,fhrs_4_en-GB,4,,FHRS,0
-338250,,Tamworth Motorway Services Are,Green Lane,Tamworth,W H Smith,Retailers - other,4613,5,,55933,5,,52.60815400000000,1263,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64105700000000,B77 5PS,2013-03-28,fhrs_5_en-GB,5,,FHRS,5
-338251,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,W H Smith (North),Retailers - other,4613,0,,283143,0,,52.47184000000000,1529,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-02-08,fhrs_5_en-GB,5,,FHRS,0
-338252,,89 Long Street,Atherstone,Warwickshire,W.C. Masters and Son,Retailers - other,4613,5,,137412,5,,52.57732100000000,723,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54721900000000,CV9 1BB,2015-01-20,fhrs_4_en-GB,4,,FHRS,10
-338253,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,W.H.Smith (South),Retailers - other,4613,0,,283142,0,,52.47184000000000,1526,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-02-08,fhrs_5_en-GB,5,,FHRS,0
-338254,,Ansley Lane,Arley,Coventry,Wagon Load of Lime,Pub/bar/nightclub,7843,10,,570199,10,,52.51466100000000,65,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58159300000000,CV7 8FU,2014-10-07,fhrs_3_en-GB,3,,FHRS,10
-338255,Welcome Break Group Ltd,Motorway Services Area M6,Corley,Coventry,Waitrose (North),Retailers - supermarkets/hypermarkets,7840,0,,283152,0,,52.47184000000000,31208,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54672700000000,CV7 8NR,2012-02-08,fhrs_5_en-GB,5,,FHRS,0
-338256,Melbicks Garden & Leisure,Chester Road,Coleshill,Birmingham,Walter Smith Farm Shop,Retailers - other,4613,20,,734739,5,,52.46188000000000,32667,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70671200000000,B46 3HX,2015-01-12,fhrs_1_en-GB,1,,FHRS,0
-338257,,Maypole Road,Warton,Polesworth,Warton Nethersole's C of E School,School/college/university,7845,5,,283158,5,,52.63000200000000,696,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58166200000000,B79 0HP,2012-02-29,fhrs_5_en-GB,5,,FHRS,5
-338258,,Maypole Road,"Warton, Tamworth",Staffordshire,Warton Post Office,Retailers - other,4613,10,,135533,15,,52.62994100000000,693,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58215000000000,B79 0JH,2013-04-17,fhrs_2_en-GB,2,,FHRS,5
-338259,,Maypole Road,Warton,"Tamworth, Staffordshire",Warton Village Hall,Other catering premises,7841,10,,401536,10,,52.63000200000000,697,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58166200000000,B79 0HP,2014-01-16,fhrs_3_en-GB,3,,FHRS,10
-338260,,22 Austrey Road,Warton,Tamworth,Warton Working Mens Club,Pub/bar/nightclub,7843,5,,135888,5,,52.63156200000000,698,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.58319900000000,B79 0HW,2013-01-10,fhrs_2_en-GB,2,,FHRS,15
-338261,,Coleshill Road,Water Orton,Birmingham,Water Orton Cricket Club,Pub/bar/nightclub,7843,10,,556002,5,,52.51642200000000,772,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.73748700000000,B46 1QX,2014-05-13,fhrs_4_en-GB,4,,FHRS,0
-338262,,1 Station Buildings,Birmingham Road,"Water Orton, Birmingham",Water Orton Fish Bar,Takeaway/sandwich shop,7844,5,,139699,5,,52.51827500000000,755,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74220700000000,B46 1SR,2014-11-21,fhrs_5_en-GB,5,,FHRS,5
-338263,Kingsbury Methodist Church,Tamworth Road,Kingsbury,"Tamworth, Staffordshire",Welcome Hall,Other catering premises,7841,5,,495816,5,,52.56764600000000,1536,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68229900000000,B78 2HH,2015-01-20,fhrs_5_en-GB,5,,FHRS,0
-338264,,Ridge Lane,"Oldbury, Nuneaton",Warwickshire,White Hart Inn,Pub/bar/nightclub,7843,5,,123950,5,,52.55143700000000,524,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.56847200000000,CV10 0RB,2013-09-25,fhrs_5_en-GB,5,,FHRS,5
-338265,,39 Church Road,Hartshill,Warwickshire,White Horse Stores,Retailers - other,4613,5,,638707,0,,52.54277300000000,265,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.51988300000000,CV10 0LU,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-338266,,Mancetter Road,Nuneaton,Warwickshire,Windmill Sports & Social Club,Pub/bar/nightclub,7843,5,,401529,0,,52.53851900000000,314,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.50222200000000,CV10 0HW,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-338267,,73 Station Street,Atherstone,Warwickshire,Winnies Cafe,Restaurant/Cafe/Canteen,1,5,,370731,10,,52.57669600000000,876,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.54833200000000,CV9 1DB,2013-09-24,fhrs_4_en-GB,4,,FHRS,5
-338268,,Church Lane,"Wishaw, Sutton Coldfield",West Midlands,Wishaw Cricket Club,Pub/bar/nightclub,7843,10,,446883,10,,52.54905800000000,857,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.74684900000000,B76 9QD,2014-09-15,fhrs_3_en-GB,3,,FHRS,10
-338269,,,,,WMS Catering,Mobile caterer,7846,5,,548459,5,,,31860,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,,,2013-01-30,fhrs_5_en-GB,5,,FHRS,5
-338270,,Coventry Road,Kingsbury,Warwickshire,Wok Inn Takeaway,Restaurant/Cafe/Canteen,1,5,,88464,5,,52.56457800000000,2319,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.68133200000000,B78 2LN,2014-03-13,fhrs_4_en-GB,4,,FHRS,10
-338271,,18 Bridge Street,"Polesworth, Tamworth",Staffordshire,Wokaway,Takeaway/sandwich shop,7844,10,,409597,10,,52.61935400000000,634,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61492400000000,B78 1DT,2013-12-18,fhrs_3_en-GB,3,,FHRS,5
-338272,,Main Road,Shuttington,Warwickshire,Wolferstan Arms,Pub/bar/nightclub,7843,5,,283159,5,,52.64534900000000,718,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.62519000000000,B79 0DP,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-338273,,Wood Street,Wood End,Warwickshire,Wood End Primary School,School/college/university,7845,0,,146233,0,,52.57984100000000,887,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64571500000000,CV9 2QL,2013-02-12,fhrs_5_en-GB,5,,FHRS,0
-338274,,57 Tamworth Road,"Wood End, Atherstone",Warwickshire,Wood End Working Mens Club,Pub/bar/nightclub,7843,5,,401541,5,,52.58250400000000,881,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.64350900000000,CV9 2QH,2014-06-25,fhrs_4_en-GB,4,,FHRS,10
-338275,,Packington Lane,Coleshill,Birmingham,Woodlands School,School/college/university,7845,5,,198537,0,,52.48689000000000,919,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.70310000000000,B46 3JE,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-338276,,Maypole Lane,Grendon,Warwickshire,Woodside Primary School,School/college/university,7845,5,,423568,5,,52.58312900000000,1199,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.59732400000000,CV9 2BS,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-338277,,Church Road,"Shustoke,Coleshill",Birmingham,Ye Olde Station Guest House,Hotel/bed & breakfast/guest house,7842,10,,138113,0,,52.51466300000000,733,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66405500000000,B46 2AX,2014-07-14,fhrs_4_en-GB,4,,FHRS,0
-338278,,4 High Street,Polesworth,Warwickshire,Yesterdays,Restaurant/Cafe/Canteen,1,5,,548457,0,,52.62011000000000,31387,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.61264300000000,B78 1DU,2014-02-06,fhrs_5_en-GB,5,,FHRS,0
-338279,Shustoke Parish Hall,Church Road,Shustoke,Warwickshire,Your Shop,Retailers - other,4613,10,,548458,10,,52.51466300000000,31749,317,foodsafety@northwarks.gov.uk,North Warwickshire,http://www.northwarks.gov.uk,-1.66405500000000,B46 2AX,2013-09-20,fhrs_4_en-GB,4,,FHRS,0
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+337719,@67,4,0,10,10,2014-05-06,52.577594,-1.548264
+337720,19 Gales Farm Shop,4,5,10,5,2014-11-21,52.549859,-1.605858
+337721,A & A Premier Stores,4,5,10,5,2013-08-22,52.619122,-1.615517
+337722,A J Catering,4,5,5,10,2014-03-14,,
+337723,A J Stores (Day to Day),3,5,10,10,2014-01-13,52.548002,-1.519148
+337724,A Piece of Cake,5,5,0,5,2014-03-14,,
+337725,A.M.Cooper & Sons,1,15,10,20,2014-01-17,52.543741,-1.717182
+337726,Abbey Farm B&B,4,5,0,10,2013-12-23,52.5759,-1.5762
+337727,Ace Karting Ltd,5,0,5,5,2013-07-30,,
+337728,Acorn Wood Day Nursery,5,5,0,5,2013-12-05,52.53563,-1.536694
+337729,Aki's Fish Bar,5,5,5,5,2014-04-07,52.538603,-1.520312
+337730,Aldi Stores Ltd,5,0,0,0,2012-10-15,,
+337731,Angel Ale House,4,10,5,5,2014-11-24,52.57795,-1.547227
+337732,Annies Catering Company,5,5,5,5,2014-03-23,,
+337733,Ansley Fish Bar,5,0,5,5,2014-04-25,52.523039,-1.563739
+337734,Ansley One Stop,5,0,5,5,2014-03-04,52.537518,-1.532295
+337735,Ansley Post Office,4,10,5,5,2013-11-27,52.519826,-1.558126
+337736,Ansley Social Club & Institute Ltd,4,10,5,5,2012-10-16,52.519826,-1.558126
+337737,Apply News,4,5,10,5,2014-01-15,52.531371,-1.678595
+337738,Arc School,5,5,5,5,2013-02-04,52.53041,-1.57341
+337739,Arc School,5,5,5,5,2014-12-05,52.521414,-1.574234
+337740,Arley & St Michaels Community Centre,5,0,0,5,2013-01-16,52.504529,-1.568843
+337741,Arley Primary School,5,5,0,0,2014-03-05,52.504765,-1.566999
+337742,Ash End House Children's Farm,4,5,10,5,2014-02-26,52.575174,-1.742936
+337743,Ashleigh Nursery,5,5,0,5,2014-07-25,52.579765,-1.55413
+337744,Astley Book Farm,5,0,0,0,2013-08-01,52.486315,-1.519747
+337745,Aston Villa Training Ground,5,0,0,0,2013-12-16,52.571818,-1.718108
+337746,Atherstone Early Years Centre,5,5,5,5,2014-01-10,52.578709,-1.541243
+337747,Atherstone Golf Club,5,5,5,5,2015-01-12,52.56831,-1.544037
+337748,Atherstone House,3,10,10,5,2014-02-17,52.576696,-1.548332
+337749,Atherstone Ices,5,5,5,5,2014-07-09,52.577327,-1.534912
+337750,Atherstone Over 55's Club,4,0,5,10,2014-05-30,52.575588,-1.547783
+337751,Atherstone Town Cricket Club,3,10,10,10,2014-05-15,52.581595,-1.536697
+337752,Atherstone Town F.C.,4,10,5,5,2013-09-09,52.583713,-1.547257
+337753,Atherstone Unionist Conservative Club Ltd,5,5,5,5,2012-03-30,52.5763,-1.543747
+337754,Atlantic Fish Bar,4,5,5,10,2014-10-01,52.565809,-1.680925
+337755,Austrey C of E Primary School,5,5,5,5,2013-02-08,52.656622,-1.564511
+337756,Austrey Post Office & Stores,4,5,10,5,2014-07-22,52.654658,-1.56354
+337757,Austrey Rangers Football Club,5,5,5,5,2013-10-18,52.658717,-1.569664
+337758,Baddesley Ensor Lunch club/Cafe,4,5,10,5,2013-11-06,52.58056,-1.600418
+337759,Baddesley Ensor Post Office,Exempt,nan,nan,nan,2013-03-04,52.579843,-1.60125
+337760,Baddesley Ensor Social Club,3,10,10,5,2013-08-02,52.579843,-1.60125
+337761,Baddesley Fish Bar,2,15,10,10,2014-01-16,52.58056,-1.600418
+337762,Baddesley Luncheon Club,4,5,10,5,2014-07-14,52.585096,-1.602221
+337763,Baddesley Stores Ltd,4,0,10,5,2012-11-09,52.578654,-1.600494
+337764,Bake 180 Coffee Shop,5,5,5,5,2014-07-21,52.581587,-1.716983
+337765,Baked With Love By Jules,5,5,5,5,2012-12-14,,
+337766,Balti Cottage Indian Restaurant,3,5,10,10,2014-02-06,52.497909,-1.705795
+337767,Banana Moon Day Nursery @ Baddesley,1,15,15,20,2015-01-06,52.586575,-1.600909
+337768,Banana Moon Day Nursery @ Kingsbury,3,10,10,10,2014-07-15,52.567799,-1.685529
+337769,Bargain Booze,Exempt,nan,nan,nan,2013-03-20,52.576957,-1.546087
+337770,Bates Of Atherstone Ltd,4,10,5,5,2013-11-25,52.577894,-1.546667
+337771,Bay Tree Catering,5,5,5,5,2014-11-09,,
+337772,Bentley House Care Centre,4,5,10,5,2014-02-11,52.565639,-1.582909
+337773,Birch Coppice Sports and Social,3,10,10,10,2014-06-25,52.598063,-1.616735
+337774,Birchmoor Working Mens Club,5,5,0,5,2013-03-04,52.610424,-1.63107
+337775,Birchwood Primary School,5,5,0,5,2014-11-12,52.607665,-1.619826
+337776,Black Horse,3,10,5,10,2013-10-11,52.575877,-1.541287
+337777,Blackgreaves Farm House,5,0,5,5,2014-04-02,52.54356,-1.709516
+337778,Blythewood Guest House,5,0,5,5,2013-09-18,52.501314,-1.704888
+337779,Bournebrook C of E Primary School,5,5,5,0,2014-01-21,52.481295,-1.587962
+337780,Bracebridge Court,5,5,5,5,2015-01-12,52.580482,-1.539454
+337781,Bradley Green Nursery School,5,5,0,5,2014-01-28,52.598688,-1.580927
+337782,Briars Barn,3,10,5,10,2014-03-10,52.625838,-1.607629
+337783,Brittons Caterers,5,0,0,5,2014-08-06,52.564086,-1.721698
+337784,Brookside Country Meats,5,0,0,5,2012-01-10,52.505592,-1.579543
+337785,Broomey Croft Childrens Farm,4,10,5,5,2014-04-14,52.567219,-1.701378
+337786,Brownies,5,0,5,0,2014-04-28,52.498604,-1.706851
+337787,Buffalo Grill (Springfield Promotions),5,0,5,5,2012-11-18,,
+337788,Buffet Junction,5,5,0,0,2013-07-02,,
+337789,Bull and Butcher,5,0,0,5,2014-05-02,52.462977,-1.586455
+337790,Burger Box,5,5,0,5,2014-07-01,52.465944,-1.607549
+337791,Burger King,5,5,0,0,2013-10-16,52.608154,-1.641057
+337792,Burger King (North),5,0,0,0,2012-10-30,52.47184,-1.546727
+337793,Burger King (South),5,5,0,0,2012-10-30,52.47184,-1.546727
+337794,Butts Croft House,4,5,10,5,2014-02-06,52.463627,-1.557291
+337795,C H Rowley,3,5,10,10,2014-09-25,52.514661,-1.581593
+337796,Cafe 8,5,5,5,5,2013-10-31,52.582962,-1.553242
+337797,Cafe au Lait,4,5,10,5,2014-06-10,52.498604,-1.706851
+337798,Cafe Resta,5,5,5,5,2014-01-07,52.577972,-1.548231
+337799,Cafe Simla,3,10,5,10,2014-09-23,52.598063,-1.616735
+337800,Cakes We Make,5,5,5,5,2013-04-26,,
+337801,Camping & Caravanning Site,Exempt,nan,nan,nan,2013-01-03,52.560744,-1.700183
+337802,Catering Academy,5,5,5,0,2014-03-12,52.57852,-1.543562
+337803,Caves News,3,10,10,10,2014-08-21,52.481295,-1.587962
+337804,Cedars Cafe,5,0,5,5,2013-12-16,,
+337805,Central England Co-operative Society,4,10,5,5,2014-09-15,52.576957,-1.546087
+337806,Central England Co-operative Society,5,5,5,5,2013-09-17,,
+337807,Central England Co-operative Society (Cafe),5,5,0,5,2013-09-17,,
+337808,Centurion Service Station,5,5,0,5,2014-01-17,52.597002,-1.611252
+337809,Chalk & Linen,5,0,0,5,2014-10-15,52.501392,-1.707348
+337810,Chapel End Liberal Club,4,10,5,5,2013-06-21,52.538507,-1.523173
+337811,Chapel House Hotel,4,5,5,10,2014-01-16,52.578233,-1.545926
+337812,Chattel House kitchen,5,5,5,5,2013-11-08,52.58056,-1.600418
+337813,Cherrypie Cupcakes,5,5,5,5,2013-09-26,,
+337814,Chestnut Tree Nursery,5,5,0,5,2014-08-12,52.496402,-1.707086
+337815,Chilli Massala,3,10,10,10,2014-10-27,52.599679,-1.616219
+337816,China Chef,5,0,5,5,2013-07-22,52.505311,-1.566478
+337817,Chunky Chips Wicked Dips,5,0,0,5,2013-04-25,,
+337818,Church End Brewery Ltd,5,0,0,5,2013-11-20,52.550746,-1.56637
+337819,Cole End Stores & Off Licence,4,5,10,5,2014-02-05,52.504498,-1.709051
+337820,Coleshill & District Social Club Ltd,5,5,0,5,2014-05-20,52.497784,-1.706164
+337821,Coleshill C Of E Primary School,5,5,5,5,2014-12-01,52.49443,-1.709294
+337822,Coleshill Cricket Club,4,10,5,5,2013-07-10,52.496402,-1.707086
+337823,Coleshill Cupcakes,4,5,5,10,2012-06-19,,
+337824,Coleshill Day Services,2,5,15,10,2014-02-24,,
+337825,Coleshill Fish Bar,3,10,10,10,2014-10-08,52.499872,-1.706842
+337826,Coleshill General Store,3,5,10,10,2015-01-05,52.492164,-1.70925
+337827,Coleshill Road Chip Shop,1,10,15,20,2014-09-10,52.573644,-1.549588
+337828,Coleshill Road Convenience Store,5,5,5,0,2012-11-12,52.572605,-1.550676
+337829,Coleshill Stroke Club,5,0,0,5,2013-08-15,52.494257,-1.708411
+337830,Coleshill Tennis & Sports Club,4,5,5,10,2013-10-18,52.497909,-1.705795
+337831,Coleshill Town Football Club,4,10,0,5,2014-03-31,52.484326,-1.698979
+337832,Compass Contract Services (Sainsburys),5,5,5,5,2014-12-01,52.524328,-1.701108
+337833,Congraves,2,15,10,10,2014-01-14,52.577594,-1.548264
+337834,Connoisseurs,3,10,10,5,2014-08-12,52.499495,-1.707316
+337835,Coombs Catering Partnership Ltd,5,0,5,5,2013-05-08,52.501977,-1.726362
+337836,Co-op Late Shop,5,5,0,5,2014-01-03,52.620521,-1.611738
+337837,Co-op Late Shop,5,5,5,5,2012-03-07,52.567646,-1.682299
+337838,Co-op Late Shop,4,10,0,5,2015-01-13,52.504529,-1.568843
+337839,Co-op Late Shop,4,5,5,10,2013-09-04,52.599679,-1.616219
+337840,Co-op Service Station (Midlands) (IPPC),Exempt,nan,nan,nan,2012-02-15,52.576917,-1.547563
+337841,Corley Bowling Club,5,5,5,5,2013-04-23,52.462726,-1.561759
+337842,Corley Centre,5,5,5,5,2013-12-10,52.462726,-1.561759
+337843,Corley Cricket Club,4,5,5,10,2013-07-24,52.460091,-1.556634
+337844,Costa Coffee,5,0,5,5,2013-05-07,52.577972,-1.548231
+337845,Costa Coffee,5,5,0,0,2013-10-16,52.608154,-1.641057
+337846,Costa Coffee (Melbicks),5,0,0,0,2014-12-04,52.46188,-1.706712
+337847,Costcutter,5,5,0,0,2013-01-07,52.536983,-1.524399
+337848,Country Butchers,5,5,5,5,2014-01-08,52.55927,-1.679734
+337849,Country Cuisine,5,0,0,5,2013-03-26,,
+337850,Country Veg,5,5,5,5,2014-04-08,52.577894,-1.546667
+337851,Cow Lees Care Home,3,5,10,10,2014-12-08,52.48478,-1.515949
+337852,Crepe Escapes,5,5,5,5,2012-12-07,,
+337853,Curdworth Post Office & Convenience Stores,4,0,5,10,2012-09-18,52.533214,-1.73696
+337854,Curdworth Primary School,5,5,0,0,2013-06-25,52.533091,-1.734277
+337855,D & R Meats,5,0,0,5,2013-11-13,52.505592,-1.579543
+337856,D Goadby and Sons(Farm Shop),5,5,5,5,2013-12-06,52.53041,-1.57341
+337857,D.J's Mobile Catering,3,10,10,5,2013-12-16,,
+337858,Derek Sellars,3,10,10,10,2013-05-30,52.516727,-1.74114
+337859,Dine (Bristan Ltd),4,5,10,5,2013-11-20,52.59823,-1.626965
+337860,Dog and Doublet,2,15,15,10,2014-08-18,52.562056,-1.707476
+337861,Dolphin Fish Bar,2,15,10,10,2014-01-16,52.577972,-1.548231
+337862,Dordon Club,3,10,10,5,2014-03-25,52.603864,-1.614779
+337863,Dordon Community Primary School,5,5,0,5,2014-07-02,52.604204,-1.617124
+337864,Dordon Filling Station,3,10,10,10,2014-03-24,52.59582,-1.609816
+337865,Dordon Fish Bar,4,10,5,5,2013-11-20,52.60082,-1.61584
+337866,Dordon Food House,1,15,15,20,2014-12-03,52.60082,-1.61584
+337867,Dordon House,4,5,10,5,2013-12-18,52.603864,-1.614779
+337868,Dordon Institute Social Club Ltd,4,10,5,5,2014-07-08,52.601179,-1.615866
+337869,Dordon Wines & Spirits,Exempt,nan,nan,nan,2014-01-09,52.60082,-1.61584
+337870,Dreamers Indian Cuisine,3,5,10,10,2014-10-20,52.496811,-1.70539
+337871,Drinks Direct,Exempt,nan,nan,nan,2013-05-30,52.518275,-1.742207
+337872,Eat In (North),5,0,0,0,2012-10-30,52.47184,-1.546727
+337873,Eat In (South),5,5,0,0,2012-10-30,52.47184,-1.546727
+337874,El Cantina,2,10,15,10,2013-08-20,52.515244,-1.710144
+337875,Elaine Chetwynd,5,5,5,5,2013-06-12,,
+337876,Elior UK,4,0,10,5,2013-04-30,52.524328,-1.701108
+337877,Elior(3M),5,0,0,0,2014-09-04,,
+337878,Em's Custom Cakes,5,5,5,5,2013-04-03,,
+337879,Eurest (Ocado),5,0,0,0,2013-02-05,52.593308,-1.62835
+337880,Eurest (TNT Parcel Depot),4,5,10,5,2013-07-23,52.583987,-1.555608
+337881,Eurest (TNT),5,5,5,5,2013-12-16,52.583987,-1.555608
+337882,Euro Car Parts,Exempt,nan,nan,nan,2013-10-14,52.593308,-1.62835
+337883,Farm Foodhall,5,5,5,5,2013-05-10,52.562194,-1.522917
+337884,Farm House Table,4,10,5,5,2013-08-14,52.461999,-1.70418
+337885,Farmers Butcher,5,0,0,5,2014-11-04,52.494923,-1.705167
+337886,Father Hudsons Society,4,0,10,10,2012-05-15,52.501314,-1.704888
+337887,Fillongley Cricket Club,4,10,0,5,2014-05-29,52.477568,-1.635833
+337888,Fillongley Social Club,3,10,10,5,2013-04-26,52.481418,-1.589786
+337889,Fir Tree Inn,3,10,10,10,2014-05-13,52.506225,-1.572834
+337890,Fish of the World,4,5,5,10,2014-09-05,52.5759,-1.5762
+337891,Food Fantasia,3,10,10,10,2013-05-12,,
+337892,Food To Go,5,5,5,5,2013-07-08,52.50735,-1.706321
+337893,Forecourt (North),2,5,15,10,2013-09-09,52.47184,-1.546727
+337894,Forecourt (South),4,5,5,10,2013-09-09,52.47184,-1.546727
+337895,Fosters Yard,3,10,10,10,2014-01-08,52.616393,-1.6169
+337896,Four Counties Spice,4,5,10,5,2013-07-22,52.677754,-1.571149
+337897,Fourways Play Centre,4,5,10,5,2014-07-09,52.577327,-1.534912
+337898,Friendly Plaice,5,5,0,5,2014-04-01,52.576633,-1.543832
+337899,Frozzone Foods Ltd,1,10,15,20,2013-12-13,52.57795,-1.547227
+337900,Gate Riding Club,Exempt,nan,nan,nan,2013-08-23,52.534912,-1.678053
+337901,Gee Spot Catering,4,0,0,10,2014-06-19,,
+337902,George and Dragon (Coleshill) Ltd,5,5,5,5,2013-11-21,52.488468,-1.705254
+337903,Giggle Bizz,5,0,5,5,2014-03-05,,
+337904,Go4Coffee Limited,5,0,0,0,2014-11-21,,
+337905,Golden Peach,3,10,10,10,2013-11-04,52.599679,-1.616219
+337906,Goughs Catering (Burger Van 1),5,5,5,5,2014-02-06,,
+337907,Goughs Catering (Burger Van 2),5,5,5,5,2014-02-06,,
+337908,Goughs Catering (Burger Van 3),5,5,5,5,2014-02-06,,
+337909,Goughs Catering (Donut Van),5,5,5,5,2014-02-06,,
+337910,Graysons Restaurants 'BMW',5,5,5,5,2013-04-30,52.526845,-1.70115
+337911,Great Griddler,3,10,5,10,2014-10-31,,
+337912,Greenaways Catering,5,0,0,5,2014-12-02,,
+337913,Greggs,5,5,5,5,2013-03-28,52.577321,-1.547219
+337914,Greggs,5,0,0,0,2013-08-05,52.608154,-1.641057
+337915,Grendon Community Centre Luncheon Club,5,5,5,5,2013-05-02,52.590174,-1.596507
+337916,Grendon News,4,5,5,10,2013-10-22,52.592039,-1.595058
+337917,Grendon Supermarket,4,5,5,10,2013-03-04,52.58585,-1.599174
+337918,Grendon Working Mens Club,3,10,5,10,2013-09-03,52.592039,-1.595058
+337919,Grimscote Manor,3,5,10,10,2014-07-16,52.508899,-1.714739
+337920,Grimstock Country House Hotel,5,5,5,5,2014-01-14,52.506923,-1.71568
+337921,Gun Hill  Stores and Post Office,3,5,10,10,2013-06-25,52.504765,-1.566999
+337922,H&S Household,4,0,10,10,2014-03-14,52.576957,-1.546087
+337923,Happy Gathering,4,5,10,5,2014-11-28,52.578049,-1.549691
+337924,Harris & Sheldon Group Ltd,4,0,10,5,2012-03-21,52.460059,-1.677436
+337925,Hartshill Community Cafe,5,5,5,5,2013-08-13,52.543735,-1.52002
+337926,Hartshill Post Office,Exempt,nan,nan,nan,2013-03-20,52.540802,-1.521659
+337927,Hartshill School,5,0,5,5,2013-03-01,52.540487,-1.519333
+337928,Hartshill Sports and Social Club,4,10,5,5,2014-05-13,52.538603,-1.520312
+337929,Hat and Beaver,3,10,10,10,2013-01-08,52.576633,-1.543832
+337930,Hatters@Bar 93,3,10,10,10,2014-05-16,52.577321,-1.547219
+337931,Heavenly Baked Cakes,5,0,5,5,2014-05-13,,
+337932,Herbs and Spice,3,10,5,10,2014-09-18,52.578049,-1.549691
+337933,High Meadow Infant School,4,10,0,0,2013-04-12,52.507426,-1.711757
+337934,Highfield Farm Bed and Breakfast,5,0,0,5,2012-11-13,52.533864,-1.733992
+337935,Hillcrest Self Service,5,0,0,0,2014-09-18,52.50819,-1.715141
+337936,Ho Ho,5,0,0,5,2014-12-11,52.580807,-1.539642
+337937,Hoar Park Tea Rooms,2,10,15,10,2013-09-19,52.531357,-1.58711
+337938,Horse and Jockey,2,10,15,10,2014-02-11,52.460091,-1.556634
+337939,Horse and Jockey,5,5,5,5,2013-07-04,52.558668,-1.584302
+337940,Hurley News Food and Wine,3,10,10,10,2014-07-23,52.561644,-1.642439
+337941,Hurley Post Office And General Store,3,5,10,10,2012-07-31,52.558416,-1.651065
+337942,Hurley Primary School,5,0,0,0,2013-02-12,52.561438,-1.636703
+337943,Hurley Spice,1,10,15,20,2014-12-11,52.570686,-1.644712
+337944,Hydes Homemade,4,0,5,10,2012-10-02,,
+337945,Iced and Sliced,5,0,0,0,2013-10-08,,
+337946,Indian Cardamon,5,5,5,5,2013-12-16,52.60082,-1.61584
+337947,Indian Garden,2,15,10,10,2013-10-16,52.617883,-1.618763
+337948,Indian Lounge,3,10,10,10,2013-09-10,52.498152,-1.705808
+337949,Individual Care Services,4,0,10,10,2013-03-25,52.614094,-1.620302
+337950,Italian Ventures,4,5,10,5,2014-04-29,,
+337951,J & F Buffets,5,5,5,5,2014-11-17,,
+337952,J&T Catering Supplies,5,0,5,5,2015-01-12,52.56831,-1.544037
+337953,Jack D's,4,10,5,5,2013-09-24,52.57795,-1.547227
+337954,Jan's Sisters Cafe Ltd,4,10,5,5,2014-04-15,52.648643,-1.606819
+337955,Jay's Food and Wines,5,5,5,5,2013-01-24,52.565053,-1.680665
+337956,Jo's Snax,3,10,10,10,2014-09-10,52.519298,-1.725253
+337957,Jumping Bean Burrito,5,5,0,5,2014-05-15,52.589706,-1.546619
+337958,K P Catering,4,0,10,10,2012-11-18,,
+337959,Kelly G'z,Exempt,nan,nan,nan,2014-10-10,52.577972,-1.548231
+337960,Keresley Rugby Football Club,3,10,5,10,2013-12-04,52.462439,-1.547456
+337961,KFC (North),5,0,0,0,2012-10-30,52.47184,-1.546727
+337962,KFC (South),5,0,0,0,2012-10-30,52.47184,-1.546727
+337963,Kiddi Katering,5,5,5,5,2014-12-08,,
+337964,Kingsbury Primary School,5,5,0,0,2014-01-13,52.567799,-1.685529
+337965,Kingsbury Specialist Science & Maths College,5,5,5,5,2013-06-05,52.566327,-1.683238
+337966,Kitch Catering,5,5,0,5,2014-05-15,52.589706,-1.546619
+337967,Konios,1,10,10,20,2014-01-21,,
+337968,La Marquis Crepes and Pastries,5,5,5,5,2014-12-05,,
+337969,L'amour Candy Carts,5,5,5,5,2014-07-14,,
+337970,Landgirls Cookery School,3,10,10,5,2013-05-17,52.552734,-1.517739
+337971,Lea Marston Hotel & Leisure Complex Ltd,5,5,5,5,2014-10-15,52.546708,-1.702726
+337972,Leathermill Grange,5,0,0,5,2013-04-29,52.555559,-1.505215
+337973,Lentils,3,10,10,10,2014-10-13,52.559744,-1.641348
+337974,Licensed to Grill,5,5,5,5,2014-08-20,52.619354,-1.614924
+337975,Linden Lodge,5,5,0,5,2014-05-07,52.630137,-1.584291
+337976,Linden Lodge Residential Home,5,0,0,5,2013-12-09,52.60082,-1.61584
+337977,Little Acorns Day Nursery,5,5,5,5,2014-10-30,52.582226,-1.740725
+337978,Little Monsters Bakery,5,5,5,5,2014-09-08,,
+337979,Little Stars Nursery,5,0,0,5,2014-05-20,52.567889,-1.530674
+337980,L'maiz,4,5,10,5,2014-01-06,52.499669,-1.704988
+337981,Londis,5,5,0,5,2013-07-03,52.606357,-1.615555
+337982,Lone Wolf Coffee,5,5,5,5,2014-01-22,52.623961,-1.613628
+337983,Lost in Cake,5,5,5,5,2013-05-03,,
+337984,Lyndsey's,5,5,5,5,2014-10-09,,
+337985,M J Smith (Butchers) Ltd,5,5,5,5,2014-07-29,52.619354,-1.614924
+337986,Maggies Stores,4,0,10,5,2013-06-26,52.611429,-1.619099
+337987,Maid Of The Mill,4,5,10,5,2013-11-26,52.573196,-1.550006
+337988,Mancetter Post Office,Exempt,nan,nan,nan,2012-02-07,52.568577,-1.52959
+337989,Mancetter Stores,4,10,5,0,2013-10-24,52.569563,-1.531232
+337990,Mark Copper Meats,5,0,0,5,2014-02-11,52.505592,-1.579543
+337991,Market Tavern,3,10,10,10,2013-03-19,52.577894,-1.546667
+337992,Marks & Spencer Simply Food,5,0,0,0,2015-01-05,52.608154,-1.641057
+337993,Marriott Forest of Arden Hotel,3,10,10,10,2014-02-24,52.461102,-1.65207
+337994,Marston Farm Hotel,2,15,10,10,2014-05-29,52.562056,-1.707476
+337995,Martins,5,0,0,5,2014-02-18,52.50735,-1.706321
+337996,Maxstoke Park Golf Club Ltd,4,5,10,5,2013-11-06,52.500075,-1.668246
+337997,Maya,1,10,15,20,2014-11-25,52.616581,-1.616514
+337998,Maya Bar & Restaurant,4,5,5,10,2014-08-11,52.579164,-1.547392
+337999,McColls,5,5,0,0,2014-12-01,52.576957,-1.546087
+338000,McDonalds,4,5,10,0,2014-06-18,52.591009,-1.780573
+338001,Mee Fong,4,5,10,5,2014-04-30,52.609181,-1.616003
+338002,Merevale House Residential Care Home,4,5,10,5,2014-10-30,52.572605,-1.550676
+338003,Merevale House Residential Home Ltd,4,5,10,5,2014-09-23,52.579765,-1.55413
+338004,Michael Drayton Junior School,4,5,10,5,2014-01-22,52.543298,-1.523107
+338005,Middleton Hall Trust,5,5,5,5,2013-11-24,52.581587,-1.716983
+338006,Middleton Village Shop,5,0,5,5,2012-07-20,52.582342,-1.736459
+338007,mmmcake,5,5,5,5,2013-01-11,,
+338008,Mobile Food Ltd,5,5,5,0,2013-02-11,,
+338009,Monument Foodstore,3,10,10,10,2014-02-18,52.612807,-1.611467
+338010,Morrisons,5,5,5,5,2014-07-22,52.498654,-1.708986
+338011,Moto Forecourt,5,5,0,0,2012-04-20,52.608154,-1.641057
+338012,Moto Hospitality,4,10,0,5,2013-10-16,52.608154,-1.641057
+338013,Moxhull Hall Hotel,4,10,5,5,2013-11-28,52.56222,-1.760536
+338014,Mr News,Exempt,nan,nan,nan,2013-06-25,52.565053,-1.680665
+338015,Mr Simms Olde Sweet Shoppe,4,0,10,5,2014-01-07,52.577972,-1.548231
+338016,Mr Steve Mellor,5,0,5,5,2013-12-06,52.536983,-1.524399
+338017,Mrs Caroline Smedley,5,5,5,0,2013-10-15,,
+338018,Mrs Deanna Jayne Baker,AwaitingInspection,nan,nan,nan,,,
+338019,Mrs Hillaina Collins,5,5,5,5,2014-10-08,,
+338020,Naranji,1,15,15,20,2014-12-03,52.616393,-1.6169
+338021,Nathaniel Newton Infant School,5,0,0,0,2013-02-28,52.538603,-1.520312
+338022,Naughty but Nice chocolates,5,5,5,5,2014-12-08,,
+338023,Nether Whitacre Ex Service & Social Club,5,5,0,5,2014-01-10,52.531371,-1.678595
+338024,New Jade Garden,1,10,15,20,2014-12-15,52.616581,-1.616514
+338025,New Oriental,3,10,10,10,2014-10-23,52.537019,-1.519857
+338026,Newton Regis C of E Primary School,4,5,10,5,2011-05-25,52.663634,-1.589754
+338027,Newton Regis Garden Store,Exempt,nan,nan,nan,2014-01-08,52.653752,-1.60494
+338028,Nom Nom Ltd,5,5,5,5,2014-03-18,,
+338029,North Warwickshire Recreational Centre,4,10,5,5,2014-09-26,52.617963,-1.62984
+338030,Northern Care,3,5,10,10,2013-11-26,52.475799,-1.579415
+338031,Nou Thai,5,5,0,5,2014-05-15,52.589706,-1.546619
+338032,NPF Bassetts Pole,4,10,0,5,2014-03-19,52.591009,-1.780573
+338033,Nursery Hill Primary School,4,10,0,0,2013-07-08,52.539375,-1.540341
+338034,Oakridge Golf Club,5,5,5,5,2014-11-13,52.516312,-1.555966
+338035,Ocado Limited,5,0,0,0,2013-07-03,52.593308,-1.62835
+338036,Old Barn Guest House,5,5,5,5,2012-07-31,52.49184,-1.720416
+338037,Old Hall House,5,0,0,5,2014-07-01,52.465944,-1.607549
+338038,Old Saltleians Rugby Club,5,5,5,5,2014-11-24,52.516327,-1.730989
+338039,Oldbury Grange Nursing Home,4,0,5,10,2014-06-13,52.547786,-1.53956
+338040,Olive Catering (Accident Exchange),3,5,10,10,2014-05-21,52.529597,-1.701441
+338041,Olive Catering (Bovis Homes),5,5,5,5,2013-06-26,52.515244,-1.710144
+338042,Olive Catering (CEVA Logistics),5,5,5,5,2013-03-08,,
+338043,On the Button Childcare,5,5,5,5,2013-12-06,52.604204,-1.617124
+338044,Orchard Blythe,5,5,0,5,2015-01-05,52.49443,-1.709294
+338045,Orchard Nurseries Farm Shop,2,10,15,10,2013-03-12,52.516491,-1.752665
+338046,Oriental Chef,2,15,15,10,2014-10-01,52.576633,-1.543832
+338047,Orton Manor Nursing Home,4,5,10,5,2014-05-13,52.517531,-1.747487
+338048,Outwoods Primary School,5,0,5,0,2014-12-01,52.573155,-1.541773
+338049,Packington Somers Fisheries,4,5,10,5,2013-12-05,52.439342,-1.669482
+338050,Parkfield 21,5,0,0,5,2013-09-10,52.496797,-1.706819
+338051,Pavilion,1,10,15,20,2014-06-19,52.54356,-1.709516
+338052,PB's@The Gate,2,10,15,10,2015-01-14,52.531211,-1.662956
+338053,Pinocchio Pizzas,4,10,5,5,2014-10-27,52.577972,-1.548231
+338054,Pizza Village,4,5,10,5,2014-01-14,52.517178,-1.729716
+338055,Planters Restaurant,5,5,5,5,2014-04-09,52.596105,-1.646337
+338056,Polash,3,10,10,10,2014-08-07,52.499872,-1.706842
+338057,Polesworth Convenience Store,2,10,15,10,2013-05-03,52.621195,-1.611614
+338058,Polesworth Fish Bar,5,5,5,5,2014-03-26,52.620521,-1.611738
+338059,Polesworth Group Homes Ltd,5,0,5,5,2014-05-09,52.580482,-1.539454
+338060,Polesworth Group Homes Ltd,5,5,5,5,2014-01-03,52.599278,-1.614524
+338061,Polesworth Group Homes Ltd,5,5,5,5,2014-10-24,52.611513,-1.614432
+338062,Polesworth School,5,0,5,5,2014-05-22,52.610553,-1.620525
+338063,Polesworth Sports and Social Club,4,10,5,5,2013-02-26,52.620521,-1.611738
+338064,Polly's,5,5,5,5,2013-06-19,,
+338065,Pooley Country Park,4,5,10,5,2014-07-25,52.622107,-1.621134
+338066,Priory Farmhouse B&B,5,0,5,5,2014-03-13,52.515613,-1.666228
+338067,Queen Elizabeth Lower School & Sports College,5,5,0,5,2013-07-11,52.575877,-1.541287
+338068,Queen Elizabeth Upper School & Sports College,4,10,5,0,2014-01-13,52.573605,-1.534922
+338069,Queen of Whisks,5,0,5,5,2014-12-15,,
+338070,Queens Head,3,5,10,10,2014-04-30,52.663918,-1.591482
+338071,Racemeadow Primary Academy,5,0,0,5,2014-01-13,52.579851,-1.538958
+338072,Raj Mahal Indian Cuisine Ltd,2,10,15,10,2013-07-03,52.577594,-1.548264
+338073,Rajrani,1,15,15,20,2014-02-06,,
+338074,Ramadan,5,0,0,5,2014-03-19,52.535705,-1.737107
+338075,Red Box,5,0,5,5,2014-10-01,52.582504,-1.643509
+338076,Reindeer Park Lodge,5,0,5,5,2012-01-23,52.541465,-1.716754
+338077,Riddings Fisheries,5,5,0,0,2013-03-25,52.588364,-1.585025
+338078,Ridge Lane Stores,3,10,5,10,2014-02-10,52.551702,-1.567113
+338079,Robert G Tuckey,5,5,5,5,2013-12-06,52.518703,-1.634844
+338080,Roosterz,2,10,15,10,2014-09-23,52.58045,-1.535705
+338081,Rowleys Newsagents,3,5,10,10,2014-03-04,52.538603,-1.520312
+338082,Royal Spice,4,5,10,5,2014-01-23,52.515244,-1.710144
+338083,RS & M Bailey,Exempt,nan,nan,nan,2013-06-25,52.609181,-1.616003
+338084,Rumbles Batch Bar,5,5,5,5,2014-08-12,52.518275,-1.742207
+338085,Rust'eze,4,5,10,5,2014-10-07,,
+338086,S Webb Catering Ltd,3,10,10,10,2013-02-27,,
+338087,Sam's Shop,4,10,5,5,2014-06-25,52.604204,-1.617124
+338088,Samuel Barlow,4,5,5,10,2014-05-09,52.634296,-1.635125
+338089,Samz Store,3,5,10,10,2013-09-25,52.645349,-1.62519
+338090,Sandwich Factory Staff Canteen,Exempt,nan,nan,nan,2012-10-10,52.576162,-1.531412
+338091,Senses Ltd,4,5,10,5,2013-10-14,52.520322,-1.75341
+338092,Servest (Jaguar Landrover) Tradeteam,5,5,5,0,2014-04-29,52.524755,-1.7065
+338093,Servest (Selfridges),4,5,10,5,2014-10-13,52.523269,-1.708957
+338094,Shakil's Eatery,3,10,10,10,2014-01-09,52.576633,-1.543832
+338095,Shustoke Barn Ltd,5,0,0,5,2013-09-16,52.514373,-1.672692
+338096,Shustoke C of E Primary School,5,0,0,5,2014-11-13,52.513481,-1.662575
+338097,Shustoke Sailing Club,5,5,5,5,2014-09-25,52.516049,-1.667728
+338098,Shuttington Fields Farm B&B,5,5,5,5,2013-09-09,,
+338099,Smithy Farm Shop Tea Rooms,5,5,5,5,2013-04-12,52.603783,-1.565315
+338100,Snackers Food Trailer,4,5,10,5,2014-04-14,,
+338101,Spar Shop,5,5,5,5,2012-11-09,52.619354,-1.614924
+338102,Spar Supermarket,5,5,5,5,2013-01-24,52.60082,-1.61584
+338103,Spartans Unity Association,3,10,5,10,2013-07-30,52.586816,-1.774188
+338104,Spectrum for Arcadia Staff Restaurant,5,5,5,5,2013-02-05,52.577845,-1.529594
+338105,Spice Land,3,10,10,10,2013-10-22,52.609181,-1.616003
+338106,Spice Lounge,2,15,10,10,2014-12-04,52.499635,-1.70951
+338107,Spice Mantle,3,10,10,10,2014-10-29,52.60082,-1.61584
+338108,Springfield House,5,0,0,5,2012-12-04,52.49092,-1.704324
+338109,St Benedicts R.C. Primary School,4,5,5,10,2014-03-04,52.572068,-1.534894
+338110,St Catherines Care Home,4,5,10,5,2014-06-20,52.492824,-1.703531
+338111,St Edwards Wraparound,5,5,0,5,2013-11-27,52.48689,-1.7031
+338112,St Josephs Home,5,0,5,5,2014-02-24,52.492824,-1.703531
+338113,St. Edwards RC Primary School,5,5,5,0,2014-11-25,52.48689,-1.7031
+338114,Starbucks (North),5,0,5,0,2012-10-30,52.47184,-1.546727
+338115,Starbucks (south),5,0,0,0,2012-02-08,52.47184,-1.546727
+338116,Station Stores,2,15,10,10,2013-12-05,52.52231,-1.679103
+338117,Stillwaters Guest House,5,0,0,5,2013-03-28,52.502861,-1.585094
+338118,Stonebridge Golf Centre,4,10,5,5,2014-05-13,52.439342,-1.669482
+338119,Subway,5,0,0,5,2014-12-10,52.597002,-1.611252
+338120,Suelaine's Tearoom and Restaurant,2,5,15,10,2014-07-08,52.505592,-1.579543
+338121,Suesburg,4,0,5,10,2014-01-28,,
+338122,Sunflowers Nursery,4,10,5,5,2014-12-01,52.49443,-1.709294
+338123,Supermart,4,5,10,5,2014-02-06,52.536983,-1.524399
+338124,Supershop,4,5,10,5,2013-03-19,52.559561,-1.681162
+338125,Sweet Box UK,5,0,0,0,2014-06-13,52.581587,-1.716983
+338126,Sweet Things,3,10,5,10,2013-08-20,52.499028,-1.707481
+338127,Sweet Williams Cakes,5,5,5,5,2013-04-23,52.531357,-1.58711
+338128,Tailored Tastes,5,5,5,5,2013-06-11,,
+338129,Take A Bite,4,10,5,5,2014-04-02,52.484326,-1.698979
+338130,Tamworth Co-operative Society Ltd,4,5,10,5,2014-07-15,52.582504,-1.643509
+338131,Tao Tao Restaurant,2,10,15,10,2013-07-23,52.499872,-1.706842
+338132,Tarrants Flowers,4,10,5,5,2014-12-08,52.619122,-1.615517
+338133,Tasty Bites Atherstone Ltd,5,0,0,5,2014-11-14,52.577594,-1.548264
+338134,Teddy 'n' Daisy's Day Nursery,5,0,0,5,2014-09-17,52.492824,-1.703531
+338135,Terrace Cafe (Melbicks Garden Centre),5,5,0,5,2014-03-17,52.461999,-1.70418
+338136,Tesco Express,5,0,0,0,2015-01-07,52.518275,-1.742207
+338137,Tesco Express,4,5,10,5,2013-04-10,52.497784,-1.706164
+338138,Thai Brasserie,1,15,10,20,2014-12-04,52.443891,-1.659708
+338139,The Allsorts Club,5,0,0,5,2014-03-13,52.533091,-1.734277
+338140,The Anchor Inn,4,10,5,5,2014-02-18,52.570686,-1.644712
+338141,The Anchor Inn,3,10,10,10,2015-01-13,52.549158,-1.507293
+338142,The Atherstone Red Lion Hotel,2,15,15,10,2014-11-18,52.577321,-1.547219
+338143,The Beehive,3,10,10,5,2014-12-04,52.532268,-1.735874
+338144,The Belfry Hotel,3,10,10,5,2013-12-03,52.554755,-1.73363
+338145,The Bell Inn,4,5,10,5,2014-09-09,52.499635,-1.70951
+338146,The Big Playbarn,4,5,5,10,2014-09-10,52.575174,-1.742936
+338147,The Bird In Hand,5,5,5,5,2014-01-08,52.654658,-1.56354
+338148,The Birmingham Meat Co. Ltd,4,10,5,5,2013-09-16,52.53695,-1.701377
+338149,The Blue Boar,3,10,5,10,2013-10-01,52.571705,-1.527343
+338150,The Boot Inn,1,15,15,20,2014-06-19,52.591274,-1.594578
+338151,The Boot Inn,2,10,15,10,2014-10-13,52.520878,-1.560518
+338152,The Bridleways,5,5,0,5,2014-11-10,52.538236,-1.525093
+338153,The Bull,4,10,5,5,2014-02-27,52.518703,-1.634844
+338154,The Bulls Head,4,10,0,5,2014-02-05,52.617883,-1.618763
+338155,The Cakeart Studio,5,0,5,5,2012-02-06,,
+338156,The Chase,4,10,0,5,2014-06-24,52.536983,-1.524399
+338157,The Cheese and Ale Barn,5,5,5,5,2014-07-31,52.581587,-1.716983
+338158,The Chestnuts Country Hotel,5,0,0,5,2014-07-09,52.595055,-1.604124
+338159,The Cliff House,3,10,10,10,2013-10-08,52.581088,-1.690009
+338160,The Coach Hotel,3,10,10,10,2014-07-16,52.496811,-1.70539
+338161,The Cock Inn,5,5,0,0,2014-05-20,52.545826,-1.753547
+338162,The Coleshill Hotel,5,5,0,0,2013-10-01,52.496811,-1.70539
+338163,The Coleshill School,4,5,5,10,2014-02-04,52.484973,-1.705955
+338164,The Co-operative,4,5,10,5,2013-07-09,52.499495,-1.707316
+338165,The Cottage Inn,4,5,10,5,2014-05-30,52.48697,-1.593799
+338166,The Cuckoo's Rest,5,5,5,5,2013-08-15,52.605701,-1.615782
+338167,The Digby,5,0,0,5,2014-09-24,52.516727,-1.74114
+338168,The Dog Inn,2,10,15,10,2013-11-27,52.519482,-1.739223
+338169,The Dog Inn,3,10,10,10,2014-05-21,52.533867,-1.658306
+338170,The Fig And Olive,5,0,0,5,2013-09-09,52.586896,-1.759989
+338171,The Fox and Dogs,5,5,0,5,2014-03-25,,
+338172,The Gamecock,4,10,0,5,2014-05-29,52.610868,-1.629205
+338173,The Gate Inn,5,0,0,5,2015-01-14,52.531211,-1.662956
+338174,The General Conference Of The New Church,5,0,5,5,2014-01-29,52.556489,-1.553879
+338175,The Golden Spoon Catering Company,5,0,0,5,2014-12-01,52.555559,-1.505215
+338176,The Green Man,3,10,10,10,2013-10-31,52.499495,-1.707316
+338177,The Green Man,5,5,5,0,2014-10-22,52.582226,-1.740725
+338178,The Griffin,5,5,5,5,2013-08-21,52.515525,-1.645245
+338179,The Grove Sports & Social Club,4,10,5,5,2012-05-29,52.575612,-1.544832
+338180,The Hatters Arms,1,20,10,10,2013-03-27,52.630137,-1.584291
+338181,The Hayes Guesthouse,5,0,5,5,2012-09-28,52.542773,-1.519883
+338182,The Heritage Cake Company,5,5,5,5,2013-06-18,,
+338183,The Holly Bush,5,5,5,5,2012-09-26,52.559744,-1.638236
+338184,The Kings Head,5,5,5,5,2015-02-02,52.579765,-1.55413
+338185,The Larder (G&S Catering),5,5,5,5,2013-07-04,52.577972,-1.548231
+338186,The Legion,5,5,5,5,2013-09-24,52.577894,-1.546667
+338187,The Lemon Tree Pantry,2,10,15,10,2014-07-02,52.565053,-1.680665
+338188,The Link,5,5,5,5,2014-07-11,52.517347,-1.737216
+338189,The Little Coffee Pot Cafe,1,10,15,20,2015-01-15,52.577894,-1.546667
+338190,The Lord Nelson,5,5,5,5,2014-01-08,52.519826,-1.558126
+338191,The Malt Shovel,4,5,10,5,2015-01-15,52.548641,-1.519377
+338192,The Manor House,1,10,15,20,2014-02-18,52.481295,-1.587962
+338193,The Munch Box,4,5,10,5,2013-09-09,52.537019,-1.519857
+338194,The Nethersole C of E Primary School,4,10,5,5,2014-01-22,52.620007,-1.608567
+338195,The New Swan,1,10,15,20,2014-07-22,52.57795,-1.547227
+338196,The Norton,4,10,5,5,2014-05-20,52.516073,-1.707575
+338197,The Office: 1st Floor Restaurant,0,10,20,30,2014-11-18,52.630137,-1.584291
+338198,The Old Bakery,4,5,5,10,2014-03-03,52.575472,-1.540923
+338199,The Old Barn Coffee Shop,5,0,0,5,2014-07-08,52.560744,-1.700183
+338200,The Old School House Hotel,5,5,5,5,2012-02-14,52.531744,-1.747449
+338201,The Old Swan Inn,4,10,5,5,2013-09-30,52.575472,-1.540923
+338202,The Plough,3,10,10,10,2014-09-25,52.514965,-1.665791
+338203,The Quicken Tree,4,5,5,10,2014-01-21,52.465944,-1.607549
+338204,The Railway Inn,5,5,5,5,2014-11-12,52.531371,-1.678595
+338205,The Red Lion,4,10,5,5,2012-03-22,52.582438,-1.597626
+338206,The Red Lion,1,10,10,20,2014-10-09,52.619122,-1.615517
+338207,The Red Lion,1,15,15,20,2014-10-14,52.49092,-1.704324
+338208,The Red Lion Inn,5,5,5,5,2014-08-11,52.464018,-1.593834
+338209,The Restaurant,4,10,5,0,2014-06-30,52.562194,-1.522917
+338210,The Rice Bowl,5,5,5,5,2013-01-23,52.496797,-1.706819
+338211,The Rose Inn,3,10,10,10,2014-03-11,52.569259,-1.589927
+338212,The Royal Oak,4,5,10,5,2014-03-13,52.564617,-1.682468
+338213,The Royal Oak,5,5,0,5,2013-08-22,52.614731,-1.611597
+338214,The Smithy Farm Shop,5,0,5,5,2014-12-10,52.603783,-1.565315
+338215,The Stables,5,0,0,5,2014-02-11,52.544417,-1.519629
+338216,The Stag and Pheasant,4,10,5,5,2013-03-25,52.547899,-1.520476
+338217,The Steak Bar,4,5,10,5,2014-11-09,,
+338218,The Swan Hotel,5,5,0,0,2013-07-08,52.498604,-1.706851
+338219,The Swan Inn,5,5,5,5,2014-10-24,52.531711,-1.678091
+338220,The Treehouse,5,5,5,5,2012-09-12,52.513342,-1.743355
+338221,The Uppercrust,4,10,5,5,2014-03-17,52.496797,-1.706819
+338222,The Village Cantonese,3,5,10,10,2014-06-12,52.518275,-1.742207
+338223,The Waterfront Bar,4,5,5,10,2014-09-18,52.581088,-1.690009
+338224,The Weavers Arms,3,10,10,5,2013-09-04,52.488512,-1.572328
+338225,The Wheatsheaf Harvester,3,10,10,10,2013-05-01,52.503775,-1.7077
+338226,The White Horse,5,5,5,5,2014-11-25,52.533269,-1.741352
+338227,The White Horse,1,20,15,10,2013-05-01,,
+338228,The White Lion,4,10,0,5,2015-01-20,52.576696,-1.548332
+338229,The White Swan,4,10,5,5,2013-02-11,52.564578,-1.681332
+338230,Thomas Franks Ltd,5,5,5,5,2013-09-12,52.524328,-1.701108
+338231,Threshers,Exempt,nan,nan,nan,2013-12-11,52.496797,-1.706819
+338232,TK Catering,4,0,10,5,2014-11-09,,
+338233,TNT Kingsbury PDC,Exempt,nan,nan,nan,2014-03-14,52.583955,-1.657017
+338234,Tomorrows Catering Ltd,5,5,0,0,2014-09-26,52.62011,-1.612643
+338235,Tony's Service Station,4,10,5,5,2014-01-03,52.58045,-1.535705
+338236,Triple A,5,5,5,5,2014-09-23,52.536983,-1.524399
+338237,Trotters Ltd,3,10,10,5,2013-12-04,52.562194,-1.522917
+338238,Trotters Organic and Natural Store,5,5,0,0,2012-10-30,52.562194,-1.522917
+338239,Truffles,5,5,5,5,2013-01-11,52.531357,-1.58711
+338240,Truly Scrumptious,5,0,5,5,2013-01-24,,
+338241,UK Pizzas & Kebabs,3,10,10,10,2014-06-27,52.577594,-1.548264
+338242,Ultimate Ices,5,5,5,5,2013-05-03,,
+338243,Unicorn,2,15,10,10,2014-09-29,52.577894,-1.546667
+338244,Victoria's Cafe,4,0,5,10,2014-04-08,52.534208,-1.739312
+338245,Village Post Office and News,Exempt,nan,nan,nan,2013-12-02,52.619354,-1.614924
+338246,Vindaloo,4,5,10,5,2013-11-20,52.60082,-1.61584
+338247,Vintage Fayre,5,5,5,5,2014-02-24,,
+338248,Virk Stores,4,5,5,10,2014-02-11,52.580807,-1.539642
+338249,Volunteer Centre North Warwickshire,4,0,10,10,2015-01-15,52.578519,-1.550217
+338250,W H Smith,5,5,5,5,2013-03-28,52.608154,-1.641057
+338251,W H Smith (North),5,0,0,0,2012-02-08,52.47184,-1.546727
+338252,W.C. Masters and Son,4,10,5,5,2015-01-20,52.577321,-1.547219
+338253,W.H.Smith (South),5,0,0,0,2012-02-08,52.47184,-1.546727
+338254,Wagon Load of Lime,3,10,10,10,2014-10-07,52.514661,-1.581593
+338255,Waitrose (North),5,0,0,0,2012-02-08,52.47184,-1.546727
+338256,Walter Smith Farm Shop,1,0,5,20,2015-01-12,52.46188,-1.706712
+338257,Warton Nethersole's C of E School,5,5,5,5,2012-02-29,52.630002,-1.581662
+338258,Warton Post Office,2,5,15,10,2013-04-17,52.629941,-1.58215
+338259,Warton Village Hall,3,10,10,10,2014-01-16,52.630002,-1.581662
+338260,Warton Working Mens Club,2,15,5,5,2013-01-10,52.631562,-1.583199
+338261,Water Orton Cricket Club,4,0,5,10,2014-05-13,52.516422,-1.737487
+338262,Water Orton Fish Bar,5,5,5,5,2014-11-21,52.518275,-1.742207
+338263,Welcome Hall,5,0,5,5,2015-01-20,52.567646,-1.682299
+338264,White Hart Inn,5,5,5,5,2013-09-25,52.551437,-1.568472
+338265,White Horse Stores,5,5,0,5,2014-03-04,52.542773,-1.519883
+338266,Windmill Sports & Social Club,4,10,0,5,2014-05-13,52.538519,-1.502222
+338267,Winnies Cafe,4,5,10,5,2013-09-24,52.576696,-1.548332
+338268,Wishaw Cricket Club,3,10,10,10,2014-09-15,52.549058,-1.746849
+338269,WMS Catering,5,5,5,5,2013-01-30,,
+338270,Wok Inn Takeaway,4,10,5,5,2014-03-13,52.564578,-1.681332
+338271,Wokaway,3,5,10,10,2013-12-18,52.619354,-1.614924
+338272,Wolferstan Arms,5,5,5,5,2014-01-07,52.645349,-1.62519
+338273,Wood End Primary School,5,0,0,0,2013-02-12,52.579841,-1.645715
+338274,Wood End Working Mens Club,4,10,5,5,2014-06-25,52.582504,-1.643509
+338275,Woodlands School,5,0,0,5,2014-11-11,52.48689,-1.7031
+338276,Woodside Primary School,5,5,5,5,2014-01-17,52.583129,-1.597324
+338277,Ye Olde Station Guest House,4,0,0,10,2014-07-14,52.514663,-1.664055
+338278,Yesterdays,5,0,0,5,2014-02-06,52.62011,-1.612643
+338279,Your Shop,4,0,10,10,2013-09-20,52.514663,-1.664055

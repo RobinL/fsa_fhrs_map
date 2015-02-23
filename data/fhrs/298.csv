@@ -1,600 +1,600 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-17337,Exning,Suffolk,,,1 St Wendreds Way,Other catering premises,7841,5,,671560,5,,52.26250800000000,PI/000016048,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36945000000000,CB8 7HJ,2014-06-13,fhrs_5_en-GB,5,,FHRS,5
-17338,Newmarket,Suffolk,,,10 Brickfields Avenue,Retailers - other,4613,5,,636528,5,,52.26313000000000,PI/000035197,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38498900000000,CB8 7RX,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-17339,,,,,11 Elm Walk,Mobile caterer,7846,,,730486,,,,PI/000034226,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-17340,Brandon,Suffolk,,,12 Riverside Way,Other catering premises,7841,0,,481878,0,,52.45262100000000,PI/000016340,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62476800000000,IP27 0AN,2012-10-23,fhrs_5_en-GB,5,,FHRS,0
-17341,Scout Hall,Rowley Drive,Newmarket,Suffolk,2nd Newmarket Scout H.Q.,Other catering premises,7841,,,167015,,,52.24450800000000,PI/000010619,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39603200000000,CB8 0PU,2011-03-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-17342,Lakenheath,Suffolk,,,39 Station Road,Retailers - other,4613,10,,167617,5,,52.42330169677734,PI/000011796,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52048867940903,IP27 9JB,2011-03-11,fhrs_3_en-GB,3,,FHRS,10
-17343,Newmarket,Suffolk,,,63 Lisburn Road,Hotel/bed & breakfast/guest house,7842,5,,169572,5,,52.24396514892578,PI/000015398,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41073933243752,CB8 8HS,2014-05-08,fhrs_5_en-GB,5,,FHRS,0
-17344,,,,,87 Bill Rickaby Drive,Mobile caterer,7846,5,,445126,5,,,PI/000035187,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2012-11-08,fhrs_5_en-GB,5,,FHRS,5
-17345,Newmarket,Suffolk,,,91 Bill Rickaby Drive,Mobile caterer,7846,0,,564215,5,,52.25199200000000,PI/000019347,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40257400000000,CB8 0HG,2013-08-13,fhrs_5_en-GB,5,,FHRS,5
-17346,59 Hillside,Brandon,Suffolk,,A Cake to Suit You,Other catering premises,7841,5,,528719,5,,52.43740900000000,PI/000006226,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.59942400000000,IP27 0NN,2013-02-18,fhrs_5_en-GB,5,,FHRS,5
-17347,6 Ferneley Crescent,Newmarket,Suffolk,,A Lisa Cake,Other catering premises,7841,5,,636527,5,,52.24790200000000,PI/000018430,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40203100000000,CB8 0GW,2014-02-10,fhrs_5_en-GB,5,,FHRS,0
-17348,68 Mill Hill,Newmarket,Suffolk,,A1 Fun Club,Hospitals/Childcare/Caring Premises,5,0,,212953,0,,52.24637500000000,PI/000046683,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40240200000000,CB8 0JB,2014-09-11,fhrs_5_en-GB,5,,FHRS,5
-17349,IES Breckland,Crown Street,Brandon,Suffolk,ABM Catering Limited,Restaurant/Cafe/Canteen,1,5,,492436,0,,,PI/000046956,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,IP27 0PE,2013-01-23,fhrs_5_en-GB,5,,FHRS,0
-17350,54 High Street,Brandon,Suffolk,,Ali's Kebab Shop,Takeaway/sandwich shop,7844,10,,170303,15,,52.44968600000000,PI/000017212,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62372500000000,IP27 0AU,2014-03-18,fhrs_2_en-GB,2,,FHRS,10
-17351,20 Old Station Road,Newmarket,Suffolk,,Ali's Supermarket,Retailers - other,4613,,,166305,,,52.24521300000000,PI/000009316,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40998700000000,CB8 8DN,2013-12-18,fhrs_3_en-GB,3,,FHRS,
-17352,Vicarage Road,Newmarket,Suffolk,,All Saints CEVA Primary School,School/college/university,7845,5,,161651,0,,52.24335500000000,PI/000001711,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41113100000000,CB8 8JE,2013-11-19,fhrs_5_en-GB,5,,FHRS,0
-17353,All Saints Road,Newmarket,Suffolk,,All Saints Church,Other catering premises,7841,,,160621,,,,PI/000000355,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2013-04-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-17354,All Saints Playgroup,Vicarage Road,Newmarket,Suffolk,All Saints Under 5's,Hospitals/Childcare/Caring Premises,5,0,,168568,5,,52.24294700000000,PI/000013420,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41176800000000,CB8 8HP,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-17355,29 Junction Road,Mildenhall,Suffolk,,Allen and Son,Mobile caterer,7846,5,,636524,5,,52.35010400000000,PI/000006605,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50946400000000,IP28 7BZ,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-17356,1 Bury Road,Brandon,Suffolk,,Alliance  Pharmacy,Retailers - other,4613,,,161500,,,52.44599400000000,PI/000001509,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62434400000000,IP27 0BU,2012-03-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-17357,8 Holmsey Green,Beck Row,Suffolk,,Anatolia Kebab House,Takeaway/sandwich shop,7844,5,,164440,5,,52.37117300000000,PI/000006296,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48566800000000,IP28 8AJ,2014-09-18,fhrs_5_en-GB,5,,FHRS,5
-17358,8 Chiswick Avenue,Mildenhall,Suffolk,,Angel's,Restaurant/Cafe/Canteen,1,5,,161967,5,,52.35501300000000,PI/000002105,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51035900000000,IP28 7BD,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-17359,21 Nimbus Way,Newmarket,Suffolk,,Apple & Hourglass Cupcake Co,Other catering premises,7841,0,,176180,5,,52.26501700000000,PI/000035724,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39480700000000,CB8 7BN,2011-09-30,fhrs_5_en-GB,5,,FHRS,5
-17360,57 The Rookery Shopping Centre,The Rookery,Newmarket,,Argos,Retailers - other,4613,,,168049,,,52.24545400000000,PI/000012487,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40610300000000,CB8 8HT,2010-05-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-17361,Homebase LTD,Oaks Drive,Newmarket,Suffolk,Argos,Retailers - other,4613,,,719180,,,52.26229400000000,PI/000051232,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39608200000000,CB8 7SX,2014-10-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-17362,Flat 1,62 Exning Road,Newmarket,Suffolk,ArtexGB,Retailers - other,4613,5,,627821,5,,52.25046400000000,PI/000046468,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39853600000000,CB8 0AB,2013-12-02,fhrs_5_en-GB,5,,FHRS,5
-17363,2 Kingston Villa,Sun Lane,Newmarket,Suffolk,Artistry in Cocoa,Retailers - other,4613,0,,323721,5,,52.24353200000000,PI/000038225,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40645300000000,CB8 8EW,2013-02-26,fhrs_5_en-GB,5,,FHRS,5
-17364,Unit 3A,Newmarket Retail Park,Oaks Drive,Newmarket,Asda Supermarket,Retailers - supermarkets/hypermarkets,7840,0,,166267,5,,52.26229400000000,PI/000009275,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39608200000000,CB8 7SX,2013-01-14,fhrs_5_en-GB,5,,FHRS,0
-17365,69 Crown Street,Brandon,Suffolk,,Ashgar,Restaurant/Cafe/Canteen,1,10,,481890,5,,52.44299000000000,PI/000046895,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60566800000000,IP27 0JU,2015-01-02,fhrs_4_en-GB,4,,FHRS,5
-17366,13 Old Station Road,Newmarket,Suffolk,,Ashley House,Hotel/bed & breakfast/guest house,7842,5,,584318,5,,52.24507800000000,PI/000028525,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41134200000000,CB8 8DT,2013-08-02,fhrs_5_en-GB,5,,FHRS,5
-17367,121 Freshfields,Newmarket,Suffolk,,Assured Catering,Retailers - other,4613,5,,163317,5,,52.24775900000000,PI/000004492,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39890200000000,CB8 0EH,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-17368,56 High Street,Brandon,Suffolk,,Atlantico,Retailers - other,4613,5,,163899,5,,52.44968600000000,PI/000005522,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62372500000000,IP27 0AU,2014-02-06,fhrs_5_en-GB,5,,FHRS,0
-17369,146 High Street,Newmarket,Suffolk,,Aura,Pub/bar/nightclub,7843,5,,164074,5,,52.24271600000000,PI/000005810,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40233600000000,CB8 9AQ,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-17370,The Greenhouse,Bury Road,Kentford,Suffolk,Autobar Ltd,Retailers - other,4613,10,,161513,5,,52.27243000000000,PI/000001533,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50302100000000,CB8 7PR,2010-02-25,fhrs_4_en-GB,4,,FHRS,5
-17371,45 High Street,Brandon,Suffolk,,Baptist Church,Other catering premises,7841,,,163883,,,52.44845500000000,PI/000005503,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2014-01-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-17372,Sedge Fen Baptist Church,Sedge Fen,Sedge Fen,Suffolk,Baptist Church,Other catering premises,7841,10,,167170,5,,52.43261300000000,PI/000010869,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.46351200000000,IP27 9LG,2014-10-30,fhrs_4_en-GB,4,,FHRS,5
-17373,30 Market Place,Mildenhall,Suffolk,,Barleycorn,Retailers - other,4613,5,,165510,5,,52.34329200000000,PI/000008125,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2013-08-19,fhrs_5_en-GB,5,,FHRS,5
-17374,,,,,Barry's Snack Bar,Mobile caterer,7846,5,,455411,5,,,PI/000033739,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-04-25,fhrs_5_en-GB,5,,FHRS,5
-17375,West View,Hurdle Drove,West Row,Suffolk,Bartboots (Ices),Mobile caterer,7846,5,,323724,5,,52.36276000000000,PI/000046694,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45971100000000,IP28 8RB,2014-09-21,fhrs_5_en-GB,5,,FHRS,5
-17376,Pavilion,Barton Mills Playing Field,Mildenhall Road,Barton Mills,Barton Mills Football Club,Other catering premises,7841,5,,171757,10,,,PI/000021250,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2009-03-31,fhrs_3_en-GB,3,,FHRS,10
-17377,The Street,Beck Row,Suffolk,,Beck Row Primary School,School/college/university,7845,5,,168265,5,,52.36889900000000,PI/000012865,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48643600000000,IP28 8AE,2014-09-15,fhrs_5_en-GB,5,,FHRS,5
-17378,Londis,10 Holmsey Green,Beck Row,Suffolk,Beck Row Village Store,Retailers - other,4613,5,,164415,5,,52.37117300000000,PI/000006252,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48566800000000,IP28 8AJ,2013-04-12,fhrs_4_en-GB,4,,FHRS,10
-17379,7 Bury Road,Newmarket,Suffolk,,Bedford House Stables,Restaurant/Cafe/Canteen,1,10,,161604,5,,52.25114100000000,PI/000001630,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41517200000000,CB8 7BX,2014-02-12,fhrs_3_en-GB,3,,FHRS,10
-17380,11 Bury Road,Newmarket,Suffolk,,Bedford Lodge Hotel,Hotel/bed & breakfast/guest house,7842,0,,161618,5,,52.25114100000000,PI/000001648,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41517200000000,CB8 7BX,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-17381,114 High Street,Lakenheath,Suffolk,,Beeches Catering,Mobile caterer,7846,5,,163931,5,,52.41364100000000,PI/000005577,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52186400000000,IP27 9EW,2014-06-26,fhrs_5_en-GB,5,,FHRS,5
-17382,25 High Street,Mildenhall,Suffolk,,Bell Hotel,Hotel/bed & breakfast/guest house,7842,5,,164023,10,,52.34231200000000,PI/000005744,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51010900000000,IP28 7EA,2014-07-08,fhrs_3_en-GB,3,,FHRS,10
-17383,Elveden Forest Holiday Village,Brandon Road,Elveden,Suffolk,Bella Italia,Restaurant/Cafe/Canteen,1,0,,169434,5,,52.39273200000000,PI/000015086,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.64331900000000,IP24 3TR,2013-08-20,fhrs_5_en-GB,5,,FHRS,5
-17384,36 Thetford Road,Brandon,Suffolk,,Bella Pizza & Grill,Takeaway/sandwich shop,7844,5,,168344,10,,52.44762800000000,PI/000013001,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62570700000000,IP27 0BS,2014-10-09,fhrs_4_en-GB,4,,FHRS,5
-17385,23-23A High Street,Mildenhall,Suffolk,,Bella Pizza & Grill House,Restaurant/Cafe/Canteen,1,,,164002,,,52.34231200000000,PI/000005711,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51010900000000,IP28 7EA,2013-11-28,fhrs_5_en-GB,5,,FHRS,
-17386,37 Beeches Road,West Row,Suffolk,,Best Kebab,Takeaway/sandwich shop,7844,10,,584317,5,,52.35834000000000,PI/000000869,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45821700000000,IP28 8NP,2013-08-01,fhrs_4_en-GB,4,,FHRS,5
-17387,Heath Court Hotel,Moulton Road,Newmarket,Suffolk,Best Western,Hotel/bed & breakfast/guest house,7842,5,,165883,5,,52.24591000000000,PI/000008659,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41106500000000,CB8 8DY,2013-05-28,fhrs_5_en-GB,5,,FHRS,0
-17388,,,,,Bianka Rozsa,Mobile caterer,7846,5,,664920,5,,,PI/000041497,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-17389,30 Laburnum Avenue,Mildenhall,Suffolk,,Birdy's Ices,Mobile caterer,7846,5,,176076,5,,52.34852100000000,PI/000035235,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52676000000000,IP28 7PL,2013-04-12,fhrs_5_en-GB,5,,FHRS,5
-17390,,,,,Bite 2 Eat,Other catering premises,7841,5,,704117,5,,,PI/000011713,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-07-16,fhrs_5_en-GB,5,,FHRS,5
-17391,4 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,BLD Cafe Restaurant,Restaurant/Cafe/Canteen,1,,,168044,,,52.24480900000000,PI/000012477,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40557000000000,CB8 8EQ,2014-11-04,fhrs_5_en-GB,5,,FHRS,
-17392,128 High Street,Newmarket,Suffolk,,Blockbuster Video,Retailers - other,4613,0,,164062,0,,52.24359400000000,PI/000005797,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40430300000000,CB8 8JP,2012-02-29,fhrs_5_en-GB,5,,FHRS,5
-17393,Christmas Hill Farm,Station Road,Lakenheath,Suffolk,Bloomberries @ Christmas Hill,Restaurant/Cafe/Canteen,1,10,,481887,10,,,PI/000046877,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2013-10-04,fhrs_3_en-GB,3,,FHRS,10
-17394,32-34 High Street,Brandon,Suffolk,,Boots,Retailers - other,4613,,,163878,,,52.44845500000000,PI/000005490,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2012-02-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-17395,82 High Street,Newmarket,Suffolk,,Boots Chemist Ltd,Retailers - other,4613,0,,164228,0,,52.24421200000000,PI/000005965,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40571300000000,CB8 8JX,2012-01-30,fhrs_5_en-GB,5,,FHRS,5
-17396,6 Bury Road,Newmarket,Suffolk,,BP Connect Ltd (Hyperion Garage),Retailers - other,4613,0,,161600,5,,52.24588100000000,PI/000001628,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40989100000000,CB8 7BP,2013-04-16,fhrs_5_en-GB,5,,FHRS,5
-17397,Warren Close,Brandon,Suffolk,,Brandon Community Centre,Other catering premises,7841,,,161489,,,52.44503500000000,PI/000001499,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62542000000000,IP27 0EE,2012-07-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-17398,High Street,Brandon,Suffolk,,Brandon House Hotel,Hotel/bed & breakfast/guest house,7842,,,163913,,,52.45238700000000,PI/000005551,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62236900000000,IP27 0AX,2013-06-18,fhrs_4_en-GB,4,,FHRS,
-17399,The Brandon Centre,Bury Road,Brandon,Suffolk,Brandon Pre-School Playgroup,Hospitals/Childcare/Caring Premises,5,5,,165477,5,,,PI/000008084,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,IP27 0BQ,2009-03-31,fhrs_4_en-GB,4,,FHRS,10
-17400,Church Road,Brandon,Suffolk,,Brandon Sports And Social Club,Pub/bar/nightclub,7843,5,,162057,0,,52.44551400000000,PI/000002283,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61395500000000,IP27 0JB,2013-05-09,fhrs_4_en-GB,4,,FHRS,10
-17401,17-19 London Road,Brandon,Suffolk,,Brandon Tandoori,Restaurant/Cafe/Canteen,1,5,,165183,5,,52.44635600000000,PI/000007608,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62099500000000,IP27 0EL,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-17402,Church Road,Brandon,Suffolk,,Brandon Town Bowling Club,Other catering premises,7841,5,,162055,5,,52.44551400000000,PI/000002282,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61395500000000,IP27 0JB,2014-11-07,fhrs_4_en-GB,4,,FHRS,10
-17403,Village Hall,Marks Lane,Santon Downham,Suffolk,Breckland Club,Pub/bar/nightclub,7843,5,,167130,5,,52.45654400000000,PI/000010807,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.66445100000000,IP27 0TW,2007-12-13,fhrs_4_en-GB,4,,FHRS,10
-17404,14 Wimbledon Avenue,Brandon,Suffolk,,Breckland Forest Gymnastic Club,Retailers - other,4613,5,,168929,10,,52.43737300000000,PI/000014121,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60798500000000,IP27 0NZ,2009-03-27,fhrs_3_en-GB,3,,FHRS,10
-17405,42A Thetford Road,Brandon,Suffolk,,Breckland News Ltd (Mace),Retailers - other,4613,0,,168345,0,,52.44586300000000,PI/000013003,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.63106200000000,IP27 0DB,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-17406,23 St Peters Place,Brandon,Suffolk,,Brians Ices,Mobile caterer,7846,5,,427047,5,,52.44284600000000,PI/000011636,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61138400000000,IP27 0JH,2014-06-26,fhrs_5_en-GB,5,,FHRS,5
-17407,Bridge Hotel Brandon,79 High Street,Brandon,Suffolk,Bridge Hotel,Hotel/bed & breakfast/guest house,7842,10,,163911,5,,52.45238700000000,PI/000005544,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62236900000000,IP27 0AX,2012-12-04,fhrs_4_en-GB,4,,FHRS,5
-17408,Church Walk,Mildenhall,Suffolk,,Bunbury Rooms,Other catering premises,7841,,,162102,,,52.34269700000000,PI/000002363,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50848600000000,IP28 7EE,2010-03-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-17409,Brandon Park Nursing Home,Brandon Park,Brandon,Suffolk,Bupa Care Homes,Hospitals/Childcare/Caring Premises,5,0,,161492,0,,52.43641900000000,PI/000001503,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62505500000000,IP27 0SU,2014-06-03,fhrs_5_en-GB,5,,FHRS,0
-17410,Fiveways,Barton Mills,Suffolk,,Burger King,Takeaway/sandwich shop,7844,0,,627823,5,,52.33839800000000,PI/000047295,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.53340500000000,IP28 6AE,2014-01-07,fhrs_5_en-GB,5,,FHRS,0
-17411,Newmarket Retail Park,Oaks Drive,Newmarket,Suffolk,Burger King,Takeaway/sandwich shop,7844,0,,163195,0,,52.26229400000000,PI/000004329,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39608200000000,CB8 7SX,2015-01-12,fhrs_5_en-GB,5,,FHRS,5
-17412,Beck House,28 St Johns Street,Beck Row,Suffolk,Busy Bees Nursery School Ltd,Hospitals/Childcare/Caring Premises,5,5,,167455,0,,52.36551100000000,PI/000011483,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49278300000000,IP28 8AA,2013-07-02,fhrs_5_en-GB,5,,FHRS,5
-17413,11 Eriswell Road,Lakenheath,Suffolk,,Butterflies Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,162768,5,,52.41021900000000,PI/000003600,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52503600000000,IP27 9AF,2013-07-17,fhrs_5_en-GB,5,,FHRS,5
-17414,21 High Street,Mildenhall,Suffolk,,Cadillac Jack's Steakhouse,Hotel/bed & breakfast/guest house,7842,10,,164028,5,,52.34231200000000,PI/000005747,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51010900000000,IP28 7EA,2013-06-06,fhrs_4_en-GB,4,,FHRS,5
-17415,Fordham Road,Newmarket,Suffolk,,Cadogan Hotel,Hotel/bed & breakfast/guest house,7842,5,,163246,5,,52.24945500000000,PI/000004387,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40747700000000,CB8 7AA,2013-02-12,fhrs_4_en-GB,4,,FHRS,10
-17416,Homebase Ltd,Oaks Drive,Newmarket,Suffolk,Cafe,Restaurant/Cafe/Canteen,1,5,,671564,5,,52.26229400000000,PI/000045086,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39608200000000,CB8 7SX,2014-09-12,fhrs_5_en-GB,5,,FHRS,5
-17417,Tattersalls,The Avenue,Newmarket,Suffolk,Cafe Barn,Restaurant/Cafe/Canteen,1,0,,177950,5,,,PI/000044482,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-17418,Unit 4,The Centre,Brickfields Avenue,Newmarket,Cafe Massala,Takeaway/sandwich shop,7844,10,,161286,10,,52.26313000000000,PI/000001277,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38498900000000,CB8 7RX,2013-11-20,fhrs_3_en-GB,3,,FHRS,5
-17419,5A Victoria Way,Newmarket,Suffolk,,Cafe Perfectum,Restaurant/Cafe/Canteen,1,,,704123,,,52.26094200000000,PI/000051208,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38825700000000,CB8 7SH,2014-12-03,fhrs_5_en-GB,5,,FHRS,
-17420,Elveden Forest Holiday Village,Brandon Road,Elveden,Suffolk,Cafe Rouge,Restaurant/Cafe/Canteen,1,0,,174583,5,,52.44646900000000,PI/000029523,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-08-20,fhrs_5_en-GB,5,,FHRS,5
-17421,55A High Street,Brandon,Suffolk,,Cafe Sunrise,Restaurant/Cafe/Canteen,1,5,,163898,5,,52.44968600000000,PI/000005519,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62372500000000,IP27 0AU,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-17422,,,,,CAFE2U,Restaurant/Cafe/Canteen,1,5,,427045,5,,,PI/000008923,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-17423,77 High Street,Newmarket,Suffolk,,Caffe Nero,Restaurant/Cafe/Canteen,1,0,,608703,0,,52.24293900000000,PI/000005958,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40508800000000,CB8 8JH,2013-09-18,fhrs_5_en-GB,5,,FHRS,0
-17424,10 Elmcroft Close,Beck Row,Suffolk,,Cakes Beautiful Cakes,Other catering premises,7841,0,,169724,0,,52.37232400000000,PI/000015802,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49034600000000,IP28 8RP,2012-11-01,fhrs_5_en-GB,5,,FHRS,5
-17425,Brandon Day Centre,Heathcote House,Warren Close,Brandon,Calver Catering,Hospitals/Childcare/Caring Premises,5,5,,177696,5,,52.44518900000000,PI/000043383,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62618000000000,IP27 0EE,2014-07-11,fhrs_5_en-GB,5,,FHRS,0
-17426,12 Craven Way,Newmarket,Suffolk,,Camcattle,Retailers - other,4613,5,,481891,5,,52.25605500000000,PI/000046914,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39288800000000,CB8 0BW,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-17427,Nethercroft Farm,Sandy Drove,Tuddenham,Suffolk,Camcattle,Retailers - other,4613,,,410079,,,52.32271900000000,PI/000039317,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.54784500000000,IP28 6TD,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-17428,Subtropical Swimming Paradise,Brandon Road,Elveden,Suffolk,Canopy Bar,Takeaway/sandwich shop,7844,0,,169432,5,,52.39273200000000,PI/000015078,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.64331900000000,IP24 3TR,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-17429,Mildenhall Lodge,St Johns Close,Mildenhall,Suffolk,Care UK Ltd,Hospitals/Childcare/Caring Premises,5,10,,671565,10,,52.35135200000000,PI/000046902,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51930000000000,IP28 7NX,2014-11-21,fhrs_3_en-GB,3,,FHRS,5
-17430,49 Bury Road,Newmarket,Suffolk,,Carlburg,Restaurant/Cafe/Canteen,1,0,,161622,5,,52.25489500000000,PI/000001654,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.42112000000000,CB8 7BY,2013-11-07,fhrs_5_en-GB,5,,FHRS,5
-17431,The Street,Cavenham,Suffolk,,Cavenham And Lackford Mens Club,Other catering premises,7841,5,,168167,5,,52.29961600000000,PI/000012659,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.58100300000000,IP28 6DA,2013-12-17,fhrs_4_en-GB,4,,FHRS,10
-17432,Sedge Fen,Sedge Fen,Suffolk,,Cedarwood Bungalow White Eau Farm,Retailers - other,4613,,,671563,,,52.42509700000000,PI/000039107,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.46819600000000,IP27 9LF,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-17433,22 Market Street,Newmarket,Suffolk,,Central Fish Bar,Takeaway/sandwich shop,7844,5,,165563,5,,52.24452900000000,PI/000008177,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40606700000000,CB8 8EE,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
-17434,41-43 High Street,Brandon,Suffolk,,Centre Cafe,Restaurant/Cafe/Canteen,1,5,,174698,10,,52.44845500000000,PI/000029812,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2013-05-17,fhrs_4_en-GB,4,,FHRS,0
-17435,62 High Street,Lakenheath,Suffolk,,Charlie's Kebab House,Takeaway/sandwich shop,7844,10,,163971,15,,52.41601100000000,PI/000005653,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51908800000000,IP27 9DS,2013-10-17,fhrs_2_en-GB,2,,FHRS,5
-17436,3 High Street,Newmarket,Suffolk,,Charlottes,Restaurant/Cafe/Canteen,1,0,,164155,5,,52.24502500000000,PI/000005892,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40862900000000,CB8 8LX,2014-06-16,fhrs_5_en-GB,5,,FHRS,0
-17437,10 High Street,Mildenhall,Suffolk,,Cherry Tree Butchers,Retailers - other,4613,5,,163994,5,,52.34378700000000,PI/000005694,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50926700000000,IP28 7EQ,2014-03-10,fhrs_5_en-GB,5,,FHRS,5
-17438,7 Cheveley Road,Newmarket,Suffolk,,Cheveley Road Working Mens Club,Pub/bar/nightclub,7843,5,,161923,5,,52.24173400000000,PI/000002039,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41918800000000,CB8 8AD,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-17439,Chick King,Mile End,Brandon,Suffolk,Chick King Mile End Cafe,Restaurant/Cafe/Canteen,1,10,,165236,5,,52.43759300000000,PI/000007689,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60290700000000,IP27 0NX,2013-09-19,fhrs_4_en-GB,4,,FHRS,5
-17440,148 High Street,Newmarket,Suffolk,,Chilli Hut,Takeaway/sandwich shop,7844,10,,164076,5,,52.24271600000000,PI/000005812,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40233600000000,CB8 9AQ,2013-11-20,fhrs_3_en-GB,3,,FHRS,10
-17441,House,Park Farm,Herringswell,Suffolk,Chilly Filly,Manufacturers/packers,7839,5,,410080,5,,52.30882000000000,PI/000039533,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50948900000000,IP28 6SR,2014-03-21,fhrs_5_en-GB,5,,FHRS,5
-17442,6 Police Station Square,Mildenhall,Suffolk,,China House,Takeaway/sandwich shop,7844,10,,481889,10,,52.34429600000000,PI/000046894,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51070600000000,IP28 7ER,2013-02-28,fhrs_3_en-GB,3,,FHRS,5
-17443,London Road,Brandon,Suffolk,,Church Institute,Other catering premises,7841,,,167769,,,52.44581400000000,PI/000012083,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61830000000000,IP27 0JA,2012-03-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-17444,Catholic Church of Our Lady Immaculate and St Etheldreda,14 Exeter Road,Newmarket,Suffolk,Church of Our Lady and St Etheldreda,Other catering premises,7841,,,162809,,,52.24609200000000,PI/000003685,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40834900000000,CB8 8LT,2012-04-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-17445,High Lodge Visitors Centre,High Lodge,Santon Downham,Suffolk,Churchill Catering,Restaurant/Cafe/Canteen,1,0,,323723,5,,52.43441800000000,PI/000046691,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.66305700000000,IP27 0AF,2013-11-22,fhrs_5_en-GB,5,,FHRS,0
-17446,2 Wellington Street,Newmarket,Suffolk,,Cinnamon Indian Takeaway,Retailers - other,4613,5,,410082,5,,52.24431600000000,PI/000100237,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40416600000000,CB8 0HT,2014-02-03,fhrs_5_en-GB,5,,FHRS,0
-17447,133 High Street,Lakenheath,Suffolk,,CJ's Sandwich Bar,Takeaway/sandwich shop,7844,5,,163937,0,,52.41179300000000,PI/000005585,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52330300000000,IP27 9EP,2014-01-20,fhrs_5_en-GB,5,,FHRS,0
-17448,Clifton House,41 Old Station Road,Newmarket,Suffolk,Clip Clop Day Nursery Ltd,Hospitals/Childcare/Caring Premises,5,5,,183476,5,,52.24478300000000,PI/000100347,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41299600000000,CB8 8QE,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-17449,12 Palace Street,Newmarket,Suffolk,,Coffee & Co,Restaurant/Cafe/Canteen,1,5,,166377,5,,52.24385300000000,PI/000009448,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40701200000000,CB8 8EP,2014-02-12,fhrs_5_en-GB,5,,FHRS,5
-17450,12 Dick Perryman Court,Newmarket,Suffolk,,Coffee Bar,Mobile caterer,7846,5,,177913,0,,52.24127600000000,PI/000044355,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40861600000000,CB8 8FS,2011-07-20,fhrs_5_en-GB,5,,FHRS,0
-17451,,,,,Coles Sandwich Heroes Ltd,Other catering premises,7841,0,,719176,0,,,PI/000001458,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-11-10,fhrs_5_en-GB,5,,FHRS,0
-17452,50-52 High Street,Brandon,Suffolk,,Collins Restaurant,Restaurant/Cafe/Canteen,1,5,,163890,5,,52.44845500000000,PI/000005512,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2013-05-13,fhrs_5_en-GB,5,,FHRS,5
-17453,Lady Wolverton Pavilion,Adastral Close,Newmarket,Suffolk,Colourbox Montessori School,Hospitals/Childcare/Caring Premises,5,,,160533,,,52.24632900000000,PI/000000233,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39404900000000,CB8 0PX,2014-03-04,fhrs_5_en-GB,5,,FHRS,
-17454,Newmarket College,Exning Road,Newmarket,Suffolk,Colourbox Montessori School,Hospitals/Childcare/Caring Premises,5,5,,176603,0,,52.24891100000000,PI/000038018,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39528700000000,CB8 0EB,2013-06-03,fhrs_5_en-GB,5,,FHRS,0
-17455,Beck Row Primary School,The Street,Beck Row,Suffolk,Community Centre,Other catering premises,7841,,,164920,,,52.36889900000000,PI/000007120,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48643600000000,IP28 8AE,2012-03-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-17456,Recreation Way,Mildenhall,Suffolk,,Community Resource Unit,Hospitals/Childcare/Caring Premises,5,,,174518,,,52.34176100000000,PI/000029298,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51402700000000,IP28 7HG,2013-01-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-17457,27 High Street,Brandon,Suffolk,,Continental Foods,Retailers - other,4613,10,,704115,5,,52.44845500000000,PI/000005477,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2014-07-24,fhrs_2_en-GB,2,,FHRS,15
-17458,2-5 Elizabeth Parade,Newmarket,Suffolk,,Co-Op,Retailers - supermarkets/hypermarkets,7840,5,,162645,10,,52.25420400000000,PI/000003308,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39060500000000,CB8 0BP,2013-11-18,fhrs_4_en-GB,4,,FHRS,5
-17459,46-50 High Street,Lakenheath,Suffolk,,Co-op,Retailers - supermarkets/hypermarkets,7840,5,,163967,5,,52.41601100000000,PI/000005645,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51908800000000,IP27 9DS,2012-02-22,fhrs_5_en-GB,5,,FHRS,5
-17460,Co Operative Retail Services Ltd,King Street,Mildenhall,Suffolk,Co-Operative & Post Office,Retailers - other,4613,0,,164740,0,,52.34374100000000,PI/000006813,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51142300000000,IP28 7ES,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-17461,Visitor Centre Brandon Country Park,Brandon Park,Brandon,Suffolk,Copper Beech Tea Room,Restaurant/Cafe/Canteen,1,5,,175696,5,,52.43641900000000,PI/000033533,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62505500000000,IP27 0SU,2014-10-23,fhrs_5_en-GB,5,,FHRS,5
-17462,16A Market Place,Mildenhall,Suffolk,,Coral Racing Ltd,Retailers - other,4613,,,165499,,,52.34329200000000,PI/000008113,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2012-03-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-17463,9 Brandon Road,Mildenhall,Suffolk,,Corner Stores (Suffolk Ltd),Retailers - other,4613,0,,161220,0,,52.34596300000000,PI/000001189,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52360400000000,IP28 7HZ,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-17464,1 Rous Road,Newmarket,Suffolk,,Corney & Barrow,Retailers - other,4613,0,,166903,0,,52.24485800000000,PI/000010434,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40977700000000,CB8 8DH,2010-06-25,fhrs_5_en-GB,5,,FHRS,0
-17465,73 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,168064,5,,52.24480900000000,PI/000012506,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40557000000000,CB8 8EQ,2014-01-06,fhrs_5_en-GB,5,,FHRS,5
-17466,30 High Street,Newmarket,Suffolk,,Coyotes,Restaurant/Cafe/Canteen,1,10,,636523,5,,52.24505000000000,PI/000005893,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2014-04-09,fhrs_4_en-GB,4,,FHRS,5
-17467,7 All Saints Road,Newmarket,Suffolk,,Crack On!,Other catering premises,7841,,,719175,,,52.24294100000000,PI/000000332,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40938000000000,CB8 8ES,2014-11-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-17468,Playing Field,The Green,Tuddenham,Suffolk,Cricket Club,Restaurant/Cafe/Canteen,1,,,167888,,,,PI/000012242,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2012-10-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-17469,Main Kitchen,Tattersalls,The Avenue,Newmarket,Crown Catering,Other catering premises,7841,0,,178083,5,,52.24141100000000,PI/000045113,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40106500000000,CB8 9AU,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-17470,24 Market Place,Mildenhall,Suffolk,,Crumbs Food Bar Ltd,Restaurant/Cafe/Canteen,1,,,167931,,,52.34329200000000,PI/000012326,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2014-08-20,fhrs_4_en-GB,4,,FHRS,
-17471,Car Park of,Aquarius Veterinary Centre,Field Road,Mildenhall,D & G Jamaican Takeaway,Mobile caterer,7846,10,,212956,5,,52.35358300000000,PI/000046672,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51374300000000,IP28 7AL,2013-10-09,fhrs_3_en-GB,3,,FHRS,10
-17472,30 Wimbledon Avenue,Brandon,Suffolk,,D & S Catering,Mobile caterer,7846,5,,564214,5,,52.43770300000000,PI/000014158,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60849000000000,IP27 0NZ,2013-04-23,fhrs_4_en-GB,4,,FHRS,10
-17473,Grange Farm,Fordham Road,Freckenham,Suffolk,D Di-Giulio,Retailers - other,4613,5,,481880,0,,52.32130700000000,PI/000016886,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.43796700000000,IP28 8JB,2013-02-07,fhrs_5_en-GB,5,,FHRS,0
-17474,1 All Saints Road,Newmarket,Suffolk,,D.W. & R.J. Sweet,Retailers - other,4613,5,,160558,5,,52.24294100000000,PI/000000258,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40938000000000,CB8 8ES,2014-07-28,fhrs_5_en-GB,5,,FHRS,5
-17475,Village Hall,The Street,Dalham,Suffolk,Dalham Village Hall Charity,Other catering premises,7841,,,168178,,,52.22757200000000,PI/000012686,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52093900000000,CB8 8TF,2014-01-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-17476,3 Pound Meadow Court,Kingsway,Mildenhall,Suffolk,Debbie Doos,Retailers - other,4613,,,176833,,,52.34492600000000,PI/000039202,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51235600000000,IP28 7GY,2011-04-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-17477,55 Downing Close,Mildenhall,Suffolk,,Deb's Decadent Sweets,Other catering premises,7841,0,,212957,5,,52.34789100000000,PI/000016868,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51966100000000,IP28 7PB,2012-03-01,fhrs_5_en-GB,5,,FHRS,5
-17478,34 Queensway,Mildenhall,Suffolk,,Delicious Delights,Retailers - other,4613,10,,166752,5,,52.34441700000000,PI/000010114,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50624900000000,IP28 7JL,2010-09-21,fhrs_3_en-GB,3,,FHRS,10
-17479,3 Mildenhall Road,Barton Mills,Suffolk,,Deli-Luscious,Other catering premises,7841,5,,564210,5,,52.33587500000000,PI/000008344,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51467600000000,IP28 6BD,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-17480,54A High Street,Brandon,Suffolk,,Deniz Continental Food Shop,Retailers - other,4613,5,,163895,5,,52.44968600000000,PI/000005517,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62372500000000,IP27 0AU,2014-02-28,fhrs_5_en-GB,5,,FHRS,5
-17481,53B Holmsey Green,Beck Row,Suffolk,,Devilish Doughnuts,Mobile caterer,7846,5,,173763,5,,52.37325900000000,PI/000026871,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49081000000000,IP28 8AW,2013-04-11,fhrs_5_en-GB,5,,FHRS,5
-17482,Elveden Forest Holiday Village,Brandon Road,Elveden,Suffolk,Dexters Kitchen,Restaurant/Cafe/Canteen,1,0,,178042,0,,52.39273200000000,PI/000044868,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.64331900000000,IP24 3TR,2013-06-05,fhrs_5_en-GB,5,,FHRS,0
-17483,34 Mount Road,Brandon,Suffolk,,Diddy Donuts,Mobile caterer,7846,5,,165896,5,,52.44137000000000,PI/000008685,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62808600000000,IP27 0DT,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-17484,Elveden Forest Holiday Village,Brandon Road,Elveden,Suffolk,Dining In,Restaurant/Cafe/Canteen,1,5,,177427,5,,52.44646900000000,PI/000042179,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-17485,Small Fen Farm,Small Fen Lane,Brandon,Suffolk,Dolvinny,Mobile caterer,7846,5,,410077,0,,52.44725900000000,PI/000032212,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.59719300000000,IP27 0SD,2013-10-23,fhrs_5_en-GB,5,,FHRS,0
-17486,Bury Road,Mildenhall,Suffolk,,Dome Sports Centre,Restaurant/Cafe/Canteen,1,,,161551,,,52.34317800000000,PI/000001578,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52434100000000,IP28 7HT,2009-03-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-17487,23 Market Place,Mildenhall,Suffolk,,Domino's Pizza,Takeaway/sandwich shop,7844,5,,177337,5,,52.34329200000000,PI/000041668,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2014-10-01,fhrs_5_en-GB,5,,FHRS,5
-17488,8B The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Domino's Pizza,Takeaway/sandwich shop,7844,0,,168070,0,,,PI/000012511,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2013-10-21,fhrs_5_en-GB,5,,FHRS,0
-17489,4-5 Police Station Square,Mildenhall,Suffolk,,Dragon House,Takeaway/sandwich shop,7844,5,,166579,5,,52.34429600000000,PI/000009814,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51070600000000,IP28 7ER,2014-02-27,fhrs_5_en-GB,5,,FHRS,5
-17490,,,,,Eldon Farm,Mobile caterer,7846,,,730485,,,,PI/000029512,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-17491,5 Sage Court,Red Lodge,Suffolk,,Ella's Bakery,Other catering premises,7841,5,,176708,0,,52.30646600000000,PI/000038515,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50131700000000,IP28 8GN,2011-07-15,fhrs_5_en-GB,5,,FHRS,0
-17492,Elveden,Suffolk,,,Elveden CEVA Primary School,School/college/university,7845,5,,165268,5,,52.38326900000000,PI/000007729,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.66623700000000,IP24 3TN,2010-03-19,fhrs_5_en-GB,5,,FHRS,5
-17493,Unit 9 to Unit 12,The Courtyard,Elveden,Suffolk,Elveden Estate Shop & Restaurant,Retailers - other,4613,5,,170366,10,,52.38830500000000,PI/000017417,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.67538900000000,IP24 3TJ,2014-10-03,fhrs_4_en-GB,4,,FHRS,5
-17494,Brandon Road,Elveden,Suffolk,,Elveden Inn,Pub/bar/nightclub,7843,5,,161206,5,,52.38489200000000,PI/000001173,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.66604100000000,IP24 3TP,2013-08-01,fhrs_5_en-GB,5,,FHRS,5
-17495,Post Office,40 A11 London Road,Elveden,Suffolk,Elveden Stores,Retailers - other,4613,5,,165270,5,,52.38645400000000,PI/000007730,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.67413000000000,IP24 3TG,2013-12-02,fhrs_5_en-GB,5,,FHRS,5
-17496,67 Cross Roads,Elveden,Suffolk,,Elveden Workers Social Club,Pub/bar/nightclub,7843,5,,162352,5,,52.38408300000000,PI/000002791,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.66521400000000,IP24 3TW,2008-12-02,fhrs_5_en-GB,5,,FHRS,5
-17497,9 Market Place,Mildenhall,Suffolk,,Emily's Tea Room,Restaurant/Cafe/Canteen,1,5,,165521,5,,52.34329200000000,PI/000008137,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2012-02-15,fhrs_5_en-GB,5,,FHRS,5
-17498,42 St Andrews Street,Mildenhall,Suffolk,,En Thai Sing,Restaurant/Cafe/Canteen,1,10,,167321,5,,52.34247500000000,PI/000011200,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51091100000000,IP28 7HB,2013-04-04,fhrs_4_en-GB,4,,FHRS,5
-17499,11 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Eric Tennant Quality Butchers,Retailers - other,4613,5,,168027,5,,52.24480900000000,PI/000012454,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40557000000000,CB8 8EQ,2014-02-27,fhrs_5_en-GB,5,,FHRS,0
-17500,108A London Road,Brandon,Suffolk,,Ernies,Takeaway/sandwich shop,7844,,,165163,,,52.44399500000000,PI/000007572,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61638200000000,IP27 0EW,2014-10-03,fhrs_5_en-GB,5,,FHRS,
-17501,74 High Street,Newmarket,Suffolk,,Everything Everywhere,Retailers - other,4613,5,,164211,5,,52.24421200000000,PI/000005954,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40571300000000,CB8 8JX,2006-02-24,fhrs_4_en-GB,4,,FHRS,10
-17502,Cotton End Road,Exning,Suffolk,,Exning Cricket Club,Other catering premises,7841,5,,162261,10,,52.26899500000000,PI/000002653,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.37375400000000,CB8 7NN,2014-09-26,fhrs_4_en-GB,4,,FHRS,5
-17503,81 Chapel Street,Exning,Suffolk,,Exning Post Office,Retailers - other,4613,,,161841,,,52.26495500000000,PI/000001940,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36981500000000,CB8 7HB,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-17504,Oxford Street,Exning,Suffolk,,Exning Primary School,School/college/university,7845,5,,166363,5,,52.26598300000000,PI/000009416,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36881500000000,CB8 7EW,2013-10-21,fhrs_4_en-GB,4,,FHRS,10
-17505,54 Exning Road,Newmarket,Suffolk,,Exning Road Working Mens Club,Pub/bar/nightclub,7843,5,,162901,5,,52.25046400000000,PI/000003891,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39853600000000,CB8 0AB,2014-07-01,fhrs_5_en-GB,5,,FHRS,5
-17506,Fordham Road,Newmarket,Suffolk,,Fairstead House School,School/college/university,7845,5,,163199,5,,52.24945500000000,PI/000004336,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40747700000000,CB8 7AA,2013-09-27,fhrs_5_en-GB,5,,FHRS,0
-17507,Mortimer Lane,Freckenham,Suffolk,,Fairways,Other catering premises,7841,0,,177966,5,,52.32224800000000,PI/000044574,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.44070400000000,IP28 8JD,2011-09-22,fhrs_5_en-GB,5,,FHRS,0
-17508,12 Craven Way,Newmarket,Suffolk,,Farmers Market Kitchen,Other catering premises,7841,5,,323717,10,,,PI/000002700,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-02-24,fhrs_4_en-GB,4,,FHRS,5
-17509,25 High Street,Lakenheath,Suffolk,,Filipiniana,Restaurant/Cafe/Canteen,1,5,,163955,5,,52.41754200000000,PI/000005618,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51813100000000,IP27 9JS,2014-09-18,fhrs_4_en-GB,4,,FHRS,10
-17510,146 High Street,Newmarket,Suffolk,,Filipiniana Steak & Grill,Restaurant/Cafe/Canteen,1,5,,528721,5,,52.24271600000000,PI/000100756,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40233600000000,CB8 9AQ,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-17511,Finevale Filling Station,London Road,Brandon,Suffolk,Finevale Service Station,Retailers - other,4613,5,,165255,0,,52.44376800000000,PI/000007714,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61686800000000,IP27 0ER,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-17512,Pen Villa,Isleham Road,Worlington,Suffolk,Firm Foundations Day Care,Hospitals/Childcare/Caring Premises,5,10,,163277,5,,52.33452500000000,PI/000004434,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.46871300000000,IP28 8SW,2013-01-22,fhrs_4_en-GB,4,,FHRS,5
-17513,Market Hill,Brandon,Suffolk,,First Base,School/college/university,7845,,,177846,,,52.44688000000000,PI/000043922,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62330800000000,IP27 0AD,2011-12-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-17514,Houldsworth Valley County Primary School,Rowley Drive,Newmarket,Suffolk,First Class Pre School,Hospitals/Childcare/Caring Premises,5,5,,664922,0,,52.24450800000000,PI/000046034,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39603200000000,CB8 0PU,2014-05-13,fhrs_5_en-GB,5,,FHRS,0
-17515,39 Beeches Road,West Row,Suffolk,,Fish & Chip Shop,Takeaway/sandwich shop,7844,10,,160991,10,,52.35834000000000,PI/000000871,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45821700000000,IP28 8NP,2014-03-07,fhrs_3_en-GB,3,,FHRS,5
-17516,19 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Fish (Burwell) Limited,Retailers - other,4613,5,,168035,5,,52.24480900000000,PI/000012463,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40557000000000,CB8 8EQ,2013-05-03,fhrs_5_en-GB,5,,FHRS,5
-17517,16 St Marys Square,Newmarket,Suffolk,,Five Bells,Pub/bar/nightclub,7843,5,,167493,5,,52.24488500000000,PI/000011555,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40315700000000,CB8 0HZ,2014-02-10,fhrs_4_en-GB,4,,FHRS,10
-17518,Brandon Community Centre,Warren Close,Brandon,Suffolk,Fledglings Preschool,Hospitals/Childcare/Caring Premises,5,5,,638518,5,,52.44518900000000,PI/000046504,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62618000000000,IP27 0EE,2014-02-28,fhrs_5_en-GB,5,,FHRS,5
-17519,13 Newnham Close,Mildenhall,Suffolk,,Flippin Pattys,Mobile caterer,7846,10,,608705,5,,52.34801400000000,PI/000008997,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52147400000000,IP28 7PD,2013-06-20,fhrs_4_en-GB,4,,FHRS,0
-17520,3 Hatchfield Cottages,Fordham Road,Newmarket,Suffolk,Food Amour,Restaurant/Cafe/Canteen,1,5,,163190,10,,52.26011300000000,PI/000004318,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40075600000000,CB8 7XL,2014-07-31,fhrs_4_en-GB,4,,FHRS,5
-17521,Laceys Lane,Exning,Suffolk,,Football Ground,Mobile caterer,7846,,,638517,,,,PI/000007044,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-09-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-17522,Bury Road,Brandon,Suffolk,,Forest Academy,School/college/university,7845,0,,161496,5,,52.44574800000000,PI/000001507,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62287300000000,IP27 0FP,2013-12-03,fhrs_5_en-GB,5,,FHRS,5
-17523,Elveden Forest Holiday Village,Brandon Road,Elveden,,Foresters Inn,Restaurant/Cafe/Canteen,1,0,,174586,5,,52.44646900000000,PI/000029525,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-06-05,fhrs_5_en-GB,5,,FHRS,5
-17524,Ancient Order Of Foresters Friendly Society,Kingston Passage,Newmarket,Suffolk,Foresters Social Club,Pub/bar/nightclub,7843,5,,164759,5,,52.24318300000000,PI/000006850,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40636100000000,CB8 8EN,2014-02-21,fhrs_5_en-GB,5,,FHRS,5
-17525,3-5 North Terrace,Mildenhall,Suffolk,,Forestford,Retailers - other,4613,5,,166212,5,,52.34548400000000,PI/000009173,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51105200000000,IP28 7AA,2011-02-28,fhrs_5_en-GB,5,,FHRS,5
-17526,Fordham Road,Freckenham,Suffolk,,Freckenham Village Hall,Other catering premises,7841,,,163186,,,52.32130700000000,PI/000004312,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.43796700000000,IP28 8JB,2010-02-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-17527,Frederick Hiam Foods Ltd,Brick Kiln Farm,Brandon Fields,Brandon,Frederick Hiam Foods,Manufacturers/packers,7839,0,,161196,0,,52.44157200000000,PI/000001158,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.58424700000000,IP27 0SE,2009-03-24,fhrs_5_en-GB,5,,FHRS,5
-17528,33 Macpherson Robertson Way,Mildenhall,Suffolk,,Funnel Cakes,Other catering premises,7841,10,,608706,5,,52.34857300000000,PI/000021851,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50193200000000,IP28 7RS,2013-11-15,fhrs_4_en-GB,4,,FHRS,5
-17529,51 High Street,Brandon,Suffolk,,G F C Chicken,Takeaway/sandwich shop,7844,10,,163892,5,,52.44845500000000,PI/000005513,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2014-02-11,fhrs_4_en-GB,4,,FHRS,5
-17530,12C High Street,Mildenhall,Suffolk,,Gandhi Indian Cuisine,Restaurant/Cafe/Canteen,1,5,,163997,5,,52.34378700000000,PI/000005700,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50926700000000,IP28 7EQ,2014-06-18,fhrs_5_en-GB,5,,FHRS,5
-17531,38 Old Station Road,Newmarket,Suffolk,,Garrads,Hotel/bed & breakfast/guest house,7842,10,,166315,5,,52.24521300000000,PI/000009337,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40998700000000,CB8 8DN,2009-06-18,fhrs_4_en-GB,4,,FHRS,5
-17532,,,,,GD's Mobile Catering,Mobile caterer,7846,0,,671562,0,,,PI/000038380,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-07-16,fhrs_5_en-GB,5,,FHRS,0
-17533,25 Valley Way,Newmarket,Suffolk,,Geaux Cajun,Mobile caterer,7846,0,,508805,0,,52.24450700000000,PI/000013375,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39253000000000,CB8 0QH,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-17534,Knappers Way,Brandon,Suffolk,,Glade Primary School,School/college/university,7845,5,,164814,5,,52.44584800000000,PI/000006941,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62807300000000,IP27 0DA,2013-06-28,fhrs_5_en-GB,5,,FHRS,5
-17535,,,,,Global Foods,Mobile caterer,7846,5,,719177,5,,,PI/000018198,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-10-02,fhrs_5_en-GB,5,,FHRS,5
-17536,Godolphin Stables,Snailwell Road,Newmarket,Suffolk,Godolphin Stables and Stanley House,Other catering premises,7841,0,,165860,0,,52.25728200000000,PI/000008619,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41653200000000,CB8 7YE,2014-10-10,fhrs_5_en-GB,5,,FHRS,0
-17537,19 St Marys Square,Newmarket,Suffolk,,Golden Horse,Takeaway/sandwich shop,7844,5,,167497,5,,52.24488500000000,PI/000011559,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40315700000000,CB8 0HZ,2013-11-20,fhrs_4_en-GB,4,,FHRS,10
-17538,Kentford Manor,Jeddah Way,Moulton,Suffolk,Gracewell Newmarket Ltd,Hospitals/Childcare/Caring Premises,5,0,,176994,0,,52.24421200000000,PI/000040161,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40571300000000,CB8 8JY,2014-08-05,fhrs_5_en-GB,5,,FHRS,0
-17539,High Street,Brandon,Suffolk,,Great Eastern Hotel,Hotel/bed & breakfast/guest house,7842,5,,161313,10,,52.45238700000000,PI/000001298,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62236900000000,IP27 0AX,2013-07-16,fhrs_4_en-GB,4,,FHRS,5
-17540,Girton Close,Mildenhall,Suffolk,,Great Heath Primary School,School/college/university,7845,5,,163455,5,,52.35350100000000,PI/000004760,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51547200000000,IP28 7PT,2014-06-11,fhrs_5_en-GB,5,,FHRS,5
-17541,32 High Street,Lakenheath,Suffolk,,Green Box Sushi,Other catering premises,7841,,,163959,,,52.41754200000000,PI/000005627,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51813100000000,IP27 9JS,2013-11-26,fhrs_5_en-GB,5,,FHRS,
-17542,Greenhays Childcare Centre,Greenhays Farm,Green Lane,Red Lodge,Greenhays Nursery School Ltd,Hospitals/Childcare/Caring Premises,5,5,,163563,5,,52.29966500000000,PI/000004925,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48485800000000,IP28 8LD,2014-04-15,fhrs_5_en-GB,5,,FHRS,0
-17543,Greggs LTD,64-72 High Street,Newmarket,Suffolk,Greggs,Restaurant/Cafe/Canteen,1,0,,177049,0,,52.24522900000000,PI/000040394,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40787800000000,CB8 8LB,2014-09-22,fhrs_5_en-GB,5,,FHRS,5
-17544,11 Grosvenor House Court,Mildenhall,Suffolk,,Grosvenor Guest House,Hotel/bed & breakfast/guest house,7842,,,410081,,,52.34830600000000,PI/000100117,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50817200000000,IP28 7DG,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-17545,Half Moon Inn,103 Kingsway,Mildenhall,Suffolk,Half Moon,Pub/bar/nightclub,7843,5,,164764,5,,52.34472400000000,PI/000006857,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52015600000000,IP28 7HS,2014-11-11,fhrs_4_en-GB,4,,FHRS,10
-17546,Unit 2,Newmarket Retail Park,Oaks Drive,Newmarket,Halfords,Retailers - other,4613,,,627816,,,52.26229400000000,PI/000004354,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39608200000000,CB8 7SX,2014-01-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-17547,109 High Street,Newmarket,Suffolk,,Heaven Gentlemens Club,Pub/bar/nightclub,7843,0,,164042,5,,52.24333700000000,PI/000005769,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40499200000000,CB8 8JH,2011-10-05,fhrs_5_en-GB,5,,FHRS,5
-17548,Tattersalls,The Avenue,Newmarket,Suffolk,High Flyer,Restaurant/Cafe/Canteen,1,0,,178088,0,,52.24141100000000,PI/000045117,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40106500000000,CB8 9AU,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-17549,Post Office,Middle Green,Higham,Suffolk,Higham P.O,Retailers - other,4613,5,,165629,5,,52.25648700000000,PI/000008286,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.55707300000000,IP28 6NY,2013-06-04,fhrs_5_en-GB,5,,FHRS,5
-17550,58 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Holland & Barrett,Retailers - other,4613,0,,168050,5,,52.24545400000000,PI/000012488,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40610300000000,CB8 8HT,2013-02-15,fhrs_5_en-GB,5,,FHRS,0
-17551,Suffolk County Council,Forest Heath District Council,College Heath Road,Mildenhall,Home First,Hospitals/Childcare/Caring Premises,5,,,704124,,,52.34616900000000,PI/000051209,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51941600000000,IP28 7EY,2014-08-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-17552,27 Primrose Drive,Brandon,Suffolk,,Honey Cups,Other catering premises,7841,0,,608711,0,,52.44031100000000,PI/000035505,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60729000000000,IP27 0XE,2014-01-21,fhrs_5_en-GB,5,,FHRS,5
-17553,Tattersalls,The Avenue,Newmarket,Suffolk,Horseshoe Bar,Pub/bar/nightclub,7843,5,,178086,5,,52.24141100000000,PI/000045116,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40106500000000,CB8 9AU,2012-10-08,fhrs_5_en-GB,5,,FHRS,5
-17554,Rowley Drive,Newmarket,Suffolk,,Houldsworth Valley County Primary School,School/college/university,7845,0,,167013,0,,52.24450800000000,PI/000010616,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39603200000000,CB8 0PU,2013-11-19,fhrs_5_en-GB,5,,FHRS,0
-17555,Hucks Diner,Elveden Forest Holiday Village,Brandon Road,Elveden,Huck's,Restaurant/Cafe/Canteen,1,5,,174582,5,,,PI/000029522,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,IP24 3TY,2013-08-20,fhrs_5_en-GB,5,,FHRS,0
-17556,13 Market Hill,Brandon,Suffolk,,Hyams Bakery,Manufacturers/packers,7839,5,,165470,10,,52.44733900000000,PI/000008074,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62414400000000,IP27 0AA,2014-06-03,fhrs_4_en-GB,4,,FHRS,5
-17557,1 Crown Walk,Newmarket,Suffolk,,Iceland Frozen Foods,Retailers - supermarkets/hypermarkets,7840,5,,162388,5,,52.24545600000000,PI/000002839,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40822700000000,CB8 8NG,2014-01-02,fhrs_5_en-GB,5,,FHRS,5
-17558,Crown Street,Brandon,Suffolk,,IES Breckland,School/college/university,7845,5,,162386,5,,52.23170471191410,PI/000002836,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,1.08654403686523,IP27 0PE,2012-02-22,fhrs_4_en-GB,4,,FHRS,10
-17559,109 High Street,Newmarket,Suffolk,,Innocence,Pub/bar/nightclub,7843,5,,164044,5,,52.24333700000000,PI/000005770,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40499200000000,CB8 8JH,2008-02-06,fhrs_4_en-GB,4,,FHRS,10
-17560,14A High Street,Mildenhall,Suffolk,,Istanbul Kebab House,Takeaway/sandwich shop,7844,10,,163999,10,,52.34378700000000,PI/000005703,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50926700000000,IP28 7EQ,2013-09-23,fhrs_3_en-GB,3,,FHRS,10
-17561,Laurel Farm,12 The Street,Holywell Row,Beck Row,J & P Haylock farms,Farmers/growers,7838,5,,168304,5,,52.36680900000000,PI/000012921,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50619500000000,IP28 8LS,2014-02-02,fhrs_5_en-GB,5,,FHRS,5
-17562,Saffron House,Saffron Stables,Hamilton Road,Newmarket,Jacks Snacks,Mobile caterer,7846,5,,564216,5,,52.24504600000000,PI/000035359,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38724200000000,CB8 0NY,2013-05-07,fhrs_5_en-GB,5,,FHRS,0
-17563,15 Birch Crescent,Lakenheath,Suffolk,,Jane's Bakes,Other catering premises,7841,5,,508806,0,,52.42215600000000,PI/000036348,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52482100000000,IP27 9JR,2013-02-08,fhrs_5_en-GB,5,,FHRS,5
-17564,12A Cedar Way,Brandon,Suffolk,,Jason Klemp (JK Catering),Mobile caterer,7846,0,,161728,0,,52.44144300000000,PI/000001815,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.63004800000000,IP27 0UX,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-17565,5 Mayfields,Lakenheath,Suffolk,,Jenny's Catering Service,Other catering premises,7841,5,,165586,5,,52.41909200000000,PI/000008208,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51921900000000,IP27 9TA,2014-06-27,fhrs_5_en-GB,5,,FHRS,5
-17566,Shalfleet,17 Bury Road,Newmarket,Suffolk,Jeremy Noseda Racing Ltd,Restaurant/Cafe/Canteen,1,,,161558,,,52.25114100000000,PI/000001587,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41517200000000,CB8 7BX,2014-02-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-17567,10 London Road,Brandon,Suffolk,,Jo Jangles,Restaurant/Cafe/Canteen,1,0,,165157,5,,52.44755900000000,PI/000007563,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62270100000000,IP27 0HS,2014-02-06,fhrs_5_en-GB,5,,FHRS,0
-17568,,,,,Jo-Anne Jones,Retailers - other,4613,5,,162774,5,,,PI/000003621,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-17569,Jockey Club Chambers,101 High Street,Newmarket,Suffolk,Jockey Club,Pub/bar/nightclub,7843,5,,164039,0,,52.24333700000000,PI/000005759,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40499200000000,CB8 8JH,2013-08-12,fhrs_5_en-GB,5,,FHRS,0
-17570,Rowley Mile Stands,Newmarket,Suffolk,,Jockey Club Catering,Restaurant/Cafe/Canteen,1,5,,167017,5,,52.23820900000000,PI/000010622,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.37537700000000,CB8 0TF,2014-04-16,fhrs_5_en-GB,5,,FHRS,5
-17571,Wall Box,Tattersalls,The Avenue,Newmarket,Jo's Pantry,Restaurant/Cafe/Canteen,1,5,,173838,5,,52.24141100000000,PI/000027122,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40106500000000,CB8 9AU,2013-11-27,fhrs_5_en-GB,5,,FHRS,0
-17572,28 High Street,Brandon,Suffolk,,Joy's,Takeaway/sandwich shop,7844,5,,163871,5,,52.44845500000000,PI/000005479,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2013-01-08,fhrs_5_en-GB,5,,FHRS,5
-17573,Unit 1 to 2,Wimbledon Avenue,Brandon,Suffolk,JP's Catering,Other catering premises,7841,0,,175169,0,,52.43770300000000,PI/000031370,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60849000000000,IP27 0NZ,2013-01-08,fhrs_5_en-GB,5,,FHRS,5
-17574,Recreation Way,Mildenhall,Suffolk,,Jubilee Centre,Other catering premises,7841,,,176344,,,52.34176100000000,PI/000036672,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51402700000000,IP28 7HG,2013-12-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-17575,Ferry Lane,West Row,Suffolk,,Judes Ferry,Pub/bar/nightclub,7843,5,,163007,5,,52.34778900000000,PI/000004063,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.46095000000000,IP28 8PT,2013-07-29,fhrs_5_en-GB,5,,FHRS,5
-17576,6 St Thomas Close,Brandon,Suffolk,,Julies Roll Round,Mobile caterer,7846,5,,167559,5,,52.44756400000000,PI/000011690,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.63341500000000,IP27 0XS,2014-03-28,fhrs_5_en-GB,5,,FHRS,5
-17577,,,,,Jump Start Cafe,Mobile caterer,7846,0,,682011,0,,,PI/000001536,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-07-11,fhrs_5_en-GB,5,,FHRS,5
-17578,Millennium Centre,Lavender Close,Red Lodge,Suffolk,Jumpin Beans,Hospitals/Childcare/Caring Premises,5,5,,481892,0,,52.30541900000000,PI/000046954,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49043200000000,IP28 8TT,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-17579,86 Gregory Road,Mildenhall,Suffolk,,Jumppin Jacks Funhouse,Other catering premises,7841,5,,183478,5,,52.35397500000000,PI/000100493,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49996100000000,IP28 7DF,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-17580,,,,,Karolina's Cakes,Manufacturers/packers,7839,5,,719178,5,,,PI/000037758,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-17581,Kentford Service Station,Bury Road,Kentford,Suffolk,Kentford Filling Station,Retailers - other,4613,10,,161532,10,,52.27239800000000,PI/000001560,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51254700000000,CB8 7PZ,2014-02-06,fhrs_3_en-GB,3,,FHRS,10
-17582,Post Office,45 Moulton Avenue,Kentford,Suffolk,Kentford Village Stores,Retailers - other,4613,5,,165855,5,,52.27103000000000,PI/000008616,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49439600000000,CB8 8QX,2013-09-24,fhrs_5_en-GB,5,,FHRS,5
-17583,106 High Street,Newmarket,Suffolk,,Kentucky Fried Chicken,Takeaway/sandwich shop,7844,0,,164041,0,,52.24359400000000,PI/000005766,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40430300000000,CB8 8JP,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-17584,14 Market Place,Mildenhall,Suffolk,,Kentucky Fried Chicken,Takeaway/sandwich shop,7844,0,,165497,0,,52.34329200000000,PI/000008112,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2013-11-04,fhrs_5_en-GB,5,,FHRS,5
-17585,160 High Street,Newmarket,Suffolk,,Khobkhum Thai Restaurant,Restaurant/Cafe/Canteen,1,5,,164100,5,,52.24279404000001,PI/000005827,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40320098000000,,2014-08-05,fhrs_5_en-GB,5,,FHRS,5
-17586,6 Earls Field,RAF Lakenheath,Suffolk,,Kim's Bulgogi,Takeaway/sandwich shop,7844,5,,162584,10,,52.38813800000000,PI/000003186,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52987500000000,IP27 9QH,2014-03-28,fhrs_4_en-GB,4,,FHRS,5
-17587,Memorial Hall,144 High Street,Newmarket,Suffolk,King Edward VII Memorial Hall,Other catering premises,7841,,,164071,,,52.24359400000000,PI/000005809,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40430300000000,CB8 8JP,2012-09-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-17588,St Fabians Close,Newmarket,Suffolk,,Kingfisher House,Hospitals/Childcare/Caring Premises,5,5,,167392,5,,52.25057200000000,PI/000011337,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39587500000000,CB8 0EJ,2014-12-03,fhrs_5_en-GB,5,,FHRS,5
-17589,37 High Street,Brandon,Suffolk,,Kings Garden Chinese Takeaway,Takeaway/sandwich shop,7844,5,,163881,5,,52.44845500000000,PI/000005493,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-17590,4 King Street,Mildenhall,Suffolk,,Kings Project Emergency Food Bank,Retailers - other,4613,5,,212955,0,,52.34374100000000,PI/000017139,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51142300000000,IP28 7ES,2012-02-24,fhrs_5_en-GB,5,,FHRS,5
-17591,Marlborough Club,Kingston Passage,Newmarket,Suffolk,Kings Restaurant & Events,Pub/bar/nightclub,7843,10,,481873,5,,52.24318300000000,PI/000006853,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40636100000000,CB8 8EN,2014-07-02,fhrs_4_en-GB,4,,FHRS,5
-17592,28 Waterloo Close,Newmarket,Suffolk,,Kiri's Cakes,Other catering premises,7841,5,,174245,5,,52.26415900000000,PI/000028495,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38524900000000,CB8 7RP,2013-03-20,fhrs_5_en-GB,5,,FHRS,5
-17593,7 Exeter Road,Newmarket,Suffolk,,Labas,Retailers - other,4613,5,,410074,5,,52.24545600000000,PI/000019908,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40822700000000,CB8 8NG,2014-05-20,fhrs_4_en-GB,4,,FHRS,10
-17594,25 Market Street,Newmarket,Suffolk,,Ladbroke Racing Ltd,Retailers - other,4613,,,165548,,,52.24452900000000,PI/000008168,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40606700000000,CB8 8EE,2009-02-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-17595,6-8 High Street,Newmarket,Suffolk,,Ladbrokes Racing,Retailers - other,4613,,,164220,,,52.24505000000000,PI/000005961,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2009-02-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-17596,16 Market Place,Mildenhall,Suffolk,,Ladbrokes Racing Ltd,Other catering premises,7841,,,167924,,,52.34329200000000,PI/000012322,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2009-02-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-17597,34 Mount Road,Brandon,Suffolk,,Ladybirds Catering,Other catering premises,7841,5,,481894,5,,52.44137000000000,PI/000100938,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62808600000000,IP27 0DT,2014-08-12,fhrs_5_en-GB,5,,FHRS,5
-17598,Mill Road,Lakenheath,Suffolk,,Lakenheath Community Primary School,School/college/university,7845,0,,161751,0,,52.41566900000000,PI/000001836,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52328900000000,IP27 9DU,2014-06-26,fhrs_5_en-GB,5,,FHRS,5
-17599,37 High Street,Lakenheath,Suffolk,,Lakenheath Fishbar,Takeaway/sandwich shop,7844,5,,163961,5,,52.41601100000000,PI/000005633,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51908800000000,IP27 9DS,2014-06-26,fhrs_5_en-GB,5,,FHRS,5
-17600,Football Ground,Back Street,Lakenheath,Suffolk,Lakenheath Football Club,Other catering premises,7841,0,,160841,5,,52.41386700000000,PI/000000689,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52261200000000,IP27 9HB,2010-02-08,fhrs_4_en-GB,4,,FHRS,10
-17601,Back Street,Lakenheath,Suffolk,,Lakenheath Indoor Bowls Club,Pub/bar/nightclub,7843,,,175946,,,52.41720000000000,PI/000034653,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51939100000000,IP27 9HN,2009-08-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-17602,Little Fishes,Lakenheath Sports Pavilion,Eriswell Road,Lakenheath,Lakenheath Little Fishes,Hospitals/Childcare/Caring Premises,5,0,,178190,0,,52.41021900000000,PI/000045765,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52503600000000,IP27 9AF,2014-01-20,fhrs_5_en-GB,5,,FHRS,0
-17603,65A High Street,Lakenheath,Suffolk,,Lakenheath News,Retailers - other,4613,5,,163972,0,,52.41601100000000,PI/000005655,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51908800000000,IP27 9DS,2012-02-21,fhrs_5_en-GB,5,,FHRS,0
-17604,Elveden Forest Holiday Village,Brandon Road,Elveden,,Lakeview Restaurant,Restaurant/Cafe/Canteen,1,0,,174581,5,,52.44646900000000,PI/000029521,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-07-30,fhrs_5_en-GB,5,,FHRS,0
-17605,Exning Road,Newmarket,Suffolk,,Laureate Community Primary School And Nursery,School/college/university,7845,0,,162926,0,,52.25559300000000,PI/000003931,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39038700000000,CB8 0AN,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-17606,Elveden Forest Holiday Village,Brandon Road,Elveden,,Leisure Bowl,Pub/bar/nightclub,7843,0,,174580,5,,52.45410156250000,PI/000029520,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62472999095917,,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-17607,8 Linton Close,Newmarket,Suffolk,,Linton Lodge,Hotel/bed & breakfast/guest house,7842,5,,165125,5,,52.25205300000000,PI/000007506,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39780100000000,CB8 0AE,2010-02-26,fhrs_5_en-GB,5,,FHRS,5
-17608,7 St Wendreds Way,Exning,Suffolk,,Lipworth Patisserie,Other catering premises,7841,10,,427048,10,,52.26250800000000,PI/000019478,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36945000000000,CB8 7HJ,2012-06-19,fhrs_4_en-GB,4,,FHRS,0
-17609,Studlands Park Community Centre,Brickfields Avenue,Newmarket,Suffolk,Little Buds Pre School,Hospitals/Childcare/Caring Premises,5,5,,161281,10,,52.26313000000000,PI/000001273,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38498900000000,CB8 7RX,2013-11-08,fhrs_4_en-GB,4,,FHRS,5
-17610,Fiveways,Barton Mills,Suffolk,,Little Chef,Restaurant/Cafe/Canteen,1,5,,163119,5,,52.33839800000000,PI/000004217,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.53340500000000,IP28 6AE,2014-09-17,fhrs_4_en-GB,4,,FHRS,10
-17611,The 1000 Guineas Services,Exning,Suffolk,,Little Chef - Newmarket North A14,Restaurant/Cafe/Canteen,1,20,,166079,15,,52.25521300000000,PI/000008958,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39257600000000,,2014-09-03,fhrs_1_en-GB,1,,FHRS,15
-17612,20 High Street,Lakenheath,Suffolk,,Little India,Takeaway/sandwich shop,7844,5,,410069,5,,52.41754200000000,PI/000005616,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51813100000000,IP27 9JS,2014-02-19,fhrs_5_en-GB,5,,FHRS,5
-17613,Little Treasures,Wamil Way,Mildenhall,Suffolk,Little Treasures Pre-School,Hospitals/Childcare/Caring Premises,5,0,,168644,0,,52.34302000000000,PI/000013570,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50176500000000,IP28 7JX,2014-10-23,fhrs_5_en-GB,5,,FHRS,0
-17614,52-53 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Lloyds Chemists,Retailers - other,4613,,,168048,,,52.24545400000000,PI/000012485,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40610300000000,CB8 8HT,2008-10-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-17615,2 Manor Court,High Street,Mildenhall,Suffolk,Lloyds Pharmacy,Retailers - other,4613,,,167930,,,52.34399900000000,PI/000012325,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50988100000000,IP28 7EH,2011-01-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-17616,27 Market Place,Mildenhall,Suffolk,,Lloyds Pharmacy,Retailers - other,4613,,,171231,,,52.34329200000000,PI/000019872,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2013-12-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-17617,20 Oxford Street,Exning,Suffolk,,Londis,Retailers - supermarkets/hypermarkets,7840,5,,166359,5,,52.26598300000000,PI/000009407,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36881500000000,CB8 7EW,2014-02-17,fhrs_5_en-GB,5,,FHRS,5
-17618,Icklingham Road,Tuddenham,Suffolk,,Longwood Farm,Retailers - other,4613,10,,164546,10,,52.31630000000000,PI/000006507,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.55192200000000,IP28 6TB,2014-01-24,fhrs_3_en-GB,3,,FHRS,10
-17619,61 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Lords Pharmacy,Retailers - other,4613,,,481893,,,52.24545400000000,PI/000100873,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40610300000000,CB8 8HT,2013-02-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-17620,Unit 1 And 2,The Centre,Brickfields Avenue,Newmarket,Lotus (Studlands Park Newsagent),Retailers - other,4613,20,,161283,10,,52.26313000000000,PI/000001274,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38498900000000,CB8 7RX,2014-05-20,fhrs_1_en-GB,1,,FHRS,10
-17621,,,,,Louise American Bakery,Other catering premises,7841,5,,170354,5,,,PI/000017379,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-05-08,fhrs_5_en-GB,5,,FHRS,0
-17622,11 Kingsway,Mildenhall,Suffolk,,Loulabelle's,Other catering premises,7841,0,,528720,0,,52.34451000000000,PI/000034829,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51287600000000,IP28 7HN,2013-04-11,fhrs_5_en-GB,5,,FHRS,0
-17623,12 Carnation Way,Red Lodge,Suffolk,,Love Alot,Other catering premises,7841,0,,169391,5,,52.30054500000000,PI/000014991,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49259300000000,IP28 8TN,2011-11-22,fhrs_5_en-GB,5,,FHRS,0
-17624,4 Shores Close,Freckenham,Suffolk,,M. G. Cole,Retailers - other,4613,5,,481876,0,,52.32080500000000,PI/000011013,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.43962700000000,IP28 8NJ,2013-01-23,fhrs_5_en-GB,5,,FHRS,0
-17625,45 High Street,Mildenhall,Suffolk,,Mabbs Hall Care Home,Hospitals/Childcare/Caring Premises,5,,,164012,,,52.34231200000000,PI/000005733,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51010900000000,IP28 7EA,2014-10-10,fhrs_5_en-GB,5,,FHRS,
-17626,8 Rowley Drive,Newmarket,Suffolk,,Magic Bread,Other catering premises,7841,0,,508804,5,,52.24235600000000,PI/000010612,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39352800000000,CB8 0NH,2014-07-08,fhrs_5_en-GB,5,,FHRS,5
-17627,9 Waterloo Close,Newmarket,Suffolk,,Magic Ices,Mobile caterer,7846,0,,564213,0,,52.26415900000000,PI/000013720,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38524900000000,CB8 7RP,2014-11-05,fhrs_5_en-GB,5,,FHRS,0
-17628,Maids Head,9 Kingsway,Mildenhall,Suffolk,Maids Head Public House,Pub/bar/nightclub,7843,5,,164787,5,,52.34451000000000,PI/000006907,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51287600000000,IP28 7HN,2014-07-04,fhrs_5_en-GB,5,,FHRS,5
-17629,2A Bury Road,Newmarket,Suffolk,,Majestic Wine,Retailers - other,4613,0,,178048,0,,52.24588100000000,PI/000044885,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40989100000000,CB8 7BP,2013-04-06,fhrs_5_en-GB,5,,FHRS,0
-17630,The Hollies,Stock Corner,Beck Row,Suffolk,Mandy's Fruit & Veg,Retailers - other,4613,5,,704118,5,,52.37421600000000,PI/000011871,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.46701800000000,IP28 8DW,2014-09-27,fhrs_5_en-GB,5,,FHRS,5
-17631,Manor End,Freckenham Road,Worlington,Suffolk,Manor Farm Eggs,Manufacturers/packers,7839,5,,163276,5,,52.33060800000000,PI/000004433,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.47239900000000,IP28 8SN,2014-03-05,fhrs_5_en-GB,5,,FHRS,5
-17632,The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Marks and Spencer,Retailers - supermarkets/hypermarkets,7840,5,,168066,0,,52.23170471191406,PI/000012508,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,1.08654403686523,CB8 8EQ,2011-05-13,fhrs_5_en-GB,5,,FHRS,5
-17633,12 Market Hill,Brandon,Suffolk,,Marks Traditional Greengrocers,Retailers - other,4613,5,,165467,0,,52.44733900000000,PI/000008073,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62414400000000,IP27 0AA,2012-03-12,fhrs_5_en-GB,5,,FHRS,5
-17634,27 Carnation Way,Red Lodge,Suffolk,,Marthie's Baking,Other catering premises,7841,10,,636522,5,,52.30145000000000,PI/000001722,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49145600000000,IP28 8TW,2014-02-04,fhrs_4_en-GB,4,,FHRS,5
-17635,1-2 Market Place,Mildenhall,Suffolk,,Martin McColls,Retailers - other,4613,5,,165524,5,,52.34329200000000,PI/000008143,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2014-05-12,fhrs_4_en-GB,4,,FHRS,10
-17636,Norwood House,20 St Marys Square,Newmarket,Suffolk,Martins,Retailers - other,4613,5,,167499,5,,52.24488500000000,PI/000011561,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40315700000000,CB8 0HZ,2014-01-28,fhrs_4_en-GB,4,,FHRS,10
-17637,Masonic Lodge,115 High Street,Newmarket,Suffolk,Masonic Club,Pub/bar/nightclub,7843,5,,164049,5,,52.24181900000000,PI/000005775,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40091100000000,CB8 9AE,2014-02-11,fhrs_5_en-GB,5,,FHRS,5
-17638,Snacks n Sarnies,Motocross Circuit,Hayland Drove,West Row,Mazey's Munch,Other catering premises,7841,5,,178164,0,,52.36856700000000,PI/000045588,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.42893400000000,IP28 8QU,2014-02-27,fhrs_5_en-GB,5,,FHRS,5
-17639,142 St Johns Close,Mildenhall,Suffolk,,McColls,Retailers - supermarkets/hypermarkets,7840,10,,167409,5,,52.35135200000000,PI/000011389,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51930000000000,IP28 7NX,2013-07-23,fhrs_3_en-GB,3,,FHRS,10
-17640,7 High Street,Brandon,Suffolk,,Meatmarket Ltd,Retailers - other,4613,5,,163905,5,,52.44845500000000,PI/000005531,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-17641,Mickey Tea Bar,Lincoln Road,Beck Row,Suffolk,Mickeys,Restaurant/Cafe/Canteen,1,5,,176576,5,,52.36877100000000,PI/000037892,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.46899100000000,IP28 8HG,2013-09-13,fhrs_5_en-GB,5,,FHRS,0
-17642,Sheldrick Way,Mildenhall,Suffolk,,Mildenhall Academy,School/college/university,7845,5,,168650,5,,52.34302000000000,PI/000013576,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50176500000000,IP28 7JX,2013-11-25,fhrs_5_en-GB,5,,FHRS,5
-17643,Wamil Way,Mildenhall,Suffolk,,Mildenhall And District Cycling Club,Other catering premises,7841,10,,168648,10,,52.34357100000000,PI/000013573,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50501200000000,IP28 7JU,2013-02-25,fhrs_2_en-GB,2,,FHRS,15
-17644,Market Place,Mildenhall,Suffolk,,Mildenhall Baptist Church,Other catering premises,7841,,,165538,,,52.34329200000000,PI/000008164,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2014-01-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-17645,Bury Road,Mildenhall,Suffolk,,Mildenhall College Academy,School/college/university,7845,0,,161553,0,,52.34317800000000,PI/000001579,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52434100000000,IP28 7HT,2014-03-05,fhrs_5_en-GB,5,,FHRS,5
-17646,Community Centre,St Johns Close,Mildenhall,Suffolk,Mildenhall Community Centre,Other catering premises,7841,,,167447,,,52.35135200000000,PI/000011466,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51930000000000,IP28 7NX,2012-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-17647,Wamil Way,Mildenhall,Suffolk,,Mildenhall Cricket Club,Pub/bar/nightclub,7843,5,,168645,5,,52.34357100000000,PI/000013571,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50501200000000,IP28 7JU,2008-07-11,fhrs_5_en-GB,5,,FHRS,5
-17648,Scout Hall,St Andrews Street,Mildenhall,Suffolk,"Mildenhall Scout Group, Group HQ",Other catering premises,7841,,,167330,,,52.34247500000000,PI/000011213,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51091100000000,IP28 7HB,2009-01-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-17649,Recreation Way,Mildenhall,Suffolk,,Mildenhall Social Club,Pub/bar/nightclub,7843,5,,166804,5,,52.34176100000000,PI/000010232,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51402700000000,IP28 7HG,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-17650,Hayland Drove,West Row,Suffolk,,Mildenhall Stadium,Restaurant/Cafe/Canteen,1,10,,163721,5,,52.36419600000000,PI/000005189,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41143500000000,IP28 8QU,2014-03-07,fhrs_4_en-GB,4,,FHRS,5
-17651,Recreation Way,Mildenhall,Suffolk,,Mildenhall Swimming Pool,Retailers - other,4613,,,166805,,,52.34176100000000,PI/000010233,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51402700000000,IP28 7HG,2008-02-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-17652,Recreation Way,Mildenhall,Suffolk,,Mildenhall Town FC,Pub/bar/nightclub,7843,5,,166803,10,,52.34176100000000,PI/000010230,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51402700000000,IP28 7HG,2014-07-23,fhrs_4_en-GB,4,,FHRS,5
-17653,Mill Road,Gazeley,Suffolk,,Mill Meadow,School/college/university,7845,10,,183484,0,,52.25144500000000,PI/000101056,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51679800000000,CB8 8RW,2013-09-24,fhrs_4_en-GB,4,,FHRS,0
-17654,Rowley Mile,Rowley Mile Stands,Newmarket,Suffolk,Milo's Seafood Ltd,Mobile caterer,7846,5,,664923,0,,52.23820900000000,PI/000047959,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.37537700000000,CB8 0TF,2014-04-16,fhrs_5_en-GB,5,,FHRS,5
-17655,Bar,Millennium Centre,Lavender Close,Red Lodge,MJ's Cafe and Bar,Restaurant/Cafe/Canteen,1,5,,608713,5,,52.30541900000000,PI/000039991,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49043200000000,IP28 8TT,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-17656,Restaurant,14 Market Hill,Brandon,Suffolk,Mondragone,Restaurant/Cafe/Canteen,1,10,,247544,15,,52.44733900000000,PI/000046396,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62414400000000,IP27 0AA,2013-08-01,fhrs_2_en-GB,2,,FHRS,10
-17657,Newmarket Sports Centre,Exning Road,Newmarket,Suffolk,Montage,Restaurant/Cafe/Canteen,1,5,,162930,5,,52.24854300000000,PI/000003937,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39972100000000,CB8 0EA,2014-09-09,fhrs_5_en-GB,5,,FHRS,5
-17658,Brandon Sports Centre,Church Road,Brandon,Suffolk,Montage Cafe Bar,Restaurant/Cafe/Canteen,1,5,,161978,5,,52.44551400000000,PI/000002121,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61395500000000,IP27 0JB,2014-07-24,fhrs_5_en-GB,5,,FHRS,5
-17659,30 Old Station Road,Newmarket,Suffolk,,Montaz,Restaurant/Cafe/Canteen,1,0,,166310,5,,52.24521300000000,PI/000009331,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40998700000000,CB8 8DN,2014-05-19,fhrs_5_en-GB,5,,FHRS,0
-17660,School Road,Moulton,Suffolk,,Moulton CEVC Primary School,School/college/university,7845,0,,167139,0,,52.25707200000000,PI/000010828,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48080500000000,CB8 8PR,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-17661,Lawn House,16 The Street,Moulton,Suffolk,Moulton Post Office Stores,Retailers - other,4613,5,,168252,5,,52.25056400000000,PI/000012829,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48240500000000,CB8 8RZ,2014-04-25,fhrs_5_en-GB,5,,FHRS,5
-17662,The Rest,Mildenhall Drove,Kenny Hill,Beck Row,Mr E and D Winters,Retailers - other,4613,5,,164640,5,,52.39470100000000,PI/000006674,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.44536200000000,IP28 8DY,2012-05-09,fhrs_5_en-GB,5,,FHRS,5
-17663,4-6 Market Hill,Brandon,Suffolk,,Mr G's Bowling Centre,Restaurant/Cafe/Canteen,1,5,,165473,0,,52.44733900000000,PI/000008076,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62414400000000,IP27 0AA,2013-11-05,fhrs_5_en-GB,5,,FHRS,0
-17664,21 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Mr Simms Olde Sweet Shoppe,Retailers - other,4613,5,,627817,0,,52.24480900000000,PI/000012519,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40557000000000,CB8 8EQ,2014-01-17,fhrs_5_en-GB,5,,FHRS,0
-17665,31 Eriswell Road,Lakenheath,Suffolk,,Mrs C Smith,Other catering premises,7841,5,,162769,5,,52.41021900000000,PI/000003608,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52503600000000,IP27 9AF,2008-02-20,fhrs_5_en-GB,5,,FHRS,5
-17666,5 Wren Close,Mildenhall,Suffolk,,Mums Buns,Other catering premises,7841,0,,608707,0,,52.34357700000000,PI/000023135,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52166200000000,IP28 7HH,2013-10-23,fhrs_5_en-GB,5,,FHRS,0
-17667,West View,Hurdle Drove,West Row,Suffolk,N C Catering,Mobile caterer,7846,5,,584319,5,,52.36276000000000,PI/000047184,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45971100000000,IP28 8RB,2013-06-30,fhrs_5_en-GB,5,,FHRS,5
-17668,18 Old Station Road,Newmarket,Suffolk,,Nancy's Teashop,Restaurant/Cafe/Canteen,1,0,,608715,5,,52.24521300000000,PI/000100362,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40998700000000,CB8 8DN,2013-08-16,fhrs_5_en-GB,5,,FHRS,0
-17669,12 Falcon Drive,Brandon,Suffolk,,Nannie McCupcake's,Other catering premises,7841,5,,162955,5,,52.44455900000000,PI/000003978,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.64316900000000,IP27 0UD,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-17670,Crossways,North Terrace,Mildenhall,Suffolk,National Autistic Society,Hospitals/Childcare/Caring Premises,5,0,,166211,0,,52.34794300000000,PI/000009169,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51045700000000,IP28 7AE,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-17671,Middlefield Manor,The Street,Barton Mills,Suffolk,National Autistic Society,Hospitals/Childcare/Caring Premises,5,5,,168136,5,,52.33561100000000,PI/000012611,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51990200000000,IP28 6AW,2013-09-06,fhrs_5_en-GB,5,,FHRS,0
-17672,The National Horseracing Museum,99 High Street,Newmarket,Suffolk,National Horseracing Museum,Other catering premises,7841,10,,164245,5,,52.24293900000000,PI/000005987,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40508800000000,CB8 8JH,2014-02-25,fhrs_4_en-GB,4,,FHRS,5
-17673,Fred Archer Way,Newmarket,Suffolk,,New Astley Club,Pub/bar/nightclub,7843,10,,163279,15,,52.24534900000000,PI/000004438,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40464700000000,CB8 8NT,2013-09-20,fhrs_2_en-GB,2,,FHRS,5
-17674,Shop,149 New Cheveley Road,Newmarket,Suffolk,New Chevely Store,Retailers - other,4613,0,,177389,0,,52.23943200000000,PI/000041962,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41433100000000,CB8 8BU,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-17675,Unit 33,James Carter Road,Mildenhall,Suffolk,New Horizons Day Care,Hospitals/Childcare/Caring Premises,5,5,,608704,5,,52.35344400000000,PI/000006556,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50081200000000,IP28 7DE,2014-01-23,fhrs_5_en-GB,5,,FHRS,5
-17676,Moulton Paddocks,Moulton,Suffolk,,New Hostel,Hotel/bed & breakfast/guest house,7842,0,,173505,0,,52.26029500000000,PI/000025989,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.44445100000000,CB8 7PJ,2014-04-28,fhrs_5_en-GB,5,,FHRS,5
-17677,114 High Street,Newmarket,Suffolk,,New Look,Retailers - other,4613,,,164046,,,52.24359400000000,PI/000005774,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40430300000000,CB8 8JP,2013-04-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-17678,9 Old Station Road,Newmarket,Suffolk,,New Ocean City Chinese Takeaway,Takeaway/sandwich shop,7844,5,,166327,10,,52.24507800000000,PI/000009359,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41134200000000,CB8 8DT,2013-12-19,fhrs_4_en-GB,4,,FHRS,5
-17679,Exning Road,Newmarket,Suffolk,,Newmarket Academy,School/college/university,7845,5,,162933,5,,52.24891100000000,PI/000003941,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39528700000000,CB8 0EB,2014-09-15,fhrs_5_en-GB,5,,FHRS,5
-17680,Avenue Bowls Club,22 The Avenue,Newmarket,Suffolk,Newmarket Avenue Bowls Club,Pub/bar/nightclub,7843,5,,167781,5,,52.23990300000000,PI/000012098,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40671100000000,CB8 9AY,2011-09-06,fhrs_5_en-GB,5,,FHRS,0
-17681,14 Freshfields,Newmarket,Suffolk,,Newmarket Cakes & Stuff,Other catering premises,7841,5,,664918,5,,52.24775900000000,PI/000023501,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39890200000000,CB8 0EH,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-17682,Unit 11,Studlands Park Avenue,Newmarket,Suffolk,Newmarket Community Church,Other catering premises,7841,5,,167722,5,,52.26285900000000,PI/000011973,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39350400000000,CB8 7EA,2012-01-24,fhrs_5_en-GB,5,,FHRS,5
-17683,56 Exning Road,Newmarket,Suffolk,,Newmarket Community Hospital,Hospitals/Childcare/Caring Premises,5,5,,162929,10,,52.25090300000000,PI/000003935,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39996600000000,CB8 7JG,2014-08-18,fhrs_4_en-GB,4,,FHRS,5
-17684,Magistrates Court,Lisburn Road,Newmarket,Suffolk,Newmarket CRU,Hospitals/Childcare/Caring Premises,5,5,,165138,5,,52.24367600000000,PI/000007535,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41172000000000,CB8 8HR,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-17685,Fred Archer Way,Newmarket,Suffolk,,Newmarket Day Centre,Hospitals/Childcare/Caring Premises,5,5,,163281,5,,52.24534900000000,PI/000004439,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40464700000000,CB8 8NT,2014-03-10,fhrs_5_en-GB,5,,FHRS,5
-17686,Scout HQ,Cardigan Street,Newmarket,Suffolk,Newmarket District Scouts Council,Other catering premises,7841,,,173807,,,52.24096000000000,PI/000027036,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40733900000000,CB8 8HZ,2008-03-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-17687,150 High Street,Newmarket,Suffolk,,Newmarket Indian Cuisine,Restaurant/Cafe/Canteen,1,10,,164081,5,,52.24271600000000,PI/000005814,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40233600000000,CB8 9AQ,2013-09-19,fhrs_4_en-GB,4,,FHRS,5
-17688,1 Wellington Street,Newmarket,Suffolk,,Newmarket Kebab House,Takeaway/sandwich shop,7844,,,168736,,,52.24431600000000,PI/000013745,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40416600000000,CB8 0HT,2014-10-21,fhrs_5_en-GB,5,,FHRS,
-17689,Hamilton Road,Newmarket,Suffolk,,Newmarket Lawn Tennis Club,Pub/bar/nightclub,7843,10,,163662,5,,52.24205500000000,PI/000005084,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39064100000000,CB8 0NQ,2013-03-08,fhrs_4_en-GB,4,,FHRS,0
-17690,2 Craven Way,Newmarket,Suffolk,,Newmarket Open Door,Distributors/Transporters,7,10,,162308,5,,52.25674300000000,PI/000002707,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39132800000000,CB8 0AP,2011-05-25,fhrs_4_en-GB,4,,FHRS,5
-17691,Kings Theatre,16 Fitzroy Street,Newmarket,Suffolk,Newmarket Operatic Music & Dramatic,Pub/bar/nightclub,7843,0,,163099,0,,52.24377700000000,PI/000004194,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40060700000000,CB8 0JW,2011-07-18,fhrs_5_en-GB,5,,FHRS,0
-17692,15 Juniper Road,Red Lodge,Suffolk,,Nikki's Homemade,Other catering premises,7841,5,,170967,5,,52.30747000000000,PI/000019121,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49640000000000,IP28 8TX,2013-03-08,fhrs_5_en-GB,5,,FHRS,0
-17693,Unit 1,Bellflower Crescent,Red Lodge,Suffolk,Nisa Local,Retailers - other,4613,10,,664921,0,,52.30114800000000,PI/000042072,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48230100000000,IP28 8XQ,2014-04-25,fhrs_4_en-GB,4,,FHRS,5
-17694,Clubhouse,Scaltback Middle School,Elizabeth Avenue,Newmarket,NSDA Sports Club,Pub/bar/nightclub,7843,5,,162653,10,,52.25291100000000,PI/000003331,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38920200000000,CB8 0DJ,2014-05-08,fhrs_3_en-GB,3,,FHRS,10
-17695,11 Stores Street,Brandon,Suffolk,,O Cafe,Other catering premises,7841,5,,167668,5,,52.44706100000000,PI/000011885,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62327400000000,IP27 0AE,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-17696,4 The Avenue,Newmarket,Suffolk,,Old Scotch  Indian Takeaway,Takeaway/sandwich shop,7844,5,,167793,5,,52.24185100000000,PI/000012111,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40378400000000,CB8 9AA,2013-06-19,fhrs_5_en-GB,5,,FHRS,5
-17697,The 1000 Guineas Services,Exning,Suffolk,,One Thousand Guineas  BP Connect,Retailers - other,4613,0,,166078,0,,52.25521300000000,PI/000008957,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39257600000000,,2014-10-14,fhrs_5_en-GB,5,,FHRS,5
-17698,Portacabin,Hundred Acre Way,Red Lodge,Suffolk,Only Fools & Sauces,Restaurant/Cafe/Canteen,1,10,,608714,5,,,PI/000047180,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2013-11-13,fhrs_4_en-GB,4,,FHRS,5
-17699,Heathcote House,Warren Close,Brandon,Suffolk,Orbit Housing,Hospitals/Childcare/Caring Premises,5,,,168689,,,,PI/000013640,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2013-12-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-17700,68 Mill Hill,Newmarket,Suffolk,,Ormiston Centre,Other catering premises,7841,10,,165749,10,,52.24637500000000,PI/000008448,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40240200000000,CB8 0JB,2007-11-26,fhrs_3_en-GB,3,,FHRS,10
-17701,2 Wellington Street,Newmarket,Suffolk,,Oxfam,Retailers - other,4613,5,,168738,5,,52.24431600000000,PI/000013749,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40416600000000,CB8 0HT,2008-02-21,fhrs_5_en-GB,5,,FHRS,5
-17702,48 Church Lane,Barton Mills,Suffolk,,P K's Beefeaters Snack Bar,Mobile caterer,7846,5,,165011,5,,52.33359700000000,PI/000007282,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51738000000000,IP28 6AY,2013-12-17,fhrs_5_en-GB,5,,FHRS,0
-17703,P And H,42 High Street,Lakenheath,Suffolk,P&H Lakenheath Ltd,Retailers - other,4613,10,,610824,5,,52.41601100000000,PI/000045120,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51908800000000,IP27 9DS,2009-06-30,fhrs_4_en-GB,4,,FHRS,5
-17704,Rochfort Avenue,Newmarket,Suffolk,,Paddocks Primary School,School/college/university,7845,0,,166868,0,,52.25053600000000,PI/000010351,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38834200000000,CB8 0DL,2014-09-15,fhrs_5_en-GB,5,,FHRS,5
-17705,13 High Street,Brandon,Suffolk,,Pagoda House,Takeaway/sandwich shop,7844,5,,163864,5,,52.44845500000000,PI/000005458,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2014-02-06,fhrs_5_en-GB,5,,FHRS,0
-17706,Elveden Forest Holiday Village,Brandon Road,Elveden,Suffolk,Pancake House,Restaurant/Cafe/Canteen,1,0,,177428,5,,52.44646900000000,PI/000042180,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-07-30,fhrs_5_en-GB,5,,FHRS,5
-17707,ParcMarket,Elveden Forest Holiday Village,Brandon Road,Elveden,Parc Market (Inc. Food 2 Go),Retailers - supermarkets/hypermarkets,7840,0,,177429,0,,52.44646900000000,PI/000042181,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-12-04,fhrs_5_en-GB,5,,FHRS,5
-17708,High Street,Lakenheath,Suffolk,,Peace Memorial Hall,Other catering premises,7841,,,163992,,,52.41364100000000,PI/000005691,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52186400000000,IP27 9EW,2012-01-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-17709,8 Market Hill,Brandon,Suffolk,,Peach Bower,Takeaway/sandwich shop,7844,5,,165476,10,,52.44733900000000,PI/000008080,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62414400000000,IP27 0AA,2014-07-11,fhrs_4_en-GB,4,,FHRS,5
-17710,5A Victoria Way,Newmarket,Suffolk,,Perfect U,Retailers - other,4613,5,,168588,0,,52.26094200000000,PI/000013456,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38825700000000,CB8 7SH,2010-03-30,fhrs_5_en-GB,5,,FHRS,5
-17711,75 High Street,Newmarket,Suffolk,,Pizza Express,Restaurant/Cafe/Canteen,1,0,,164214,0,,52.24505000000000,PI/000005956,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-17712,17 Market Place,Mildenhall,Suffolk,,Pizza Shanghai,Takeaway/sandwich shop,7844,10,,167921,5,,52.34329200000000,PI/000012317,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2014-11-07,fhrs_3_en-GB,3,,FHRS,10
-17713,16 High Street,Brandon,Suffolk,,Polfood,Retailers - other,4613,5,,183477,5,,52.44845500000000,PI/000100453,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2013-05-13,fhrs_5_en-GB,5,,FHRS,5
-17714,82 Valley Way,Newmarket,Suffolk,,Popes Cafe,Restaurant/Cafe/Canteen,1,5,,410071,5,,52.24503800000000,PI/000013408,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39250000000000,CB8 0QL,2014-01-21,fhrs_4_en-GB,4,,FHRS,10
-17715,49 High Street,Brandon,Suffolk,,Pound Zone,Retailers - other,4613,10,,704116,5,,52.44845500000000,PI/000005508,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2014-08-06,fhrs_4_en-GB,4,,FHRS,5
-17716,67 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Poundland,Retailers - other,4613,5,,358895,5,,52.24545400000000,PI/000012497,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40610300000000,CB8 8HT,2012-04-18,fhrs_5_en-GB,5,,FHRS,5
-17717,8 Wellington Street,Newmarket,Suffolk,,Powters Ltd,Retailers - other,4613,0,,168748,5,,52.24431600000000,PI/000013764,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40416600000000,CB8 0HT,2014-02-13,fhrs_5_en-GB,5,,FHRS,0
-17718,127 Exning Road,Newmarket,Suffolk,,Premier,Retailers - other,4613,5,,162839,5,,52.25194100000000,PI/000003747,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39577300000000,CB8 0EL,2014-01-03,fhrs_5_en-GB,5,,FHRS,5
-17719,Beck Row Primary School,The Street,Beck Row,Suffolk,Preschool,Hospitals/Childcare/Caring Premises,5,,,177008,,,52.36889900000000,PI/000040211,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48643600000000,IP28 8AE,2013-06-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-17720,Stepping Stones Nursery Rear Of Primary School,Oxford Street,Exning,Suffolk,Pre-School Stepping Stones,Hospitals/Childcare/Caring Premises,5,0,,166365,0,,52.26598300000000,PI/000009418,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36881500000000,CB8 7EW,2014-04-23,fhrs_5_en-GB,5,,FHRS,5
-17721,The Forge,2 Exeter Road,Newmarket,Suffolk,Prezzo,Restaurant/Cafe/Canteen,1,0,,169179,5,,52.24609200000000,PI/000014625,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40834900000000,CB8 8LT,2014-01-31,fhrs_5_en-GB,5,,FHRS,5
-17722,16 London Road,Brandon,Suffolk,,Psychotic Sauces,Importers/Exporters,14,10,,445128,5,,52.44755900000000,PI/000046809,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62270100000000,IP27 0HS,2012-08-14,fhrs_4_en-GB,4,,FHRS,5
-17723,42 High Street,Newmarket,Suffolk,,QD Stores,Retailers - other,4613,10,,164264,5,,52.24505000000000,PI/000006019,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2009-09-11,fhrs_4_en-GB,4,,FHRS,5
-17724,1A Highwood Road,Gazeley,Suffolk,,Queens Catering,Other catering premises,7841,5,,169583,5,,52.24618700000000,PI/000015431,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51710100000000,CB8 8RJ,2011-02-17,fhrs_5_en-GB,5,,FHRS,0
-17725,Elveden Forest Holiday Village,Brandon Road,Elveden,,Rajinda Pradesh,Restaurant/Cafe/Canteen,1,0,,174585,0,,52.44646900000000,PI/000029524,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-12-04,fhrs_5_en-GB,5,,FHRS,5
-17726,83 High Street,Brandon,Suffolk,,Ram Hotel,Hotel/bed & breakfast/guest house,7842,5,,163924,5,,52.45238700000000,PI/000005564,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62236900000000,IP27 0AX,2013-11-21,fhrs_5_en-GB,5,,FHRS,5
-17727,6 Shippea Hill Road,Kenny Hill,Beck Row,Suffolk,Ray and Karen's Cheese,Mobile caterer,7846,5,,671561,5,,52.39890500000000,PI/000024898,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.43990600000000,IP28 8DZ,2014-06-19,fhrs_5_en-GB,5,,FHRS,5
-17728,71 Falcon Way,Beck Row,Suffolk,,Razzle Dazzle Creations,Other catering premises,7841,5,,172194,5,,52.37529300000000,PI/000022465,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.46970800000000,IP28 8EL,2011-11-08,fhrs_5_en-GB,5,,FHRS,0
-17729,Turnpike Road,Red Lodge,Suffolk,,Red Lodge Cafe,Restaurant/Cafe/Canteen,1,10,,168472,5,,52.30272200000000,PI/000013259,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48403200000000,IP28 8LB,2014-10-22,fhrs_3_en-GB,3,,FHRS,10
-17730,Unit 3,Bellflower Crescent,Red Lodge,Suffolk,Red Lodge Fish Bar,Restaurant/Cafe/Canteen,1,0,,627820,0,,52.30114800000000,PI/000042076,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48230100000000,IP28 8XQ,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-17731,Unit 4,Bellflower Crescent,Red Lodge,Suffolk,Red Lodge Pizza & Kebab,Takeaway/sandwich shop,7844,5,,704122,5,,52.30114800000000,PI/000046872,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48230100000000,IP28 8XQ,2014-10-10,fhrs_4_en-GB,4,,FHRS,10
-17732,14 Bennett Road,Red Lodge,Suffolk,,Red Lodge Post Office,Retailers - other,4613,10,,161065,10,,52.30352000000000,PI/000000950,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49350800000000,IP28 8JT,2013-05-01,fhrs_3_en-GB,3,,FHRS,10
-17733,Red Lodge Steak House,70 Turnpike Road,Red Lodge,Suffolk,Red Lodge Steakhouse and Bar,Pub/bar/nightclub,7843,5,,168468,5,,52.30272200000000,PI/000013250,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48403200000000,IP28 8LB,2012-11-20,fhrs_5_en-GB,5,,FHRS,5
-17734,15 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Rhubarb,Restaurant/Cafe/Canteen,1,0,,564220,5,,52.24480900000000,PI/000047076,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40557000000000,CB8 8EQ,2013-06-18,fhrs_5_en-GB,5,,FHRS,0
-17735,77 High Street,Lakenheath,Suffolk,,Rising Star Chinese Takeaway,Takeaway/sandwich shop,7844,5,,163980,10,,52.41364100000000,PI/000005669,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52186400000000,IP27 9EW,2014-07-30,fhrs_4_en-GB,4,,FHRS,5
-17736,Kiosk,High Street,Newmarket,Suffolk,Roberto's Ices,Retailers - other,4613,5,,177956,5,,52.24275800000000,PI/000044506,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40309800000000,,2013-05-03,fhrs_5_en-GB,5,,FHRS,5
-17737,Barton Mills Service Station,Fiveways,Barton Mills,Suffolk,Roc UK (Esso),Retailers - other,4613,0,,163116,0,,52.33839800000000,PI/000004213,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.53340500000000,IP28 6AE,2012-03-02,fhrs_4_en-GB,4,,FHRS,10
-17738,Field Road Service Station,Field Road,Mildenhall,Suffolk,Roc UK Ltd,Retailers - other,4613,0,,163036,0,,52.35358300000000,PI/000004116,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51374300000000,IP28 7AL,2014-02-11,fhrs_5_en-GB,5,,FHRS,5
-17739,Millford Service Station,Millford Service Area,Barton Mills,Suffolk,Rontec Millford Service Station,Retailers - other,4613,0,,166088,0,,52.33839800000000,PI/000008966,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.53340500000000,IP28 6AE,2013-11-26,fhrs_5_en-GB,5,,FHRS,0
-17740,BP Filling Station,The Rowley Mile Services,Newmarket,Suffolk,Rowley Mile Connect 3118,Retailers - other,4613,0,,175152,0,,52.24946700000000,PI/000031306,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36417000000000,CB8 0XG,2014-10-14,fhrs_5_en-GB,5,,FHRS,5
-17741,97 London Road,Brandon,Suffolk,,Royal British Legion Club Ltd,Pub/bar/nightclub,7843,10,,165229,5,,52.44635600000000,PI/000007679,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62099500000000,IP27 0EL,2011-02-04,fhrs_4_en-GB,4,,FHRS,5
-17742,Post Office,103 High Street,Newmarket,Suffolk,Royal Mail,Retailers - other,4613,,,410070,,,52.24275800000000,PI/000005762,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40427200000000,CB8 8JJ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-17743,Golf Links Road,Worlington,Suffolk,,Royal Worlington and Newmarket Golf Club,Restaurant/Cafe/Canteen,1,5,,163459,5,,52.33193000000000,PI/000004778,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48994000000000,IP28 8SD,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-17744,11 Oxford Street,Exning,Suffolk,,Rumbles,Takeaway/sandwich shop,7844,0,,166353,5,,52.26598300000000,PI/000009396,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36881500000000,CB8 7EW,2013-08-16,fhrs_5_en-GB,5,,FHRS,5
-17745,12B High Street,Mildenhall,Suffolk,,Rumbles,Takeaway/sandwich shop,7844,,,163995,,,52.34378700000000,PI/000005699,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50926700000000,IP28 7EQ,2014-06-18,fhrs_5_en-GB,5,,FHRS,
-17746,14 High Street,Newmarket,Suffolk,,Rumbles,Takeaway/sandwich shop,7844,5,,564206,5,,52.24505000000000,PI/000005807,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2013-08-27,fhrs_5_en-GB,5,,FHRS,0
-17747,The Rutland Arms Hotel,33 High Street,Newmarket,Suffolk,Rutland Arms Hotel,Hotel/bed & breakfast/guest house,7842,5,,164163,5,,52.24439300000000,PI/000005897,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40745200000000,CB8 8NB,2014-09-02,fhrs_5_en-GB,5,,FHRS,5
-17748,Recreation Way,Mildenhall,Suffolk,,Sainsburys,Retailers - supermarkets/hypermarkets,7840,0,,177839,0,,52.34176100000000,PI/000043867,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51402700000000,IP28 7HG,2014-07-02,fhrs_5_en-GB,5,,FHRS,0
-17749,Tattersalls,The Avenue,Newmarket,Suffolk,Sale Ring Bar,Pub/bar/nightclub,7843,5,,178085,5,,52.24141100000000,PI/000045115,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40106500000000,CB8 9AU,2012-10-08,fhrs_5_en-GB,5,,FHRS,5
-17750,Mobile Trader,Newmarket Business Park,Studlands Park Avenue,Newmarket,Sam's,Mobile caterer,7846,5,,177421,5,,52.26123200000000,PI/000042163,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39082200000000,CB8 7ER,2013-10-14,fhrs_5_en-GB,5,,FHRS,5
-17751,Sandhurst,14 Cardigan Street,Newmarket,Suffolk,Sandhurst B&B,Hotel/bed & breakfast/guest house,7842,5,,161647,5,,52.24096000000000,PI/000001700,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40733900000000,CB8 8HZ,2009-09-17,fhrs_5_en-GB,5,,FHRS,5
-17752,Village Hall,Marks Lane,Santon Downham,Suffolk,Santon Downham Community Centre,Other catering premises,7841,,,167109,,,52.45654400000000,PI/000010776,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.66445100000000,IP27 0TW,2012-02-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-17753,Tattersalls,The Avenue,Newmarket,Suffolk,Satellite,Restaurant/Cafe/Canteen,1,0,,178084,5,,52.24141100000000,PI/000045114,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40106500000000,CB8 9AU,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-17754,63A High Street,Newmarket,Suffolk,,Savers Health and Beauty,Retailers - other,4613,,,164195,,,52.24403900000000,PI/000005941,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40671500000000,CB8 8NA,2009-02-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-17755,21 London Road,Brandon,Suffolk,,Sea Star,Takeaway/sandwich shop,7844,5,,564209,0,,52.44639200000000,PI/000007695,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62102700000000,IP27 0EL,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-17756,St Aubyns,Wellington Street,Newmarket,Suffolk,Seafields Fostering Ltd,Other catering premises,7841,5,,168755,5,,52.24431600000000,PI/000013778,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40416600000000,CB8 0HT,2009-10-21,fhrs_5_en-GB,5,,FHRS,5
-17757,The Seahorse,Vicarage Road,Newmarket,Suffolk,Seahorse Takeaway,Takeaway/sandwich shop,7844,5,,564222,5,,52.24294700000000,PI/000100845,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41176800000000,CB8 8HP,2014-01-03,fhrs_4_en-GB,4,,FHRS,10
-17758,Mildenhall Social And Bowls Club,Recreation Way,Mildenhall,Suffolk,Shanes Diner,Restaurant/Cafe/Canteen,1,10,,704125,5,,52.34176100000000,PI/000051237,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51402700000000,IP28 7HG,2014-09-23,fhrs_4_en-GB,4,,FHRS,5
-17759,5 Sam Alper Court,Depot Road,Newmarket,Suffolk,Shanghai Express UK Ltd,Takeaway/sandwich shop,7844,10,,162454,5,,52.25695900000000,PI/000002946,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39485600000000,CB8 0GS,2013-11-20,fhrs_4_en-GB,4,,FHRS,5
-17760,22 Putney Close,Brandon,Suffolk,,Shefs,Other catering premises,7841,5,,323722,5,,52.43709000000000,PI/000041815,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60532000000000,IP27 0PA,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-17761,220 High Street,Newmarket,Suffolk,,Shell Newmarket,Retailers - other,4613,5,,164143,5,,52.24148100000000,PI/000005882,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39895900000000,CB8 9AP,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-17762,,,,,Simply Spuds,Mobile caterer,7846,5,,664924,5,,,PI/000047992,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-04-30,fhrs_5_en-GB,5,,FHRS,5
-17763,7 King Street,Mildenhall,Suffolk,,Snushalls,Restaurant/Cafe/Canteen,1,0,,164731,0,,52.34332400000000,PI/000006806,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51283800000000,IP28 7EZ,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-17764,33-35 High Street,Brandon,Suffolk,,Spar,Retailers - other,4613,10,,163877,5,,52.44852516000000,PI/000005489,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62358497000000,,2013-12-13,fhrs_3_en-GB,3,,FHRS,10
-17765,The Seahorse,Vicarage Road,Newmarket,Suffolk,Spar,Takeaway/sandwich shop,7844,5,,168571,5,,52.24294700000000,PI/000013425,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41176800000000,CB8 8HP,2014-03-03,fhrs_5_en-GB,5,,FHRS,5
-17766,32 High Street,Mildenhall,Suffolk,,Spice Lounge,Restaurant/Cafe/Canteen,1,5,,164007,5,,52.34231200000000,PI/000005720,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51010900000000,IP28 7EA,2014-04-10,fhrs_5_en-GB,5,,FHRS,5
-17767,18 Highwood Road,Gazeley,Suffolk,,Spitfire Grill Bar,Mobile caterer,7846,5,,164360,5,,52.24618700000000,PI/000006166,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51710100000000,CB8 8RJ,2013-06-25,fhrs_5_en-GB,5,,FHRS,5
-17768,Elveden Forest Holiday Village,Brandon Road,Elveden,,Sports Cafe,Restaurant/Cafe/Canteen,1,0,,174578,0,,52.44646900000000,PI/000029519,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-17769,Hundred Acre Way,Red Lodge,Suffolk,,Sports Pavilion,Other catering premises,7841,10,,212951,5,,52.33188000000000,PI/000046357,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.55233900000000,IP28 8XR,2012-02-03,fhrs_4_en-GB,4,,FHRS,0
-17770,Elveden Forest Holiday Village,Brandon Road,Elveden,Suffolk,Sports Plaza,Retailers - other,4613,,,161764,,,52.39273200000000,PI/000001852,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.64331900000000,IP24 3TR,2011-12-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-17771,13 St Andrews Street,Mildenhall,Suffolk,,St Andrews Cafe,Restaurant/Cafe/Canteen,1,0,,167313,0,,52.34247500000000,PI/000011181,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51091100000000,IP28 7HB,2014-10-15,fhrs_5_en-GB,5,,FHRS,5
-17772,Bellflower Crescent,Red Lodge,Suffolk,,St Christophers CEVCP School,School/college/university,7845,0,,455412,0,,52.33188000000000,PI/000046335,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.55233900000000,IP28 8XQ,2014-04-25,fhrs_5_en-GB,5,,FHRS,0
-17773,Boundary Road,Red Lodge,Suffolk,,St Christophers Church,Other catering premises,7841,5,,183472,5,,52.30739500000000,PI/000100024,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49356500000000,IP28 8JQ,2011-03-29,fhrs_5_en-GB,5,,FHRS,5
-17774,St Christophers Church,Boundary Road,Red Lodge,Suffolk,St Christophers Robins,Hospitals/Childcare/Caring Premises,5,,,682013,,,52.30739500000000,PI/000101243,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49356500000000,IP28 8JQ,2014-07-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-17775,St Johns Street,Beck Row,Suffolk,,St Johns Church,Other catering premises,7841,,,167467,,,52.36551100000000,PI/000011498,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.49278300000000,IP28 8AA,2013-11-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-17776,Fordham Road,Newmarket,Suffolk,,St Louis Catholic Academy,School/college/university,7845,0,,163227,0,,52.24945500000000,PI/000004372,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40747700000000,CB8 7AA,2014-01-21,fhrs_5_en-GB,5,,FHRS,5
-17777,The Street,Barton Mills,Suffolk,,St Marys Church,Other catering premises,7841,,,168137,,,52.33552200000000,PI/000012612,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52844300000000,,2014-03-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-17778,Trinity Avenue,Mildenhall,Suffolk,,St Marys CofE Academy,School/college/university,7845,5,,166214,5,,52.34797800000000,PI/000009176,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51302900000000,IP28 7LR,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-17779,Osborne House,Moulton Road,Newmarket,Suffolk,Stable Lads Hostel,Hotel/bed & breakfast/guest house,7842,5,,165886,10,,52.24557300000000,PI/000008663,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41172000000000,CB8 8DU,2014-05-14,fhrs_4_en-GB,4,,FHRS,5
-17780,Animal Health Trust,Moulton,Suffolk,,Stable Yard Coffee Shop,Restaurant/Cafe/Canteen,1,5,,481888,0,,52.26755900000000,PI/000046883,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48285600000000,CB8 7UU,2014-06-26,fhrs_5_en-GB,5,,FHRS,0
-17781,Elveden Forest Holiday Village Brandon Road,Elveden,Suffolk,,Staff Canteen,Restaurant/Cafe/Canteen,1,0,,176929,0,,52.23170471191406,PI/000039863,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,1.08654403686523,IP24 3TY,2013-08-20,fhrs_5_en-GB,5,,FHRS,5
-17782,Subtropical Swimming Paradise,Brandon Road,Elveden,Suffolk,Starbucks,Restaurant/Cafe/Canteen,1,,,358898,,,52.39273200000000,PI/000046662,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.64331900000000,IP24 3TR,2013-08-06,fhrs_5_en-GB,5,,FHRS,
-17783,The Rowley Mile Services,Newmarket,Suffolk,,Starbuck's A14,Restaurant/Cafe/Canteen,1,0,,564211,5,,,PI/000008959,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2013-06-07,fhrs_5_en-GB,5,,FHRS,5
-17784,Elveden Forest Holiday Village,Brandon Road,Elveden,Suffolk,Starbucks Lakeside,Restaurant/Cafe/Canteen,1,0,,178036,0,,52.44646900000000,PI/000044852,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-07-30,fhrs_5_en-GB,5,,FHRS,0
-17785,Elveden Forest Holiday Village,Brandon Road,Elveden,Suffolk,Starbucks Plaza,Restaurant/Cafe/Canteen,1,0,,177426,0,,52.44646900000000,PI/000042177,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.75072800000000,IP24 3TY,2013-07-30,fhrs_5_en-GB,5,,FHRS,5
-17786,81 High Street,Newmarket,Suffolk,,Street Cafe Restaurant,Restaurant/Cafe/Canteen,1,0,,164226,5,,52.24333700000000,PI/000005964,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40499200000000,CB8 8JH,2014-06-24,fhrs_5_en-GB,5,,FHRS,0
-17787,Unit 5,The Centre,Brickfields Avenue,Newmarket,Studlands House Takeaway,Takeaway/sandwich shop,7844,10,,161287,10,,52.26313000000000,PI/000001278,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38498900000000,CB8 7RX,2013-05-16,fhrs_3_en-GB,3,,FHRS,10
-17788,Hyperion Way,Newmarket,Suffolk,,Studlands Park Sports Club,Restaurant/Cafe/Canteen,1,,,164499,,,52.26313000000000,PI/000006418,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38498900000000,CB8 7RX,,fhrs_exempt_en-GB,Exempt,,FHRS,
-17789,6 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Subway,Other catering premises,7841,5,,664917,5,,52.24480900000000,PI/000012490,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40557000000000,CB8 8EQ,2014-06-19,fhrs_5_en-GB,5,,FHRS,5
-17790,83 High Street,Newmarket,Suffolk,,Subway - Best One,Retailers - other,4613,,,564221,,,52.24333700000000,PI/000100731,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40499200000000,CB8 8JH,2014-05-27,fhrs_4_en-GB,4,,FHRS,
-17791,The Rowley Mile Services,Newmarket,Suffolk,,Subway A14,Takeaway/sandwich shop,7844,5,,719181,0,,52.24946700000000,PI/000051322,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36417000000000,CB8 0XG,2014-10-14,fhrs_5_en-GB,5,,FHRS,0
-17792,13 Market Place,Mildenhall,Suffolk,,Sue Ryder,Retailers - other,4613,,,481874,,,52.34329200000000,PI/000008111,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,,fhrs_exempt_en-GB,Exempt,,FHRS,
-17793,"Caravan, Key End",66A High Street,Lakenheath,Suffolk,Suffolk Premier Catering,Mobile caterer,7846,5,,178029,10,,52.41601100000000,PI/000044818,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51908800000000,IP27 9DS,2013-10-09,fhrs_4_en-GB,4,,FHRS,5
-17794,74 High Street,Lakenheath,Suffolk,,Sumo Noodles,Restaurant/Cafe/Canteen,1,,,608702,,,52.41601100000000,PI/000005666,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51908800000000,IP27 9DS,2014-01-13,fhrs_5_en-GB,5,,FHRS,
-17795,33A Market Place,Mildenhall,Suffolk,,Sumo Sushi,Restaurant/Cafe/Canteen,1,10,,190117,10,,52.34329200000000,PI/000008129,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2014-09-23,fhrs_2_en-GB,2,,FHRS,15
-17796,70 Exning Road,Newmarket,Suffolk,,Sunlight Fish & Chip Chinese Takeaway,Takeaway/sandwich shop,7844,,,162909,,,52.25046400000000,PI/000003904,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39853600000000,CB8 0AB,2014-04-17,fhrs_4_en-GB,4,,FHRS,
-17797,Assembly of God Abundant Life Church,Back Street,Lakenheath,Suffolk,Sunshine Corner Day Nursery,Hospitals/Childcare/Caring Premises,5,10,,160839,10,,52.41639900000000,PI/000000687,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52068300000000,IP27 9HF,2013-10-10,fhrs_4_en-GB,4,,FHRS,0
-17798,64 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,Superdrug,Retailers - other,4613,5,,168026,5,,52.24545400000000,PI/000012453,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40610300000000,CB8 8HT,2012-01-30,fhrs_5_en-GB,5,,FHRS,5
-17799,2 Vicarage Gardens,Mildenhall,Suffolk,,Sweet Affairs,Other catering premises,7841,0,,608708,0,,52.34420800000000,PI/000024489,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50678000000000,IP28 7RW,2013-10-23,fhrs_5_en-GB,5,,FHRS,0
-17800,4 Market Street,Newmarket,Suffolk,,Sweet Memories,Retailers - other,4613,5,,173056,5,,52.24433075000000,PI/000024804,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40635174000000,,2009-03-26,fhrs_5_en-GB,5,,FHRS,5
-17801,Heath House,Field Road,Mildenhall,Suffolk,Sweet Occasion,Other catering premises,7841,5,,627815,5,,52.35358300000000,PI/000004119,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51374300000000,IP28 7AL,2013-12-17,fhrs_5_en-GB,5,,FHRS,5
-17802,5 Station Way,Brandon,Suffolk,,T & W Wines,Distributors/Transporters,7,,,169589,,,52.45290500000000,PI/000015451,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62209100000000,IP27 0BH,2009-03-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-17803,18 Studlands Park Avenue,Newmarket,Suffolk,,Taste of Hungary,Mobile caterer,7846,5,,664919,5,,52.26285900000000,PI/000033663,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39350400000000,CB8 7EA,2014-04-04,fhrs_5_en-GB,5,,FHRS,5
-17804,11-11A High Street,Mildenhall,Suffolk,,Taste of Italia,Restaurant/Cafe/Canteen,1,5,,671566,10,,52.34378700000000,PI/000100555,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50926700000000,IP28 7EQ,2014-10-23,fhrs_4_en-GB,4,,FHRS,0
-17805,Broadlands Farm,The Green,West Row,Suffolk,Taste of Italia,Retailers - other,4613,0,,481877,0,,52.36110100000000,PI/000012257,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.44429900000000,IP28 8QJ,2013-05-14,fhrs_5_en-GB,5,,FHRS,0
-17806,2 Elizabeth Avenue,Newmarket,Suffolk,,Tasty Food,Takeaway/sandwich shop,7844,5,,162644,5,,52.25291100000000,PI/000003307,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.38920200000000,CB8 0DJ,2013-09-18,fhrs_4_en-GB,4,,FHRS,10
-17807,15 Armstrong Close,Newmarket,Suffolk,,Teacups and Saucers,Other catering premises,7841,5,,175610,5,,52.24257900000000,PI/000033211,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41437000000000,CB8 8HD,2012-01-16,fhrs_5_en-GB,5,,FHRS,0
-17808,Costa Cafe,Fordham Road,Newmarket,Suffolk,Tesco Customer Cafe,Restaurant/Cafe/Canteen,1,0,,176609,0,,52.26007000000000,PI/000038063,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39753000000000,CB8 7AH,2013-01-23,fhrs_5_en-GB,5,,FHRS,5
-17809,Fordham Road,Newmarket,Suffolk,,Tesco Stores Ltd,Retailers - supermarkets/hypermarkets,7840,0,,163242,0,,52.26007000000000,PI/000004383,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39753000000000,CB8 7AH,2013-08-09,fhrs_5_en-GB,5,,FHRS,5
-17810,London Road,Brandon,Suffolk,,Tesco Stores Ltd,Retailers - supermarkets/hypermarkets,7840,0,,165252,5,,52.44415100000000,PI/000007711,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61823000000000,IP27 0LD,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-17811,28 High Street,Newmarket,Suffolk,,Thai Street Cafe,Restaurant/Cafe/Canteen,1,5,,164150,10,,52.24505000000000,PI/000005888,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2013-08-07,fhrs_4_en-GB,4,,FHRS,5
-17812,,,,,Thai Street Cafe,Mobile caterer,7846,0,,178094,5,,,PI/000045146,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-17813,1 Brookside,Dalham,Suffolk,,The Affleck Arms,Pub/bar/nightclub,7843,0,,161332,0,,52.22605100000000,PI/000001320,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52012100000000,CB8 8TG,2013-11-01,fhrs_5_en-GB,5,,FHRS,0
-17814,5 Market Place,Mildenhall,Suffolk,,The Baker,Retailers - other,4613,5,,177973,5,,52.34329200000000,PI/000044606,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-17815,Bell Lane,Barton Mills,Suffolk,,The Bell,Pub/bar/nightclub,7843,5,,161056,5,,52.33460300000000,PI/000000933,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52122500000000,IP28 6AJ,2012-03-28,fhrs_5_en-GB,5,,FHRS,5
-17816,Bell Inn,48 High Street,Brandon,Suffolk,The Bell Public House,Pub/bar/nightclub,7843,10,,163886,5,,52.44845500000000,PI/000005507,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2014-06-13,fhrs_4_en-GB,4,,FHRS,5
-17817,The Street,Beck Row,Suffolk,,The Bird In Hand Hotel,Hotel/bed & breakfast/guest house,7842,0,,168298,5,,52.37206200000000,PI/000012913,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.47799000000000,IP28 8ES,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-17818,76 High Street,Brandon,Suffolk,,The Brandon Brewery,Manufacturers/packers,7839,0,,169719,5,,52.44968600000000,PI/000015797,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62372500000000,IP27 0AU,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-17819,Brewers Tap,54 High Street,Lakenheath,Suffolk,The Brewers Tap Public House,Pub/bar/nightclub,7843,5,,163968,5,,52.41601100000000,PI/000005649,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51908800000000,IP27 9DS,2013-04-03,fhrs_4_en-GB,4,,FHRS,10
-17820,The Street,Barton Mills,Suffolk,,The Bull Inn,Hotel/bed & breakfast/guest house,7842,0,,160908,5,,52.33588300000000,PI/000000781,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52567200000000,IP28 6AA,2013-07-10,fhrs_5_en-GB,5,,FHRS,5
-17821,Bull Inn,62 High Street,Newmarket,Suffolk,The Bull Public House,Pub/bar/nightclub,7843,0,,164194,5,,52.24522900000000,PI/000005939,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40787800000000,CB8 8LB,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-17822,Bushel Inn,Market Street,Newmarket,Suffolk,The Bushel,Pub/bar/nightclub,7843,5,,165565,5,,52.24452900000000,PI/000008180,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40606700000000,CB8 8EE,2014-01-15,fhrs_5_en-GB,5,,FHRS,5
-17823,71 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,The Card Factory,Retailers - other,4613,,,358896,,,52.24545400000000,PI/000012503,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40610300000000,CB8 8HT,2012-04-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-17824,20 The Street,Eriswell,Suffolk,,The Chequers,Pub/bar/nightclub,7843,0,,168196,5,,52.37357100000000,PI/000012704,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.53067300000000,IP27 9BH,2013-10-03,fhrs_5_en-GB,5,,FHRS,5
-17825,The Green,Gazeley,Suffolk,,The Chequers Inn,Pub/bar/nightclub,7843,5,,167873,5,,52.24797058105469,PI/000012221,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51733416318893,CB8 8RF,2011-04-21,fhrs_5_en-GB,5,,FHRS,5
-17826,The Cherry Tree,117 Exning Road,Newmarket,Suffolk,The Cherry Tree Public House,Pub/bar/nightclub,7843,10,,162835,10,,52.25194100000000,PI/000003740,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39577300000000,CB8 0EL,2014-07-24,fhrs_3_en-GB,3,,FHRS,5
-17827,The Street,Icklingham,Suffolk,,The Community Centre,Other catering premises,7841,,,168241,,,52.32563600000000,PI/000012794,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.59967400000000,IP28 6PS,2013-12-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-17828,14 Crown Walk,Newmarket,Suffolk,,The Eagle Polish Deli,Retailers - other,4613,5,,162395,0,,52.24545600000000,PI/000002845,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40822700000000,CB8 8NG,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-17829,Quakers End,18A The Street,Holywell Row,Beck Row,The Eating Place,Mobile caterer,7846,5,,168321,5,,52.36680900000000,PI/000012959,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50619500000000,IP28 8LS,2014-03-03,fhrs_5_en-GB,5,,FHRS,5
-17830,12 Market Place,Mildenhall,Suffolk,,The Factory Shop,Retailers - other,4613,10,,165494,5,,52.34329200000000,PI/000008109,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2008-11-17,fhrs_4_en-GB,4,,FHRS,5
-17831,20 St Andrews Street,Mildenhall,Suffolk,,The Fat Ox Catering,Mobile caterer,7846,5,,358894,5,,52.34247500000000,PI/000011188,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51091100000000,IP28 7HB,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-17832,1-3 Market Hill,Brandon,Suffolk,,The Flintknappers Public House,Pub/bar/nightclub,7843,5,,323719,10,,52.44733900000000,PI/000008070,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62414400000000,IP27 0AA,2014-06-09,fhrs_4_en-GB,4,,FHRS,5
-17833,London Road,Brandon,Suffolk,,the Flowerpot,Other catering premises,7841,,,165253,,,52.44656900000000,PI/000007712,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62030200000000,IP27 0HY,2012-01-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-17834,182 High Street,Newmarket,Suffolk,,The Fountain Restaurant,Restaurant/Cafe/Canteen,1,10,,164118,10,,52.24148100000000,PI/000005850,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39895900000000,CB8 9AP,2014-06-13,fhrs_3_en-GB,3,,FHRS,10
-17835,The Street,Freckenham,Suffolk,,The Golden Boar Inn,Pub/bar/nightclub,7843,5,,168202,5,,52.32119300000000,PI/000012722,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.44218700000000,IP28 8HZ,2014-05-23,fhrs_4_en-GB,4,,FHRS,10
-17836,8A The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,The Golden Bowl,Takeaway/sandwich shop,7844,10,,168069,10,,52.24480900000000,PI/000012510,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40557000000000,CB8 8EQ,2014-10-28,fhrs_3_en-GB,3,,FHRS,10
-17837,44 High Street,Newmarket,Suffolk,,The Golden Lion Public House,Pub/bar/nightclub,7843,0,,164185,0,,52.24505000000000,PI/000005920,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2014-04-14,fhrs_5_en-GB,5,,FHRS,0
-17838,Howard De Walden Way,Newmarket,Suffolk,,The Hawthorns,Restaurant/Cafe/Canteen,1,,,164488,,,52.24892400000000,PI/000006399,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40396100000000,CB8 0FB,2007-11-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-17839,Moulton Road,Newmarket,Suffolk,,The Horseshoes,Pub/bar/nightclub,7843,5,,165888,5,,52.24557300000000,PI/000008666,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41172000000000,CB8 8DU,2014-02-14,fhrs_5_en-GB,5,,FHRS,5
-17840,Exning House,Beech House,Fordham Road,Exning,The Huntercombe Group,Hospitals/Childcare/Caring Premises,5,5,,163194,5,,52.27282800000000,PI/000004326,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39144600000000,CB8 7LF,2014-08-15,fhrs_5_en-GB,5,,FHRS,5
-17841,The Cock Inn,Bury Road,Kentford,Suffolk,The Kentford,Pub/bar/nightclub,7843,5,,161539,0,,52.27243000000000,PI/000001568,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50302100000000,CB8 7PR,2013-08-15,fhrs_4_en-GB,4,,FHRS,10
-17842,40 The Street,Beck Row,Suffolk,,The Kings Head Public House,Pub/bar/nightclub,7843,10,,168282,10,,52.36889900000000,PI/000012882,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48643600000000,IP28 8AE,2014-02-11,fhrs_3_en-GB,3,,FHRS,5
-17843,124 High Street,Lakenheath,Suffolk,,The Lakenheath Hotel,Hotel/bed & breakfast/guest house,7842,10,,163933,5,,52.41364100000000,PI/000005580,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52186400000000,IP27 9EW,2012-10-11,fhrs_4_en-GB,4,,FHRS,5
-17844,32 High Street,Newmarket,Suffolk,,The Lancer,Restaurant/Cafe/Canteen,1,5,,164160,5,,52.24505000000000,PI/000005896,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2013-10-04,fhrs_4_en-GB,4,,FHRS,10
-17845,The Pavilion,Recreation Way,Mildenhall,Suffolk,The Lark Children Centre,Hospitals/Childcare/Caring Premises,5,,,178255,,,52.34176100000000,PI/000046051,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51402700000000,IP28 7HG,2013-04-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-17846,Valley Way Post Office,84 Valley Way,Newmarket,Suffolk,The Lime Indian Takeaway,Takeaway/sandwich shop,7844,5,,168565,10,,52.24503800000000,PI/000013410,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39250000000000,CB8 0QL,2013-11-20,fhrs_4_en-GB,4,,FHRS,5
-17847,,,,,The Macaron Atelier,Other catering premises,7841,5,,704120,5,,,PI/000024938,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-08-08,fhrs_5_en-GB,5,,FHRS,5
-17848,55 Crown Street,Brandon,Suffolk,,The Mobile Stone Baked Pizza Kitchen,Mobile caterer,7846,5,,162369,5,,52.44202200000000,PI/000002815,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60514000000000,IP27 0JT,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-17849,Old Barn Cottages Little Paddocks,Mildenhall Drove,Kenny Hill,Beck Row,The National Autistic Society,Hospitals/Childcare/Caring Premises,5,5,,164629,5,,52.38221600000000,PI/000006668,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45857300000000,IP28 8DS,2008-11-13,fhrs_5_en-GB,5,,FHRS,5
-17850,The New Wellington,81 Cheveley Road,Newmarket,Suffolk,The New Wellington Public House,Pub/bar/nightclub,7843,5,,161928,5,,52.24173400000000,PI/000002044,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41918800000000,CB8 8AD,2013-10-10,fhrs_5_en-GB,5,,FHRS,5
-17851,7 High Street,Newmarket,Suffolk,,The News Box Newsagents,Retailers - other,4613,5,,164206,5,,52.24502500000000,PI/000005949,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40862900000000,CB8 8LX,2006-03-21,fhrs_5_en-GB,5,,FHRS,5
-17852,West View,Hurdle Drove,West Row,Suffolk,The Nook Catering,Mobile caterer,7846,5,,164497,5,,52.36276000000000,PI/000006416,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45971100000000,IP28 8RB,2014-09-21,fhrs_5_en-GB,5,,FHRS,5
-17853,London Road,Brandon,Suffolk,,The Original Factory Shop,Retailers - other,4613,10,,177401,0,,52.44133300000000,PI/000042042,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61066200000000,IP27 0LX,2009-06-22,fhrs_4_en-GB,4,,FHRS,0
-17854,1 The Island,Fred Archer Way,Newmarket,Suffolk,The Ormonde Table Table,Pub/bar/nightclub,7843,0,,178201,5,,52.21371800000000,PI/000045818,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.44008500000000,CB8 8FF,2013-06-11,fhrs_5_en-GB,5,,FHRS,0
-17855,Bridge Street,Moulton,Suffolk,,The Packhorse Inn,Pub/bar/nightclub,7843,0,,161320,0,,52.25283200000000,PI/000001306,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48446600000000,CB8 8SP,2013-10-28,fhrs_5_en-GB,5,,FHRS,0
-17856,122 Valley Way,Newmarket,Suffolk,,The Palomino Public House,Pub/bar/nightclub,7843,5,,168535,10,,52.24583500000000,PI/000013360,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39047800000000,CB8 0QQ,2014-10-29,fhrs_4_en-GB,4,,FHRS,5
-17857,17-18 The Guineas Shopping Centre,The Rookery,Newmarket,Suffolk,The Pantry Fine Food & Tea Room,Restaurant/Cafe/Canteen,1,5,,168033,5,,52.24480900000000,PI/000012460,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40557000000000,CB8 8EQ,2014-10-27,fhrs_4_en-GB,4,,FHRS,10
-17858,62 The Street,Icklingham,Suffolk,,The Plough Inn,Pub/bar/nightclub,7843,10,,168244,5,,52.32243800000000,PI/000012800,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60399200000000,IP28 6PL,2010-03-19,fhrs_3_en-GB,3,,FHRS,10
-17859,P And H,42 High Street,Lakenheath,Suffolk,The Post Office Tea Rooms,Restaurant/Cafe/Canteen,1,5,,627822,10,,52.41601100000000,PI/000047276,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51908800000000,IP27 9DS,2014-01-20,fhrs_4_en-GB,4,,FHRS,5
-17860,Prince Of Wales,70 All Saints Road,Newmarket,Suffolk,The Prince of Wales Public House,Pub/bar/nightclub,7843,5,,160612,5,,52.24189900000000,PI/000000334,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.41241400000000,CB8 8HF,2014-06-13,fhrs_4_en-GB,4,,FHRS,10
-17861,Riverside House Hotel,17 Mill Street,Mildenhall,Suffolk,The Riverside House Hotel,Hotel/bed & breakfast/guest house,7842,5,,165797,5,,52.34177500000000,PI/000008506,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50871300000000,IP28 7DP,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-17862,15 Church Street,Exning,Suffolk,,The Rosery Country House Hotel,Hotel/bed & breakfast/guest house,7842,5,,162084,10,,52.26458900000000,PI/000002329,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.37507200000000,CB8 7EH,2014-10-07,fhrs_4_en-GB,4,,FHRS,5
-17863,5 Market Street,Newmarket,Suffolk,,The Sandwich Mill,Takeaway/sandwich shop,7844,0,,165556,5,,52.24452900000000,PI/000008173,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40606700000000,CB8 8EE,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-17864,65 High Street,Newmarket,Suffolk,,The Stable,Restaurant/Cafe/Canteen,1,5,,164200,5,,52.24403900000000,PI/000005945,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40671500000000,CB8 8NA,2013-07-12,fhrs_5_en-GB,5,,FHRS,0
-17865,Main Kitchen,Elveden Forest Holiday Village,Brandon Road,Elveden,The Venue & Main Kitchen,Restaurant/Cafe/Canteen,1,0,,169428,0,,52.39757000000000,PI/000015071,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.65513000000000,,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-17866,The Street,Herringswell,Suffolk,,The Village Hall,Other catering premises,7841,,,564212,,,52.30150300000000,PI/000012761,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52160200000000,IP28 6ST,2013-05-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-17867,The Street,Worlington,Suffolk,,The Walnut Tree,Pub/bar/nightclub,7843,5,,168263,5,,52.33491600000000,PI/000012863,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48394200000000,IP28 8RU,2014-06-11,fhrs_5_en-GB,5,,FHRS,5
-17868,45 Chapel Street,Exning,Suffolk,,The Wheatsheaf Inn,Pub/bar/nightclub,7843,10,,161832,5,,52.26341300000000,PI/000001927,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.37049500000000,CB8 7HA,2014-10-17,fhrs_4_en-GB,4,,FHRS,5
-17869,High Street,Tuddenham,Suffolk,,The White Hart,Pub/bar/nightclub,7843,,,164281,,,52.31626100000000,PI/000006053,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.54330700000000,IP28 6SQ,2014-07-01,fhrs_5_en-GB,5,,FHRS,
-17870,The White Horse,23 Church Street,Exning,Suffolk,The White Horse Inn,Pub/bar/nightclub,7843,5,,162086,5,,52.26458900000000,PI/000002334,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.37507200000000,CB8 7EH,2014-02-17,fhrs_4_en-GB,4,,FHRS,10
-17871,216 High Street,Newmarket,Suffolk,,The White Lion,Pub/bar/nightclub,7843,10,,247543,5,,52.24148100000000,PI/000005877,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39895900000000,CB8 9AP,2014-10-15,fhrs_2_en-GB,2,,FHRS,15
-17872,2 Oxford Street,Exning,Suffolk,,The White Swan Public House,Pub/bar/nightclub,7843,5,,166356,5,,52.26598300000000,PI/000009405,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.36881500000000,CB8 7EW,2014-07-28,fhrs_5_en-GB,5,,FHRS,5
-17873,The Yard,Grosvenor Yard,Newmarket,Suffolk,The Yard Public House,Pub/bar/nightclub,7843,5,,163596,5,,52.24283200000000,PI/000004964,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40240100000000,CB8 9AW,2011-05-13,fhrs_5_en-GB,5,,FHRS,5
-17874,122 High Street,Newmarket,Suffolk,,Thing Me Bobs,Retailers - other,4613,5,,164055,5,,52.24359400000000,PI/000005787,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40430300000000,CB8 8JP,2008-02-20,fhrs_5_en-GB,5,,FHRS,5
-17875,3 High Street,Tuddenham,Suffolk,,Tillbrooks Landscape Gardeners,Restaurant/Cafe/Canteen,1,,,719179,,,52.31626100000000,PI/000044365,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.54330700000000,IP28 6SQ,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-17876,15 High Street,Brandon,Suffolk,,Tilly's,Restaurant/Cafe/Canteen,1,5,,323718,5,,52.44845500000000,PI/000005461,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62326900000000,IP27 0AQ,2015-01-02,fhrs_5_en-GB,5,,FHRS,5
-17877,54-56 High Street,Newmarket,Suffolk,,Tindalls Newsagents & Booksellers,Retailers - other,4613,,,164188,,,52.24505000000000,PI/000005930,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2012-06-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-17878,31 High Street,Newmarket,Suffolk,,TK Maxx,Retailers - other,4613,,,164158,,,52.24502500000000,PI/000005895,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40862900000000,CB8 8LX,2010-02-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-17879,6A Holmsey Green,Beck Row,Suffolk,,Tokyo Oysy Sushi Bar,Restaurant/Cafe/Canteen,1,10,,212954,5,,52.37117300000000,PI/000006293,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48566800000000,IP28 8AJ,2013-10-16,fhrs_4_en-GB,4,,FHRS,5
-17880,67 Crown Street,Brandon,Suffolk,,Town Street Post Office,Retailers - other,4613,5,,162374,5,,52.44299000000000,PI/000002824,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60566800000000,IP27 0JU,2014-06-26,fhrs_5_en-GB,5,,FHRS,5
-17881,162A High Street,Newmarket,Suffolk,,Traditional Chinese Medicine,Restaurant/Cafe/Canteen,1,5,,164109,5,,52.24271600000000,PI/000005835,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40233600000000,CB8 9AQ,2012-09-06,fhrs_5_en-GB,5,,FHRS,5
-17882,108 Bury Road,Brandon,Suffolk,,Traditional Food,Mobile caterer,7846,5,,161456,0,,52.44406000000000,PI/000001465,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.62520000000000,IP27 0BT,2013-09-30,fhrs_5_en-GB,5,,FHRS,0
-17883,Jos Pantry,Tattersalls,The Avenue,Newmarket,Transport Cafe,Restaurant/Cafe/Canteen,1,5,,175495,5,,52.23714100000000,PI/000032612,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40366100000000,CB8 9BE,2014-07-08,fhrs_4_en-GB,4,,FHRS,10
-17884,Fiveways,Barton Mills,Suffolk,,Travelodge,Hotel/bed & breakfast/guest house,7842,,,163121,,,52.33839800000000,PI/000004219,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.53340500000000,IP28 6AE,2009-02-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-17885,154 High Street,Lakenheath,Suffolk,,Trawlers Catch,Takeaway/sandwich shop,7844,5,,455413,5,,52.41179300000000,PI/000046780,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52330300000000,IP27 9EP,2013-11-15,fhrs_5_en-GB,5,,FHRS,5
-17886,88B The Street,Beck Row,Suffolk,,Trawlers Catch,Takeaway/sandwich shop,7844,5,,445127,5,,52.37148500000000,PI/000046798,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48148400000000,IP28 8DH,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-17887,Breakfast And After School Club,St Louis Catholic Academy,Fordham Road,Newmarket,Tree Tops,Hospitals/Childcare/Caring Premises,5,5,,212952,0,,52.24945500000000,PI/000046373,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40747700000000,CB8 7AA,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-17888,High Street,Tuddenham,Suffolk,,Tuddenham Mill,Restaurant/Cafe/Canteen,1,0,,170371,0,,52.31626100000000,PI/000017433,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.54330700000000,IP28 6SQ,2013-10-09,fhrs_5_en-GB,5,,FHRS,5
-17889,Village Hall,High Street,Tuddenham,Suffolk,Tuddenham St Mary Village Hall,Other catering premises,7841,,,168250,,,52.31414400000000,PI/000012814,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.54600300000000,IP28 6SA,2014-01-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-17890,4-5 Crown Walk,Newmarket,Suffolk,,Turkuaz Restaurant,Restaurant/Cafe/Canteen,1,5,,162400,5,,52.24545600000000,PI/000002853,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40822700000000,CB8 8NG,2012-02-28,fhrs_5_en-GB,5,,FHRS,5
-17891,Church Lane,Newmarket,Suffolk,,Turner Hall,Other catering premises,7841,,,162005,,,52.24372700000000,PI/000002191,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40394400000000,CB8 0HL,2009-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-17892,Temple Bar,Sun Lane,Newmarket,Suffolk,Unique,Pub/bar/nightclub,7843,5,,167734,5,,52.24353600000000,PI/000012007,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40634100000000,,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-17893,Unit 2,Formula Drive,Newmarket,Suffolk,Unisurge International Limited,Restaurant/Cafe/Canteen,1,5,,212950,5,,52.21371800000000,PI/000045534,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.44008500000000,CB8 0BF,2013-11-18,fhrs_5_en-GB,5,,FHRS,5
-17894,94 High Street,Newmarket,Suffolk,,USA Chicken,Takeaway/sandwich shop,7844,5,,169608,5,,52.24421200000000,PI/000015489,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40571300000000,CB8 8JX,2013-05-09,fhrs_5_en-GB,5,,FHRS,5
-17895,78 Valley Way,Newmarket,Suffolk,,Valley Way Fish Shop,Takeaway/sandwich shop,7844,5,,168559,5,,52.24503800000000,PI/000013405,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39250000000000,CB8 0QL,2014-01-17,fhrs_4_en-GB,4,,FHRS,10
-17896,102 Valley Way,Newmarket,Suffolk,,Valley Way Stores,Retailers - other,4613,5,,168534,5,,52.24503800000000,PI/000013355,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.39250000000000,CB8 0QL,2014-04-11,fhrs_5_en-GB,5,,FHRS,5
-17897,10 Crown Walk,Newmarket,Suffolk,,Variety and Spice,Takeaway/sandwich shop,7844,10,,162390,10,,52.24545600000000,PI/000002840,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40822700000000,CB8 8NG,2014-06-19,fhrs_3_en-GB,3,,FHRS,10
-17898,,,,,Vieira Brewing Co,Manufacturers/packers,7839,5,,445125,5,,,PI/000033127,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-08-07,fhrs_4_en-GB,4,,FHRS,10
-17899,Elveden,Suffolk,,,Village Hall,Other catering premises,7841,,,165271,,,52.38830566406250,PI/000007731,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.67538881301880,IP24 3TJ,2013-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-17900,Mildenhall Road,Barton Mills,Suffolk,,Village Hall,Other catering premises,7841,,,160910,,,52.33503900000000,PI/000000782,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51765300000000,IP28 6BB,2010-05-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-17901,The Street,Gazeley,Suffolk,,Village Hall,Other catering premises,7841,,,168219,,,52.24724500000000,PI/000012746,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51850900000000,CB8 8RD,2013-01-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-17902,The Street,Worlington,Suffolk,,Village Hall,Other catering premises,7841,,,168260,,,52.33491600000000,PI/000012862,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48394200000000,IP28 8RU,2013-02-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-17903,The Street,Holywell Row,Beck Row,Suffolk,Village Hall,Other catering premises,7841,,,168322,,,52.36680900000000,PI/000012961,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50619500000000,IP28 8LS,2013-12-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-17904,The Street,Eriswell,Suffolk,,Village Hall,Other catering premises,7841,,,168193,,,52.37357100000000,PI/000012701,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.53067300000000,IP27 9BH,2010-02-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-17905,Village Hall,Beeches Road,West Row,Suffolk,Village Hall & Football Club,Other catering premises,7841,,,176894,,,52.35690100000000,PI/000039657,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45561100000000,IP28 8NY,2011-01-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-17906,The Post Office,Marks Lane,Santon Downham,Suffolk,Village Store,Retailers - other,4613,5,,167126,5,,52.45828400000000,PI/000010799,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.67103400000000,IP27 0TH,2012-02-28,fhrs_5_en-GB,5,,FHRS,5
-17907,Elveden Forest Holiday Village,Brandon Road,Elveden,Suffolk,Vitale Cafe Bar,Restaurant/Cafe/Canteen,1,0,,177850,0,,52.39273200000000,PI/000043948,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.64331900000000,IP24 3TR,2013-07-30,fhrs_5_en-GB,5,,FHRS,0
-17908,34-36 High Street,Newmarket,Suffolk,,Waggon And Horses Public House,Pub/bar/nightclub,7843,,,164167,,,52.24505000000000,PI/000005901,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40785400000000,CB8 8LB,2014-02-20,fhrs_5_en-GB,5,,FHRS,
-17909,Waitrose Ltd,Fred Archer Way,Newmarket,Suffolk,Waitrose Limited,Retailers - supermarkets/hypermarkets,7840,0,,169590,0,,52.24695300000000,PI/000015454,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40800100000000,CB8 8NY,2013-11-12,fhrs_5_en-GB,5,,FHRS,0
-17910,Brandon Road,Mildenhall,Suffolk,,Walkers Snack Bar,Takeaway/sandwich shop,7844,5,,161201,5,,52.33839800000000,PI/000001168,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.53340500000000,IP28 6AE,2013-04-19,fhrs_5_en-GB,5,,FHRS,5
-17911,27 Bury Road,Newmarket,Suffolk,,Warren Hill Cottage,Hotel/bed & breakfast/guest house,7842,5,,161567,5,,52.25489500000000,PI/000001596,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.42112000000000,CB8 7BY,2013-04-10,fhrs_5_en-GB,5,,FHRS,5
-17912,Unit 4,Brandon Business Centre,Putney Close,Brandon,Waterline Uk,Distributors/Transporters,7,5,,166645,5,,52.43709000000000,PI/000009938,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.60532000000000,IP27 0PA,2014-07-03,fhrs_5_en-GB,5,,FHRS,5
-17913,,,,,Wayside,Hotel/bed & breakfast/guest house,7842,5,,164782,5,,,PI/000006895,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2008-03-26,fhrs_5_en-GB,5,,FHRS,5
-17914,4A Market Place,Mildenhall,Suffolk,,Webbs,Takeaway/sandwich shop,7844,5,,165517,5,,52.34329200000000,PI/000008133,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-17915,Chapel Road,West Row,Suffolk,,West Row Baptist Chapel,Other catering premises,7841,,,161804,,,52.35525200000000,PI/000001900,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45794300000000,IP28 8PA,2013-12-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-17916,Beeches Road,West Row,Suffolk,,West Row Bowls Club,Other catering premises,7841,5,,161004,5,,52.35690100000000,PI/000000881,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45561100000000,IP28 8NY,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-17917,Beeches Road,West Row,Suffolk,,West Row Community Primary School,School/college/university,7845,0,,161014,5,,52.35690100000000,PI/000000895,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45561100000000,IP28 8NY,2013-11-25,fhrs_5_en-GB,5,,FHRS,5
-17918,35 Beeches Road,West Row,Suffolk,,West Row Village Store Ltd,Retailers - other,4613,0,,160983,0,,52.35834000000000,PI/000000866,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45821700000000,IP28 8NP,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-17919,New Road,Beck Row,Suffolk,,West Suffolk Golf Centre,Restaurant/Cafe/Canteen,1,5,,160959,5,,52.38221600000000,PI/000000845,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45857300000000,IP28 8DS,2013-08-29,fhrs_5_en-GB,5,,FHRS,5
-17920,4 Mill Street,Mildenhall,Suffolk,,White Eagle,Retailers - other,4613,0,,671559,5,,52.34177500000000,PI/000008519,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.50871300000000,IP28 7DP,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
-17921,White Hart Hotel,134 High Street,Newmarket,Suffolk,White Hart,Hotel/bed & breakfast/guest house,7842,0,,164068,5,,52.24359400000000,PI/000005804,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40430300000000,CB8 8JP,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-17922,29 High Street,Newmarket,Suffolk,,Wildwood Restaurant,Restaurant/Cafe/Canteen,1,0,,564207,0,,52.24502500000000,PI/000005889,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40862900000000,CB8 8LX,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-17923,32 St Andrews Street,Mildenhall,Suffolk,,Wilko Retail Ltd,Retailers - other,4613,0,,167316,0,,52.34247500000000,PI/000011195,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51091100000000,IP28 7HB,2011-05-23,fhrs_5_en-GB,5,,FHRS,0
-17924,20 Rowan Drive,Brandon,Suffolk,,Williams Ices,Retailers - other,4613,5,,169422,5,,52.44356600000000,PI/000015062,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.61906400000000,IP27 0EX,2011-03-15,fhrs_5_en-GB,5,,FHRS,5
-17925,Kenny Hill,Beck Row,Suffolk,,Willow Tree Farm,Farmers/growers,7838,,,164620,,,52.38221600000000,PI/000006642,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.45857300000000,IP28 8DS,2014-07-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-17926,17 The Grove,Beck Row,Suffolk,,Wings,Hospitals/Childcare/Caring Premises,5,10,,167903,5,,52.37244600000000,PI/000012283,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.46308500000000,IP28 8DP,2013-08-08,fhrs_4_en-GB,4,,FHRS,0
-17927,Wok And Rock,Mill Road,Lakenheath,Suffolk,Wok N Rock,Pub/bar/nightclub,7843,5,,165791,5,,52.41501900000000,PI/000008497,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.52088400000000,IP27 9DT,2013-12-09,fhrs_5_en-GB,5,,FHRS,0
-17928,28 Market Place,Mildenhall,Suffolk,,Wong's Chinese Restaurant,Restaurant/Cafe/Canteen,1,5,,165505,5,,52.34329200000000,PI/000008118,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.51054600000000,IP28 7EF,2014-06-11,fhrs_5_en-GB,5,,FHRS,5
-17929,The Street,Worlington,Suffolk,,Worlington Cricket Club,Other catering premises,7841,,,168264,,,52.33491600000000,PI/000012864,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48394200000000,IP28 8RU,2009-06-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-17930,Worlington Hall Hotel,Mildenhall Road,Worlington,Suffolk,Worlington Hall Country House Hotel,Hotel/bed & breakfast/guest house,7842,5,,165704,5,,52.33546900000000,PI/000008389,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48884700000000,IP28 8RX,2014-06-18,fhrs_4_en-GB,4,,FHRS,10
-17931,Mildenhall Road,Worlington,Suffolk,,Worlington House,Hotel/bed & breakfast/guest house,7842,10,,165705,5,,52.33546900000000,PI/000008390,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.48884700000000,IP28 8RX,2014-01-08,fhrs_4_en-GB,4,,FHRS,5
-17932,26 St Marys Square,Newmarket,Suffolk,,Yada & Bee Thai Food Store,Other catering premises,7841,10,,636526,5,,52.24514200000000,PI/000014775,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,0.40243800000000,CB8 0HZ,2014-01-28,fhrs_4_en-GB,4,,FHRS,5
-17933,Foley House,Wellington Street,Newmarket,Suffolk,Youth Centre,Other catering premises,7841,,,167504,,,,PI/000011577,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2007-12-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-17934,,,,,Yummy Cupcakes,Other catering premises,7841,0,,730484,5,,,PI/000026024,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-12-11,fhrs_5_en-GB,5,,FHRS,5
-17935,,,,,Zest - Coffee Trailer,Mobile caterer,7846,5,,671558,5,,,PI/000005157,298,fws@forest-heath.gov.uk,Forest Heath,http://www.forest-heath.gov.uk,,,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+17337,1 St Wendreds Way,5,5,5,5,2014-06-13,52.262508,0.36945
+17338,10 Brickfields Avenue,5,5,5,5,2014-02-04,52.26313,0.384989
+17339,11 Elm Walk,AwaitingInspection,nan,nan,nan,,,
+17340,12 Riverside Way,5,0,0,0,2012-10-23,52.452621,0.624768
+17341,2nd Newmarket Scout H.Q.,Exempt,nan,nan,nan,2011-03-31,52.244508,0.396032
+17342,39 Station Road,3,10,5,10,2011-03-11,52.4233016968,0.520488679409
+17343,63 Lisburn Road,5,0,5,5,2014-05-08,52.2439651489,0.410739332438
+17344,87 Bill Rickaby Drive,5,5,5,5,2012-11-08,,
+17345,91 Bill Rickaby Drive,5,5,5,0,2013-08-13,52.251992,0.402574
+17346,A Cake to Suit You,5,5,5,5,2013-02-18,52.437409,0.599424
+17347,A Lisa Cake,5,0,5,5,2014-02-10,52.247902,0.402031
+17348,A1 Fun Club,5,5,0,0,2014-09-11,52.246375,0.402402
+17349,ABM Catering Limited,5,0,0,5,2013-01-23,,
+17350,Ali's Kebab Shop,2,10,15,10,2014-03-18,52.449686,0.623725
+17351,Ali's Supermarket,3,nan,nan,nan,2013-12-18,52.245213,0.409987
+17352,All Saints CEVA Primary School,5,0,0,5,2013-11-19,52.243355,0.411131
+17353,All Saints Church,Exempt,nan,nan,nan,2013-04-06,,
+17354,All Saints Under 5's,5,5,5,0,2013-09-23,52.242947,0.411768
+17355,Allen and Son,5,5,5,5,2014-02-25,52.350104,0.509464
+17356,Alliance  Pharmacy,Exempt,nan,nan,nan,2012-03-12,52.445994,0.624344
+17357,Anatolia Kebab House,5,5,5,5,2014-09-18,52.371173,0.485668
+17358,Angel's,5,5,5,5,2014-04-01,52.355013,0.510359
+17359,Apple & Hourglass Cupcake Co,5,5,5,0,2011-09-30,52.265017,0.394807
+17360,Argos,Exempt,nan,nan,nan,2010-05-14,52.245454,0.406103
+17361,Argos,Exempt,nan,nan,nan,2014-10-17,52.262294,0.396082
+17362,ArtexGB,5,5,5,5,2013-12-02,52.250464,0.398536
+17363,Artistry in Cocoa,5,5,5,0,2013-02-26,52.243532,0.406453
+17364,Asda Supermarket,5,0,5,0,2013-01-14,52.262294,0.396082
+17365,Ashgar,4,5,5,10,2015-01-02,52.44299,0.605668
+17366,Ashley House,5,5,5,5,2013-08-02,52.245078,0.411342
+17367,Assured Catering,5,5,5,5,2014-02-06,52.247759,0.398902
+17368,Atlantico,5,0,5,5,2014-02-06,52.449686,0.623725
+17369,Aura,5,5,5,5,2013-05-16,52.242716,0.402336
+17370,Autobar Ltd,4,5,5,10,2010-02-25,52.27243,0.503021
+17371,Baptist Church,Exempt,nan,nan,nan,2014-01-07,52.448455,0.623269
+17372,Baptist Church,4,5,5,10,2014-10-30,52.432613,0.463512
+17373,Barleycorn,5,5,5,5,2013-08-19,52.343292,0.510546
+17374,Barry's Snack Bar,5,5,5,5,2014-04-25,,
+17375,Bartboots (Ices),5,5,5,5,2014-09-21,52.36276,0.459711
+17376,Barton Mills Football Club,3,10,10,5,2009-03-31,,
+17377,Beck Row Primary School,5,5,5,5,2014-09-15,52.368899,0.486436
+17378,Beck Row Village Store,4,10,5,5,2013-04-12,52.371173,0.485668
+17379,Bedford House Stables,3,10,5,10,2014-02-12,52.251141,0.415172
+17380,Bedford Lodge Hotel,5,0,5,0,2014-06-17,52.251141,0.415172
+17381,Beeches Catering,5,5,5,5,2014-06-26,52.413641,0.521864
+17382,Bell Hotel,3,10,10,5,2014-07-08,52.342312,0.510109
+17383,Bella Italia,5,5,5,0,2013-08-20,52.392732,0.643319
+17384,Bella Pizza & Grill,4,5,10,5,2014-10-09,52.447628,0.625707
+17385,Bella Pizza & Grill House,5,nan,nan,nan,2013-11-28,52.342312,0.510109
+17386,Best Kebab,4,5,5,10,2013-08-01,52.35834,0.458217
+17387,Best Western,5,0,5,5,2013-05-28,52.24591,0.411065
+17388,Bianka Rozsa,5,5,5,5,2014-05-09,,
+17389,Birdy's Ices,5,5,5,5,2013-04-12,52.348521,0.52676
+17390,Bite 2 Eat,5,5,5,5,2014-07-16,,
+17391,BLD Cafe Restaurant,5,nan,nan,nan,2014-11-04,52.244809,0.40557
+17392,Blockbuster Video,5,5,0,0,2012-02-29,52.243594,0.404303
+17393,Bloomberries @ Christmas Hill,3,10,10,10,2013-10-04,,
+17394,Boots,Exempt,nan,nan,nan,2012-02-02,52.448455,0.623269
+17395,Boots Chemist Ltd,5,5,0,0,2012-01-30,52.244212,0.405713
+17396,BP Connect Ltd (Hyperion Garage),5,5,5,0,2013-04-16,52.245881,0.409891
+17397,Brandon Community Centre,Exempt,nan,nan,nan,2012-07-26,52.445035,0.62542
+17398,Brandon House Hotel,4,nan,nan,nan,2013-06-18,52.452387,0.622369
+17399,Brandon Pre-School Playgroup,4,10,5,5,2009-03-31,,
+17400,Brandon Sports And Social Club,4,10,0,5,2013-05-09,52.445514,0.613955
+17401,Brandon Tandoori,5,5,5,5,2014-03-07,52.446356,0.620995
+17402,Brandon Town Bowling Club,4,10,5,5,2014-11-07,52.445514,0.613955
+17403,Breckland Club,4,10,5,5,2007-12-13,52.456544,0.664451
+17404,Breckland Forest Gymnastic Club,3,10,10,5,2009-03-27,52.437373,0.607985
+17405,Breckland News Ltd (Mace),5,5,0,0,2013-12-13,52.445863,0.631062
+17406,Brians Ices,5,5,5,5,2014-06-26,52.442846,0.611384
+17407,Bridge Hotel,4,5,5,10,2012-12-04,52.452387,0.622369
+17408,Bunbury Rooms,Exempt,nan,nan,nan,2010-03-19,52.342697,0.508486
+17409,Bupa Care Homes,5,0,0,0,2014-06-03,52.436419,0.625055
+17410,Burger King,5,0,5,0,2014-01-07,52.338398,0.533405
+17411,Burger King,5,5,0,0,2015-01-12,52.262294,0.396082
+17412,Busy Bees Nursery School Ltd,5,5,0,5,2013-07-02,52.365511,0.492783
+17413,Butterflies Day Nursery,5,5,5,5,2013-07-17,52.410219,0.525036
+17414,Cadillac Jack's Steakhouse,4,5,5,10,2013-06-06,52.342312,0.510109
+17415,Cadogan Hotel,4,10,5,5,2013-02-12,52.249455,0.407477
+17416,Cafe,5,5,5,5,2014-09-12,52.262294,0.396082
+17417,Cafe Barn,5,0,5,0,2014-07-08,,
+17418,Cafe Massala,3,5,10,10,2013-11-20,52.26313,0.384989
+17419,Cafe Perfectum,5,nan,nan,nan,2014-12-03,52.260942,0.388257
+17420,Cafe Rouge,5,5,5,0,2013-08-20,52.446469,0.750728
+17421,Cafe Sunrise,5,5,5,5,2013-12-09,52.449686,0.623725
+17422,CAFE2U,5,5,5,5,2014-05-20,,
+17423,Caffe Nero,5,0,0,0,2013-09-18,52.242939,0.405088
+17424,Cakes Beautiful Cakes,5,5,0,0,2012-11-01,52.372324,0.490346
+17425,Calver Catering,5,0,5,5,2014-07-11,52.445189,0.62618
+17426,Camcattle,5,5,5,5,2014-02-24,52.256055,0.392888
+17427,Camcattle,AwaitingInspection,nan,nan,nan,,52.322719,0.547845
+17428,Canopy Bar,5,5,5,0,2013-06-05,52.392732,0.643319
+17429,Care UK Ltd,3,5,10,10,2014-11-21,52.351352,0.5193
+17430,Carlburg,5,5,5,0,2013-11-07,52.254895,0.42112
+17431,Cavenham And Lackford Mens Club,4,10,5,5,2013-12-17,52.299616,0.581003
+17432,Cedarwood Bungalow White Eau Farm,AwaitingInspection,nan,nan,nan,,52.425097,0.468196
+17433,Central Fish Bar,5,5,5,5,2014-07-22,52.244529,0.406067
+17434,Centre Cafe,4,0,10,5,2013-05-17,52.448455,0.623269
+17435,Charlie's Kebab House,2,5,15,10,2013-10-17,52.416011,0.519088
+17436,Charlottes,5,0,5,0,2014-06-16,52.245025,0.408629
+17437,Cherry Tree Butchers,5,5,5,5,2014-03-10,52.343787,0.509267
+17438,Cheveley Road Working Mens Club,5,5,5,5,2014-05-01,52.241734,0.419188
+17439,Chick King Mile End Cafe,4,5,5,10,2013-09-19,52.437593,0.602907
+17440,Chilli Hut,3,10,5,10,2013-11-20,52.242716,0.402336
+17441,Chilly Filly,5,5,5,5,2014-03-21,52.30882,0.509489
+17442,China House,3,5,10,10,2013-02-28,52.344296,0.510706
+17443,Church Institute,Exempt,nan,nan,nan,2012-03-26,52.445814,0.6183
+17444,Church of Our Lady and St Etheldreda,Exempt,nan,nan,nan,2012-04-19,52.246092,0.408349
+17445,Churchill Catering,5,0,5,0,2013-11-22,52.434418,0.663057
+17446,Cinnamon Indian Takeaway,5,0,5,5,2014-02-03,52.244316,0.404166
+17447,CJ's Sandwich Bar,5,0,0,5,2014-01-20,52.411793,0.523303
+17448,Clip Clop Day Nursery Ltd,5,5,5,5,2014-10-21,52.244783,0.412996
+17449,Coffee & Co,5,5,5,5,2014-02-12,52.243853,0.407012
+17450,Coffee Bar,5,0,0,5,2011-07-20,52.241276,0.408616
+17451,Coles Sandwich Heroes Ltd,5,0,0,0,2014-11-10,,
+17452,Collins Restaurant,5,5,5,5,2013-05-13,52.448455,0.623269
+17453,Colourbox Montessori School,5,nan,nan,nan,2014-03-04,52.246329,0.394049
+17454,Colourbox Montessori School,5,0,0,5,2013-06-03,52.248911,0.395287
+17455,Community Centre,Exempt,nan,nan,nan,2012-03-14,52.368899,0.486436
+17456,Community Resource Unit,Exempt,nan,nan,nan,2013-01-07,52.341761,0.514027
+17457,Continental Foods,2,15,5,10,2014-07-24,52.448455,0.623269
+17458,Co-Op,4,5,10,5,2013-11-18,52.254204,0.390605
+17459,Co-op,5,5,5,5,2012-02-22,52.416011,0.519088
+17460,Co-Operative & Post Office,5,5,0,0,2013-09-05,52.343741,0.511423
+17461,Copper Beech Tea Room,5,5,5,5,2014-10-23,52.436419,0.625055
+17462,Coral Racing Ltd,Exempt,nan,nan,nan,2012-03-28,52.343292,0.510546
+17463,Corner Stores (Suffolk Ltd),5,0,0,0,2014-03-05,52.345963,0.523604
+17464,Corney & Barrow,5,0,0,0,2010-06-25,52.244858,0.409777
+17465,Costa Coffee,5,5,5,0,2014-01-06,52.244809,0.40557
+17466,Coyotes,4,5,5,10,2014-04-09,52.24505,0.407854
+17467,Crack On!,Exempt,nan,nan,nan,2014-11-20,52.242941,0.40938
+17468,Cricket Club,Exempt,nan,nan,nan,2012-10-04,,
+17469,Crown Catering,5,0,5,0,2014-07-08,52.241411,0.401065
+17470,Crumbs Food Bar Ltd,4,nan,nan,nan,2014-08-20,52.343292,0.510546
+17471,D & G Jamaican Takeaway,3,10,5,10,2013-10-09,52.353583,0.513743
+17472,D & S Catering,4,10,5,5,2013-04-23,52.437703,0.60849
+17473,D Di-Giulio,5,0,0,5,2013-02-07,52.321307,0.437967
+17474,D.W. & R.J. Sweet,5,5,5,5,2014-07-28,52.242941,0.40938
+17475,Dalham Village Hall Charity,Exempt,nan,nan,nan,2014-01-03,52.227572,0.520939
+17476,Debbie Doos,Exempt,nan,nan,nan,2011-04-11,52.344926,0.512356
+17477,Deb's Decadent Sweets,5,5,5,0,2012-03-01,52.347891,0.519661
+17478,Delicious Delights,3,10,5,10,2010-09-21,52.344417,0.506249
+17479,Deli-Luscious,5,5,5,5,2014-12-09,52.335875,0.514676
+17480,Deniz Continental Food Shop,5,5,5,5,2014-02-28,52.449686,0.623725
+17481,Devilish Doughnuts,5,5,5,5,2013-04-11,52.373259,0.49081
+17482,Dexters Kitchen,5,0,0,0,2013-06-05,52.392732,0.643319
+17483,Diddy Donuts,5,5,5,5,2013-03-07,52.44137,0.628086
+17484,Dining In,5,0,5,5,2013-12-04,52.446469,0.750728
+17485,Dolvinny,5,0,0,5,2013-10-23,52.447259,0.597193
+17486,Dome Sports Centre,Exempt,nan,nan,nan,2009-03-25,52.343178,0.524341
+17487,Domino's Pizza,5,5,5,5,2014-10-01,52.343292,0.510546
+17488,Domino's Pizza,5,0,0,0,2013-10-21,,
+17489,Dragon House,5,5,5,5,2014-02-27,52.344296,0.510706
+17490,Eldon Farm,AwaitingInspection,nan,nan,nan,,,
+17491,Ella's Bakery,5,0,0,5,2011-07-15,52.306466,0.501317
+17492,Elveden CEVA Primary School,5,5,5,5,2010-03-19,52.383269,0.666237
+17493,Elveden Estate Shop & Restaurant,4,5,10,5,2014-10-03,52.388305,0.675389
+17494,Elveden Inn,5,5,5,5,2013-08-01,52.384892,0.666041
+17495,Elveden Stores,5,5,5,5,2013-12-02,52.386454,0.67413
+17496,Elveden Workers Social Club,5,5,5,5,2008-12-02,52.384083,0.665214
+17497,Emily's Tea Room,5,5,5,5,2012-02-15,52.343292,0.510546
+17498,En Thai Sing,4,5,5,10,2013-04-04,52.342475,0.510911
+17499,Eric Tennant Quality Butchers,5,0,5,5,2014-02-27,52.244809,0.40557
+17500,Ernies,5,nan,nan,nan,2014-10-03,52.443995,0.616382
+17501,Everything Everywhere,4,10,5,5,2006-02-24,52.244212,0.405713
+17502,Exning Cricket Club,4,5,10,5,2014-09-26,52.268995,0.373754
+17503,Exning Post Office,AwaitingInspection,nan,nan,nan,,52.264955,0.369815
+17504,Exning Primary School,4,10,5,5,2013-10-21,52.265983,0.368815
+17505,Exning Road Working Mens Club,5,5,5,5,2014-07-01,52.250464,0.398536
+17506,Fairstead House School,5,0,5,5,2013-09-27,52.249455,0.407477
+17507,Fairways,5,0,5,0,2011-09-22,52.322248,0.440704
+17508,Farmers Market Kitchen,4,5,10,5,2014-02-24,,
+17509,Filipiniana,4,10,5,5,2014-09-18,52.417542,0.518131
+17510,Filipiniana Steak & Grill,5,5,5,5,2013-05-16,52.242716,0.402336
+17511,Finevale Service Station,5,5,0,5,2014-01-07,52.443768,0.616868
+17512,Firm Foundations Day Care,4,5,5,10,2013-01-22,52.334525,0.468713
+17513,First Base,Exempt,nan,nan,nan,2011-12-14,52.44688,0.623308
+17514,First Class Pre School,5,0,0,5,2014-05-13,52.244508,0.396032
+17515,Fish & Chip Shop,3,5,10,10,2014-03-07,52.35834,0.458217
+17516,Fish (Burwell) Limited,5,5,5,5,2013-05-03,52.244809,0.40557
+17517,Five Bells,4,10,5,5,2014-02-10,52.244885,0.403157
+17518,Fledglings Preschool,5,5,5,5,2014-02-28,52.445189,0.62618
+17519,Flippin Pattys,4,0,5,10,2013-06-20,52.348014,0.521474
+17520,Food Amour,4,5,10,5,2014-07-31,52.260113,0.400756
+17521,Football Ground,Exempt,nan,nan,nan,2014-09-27,,
+17522,Forest Academy,5,5,5,0,2013-12-03,52.445748,0.622873
+17523,Foresters Inn,5,5,5,0,2013-06-05,52.446469,0.750728
+17524,Foresters Social Club,5,5,5,5,2014-02-21,52.243183,0.406361
+17525,Forestford,5,5,5,5,2011-02-28,52.345484,0.511052
+17526,Freckenham Village Hall,Exempt,nan,nan,nan,2010-02-12,52.321307,0.437967
+17527,Frederick Hiam Foods,5,5,0,0,2009-03-24,52.441572,0.584247
+17528,Funnel Cakes,4,5,5,10,2013-11-15,52.348573,0.501932
+17529,G F C Chicken,4,5,5,10,2014-02-11,52.448455,0.623269
+17530,Gandhi Indian Cuisine,5,5,5,5,2014-06-18,52.343787,0.509267
+17531,Garrads,4,5,5,10,2009-06-18,52.245213,0.409987
+17532,GD's Mobile Catering,5,0,0,0,2014-07-16,,
+17533,Geaux Cajun,5,0,0,0,2014-11-04,52.244507,0.39253
+17534,Glade Primary School,5,5,5,5,2013-06-28,52.445848,0.628073
+17535,Global Foods,5,5,5,5,2014-10-02,,
+17536,Godolphin Stables and Stanley House,5,0,0,0,2014-10-10,52.257282,0.416532
+17537,Golden Horse,4,10,5,5,2013-11-20,52.244885,0.403157
+17538,Gracewell Newmarket Ltd,5,0,0,0,2014-08-05,52.244212,0.405713
+17539,Great Eastern Hotel,4,5,10,5,2013-07-16,52.452387,0.622369
+17540,Great Heath Primary School,5,5,5,5,2014-06-11,52.353501,0.515472
+17541,Green Box Sushi,5,nan,nan,nan,2013-11-26,52.417542,0.518131
+17542,Greenhays Nursery School Ltd,5,0,5,5,2014-04-15,52.299665,0.484858
+17543,Greggs,5,5,0,0,2014-09-22,52.245229,0.407878
+17544,Grosvenor Guest House,AwaitingInspection,nan,nan,nan,,52.348306,0.508172
+17545,Half Moon,4,10,5,5,2014-11-11,52.344724,0.520156
+17546,Halfords,Exempt,nan,nan,nan,2014-01-03,52.262294,0.396082
+17547,Heaven Gentlemens Club,5,5,5,0,2011-10-05,52.243337,0.404992
+17548,High Flyer,5,0,0,0,2014-07-08,52.241411,0.401065
+17549,Higham P.O,5,5,5,5,2013-06-04,52.256487,0.557073
+17550,Holland & Barrett,5,0,5,0,2013-02-15,52.245454,0.406103
+17551,Home First,Exempt,nan,nan,nan,2014-08-20,52.346169,0.519416
+17552,Honey Cups,5,5,0,0,2014-01-21,52.440311,0.60729
+17553,Horseshoe Bar,5,5,5,5,2012-10-08,52.241411,0.401065
+17554,Houldsworth Valley County Primary School,5,0,0,0,2013-11-19,52.244508,0.396032
+17555,Huck's,5,0,5,5,2013-08-20,,
+17556,Hyams Bakery,4,5,10,5,2014-06-03,52.447339,0.624144
+17557,Iceland Frozen Foods,5,5,5,5,2014-01-02,52.245456,0.408227
+17558,IES Breckland,4,10,5,5,2012-02-22,52.2317047119,1.08654403687
+17559,Innocence,4,10,5,5,2008-02-06,52.243337,0.404992
+17560,Istanbul Kebab House,3,10,10,10,2013-09-23,52.343787,0.509267
+17561,J & P Haylock farms,5,5,5,5,2014-02-02,52.366809,0.506195
+17562,Jacks Snacks,5,0,5,5,2013-05-07,52.245046,0.387242
+17563,Jane's Bakes,5,5,0,5,2013-02-08,52.422156,0.524821
+17564,Jason Klemp (JK Catering),5,0,0,0,2014-03-05,52.441443,0.630048
+17565,Jenny's Catering Service,5,5,5,5,2014-06-27,52.419092,0.519219
+17566,Jeremy Noseda Racing Ltd,Exempt,nan,nan,nan,2014-02-14,52.251141,0.415172
+17567,Jo Jangles,5,0,5,0,2014-02-06,52.447559,0.622701
+17568,Jo-Anne Jones,5,5,5,5,2014-11-13,,
+17569,Jockey Club,5,0,0,5,2013-08-12,52.243337,0.404992
+17570,Jockey Club Catering,5,5,5,5,2014-04-16,52.238209,0.375377
+17571,Jo's Pantry,5,0,5,5,2013-11-27,52.241411,0.401065
+17572,Joy's,5,5,5,5,2013-01-08,52.448455,0.623269
+17573,JP's Catering,5,5,0,0,2013-01-08,52.437703,0.60849
+17574,Jubilee Centre,Exempt,nan,nan,nan,2013-12-17,52.341761,0.514027
+17575,Judes Ferry,5,5,5,5,2013-07-29,52.347789,0.46095
+17576,Julies Roll Round,5,5,5,5,2014-03-28,52.447564,0.633415
+17577,Jump Start Cafe,5,5,0,0,2014-07-11,,
+17578,Jumpin Beans,5,5,0,5,2014-05-01,52.305419,0.490432
+17579,Jumppin Jacks Funhouse,5,5,5,5,2014-05-20,52.353975,0.499961
+17580,Karolina's Cakes,5,5,5,5,2014-12-05,,
+17581,Kentford Filling Station,3,10,10,10,2014-02-06,52.272398,0.512547
+17582,Kentford Village Stores,5,5,5,5,2013-09-24,52.27103,0.494396
+17583,Kentucky Fried Chicken,5,5,0,0,2014-06-24,52.243594,0.404303
+17584,Kentucky Fried Chicken,5,5,0,0,2013-11-04,52.343292,0.510546
+17585,Khobkhum Thai Restaurant,5,5,5,5,2014-08-05,52.24279404,0.40320098
+17586,Kim's Bulgogi,4,5,10,5,2014-03-28,52.388138,0.529875
+17587,King Edward VII Memorial Hall,Exempt,nan,nan,nan,2012-09-20,52.243594,0.404303
+17588,Kingfisher House,5,5,5,5,2014-12-03,52.250572,0.395875
+17589,Kings Garden Chinese Takeaway,5,5,5,5,2014-03-07,52.448455,0.623269
+17590,Kings Project Emergency Food Bank,5,5,0,5,2012-02-24,52.343741,0.511423
+17591,Kings Restaurant & Events,4,5,5,10,2014-07-02,52.243183,0.406361
+17592,Kiri's Cakes,5,5,5,5,2013-03-20,52.264159,0.385249
+17593,Labas,4,10,5,5,2014-05-20,52.245456,0.408227
+17594,Ladbroke Racing Ltd,Exempt,nan,nan,nan,2009-02-09,52.244529,0.406067
+17595,Ladbrokes Racing,Exempt,nan,nan,nan,2009-02-25,52.24505,0.407854
+17596,Ladbrokes Racing Ltd,Exempt,nan,nan,nan,2009-02-09,52.343292,0.510546
+17597,Ladybirds Catering,5,5,5,5,2014-08-12,52.44137,0.628086
+17598,Lakenheath Community Primary School,5,5,0,0,2014-06-26,52.415669,0.523289
+17599,Lakenheath Fishbar,5,5,5,5,2014-06-26,52.416011,0.519088
+17600,Lakenheath Football Club,4,10,5,0,2010-02-08,52.413867,0.522612
+17601,Lakenheath Indoor Bowls Club,Exempt,nan,nan,nan,2009-08-27,52.4172,0.519391
+17602,Lakenheath Little Fishes,5,0,0,0,2014-01-20,52.410219,0.525036
+17603,Lakenheath News,5,0,0,5,2012-02-21,52.416011,0.519088
+17604,Lakeview Restaurant,5,0,5,0,2013-07-30,52.446469,0.750728
+17605,Laureate Community Primary School And Nursery,5,5,0,0,2013-10-07,52.255593,0.390387
+17606,Leisure Bowl,5,0,5,0,2014-02-24,52.4541015625,0.624729990959
+17607,Linton Lodge,5,5,5,5,2010-02-26,52.252053,0.397801
+17608,Lipworth Patisserie,4,0,10,10,2012-06-19,52.262508,0.36945
+17609,Little Buds Pre School,4,5,10,5,2013-11-08,52.26313,0.384989
+17610,Little Chef,4,10,5,5,2014-09-17,52.338398,0.533405
+17611,Little Chef - Newmarket North A14,1,15,15,20,2014-09-03,52.255213,0.392576
+17612,Little India,5,5,5,5,2014-02-19,52.417542,0.518131
+17613,Little Treasures Pre-School,5,0,0,0,2014-10-23,52.34302,0.501765
+17614,Lloyds Chemists,Exempt,nan,nan,nan,2008-10-06,52.245454,0.406103
+17615,Lloyds Pharmacy,Exempt,nan,nan,nan,2011-01-11,52.343999,0.509881
+17616,Lloyds Pharmacy,Exempt,nan,nan,nan,2013-12-13,52.343292,0.510546
+17617,Londis,5,5,5,5,2014-02-17,52.265983,0.368815
+17618,Longwood Farm,3,10,10,10,2014-01-24,52.3163,0.551922
+17619,Lords Pharmacy,Exempt,nan,nan,nan,2013-02-04,52.245454,0.406103
+17620,Lotus (Studlands Park Newsagent),1,10,10,20,2014-05-20,52.26313,0.384989
+17621,Louise American Bakery,5,0,5,5,2014-05-08,,
+17622,Loulabelle's,5,0,0,0,2013-04-11,52.34451,0.512876
+17623,Love Alot,5,0,5,0,2011-11-22,52.300545,0.492593
+17624,M. G. Cole,5,0,0,5,2013-01-23,52.320805,0.439627
+17625,Mabbs Hall Care Home,5,nan,nan,nan,2014-10-10,52.342312,0.510109
+17626,Magic Bread,5,5,5,0,2014-07-08,52.242356,0.393528
+17627,Magic Ices,5,0,0,0,2014-11-05,52.264159,0.385249
+17628,Maids Head Public House,5,5,5,5,2014-07-04,52.34451,0.512876
+17629,Majestic Wine,5,0,0,0,2013-04-06,52.245881,0.409891
+17630,Mandy's Fruit & Veg,5,5,5,5,2014-09-27,52.374216,0.467018
+17631,Manor Farm Eggs,5,5,5,5,2014-03-05,52.330608,0.472399
+17632,Marks and Spencer,5,5,0,5,2011-05-13,52.2317047119,1.08654403687
+17633,Marks Traditional Greengrocers,5,5,0,5,2012-03-12,52.447339,0.624144
+17634,Marthie's Baking,4,5,5,10,2014-02-04,52.30145,0.491456
+17635,Martin McColls,4,10,5,5,2014-05-12,52.343292,0.510546
+17636,Martins,4,10,5,5,2014-01-28,52.244885,0.403157
+17637,Masonic Club,5,5,5,5,2014-02-11,52.241819,0.400911
+17638,Mazey's Munch,5,5,0,5,2014-02-27,52.368567,0.428934
+17639,McColls,3,10,5,10,2013-07-23,52.351352,0.5193
+17640,Meatmarket Ltd,5,5,5,5,2014-06-03,52.448455,0.623269
+17641,Mickeys,5,0,5,5,2013-09-13,52.368771,0.468991
+17642,Mildenhall Academy,5,5,5,5,2013-11-25,52.34302,0.501765
+17643,Mildenhall And District Cycling Club,2,15,10,10,2013-02-25,52.343571,0.505012
+17644,Mildenhall Baptist Church,Exempt,nan,nan,nan,2014-01-02,52.343292,0.510546
+17645,Mildenhall College Academy,5,5,0,0,2014-03-05,52.343178,0.524341
+17646,Mildenhall Community Centre,Exempt,nan,nan,nan,2012-01-24,52.351352,0.5193
+17647,Mildenhall Cricket Club,5,5,5,5,2008-07-11,52.343571,0.505012
+17648,"Mildenhall Scout Group, Group HQ",Exempt,nan,nan,nan,2009-01-19,52.342475,0.510911
+17649,Mildenhall Social Club,5,5,5,5,2013-11-26,52.341761,0.514027
+17650,Mildenhall Stadium,4,5,5,10,2014-03-07,52.364196,0.411435
+17651,Mildenhall Swimming Pool,Exempt,nan,nan,nan,2008-02-19,52.341761,0.514027
+17652,Mildenhall Town FC,4,5,10,5,2014-07-23,52.341761,0.514027
+17653,Mill Meadow,4,0,0,10,2013-09-24,52.251445,0.516798
+17654,Milo's Seafood Ltd,5,5,0,5,2014-04-16,52.238209,0.375377
+17655,MJ's Cafe and Bar,5,5,5,5,2014-01-07,52.305419,0.490432
+17656,Mondragone,2,10,15,10,2013-08-01,52.447339,0.624144
+17657,Montage,5,5,5,5,2014-09-09,52.248543,0.399721
+17658,Montage Cafe Bar,5,5,5,5,2014-07-24,52.445514,0.613955
+17659,Montaz,5,0,5,0,2014-05-19,52.245213,0.409987
+17660,Moulton CEVC Primary School,5,5,0,0,2013-09-26,52.257072,0.480805
+17661,Moulton Post Office Stores,5,5,5,5,2014-04-25,52.250564,0.482405
+17662,Mr E and D Winters,5,5,5,5,2012-05-09,52.394701,0.445362
+17663,Mr G's Bowling Centre,5,0,0,5,2013-11-05,52.447339,0.624144
+17664,Mr Simms Olde Sweet Shoppe,5,0,0,5,2014-01-17,52.244809,0.40557
+17665,Mrs C Smith,5,5,5,5,2008-02-20,52.410219,0.525036
+17666,Mums Buns,5,0,0,0,2013-10-23,52.343577,0.521662
+17667,N C Catering,5,5,5,5,2013-06-30,52.36276,0.459711
+17668,Nancy's Teashop,5,0,5,0,2013-08-16,52.245213,0.409987
+17669,Nannie McCupcake's,5,0,5,5,2014-03-18,52.444559,0.643169
+17670,National Autistic Society,5,0,0,0,2014-11-04,52.347943,0.510457
+17671,National Autistic Society,5,0,5,5,2013-09-06,52.335611,0.519902
+17672,National Horseracing Museum,4,5,5,10,2014-02-25,52.242939,0.405088
+17673,New Astley Club,2,5,15,10,2013-09-20,52.245349,0.404647
+17674,New Chevely Store,5,5,0,0,2013-05-16,52.239432,0.414331
+17675,New Horizons Day Care,5,5,5,5,2014-01-23,52.353444,0.500812
+17676,New Hostel,5,5,0,0,2014-04-28,52.260295,0.444451
+17677,New Look,Exempt,nan,nan,nan,2013-04-06,52.243594,0.404303
+17678,New Ocean City Chinese Takeaway,4,5,10,5,2013-12-19,52.245078,0.411342
+17679,Newmarket Academy,5,5,5,5,2014-09-15,52.248911,0.395287
+17680,Newmarket Avenue Bowls Club,5,0,5,5,2011-09-06,52.239903,0.406711
+17681,Newmarket Cakes & Stuff,5,5,5,5,2014-05-12,52.247759,0.398902
+17682,Newmarket Community Church,5,5,5,5,2012-01-24,52.262859,0.393504
+17683,Newmarket Community Hospital,4,5,10,5,2014-08-18,52.250903,0.399966
+17684,Newmarket CRU,5,5,5,5,2014-01-07,52.243676,0.41172
+17685,Newmarket Day Centre,5,5,5,5,2014-03-10,52.245349,0.404647
+17686,Newmarket District Scouts Council,Exempt,nan,nan,nan,2008-03-17,52.24096,0.407339
+17687,Newmarket Indian Cuisine,4,5,5,10,2013-09-19,52.242716,0.402336
+17688,Newmarket Kebab House,5,nan,nan,nan,2014-10-21,52.244316,0.404166
+17689,Newmarket Lawn Tennis Club,4,0,5,10,2013-03-08,52.242055,0.390641
+17690,Newmarket Open Door,4,5,5,10,2011-05-25,52.256743,0.391328
+17691,Newmarket Operatic Music & Dramatic,5,0,0,0,2011-07-18,52.243777,0.400607
+17692,Nikki's Homemade,5,0,5,5,2013-03-08,52.30747,0.4964
+17693,Nisa Local,4,5,0,10,2014-04-25,52.301148,0.482301
+17694,NSDA Sports Club,3,10,10,5,2014-05-08,52.252911,0.389202
+17695,O Cafe,5,5,5,5,2014-12-02,52.447061,0.623274
+17696,Old Scotch  Indian Takeaway,5,5,5,5,2013-06-19,52.241851,0.403784
+17697,One Thousand Guineas  BP Connect,5,5,0,0,2014-10-14,52.255213,0.392576
+17698,Only Fools & Sauces,4,5,5,10,2013-11-13,,
+17699,Orbit Housing,Exempt,nan,nan,nan,2013-12-03,,
+17700,Ormiston Centre,3,10,10,10,2007-11-26,52.246375,0.402402
+17701,Oxfam,5,5,5,5,2008-02-21,52.244316,0.404166
+17702,P K's Beefeaters Snack Bar,5,0,5,5,2013-12-17,52.333597,0.51738
+17703,P&H Lakenheath Ltd,4,5,5,10,2009-06-30,52.416011,0.519088
+17704,Paddocks Primary School,5,5,0,0,2014-09-15,52.250536,0.388342
+17705,Pagoda House,5,0,5,5,2014-02-06,52.448455,0.623269
+17706,Pancake House,5,5,5,0,2013-07-30,52.446469,0.750728
+17707,Parc Market (Inc. Food 2 Go),5,5,0,0,2013-12-04,52.446469,0.750728
+17708,Peace Memorial Hall,Exempt,nan,nan,nan,2012-01-23,52.413641,0.521864
+17709,Peach Bower,4,5,10,5,2014-07-11,52.447339,0.624144
+17710,Perfect U,5,5,0,5,2010-03-30,52.260942,0.388257
+17711,Pizza Express,5,5,0,0,2013-10-15,52.24505,0.407854
+17712,Pizza Shanghai,3,10,5,10,2014-11-07,52.343292,0.510546
+17713,Polfood,5,5,5,5,2013-05-13,52.448455,0.623269
+17714,Popes Cafe,4,10,5,5,2014-01-21,52.245038,0.3925
+17715,Pound Zone,4,5,5,10,2014-08-06,52.448455,0.623269
+17716,Poundland,5,5,5,5,2012-04-18,52.245454,0.406103
+17717,Powters Ltd,5,0,5,0,2014-02-13,52.244316,0.404166
+17718,Premier,5,5,5,5,2014-01-03,52.251941,0.395773
+17719,Preschool,Exempt,nan,nan,nan,2013-06-03,52.368899,0.486436
+17720,Pre-School Stepping Stones,5,5,0,0,2014-04-23,52.265983,0.368815
+17721,Prezzo,5,5,5,0,2014-01-31,52.246092,0.408349
+17722,Psychotic Sauces,4,5,5,10,2012-08-14,52.447559,0.622701
+17723,QD Stores,4,5,5,10,2009-09-11,52.24505,0.407854
+17724,Queens Catering,5,0,5,5,2011-02-17,52.246187,0.517101
+17725,Rajinda Pradesh,5,5,0,0,2013-12-04,52.446469,0.750728
+17726,Ram Hotel,5,5,5,5,2013-11-21,52.452387,0.622369
+17727,Ray and Karen's Cheese,5,5,5,5,2014-06-19,52.398905,0.439906
+17728,Razzle Dazzle Creations,5,0,5,5,2011-11-08,52.375293,0.469708
+17729,Red Lodge Cafe,3,10,5,10,2014-10-22,52.302722,0.484032
+17730,Red Lodge Fish Bar,5,5,0,0,2014-02-04,52.301148,0.482301
+17731,Red Lodge Pizza & Kebab,4,10,5,5,2014-10-10,52.301148,0.482301
+17732,Red Lodge Post Office,3,10,10,10,2013-05-01,52.30352,0.493508
+17733,Red Lodge Steakhouse and Bar,5,5,5,5,2012-11-20,52.302722,0.484032
+17734,Rhubarb,5,0,5,0,2013-06-18,52.244809,0.40557
+17735,Rising Star Chinese Takeaway,4,5,10,5,2014-07-30,52.413641,0.521864
+17736,Roberto's Ices,5,5,5,5,2013-05-03,52.242758,0.403098
+17737,Roc UK (Esso),4,10,0,0,2012-03-02,52.338398,0.533405
+17738,Roc UK Ltd,5,5,0,0,2014-02-11,52.353583,0.513743
+17739,Rontec Millford Service Station,5,0,0,0,2013-11-26,52.338398,0.533405
+17740,Rowley Mile Connect 3118,5,5,0,0,2014-10-14,52.249467,0.36417
+17741,Royal British Legion Club Ltd,4,5,5,10,2011-02-04,52.446356,0.620995
+17742,Royal Mail,AwaitingInspection,nan,nan,nan,,52.242758,0.404272
+17743,Royal Worlington and Newmarket Golf Club,5,0,5,5,2014-02-18,52.33193,0.48994
+17744,Rumbles,5,5,5,0,2013-08-16,52.265983,0.368815
+17745,Rumbles,5,nan,nan,nan,2014-06-18,52.343787,0.509267
+17746,Rumbles,5,0,5,5,2013-08-27,52.24505,0.407854
+17747,Rutland Arms Hotel,5,5,5,5,2014-09-02,52.244393,0.407452
+17748,Sainsburys,5,0,0,0,2014-07-02,52.341761,0.514027
+17749,Sale Ring Bar,5,5,5,5,2012-10-08,52.241411,0.401065
+17750,Sam's,5,5,5,5,2013-10-14,52.261232,0.390822
+17751,Sandhurst B&B,5,5,5,5,2009-09-17,52.24096,0.407339
+17752,Santon Downham Community Centre,Exempt,nan,nan,nan,2012-02-08,52.456544,0.664451
+17753,Satellite,5,0,5,0,2014-07-08,52.241411,0.401065
+17754,Savers Health and Beauty,Exempt,nan,nan,nan,2009-02-25,52.244039,0.406715
+17755,Sea Star,5,5,0,5,2014-12-02,52.446392,0.621027
+17756,Seafields Fostering Ltd,5,5,5,5,2009-10-21,52.244316,0.404166
+17757,Seahorse Takeaway,4,10,5,5,2014-01-03,52.242947,0.411768
+17758,Shanes Diner,4,5,5,10,2014-09-23,52.341761,0.514027
+17759,Shanghai Express UK Ltd,4,5,5,10,2013-11-20,52.256959,0.394856
+17760,Shefs,5,0,5,5,2014-01-28,52.43709,0.60532
+17761,Shell Newmarket,5,5,5,5,2013-10-24,52.241481,0.398959
+17762,Simply Spuds,5,5,5,5,2014-04-30,,
+17763,Snushalls,5,5,0,0,2013-08-08,52.343324,0.512838
+17764,Spar,3,10,5,10,2013-12-13,52.44852516,0.62358497
+17765,Spar,5,5,5,5,2014-03-03,52.242947,0.411768
+17766,Spice Lounge,5,5,5,5,2014-04-10,52.342312,0.510109
+17767,Spitfire Grill Bar,5,5,5,5,2013-06-25,52.246187,0.517101
+17768,Sports Cafe,5,5,0,0,2013-09-17,52.446469,0.750728
+17769,Sports Pavilion,4,0,5,10,2012-02-03,52.33188,0.552339
+17770,Sports Plaza,Exempt,nan,nan,nan,2011-12-06,52.392732,0.643319
+17771,St Andrews Cafe,5,5,0,0,2014-10-15,52.342475,0.510911
+17772,St Christophers CEVCP School,5,0,0,0,2014-04-25,52.33188,0.552339
+17773,St Christophers Church,5,5,5,5,2011-03-29,52.307395,0.493565
+17774,St Christophers Robins,Exempt,nan,nan,nan,2014-07-03,52.307395,0.493565
+17775,St Johns Church,Exempt,nan,nan,nan,2013-11-06,52.365511,0.492783
+17776,St Louis Catholic Academy,5,5,0,0,2014-01-21,52.249455,0.407477
+17777,St Marys Church,Exempt,nan,nan,nan,2014-03-12,52.335522,0.528443
+17778,St Marys CofE Academy,5,5,5,5,2014-11-13,52.347978,0.513029
+17779,Stable Lads Hostel,4,5,10,5,2014-05-14,52.245573,0.41172
+17780,Stable Yard Coffee Shop,5,0,0,5,2014-06-26,52.267559,0.482856
+17781,Staff Canteen,5,5,0,0,2013-08-20,52.2317047119,1.08654403687
+17782,Starbucks,5,nan,nan,nan,2013-08-06,52.392732,0.643319
+17783,Starbuck's A14,5,5,5,0,2013-06-07,,
+17784,Starbucks Lakeside,5,0,0,0,2013-07-30,52.446469,0.750728
+17785,Starbucks Plaza,5,5,0,0,2013-07-30,52.446469,0.750728
+17786,Street Cafe Restaurant,5,0,5,0,2014-06-24,52.243337,0.404992
+17787,Studlands House Takeaway,3,10,10,10,2013-05-16,52.26313,0.384989
+17788,Studlands Park Sports Club,Exempt,nan,nan,nan,,52.26313,0.384989
+17789,Subway,5,5,5,5,2014-06-19,52.244809,0.40557
+17790,Subway - Best One,4,nan,nan,nan,2014-05-27,52.243337,0.404992
+17791,Subway A14,5,0,0,5,2014-10-14,52.249467,0.36417
+17792,Sue Ryder,Exempt,nan,nan,nan,,52.343292,0.510546
+17793,Suffolk Premier Catering,4,5,10,5,2013-10-09,52.416011,0.519088
+17794,Sumo Noodles,5,nan,nan,nan,2014-01-13,52.416011,0.519088
+17795,Sumo Sushi,2,15,10,10,2014-09-23,52.343292,0.510546
+17796,Sunlight Fish & Chip Chinese Takeaway,4,nan,nan,nan,2014-04-17,52.250464,0.398536
+17797,Sunshine Corner Day Nursery,4,0,10,10,2013-10-10,52.416399,0.520683
+17798,Superdrug,5,5,5,5,2012-01-30,52.245454,0.406103
+17799,Sweet Affairs,5,0,0,0,2013-10-23,52.344208,0.50678
+17800,Sweet Memories,5,5,5,5,2009-03-26,52.24433075,0.40635174
+17801,Sweet Occasion,5,5,5,5,2013-12-17,52.353583,0.513743
+17802,T & W Wines,Exempt,nan,nan,nan,2009-03-26,52.452905,0.622091
+17803,Taste of Hungary,5,5,5,5,2014-04-04,52.262859,0.393504
+17804,Taste of Italia,4,0,10,5,2014-10-23,52.343787,0.509267
+17805,Taste of Italia,5,0,0,0,2013-05-14,52.361101,0.444299
+17806,Tasty Food,4,10,5,5,2013-09-18,52.252911,0.389202
+17807,Teacups and Saucers,5,0,5,5,2012-01-16,52.242579,0.41437
+17808,Tesco Customer Cafe,5,5,0,0,2013-01-23,52.26007,0.39753
+17809,Tesco Stores Ltd,5,5,0,0,2013-08-09,52.26007,0.39753
+17810,Tesco Stores Ltd,5,0,5,0,2014-03-05,52.444151,0.61823
+17811,Thai Street Cafe,4,5,10,5,2013-08-07,52.24505,0.407854
+17812,Thai Street Cafe,5,5,5,0,2014-10-22,,
+17813,The Affleck Arms,5,0,0,0,2013-11-01,52.226051,0.520121
+17814,The Baker,5,5,5,5,2014-01-16,52.343292,0.510546
+17815,The Bell,5,5,5,5,2012-03-28,52.334603,0.521225
+17816,The Bell Public House,4,5,5,10,2014-06-13,52.448455,0.623269
+17817,The Bird In Hand Hotel,5,5,5,0,2013-12-12,52.372062,0.47799
+17818,The Brandon Brewery,5,5,5,0,2014-01-22,52.449686,0.623725
+17819,The Brewers Tap Public House,4,10,5,5,2013-04-03,52.416011,0.519088
+17820,The Bull Inn,5,5,5,0,2013-07-10,52.335883,0.525672
+17821,The Bull Public House,5,5,5,0,2013-10-07,52.245229,0.407878
+17822,The Bushel,5,5,5,5,2014-01-15,52.244529,0.406067
+17823,The Card Factory,Exempt,nan,nan,nan,2012-04-19,52.245454,0.406103
+17824,The Chequers,5,5,5,0,2013-10-03,52.373571,0.530673
+17825,The Chequers Inn,5,5,5,5,2011-04-21,52.2479705811,0.517334163189
+17826,The Cherry Tree Public House,3,5,10,10,2014-07-24,52.251941,0.395773
+17827,The Community Centre,Exempt,nan,nan,nan,2013-12-18,52.325636,0.599674
+17828,The Eagle Polish Deli,5,5,0,5,2013-09-17,52.245456,0.408227
+17829,The Eating Place,5,5,5,5,2014-03-03,52.366809,0.506195
+17830,The Factory Shop,4,5,5,10,2008-11-17,52.343292,0.510546
+17831,The Fat Ox Catering,5,5,5,5,2013-10-17,52.342475,0.510911
+17832,The Flintknappers Public House,4,5,10,5,2014-06-09,52.447339,0.624144
+17833,the Flowerpot,Exempt,nan,nan,nan,2012-01-26,52.446569,0.620302
+17834,The Fountain Restaurant,3,10,10,10,2014-06-13,52.241481,0.398959
+17835,The Golden Boar Inn,4,10,5,5,2014-05-23,52.321193,0.442187
+17836,The Golden Bowl,3,10,10,10,2014-10-28,52.244809,0.40557
+17837,The Golden Lion Public House,5,0,0,0,2014-04-14,52.24505,0.407854
+17838,The Hawthorns,Exempt,nan,nan,nan,2007-11-07,52.248924,0.403961
+17839,The Horseshoes,5,5,5,5,2014-02-14,52.245573,0.41172
+17840,The Huntercombe Group,5,5,5,5,2014-08-15,52.272828,0.391446
+17841,The Kentford,4,10,0,5,2013-08-15,52.27243,0.503021
+17842,The Kings Head Public House,3,5,10,10,2014-02-11,52.368899,0.486436
+17843,The Lakenheath Hotel,4,5,5,10,2012-10-11,52.413641,0.521864
+17844,The Lancer,4,10,5,5,2013-10-04,52.24505,0.407854
+17845,The Lark Children Centre,Exempt,nan,nan,nan,2013-04-02,52.341761,0.514027
+17846,The Lime Indian Takeaway,4,5,10,5,2013-11-20,52.245038,0.3925
+17847,The Macaron Atelier,5,5,5,5,2014-08-08,,
+17848,The Mobile Stone Baked Pizza Kitchen,5,5,5,5,2014-03-31,52.442022,0.60514
+17849,The National Autistic Society,5,5,5,5,2008-11-13,52.382216,0.458573
+17850,The New Wellington Public House,5,5,5,5,2013-10-10,52.241734,0.419188
+17851,The News Box Newsagents,5,5,5,5,2006-03-21,52.245025,0.408629
+17852,The Nook Catering,5,5,5,5,2014-09-21,52.36276,0.459711
+17853,The Original Factory Shop,4,0,0,10,2009-06-22,52.441333,0.610662
+17854,The Ormonde Table Table,5,0,5,0,2013-06-11,52.213718,0.440085
+17855,The Packhorse Inn,5,0,0,0,2013-10-28,52.252832,0.484466
+17856,The Palomino Public House,4,5,10,5,2014-10-29,52.245835,0.390478
+17857,The Pantry Fine Food & Tea Room,4,10,5,5,2014-10-27,52.244809,0.40557
+17858,The Plough Inn,3,10,5,10,2010-03-19,52.322438,0.603992
+17859,The Post Office Tea Rooms,4,5,10,5,2014-01-20,52.416011,0.519088
+17860,The Prince of Wales Public House,4,10,5,5,2014-06-13,52.241899,0.412414
+17861,The Riverside House Hotel,5,0,5,5,2014-02-07,52.341775,0.508713
+17862,The Rosery Country House Hotel,4,5,10,5,2014-10-07,52.264589,0.375072
+17863,The Sandwich Mill,5,5,5,0,2013-10-04,52.244529,0.406067
+17864,The Stable,5,0,5,5,2013-07-12,52.244039,0.406715
+17865,The Venue & Main Kitchen,5,0,0,0,2013-12-04,52.39757,0.65513
+17866,The Village Hall,Exempt,nan,nan,nan,2013-05-02,52.301503,0.521602
+17867,The Walnut Tree,5,5,5,5,2014-06-11,52.334916,0.483942
+17868,The Wheatsheaf Inn,4,5,5,10,2014-10-17,52.263413,0.370495
+17869,The White Hart,5,nan,nan,nan,2014-07-01,52.316261,0.543307
+17870,The White Horse Inn,4,10,5,5,2014-02-17,52.264589,0.375072
+17871,The White Lion,2,15,5,10,2014-10-15,52.241481,0.398959
+17872,The White Swan Public House,5,5,5,5,2014-07-28,52.265983,0.368815
+17873,The Yard Public House,5,5,5,5,2011-05-13,52.242832,0.402401
+17874,Thing Me Bobs,5,5,5,5,2008-02-20,52.243594,0.404303
+17875,Tillbrooks Landscape Gardeners,AwaitingInspection,nan,nan,nan,,52.316261,0.543307
+17876,Tilly's,5,5,5,5,2015-01-02,52.448455,0.623269
+17877,Tindalls Newsagents & Booksellers,Exempt,nan,nan,nan,2012-06-18,52.24505,0.407854
+17878,TK Maxx,Exempt,nan,nan,nan,2010-02-09,52.245025,0.408629
+17879,Tokyo Oysy Sushi Bar,4,5,5,10,2013-10-16,52.371173,0.485668
+17880,Town Street Post Office,5,5,5,5,2014-06-26,52.44299,0.605668
+17881,Traditional Chinese Medicine,5,5,5,5,2012-09-06,52.242716,0.402336
+17882,Traditional Food,5,0,0,5,2013-09-30,52.44406,0.6252
+17883,Transport Cafe,4,10,5,5,2014-07-08,52.237141,0.403661
+17884,Travelodge,Exempt,nan,nan,nan,2009-02-13,52.338398,0.533405
+17885,Trawlers Catch,5,5,5,5,2013-11-15,52.411793,0.523303
+17886,Trawlers Catch,5,5,5,5,2013-08-08,52.371485,0.481484
+17887,Tree Tops,5,5,0,5,2014-02-04,52.249455,0.407477
+17888,Tuddenham Mill,5,5,0,0,2013-10-09,52.316261,0.543307
+17889,Tuddenham St Mary Village Hall,Exempt,nan,nan,nan,2014-01-07,52.314144,0.546003
+17890,Turkuaz Restaurant,5,5,5,5,2012-02-28,52.245456,0.408227
+17891,Turner Hall,Exempt,nan,nan,nan,2009-01-21,52.243727,0.403944
+17892,Unique,5,5,5,5,2014-06-12,52.243536,0.406341
+17893,Unisurge International Limited,5,5,5,5,2013-11-18,52.213718,0.440085
+17894,USA Chicken,5,5,5,5,2013-05-09,52.244212,0.405713
+17895,Valley Way Fish Shop,4,10,5,5,2014-01-17,52.245038,0.3925
+17896,Valley Way Stores,5,5,5,5,2014-04-11,52.245038,0.3925
+17897,Variety and Spice,3,10,10,10,2014-06-19,52.245456,0.408227
+17898,Vieira Brewing Co,4,10,5,5,2014-08-07,,
+17899,Village Hall,Exempt,nan,nan,nan,2013-01-24,52.3883056641,0.675388813019
+17900,Village Hall,Exempt,nan,nan,nan,2010-05-13,52.335039,0.517653
+17901,Village Hall,Exempt,nan,nan,nan,2013-01-28,52.247245,0.518509
+17902,Village Hall,Exempt,nan,nan,nan,2013-02-25,52.334916,0.483942
+17903,Village Hall,Exempt,nan,nan,nan,2013-12-19,52.366809,0.506195
+17904,Village Hall,Exempt,nan,nan,nan,2010-02-09,52.373571,0.530673
+17905,Village Hall & Football Club,Exempt,nan,nan,nan,2011-01-10,52.356901,0.455611
+17906,Village Store,5,5,5,5,2012-02-28,52.458284,0.671034
+17907,Vitale Cafe Bar,5,0,0,0,2013-07-30,52.392732,0.643319
+17908,Waggon And Horses Public House,5,nan,nan,nan,2014-02-20,52.24505,0.407854
+17909,Waitrose Limited,5,0,0,0,2013-11-12,52.246953,0.408001
+17910,Walkers Snack Bar,5,5,5,5,2013-04-19,52.338398,0.533405
+17911,Warren Hill Cottage,5,5,5,5,2013-04-10,52.254895,0.42112
+17912,Waterline Uk,5,5,5,5,2014-07-03,52.43709,0.60532
+17913,Wayside,5,5,5,5,2008-03-26,,
+17914,Webbs,5,5,5,5,2014-02-25,52.343292,0.510546
+17915,West Row Baptist Chapel,Exempt,nan,nan,nan,2013-12-17,52.355252,0.457943
+17916,West Row Bowls Club,5,5,5,5,2014-03-06,52.356901,0.455611
+17917,West Row Community Primary School,5,5,5,0,2013-11-25,52.356901,0.455611
+17918,West Row Village Store Ltd,5,0,0,0,2014-11-04,52.35834,0.458217
+17919,West Suffolk Golf Centre,5,5,5,5,2013-08-29,52.382216,0.458573
+17920,White Eagle,5,5,5,0,2014-07-22,52.341775,0.508713
+17921,White Hart,5,0,5,0,2014-03-12,52.243594,0.404303
+17922,Wildwood Restaurant,5,5,0,0,2014-11-10,52.245025,0.408629
+17923,Wilko Retail Ltd,5,0,0,0,2011-05-23,52.342475,0.510911
+17924,Williams Ices,5,5,5,5,2011-03-15,52.443566,0.619064
+17925,Willow Tree Farm,Exempt,nan,nan,nan,2014-07-17,52.382216,0.458573
+17926,Wings,4,0,5,10,2013-08-08,52.372446,0.463085
+17927,Wok N Rock,5,0,5,5,2013-12-09,52.415019,0.520884
+17928,Wong's Chinese Restaurant,5,5,5,5,2014-06-11,52.343292,0.510546
+17929,Worlington Cricket Club,Exempt,nan,nan,nan,2009-06-04,52.334916,0.483942
+17930,Worlington Hall Country House Hotel,4,10,5,5,2014-06-18,52.335469,0.488847
+17931,Worlington House,4,5,5,10,2014-01-08,52.335469,0.488847
+17932,Yada & Bee Thai Food Store,4,5,5,10,2014-01-28,52.245142,0.402438
+17933,Youth Centre,Exempt,nan,nan,nan,2007-12-11,,
+17934,Yummy Cupcakes,5,5,5,0,2014-12-11,,
+17935,Zest - Coffee Trailer,5,5,5,5,2014-07-22,,

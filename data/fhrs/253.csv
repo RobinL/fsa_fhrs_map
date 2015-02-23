@@ -1,470 +1,470 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-386547,,,,,16 Sunnycrest Avenue,Other catering premises,7841,,,636417,,,,14/00004/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-02-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-386548,Greyfriars Arcade,15A King Street,Richmond,North Yorkshire,A Taste Of Thailand,Other catering premises,7841,10,,27426,5,,54.40388900000000,08020/0015/1/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73713300000000,DL10 4HP,2013-07-25,fhrs_4_en-GB,4,,FHRS,5
-386549,Low Lane,Newsham,Richmond,North Yorkshire,A66 Motel,Hotel/bed & breakfast/guest house,7842,5,,199549,5,,54.49563000000000,11990/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82843900000000,DL11 7QW,2013-07-30,fhrs_5_en-GB,5,,FHRS,5
-386550,The Abbey Care Village,Hospital Road,Scorton,Richmond,Abbey Care Village,Hospitals/Childcare/Caring Premises,5,0,,51600,5,,54.39653600000000,11570/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.61299300000000,DL10 6EB,2014-07-25,fhrs_5_en-GB,5,,FHRS,5
-386551,High House,Manfield Cleasby Road,Cleasby,Darlington,Acorn Hog Roast,Mobile caterer,7846,5,,1992,0,,54.50909600000000,00540/2008/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.61789300000000,DL2 2RB,2013-07-23,fhrs_5_en-GB,5,,FHRS,5
-386552,Aldi,Richmond Road,Hipswell,Catterick Garrison,Aldi Stores Limited,Retailers - supermarkets/hypermarkets,7840,0,,14548,0,,54.37513900000000,05/00018/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72107600000000,DL9 3JA,2014-10-14,fhrs_5_en-GB,5,,FHRS,0
-386553,59 Mount Drive,Leyburn,North Yorkshire,,Amanda's Cake Pops,Retailers - other,4613,0,,632496,0,,54.31471600000000,13/00036/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82513300000000,DL8 5JQ,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-386554,8 - 10 Queens Road,Richmond,North Yorkshire,,Amontola,Restaurant/Cafe/Canteen,1,5,,27962,5,,54.40483100000000,08410/0008/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73640300000000,DL10 4AE,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-386555,Kelberdale House,Market Place,Leyburn,North Yorkshire,Andys,Retailers - other,4613,5,,445042,0,,54.31028300000000,12/00083/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82971700000000,DL8 5AW,2015-01-23,fhrs_5_en-GB,5,,FHRS,0
-386556,The Angel Hotel,19 High Street,Catterick Village,Richmond,Angel Hotel,Hotel/bed & breakfast/guest house,7842,10,,619412,0,,54.37714500000000,13/00130/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63121800000000,DL10 7LL,2013-02-04,fhrs_4_en-GB,4,,FHRS,5
-386557,The Angel Inn,62 High Street,Gilling West,Richmond,Angel Inn,Pub/bar/nightclub,7843,5,,33794,5,,54.44323500000000,10/00067/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71771500000000,DL10 5JW,2014-06-18,fhrs_5_en-GB,5,,FHRS,0
-386558,5 Finkle Street,Richmond,North Yorkshire,,Angus Morton Butchers,Retailers - other,4613,0,,24470,0,,54.40356100000000,07780/0005/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73916800000000,DL10 4QA,2014-07-28,fhrs_5_en-GB,5,,FHRS,0
-386559,7 Reeth Road,Richmond,North Yorkshire,,Antoinette's Bakery,Other catering premises,7841,,,209579,,,54.40512200000000,10/00046/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74673800000000,DL10 4EH,2010-08-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-386560,Archers Jersey Ice Cream,Workspace 3,The Station,Station Yard,Archers Ice Cream,Manufacturers/packers,7839,0,,24887,0,,54.40302700000000,08/00023/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72960500000000,DL10 4LD,2012-11-27,fhrs_5_en-GB,5,,FHRS,0
-386561,18 High Street,Catterick Village,Richmond,North Yorkshire,Ariston Pizza Co,Takeaway/sandwich shop,7844,5,,39862,5,,54.37698000000000,10040/0018/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63025000000000,DL10 7LJ,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-386562,Ariston Pizzas,27 Hildyard Row,Catterick Road,Catterick Garrison,Ariston Pizzeria,Takeaway/sandwich shop,7844,20,,8689,5,,54.37555800000000,03170/0027/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70829600000000,DL9 4DH,2013-07-19,fhrs_1_en-GB,1,,FHRS,10
-386563,Arkengarthdale Church Of England Pr,Langthwaite,Richmond,North Yorkshire,Arkengarthdale C Of E Primary School,Hospitals/Childcare/Caring Premises,5,0,,32116,0,,54.20360946655270,09270/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.36397528648376,DL11 6EN,2014-12-03,fhrs_5_en-GB,5,,FHRS,5
-386564,Nether Bar East,Appersett,Hawes,North Yorkshire,Artbar Gallery,Restaurant/Cafe/Canteen,1,5,,33699,5,,54.31148000000000,10/00060/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.21886900000000,DL8 3LN,2010-10-03,fhrs_5_en-GB,5,,FHRS,0
-386565,33 Shute Road,Catterick Garrison,North Yorkshire,,Asha Tandoori,Restaurant/Cafe/Canteen,1,5,,9140,10,,54.37602700000000,03690/0033/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72054600000000,DL9 4AF,2013-03-22,fhrs_4_en-GB,4,,FHRS,5
-386566,Wensleydale School,Askrigg,Leyburn,North Yorkshire,Askrigg Primary School,School/college/university,7845,0,,17233,0,,54.13346481323242,05720/4000/0/004,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.31587803363800,DL8 3BJ,2013-05-02,fhrs_5_en-GB,5,,FHRS,5
-386567,Askrigg Village Kitchens,Main Street,Askrigg,Leyburn,Askrigg Village Kitchen,Retailers - other,4613,0,,17263,0,,54.31526500000000,05780/2048/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.07940700000000,DL8 3HG,2012-04-12,fhrs_5_en-GB,5,,FHRS,0
-386568,Richmond Leisure Centre,Station Yard,Richmond,North Yorkshire,At The Pool Ltd,Restaurant/Cafe/Canteen,1,5,,546739,0,,54.40302700000000,13/00033/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72960500000000,DL10 4LD,2013-05-13,fhrs_5_en-GB,5,,FHRS,5
-386569,Aysgarth School,Newton Le Willows,Bedale,North Yorkshire,Aysgarth School Trust Ltd,School/college/university,7845,0,,6423,0,,54.29630800000000,02180/2003/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68305800000000,DL8 1TF,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-386570,Bainbridge Church Of England Primar,Back Syke,Bainbridge,Leyburn,Bainbridge C Of E Primary School,Hospitals/Childcare/Caring Premises,5,0,,17465,0,,54.31657028198242,05980/4000/0/008,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.84478998184204,DL8 3EL,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-386571,18 - 19 Trinity Church Square,Market Place,Richmond,North Yorkshire,Barkers Of Richmond,Restaurant/Cafe/Canteen,1,0,,372407,0,,,009/00057/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,DL10 4GW,2013-10-28,fhrs_5_en-GB,5,,FHRS,5
-386572,Ice Cream Kiosk,Riverside Road,Richmond,North Yorkshire,Barries Ices,Takeaway/sandwich shop,7844,0,,27999,0,,54.40132500000000,08460/3000/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73482800000000,,2013-04-15,fhrs_5_en-GB,5,,FHRS,0
-386573,Barton Church Of England School,Silver Street,Barton,Richmond,Barton C Of E Primary School,School/college/university,7845,0,,32374,0,,54.47473700000000,09520/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.64370500000000,DL10 6LJ,2013-11-08,fhrs_5_en-GB,5,,FHRS,0
-386574,The Green,Ravensworth,Richmond,North Yorkshire,Bay Horse Inn,Restaurant/Cafe/Canteen,1,5,,51017,0,,54.46535500000000,11390/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.78459600000000,DL11 7ET,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-386575,Tunstall,Richmond,North Yorkshire,,Bay Horse Inn,Pub/bar/nightclub,7843,5,,492603,5,,54.35630416870120,12/00132/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67147231101990,DL10 7QS,2013-01-04,fhrs_5_en-GB,5,,FHRS,5
-386576,Cattle Market,Market Place,Hawes,North Yorkshire,Bear Cottage Interiors,Other catering premises,7841,0,,581512,0,,54.30428800000000,13/00012/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19942200000000,DL8 3RD,2013-08-22,fhrs_5_en-GB,5,,FHRS,0
-386577,Mill Close Farm,Mill Close,Patrick Brompton,Bedale,Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,,,209512,,,54.32446700000000,05/00094/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.64797100000000,DL8 1JY,2005-10-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-386578,Hatters Garth,Low Row,Richmond,North Yorkshire,Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,,,209540,,,54.37800000000000,05/00068/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.02824800000000,DL11 6NA,2005-07-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-386579,16 Beechfield Road,Richmond,North Yorkshire,,Beechfield B&B,Other catering premises,7841,,,209578,,,54.40914700000000,07/00056/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72961100000000,DL10 4PN,2010-07-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-386580,Farm Shop At,Temple Farm,Swinithwaite,North Yorkshire,Berry's Farm Shop And Cafe,Retailers - other,4613,5,,351878,5,,,12/00022/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-386581,40 Market Place,Richmond,North Yorkshire,,Bishop Blaize,Pub/bar/nightclub,7843,10,,27626,5,,54.40259600000000,08120/0040/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73786500000000,DL10 4QL,2013-07-11,fhrs_2_en-GB,2,,FHRS,15
-386582,The Black Bull Inn,19 West Road,Melsonby,Richmond,Black Bull,Pub/bar/nightclub,7843,0,,50054,0,,54.47113600000000,11130/0019/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.69746400000000,DL10 5ND,2014-04-16,fhrs_5_en-GB,5,,FHRS,0
-386583,High Row,Reeth,Richmond,North Yorkshire,Black Bull Hotel,Hotel/bed & breakfast/guest house,7842,5,,51156,0,,54.38855000000000,11430/4000/0/011,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94351500000000,DL11 6SZ,2014-10-29,fhrs_5_en-GB,5,,FHRS,5
-386584,Black Swan,28 Market Place,Leyburn,North Yorkshire,Black Swan Hotel,Pub/bar/nightclub,7843,5,,16864,5,,54.31009300000000,05340/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82894900000000,DL8 5AS,2014-06-13,fhrs_5_en-GB,5,,FHRS,5
-386585,Market Place,Middleham,Leyburn,North Yorkshire,Black Swan Hotel,Hotel/bed & breakfast/guest house,7842,10,,693493,0,,54.28491100000000,14/00072/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80564400000000,DL8 4NP,2014-08-13,fhrs_4_en-GB,4,,FHRS,5
-386586,The Blue Lion Inn,East Witton,Leyburn,North Yorkshire,Blue Lion Inn,Hotel/bed & breakfast/guest house,7842,10,,20645,0,,54.26974800000000,06250/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.77829200000000,DL8 4SN,2013-12-02,fhrs_4_en-GB,4,,FHRS,5
-386587,Bolton Arms Hotel,Hargill Lane,Redmire,Leyburn,Bolton Arms,Hotel/bed & breakfast/guest house,7842,10,,409852,5,,54.31672000000000,12/00081/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.93223800000000,DL8 4EA,2013-12-11,fhrs_4_en-GB,4,,FHRS,5
-386588,Downholme,Richmond,North Yorkshire,,Bolton Arms,Pub/bar/nightclub,7843,5,,41848,0,,54.37637000000000,10350/4000/0/005,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82678100000000,DL11 6AE,2013-07-11,fhrs_5_en-GB,5,,FHRS,5
-386589,Bolton On Swale Primary School,Bolton Road,Scorton,Richmond,Bolton On Swale C Of E Primary School,School/college/university,7845,0,,32422,0,,54.35297300000000,09600/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.81843200000000,DL11 6AQ,2013-09-05,fhrs_5_en-GB,5,,FHRS,0
-386590,30 Shute Road,Catterick Garrison,North Yorkshire,,Booze Buster,Retailers - other,4613,5,,504991,0,,54.37568800000000,11/00012/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72134900000000,DL9 4AE,2014-07-01,fhrs_5_en-GB,5,,FHRS,5
-386591,Quarry Hills Lane,Leyburn,North Yorkshire,,Brentwood Lodge,Hospitals/Childcare/Caring Premises,5,0,,16989,0,,54.30991700000000,05440/2002/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82532300000000,DL8 5EJ,2015-01-14,fhrs_5_en-GB,5,,FHRS,0
-386592,The Green,Stapleton,Darlington,North Yorkshire,Bridge Inn,Restaurant/Cafe/Canteen,1,5,,5503,0,,54.50407000000000,01900/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.59488400000000,DL2 2QQ,2013-05-07,fhrs_5_en-GB,5,,FHRS,5
-386593,Brompton On Swale Church Of England,Brompton Park,Brompton On Swale,Richmond,Brompton On Swale C Of E Primary School,School/college/university,7845,0,,32468,0,,54.39347600000000,09650/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66264400000000,DL10 7JW,2013-11-06,fhrs_5_en-GB,5,,FHRS,5
-386594,Brow Hill,Gunnerside,Richmond,North Yorkshire,Brow Hill Farm,Hotel/bed & breakfast/guest house,7842,0,,45752,0,,54.37924600000000,11/00025/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.07769900000000,DL11 6LE,2014-03-13,fhrs_5_en-GB,5,,FHRS,0
-386595,High Jervaulx Farm,Jervaulx,Middleham,Ripon,Brymor Tea Rooms,Restaurant/Cafe/Canteen,1,10,,209529,5,,54.26183200000000,12/00036/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72274600000000,HG4 4PG,2013-08-07,fhrs_4_en-GB,4,,FHRS,5
-386596,Scotch Corner Services,Middleton Tyas Lane,Middleton Tyas,North Yorkshire,Burger King At Granada Services,Restaurant/Cafe/Canteen,1,0,,50084,0,,54.44363800000000,11140/2099/3/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66749000000000,DL10 6PQ,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-386597,Butt House,Keld,Richmond,North Yorkshire,Butt House Guest House,Hotel/bed & breakfast/guest house,7842,10,,687819,0,,54.40571200000000,14/00050/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.16679200000000,DL11 6LJ,2014-07-28,fhrs_4_en-GB,4,,FHRS,0
-386598,South Lodge,Stanwick St John,Richmond,North Yorkshire,Cafe Deli,Mobile caterer,7846,5,,15095,0,,54.49955800000000,05/00106/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71464000000000,DL11 7RT,2014-04-22,fhrs_5_en-GB,5,,FHRS,5
-386599,Market Place,Hawes,North Yorkshire,,Caffe Curva,Restaurant/Cafe/Canteen,1,5,,595894,5,,54.30412000000000,13/00091/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19777600000000,DL8 3QZ,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-386600,10 Chepstow Close,Colburn,Catterick Garrison,North Yorkshire,Cake HQ,Other catering premises,7841,5,,355581,0,,54.37543100000000,11/00128/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.69668900000000,DL9 4GG,2012-04-26,fhrs_5_en-GB,5,,FHRS,0
-386601,,,,,Cambridge House Guest House,Hotel/bed & breakfast/guest house,7842,,,625050,,,,13/00099/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-01-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-386602,Auction Mart Canteen,Burtersett Road,Hawes,North Yorkshire,"Canteen, Hawes Auction Mart",Restaurant/Cafe/Canteen,1,5,,14143,5,,54.30315900000000,04710/4000/3/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19128700000000,DL8 3NP,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-386603,Preston Farms,Burtersett Road,Hawes,North Yorkshire,Carrs Billington Agriculture,Retailers - other,4613,5,,14140,0,,54.30315900000000,04710/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19128700000000,DL8 3NP,2010-01-21,fhrs_5_en-GB,5,,FHRS,5
-386604,Castle Keep,Castle Hill,Middleham,Leyburn,Castle Keep Tea Rooms,Restaurant/Cafe/Canteen,1,0,,20906,0,,54.28458100000000,06570/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80699700000000,DL8 4QR,2013-06-14,fhrs_5_en-GB,5,,FHRS,0
-386605,Catterick Camping And Caravan Ltd,Gatherley Road,Brompton On Swale,Richmond,Catterick Caravans,Restaurant/Cafe/Canteen,1,5,,32504,0,,54.39539700000000,09670/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65537400000000,DL10 7JB,2014-01-30,fhrs_5_en-GB,5,,FHRS,0
-386606,Sunnyside House,20 High Street,Catterick Village,Richmond,Catterick Social Club,Pub/bar/nightclub,7843,5,,39870,0,,54.37698000000000,10040/2001/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63025000000000,DL10 7LJ,2008-12-18,fhrs_4_en-GB,4,,FHRS,10
-386607,5 Thornton Court,Catterick Village,Richmond,North Yorkshire,Catterick Village Fisheries,Takeaway/sandwich shop,7844,0,,40110,0,,54.37628000000000,10080/0005/A/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63048700000000,DL10 7LT,2014-12-11,fhrs_5_en-GB,5,,FHRS,5
-386608,10 Rosemary Lane,Richmond,North Yorkshire,,Cavern Music Bar,Pub/bar/nightclub,7843,5,,28037,5,,54.40414500000000,08510/0010/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73953400000000,DL10 4DP,2010-11-04,fhrs_5_en-GB,5,,FHRS,5
-386609,Market Place,Middleham,Leyburn,North Yorkshire,Central Stores,Retailers - other,4613,5,,21042,0,,54.28496800000000,06730/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80702600000000,DL8 4QG,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-386610,Chef Hong Kong  Red Brae,Burrard Avenue,Richmond,North Yorkshire,Chef Hong Kong,Takeaway/sandwich shop,7844,5,,28400,10,,54.40536400000000,08940/1000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74625900000000,DL10 4EJ,2013-09-03,fhrs_4_en-GB,4,,FHRS,5
-386611,Smart Garden Centre,Scorton Road,Brompton On Swale,Richmond,Churchill Tea Rooms,Restaurant/Cafe/Canteen,1,5,,617158,5,,54.39784500000000,13/00112/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.64709800000000,DL10 7EQ,2013-11-04,fhrs_5_en-GB,5,,FHRS,5
-386612,Clow Beck Centre,Jolby Lane,Croft On Tees,Darlington,Clervaux Trust,Hospitals/Childcare/Caring Premises,5,5,,565674,5,,54.48245800000000,13/00038/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.57716300000000,DL2 2TF,2013-07-04,fhrs_5_en-GB,5,,FHRS,5
-386613,,,,,Clyde House,Hotel/bed & breakfast/guest house,7842,,,628095,,,,13/00079/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-01-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-386614,Market Place,Hawes,North Yorkshire,,Cocketts Hotel,Hotel/bed & breakfast/guest house,7842,5,,14250,0,,54.30431400000000,04850/4000/0/017,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19959100000000,DL8 3RD,2014-02-08,fhrs_5_en-GB,5,,FHRS,5
-386615,Colburn Lane,Colburn,Catterick Garrison,North Yorkshire,Colburn County Primary School,School/college/university,7845,0,,7166,0,,54.37988000000000,02720/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68989800000000,DL9 4LS,2013-05-20,fhrs_5_en-GB,5,,FHRS,0
-386616,5 Broadway,Colburn,Catterick Garrison,North Yorkshire,Colburn Fisheries,Takeaway/sandwich shop,7844,0,,6825,0,,54.37947800000000,02560/0005/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68723700000000,DL9 4RF,2013-07-24,fhrs_5_en-GB,5,,FHRS,0
-386617,71 Colburn Lane,Colburn,Catterick Garrison,North Yorkshire,Colburn New Stores,Retailers - other,4613,5,,680828,0,,54.38226100000000,14/00058/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.69314400000000,DL9 4NJ,2014-07-01,fhrs_4_en-GB,4,,FHRS,10
-386618,14 Newbiggin,Richmond,North Yorkshire,,Comrades Club,Pub/bar/nightclub,7843,0,,27783,0,,54.40391500000000,08210/0014/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74101500000000,DL10 4DT,2009-09-01,fhrs_5_en-GB,5,,FHRS,5
-386619,12 Newbiggin,Richmond,North Yorkshire,,Conservative Club,Pub/bar/nightclub,7843,5,,27781,5,,54.40391500000000,08210/0012/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74101500000000,DL10 4DT,2008-11-26,fhrs_5_en-GB,5,,FHRS,5
-386620,44 High Street,Catterick Village,Richmond,North Yorkshire,Co-Operative Group Ltd,Retailers - supermarkets/hypermarkets,7840,0,,39868,0,,54.37841500000000,10040/0044/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63208400000000,DL10 7LD,2013-07-22,fhrs_5_en-GB,5,,FHRS,0
-386621,Co-op,11 Broadway,Colburn,Catterick Garrison,Co-Operative Group Ltd,Retailers - supermarkets/hypermarkets,7840,0,,6826,0,,54.37947800000000,02560/0010/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68723700000000,DL9 4RF,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-386622,Co-Operative Supermarket,Queens Road,Richmond,North Yorkshire,Co-Operative Group Ltd,Retailers - supermarkets/hypermarkets,7840,0,,27966,5,,54.40572100000000,08410/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73665900000000,DL10 4AJ,2013-06-11,fhrs_5_en-GB,5,,FHRS,0
-386623,11 Hurgill Road,Richmond,North Yorkshire,,Cordilleras House,Hotel/bed & breakfast/guest house,7842,5,,459625,0,,54.40561700000000,12/00104/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74242100000000,DL10 4AR,2012-10-11,fhrs_5_en-GB,5,,FHRS,0
-386624,Newkin,Bainbridge,Leyburn,North Yorkshire,Corn Mill Tea Room,Restaurant/Cafe/Canteen,1,5,,20464,0,,54.30742900000000,06020/4000/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.10263000000000,DL8 3EF,2014-05-30,fhrs_5_en-GB,5,,FHRS,0
-386625,Scotch Corner Services,Middleton Tyas Lane,Middleton Tyas,North Yorkshire,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,50085,0,,54.44363800000000,11140/2099/3/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66749000000000,DL10 6PQ,2014-10-14,fhrs_5_en-GB,5,,FHRS,0
-386626,Richmond Hotel,29 Market Place,Richmond,North Yorkshire,Costa Ltd,Restaurant/Cafe/Canteen,1,0,,581514,0,,54.40281400000000,13/00072/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73880300000000,DL10 4QG,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-386627,East Witton,Leyburn,North Yorkshire,,Cover Bridge Inn,Pub/bar/nightclub,7843,5,,20646,5,,54.27892700000000,06250/4000/0/005,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.77994700000000,DL8 4SQ,2013-07-11,fhrs_4_en-GB,4,,FHRS,10
-386628,White Hills,Station Road,Scorton,Richmond,Cowgirl Catering,Mobile caterer,7846,5,,693489,0,,54.40986000000000,14/00048/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.60912400000000,DL10 6DE,2014-08-22,fhrs_5_en-GB,5,,FHRS,0
-386629,Church Cottage,East Layton,Richmond,North Yorkshire,Crackling Hog Roast,Mobile caterer,7846,0,,719525,0,,54.48514600000000,14/00088/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.75281900000000,DL11 7PQ,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-386630,Croft Church Of England Primary Sch,South Parade,Croft On Tees,Darlington,Croft C Of E Primary School,School/college/university,7845,0,,2101,0,,54.48309800000000,00630/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.56258600000000,DL2 2SP,2014-04-25,fhrs_5_en-GB,5,,FHRS,0
-386631,Bellerby,Leyburn,North Yorkshire,,Cross Keys Inn,Pub/bar/nightclub,7843,5,,673174,0,,54.33116200000000,12/00129/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82464800000000,DL8 5QS,2014-06-19,fhrs_5_en-GB,5,,FHRS,0
-386632,2 Cross Lanes,Richmond,North Yorkshire,,Cross Lanes Store,Retailers - other,4613,5,,24366,0,,54.41064400000000,07680/0002/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72001800000000,DL10 5BL,2011-09-26,fhrs_5_en-GB,5,,FHRS,0
-386633,38 Market Place,Richmond,North Yorkshire,,Cross View Tea Rooms,Restaurant/Cafe/Canteen,1,5,,27625,0,,54.40259600000000,08120/0038/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73786500000000,DL10 4QL,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-386634,Cuckoo Hill View,The Green,Reeth,Richmond,Cuckoo Hill View Ice Cream Parlour,Retailers - other,4613,5,,51151,5,,54.38818200000000,11430/2149/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94310000000000,DL11 6TE,2012-06-01,fhrs_5_en-GB,5,,FHRS,5
-386635,,,,,Cupcake Poptastic,Other catering premises,7841,,,625048,,,,13/00090/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-01-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-386636,Market Hall,Market Place,Richmond,North Yorkshire,Cuppa Cafe,Restaurant/Cafe/Canteen,1,5,,338141,0,,54.40259600000000,12/00062/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73786500000000,DL10 4QL,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-386637,Units 7D-7E,Easton Way,Colburn,Catterick Garrison,CWC Malings Ltd,Other catering premises,7841,0,,13442,0,,54.37923200000000,04090/3007/D/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68277500000000,DL9 4GA,2013-02-12,fhrs_5_en-GB,5,,FHRS,0
-386638,West Hagg,West Hagg Farm Road,Fremington,Richmond,Dales Bike Centre,Restaurant/Cafe/Canteen,1,0,,188561,0,,54.38618900000000,09/00003/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.91669500000000,DL11 6AU,2014-02-03,fhrs_5_en-GB,5,,FHRS,0
-386639,Memorial Hall,High Lane,Dalton,North Yorkshire,Dalton & Gayles Village Hall,Other catering premises,7841,0,,534456,0,,54.47047900000000,13/00025/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82479500000000,DL11 7HX,2013-04-03,fhrs_5_en-GB,5,,FHRS,0
-386640,Prospect Farm,Catterick Village To Tunstall Road,Catterick Village,Richmond,Davina Lovegreen Catering,Other catering premises,7841,0,,32626,0,,54.36719900000000,09890/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65020700000000,DL10 7PP,2013-12-03,fhrs_5_en-GB,5,,FHRS,0
-386641,15 Cutpurse Lane,Richmond,North Yorkshire,,Delhi-cious,Takeaway/sandwich shop,7844,5,,24387,5,,54.41194600000000,07690/0015/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73121100000000,DL10 4PF,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-386642,The Barn,Wild Hill,Hunton,Bedale,Delicious Delights,Other catering premises,7841,10,,583062,0,,54.31832900000000,13/00019/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71252800000000,DL8 1QY,2013-09-05,fhrs_4_en-GB,4,,FHRS,5
-386643,46 Richmond Road,Hipswell,Catterick Garrison,North Yorkshire,Delish,Takeaway/sandwich shop,7844,5,,32823,10,,54.37819000000000,10/00007/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72316400000000,DL9 3JF,2013-01-29,fhrs_4_en-GB,4,,FHRS,5
-386644,Robin Hood Farm,Gatherley Road,Brompton On Swale,Richmond,"Dinky Donuts, Country Kitchen",Mobile caterer,7846,0,,53883,0,,54.39736200000000,12130/4000/0/00A,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65438700000000,DL10 7JF,2013-07-17,fhrs_5_en-GB,5,,FHRS,5
-386645,Central Chambers,Market Place,Leyburn,North Yorkshire,Dragon Inn,Restaurant/Cafe/Canteen,1,5,,732196,5,,54.30954400000000,15/00007/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82864400000000,DL8 5BD,2015-01-16,fhrs_5_en-GB,5,,FHRS,5
-386646,19 - 21 Frenchgate,Richmond,North Yorkshire,,Edwina's Cakes,Retailers - other,4613,5,,534455,0,,54.40356200000000,13/00024/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73577900000000,DL10 4HZ,2013-04-04,fhrs_5_en-GB,5,,FHRS,0
-386647,Elijah Allen And Son,Market Place,Hawes,North Yorkshire,Elijah Allen & Son,Retailers - other,4613,0,,14245,0,,54.30383100000000,04850/4000/0/011,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19828200000000,DL8 3QX,2014-06-10,fhrs_5_en-GB,5,,FHRS,0
-386648,Eppleby Forcett Church Of England P,School Lane,Eppleby,Richmond,Eppleby Forcett C Of E Primary School,School/college/university,7845,0,,42461,0,,54.51349000000000,10470/4000/0/006,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72734800000000,DL11 7AY,2013-09-04,fhrs_5_en-GB,5,,FHRS,0
-386649,Stapleton House,School Lane,Eppleby,Richmond,Eppleby Village Shop And Tea Room,Retailers - other,4613,0,,577513,0,,54.51349000000000,13/00054/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72734800000000,DL11 7AY,2013-08-08,fhrs_5_en-GB,5,,FHRS,0
-386650,The Estate Cafe,34 Racecourse Road,Gallowfields Trading Esate,Richmond,Estate Cafe,Restaurant/Cafe/Canteen,1,10,,47729,10,,54.41203800000000,11/00163/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74458400000000,DL10 4TG,2014-11-27,fhrs_3_en-GB,3,,FHRS,10
-386651,Scotch Corner Services,Middleton Tyas Lane,Middleton Tyas,North Yorkshire,Eurogarages Ltd,Retailers - other,4613,0,,732195,0,,54.44363800000000,14/00085/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66749000000000,DL10 6PQ,2015-01-19,fhrs_5_en-GB,5,,FHRS,0
-386652,Cafe,Bolton Castle,Castle Bolton,Leyburn,Fairhursts,Restaurant/Cafe/Canteen,1,5,,569213,0,,54.32264100000000,13/00047/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94767900000000,DL8 4ET,2013-10-23,fhrs_5_en-GB,5,,FHRS,5
-386653,Key Centre,Park Lane,Middleham,Leyburn,Fairhursts,Other catering premises,7841,10,,570698,5,,54.28467500000000,13/00048/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80959300000000,DL8 4RA,2013-07-11,fhrs_4_en-GB,4,,FHRS,0
-386654,The Garage,Harmby,Leyburn,North Yorkshire,Farmaround Ltd,Manufacturers/packers,7839,5,,682391,0,,54.30289600000000,14/00043/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80614300000000,DL8 5PD,2014-07-08,fhrs_4_en-GB,4,,FHRS,10
-386655,The Farmers Arms,Gatherley Road,Brompton On Swale,Richmond,Farmers Arms,Pub/bar/nightclub,7843,5,,46529,5,,54.39160500000000,11/00070/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65251000000000,DL10 7HZ,2015-01-20,fhrs_4_en-GB,4,,FHRS,10
-386656,East Browson,Dick Scot Lane,Dalton,Richmond,Farmhouse Catering,Other catering premises,7841,,,209533,,,54.48076900000000,05/00034/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80129200000000,DL11 7HE,2009-07-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-386657,Unit 4  Harmby Road Industrial Esta,Harmby Road,Leyburn,North Yorkshire,Farmway Limited,Retailers - other,4613,0,,619410,0,,54.30702900000000,13/00078/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.81743500000000,DL8 5QA,2013-12-12,fhrs_5_en-GB,5,,FHRS,0
-386658,Fat Sheep,Ground Floor,The Literary Institute,The Green,Fatsheep,Retailers - other,4613,,,209517,,,54.38818200000000,06/00039/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94310000000000,DL11 6TE,2009-06-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-386659,Flowery Dell Lodges,Hudswell,Richmond,North Yorkshire,Flowery Dell Limited,Retailers - other,4613,10,,28502,5,,54.39697600000000,09/00004/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.75321000000000,DL11 6BD,2009-01-16,fhrs_4_en-GB,4,,FHRS,5
-386660,Market Place,Hawes,North Yorkshire,,Fountain Hotel,Hotel/bed & breakfast/guest house,7842,0,,14248,0,,54.30431400000000,04850/4000/0/015,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19959100000000,DL8 3RD,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-386661,Cross Keys Inn,Low Green,Eppleby,Richmond,Fountain Restaurant,Pub/bar/nightclub,7843,5,,427351,0,,54.51340700000000,12/00086/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72628300000000,DL11 7AZ,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-386662,Fox And Hounds,West Burton,Leyburn,North Yorkshire,Fox And Hounds Hotel,Pub/bar/nightclub,7843,5,,21234,0,,54.27451400000000,06980/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.97722400000000,DL8 4JY,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-386663,East Layton,Richmond,North Yorkshire,,Fox Hall Inn,Restaurant/Cafe/Canteen,1,5,,544687,0,,54.47740936279297,13/00021/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.77237248420715,DL11 7PW,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-386664,29 Frenchgate,Richmond,North Yorkshire,,Frenchgate 29,Restaurant/Cafe/Canteen,1,5,,351879,0,,54.40562600000000,12/00049/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73414800000000,DL10 7AE,2013-10-23,fhrs_5_en-GB,5,,FHRS,5
-386665,1 Frenchgate,Richmond,North Yorkshire,,Frenchgate Fudge Makers,Retailers - other,4613,0,,24488,0,,54.40356200000000,07820/0001/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73577900000000,DL10 4HZ,2012-11-01,fhrs_5_en-GB,5,,FHRS,5
-386666,Frydayz Fish Bar,25 Hildyard Row,Catterick Road,Catterick Garrison,Frydayz Fish Bar Ltd,Takeaway/sandwich shop,7844,0,,664680,0,,54.37555800000000,14/00035/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70829600000000,DL9 4DH,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-386667,Barclays Bank,9 Market Place,Leyburn,North Yorkshire,Fryer Tucks,Takeaway/sandwich shop,7844,5,,16845,5,,54.30951000000000,05340/0009/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82981200000000,DL8 5BQ,2014-05-05,fhrs_5_en-GB,5,,FHRS,0
-386668,1 - 2 Hildyard Row,Catterick Road,Catterick Garrison,North Yorkshire,G & E Murgatroyd,Retailers - supermarkets/hypermarkets,7840,5,,8682,5,,54.37555800000000,03170/0001/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70829600000000,DL9 4DH,2009-05-14,fhrs_5_en-GB,5,,FHRS,5
-386669,5 Hildyard Row,Catterick Road,Catterick Garrison,North Yorkshire,Garrison Chop Suey House,Takeaway/sandwich shop,7844,10,,8683,5,,54.37555800000000,03170/0005/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70829600000000,DL9 4DH,2014-12-15,fhrs_4_en-GB,4,,FHRS,5
-386670,George And Dragon Inn,Main Street,Aysgarth,Leyburn,George And Dragon Hotel,Hotel/bed & breakfast/guest house,7842,5,,17427,0,,54.29134100000000,05940/4000/0/004,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.99561900000000,DL8 3AD,2014-07-24,fhrs_5_en-GB,5,,FHRS,5
-386671,The Georgian Theatre Royal,Victoria Road,Richmond,North Yorkshire,"Georgian Theatre Royal, The",Pub/bar/nightclub,7843,,,209541,,,54.40405400000000,08860/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73884200000000,DL10 4DW,2009-09-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-386672,Ghyllfoot Tearooms,Gunnerside,Richmond,North Yorkshire,Ghyll Foot Restaurant,Restaurant/Cafe/Canteen,1,0,,44685,0,,54.37977700000000,10830/4000/0/007,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.07580600000000,DL11 6LA,2013-08-23,fhrs_5_en-GB,5,,FHRS,0
-386673,13 Railway Street,Leyburn,North Yorkshire,,Giovannis,Restaurant/Cafe/Canteen,1,0,,693492,0,,54.30863400000000,14/00070/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82717200000000,DL8 5EH,2014-08-15,fhrs_5_en-GB,5,,FHRS,5
-386674,Ivy Cottage,Railway Street,Leyburn,North Yorkshire,Giovannis,Restaurant/Cafe/Canteen,1,5,,17002,0,,54.30939100000000,05450/0013/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82821400000000,DL8 5BB,2014-03-07,fhrs_5_en-GB,5,,FHRS,0
-386675,Golden Lion Hotel,Market Place,Leyburn,North Yorkshire,Golden Lion,Hotel/bed & breakfast/guest house,7842,10,,673175,5,,54.31009300000000,14/00018/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82894900000000,DL8 5AS,2014-06-20,fhrs_4_en-GB,4,,FHRS,5
-386676,Market Place,Richmond,North Yorkshire,,Golden Lion,Hotel/bed & breakfast/guest house,7842,5,,565675,0,,54.40259600000000,13/00050/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73786500000000,DL10 4QL,2013-06-28,fhrs_5_en-GB,5,,FHRS,0
-386677,The Good Life,Charcoals Way,Upper Wensleydale Business Park,Hawes,Good Life,Retailers - other,4613,5,,21403,5,,54.30412000000000,07/00018/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19777600000000,DL8 3QZ,2009-07-14,fhrs_5_en-GB,5,,FHRS,5
-386678,Firby Building,Borough Road,Gallowfields Trading Estate,Richmond,Granny's Kitchen,Manufacturers/packers,7839,0,,668772,0,,,14/00053/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-386679,The Green Dragon Inn,Hardraw,Hawes,North Yorkshire,Green Dragon Inn,Pub/bar/nightclub,7843,10,,16576,5,,54.31618600000000,05100/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.20505900000000,DL8 3LZ,2014-06-17,fhrs_3_en-GB,3,,FHRS,10
-386680,The Green Tree,Patrick Brompton,Bedale,North Yorkshire,Green Tree,Pub/bar/nightclub,7843,5,,6594,5,,54.31124300000000,02300/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66549900000000,DL8 1JW,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-386681,14 Market Place,Richmond,North Yorkshire,,Greggs,Takeaway/sandwich shop,7844,0,,27615,0,,54.40368400000000,08120/0014/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73812000000000,DL10 4PX,2014-04-23,fhrs_5_en-GB,5,,FHRS,0
-386682,Richmondshire Walk,Catterick Garrison,North Yorkshire,,Greggs,Retailers - other,4613,0,,9029,0,,54.37478400000000,03555/2105/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72295600000000,DL9 3EN,2014-04-22,fhrs_5_en-GB,5,,FHRS,0
-386683,Greyfriars,Flints Terrace,Richmond,North Yorkshire,Greyfriars Restaurant,Restaurant/Cafe/Canteen,1,0,,679543,5,,,14/00062/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-04-22,fhrs_5_en-GB,5,,FHRS,0
-386684,Grinton,Richmond,North Yorkshire,,Grinton Lodge Youth Hostel,Hotel/bed & breakfast/guest house,7842,5,,44625,0,,54.38099400000000,10820/2020/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.92970000000000,DL11 6HN,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-386685,The Grove Hotel,8 Grove Square,Moor Road,Leyburn,Grove House,Hotel/bed & breakfast/guest house,7842,0,,360668,0,,54.31134400000000,12/00059/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83037300000000,DL8 5AE,2012-05-08,fhrs_5_en-GB,5,,FHRS,5
-386686,Gurkhas Corner,3 Broadway,Colburn,Catterick Garrison,Gurkha's Corner,Retailers - other,4613,5,,18121,5,,54.37947800000000,06/00073/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68723700000000,DL9 4RF,2011-01-11,fhrs_5_en-GB,5,,FHRS,0
-386687,11A Market Place,Richmond,North Yorkshire,,H Taylor & Son Ltd,Retailers - other,4613,20,,548752,15,,54.40368400000000,13/00032/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73812000000000,DL10 4PX,2015-01-07,fhrs_1_en-GB,1,,FHRS,15
-386688,Hack And Spade Inn,Whashton,Richmond,North Yorkshire,Hack And Spade,Hotel/bed & breakfast/guest house,7842,5,,576146,5,,54.45104900000000,13/00057/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.77091500000000,DL11 7JL,2013-07-19,fhrs_5_en-GB,5,,FHRS,0
-386689,Half Moon Inn,Silver Street,Barton,Richmond,Half Moon,Pub/bar/nightclub,7843,5,,32373,5,,54.47416900000000,09520/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.64627200000000,DL10 6JH,2010-08-03,fhrs_5_en-GB,5,,FHRS,5
-386690,Halfway House,Hawes,North Yorkshire,,Halfway House Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,0,,408194,0,,54.30757900000000,12/00077/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.20859700000000,DL8 3LL,2012-06-25,fhrs_5_en-GB,5,,FHRS,0
-386691,8 Rosemary Lane,Richmond,North Yorkshire,,Hamiltons Butchers,Retailers - other,4613,0,,28036,5,,54.40414500000000,08510/0008/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73953400000000,DL10 4DP,2013-11-04,fhrs_5_en-GB,5,,FHRS,0
-386692,Bainbridge,Leyburn,North Yorkshire,,Hammond The Butcher,Retailers - other,4613,5,,17464,5,,54.30623400000000,05980/4000/0/006,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.10251900000000,DL8 3EH,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-386693,Arc Hanson Sports And Social Club,Catterick Road,Catterick Garrison,North Yorkshire,Hanson Sports And Social Club,Pub/bar/nightclub,7843,5,,6935,5,,54.37840500000000,02660/2006/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68964700000000,DL9 4QZ,2013-10-22,fhrs_5_en-GB,5,,FHRS,0
-386694,2 Shute Road,Catterick Garrison,North Yorkshire,,Happy House,Takeaway/sandwich shop,7844,5,,732197,0,,54.37568800000000,15/00009/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72134900000000,DL9 4AE,2015-01-22,fhrs_5_en-GB,5,,FHRS,0
-386695,Caravan Club Site,Hargill House,Gilling West,Richmond,Hargill House Caravan Club Site,Retailers - other,4613,5,,648916,0,,54.45053100000000,13/00093/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70938300000000,DL10 5LJ,2014-04-07,fhrs_5_en-GB,5,,FHRS,0
-386696,Hartforth Hall,Hartforth Hall Roads,Hartforth,Richmond,Hartforth Hall Hotel,Hotel/bed & breakfast/guest house,7842,5,,44246,5,,54.45385200000000,10740/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73895700000000,DL10 5JU,2013-08-02,fhrs_5_en-GB,5,,FHRS,5
-386697,Brown Moor Caravan Site,Hardraw Road,Hawes,North Yorkshire,Hawes Caravan Club Site Shop,Retailers - other,4613,0,,668771,0,,54.30798200000000,14/00028/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.18795900000000,DL8 3PS,2014-06-10,fhrs_5_en-GB,5,,FHRS,0
-386698,Hawes Community Primary School,Town Head,Hawes,North Yorkshire,Hawes County Primary School,School/college/university,7845,0,,14336,0,,54.13346481323242,04910/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.31587803363800,DL8 3RQ,2013-10-24,fhrs_5_en-GB,5,,FHRS,0
-386699,Market Place,Hawes,North Yorkshire,,Hawes Curry Cottage,Other catering premises,7841,5,,569211,5,,54.30431400000000,13/00028/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19959100000000,DL8 3RD,2013-07-03,fhrs_5_en-GB,5,,FHRS,5
-386700,Hazel Brown Farm Visitor Centre,Ivy Cottage Road,Low Row,Richmond,Hazel Brow Farm Visitor Centre,Restaurant/Cafe/Canteen,1,5,,664681,5,,54.37713700000000,14/00036/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.02898600000000,DL11 6NE,2014-04-03,fhrs_5_en-GB,5,,FHRS,5
-386701,West Stone Ing,Brocca Bank,Feetham,Richmond,Hazel Brow Farm Visitor Centre,Other catering premises,7841,,,693488,,,54.37618900000000,14/00046/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.04462600000000,DL11 6PX,2014-08-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-386702,The Crown Inn,8 Richmond Road,Brompton On Swale,Richmond,Heaney Catering,Pub/bar/nightclub,7843,0,,32553,0,,54.39254700000000,09760/0008/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66791800000000,DL10 7HE,2014-07-18,fhrs_5_en-GB,5,,FHRS,5
-386703,Westholme House,Westholme Bank,Aysgarth,Leyburn,Henderson's,Restaurant/Cafe/Canteen,1,5,,687820,5,,54.28898400000000,14/00056/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.97715500000000,DL8 3SP,2014-07-24,fhrs_4_en-GB,4,,FHRS,10
-386704,58 - 59 Market Place,Richmond,North Yorkshire,,Heron Foods,Retailers - supermarkets/hypermarkets,7840,5,,28785,5,,54.40308600000000,09/00026/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73573600000000,DL10 4JQ,2012-11-19,fhrs_5_en-GB,5,,FHRS,0
-386705,Herriots Guest House And Gallery,Main Street,Hawes,North Yorkshire,Herriots In Hawes,Restaurant/Cafe/Canteen,1,0,,46365,0,,54.30383100000000,11/00061/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19828200000000,DL8 3QX,2013-10-24,fhrs_5_en-GB,5,,FHRS,0
-386706,High Bank Farm,Cleasby Road,Stapleton,Darlington,High Bank Nursery,Hospitals/Childcare/Caring Premises,5,0,,5434,0,,54.50383000000000,01860/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.59856100000000,DL2 2QE,2014-07-21,fhrs_5_en-GB,5,,FHRS,0
-386707,High Blean,Blean Lane,Raydaleside,Bainbridge,High Blean Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,,,449088,,,54.28007100000000,12/00094/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.11377300000000,DL8 3DJ,2012-09-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-386708,High Parks,Newton-Le-Willows,Bedale,North Yorkshire,High Parks Tearoom And Gallery,Restaurant/Cafe/Canteen,1,5,,6424,0,,54.29525800000000,02180/2014/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66665700000000,DL8 1TP,2014-05-29,fhrs_5_en-GB,5,,FHRS,0
-386709,Colburn Lane,Colburn,Catterick Garrison,North Yorkshire,Hildyard Arms,Pub/bar/nightclub,7843,5,,708435,0,,54.38673100000000,14/00084/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.69797700000000,DL9 4PD,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-386710,Hill Crest Nursing Home,Byng Road,Catterick Garrison,North Yorkshire,Hillcrest Residential Home,Hospitals/Childcare/Caring Premises,5,0,,6880,0,,54.37641300000000,02600/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70869000000000,DL9 4DW,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-386711,Hipswell Church Of England Primary,Hipswell Road,Catterick Garrison,North Yorkshire,Hipswell C Of E Primary School,School/college/university,7845,0,,13782,0,,54.37872100000000,04390/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71193700000000,DL9 4BB,2013-09-05,fhrs_5_en-GB,5,,FHRS,0
-386712,7 Bridge Road,Brompton On Swale,Richmond,North Yorkshire,Hodgsons,Manufacturers/packers,7839,0,,433937,0,,54.39159700000000,12/00084/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66212000000000,DL10 7HW,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-386713,The Old Penny Bank,Town Foot,Main Street,Hawes,Hodgsons On The Hoof,Takeaway/sandwich shop,7844,0,,673176,0,,54.30381900000000,14/00021/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19459400000000,DL8 3NL,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-386714,23 - 27 Broadway,Colburn,Catterick Garrison,North Yorkshire,Homebaked,Restaurant/Cafe/Canteen,1,0,,700659,0,,54.37947800000000,14/00052/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68723700000000,DL9 4RF,2014-09-05,fhrs_5_en-GB,5,,FHRS,0
-386715,4 - 6 Byng Road,Catterick Garrison,North Yorkshire,,Hunters,Pub/bar/nightclub,7843,5,,6881,5,,54.37594400000000,02600/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70790800000000,DL9 4DJ,2009-06-29,fhrs_5_en-GB,5,,FHRS,5
-386716,Hunton And Arrathorne Community Pri,South View,Hunton,Bedale,Hunton And Arrathorne School,School/college/university,7845,0,,726757,0,,54.32699900000000,14/00099/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71123700000000,DL8 1QB,2014-11-27,fhrs_5_en-GB,5,,FHRS,5
-386717,South View,Hunton,Bedale,North Yorkshire,Hunton Village Store,Retailers - other,4613,5,,6232,5,,54.32839500000000,02050/2031/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70906000000000,DL8 1PX,2008-10-13,fhrs_5_en-GB,5,,FHRS,5
-386718,2 Mill Close,Ravensworth,Richmond,North Yorkshire,Icing Queen - Cake Decorating,Other catering premises,7841,5,,456103,0,,54.46695700000000,12/00102/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.78614600000000,DL11 7JY,2012-10-11,fhrs_5_en-GB,5,,FHRS,0
-386719,The Green,Reeth,Richmond,North Yorkshire,Ivy Cottage,Restaurant/Cafe/Canteen,1,0,,51146,0,,54.38956500000000,11430/2076/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94123500000000,DL11 6SF,2013-04-22,fhrs_5_en-GB,5,,FHRS,0
-386720,21 Hildyard Row,Catterick Road,Catterick Garrison,North Yorkshire,J T's,Pub/bar/nightclub,7843,0,,8688,0,,54.37555800000000,03170/0021/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70829600000000,DL9 4DH,2010-10-18,fhrs_5_en-GB,5,,FHRS,5
-386721,21 Trinity Church Square,Market Place,Richmond,North Yorkshire,Jacoubs Takeaway,Takeaway/sandwich shop,7844,5,,28315,5,,54.40304400000000,08840/0021/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73707600000000,DL10 4QN,2015-02-03,fhrs_5_en-GB,5,,FHRS,5
-386722,Swinithwaite (middle) Farmhouse,Swinithwaite,Leyburn,North Yorkshire,Jamsmith,Other catering premises,7841,5,,480669,0,,54.29884500000000,12/00114/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.93365000000000,DL8 4UH,2012-11-20,fhrs_5_en-GB,5,,FHRS,0
-386723,57 Market Place,Richmond,North Yorkshire,,Jeffersons,Retailers - other,4613,5,,46007,5,,54.40308600000000,11/00041/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73573600000000,DL10 4JQ,2014-05-25,fhrs_5_en-GB,5,,FHRS,5
-386724,Jervaulx,Middleham,Ripon,North Yorkshire,Jervaulx Abbey Tearooms,Restaurant/Cafe/Canteen,1,5,,45938,0,,54.26640319824220,11/00037/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74101638793945,HG4 4PH,2013-05-30,fhrs_5_en-GB,5,,FHRS,0
-386725,Childcare Centre  Darlington Colleg,Catterick Road,Catterick Garrison,North Yorkshire,Jigsaw Childcare Centre,Hospitals/Childcare/Caring Premises,5,5,,209552,5,,54.37369000000000,11/00011/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71277300000000,DL9 4QP,2012-01-21,fhrs_5_en-GB,5,,FHRS,5
-386726,Fortune Asia (NW) Limited,Beckindales,Burtersett Road,Hawes,Jumbo Chinese Takeaway And Cafe,Restaurant/Cafe/Canteen,1,5,,595893,5,,54.30341200000000,13/00077/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19068900000000,DL8 3NT,2014-06-11,fhrs_5_en-GB,5,,FHRS,5
-386727,,,,,Just Williams,Manufacturers/packers,7839,5,,9458,5,,,04/00015/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2009-04-15,fhrs_5_en-GB,5,,FHRS,5
-386728,Cockett And Son,Main Street,Hawes,North Yorkshire,JW Cockett And Son,Retailers - other,4613,0,,14233,0,,54.30392400000000,04840/4000/0/006,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19643900000000,DL8 3QL,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-386729,Sedbury Hall Stables,Gilling West,North Yorkshire,,Kacao Chocolaterie,Manufacturers/packers,7839,0,,710079,0,,,14/00077/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-386730,Kearton Guest House,Thwaite,Richmond,North Yorkshire,Kearton Country Hotel,Hotel/bed & breakfast/guest house,7842,0,,690537,0,,54.13346481323242,14/00032/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.31587803363800,DL11 6DR,2014-08-07,fhrs_5_en-GB,5,,FHRS,0
-386731,Keld Lodge Hotel,Keld,Richmond,North Yorkshire,Keld Lodge Hotel Ltd,Hotel/bed & breakfast/guest house,7842,0,,189988,0,,54.40384100000000,12/00020/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.16783200000000,DL11 6LL,2013-08-06,fhrs_5_en-GB,5,,FHRS,0
-386732,Fish Shop,Loos Road,Catterick Garrison,North Yorkshire,Kemmel Fish Shop,Takeaway/sandwich shop,7844,10,,8805,5,,54.36162900000000,03320/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71224100000000,DL9 4HP,2013-07-19,fhrs_3_en-GB,3,,FHRS,10
-386733,Ken Warne,22 Market Place,Richmond,North Yorkshire,Ken Warne Ltd,Retailers - other,4613,5,,27618,5,,54.40281400000000,08120/0022/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73880300000000,DL10 4QG,2014-06-23,fhrs_5_en-GB,5,,FHRS,5
-386734,10 Market Place,Richmond,North Yorkshire,,Kings Head Hotel,Hotel/bed & breakfast/guest house,7842,5,,632497,0,,54.40362800000000,14/00005/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73719600000000,DL10 4HS,2014-04-17,fhrs_5_en-GB,5,,FHRS,5
-386735,Dundas Street,Richmond,North Yorkshire,,La Piazza 2,Restaurant/Cafe/Canteen,1,5,,33315,0,,54.40482900000000,10/00037/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73561700000000,DL10 7AB,2014-12-12,fhrs_5_en-GB,5,,FHRS,5
-386736,Laburnum House Tea Room,The Holme,Hawes,North Yorkshire,Laburnum Guest House & Tea Room,Restaurant/Cafe/Canteen,1,5,,225460,5,,54.30429200000000,12/00045/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19691700000000,DL8 3QR,2013-07-16,fhrs_5_en-GB,5,,FHRS,5
-386737,Laceys Cheese Limited,Workspace 1,The Station,Station Yard,Lacey's Cheese,Manufacturers/packers,7839,0,,24878,0,,54.40302700000000,08/00022/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72960500000000,DL10 4LD,2014-06-04,fhrs_5_en-GB,5,,FHRS,5
-386738,,,,,Lauren's Kitchen,Other catering premises,7841,,,668768,,,,14/00019/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-06-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-386739,Le Cateau County Primary School,Le Cateau Road,Catterick Garrison,North Yorkshire,Le Cateau Cp School,School/college/university,7845,0,,8784,0,,54.37178600000000,03290/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70941500000000,DL9 4ED,2014-03-03,fhrs_5_en-GB,5,,FHRS,5
-386740,Lees Chinese Takeaway,15 Broadway,Colburn,Catterick Garrison,Lee's Chinese Takeaway,Takeaway/sandwich shop,7844,5,,6827,5,,54.37947800000000,02560/0015/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68723700000000,DL9 4RF,2014-01-13,fhrs_5_en-GB,5,,FHRS,0
-386741,The Old School House Arts Studio,St Peter And St Paul Roman Catholic,Richmond Road,Leyburn,Leyburn Arts Centre,Retailers - other,4613,5,,682389,0,,54.31155900000000,14/00031/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82941900000000,DL8 5DL,2014-07-11,fhrs_5_en-GB,5,,FHRS,0
-386742,Leyburn County Primary School,Wensleydale Avenue,Leyburn,North Yorkshire,Leyburn Cp School,School/college/university,7845,0,,17203,0,,54.31065700000000,05660/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82120000000000,DL8 5SD,2013-06-14,fhrs_5_en-GB,5,,FHRS,0
-386743,Leyburn Livestock Auction Mart,Richmond Road,Leyburn,North Yorkshire,Leyburn Livestock Auction,Restaurant/Cafe/Canteen,1,5,,17011,0,,54.29931700000000,05460/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.96749900000000,DL8 4DP,2014-11-28,fhrs_5_en-GB,5,,FHRS,0
-386744,17 Market Place,Leyburn,North Yorkshire,,Leyburn National Health Centre,Retailers - other,4613,,,209516,,,54.30946500000000,06/00024/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82945900000000,DL8 5BG,2006-07-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-386745,Lidl,Catterick Road,Catterick Garrison,North Yorkshire,Lidl UK,Retailers - supermarkets/hypermarkets,7840,0,,6648,0,,54.38025600000000,02360/4000/0/004,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67888700000000,DL9 4RP,2012-07-18,fhrs_5_en-GB,5,,FHRS,0
-386746,7A Rosemary Lane,Richmond,North Yorkshire,,Lily's Licensed Cafe,Restaurant/Cafe/Canteen,1,0,,46646,0,,54.40414500000000,11/00077/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73953400000000,DL10 4DP,2014-11-12,fhrs_5_en-GB,5,,FHRS,5
-386747,Skeeby Lodge,Great North Road,Skeeby,Richmond,Little Chef,Restaurant/Cafe/Canteen,1,5,,546740,0,,54.42698500000000,13/00049/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66773300000000,DL10 5EQ,2014-06-27,fhrs_5_en-GB,5,,FHRS,5
-386748,Little Learners Nursery Centre,Stags Way,Scorton,Richmond,Little Learners Nursery,Hospitals/Childcare/Caring Premises,5,5,,52206,0,,54.39810600000000,11760/2026/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.61479600000000,DL10 6HB,2014-05-19,fhrs_5_en-GB,5,,FHRS,0
-386749,Manor House,Bainbridge,Leyburn,North Yorkshire,Logic Sales Training Ltd,Hotel/bed & breakfast/guest house,7842,,,209550,,,54.30785000000000,05/00056/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.10358300000000,DL8 3EW,2005-05-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-386750,Mercury House,Kitchener Road,Catterick Garrison,North Yorkshire,Louis Bar,Pub/bar/nightclub,7843,0,,209562,0,,54.36162900000000,12/00027/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71224100000000,DL9 4HP,2012-02-20,fhrs_5_en-GB,5,,FHRS,5
-386751,2A The Green,Dalton On Tees,Darlington,North Yorkshire,Love Cupcakes,Retailers - other,4613,10,,376045,0,,54.46650400000000,11/00031/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.54426400000000,DL2 2PA,2012-05-29,fhrs_4_en-GB,4,,FHRS,0
-386752,Low Gingerfield Farm,Whashton Green,Richmond,North Yorkshire,Low Gingerfield Farm B&B,Hotel/bed & breakfast/guest house,7842,5,,588853,0,,54.41829100000000,13/00010/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74778200000000,DL10 5EY,2013-09-19,fhrs_5_en-GB,5,,FHRS,0
-386753,,,,,Low Hall Farm,Retailers - other,4613,0,,6247,0,,,02060/2005/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-08-11,fhrs_5_en-GB,5,,FHRS,0
-386754,Low Mill Guest House,Back Syke,Bainbridge,Leyburn,Low Mill Guesthouse,Hotel/bed & breakfast/guest house,7842,5,,46165,0,,54.31660079956050,11/00050/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.84478998184204,DL8 3EF,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-386755,Low Mill,Station Road,Askrigg,Leyburn,Low Mill Outdoor Centre,Hospitals/Childcare/Caring Premises,5,0,,17401,0,,54.31395100000000,05910/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.08275600000000,DL8 3HZ,2013-10-31,fhrs_5_en-GB,5,,FHRS,0
-386756,Mad Hatter Tea Co Limited,1 Regent Court,Walkerville Industrial Estate,Catterick Garrison,Mad Hatter Tea,Distributors/Transporters,7,,,409851,,,54.37727600000000,12/00076/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68034200000000,DL9 4XE,2012-07-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-386757,Mainsgill Farm,Moor Lane,East Layton,Richmond,Mainsgill Farm Shop,Retailers - other,4613,10,,42067,5,,54.47219000000000,10390/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.76302000000000,DL11 7PN,2014-11-20,fhrs_4_en-GB,4,,FHRS,5
-386758,Manor Farm,Leyburn Road,Bellerby,Leyburn,Manor Cafe,Restaurant/Cafe/Canteen,1,10,,536092,5,,54.32940200000000,13/00017/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82591700000000,DL8 5QH,2014-11-19,fhrs_3_en-GB,3,,FHRS,10
-386759,Main Street,Askrigg,Leyburn,North Yorkshire,Manor House,Hotel/bed & breakfast/guest house,7842,,,209530,,,54.31550800000000,05/00085/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.07993000000000,DL8 3HQ,2005-08-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-386760,Maple Lodge,Low Hall Lane,Catterick Garrison,North Yorkshire,Maple Lodge Care Home,Hospitals/Childcare/Caring Premises,5,5,,13824,0,,54.36021600000000,04440/2010/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70788100000000,DL9 4LJ,2014-07-14,fhrs_5_en-GB,5,,FHRS,5
-386761,Marks And Spencers,Scotch Corner Services,Middleton Tyas Lane,Middleton Tyas,Marks And Spencer Simply Food,Retailers - other,4613,0,,216122,0,,54.44363800000000,12/00023/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66749000000000,DL10 6PQ,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-386762,Marrick,Richmond,North Yorkshire,,Marrick Priory,Hospitals/Childcare/Caring Premises,5,0,,446423,0,,54.37529373168950,11/00062/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.89845955371857,DL11 7LD,2014-02-03,fhrs_5_en-GB,5,,FHRS,0
-386763,34 Gilling Road,Richmond,North Yorkshire,,McColls,Retailers - other,4613,0,,456102,0,,54.41145200000000,12/00101/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72343300000000,DL10 5AN,2014-11-10,fhrs_5_en-GB,5,,FHRS,0
-386764,Mcdonalds Restaurants Ltd,Richmondshire Walk,Catterick Garrison,North Yorkshire,McDonalds Restaurant,Restaurant/Cafe/Canteen,1,0,,9026,0,,54.37478400000000,03555/1000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72295600000000,DL9 3EN,2014-01-30,fhrs_5_en-GB,5,,FHRS,0
-386765,West Road,Melsonby,Richmond,North Yorkshire,Melsonby Methodist Primary School,School/college/university,7845,0,,50058,0,,54.47113600000000,11130/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.69746400000000,DL10 5ND,2013-09-04,fhrs_5_en-GB,5,,FHRS,0
-386766,Gunnerside Methodist Primary School,Gunnerside,Richmond,North Yorkshire,Methodist Primary School,School/college/university,7845,0,,44687,0,,54.20360946655270,10830/4000/0/009,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.36397528648376,DL11 6LE,2013-11-11,fhrs_5_en-GB,5,,FHRS,0
-386767,Michael Sydall Church Of England Pr,Mowbray Road,Catterick Village,Richmond,Michael Syddall C Of E Primary School,School/college/university,7845,0,,40286,0,,54.38069700000000,10100/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63198700000000,DL10 7LB,2014-11-07,fhrs_5_en-GB,5,,FHRS,0
-386768,Middleham Church Of England Primary,Park Lane,Middleham,Leyburn,Middleham C Of E Primary School,School/college/university,7845,0,,21006,0,,54.28533500000000,06690/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.81214000000000,DL8 4QX,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-386769,Market Place,Middleham,Leyburn,North Yorkshire,Middleham Fish Bar,Takeaway/sandwich shop,7844,0,,20989,0,,54.28491100000000,06670/2014/4/004,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80564400000000,DL8 4NP,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-386770,Middleton Lodge,Kneeton Lane,Middleton Tyas,Richmond,Middleton Lodge Events Ltd,Restaurant/Cafe/Canteen,1,0,,25191,0,,54.45832900000000,08/00054/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65998200000000,DL10 6NJ,2013-07-11,fhrs_5_en-GB,5,,FHRS,0
-386771,Middleton Tyas Church Of England Pr,Kneeton Lane,Middleton Tyas,Richmond,Middleton Tyas C Of E Primary School,School/college/university,7845,0,,50088,0,,54.44863500000000,11140/4000/0/004,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65173500000000,DL10 6SF,2012-01-30,fhrs_5_en-GB,5,,FHRS,0
-386772,Middleton Tyas Memorial Hall,Middleton Tyas,North Yorkshire,,Middleton Tyas Village Shop Ltd,Retailers - other,4613,5,,14754,0,,54.44576700000000,05/00048/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65433500000000,DL10 6PP,2014-11-18,fhrs_5_en-GB,5,,FHRS,0
-386773,Yore Mills,Church Bank,Aysgarth,Leyburn,Mill Race Teashop,Restaurant/Cafe/Canteen,1,0,,46447,0,,54.29119600000000,11/00066/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.98380500000000,DL8 3SR,2013-06-18,fhrs_5_en-GB,5,,FHRS,0
-386774,Warehouse At,Broken Brea Farm,Easby,Richmond,Millbry Hill,Retailers - other,4613,0,,668770,0,,54.39835500000000,14/00025/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.69251600000000,DL10 7EY,2014-06-06,fhrs_5_en-GB,5,,FHRS,0
-386775,1 Trinity Church Square,Market Place,Richmond,North Yorkshire,Mocha,Retailers - other,4613,0,,584601,0,,54.40314300000000,13/00074/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73709100000000,DL10 4HY,2013-09-12,fhrs_5_en-GB,5,,FHRS,0
-386776,Middleton Tyas,Richmond,North Yorkshire,,Morris Grange Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,664682,0,,54.43229500000000,14/00039/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65762300000000,DL10 6NX,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-386777,Lorry Park,Barton,North Yorkshire,,Moto Hospitality - Barton Park Truckers Cafe,Restaurant/Cafe/Canteen,1,0,,664679,0,,54.46908900000000,14/00017/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66410500000000,DL10 6NA,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-386778,6 Hildyard Row,Catterick Road,Catterick Garrison,North Yorkshire,Mount Everest Gurkha Takeaway,Takeaway/sandwich shop,7844,0,,619411,0,,54.37555800000000,13/00108/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70829600000000,DL9 4DH,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-386779,70 Falkland Road,Catterick Garrison,North Yorkshire,,Mr Flavours,Mobile caterer,7846,5,,664683,0,,54.37623400000000,14/00009/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70544300000000,DL9 4DZ,2014-05-23,fhrs_5_en-GB,5,,FHRS,0
-386780,,,,,Mrs Jacqui Longstaff,Retailers - other,4613,,,648918,,,,13/00127/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-04-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-386781,72B High Street,Leyburn,North Yorkshire,,Mrs Pumphreys,Restaurant/Cafe/Canteen,1,0,,16796,0,,54.31066100000000,05290/4000/0/008,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83046800000000,DL8 5AH,2015-01-29,fhrs_5_en-GB,5,,FHRS,0
-386782,Tea Shop,Guning Lane,Muker,Richmond,Muker Tea Shop,Restaurant/Cafe/Canteen,1,5,,50765,5,,54.37642100000000,11320/4000/0/011,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.14033400000000,DL11 6QG,2014-03-13,fhrs_5_en-GB,5,,FHRS,5
-386783,,,,,Mummy Mousley's Bakery,Hotel/bed & breakfast/guest house,7842,10,,47330,0,,,11/00124/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2011-10-17,fhrs_4_en-GB,4,,FHRS,0
-386784,28 Moor Road,Melsonby,Richmond,North Yorkshire,Murphy's Muncher,Mobile caterer,7846,0,,563871,0,,54.46959500000000,13/00056/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.69588600000000,DL10 5PB,2014-11-03,fhrs_5_en-GB,5,,FHRS,5
-386785,34 Market Place,Richmond,North Yorkshire,,Neeps And Tatties Greengrocer,Retailers - other,4613,10,,615808,5,,54.40281400000000,13/00114/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73880300000000,DL10 4QG,2013-11-25,fhrs_3_en-GB,3,,FHRS,10
-386786,7 Castle Hill,Richmond,North Yorkshire,,New Treasure Garden Cantonese Restaurant,Restaurant/Cafe/Canteen,1,5,,24191,10,,54.40204900000000,07490/0007/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73845400000000,DL10 4QP,2013-10-18,fhrs_4_en-GB,4,,FHRS,0
-386787,7 Seagrim Crescent,Richmond,North Yorkshire,,Nightingale Hall,Hospitals/Childcare/Caring Premises,5,0,,28062,5,,54.41114000000000,08540/3000/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73266400000000,DL10 4UB,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-386788,North And South Cowton County Paris,Main Road,North Cowton,Northallerton,North & South Cowton County Primary School,School/college/university,7845,0,,23964,0,,54.42963600000000,07170/4000/0/011,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.56557500000000,DL7 0HF,2013-11-20,fhrs_5_en-GB,5,,FHRS,0
-386789,36 Rawlinson Road,Catterick Garrison,North Yorkshire,,Not Just Daisy Cakes,Retailers - other,4613,5,,46628,5,,54.38460700000000,11/00076/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73114300000000,DL9 3AP,2011-10-24,fhrs_5_en-GB,5,,FHRS,5
-386790,Oaklodge,2 Jenkins Garth,Leyburn,North Yorkshire,Oaklodge Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,0,,628094,0,,54.30858300000000,13/00026/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82894000000000,DL8 5SP,2014-01-27,fhrs_5_en-GB,5,,FHRS,0
-386791,Market Place,Leyburn,North Yorkshire,,One Stop Shop,Retailers - other,4613,0,,16865,0,,54.31009300000000,05340/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82894900000000,DL8 5AS,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-386792,High Row,Reeth,Richmond,North Yorkshire,Overton House,Restaurant/Cafe/Canteen,1,0,,638125,0,,54.38922400000000,13/00124/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94339100000000,DL11 6SY,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-386793,16 - 18 Finkle Street,Richmond,North Yorkshire,,Oxfam,Retailers - other,4613,0,,682392,0,,54.40384800000000,14/00061/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73895100000000,DL10 4QB,2014-07-16,fhrs_5_en-GB,5,,FHRS,0
-386794,Tea Shop,Paddock Farm Nurseries,West Lane,Dalton On Tees,Paddock Farm Tea Room,Restaurant/Cafe/Canteen,1,0,,33808,0,,,10/00068/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2013-10-14,fhrs_5_en-GB,5,,FHRS,5
-386795,Park House,Keld,Richmond,North Yorkshire,Park House Campsite & Bunkbarn,Other catering premises,7841,0,,189987,0,,54.40851000000000,11/00109/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.17757300000000,DL11 6DZ,2013-08-06,fhrs_5_en-GB,5,,FHRS,0
-386796,2D De Burgh Court,Walkerville Industrial Estate,Catterick Garrison,North Yorkshire,Parmo Curry House,Takeaway/sandwich shop,7844,5,,28837,5,,54.37934100000000,09/00030/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67978700000000,DL9 4XB,2013-09-03,fhrs_5_en-GB,5,,FHRS,5
-386797,Wilco 2010 Limited,5 - 6 Trinity Church Square,Market Place,Richmond,"Penleys Cafe, Bar And Bistro",Restaurant/Cafe/Canteen,1,0,,668767,0,,54.40314300000000,14/00007/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73709100000000,DL10 4HY,2014-06-04,fhrs_5_en-GB,5,,FHRS,5
-386798,Penleys,Prospect House,4 Market Place,Leyburn,Penleys Coffee Shop & Bistro,Restaurant/Cafe/Canteen,1,5,,16863,0,,54.30952900000000,05340/2022/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83036500000000,DL8 5BJ,2013-10-18,fhrs_5_en-GB,5,,FHRS,5
-386799,Penny Garth,Market Place,Hawes,North Yorkshire,Pennygarth Cafe,Restaurant/Cafe/Canteen,1,10,,14246,10,,54.30392400000000,04850/4000/0/012,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19643900000000,DL8 3QL,2014-05-15,fhrs_3_en-GB,3,,FHRS,10
-386800,The Pheasant Inn,Curlew Close,Harmby,Leyburn,Pheasant Inn,Pub/bar/nightclub,7843,0,,209528,5,,54.30480000000000,06380/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80527400000000,DL8 5PA,2010-04-08,fhrs_5_en-GB,5,,FHRS,0
-386801,Pheonix Out Of School Club,St Aidas Church Hall,Hipswell Road West,Catterick Garrison,Phoenix Out Of School Club,Hospitals/Childcare/Caring Premises,5,10,,591620,0,,54.37946200000000,13/00059/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72919100000000,DL9 3BJ,2013-10-10,fhrs_4_en-GB,4,,FHRS,0
-386802,14 Haig Road,Catterick Garrison,North Yorkshire,,Pip's Cupcakes,Other catering premises,7841,,,209556,,,54.38601700000000,10/00023/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73469100000000,DL9 3AH,2010-06-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-386803,12 Rosemary Lane,Richmond,North Yorkshire,,Pizza Figaro,Takeaway/sandwich shop,7844,5,,28038,5,,54.40414500000000,08510/0012/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73953400000000,DL10 4DP,2014-07-02,fhrs_5_en-GB,5,,FHRS,5
-386804,20 Hildyard Row,Catterick Road,Catterick Garrison,North Yorkshire,Pizza Pizza,Takeaway/sandwich shop,7844,10,,8687,10,,54.37555800000000,03170/0020/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70829600000000,DL9 4DH,2013-10-17,fhrs_3_en-GB,3,,FHRS,10
-386805,7A Hildyard Row,Catterick Road,Catterick Garrison,North Yorkshire,Pizza Pronto,Takeaway/sandwich shop,7844,5,,8685,0,,54.37555800000000,03170/0007/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70829600000000,DL9 4DH,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-386806,54 Market Place,Richmond,North Yorkshire,,Pizza Pronto/Castle Fisheries,Takeaway/sandwich shop,7844,5,,27627,0,,54.40279100000000,08120/0054/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73663100000000,DL10 4JJ,2015-02-03,fhrs_5_en-GB,5,,FHRS,5
-386807,Waitwith Fish Shop,Plumer Road,Catterick Garrison,North Yorkshire,Plumer Road Fisheries,Takeaway/sandwich shop,7844,5,,9013,0,,54.37894900000000,03530/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74129500000000,DL9 3DQ,2013-05-22,fhrs_5_en-GB,5,,FHRS,0
-386808,Plantation House,East Cowton,Northallerton,North Yorkshire,Point Blank Paintball Games,Restaurant/Cafe/Canteen,1,5,,23971,5,,54.43973100000000,07180/2006/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.55140700000000,DL7 0JS,2013-08-08,fhrs_2_en-GB,2,,FHRS,15
-386809,Health Spa,East Layton,Richmond,North Yorkshire,Quality Inn,Hotel/bed & breakfast/guest house,7842,5,,9444,5,,54.13346481323242,04/00013/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.31587803363800,DL10 6NR,2008-11-17,fhrs_5_en-GB,5,,FHRS,5
-386810,Main Street,Finghall,Leyburn,North Yorkshire,Queens Head,Pub/bar/nightclub,7843,5,,20676,5,,54.30239200000000,06290/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72296500000000,DL8 5ND,2014-06-11,fhrs_4_en-GB,4,,FHRS,10
-386811,4 Commercial Square,Leyburn,North Yorkshire,,R Campbell + Sons Ltd,Retailers - other,4613,0,,16692,0,,54.31025700000000,05200/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83083900000000,DL8 5BP,2014-06-30,fhrs_5_en-GB,5,,FHRS,5
-386812,The Bungalow,Home Farm,Hornby,Bedale,Ramsays Fish And Chips,Mobile caterer,7846,5,,6169,0,,54.33634200000000,02010/2012/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66794000000000,DL8 1NG,2014-01-06,fhrs_5_en-GB,5,,FHRS,0
-386813,Ravensworth Church Of England Prima,The Green,Ravensworth,Richmond,Ravensworth C Of E Primary School,School/college/university,7845,0,,51018,0,,54.46535500000000,11390/4000/0/004,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.78459600000000,DL11 7ET,2013-11-26,fhrs_5_en-GB,5,,FHRS,0
-386814,Breckenbrough Farm,Breckenbrough Lane,Brough Park,Richmond,Rec Cafe,Restaurant/Cafe/Canteen,1,10,,708436,5,,54.36653900000000,14/00086/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67793200000000,DL10 7PL,2014-10-16,fhrs_4_en-GB,4,,FHRS,5
-386815,Langthwaite,Richmond,North Yorkshire,,Red Lion Inn,Pub/bar/nightclub,7843,5,,45129,5,,54.41789700000000,10950/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.99349600000000,DL11 6RE,2013-06-18,fhrs_5_en-GB,5,,FHRS,5
-386816,5 Silver Street,Reeth,Richmond,North Yorkshire,Reeth Bakery,Retailers - other,4613,5,,51561,5,,54.38972800000000,11560/0005/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94489900000000,DL11 6SP,2013-07-12,fhrs_5_en-GB,5,,FHRS,5
-386817,Reeth County Primary School,Silver Street,Reeth,Richmond,Reeth Community Primary School,School/college/university,7845,0,,51563,0,,54.38972800000000,11560/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94489900000000,DL11 6SP,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-386818,Street Record,Coronation Place,Richmond,North Yorkshire,Reeth Road Social Centre,Other catering premises,7841,,,209581,,,54.40593300000000,07630/1000/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.75576100000000,,2010-02-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-386819,The Bottom Shop,Oakworth House,Reeth,Richmond,Reeth Village Stores,Retailers - other,4613,0,,51147,0,,54.38813600000000,11430/2093/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94054400000000,DL11 6TW,2013-02-14,fhrs_5_en-GB,5,,FHRS,0
-386820,Scotch Corner Services,Middleton Tyas Lane,Middleton Tyas,North Yorkshire,Retail Shop At Moto Services,Retailers - other,4613,0,,50086,0,,54.44363800000000,11140/2099/3/004,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66749000000000,DL10 6PQ,2011-10-19,fhrs_5_en-GB,5,,FHRS,5
-386821,Richard III Hotel,Market Place,Middleham,Leyburn,Richard The Third,Restaurant/Cafe/Canteen,1,0,,546738,0,,54.28491100000000,13/00023/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80564400000000,DL8 4NP,2014-08-15,fhrs_5_en-GB,5,,FHRS,5
-386822,Workspace 2,The Station,Station Yard,Richmond,Richmond Brewing Company Limited,Manufacturers/packers,7839,0,,581513,0,,54.40302700000000,13/00070/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72960500000000,DL10 4LD,2013-08-22,fhrs_5_en-GB,5,,FHRS,5
-386823,Richmond Church Of England Primary,Frances Road,Richmond,North Yorkshire,Richmond C Of E Primary School,School/college/university,7845,0,,24487,0,,54.40832300000000,07810/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73068000000000,DL10 4NF,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-386824,Queens Road,Richmond,North Yorkshire,,Richmond Community Hospital,Hospitals/Childcare/Caring Premises,5,0,,27968,0,,54.40572100000000,08410/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73665900000000,DL10 4AJ,2014-05-19,fhrs_5_en-GB,5,,FHRS,5
-386825,4 Newbiggin,Richmond,North Yorkshire,,Richmond Fisheries,Takeaway/sandwich shop,7844,5,,27778,0,,54.40391500000000,08210/0004/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74101500000000,DL10 4DT,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-386826,Club House Road,Richmond,North Yorkshire,,Richmond Golf Club,Pub/bar/nightclub,7843,5,,32416,5,,54.41487600000000,09590/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73954300000000,DL10 5EX,2013-06-21,fhrs_5_en-GB,5,,FHRS,5
-386827,Club House Road,Richmond,North Yorkshire,,Richmond Golf Club,Pub/bar/nightclub,7843,5,,723841,0,,54.41487600000000,14/00095/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73954300000000,DL10 5EX,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-386828,Darlington Road,Richmond,North Yorkshire,,Richmond Methodist Primary School,School/college/university,7845,0,,24406,0,,54.40858200000000,07700/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72189600000000,DL10 7BH,2013-10-15,fhrs_5_en-GB,5,,FHRS,0
-386829,Richmond School,Darlington Road,Richmond,North Yorkshire,Richmond School And Sixth Form Centre.,School/college/university,7845,0,,24410,0,,54.40858200000000,07700/5000/3/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72189600000000,DL10 7BH,2014-06-04,fhrs_5_en-GB,5,,FHRS,0
-386830,Garget Walker House,25A Olav Road,Richmond,North Yorkshire,Richmondshire Alzheimers Society,Hospitals/Childcare/Caring Premises,5,5,,27831,0,,54.40796300000000,08250/0025/A/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73465700000000,DL10 4PU,2015-02-02,fhrs_5_en-GB,5,,FHRS,5
-386831,Victoria Road,Richmond,North Yorkshire,,Richmondshire Cricket Club,Pub/bar/nightclub,7843,10,,700658,5,,54.40561700000000,12/00127/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74242100000000,DL10 4AR,2014-09-11,fhrs_4_en-GB,4,,FHRS,5
-386832,47 Darlington Road,Richmond,North Yorkshire,,Ridgeway Private Day Nursery Ltd,Hospitals/Childcare/Caring Premises,5,0,,24399,0,,54.40906800000000,07700/0047/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72237100000000,DL10 7BG,2013-10-14,fhrs_5_en-GB,5,,FHRS,5
-386833,Hipswell Road,Catterick Garrison,North Yorkshire,,Risedale Community College,School/college/university,7845,10,,13781,0,,54.37828800000000,04390/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71495800000000,DL9 4BD,2014-01-28,fhrs_4_en-GB,4,,FHRS,10
-386834,Rose And Crown Hotel,Breconbar Road,Bainbridge,Leyburn,Rose & Crown Hotel,Hotel/bed & breakfast/guest house,7842,10,,17466,5,,54.30930700000000,05980/4000/0/010,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.10277300000000,DL8 3EE,2014-05-29,fhrs_3_en-GB,3,,FHRS,10
-386835,Catterick Road,Catterick Garrison,North Yorkshire,,Rosedale Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,673177,0,,54.37394900000000,14/00047/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71946700000000,DL9 4DD,2014-05-19,fhrs_5_en-GB,5,,FHRS,5
-386836,Layby At,Gilling West,North Yorkshire,,Route A66 Snack Bar,Mobile caterer,7846,5,,45382,0,,,11/00004/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2013-10-21,fhrs_5_en-GB,5,,FHRS,5
-386837,1A High Street,Leyburn,North Yorkshire,,Rupali Balti House,Takeaway/sandwich shop,7844,5,,16777,10,,54.31077700000000,05290/0001/A/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83000700000000,DL8 5AQ,2013-05-28,fhrs_4_en-GB,4,,FHRS,5
-386838,5 - 7 Chantry Wynd,Richmond,North Yorkshire,,Rustique Restaurant,Restaurant/Cafe/Canteen,1,0,,24261,0,,54.40357700000000,07550/0007/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73849000000000,DL10 4QE,2015-01-12,fhrs_5_en-GB,5,,FHRS,5
-386839,North Yorkshire Events Centre,Hospital Road To Blind Lane,Scorton,Richmond,S & A Catering,Takeaway/sandwich shop,7844,5,,32566,0,,54.40536400000000,09780/2006/3/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74625900000000,DL10 4EJ,2013-06-05,fhrs_5_en-GB,5,,FHRS,0
-386840,Three Gables,Cricket Ground Road,Newton-Le-Willows,Bedale,S Moore,Retailers - other,4613,5,,504995,0,,54.29463700000000,13/00002/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.69018500000000,DL8 1TG,2013-01-15,fhrs_5_en-GB,5,,FHRS,0
-386841,16 Market Place,Leyburn,North Yorkshire,,Saffron Indian Restaurant,Restaurant/Cafe/Canteen,1,10,,21737,5,,54.30946500000000,07/00060/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82945900000000,DL8 5BG,2013-06-19,fhrs_4_en-GB,4,,FHRS,5
-386842,Village Stores,High Row,Station Road,Scorton,Scorton Village Store,Retailers - other,4613,0,,52051,0,,54.37714500000000,11710/2006/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63121800000000,DL10 7LL,2013-10-16,fhrs_5_en-GB,5,,FHRS,0
-386843,Hotel,Scotch Corner,Richmond,North Yorkshire,Scotch Corner Hotel - Holiday Inn,Hotel/bed & breakfast/guest house,7842,0,,45829,0,,54.44045400000000,11/00030/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67009100000000,DL10 6NT,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-386844,Sedbury Hall,Gilling West,Richmond,North Yorkshire,Scotch Corner Paintball Village - UK Masters (N.E) Limited,Other catering premises,7841,10,,680826,5,,54.44158400000000,14/00027/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.69644800000000,DL10 5LQ,2014-06-27,fhrs_3_en-GB,3,,FHRS,10
-386845,Westbrook Restaurants Limited,Seasons Restaurant,The Station,Station Yard,Seasons,Restaurant/Cafe/Canteen,1,5,,21822,0,,54.40302700000000,07/00073/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72960500000000,DL10 4LD,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-386846,Street Record,Sedbury Loop Road,Scotch Corner,North Yorkshire,Sedbury Caterers,Takeaway/sandwich shop,7844,0,,44244,0,,,10740/2023/4/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2013-12-17,fhrs_5_en-GB,5,,FHRS,0
-386847,Serendipity  Norfolk House,Market Place,Leyburn,North Yorkshire,Serendipity,Restaurant/Cafe/Canteen,1,10,,16862,0,,54.31077700000000,05340/2020/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83000700000000,DL8 5AQ,2013-12-03,fhrs_4_en-GB,4,,FHRS,10
-386848,31A Market Place,Richmond,North Yorkshire,,Shanghai City,Takeaway/sandwich shop,7844,5,,27623,5,,54.40281400000000,08120/0031/A/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73880300000000,DL10 4QG,2014-04-10,fhrs_4_en-GB,4,,FHRS,10
-386849,Shell High Brough Moor Filling Stat,Great North Road,Middleton Tyas,Richmond,Shell High Brough Moor,Retailers - other,4613,0,,656698,0,,54.43162400000000,14/00006/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66809600000000,DL10 6PB,2014-04-24,fhrs_5_en-GB,5,,FHRS,0
-386850,Gatherley Road,Brompton On Swale,Richmond,North Yorkshire,Shirley House,Hospitals/Childcare/Caring Premises,5,5,,32502,0,,54.39277500000000,09670/2046/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66266500000000,DL10 7HN,2014-01-30,fhrs_5_en-GB,5,,FHRS,0
-386851,Shoulder Of Mutton Inn,Kirby Hill,Richmond,North Yorkshire,Shoulder Of Mutton,Pub/bar/nightclub,7843,0,,45103,0,,54.45387200000000,10940/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.78573600000000,DL11 7JH,2013-08-02,fhrs_5_en-GB,5,,FHRS,0
-386852,Shoulder Of Mutton Inn,Main Street,Middleton Tyas,Richmond,Shoulder Of Mutton,Pub/bar/nightclub,7843,0,,50087,0,,54.44626400000000,11140/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65214100000000,DL10 6QX,2014-08-27,fhrs_5_en-GB,5,,FHRS,5
-386853,Simonstone Hall,Simonstone,Hawes,North Yorkshire,Simonstone Hall Hotel,Hotel/bed & breakfast/guest house,7842,0,,548753,0,,54.32073400000000,13/00037/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19973200000000,DL8 3LY,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-386854,Sip Coffee,18 King Street,Richmond,North Yorkshire,SIP Coffee,Restaurant/Cafe/Canteen,1,5,,27428,0,,54.40388900000000,08020/0018/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73713300000000,DL10 4HP,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-386855,Scurragh Lane,Moulton,Richmond,North Yorkshire,Skeeby Lodge,Hotel/bed & breakfast/guest house,7842,0,,52799,0,,54.42225700000000,11950/2016/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67720300000000,DL10 5EF,2011-10-27,fhrs_5_en-GB,5,,FHRS,0
-386856,The Smallways Inn,Low Lane,Newsham,Richmond,Smallways Country Inn,Pub/bar/nightclub,7843,5,,46706,0,,54.49563000000000,11/00080/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82843900000000,DL11 7QW,2011-09-01,fhrs_5_en-GB,5,,FHRS,0
-386857,49 Oak Tree Avenue,Scotton,Catterick Garrison,North Yorkshire,Smokie Joes,Mobile caterer,7846,5,,536093,0,,54.35317500000000,13/00029/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70983900000000,DL9 3RE,2014-04-24,fhrs_5_en-GB,5,,FHRS,5
-386858,57A Market Place,Richmond,North Yorkshire,,Something Special,Restaurant/Cafe/Canteen,1,5,,648919,5,,54.40267900000000,14/00002/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73888100000000,DL10 4QG,2014-04-02,fhrs_5_en-GB,5,,FHRS,5
-386859,Sopranos Pizzaria,High Street,Leyburn,North Yorkshire,Soprano Pizzeria,Takeaway/sandwich shop,7844,5,,16797,0,,54.31066100000000,05290/4001/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83046800000000,DL8 5AH,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-386860,Spar Shop,Market Place,Hawes,North Yorkshire,Spar Stores,Retailers - other,4613,0,,14232,0,,54.30383100000000,04840/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19828200000000,DL8 3QX,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-386861,Spennithorne Church Of England Prim,Spennithorne,Leyburn,North Yorkshire,Spennithorne C Of E Primary School,School/college/university,7845,0,,21155,0,,54.20360946655270,06880/4000/0/004,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.36397528648376,DL8 5PR,2014-06-06,fhrs_5_en-GB,5,,FHRS,0
-386862,Richmond Road,Brompton On Swale,North Yorkshire,,St Pauls Church,Other catering premises,7841,,,209531,,,54.39113100000000,09760/5000/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66925400000000,DL10 7HQ,2011-08-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-386863,St Francis Xavier Roman Catholic Sc,Darlington Road,Richmond,North Yorkshire,St. Francis Xavier School,School/college/university,7845,0,,24407,0,,54.40920400000000,07700/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71891900000000,DL10 7DA,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-386864,United Board Church,Shute Road,Catterick Garrison,North Yorkshire,St. Johns Centre,Other catering premises,7841,5,,9143,0,,54.37641100000000,03690/2002/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72098800000000,,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-386865,St Marys Roman Catholic Primary Sch,Cross Lanes,Richmond,North Yorkshire,St. Marys RC Primary School,School/college/university,7845,0,,24382,0,,54.40851400000000,07680/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71974000000000,DL10 7DZ,2013-10-15,fhrs_5_en-GB,5,,FHRS,0
-386866,Kelspring House,Thornton Road,Aysgarth,Leyburn,Sticky Ginger,Other catering premises,7841,5,,28644,0,,54.29159200000000,09/00015/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.99754000000000,DL8 3AH,2014-09-10,fhrs_5_en-GB,5,,FHRS,5
-386867,Stone House Hotel,Hardraw,Hawes,North Yorkshire,Stone House Hotel Ltd,Hotel/bed & breakfast/guest house,7842,0,,14115,0,,54.31357192993160,04680/2040/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.18082141876221,DL8 3PT,2015-01-26,fhrs_5_en-GB,5,,FHRS,0
-386868,Warren House,Watling Close,Gayles,Richmond,Stoneygate Farm,Retailers - other,4613,5,,679542,5,,54.46214400000000,14/00015/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80991300000000,DL11 7JE,2014-06-26,fhrs_5_en-GB,5,,FHRS,5
-386869,16 Bennions Way,Catterick Village,Richmond,North Yorkshire,Stuart's,Mobile caterer,7846,5,,638123,5,,54.37301900000000,13/00102/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63082400000000,DL10 7RL,2014-03-11,fhrs_5_en-GB,5,,FHRS,5
-386870,17 Hildyard Row,Catterick Road,Catterick Garrison,North Yorkshire,Subway,Takeaway/sandwich shop,7844,0,,28456,0,,54.37555800000000,09/00001/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70829600000000,DL9 4DH,2013-01-25,fhrs_5_en-GB,5,,FHRS,0
-386871,21 - 23 High Street,Catterick Village,Richmond,North Yorkshire,Sunrise Takeaway,Takeaway/sandwich shop,7844,5,,39863,10,,54.37714500000000,10040/0021/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63121800000000,DL10 7LL,2013-01-22,fhrs_3_en-GB,3,,FHRS,10
-386872,The Swaledale Cheese Co,Mercury Road,Gallowfields Trading Estate,Richmond,Swaledale Cheese Co Limited,Manufacturers/packers,7839,,,43837,,,54.41204700000000,10660/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74891400000000,DL10 4TQ,2014-06-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-386873,Restaurant At,Sycamore Hall,Sycamore Close,Bainbridge,Sycamore Restaurant,Restaurant/Cafe/Canteen,1,10,,47287,10,,,11/00120/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2013-07-03,fhrs_4_en-GB,4,,FHRS,0
-386874,The Village Shop  Sycamore Hall,Sycamore Close,Bainbridge,Leyburn,Sycamore Shop,Retailers - other,4613,0,,47314,0,,54.30575600000000,11/00122/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.10340900000000,DL8 3HF,2014-11-17,fhrs_5_en-GB,5,,FHRS,0
-386875,Main Street,Askrigg,Leyburn,North Yorkshire,Sykes House,Hotel/bed & breakfast/guest house,7842,10,,690536,0,,54.31526500000000,13/00095/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.07940700000000,DL8 3HG,2014-08-07,fhrs_4_en-GB,4,,FHRS,5
-386876,North Yorkshire Events Centre,Hospital Road To Blind Lane,Scorton,Richmond,Sylvia's Snax,Takeaway/sandwich shop,7844,5,,17840,0,,54.40536400000000,06/00038/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74625900000000,DL10 4EJ,2013-06-05,fhrs_5_en-GB,5,,FHRS,0
-386877,Ropers Caravan World,Gatherley Road,Brompton On Swale,Richmond,T & M Coffee Shop,Restaurant/Cafe/Canteen,1,0,,594681,0,,54.39250800000000,13/00104/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65404300000000,DL10 7SL,2013-10-17,fhrs_5_en-GB,5,,FHRS,0
-386878,33 Market Place,Richmond,North Yorkshire,,Talbot Hotel,Hotel/bed & breakfast/guest house,7842,5,,46256,10,,54.40281400000000,11/00055/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73880300000000,DL10 4QG,2012-02-08,fhrs_4_en-GB,4,,FHRS,5
-386879,Langthwaite,Richmond,North Yorkshire,,Tan Hill Inn,Pub/bar/nightclub,7843,5,,24072,5,,54.45558166503910,07310/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.16036319732666,DL11 6ED,2014-04-16,fhrs_4_en-GB,4,,FHRS,10
-386880,3 Castle Hill,Richmond,North Yorkshire,,Tandoori Nights,Restaurant/Cafe/Canteen,1,5,,24190,5,,54.40204900000000,07490/0003/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73845400000000,DL10 4QP,2014-07-29,fhrs_4_en-GB,4,,FHRS,10
-386881,22 - 24 Finkle Street,Richmond,North Yorkshire,,Tasty Macs,Takeaway/sandwich shop,7844,5,,24474,0,,54.40384800000000,07780/0022/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73895100000000,DL10 4QB,2013-10-18,fhrs_5_en-GB,5,,FHRS,5
-386882,The Old Calf House,Manor Farm,Aysgarth,North Yorkshire,Tenigo  (Wensleydale) Ltd,Manufacturers/packers,7839,,,441394,,,,12/00099/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2013-08-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-386883,Tennants Of Yorkshire,Auction Centre,Harmby Road,Leyburn,Tennants Auctioneers,Restaurant/Cafe/Canteen,1,5,,565673,0,,54.30674800000000,12/00130/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.81539300000000,DL8 5SG,2013-07-09,fhrs_5_en-GB,5,,FHRS,0
-386884,Richmondshire Walk,Catterick Garrison,North Yorkshire,,Tesco,Retailers - supermarkets/hypermarkets,7840,0,,9027,5,,54.37478400000000,03555/2000/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72295600000000,DL9 3EN,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-386885,Tesco,Richmondshire Walk,Catterick Garrison,North Yorkshire,Tesco Family Dining Ltd,Restaurant/Cafe/Canteen,1,0,,707044,0,,54.37476600000000,14/00073/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72317200000000,DL9 3EN,2013-10-18,fhrs_5_en-GB,5,,FHRS,0
-386886,The Angel Share Bakery,Workspace 6,The Station,Station Yard,The Angels Share Bakery,Retailers - other,4613,0,,24823,5,,54.40302700000000,08/00017/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72960500000000,DL10 4LD,2013-07-25,fhrs_5_en-GB,5,,FHRS,5
-386887,Palmer Flatt,Aysgarth,Leyburn,North Yorkshire,The Aysgarth Falls Hotel,Hotel/bed & breakfast/guest house,7842,5,,404240,0,,54.29119600000000,12/00073/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.98380500000000,DL8 3SR,2013-10-31,fhrs_5_en-GB,5,,FHRS,5
-386888,Unit 2  Dryden House,Market Place,Hawes,North Yorkshire,The Bay Tree Cafe + Bistro,Restaurant/Cafe/Canteen,1,5,,14254,0,,54.30431400000000,04850/4000/0/023,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19959100000000,DL8 3RD,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-386889,Black Bull Inn,Back Lane,Moulton,Richmond,The Black Bull,Pub/bar/nightclub,7843,0,,648920,0,,54.42843300000000,14/00012/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63666200000000,DL10 6QJ,2014-04-11,fhrs_5_en-GB,5,,FHRS,0
-386890,Black Bull Inn,East Witton Road,Middleham,Leyburn,The Black Bull Inn,Pub/bar/nightclub,7843,0,,638124,0,,54.28538600000000,13/00107/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80430600000000,DL8 4NX,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-386891,Black Lion Hotel,12 Finkle Street,Richmond,North Yorkshire,The Black Lion Hotel,Hotel/bed & breakfast/guest house,7842,0,,735045,0,,54.40356000000000,15/00002/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73916800000000,DL10 4QA,2015-02-03,fhrs_5_en-GB,5,,FHRS,0
-386892,Board Hotel,Market Place,Hawes,North Yorkshire,The Board Inn,Pub/bar/nightclub,7843,0,,715004,0,,54.30431400000000,14/00078/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19959100000000,DL8 3RD,2014-11-04,fhrs_5_en-GB,5,,FHRS,5
-386893,Market Place,Leyburn,North Yorkshire,,The Bolton Arms,Pub/bar/nightclub,7843,10,,16869,10,,54.30975500000000,05340/4000/0/010,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83122500000000,DL8 5BW,2014-11-11,fhrs_3_en-GB,3,,FHRS,10
-386894,8 Queens Road,Richmond,North Yorkshire,,The Bread Bowl,Restaurant/Cafe/Canteen,1,5,,27967,5,,54.40483100000000,08410/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73640300000000,DL10 4AE,2013-10-11,fhrs_5_en-GB,5,,FHRS,5
-386895,Grinton,Richmond,North Yorkshire,,The Bridge Inn,Pub/bar/nightclub,7843,5,,44627,5,,54.38157653808590,10820/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.92949855327606,DL11 6HH,2014-12-02,fhrs_4_en-GB,4,,FHRS,10
-386896,Caldwell,Richmond,North Yorkshire,,The Brownlow Arms,Pub/bar/nightclub,7843,5,,32603,0,,54.51595500000000,09840/4000/0/006,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.75356000000000,DL11 7QH,2013-12-19,fhrs_5_en-GB,5,,FHRS,0
-386897,Buck Hotel,Arkengarthdale Road,Reeth,Richmond,The Buck Hotel,Hotel/bed & breakfast/guest house,7842,5,,46148,5,,54.38976300000000,11/00049/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94302100000000,DL11 6SW,2014-06-23,fhrs_4_en-GB,4,,FHRS,10
-386898,Bulls Head Hotel,Market Place,Hawes,North Yorkshire,The Bulls Head Hotel,Hotel/bed & breakfast/guest house,7842,0,,536090,0,,54.30428800000000,13/00008/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19942200000000,DL8 3RD,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-386899,East Borwins,Bainbridge,Leyburn,North Yorkshire,The Burger Queen,Mobile caterer,7846,0,,45565,0,,54.30668200000000,11/00014/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.13113600000000,DL8 3EP,2015-02-06,fhrs_5_en-GB,5,,FHRS,0
-386900,Burgoyne Hotel,Reeth,Richmond,North Yorkshire,The Burgoyne Hotel,Hotel/bed & breakfast/guest house,7842,5,,209576,0,,54.20360946655270,12/00037/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.36397528648376,DL11 6SN,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-386901,Cart House,Hardraw,Hawes,North Yorkshire,The Cart House,Restaurant/Cafe/Canteen,1,5,,16574,5,,54.31618600000000,05100/2013/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.20505900000000,DL8 3LZ,2008-11-18,fhrs_5_en-GB,5,,FHRS,5
-386902,3 - 4 Market Place,Richmond,North Yorkshire,,The Castle Tavern,Pub/bar/nightclub,7843,10,,33861,0,,54.40350100000000,10/00071/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73653400000000,DL10 4HU,2014-01-21,fhrs_4_en-GB,4,,FHRS,5
-386903,,,,,The Chantry Annexe,Manufacturers/packers,7839,,,638122,,,,13/00085/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-386904,Langthwaite,Richmond,North Yorkshire,,The Charles Bathurst Inn,Hotel/bed & breakfast/guest house,7842,0,,32115,0,,54.42205800000000,09270/2079/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.00029100000000,DL11 6EN,2014-12-03,fhrs_5_en-GB,5,,FHRS,0
-386905,Market Place,Hawes,North Yorkshire,,The Chippie,Takeaway/sandwich shop,7844,5,,14255,0,,54.30433800000000,04850/4000/0/024,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.20142000000000,DL8 3RG,2014-11-04,fhrs_5_en-GB,5,,FHRS,5
-386906,6 Market Place,Richmond,North Yorkshire,,The Co-operative,Retailers - other,4613,0,,27610,0,,54.40350100000000,08120/0006/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73653400000000,DL10 4HU,2014-07-18,fhrs_5_en-GB,5,,FHRS,5
-386907,11 - 12 Market Place,Leyburn,North Yorkshire,,The Co-operative Group,Retailers - supermarkets/hypermarkets,7840,0,,16847,0,,54.30946500000000,05340/0011/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82945900000000,DL8 5BG,2010-08-12,fhrs_5_en-GB,5,,FHRS,0
-386908,The Copper Kettle Tea Room,Reeth,Richmond,North Yorkshire,The Copper Kettle,Restaurant/Cafe/Canteen,1,0,,51154,0,,54.38802800000000,11430/4000/0/007,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94169900000000,DL11 6TJ,2013-03-03,fhrs_5_en-GB,5,,FHRS,0
-386909,Coppice Cafe,Aysgarth Falls National Park Centre,Church Bank,Aysgarth,The Coppice,Restaurant/Cafe/Canteen,1,5,,536089,0,,54.29624600000000,11/00029/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.98199100000000,DL8 3TH,2014-11-19,fhrs_5_en-GB,5,,FHRS,0
-386910,South View,Hunton,Bedale,North Yorkshire,The Countrymans Inn,Pub/bar/nightclub,7843,5,,6236,5,,54.32837100000000,02050/4000/0/005,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71013600000000,DL8 1PY,2013-08-30,fhrs_5_en-GB,5,,FHRS,5
-386911,Croft Spa Hotel,Dalton Road,Croft On Tees,Darlington,The Croft Hotel Ltd,Hotel/bed & breakfast/guest house,7842,0,,415161,0,,54.48236500000000,12/00082/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.55614200000000,DL2 2ST,2014-04-04,fhrs_5_en-GB,5,,FHRS,5
-386912,Crown Hotel,Market Place,Hawes,North Yorkshire,The Crown Hotel,Hotel/bed & breakfast/guest house,7842,10,,504993,5,,54.30431400000000,12/00131/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19959100000000,DL8 3RD,2014-06-30,fhrs_4_en-GB,4,,FHRS,5
-386913,Crown Inn,Glebe Lane,Manfield,Darlington,The Crown Inn,Pub/bar/nightclub,7843,0,,5235,0,,54.51672000000000,01660/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66122800000000,DL2 2RF,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-386914,Crown Inn,Main Street,Askrigg,Leyburn,The Crown Inn,Pub/bar/nightclub,7843,0,,664676,0,,54.31526500000000,11/00084/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.07940700000000,DL8 3HG,2014-05-16,fhrs_5_en-GB,5,,FHRS,0
-386915,The Haven,Market Place,Leyburn,North Yorkshire,The Dales Haven,Restaurant/Cafe/Canteen,1,0,,16860,5,,54.30952900000000,05340/2010/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83036500000000,DL8 5BJ,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-386916,Church Bank,Aysgarth,Leyburn,North Yorkshire,The Falls,Restaurant/Cafe/Canteen,1,10,,17421,10,,54.29119491577148,05940/2024/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.98380541801453,DL8 3SR,2013-09-17,fhrs_3_en-GB,3,,FHRS,10
-386917,Farmers Arms,Muker,Richmond,North Yorkshire,The Farmers Arms,Pub/bar/nightclub,7843,5,,45789,0,,54.37642100000000,11/00027/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.14033400000000,DL11 6QG,2014-06-23,fhrs_5_en-GB,5,,FHRS,5
-386918,Northside,Scorton,Richmond,North Yorkshire,The Farmers Arms,Pub/bar/nightclub,7843,5,,45679,5,,54.39678900000000,11/00020/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.61625600000000,DL10 6DW,2014-12-03,fhrs_4_en-GB,4,,FHRS,10
-386919,The Forbidden Corner,Tupgill Park,Coverham,Leyburn,The Forbidden Corner Ltd,Restaurant/Cafe/Canteen,1,5,,20880,0,,54.27573500000000,06550/2070/4/500,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.85648800000000,DL8 4TJ,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-386920,Carlton,Leyburn,North Yorkshire,,The Foresters Arms,Pub/bar/nightclub,7843,10,,355582,0,,54.25748062133790,11/00135/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.89884042739868,DL8 4BB,2013-11-21,fhrs_4_en-GB,4,,FHRS,5
-386921,The Fox And Hounds Inn,Main Street,West Witton,Leyburn,The Fox And Hounds,Pub/bar/nightclub,7843,5,,23923,0,,54.29127900000000,07090/4000/0/004,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.90825200000000,DL8 4LP,2014-06-05,fhrs_5_en-GB,5,,FHRS,0
-386922,The Frenchgate Hotel And Resturant,59 - 61 Frenchgate,Richmond,North Yorkshire,The Frenchgate Restaurant And Hotel,Hotel/bed & breakfast/guest house,7842,0,,24491,0,,54.40562600000000,07820/0059/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73414800000000,DL10 7AE,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-386923,Friars Head,Patrick Brompton,Leyburn,North Yorkshire,The Friars Head,Restaurant/Cafe/Canteen,1,5,,664685,5,,54.31016500000000,14/00040/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.70719000000000,DL8 5LY,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-386924,Spring Lodge,Forcett,Richmond,North Yorkshire,The Game Cart Company,Other catering premises,7841,5,,28611,5,,54.50627400000000,09/00012/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72738100000000,DL11 7RU,2013-11-13,fhrs_5_en-GB,5,,FHRS,5
-386925,George And Dragon Inn,Hudswell,Richmond,North Yorkshire,The George And Dragon,Pub/bar/nightclub,7843,5,,733726,0,,54.39748900000000,14/00098/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.77685000000000,DL11 6BL,2015-01-27,fhrs_5_en-GB,5,,FHRS,5
-386926,Piercebridge,Darlington,North Yorkshire,,The George Hotel,Hotel/bed & breakfast/guest house,7842,0,,199551,5,,54.53432464599609,12/00024/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67329096794128,DL2 3SW,2015-01-27,fhrs_5_en-GB,5,,FHRS,5
-386927,Westfield Lane,Thoralby,Leyburn,North Yorkshire,The George Inn,Pub/bar/nightclub,7843,0,,21181,0,,54.27665600000000,06910/4000/0/006,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.00154900000000,DL8 3SU,2013-11-22,fhrs_5_en-GB,5,,FHRS,0
-386928,Gift Shop,High Row,Reeth,Richmond,The Gift Shop,Retailers - other,4613,0,,51153,0,,54.38922400000000,11430/4000/0/006,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94339100000000,DL11 6SY,2013-10-31,fhrs_5_en-GB,5,,FHRS,0
-386929,The Gluten Free Kitchen Limited,Unit 4D,Harmby Road Industrial Estate,Harmby Road,The Gluten Free Kitchen Ltd,Manufacturers/packers,7839,0,,46756,0,,54.30702900000000,11/00083/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.81743500000000,DL8 5QA,2014-08-06,fhrs_5_en-GB,5,,FHRS,0
-386930,,,,,The Green Kitchen,Other catering premises,7841,,,656697,,,,14/00003/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-04-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-386931,The Grove,Grove Square,Market Place,Middleham,The Grove Day Nursery,Other catering premises,7841,0,,20937,0,,54.28451400000000,06610/2005/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80415600000000,DL8 4NS,2012-06-12,fhrs_5_en-GB,5,,FHRS,0
-386932,The White Heifer Inn,Scorton,Richmond,North Yorkshire,The Heifer,Pub/bar/nightclub,7843,0,,52052,0,,54.39624200000000,11710/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.61664600000000,DL10 6DH,2013-05-28,fhrs_5_en-GB,5,,FHRS,5
-386933,Holly Hill Inn,Holly Hill,Richmond,North Yorkshire,The Holly Inn Pub And Bistro,Restaurant/Cafe/Canteen,1,10,,668769,5,,54.39777700000000,14/00020/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73709500000000,DL10 4RJ,2014-06-04,fhrs_4_en-GB,4,,FHRS,5
-386934,The Stables North Farm,Newton Morrell,Stapleton To Barton Road,Stapleton,The Honey B Company,Farmers/growers,7838,0,,584600,0,,54.47977100000000,13/00039/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63200900000000,DL10 6HQ,2013-09-12,fhrs_5_en-GB,5,,FHRS,0
-386935,Kings Arms Hotel,Main Street,Askrigg,Leyburn,The Kings Arms,Hotel/bed & breakfast/guest house,7842,0,,329711,0,,54.31550800000000,12/00050/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.07993000000000,DL8 3HQ,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-386936,High Row,Reeth,Richmond,North Yorkshire,The Kings Arms Hotel,Hotel/bed & breakfast/guest house,7842,0,,47118,0,,54.38922400000000,11/00105/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94339100000000,DL11 6SY,2014-10-28,fhrs_5_en-GB,5,,FHRS,5
-386937,Lakeside Farm Shop And Country Cafe,North Farm,Ellerton On Swale,Richmond,The Lakeside Farm Shop And Country Cafe,Restaurant/Cafe/Canteen,1,5,,42330,0,,54.37417100000000,10440/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.60601500000000,DL10 6AP,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-386938,Reeth,Richmond,North Yorkshire,,The Laurels,Hotel/bed & breakfast/guest house,7842,0,,628093,0,,54.38864800000000,13/00020/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94072800000000,DL11 6TX,2014-01-20,fhrs_5_en-GB,5,,FHRS,0
-386939,Harmby Road,Leyburn,North Yorkshire,,The Little Chocolate Shop,Retailers - other,4613,0,,209564,0,,54.30702900000000,12/00025/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.81743500000000,DL8 5QA,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-386940,George And Dragon Inn,Hudswell,Richmond,North Yorkshire,The Little Shop,Retailers - other,4613,5,,576145,0,,54.39748900000000,12/00051/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.77685000000000,DL11 6BL,2013-10-10,fhrs_5_en-GB,5,,FHRS,0
-386941,,,,,The Lodge - Scorton,Hotel/bed & breakfast/guest house,7842,0,,735046,0,,,15/00006/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2015-02-03,fhrs_5_en-GB,5,,FHRS,0
-386942,Marske Lodge,Church Road,Marske,Richmond,The Lodge Tea Room,Restaurant/Cafe/Canteen,1,0,,33636,0,,54.39997900000000,10/00056/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.84009800000000,DL11 7NA,2014-09-03,fhrs_5_en-GB,5,,FHRS,0
-386943,The Green,Reeth,Richmond,North Yorkshire,The Manse,Hotel/bed & breakfast/guest house,7842,5,,404237,0,,54.38984400000000,12/00064/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.94183500000000,DL11 6SN,2012-06-12,fhrs_5_en-GB,5,,FHRS,0
-386944,Moorcock Inn,Garsdale Head,Hawes,Sedbergh,The Moorcock Inn,Pub/bar/nightclub,7843,0,,5521,0,,54.32923000000000,01920/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.31251600000000,LA10 5PU,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-386945,Stable Door Restaurant,Market Place,Middleham,Leyburn,The New Stable Door,Restaurant/Cafe/Canteen,1,5,,20993,5,,54.28491100000000,06670/4000/0/008,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80564400000000,DL8 4NP,2013-08-07,fhrs_5_en-GB,5,,FHRS,5
-386946,Oak Tree Inn,Low Green,Catterick Village,Richmond,The Oak Tree,Pub/bar/nightclub,7843,0,,628096,0,,54.37624800000000,13/00113/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63176500000000,DL10 7LP,2013-11-04,fhrs_5_en-GB,5,,FHRS,0
-386947,Old Dairy Farm,Widdale,Hawes,North Yorkshire,The Old Dairy Farm,Hotel/bed & breakfast/guest house,7842,0,,17974,0,,54.27425900000000,06/00054/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.29299600000000,DL8 3LX,2014-07-23,fhrs_5_en-GB,5,,FHRS,0
-386948,Main Street,Spennithorne,Leyburn,North Yorkshire,The Old Horn Inn,Pub/bar/nightclub,7843,5,,21153,0,,54.29675200000000,06880/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.79196000000000,DL8 5PR,2015-01-30,fhrs_5_en-GB,5,,FHRS,5
-386949,Rose Cottage,Gunnerside,Richmond,North Yorkshire,The Old Smithy Shop,Retailers - other,4613,5,,44684,5,,54.37924600000000,10830/2097/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.07769900000000,DL11 6LE,2010-06-03,fhrs_5_en-GB,5,,FHRS,5
-386950,3 West Layton Manor,West Layton,Richmond,North Yorkshire,The Orchard,Retailers - other,4613,5,,680825,5,,54.48387200000000,14/00014/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.78201400000000,DL11 7PP,2014-06-27,fhrs_5_en-GB,5,,FHRS,5
-386951,Belle Vue House,Market Place,Leyburn,North Yorkshire,The Posthorn,Restaurant/Cafe/Canteen,1,5,,16859,0,,54.31028300000000,05340/2004/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82971700000000,DL8 5AW,2015-02-05,fhrs_5_en-GB,5,,FHRS,0
-386952,The Priory,West End,Middleham,Leyburn,The Priory Middleham,Hotel/bed & breakfast/guest house,7842,5,,404236,5,,54.28410700000000,12/00061/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80865800000000,DL8 4QQ,2012-06-12,fhrs_5_en-GB,5,,FHRS,5
-386953,Punch Bowl Inn,Feetham,Richmond,North Yorkshire,The Punch Bowl,Restaurant/Cafe/Canteen,1,0,,45204,0,,54.38094900000000,10970/4000/0/010,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.02320000000000,DL11 6PF,2014-05-16,fhrs_5_en-GB,5,,FHRS,0
-386954,First Floor,2 - 3 Trinity Church Square,Market Place,Richmond,The Richmond Grill And Brasserie,Restaurant/Cafe/Canteen,1,5,,569212,5,,54.40314300000000,13/00031/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73709100000000,DL10 4HY,2013-11-15,fhrs_5_en-GB,5,,FHRS,5
-386955,7 Bolton Road,Scorton,Richmond,North Yorkshire,The Roast Inn (Yorkshire),Mobile caterer,7846,5,,465824,0,,54.39374100000000,12/00121/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.61588400000000,DL10 6TH,2014-06-16,fhrs_5_en-GB,5,,FHRS,5
-386956,Hillcrest,Tunstall,Richmond,North Yorkshire,The Roast Meat Company,Mobile caterer,7846,10,,664678,0,,54.35377300000000,14/00013/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67321600000000,DL10 7QZ,2014-05-16,fhrs_4_en-GB,4,,FHRS,5
-386957,Tupgill Park,Coverham,Leyburn,North Yorkshire,The Saddleroom Restaurant,Restaurant/Cafe/Canteen,1,0,,682390,0,,54.27573500000000,14/00033/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.85648800000000,DL8 4TJ,2014-07-04,fhrs_5_en-GB,5,,FHRS,0
-386958,Market Place,Leyburn,North Yorkshire,,The Sandpiper Inn,Restaurant/Cafe/Canteen,1,5,,17008,5,,54.30951000000000,05450/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82981200000000,DL8 5BQ,2013-06-27,fhrs_5_en-GB,5,,FHRS,5
-386959,4 Trinity Church Square,Market Place,Richmond,North Yorkshire,The Scone Bar Ltd,Restaurant/Cafe/Canteen,1,0,,680827,0,,54.40314300000000,14/00055/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73709100000000,DL10 4HY,2014-07-03,fhrs_5_en-GB,5,,FHRS,0
-386960,The Ship,93 Frenchgate,Richmond,North Yorkshire,The Ship Inn,Pub/bar/nightclub,7843,0,,723842,0,,54.40562600000000,14/00096/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73414800000000,DL10 7AE,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-386961,Stanwick Arms,High Green,Aldbrough St John,Richmond,The Stanwick Inn,Pub/bar/nightclub,7843,0,,32055,0,,54.49878500000000,09180/4000/0/005,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.68881400000000,DL11 7SZ,2014-02-19,fhrs_5_en-GB,5,,FHRS,5
-386962,Street Record,Gatherley Road Industrial Estate,Brompton On Swale,North Yorkshire,The Stottie Stop,Takeaway/sandwich shop,7844,0,,625049,0,,,13/00098/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2014-01-08,fhrs_5_en-GB,5,,FHRS,0
-386963,Street Head Inn,Newbiggin,Leyburn,North Yorkshire,The Street Head Inn,Hotel/bed & breakfast/guest house,7842,10,,508016,5,,54.26681400000000,11/00078/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.00441900000000,DL8 3TD,2014-08-21,fhrs_4_en-GB,4,,FHRS,5
-386964,Harmby Road,Leyburn,North Yorkshire,,The Teapottery,Restaurant/Cafe/Canteen,1,0,,16758,0,,54.30702900000000,05260/4000/0/008,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.81743500000000,DL8 5QA,2010-07-05,fhrs_5_en-GB,5,,FHRS,5
-386965,Maison Dieu,Richmond,North Yorkshire,,The Terrace Care Home,Hospitals/Childcare/Caring Premises,5,0,,47401,0,,54.40598900000000,11/00130/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72767600000000,DL10 7AX,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-386966,Three Horse Shoes,Wensley,Leyburn,North Yorkshire,The Three Horseshoes,Pub/bar/nightclub,7843,5,,21201,0,,54.30244900000000,06940/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.86026700000000,DL8 4HJ,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-386967,Main Street,Horsehouse,Leyburn,North Yorkshire,The Thwaite Arms,Pub/bar/nightclub,7843,5,,20850,5,,54.22726700000000,06490/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.92856400000000,DL8 4TS,2014-01-17,fhrs_5_en-GB,5,,FHRS,0
-386968,The Unicorn Hotel,2 Newbiggin,Richmond,North Yorkshire,The Unicorn Inn Richmond,Pub/bar/nightclub,7843,5,,576147,5,,54.40391500000000,13/00071/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74101500000000,DL10 4DT,2013-08-01,fhrs_5_en-GB,5,,FHRS,5
-386969,The Wensleydale Heifer Hotel,Main Street,West Witton,Leyburn,The Wensleydale Heifer,Hotel/bed & breakfast/guest house,7842,5,,515992,5,,54.29133500000000,13/00016/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.91031000000000,DL8 4LS,2014-08-21,fhrs_4_en-GB,4,,FHRS,10
-386970,Wensleydale School,Richmond Road,Leyburn,North Yorkshire,The Wensleydale School & Sixth Form,Restaurant/Cafe/Canteen,1,5,,632498,0,,54.31329400000000,14/00008/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82395600000000,DL8 5HY,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-386971,25 Dale Way,Leyburn,North Yorkshire,,The Yorkshire Hamper Company,Manufacturers/packers,7839,0,,723840,0,,54.31444900000000,12/00100/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82061500000000,DL8 5LE,2014-12-09,fhrs_5_en-GB,5,,FHRS,0
-386972,Catterick Garrison Golf Club,Leyburn Road,Catterick Garrison,North Yorkshire,Thierry Catering,Restaurant/Cafe/Canteen,1,5,,189986,5,,54.37219900000000,11/00170/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73651900000000,DL9 3QE,2014-05-30,fhrs_5_en-GB,5,,FHRS,5
-386973,24 Market Place,Leyburn,North Yorkshire,,Thomas The Baker,Retailers - other,4613,0,,28943,0,,54.31009300000000,09/00039/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.82894900000000,DL8 5AS,2013-01-11,fhrs_5_en-GB,5,,FHRS,5
-386974,27 Market Place,Richmond,North Yorkshire,,Thomas The Baker,Retailers - other,4613,0,,27620,0,,54.40281400000000,08120/0027/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73880300000000,DL10 4QG,2014-11-18,fhrs_5_en-GB,5,,FHRS,0
-386975,Post Office,Westfield Lane,Thoralby,Leyburn,Thoralby Village Store,Retailers - other,4613,5,,21178,5,,54.27665600000000,06910/2064/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.00154900000000,DL8 3SU,2011-05-18,fhrs_5_en-GB,5,,FHRS,5
-386976,Cubeck To Thornton Rust Road,Thornton Rust Road,Leyburn,North Yorkshire,Thornton Lodge,Hotel/bed & breakfast/guest house,7842,5,,21197,5,,54.29734200000000,06930/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.05131600000000,DL8 3AP,2011-01-19,fhrs_5_en-GB,5,,FHRS,5
-386977,Market Place,Richmond,North Yorkshire,,Town Hall Hotel,Restaurant/Cafe/Canteen,1,5,,27638,0,,54.40259600000000,08120/4000/0/002,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73786500000000,DL10 4QL,2014-04-07,fhrs_5_en-GB,5,,FHRS,5
-386978,Victoria Road,Richmond,North Yorkshire,,Turf Hotel,Hotel/bed & breakfast/guest house,7842,0,,712258,0,,54.40405400000000,14/00069/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73884200000000,DL10 4DW,2014-10-20,fhrs_5_en-GB,5,,FHRS,5
-386979,School Grounds,Dales Play,Gayle Lane,Gayle,Upperdales Childcare Partnership,Other catering premises,7841,5,,46204,0,,54.30359200000000,11/00052/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.20184600000000,DL8 3RJ,2014-11-13,fhrs_5_en-GB,5,,FHRS,0
-386980,The Station,Station Yard,Richmond,North Yorkshire,Velvet Heaven,Retailers - other,4613,5,,25232,5,,54.40302700000000,08/00058/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72960500000000,DL10 4LD,2008-11-21,fhrs_5_en-GB,5,,FHRS,0
-386981,The Veteran Artisan Bakery,Ground Floor,The Beacon,Marne Road,Veteran Artisan Bakery,Manufacturers/packers,7839,0,,355583,0,,,12/00060/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2013-10-22,fhrs_5_en-GB,5,,FHRS,5
-386982,27 High Street,Catterick Village,Richmond,North Yorkshire,Village Cafe,Restaurant/Cafe/Canteen,1,5,,194561,5,,54.37714500000000,10/00047/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.63121800000000,DL10 7LL,2013-08-16,fhrs_4_en-GB,4,,FHRS,10
-386983,Newton Le Willows,North Yorkshire,,,Village Hall,Other catering premises,7841,,,209553,,,54.29889000000000,05/00084/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66378500000000,DL8 1SB,2007-05-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-386984,The Vintage Hotel,East Layton,Richmond,North Yorkshire,Vintage Hotel,Hotel/bed & breakfast/guest house,7842,5,,50502,0,,54.44225500000000,11250/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67445500000000,DL10 6NP,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-386985,Catterick Racecourse,Leeming Lane North,Catterick Village,Richmond,W E Cater,Mobile caterer,7846,5,,648917,5,,54.38885900000000,13/00109/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65067000000000,DL10 7PE,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-386986,Rose Cottage,West Burton,Leyburn,North Yorkshire,W.S Hartle Butchers,Retailers - other,4613,0,,21232,0,,54.27683300000000,06980/2083/4/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.97401300000000,DL8 4JN,2013-10-17,fhrs_5_en-GB,5,,FHRS,0
-386987,Unit 1,Gatherley Road,Brompton On Swale,Richmond,Wackadayz,Restaurant/Cafe/Canteen,1,10,,579205,0,,54.39359800000000,13/00084/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.65478800000000,DL10 7SQ,2015-01-19,fhrs_4_en-GB,4,,FHRS,5
-386988,19 Kirkgate,Middleham,Leyburn,North Yorkshire,Waterford House,Hotel/bed & breakfast/guest house,7842,5,,20958,5,,54.28573000000000,06640/2023/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80611600000000,DL8 4PG,2011-07-26,fhrs_5_en-GB,5,,FHRS,5
-386989,Wavell Community Junior School,Wavell Road,Catterick Garrison,North Yorkshire,Wavell County Infant And Junior School,School/college/university,7845,0,,9292,0,,54.37946200000000,03950/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72919100000000,DL9 3BJ,2013-10-17,fhrs_5_en-GB,5,,FHRS,0
-386990,18 Market Place,Richmond,North Yorkshire,,Weigh In Shop,Retailers - other,4613,0,,27617,0,,54.40368400000000,08120/0018/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73812000000000,DL10 4PX,2010-09-28,fhrs_5_en-GB,5,,FHRS,5
-386991,Restaurant,Gayle Lane,Gayle,Hawes,Wensleydale Dairy Products Restaurant,Restaurant/Cafe/Canteen,1,10,,14165,5,,54.30174300000000,04750/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.20036200000000,DL8 3RN,2014-04-29,fhrs_4_en-GB,4,,FHRS,5
-386992,Wensleydale Evangelical Church,High Street,Leyburn,North Yorkshire,Wensleydale Evangelical Chuch,Other catering premises,7841,,,209523,,,54.31077700000000,05/00008/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.83000700000000,DL8 5AQ,2004-07-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-386993,Market Place,Hawes,North Yorkshire,,Wensleydale Pantry,Restaurant/Cafe/Canteen,1,5,,14241,5,,54.30383100000000,04850/2024/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19828200000000,DL8 3QX,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-386994,Cawkill Park,Wensley Road,Leyburn,North Yorkshire,Wensleydale RUFC Clubhouse,Restaurant/Cafe/Canteen,1,10,,17190,5,,54.30824000000000,05650/2002/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.84120600000000,DL8 5ED,2013-10-09,fhrs_3_en-GB,3,,FHRS,10
-386995,West Burton Church Of England Prima,West Burton,Leyburn,North Yorkshire,West Burton C Of E Primary School,School/college/university,7845,0,,21235,0,,54.20360946655270,06980/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.36397528648376,DL8 4JY,2013-05-02,fhrs_5_en-GB,5,,FHRS,0
-386996,The Post Office,Greenview,Back Nook,West Burton,West Burton Shop And Tea Room,Restaurant/Cafe/Canteen,1,10,,546737,5,,54.27587100000000,13/00022/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.97553400000000,DL8 4JL,2014-04-09,fhrs_4_en-GB,4,,FHRS,0
-386997,Scotch Corner Services,Middleton Tyas Lane,Middleton Tyas,North Yorkshire,West Cornwall Pasty Co,Takeaway/sandwich shop,7844,0,,715005,5,,54.44363800000000,14/00087/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.66749000000000,DL10 6PQ,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-386998,West End Post Office,1 Reeth Road,Richmond,North Yorkshire,West End Stores,Retailers - other,4613,5,,27971,5,,54.41889400000000,08420/0001/1/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.67764700000000,DL10 6EH,2009-10-07,fhrs_5_en-GB,5,,FHRS,0
-386999,,,,,Westfields Farm B & B,Hotel/bed & breakfast/guest house,7842,5,,733725,0,,,14/00093/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,,,2015-01-29,fhrs_5_en-GB,5,,FHRS,0
-387000,Ralph Fitz Randal,6 Queens Road,Richmond,North Yorkshire,Wetherspoon - Ralph Fitz Randal,Pub/bar/nightclub,7843,0,,27969,0,,54.40483100000000,08410/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.73640300000000,DL10 4AE,2014-11-06,fhrs_5_en-GB,5,,FHRS,5
-387001,Whashton Farm,Hagg Lane,Whashton,Richmond,Whashton Springs Farm B & B,Hotel/bed & breakfast/guest house,7842,,,53882,,,54.45104900000000,12130/4000/0/005,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.77091500000000,DL11 7JL,2010-10-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-387002,Wheatsheaf Hotel,Main Street,Carperby,Leyburn,Wheatsheaf Inn,Hotel/bed & breakfast/guest house,7842,5,,673178,0,,54.30455100000000,14/00057/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.98894800000000,DL8 4DF,2014-06-19,fhrs_5_en-GB,5,,FHRS,5
-387003,White Hart Inn,Main Street,Hawes,North Yorkshire,White Hart Hawes Ltd,Hotel/bed & breakfast/guest house,7842,5,,188560,5,,54.30392400000000,11/00164/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.19643900000000,DL8 3QL,2013-08-22,fhrs_5_en-GB,5,,FHRS,5
-387004,White Rabbit Pre School,La Bassee Road,Catterick Garrison,North Yorkshire,White Rabbit Pre-School,Hospitals/Childcare/Caring Premises,5,0,,8769,0,,54.38150900000000,03270/1000/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.72825300000000,DL9 3BH,2015-01-20,fhrs_5_en-GB,5,,FHRS,0
-387005,The White Rose Hotel,Main Street,Askrigg,Leyburn,White Rose Hotel,Hotel/bed & breakfast/guest house,7842,5,,17266,0,,54.31526500000000,05780/4000/0/001,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.07940700000000,DL8 3HG,2014-05-28,fhrs_5_en-GB,5,,FHRS,0
-387006,White Swan Hotel,Market Place,Middleham,Leyburn,White Swan,Hotel/bed & breakfast/guest house,7842,5,,20994,5,,54.28549500000000,06670/4000/0/009,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.80513400000000,DL8 4PE,2014-02-25,fhrs_4_en-GB,4,,FHRS,10
-387007,51 High Street,Gilling West,Richmond,North Yorkshire,White Swan Inn,Pub/bar/nightclub,7843,5,,583063,5,,54.44323500000000,13/00060/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.71771500000000,DL10 5JW,2013-09-06,fhrs_5_en-GB,5,,FHRS,5
-387008,Withywood Cottage,Main Street,West Witton,Leyburn,Withywood Stores,Retailers - other,4613,0,,46026,0,,54.29127900000000,11/00042/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.90825200000000,DL8 4LP,2014-06-06,fhrs_5_en-GB,5,,FHRS,0
-387009,Wyville Arms,Constable Burton,Leyburn,North Yorkshire,Wyvill Arms,Hotel/bed & breakfast/guest house,7842,10,,20588,0,,54.31274900000000,06180/4000/0/003,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.75368300000000,DL8 5LH,2013-10-22,fhrs_4_en-GB,4,,FHRS,10
-387010,Youth Hostel,Lancaster Terrace,Turfy Hill To Mossy Lane,Hawes,Y H A,Restaurant/Cafe/Canteen,1,0,,14201,0,,54.30354200000000,04810/4000/0/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.20447400000000,DL8 3LQ,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-387011,Breconbar Road,Bainbridge,Leyburn,North Yorkshire,Yorebridge House,Restaurant/Cafe/Canteen,1,0,,24783,0,,54.30930700000000,08/00013/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-2.10277300000000,DL8 3EE,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-387012,Main Street,Aysgarth,Leyburn,North Yorkshire,Yoredale House,Restaurant/Cafe/Canteen,1,5,,17426,5,,54.29151100000000,05940/2078/2/000,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.99511200000000,DL8 3AE,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-387013,Mill Close Meats,Mill Close,Patrick Brompton,Bedale,Yorkshire Dales Meat Co Ltd,Retailers - other,4613,5,,209522,0,,54.32446700000000,05/00100/COMM,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.64797100000000,DL8 1JY,2012-06-07,fhrs_5_en-GB,5,,FHRS,5
-387014,10 Racecourse Road,Gallowfields Trading Esate,Richmond,North Yorkshire,Yorkshire Quality Foods Ltd,Distributors/Transporters,7,5,,360670,5,,54.41203800000000,12/00071/FOOD,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.74458400000000,DL10 4TG,2012-05-14,fhrs_5_en-GB,5,,FHRS,5
-387015,Keld Heads,Keldheads Lane,Wensley Station,Preston Under Scar,Yorkshire Tea Party,Mobile caterer,7846,0,,421628,5,,54.31201400000000,12/00078/MIXED,253,environment@richmondshire.gov.uk,Richmondshire,http://www.richmondshire.gov.uk/,-1.87911000000000,DL8 4AF,2012-07-11,fhrs_5_en-GB,5,,FHRS,5
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+386547,16 Sunnycrest Avenue,Exempt,nan,nan,nan,2014-02-25,,
+386548,A Taste Of Thailand,4,5,5,10,2013-07-25,54.403889,-1.737133
+386549,A66 Motel,5,5,5,5,2013-07-30,54.49563,-1.828439
+386550,Abbey Care Village,5,5,5,0,2014-07-25,54.396536,-1.612993
+386551,Acorn Hog Roast,5,5,0,5,2013-07-23,54.509096,-1.617893
+386552,Aldi Stores Limited,5,0,0,0,2014-10-14,54.375139,-1.721076
+386553,Amanda's Cake Pops,5,0,0,0,2014-02-05,54.314716,-1.825133
+386554,Amontola,5,5,5,5,2013-10-17,54.404831,-1.736403
+386555,Andys,5,0,0,5,2015-01-23,54.310283,-1.829717
+386556,Angel Hotel,4,5,0,10,2013-02-04,54.377145,-1.631218
+386557,Angel Inn,5,0,5,5,2014-06-18,54.443235,-1.717715
+386558,Angus Morton Butchers,5,0,0,0,2014-07-28,54.403561,-1.739168
+386559,Antoinette's Bakery,Exempt,nan,nan,nan,2010-08-03,54.405122,-1.746738
+386560,Archers Ice Cream,5,0,0,0,2012-11-27,54.403027,-1.729605
+386561,Ariston Pizza Co,5,5,5,5,2013-09-02,54.37698,-1.63025
+386562,Ariston Pizzeria,1,10,5,20,2013-07-19,54.375558,-1.708296
+386563,Arkengarthdale C Of E Primary School,5,5,0,0,2014-12-03,54.2036094666,-1.36397528648
+386564,Artbar Gallery,5,0,5,5,2010-10-03,54.31148,-2.218869
+386565,Asha Tandoori,4,5,10,5,2013-03-22,54.376027,-1.720546
+386566,Askrigg Primary School,5,5,0,0,2013-05-02,54.1334648132,-1.31587803364
+386567,Askrigg Village Kitchen,5,0,0,0,2012-04-12,54.315265,-2.079407
+386568,At The Pool Ltd,5,5,0,5,2013-05-13,54.403027,-1.729605
+386569,Aysgarth School Trust Ltd,5,5,0,0,2014-09-29,54.296308,-1.683058
+386570,Bainbridge C Of E Primary School,5,5,0,0,2013-10-17,54.316570282,-1.84478998184
+386571,Barkers Of Richmond,5,5,0,0,2013-10-28,,
+386572,Barries Ices,5,0,0,0,2013-04-15,54.401325,-1.734828
+386573,Barton C Of E Primary School,5,0,0,0,2013-11-08,54.474737,-1.643705
+386574,Bay Horse Inn,5,5,0,5,2014-02-26,54.465355,-1.784596
+386575,Bay Horse Inn,5,5,5,5,2013-01-04,54.3563041687,-1.67147231102
+386576,Bear Cottage Interiors,5,0,0,0,2013-08-22,54.304288,-2.199422
+386577,Bed & Breakfast,Exempt,nan,nan,nan,2005-10-12,54.324467,-1.647971
+386578,Bed And Breakfast,Exempt,nan,nan,nan,2005-07-20,54.378,-2.028248
+386579,Beechfield B&B,Exempt,nan,nan,nan,2010-07-13,54.409147,-1.729611
+386580,Berry's Farm Shop And Cafe,5,5,5,5,2013-12-10,,
+386581,Bishop Blaize,2,15,5,10,2013-07-11,54.402596,-1.737865
+386582,Black Bull,5,0,0,0,2014-04-16,54.471136,-1.697464
+386583,Black Bull Hotel,5,5,0,5,2014-10-29,54.38855,-1.943515
+386584,Black Swan Hotel,5,5,5,5,2014-06-13,54.310093,-1.828949
+386585,Black Swan Hotel,4,5,0,10,2014-08-13,54.284911,-1.805644
+386586,Blue Lion Inn,4,5,0,10,2013-12-02,54.269748,-1.778292
+386587,Bolton Arms,4,5,5,10,2013-12-11,54.31672,-1.932238
+386588,Bolton Arms,5,5,0,5,2013-07-11,54.37637,-1.826781
+386589,Bolton On Swale C Of E Primary School,5,0,0,0,2013-09-05,54.352973,-1.818432
+386590,Booze Buster,5,5,0,5,2014-07-01,54.375688,-1.721349
+386591,Brentwood Lodge,5,0,0,0,2015-01-14,54.309917,-1.825323
+386592,Bridge Inn,5,5,0,5,2013-05-07,54.50407,-1.594884
+386593,Brompton On Swale C Of E Primary School,5,5,0,0,2013-11-06,54.393476,-1.662644
+386594,Brow Hill Farm,5,0,0,0,2014-03-13,54.379246,-2.077699
+386595,Brymor Tea Rooms,4,5,5,10,2013-08-07,54.261832,-1.722746
+386596,Burger King At Granada Services,5,5,0,0,2013-10-30,54.443638,-1.66749
+386597,Butt House Guest House,4,0,0,10,2014-07-28,54.405712,-2.166792
+386598,Cafe Deli,5,5,0,5,2014-04-22,54.499558,-1.71464
+386599,Caffe Curva,5,5,5,5,2013-10-24,54.30412,-2.197776
+386600,Cake HQ,5,0,0,5,2012-04-26,54.375431,-1.696689
+386601,Cambridge House Guest House,Exempt,nan,nan,nan,2014-01-10,,
+386602,"Canteen, Hawes Auction Mart",5,5,5,5,2014-06-24,54.303159,-2.191287
+386603,Carrs Billington Agriculture,5,5,0,5,2010-01-21,54.303159,-2.191287
+386604,Castle Keep Tea Rooms,5,0,0,0,2013-06-14,54.284581,-1.806997
+386605,Catterick Caravans,5,0,0,5,2014-01-30,54.395397,-1.655374
+386606,Catterick Social Club,4,10,0,5,2008-12-18,54.37698,-1.63025
+386607,Catterick Village Fisheries,5,5,0,0,2014-12-11,54.37628,-1.630487
+386608,Cavern Music Bar,5,5,5,5,2010-11-04,54.404145,-1.739534
+386609,Central Stores,5,0,0,5,2014-05-14,54.284968,-1.807026
+386610,Chef Hong Kong,4,5,10,5,2013-09-03,54.405364,-1.746259
+386611,Churchill Tea Rooms,5,5,5,5,2013-11-04,54.397845,-1.647098
+386612,Clervaux Trust,5,5,5,5,2013-07-04,54.482458,-1.577163
+386613,Clyde House,Exempt,nan,nan,nan,2014-01-10,,
+386614,Cocketts Hotel,5,5,0,5,2014-02-08,54.304314,-2.199591
+386615,Colburn County Primary School,5,0,0,0,2013-05-20,54.37988,-1.689898
+386616,Colburn Fisheries,5,0,0,0,2013-07-24,54.379478,-1.687237
+386617,Colburn New Stores,4,10,0,5,2014-07-01,54.382261,-1.693144
+386618,Comrades Club,5,5,0,0,2009-09-01,54.403915,-1.741015
+386619,Conservative Club,5,5,5,5,2008-11-26,54.403915,-1.741015
+386620,Co-Operative Group Ltd,5,0,0,0,2013-07-22,54.378415,-1.632084
+386621,Co-Operative Group Ltd,5,0,0,0,2014-01-28,54.379478,-1.687237
+386622,Co-Operative Group Ltd,5,0,5,0,2013-06-11,54.405721,-1.736659
+386623,Cordilleras House,5,0,0,5,2012-10-11,54.405617,-1.742421
+386624,Corn Mill Tea Room,5,0,0,5,2014-05-30,54.307429,-2.10263
+386625,Costa Coffee,5,0,0,0,2014-10-14,54.443638,-1.66749
+386626,Costa Ltd,5,0,0,0,2013-08-21,54.402814,-1.738803
+386627,Cover Bridge Inn,4,10,5,5,2013-07-11,54.278927,-1.779947
+386628,Cowgirl Catering,5,0,0,5,2014-08-22,54.40986,-1.609124
+386629,Crackling Hog Roast,5,5,0,0,2014-11-19,54.485146,-1.752819
+386630,Croft C Of E Primary School,5,0,0,0,2014-04-25,54.483098,-1.562586
+386631,Cross Keys Inn,5,0,0,5,2014-06-19,54.331162,-1.824648
+386632,Cross Lanes Store,5,0,0,5,2011-09-26,54.410644,-1.720018
+386633,Cross View Tea Rooms,5,5,0,5,2014-03-04,54.402596,-1.737865
+386634,Cuckoo Hill View Ice Cream Parlour,5,5,5,5,2012-06-01,54.388182,-1.9431
+386635,Cupcake Poptastic,Exempt,nan,nan,nan,2014-01-09,,
+386636,Cuppa Cafe,5,5,0,5,2013-10-15,54.402596,-1.737865
+386637,CWC Malings Ltd,5,0,0,0,2013-02-12,54.379232,-1.682775
+386638,Dales Bike Centre,5,0,0,0,2014-02-03,54.386189,-1.916695
+386639,Dalton & Gayles Village Hall,5,0,0,0,2013-04-03,54.470479,-1.824795
+386640,Davina Lovegreen Catering,5,0,0,0,2013-12-03,54.367199,-1.650207
+386641,Delhi-cious,5,5,5,5,2014-06-24,54.411946,-1.731211
+386642,Delicious Delights,4,5,0,10,2013-09-05,54.318329,-1.712528
+386643,Delish,4,5,10,5,2013-01-29,54.37819,-1.723164
+386644,"Dinky Donuts, Country Kitchen",5,5,0,0,2013-07-17,54.397362,-1.654387
+386645,Dragon Inn,5,5,5,5,2015-01-16,54.309544,-1.828644
+386646,Edwina's Cakes,5,0,0,5,2013-04-04,54.403562,-1.735779
+386647,Elijah Allen & Son,5,0,0,0,2014-06-10,54.303831,-2.198282
+386648,Eppleby Forcett C Of E Primary School,5,0,0,0,2013-09-04,54.51349,-1.727348
+386649,Eppleby Village Shop And Tea Room,5,0,0,0,2013-08-08,54.51349,-1.727348
+386650,Estate Cafe,3,10,10,10,2014-11-27,54.412038,-1.744584
+386651,Eurogarages Ltd,5,0,0,0,2015-01-19,54.443638,-1.66749
+386652,Fairhursts,5,5,0,5,2013-10-23,54.322641,-1.947679
+386653,Fairhursts,4,0,5,10,2013-07-11,54.284675,-1.809593
+386654,Farmaround Ltd,4,10,0,5,2014-07-08,54.302896,-1.806143
+386655,Farmers Arms,4,10,5,5,2015-01-20,54.391605,-1.65251
+386656,Farmhouse Catering,Exempt,nan,nan,nan,2009-07-10,54.480769,-1.801292
+386657,Farmway Limited,5,0,0,0,2013-12-12,54.307029,-1.817435
+386658,Fatsheep,Exempt,nan,nan,nan,2009-06-19,54.388182,-1.9431
+386659,Flowery Dell Limited,4,5,5,10,2009-01-16,54.396976,-1.75321
+386660,Fountain Hotel,5,5,0,0,2014-06-10,54.304314,-2.199591
+386661,Fountain Restaurant,5,5,0,5,2014-03-31,54.513407,-1.726283
+386662,Fox And Hounds Hotel,5,5,0,5,2014-02-04,54.274514,-1.977224
+386663,Fox Hall Inn,5,0,0,5,2014-11-26,54.4774093628,-1.77237248421
+386664,Frenchgate 29,5,5,0,5,2013-10-23,54.405626,-1.734148
+386665,Frenchgate Fudge Makers,5,5,0,0,2012-11-01,54.403562,-1.735779
+386666,Frydayz Fish Bar Ltd,5,5,0,0,2014-05-13,54.375558,-1.708296
+386667,Fryer Tucks,5,0,5,5,2014-05-05,54.30951,-1.829812
+386668,G & E Murgatroyd,5,5,5,5,2009-05-14,54.375558,-1.708296
+386669,Garrison Chop Suey House,4,5,5,10,2014-12-15,54.375558,-1.708296
+386670,George And Dragon Hotel,5,5,0,5,2014-07-24,54.291341,-1.995619
+386671,"Georgian Theatre Royal, The",Exempt,nan,nan,nan,2009-09-15,54.404054,-1.738842
+386672,Ghyll Foot Restaurant,5,0,0,0,2013-08-23,54.379777,-2.075806
+386673,Giovannis,5,5,0,0,2014-08-15,54.308634,-1.827172
+386674,Giovannis,5,0,0,5,2014-03-07,54.309391,-1.828214
+386675,Golden Lion,4,5,5,10,2014-06-20,54.310093,-1.828949
+386676,Golden Lion,5,0,0,5,2013-06-28,54.402596,-1.737865
+386677,Good Life,5,5,5,5,2009-07-14,54.30412,-2.197776
+386678,Granny's Kitchen,5,5,0,0,2014-06-03,,
+386679,Green Dragon Inn,3,10,5,10,2014-06-17,54.316186,-2.205059
+386680,Green Tree,5,5,5,5,2013-07-09,54.311243,-1.665499
+386681,Greggs,5,0,0,0,2014-04-23,54.403684,-1.73812
+386682,Greggs,5,0,0,0,2014-04-22,54.374784,-1.722956
+386683,Greyfriars Restaurant,5,0,5,0,2014-04-22,,
+386684,Grinton Lodge Youth Hostel,5,0,0,5,2014-11-20,54.380994,-1.9297
+386685,Grove House,5,5,0,0,2012-05-08,54.311344,-1.830373
+386686,Gurkha's Corner,5,0,5,5,2011-01-11,54.379478,-1.687237
+386687,H Taylor & Son Ltd,1,15,15,20,2015-01-07,54.403684,-1.73812
+386688,Hack And Spade,5,0,5,5,2013-07-19,54.451049,-1.770915
+386689,Half Moon,5,5,5,5,2010-08-03,54.474169,-1.646272
+386690,Halfway House Bed And Breakfast,5,0,0,0,2012-06-25,54.307579,-2.208597
+386691,Hamiltons Butchers,5,0,5,0,2013-11-04,54.404145,-1.739534
+386692,Hammond The Butcher,5,5,5,5,2013-10-17,54.306234,-2.102519
+386693,Hanson Sports And Social Club,5,0,5,5,2013-10-22,54.378405,-1.689647
+386694,Happy House,5,0,0,5,2015-01-22,54.375688,-1.721349
+386695,Hargill House Caravan Club Site,5,0,0,5,2014-04-07,54.450531,-1.709383
+386696,Hartforth Hall Hotel,5,5,5,5,2013-08-02,54.453852,-1.738957
+386697,Hawes Caravan Club Site Shop,5,0,0,0,2014-06-10,54.307982,-2.187959
+386698,Hawes County Primary School,5,0,0,0,2013-10-24,54.1334648132,-1.31587803364
+386699,Hawes Curry Cottage,5,5,5,5,2013-07-03,54.304314,-2.199591
+386700,Hazel Brow Farm Visitor Centre,5,5,5,5,2014-04-03,54.377137,-2.028986
+386701,Hazel Brow Farm Visitor Centre,Exempt,nan,nan,nan,2014-08-11,54.376189,-2.044626
+386702,Heaney Catering,5,5,0,0,2014-07-18,54.392547,-1.667918
+386703,Henderson's,4,10,5,5,2014-07-24,54.288984,-1.977155
+386704,Heron Foods,5,0,5,5,2012-11-19,54.403086,-1.735736
+386705,Herriots In Hawes,5,0,0,0,2013-10-24,54.303831,-2.198282
+386706,High Bank Nursery,5,0,0,0,2014-07-21,54.50383,-1.598561
+386707,High Blean Bed And Breakfast,Exempt,nan,nan,nan,2012-09-18,54.280071,-2.113773
+386708,High Parks Tearoom And Gallery,5,0,0,5,2014-05-29,54.295258,-1.666657
+386709,Hildyard Arms,5,0,0,5,2014-07-08,54.386731,-1.697977
+386710,Hillcrest Residential Home,5,5,0,0,2014-05-09,54.376413,-1.70869
+386711,Hipswell C Of E Primary School,5,0,0,0,2013-09-05,54.378721,-1.711937
+386712,Hodgsons,5,0,0,0,2014-02-24,54.391597,-1.66212
+386713,Hodgsons On The Hoof,5,0,0,0,2014-06-17,54.303819,-2.194594
+386714,Homebaked,5,0,0,0,2014-09-05,54.379478,-1.687237
+386715,Hunters,5,5,5,5,2009-06-29,54.375944,-1.707908
+386716,Hunton And Arrathorne School,5,5,0,0,2014-11-27,54.326999,-1.711237
+386717,Hunton Village Store,5,5,5,5,2008-10-13,54.328395,-1.70906
+386718,Icing Queen - Cake Decorating,5,0,0,5,2012-10-11,54.466957,-1.786146
+386719,Ivy Cottage,5,0,0,0,2013-04-22,54.389565,-1.941235
+386720,J T's,5,5,0,0,2010-10-18,54.375558,-1.708296
+386721,Jacoubs Takeaway,5,5,5,5,2015-02-03,54.403044,-1.737076
+386722,Jamsmith,5,0,0,5,2012-11-20,54.298845,-1.93365
+386723,Jeffersons,5,5,5,5,2014-05-25,54.403086,-1.735736
+386724,Jervaulx Abbey Tearooms,5,0,0,5,2013-05-30,54.2664031982,-1.74101638794
+386725,Jigsaw Childcare Centre,5,5,5,5,2012-01-21,54.37369,-1.712773
+386726,Jumbo Chinese Takeaway And Cafe,5,5,5,5,2014-06-11,54.303412,-2.190689
+386727,Just Williams,5,5,5,5,2009-04-15,,
+386728,JW Cockett And Son,5,5,0,0,2014-06-24,54.303924,-2.196439
+386729,Kacao Chocolaterie,5,0,0,0,2014-10-27,,
+386730,Kearton Country Hotel,5,0,0,0,2014-08-07,54.1334648132,-1.31587803364
+386731,Keld Lodge Hotel Ltd,5,0,0,0,2013-08-06,54.403841,-2.167832
+386732,Kemmel Fish Shop,3,10,5,10,2013-07-19,54.361629,-1.712241
+386733,Ken Warne Ltd,5,5,5,5,2014-06-23,54.402814,-1.738803
+386734,Kings Head Hotel,5,5,0,5,2014-04-17,54.403628,-1.737196
+386735,La Piazza 2,5,5,0,5,2014-12-12,54.404829,-1.735617
+386736,Laburnum Guest House & Tea Room,5,5,5,5,2013-07-16,54.304292,-2.196917
+386737,Lacey's Cheese,5,5,0,0,2014-06-04,54.403027,-1.729605
+386738,Lauren's Kitchen,Exempt,nan,nan,nan,2014-06-13,,
+386739,Le Cateau Cp School,5,5,0,0,2014-03-03,54.371786,-1.709415
+386740,Lee's Chinese Takeaway,5,0,5,5,2014-01-13,54.379478,-1.687237
+386741,Leyburn Arts Centre,5,0,0,5,2014-07-11,54.311559,-1.829419
+386742,Leyburn Cp School,5,0,0,0,2013-06-14,54.310657,-1.8212
+386743,Leyburn Livestock Auction,5,0,0,5,2014-11-28,54.299317,-1.967499
+386744,Leyburn National Health Centre,Exempt,nan,nan,nan,2006-07-31,54.309465,-1.829459
+386745,Lidl UK,5,0,0,0,2012-07-18,54.380256,-1.678887
+386746,Lily's Licensed Cafe,5,5,0,0,2014-11-12,54.404145,-1.739534
+386747,Little Chef,5,5,0,5,2014-06-27,54.426985,-1.667733
+386748,Little Learners Nursery,5,0,0,5,2014-05-19,54.398106,-1.614796
+386749,Logic Sales Training Ltd,Exempt,nan,nan,nan,2005-05-12,54.30785,-2.103583
+386750,Louis Bar,5,5,0,0,2012-02-20,54.361629,-1.712241
+386751,Love Cupcakes,4,0,0,10,2012-05-29,54.466504,-1.544264
+386752,Low Gingerfield Farm B&B,5,0,0,5,2013-09-19,54.418291,-1.747782
+386753,Low Hall Farm,5,0,0,0,2014-08-11,,
+386754,Low Mill Guesthouse,5,5,0,5,2013-10-08,54.3166007996,-1.84478998184
+386755,Low Mill Outdoor Centre,5,0,0,0,2013-10-31,54.313951,-2.082756
+386756,Mad Hatter Tea,Exempt,nan,nan,nan,2012-07-03,54.377276,-1.680342
+386757,Mainsgill Farm Shop,4,5,5,10,2014-11-20,54.47219,-1.76302
+386758,Manor Cafe,3,10,5,10,2014-11-19,54.329402,-1.825917
+386759,Manor House,Exempt,nan,nan,nan,2005-08-02,54.315508,-2.07993
+386760,Maple Lodge Care Home,5,5,0,5,2014-07-14,54.360216,-1.707881
+386761,Marks And Spencer Simply Food,5,0,0,0,2014-02-18,54.443638,-1.66749
+386762,Marrick Priory,5,0,0,0,2014-02-03,54.3752937317,-1.89845955372
+386763,McColls,5,0,0,0,2014-11-10,54.411452,-1.723433
+386764,McDonalds Restaurant,5,0,0,0,2014-01-30,54.374784,-1.722956
+386765,Melsonby Methodist Primary School,5,0,0,0,2013-09-04,54.471136,-1.697464
+386766,Methodist Primary School,5,0,0,0,2013-11-11,54.2036094666,-1.36397528648
+386767,Michael Syddall C Of E Primary School,5,0,0,0,2014-11-07,54.380697,-1.631987
+386768,Middleham C Of E Primary School,5,0,0,0,2014-11-20,54.285335,-1.81214
+386769,Middleham Fish Bar,5,0,0,0,2014-11-20,54.284911,-1.805644
+386770,Middleton Lodge Events Ltd,5,0,0,0,2013-07-11,54.458329,-1.659982
+386771,Middleton Tyas C Of E Primary School,5,0,0,0,2012-01-30,54.448635,-1.651735
+386772,Middleton Tyas Village Shop Ltd,5,0,0,5,2014-11-18,54.445767,-1.654335
+386773,Mill Race Teashop,5,0,0,0,2013-06-18,54.291196,-1.983805
+386774,Millbry Hill,5,0,0,0,2014-06-06,54.398355,-1.692516
+386775,Mocha,5,0,0,0,2013-09-12,54.403143,-1.737091
+386776,Morris Grange Nursing Home,5,5,0,0,2014-05-21,54.432295,-1.657623
+386777,Moto Hospitality - Barton Park Truckers Cafe,5,5,0,0,2014-05-09,54.469089,-1.664105
+386778,Mount Everest Gurkha Takeaway,5,0,0,0,2014-02-18,54.375558,-1.708296
+386779,Mr Flavours,5,0,0,5,2014-05-23,54.376234,-1.705443
+386780,Mrs Jacqui Longstaff,Exempt,nan,nan,nan,2014-04-09,,
+386781,Mrs Pumphreys,5,0,0,0,2015-01-29,54.310661,-1.830468
+386782,Muker Tea Shop,5,5,5,5,2014-03-13,54.376421,-2.140334
+386783,Mummy Mousley's Bakery,4,0,0,10,2011-10-17,,
+386784,Murphy's Muncher,5,5,0,0,2014-11-03,54.469595,-1.695886
+386785,Neeps And Tatties Greengrocer,3,10,5,10,2013-11-25,54.402814,-1.738803
+386786,New Treasure Garden Cantonese Restaurant,4,0,10,5,2013-10-18,54.402049,-1.738454
+386787,Nightingale Hall,5,0,5,0,2014-02-07,54.41114,-1.732664
+386788,North & South Cowton County Primary School,5,0,0,0,2013-11-20,54.429636,-1.565575
+386789,Not Just Daisy Cakes,5,5,5,5,2011-10-24,54.384607,-1.731143
+386790,Oaklodge Bed And Breakfast,5,0,0,0,2014-01-27,54.308583,-1.82894
+386791,One Stop Shop,5,0,0,0,2014-11-11,54.310093,-1.828949
+386792,Overton House,5,0,0,0,2014-03-12,54.389224,-1.943391
+386793,Oxfam,5,0,0,0,2014-07-16,54.403848,-1.738951
+386794,Paddock Farm Tea Room,5,5,0,0,2013-10-14,,
+386795,Park House Campsite & Bunkbarn,5,0,0,0,2013-08-06,54.40851,-2.177573
+386796,Parmo Curry House,5,5,5,5,2013-09-03,54.379341,-1.679787
+386797,"Penleys Cafe, Bar And Bistro",5,5,0,0,2014-06-04,54.403143,-1.737091
+386798,Penleys Coffee Shop & Bistro,5,5,0,5,2013-10-18,54.309529,-1.830365
+386799,Pennygarth Cafe,3,10,10,10,2014-05-15,54.303924,-2.196439
+386800,Pheasant Inn,5,0,5,0,2010-04-08,54.3048,-1.805274
+386801,Phoenix Out Of School Club,4,0,0,10,2013-10-10,54.379462,-1.729191
+386802,Pip's Cupcakes,Exempt,nan,nan,nan,2010-06-11,54.386017,-1.734691
+386803,Pizza Figaro,5,5,5,5,2014-07-02,54.404145,-1.739534
+386804,Pizza Pizza,3,10,10,10,2013-10-17,54.375558,-1.708296
+386805,Pizza Pronto,5,0,0,5,2014-03-04,54.375558,-1.708296
+386806,Pizza Pronto/Castle Fisheries,5,5,0,5,2015-02-03,54.402791,-1.736631
+386807,Plumer Road Fisheries,5,0,0,5,2013-05-22,54.378949,-1.741295
+386808,Point Blank Paintball Games,2,15,5,5,2013-08-08,54.439731,-1.551407
+386809,Quality Inn,5,5,5,5,2008-11-17,54.1334648132,-1.31587803364
+386810,Queens Head,4,10,5,5,2014-06-11,54.302392,-1.722965
+386811,R Campbell + Sons Ltd,5,5,0,0,2014-06-30,54.310257,-1.830839
+386812,Ramsays Fish And Chips,5,0,0,5,2014-01-06,54.336342,-1.66794
+386813,Ravensworth C Of E Primary School,5,0,0,0,2013-11-26,54.465355,-1.784596
+386814,Rec Cafe,4,5,5,10,2014-10-16,54.366539,-1.677932
+386815,Red Lion Inn,5,5,5,5,2013-06-18,54.417897,-1.993496
+386816,Reeth Bakery,5,5,5,5,2013-07-12,54.389728,-1.944899
+386817,Reeth Community Primary School,5,5,0,0,2013-10-24,54.389728,-1.944899
+386818,Reeth Road Social Centre,Exempt,nan,nan,nan,2010-02-19,54.405933,-1.755761
+386819,Reeth Village Stores,5,0,0,0,2013-02-14,54.388136,-1.940544
+386820,Retail Shop At Moto Services,5,5,0,0,2011-10-19,54.443638,-1.66749
+386821,Richard The Third,5,5,0,0,2014-08-15,54.284911,-1.805644
+386822,Richmond Brewing Company Limited,5,5,0,0,2013-08-22,54.403027,-1.729605
+386823,Richmond C Of E Primary School,5,0,0,0,2014-11-24,54.408323,-1.73068
+386824,Richmond Community Hospital,5,5,0,0,2014-05-19,54.405721,-1.736659
+386825,Richmond Fisheries,5,5,0,5,2014-04-29,54.403915,-1.741015
+386826,Richmond Golf Club,5,5,5,5,2013-06-21,54.414876,-1.739543
+386827,Richmond Golf Club,5,0,0,5,2014-11-25,54.414876,-1.739543
+386828,Richmond Methodist Primary School,5,0,0,0,2013-10-15,54.408582,-1.721896
+386829,Richmond School And Sixth Form Centre.,5,0,0,0,2014-06-04,54.408582,-1.721896
+386830,Richmondshire Alzheimers Society,5,5,0,5,2015-02-02,54.407963,-1.734657
+386831,Richmondshire Cricket Club,4,5,5,10,2014-09-11,54.405617,-1.742421
+386832,Ridgeway Private Day Nursery Ltd,5,5,0,0,2013-10-14,54.409068,-1.722371
+386833,Risedale Community College,4,10,0,10,2014-01-28,54.378288,-1.714958
+386834,Rose & Crown Hotel,3,10,5,10,2014-05-29,54.309307,-2.102773
+386835,Rosedale Nursing Home,5,5,0,0,2014-05-19,54.373949,-1.719467
+386836,Route A66 Snack Bar,5,5,0,5,2013-10-21,,
+386837,Rupali Balti House,4,5,10,5,2013-05-28,54.310777,-1.830007
+386838,Rustique Restaurant,5,5,0,0,2015-01-12,54.403577,-1.73849
+386839,S & A Catering,5,0,0,5,2013-06-05,54.405364,-1.746259
+386840,S Moore,5,0,0,5,2013-01-15,54.294637,-1.690185
+386841,Saffron Indian Restaurant,4,5,5,10,2013-06-19,54.309465,-1.829459
+386842,Scorton Village Store,5,0,0,0,2013-10-16,54.377145,-1.631218
+386843,Scotch Corner Hotel - Holiday Inn,5,5,0,0,2014-02-18,54.440454,-1.670091
+386844,Scotch Corner Paintball Village - UK Masters (N.E) Limited,3,10,5,10,2014-06-27,54.441584,-1.696448
+386845,Seasons,5,5,0,5,2014-02-25,54.403027,-1.729605
+386846,Sedbury Caterers,5,0,0,0,2013-12-17,,
+386847,Serendipity,4,10,0,10,2013-12-03,54.310777,-1.830007
+386848,Shanghai City,4,10,5,5,2014-04-10,54.402814,-1.738803
+386849,Shell High Brough Moor,5,0,0,0,2014-04-24,54.431624,-1.668096
+386850,Shirley House,5,0,0,5,2014-01-30,54.392775,-1.662665
+386851,Shoulder Of Mutton,5,0,0,0,2013-08-02,54.453872,-1.785736
+386852,Shoulder Of Mutton,5,5,0,0,2014-08-27,54.446264,-1.652141
+386853,Simonstone Hall Hotel,5,5,0,0,2014-08-28,54.320734,-2.199732
+386854,SIP Coffee,5,0,0,5,2014-01-28,54.403889,-1.737133
+386855,Skeeby Lodge,5,0,0,0,2011-10-27,54.422257,-1.677203
+386856,Smallways Country Inn,5,0,0,5,2011-09-01,54.49563,-1.828439
+386857,Smokie Joes,5,5,0,5,2014-04-24,54.353175,-1.709839
+386858,Something Special,5,5,5,5,2014-04-02,54.402679,-1.738881
+386859,Soprano Pizzeria,5,5,0,5,2014-12-09,54.310661,-1.830468
+386860,Spar Stores,5,5,0,0,2013-10-24,54.303831,-2.198282
+386861,Spennithorne C Of E Primary School,5,0,0,0,2014-06-06,54.2036094666,-1.36397528648
+386862,St Pauls Church,Exempt,nan,nan,nan,2011-08-15,54.391131,-1.669254
+386863,St. Francis Xavier School,5,0,0,0,2014-05-12,54.409204,-1.718919
+386864,St. Johns Centre,5,0,0,5,2014-05-14,54.376411,-1.720988
+386865,St. Marys RC Primary School,5,0,0,0,2013-10-15,54.408514,-1.71974
+386866,Sticky Ginger,5,5,0,5,2014-09-10,54.291592,-1.99754
+386867,Stone House Hotel Ltd,5,0,0,0,2015-01-26,54.3135719299,-2.18082141876
+386868,Stoneygate Farm,5,5,5,5,2014-06-26,54.462144,-1.809913
+386869,Stuart's,5,5,5,5,2014-03-11,54.373019,-1.630824
+386870,Subway,5,0,0,0,2013-01-25,54.375558,-1.708296
+386871,Sunrise Takeaway,3,10,10,5,2013-01-22,54.377145,-1.631218
+386872,Swaledale Cheese Co Limited,Exempt,nan,nan,nan,2014-06-03,54.412047,-1.748914
+386873,Sycamore Restaurant,4,0,10,10,2013-07-03,,
+386874,Sycamore Shop,5,0,0,0,2014-11-17,54.305756,-2.103409
+386875,Sykes House,4,5,0,10,2014-08-07,54.315265,-2.079407
+386876,Sylvia's Snax,5,0,0,5,2013-06-05,54.405364,-1.746259
+386877,T & M Coffee Shop,5,0,0,0,2013-10-17,54.392508,-1.654043
+386878,Talbot Hotel,4,5,10,5,2012-02-08,54.402814,-1.738803
+386879,Tan Hill Inn,4,10,5,5,2014-04-16,54.455581665,-2.16036319733
+386880,Tandoori Nights,4,10,5,5,2014-07-29,54.402049,-1.738454
+386881,Tasty Macs,5,5,0,5,2013-10-18,54.403848,-1.738951
+386882,Tenigo  (Wensleydale) Ltd,Exempt,nan,nan,nan,2013-08-22,,
+386883,Tennants Auctioneers,5,0,0,5,2013-07-09,54.306748,-1.815393
+386884,Tesco,5,5,5,0,2013-10-15,54.374784,-1.722956
+386885,Tesco Family Dining Ltd,5,0,0,0,2013-10-18,54.374766,-1.723172
+386886,The Angels Share Bakery,5,5,5,0,2013-07-25,54.403027,-1.729605
+386887,The Aysgarth Falls Hotel,5,5,0,5,2013-10-31,54.291196,-1.983805
+386888,The Bay Tree Cafe + Bistro,5,5,0,5,2014-06-10,54.304314,-2.199591
+386889,The Black Bull,5,0,0,0,2014-04-11,54.428433,-1.636662
+386890,The Black Bull Inn,5,5,0,0,2014-06-05,54.285386,-1.804306
+386891,The Black Lion Hotel,5,0,0,0,2015-02-03,54.40356,-1.739168
+386892,The Board Inn,5,5,0,0,2014-11-04,54.304314,-2.199591
+386893,The Bolton Arms,3,10,10,10,2014-11-11,54.309755,-1.831225
+386894,The Bread Bowl,5,5,5,5,2013-10-11,54.404831,-1.736403
+386895,The Bridge Inn,4,10,5,5,2014-12-02,54.3815765381,-1.92949855328
+386896,The Brownlow Arms,5,0,0,5,2013-12-19,54.515955,-1.75356
+386897,The Buck Hotel,4,10,5,5,2014-06-23,54.389763,-1.943021
+386898,The Bulls Head Hotel,5,0,0,0,2014-11-04,54.304288,-2.199422
+386899,The Burger Queen,5,0,0,0,2015-02-06,54.306682,-2.131136
+386900,The Burgoyne Hotel,5,0,0,5,2014-03-12,54.2036094666,-1.36397528648
+386901,The Cart House,5,5,5,5,2008-11-18,54.316186,-2.205059
+386902,The Castle Tavern,4,5,0,10,2014-01-21,54.403501,-1.736534
+386903,The Chantry Annexe,Exempt,nan,nan,nan,2014-01-21,,
+386904,The Charles Bathurst Inn,5,0,0,0,2014-12-03,54.422058,-2.000291
+386905,The Chippie,5,5,0,5,2014-11-04,54.304338,-2.20142
+386906,The Co-operative,5,5,0,0,2014-07-18,54.403501,-1.736534
+386907,The Co-operative Group,5,0,0,0,2010-08-12,54.309465,-1.829459
+386908,The Copper Kettle,5,0,0,0,2013-03-03,54.388028,-1.941699
+386909,The Coppice,5,0,0,5,2014-11-19,54.296246,-1.981991
+386910,The Countrymans Inn,5,5,5,5,2013-08-30,54.328371,-1.710136
+386911,The Croft Hotel Ltd,5,5,0,0,2014-04-04,54.482365,-1.556142
+386912,The Crown Hotel,4,5,5,10,2014-06-30,54.304314,-2.199591
+386913,The Crown Inn,5,5,0,0,2014-12-05,54.51672,-1.661228
+386914,The Crown Inn,5,0,0,0,2014-05-16,54.315265,-2.079407
+386915,The Dales Haven,5,0,5,0,2013-12-06,54.309529,-1.830365
+386916,The Falls,3,10,10,10,2013-09-17,54.2911949158,-1.98380541801
+386917,The Farmers Arms,5,5,0,5,2014-06-23,54.376421,-2.140334
+386918,The Farmers Arms,4,10,5,5,2014-12-03,54.396789,-1.616256
+386919,The Forbidden Corner Ltd,5,5,0,5,2014-06-09,54.275735,-1.856488
+386920,The Foresters Arms,4,5,0,10,2013-11-21,54.2574806213,-1.8988404274
+386921,The Fox And Hounds,5,0,0,5,2014-06-05,54.291279,-1.908252
+386922,The Frenchgate Restaurant And Hotel,5,5,0,0,2014-05-22,54.405626,-1.734148
+386923,The Friars Head,5,5,5,5,2014-05-21,54.310165,-1.70719
+386924,The Game Cart Company,5,5,5,5,2013-11-13,54.506274,-1.727381
+386925,The George And Dragon,5,5,0,5,2015-01-27,54.397489,-1.77685
+386926,The George Hotel,5,5,5,0,2015-01-27,54.534324646,-1.67329096794
+386927,The George Inn,5,0,0,0,2013-11-22,54.276656,-2.001549
+386928,The Gift Shop,5,0,0,0,2013-10-31,54.389224,-1.943391
+386929,The Gluten Free Kitchen Ltd,5,0,0,0,2014-08-06,54.307029,-1.817435
+386930,The Green Kitchen,Exempt,nan,nan,nan,2014-04-23,,
+386931,The Grove Day Nursery,5,0,0,0,2012-06-12,54.284514,-1.804156
+386932,The Heifer,5,5,0,0,2013-05-28,54.396242,-1.616646
+386933,The Holly Inn Pub And Bistro,4,5,5,10,2014-06-04,54.397777,-1.737095
+386934,The Honey B Company,5,0,0,0,2013-09-12,54.479771,-1.632009
+386935,The Kings Arms,5,5,0,0,2014-05-15,54.315508,-2.07993
+386936,The Kings Arms Hotel,5,5,0,0,2014-10-28,54.389224,-1.943391
+386937,The Lakeside Farm Shop And Country Cafe,5,5,0,5,2014-05-01,54.374171,-1.606015
+386938,The Laurels,5,0,0,0,2014-01-20,54.388648,-1.940728
+386939,The Little Chocolate Shop,5,0,0,0,2014-02-05,54.307029,-1.817435
+386940,The Little Shop,5,0,0,5,2013-10-10,54.397489,-1.77685
+386941,The Lodge - Scorton,5,0,0,0,2015-02-03,,
+386942,The Lodge Tea Room,5,0,0,0,2014-09-03,54.399979,-1.840098
+386943,The Manse,5,0,0,5,2012-06-12,54.389844,-1.941835
+386944,The Moorcock Inn,5,5,0,0,2014-12-16,54.32923,-2.312516
+386945,The New Stable Door,5,5,5,5,2013-08-07,54.284911,-1.805644
+386946,The Oak Tree,5,0,0,0,2013-11-04,54.376248,-1.631765
+386947,The Old Dairy Farm,5,0,0,0,2014-07-23,54.274259,-2.292996
+386948,The Old Horn Inn,5,5,0,5,2015-01-30,54.296752,-1.79196
+386949,The Old Smithy Shop,5,5,5,5,2010-06-03,54.379246,-2.077699
+386950,The Orchard,5,5,5,5,2014-06-27,54.483872,-1.782014
+386951,The Posthorn,5,0,0,5,2015-02-05,54.310283,-1.829717
+386952,The Priory Middleham,5,5,5,5,2012-06-12,54.284107,-1.808658
+386953,The Punch Bowl,5,0,0,0,2014-05-16,54.380949,-2.0232
+386954,The Richmond Grill And Brasserie,5,5,5,5,2013-11-15,54.403143,-1.737091
+386955,The Roast Inn (Yorkshire),5,5,0,5,2014-06-16,54.393741,-1.615884
+386956,The Roast Meat Company,4,5,0,10,2014-05-16,54.353773,-1.673216
+386957,The Saddleroom Restaurant,5,0,0,0,2014-07-04,54.275735,-1.856488
+386958,The Sandpiper Inn,5,5,5,5,2013-06-27,54.30951,-1.829812
+386959,The Scone Bar Ltd,5,0,0,0,2014-07-03,54.403143,-1.737091
+386960,The Ship Inn,5,0,0,0,2014-11-24,54.405626,-1.734148
+386961,The Stanwick Inn,5,5,0,0,2014-02-19,54.498785,-1.688814
+386962,The Stottie Stop,5,0,0,0,2014-01-08,,
+386963,The Street Head Inn,4,5,5,10,2014-08-21,54.266814,-2.004419
+386964,The Teapottery,5,5,0,0,2010-07-05,54.307029,-1.817435
+386965,The Terrace Care Home,5,0,0,0,2014-11-26,54.405989,-1.727676
+386966,The Three Horseshoes,5,0,0,5,2014-11-11,54.302449,-1.860267
+386967,The Thwaite Arms,5,0,5,5,2014-01-17,54.227267,-1.928564
+386968,The Unicorn Inn Richmond,5,5,5,5,2013-08-01,54.403915,-1.741015
+386969,The Wensleydale Heifer,4,10,5,5,2014-08-21,54.291335,-1.91031
+386970,The Wensleydale School & Sixth Form,5,5,0,5,2014-02-04,54.313294,-1.823956
+386971,The Yorkshire Hamper Company,5,0,0,0,2014-12-09,54.314449,-1.820615
+386972,Thierry Catering,5,5,5,5,2014-05-30,54.372199,-1.736519
+386973,Thomas The Baker,5,5,0,0,2013-01-11,54.310093,-1.828949
+386974,Thomas The Baker,5,0,0,0,2014-11-18,54.402814,-1.738803
+386975,Thoralby Village Store,5,5,5,5,2011-05-18,54.276656,-2.001549
+386976,Thornton Lodge,5,5,5,5,2011-01-19,54.297342,-2.051316
+386977,Town Hall Hotel,5,5,0,5,2014-04-07,54.402596,-1.737865
+386978,Turf Hotel,5,5,0,0,2014-10-20,54.404054,-1.738842
+386979,Upperdales Childcare Partnership,5,0,0,5,2014-11-13,54.303592,-2.201846
+386980,Velvet Heaven,5,0,5,5,2008-11-21,54.403027,-1.729605
+386981,Veteran Artisan Bakery,5,5,0,0,2013-10-22,,
+386982,Village Cafe,4,10,5,5,2013-08-16,54.377145,-1.631218
+386983,Village Hall,Exempt,nan,nan,nan,2007-05-05,54.29889,-1.663785
+386984,Vintage Hotel,5,5,0,5,2013-10-30,54.442255,-1.674455
+386985,W E Cater,5,5,5,5,2014-04-01,54.388859,-1.65067
+386986,W.S Hartle Butchers,5,0,0,0,2013-10-17,54.276833,-1.974013
+386987,Wackadayz,4,5,0,10,2015-01-19,54.393598,-1.654788
+386988,Waterford House,5,5,5,5,2011-07-26,54.28573,-1.806116
+386989,Wavell County Infant And Junior School,5,0,0,0,2013-10-17,54.379462,-1.729191
+386990,Weigh In Shop,5,5,0,0,2010-09-28,54.403684,-1.73812
+386991,Wensleydale Dairy Products Restaurant,4,5,5,10,2014-04-29,54.301743,-2.200362
+386992,Wensleydale Evangelical Chuch,Exempt,nan,nan,nan,2004-07-27,54.310777,-1.830007
+386993,Wensleydale Pantry,5,5,5,5,2014-06-17,54.303831,-2.198282
+386994,Wensleydale RUFC Clubhouse,3,10,5,10,2013-10-09,54.30824,-1.841206
+386995,West Burton C Of E Primary School,5,0,0,0,2013-05-02,54.2036094666,-1.36397528648
+386996,West Burton Shop And Tea Room,4,0,5,10,2014-04-09,54.275871,-1.975534
+386997,West Cornwall Pasty Co,5,5,5,0,2014-11-10,54.443638,-1.66749
+386998,West End Stores,5,0,5,5,2009-10-07,54.418894,-1.677647
+386999,Westfields Farm B & B,5,0,0,5,2015-01-29,,
+387000,Wetherspoon - Ralph Fitz Randal,5,5,0,0,2014-11-06,54.404831,-1.736403
+387001,Whashton Springs Farm B & B,Exempt,nan,nan,nan,2010-10-26,54.451049,-1.770915
+387002,Wheatsheaf Inn,5,5,0,5,2014-06-19,54.304551,-1.988948
+387003,White Hart Hawes Ltd,5,5,5,5,2013-08-22,54.303924,-2.196439
+387004,White Rabbit Pre-School,5,0,0,0,2015-01-20,54.381509,-1.728253
+387005,White Rose Hotel,5,0,0,5,2014-05-28,54.315265,-2.079407
+387006,White Swan,4,10,5,5,2014-02-25,54.285495,-1.805134
+387007,White Swan Inn,5,5,5,5,2013-09-06,54.443235,-1.717715
+387008,Withywood Stores,5,0,0,0,2014-06-06,54.291279,-1.908252
+387009,Wyvill Arms,4,10,0,10,2013-10-22,54.312749,-1.753683
+387010,Y H A,5,0,0,0,2014-02-07,54.303542,-2.204474
+387011,Yorebridge House,5,5,0,0,2014-05-29,54.309307,-2.102773
+387012,Yoredale House,5,5,5,5,2013-10-17,54.291511,-1.995112
+387013,Yorkshire Dales Meat Co Ltd,5,5,0,5,2012-06-07,54.324467,-1.647971
+387014,Yorkshire Quality Foods Ltd,5,5,5,5,2012-05-14,54.412038,-1.744584
+387015,Yorkshire Tea Party,5,5,5,0,2012-07-11,54.312014,-1.87911

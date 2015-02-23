@@ -1,324 +1,324 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-19121,Elstree Aerodrome,,Hogg Lane,Elstree                                 Borehamwood                             Hertfordshire,3 Greens Restaurant,Restaurant/Cafe/Canteen,1,0,,429357,10,,51.65426100000000,236774,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.32401100000000,WD6 3AR,2013-01-30,fhrs_4_en-GB,4,,FHRS,0
-19122,,,Barnet By Pass,Borehamwood                             Hertfordshire,A1 Shooting Ground,Restaurant/Cafe/Canteen,1,5,,434650,5,,51.84004974365230,2176,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27510499954224,EN5 3HW,2014-02-12,fhrs_5_en-GB,5,,FHRS,5
-19123,Aberford Park Community Centre,,Aberford Road,Borehamwood                             Hertfordshire,Aberford Park Cafe,Restaurant/Cafe/Canteen,1,10,,429477,15,,51.66083000000000,258367,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27829700000000,WD6 1PN,2013-09-27,fhrs_2_en-GB,2,,FHRS,5
-19124,,,Warwick Road,Borehamwood                             Herts,Activ Instinct Ltd,Distributors/Transporters,7,,,429492,,,51.65643600000000,258921,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25842500000000,WD6 1GT,2011-11-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-19125,,195,Watling Street,Radlett                                 Hertfordshire,Akash Tandoori,Restaurant/Cafe/Canteen,1,10,,429281,15,,51.68777000000000,201662,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31930200000000,WD7 7NQ,2013-10-28,fhrs_2_en-GB,2,,FHRS,15
-19126,,,Church Lane,Aldenham                                Watford,Aldenham Golf & Country Club,Pub/bar/nightclub,7843,5,,429347,5,,51.67207400000000,232347,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35580700000000,WD25 8NN,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-19127,,135,High Road,Bushey Heath                            Watford                                 Herts,Alpine Restaurant,Restaurant/Cafe/Canteen,1,5,,429323,5,,51.63123600000000,2179,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.33691000000000,WD23 1JA,2014-10-28,fhrs_4_en-GB,4,,FHRS,10
-19128,,6,Battlers Green Drive,Radlett                                 Hertfordshire,Aroma,Takeaway/sandwich shop,7844,10,,637328,10,,51.67990100000000,259674,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.33119400000000,WD7 8NF,2014-03-05,fhrs_3_en-GB,3,,FHRS,5
-19129,Community Association,,Arundel Drive,Borehamwood,Arundel Club,Other catering premises,7841,,,699261,,,51.65067700000000,257123,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25996200000000,WD6 2ND,2014-07-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-19130,,357,Watling Street,Radlett                                 Hertfordshire,Atlantis Fish Bar,Takeaway/sandwich shop,7844,20,,451773,10,,51.68284700000000,259292,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31647500000000,WD7 7LB,2014-03-31,fhrs_1_en-GB,1,,FHRS,10
-19131,,20           Cranborne Parade,Mutton Lane,Potters Bar                             Hertfordshire,Bargain Booze,Retailers - other,4613,,,429455,,,51.70099500000000,257726,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20897400000000,EN6 3BA,2014-03-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-19132,,,Butterfly Lane,Elstree                                 Borehamwood                             Hertfordshire,Battleaxes Public House,Pub/bar/nightclub,7843,5,,429359,5,,51.66051300000000,237918,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31352900000000,WD6 3AD,2013-04-05,fhrs_4_en-GB,4,,FHRS,10
-19133,Willows Farm Village,,Coursers Road,Colney Heath                            St. Albans                              Hertfordshire,BBQ Shack,Takeaway/sandwich shop,7844,5,,429468,5,,51.78166500000000,257996,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28254300000000,AL4 1BB,2014-08-13,fhrs_5_en-GB,5,,FHRS,5
-19134,,23-25        The Broadway,Darkes Lane,Potters Bar                             Hertfordshire,Bhanthai Cafe and Restaurant,Restaurant/Cafe/Canteen,1,20,,429437,15,,51.69540100000000,257320,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19309000000000,EN6 2HX,2013-11-25,fhrs_0_en-GB,0,,FHRS,20
-19135,,112,Manor Way,Borehamwood                             Hertfordshire,Bills Plaice,Takeaway/sandwich shop,7844,10,,429408,5,,51.65180400000000,256736,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26135000000000,WD6 1QX,2014-07-22,fhrs_4_en-GB,4,,FHRS,5
-19136,,88,High Street,Potters Bar                             Hertfordshire,Bistro the Walk,Restaurant/Cafe/Canteen,1,10,,429461,5,,51.69546000000000,257873,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17711300000000,EN6 5AT,2014-12-10,fhrs_4_en-GB,4,,FHRS,5
-19137,,65,Blackhorse Lane,South Mimms                             Potters Bar                             Hertfordshire,Black Horse,Pub/bar/nightclub,7843,20,,429288,15,,51.69914400000000,204936,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.23518100000000,EN6 3PS,2013-11-20,fhrs_1_en-GB,1,,FHRS,15
-19138,,142,London Road,Shenley                                 Radlett                                 Hertfordshire,Black Lion Public House,Pub/bar/nightclub,7843,20,,515993,15,,51.69327800000000,201993,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28169600000000,WD7 9BT,2014-03-13,fhrs_1_en-GB,1,,FHRS,5
-19139,144 - 146,,High Street,Bushey                                  Watford,Blue Check,Restaurant/Cafe/Canteen,1,10,,429502,10,,51.64358400000000,3123,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36068200000000,WD23 3HH,2014-04-25,fhrs_3_en-GB,3,,FHRS,10
-19140,,46,High Street,Bushey                                  Watford,Bonnys Cafe,Restaurant/Cafe/Canteen,1,10,,451768,10,,51.64516500000000,229410,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36704200000000,WD23 3HL,2014-09-19,fhrs_3_en-GB,3,,FHRS,10
-19141,,363,Watling Street,Radlett                                 Hertfordshire,Boots The Chemist,Retailers - other,4613,,,664353,,,51.68280200000000,238672,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31646300000000,WD7 7LB,2014-03-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-19142,,51,Shenley Road,Borehamwood                             Hertfordshire,Borehamwood Kosher Deli,Other catering premises,7841,5,,583985,5,,51.65521600000000,259543,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27751200000000,WD6 1AE,2013-07-25,fhrs_5_en-GB,5,,FHRS,5
-19143,,166,Aycliffe Road,Borehamwood                             Hertfordshire,Borehamwood Tandoori Restaurant,Restaurant/Cafe/Canteen,1,10,,515998,15,,51.66833500000000,243474,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28300100000000,WD6 4EG,2014-02-13,fhrs_2_en-GB,2,,FHRS,5
-19144,,,St Albans Road,South Mimms                             Potters Bar                             Hertfordshire,BP South Mimms Motorway Service Area Connect,Restaurant/Cafe/Canteen,1,0,,429457,0,,51.68747600000000,257771,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.22173200000000,EN6 3QQ,2014-07-22,fhrs_5_en-GB,5,,FHRS,0
-19145,,84,High Street,Potters Bar                             Hertfordshire,Brays,Retailers - other,4613,,,434649,,,51.69443700000000,214403,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17783400000000,EN6 5AB,2014-09-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-19146,,37           The Broadway,Darkes Lane,Potters Bar                             Hertfordshire,Broadway Food and Wine,Retailers - other,4613,,,485516,,,51.69579000000000,256791,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19262600000000,EN6 2HZ,2012-10-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-19147,,116,Manor Way,Borehamwood                             Hertfordshire,Budget Express,Retailers - other,4613,,,593776,,,51.65180400000000,251286,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26135000000000,WD6 1QX,2013-08-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-19148,,33,High Street,Potters Bar                             Hertfordshire,Buffet Palace,Restaurant/Cafe/Canteen,1,5,,429516,10,,51.69366200000000,4061,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17770600000000,EN6 5AJ,2014-10-30,fhrs_4_en-GB,4,,FHRS,0
-19149,Welcome Break,,Bignells Corner,South Mimms                             Potters Bar                             Hertfordshire,Burger King,Takeaway/sandwich shop,7844,10,,429431,10,,51.68747600000000,257169,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.22173200000000,EN6 3QQ,2014-03-11,fhrs_3_en-GB,3,,FHRS,5
-19150,,135,Sparrows Herne,Bushey                                  Watford,Bushey Fish Bar,Takeaway/sandwich shop,7844,10,,429350,10,,51.63782900000000,233189,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35107700000000,WD23 1AQ,2013-06-21,fhrs_3_en-GB,3,,FHRS,5
-19151,,,High Street,Bushey                                  Watford,Bushey Golf And Country Club,Pub/bar/nightclub,7843,10,,429335,15,,51.64425800000000,229511,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36522500000000,WD23 1BJ,2013-07-18,fhrs_2_en-GB,2,,FHRS,10
-19152,Hertsmere Leisure,,Aldenham Road,Bushey                                  Watford                                 Herts,Bushey Grove Leisure Centre,Restaurant/Cafe/Canteen,1,5,,429506,5,,51.65558900000000,3207,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37366500000000,WD23 2TD,2014-02-20,fhrs_5_en-GB,5,,FHRS,5
-19153,,,Bushey Hall Drive,Bushey                                  Watford,Bushey Hall Golf Club,Pub/bar/nightclub,7843,5,,429330,5,,51.65536200000000,226023,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37549400000000,WD23 2EP,2013-11-29,fhrs_5_en-GB,5,,FHRS,5
-19154,,30,Barnet Road,Potters Bar                             Hertfordshire,Cafe / Brunch,Restaurant/Cafe/Canteen,1,20,,429513,15,,51.69100900000000,3974,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17827500000000,EN6 2QU,2014-04-17,fhrs_1_en-GB,1,,FHRS,5
-19155,,24           Cranborne Parade,Mutton Lane,Potters Bar                             Hertfordshire,Cafe 24,Restaurant/Cafe/Canteen,1,20,,434664,20,,51.70099500000000,256931,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20897400000000,EN6 3BA,2014-03-03,fhrs_1_en-GB,1,,FHRS,10
-19156,,245,Watling Street,Radlett                                 Hertfordshire,Cafe Bukushi,Restaurant/Cafe/Canteen,1,20,,429362,15,,51.68498000000000,238088,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31785700000000,WD7 7AL,2014-12-02,fhrs_1_en-GB,1,,FHRS,15
-19157,,94,Darkes Lane,Potters Bar                             Hertfordshire,Cafe Larsa,Restaurant/Cafe/Canteen,1,10,,434673,15,,51.69677900000000,257790,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19145800000000,EN6 1AG,2014-02-25,fhrs_2_en-GB,2,,FHRS,5
-19158,,1            Kemble Parade,High Street,Potters Bar                             Hertfordshire,Cafe One,Restaurant/Cafe/Canteen,1,10,,682874,15,,51.69431800000000,259823,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17707200000000,EN6 5AP,2014-06-05,fhrs_2_en-GB,2,,FHRS,15
-19159,Unit 21,The Enterprise Centre,Cranborne Road,Potters Bar                             Hertfordshire,Cafe Shanklin,Restaurant/Cafe/Canteen,1,20,,429519,20,,51.70599600000000,4141,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20494100000000,EN6 3DQ,2013-11-28,fhrs_0_en-GB,0,,FHRS,15
-19160,,103,Shenley Road,Borehamwood                             Hertfordshire,Caffe Nero,Restaurant/Cafe/Canteen,1,5,,429419,5,,51.65617800000000,256892,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27566800000000,WD6 1AG,2013-05-30,fhrs_5_en-GB,5,,FHRS,0
-19161,74-76,,Watling Street,Radlett                                 Hertfordshire,Caffe Nero,Restaurant/Cafe/Canteen,1,5,,543153,5,,51.68533900000000,256948,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31846600000000,WD7 7NP,2013-04-22,fhrs_4_en-GB,4,,FHRS,10
-19162,,14,Cobden Hill,Radlett                                 Hertfordshire,Cat And Fiddle Public House,Pub/bar/nightclub,7843,10,,429360,5,,51.67653900000000,237967,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31427900000000,WD7 7JR,2013-05-15,fhrs_3_en-GB,3,,FHRS,10
-19163,,,Elstree Way,Borehamwood                             Hertfordshire,Cheeky Monkeys,Other catering premises,7841,20,,714771,10,,51.65945000000000,258813,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26763500000000,WD6 1JU,2014-10-28,fhrs_1_en-GB,1,,FHRS,5
-19164,,27-29,High Road,Bushey                                  Watford,ChiKayan,Restaurant/Cafe/Canteen,1,10,,429348,10,,51.63443500000000,232728,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34248700000000,WD23 1EE,2013-11-14,fhrs_3_en-GB,3,,FHRS,5
-19165,,46,Rossington Avenue,Borehamwood                             Hertfordshire,Chilli and Herbs,Takeaway/sandwich shop,7844,20,,429494,15,,51.66926400000000,259014,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.29061600000000,WD6 4LA,2014-03-28,fhrs_1_en-GB,1,,FHRS,15
-19166,,40           The Broadway,Darkes Lane,Potters Bar                             Hertfordshire,Chilli Raj,Restaurant/Cafe/Canteen,1,20,,429292,15,,51.69567600000000,207407,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19342600000000,EN6 2HW,2014-07-24,fhrs_1_en-GB,1,,FHRS,10
-19167,,84,High Street,Bushey                                  Watford,China House,Restaurant/Cafe/Canteen,1,20,,429336,15,,51.64480600000000,229931,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36514700000000,WD23 3HD,2014-02-12,fhrs_1_en-GB,1,,FHRS,10
-19168,,,Darkes Lane,Potters Bar                             Hertfordshire,Chuggs,Takeaway/sandwich shop,7844,20,,558446,10,,51.69677900000000,259520,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19145800000000,EN6 1AJ,2013-04-10,fhrs_1_en-GB,1,,FHRS,5
-19169,,73,High Road,Bushey Heath                            Watford,Chungs Garden,Restaurant/Cafe/Canteen,1,10,,699265,15,,51.63284000000000,259536,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34034900000000,WD23 1EL,2013-05-15,fhrs_2_en-GB,2,,FHRS,5
-19170,,3            Imperial Place,Maxwell Road,Borehamwood                             Hertfordshire,Coombs Catering,Restaurant/Cafe/Canteen,1,5,,429421,5,,51.65821300000000,256930,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26788500000000,WD6 1JN,2013-08-15,fhrs_5_en-GB,5,,FHRS,5
-19171,Conway House,,Watling Street,Radlett                                 Hertfordshire,Costa,Restaurant/Cafe/Canteen,1,10,,618949,10,,51.68314700000000,259623,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31734700000000,WD7 7AA,2013-10-31,fhrs_2_en-GB,2,,FHRS,15
-19172,,Borehamwood Shopping Park,,Borehamwood                             Herts,Costa Coffee,Restaurant/Cafe/Canteen,1,10,,429442,5,,51.65676600000000,257476,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27777100000000,WD6 4PR,2014-03-31,fhrs_3_en-GB,3,,FHRS,10
-19173,,57,Darkes Lane,Potters Bar                             Hertfordshire,Costa Coffee,Restaurant/Cafe/Canteen,1,5,,429447,10,,51.69778700000000,257607,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19091100000000,EN6 1BJ,2014-02-25,fhrs_4_en-GB,4,,FHRS,5
-19174,Tesco,,Mutton Lane,Potters Bar                             Herts,Costa Coffee,Restaurant/Cafe/Canteen,1,5,,434665,5,,51.69401000000000,257078,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.18161300000000,EN6 2PB,2014-02-25,fhrs_4_en-GB,4,,FHRS,10
-19175,Tesco Borehamwood,152,Shenley Road,Borehamwood                             Hertfordshire,Costa Ltd,Restaurant/Cafe/Canteen,1,0,,485517,5,,51.65821300000000,258255,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26975000000000,WD6 1JG,2012-12-04,fhrs_5_en-GB,5,,FHRS,0
-19176,,,Hartspring Lane,Watford,Costco Cafe/Deli,Restaurant/Cafe/Canteen,1,5,,466771,5,,51.66367100000000,257501,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36128700000000,WD25 8JS,2014-03-18,fhrs_5_en-GB,5,,FHRS,5
-19177,,Elstree an Borehamwood Station,Station Road,Borehamwood                             Herts,Cravin Espresso Bar,Restaurant/Cafe/Canteen,1,5,,429503,5,,51.65305900000000,3135,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28068700000000,WD6 3LS,2014-02-14,fhrs_5_en-GB,5,,FHRS,0
-19178,Willows Farm Village,,Coursers Road,Colney Heath                            St. Albans                              Hertfordshire,Curley Tails,Restaurant/Cafe/Canteen,1,5,,699272,0,,51.78166500000000,259864,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28254300000000,AL4 1BB,2014-08-20,fhrs_5_en-GB,5,,FHRS,0
-19179,,147,High Street,Potters Bar                             Hertfordshire,Curry Garden,Takeaway/sandwich shop,7844,20,,429311,15,,51.69724500000000,213165,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17504400000000,EN6 5BB,2014-10-22,fhrs_1_en-GB,1,,FHRS,15
-19180,,,Dugdale Hill Lane,Potters Bar                             Hertfordshire,Dame Alice Owen Sch - Seasonal Facility,Restaurant/Cafe/Canteen,1,20,,543155,10,,51.69078900000000,259491,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20720600000000,EN6 2DU,2014-09-20,fhrs_1_en-GB,1,,FHRS,10
-19181,,,Hartspring Lane,Watford,David Lloyd Leisure Centre,Pub/bar/nightclub,7843,5,,429345,10,,51.66325900000000,232293,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36526400000000,WD23 2DL,2014-04-10,fhrs_4_en-GB,4,,FHRS,5
-19182,,488,Bushey Mill Lane,Bushey                                  Watford,Dawn to Dusk,Retailers - other,4613,,,434651,,,51.66550000000000,227242,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37252900000000,WD23 2AS,2012-06-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-19183,,92,High Road,Bushey                                  Watford,Deli Cafe Heath,Restaurant/Cafe/Canteen,1,5,,429515,5,,51.63516500000000,4059,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34259000000000,WD23 1GE,2014-05-07,fhrs_5_en-GB,5,,FHRS,0
-19184,Dinosaur Safari Adventure Golf,,Rowley Lane,Barnet                                  Herts,Dino-Bites,Takeaway/sandwich shop,7844,10,,434677,15,,51.65435900000000,259185,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.24513300000000,EN5 3HW,2014-07-24,fhrs_2_en-GB,2,,FHRS,5
-19185,,2,Shenley Road,Borehamwood                             Hertfordshire,Divan,Restaurant/Cafe/Canteen,1,10,,429384,15,,51.65400600000000,245779,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27903200000000,WD6 1DL,2013-11-04,fhrs_2_en-GB,2,,FHRS,5
-19186,,9A,Darkes Lane,Potters Bar                             Herts,Dominos Pizza,Takeaway/sandwich shop,7844,10,,429510,5,,51.69677900000000,3460,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19145800000000,EN6 1AZ,2013-11-11,fhrs_4_en-GB,4,,FHRS,0
-19187,,203,Shenley Road,Borehamwood                             Hertfordshire,Dominos Pizza,Takeaway/sandwich shop,7844,5,,429422,0,,51.65787700000000,256940,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27193200000000,WD6 1AT,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-19188,,37,High Road,Bushey                                  Watford,Dominos Pizza,Takeaway/sandwich shop,7844,0,,714773,5,,51.63443500000000,259913,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34248700000000,WD23 1EE,2014-08-12,fhrs_5_en-GB,5,,FHRS,0
-19189,,146,Shenley Road,Borehamwood                             Hertfordshire,Dragon Garden,Restaurant/Cafe/Canteen,1,5,,451769,10,,51.65717300000000,244921,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27236300000000,WD6 1EQ,2014-02-13,fhrs_3_en-GB,3,,FHRS,10
-19190,,Ganwick Corner,Barnet Road,Barnet                                  Hertfordshire,Duke of York,Pub/bar/nightclub,7843,5,,429469,10,,51.68104800000000,257999,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.18655900000000,EN5 4SG,2014-03-10,fhrs_4_en-GB,4,,FHRS,0
-19191,,124,High Street,Bushey                                  Watford,Durans Bistro,Restaurant/Cafe/Canteen,1,20,,682870,20,,51.64468400000000,259806,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36415400000000,WD23 3DE,2014-06-04,fhrs_1_en-GB,1,,FHRS,0
-19192,,17,Howard Drive,Borehamwood                             Hertfordshire,Dynasty,Takeaway/sandwich shop,7844,10,,429394,10,,51.65220900000000,252709,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25413500000000,WD6 2NY,2014-11-19,fhrs_3_en-GB,3,,FHRS,10
-19193,,,Galley Lane,Barnet                                  Hertfordshire,Dyrham Park Country Club,Restaurant/Cafe/Canteen,1,10,,429400,10,,51.67013900000000,254387,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.23604900000000,EN5 4RA,2013-10-16,fhrs_2_en-GB,2,,FHRS,15
-19194,3 Watling House,,High Street,Elstree                                 Borehamwood                             Hertfordshire,Eastern Brasserie,Restaurant/Cafe/Canteen,1,20,,429367,10,,51.64339100000000,239990,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.29911900000000,WD6 3BZ,2014-07-15,fhrs_1_en-GB,1,,FHRS,10
-19195,Welcome Break,,Bignells Corner,South Mimms                             Potters Bar                             Hertfordshire,Eat In,Restaurant/Cafe/Canteen,1,10,,429430,10,,51.68747600000000,257167,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.22173200000000,EN6 3QQ,2014-03-11,fhrs_3_en-GB,3,,FHRS,5
-19196,,73,Aldenham Road,Bushey                                  Watford,Eat-Well Diner  Ltd,Takeaway/sandwich shop,7844,20,,429328,15,,51.64951900000000,225543,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37951900000000,WD23 2LX,2014-05-14,fhrs_0_en-GB,0,,FHRS,20
-19197,,26,Barnet Road,Potters Bar                             Hertfordshire,Eddys Fish and Chips,Takeaway/sandwich shop,7844,20,,618948,15,,51.69100900000000,259619,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17827500000000,EN6 2QU,2013-10-24,fhrs_1_en-GB,1,,FHRS,0
-19198,,363,Mutton Lane,Potters Bar                             Hertfordshire,Elm Court Youth Centre,Other catering premises,7841,,,485513,,,51.69930700000000,208446,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20089300000000,EN6 3BP,2014-03-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-19199,,,Shenley Road,Borehamwood                             Herts,Elstree Film Studios Restaurant and Coffee Shop,Restaurant/Cafe/Canteen,1,5,,429489,10,,51.65894600000000,258825,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25668100000000,WD6 1JD,2013-12-16,fhrs_3_en-GB,3,,FHRS,10
-19200,,,Elstree Way,Borehamwood                             Hertfordshire,Elstree House Cafe,Restaurant/Cafe/Canteen,1,20,,429480,10,,51.65969300000000,258482,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25552500000000,WD6 1SD,2014-04-17,fhrs_1_en-GB,1,,FHRS,10
-19201,,,Aldenham Road,Elstree                                 Borehamwood                             Hertfordshire,Elstree Lawn Tennis Club,Other catering premises,7841,,,429444,,,51.66389400000000,257590,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.32922300000000,WD6 3RL,2011-08-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-19202,,26           Cranborne Parade,Mutton Lane,Potters Bar                             Hertfordshire,Eshatandoori UK Ltd,Takeaway/sandwich shop,7844,10,,429427,10,,51.70099500000000,257083,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20897400000000,EN6 3BA,2014-03-05,fhrs_3_en-GB,3,,FHRS,5
-19203,Lincolnsfield Centre,,Bushey Hall Drive,Bushey                                  Watford,Farmyard Funworld,Restaurant/Cafe/Canteen,1,5,,429409,0,,51.65900900000000,256743,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37261700000000,WD23 2ES,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-19204,,1            Princes Parade,High Street,Potters Bar                             Hertfordshire,Favourite Fried Chicken,Takeaway/sandwich shop,7844,20,,434648,10,,51.69360200000000,209747,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17847500000000,EN6 5AE,2014-03-03,fhrs_1_en-GB,1,,FHRS,5
-19205,,108,Shenley Road,Borehamwood                             Herts,Fiesta,Restaurant/Cafe/Canteen,1,20,,429465,15,,51.65615100000000,257983,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27445500000000,WD6 1EB,2013-11-07,fhrs_1_en-GB,1,,FHRS,10
-19206,,31,Harcourt Road,Bushey                                  Watford,Fish N Chips,Takeaway/sandwich shop,7844,10,,429453,10,,51.64833100000000,257708,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35550900000000,WD23 3PP,2014-07-02,fhrs_3_en-GB,3,,FHRS,10
-19207,,,Watford Road,Elstree                                 Borehamwood,Fishery Inn,Pub/bar/nightclub,7843,10,,429366,10,,51.64368300000000,239978,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.30806900000000,WD6 3BE,2014-07-09,fhrs_2_en-GB,2,,FHRS,15
-19208,,,Chester Road,Borehamwood                             Hertfordshire,Follys,Takeaway/sandwich shop,7844,10,,682872,10,,51.65811700000000,259816,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25837600000000,WD6 1LT,2014-06-06,fhrs_3_en-GB,3,,FHRS,10
-19209,,12a,Bushey Hall Road,Bushey,Fratelli Cafe,Restaurant/Cafe/Canteen,1,20,,451774,15,,51.65499100000000,259293,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.38444200000000,WD23 2EA,2014-04-10,fhrs_1_en-GB,1,,FHRS,10
-19210,Shenley Road Market,,Shenley Road,Borehamwood                             Hertfordshire,Fruit and Veg,Retailers - other,4613,,,714769,,,51.65821300000000,256932,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26975000000000,WD6 1JG,2014-09-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-19211,,,,,G.T Snacks,Restaurant/Cafe/Canteen,1,5,,429517,5,,,4067,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,,,2013-04-05,fhrs_5_en-GB,5,,FHRS,5
-19212,The Point,84,Shenley Road,Borehamwood                             Hertfordshire,Gala Club,Restaurant/Cafe/Canteen,1,5,,429418,10,,51.65514300000000,256868,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27498500000000,WD6 1EH,2013-11-22,fhrs_4_en-GB,4,,FHRS,5
-19213,Willows Farm Village,,Coursers Road,Colney Heath                            St. Albans                              Hertfordshire,Gold Stream,Retailers - other,4613,,,429459,,,51.78166500000000,257838,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28254300000000,AL4 1BB,2011-10-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-19214,,109,Hartforde Road,Borehamwood                             Hertfordshire,Golden Fry,Takeaway/sandwich shop,7844,20,,699269,15,,51.66572400000000,259837,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26991200000000,WD6 5HY,2014-07-10,fhrs_1_en-GB,1,,FHRS,10
-19215,Strafford Arms,Cranborne Parade,Mutton Lane,Potters Bar                             Hertfordshire,Gourmet Burger Bar,Pub/bar/nightclub,7843,20,,699268,15,,51.70099500000000,259822,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20897400000000,EN6 3BA,2014-08-19,fhrs_1_en-GB,1,,FHRS,15
-19216,,62,Leeming Road,Borehamwood                             Hertfordshire,Green Dragon,Pub/bar/nightclub,7843,5,,429372,10,,51.66785300000000,242800,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28261500000000,WD6 4EB,2014-02-17,fhrs_4_en-GB,4,,FHRS,0
-19217,,149,Shenley Road,Borehamwood                             Hertfordshire,Greggs PLC,Retailers - other,4613,0,,429383,5,,51.65696300000000,245752,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27401900000000,WD6 1AH,2014-08-13,fhrs_5_en-GB,5,,FHRS,5
-19218,,73,Bushey Hall Road,Bushey                                  Watford,Grove End Hotel,Hotel/bed & breakfast/guest house,7842,5,,429329,5,,51.65416900000000,225843,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37767600000000,WD23 2EN,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-19219,,211,Park Avenue,Bushey                                  Watford,H N News,Retailers - other,4613,,,429331,,,51.66234400000000,226941,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.38033400000000,WD23 2DQ,2014-03-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-19220,,39,Darkes Lane,Potters Bar                             Hertfordshire,Harringtons Fish Restaurant,Restaurant/Cafe/Canteen,1,20,,429302,10,,51.69778700000000,210903,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19091100000000,EN6 1BJ,2014-03-06,fhrs_1_en-GB,1,,FHRS,5
-19221,148-150,,Shenley Road,Borehamwood                             Hertfordshire,Hart And Spool Public House,Pub/bar/nightclub,7843,0,,434660,5,,51.65717300000000,245794,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27236300000000,WD6 1EQ,2014-02-12,fhrs_5_en-GB,5,,FHRS,5
-19222,,,Hartsbourne Avenue,Bushey                                  Watford,Hartsbourne Country Club,Pub/bar/nightclub,7843,10,,429402,10,,51.62926100000000,256039,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34987100000000,WD23 1JW,2014-09-08,fhrs_2_en-GB,2,,FHRS,15
-19223,,104,High Road,Bushey                                  Watford,Heath Pharmacy,Retailers - other,4613,,,434667,,,51.63516500000000,257217,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34259000000000,WD23 1GE,2012-07-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-19224,,,,,Helens Snacks,Restaurant/Cafe/Canteen,1,5,,429426,10,,,257025,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,,,2014-02-17,fhrs_4_en-GB,4,,FHRS,5
-19225,Hilton Worldwide,,Elton Way,Watford,Hilton National,Hotel/bed & breakfast/guest house,7842,5,,429343,10,,51.66534400000000,232279,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36062000000000,WD25 8HA,2014-09-18,fhrs_4_en-GB,4,,FHRS,5
-19226,,5            Furzehill Parade,Shenley Road,Borehamwood,HK Central,Restaurant/Cafe/Canteen,1,10,,429412,15,,51.65538700000000,256776,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27629100000000,WD6 1DX,2013-10-16,fhrs_2_en-GB,2,,FHRS,10
-19227,,,Barnet By Pass,Borehamwood                             Hertfordshire,Holiday Inn Elstree,Hotel/bed & breakfast/guest house,7842,0,,429403,5,,51.84004974365230,256232,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27510499954224,WD6 5PU,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-19228,,79,High Street,Bushey                                  Watford,Horse and Chains,Pub/bar/nightclub,7843,20,,429334,15,,51.64154700000000,228731,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35910800000000,WD23 1BL,2014-11-04,fhrs_1_en-GB,1,,FHRS,15
-19229,,,Elstree Way,Borehamwood                             Hertfordshire,IBIS,Restaurant/Cafe/Canteen,1,10,,429440,5,,51.65981500000000,257356,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26614700000000,WD6 1JY,2013-05-07,fhrs_4_en-GB,4,,FHRS,5
-19230,Elstree Aerodrome,,Hogg Lane,Elstree                                 Borehamwood                             Hertfordshire,Ikaron Snack Bar,Restaurant/Cafe/Canteen,1,20,,682876,15,,51.65426100000000,259834,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.32401100000000,WD6 3AR,2014-07-02,fhrs_1_en-GB,1,,FHRS,5
-19231,,,Elton Way,Watford,Imperial China,Restaurant/Cafe/Canteen,1,10,,429475,10,,51.66184800000000,258259,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35757900000000,WD25 8HH,2014-02-20,fhrs_3_en-GB,3,,FHRS,5
-19232,,88,High Street,Bushey                                  Watford,India Garden Restaurant,Restaurant/Cafe/Canteen,1,20,,429337,15,,51.64480600000000,229932,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36514700000000,WD23 3HD,2014-07-14,fhrs_1_en-GB,1,,FHRS,15
-19233,,70e,Watling Street,Radlett                                 Hertfordshire,Indian Royal,Restaurant/Cafe/Canteen,1,20,,429445,10,,51.68533900000000,257592,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31846600000000,WD7 7NP,2013-05-16,fhrs_1_en-GB,1,,FHRS,10
-19234,,281,Watling Street,Radlett                                 Hertfordshire,Isot Restaurant,Restaurant/Cafe/Canteen,1,20,,429482,15,,51.68378100000000,258571,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31701900000000,WD7 7LA,2013-12-09,fhrs_1_en-GB,1,,FHRS,0
-19235,,73,High Street,Potters Bar                             Hertfordshire,Istanbul Kebab House,Takeaway/sandwich shop,7844,10,,429315,5,,51.69472600000000,214411,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17670800000000,EN6 5AS,2014-12-01,fhrs_4_en-GB,4,,FHRS,5
-19236,C/O Waters Ltd,730-740      Centennial Court,Centennial Avenue,Elstree                                 Herts,J K Catering,Restaurant/Cafe/Canteen,1,5,,714770,10,,51.63837600000000,258010,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.30674900000000,WD6 3SY,2014-08-13,fhrs_4_en-GB,4,,FHRS,5
-19237,,126,Shenley Road,Borehamwood,Jennys Restaurant,Restaurant/Cafe/Canteen,1,10,,429378,10,,51.65680600000000,244867,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27314300000000,WD6 1EF,2014-03-14,fhrs_3_en-GB,3,,FHRS,10
-19238,,170,Aycliffe Road,Borehamwood                             Hertfordshire,Johnnys Plaice,Takeaway/sandwich shop,7844,20,,429374,10,,51.66833500000000,243476,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28300100000000,WD6 4EG,2014-09-03,fhrs_1_en-GB,1,,FHRS,5
-19239,,18,Bushey Hall Road,Bushey                                  Watford,Kandy Food and Wine,Restaurant/Cafe/Canteen,1,10,,429472,10,,51.65518600000000,258113,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.38293100000000,WD23 2ED,2013-05-09,fhrs_3_en-GB,3,,FHRS,5
-19240,Welcome Break,,Bignells Corner,South Mimms                             Potters Bar                             Hertfordshire,Kentucky Fried Chicken,Restaurant/Cafe/Canteen,1,0,,429429,5,,51.68747600000000,257165,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.22173200000000,EN6 3QQ,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-19241,,177,Shenley Road,Borehamwood                             Hertfordshire,KFC,Restaurant/Cafe/Canteen,1,0,,434668,5,,51.65745000000000,257432,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27290200000000,WD6 1AW,2012-07-11,fhrs_5_en-GB,5,,FHRS,0
-19242,,49,Shenley Road,Borehamwood                             Hertfordshire,Kosk Restaurant,Restaurant/Cafe/Canteen,1,20,,493546,20,,51.65521600000000,259344,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27751200000000,WD6 1AE,2013-12-05,fhrs_1_en-GB,1,,FHRS,10
-19243,,,King George Avenue,Bushey                                  Watford,La Dolce Vita Cafe,Restaurant/Cafe/Canteen,1,10,,429413,15,,51.64380700000000,256800,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35541300000000,WD23 4NT,2014-04-23,fhrs_2_en-GB,2,,FHRS,0
-19244,Willows Lake,,,St. Albans,Lakeside Snacks,Restaurant/Cafe/Canteen,1,5,,429458,0,,,257806,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,,AL4 ORY,2014-07-24,fhrs_5_en-GB,5,,FHRS,5
-19245,,,Barnet Lane,Elstree                                 Borehamwood                             Hertfordshire,Laura Ashley the Manor Hotel,Hotel/bed & breakfast/guest house,7842,5,,434657,10,,51.63927200000000,240724,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28977900000000,WD6 3RE,2014-02-18,fhrs_4_en-GB,4,,FHRS,5
-19246,,154,High Street,Bushey,Lees Sandwedge Bar,Restaurant/Cafe/Canteen,1,10,,714772,5,,51.64425700000000,259829,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36191500000000,WD23 3DH,2014-10-10,fhrs_4_en-GB,4,,FHRS,0
-19247,,5,Shenley Road,Borehamwood                             Hertfordshire,Lets Meat,Restaurant/Cafe/Canteen,1,5,,434672,5,,51.65430600000000,257789,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27925200000000,WD6 1AA,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-19248,,103,Whitehouse Avenue,Borehamwood                             Herts,Livability,Hospitals/Childcare/Caring Premises,5,10,,714774,15,,51.65329100000000,2836,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27255400000000,WD6 1HB,2014-10-27,fhrs_2_en-GB,2,,FHRS,5
-19249,,16           The Broadway,Mutton Lane,Potters Bar                             Hertfordshire,Lloyds Pharmacy,Retailers - other,4613,,,664346,,,51.69548600000000,207577,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19391100000000,EN6 2HT,2014-03-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-19250,,114,Shenley Road,Borehamwood                             Hertfordshire,Lots Of Rice,Takeaway/sandwich shop,7844,5,,429382,10,,51.65680600000000,245729,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27314300000000,WD6 1EF,2014-07-24,fhrs_3_en-GB,3,,FHRS,10
-19251,,,,,Lous Catering,Restaurant/Cafe/Canteen,1,10,,534103,10,,,257023,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,,,2014-07-07,fhrs_2_en-GB,2,,FHRS,15
-19252,,125,High Road,Bushey                                  Watford,Majestic Wine Warehouse,Retailers - other,4613,,,434655,,,51.63123600000000,235807,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.33691000000000,WD23 1JA,2012-07-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-19253,,42,Shenley Road,Borehamwood                             Hertfordshire,Malay Chinese,Restaurant/Cafe/Canteen,1,5,,429512,15,,51.65441500000000,3962,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27809200000000,WD6 1DR,2014-02-13,fhrs_2_en-GB,2,,FHRS,5
-19254,,231,Watling Street,Radlett                                 Hertfordshire,Mamozin Pizza and Kebabs,Takeaway/sandwich shop,7844,20,,429361,15,,51.68498000000000,238082,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31785700000000,WD7 7AL,2013-07-18,fhrs_1_en-GB,1,,FHRS,15
-19255,,347,Watling Street,Radlett                                 Hertfordshire,Manor Pharmacy,Retailers - other,4613,,,664352,,,51.68280200000000,238401,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31646300000000,WD7 7LB,2014-03-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-19256,,150,Manor Way,Borehamwood                             Hertfordshire,Manor Way Post Office,Retailers - other,4613,,,451770,,,51.65127300000000,251025,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26134100000000,WD6 1QU,2012-09-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-19257,,97,Hartforde Road,Borehamwood                             Hertfordshire,Martin McColl,Retailers - other,4613,,,558444,,,51.66572400000000,257030,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26991200000000,WD6 5HY,2011-06-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-19258,,15,Leeming Road,Borehamwood                             Hertfordshire,Martins,Retailers - other,4613,,,429371,,,51.66785300000000,241496,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28261500000000,WD6 4EB,2012-11-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-19259,,A41 Sandy Lane,Elton Way,Bushey                                  Watford                                 Herts,McDonalds,Restaurant/Cafe/Canteen,1,0,,429326,0,,51.65951600000000,2191,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35156200000000,WD25 8HD,2013-01-14,fhrs_5_en-GB,5,,FHRS,0
-19260,,213,Shenley Road,Borehamwood                             Hertfordshire,McDonalds,Restaurant/Cafe/Canteen,1,0,,434662,5,,51.65888300000000,256206,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27065000000000,WD6 1TE,2012-06-25,fhrs_5_en-GB,5,,FHRS,0
-19261,Metropolitan House,,Darkes Lane,Potters Bar                             Hertfordshire,McDonalds,Restaurant/Cafe/Canteen,1,0,,429299,5,,51.69677900000000,209783,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19145800000000,EN6 1AJ,2014-02-27,fhrs_5_en-GB,5,,FHRS,5
-19262,The Bell,,Bell Lane,London Colney                           St. Albans                              Hertfordshire,McDonalds,Restaurant/Cafe/Canteen,1,10,,534101,15,,51.71679000000000,204188,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27850300000000,AL2 1BX,2014-09-03,fhrs_2_en-GB,2,,FHRS,5
-19263,,,,,MEC Snack Bar,Restaurant/Cafe/Canteen,1,20,,429425,15,,,257022,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,,,2014-03-04,fhrs_1_en-GB,1,,FHRS,5
-19264,Elstree Trade Park,,Elstree Way,Borehamwood                             Hertfordshire,Megabites Catering,Restaurant/Cafe/Canteen,1,10,,682871,15,,,259810,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,,WD6 1RX,2014-06-02,fhrs_2_en-GB,2,,FHRS,5
-19265,,,Tylers Way,Watford,Mercure London Watford Hotel,Hotel/bed & breakfast/guest house,7842,5,,429411,10,,51.65562500000000,256761,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34597900000000,WD25 8HQ,2013-07-31,fhrs_4_en-GB,4,,FHRS,5
-19266,,243,Watling Street,Radlett                                 Hertfordshire,Meze Grill,Restaurant/Cafe/Canteen,1,10,,429454,10,,51.68498000000000,257718,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31785700000000,WD7 7AL,2014-01-02,fhrs_3_en-GB,3,,FHRS,5
-19267,,148,High Street,Bushey,Michaels Fish & Grill,Restaurant/Cafe/Canteen,1,20,,429339,10,,51.64425700000000,229942,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36191500000000,WD23 3DH,2014-03-06,fhrs_1_en-GB,1,,FHRS,5
-19268,,142,Shenley Road,Borehamwood                             Hertfordshire,Millys the Bakers Ltd,Takeaway/sandwich shop,7844,10,,429476,10,,51.65717300000000,258361,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27236300000000,WD6 1EQ,2014-08-26,fhrs_3_en-GB,3,,FHRS,10
-19269,,134,Aycliffe Road,Borehamwood,Mirzan Restaurant,Restaurant/Cafe/Canteen,1,10,,429432,10,,51.66795900000000,257216,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28375300000000,WD6 4DY,2013-11-12,fhrs_4_en-GB,4,,FHRS,0
-19270,,,Rowley Lane,Borehamwood                             Hertfordshire,Mops & Brooms,Pub/bar/nightclub,7843,5,,429397,10,,51.66664000000000,253875,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25465000000000,WD6 5PD,2013-07-23,fhrs_3_en-GB,3,,FHRS,10
-19271,,,Stirling Way,Borehamwood                             Herts,Morrisons Customer Restaurant,Restaurant/Cafe/Canteen,1,0,,516003,0,,51.64607200000000,259499,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25385000000000,WD6 2BT,2013-09-25,fhrs_5_en-GB,5,,FHRS,0
-19272,,75-77,Shenley Road,Borehamwood                             Herts,Nandos Chickenland Ltd,Restaurant/Cafe/Canteen,1,5,,429439,5,,51.65617800000000,257330,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27566800000000,WD6 1AG,2014-03-14,fhrs_5_en-GB,5,,FHRS,5
-19273,Caldecote Farm,,Caldecote Lane,Bushey                                  Watford,Nanny Annies,Restaurant/Cafe/Canteen,1,20,,664360,15,,51.64260400000000,259794,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.33071300000000,WD23 4EF,2014-04-09,fhrs_1_en-GB,1,,FHRS,5
-19274,,33,Barnet Road,Potters Bar                             Hertfordshire,New China City,Restaurant/Cafe/Canteen,1,10,,429297,10,,51.69167900000000,209695,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17914600000000,EN6 2QX,2013-06-12,fhrs_3_en-GB,3,,FHRS,10
-19275,,305,Shenley Road,Borehamwood                             Hertfordshire,New Lantern House,Takeaway/sandwich shop,7844,10,,485514,10,,51.66103700000000,247128,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26858700000000,WD6 1TH,2014-07-23,fhrs_3_en-GB,3,,FHRS,5
-19276,,21,Barnet Road,Potters Bar                             Hertfordshire,New Zeera,Restaurant/Cafe/Canteen,1,20,,451771,15,,51.69167900000000,259279,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17914600000000,EN6 2QX,2013-11-26,fhrs_1_en-GB,1,,FHRS,15
-19277,,138,Manor Way,Borehamwood                             Hertfordshire,Nisa Local,Retailers - supermarkets/hypermarkets,7840,10,,429462,10,,51.65180400000000,257942,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26135000000000,WD6 1QX,2013-08-13,fhrs_3_en-GB,3,,FHRS,5
-19278,,240,High Street,Potters Bar                             Hertfordshire,Normans Diner,Restaurant/Cafe/Canteen,1,30,,429318,20,,51.69877800000000,214436,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17476500000000,EN6 5DB,2014-10-14,fhrs_0_en-GB,0,,FHRS,15
-19279,,423,Bushey Mill Lane,Bushey                                  Watford,North Bushey  News,Retailers - other,4613,,,429332,,,51.66545200000000,227222,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37163400000000,WD23 2AN,2013-09-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-19280,,351,Watling Street,Radlett                                 Hertfordshire,Noshers,Restaurant/Cafe/Canteen,1,10,,466772,10,,51.68284700000000,259224,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31647500000000,WD7 7LB,2013-11-05,fhrs_3_en-GB,3,,FHRS,5
-19281,,,High Street,Potters Bar                             Hertfordshire,Oakmere House,Restaurant/Cafe/Canteen,1,0,,429320,5,,51.69688600000000,214490,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17450900000000,EN6 5BT,2014-07-23,fhrs_5_en-GB,5,,FHRS,0
-19282,,102,High Street,Potters Bar                             Hertfordshire,Oakmere Tea & Dining Room,Restaurant/Cafe/Canteen,1,20,,699266,10,,51.69546000000000,259585,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17711300000000,EN6 5AT,2014-05-08,fhrs_1_en-GB,1,,FHRS,5
-19283,,72,High Road,Bushey                                  Watford,Olivios,Restaurant/Cafe/Canteen,1,10,,429473,10,,51.63516500000000,258174,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34259000000000,WD23 1GE,2013-06-14,fhrs_3_en-GB,3,,FHRS,10
-19284,King Charles the Martyr Church,368,Mutton Lane,Potters Bar                             Herts,Open Door Cafe,Other catering premises,7841,5,,543154,5,,51.69898800000000,258371,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20241100000000,EN6 3AS,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-19285,Shenley Park,,Radlett Lane,Shenley                                 Radlett                                 Hertfordshire,Orchard Tea Rooms,Restaurant/Cafe/Canteen,1,0,,429282,0,,51.69072700000000,201803,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.29424900000000,WD7 9DW,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-19286,,53,Shenley Road,Borehamwood                             Herts,Orli Bakery and Deli,Retailers - other,4613,10,,434669,10,,51.65521600000000,257601,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27751200000000,WD6 1AE,2013-10-08,fhrs_4_en-GB,4,,FHRS,0
-19287,,174,Darkes Lane,Potters Bar                             Hertfordshire,Osteria  Dante,Restaurant/Cafe/Canteen,1,5,,429514,5,,51.69903500000000,3975,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19077400000000,EN6 1AF,2013-04-04,fhrs_4_en-GB,4,,FHRS,10
-19288,,,,,Otterspool Snacks,Restaurant/Cafe/Canteen,1,5,,429451,10,,,257682,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,,,2014-04-10,fhrs_3_en-GB,3,,FHRS,10
-19289,,30,Shenley Road,Borehamwood                             Hertfordshire,Pangs Cottage,Takeaway/sandwich shop,7844,30,,682869,20,,51.65441500000000,259805,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27809200000000,WD6 1DR,2014-06-04,fhrs_0_en-GB,0,,FHRS,5
-19290,,26           The Broadway,Darkes Lane,Potters Bar                             Hertfordshire,Papa Johns,Takeaway/sandwich shop,7844,20,,434647,5,,51.69567600000000,207584,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19342600000000,EN6 2HW,2014-03-03,fhrs_1_en-GB,1,,FHRS,10
-19291,,163,Shenley Road,Borehamwood                             Hertfordshire,Papa Johns Pizza,Restaurant/Cafe/Canteen,1,10,,664356,10,,51.65696300000000,259560,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27401900000000,WD6 1AH,2014-03-19,fhrs_3_en-GB,3,,FHRS,5
-19292,,,Greatham Road,Bushey                                  Watford,Parents Paradise Ltd,Restaurant/Cafe/Canteen,1,0,,429436,5,,51.65685500000000,257301,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.38530100000000,WD23 2NZ,2014-07-23,fhrs_5_en-GB,5,,FHRS,0
-19293,,126,Darkes Lane,Potters Bar                             Hertfordshire,Pasalet Cafeteria,Restaurant/Cafe/Canteen,1,10,,429301,15,,51.69829800000000,209827,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19138300000000,EN6 1AE,2013-04-24,fhrs_2_en-GB,2,,FHRS,10
-19294,,,Hilfield Lane,Aldenham                                Watford,Patchetts Equestrian Centre (clubhouse),Restaurant/Cafe/Canteen,1,10,,429417,10,,51.66566800000000,256861,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35421700000000,WD25 8PE,2013-06-05,fhrs_3_en-GB,3,,FHRS,10
-19295,Boulevard 25 car park,,Borehamwood Shopping Park,Borehamwood                             Herts,Paulas,Takeaway/sandwich shop,7844,10,,699271,5,,51.65676600000000,259849,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27777100000000,WD6 4PR,2014-07-24,fhrs_4_en-GB,4,,FHRS,0
-19296,,239,Watling Street,Radlett                                 Hertfordshire,PAYA,Takeaway/sandwich shop,7844,20,,429498,15,,51.68498000000000,259168,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31785700000000,WD7 7AL,2014-11-12,fhrs_1_en-GB,1,,FHRS,15
-19297,,32,Shenley Road,Borehamwood                             Hertfordshire,Peri Peri Original,Takeaway/sandwich shop,7844,20,,493547,20,,51.65441500000000,259476,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27809200000000,WD6 1DR,2013-12-09,fhrs_0_en-GB,0,,FHRS,20
-19298,,4,Farrington Avenue,Bushey                                  Herts,Phoenix Community Centre,Other catering premises,7841,,,429493,,,51.65015700000000,258972,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35362200000000,WD23 3DG,2014-03-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-19299,,42,High Street,Bushey                                  Watford,Picnics,Restaurant/Cafe/Canteen,1,10,,429341,10,,51.64516500000000,229963,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36704200000000,WD23 3HL,2013-04-04,fhrs_3_en-GB,3,,FHRS,5
-19300,,9,Shenley Road,Borehamwood                             Hertfordshire,Pizza Choice and Best Kebabs,Takeaway/sandwich shop,7844,20,,429496,15,,51.65430600000000,259129,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27925200000000,WD6 1AA,2014-10-17,fhrs_1_en-GB,1,,FHRS,10
-19301,,114,Watling Street,Radlett                                 Hertfordshire,Pizza Express,Restaurant/Cafe/Canteen,1,5,,429404,5,,51.68398900000000,256555,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31774900000000,WD7 7AB,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-19302,,75,High Street,Potters Bar                             Hertfordshire,Pizza Go Go,Takeaway/sandwich shop,7844,10,,429420,5,,51.69472600000000,256893,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17670800000000,EN6 5AS,2013-11-12,fhrs_4_en-GB,4,,FHRS,0
-19303,,57,High Road,Bushey                                  Watford,Pizza Hut,Restaurant/Cafe/Canteen,1,0,,429479,5,,51.63443500000000,258462,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34248700000000,WD23 1EE,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-19304,,26,Shenley Road,Borehamwood                             Hertfordshire,Pizza Hut (uk) Ltd,Takeaway/sandwich shop,7844,0,,429381,5,,51.65441500000000,245719,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27809200000000,WD6 1DR,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-19305,,,Shenley Hill,Radlett                                 Hertfordshire,Porters Park Golf Club,Pub/bar/nightclub,7843,10,,429280,5,,51.68792100000000,201631,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.30912600000000,WD7 7AZ,2013-05-07,fhrs_4_en-GB,4,,FHRS,5
-19306,,5,Barnet Road,Potters Bar                             Hertfordshire,Potters Bar Cafe,Restaurant/Cafe/Canteen,1,5,,429296,10,,51.69167900000000,209441,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17914600000000,EN6 2QX,2013-10-08,fhrs_4_en-GB,4,,FHRS,0
-19307,,35           The Broadway,Darkes Lane,Potters Bar                             Hertfordshire,Potters Bar Fisn N Chip,Takeaway/sandwich shop,7844,5,,429304,5,,51.69579000000000,211032,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19262600000000,EN6 2HZ,2014-01-30,fhrs_5_en-GB,5,,FHRS,5
-19308,,,Darkes Lane,Potters Bar                             Hertfordshire,Potters Bar Golf Club,Restaurant/Cafe/Canteen,1,20,,429300,10,,51.70060700000000,209808,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19069700000000,EN6 1DE,2014-02-25,fhrs_1_en-GB,1,,FHRS,5
-19309,,29           The Broadway,Darkes Lane,Potters Bar                             Hertfordshire,Potters Bar Kebab,Restaurant/Cafe/Canteen,1,20,,429478,15,,51.69540100000000,258394,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19309000000000,EN6 2HX,2014-08-27,fhrs_1_en-GB,1,,FHRS,5
-19310,,82,High Street,Potters Bar                             Hertfordshire,Potters Pantry,Retailers - other,4613,10,,429310,10,,51.69443700000000,213136,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17783400000000,EN6 5AB,2013-12-13,fhrs_3_en-GB,3,,FHRS,10
-19311,,2,Barnet Road,Potters Bar                             Hertfordshire,Potty Pancakes,Restaurant/Cafe/Canteen,1,0,,682866,0,,51.69151700000000,259496,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17855900000000,EN6 2QS,2014-10-13,fhrs_5_en-GB,5,,FHRS,0
-19312,,,Warwick Road,Borehamwood                             Herts,Premier Travel Inn,Hotel/bed & breakfast/guest house,7842,0,,429416,10,,51.65751200000000,256858,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25581100000000,WD6 1US,2013-11-07,fhrs_4_en-GB,4,,FHRS,5
-19313,,,Swanland Road,South Mimms                             Potters Bar                             Hertfordshire,Premier Travel Inn,Hotel/bed & breakfast/guest house,7842,0,,429287,5,,51.69033500000000,204679,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.22467300000000,EN6 3NH,2014-11-27,fhrs_5_en-GB,5,,FHRS,0
-19314,,82,Watling Street,Radlett                                 Hertfordshire,Prezzo PLC,Restaurant/Cafe/Canteen,1,10,,434656,5,,51.68398900000000,238071,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31774900000000,WD7 7AB,2013-05-08,fhrs_3_en-GB,3,,FHRS,10
-19315,,90,High Street,Potters Bar                             Hertfordshire,Pubali Indian Restaurant,Restaurant/Cafe/Canteen,1,5,,429316,10,,51.69546000000000,214415,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17711300000000,EN6 5AT,2013-09-23,fhrs_4_en-GB,4,,FHRS,5
-19316,,96,High Street,Potters Bar                             Hertfordshire,Questmoor,Retailers - other,4613,,,664347,,,51.69546000000000,214418,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17711300000000,EN6 5AT,2014-03-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-19317,,33B,Kemp Place,Bushey                                  Herts,Qzeen,Restaurant/Cafe/Canteen,1,10,,516001,10,,51.64477100000000,259341,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36652200000000,WD23 1BD,2013-11-13,fhrs_3_en-GB,3,,FHRS,10
-19318,,90,High Street,Bushey                                  Watford,R&R Stores,Retailers - supermarkets/hypermarkets,7840,5,,429338,10,,51.64480600000000,229933,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36514700000000,WD23 3HD,2014-03-04,fhrs_4_en-GB,4,,FHRS,5
-19319,,70F,Watling Street,Radlett                                 Hertfordshire,Radlett Cafe,Restaurant/Cafe/Canteen,1,10,,429307,10,,51.68533900000000,2128,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31846600000000,WD7 7NP,2013-10-08,fhrs_3_en-GB,3,,FHRS,5
-19320,,1,Aldenham Avenue,Radlett                                 Hertfordshire,Radlett Centre,Restaurant/Cafe/Canteen,1,10,,429313,15,,51.68204200000000,2141,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31738800000000,WD7 8HL,2013-11-19,fhrs_2_en-GB,2,,FHRS,5
-19321,,,Watling Street,Elstree                                 Borehamwood                             Hertfordshire,Radlett Park Golf Club,Pub/bar/nightclub,7843,5,,429484,5,,51.66082900000000,258727,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.30357000000000,WD6 3AA,2013-12-05,fhrs_5_en-GB,5,,FHRS,0
-19322,203-205,,Watling Street,Radlett                                 Hertfordshire,Radlett Service Station,Restaurant/Cafe/Canteen,1,,,429414,,,51.84004974365230,256821,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27510499954224,WD7 7AG,2014-03-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-19323,,217-219,Park Avenue,Bushey                                  Watford,Raj Garden,Restaurant/Cafe/Canteen,1,5,,445883,10,,51.66234400000000,226945,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.38033400000000,WD23 2DQ,2014-03-12,fhrs_4_en-GB,4,,FHRS,5
-19324,,50,High Street,Bushey                                  Watford,Red Lion,Pub/bar/nightclub,7843,5,,429342,5,,51.64507500000000,229965,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36638100000000,WD23 3HN,2014-01-08,fhrs_5_en-GB,5,,FHRS,0
-19325,,84,Shenley Road,Borehamwood                             Hertfordshire,Reel Cinema,Restaurant/Cafe/Canteen,1,,,429380,,,51.65514300000000,245715,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27498500000000,WD6 1EH,2014-03-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-19326,,12-14,Mutton Lane,Potters Bar                             Hertfordshire,Regency Chinese Restaurant,Restaurant/Cafe/Canteen,1,10,,429460,10,,51.69224500000000,257843,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17970200000000,EN6 2PA,2013-07-24,fhrs_3_en-GB,3,,FHRS,10
-19327,,,Allum Lane,Elstree                                 Borehamwood                             Hertfordshire,Rontec Watford Ltd,Retailers - other,4613,,,699263,,,51.65313600000000,258823,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27977400000000,WD6 3LS,2014-07-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-19328,,71,Aldenham Road,Bushey                                  Watford,Rosewood Stores,Retailers - supermarkets/hypermarkets,7840,5,,429327,5,,51.64951900000000,225332,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37951900000000,WD23 2LX,2013-08-20,fhrs_5_en-GB,5,,FHRS,0
-19329,,13           The Broadway,Mutton Lane,Potters Bar                             Hertfordshire,Royal Chicken N Pizza Express,Takeaway/sandwich shop,7844,20,,429294,15,,51.69509700000000,207633,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19316000000000,EN6 2HU,2014-02-19,fhrs_1_en-GB,1,,FHRS,15
-19330,,75,Darkes Lane,Potters Bar                             Hertfordshire,Royal News,Retailers - other,4613,,,714767,,,51.69847900000000,210914,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19033400000000,EN6 1BW,2014-09-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-19331,Southridge Animal Centre,,Packhorse Lane,Ridge                                   Potters Bar,RSPCA - Cafe Ridge,Restaurant/Cafe/Canteen,1,5,,429284,5,,51.70324400000000,204247,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25502200000000,EN6 3LZ,2014-09-06,fhrs_4_en-GB,4,,FHRS,10
-19332,,81,High Road,Bushey                                  Watford,Rubys Restaurant and Bar,Restaurant/Cafe/Canteen,1,5,,429423,5,,51.63284000000000,257015,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34034900000000,WD23 1EL,2013-10-04,fhrs_5_en-GB,5,,FHRS,0
-19333,,8,Mutton Lane,Potters Bar                             Hertfordshire,Rudis Cafe Ltd,Restaurant/Cafe/Canteen,1,20,,429295,15,,51.69224500000000,208994,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17970200000000,EN6 2PA,2014-04-22,fhrs_1_en-GB,1,,FHRS,0
-19334,,14,Leeming Road,Borehamwood                             Hertfordshire,S and B Mini Market,Retailers - other,4613,,,429373,,,51.66749900000000,243056,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28301800000000,WD6 4DU,2013-10-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-19335,,25,Leeming Road,Borehamwood                             Hertfordshire,Safedale Pharmacy,Retailers - other,4613,,,664354,,,51.66785300000000,243048,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28261500000000,WD6 4EB,2014-03-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-19336,,18,Leeming Road,Borehamwood                             Hertfordshire,Saffron,Takeaway/sandwich shop,7844,20,,618946,10,,51.66749900000000,259213,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28301800000000,WD6 4DU,2014-11-05,fhrs_1_en-GB,1,,FHRS,10
-19337,,23,Harcourt Road,Bushey                                  Watford,Sakura,Takeaway/sandwich shop,7844,10,,682873,10,,51.64833100000000,259817,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35550900000000,WD23 3PP,2014-06-05,fhrs_3_en-GB,3,,FHRS,10
-19338,,105,Hartforde Road,Borehamwood                             Hertfordshire,Sams Bakery,Retailers - other,4613,10,,429390,15,,51.66572400000000,248476,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26991200000000,WD6 5HY,2014-09-02,fhrs_2_en-GB,2,,FHRS,10
-19339,,43,Shenley Road,Borehamwood                             Hertfordshire,Sams Chicken,Takeaway/sandwich shop,7844,10,,429443,10,,51.65521600000000,257547,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27751200000000,WD6 1AE,2013-06-10,fhrs_3_en-GB,3,,FHRS,10
-19340,,34,Bushey Hall Road,Bushey                                  Watford,Sea Breeze,Takeaway/sandwich shop,7844,5,,429325,5,,51.65518600000000,218061,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.38293100000000,WD23 2ED,2014-09-03,fhrs_5_en-GB,5,,FHRS,5
-19341,,165,High Street,Potters Bar,Seashell Fish Bar,Takeaway/sandwich shop,7844,5,,429319,10,,51.69724500000000,214484,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17504400000000,EN6 5BB,2013-08-21,fhrs_4_en-GB,4,,FHRS,5
-19342,,238,High Street,Potters Bar                             Hertfordshire,Seawise,Takeaway/sandwich shop,7844,10,,434671,15,,51.69877800000000,257694,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17476500000000,EN6 5DB,2014-02-28,fhrs_2_en-GB,2,,FHRS,5
-19343,,5            Princes Parade,High Street,Potters Bar                             Hertfordshire,Shaad Indian Restaurant and Take Away,Takeaway/sandwich shop,7844,30,,664359,15,,51.69360200000000,259638,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17847500000000,EN6 5AE,2014-03-18,fhrs_0_en-GB,0,,FHRS,10
-19344,,35,Harcourt Road,Bushey                                  Watford,Shake A Shake,Restaurant/Cafe/Canteen,1,10,,429499,5,,51.64833100000000,259169,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35550900000000,WD23 3PP,2014-03-03,fhrs_3_en-GB,3,,FHRS,10
-19345,,434,Mutton Lane,Potters Bar                             Hertfordshire,Shaketastic,Retailers - other,4613,0,,485520,0,,51.70001000000000,259383,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20509100000000,EN6 3AT,2012-11-21,fhrs_5_en-GB,5,,FHRS,5
-19346,,112,Watling Street,Radlett                                 Hertfordshire,ShakeTastic Ltd,Takeaway/sandwich shop,7844,10,,434675,10,,51.84004974365230,258241,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27510499954224,WD7 7AG,2013-07-15,fhrs_3_en-GB,3,,FHRS,10
-19347,,,Elton Way,Watford,Shell UK,Restaurant/Cafe/Canteen,1,,,434654,,,51.66184800000000,232281,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35757900000000,WD25 8HH,2012-07-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-19348,,,Radlett Lane,Shenley                                 Radlett                                 Hertfordshire,Shenley Cricket Centre,Restaurant/Cafe/Canteen,1,10,,429283,5,,51.69072700000000,201804,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.29424900000000,WD7 9DW,2013-03-27,fhrs_4_en-GB,4,,FHRS,0
-19349,,3,Shenley Road,Borehamwood                             Hertfordshire,Shenley News And Convenience Store,Retailers - other,4613,,,429376,,,51.65430600000000,244674,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27925200000000,WD6 1AA,2014-03-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-19350,,13,Shenley Road,Borehamwood                             Hertfordshire,Shenley Sandwich Bar,Retailers - other,4613,5,,434658,10,,51.65452700000000,244678,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27895500000000,WD6 1AD,2014-02-12,fhrs_4_en-GB,4,,FHRS,5
-19351,,14,Bushey Hall Road,Bushey                                  Watford,Shimla Spice Bushey Ltd,Takeaway/sandwich shop,7844,30,,682875,15,,51.65499100000000,259825,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.38444200000000,WD23 2EA,2014-06-18,fhrs_0_en-GB,0,,FHRS,15
-19352,The Venue,,Elstree Way,Borehamwood                             Hertfordshire,Side Kicks,Restaurant/Cafe/Canteen,1,10,,445884,10,,51.66236400000000,252725,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28736700000000,WD6 1NQ,2014-02-20,fhrs_3_en-GB,3,,FHRS,5
-19353,Furzefield Centre,,Mutton Lane,Potters Bar                             Hertfordshire,Side Kicks Cafe,Restaurant/Cafe/Canteen,1,10,,429289,10,,51.70130600000000,205702,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.20695000000000,EN6 3BW,2013-12-18,fhrs_3_en-GB,3,,FHRS,5
-19354,,159,High Street,Potters Bar                             Hertfordshire,Silver Jubilee,Restaurant/Cafe/Canteen,1,20,,429317,15,,51.69724500000000,214430,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17504400000000,EN6 5BB,2014-03-13,fhrs_0_en-GB,0,,FHRS,20
-19355,,41,Darkes Lane,Potters Bar                             Hertfordshire,Simmons Bakers,Retailers - other,4613,0,,429303,5,,51.69778700000000,210904,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19091100000000,EN6 1BJ,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-19356,,55,High Road,Bushey                                  Watford,Sonargaon Restaurant,Restaurant/Cafe/Canteen,1,5,,429349,5,,51.63443500000000,232736,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34248700000000,WD23 1EE,2013-10-28,fhrs_4_en-GB,4,,FHRS,10
-19357,,,,,South MMMs,Restaurant/Cafe/Canteen,1,20,,429410,10,,,256759,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,,,2014-02-07,fhrs_1_en-GB,1,,FHRS,0
-19358,,,Blanche Lane,South Mimms                             Potters Bar,South Mymms Village Hall,Other catering premises,7841,,,429424,,,51.69544200000000,257017,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.23298100000000,EN6 3PE,2014-03-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-19359,,137,Sparrows Herne,Bushey                                  Watford,Sparrows Newsagents,Retailers - other,4613,,,429351,,,51.63782900000000,233190,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35107700000000,WD23 1AQ,2013-10-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-19360,,209,Shenley Road,Borehamwood                             Hertfordshire,Spice Garden,Restaurant/Cafe/Canteen,1,5,,429507,5,,51.65787700000000,3208,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27193200000000,WD6 1AT,2013-05-30,fhrs_5_en-GB,5,,FHRS,0
-19361,,30,High Street,Bushey                                  Hertfordshire,St James Restaurant Ltd,Restaurant/Cafe/Canteen,1,10,,429340,15,,51.64516500000000,229957,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36704200000000,WD23 3HL,2014-08-14,fhrs_2_en-GB,2,,FHRS,5
-19362,,,Cranes Way,Borehamwood                             Herts,St Pauls Lutheran Church,Other catering premises,7841,,,429321,,,51.64765800000000,2145,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26317000000000,WD6 2DB,2011-09-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-19363,,,,,Staceys Tasty Snacks,Restaurant/Cafe/Canteen,1,5,,429407,10,,,256669,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,,,2013-11-28,fhrs_3_en-GB,3,,FHRS,10
-19364,Village Hotel,Centennial Park,Centennial Avenue,Elstree,Starbucks,Restaurant/Cafe/Canteen,1,10,,429467,10,,51.63932400000000,257995,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.30886700000000,WD6 3SB,2014-03-14,fhrs_3_en-GB,3,,FHRS,5
-19365,Welcome Break,,Swanland Road,South Mimms                             Potters Bar                             Hertfordshire,Starbucks,Restaurant/Cafe/Canteen,1,0,,445887,0,,51.68924600000000,258012,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.22403600000000,EN6 3NE,2012-08-30,fhrs_5_en-GB,5,,FHRS,0
-19366,,Borehamwood Retail Park,Shenley Road,Borehamwood                             Herts,Starbucks Coffee Company,Restaurant/Cafe/Canteen,1,5,,445886,10,,51.70339800000000,257609,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.46473600000000,WD4 1AE,2014-02-11,fhrs_4_en-GB,4,,FHRS,5
-19367,,Off Furzehill Road,Shakespeare Drive,Borehamwood                             Herts,Starjumps Cafe,Restaurant/Cafe/Canteen,1,10,,558447,10,,51.65148500000000,259526,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27510900000000,WD6 2FD,2014-03-31,fhrs_3_en-GB,3,,FHRS,5
-19368,Strangeways Stud Farm,,Rowley Lane,Borehamwood                             Hertfordshire,Strangeways Farm Tearoom/cafe,Restaurant/Cafe/Canteen,1,20,,429398,15,,51.66936300000000,254242,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.24429300000000,WD6 5PF,2014-01-03,fhrs_1_en-GB,1,,FHRS,5
-19369,,5,Elstree Way,Borehamwood                             Hertfordshire,Studio Caffe,Restaurant/Cafe/Canteen,1,10,,429470,10,,51.65948400000000,258013,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25900300000000,WD6 1SF,2014-11-03,fhrs_3_en-GB,3,,FHRS,5
-19370,Metropolitan House,,Darkes Lane,Potters Bar                             Hertfordshire,Subway,Restaurant/Cafe/Canteen,1,0,,429435,5,,51.69677900000000,257300,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19145800000000,EN6 1AJ,2014-12-08,fhrs_5_en-GB,5,,FHRS,0
-19371,,155,Shenley Road,Borehamwood                             Hertfordshire,Subway Sandwich Shop,Restaurant/Cafe/Canteen,1,10,,429379,10,,51.65696300000000,245662,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27401900000000,WD6 1AH,2014-01-24,fhrs_4_en-GB,4,,FHRS,0
-19372,,435,Bushey Mill Lane,Bushey                                  Watford,Surma,Restaurant/Cafe/Canteen,1,20,,429463,15,,51.66545200000000,257951,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37163400000000,WD23 2AN,2014-11-18,fhrs_1_en-GB,1,,FHRS,10
-19373,,1,Battlers Green Drive,Radlett                                 Hertfordshire,Taj Mahal Balti House,Takeaway/sandwich shop,7844,10,,429358,10,,51.67869100000000,237684,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.33149900000000,WD7 8NE,2014-03-05,fhrs_3_en-GB,3,,FHRS,10
-19374,,144,Manor Way,Borehamwood                             Hertfordshire,Taste of Villa,Takeaway/sandwich shop,7844,20,,429392,15,,51.65180400000000,251300,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26135000000000,WD6 1QX,2014-01-15,fhrs_1_en-GB,1,,FHRS,10
-19375,,134,Shenley Road,Borehamwood                             Hertfordshire,Tasty Kebab,Takeaway/sandwich shop,7844,20,,434663,15,,51.65680600000000,256757,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27314300000000,WD6 1EF,2014-02-12,fhrs_1_en-GB,1,,FHRS,5
-19376,,5,Southgate Road,Potters Bar                             Hertfordshire,Tavernaki,Restaurant/Cafe/Canteen,1,20,,664357,10,,51.69177100000000,259610,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17808600000000,EN6 5DR,2014-03-18,fhrs_1_en-GB,1,,FHRS,5
-19377,Pharmaceutical & Postal Servs,427,Bushey Mill Lane,Bushey                                  Watford,Tee Kay Enterprises Ltd,Retailers - other,4613,,,664348,,,51.66545200000000,227334,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37163400000000,WD23 2AN,2014-03-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-19378,,39,High Street,Bushey                                  Watford,Thai Sunset,Restaurant/Cafe/Canteen,1,10,,434674,15,,51.64477100000000,258046,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36652200000000,WD23 1BD,2014-03-04,fhrs_2_en-GB,2,,FHRS,5
-19379,,,Darkes Lane,Potters Bar                             Herts,The Admiral Byng,Pub/bar/nightclub,7843,5,,429322,5,,51.70288600000000,2169,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.18443700000000,EN6 1AB,2013-07-24,fhrs_5_en-GB,5,,FHRS,5
-19380,,17,Leeming Road,Borehamwood                             Hertfordshire,The Bakers,Retailers - other,4613,20,,629516,10,,51.66785300000000,241497,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28261500000000,WD6 4EB,2013-12-05,fhrs_1_en-GB,1,,FHRS,15
-19381,,Off Furzehill Road,Shakespeare Drive,Borehamwood                             Herts,The BECC Childrens Centre,Restaurant/Cafe/Canteen,1,10,,558445,15,,51.65148500000000,257611,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27510900000000,WD6 2FD,2013-11-08,fhrs_2_en-GB,2,,FHRS,5
-19382,Battlers Green Farm,,Common Lane,Radlett                                 Hertfordshire,The Bull Pen Tea Rooms,Restaurant/Cafe/Canteen,1,0,,429501,0,,51.67397800000000,3062,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.33073200000000,WD7 8PH,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
-19383,,24           The Broadway,Darkes Lane,Potters Bar                             Hertfordshire,The Cafe,Restaurant/Cafe/Canteen,1,20,,429293,20,,51.69567600000000,207583,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19342600000000,EN6 2HW,2013-11-12,fhrs_0_en-GB,0,,FHRS,15
-19384,,179,Shenley Road,Borehamwood                             Hertfordshire,The Cafe (Borehamwood) Ltd,Restaurant/Cafe/Canteen,1,10,,429511,10,,51.65745000000000,3865,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27290200000000,WD6 1AW,2014-11-05,fhrs_3_en-GB,3,,FHRS,10
-19385,The Chequers,,Coopers Lane,Potters Bar                             Hertfordshire,The Chequers,Pub/bar/nightclub,7843,10,,429309,15,,51.70011000000000,213120,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.16443700000000,EN6 4AG,2013-12-02,fhrs_2_en-GB,2,,FHRS,10
-19386,,163,High Street,Potters Bar                             Hertfordshire,The Coffee Lounge,Restaurant/Cafe/Canteen,1,10,,516000,10,,51.69724500000000,258132,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17504400000000,EN6 5BB,2014-08-21,fhrs_3_en-GB,3,,FHRS,5
-19387,,,Ripon Way,Borehamwood,The Directors Arms,Pub/bar/nightclub,7843,20,,664355,10,,51.64928400000000,250856,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25880100000000,WD6 2HS,2014-05-06,fhrs_1_en-GB,1,,FHRS,0
-19388,,,High Street,Elstree                                 Borehamwood                             Hertfordshire,The East,Restaurant/Cafe/Canteen,1,10,,429520,15,,51.64413500000000,4509,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.29890400000000,WD6 3EU,2013-10-23,fhrs_2_en-GB,2,,FHRS,10
-19389,,490,Bushey Mill Lane,Bushey                                  Watford,The Frying Squad,Restaurant/Cafe/Canteen,1,0,,429333,5,,51.66550000000000,227243,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.37252900000000,WD23 2AS,2014-08-29,fhrs_5_en-GB,5,,FHRS,0
-19390,,132,Shenley Road,Borehamwood                             Hertfordshire,The Golden Plaice,Restaurant/Cafe/Canteen,1,10,,429385,5,,51.65680600000000,245782,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27314300000000,WD6 1EF,2013-06-06,fhrs_4_en-GB,4,,FHRS,5
-19391,,2,St. Albans Road,Barnet                                  Hertfordshire,The Green Dragon,Hotel/bed & breakfast/guest house,7842,10,,429401,10,,51.67487100000000,254486,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.21651300000000,EN5 4RE,2014-07-08,fhrs_2_en-GB,2,,FHRS,15
-19392,,23-25,High Road,Bushey                                  Watford,The Kanteen,Restaurant/Cafe/Canteen,1,5,,434666,10,,51.63443500000000,257170,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34248700000000,WD23 1EE,2014-03-06,fhrs_4_en-GB,4,,FHRS,5
-19393,,14,High Road,Bushey                                  Watford,The Kelman Deli,Other catering premises,7841,10,,543156,10,,51.63618600000000,259516,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34425800000000,WD23 1GG,2014-03-20,fhrs_2_en-GB,2,,FHRS,15
-19394,,Meadow Park,Broughinge Road,Borehamwood                             Hertfordshire,The Lunch Box at Borehamwood Football Club,Restaurant/Cafe/Canteen,1,10,,682867,10,,51.66212900000000,259793,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27372200000000,WD6 5AL,2014-05-18,fhrs_4_en-GB,4,,FHRS,0
-19395,,114,Manor Way,Borehamwood                             Hertfordshire,The Manor Cafe,Restaurant/Cafe/Canteen,1,5,,429391,5,,51.65180400000000,251285,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26135000000000,WD6 1QX,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-19396,,,Crossoaks Lane,Ridge                                   Potters Bar                             Hertfordshire,The Old Guinea,Pub/bar/nightclub,7843,10,,429285,5,,51.68850200000000,204547,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.24630100000000,EN6 3LH,2013-11-15,fhrs_4_en-GB,4,,FHRS,5
-19397,Wyllyotts Place,Off Darkes Lane,Wyllyotts Place,Potters Bar                             Hertfordshire,The Old Manor,Pub/bar/nightclub,7843,5,,429291,5,,51.69669700000000,206496,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19374700000000,EN6 2JD,2013-07-03,fhrs_5_en-GB,5,,FHRS,0
-19398,,11,Mandeville Road,Potters Bar                             Hertfordshire,The Peking Wrap Ltd,Restaurant/Cafe/Canteen,1,,,714768,,,51.69386800000000,213642,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17302400000000,EN6 5LG,2014-10-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-19399,78-80,,Watling Street,Radlett                                 Hertfordshire,The Red Lion Hotel,Hotel/bed & breakfast/guest house,7842,5,,429365,10,,51.68533900000000,239324,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31846600000000,WD7 7NP,2014-02-19,fhrs_4_en-GB,4,,FHRS,5
-19400,,,Round Bush Lane,Aldenham                                Watford,The Roundbush Public House,Pub/bar/nightclub,7843,20,,429355,15,,51.67292000000000,235765,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34560900000000,WD25 8BG,2014-05-22,fhrs_0_en-GB,0,,FHRS,20
-19401,,10/10A,High Street,Potters Bar                             Hertfordshire,The Royal Elephant,Restaurant/Cafe/Canteen,1,5,,516004,10,,51.69302100000000,3209,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17871600000000,EN6 5AF,2014-03-13,fhrs_3_en-GB,3,,FHRS,10
-19402,,49,Darkes Lane,Potters Bar                             Hertfordshire,The Sandwich And Buffet Company,Takeaway/sandwich shop,7844,20,,515994,15,,51.69778700000000,210948,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19091100000000,EN6 1BJ,2013-11-06,fhrs_1_en-GB,1,,FHRS,15
-19403,,,St. Albans Road,Barnet                                  Herts,The Shire London,Restaurant/Cafe/Canteen,1,10,,699262,10,,51.67487100000000,257626,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.21651300000000,EN5 4RE,2014-08-12,fhrs_3_en-GB,3,,FHRS,5
-19404,,25,Park Road,Bushey                                  Watford,The Swan Public House,Pub/bar/nightclub,7843,5,,434653,5,,51.64579000000000,230098,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36415800000000,WD23 3EE,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-19405,,,Wyllyotts Place,Potters Bar                             Hertfordshire,The Theatre Cafe/Wyllyotts Centre,Restaurant/Cafe/Canteen,1,10,,429500,10,,51.69669700000000,2747,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19374700000000,EN6 2JD,2014-02-27,fhrs_3_en-GB,3,,FHRS,5
-19406,,,Pegmire Lane,Aldenham                                Watford,The Three Compasses,Pub/bar/nightclub,7843,20,,429354,10,,51.66610600000000,235688,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35148200000000,WD25 8DR,2014-02-06,fhrs_1_en-GB,1,,FHRS,5
-19407,,37,London Road,Shenley                                 Radlett                                 Hertfordshire,The White Horse,Pub/bar/nightclub,7843,0,,429504,5,,51.68908000000000,3137,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27932300000000,WD7 9ER,2014-04-24,fhrs_5_en-GB,5,,FHRS,0
-19408,Thai Star,133-135,Shenley Road,Borehamwood                             Hertfordshire,The Wishing Well,Pub/bar/nightclub,7843,5,,515997,5,,51.65696300000000,2150,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27401900000000,WD6 1AH,2014-02-12,fhrs_5_en-GB,5,,FHRS,5
-19409,,24,Theobald Street,Borehamwood                             Hertfordshire,Theobald Cottage Chinese T Away,Takeaway/sandwich shop,7844,10,,429386,15,,51.65552800000000,246299,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28042000000000,WD6 4SE,2013-05-09,fhrs_2_en-GB,2,,FHRS,10
-19410,,,High Road,Bushey                                  Watford,Three Crowns,Pub/bar/nightclub,7843,10,,429352,15,,51.63658300000000,233426,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34626700000000,WD23 1EA,2013-08-08,fhrs_2_en-GB,2,,FHRS,10
-19411,,,The Green,Letchmore Heath                         Watford,Three Horseshoes Public House,Pub/bar/nightclub,7843,20,,664350,10,,51.66709900000000,236836,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.33649400000000,WD25 8ER,2014-04-16,fhrs_1_en-GB,1,,FHRS,10
-19412,,335,Watling Street,Radlett                                 Hertfordshire,Tims Table Limited,Restaurant/Cafe/Canteen,1,10,,429364,10,,51.68284700000000,238676,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31647500000000,WD7 7LB,2014-02-19,fhrs_3_en-GB,3,,FHRS,10
-19413,,,Studio Way,Borehamwood,Toby Carvery,Restaurant/Cafe/Canteen,1,0,,429396,5,,51.66281100000000,253496,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.26204200000000,WD6 5JY,2014-02-17,fhrs_5_en-GB,5,,FHRS,5
-19414,,,Hartspring Lane,Watford,Toby Carvery,Restaurant/Cafe/Canteen,1,5,,429344,5,,51.66677200000000,232290,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36182600000000,WD25 8AD,2014-06-30,fhrs_5_en-GB,5,,FHRS,0
-19415,,19,Andrew Close,Shenley                                 Herts,Top Wok,Takeaway/sandwich shop,7844,5,,429518,10,,51.69430900000000,4080,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28520200000000,WD7 9LP,2014-09-05,fhrs_4_en-GB,4,,FHRS,0
-19416,Saffron Green School,,Nicoll Way,Borehamwood                             Hertfordshire,Topkidz AT borehamwood,Restaurant/Cafe/Canteen,1,10,,699264,5,,51.65089300000000,259366,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25268200000000,WD6 2PP,2014-07-11,fhrs_4_en-GB,4,,FHRS,0
-19417,,3-5,Allum Lane,Elstree                                 Borehamwood                             Hertfordshire,Total Elstree PFS,Restaurant/Cafe/Canteen,1,,,429483,,,51.65305900000000,258688,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28068700000000,WD6 3LS,2011-12-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-19418,,,Elstree Way,Elstree                                 Borehamwood                             Hertfordshire,Travelodge,Hotel/bed & breakfast/guest house,7842,20,,434670,15,,51.66082900000000,257602,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.30357000000000,WD6 3AA,2014-02-24,fhrs_1_en-GB,1,,FHRS,5
-19419,,29,Harcourt Road,Bushey                                  Bushey,Triangle Healthcare (uk) Ltd,Retailers - other,4613,,,664349,,,51.64833100000000,230800,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.35550900000000,WD23 3PP,2014-03-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-19420,,12,Leeming Road,Borehamwood                             Hertfordshire,Tudor Diner,Restaurant/Cafe/Canteen,1,20,,429370,15,,51.66236400000000,241423,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28736700000000,WD6 4DQ,2014-02-14,fhrs_1_en-GB,1,,FHRS,5
-19421,,183,Watling Street,Radlett                                 Hertfordshire,Va Pensiero,Restaurant/Cafe/Canteen,1,5,,434645,10,,51.68777000000000,201616,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31930200000000,WD7 7NQ,2014-10-29,fhrs_4_en-GB,4,,FHRS,5
-19422,Phase 650,Centennial Park,Centennial Avenue,Elstree,Village Hotel & Leisure Complex,Hotel/bed & breakfast/guest house,7842,10,,429428,10,,51.63932400000000,257093,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.30886700000000,WD6 3SB,2014-04-10,fhrs_3_en-GB,3,,FHRS,5
-19423,,44,Shenley Road,Borehamwood                             Hertfordshire,VSP Wines,Retailers - other,4613,,,699267,,,51.65441500000000,259634,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27809200000000,WD6 1DR,2014-07-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-19424,,108,High Road,Bushey                                  Watford,Waffle House,Restaurant/Cafe/Canteen,1,20,,682868,10,,51.63516500000000,259804,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34259000000000,WD23 1GE,2014-06-02,fhrs_1_en-GB,1,,FHRS,15
-19425,,,Watling Street,Elstree                                 Borehamwood                             Hertfordshire,Waggon & Horses Public House,Pub/bar/nightclub,7843,20,,429368,20,,51.66082900000000,240050,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.30357000000000,WD6 3AA,2014-02-18,fhrs_0_en-GB,0,,FHRS,15
-19426,,,Bignells Corner,South Mimms                             Potters Bar                             Hertfordshire,Welcome Break Truckstop,Restaurant/Cafe/Canteen,1,10,,429286,15,,51.68747600000000,204580,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.22173200000000,EN6 3QQ,2014-02-26,fhrs_2_en-GB,2,,FHRS,5
-19427,,3,Southgate Road,Potters Bar                             Hertfordshire,Welfare Ltd,Retailers - other,4613,,,515995,,,51.69177100000000,212868,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17808600000000,EN6 5DR,2013-02-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-19428,,291,Watling Street,Radlett                                 Hertfordshire,Wenzels,Retailers - other,4613,5,,434676,10,,51.68378100000000,258260,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31701900000000,WD7 7LA,2014-02-18,fhrs_4_en-GB,4,,FHRS,5
-19429,,76,High Road,Bushey                                  Watford,Wenzels the Bakers,Retailers - other,4613,5,,699270,10,,51.63516500000000,259848,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.34259000000000,WD23 1GE,2014-07-23,fhrs_4_en-GB,4,,FHRS,5
-19430,Welcome Break,,Swanland Road,South Mimms                             Potters Bar                             Hertfordshire,WH Smith,Retailers - other,4613,,,429450,,,51.68924600000000,257643,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.22403600000000,EN6 3NE,2012-05-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-19431,,,St. Albans Road,South Mimms                             Potters Bar                             Hertfordshire,White Hart Public House,Pub/bar/nightclub,7843,5,,485512,10,,51.69797500000000,204937,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.23521200000000,EN6 3PJ,2014-07-03,fhrs_3_en-GB,3,,FHRS,10
-19432,Clarendon Filling Station,,Elstree Way,Borehamwood                             Hertfordshire,Wild Bean Cafe BP Express Shopping Ltd,Restaurant/Cafe/Canteen,1,0,,429452,5,,51.65969300000000,257683,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.25552500000000,WD6 1SD,2014-02-12,fhrs_5_en-GB,5,,FHRS,0
-19433,Willows Farm Village,,Coursers Road,Colney Heath                            St. Albans                              Hertfordshire,Willows Farm - Woolly Jumpers,Restaurant/Cafe/Canteen,1,10,,429438,10,,51.72195200000000,257323,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28159300000000,AL2 1BB,2014-08-20,fhrs_4_en-GB,4,,FHRS,0
-19434,,,Coursers Road,Colney Heath                            St. Albans                              Hertfordshire,Willows Farm Village Restaurant,Restaurant/Cafe/Canteen,1,5,,664361,5,,51.72195200000000,3598,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.28159300000000,AL2 1BB,2011-05-28,fhrs_5_en-GB,5,,FHRS,5
-19435,,9            Furzehill Parade,Shenley Road,Borehamwood                             Hertfordshire,Wimpy Restaurant,Restaurant/Cafe/Canteen,1,5,,434659,10,,51.65538700000000,245700,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27629100000000,WD6 1DX,2014-02-13,fhrs_4_en-GB,4,,FHRS,5
-19436,,107,High Road,Bushey                                  Watford,Windmill Harvester Restaurant,Restaurant/Cafe/Canteen,1,5,,429356,10,,51.63169600000000,235847,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.33831000000000,WD23 1JD,2014-02-26,fhrs_4_en-GB,4,,FHRS,5
-19437,,20           The Broadway,Mutton Lane,Potters Bar                             Hertfordshire,Wok You Like,Takeaway/sandwich shop,7844,10,,434646,10,,51.69548600000000,207406,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.19391100000000,EN6 2HT,2014-03-03,fhrs_3_en-GB,3,,FHRS,10
-19438,,27-29,High Street,Potters Bar,Wood Oven BBQ Dicle Restaurant,Restaurant/Cafe/Canteen,1,30,,485518,15,,51.69366200000000,259315,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.17770600000000,EN6 5AJ,2014-01-02,fhrs_0_en-GB,0,,FHRS,10
-19439,,343,Watling Street,Radlett                                 Hertfordshire,Yummies,Takeaway/sandwich shop,7844,0,,429363,0,,51.68284700000000,238399,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.31647500000000,WD7 7LB,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-19440,,27,High Street,Bushey                                  Watford,Zaza,Restaurant/Cafe/Canteen,1,5,,429464,10,,51.64477100000000,257974,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36652200000000,WD23 1BD,2013-10-03,fhrs_4_en-GB,4,,FHRS,5
-19441,191-195,,Shenley Road,Borehamwood                             Hertfordshire,Zevi Restaurant,Restaurant/Cafe/Canteen,1,20,,429491,10,,51.65745000000000,258920,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27290200000000,WD6 1AW,2014-09-03,fhrs_1_en-GB,1,,FHRS,5
-19442,,17-21,Shenley Road,Borehamwood                             Hertfordshire,Zinco Restaurant,Restaurant/Cafe/Canteen,1,5,,429406,10,,51.65452700000000,256587,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.27895500000000,WD6 1AD,2014-02-12,fhrs_4_en-GB,4,,FHRS,5
-19443,98-100,100,High Street,Bushey                                  Bushey,Zins Palace,Restaurant/Cafe/Canteen,1,5,,434652,10,,51.64468400000000,229909,158,environmental.health@hertsmere.gov.uk,Hertsmere,http://www.hertsmere.gov.uk,-0.36415400000000,WD23 3DE,2014-03-06,fhrs_3_en-GB,3,,FHRS,10
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+19121,3 Greens Restaurant,4,0,10,0,2013-01-30,51.654261,-0.324011
+19122,A1 Shooting Ground,5,5,5,5,2014-02-12,51.8400497437,-0.275104999542
+19123,Aberford Park Cafe,2,5,15,10,2013-09-27,51.66083,-0.278297
+19124,Activ Instinct Ltd,Exempt,nan,nan,nan,2011-11-24,51.656436,-0.258425
+19125,Akash Tandoori,2,15,15,10,2013-10-28,51.68777,-0.319302
+19126,Aldenham Golf & Country Club,5,5,5,5,2014-02-24,51.672074,-0.355807
+19127,Alpine Restaurant,4,10,5,5,2014-10-28,51.631236,-0.33691
+19128,Aroma,3,5,10,10,2014-03-05,51.679901,-0.331194
+19129,Arundel Club,Exempt,nan,nan,nan,2014-07-23,51.650677,-0.259962
+19130,Atlantis Fish Bar,1,10,10,20,2014-03-31,51.682847,-0.316475
+19131,Bargain Booze,Exempt,nan,nan,nan,2014-03-11,51.700995,-0.208974
+19132,Battleaxes Public House,4,10,5,5,2013-04-05,51.660513,-0.313529
+19133,BBQ Shack,5,5,5,5,2014-08-13,51.781665,-0.282543
+19134,Bhanthai Cafe and Restaurant,0,20,15,20,2013-11-25,51.695401,-0.19309
+19135,Bills Plaice,4,5,5,10,2014-07-22,51.651804,-0.26135
+19136,Bistro the Walk,4,5,5,10,2014-12-10,51.69546,-0.177113
+19137,Black Horse,1,15,15,20,2013-11-20,51.699144,-0.235181
+19138,Black Lion Public House,1,5,15,20,2014-03-13,51.693278,-0.281696
+19139,Blue Check,3,10,10,10,2014-04-25,51.643584,-0.360682
+19140,Bonnys Cafe,3,10,10,10,2014-09-19,51.645165,-0.367042
+19141,Boots The Chemist,Exempt,nan,nan,nan,2014-03-13,51.682802,-0.316463
+19142,Borehamwood Kosher Deli,5,5,5,5,2013-07-25,51.655216,-0.277512
+19143,Borehamwood Tandoori Restaurant,2,5,15,10,2014-02-13,51.668335,-0.283001
+19144,BP South Mimms Motorway Service Area Connect,5,0,0,0,2014-07-22,51.687476,-0.221732
+19145,Brays,Exempt,nan,nan,nan,2014-09-02,51.694437,-0.177834
+19146,Broadway Food and Wine,Exempt,nan,nan,nan,2012-10-10,51.69579,-0.192626
+19147,Budget Express,Exempt,nan,nan,nan,2013-08-21,51.651804,-0.26135
+19148,Buffet Palace,4,0,10,5,2014-10-30,51.693662,-0.177706
+19149,Burger King,3,5,10,10,2014-03-11,51.687476,-0.221732
+19150,Bushey Fish Bar,3,5,10,10,2013-06-21,51.637829,-0.351077
+19151,Bushey Golf And Country Club,2,10,15,10,2013-07-18,51.644258,-0.365225
+19152,Bushey Grove Leisure Centre,5,5,5,5,2014-02-20,51.655589,-0.373665
+19153,Bushey Hall Golf Club,5,5,5,5,2013-11-29,51.655362,-0.375494
+19154,Cafe / Brunch,1,5,15,20,2014-04-17,51.691009,-0.178275
+19155,Cafe 24,1,10,20,20,2014-03-03,51.700995,-0.208974
+19156,Cafe Bukushi,1,15,15,20,2014-12-02,51.68498,-0.317857
+19157,Cafe Larsa,2,5,15,10,2014-02-25,51.696779,-0.191458
+19158,Cafe One,2,15,15,10,2014-06-05,51.694318,-0.177072
+19159,Cafe Shanklin,0,15,20,20,2013-11-28,51.705996,-0.204941
+19160,Caffe Nero,5,0,5,5,2013-05-30,51.656178,-0.275668
+19161,Caffe Nero,4,10,5,5,2013-04-22,51.685339,-0.318466
+19162,Cat And Fiddle Public House,3,10,5,10,2013-05-15,51.676539,-0.314279
+19163,Cheeky Monkeys,1,5,10,20,2014-10-28,51.65945,-0.267635
+19164,ChiKayan,3,5,10,10,2013-11-14,51.634435,-0.342487
+19165,Chilli and Herbs,1,15,15,20,2014-03-28,51.669264,-0.290616
+19166,Chilli Raj,1,10,15,20,2014-07-24,51.695676,-0.193426
+19167,China House,1,10,15,20,2014-02-12,51.644806,-0.365147
+19168,Chuggs,1,5,10,20,2013-04-10,51.696779,-0.191458
+19169,Chungs Garden,2,5,15,10,2013-05-15,51.63284,-0.340349
+19170,Coombs Catering,5,5,5,5,2013-08-15,51.658213,-0.267885
+19171,Costa,2,15,10,10,2013-10-31,51.683147,-0.317347
+19172,Costa Coffee,3,10,5,10,2014-03-31,51.656766,-0.277771
+19173,Costa Coffee,4,5,10,5,2014-02-25,51.697787,-0.190911
+19174,Costa Coffee,4,10,5,5,2014-02-25,51.69401,-0.181613
+19175,Costa Ltd,5,0,5,0,2012-12-04,51.658213,-0.26975
+19176,Costco Cafe/Deli,5,5,5,5,2014-03-18,51.663671,-0.361287
+19177,Cravin Espresso Bar,5,0,5,5,2014-02-14,51.653059,-0.280687
+19178,Curley Tails,5,0,0,5,2014-08-20,51.781665,-0.282543
+19179,Curry Garden,1,15,15,20,2014-10-22,51.697245,-0.175044
+19180,Dame Alice Owen Sch - Seasonal Facility,1,10,10,20,2014-09-20,51.690789,-0.207206
+19181,David Lloyd Leisure Centre,4,5,10,5,2014-04-10,51.663259,-0.365264
+19182,Dawn to Dusk,Exempt,nan,nan,nan,2012-06-12,51.6655,-0.372529
+19183,Deli Cafe Heath,5,0,5,5,2014-05-07,51.635165,-0.34259
+19184,Dino-Bites,2,5,15,10,2014-07-24,51.654359,-0.245133
+19185,Divan,2,5,15,10,2013-11-04,51.654006,-0.279032
+19186,Dominos Pizza,4,0,5,10,2013-11-11,51.696779,-0.191458
+19187,Dominos Pizza,5,5,0,5,2013-11-26,51.657877,-0.271932
+19188,Dominos Pizza,5,0,5,0,2014-08-12,51.634435,-0.342487
+19189,Dragon Garden,3,10,10,5,2014-02-13,51.657173,-0.272363
+19190,Duke of York,4,0,10,5,2014-03-10,51.681048,-0.186559
+19191,Durans Bistro,1,0,20,20,2014-06-04,51.644684,-0.364154
+19192,Dynasty,3,10,10,10,2014-11-19,51.652209,-0.254135
+19193,Dyrham Park Country Club,2,15,10,10,2013-10-16,51.670139,-0.236049
+19194,Eastern Brasserie,1,10,10,20,2014-07-15,51.643391,-0.299119
+19195,Eat In,3,5,10,10,2014-03-11,51.687476,-0.221732
+19196,Eat-Well Diner  Ltd,0,20,15,20,2014-05-14,51.649519,-0.379519
+19197,Eddys Fish and Chips,1,0,15,20,2013-10-24,51.691009,-0.178275
+19198,Elm Court Youth Centre,Exempt,nan,nan,nan,2014-03-11,51.699307,-0.200893
+19199,Elstree Film Studios Restaurant and Coffee Shop,3,10,10,5,2013-12-16,51.658946,-0.256681
+19200,Elstree House Cafe,1,10,10,20,2014-04-17,51.659693,-0.255525
+19201,Elstree Lawn Tennis Club,Exempt,nan,nan,nan,2011-08-23,51.663894,-0.329223
+19202,Eshatandoori UK Ltd,3,5,10,10,2014-03-05,51.700995,-0.208974
+19203,Farmyard Funworld,5,5,0,5,2014-12-08,51.659009,-0.372617
+19204,Favourite Fried Chicken,1,5,10,20,2014-03-03,51.693602,-0.178475
+19205,Fiesta,1,10,15,20,2013-11-07,51.656151,-0.274455
+19206,Fish N Chips,3,10,10,10,2014-07-02,51.648331,-0.355509
+19207,Fishery Inn,2,15,10,10,2014-07-09,51.643683,-0.308069
+19208,Follys,3,10,10,10,2014-06-06,51.658117,-0.258376
+19209,Fratelli Cafe,1,10,15,20,2014-04-10,51.654991,-0.384442
+19210,Fruit and Veg,Exempt,nan,nan,nan,2014-09-02,51.658213,-0.26975
+19211,G.T Snacks,5,5,5,5,2013-04-05,,
+19212,Gala Club,4,5,10,5,2013-11-22,51.655143,-0.274985
+19213,Gold Stream,Exempt,nan,nan,nan,2011-10-29,51.781665,-0.282543
+19214,Golden Fry,1,10,15,20,2014-07-10,51.665724,-0.269912
+19215,Gourmet Burger Bar,1,15,15,20,2014-08-19,51.700995,-0.208974
+19216,Green Dragon,4,0,10,5,2014-02-17,51.667853,-0.282615
+19217,Greggs PLC,5,5,5,0,2014-08-13,51.656963,-0.274019
+19218,Grove End Hotel,5,5,5,5,2014-03-12,51.654169,-0.377676
+19219,H N News,Exempt,nan,nan,nan,2014-03-12,51.662344,-0.380334
+19220,Harringtons Fish Restaurant,1,5,10,20,2014-03-06,51.697787,-0.190911
+19221,Hart And Spool Public House,5,5,5,0,2014-02-12,51.657173,-0.272363
+19222,Hartsbourne Country Club,2,15,10,10,2014-09-08,51.629261,-0.349871
+19223,Heath Pharmacy,Exempt,nan,nan,nan,2012-07-30,51.635165,-0.34259
+19224,Helens Snacks,4,5,10,5,2014-02-17,,
+19225,Hilton National,4,5,10,5,2014-09-18,51.665344,-0.36062
+19226,HK Central,2,10,15,10,2013-10-16,51.655387,-0.276291
+19227,Holiday Inn Elstree,5,5,5,0,2014-11-19,51.8400497437,-0.275104999542
+19228,Horse and Chains,1,15,15,20,2014-11-04,51.641547,-0.359108
+19229,IBIS,4,5,5,10,2013-05-07,51.659815,-0.266147
+19230,Ikaron Snack Bar,1,5,15,20,2014-07-02,51.654261,-0.324011
+19231,Imperial China,3,5,10,10,2014-02-20,51.661848,-0.357579
+19232,India Garden Restaurant,1,15,15,20,2014-07-14,51.644806,-0.365147
+19233,Indian Royal,1,10,10,20,2013-05-16,51.685339,-0.318466
+19234,Isot Restaurant,1,0,15,20,2013-12-09,51.683781,-0.317019
+19235,Istanbul Kebab House,4,5,5,10,2014-12-01,51.694726,-0.176708
+19236,J K Catering,4,5,10,5,2014-08-13,51.638376,-0.306749
+19237,Jennys Restaurant,3,10,10,10,2014-03-14,51.656806,-0.273143
+19238,Johnnys Plaice,1,5,10,20,2014-09-03,51.668335,-0.283001
+19239,Kandy Food and Wine,3,5,10,10,2013-05-09,51.655186,-0.382931
+19240,Kentucky Fried Chicken,5,5,5,0,2013-08-08,51.687476,-0.221732
+19241,KFC,5,0,5,0,2012-07-11,51.65745,-0.272902
+19242,Kosk Restaurant,1,10,20,20,2013-12-05,51.655216,-0.277512
+19243,La Dolce Vita Cafe,2,0,15,10,2014-04-23,51.643807,-0.355413
+19244,Lakeside Snacks,5,5,0,5,2014-07-24,,
+19245,Laura Ashley the Manor Hotel,4,5,10,5,2014-02-18,51.639272,-0.289779
+19246,Lees Sandwedge Bar,4,0,5,10,2014-10-10,51.644257,-0.361915
+19247,Lets Meat,5,5,5,5,2013-09-02,51.654306,-0.279252
+19248,Livability,2,5,15,10,2014-10-27,51.653291,-0.272554
+19249,Lloyds Pharmacy,Exempt,nan,nan,nan,2014-03-18,51.695486,-0.193911
+19250,Lots Of Rice,3,10,10,5,2014-07-24,51.656806,-0.273143
+19251,Lous Catering,2,15,10,10,2014-07-07,,
+19252,Majestic Wine Warehouse,Exempt,nan,nan,nan,2012-07-11,51.631236,-0.33691
+19253,Malay Chinese,2,5,15,5,2014-02-13,51.654415,-0.278092
+19254,Mamozin Pizza and Kebabs,1,15,15,20,2013-07-18,51.68498,-0.317857
+19255,Manor Pharmacy,Exempt,nan,nan,nan,2014-03-13,51.682802,-0.316463
+19256,Manor Way Post Office,Exempt,nan,nan,nan,2012-09-12,51.651273,-0.261341
+19257,Martin McColl,Exempt,nan,nan,nan,2011-06-07,51.665724,-0.269912
+19258,Martins,Exempt,nan,nan,nan,2012-11-12,51.667853,-0.282615
+19259,McDonalds,5,0,0,0,2013-01-14,51.659516,-0.351562
+19260,McDonalds,5,0,5,0,2012-06-25,51.658883,-0.27065
+19261,McDonalds,5,5,5,0,2014-02-27,51.696779,-0.191458
+19262,McDonalds,2,5,15,10,2014-09-03,51.71679,-0.278503
+19263,MEC Snack Bar,1,5,15,20,2014-03-04,,
+19264,Megabites Catering,2,5,15,10,2014-06-02,,
+19265,Mercure London Watford Hotel,4,5,10,5,2013-07-31,51.655625,-0.345979
+19266,Meze Grill,3,5,10,10,2014-01-02,51.68498,-0.317857
+19267,Michaels Fish & Grill,1,5,10,20,2014-03-06,51.644257,-0.361915
+19268,Millys the Bakers Ltd,3,10,10,10,2014-08-26,51.657173,-0.272363
+19269,Mirzan Restaurant,4,0,10,10,2013-11-12,51.667959,-0.283753
+19270,Mops & Brooms,3,10,10,5,2013-07-23,51.66664,-0.25465
+19271,Morrisons Customer Restaurant,5,0,0,0,2013-09-25,51.646072,-0.25385
+19272,Nandos Chickenland Ltd,5,5,5,5,2014-03-14,51.656178,-0.275668
+19273,Nanny Annies,1,5,15,20,2014-04-09,51.642604,-0.330713
+19274,New China City,3,10,10,10,2013-06-12,51.691679,-0.179146
+19275,New Lantern House,3,5,10,10,2014-07-23,51.661037,-0.268587
+19276,New Zeera,1,15,15,20,2013-11-26,51.691679,-0.179146
+19277,Nisa Local,3,5,10,10,2013-08-13,51.651804,-0.26135
+19278,Normans Diner,0,15,20,30,2014-10-14,51.698778,-0.174765
+19279,North Bushey  News,Exempt,nan,nan,nan,2013-09-20,51.665452,-0.371634
+19280,Noshers,3,5,10,10,2013-11-05,51.682847,-0.316475
+19281,Oakmere House,5,0,5,0,2014-07-23,51.696886,-0.174509
+19282,Oakmere Tea & Dining Room,1,5,10,20,2014-05-08,51.69546,-0.177113
+19283,Olivios,3,10,10,10,2013-06-14,51.635165,-0.34259
+19284,Open Door Cafe,5,0,5,5,2014-09-04,51.698988,-0.202411
+19285,Orchard Tea Rooms,5,0,0,0,2014-11-20,51.690727,-0.294249
+19286,Orli Bakery and Deli,4,0,10,10,2013-10-08,51.655216,-0.277512
+19287,Osteria  Dante,4,10,5,5,2013-04-04,51.699035,-0.190774
+19288,Otterspool Snacks,3,10,10,5,2014-04-10,,
+19289,Pangs Cottage,0,5,20,30,2014-06-04,51.654415,-0.278092
+19290,Papa Johns,1,10,5,20,2014-03-03,51.695676,-0.193426
+19291,Papa Johns Pizza,3,5,10,10,2014-03-19,51.656963,-0.274019
+19292,Parents Paradise Ltd,5,0,5,0,2014-07-23,51.656855,-0.385301
+19293,Pasalet Cafeteria,2,10,15,10,2013-04-24,51.698298,-0.191383
+19294,Patchetts Equestrian Centre (clubhouse),3,10,10,10,2013-06-05,51.665668,-0.354217
+19295,Paulas,4,0,5,10,2014-07-24,51.656766,-0.277771
+19296,PAYA,1,15,15,20,2014-11-12,51.68498,-0.317857
+19297,Peri Peri Original,0,20,20,20,2013-12-09,51.654415,-0.278092
+19298,Phoenix Community Centre,Exempt,nan,nan,nan,2014-03-12,51.650157,-0.353622
+19299,Picnics,3,5,10,10,2013-04-04,51.645165,-0.367042
+19300,Pizza Choice and Best Kebabs,1,10,15,20,2014-10-17,51.654306,-0.279252
+19301,Pizza Express,5,5,5,5,2014-02-18,51.683989,-0.317749
+19302,Pizza Go Go,4,0,5,10,2013-11-12,51.694726,-0.176708
+19303,Pizza Hut,5,5,5,0,2014-08-28,51.634435,-0.342487
+19304,Pizza Hut (uk) Ltd,5,5,5,0,2014-09-04,51.654415,-0.278092
+19305,Porters Park Golf Club,4,5,5,10,2013-05-07,51.687921,-0.309126
+19306,Potters Bar Cafe,4,0,10,5,2013-10-08,51.691679,-0.179146
+19307,Potters Bar Fisn N Chip,5,5,5,5,2014-01-30,51.69579,-0.192626
+19308,Potters Bar Golf Club,1,5,10,20,2014-02-25,51.700607,-0.190697
+19309,Potters Bar Kebab,1,5,15,20,2014-08-27,51.695401,-0.19309
+19310,Potters Pantry,3,10,10,10,2013-12-13,51.694437,-0.177834
+19311,Potty Pancakes,5,0,0,0,2014-10-13,51.691517,-0.178559
+19312,Premier Travel Inn,4,5,10,0,2013-11-07,51.657512,-0.255811
+19313,Premier Travel Inn,5,0,5,0,2014-11-27,51.690335,-0.224673
+19314,Prezzo PLC,3,10,5,10,2013-05-08,51.683989,-0.317749
+19315,Pubali Indian Restaurant,4,5,10,5,2013-09-23,51.69546,-0.177113
+19316,Questmoor,Exempt,nan,nan,nan,2014-03-18,51.69546,-0.177113
+19317,Qzeen,3,10,10,10,2013-11-13,51.644771,-0.366522
+19318,R&R Stores,4,5,10,5,2014-03-04,51.644806,-0.365147
+19319,Radlett Cafe,3,5,10,10,2013-10-08,51.685339,-0.318466
+19320,Radlett Centre,2,5,15,10,2013-11-19,51.682042,-0.317388
+19321,Radlett Park Golf Club,5,0,5,5,2013-12-05,51.660829,-0.30357
+19322,Radlett Service Station,Exempt,nan,nan,nan,2014-03-13,51.8400497437,-0.275104999542
+19323,Raj Garden,4,5,10,5,2014-03-12,51.662344,-0.380334
+19324,Red Lion,5,0,5,5,2014-01-08,51.645075,-0.366381
+19325,Reel Cinema,Exempt,nan,nan,nan,2014-03-17,51.655143,-0.274985
+19326,Regency Chinese Restaurant,3,10,10,10,2013-07-24,51.692245,-0.179702
+19327,Rontec Watford Ltd,Exempt,nan,nan,nan,2014-07-23,51.653136,-0.279774
+19328,Rosewood Stores,5,0,5,5,2013-08-20,51.649519,-0.379519
+19329,Royal Chicken N Pizza Express,1,15,15,20,2014-02-19,51.695097,-0.19316
+19330,Royal News,Exempt,nan,nan,nan,2014-09-02,51.698479,-0.190334
+19331,RSPCA - Cafe Ridge,4,10,5,5,2014-09-06,51.703244,-0.255022
+19332,Rubys Restaurant and Bar,5,0,5,5,2013-10-04,51.63284,-0.340349
+19333,Rudis Cafe Ltd,1,0,15,20,2014-04-22,51.692245,-0.179702
+19334,S and B Mini Market,Exempt,nan,nan,nan,2013-10-04,51.667499,-0.283018
+19335,Safedale Pharmacy,Exempt,nan,nan,nan,2014-03-20,51.667853,-0.282615
+19336,Saffron,1,10,10,20,2014-11-05,51.667499,-0.283018
+19337,Sakura,3,10,10,10,2014-06-05,51.648331,-0.355509
+19338,Sams Bakery,2,10,15,10,2014-09-02,51.665724,-0.269912
+19339,Sams Chicken,3,10,10,10,2013-06-10,51.655216,-0.277512
+19340,Sea Breeze,5,5,5,5,2014-09-03,51.655186,-0.382931
+19341,Seashell Fish Bar,4,5,10,5,2013-08-21,51.697245,-0.175044
+19342,Seawise,2,5,15,10,2014-02-28,51.698778,-0.174765
+19343,Shaad Indian Restaurant and Take Away,0,10,15,30,2014-03-18,51.693602,-0.178475
+19344,Shake A Shake,3,10,5,10,2014-03-03,51.648331,-0.355509
+19345,Shaketastic,5,5,0,0,2012-11-21,51.70001,-0.205091
+19346,ShakeTastic Ltd,3,10,10,10,2013-07-15,51.8400497437,-0.275104999542
+19347,Shell UK,Exempt,nan,nan,nan,2012-07-20,51.661848,-0.357579
+19348,Shenley Cricket Centre,4,0,5,10,2013-03-27,51.690727,-0.294249
+19349,Shenley News And Convenience Store,Exempt,nan,nan,nan,2014-03-14,51.654306,-0.279252
+19350,Shenley Sandwich Bar,4,5,10,5,2014-02-12,51.654527,-0.278955
+19351,Shimla Spice Bushey Ltd,0,15,15,30,2014-06-18,51.654991,-0.384442
+19352,Side Kicks,3,5,10,10,2014-02-20,51.662364,-0.287367
+19353,Side Kicks Cafe,3,5,10,10,2013-12-18,51.701306,-0.20695
+19354,Silver Jubilee,0,20,15,20,2014-03-13,51.697245,-0.175044
+19355,Simmons Bakers,5,5,5,0,2014-02-25,51.697787,-0.190911
+19356,Sonargaon Restaurant,4,10,5,5,2013-10-28,51.634435,-0.342487
+19357,South MMMs,1,0,10,20,2014-02-07,,
+19358,South Mymms Village Hall,Exempt,nan,nan,nan,2014-03-19,51.695442,-0.232981
+19359,Sparrows Newsagents,Exempt,nan,nan,nan,2013-10-18,51.637829,-0.351077
+19360,Spice Garden,5,0,5,5,2013-05-30,51.657877,-0.271932
+19361,St James Restaurant Ltd,2,5,15,10,2014-08-14,51.645165,-0.367042
+19362,St Pauls Lutheran Church,Exempt,nan,nan,nan,2011-09-13,51.647658,-0.26317
+19363,Staceys Tasty Snacks,3,10,10,5,2013-11-28,,
+19364,Starbucks,3,5,10,10,2014-03-14,51.639324,-0.308867
+19365,Starbucks,5,0,0,0,2012-08-30,51.689246,-0.224036
+19366,Starbucks Coffee Company,4,5,10,5,2014-02-11,51.703398,-0.464736
+19367,Starjumps Cafe,3,5,10,10,2014-03-31,51.651485,-0.275109
+19368,Strangeways Farm Tearoom/cafe,1,5,15,20,2014-01-03,51.669363,-0.244293
+19369,Studio Caffe,3,5,10,10,2014-11-03,51.659484,-0.259003
+19370,Subway,5,0,5,0,2014-12-08,51.696779,-0.191458
+19371,Subway Sandwich Shop,4,0,10,10,2014-01-24,51.656963,-0.274019
+19372,Surma,1,10,15,20,2014-11-18,51.665452,-0.371634
+19373,Taj Mahal Balti House,3,10,10,10,2014-03-05,51.678691,-0.331499
+19374,Taste of Villa,1,10,15,20,2014-01-15,51.651804,-0.26135
+19375,Tasty Kebab,1,5,15,20,2014-02-12,51.656806,-0.273143
+19376,Tavernaki,1,5,10,20,2014-03-18,51.691771,-0.178086
+19377,Tee Kay Enterprises Ltd,Exempt,nan,nan,nan,2014-03-13,51.665452,-0.371634
+19378,Thai Sunset,2,5,15,10,2014-03-04,51.644771,-0.366522
+19379,The Admiral Byng,5,5,5,5,2013-07-24,51.702886,-0.184437
+19380,The Bakers,1,15,10,20,2013-12-05,51.667853,-0.282615
+19381,The BECC Childrens Centre,2,5,15,10,2013-11-08,51.651485,-0.275109
+19382,The Bull Pen Tea Rooms,5,5,0,0,2014-07-22,51.673978,-0.330732
+19383,The Cafe,0,15,20,20,2013-11-12,51.695676,-0.193426
+19384,The Cafe (Borehamwood) Ltd,3,10,10,10,2014-11-05,51.65745,-0.272902
+19385,The Chequers,2,10,15,10,2013-12-02,51.70011,-0.164437
+19386,The Coffee Lounge,3,5,10,10,2014-08-21,51.697245,-0.175044
+19387,The Directors Arms,1,0,10,20,2014-05-06,51.649284,-0.258801
+19388,The East,2,10,15,10,2013-10-23,51.644135,-0.298904
+19389,The Frying Squad,5,0,5,0,2014-08-29,51.6655,-0.372529
+19390,The Golden Plaice,4,5,5,10,2013-06-06,51.656806,-0.273143
+19391,The Green Dragon,2,15,10,10,2014-07-08,51.674871,-0.216513
+19392,The Kanteen,4,5,10,5,2014-03-06,51.634435,-0.342487
+19393,The Kelman Deli,2,15,10,10,2014-03-20,51.636186,-0.344258
+19394,The Lunch Box at Borehamwood Football Club,4,0,10,10,2014-05-18,51.662129,-0.273722
+19395,The Manor Cafe,5,5,5,5,2014-02-18,51.651804,-0.26135
+19396,The Old Guinea,4,5,5,10,2013-11-15,51.688502,-0.246301
+19397,The Old Manor,5,0,5,5,2013-07-03,51.696697,-0.193747
+19398,The Peking Wrap Ltd,Exempt,nan,nan,nan,2014-10-23,51.693868,-0.173024
+19399,The Red Lion Hotel,4,5,10,5,2014-02-19,51.685339,-0.318466
+19400,The Roundbush Public House,0,20,15,20,2014-05-22,51.67292,-0.345609
+19401,The Royal Elephant,3,10,10,5,2014-03-13,51.693021,-0.178716
+19402,The Sandwich And Buffet Company,1,15,15,20,2013-11-06,51.697787,-0.190911
+19403,The Shire London,3,5,10,10,2014-08-12,51.674871,-0.216513
+19404,The Swan Public House,5,5,5,5,2014-03-04,51.64579,-0.364158
+19405,The Theatre Cafe/Wyllyotts Centre,3,5,10,10,2014-02-27,51.696697,-0.193747
+19406,The Three Compasses,1,5,10,20,2014-02-06,51.666106,-0.351482
+19407,The White Horse,5,0,5,0,2014-04-24,51.68908,-0.279323
+19408,The Wishing Well,5,5,5,5,2014-02-12,51.656963,-0.274019
+19409,Theobald Cottage Chinese T Away,2,10,15,10,2013-05-09,51.655528,-0.28042
+19410,Three Crowns,2,10,15,10,2013-08-08,51.636583,-0.346267
+19411,Three Horseshoes Public House,1,10,10,20,2014-04-16,51.667099,-0.336494
+19412,Tims Table Limited,3,10,10,10,2014-02-19,51.682847,-0.316475
+19413,Toby Carvery,5,5,5,0,2014-02-17,51.662811,-0.262042
+19414,Toby Carvery,5,0,5,5,2014-06-30,51.666772,-0.361826
+19415,Top Wok,4,0,10,5,2014-09-05,51.694309,-0.285202
+19416,Topkidz AT borehamwood,4,0,5,10,2014-07-11,51.650893,-0.252682
+19417,Total Elstree PFS,Exempt,nan,nan,nan,2011-12-12,51.653059,-0.280687
+19418,Travelodge,1,5,15,20,2014-02-24,51.660829,-0.30357
+19419,Triangle Healthcare (uk) Ltd,Exempt,nan,nan,nan,2014-03-12,51.648331,-0.355509
+19420,Tudor Diner,1,5,15,20,2014-02-14,51.662364,-0.287367
+19421,Va Pensiero,4,5,10,5,2014-10-29,51.68777,-0.319302
+19422,Village Hotel & Leisure Complex,3,5,10,10,2014-04-10,51.639324,-0.308867
+19423,VSP Wines,Exempt,nan,nan,nan,2014-07-23,51.654415,-0.278092
+19424,Waffle House,1,15,10,20,2014-06-02,51.635165,-0.34259
+19425,Waggon & Horses Public House,0,15,20,20,2014-02-18,51.660829,-0.30357
+19426,Welcome Break Truckstop,2,5,15,10,2014-02-26,51.687476,-0.221732
+19427,Welfare Ltd,Exempt,nan,nan,nan,2013-02-21,51.691771,-0.178086
+19428,Wenzels,4,5,10,5,2014-02-18,51.683781,-0.317019
+19429,Wenzels the Bakers,4,5,10,5,2014-07-23,51.635165,-0.34259
+19430,WH Smith,Exempt,nan,nan,nan,2012-05-14,51.689246,-0.224036
+19431,White Hart Public House,3,10,10,5,2014-07-03,51.697975,-0.235212
+19432,Wild Bean Cafe BP Express Shopping Ltd,5,0,5,0,2014-02-12,51.659693,-0.255525
+19433,Willows Farm - Woolly Jumpers,4,0,10,10,2014-08-20,51.721952,-0.281593
+19434,Willows Farm Village Restaurant,5,5,5,5,2011-05-28,51.721952,-0.281593
+19435,Wimpy Restaurant,4,5,10,5,2014-02-13,51.655387,-0.276291
+19436,Windmill Harvester Restaurant,4,5,10,5,2014-02-26,51.631696,-0.33831
+19437,Wok You Like,3,10,10,10,2014-03-03,51.695486,-0.193911
+19438,Wood Oven BBQ Dicle Restaurant,0,10,15,30,2014-01-02,51.693662,-0.177706
+19439,Yummies,5,5,0,0,2014-11-19,51.682847,-0.316475
+19440,Zaza,4,5,10,5,2013-10-03,51.644771,-0.366522
+19441,Zevi Restaurant,1,5,10,20,2014-09-03,51.65745,-0.272902
+19442,Zinco Restaurant,4,5,10,5,2014-02-12,51.654527,-0.278955
+19443,Zins Palace,3,10,10,5,2014-03-06,51.644684,-0.364154

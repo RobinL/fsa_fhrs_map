@@ -1,500 +1,500 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-408501,212 Ballynakilly Road,Cohannan,Coalisland,Tyrone,A45 FILLING STATION,Retailers - other,4613,5,,586455,5,,54.50021400000000,686,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.65865000000000,BT71 6HJ,2014-08-07,fhrs_5_en-GB,5,,FHRS,5
-408502,,,,,Abu Gourmet,Other catering premises,7841,5,,679345,0,,,6001,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-408503,18 Market Square,Drumcoo,Dungannon,Tyrone,AFRICAN ASIAN FOODS,Retailers - other,4613,10,,586251,5,,54.50444100000000,5420,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76876700000000,BT70 1AB,2014-11-25,fhrs_4_en-GB,4,,FHRS,5
-408504,17-19 Thomas Street,Drumcoo,Dungannon,Tyrone,AGE CARE DROP IN CENTRE,Retailers - other,4613,,,585956,,,54.50540800000000,1136,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77025000000000,BT70 1HN,2014-09-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-408505,2-4 Little Scotch Street,,Dungannon,Tyrone,Age Ni Day Centre,Restaurant/Cafe/Canteen,1,5,,585931,0,,54.50303400000000,1005,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77089300000000,BT70 1AP,2014-08-05,fhrs_5_en-GB,5,,FHRS,0
-408506,1 Barrack Street,Brackaville,Coalisland,Tyrone,ALI'S KEBAB,Takeaway/sandwich shop,7844,10,,586217,15,,54.54132300000000,5242,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70374900000000,BT71 4LS,2014-06-03,fhrs_2_en-GB,2,,FHRS,15
-408507,49 Main Street,Caledon,Caledon,Tyrone,ALLENS OF CALEDON - COFFEE SHOP,Restaurant/Cafe/Canteen,1,5,,586296,10,,54.35106300000000,5577,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83733900000000,BT68 4TZ,2014-09-26,fhrs_4_en-GB,4,,FHRS,5
-408508,135 Annagher Hill,Annagher Service Station,Coalisland,Tyrone,ANNAGHER SERVICE STATION,Retailers - other,4613,5,,586072,5,,54.54324400000000,370,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69277900000000,BT71 4NG,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-408509,2 Derrycoose Road,Derrycoose,Portadown,Armagh,ANNAGHMORE CASH STORES,Retailers - other,4613,5,,586457,0,,54.46519500000000,692,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.59704100000000,BT62 1LY,2013-08-12,fhrs_5_en-GB,5,,FHRS,0
-408510,Barrack Street,Coalisland,,Co Tyrone,ARDNASKEA COURT (CLANMIL HOUSING ASSOC),Other catering premises,7841,5,,586218,0,,54.54132300000000,5245,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70374900000000,BT71 4LS,2014-07-02,fhrs_5_en-GB,5,,FHRS,5
-408511,9 John Street,,Dungannon,Tyrone,ARGOS LTD,Retailers - other,4613,,,586108,,,54.50225000000000,4494,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77418900000000,BT70 1ES,2014-01-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-408512,50 Moor Road,Annaghmore,Coalisland,Tyrone,ASHBROOK CARE HOME,Hospitals/Childcare/Caring Premises,5,5,,586094,5,,54.52969600000000,4295,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.67374800000000,BT71 4QB,2014-07-08,fhrs_5_en-GB,5,,FHRS,5
-408513,54 Main Street,,Ballygawley,Co Tyrone,ASKINS BAR AND RESTAURANT,Restaurant/Cafe/Canteen,1,10,,585982,0,,54.46169000000000,157,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02829200000000,BT70 2HE,2013-11-14,fhrs_4_en-GB,4,,FHRS,5
-408514,6a Reenaderry Road,Aughamullan,Coalisland,Tyrone,AUGHAMULLAN POST OFFICE (VIVO),Retailers - other,4613,10,,585965,5,,54.53409100000000,1177,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.61935000000000,BT71 5DT,2013-11-04,fhrs_4_en-GB,4,,FHRS,5
-408515,Meals Kitchen,88 Coole Road,Coalisland,Co Tyrone,AUGHAMULLEN PRIMARY SCHOOL,School/college/university,7845,0,,585962,0,,54.54038300000000,1169,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.62511700000000,BT71 5DR,2014-12-04,fhrs_5_en-GB,5,,FHRS,0
-408516,17 Knockmany Road,Augher Central Primary School,Augher,Tyrone,AUGHER CENTRAL PRIMARY SCHOOL,School/college/university,7845,0,,586065,5,,54.43226000000000,36,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.13721200000000,BT77 0BE,2013-12-11,fhrs_5_en-GB,5,,FHRS,0
-408517,5 Crossowen Road,Augher Tenements,Augher,Tyrone,AUGHER STATION HOUSE,Restaurant/Cafe/Canteen,1,10,,586391,5,,54.42481800000000,5790,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.13552000000000,BT77 0AX,2014-06-03,fhrs_4_en-GB,4,,FHRS,5
-408518,23 Carnteel Road,Aughnacloy,,Co Tyrone,AUGHNACLOY COLLEGE,School/college/university,7845,0,,586474,0,,54.42053300000000,77,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.96749100000000,BT69 6DU,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-408519,Caledon Road,Aughnacloy,,Co. Tyrone,AUGHNACLOY FILLING STATION,Retailers - other,4613,10,,586462,10,,54.41264200000000,71,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97341900000000,BT69 6AL,2013-11-27,fhrs_4_en-GB,4,,FHRS,0
-408520,Unit 1,12b Carnteel Road,Aughnacloy,Co Tyrone,AUGHNACLOY PLAYGROUP,School/college/university,7845,5,,586191,5,,54.42053300000000,5176,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.96749100000000,BT69 6DU,2014-10-20,fhrs_5_en-GB,5,,FHRS,0
-408521,1 Carnteel Road,Glack,Aughnacloy,Tyrone,AUGHNACLOY REGIONAL PRIMARY SCHOOL,School/college/university,7845,5,,586471,0,,54.42053300000000,76,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.96749100000000,BT69 6DU,2014-01-22,fhrs_5_en-GB,5,,FHRS,0
-408522,95 Main Street,Ballygawley,Ballygawley,Tyrone,AUSTIN'S TAKEAWAY & SIT-IN,Restaurant/Cafe/Canteen,1,5,,586047,0,,54.46202800000000,3054,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02791400000000,BT70 2HD,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-408523,,,,,BAKEABITE,Other catering premises,7841,5,,586313,5,,,5612,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-08-27,fhrs_5_en-GB,5,,FHRS,5
-408524,Fairfield House,Playing Fields,Main Street,,BALLYGAWLEY EARLY YEARS,School/college/university,7845,0,,586204,0,,54.45676600000000,5199,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.03718200000000,BT70 2NN,2014-12-09,fhrs_5_en-GB,5,,FHRS,0
-408525,Coash Road,Ballynakilly,Dungannon,Tyrone,BALLYNAKELLY WORKING MENS CLUB,Retailers - other,4613,5,,586456,5,,54.51795200000000,690,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69093100000000,BT71 6JE,2012-07-23,fhrs_5_en-GB,5,,FHRS,5
-408526,Ballysaggart Business Pk,Ballygawley Road,Dungannon,Co Tyrone,BALLYSAGGART NURSERY,School/college/university,7845,0,,585998,0,,54.50412200000000,1867,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75960600000000,BT71 6DE,2015-01-06,fhrs_5_en-GB,5,,FHRS,0
-408527,9 Killyman Street,Moy,Moy,Tyrone,BALTICA FOOD SHOP,Retailers - other,4613,10,,586420,5,,54.44757400000000,5857,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69037200000000,BT71 7SJ,2013-05-22,fhrs_4_en-GB,4,,FHRS,5
-408528,32-34 Main Street,Fivemiletown,Fivemiletown,Co Tyrone,BEATTY'S SPAR,Retailers - other,4613,5,,586140,10,,54.37811000000000,4994,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31589500000000,BT75 0PG,2013-11-21,fhrs_4_en-GB,4,,FHRS,5
-408529,4 The Dye House,Linen Green,Moygashel,Co Tyrone,BEDECK RETAILERS,Restaurant/Cafe/Canteen,1,5,,586319,5,,54.48701500000000,5623,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75160700000000,BT71 7HB,2012-02-29,fhrs_5_en-GB,5,,FHRS,5
-408530,12 Ballygawley Road,Drumcoo,Dungannon,Tyrone,BEECHVIEW BEACON CENTRE,Other catering premises,7841,5,,586001,5,,54.50386100000000,194,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78074800000000,BT70 1EL,2014-01-14,fhrs_4_en-GB,4,,FHRS,10
-408531,,,,,Belissimo Cakes,Other catering premises,7841,10,,707523,5,,,6052,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-10-13,fhrs_4_en-GB,4,,FHRS,5
-408532,3 Drumgose Road,Benburb,Benburb,Tyrone,BENBURB COMMUNITY PLAYGROUP,School/college/university,7845,5,,586196,5,,54.42080900000000,5183,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.73836900000000,BT71 7JT,2014-09-02,fhrs_5_en-GB,5,,FHRS,0
-408533,10 Main Street,Benburb,Benburb,Tyrone,BENBURB CONFERENCE CENTRE,Hotel/bed & breakfast/guest house,7842,5,,586018,0,,54.41185700000000,237,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74311100000000,BT71 7LA,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-408534,61 Main Street,Benburb,Benburb,Tyrone,BENBURB VILLAGE STORES (SPAR),Retailers - other,4613,0,,586019,5,,54.41226000000000,239,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74650200000000,BT71 7LG,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-408535,4 Thomas Street,Drumcoo,Dungannon,Tyrone,BENGAL SPICE,Restaurant/Cafe/Canteen,1,,,586210,,,54.50593600000000,5224,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77003400000000,BT70 1HJ,2014-07-29,fhrs_4_en-GB,4,,FHRS,
-408536,73 Clarefield,Laghey,Dungannon,Tyrone,Betsy Belle Events,Retailers - other,4613,0,,679352,5,,54.49170500000000,6018,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69794300000000,BT71 6TQ,2014-06-13,fhrs_5_en-GB,5,,FHRS,0
-408537,14 William Street,Drumcoo,Dungannon,Tyrone,BIG MAC'S TAKEAWAY,Takeaway/sandwich shop,7844,5,,585959,5,,54.50371300000000,1160,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77321900000000,BT70 1DX,2014-09-19,fhrs_5_en-GB,5,,FHRS,5
-408538,30 Church Street,Drumcoo,Dungannon,Tyrone,Bintles Food Bar,Restaurant/Cafe/Canteen,1,5,,679356,10,,54.50365600000000,6023,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76939200000000,BT71 6AB,2014-06-02,fhrs_4_en-GB,4,,FHRS,5
-408539,19 Killyman Street,Moy,Moy,Tyrone,BISHOPS,Pub/bar/nightclub,7843,0,,586495,5,,54.44757400000000,852,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69037200000000,BT71 7SJ,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-408540,32 Dungannon Road,,Ballygawley,Tyrone,BLACK CAT RESTAURANT,Restaurant/Cafe/Canteen,1,10,,586422,5,,54.47070200000000,5859,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.00313800000000,BT70 2JU,2013-08-28,fhrs_3_en-GB,3,,FHRS,10
-408541,136 Old Caulfield Road,Lisnamonaghan,Dungannon,Tyrone,BLESSED PATRICK O'LOUGHRAN,School/college/university,7845,5,,586063,5,,54.50663800000000,3489,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.82988200000000,BT70 3NQ,2014-09-24,fhrs_5_en-GB,5,,FHRS,0
-408542,Blessingbourne Estate,Fivemiletown,,Co Tyrone,BLESSINGBOURNE COACH HOUSE,Other catering premises,7841,5,,586166,0,,54.38043600000000,5063,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31405500000000,BT75 0QS,2014-10-23,fhrs_5_en-GB,5,,FHRS,0
-408543,51 Main Street,Clogher,Clogher,Co. Tyrone,BOGUES BAR,Pub/bar/nightclub,7843,5,,586055,0,,54.41166200000000,329,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-408544,13 Market Square,Drumcoo,Dungannon,Tyrone,BOOTS THE CHEMIST,Retailers - other,4613,,,585934,,,54.50444100000000,1017,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76876700000000,BT70 1AB,2014-02-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-408545,Oaks Road,Drumcoo,Dungannon,Tyrone,BOOTS THE CHEMIST,Retailers - other,4613,,,586437,,,54.51144200000000,605,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76290500000000,BT71 4NA,2014-12-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-408546,241 Derryfubble Road,Benburb,Dungannon,Tyrone,BOTTLE OF BENBURB,Pub/bar/nightclub,7843,5,,586181,5,,54.41997300000000,5131,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74867000000000,BT71 7JS,2012-08-31,fhrs_5_en-GB,5,,FHRS,5
-408547,6a Quarry Lane,Drumcoo,Dungannon,Tyrone,BRAMLEY APPLE (MCGRATHS) BAKERY,Retailers - other,4613,10,,585938,5,,54.51287400000000,1051,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77828700000000,BT70 1HX,2013-10-29,fhrs_4_en-GB,4,,FHRS,5
-408548,,,,,BRANTRY CAKE COMPANY,Other catering premises,7841,10,,586347,0,,,5721,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2012-03-01,fhrs_4_en-GB,4,,FHRS,0
-408549,,,,,BRIAN O'NEILL,Mobile caterer,7846,5,,586096,5,,,4298,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-05-08,fhrs_5_en-GB,5,,FHRS,5
-408550,136 Mountjoy Road,Magheralamfield,Stewartstown,Tyrone,BROCAGH STORES VIVO,Retailers - other,4613,10,,586139,5,,54.55869800000000,4992,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.60598100000000,BT71 5DY,2014-01-28,fhrs_4_en-GB,4,,FHRS,5
-408551,Mountjoy Road,Brockagh,Coalisland,Co Tyrone,BROCKAGH PLAY GROUP,School/college/university,7845,0,,586198,0,,54.54961900000000,5188,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.61256600000000,BT71 5DX,2014-09-25,fhrs_5_en-GB,5,,FHRS,0
-408552,31 Mullaghteige Road,Dungannon,,Co Tyrone,BUSH PRIMARY SCHOOL,School/college/university,7845,0,,586086,0,,54.51922300000000,417,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.72744400000000,BT71 6QU,2014-11-17,fhrs_5_en-GB,5,,FHRS,0
-408553,3 Annaghmore Road,Annaghmore,Coalisland,Tyrone,BUSY KIDS DAYCARE LTD,School/college/university,7845,0,,586368,0,,54.53001500000000,5747,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.66116400000000,BT71 4QZ,2014-06-11,fhrs_5_en-GB,5,,FHRS,0
-408554,34 Main Street,Donaghmore,Donaghmore,Tyrone,BUTCHERY,Manufacturers/packers,7839,5,,586262,0,,54.53109400000000,550,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81254500000000,BT70 3EZ,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-408555,230 Ballygawley Road,Cabragh,Dungannon,Tyrone,CABRAGH FILLING STATION,Retailers - other,4613,5,,586032,0,,54.48814000000000,272,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.90463400000000,BT70 1TF,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-408556,22 Northland Row,Drumcoo,Dungannon,Tyrone,Cafe Halo Ltd,Restaurant/Cafe/Canteen,1,5,,702482,5,,54.50445800000000,6043,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76515400000000,BT71 6AP,2014-09-02,fhrs_5_en-GB,5,,FHRS,0
-408557,36 Scotch Street,Dungannon,Dungannon,Co Tyrone,CAFE LATTE,Restaurant/Cafe/Canteen,1,5,,586133,10,,54.50298800000000,4963,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77166600000000,BT70 1BD,2014-11-07,fhrs_4_en-GB,4,,FHRS,5
-408558,46 Killyman Road,Killymeal,Dungannon,Tyrone,CAFE LEGAL (DUNGANNON COURTHOUSE),Restaurant/Cafe/Canteen,1,5,,586102,0,,54.50412200000000,4415,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75960600000000,BT71 6DE,2014-03-27,fhrs_5_en-GB,5,,FHRS,0
-408559,12c Main Street,Caledon,Caledon,Tyrone,CAFE ROSE,Restaurant/Cafe/Canteen,1,5,,586056,5,,54.35106300000000,3327,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83733900000000,BT68 4TZ,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-408560,,,,,Cake That,Other catering premises,7841,5,,606709,5,,,5902,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-11-04,fhrs_5_en-GB,5,,FHRS,5
-408561,44 Main Street,Caledon,Caledon,Tyrone,CALEDON ARMS HOTEL,Hotel/bed & breakfast/guest house,7842,10,,586267,10,,54.35106300000000,5529,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83733900000000,BT68 4TZ,2013-10-30,fhrs_3_en-GB,3,,FHRS,10
-408562,13a Derrycourtney Road,Caledon,Caledon,Tyrone,CALEDON PLAYGROUP,School/college/university,7845,0,,586195,0,,54.35070700000000,5182,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83956400000000,BT68 4UF,2013-11-11,fhrs_5_en-GB,5,,FHRS,0
-408563,4 The Square,Coalisland,,Co Tyrone,CANAL END BAR,Pub/bar/nightclub,7843,10,,586131,5,,54.53964500000000,495,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70309100000000,BT71 4LN,2013-05-01,fhrs_3_en-GB,3,,FHRS,10
-408564,,,,,CANAVAN MEATS,Manufacturers/packers,7839,10,,586095,0,,,4296,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-04-12,fhrs_4_en-GB,4,,FHRS,0
-408565,85 Cunninghams Lane,Gortmerron,Dungannon,Tyrone,Cancer Choices,Retailers - other,4613,0,,655783,0,,54.49785100000000,5984,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75260400000000,BT71 6BX,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-408566,14 Scotch Street,Drumcoo,Dungannon,Tyrone,CANDY BOX,Retailers - other,4613,5,,585943,5,,54.50360100000000,1070,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77015000000000,BT70 1AR,2012-08-08,fhrs_5_en-GB,5,,FHRS,5
-408567,Unit E,Buttermarket Centre,Thomas Street,,CANO'S PIZZERIA ITALIAN RESTAURANT,Restaurant/Cafe/Canteen,1,5,,586513,10,,54.50554700000000,915,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76973700000000,BT70 1TX,2014-02-12,fhrs_4_en-GB,4,,FHRS,5
-408568,64 Scotch Street,Drumcoo,Dungannon,Tyrone,Carla Cafe,Restaurant/Cafe/Canteen,1,20,,586404,10,,54.50222400000000,5833,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77253800000000,BT70 1BJ,2014-09-15,fhrs_1_en-GB,1,,FHRS,10
-408569,5 Aghintain Road,Mallabeny,Clogher,Tyrone,CARNTALL PRIMARY SCHOOL MEALS KITCHEN,School/college/university,7845,0,,586046,0,,54.42211500000000,305,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.22010800000000,BT76 0UY,2014-11-18,fhrs_5_en-GB,5,,FHRS,5
-408570,187 Mountjoy Road,Magheralamfield,Stewartstown,Tyrone,Castlebay Bar & Restaurant,Restaurant/Cafe/Canteen,1,5,,679349,0,,54.55869800000000,6007,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.60598100000000,BT71 5DY,2014-05-30,fhrs_5_en-GB,5,,FHRS,5
-408571,6 Quarry Lane,Drumcoo,Dungannon,Tyrone,Centra,Retailers - other,4613,10,,586122,0,,54.51287400000000,4885,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77828700000000,BT70 1HX,2013-09-13,fhrs_4_en-GB,4,,FHRS,5
-408572,16-18 Augher Road,Clogher,,Co Tyrone,CENTRA (MCDADE),Retailers - other,4613,0,,586156,5,,54.41406400000000,5030,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.16476500000000,BT76 0AD,2014-04-14,fhrs_4_en-GB,4,,FHRS,10
-408573,28 Main Street,Brackaville,Coalisland,Tyrone,CENTRAL BAR,Pub/bar/nightclub,7843,5,,586115,5,,54.54075700000000,459,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70126400000000,BT71 4NB,2014-12-17,fhrs_5_en-GB,5,,FHRS,5
-408574,82 Moore Street,Derrycush,Aughnacloy,Tyrone,Central Bar,Pub/bar/nightclub,7843,0,,642725,0,,54.41598500000000,5968,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97777200000000,BT69 6AY,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-408575,5 The Square,Moy,Moy,Tyrone,CHARLEMONT HOUSE,Hotel/bed & breakfast/guest house,7842,5,,586502,0,,54.44780100000000,875,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69221500000000,BT71 7SG,2013-01-08,fhrs_5_en-GB,5,,FHRS,0
-408576,South West College,Circular Road,Dungannon,Co Tyrone,CHARTWELLS,School/college/university,7845,5,,586109,5,,54.50856100000000,4507,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76316200000000,BT71 6BQ,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-408577,133- 135 Main Street,,Fivemiletown,Co Tyrone,CHESTNUT BAR & TAKEAWAY,Pub/bar/nightclub,7843,5,,586342,5,,54.37803900000000,5712,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31595700000000,BT75 0PG,2013-09-27,fhrs_5_en-GB,5,,FHRS,0
-408578,33 The Square,Gortnaskea,Coalisland,Tyrone,CHINA KITCHEN,Takeaway/sandwich shop,7844,20,,586362,10,,54.53964500000000,5738,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70309100000000,BT71 4LN,2014-12-02,fhrs_1_en-GB,1,,FHRS,10
-408579,14 Charlemont Street,Moy,Moy,Tyrone,CHINESE ONE,Takeaway/sandwich shop,7844,10,,586232,10,,54.44615800000000,5305,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.68984700000000,BT71 7SL,2014-06-25,fhrs_3_en-GB,3,,FHRS,5
-408580,8a Quarry Lane,Dungannon,,Co Tyrone,CHIPS AHOY,Takeaway/sandwich shop,7844,10,,586323,5,,54.50988000000000,5633,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77531900000000,BT70 1AQ,2014-10-07,fhrs_3_en-GB,3,,FHRS,10
-408581,25 Donaghmore Road,Dungannon,,Co Tyrone,CHIPS AWAY,Takeaway/sandwich shop,7844,5,,586329,10,,54.50552700000000,5647,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77490900000000,BT70 1EZ,2014-06-17,fhrs_4_en-GB,4,,FHRS,5
-408582,,,,,CHOCOLATE FOUNTAINS WEDDINGS PARTIES & M,Other catering premises,7841,5,,586183,5,,,5144,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-02-21,fhrs_5_en-GB,5,,FHRS,5
-408583,,,,,CHOCOLATE HAVEN,Other catering premises,7841,5,,679341,5,,,5886,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-06-13,fhrs_5_en-GB,5,,FHRS,5
-408584,4 Church Hill Road,Caledon,Caledon,Tyrone,CHURCHILL PRIMARY SCHOOL,School/college/university,7845,0,,586022,5,,54.36172900000000,249,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.82828400000000,BT68 4UY,2013-09-17,fhrs_5_en-GB,5,,FHRS,5
-408585,Church Mews,Church Street,Dungannon,Co Tyrone,CLANMIL HOUSING ASSOCIATION (DDHA),Hospitals/Childcare/Caring Premises,5,10,,586161,5,,54.50344200000000,5043,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76865800000000,BT71 6TL,2012-04-18,fhrs_4_en-GB,4,,FHRS,0
-408586,81 Clonmore Road,Clontyclay,Dungannon,Armagh,CLINTYCLAY PRIMARY SCHOOL,School/college/university,7845,0,,586477,5,,54.47847200000000,79,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.63773200000000,BT71 6HX,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-408587,38 Augher Road,Crossowen,Clogher,Tyrone,CLOGHER VALLEY DAY CARE CENTRE,Other catering premises,7841,5,,586068,0,,54.41406400000000,362,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.16476500000000,BT76 0AD,2013-12-12,fhrs_5_en-GB,5,,FHRS,0
-408588,27 Main Street,Clogher Tenements,Clogher,Tyrone,CLOGHER VALLEY MEATS,Manufacturers/packers,7839,5,,586053,0,,54.41166200000000,324,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-408589,7 Tullybroom Road,Ballymagowan,Clogher,Tyrone,CLOGHER VALLEY PLAYGROUP,School/college/university,7845,5,,586202,0,,54.42027800000000,5195,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17489800000000,BT76 0UW,2014-11-18,fhrs_5_en-GB,5,,FHRS,0
-408590,1 Church Lane,Dungannon,Dungannon,Co Tyrone,COBBLES BAR,Pub/bar/nightclub,7843,5,,586412,0,,54.50371500000000,5846,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76807800000000,BT71 6AA,2013-04-09,fhrs_5_en-GB,5,,FHRS,5
-408591,36 Irish Street,Drumcoo,Dungannon,Tyrone,COFFEE POT,Restaurant/Cafe/Canteen,1,5,,586418,10,,54.50416800000000,5855,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77105900000000,BT70 1DB,2014-11-03,fhrs_3_en-GB,3,,FHRS,10
-408592,212 Ballynakilly Road,Cohannan,Coalisland,Tyrone,COHANNON INN & AUTOLODGE,Hotel/bed & breakfast/guest house,7842,5,,586079,5,,54.50021400000000,391,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.65865000000000,BT71 6HJ,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-408593,Unit 4 Ballynakilly Road,,Coalisland,Tyrone,COHANNON INN WINE & BEER SHOP,Retailers - other,4613,,,586240,,,54.50021400000000,5372,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.65865000000000,BT71 6HJ,2013-05-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-408594,,,,,COLIN FARQUHAR (MARKET STALL),Retailers - other,4613,5,,586226,5,,,5279,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2012-12-19,fhrs_5_en-GB,5,,FHRS,0
-408595,,,,,Cookie Crumbs,Other catering premises,7841,5,,658896,0,,,5992,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-05-01,fhrs_5_en-GB,5,,FHRS,0
-408596,23 Cooneen Road,Fivemiletown,Fivemiletown,Tyrone,COONEEN TEXTILES LTD,Restaurant/Cafe/Canteen,1,5,,586445,0,,54.37446100000000,630,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31550900000000,BT75 0NE,2013-08-20,fhrs_5_en-GB,5,,FHRS,0
-408597,10 Dungannon Street,Moy,Moy,Tyrone,CO-OP SUPERMARKET,Retailers - other,4613,5,,586487,0,,54.44783300000000,828,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69520500000000,BT71 7SH,2014-09-25,fhrs_5_en-GB,5,,FHRS,5
-408598,1-3 Moore Street,Derrycush,Aughnacloy,Tyrone,COPPERFIELDS PRIVATE NURSING HOME,Hospitals/Childcare/Caring Premises,5,0,,586519,5,,54.41582800000000,97,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97825300000000,BT69 6AX,2013-11-27,fhrs_5_en-GB,5,,FHRS,5
-408599,20 Corick Road,Corick,Clogher,Tyrone,CORICK HOUSE AND LICENSED RESTAURANT,Hotel/bed & breakfast/guest house,7842,10,,586050,5,,54.42628700000000,308,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.16299100000000,BT76 0BZ,2014-06-10,fhrs_4_en-GB,4,,FHRS,5
-408600,27 Coolmaghry Road,Corkill,Dungannon,Tyrone,CORKHILL CARE CENTRE,Hospitals/Childcare/Caring Premises,5,5,,586043,5,,54.55595100000000,3,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.84774400000000,BT70 3HJ,2014-11-27,fhrs_5_en-GB,5,,FHRS,0
-408601,32 Main Street,Ballygawley,Ballygawley,Tyrone,COSTCUTTER,Retailers - other,4613,10,,586276,0,,54.46169000000000,5538,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02829200000000,BT70 2HE,2014-03-11,fhrs_4_en-GB,4,,FHRS,5
-408602,5 Moygashel Mills Park,Moygashel,Moygashel,Tyrone,COSTCUTTER (MOUTRAYS),Retailers - other,4613,5,,586390,5,,54.48548600000000,5789,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75315000000000,BT71 7DH,2014-07-08,fhrs_5_en-GB,5,,FHRS,5
-408603,32 Main Street,Augher Tenements,Augher,Tyrone,COSTCUTTERS,Retailers - other,4613,5,,586219,0,,54.42843200000000,5246,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.13088300000000,BT77 0BG,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-408604,45 Moore Street,Derrycush,Aughnacloy,Tyrone,COSTCUTTERS,Retailers - other,4613,5,,586295,0,,54.41582800000000,5576,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97825300000000,BT69 6AX,2014-11-06,fhrs_4_en-GB,4,,FHRS,10
-408605,93 Main Street,Fivemiletown,Fivemiletown,Tyrone,COUNTRY KEBAB HOUSE,Takeaway/sandwich shop,7844,5,,586431,5,,54.37811000000000,5891,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31589500000000,BT75 0PG,2013-08-07,fhrs_4_en-GB,4,,FHRS,10
-408606,88 Granville Road,Derryveen,Dungannon,Tyrone,COUNTRY KITCHEN,Restaurant/Cafe/Canteen,1,10,,586009,5,,54.49051100000000,215,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.80140800000000,BT70 1NJ,2014-10-08,fhrs_4_en-GB,4,,FHRS,5
-408607,49 Main Street,Clogher Tenements,Clogher,Tyrone,Courthouse Clogher,Restaurant/Cafe/Canteen,1,5,,620672,5,,54.41166200000000,5910,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2013-11-28,fhrs_5_en-GB,5,,FHRS,0
-408608,,,,,CRISPY CHIP,Mobile caterer,7846,5,,586458,0,,,695,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-408609,79 Altaglushan Road,Altaglushan,Dungannon,Tyrone,CROCKGARVE B & B,Hotel/bed & breakfast/guest house,7842,5,,586175,5,,54.52709000000000,5118,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.95698700000000,BT70 2PL,2012-06-19,fhrs_5_en-GB,5,,FHRS,0
-408610,21 Perry Street,Cyril Kerrs Newsagents,Dungannon,Tyrone,CYRIL KERRS NEWSAGENTS,Retailers - other,4613,10,,586480,0,,54.50341700000000,800,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76702200000000,BT71 6AJ,2013-08-13,fhrs_4_en-GB,4,,FHRS,5
-408611,65 Irish Street,Drumcoo,Dungannon,Tyrone,DALY'S BAR,Pub/bar/nightclub,7843,5,,586168,5,,54.50397400000000,5075,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77231600000000,BT70 1DQ,2012-10-17,fhrs_4_en-GB,4,,FHRS,10
-408612,156 Eglish Road,Stiloga,Dungannon,Tyrone,DALY'S FILLING STATION,Retailers - other,4613,10,,586507,5,,54.43846000000000,887,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.79348100000000,BT70 1LD,2014-06-04,fhrs_4_en-GB,4,,FHRS,0
-408613,16 The Square,Moy,Moy,Tyrone,DALY'S WORLD OF WINE,Retailers - other,4613,,,586026,,,54.44780100000000,2608,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69221500000000,BT71 7SG,2014-07-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-408614,44- 46 Main Street,,Castlecaulfield,Co Tyrone,DAVISONS,Pub/bar/nightclub,7843,5,,586042,0,,54.50774700000000,293,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83591800000000,BT70 3NP,2014-07-21,fhrs_5_en-GB,5,,FHRS,0
-408615,30 Linen Green,Moygashel,Moygashel,Co Tyrone,DELI ON THE GREEN,Restaurant/Cafe/Canteen,1,5,,586154,5,,54.48701500000000,5027,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75160700000000,BT71 7HB,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-408616,,,,,DELICIOUS HOMEMADE CAKES,Other catering premises,7841,5,,586327,5,,,5644,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2012-01-20,fhrs_5_en-GB,5,,FHRS,5
-408617,109 Washingbay Road,Annaghmore,Coalisland,Tyrone,Delish,Restaurant/Cafe/Canteen,1,5,,679343,5,,54.53719800000000,5988,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.65998600000000,BT71 4QE,2014-05-07,fhrs_5_en-GB,5,,FHRS,5
-408618,50 Derrylattinee Road,Derrylattinee,Dungannon,Tyrone,DERRYLATINEE PRIMARY SCHOOL,School/college/university,7845,0,,586023,0,,54.44957700000000,253,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.84998000000000,BT70 1PS,2014-06-04,fhrs_5_en-GB,5,,FHRS,0
-408619,77 Scotch Street,Dungannon,Dungannon,Co Tyrone,Dngannon Presbyterian Church & Hall (gift Ministries),Restaurant/Cafe/Canteen,1,5,,620671,5,,54.50298800000000,1103,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77166600000000,BT70 1BD,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-408620,19-21 Georges Street,Drumcoo,Dungannon,Tyrone,DOLPHIN,Takeaway/sandwich shop,7844,0,,586007,5,,54.50321900000000,208,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77315700000000,BT70 1BT,2014-08-19,fhrs_5_en-GB,5,,FHRS,5
-408621,"Unit 2, 21 Pomeroy Road",Donaghmore,Dungannon,Co Tyrone,DONAGHMORE CHINESE,Takeaway/sandwich shop,7844,20,,586239,10,,54.53346100000000,5368,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81669400000000,BT70 3HG,2014-03-10,fhrs_1_en-GB,1,,FHRS,5
-408622,35 Main Street,Donaghmore,Donaghmore,Tyrone,DONAGHMORE CONTROLLED PRIMARY SCHOOL,School/college/university,7845,5,,586263,5,,54.53109400000000,551,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81254500000000,BT70 3EZ,2012-05-21,fhrs_5_en-GB,5,,FHRS,5
-408623,26 William Street,Drumcoo,Dungannon,Tyrone,DONAGHY'S BAR,Pub/bar/nightclub,7843,5,,585960,0,,54.50371300000000,1161,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77321900000000,BT70 1DX,2013-05-22,fhrs_5_en-GB,5,,FHRS,5
-408624,20 The Square,Gortgonis,Coalisland,Tyrone,DONNELLY/MCALEER PHARMACY,Retailers - other,4613,,,586144,,,54.53964500000000,500,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70309100000000,BT71 4LN,2014-12-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-408625,2 Coalisland Road,Killylack Glebe,Dungannon,Tyrone,DOORSTEP CATERING,Restaurant/Cafe/Canteen,1,5,,586150,0,,54.51520900000000,5018,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76404200000000,BT71 6JT,2014-08-08,fhrs_5_en-GB,5,,FHRS,5
-408626,10 Barrack Street,Brackaville,Coalisland,Tyrone,DOUBLE UP HOT FOOD TAKEAWAY,Takeaway/sandwich shop,7844,5,,586088,5,,54.54132300000000,422,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70374900000000,BT71 4LS,2013-08-01,fhrs_4_en-GB,4,,FHRS,10
-408627,42 Scotch Street,Killylack Glebe,Dungannon,Tyrone,DROZ POL,Retailers - other,4613,5,,586382,10,,54.50298800000000,5777,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77166600000000,BT70 1BD,2014-04-24,fhrs_4_en-GB,4,,FHRS,5
-408628,Carland Road,Lurgaboy,Dungannon,Co Tyrone,DRUMGLASS HIGH SCHOOL MEALS KITCHEN,School/college/university,7845,5,,586317,5,,54.51094400000000,562,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76775300000000,BT71 4AA,2014-09-17,fhrs_5_en-GB,5,,FHRS,0
-408629,19 Granville Industrial Estate,Granville Road,Dungannon,,DUNBIA DUNGANNON (PRIMARY) STAFF CANTEEN,Restaurant/Cafe/Canteen,1,5,,586430,5,,54.49051100000000,5890,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.80140800000000,BT70 1NJ,2013-08-27,fhrs_5_en-GB,5,,FHRS,5
-408630,Granville Industrial Estate,Granville Road,Dungannon,Co. Tyrone,DUNBIA DUNGANNON (RETAIL SHOP),Retailers - other,4613,5,,586309,0,,54.49051100000000,5600,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.80140800000000,BT70 1NJ,2012-05-14,fhrs_5_en-GB,5,,FHRS,0
-408631,Granville Industrial Estate,Granville Road,Dungannon,Co Tyrone,DUNBIA DUNGANNON RETAIL CANTEEN,Restaurant/Cafe/Canteen,1,5,,586385,5,,54.49051100000000,5780,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.80140800000000,BT70 1NJ,2014-06-13,fhrs_5_en-GB,5,,FHRS,0
-408632,Railway Road,Drumcoo,Dungannon,Tyrone,DUNGANNON BAPTIST CHURCH,Other catering premises,7841,5,,585957,0,,54.50159600000000,1147,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77084300000000,BT71 7AA,2013-05-15,fhrs_5_en-GB,5,,FHRS,0
-408633,27 Circular Road,Dungannon,,Co Tyrone,DUNGANNON CAMPUS DAY CARE,School/college/university,7845,0,,586348,0,,54.50737900000000,5722,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76446300000000,BT71 6BE,2013-12-18,fhrs_4_en-GB,4,,FHRS,10
-408634,100 Killyman Road,Coolhill,Dungannon,Tyrone,DUNGANNON CARE HOME,Hospitals/Childcare/Caring Premises,5,0,,586470,5,,54.50127400000000,759,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75174300000000,BT71 6DQ,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-408635,Circular Road,Dungannon,,Co Tyrone,DUNGANNON COUNTY PRIMARY SCHOOL,School/college/university,7845,5,,586468,0,,54.50737900000000,747,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76446300000000,BT71 6BE,2013-10-09,fhrs_5_en-GB,5,,FHRS,5
-408636,34 Springfield Lane,Mullaghmore,Dungannon,Tyrone,DUNGANNON GOLF CLUB,Pub/bar/nightclub,7843,0,,585951,0,,54.51623400000000,1113,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78722000000000,BT70 1QX,2012-10-23,fhrs_5_en-GB,5,,FHRS,5
-408637,29 Circular Road,,Dungannon,Co Tyrone,DUNGANNON NURSERY SCHOOL MEALS KITCHEN,School/college/university,7845,0,,586467,5,,54.50737900000000,745,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76446300000000,BT71 6BE,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-408638,36 Moy Road,Gortmerron,Dungannon,Tyrone,DUNGANNON RUGBY FOOTBALL CLUB,Retailers - other,4613,10,,586498,0,,54.49369500000000,863,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75379500000000,BT71 7DS,2014-08-12,fhrs_4_en-GB,4,,FHRS,5
-408639,2 Far Circular Road,Stangmore (Knox),Dungannon,Tyrone,DUNGANNON SWIFTS FOOTBALL CLUB,Retailers - other,4613,5,,586496,0,,54.49027500000000,858,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74195500000000,BT71 6LW,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-408640,,,,,ED MASTERS,Retailers - other,4613,5,,586304,5,,,5594,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-08-19,fhrs_5_en-GB,5,,FHRS,5
-408641,181 Coalisland Road,Edendork,Dungannon,Tyrone,EDENDORK PRIMARY SCHOOL,School/college/university,7845,5,,586085,0,,54.52953800000000,411,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.73795100000000,BT71 4DP,2013-06-14,fhrs_5_en-GB,5,,FHRS,0
-408642,Edfield Way,Murley Road,Fivemiletown,Co Tyrone,EDFIELD RESTAURANT,Restaurant/Cafe/Canteen,1,10,,585980,0,,54.37842500000000,1526,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31587400000000,BT75 0QH,2013-11-25,fhrs_4_en-GB,4,,FHRS,5
-408643,148 Eglish Road,Stiloga,Dungannon,Tyrone,EGLISH BAKING COMPANY,Manufacturers/packers,7839,5,,586223,5,,54.43846000000000,5273,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.79348100000000,BT70 1LD,2014-06-04,fhrs_4_en-GB,4,,FHRS,10
-408644,148 Eglish Road,Stiloga,Dungannon,Tyrone,Eglish Country Fry,Takeaway/sandwich shop,7844,10,,589292,5,,54.43846000000000,5907,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.79348100000000,BT70 1LD,2013-09-09,fhrs_4_en-GB,4,,FHRS,5
-408645,40 Main Road,Moygashel,Moygashel,Tyrone,ELLA'S,Restaurant/Cafe/Canteen,1,10,,586509,5,,54.48414600000000,898,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75214200000000,BT71 7QU,2014-08-13,fhrs_3_en-GB,3,,FHRS,10
-408646,15 Tannaghlane Road,Tannaghlane,Caledon,Tyrone,ELLA'S BARN,Other catering premises,7841,5,,586028,0,,54.37297500000000,267,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.84481400000000,BT68 4XU,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-408647,28 Thomas Street,Drumcoo,Dungannon,Tyrone,Ellies Cafe Grill,Restaurant/Cafe/Canteen,1,,,679351,,,54.50700300000000,6016,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76890600000000,BT70 1HW,2014-09-22,fhrs_4_en-GB,4,,FHRS,
-408648,26 Main Street,Brackaville,Coalisland,Tyrone,ELMERDALE LTD,Retailers - other,4613,,,586114,,,54.54075700000000,455,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70126400000000,BT71 4NB,2012-12-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-408649,- Caledon Road,,Aughnacloy,Tyrone,Emma's Diner,Mobile caterer,7846,10,,631967,10,,54.41264200000000,5947,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97341900000000,BT69 6AL,2014-02-05,fhrs_4_en-GB,4,,FHRS,0
-408650,South West College,Circular Road,Dungannon,Co Tyrone,ETCETERA RESTAURANT,Restaurant/Cafe/Canteen,1,5,,586466,5,,54.50856100000000,744,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76316200000000,BT71 6BQ,2013-09-25,fhrs_5_en-GB,5,,FHRS,0
-408651,45 Charlemont Street,Moy,Moy,Tyrone,EUROSPAR MOY,Retailers - other,4613,5,,586231,10,,54.44615800000000,5301,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.68984700000000,BT71 7SL,2014-12-01,fhrs_4_en-GB,4,,FHRS,5
-408652,1 Main Street,Clogher Tenements,Clogher,Tyrone,F A IRWIN CORNER SHOP,Retailers - other,4613,10,,586052,10,,54.41166200000000,317,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2013-03-11,fhrs_4_en-GB,4,,FHRS,0
-408653,,,,,FAIRYTALE FOUNTAINS,Other catering premises,7841,5,,707521,5,,,5877,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-408654,6a Reenaderry Road,Aughamullan,Coalisland,Tyrone,Falls Bar,Pub/bar/nightclub,7843,5,,722685,5,,54.53409100000000,6073,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.61935000000000,BT71 5DT,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-408655,38-42 Main Street,Augher Tenements,Augher,Tyrone,FANE VALLEY,Retailers - other,4613,0,,690892,5,,54.42875000000000,5219,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.13136900000000,BT77 0BQ,2014-07-22,fhrs_5_en-GB,5,,FHRS,0
-408656,75 Main Street,Clogher Tenements,Clogher,Tyrone,FANNINS VIVO,Retailers - other,4613,0,,586058,0,,54.41166200000000,338,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2014-09-24,fhrs_5_en-GB,5,,FHRS,0
-408657,,,,,Farm And Food,Other catering premises,7841,5,,728137,5,,,6071,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-408658,4 Thomas Street,Drumcoo,Dungannon,Tyrone,FEENEYS BAR,Pub/bar/nightclub,7843,5,,585955,5,,54.50540800000000,1125,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77025000000000,BT70 1HN,2013-03-05,fhrs_5_en-GB,5,,FHRS,5
-408659,40a Charlemont Street,Moy,Moy,Tyrone,FERGUSONS HOT FOOD BAR,Takeaway/sandwich shop,7844,5,,586484,10,,54.44615800000000,816,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.68984700000000,BT71 7SL,2014-05-28,fhrs_4_en-GB,4,,FHRS,5
-408660,135 Moore Street,Derrycush,Aughnacloy,Tyrone,FIDDES COURT (CLANMIL HOUSING ASSOC.),Other catering premises,7841,0,,586214,0,,54.41443900000000,5237,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97664000000000,BT69 6AR,2014-06-04,fhrs_5_en-GB,5,,FHRS,0
-408661,16 Fairgreen,,Ballygawley,Co Tyrone,FIRS,Hospitals/Childcare/Caring Premises,5,5,,585972,5,,54.46333900000000,140,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.03341900000000,BT70 2LJ,2013-12-05,fhrs_5_en-GB,5,,FHRS,0
-408662,2 Savings Bank Street,Drumcoo,Dungannon,Tyrone,FIRST STEPS CRECHE,School/college/university,7845,5,,589288,5,,54.50339300000000,5107,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77438600000000,BT70 1DT,2013-09-25,fhrs_5_en-GB,5,,FHRS,0
-408663,51 Colebrook Road,Corcreevy,Fivemiletown,Tyrone,FIVEMILETOWN COLLEGE,School/college/university,7845,0,,586443,5,,54.37590400000000,626,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.32288700000000,BT75 0SB,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-408664,166 Ballagh Road,Ballyvaddan,Fivemiletown,Tyrone,FIVEMILETOWN CONTROLLED PRIMARY SCHOOL,School/college/university,7845,0,,586440,0,,54.37919400000000,616,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.30895100000000,BT75 0QP,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-408665,Fivemiletown Creamery,Ballylurgan Road,Main Street,,FIVEMILETOWN CREAMERY CANTEEN,Restaurant/Cafe/Canteen,1,0,,586000,5,,54.37643100000000,1937,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31927700000000,BT75 0RX,2013-03-06,fhrs_5_en-GB,5,,FHRS,0
-408666,96 Main Street,,Fivemiletown,Tyrone,FIVEMILETOWN PHARMACY,Retailers - other,4613,,,586288,,,54.37802600000000,5568,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2014-06-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-408667,24 The Square,Moy,Moy,Tyrone,Food @ Auction Rooms,Restaurant/Cafe/Canteen,1,5,,679348,5,,54.44780100000000,6005,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69221500000000,BT71 7SG,2014-05-29,fhrs_4_en-GB,4,,FHRS,10
-408668,32 Main Street,Drumreany,Castlecaulfield,Tyrone,FOOD CENTRE,Retailers - other,4613,0,,586040,5,,54.50774700000000,291,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83591800000000,BT70 3NP,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-408669,,,,,Food Glorious Food,Other catering premises,7841,5,,702484,5,,,6051,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-408670,8 Scotch Street,Drumcoo,Dungannon,Tyrone,Food Star,Takeaway/sandwich shop,7844,10,,657309,5,,54.50360100000000,6011,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77015000000000,BT70 1AR,2014-04-29,fhrs_4_en-GB,4,,FHRS,5
-408671,43 Irish Street,Drumcoo,Dungannon,Tyrone,FOOD@FORTY3,Restaurant/Cafe/Canteen,1,10,,586434,5,,54.50416800000000,5896,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77105900000000,BT70 1DB,2013-09-03,fhrs_4_en-GB,4,,FHRS,5
-408672,2 Gortgonis Road,Gortgonis,Coalisland,Tyrone,FOREVER FRIENDS PLAYGROUP,School/college/university,7845,5,,586146,0,,54.53571400000000,5008,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69513600000000,BT71 4QF,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-408673,57 Moy Road,Stangmore (Knox),Dungannon,Tyrone,FORK SERVICE STATION,Retailers - other,4613,10,,586499,5,,54.48621000000000,864,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74499600000000,BT71 7DT,2014-04-18,fhrs_4_en-GB,4,,FHRS,5
-408674,1 Mullaghmoyle Road,Brackaville,Coalisland,Tyrone,FOUR CORNERS,Pub/bar/nightclub,7843,10,,586134,10,,54.55588200000000,4969,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70342600000000,BT71 4PH,2014-01-10,fhrs_3_en-GB,3,,FHRS,10
-408675,185 Ballygawley Road,Killymoyle,Dungannon,Tyrone,FRED MARTIN & SONS (COSTCUTTERS),Retailers - other,4613,5,,586003,0,,54.48711000000000,198,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.87654700000000,BT70 1RY,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-408676,Unit 4 Oaks Centre,Oaks Road,Dungannon,Co Tyrone,Funky Monkeys,Restaurant/Cafe/Canteen,1,0,,586328,0,,54.51041300000000,5646,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76593100000000,BT71 4AR,2014-12-05,fhrs_5_en-GB,5,,FHRS,0
-408677,40 Cookstown Road,Creevagh Lower,Dungannon,Tyrone,GABLES RESTAURANT,Restaurant/Cafe/Canteen,1,,,586236,,,54.54476800000000,536,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77748800000000,BT71 4BQ,2014-10-23,fhrs_5_en-GB,5,,FHRS,
-408678,97 Donaghmore Road,,Dungannon,Co Tyrone,Gaelscoil Aodha Rua,School/college/university,7845,5,,679354,5,,54.50862800000000,6021,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77949400000000,BT70 1HD,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-408679,104 Washingbay Road,Coalisland,Dungannon,,GAELSCOIL UI NEILL,School/college/university,7845,0,,586091,0,,54.44072900000000,4257,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74805200000000,BT71 7PU,2013-12-02,fhrs_5_en-GB,5,,FHRS,5
-408680,Oaks Road,Drumcoo,Dungannon,Tyrone,Gaia Health Foods,Retailers - other,4613,5,,655780,5,,54.51144200000000,5922,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76290500000000,BT71 4NA,2014-03-11,fhrs_5_en-GB,5,,FHRS,0
-408681,36 Lurgylea Road,Galbally,Dungannon,Tyrone,GALBALLY COMMUNITY ASSOCIATION,Other catering premises,7841,5,,586081,5,,54.54152700000000,3946,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.89835200000000,BT70 2NX,2013-08-28,fhrs_5_en-GB,5,,FHRS,0
-408682,160 Gortnagola Road,Galbally,Dungannon,Tyrone,GALBALLY POST OFFICE,Retailers - other,4613,10,,586479,0,,54.53475600000000,8,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.87619600000000,BT70 3BH,2013-01-21,fhrs_4_en-GB,4,,FHRS,0
-408683,108 Main Street,Fivemiletown,Fivemiletown,Tyrone,GARY COOTE MEATS,Manufacturers/packers,7839,5,,586224,5,,54.37802600000000,5275,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-408684,31 Ballygawley Road,Dungannon,Dungannon,Co Tyrone,GEANANN CARE CENTRE,Hospitals/Childcare/Caring Premises,5,5,,586200,0,,54.50386100000000,5192,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78074800000000,BT70 1EL,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-408685,55 Moore Street,Derrycush,Aughnacloy,Tyrone,GERREY'S TAKEAWAY,Takeaway/sandwich shop,7844,5,,586411,0,,54.41582800000000,5845,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97825300000000,BT69 6AX,2014-11-14,fhrs_5_en-GB,5,,FHRS,5
-408686,4. Barrack Square,Gervins Bar & Restaurant,Coalisland,Co Tyrone,GERVINS BAR & RESTAURANT,Restaurant/Cafe/Canteen,1,5,,586089,5,,54.53957100000000,425,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70204300000000,BT71 4JG,2013-09-19,fhrs_5_en-GB,5,,FHRS,5
-408687,12a Main Street,Caledon,Caledon,Tyrone,GILLANDERS BUTCHERS,Manufacturers/packers,7839,5,,586024,5,,54.35106300000000,257,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83733900000000,BT68 4TZ,2014-01-14,fhrs_4_en-GB,4,,FHRS,10
-408688,,,,,Gilly's Griddle,Mobile caterer,7846,5,,706068,10,,,6055,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-09-24,fhrs_4_en-GB,4,,FHRS,5
-408689,67 Main Street,Ballygawley,Ballygawley,Tyrone,GILMORES BAR,Pub/bar/nightclub,7843,5,,585983,5,,54.46202800000000,161,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02791400000000,BT70 2HD,2012-04-27,fhrs_4_en-GB,4,,FHRS,10
-408690,17-23 Ballygawley Road,Ballysaggart,Dungannon,Tyrone,GLEN SERVICE STATION,Retailers - other,4613,0,,586002,5,,54.50348000000000,196,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78123800000000,BT70 1TY,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-408691,10 Glenhoy Road,Augher,,Co Tyrone,GLENHOY PRESBYTERIAN CHURCH,Other catering premises,7841,,,586345,,,54.45105400000000,5717,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.13095800000000,BT77 0DG,2012-03-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-408692,111 Tullyvar Road,Glenroe,Aughnacloy,Tyrone,GLENVAR BED AND BREAKFAST,Hotel/bed & breakfast/guest house,7842,5,,585971,0,,54.43222100000000,131,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.98870900000000,BT69 6BL,2012-07-06,fhrs_5_en-GB,5,,FHRS,5
-408693,9 Cabragh Road,Cabragh,Cabragh,Tyrone,GLENVIEW PRIVATE NURSING HOME,Hospitals/Childcare/Caring Premises,5,0,,586035,5,,54.49609400000000,276,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.90897400000000,BT70 3AH,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-408694,113 Moore Street,Derrycush,Aughnacloy,Tyrone,GOLDEN DRAGON,Takeaway/sandwich shop,7844,5,,586300,10,,54.41443900000000,5584,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97664000000000,BT69 6AR,2014-06-05,fhrs_4_en-GB,4,,FHRS,5
-408695,33 Donaghmore Road,Drumcoo,Dungannon,Tyrone,Golden Dragon,Takeaway/sandwich shop,7844,10,,679355,5,,54.50552700000000,6022,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77490900000000,BT70 1EZ,2014-05-12,fhrs_4_en-GB,4,,FHRS,5
-408696,Linden Foods Canteen,Granville Industrial Estat,Granville Road,,GORDON'S CATERING SERVICES,Restaurant/Cafe/Canteen,1,5,,585976,5,,54.49051100000000,1518,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.80140800000000,BT70 1NJ,2014-11-14,fhrs_5_en-GB,5,,FHRS,5
-408697,3 Church Street,Ballygawley,Ballygawley,Tyrone,GORMLEY'S BAR & OFF SALES,Pub/bar/nightclub,7843,5,,586008,5,,54.46318900000000,21,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.03040000000000,BT70 2HA,2012-07-18,fhrs_5_en-GB,5,,FHRS,5
-408698,Gortgonis Citizen Centre,Gortgonis Road,Coalisland,Co Tyrone,GORTGONIS DAY CENTRE,Other catering premises,7841,5,,586192,5,,54.53249600000000,5177,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.68583100000000,BT71 4QG,2012-05-25,fhrs_5_en-GB,5,,FHRS,5
-408699,12 Gortmerron Link Road,Dungannon,,Co Tyrone,GORTMERRON SPAR AND WINE SHOP,Retailers - other,4613,5,,586105,0,,54.52627400000000,4442,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74886400000000,BT71 6LB,2013-07-19,fhrs_5_en-GB,5,,FHRS,5
-408700,7 Grange Road,Grange,Dungannon,Tyrone,GRANGE LODGE,Hotel/bed & breakfast/guest house,7842,10,,586491,0,,54.46999000000000,841,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70881300000000,BT71 7EJ,2013-03-05,fhrs_4_en-GB,4,,FHRS,0
-408701,79 Moy Road,Dungannon,,Co Tyrone,Great Deals Ni Services,Retailers - other,4613,,,586497,,,54.48621000000000,860,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74499600000000,BT71 7DT,2012-06-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-408702,,,,,GREENFIELD HOMEBAKES,Other catering premises,7841,5,,586234,5,,,5313,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2012-04-25,fhrs_5_en-GB,5,,FHRS,5
-408703,42a Legilly Road,Legilly,Dungannon,Tyrone,GREYSTONE STORES,Retailers - other,4613,5,,586037,5,,54.47073200000000,285,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83297400000000,BT70 1QG,2014-07-02,fhrs_5_en-GB,5,,FHRS,5
-408704,45 Tullyallen Road,Tullyallen,Dungannon,Tyrone,GRIBBEN'S BAR,Pub/bar/nightclub,7843,5,,586216,0,,54.48970100000000,5240,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.88382100000000,BT70 3AF,2012-06-13,fhrs_5_en-GB,5,,FHRS,5
-408705,112 Screeby Road,Screeby,Fivemiletown,Tyrone,Grounds 2 Go,Mobile caterer,7846,5,,657304,0,,54.39190000000000,6000,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.28492200000000,BT75 0LG,2014-04-28,fhrs_5_en-GB,5,,FHRS,0
-408706,28 Moore Road,Coalisland,,Co Tyrone,GUARDIAN DAY CENTRE & RESIDENTIAL CARE,Hospitals/Childcare/Caring Premises,5,0,,586163,5,,54.52969600000000,5051,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.67374800000000,BT71 4QB,2014-11-20,fhrs_5_en-GB,5,,FHRS,5
-408707,51 Loughview Gardens,Gortgonis,Coalisland,Co Tyrone,H & D's Food Bar,Takeaway/sandwich shop,7844,10,,690894,5,,54.53586300000000,6026,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69891600000000,BT71 4LG,2014-08-08,fhrs_4_en-GB,4,,FHRS,5
-408708,39 Irish Street,Drumcoo,Dungannon,Tyrone,HAGANS BAR,Pub/bar/nightclub,7843,0,,586517,5,,54.50416800000000,958,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77105900000000,BT70 1DB,2013-08-08,fhrs_5_en-GB,5,,FHRS,0
-408709,11-13 Perry Street,Drumcoo,Dungannon,Tyrone,HALLIDAYS,Pub/bar/nightclub,7843,0,,586478,0,,54.50341700000000,796,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76702200000000,BT71 6AJ,2013-05-14,fhrs_5_en-GB,5,,FHRS,5
-408710,School Lane,Brackaville,Coalisland,Tyrone,HAPPY DAYS PLAYGROUP,School/college/university,7845,5,,586188,0,,54.54593900000000,5172,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70692500000000,BT71 4NW,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-408711,,,,,HAPPY WRAPPERS,Other catering premises,7841,10,,586373,0,,,5760,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2012-10-18,fhrs_4_en-GB,4,,FHRS,0
-408712,5 Georges Street,Drumcoo,Dungannon,Tyrone,Hd Fitness Ltd,Restaurant/Cafe/Canteen,1,0,,707525,0,,54.50289800000000,6059,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77256400000000,BT70 1BP,2014-10-07,fhrs_4_en-GB,4,,FHRS,10
-408713,96 Scotch Street,Drumcoo,Dungannon,Tyrone,HEBRON SCHOOL OF MARTIAL ARTS,Restaurant/Cafe/Canteen,1,5,,586410,0,,54.50222400000000,5844,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77253800000000,BT70 1BJ,2014-11-07,fhrs_5_en-GB,5,,FHRS,5
-408714,45 Market Square,Drumcoo,Dungannon,Tyrone,HEGARTYS HOME BAKERY,Retailers - other,4613,0,,586335,0,,54.50445100000000,5656,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76978500000000,BT70 1JH,2013-07-24,fhrs_5_en-GB,5,,FHRS,5
-408715,5 The Square,Brackaville,Coalisland,Tyrone,HERRONS GROCERS,Retailers - other,4613,5,,586132,5,,54.53964500000000,496,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70309100000000,BT71 4LN,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-408716,33 Dungannon Road,Moy,Moy,Tyrone,HILLVIEW SERVICE STATION,Retailers - other,4613,0,,586489,5,,54.45067400000000,838,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70368600000000,BT71 7SP,2013-07-02,fhrs_5_en-GB,5,,FHRS,0
-408717,Oaks Road,Drumcoo,Dungannon,Tyrone,Home Bargins,Retailers - other,4613,5,,690895,0,,54.51144200000000,6030,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76290500000000,BT71 4NA,2014-08-06,fhrs_5_en-GB,5,,FHRS,0
-408718,Unit 3 Ballynakilly Road,Ballynakilly Road,Coalisland,Co Tyrone,HONG KONG KITCHEN,Takeaway/sandwich shop,7844,10,,586246,0,,54.50021400000000,5408,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.65865000000000,BT71 6HJ,2013-11-08,fhrs_4_en-GB,4,,FHRS,5
-408719,,,,,HOT STUFF,Mobile caterer,7846,5,,586213,5,,,5235,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-02-19,fhrs_5_en-GB,5,,FHRS,5
-408720,2 Main Road,Stangmore (Knox),Moygashel,Tyrone,HOWARD PRIMARY SCHOOL KITCHEN,School/college/university,7845,0,,586508,0,,54.48829300000000,893,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75005500000000,BT71 7QR,2014-12-08,fhrs_5_en-GB,5,,FHRS,0
-408721,104 Washingbay Road,Gortgonis,Coalisland,Tyrone,IARSCOIL UI NEILL / AN NAISCOIL BHEAG,School/college/university,7845,5,,586143,0,,54.53652000000000,4998,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.68324500000000,BT71 4PU,2014-11-20,fhrs_5_en-GB,5,,FHRS,5
-408722,,,,,ICE CREAM TRAILER (LEONARD MAGUIRE),Retailers - other,4613,5,,586237,0,,,5360,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-05-23,fhrs_5_en-GB,5,,FHRS,0
-408723,,,,,ICE CREAM VAN - (LEONARD J MAGUIRE),Retailers - other,4613,5,,586215,5,,,5239,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2011-07-06,fhrs_5_en-GB,5,,FHRS,5
-408724,32e Scotch Street,Drumcoo,Dungannon,Tyrone,ICELAND,Retailers - other,4613,0,,585940,0,,54.50298800000000,1058,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77166600000000,BT70 1BD,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-408725,14 Church Street,Drumcoo,Dungannon,Tyrone,INDIAN SPICE,Takeaway/sandwich shop,7844,5,,586388,5,,54.50365600000000,5786,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76939200000000,BT71 6AB,2014-06-19,fhrs_5_en-GB,5,,FHRS,5
-408726,21 Gortmerron Link Road,Dungannon,,Co Tyrone,INTEGRATED COLLEGE DUNGANNON,School/college/university,7845,0,,586511,0,,54.49406300000000,907,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75021900000000,BT71 6LS,2014-12-17,fhrs_5_en-GB,5,,FHRS,0
-408727,16 Main Street,Caledon,Caledon,Tyrone,J & P MORROW (MACE),Retailers - other,4613,10,,586025,10,,54.35106300000000,259,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83733900000000,BT68 4TZ,2014-09-30,fhrs_3_en-GB,3,,FHRS,5
-408728,12 Scotch Street,Drumcoo,Dungannon,Tyrone,JAMES CULLEN & SONS,Manufacturers/packers,7839,5,,585942,0,,54.50360100000000,1068,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77015000000000,BT70 1AR,2013-12-04,fhrs_5_en-GB,5,,FHRS,5
-408729,39 Main Street,,Augher,Tyrone,JIMMY JOHNSTONS BAR,Pub/bar/nightclub,7843,5,,586125,0,,54.42843200000000,49,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.13088300000000,BT77 0BG,2012-01-10,fhrs_5_en-GB,5,,FHRS,5
-408730,35 The Square,Moy,Moy,Tyrone,JIMMY'S CAFE,Restaurant/Cafe/Canteen,1,10,,586135,0,,54.44780100000000,4970,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69221500000000,BT71 7SG,2014-12-01,fhrs_4_en-GB,4,,FHRS,0
-408731,190 Kilnahusogue Road,Kilnahusogue,Clogher,Tyrone,JOHN MCGIRR & SON,Retailers - other,4613,10,,586051,10,,54.44406700000000,313,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.23065000000000,BT76 0XD,2014-07-22,fhrs_3_en-GB,3,,FHRS,10
-408732,20 Moy Road,Gortmerron,Dungannon,Tyrone,John R Dowey & Son,Retailers - other,4613,5,,686403,0,,54.49369500000000,6029,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75379500000000,BT71 7DS,2014-07-07,fhrs_5_en-GB,5,,FHRS,0
-408733,41-44 Market Square,Drumcoo,Dungannon,Tyrone,JOSEPH'S RESTAURANT (MENARYS),Restaurant/Cafe/Canteen,1,20,,585986,10,,54.50445100000000,1681,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76978500000000,BT70 1JH,2014-05-20,fhrs_1_en-GB,1,,FHRS,15
-408734,2 Whitebridge Road,Ballygawley,Ballygawley,Tyrone,Ju Tox,Manufacturers/packers,7839,5,,679342,0,,54.47054600000000,5971,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.03030300000000,BT70 2JH,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-408735,122 Main Street,Fivemiletown,Fivemiletown,Tyrone,JUBILEE BAR,Pub/bar/nightclub,7843,10,,589290,10,,54.37802600000000,5889,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2013-09-13,fhrs_3_en-GB,3,,FHRS,10
-408736,24 William Street,Drumcoo,Dungannon,Tyrone,KARACHI KITCHEN,Takeaway/sandwich shop,7844,5,,586064,5,,54.50371300000000,3490,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77321900000000,BT70 1DX,2014-12-03,fhrs_5_en-GB,5,,FHRS,5
-408737,17 Church Street,Drumcoo,Dungannon,Tyrone,KAROLINA INTERNATIONAL FOODS LTD,Retailers - other,4613,5,,586324,0,,54.50365600000000,5636,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76939200000000,BT71 6AB,2014-11-17,fhrs_5_en-GB,5,,FHRS,5
-408738,194 Killyman Road,Culnagor,Dungannon,Tyrone,KENSINGTON LODGE,Hotel/bed & breakfast/guest house,7842,5,,586222,0,,54.49606800000000,5271,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.73915300000000,BT71 6LN,2012-08-08,fhrs_5_en-GB,5,,FHRS,0
-408739,52 Killyman Road,Killymeal,Dungannon,Tyrone,KIDDIWINKLES DAY CARE,School/college/university,7845,0,,586100,5,,54.50412200000000,4402,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75960600000000,BT71 6DE,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-408740,2 Beechvalley Way,Ballysaggart,Dungannon,Tyrone,KIDDIWINKLES DAY CARE II,School/college/university,7845,0,,586235,10,,54.50284100000000,5354,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77931200000000,BT70 1BS,2014-10-22,fhrs_4_en-GB,4,,FHRS,10
-408741,52 Killyman Road,Killymeal,Dungannon,Tyrone,KIDDIWINKLES PRE-SCHOOL,School/college/university,7845,5,,586314,0,,54.50412200000000,5614,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75960600000000,BT71 6DE,2014-09-16,fhrs_4_en-GB,4,,FHRS,10
-408742,12 Moygashel Lane,,Dungannon,Tyrone,Kids And Bibs Daycare Ltd,School/college/university,7845,5,,631965,5,,54.48306300000000,5923,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75165000000000,BT71 7QY,2014-01-30,fhrs_5_en-GB,5,,FHRS,0
-408743,,,,,KIDS R US CROSS COMMUNITY PLAYGROUP,School/college/university,7845,0,,586297,0,,,5580,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-11-25,fhrs_5_en-GB,5,,FHRS,0
-408744,92 Annagher Road,Annagher,Coalisland,Tyrone,KIERAN'S,Takeaway/sandwich shop,7844,5,,586070,0,,54.54282300000000,366,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69541900000000,BT71 4NE,2013-09-12,fhrs_5_en-GB,5,,FHRS,5
-408745,43 Trewmount Road,Laghey,Moy,Tyrone,KILLYMAN COMMUNITY PLAYGROUP,School/college/university,7845,5,,586187,0,,54.48992000000000,5171,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70076200000000,BT71 6RL,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-408746,1 Laghey Corner Shopping Precinct,Laghey,Dungannon,Tyrone,KILLYMAN POST OFFICE,Retailers - other,4613,10,,586460,0,,54.49218700000000,706,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70348400000000,BT71 6TS,2014-07-07,fhrs_4_en-GB,4,,FHRS,10
-408747,15 Trewmount Road,Laghey,Moy,Tyrone,KILLYMAN PRIMARY SCHOOL MEALS KITCHEN,School/college/university,7845,5,,586506,5,,54.48992000000000,882,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70076200000000,BT71 6RL,2012-09-25,fhrs_5_en-GB,5,,FHRS,5
-408748,Parochial Centre,12 Stewartstown Road,Coalisland,Co Tyrone,KRAFTY KIDZ AFTERSCHOOL,School/college/university,7845,5,,586176,5,,54.54757200000000,5122,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69585500000000,BT71 4PF,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-408749,26 Market Square,Drumcoo,Dungannon,Tyrone,LA SCALA THEATRE CAFE,Restaurant/Cafe/Canteen,1,5,,586392,10,,54.50444100000000,5792,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76876700000000,BT70 1AB,2014-06-09,fhrs_4_en-GB,4,,FHRS,5
-408750,5 Tamnamore Road,Laghey,Dungannon,Tyrone,LAGHEY PRIMARY SCHOOL,School/college/university,7845,5,,586461,0,,54.49322300000000,707,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.68875800000000,BT71 6RJ,2013-12-02,fhrs_5_en-GB,5,,FHRS,5
-408751,32 The Square,Gortgonis,Coalisland,Tyrone,LANDIS,Takeaway/sandwich shop,7844,10,,586165,5,,54.53964500000000,506,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70309100000000,BT71 4LN,2013-11-28,fhrs_4_en-GB,4,,FHRS,5
-408752,8 -10 Irish Street,Dungannon,,Co Tyrone,LANDIS,Restaurant/Cafe/Canteen,1,5,,586516,0,,54.50416800000000,933,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77105900000000,BT70 1DB,2013-07-30,fhrs_5_en-GB,5,,FHRS,5
-408753,Unit 3 Gortmerron Parade,Gortmerron Link Road,Dungannon,Co Tyrone,LEE'S KITCHEN,Takeaway/sandwich shop,7844,5,,586211,0,,54.49406300000000,5230,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75021900000000,BT71 6LS,2014-11-07,fhrs_4_en-GB,4,,FHRS,10
-408754,John Street,Dungannon,Dungannon,Tyrone,LIDL NORTHERN IRELAND,Retailers - other,4613,0,,586067,0,,54.50225000000000,3618,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77418900000000,BT70 1ES,2014-01-23,fhrs_5_en-GB,5,,FHRS,0
-408755,,,,,LINDA'S BAKERY,Manufacturers/packers,7839,5,,586071,5,,,3669,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-05-08,fhrs_5_en-GB,5,,FHRS,0
-408756,School Meals Dining Centre,64 Farriter Road,Dungannon,Co Tyrone,LISFEARTY CONTROLLED PRIMARY SCHOOL,School/college/university,7845,5,,586038,0,,54.46814100000000,288,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.91152300000000,BT70 1SH,2013-06-18,fhrs_5_en-GB,5,,FHRS,0
-408757,5 Tamnamore Road,Laghey,Dungannon,Tyrone,LITTLE ACORNS PLAYGROUP,School/college/university,7845,0,,586189,0,,54.49322300000000,5173,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.68875800000000,BT71 6RJ,2014-10-16,fhrs_5_en-GB,5,,FHRS,0
-408758,4 Coole Road,Coole,Dungannon,Tyrone,LITTLE FLOWER NURSERY SCHOOL,School/college/university,7845,0,,586048,0,,54.54038300000000,3055,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.62511700000000,BT71 5DR,2014-10-13,fhrs_5_en-GB,5,,FHRS,5
-408759,20 Carland Road,Lurgaboy,Dungannon,Co Tyrone,LOANE HOUSE (WARD 1 & 2),Hospitals/Childcare/Caring Premises,5,0,,586326,0,,54.51028000000000,564,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77053600000000,BT71 4AU,2014-08-07,fhrs_5_en-GB,5,,FHRS,5
-408760,99a Tullyvar Road,Drone,Aughnacloy,Tyrone,LOFT RESTAURANT AT AUGHNACLOY GOLF CLUB,Restaurant/Cafe/Canteen,1,5,,586141,5,,54.43222100000000,4995,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.98870900000000,BT69 6BL,2014-03-14,fhrs_5_en-GB,5,,FHRS,5
-408761,The Torrent Complex Hillview Avenue,Lollipop Playgroup,Donaghmore,Tyrone,LOLLIPOP PLAYGROUP,School/college/university,7845,5,,586225,0,,54.53263600000000,5278,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81316500000000,BT70 3DL,2014-04-29,fhrs_5_en-GB,5,,FHRS,0
-408762,21 Market Square,Lowe Bros,Dungannon,Co Tyrone,LOWE BROS,Manufacturers/packers,7839,5,,585935,0,,54.50444100000000,1021,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76876700000000,BT70 1AB,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-408763,49 Irish Street,Drumcoo,Dungannon,Tyrone,LUSITANIA,Retailers - other,4613,5,,586374,5,,54.50416800000000,5762,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77105900000000,BT70 1DB,2014-09-23,fhrs_5_en-GB,5,,FHRS,5
-408764,5 Moygashel Mills Park,Moygashel,Moygashel,Tyrone,M & W FARM MEATS @ MOUTRAYS,Manufacturers/packers,7839,0,,586383,0,,54.48548600000000,5779,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75315000000000,BT71 7DH,2012-11-22,fhrs_5_en-GB,5,,FHRS,5
-408765,100 Woodlough Road,Drumgormal,Dungannon,Tyrone,M1 SERVICE STATION,Retailers - other,4613,10,,586015,5,,54.48018300000000,231,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78372100000000,BT70 1AE,2014-08-06,fhrs_4_en-GB,4,,FHRS,5
-408766,49 Loughview Gardens,Gortgonis,Coalisland,Tyrone,MACE,Retailers - other,4613,5,,586080,5,,54.53661800000000,392,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69897000000000,BT71 4LF,2013-07-25,fhrs_5_en-GB,5,,FHRS,0
-408767,64 Dernanaught Road,Galbally,Dungannon,Tyrone,MACE (TALLY'S),Retailers - other,4613,10,,586082,10,,54.53608000000000,4,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.88717500000000,BT70 2NR,2013-12-09,fhrs_3_en-GB,3,,FHRS,5
-408768,108 Brackaville Road,Drumreagh Otra,Coalisland,Tyrone,Mace Convenience Store,Retailers - other,4613,5,,706069,0,,54.54706200000000,6061,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.71365800000000,BT71 4NJ,2014-09-29,fhrs_5_en-GB,5,,FHRS,0
-408769,81 Moore Street,Derrycush,Aughnacloy,Tyrone,MACE EXPRESS,Retailers - other,4613,5,,585945,10,,54.41443900000000,108,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97664000000000,BT69 6AR,2014-08-11,fhrs_4_en-GB,4,,FHRS,5
-408770,3b Park Road,Dungannon,Dungannon,Tyrone,MAR CAFE AND RESTAURANT,Restaurant/Cafe/Canteen,1,5,,586389,5,,54.50272200000000,5787,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76759900000000,BT71 7AP,2014-09-03,fhrs_4_en-GB,4,,FHRS,10
-408771,44 Station Road,,Clogher,Tyrone,MART CATERING SERVICES,Restaurant/Cafe/Canteen,1,5,,586066,0,,54.41166200000000,360,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2014-04-17,fhrs_5_en-GB,5,,FHRS,5
-408772,Clogher Mart,44 Station Road,Clogher,Co Tyrone,MART TAKE-AWAY,Takeaway/sandwich shop,7844,0,,585990,0,,54.41480400000000,1745,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.16789200000000,BT76 0AQ,2014-04-17,fhrs_5_en-GB,5,,FHRS,0
-408773,63 Moore Street,Derrycush,Aughnacloy,Tyrone,Mary Ann's Bar,Pub/bar/nightclub,7843,0,,718440,0,,54.41443900000000,6068,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97664000000000,BT69 6AR,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-408774,,,,,MARY'S,Other catering premises,7841,5,,586356,0,,,5732,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2012-06-18,fhrs_5_en-GB,5,,FHRS,0
-408775,38 Main Street,Donaghmore,Donaghmore,Tyrone,MC CAUSLANDS BAR,Pub/bar/nightclub,7843,0,,586170,0,,54.53109400000000,5088,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81254500000000,BT70 3EZ,2014-01-13,fhrs_4_en-GB,4,,FHRS,10
-408776,11 Donaghmore Road,Drumcoo,Dungannon,Tyrone,MCALEERS BAR,Pub/bar/nightclub,7843,5,,586515,5,,54.50552700000000,920,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77490900000000,BT70 1EZ,2012-07-30,fhrs_5_en-GB,5,,FHRS,0
-408777,Mccreedy Mill,Caledon Road,Aughnacloy,Co Tyrone,MCCAGUE DAY CENTRE,Other catering premises,7841,0,,585981,0,,54.41264200000000,1529,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97341900000000,BT69 6AL,2013-09-06,fhrs_5_en-GB,5,,FHRS,5
-408778,124 Killyliss Road,Roan,Dungannon,Tyrone,MCCANN'S SHOP,Retailers - other,4613,0,,586017,0,,54.45350800000000,234,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.79789500000000,BT70 1LE,2014-02-25,fhrs_5_en-GB,5,,FHRS,0
-408779,93 Main Street,Clogher Tenements,Clogher,Tyrone,MCCAUGHEY FOOD STORE,Retailers - other,4613,5,,586061,10,,54.41166200000000,341,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2014-03-10,fhrs_4_en-GB,4,,FHRS,5
-408780,,,,,MCCONNELL'S BAKERY,Manufacturers/packers,7839,5,,586397,0,,,5802,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-01-28,fhrs_5_en-GB,5,,FHRS,0
-408781,40-42 Main Street,Ballygawley,Ballygawley,Tyrone,MCDADES CENTRA,Retailers - other,4613,10,,586164,5,,54.46169000000000,5053,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02829200000000,BT70 2HE,2014-03-27,fhrs_4_en-GB,4,,FHRS,5
-408782,Oaks Centre,Oaks Road,Dungannon,Co Tyrone,MCDONALD'S,Takeaway/sandwich shop,7844,0,,585987,0,,54.51041300000000,1715,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76593100000000,BT71 4AR,2013-03-11,fhrs_5_en-GB,5,,FHRS,5
-408783,27 The Square,Gortnaskea,Coalisland,Tyrone,MCGLINCHEY'S CAFE,Restaurant/Cafe/Canteen,1,10,,586162,0,,54.53964500000000,505,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70309100000000,BT71 4LN,2014-11-20,fhrs_4_en-GB,4,,FHRS,5
-408784,55 Irish Street,Drumcoo,Dungannon,Tyrone,MCGRATHS BAR,Pub/bar/nightclub,7843,5,,586518,5,,54.50397400000000,969,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77231600000000,BT70 1DQ,2012-08-22,fhrs_5_en-GB,5,,FHRS,5
-408785,21 The Square,Moy,Moy,Tyrone,MCKEARNEYS BUTCHERS,Manufacturers/packers,7839,0,,586505,5,,54.44780100000000,879,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69221500000000,BT71 7SG,2013-07-02,fhrs_5_en-GB,5,,FHRS,0
-408786,90 Scotch Street,Mckees Bar,Dungannon,Tyrone,MCKEES BAR,Pub/bar/nightclub,7843,0,,585949,0,,54.50222400000000,1104,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77253800000000,BT70 1BJ,2013-12-18,fhrs_5_en-GB,5,,FHRS,0
-408787,20 Charlemont Street,Moy,Moy,Tyrone,MCKEEVERS CHEMIST,Retailers - other,4613,,,586184,,,54.44615800000000,5146,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.68984700000000,BT71 7SL,2015-01-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-408788,57-59 Main Street,Augher Tenements,Augher,Tyrone,MCKENNA'S BAR,Pub/bar/nightclub,7843,5,,586261,0,,54.42843200000000,55,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.13088300000000,BT77 0BG,2013-09-13,fhrs_5_en-GB,5,,FHRS,5
-408789,67 - 69 Moore Street,Aughnacloy,,Co. Tyrone,MCSORLEYS PHARMACY,Retailers - other,4613,,,586147,,,54.41443900000000,5010,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97664000000000,BT69 6AR,2012-09-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-408790,37 - 39 Main Street,Clogher Tenements,Clogher,Tyrone,MCSORLEY'S TAVERN,Pub/bar/nightclub,7843,5,,586127,5,,54.41166200000000,4915,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2012-10-12,fhrs_5_en-GB,5,,FHRS,5
-408791,Unit 29,Dungannon Enterprise Ctr,2 Coalisland Road,,MEAT MARKET,Manufacturers/packers,7839,5,,586255,0,,54.51520900000000,5428,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76404200000000,BT71 6JT,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-408792,50 Newell Road,Drumcoo,Dungannon,Tyrone,MEDICARE PHARMACY,Retailers - other,4613,,,586419,,,54.50787600000000,5856,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78064400000000,BT70 1EG,2013-05-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-408793,3 Castle Court,,Dungannon,Tyrone,Medi-Chem,Retailers - other,4613,,,585953,,,54.50593600000000,1123,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77003400000000,BT70 1HJ,2012-09-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-408794,37 Main Street,Clogher Tenements,Clogher,Tyrone,Melano's,Takeaway/sandwich shop,7844,5,,679347,10,,54.41166200000000,6003,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2014-05-23,fhrs_4_en-GB,4,,FHRS,0
-408795,,,,,MICHELLE'S KITCHEN BAKES,Other catering premises,7841,5,,586394,0,,,5795,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-01-08,fhrs_5_en-GB,5,,FHRS,0
-408796,46 Moy Road,Stangmore (Knox),Dungannon,Tyrone,MILLBROOK B & B,Hotel/bed & breakfast/guest house,7842,5,,586013,0,,54.48621000000000,2274,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74499600000000,BT71 7DT,2012-05-17,fhrs_5_en-GB,5,,FHRS,0
-408797,,,,,Minnie's Munchies,Other catering premises,7841,5,,690896,5,,,6031,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
-408798,17 William Street,Killylack Glebe,Dungannon,Tyrone,MIX MARKET,Retailers - other,4613,10,,586353,5,,54.50371300000000,5727,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77321900000000,BT70 1DX,2014-12-10,fhrs_4_en-GB,4,,FHRS,5
-408799,,,,,MORGAN ICE CREAM (VAN),Retailers - other,4613,5,,586284,0,,,5547,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-05-02,fhrs_5_en-GB,5,,FHRS,5
-408800,Junction 14,Tamnamore Roundabout,Dungannon,Co Tyrone,MOSSA'S CHIPPY,Mobile caterer,7846,5,,586205,5,,54.49306200000000,5202,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.65047300000000,BT71 6HW,2013-09-10,fhrs_5_en-GB,5,,FHRS,0
-408801,100a Woodlough Road,Killybracken,Dungannon,Tyrone,MOTORWAY RESTAURANT,Restaurant/Cafe/Canteen,1,,,586229,,,54.48018300000000,5297,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78372100000000,BT70 1AE,2014-08-14,fhrs_5_en-GB,5,,FHRS,
-408802,Coolhill,Killyman Road,Dungannon,Co Tyrone,"MOUNTCHARLES CATERING, MOY PARK LTD",Restaurant/Cafe/Canteen,1,5,,586493,10,,54.49606800000000,843,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.73915300000000,BT71 6LN,2013-12-02,fhrs_4_en-GB,4,,FHRS,5
-408803,12 Dungannon Road,Moy,Moy,Tyrone,MOY AREA PLAYGROUP,School/college/university,7845,5,,586241,0,,54.44894900000000,5376,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69868400000000,BT71 7SN,2013-09-23,fhrs_5_en-GB,5,,FHRS,0
-408804,Killyman Road,Coolhill,Dungannon,Tyrone,MOY PARK LTD RETAIL SHOP,Retailers - other,4613,0,,586492,5,,54.49606800000000,842,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.73915300000000,BT71 6LN,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-408805,12 Dungannon Road,Moy,Moy,Tyrone,MOY REGIONAL SCHOOL,School/college/university,7845,0,,586488,0,,54.44894900000000,836,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69868400000000,BT71 7SN,2013-09-09,fhrs_5_en-GB,5,,FHRS,0
-408806,97 Donaghmore Road,Dungannon,,Co Tyrone,NAISCOIL AODHA RUA,School/college/university,7845,5,,586346,0,,54.45430700000000,5720,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.73713800000000,BT71 7EW,2014-11-19,fhrs_5_en-GB,5,,FHRS,0
-408807,54 C Newell Road,Drumcoo,Dungannon,Tyrone,New Lucky Bowl Chinese Takeaway,Takeaway/sandwich shop,7844,10,,586208,10,,54.50787600000000,5213,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78064400000000,BT70 1EG,2014-12-17,fhrs_3_en-GB,3,,FHRS,5
-408808,11 Lineside,,Coalisland,Co Tyrone,NEWELL STORES,Retailers - other,4613,0,,586399,0,,54.53975800000000,5809,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70022900000000,BT71 4LP,2014-11-27,fhrs_5_en-GB,5,,FHRS,0
-408809,50 Newell Road,Drumcoo,Dungannon,Tyrone,NEWELL STORES LTD,Retailers - other,4613,5,,586010,5,,54.50787600000000,220,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78064400000000,BT70 1EG,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-408810,82 Annaginny Road,Newmills,Dungannon,Co Tyrone,NEWMILLS PLAYGROUP,School/college/university,7845,5,,586193,0,,54.55057600000000,5180,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74547700000000,BT71 4EA,2014-11-19,fhrs_5_en-GB,5,,FHRS,0
-408811,96 Farlough Road,Doras,Dungannon,Tyrone,NEWMILLS PRIMARY SCHOOL,School/college/university,7845,0,,586098,0,,54.55005200000000,434,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.73999100000000,BT71 4DX,2013-04-23,fhrs_5_en-GB,5,,FHRS,5
-408812,138 Main Street,Fivemiletown,Fivemiletown,Tyrone,NI CO-OP (CWS),Retailers - other,4613,0,,586442,0,,54.37802600000000,618,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-408813,34 Old Eglish Road,Mullaghanagh,Dungannon,Tyrone,NIGHTINGALE CARE HOME,Hospitals/Childcare/Caring Premises,5,0,,586334,0,,54.49234000000000,5655,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77417700000000,BT71 7PA,2015-01-06,fhrs_5_en-GB,5,,FHRS,5
-408814,45 Main Street,Clogher Tenements,Clogher,Tyrone,NISA TODAY,Retailers - other,4613,10,,586054,0,,54.41166200000000,327,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2012-02-02,fhrs_4_en-GB,4,,FHRS,5
-408815,230 Ballygawley Road,Cabragh,Dungannon,Tyrone,NOREEN'S DINER,Restaurant/Cafe/Canteen,1,5,,586033,0,,54.48814000000000,273,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.90463400000000,BT70 1TF,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-408816,20-26 Coalisland Road,Dungannon,,Co Tyrone,OAKRIDGE INTENSIVE SUPPORT UNIT,Hospitals/Childcare/Caring Premises,5,0,,586378,0,,54.52166800000000,577,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75782300000000,BT71 6LA,2014-06-18,fhrs_5_en-GB,5,,FHRS,0
-408817,20 Coalisland Road,Drumcoo,Dungannon,Tyrone,OAKRIDGE SOCIAL EDUCATION CENTRE,Other catering premises,7841,5,,586396,0,,54.52166800000000,580,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75782300000000,BT71 6LA,2014-06-18,fhrs_5_en-GB,5,,FHRS,0
-408818,21 Donaghmore Road,Drumcoo,Dungannon,Tyrone,O'NEILL'S,Retailers - other,4613,5,,586153,5,,54.50552700000000,5023,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77490900000000,BT70 1EZ,2012-07-27,fhrs_5_en-GB,5,,FHRS,5
-408819,29 Gortgonis Road,Gortgonis,Coalisland,Tyrone,O'NEILL'S,Retailers - other,4613,5,,586227,5,,54.53571400000000,5280,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69513600000000,BT71 4QF,2013-10-07,fhrs_4_en-GB,4,,FHRS,10
-408820,26 The Square,Gortgonis,Coalisland,Tyrone,O'NEILLS BAR,Pub/bar/nightclub,7843,5,,586159,5,,54.53964500000000,504,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70309100000000,BT71 4LN,2012-10-18,fhrs_4_en-GB,4,,FHRS,10
-408821,57-59 Moore Street,Derrycush,Aughnacloy,Tyrone,ORIENTAL PALACE,Takeaway/sandwich shop,7844,5,,585936,0,,54.41582800000000,103,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97825300000000,BT69 6AX,2014-08-07,fhrs_4_en-GB,4,,FHRS,10
-408822,55 Main Road,Moygashel,Moygashel,Tyrone,P Busby's Vivo Stores,Retailers - other,4613,5,,586510,10,,54.48166800000000,903,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75402200000000,BT71 7RJ,2014-05-21,fhrs_4_en-GB,4,,FHRS,5
-408823,Galbally Community Centre,40 Lurgylea Road,Galbally,,PADDINGTON PLAYGROUP,School/college/university,7845,5,,586167,0,,54.54152700000000,5065,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.89835200000000,BT70 2NX,2013-09-23,fhrs_5_en-GB,5,,FHRS,0
-408824,24 Main Street,Brackaville,Coalisland,Tyrone,PADDY'S BAR,Pub/bar/nightclub,7843,10,,586112,5,,54.54075700000000,453,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70126400000000,BT71 4NB,2013-05-01,fhrs_3_en-GB,3,,FHRS,10
-408825,190 Ballygawley Road,Killymaddy (Evans),Dungannon,Tyrone,Panda Cross Community Playgroup,School/college/university,7845,0,,642724,0,,54.48814000000000,5946,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.90463400000000,BT70 1TF,2014-02-21,fhrs_5_en-GB,5,,FHRS,0
-408826,2 Dungannon Street,Moy,Moy,Tyrone,PAOLOS PETE-ZA,Restaurant/Cafe/Canteen,1,0,,586233,5,,54.44783300000000,5309,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69520500000000,BT71 7SH,2014-09-18,fhrs_5_en-GB,5,,FHRS,5
-408827,57 Parkanaur Road,Stakernagh,Dungannon,Tyrone,PARKANAUR COLLEGE,Hospitals/Childcare/Caring Premises,5,10,,586045,5,,54.49730300000000,300,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.85043000000000,BT70 3AA,2013-12-03,fhrs_4_en-GB,4,,FHRS,5
-408828,57 Parkanaur Road,Stakernagh,Dungannon,Tyrone,PARKANAUR MANOR HOUSE (EVENTS),Restaurant/Cafe/Canteen,1,5,,586282,0,,54.49730300000000,5545,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.85043000000000,BT70 3AA,2014-05-14,fhrs_4_en-GB,4,,FHRS,10
-408829,13 Main Street,Ballygawley,Ballygawley,Tyrone,PAT TRAYNOR BUTCHERS,Manufacturers/packers,7839,5,,585974,5,,54.46202800000000,150,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02791400000000,BT70 2HD,2013-07-17,fhrs_4_en-GB,4,,FHRS,10
-408830,59 Irish Street,Drumcoo,Dungannon,Tyrone,PAUL DONAGHY CHEMIST,Retailers - other,4613,,,586423,,,54.50397400000000,5860,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77231600000000,BT70 1DQ,2013-05-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-408831,12 - 22 Church Street,Ballygawley,Ballygawley,Tyrone,PETE - ZA,Takeaway/sandwich shop,7844,5,,586077,5,,54.46293500000000,3899,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.03009800000000,BT70 2HB,2014-02-07,fhrs_5_en-GB,5,,FHRS,5
-408832,208 Ballynakilly Road,Cohannan,Coalisland,Tyrone,PG CHIPS,Takeaway/sandwich shop,7844,0,,586247,5,,54.50021400000000,5409,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.65865000000000,BT71 6HJ,2013-11-04,fhrs_5_en-GB,5,,FHRS,0
-408833,9 Dungannon Street,Moy,Moy,Tyrone,PG CHIPS,Takeaway/sandwich shop,7844,5,,586486,5,,54.44783300000000,827,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69520500000000,BT71 7SH,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-408834,Unit 5 Gortmerron Parade,Gortmerron Link Road,Dungannon,Co Tyrone,PG CHIPS,Takeaway/sandwich shop,7844,0,,586370,0,,54.49406300000000,5749,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75021900000000,BT71 6LS,2014-08-28,fhrs_5_en-GB,5,,FHRS,0
-408835,60 Main Street,Ballygawley,Ballygawley,Tyrone,PHOENIX HOUSE,Takeaway/sandwich shop,7844,5,,586424,0,,54.46169000000000,5869,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02829200000000,BT70 2HE,2014-12-12,fhrs_4_en-GB,4,,FHRS,10
-408836,113 Washingbay Road,Ping Welcome,Coalisland,Co Tyrone,PING WELCOME,Takeaway/sandwich shop,7844,10,,586145,10,,54.53719800000000,5007,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.65998600000000,BT71 4QE,2014-12-09,fhrs_3_en-GB,3,,FHRS,10
-408837,95 Main Street,,Fivemiletown,Co Tyrone,Pinochos,Restaurant/Cafe/Canteen,1,10,,655784,0,,54.37811000000000,5991,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31589500000000,BT75 0PG,2014-04-03,fhrs_4_en-GB,4,,FHRS,10
-408838,44a The Square,Gortgonis,Coalisland,Tyrone,PIZZA BASE,Takeaway/sandwich shop,7844,5,,586120,5,,54.53964500000000,4877,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70309100000000,BT71 4LN,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-408839,160 Moore Street,Derrycush,Aughnacloy,Tyrone,Pizza Junction,Restaurant/Cafe/Canteen,1,5,,702483,0,,54.41398500000000,6045,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97494100000000,BT69 6AA,2014-09-04,fhrs_5_en-GB,5,,FHRS,0
-408840,23-25 Scotch Street,Drumcoo,Dungannon,Tyrone,POUNDLAND,Retailers - other,4613,5,,586245,5,,54.50360100000000,5404,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77015000000000,BT70 1AR,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-408841,Unit 16 Oaks Road,,Dungannon,Tyrone,POUNDSTRETCHER,Retailers - other,4613,5,,585985,5,,54.51144200000000,1675,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76290500000000,BT71 4NA,2013-11-05,fhrs_4_en-GB,4,,FHRS,10
-408842,200 Coalisland Road,Edendork,Dungannon,Tyrone,POWERSCREEN/TEREX,Restaurant/Cafe/Canteen,1,5,,585988,0,,54.52925600000000,1725,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.73845400000000,BT71 4DR,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-408843,4 School Lane,Brackaville,Coalisland,Tyrone,PRIMATE DIXON PRIMARY SCHOOL,School/college/university,7845,0,,586097,0,,54.54593900000000,431,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70692500000000,BT71 4NW,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-408844,29 Carland Road,Drumcoo,Dungannon,Tyrone,QUINNS,Retailers - other,4613,5,,586514,0,,54.51094400000000,917,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76775300000000,BT71 4AA,2014-06-05,fhrs_5_en-GB,5,,FHRS,0
-408845,68 Scotch Street,Drumcoo,Dungannon,Tyrone,QUINNS BAR,Pub/bar/nightclub,7843,0,,585948,0,,54.50222400000000,1102,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77253800000000,BT70 1BJ,2013-01-07,fhrs_5_en-GB,5,,FHRS,0
-408846,78 Main Street,,Ballygawley,Co Tyrone,QUINNS BAR,Pub/bar/nightclub,7843,5,,585984,5,,54.46169000000000,164,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02829200000000,BT70 2HE,2012-03-30,fhrs_5_en-GB,5,,FHRS,5
-408847,51 Main Street,Ballygawley,Ballygawley,Tyrone,QUINNS BUTCHERS,Manufacturers/packers,7839,10,,586361,10,,54.46202800000000,5737,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02791400000000,BT70 2HD,2014-01-14,fhrs_3_en-GB,3,,FHRS,5
-408848,175 Ballygawley Road,Edenacrannon,Dungannon,Tyrone,QUINN'S CORNER,Pub/bar/nightclub,7843,5,,586031,5,,54.48784600000000,271,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.86493800000000,BT70 1RX,2013-08-27,fhrs_5_en-GB,5,,FHRS,5
-408849,6 Scotch Street,Drumcoo,Dungannon,Tyrone,QUINNS NEWSAGENTS,Retailers - other,4613,,,585941,,,54.50360100000000,1064,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77015000000000,BT70 1AR,2013-06-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-408850,14 Killyman Street,Moy,Moy,Tyrone,R M NEILL BUTCHERS,Manufacturers/packers,7839,10,,586494,5,,54.44757400000000,850,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69037200000000,BT71 7SJ,2013-11-05,fhrs_4_en-GB,4,,FHRS,5
-408851,94/96 Moore Street,Aughnacloy,,Co Tyrone,RAINBOW CAFE,Restaurant/Cafe/Canteen,1,5,,585950,0,,54.41598500000000,111,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97777200000000,BT69 6AY,2014-02-05,fhrs_5_en-GB,5,,FHRS,5
-408852,2 Stiloga Road,Stiloga,Dungannon,Tyrone,RAINBOW COMMUNITY CHILDCARE,School/college/university,7845,5,,586302,5,,54.44956200000000,5590,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.79058000000000,BT71 7DW,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-408853,127 Main Street,Clogher Tenements,Clogher,Tyrone,Rathmore Bar,Pub/bar/nightclub,7843,0,,655786,0,,54.41166200000000,5997,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2014-02-21,fhrs_5_en-GB,5,,FHRS,0
-408854,5 Northland Place,Dungannon,,,RELISH,Restaurant/Cafe/Canteen,1,10,,586433,5,,54.50129600000000,5895,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74691100000000,BT71 6UB,2013-09-09,fhrs_4_en-GB,4,,FHRS,5
-408855,145 Main Street,Fivemiletown,Fivemiletown,Tyrone,RICHARD'S BAKERY,Restaurant/Cafe/Canteen,1,10,,586186,10,,54.37811000000000,5149,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31589500000000,BT75 0PG,2014-09-11,fhrs_2_en-GB,2,,FHRS,15
-408856,1 Old Omagh Road,Lisgonnell,Ballygawley,Tyrone,RICHMOND PRIMARY SCHOOL,School/college/university,7845,0,,586452,0,,54.46558100000000,65,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.03972100000000,BT70 2EZ,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-408857,Unit 1,George Street,Dungannon,Co Tyrone,RIO BINGO CLUB,Restaurant/Cafe/Canteen,1,5,,586230,5,,54.50289800000000,5298,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77256400000000,BT70 1BP,2013-11-07,fhrs_5_en-GB,5,,FHRS,0
-408858,114 Killyliss Road,Roan,Dungannon,Tyrone,ROAN PRIMARY SCHOOL,School/college/university,7845,5,,586016,0,,54.45350800000000,233,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.79789500000000,BT70 1LE,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-408859,110 Trewmount Road,Bogbane,Moy,Tyrone,Roo's Hot Food Bar,Mobile caterer,7846,10,,686402,10,,54.48094100000000,6028,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.68213100000000,BT71 7EE,2014-07-08,fhrs_4_en-GB,4,,FHRS,0
-408860,11 The Square,Brackaville,Coalisland,Tyrone,ROSSMORE BAR,Pub/bar/nightclub,7843,0,,586138,0,,54.53964500000000,499,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70309100000000,BT71 4LN,2014-05-30,fhrs_4_en-GB,4,,FHRS,10
-408861,51 Moore Street,Derrycush,Aughnacloy,Tyrone,ROSSMORE BAR,Pub/bar/nightclub,7843,0,,585937,0,,54.41582800000000,104,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97825300000000,BT69 6AX,2014-08-07,fhrs_5_en-GB,5,,FHRS,0
-408862,Tullaghbeg Road,Newmills,Dungannon,Co Tyrone,ROUGHAN HOUSE RESIDENTIAL HOME,Hospitals/Childcare/Caring Premises,5,5,,586169,5,,54.55497600000000,5081,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.72461500000000,BT71 4HB,2014-02-17,fhrs_5_en-GB,5,,FHRS,5
-408863,2 Dungannon Road,Moy,Moy,Tyrone,ROXBOROUGH HOUSE,Other catering premises,7841,0,,586500,0,,54.44894900000000,870,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69868400000000,BT71 7SN,2013-11-26,fhrs_5_en-GB,5,,FHRS,0
-408864,52f Scotch Street,,Dungannon,Tyrone,ROYAL BRITISH LEGION,Retailers - other,4613,5,,585947,5,,54.50298800000000,1093,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77166600000000,BT70 1BD,2014-03-13,fhrs_5_en-GB,5,,FHRS,0
-408865,163 Ballagh Road,Ballyvaddan,Fivemiletown,Tyrone,ROYAL BRITISH LEGION CLUB,Retailers - other,4613,5,,586439,0,,54.37919400000000,615,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.30895100000000,BT75 0QP,2012-08-22,fhrs_5_en-GB,5,,FHRS,5
-408866,2 Ranfurly Road,Dungannon,Dungannon,Co Tyrone,"ROYAL SCHOOL, DUNGANNON",School/college/university,7845,5,,586476,0,,54.50312100000000,787,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76354200000000,BT71 6EG,2013-12-04,fhrs_5_en-GB,5,,FHRS,5
-408867,90 Moor Road,Dernagh,Coalisland,Tyrone,S HUGHES PETROL FILLING STATION,Retailers - other,4613,10,,585963,0,,54.54700700000000,1175,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.67207400000000,BT71 5DB,2014-05-14,fhrs_4_en-GB,4,,FHRS,0
-408868,20 Carland Road,Dungannon,,Co Tyrone,S T HOSPITAL CATERING DEPT & FLOOR D,Hospitals/Childcare/Caring Premises,5,0,,586321,0,,54.51028000000000,563,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77053600000000,BT71 4AU,2014-08-07,fhrs_5_en-GB,5,,FHRS,5
-408869,Oaks Road,Dungannon,,Co Tyrone,SAINSBURYS PETROL STATION,Retailers - other,4613,5,,586197,0,,54.51144200000000,5187,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76290500000000,BT71 4NA,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-408870,The Oaks Centre,Oaks Road,Dungannon,Co Tyrone,SAINSBURY'S PLC (SUPERMARKET),Retailers - other,4613,0,,586178,0,,54.51144200000000,5124,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76290500000000,BT71 4NA,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-408871,90-92 Moore Street,Aughnacloy,Dungannon,Co Tyrone,SALLEYS BAR & RESTAURANT,Restaurant/Cafe/Canteen,1,5,,585946,0,,54.41598500000000,109,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97777200000000,BT69 6AY,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-408872,Tullyvannon,Ballygawley,,Co Tyrone,SANDVIK,Restaurant/Cafe/Canteen,1,5,,586137,5,,54.48967600000000,4985,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.95843400000000,BT70 2HW,2014-02-13,fhrs_4_en-GB,4,,FHRS,10
-408873,17 Annagher Road,Annagher,Coalisland,Tyrone,SANVILLE PRIVATE NURSING HOME,Hospitals/Childcare/Caring Premises,5,5,,586069,0,,54.54282300000000,365,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69541900000000,BT71 4NE,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-408874,74 Main Street,,Fivemiletown,Tyrone,SCOTTS BAR,Pub/bar/nightclub,7843,5,,586451,0,,54.37802600000000,648,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2012-08-01,fhrs_5_en-GB,5,,FHRS,5
-408875,Unit 5,Oaks Shopping Centre,Oaks Road,,SEMI-CHEM,Retailers - other,4613,,,586012,,,54.51144200000000,2265,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76290500000000,BT71 4NA,2012-06-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-408876,Shamble Lane,52 Irish Street,Dungannon,Co Tyrone,SHAMBLES SNACK BAR,Restaurant/Cafe/Canteen,1,5,,586090,5,,54.50416800000000,4256,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77105900000000,BT70 1DB,2014-04-23,fhrs_5_en-GB,5,,FHRS,5
-408877,41 Main Street,Fivemiletown,Fivemiletown,Tyrone,Signature Grill And Wine Bar,Restaurant/Cafe/Canteen,1,10,,679344,0,,54.37811000000000,5999,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31589500000000,BT75 0PG,2014-05-29,fhrs_4_en-GB,4,,FHRS,5
-408878,1 Ballynakilly Road,Derry,Coalisland,Tyrone,SILVERSTREAM SPAR,Retailers - other,4613,10,,586152,10,,54.53455900000000,5020,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70048700000000,BT71 4HU,2014-02-13,fhrs_3_en-GB,3,,FHRS,10
-408879,23 Main Street,Donaghmore,Donaghmore,Tyrone,SINNAMONS (CENTRA),Retailers - other,4613,10,,585994,10,,54.53068300000000,1756,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81011700000000,BT70 3ES,2013-06-11,fhrs_3_en-GB,3,,FHRS,5
-408880,64 Pomeroy Road,Skea,Dungannon,Tyrone,SKEA FILLING STATION,Retailers - other,4613,10,,586221,5,,54.54654400000000,5261,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83825900000000,BT70 2TZ,2014-10-01,fhrs_4_en-GB,4,,FHRS,5
-408881,11 Market Square,Drumcoo,Dungannon,Tyrone,SLOANS NEWSAGENT,Retailers - other,4613,5,,585933,0,,54.50444100000000,1014,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76876700000000,BT70 1AB,2013-07-08,fhrs_5_en-GB,5,,FHRS,0
-408882,Unit 3 Feenys Lane,Drumcoo,Dungannon,Tyrone,Smakosz,Retailers - other,4613,5,,642727,0,,54.50554700000000,5973,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76973700000000,BT70 1TX,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-408883,Clogher Valley Caravan Pk,9 Fardross Rd,Clogher,Co Tyrone,SOMER'S COFFEE SHOP,Restaurant/Cafe/Canteen,1,5,,586242,0,,54.38646000000000,5379,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.20243700000000,BT76 0HG,2013-11-22,fhrs_5_en-GB,5,,FHRS,5
-408884,52a Moor Road,Annaghmore,Coalisland,Tyrone,SPAR,Retailers - other,4613,10,,585993,15,,54.52969600000000,1755,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.67374800000000,BT71 4QB,2014-11-13,fhrs_2_en-GB,2,,FHRS,15
-408885,20 Moy Road,Gortmerron,Dungannon,Tyrone,SPAR RANFURLY / THE STREAT,Retailers - other,4613,5,,586093,10,,54.49369500000000,4294,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75379500000000,BT71 7DS,2014-09-04,fhrs_3_en-GB,3,,FHRS,10
-408886,Coalisland Rd,Dungannon,,Co Tyrone,SPERRINVIEW SPECIAL SCHOOL,School/college/university,7845,0,,585979,0,,54.51636600000000,1525,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76294100000000,BT71 6FA,2013-09-12,fhrs_5_en-GB,5,,FHRS,0
-408887,2 Washingbay Road,Springisland Supermarket,Coalisland,Tyrone,SPRINGISLAND SUPERMARKET LTD,Retailers - other,4613,5,,585968,5,,54.53465500000000,1181,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69107600000000,BT71 4RD,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-408888,34 Market Square,Dungannon,,Co Tyrone,SQUARE BAR,Pub/bar/nightclub,7843,0,,585932,0,,54.50444100000000,1008,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76876700000000,BT70 1AB,2013-08-05,fhrs_5_en-GB,5,,FHRS,5
-408889,11 Dunroe Road,Augher Tenements,Augher,Tyrone,ST BRIGID'S PRIMARY,School/college/university,7845,5,,586436,0,,54.42740800000000,6,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.12719100000000,BT77 0EE,2013-12-11,fhrs_5_en-GB,5,,FHRS,0
-408890,166 Mountjoy Road,Magheralamfield,Stewartstown,Tyrone,ST BRIGIDS PRIMARY SCHOOL,School/college/university,7845,5,,586075,0,,54.55869800000000,387,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.60598100000000,BT71 5DY,2013-09-24,fhrs_5_en-GB,5,,FHRS,5
-408891,5 Tullybryan Road,Grange,Ballygawley,Tyrone,ST CIARAN'S COLLEGE,School/college/university,7845,0,,586453,0,,54.45566400000000,68,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.03754800000000,BT70 2LY,2013-10-09,fhrs_5_en-GB,5,,FHRS,5
-408892,15 Benburb Road,Moy,Moy,Tyrone,ST JOHN'S PRIMARY SCHOOL,School/college/university,7845,0,,586482,5,,54.44481000000000,808,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69732000000000,BT71 7SQ,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-408893,56 Reenaderry Road,Derrytresk,Coalisland,Tyrone,ST JOHN'S PRIMARY SCHOOL MEALS KITCHEN,School/college/university,7845,5,,585966,0,,54.52326000000000,1178,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.62598600000000,BT71 4QN,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-408894,14 Derrycourtney Road,Caledon,Caledon,Tyrone,ST JOSEPH PRIMARY SCHOOL,School/college/university,7845,5,,586020,5,,54.35070700000000,246,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83956400000000,BT68 4UF,2012-09-26,fhrs_5_en-GB,5,,FHRS,5
-408895,58 Castlecaulfield Road,Mullygruen,Dungannon,Tyrone,ST JOSEPH'S GRAMMAR SCHOOL,School/college/university,7845,5,,586228,0,,54.53050400000000,529,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81744400000000,BT70 3HE,2014-06-18,fhrs_5_en-GB,5,,FHRS,0
-408896,29 School Lane,Brackaville,Coalisland,Tyrone,ST JOSEPH'S HIGH SCHOOL,School/college/university,7845,0,,586119,0,,54.54593900000000,483,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70692500000000,BT71 4NW,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-408897,7 Lurgylea Road,Galbally,Dungannon,Tyrone,ST JOSEPHS PRIMARY SCHOOL,School/college/university,7845,0,,585930,0,,54.54152700000000,10,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.89835200000000,BT70 2NX,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-408898,4 Clogher Courtyard,Clogher Demesne,Clogher,Tyrone,ST MACARTAN'S PRIMARY SCHOOL,School/college/university,7845,0,,586049,0,,54.41166200000000,307,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-408899,74 Main Street,Clogher Demesne,Clogher,Tyrone,ST MACARTANS PRIVATE NURSING HOME,Hospitals/Childcare/Caring Premises,5,5,,586057,0,,54.41166200000000,337,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2013-11-04,fhrs_5_en-GB,5,,FHRS,5
-408900,107 Omagh Road,Glenchuil,Ballygawley,Tyrone,ST MALACHY'S PRIMARY SCHOOL,School/college/university,7845,0,,586448,0,,54.47546000000000,64,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.07378100000000,BT70 2DB,2013-11-06,fhrs_5_en-GB,5,,FHRS,0
-408901,16 Lisnagowan Road,Lisboy,Dungannon,Tyrone,ST MARYS PRIMARY SCHOOL,School/college/university,7845,5,,586256,0,,54.54962400000000,543,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78595100000000,BT70 3LH,2013-12-03,fhrs_5_en-GB,5,,FHRS,5
-408902,1 Caledon Road,Derrycush,Aughnacloy,Tyrone,ST MARY'S PRIMARY SCHOOL,School/college/university,7845,0,,586463,0,,54.41264200000000,73,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97341900000000,BT69 6AL,2014-05-01,fhrs_5_en-GB,5,,FHRS,0
-408903,10 Whites Road,Fasglashagh,Dungannon,Tyrone,ST MARY'S PRIMARY SCHOOL,School/college/university,7845,0,,585997,0,,54.49131600000000,183,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.92311400000000,BT70 3AN,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-408904,2 Whitebridge Road,Ballygawley,Ballygawley,Tyrone,ST MARY'S PRIMARY SCHOOL,School/college/university,7845,5,,585995,0,,54.47054600000000,181,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.03030300000000,BT70 2JH,2014-09-15,fhrs_5_en-GB,5,,FHRS,5
-408905,70 Colebrook Road,Corcreevy Demesne,Fivemiletown,Tyrone,ST MARY'S PRIMARY SCHOOL,School/college/university,7845,0,,586444,0,,54.37396000000000,627,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.32547300000000,BT75 0SA,2013-11-21,fhrs_5_en-GB,5,,FHRS,5
-408906,37 Killymeal Road,Dungannon,,Co Tyrone,ST PATRICKS ACADEMY CANTEEN,School/college/university,7845,5,,586472,0,,54.50805300000000,761,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75832900000000,BT71 6DS,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-408907,1 Killyman Road,Drumcoo,Dungannon,Tyrone,ST PATRICKS CO ED PRIMARY SCHOOL,School/college/university,7845,0,,586469,5,,54.50412200000000,755,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75960600000000,BT71 6DE,2013-11-25,fhrs_5_en-GB,5,,FHRS,5
-408908,41 Killymeal Road,Mullaghadun,Dungannon,Tyrone,ST PATRICK'S COLLEGE,School/college/university,7845,0,,586473,0,,54.50994500000000,764,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75621800000000,BT71 6LJ,2014-04-11,fhrs_5_en-GB,5,,FHRS,0
-408909,32 Aghindarragh Road,Aghindarragh East,Augher,Tyrone,ST PATRICKS PRIMARY SCHOOL,School/college/university,7845,0,,586004,0,,54.39110800000000,2,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.10667200000000,BT77 0ET,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-408910,10 Annaghmore Road,Annaghmore,Coalisland,Tyrone,ST PATRICK'S PRIMARY SCHOOL,School/college/university,7845,5,,585961,5,,54.53001500000000,1164,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.66116400000000,BT71 4QZ,2013-09-09,fhrs_5_en-GB,5,,FHRS,0
-408911,16 Pomeroy Road,Mullygruen,Donaghmore,Tyrone,ST PATRICK'S PRIMARY SCHOOL,School/college/university,7845,0,,586157,0,,54.53346100000000,5033,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81669400000000,BT70 3HG,2014-06-12,fhrs_5_en-GB,5,,FHRS,5
-408912,16 The Square,Moy,Moy,Tyrone,STABLES (RYANDALE),Restaurant/Cafe/Canteen,1,,,586504,,,54.44780100000000,878,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69221500000000,BT71 7SG,2013-01-23,fhrs_5_en-GB,5,,FHRS,
-408913,83 Main Street,Clogher Tenements,Clogher,Tyrone,STOCKDALE & SON,Retailers - other,4613,10,,586059,5,,54.41166200000000,339,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2013-12-12,fhrs_3_en-GB,3,,FHRS,10
-408914,1 Church Street,Drumcoo,Dungannon,Tyrone,SUBWAY,Restaurant/Cafe/Canteen,1,5,,586199,0,,54.50365600000000,5189,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76939200000000,BT71 6AB,2014-11-26,fhrs_5_en-GB,5,,FHRS,5
-408915,212 Ballynakilly Road,Cohannan,Coalisland,Tyrone,SUBWAY (BALLYNAKILLY),Takeaway/sandwich shop,7844,5,,586289,10,,54.50021400000000,5569,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.65865000000000,BT71 6HJ,2014-04-01,fhrs_4_en-GB,4,,FHRS,5
-408916,,,,,Sugar & Spice Hot Food Stand,Mobile caterer,7846,10,,686405,5,,,6036,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-06-30,fhrs_3_en-GB,3,,FHRS,10
-408917,17 Grange Road,Grange,Ballygawley,Tyrone,SUITOR GALLERY CRAFTS,Restaurant/Cafe/Canteen,1,5,,585999,0,,54.45937900000000,187,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.02916400000000,BT70 2LP,2013-04-30,fhrs_5_en-GB,5,,FHRS,0
-408918,Oaks Centre,Oaks Road,Dungannon,Co Tyrone,SUPERMACS/PAPA JOHNS,Restaurant/Cafe/Canteen,1,10,,586179,10,,54.51144200000000,5125,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76290500000000,BT71 4NA,2014-08-18,fhrs_3_en-GB,3,,FHRS,10
-408919,2 Moore Street,Derrycush,Aughnacloy,Tyrone,SUPERVALU (POUNDHILL CENTRE),Retailers - other,4613,5,,586520,10,,54.41598500000000,99,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97777200000000,BT69 6AY,2014-09-26,fhrs_4_en-GB,4,,FHRS,5
-408920,30 Dungannon Road,Gortgonis,Coalisland,Tyrone,SUPERVALU COALISLAND,Retailers - other,4613,5,,586252,10,,54.53889900000000,5422,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70555600000000,BT71 4HP,2013-07-18,fhrs_4_en-GB,4,,FHRS,5
-408921,22 Perry Street,Drumcoo,Dungannon,Tyrone,SU'S HOT FOOD BAR,Takeaway/sandwich shop,7844,5,,586481,10,,54.50341700000000,801,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76702200000000,BT71 6AJ,2014-09-25,fhrs_3_en-GB,3,,FHRS,10
-408922,64 Dernanaught Road,Galbally,Dungannon,Tyrone,TALLYS BAR,Pub/bar/nightclub,7843,5,,586395,5,,54.53608000000000,5796,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.88717500000000,BT70 2NR,2012-11-19,fhrs_5_en-GB,5,,FHRS,5
-408923,40 Main Street,Ballyvaddan,Fivemiletown,Tyrone,TANYARD TAVERN,Pub/bar/nightclub,7843,0,,586449,0,,54.37802600000000,641,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2014-06-19,fhrs_5_en-GB,5,,FHRS,0
-408924,,,,,TASTY BITE,Mobile caterer,7846,5,,585978,0,,,1522,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-04-17,fhrs_5_en-GB,5,,FHRS,0
-408925,90 Main Street,Fivemiletown,Fivemiletown,Tyrone,Tasty House,Takeaway/sandwich shop,7844,10,,642729,5,,54.37802600000000,5987,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2014-02-14,fhrs_2_en-GB,2,,FHRS,15
-408926,121 Brackaville Road,Roughan,Coalisland,Tyrone,Tasty Macs,Takeaway/sandwich shop,7844,5,,655781,5,,54.55044600000000,5970,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.71767800000000,BT71 4NL,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-408927,43 Main Street,Clogher Tenements,Clogher,Tyrone,Tener Brothers Family Butchers,Retailers - other,4613,,,642728,,,54.41166200000000,5981,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2014-06-10,fhrs_4_en-GB,4,,FHRS,
-408928,28 Main Street,Drumreany,Castlecaulfield,Tyrone,TENER'S BUTCHERS,Manufacturers/packers,7839,10,,586039,0,,54.50774700000000,289,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83591800000000,BT70 3NP,2014-01-20,fhrs_4_en-GB,4,,FHRS,0
-408929,Beechvalley,Ballysaggart,Dungannon,Tyrone,TESCO STORES LIMITED,Retailers - other,4613,10,,586006,10,,54.50050900000000,201,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77529100000000,BT71 7BN,2014-02-17,fhrs_3_en-GB,3,,FHRS,10
-408930,24 The Square,Moy,Moy,Tyrone,THE AUCTION ROOMS,Pub/bar/nightclub,7843,0,,586301,0,,54.44780100000000,5585,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69221500000000,BT71 7SG,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-408931,135 Annagher Road,Annagher,Coalisland,Tyrone,THE BEER SHED,Retailers - other,4613,,,586104,,,54.54282300000000,4438,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69541900000000,BT71 4NE,2012-07-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-408932,73 Castlecaulfield Road,Donaghmore,Dungannon,Tyrone,THE BREWERS HOUSE,Restaurant/Cafe/Canteen,1,5,,586316,10,,54.53086700000000,5617,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81327800000000,BT70 3HB,2014-06-04,fhrs_3_en-GB,3,,FHRS,10
-408933,20 Pomeroy Road,Mullygruen,Donaghmore,Tyrone,THE BREWERY OFFSALES,Retailers - other,4613,,,586336,,,54.53346100000000,5657,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81669400000000,BT70 3HG,2012-02-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-408934,48 Main Street,Brackaville,Coalisland,Tyrone,THE CEILI HOUSE,Pub/bar/nightclub,7843,5,,586310,5,,54.54075700000000,5601,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70126400000000,BT71 4NB,2014-12-23,fhrs_5_en-GB,5,,FHRS,5
-408935,30a Dungannon Road,Coalisland,Coalisland,Co Tyrone,The Cellar,Retailers - other,4613,,,586084,,,54.53889900000000,404,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70555600000000,BT71 4HP,2013-07-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-408936,5 Main Street,Clogher Tenements,Clogher,Tyrone,THE COUNTRY CHIP,Takeaway/sandwich shop,7844,5,,586253,0,,54.41166200000000,5423,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2013-11-22,fhrs_5_en-GB,5,,FHRS,5
-408937,141 - 143 Moore Street,Derrycush,Aughnacloy,Tyrone,The Diamond,Restaurant/Cafe/Canteen,1,5,,718439,0,,54.41443900000000,6067,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97664000000000,BT69 6AR,2014-11-20,fhrs_4_en-GB,4,,FHRS,10
-408938,44 Perry Street,Drumcoo,Dungannon,Tyrone,THE DOME PIZZERIA,Takeaway/sandwich shop,7844,0,,586220,5,,54.50341700000000,5257,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76702200000000,BT71 6AJ,2014-03-19,fhrs_5_en-GB,5,,FHRS,0
-408939,Main Street,Fivemiletown,Fivemiletown,Tyrone,The Fair Ladies,Restaurant/Cafe/Canteen,1,5,,679346,0,,54.37802600000000,6002,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2014-05-29,fhrs_5_en-GB,5,,FHRS,0
-408940,56 Main Street,Augher Tenements,Augher,Tyrone,The Farmers Kitchen,Restaurant/Cafe/Canteen,1,5,,715578,5,,54.42843200000000,6060,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.13088300000000,BT77 0BG,2014-10-23,fhrs_5_en-GB,5,,FHRS,0
-408941,,,,,THE FLUFFY MERINGUE,Manufacturers/packers,7839,10,,586130,0,,,4921,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2014-09-02,fhrs_4_en-GB,4,,FHRS,10
-408942,Unit 28 2 Coalisland Road,,Dungannon,Co Tyrone,THE GARDEN DELI,Restaurant/Cafe/Canteen,1,5,,586332,5,,54.51520900000000,5652,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76404200000000,BT71 6JT,2014-12-10,fhrs_5_en-GB,5,,FHRS,5
-408943,34 Springfield Lane,Mullaghmore,Dungannon,Tyrone,The Golf Club Restaurant,Restaurant/Cafe/Canteen,1,10,,718438,10,,54.51623400000000,6064,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.78722000000000,BT70 1QX,2014-11-13,fhrs_3_en-GB,3,,FHRS,10
-408944,17 Quarry Lane,Drumcoo,Dungannon,Tyrone,THE HAVEN PRIVATE NURSING HOME,Hospitals/Childcare/Caring Premises,5,5,,585939,0,,54.51287400000000,1054,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77828700000000,BT70 1HX,2013-07-22,fhrs_5_en-GB,5,,FHRS,5
-408945,146 Moore Street,Derrycush,Aughnacloy,Tyrone,THE HUNTSMAN INN (DINKIES),Pub/bar/nightclub,7843,5,,585970,5,,54.41398500000000,123,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97494100000000,BT69 6AA,2012-01-20,fhrs_5_en-GB,5,,FHRS,5
-408946,27a The Linen Green,,Moygashel,Tyrone,THE LINEN GREEN FARM SHOP,Retailers - other,4613,10,,586322,5,,54.48701500000000,5630,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75160700000000,BT71 7HB,2014-11-27,fhrs_4_en-GB,4,,FHRS,5
-408947,10a The Linen Green,Moygashel,Moygashel,Co Tyrone,THE LOFT COFFEE BAR,Restaurant/Cafe/Canteen,1,5,,585989,0,,54.48701500000000,1737,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.75160700000000,BT71 7HB,2013-09-13,fhrs_5_en-GB,5,,FHRS,5
-408948,40 Main Street,Brackaville,Coalisland,Tyrone,THE MILLCOURT,Restaurant/Cafe/Canteen,1,5,,586116,5,,54.54075700000000,460,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70126400000000,BT71 4NB,2014-02-21,fhrs_5_en-GB,5,,FHRS,5
-408949,3 Thomas Street,Drumcoo,Dungannon,Tyrone,THE MILLWHEEL RESTAURANT,Restaurant/Cafe/Canteen,1,5,,585954,0,,54.50540800000000,1124,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77025000000000,BT70 1HN,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-408950,85 Main Street,Benburb,Benburb,Tyrone,The Molly & Mia Foundation,Retailers - other,4613,5,,655782,0,,54.41226000000000,5983,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74650200000000,BT71 7LG,2014-04-02,fhrs_5_en-GB,5,,FHRS,0
-408951,16 The Square,Moy,Moy,Tyrone,The Moy Larder,Restaurant/Cafe/Canteen,1,5,,620673,10,,54.44780100000000,5919,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69221500000000,BT71 7SG,2013-12-03,fhrs_4_en-GB,4,,FHRS,5
-408952,78 Main Street,Fivemiletown,Fivemiletown,Tyrone,THE VALLEY BUTCHER,Manufacturers/packers,7839,5,,586238,10,,54.37802600000000,5367,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2013-10-01,fhrs_4_en-GB,4,,FHRS,5
-408953,34 Main Street,Donaghmore,Donaghmore,Tyrone,THE VILLAGE TAKE AWAY,Takeaway/sandwich shop,7844,5,,586426,10,,54.53109400000000,5878,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81254500000000,BT70 3EZ,2013-07-23,fhrs_4_en-GB,4,,FHRS,5
-408954,88 Main Street,,Fivemiletown,Tyrone,The Wee Tea Room,Restaurant/Cafe/Canteen,1,,,631966,,,54.37802600000000,5935,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2014-05-06,fhrs_5_en-GB,5,,FHRS,
-408955,Ballysaggart Business Complex Ballygawley Road,Time 2 Be Me,Dungannon,Co Tyrone,TIME 2 BE ME,School/college/university,7845,0,,586372,0,,54.50284100000000,5759,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77931200000000,BT70 1BS,2014-06-11,fhrs_5_en-GB,5,,FHRS,0
-408956,Ballysaggart Business Complex Ballygawley Road,Dungannon Surestart,Dungannon,Tyrone,Time 2 Be Me,School/college/university,7845,0,,679359,5,,54.50284100000000,6032,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77931200000000,BT70 1BS,2014-06-11,fhrs_5_en-GB,5,,FHRS,5
-408957,10 Stewartstown Road,Surestart,Coalisland,Co Tyrone,Time 2 Be Me (surestart),School/college/university,7845,5,,586381,0,,54.54757200000000,5775,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69585500000000,BT71 4PF,2014-06-11,fhrs_5_en-GB,5,,FHRS,0
-408958,21 Pomeroy Road,Donaghmore,Donaghmore,Tyrone,TODAY'S EXTRA DONAGHMORE,Retailers - other,4613,10,,586371,5,,54.53346100000000,5754,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81669400000000,BT70 3HG,2014-02-25,fhrs_4_en-GB,4,,FHRS,5
-408959,30 Todds Leap Road,Ballymackilroy,Seskilgreen,Tyrone,TODDSLEAP ACTIVITY CENTRE,Restaurant/Cafe/Canteen,1,10,,586160,5,,54.48904900000000,5042,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.06989400000000,BT70 2BW,2013-12-17,fhrs_4_en-GB,4,,FHRS,5
-408960,9 The Square,Moy,Moy,Tyrone,TOMNEY'S LICENSED GUEST INN,Pub/bar/nightclub,7843,5,,586503,5,,54.44780100000000,876,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69221500000000,BT71 7SG,2012-07-24,fhrs_4_en-GB,4,,FHRS,10
-408961,Unit 5,Torrent Valley Business Park,Pomeroy Road,,TORRENT DELI,Restaurant/Cafe/Canteen,1,10,,586021,5,,54.53398100000000,2461,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81936700000000,BT70 3BF,2013-11-11,fhrs_4_en-GB,4,,FHRS,0
-408962,,,,,TRULY TRUFFLE,Other catering premises,7841,5,,586421,5,,,5858,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-07-03,fhrs_5_en-GB,5,,FHRS,5
-408963,3 Dungannon Street,Moy,Moy,Tyrone,TSAN WELCOME,Takeaway/sandwich shop,7844,20,,586415,10,,54.44783300000000,5851,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69520500000000,BT71 7SH,2014-04-24,fhrs_1_en-GB,1,,FHRS,10
-408964,7 Lineside,Gortgonis,Coalisland,Tyrone,TSAN WELCOME,Takeaway/sandwich shop,7844,10,,586073,5,,54.53975800000000,374,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70022900000000,BT71 4LP,2013-10-31,fhrs_4_en-GB,4,,FHRS,5
-408965,64 Main Street,Clogher,,Co Tyrone,TWO'S COMPANY -CLOGHER VALLEY SURE START,School/college/university,7845,5,,586375,0,,54.41166200000000,5764,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2014-03-06,fhrs_5_en-GB,5,,FHRS,0
-408966,64 Dernanaught Road,Galbally,Dungannon,Tyrone,U WELCOME,Restaurant/Cafe/Canteen,1,10,,586212,0,,54.53608000000000,5232,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.88717500000000,BT70 2NR,2014-10-14,fhrs_4_en-GB,4,,FHRS,10
-408967,41 Main Street,Gortgonis,Coalisland,Tyrone,UNCLE SAMS,Takeaway/sandwich shop,7844,5,,586117,5,,54.54075700000000,461,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70126400000000,BT71 4NB,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-408968,Willand Crescent,Fivemiletown,Fivemiletown,Tyrone,VALLEY FOLD,Other catering premises,7841,5,,586454,0,,54.37729500000000,684,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.32098600000000,BT75 0QL,2014-02-26,fhrs_5_en-GB,5,,FHRS,0
-408969,60 Main Street,Fivemiletown,Fivemiletown,Tyrone,VALLEY HOTEL,Hotel/bed & breakfast/guest house,7842,10,,586450,0,,54.37802600000000,645,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31526500000000,BT75 0PW,2013-08-06,fhrs_4_en-GB,4,,FHRS,5
-408970,8 Tullybroom Road,Ballymagowan,Clogher,Tyrone,VALLEY NURSING HOME,Hospitals/Childcare/Caring Premises,5,5,,586185,0,,54.42027800000000,5147,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17489800000000,BT76 0UW,2014-09-18,fhrs_5_en-GB,5,,FHRS,5
-408971,7 Main Street,Clogher Tenements,Clogher,Tyrone,VALLEY PHARMACY,Retailers - other,4613,,,586129,,,54.41166200000000,4917,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2006-08-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-408972,174 Tamnamore Road,Mullenakill West,Dungannon,Armagh,VERNERS INN COSTCUTTER,Retailers - other,4613,5,,586103,5,,54.48984700000000,4428,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.63544000000000,BT71 6NR,2013-10-30,fhrs_5_en-GB,5,,FHRS,5
-408973,41 Main Street,Drumreany,Castlecaulfield,Tyrone,VILLAGE CHIPPY,Takeaway/sandwich shop,7844,5,,586041,5,,54.50774700000000,292,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83591800000000,BT70 3NP,2014-07-10,fhrs_5_en-GB,5,,FHRS,5
-408974,1 Georges Street,Drumcoo,Dungannon,Tyrone,VILNIUS EFS,Retailers - other,4613,5,,586258,10,,54.50289800000000,5432,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77256400000000,BT70 1BP,2014-02-13,fhrs_3_en-GB,3,,FHRS,10
-408975,60 Bush Road,Cornamucklagh,Dungannon,Tyrone,VINEYARD CHURCH,Distributors/Transporters,7,,,586244,,,54.50626700000000,5401,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.74285300000000,BT71 6QE,2014-02-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-408976,136 Annagher Road,Annagher,Coalisland,Tyrone,Violet Moon,Restaurant/Cafe/Canteen,1,5,,706067,5,,54.54282300000000,6050,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69541900000000,BT71 4NE,2014-10-01,fhrs_5_en-GB,5,,FHRS,5
-408977,10 Northland Row,,Dungannon,Co Tyrone,VISCOUNTS GREAT FOOD HALL,Restaurant/Cafe/Canteen,1,5,,586475,5,,54.50445800000000,774,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76515400000000,BT71 6AP,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-408978,2 Cabragh Road,Fasglashagh,Cabragh,Tyrone,VIVO,Retailers - other,4613,5,,586034,10,,54.49609400000000,274,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.90897400000000,BT70 3AH,2014-01-28,fhrs_4_en-GB,4,,FHRS,0
-408979,76 Granville Road,Derryveen,Dungannon,Tyrone,VIVO,Retailers - other,4613,5,,586128,5,,54.49051100000000,4916,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.80140800000000,BT70 1NJ,2014-01-13,fhrs_5_en-GB,5,,FHRS,5
-408980,,,,,W J HAYES JUNIOR,Retailers - other,4613,10,,586483,0,,,81,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2013-06-19,fhrs_4_en-GB,4,,FHRS,0
-408981,19 Annaghmakeown Road,Drumreany,Dungannon,Tyrone,WALKER MEMORIAL PRIMARY SCHOOL KITCHEN,School/college/university,7845,5,,586030,0,,54.50918200000000,270,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.83941200000000,BT70 3DQ,2013-12-03,fhrs_5_en-GB,5,,FHRS,5
-408982,15 Washingford Row,Drumcoo,Dungannon,Tyrone,WASHINGFORD DAYCARE,School/college/university,7845,5,,586126,5,,54.50132400000000,4914,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76975600000000,BT71 7BG,2014-04-28,fhrs_5_en-GB,5,,FHRS,0
-408983,South West College,Circular Road,Dungannon,Co Tyrone,WASHINGFORD DAYCARE,School/college/university,7845,5,,586369,5,,54.50856100000000,5748,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76316200000000,BT71 6BQ,2014-04-24,fhrs_5_en-GB,5,,FHRS,0
-408984,117 Moore Street,Aughnacloy,,Co Tyrone,WAYNE MORROW'S BUTCHERS,Manufacturers/packers,7839,0,,585958,0,,54.41443900000000,116,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.97664000000000,BT69 6AR,2014-11-06,fhrs_5_en-GB,5,,FHRS,5
-408985,1 Dungannon Street,Moy,Moy,Tyrone,WELCOME INN (PBS),Pub/bar/nightclub,7843,5,,586485,5,,54.44783300000000,822,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.69520500000000,BT71 7SH,2012-09-03,fhrs_5_en-GB,5,,FHRS,0
-408986,Colebrooke Road,,Fivemiletown,Co Tyrone,Wesleyan Hall,Other catering premises,7841,5,,586268,0,,54.37607600000000,5530,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.32163800000000,BT75 0QG,2014-02-26,fhrs_5_en-GB,5,,FHRS,0
-408987,87 Main Street,Clogher Tenements,Clogher,Tyrone,WHITESIDE'S BAR,Pub/bar/nightclub,7843,5,,586060,5,,54.41166200000000,340,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.17082100000000,BT76 0AA,2012-10-12,fhrs_5_en-GB,5,,FHRS,5
-408988,20 Carland Road,Lurgaboy,Dungannon,Co Tyrone,WILLOWBANK COMMUNITY RES. CENTRE,Other catering premises,7841,5,,586330,0,,54.51094400000000,565,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76775300000000,BT71 4AA,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-408989,30 Old Eglish Road,Mullaghanagh,Dungannon,Tyrone,WINDMILL INTEGRATED PRIMARY SCHOOL,School/college/university,7845,5,,586124,0,,54.49864400000000,4889,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77213600000000,BT71 7BE,2013-11-25,fhrs_5_en-GB,5,,FHRS,0
-408990,30a Church Street,Drumcoo,Dungannon,Tyrone,WINEMARK,Retailers - other,4613,,,586464,,,54.50365600000000,738,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76939200000000,BT71 6AB,2013-06-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-408991,127 Main Street,Fivemiletown,Fivemiletown,Tyrone,WING'S CHINESE TAKEAWAY,Takeaway/sandwich shop,7844,5,,586254,0,,54.37811000000000,5426,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.31589500000000,BT75 0PG,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-408992,32b Aghindarragh Road,,Augher,Tyrone,WOODLAND ADVENTURE PLAYGROUP,School/college/university,7845,5,,586083,0,,54.39110800000000,4026,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-7.10667200000000,BT77 0ET,2013-03-06,fhrs_5_en-GB,5,,FHRS,0
-408993,Quarry Lane,Dungannon,,Co Tyrone,WOODLAWN HOUSE,Hospitals/Childcare/Caring Premises,5,5,,586182,0,,54.51287400000000,5138,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77828700000000,BT70 1HX,2014-11-04,fhrs_5_en-GB,5,,FHRS,0
-408994,80 Scotch Street,Drumcoo,Dungannon,Tyrone,Woodys Bar,Pub/bar/nightclub,7843,0,,620674,0,,54.50222400000000,5934,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.77253800000000,BT70 1BJ,2013-12-02,fhrs_4_en-GB,4,,FHRS,10
-408995,45 Main Street,Donaghmore,Donaghmore,Tyrone,XL STOP & SHOP (GRIMES COSTCUTTERS),Retailers - other,4613,10,,586264,0,,54.53109400000000,552,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.81254500000000,BT70 3EZ,2013-11-04,fhrs_2_en-GB,2,,FHRS,15
-408996,Unit 1 Castlefields,Drumcoo,Dungannon,Tyrone,XTRAVISION,Retailers - other,4613,5,,585944,5,,54.50747700000000,1074,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76696200000000,BT71 6DZ,2012-03-20,fhrs_5_en-GB,5,,FHRS,5
-408997,51 Dungannon Road,Derry,Coalisland,Tyrone,YANKEE STAR GRILL HOUSE,Restaurant/Cafe/Canteen,1,5,,586136,5,,54.53889900000000,4974,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.70555600000000,BT71 4HP,2014-04-23,fhrs_4_en-GB,4,,FHRS,10
-408998,,,,,YING YANG KITCHEN AT LISTAMLET GRANGE,Other catering premises,7841,5,,586364,5,,,5742,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,,,2012-11-01,fhrs_5_en-GB,5,,FHRS,0
-408999,2-4 Market Square,Killylack Glebe,Dungannon,Tyrone,YOUR LOCAL BOOTS PHARMACY,Retailers - other,4613,,,586027,,,54.50444100000000,2631,815,environmental.health@dungannon.gov.uk,Dungannon,http://www.dungannon.gov.uk,-6.76876700000000,BT70 1AB,2014-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+408501,A45 FILLING STATION,5,5,5,5,2014-08-07,54.500214,-6.65865
+408502,Abu Gourmet,5,0,0,5,2014-05-12,,
+408503,AFRICAN ASIAN FOODS,4,5,5,10,2014-11-25,54.504441,-6.768767
+408504,AGE CARE DROP IN CENTRE,Exempt,nan,nan,nan,2014-09-16,54.505408,-6.77025
+408505,Age Ni Day Centre,5,0,0,5,2014-08-05,54.503034,-6.770893
+408506,ALI'S KEBAB,2,15,15,10,2014-06-03,54.541323,-6.703749
+408507,ALLENS OF CALEDON - COFFEE SHOP,4,5,10,5,2014-09-26,54.351063,-6.837339
+408508,ANNAGHER SERVICE STATION,5,0,5,5,2013-12-06,54.543244,-6.692779
+408509,ANNAGHMORE CASH STORES,5,0,0,5,2013-08-12,54.465195,-6.597041
+408510,ARDNASKEA COURT (CLANMIL HOUSING ASSOC),5,5,0,5,2014-07-02,54.541323,-6.703749
+408511,ARGOS LTD,Exempt,nan,nan,nan,2014-01-23,54.50225,-6.774189
+408512,ASHBROOK CARE HOME,5,5,5,5,2014-07-08,54.529696,-6.673748
+408513,ASKINS BAR AND RESTAURANT,4,5,0,10,2013-11-14,54.46169,-7.028292
+408514,AUGHAMULLAN POST OFFICE (VIVO),4,5,5,10,2013-11-04,54.534091,-6.61935
+408515,AUGHAMULLEN PRIMARY SCHOOL,5,0,0,0,2014-12-04,54.540383,-6.625117
+408516,AUGHER CENTRAL PRIMARY SCHOOL,5,0,5,0,2013-12-11,54.43226,-7.137212
+408517,AUGHER STATION HOUSE,4,5,5,10,2014-06-03,54.424818,-7.13552
+408518,AUGHNACLOY COLLEGE,5,5,0,0,2014-03-07,54.420533,-6.967491
+408519,AUGHNACLOY FILLING STATION,4,0,10,10,2013-11-27,54.412642,-6.973419
+408520,AUGHNACLOY PLAYGROUP,5,0,5,5,2014-10-20,54.420533,-6.967491
+408521,AUGHNACLOY REGIONAL PRIMARY SCHOOL,5,0,0,5,2014-01-22,54.420533,-6.967491
+408522,AUSTIN'S TAKEAWAY & SIT-IN,5,5,0,5,2014-12-09,54.462028,-7.027914
+408523,BAKEABITE,5,5,5,5,2013-08-27,,
+408524,BALLYGAWLEY EARLY YEARS,5,0,0,0,2014-12-09,54.456766,-7.037182
+408525,BALLYNAKELLY WORKING MENS CLUB,5,5,5,5,2012-07-23,54.517952,-6.690931
+408526,BALLYSAGGART NURSERY,5,0,0,0,2015-01-06,54.504122,-6.759606
+408527,BALTICA FOOD SHOP,4,5,5,10,2013-05-22,54.447574,-6.690372
+408528,BEATTY'S SPAR,4,5,10,5,2013-11-21,54.37811,-7.315895
+408529,BEDECK RETAILERS,5,5,5,5,2012-02-29,54.487015,-6.751607
+408530,BEECHVIEW BEACON CENTRE,4,10,5,5,2014-01-14,54.503861,-6.780748
+408531,Belissimo Cakes,4,5,5,10,2014-10-13,,
+408532,BENBURB COMMUNITY PLAYGROUP,5,0,5,5,2014-09-02,54.420809,-6.738369
+408533,BENBURB CONFERENCE CENTRE,5,5,0,5,2014-05-08,54.411857,-6.743111
+408534,BENBURB VILLAGE STORES (SPAR),5,5,5,0,2013-11-12,54.41226,-6.746502
+408535,BENGAL SPICE,4,nan,nan,nan,2014-07-29,54.505936,-6.770034
+408536,Betsy Belle Events,5,0,5,0,2014-06-13,54.491705,-6.697943
+408537,BIG MAC'S TAKEAWAY,5,5,5,5,2014-09-19,54.503713,-6.773219
+408538,Bintles Food Bar,4,5,10,5,2014-06-02,54.503656,-6.769392
+408539,BISHOPS,5,5,5,0,2014-12-09,54.447574,-6.690372
+408540,BLACK CAT RESTAURANT,3,10,5,10,2013-08-28,54.470702,-7.003138
+408541,BLESSED PATRICK O'LOUGHRAN,5,0,5,5,2014-09-24,54.506638,-6.829882
+408542,BLESSINGBOURNE COACH HOUSE,5,0,0,5,2014-10-23,54.380436,-7.314055
+408543,BOGUES BAR,5,5,0,5,2013-05-16,54.411662,-7.170821
+408544,BOOTS THE CHEMIST,Exempt,nan,nan,nan,2014-02-24,54.504441,-6.768767
+408545,BOOTS THE CHEMIST,Exempt,nan,nan,nan,2014-12-12,54.511442,-6.762905
+408546,BOTTLE OF BENBURB,5,5,5,5,2012-08-31,54.419973,-6.74867
+408547,BRAMLEY APPLE (MCGRATHS) BAKERY,4,5,5,10,2013-10-29,54.512874,-6.778287
+408548,BRANTRY CAKE COMPANY,4,0,0,10,2012-03-01,,
+408549,BRIAN O'NEILL,5,5,5,5,2013-05-08,,
+408550,BROCAGH STORES VIVO,4,5,5,10,2014-01-28,54.558698,-6.605981
+408551,BROCKAGH PLAY GROUP,5,0,0,0,2014-09-25,54.549619,-6.612566
+408552,BUSH PRIMARY SCHOOL,5,0,0,0,2014-11-17,54.519223,-6.727444
+408553,BUSY KIDS DAYCARE LTD,5,0,0,0,2014-06-11,54.530015,-6.661164
+408554,BUTCHERY,5,5,0,5,2014-12-04,54.531094,-6.812545
+408555,CABRAGH FILLING STATION,5,5,0,5,2013-10-17,54.48814,-6.904634
+408556,Cafe Halo Ltd,5,0,5,5,2014-09-02,54.504458,-6.765154
+408557,CAFE LATTE,4,5,10,5,2014-11-07,54.502988,-6.771666
+408558,CAFE LEGAL (DUNGANNON COURTHOUSE),5,0,0,5,2014-03-27,54.504122,-6.759606
+408559,CAFE ROSE,5,5,5,5,2014-11-25,54.351063,-6.837339
+408560,Cake That,5,5,5,5,2013-11-04,,
+408561,CALEDON ARMS HOTEL,3,10,10,10,2013-10-30,54.351063,-6.837339
+408562,CALEDON PLAYGROUP,5,0,0,0,2013-11-11,54.350707,-6.839564
+408563,CANAL END BAR,3,10,5,10,2013-05-01,54.539645,-6.703091
+408564,CANAVAN MEATS,4,0,0,10,2013-04-12,,
+408565,Cancer Choices,5,5,0,0,2014-03-04,54.497851,-6.752604
+408566,CANDY BOX,5,5,5,5,2012-08-08,54.503601,-6.77015
+408567,CANO'S PIZZERIA ITALIAN RESTAURANT,4,5,10,5,2014-02-12,54.505547,-6.769737
+408568,Carla Cafe,1,10,10,20,2014-09-15,54.502224,-6.772538
+408569,CARNTALL PRIMARY SCHOOL MEALS KITCHEN,5,5,0,0,2014-11-18,54.422115,-7.220108
+408570,Castlebay Bar & Restaurant,5,5,0,5,2014-05-30,54.558698,-6.605981
+408571,Centra,4,5,0,10,2013-09-13,54.512874,-6.778287
+408572,CENTRA (MCDADE),4,10,5,0,2014-04-14,54.414064,-7.164765
+408573,CENTRAL BAR,5,5,5,5,2014-12-17,54.540757,-6.701264
+408574,Central Bar,5,0,0,0,2014-02-07,54.415985,-6.977772
+408575,CHARLEMONT HOUSE,5,0,0,5,2013-01-08,54.447801,-6.692215
+408576,CHARTWELLS,5,0,5,5,2014-11-20,54.508561,-6.763162
+408577,CHESTNUT BAR & TAKEAWAY,5,0,5,5,2013-09-27,54.378039,-7.315957
+408578,CHINA KITCHEN,1,10,10,20,2014-12-02,54.539645,-6.703091
+408579,CHINESE ONE,3,5,10,10,2014-06-25,54.446158,-6.689847
+408580,CHIPS AHOY,3,10,5,10,2014-10-07,54.50988,-6.775319
+408581,CHIPS AWAY,4,5,10,5,2014-06-17,54.505527,-6.774909
+408582,CHOCOLATE FOUNTAINS WEDDINGS PARTIES & M,5,5,5,5,2013-02-21,,
+408583,CHOCOLATE HAVEN,5,5,5,5,2014-06-13,,
+408584,CHURCHILL PRIMARY SCHOOL,5,5,5,0,2013-09-17,54.361729,-6.828284
+408585,CLANMIL HOUSING ASSOCIATION (DDHA),4,0,5,10,2012-04-18,54.503442,-6.768658
+408586,CLINTYCLAY PRIMARY SCHOOL,5,5,5,0,2014-05-13,54.478472,-6.637732
+408587,CLOGHER VALLEY DAY CARE CENTRE,5,0,0,5,2013-12-12,54.414064,-7.164765
+408588,CLOGHER VALLEY MEATS,5,5,0,5,2014-05-15,54.411662,-7.170821
+408589,CLOGHER VALLEY PLAYGROUP,5,0,0,5,2014-11-18,54.420278,-7.174898
+408590,COBBLES BAR,5,5,0,5,2013-04-09,54.503715,-6.768078
+408591,COFFEE POT,3,10,10,5,2014-11-03,54.504168,-6.771059
+408592,COHANNON INN & AUTOLODGE,5,5,5,5,2013-12-12,54.500214,-6.65865
+408593,COHANNON INN WINE & BEER SHOP,Exempt,nan,nan,nan,2013-05-01,54.500214,-6.65865
+408594,COLIN FARQUHAR (MARKET STALL),5,0,5,5,2012-12-19,,
+408595,Cookie Crumbs,5,0,0,5,2014-05-01,,
+408596,COONEEN TEXTILES LTD,5,0,0,5,2013-08-20,54.374461,-7.315509
+408597,CO-OP SUPERMARKET,5,5,0,5,2014-09-25,54.447833,-6.695205
+408598,COPPERFIELDS PRIVATE NURSING HOME,5,5,5,0,2013-11-27,54.415828,-6.978253
+408599,CORICK HOUSE AND LICENSED RESTAURANT,4,5,5,10,2014-06-10,54.426287,-7.162991
+408600,CORKHILL CARE CENTRE,5,0,5,5,2014-11-27,54.555951,-6.847744
+408601,COSTCUTTER,4,5,0,10,2014-03-11,54.46169,-7.028292
+408602,COSTCUTTER (MOUTRAYS),5,5,5,5,2014-07-08,54.485486,-6.75315
+408603,COSTCUTTERS,5,5,0,5,2013-11-12,54.428432,-7.130883
+408604,COSTCUTTERS,4,10,0,5,2014-11-06,54.415828,-6.978253
+408605,COUNTRY KEBAB HOUSE,4,10,5,5,2013-08-07,54.37811,-7.315895
+408606,COUNTRY KITCHEN,4,5,5,10,2014-10-08,54.490511,-6.801408
+408607,Courthouse Clogher,5,0,5,5,2013-11-28,54.411662,-7.170821
+408608,CRISPY CHIP,5,5,0,5,2014-05-20,,
+408609,CROCKGARVE B & B,5,0,5,5,2012-06-19,54.52709,-6.956987
+408610,CYRIL KERRS NEWSAGENTS,4,5,0,10,2013-08-13,54.503417,-6.767022
+408611,DALY'S BAR,4,10,5,5,2012-10-17,54.503974,-6.772316
+408612,DALY'S FILLING STATION,4,0,5,10,2014-06-04,54.43846,-6.793481
+408613,DALY'S WORLD OF WINE,Exempt,nan,nan,nan,2014-07-21,54.447801,-6.692215
+408614,DAVISONS,5,0,0,5,2014-07-21,54.507747,-6.835918
+408615,DELI ON THE GREEN,5,5,5,5,2014-12-08,54.487015,-6.751607
+408616,DELICIOUS HOMEMADE CAKES,5,5,5,5,2012-01-20,,
+408617,Delish,5,5,5,5,2014-05-07,54.537198,-6.659986
+408618,DERRYLATINEE PRIMARY SCHOOL,5,0,0,0,2014-06-04,54.449577,-6.84998
+408619,Dngannon Presbyterian Church & Hall (gift Ministries),5,0,5,5,2014-02-07,54.502988,-6.771666
+408620,DOLPHIN,5,5,5,0,2014-08-19,54.503219,-6.773157
+408621,DONAGHMORE CHINESE,1,5,10,20,2014-03-10,54.533461,-6.816694
+408622,DONAGHMORE CONTROLLED PRIMARY SCHOOL,5,5,5,5,2012-05-21,54.531094,-6.812545
+408623,DONAGHY'S BAR,5,5,0,5,2013-05-22,54.503713,-6.773219
+408624,DONNELLY/MCALEER PHARMACY,Exempt,nan,nan,nan,2014-12-12,54.539645,-6.703091
+408625,DOORSTEP CATERING,5,5,0,5,2014-08-08,54.515209,-6.764042
+408626,DOUBLE UP HOT FOOD TAKEAWAY,4,10,5,5,2013-08-01,54.541323,-6.703749
+408627,DROZ POL,4,5,10,5,2014-04-24,54.502988,-6.771666
+408628,DRUMGLASS HIGH SCHOOL MEALS KITCHEN,5,0,5,5,2014-09-17,54.510944,-6.767753
+408629,DUNBIA DUNGANNON (PRIMARY) STAFF CANTEEN,5,5,5,5,2013-08-27,54.490511,-6.801408
+408630,DUNBIA DUNGANNON (RETAIL SHOP),5,0,0,5,2012-05-14,54.490511,-6.801408
+408631,DUNBIA DUNGANNON RETAIL CANTEEN,5,0,5,5,2014-06-13,54.490511,-6.801408
+408632,DUNGANNON BAPTIST CHURCH,5,0,0,5,2013-05-15,54.501596,-6.770843
+408633,DUNGANNON CAMPUS DAY CARE,4,10,0,0,2013-12-18,54.507379,-6.764463
+408634,DUNGANNON CARE HOME,5,5,5,0,2014-10-08,54.501274,-6.751743
+408635,DUNGANNON COUNTY PRIMARY SCHOOL,5,5,0,5,2013-10-09,54.507379,-6.764463
+408636,DUNGANNON GOLF CLUB,5,5,0,0,2012-10-23,54.516234,-6.78722
+408637,DUNGANNON NURSERY SCHOOL MEALS KITCHEN,5,5,5,0,2014-05-08,54.507379,-6.764463
+408638,DUNGANNON RUGBY FOOTBALL CLUB,4,5,0,10,2014-08-12,54.493695,-6.753795
+408639,DUNGANNON SWIFTS FOOTBALL CLUB,5,5,0,5,2014-10-21,54.490275,-6.741955
+408640,ED MASTERS,5,5,5,5,2014-08-19,,
+408641,EDENDORK PRIMARY SCHOOL,5,0,0,5,2013-06-14,54.529538,-6.737951
+408642,EDFIELD RESTAURANT,4,5,0,10,2013-11-25,54.378425,-7.315874
+408643,EGLISH BAKING COMPANY,4,10,5,5,2014-06-04,54.43846,-6.793481
+408644,Eglish Country Fry,4,5,5,10,2013-09-09,54.43846,-6.793481
+408645,ELLA'S,3,10,5,10,2014-08-13,54.484146,-6.752142
+408646,ELLA'S BARN,5,5,0,5,2014-10-08,54.372975,-6.844814
+408647,Ellies Cafe Grill,4,nan,nan,nan,2014-09-22,54.507003,-6.768906
+408648,ELMERDALE LTD,Exempt,nan,nan,nan,2012-12-28,54.540757,-6.701264
+408649,Emma's Diner,4,0,10,10,2014-02-05,54.412642,-6.973419
+408650,ETCETERA RESTAURANT,5,0,5,5,2013-09-25,54.508561,-6.763162
+408651,EUROSPAR MOY,4,5,10,5,2014-12-01,54.446158,-6.689847
+408652,F A IRWIN CORNER SHOP,4,0,10,10,2013-03-11,54.411662,-7.170821
+408653,FAIRYTALE FOUNTAINS,5,5,5,5,2014-10-08,,
+408654,Falls Bar,5,5,5,5,2014-12-04,54.534091,-6.61935
+408655,FANE VALLEY,5,0,5,0,2014-07-22,54.42875,-7.131369
+408656,FANNINS VIVO,5,0,0,0,2014-09-24,54.411662,-7.170821
+408657,Farm And Food,5,5,5,5,2014-12-16,,
+408658,FEENEYS BAR,5,5,5,5,2013-03-05,54.505408,-6.77025
+408659,FERGUSONS HOT FOOD BAR,4,5,10,5,2014-05-28,54.446158,-6.689847
+408660,FIDDES COURT (CLANMIL HOUSING ASSOC.),5,0,0,0,2014-06-04,54.414439,-6.97664
+408661,FIRS,5,0,5,5,2013-12-05,54.463339,-7.033419
+408662,FIRST STEPS CRECHE,5,0,5,5,2013-09-25,54.503393,-6.774386
+408663,FIVEMILETOWN COLLEGE,5,5,5,0,2013-09-23,54.375904,-7.322887
+408664,FIVEMILETOWN CONTROLLED PRIMARY SCHOOL,5,5,0,0,2014-11-11,54.379194,-7.308951
+408665,FIVEMILETOWN CREAMERY CANTEEN,5,0,5,0,2013-03-06,54.376431,-7.319277
+408666,FIVEMILETOWN PHARMACY,Exempt,nan,nan,nan,2014-06-16,54.378026,-7.315265
+408667,Food @ Auction Rooms,4,10,5,5,2014-05-29,54.447801,-6.692215
+408668,FOOD CENTRE,5,5,5,0,2014-12-04,54.507747,-6.835918
+408669,Food Glorious Food,5,0,5,5,2014-09-12,,
+408670,Food Star,4,5,5,10,2014-04-29,54.503601,-6.77015
+408671,FOOD@FORTY3,4,5,5,10,2013-09-03,54.504168,-6.771059
+408672,FOREVER FRIENDS PLAYGROUP,5,5,0,5,2013-10-07,54.535714,-6.695136
+408673,FORK SERVICE STATION,4,5,5,10,2014-04-18,54.48621,-6.744996
+408674,FOUR CORNERS,3,10,10,10,2014-01-10,54.555882,-6.703426
+408675,FRED MARTIN & SONS (COSTCUTTERS),5,0,0,5,2014-01-28,54.48711,-6.876547
+408676,Funky Monkeys,5,0,0,0,2014-12-05,54.510413,-6.765931
+408677,GABLES RESTAURANT,5,nan,nan,nan,2014-10-23,54.544768,-6.777488
+408678,Gaelscoil Aodha Rua,5,5,5,5,2014-06-03,54.508628,-6.779494
+408679,GAELSCOIL UI NEILL,5,5,0,0,2013-12-02,54.440729,-6.748052
+408680,Gaia Health Foods,5,0,5,5,2014-03-11,54.511442,-6.762905
+408681,GALBALLY COMMUNITY ASSOCIATION,5,0,5,5,2013-08-28,54.541527,-6.898352
+408682,GALBALLY POST OFFICE,4,0,0,10,2013-01-21,54.534756,-6.876196
+408683,GARY COOTE MEATS,5,5,5,5,2014-05-06,54.378026,-7.315265
+408684,GEANANN CARE CENTRE,5,0,0,5,2014-11-04,54.503861,-6.780748
+408685,GERREY'S TAKEAWAY,5,5,0,5,2014-11-14,54.415828,-6.978253
+408686,GERVINS BAR & RESTAURANT,5,5,5,5,2013-09-19,54.539571,-6.702043
+408687,GILLANDERS BUTCHERS,4,10,5,5,2014-01-14,54.351063,-6.837339
+408688,Gilly's Griddle,4,5,10,5,2014-09-24,,
+408689,GILMORES BAR,4,10,5,5,2012-04-27,54.462028,-7.027914
+408690,GLEN SERVICE STATION,5,5,5,0,2014-12-16,54.50348,-6.781238
+408691,GLENHOY PRESBYTERIAN CHURCH,Exempt,nan,nan,nan,2012-03-06,54.451054,-7.130958
+408692,GLENVAR BED AND BREAKFAST,5,5,0,5,2012-07-06,54.432221,-6.988709
+408693,GLENVIEW PRIVATE NURSING HOME,5,5,5,0,2014-11-13,54.496094,-6.908974
+408694,GOLDEN DRAGON,4,5,10,5,2014-06-05,54.414439,-6.97664
+408695,Golden Dragon,4,5,5,10,2014-05-12,54.505527,-6.774909
+408696,GORDON'S CATERING SERVICES,5,5,5,5,2014-11-14,54.490511,-6.801408
+408697,GORMLEY'S BAR & OFF SALES,5,5,5,5,2012-07-18,54.463189,-7.0304
+408698,GORTGONIS DAY CENTRE,5,5,5,5,2012-05-25,54.532496,-6.685831
+408699,GORTMERRON SPAR AND WINE SHOP,5,5,0,5,2013-07-19,54.526274,-6.748864
+408700,GRANGE LODGE,4,0,0,10,2013-03-05,54.46999,-6.708813
+408701,Great Deals Ni Services,Exempt,nan,nan,nan,2012-06-22,54.48621,-6.744996
+408702,GREENFIELD HOMEBAKES,5,5,5,5,2012-04-25,,
+408703,GREYSTONE STORES,5,5,5,5,2014-07-02,54.470732,-6.832974
+408704,GRIBBEN'S BAR,5,5,0,5,2012-06-13,54.489701,-6.883821
+408705,Grounds 2 Go,5,0,0,5,2014-04-28,54.3919,-7.284922
+408706,GUARDIAN DAY CENTRE & RESIDENTIAL CARE,5,5,5,0,2014-11-20,54.529696,-6.673748
+408707,H & D's Food Bar,4,5,5,10,2014-08-08,54.535863,-6.698916
+408708,HAGANS BAR,5,0,5,0,2013-08-08,54.504168,-6.771059
+408709,HALLIDAYS,5,5,0,0,2013-05-14,54.503417,-6.767022
+408710,HAPPY DAYS PLAYGROUP,5,0,0,5,2014-11-26,54.545939,-6.706925
+408711,HAPPY WRAPPERS,4,0,0,10,2012-10-18,,
+408712,Hd Fitness Ltd,4,10,0,0,2014-10-07,54.502898,-6.772564
+408713,HEBRON SCHOOL OF MARTIAL ARTS,5,5,0,5,2014-11-07,54.502224,-6.772538
+408714,HEGARTYS HOME BAKERY,5,5,0,0,2013-07-24,54.504451,-6.769785
+408715,HERRONS GROCERS,5,0,5,5,2014-01-28,54.539645,-6.703091
+408716,HILLVIEW SERVICE STATION,5,0,5,0,2013-07-02,54.450674,-6.703686
+408717,Home Bargins,5,0,0,5,2014-08-06,54.511442,-6.762905
+408718,HONG KONG KITCHEN,4,5,0,10,2013-11-08,54.500214,-6.65865
+408719,HOT STUFF,5,5,5,5,2014-02-19,,
+408720,HOWARD PRIMARY SCHOOL KITCHEN,5,0,0,0,2014-12-08,54.488293,-6.750055
+408721,IARSCOIL UI NEILL / AN NAISCOIL BHEAG,5,5,0,5,2014-11-20,54.53652,-6.683245
+408722,ICE CREAM TRAILER (LEONARD MAGUIRE),5,0,0,5,2013-05-23,,
+408723,ICE CREAM VAN - (LEONARD J MAGUIRE),5,5,5,5,2011-07-06,,
+408724,ICELAND,5,0,0,0,2014-02-24,54.502988,-6.771666
+408725,INDIAN SPICE,5,5,5,5,2014-06-19,54.503656,-6.769392
+408726,INTEGRATED COLLEGE DUNGANNON,5,0,0,0,2014-12-17,54.494063,-6.750219
+408727,J & P MORROW (MACE),3,5,10,10,2014-09-30,54.351063,-6.837339
+408728,JAMES CULLEN & SONS,5,5,0,5,2013-12-04,54.503601,-6.77015
+408729,JIMMY JOHNSTONS BAR,5,5,0,5,2012-01-10,54.428432,-7.130883
+408730,JIMMY'S CAFE,4,0,0,10,2014-12-01,54.447801,-6.692215
+408731,JOHN MCGIRR & SON,3,10,10,10,2014-07-22,54.444067,-7.23065
+408732,John R Dowey & Son,5,0,0,5,2014-07-07,54.493695,-6.753795
+408733,JOSEPH'S RESTAURANT (MENARYS),1,15,10,20,2014-05-20,54.504451,-6.769785
+408734,Ju Tox,5,5,0,5,2014-05-09,54.470546,-7.030303
+408735,JUBILEE BAR,3,10,10,10,2013-09-13,54.378026,-7.315265
+408736,KARACHI KITCHEN,5,5,5,5,2014-12-03,54.503713,-6.773219
+408737,KAROLINA INTERNATIONAL FOODS LTD,5,5,0,5,2014-11-17,54.503656,-6.769392
+408738,KENSINGTON LODGE,5,0,0,5,2012-08-08,54.496068,-6.739153
+408739,KIDDIWINKLES DAY CARE,5,5,5,0,2014-11-24,54.504122,-6.759606
+408740,KIDDIWINKLES DAY CARE II,4,10,10,0,2014-10-22,54.502841,-6.779312
+408741,KIDDIWINKLES PRE-SCHOOL,4,10,0,5,2014-09-16,54.504122,-6.759606
+408742,Kids And Bibs Daycare Ltd,5,0,5,5,2014-01-30,54.483063,-6.75165
+408743,KIDS R US CROSS COMMUNITY PLAYGROUP,5,0,0,0,2013-11-25,,
+408744,KIERAN'S,5,5,0,5,2013-09-12,54.542823,-6.695419
+408745,KILLYMAN COMMUNITY PLAYGROUP,5,5,0,5,2014-05-01,54.48992,-6.700762
+408746,KILLYMAN POST OFFICE,4,10,0,10,2014-07-07,54.492187,-6.703484
+408747,KILLYMAN PRIMARY SCHOOL MEALS KITCHEN,5,5,5,5,2012-09-25,54.48992,-6.700762
+408748,KRAFTY KIDZ AFTERSCHOOL,5,5,5,5,2014-12-09,54.547572,-6.695855
+408749,LA SCALA THEATRE CAFE,4,5,10,5,2014-06-09,54.504441,-6.768767
+408750,LAGHEY PRIMARY SCHOOL,5,5,0,5,2013-12-02,54.493223,-6.688758
+408751,LANDIS,4,5,5,10,2013-11-28,54.539645,-6.703091
+408752,LANDIS,5,5,0,5,2013-07-30,54.504168,-6.771059
+408753,LEE'S KITCHEN,4,10,0,5,2014-11-07,54.494063,-6.750219
+408754,LIDL NORTHERN IRELAND,5,0,0,0,2014-01-23,54.50225,-6.774189
+408755,LINDA'S BAKERY,5,0,5,5,2014-05-08,,
+408756,LISFEARTY CONTROLLED PRIMARY SCHOOL,5,0,0,5,2013-06-18,54.468141,-6.911523
+408757,LITTLE ACORNS PLAYGROUP,5,0,0,0,2014-10-16,54.493223,-6.688758
+408758,LITTLE FLOWER NURSERY SCHOOL,5,5,0,0,2014-10-13,54.540383,-6.625117
+408759,LOANE HOUSE (WARD 1 & 2),5,5,0,0,2014-08-07,54.51028,-6.770536
+408760,LOFT RESTAURANT AT AUGHNACLOY GOLF CLUB,5,5,5,5,2014-03-14,54.432221,-6.988709
+408761,LOLLIPOP PLAYGROUP,5,0,0,5,2014-04-29,54.532636,-6.813165
+408762,LOWE BROS,5,5,0,5,2014-01-07,54.504441,-6.768767
+408763,LUSITANIA,5,5,5,5,2014-09-23,54.504168,-6.771059
+408764,M & W FARM MEATS @ MOUTRAYS,5,5,0,0,2012-11-22,54.485486,-6.75315
+408765,M1 SERVICE STATION,4,5,5,10,2014-08-06,54.480183,-6.783721
+408766,MACE,5,0,5,5,2013-07-25,54.536618,-6.69897
+408767,MACE (TALLY'S),3,5,10,10,2013-12-09,54.53608,-6.887175
+408768,Mace Convenience Store,5,0,0,5,2014-09-29,54.547062,-6.713658
+408769,MACE EXPRESS,4,5,10,5,2014-08-11,54.414439,-6.97664
+408770,MAR CAFE AND RESTAURANT,4,10,5,5,2014-09-03,54.502722,-6.767599
+408771,MART CATERING SERVICES,5,5,0,5,2014-04-17,54.411662,-7.170821
+408772,MART TAKE-AWAY,5,0,0,0,2014-04-17,54.414804,-7.167892
+408773,Mary Ann's Bar,5,5,0,0,2014-11-25,54.414439,-6.97664
+408774,MARY'S,5,0,0,5,2012-06-18,,
+408775,MC CAUSLANDS BAR,4,10,0,0,2014-01-13,54.531094,-6.812545
+408776,MCALEERS BAR,5,0,5,5,2012-07-30,54.505527,-6.774909
+408777,MCCAGUE DAY CENTRE,5,5,0,0,2013-09-06,54.412642,-6.973419
+408778,MCCANN'S SHOP,5,0,0,0,2014-02-25,54.453508,-6.797895
+408779,MCCAUGHEY FOOD STORE,4,5,10,5,2014-03-10,54.411662,-7.170821
+408780,MCCONNELL'S BAKERY,5,0,0,5,2013-01-28,,
+408781,MCDADES CENTRA,4,5,5,10,2014-03-27,54.46169,-7.028292
+408782,MCDONALD'S,5,5,0,0,2013-03-11,54.510413,-6.765931
+408783,MCGLINCHEY'S CAFE,4,5,0,10,2014-11-20,54.539645,-6.703091
+408784,MCGRATHS BAR,5,5,5,5,2012-08-22,54.503974,-6.772316
+408785,MCKEARNEYS BUTCHERS,5,0,5,0,2013-07-02,54.447801,-6.692215
+408786,MCKEES BAR,5,0,0,0,2013-12-18,54.502224,-6.772538
+408787,MCKEEVERS CHEMIST,Exempt,nan,nan,nan,2015-01-06,54.446158,-6.689847
+408788,MCKENNA'S BAR,5,5,0,5,2013-09-13,54.428432,-7.130883
+408789,MCSORLEYS PHARMACY,Exempt,nan,nan,nan,2012-09-06,54.414439,-6.97664
+408790,MCSORLEY'S TAVERN,5,5,5,5,2012-10-12,54.411662,-7.170821
+408791,MEAT MARKET,5,5,0,5,2014-02-25,54.515209,-6.764042
+408792,MEDICARE PHARMACY,Exempt,nan,nan,nan,2013-05-15,54.507876,-6.780644
+408793,Medi-Chem,Exempt,nan,nan,nan,2012-09-18,54.505936,-6.770034
+408794,Melano's,4,0,10,5,2014-05-23,54.411662,-7.170821
+408795,MICHELLE'S KITCHEN BAKES,5,0,0,5,2013-01-08,,
+408796,MILLBROOK B & B,5,0,0,5,2012-05-17,54.48621,-6.744996
+408797,Minnie's Munchies,5,5,5,5,2014-07-22,,
+408798,MIX MARKET,4,5,5,10,2014-12-10,54.503713,-6.773219
+408799,MORGAN ICE CREAM (VAN),5,5,0,5,2013-05-02,,
+408800,MOSSA'S CHIPPY,5,0,5,5,2013-09-10,54.493062,-6.650473
+408801,MOTORWAY RESTAURANT,5,nan,nan,nan,2014-08-14,54.480183,-6.783721
+408802,"MOUNTCHARLES CATERING, MOY PARK LTD",4,5,10,5,2013-12-02,54.496068,-6.739153
+408803,MOY AREA PLAYGROUP,5,0,0,5,2013-09-23,54.448949,-6.698684
+408804,MOY PARK LTD RETAIL SHOP,5,0,5,0,2014-03-20,54.496068,-6.739153
+408805,MOY REGIONAL SCHOOL,5,0,0,0,2013-09-09,54.448949,-6.698684
+408806,NAISCOIL AODHA RUA,5,0,0,5,2014-11-19,54.454307,-6.737138
+408807,New Lucky Bowl Chinese Takeaway,3,5,10,10,2014-12-17,54.507876,-6.780644
+408808,NEWELL STORES,5,0,0,0,2014-11-27,54.539758,-6.700229
+408809,NEWELL STORES LTD,5,5,5,5,2014-01-24,54.507876,-6.780644
+408810,NEWMILLS PLAYGROUP,5,0,0,5,2014-11-19,54.550576,-6.745477
+408811,NEWMILLS PRIMARY SCHOOL,5,5,0,0,2013-04-23,54.550052,-6.739991
+408812,NI CO-OP (CWS),5,0,0,0,2014-11-11,54.378026,-7.315265
+408813,NIGHTINGALE CARE HOME,5,5,0,0,2015-01-06,54.49234,-6.774177
+408814,NISA TODAY,4,5,0,10,2012-02-02,54.411662,-7.170821
+408815,NOREEN'S DINER,5,5,0,5,2013-10-17,54.48814,-6.904634
+408816,OAKRIDGE INTENSIVE SUPPORT UNIT,5,0,0,0,2014-06-18,54.521668,-6.757823
+408817,OAKRIDGE SOCIAL EDUCATION CENTRE,5,0,0,5,2014-06-18,54.521668,-6.757823
+408818,O'NEILL'S,5,5,5,5,2012-07-27,54.505527,-6.774909
+408819,O'NEILL'S,4,10,5,5,2013-10-07,54.535714,-6.695136
+408820,O'NEILLS BAR,4,10,5,5,2012-10-18,54.539645,-6.703091
+408821,ORIENTAL PALACE,4,10,0,5,2014-08-07,54.415828,-6.978253
+408822,P Busby's Vivo Stores,4,5,10,5,2014-05-21,54.481668,-6.754022
+408823,PADDINGTON PLAYGROUP,5,0,0,5,2013-09-23,54.541527,-6.898352
+408824,PADDY'S BAR,3,10,5,10,2013-05-01,54.540757,-6.701264
+408825,Panda Cross Community Playgroup,5,0,0,0,2014-02-21,54.48814,-6.904634
+408826,PAOLOS PETE-ZA,5,5,5,0,2014-09-18,54.447833,-6.695205
+408827,PARKANAUR COLLEGE,4,5,5,10,2013-12-03,54.497303,-6.85043
+408828,PARKANAUR MANOR HOUSE (EVENTS),4,10,0,5,2014-05-14,54.497303,-6.85043
+408829,PAT TRAYNOR BUTCHERS,4,10,5,5,2013-07-17,54.462028,-7.027914
+408830,PAUL DONAGHY CHEMIST,Exempt,nan,nan,nan,2013-05-29,54.503974,-6.772316
+408831,PETE - ZA,5,5,5,5,2014-02-07,54.462935,-7.030098
+408832,PG CHIPS,5,0,5,0,2013-11-04,54.500214,-6.65865
+408833,PG CHIPS,5,0,5,5,2014-11-11,54.447833,-6.695205
+408834,PG CHIPS,5,0,0,0,2014-08-28,54.494063,-6.750219
+408835,PHOENIX HOUSE,4,10,0,5,2014-12-12,54.46169,-7.028292
+408836,PING WELCOME,3,10,10,10,2014-12-09,54.537198,-6.659986
+408837,Pinochos,4,10,0,10,2014-04-03,54.37811,-7.315895
+408838,PIZZA BASE,5,5,5,5,2013-09-27,54.539645,-6.703091
+408839,Pizza Junction,5,0,0,5,2014-09-04,54.413985,-6.974941
+408840,POUNDLAND,5,5,5,5,2014-11-25,54.503601,-6.77015
+408841,POUNDSTRETCHER,4,10,5,5,2013-11-05,54.511442,-6.762905
+408842,POWERSCREEN/TEREX,5,5,0,5,2014-01-16,54.529256,-6.738454
+408843,PRIMATE DIXON PRIMARY SCHOOL,5,5,0,0,2013-10-08,54.545939,-6.706925
+408844,QUINNS,5,0,0,5,2014-06-05,54.510944,-6.767753
+408845,QUINNS BAR,5,0,0,0,2013-01-07,54.502224,-6.772538
+408846,QUINNS BAR,5,5,5,5,2012-03-30,54.46169,-7.028292
+408847,QUINNS BUTCHERS,3,5,10,10,2014-01-14,54.462028,-7.027914
+408848,QUINN'S CORNER,5,5,5,5,2013-08-27,54.487846,-6.864938
+408849,QUINNS NEWSAGENTS,Exempt,nan,nan,nan,2013-06-10,54.503601,-6.77015
+408850,R M NEILL BUTCHERS,4,5,5,10,2013-11-05,54.447574,-6.690372
+408851,RAINBOW CAFE,5,5,0,5,2014-02-05,54.415985,-6.977772
+408852,RAINBOW COMMUNITY CHILDCARE,5,0,5,5,2014-02-24,54.449562,-6.79058
+408853,Rathmore Bar,5,0,0,0,2014-02-21,54.411662,-7.170821
+408854,RELISH,4,5,5,10,2013-09-09,54.501296,-6.746911
+408855,RICHARD'S BAKERY,2,15,10,10,2014-09-11,54.37811,-7.315895
+408856,RICHMOND PRIMARY SCHOOL,5,5,0,0,2013-12-05,54.465581,-7.039721
+408857,RIO BINGO CLUB,5,0,5,5,2013-11-07,54.502898,-6.772564
+408858,ROAN PRIMARY SCHOOL,5,5,0,5,2014-09-24,54.453508,-6.797895
+408859,Roo's Hot Food Bar,4,0,10,10,2014-07-08,54.480941,-6.682131
+408860,ROSSMORE BAR,4,10,0,0,2014-05-30,54.539645,-6.703091
+408861,ROSSMORE BAR,5,0,0,0,2014-08-07,54.415828,-6.978253
+408862,ROUGHAN HOUSE RESIDENTIAL HOME,5,5,5,5,2014-02-17,54.554976,-6.724615
+408863,ROXBOROUGH HOUSE,5,0,0,0,2013-11-26,54.448949,-6.698684
+408864,ROYAL BRITISH LEGION,5,0,5,5,2014-03-13,54.502988,-6.771666
+408865,ROYAL BRITISH LEGION CLUB,5,5,0,5,2012-08-22,54.379194,-7.308951
+408866,"ROYAL SCHOOL, DUNGANNON",5,5,0,5,2013-12-04,54.503121,-6.763542
+408867,S HUGHES PETROL FILLING STATION,4,0,0,10,2014-05-14,54.547007,-6.672074
+408868,S T HOSPITAL CATERING DEPT & FLOOR D,5,5,0,0,2014-08-07,54.51028,-6.770536
+408869,SAINSBURYS PETROL STATION,5,0,0,5,2014-11-25,54.511442,-6.762905
+408870,SAINSBURY'S PLC (SUPERMARKET),5,5,0,0,2013-10-07,54.511442,-6.762905
+408871,SALLEYS BAR & RESTAURANT,5,5,0,5,2013-09-20,54.415985,-6.977772
+408872,SANDVIK,4,10,5,5,2014-02-13,54.489676,-6.958434
+408873,SANVILLE PRIVATE NURSING HOME,5,0,0,5,2014-12-02,54.542823,-6.695419
+408874,SCOTTS BAR,5,5,0,5,2012-08-01,54.378026,-7.315265
+408875,SEMI-CHEM,Exempt,nan,nan,nan,2012-06-08,54.511442,-6.762905
+408876,SHAMBLES SNACK BAR,5,5,5,5,2014-04-23,54.504168,-6.771059
+408877,Signature Grill And Wine Bar,4,5,0,10,2014-05-29,54.37811,-7.315895
+408878,SILVERSTREAM SPAR,3,10,10,10,2014-02-13,54.534559,-6.700487
+408879,SINNAMONS (CENTRA),3,5,10,10,2013-06-11,54.530683,-6.810117
+408880,SKEA FILLING STATION,4,5,5,10,2014-10-01,54.546544,-6.838259
+408881,SLOANS NEWSAGENT,5,0,0,5,2013-07-08,54.504441,-6.768767
+408882,Smakosz,5,0,0,5,2014-03-10,54.505547,-6.769737
+408883,SOMER'S COFFEE SHOP,5,5,0,5,2013-11-22,54.38646,-7.202437
+408884,SPAR,2,15,15,10,2014-11-13,54.529696,-6.673748
+408885,SPAR RANFURLY / THE STREAT,3,10,10,5,2014-09-04,54.493695,-6.753795
+408886,SPERRINVIEW SPECIAL SCHOOL,5,0,0,0,2013-09-12,54.516366,-6.762941
+408887,SPRINGISLAND SUPERMARKET LTD,5,5,5,5,2014-12-01,54.534655,-6.691076
+408888,SQUARE BAR,5,5,0,0,2013-08-05,54.504441,-6.768767
+408889,ST BRIGID'S PRIMARY,5,0,0,5,2013-12-11,54.427408,-7.127191
+408890,ST BRIGIDS PRIMARY SCHOOL,5,5,0,5,2013-09-24,54.558698,-6.605981
+408891,ST CIARAN'S COLLEGE,5,5,0,0,2013-10-09,54.455664,-7.037548
+408892,ST JOHN'S PRIMARY SCHOOL,5,0,5,0,2013-12-04,54.44481,-6.69732
+408893,ST JOHN'S PRIMARY SCHOOL MEALS KITCHEN,5,5,0,5,2013-12-12,54.52326,-6.625986
+408894,ST JOSEPH PRIMARY SCHOOL,5,5,5,5,2012-09-26,54.350707,-6.839564
+408895,ST JOSEPH'S GRAMMAR SCHOOL,5,0,0,5,2014-06-18,54.530504,-6.817444
+408896,ST JOSEPH'S HIGH SCHOOL,5,5,0,0,2014-05-08,54.545939,-6.706925
+408897,ST JOSEPHS PRIMARY SCHOOL,5,5,0,0,2014-06-09,54.541527,-6.898352
+408898,ST MACARTAN'S PRIMARY SCHOOL,5,5,0,0,2013-09-05,54.411662,-7.170821
+408899,ST MACARTANS PRIVATE NURSING HOME,5,5,0,5,2013-11-04,54.411662,-7.170821
+408900,ST MALACHY'S PRIMARY SCHOOL,5,0,0,0,2013-11-06,54.47546,-7.073781
+408901,ST MARYS PRIMARY SCHOOL,5,5,0,5,2013-12-03,54.549624,-6.785951
+408902,ST MARY'S PRIMARY SCHOOL,5,0,0,0,2014-05-01,54.412642,-6.973419
+408903,ST MARY'S PRIMARY SCHOOL,5,5,0,0,2013-12-05,54.491316,-6.923114
+408904,ST MARY'S PRIMARY SCHOOL,5,5,0,5,2014-09-15,54.470546,-7.030303
+408905,ST MARY'S PRIMARY SCHOOL,5,5,0,0,2013-11-21,54.37396,-7.325473
+408906,ST PATRICKS ACADEMY CANTEEN,5,5,0,5,2014-12-02,54.508053,-6.758329
+408907,ST PATRICKS CO ED PRIMARY SCHOOL,5,5,5,0,2013-11-25,54.504122,-6.759606
+408908,ST PATRICK'S COLLEGE,5,0,0,0,2014-04-11,54.509945,-6.756218
+408909,ST PATRICKS PRIMARY SCHOOL,5,5,0,0,2013-12-11,54.391108,-7.106672
+408910,ST PATRICK'S PRIMARY SCHOOL,5,0,5,5,2013-09-09,54.530015,-6.661164
+408911,ST PATRICK'S PRIMARY SCHOOL,5,5,0,0,2014-06-12,54.533461,-6.816694
+408912,STABLES (RYANDALE),5,nan,nan,nan,2013-01-23,54.447801,-6.692215
+408913,STOCKDALE & SON,3,10,5,10,2013-12-12,54.411662,-7.170821
+408914,SUBWAY,5,5,0,5,2014-11-26,54.503656,-6.769392
+408915,SUBWAY (BALLYNAKILLY),4,5,10,5,2014-04-01,54.500214,-6.65865
+408916,Sugar & Spice Hot Food Stand,3,10,5,10,2014-06-30,,
+408917,SUITOR GALLERY CRAFTS,5,0,0,5,2013-04-30,54.459379,-7.029164
+408918,SUPERMACS/PAPA JOHNS,3,10,10,10,2014-08-18,54.511442,-6.762905
+408919,SUPERVALU (POUNDHILL CENTRE),4,5,10,5,2014-09-26,54.415985,-6.977772
+408920,SUPERVALU COALISLAND,4,5,10,5,2013-07-18,54.538899,-6.705556
+408921,SU'S HOT FOOD BAR,3,10,10,5,2014-09-25,54.503417,-6.767022
+408922,TALLYS BAR,5,5,5,5,2012-11-19,54.53608,-6.887175
+408923,TANYARD TAVERN,5,0,0,0,2014-06-19,54.378026,-7.315265
+408924,TASTY BITE,5,0,0,5,2013-04-17,,
+408925,Tasty House,2,15,5,10,2014-02-14,54.378026,-7.315265
+408926,Tasty Macs,5,5,5,5,2014-04-01,54.550446,-6.717678
+408927,Tener Brothers Family Butchers,4,nan,nan,nan,2014-06-10,54.411662,-7.170821
+408928,TENER'S BUTCHERS,4,0,0,10,2014-01-20,54.507747,-6.835918
+408929,TESCO STORES LIMITED,3,10,10,10,2014-02-17,54.500509,-6.775291
+408930,THE AUCTION ROOMS,5,5,0,0,2014-05-29,54.447801,-6.692215
+408931,THE BEER SHED,Exempt,nan,nan,nan,2012-07-25,54.542823,-6.695419
+408932,THE BREWERS HOUSE,3,10,10,5,2014-06-04,54.530867,-6.813278
+408933,THE BREWERY OFFSALES,Exempt,nan,nan,nan,2012-02-23,54.533461,-6.816694
+408934,THE CEILI HOUSE,5,5,5,5,2014-12-23,54.540757,-6.701264
+408935,The Cellar,Exempt,nan,nan,nan,2013-07-29,54.538899,-6.705556
+408936,THE COUNTRY CHIP,5,5,0,5,2013-11-22,54.411662,-7.170821
+408937,The Diamond,4,10,0,5,2014-11-20,54.414439,-6.97664
+408938,THE DOME PIZZERIA,5,0,5,0,2014-03-19,54.503417,-6.767022
+408939,The Fair Ladies,5,0,0,5,2014-05-29,54.378026,-7.315265
+408940,The Farmers Kitchen,5,0,5,5,2014-10-23,54.428432,-7.130883
+408941,THE FLUFFY MERINGUE,4,10,0,10,2014-09-02,,
+408942,THE GARDEN DELI,5,5,5,5,2014-12-10,54.515209,-6.764042
+408943,The Golf Club Restaurant,3,10,10,10,2014-11-13,54.516234,-6.78722
+408944,THE HAVEN PRIVATE NURSING HOME,5,5,0,5,2013-07-22,54.512874,-6.778287
+408945,THE HUNTSMAN INN (DINKIES),5,5,5,5,2012-01-20,54.413985,-6.974941
+408946,THE LINEN GREEN FARM SHOP,4,5,5,10,2014-11-27,54.487015,-6.751607
+408947,THE LOFT COFFEE BAR,5,5,0,5,2013-09-13,54.487015,-6.751607
+408948,THE MILLCOURT,5,5,5,5,2014-02-21,54.540757,-6.701264
+408949,THE MILLWHEEL RESTAURANT,5,0,0,5,2014-11-04,54.505408,-6.77025
+408950,The Molly & Mia Foundation,5,0,0,5,2014-04-02,54.41226,-6.746502
+408951,The Moy Larder,4,5,10,5,2013-12-03,54.447801,-6.692215
+408952,THE VALLEY BUTCHER,4,5,10,5,2013-10-01,54.378026,-7.315265
+408953,THE VILLAGE TAKE AWAY,4,5,10,5,2013-07-23,54.531094,-6.812545
+408954,The Wee Tea Room,5,nan,nan,nan,2014-05-06,54.378026,-7.315265
+408955,TIME 2 BE ME,5,0,0,0,2014-06-11,54.502841,-6.779312
+408956,Time 2 Be Me,5,5,5,0,2014-06-11,54.502841,-6.779312
+408957,Time 2 Be Me (surestart),5,0,0,5,2014-06-11,54.547572,-6.695855
+408958,TODAY'S EXTRA DONAGHMORE,4,5,5,10,2014-02-25,54.533461,-6.816694
+408959,TODDSLEAP ACTIVITY CENTRE,4,5,5,10,2013-12-17,54.489049,-7.069894
+408960,TOMNEY'S LICENSED GUEST INN,4,10,5,5,2012-07-24,54.447801,-6.692215
+408961,TORRENT DELI,4,0,5,10,2013-11-11,54.533981,-6.819367
+408962,TRULY TRUFFLE,5,5,5,5,2013-07-03,,
+408963,TSAN WELCOME,1,10,10,20,2014-04-24,54.447833,-6.695205
+408964,TSAN WELCOME,4,5,5,10,2013-10-31,54.539758,-6.700229
+408965,TWO'S COMPANY -CLOGHER VALLEY SURE START,5,0,0,5,2014-03-06,54.411662,-7.170821
+408966,U WELCOME,4,10,0,10,2014-10-14,54.53608,-6.887175
+408967,UNCLE SAMS,5,5,5,5,2013-10-30,54.540757,-6.701264
+408968,VALLEY FOLD,5,0,0,5,2014-02-26,54.377295,-7.320986
+408969,VALLEY HOTEL,4,5,0,10,2013-08-06,54.378026,-7.315265
+408970,VALLEY NURSING HOME,5,5,0,5,2014-09-18,54.420278,-7.174898
+408971,VALLEY PHARMACY,Exempt,nan,nan,nan,2006-08-02,54.411662,-7.170821
+408972,VERNERS INN COSTCUTTER,5,5,5,5,2013-10-30,54.489847,-6.63544
+408973,VILLAGE CHIPPY,5,5,5,5,2014-07-10,54.507747,-6.835918
+408974,VILNIUS EFS,3,10,10,5,2014-02-13,54.502898,-6.772564
+408975,VINEYARD CHURCH,Exempt,nan,nan,nan,2014-02-25,54.506267,-6.742853
+408976,Violet Moon,5,5,5,5,2014-10-01,54.542823,-6.695419
+408977,VISCOUNTS GREAT FOOD HALL,5,0,5,5,2014-12-02,54.504458,-6.765154
+408978,VIVO,4,0,10,5,2014-01-28,54.496094,-6.908974
+408979,VIVO,5,5,5,5,2014-01-13,54.490511,-6.801408
+408980,W J HAYES JUNIOR,4,0,0,10,2013-06-19,,
+408981,WALKER MEMORIAL PRIMARY SCHOOL KITCHEN,5,5,0,5,2013-12-03,54.509182,-6.839412
+408982,WASHINGFORD DAYCARE,5,0,5,5,2014-04-28,54.501324,-6.769756
+408983,WASHINGFORD DAYCARE,5,0,5,5,2014-04-24,54.508561,-6.763162
+408984,WAYNE MORROW'S BUTCHERS,5,5,0,0,2014-11-06,54.414439,-6.97664
+408985,WELCOME INN (PBS),5,0,5,5,2012-09-03,54.447833,-6.695205
+408986,Wesleyan Hall,5,0,0,5,2014-02-26,54.376076,-7.321638
+408987,WHITESIDE'S BAR,5,5,5,5,2012-10-12,54.411662,-7.170821
+408988,WILLOWBANK COMMUNITY RES. CENTRE,5,5,0,5,2014-05-13,54.510944,-6.767753
+408989,WINDMILL INTEGRATED PRIMARY SCHOOL,5,0,0,5,2013-11-25,54.498644,-6.772136
+408990,WINEMARK,Exempt,nan,nan,nan,2013-06-05,54.503656,-6.769392
+408991,WING'S CHINESE TAKEAWAY,5,5,0,5,2013-12-06,54.37811,-7.315895
+408992,WOODLAND ADVENTURE PLAYGROUP,5,0,0,5,2013-03-06,54.391108,-7.106672
+408993,WOODLAWN HOUSE,5,0,0,5,2014-11-04,54.512874,-6.778287
+408994,Woodys Bar,4,10,0,0,2013-12-02,54.502224,-6.772538
+408995,XL STOP & SHOP (GRIMES COSTCUTTERS),2,15,0,10,2013-11-04,54.531094,-6.812545
+408996,XTRAVISION,5,5,5,5,2012-03-20,54.507477,-6.766962
+408997,YANKEE STAR GRILL HOUSE,4,10,5,5,2014-04-23,54.538899,-6.705556
+408998,YING YANG KITCHEN AT LISTAMLET GRANGE,5,0,5,5,2012-11-01,,
+408999,YOUR LOCAL BOOTS PHARMACY,Exempt,nan,nan,nan,2014-01-21,54.504441,-6.768767

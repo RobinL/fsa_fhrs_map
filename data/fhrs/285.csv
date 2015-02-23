@@ -1,531 +1,531 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-315606,Porlock Weir,Porlock,Minehead,Somerset,1 Mariners Combe,Other catering premises,7841,5,,160642,5,,51.21622900000000,PI/000000386,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.62449100000000,TA24 8PA,2013-06-13,fhrs_5_en-GB,5,,FHRS,5
-315607,21 St Audries Close,Stogursey,Bridgwater,Somerset,5- Minute Pizza,Mobile caterer,7846,5,,540056,0,,51.18110700000000,PI/000008576,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.14042300000000,TA5 1QU,2013-02-21,fhrs_5_en-GB,5,,FHRS,0
-315608,10 Townsend Road,Minehead,Somerset,,A Taste of Exmoor,Manufacturers/packers,7839,0,,164080,0,,51.20302100000000,PI/000005812,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47784700000000,TA24 5RG,2014-03-18,fhrs_5_en-GB,5,,FHRS,5
-315609,Lady Street,Dulverton,Somerset,,Abbeyfield House,Hospitals/Childcare/Caring Premises,5,0,,161335,0,,51.04102200000000,PI/000001326,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55109700000000,TA22 9BY,2014-03-07,fhrs_5_en-GB,5,,FHRS,0
-315610,21 High Street,Dulverton,Somerset,,Alchem Pharmacy Dulverton,Retailers - other,4613,,,160702,,,51.04023300000000,PI/000000491,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55087100000000,TA22 9EX,2013-03-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-315611,Brook Street,Minehead,Somerset,,Alcombe Fish Bar,Takeaway/sandwich shop,7844,5,,160854,0,,51.19567100000000,PI/000000703,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46521800000000,TA24 6BP,2013-03-07,fhrs_5_en-GB,5,,FHRS,0
-315612,Bircham Road,Alcombe,Minehead,Somerset,Alcombe House Hotel,Hotel/bed & breakfast/guest house,7842,5,,160852,5,,51.19607500000000,PI/000000699,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46458700000000,TA24 6BG,2012-07-04,fhrs_5_en-GB,5,,FHRS,5
-315613,Lower Meadow Road,Alcombe,Minehead,Somerset,Alcombe Methodist Church,Other catering premises,7841,5,,160895,0,,51.19864800000000,PI/000000764,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46807500000000,TA24 6AN,2013-11-30,fhrs_5_en-GB,5,,FHRS,0
-315614,49 Alcombe Road,Alcombe,Minehead,Somerset,Alcombe News,Retailers - other,4613,,,161969,,,51.19765600000000,PI/000002105,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46831500000000,TA24 6BB,2010-01-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-315615,67 Alcombe Road,Alcombe,Minehead,Somerset,Alcombe Tandoori,Restaurant/Cafe/Canteen,1,0,,160881,10,,51.19734300000000,PI/000000747,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46746100000000,TA24 6BD,2013-06-03,fhrs_4_en-GB,4,,FHRS,10
-315616,Fishers Mead,Dulverton,Somerset,,All Saints Church of England School,School/college/university,7845,5,,721746,0,,51.03849700000000,PI/000009858,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54485000000000,TA22 9EN,2013-12-03,fhrs_5_en-GB,5,,FHRS,0
-315617,Harepark,Allerford,Minehead,Somerset,Allerford Community Hall,Other catering premises,7841,5,,161375,5,,51.21159400000000,PI/000001372,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.57145500000000,TA24 8HL,2011-02-23,fhrs_5_en-GB,5,,FHRS,5
-315618,Allerford,Minehead,Somerset,,Allerford Post Office & Stores,Retailers - other,4613,5,,432855,0,,51.21189880371094,PI/000008895,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.57006216049194,TA24 8HN,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-315619,Allerford,Minehead,Somerset,,Allerford Reading Room Club,Pub/bar/nightclub,7843,10,,161369,10,,51.21088027954102,PI/000001366,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.56899666786194,TA24 8HW,2014-08-12,fhrs_3_en-GB,3,,FHRS,10
-315620,Hawkcombe,Porlock,Minehead,Somerset,Amberton B & B,Hotel/bed & breakfast/guest house,7842,5,,164806,5,,51.20430300000000,PI/000006930,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59651500000000,TA24 8QW,2013-06-01,fhrs_5_en-GB,5,,FHRS,5
-315621,48 Liddymore Road,Watchet,Somerset,,Andrews Fish Bar,Takeaway/sandwich shop,7844,5,,161715,0,,51.17826800000000,PI/000001798,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32529100000000,TA23 0DS,2013-03-29,fhrs_5_en-GB,5,,FHRS,0
-315622,29 The Avenue,Minehead,Somerset,,Apple on the Avenue,Restaurant/Cafe/Canteen,1,5,,160513,0,,51.20678200000000,PI/000000201,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-09-06,fhrs_5_en-GB,5,,FHRS,0
-315623,British Energy Hinkley Point B,Stogursey,Bridgwater,Somerset,Aramark @ Hinkley Point B,Restaurant/Cafe/Canteen,1,5,,164500,5,,51.20709000000000,PI/000006421,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.13164600000000,TA5 1UD,2013-10-25,fhrs_5_en-GB,5,,FHRS,5
-315624,33 Long Street,Williton,Taunton,Somerset,Arden Cottage,Hotel/bed & breakfast/guest house,7842,0,,164404,5,,51.16264100000000,PI/000006236,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31789300000000,TA4 4QU,2014-04-15,fhrs_5_en-GB,5,,FHRS,0
-315625,Porlock,Minehead,Somerset,,Ash Farm,Hotel/bed & breakfast/guest house,7842,5,,160424,5,,51.21678924560547,PI/000000037,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.66259932518005,TA24 8JN,2014-10-17,fhrs_5_en-GB,5,,FHRS,5
-315626,The Beacon,Beacon Road,Minehead,Somerset,Axe Valley Christian Trust,Hotel/bed & breakfast/guest house,7842,5,,162596,5,,51.21282600000000,PI/000003210,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.48260000000000,TA24 5SD,2013-07-12,fhrs_5_en-GB,5,,FHRS,5
-315627,Bridgetown,Dulverton,Somerset,,Badgers Holt,Pub/bar/nightclub,7843,5,,160435,5,,51.08807373046880,PI/000000058,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.53819179534912,TA22 9JL,2013-06-06,fhrs_5_en-GB,5,,FHRS,5
-315628,18 Friday Street,Minehead,Somerset,,Bailey Mac's,Restaurant/Cafe/Canteen,1,0,,508845,5,,51.20480200000000,PI/000000510,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47853400000000,TA24 5UA,2013-01-17,fhrs_5_en-GB,5,,FHRS,0
-315629,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Bake n Bite,Retailers - other,4613,0,,165567,0,,51.20599400000000,PI/000008181,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2013-08-22,fhrs_5_en-GB,5,,FHRS,0
-315630,7 Bampton Street,Minehead,Somerset,,Bampton Street Fish Bar,Takeaway/sandwich shop,7844,5,,161172,5,,51.20479500000000,PI/000001109,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47979400000000,TA24 5TR,2014-09-30,fhrs_5_en-GB,5,,FHRS,0
-315631,The Esplanade,Minehead,Somerset,,Banbridge House,Hospitals/Childcare/Caring Premises,5,20,,165003,10,,51.20880800000000,PI/000007256,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47317900000000,TA24 5QS,2014-02-11,fhrs_1_en-GB,1,,FHRS,10
-315632,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Bar Rosso,Pub/bar/nightclub,7843,0,,160794,0,,51.20599400000000,PI/000000633,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2014-10-06,fhrs_5_en-GB,5,,FHRS,0
-315633,Rock Shop,Warren Road,Minehead,Somerset,Beach Hut Minehead Ltd,Retailers - other,4613,5,,160917,5,,51.20321900000000,PI/000000791,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47713800000000,TA24 5RL,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-315634,7 Fore Street,Williton,Taunton,Somerset,Bengal Spice,Restaurant/Cafe/Canteen,1,5,,161682,5,,51.16086000000000,PI/000001768,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32117400000000,TA4  4PX,2013-05-29,fhrs_5_en-GB,5,,FHRS,5
-315635,Beacon Road,Minehead,Somerset,,Beverleigh,Hotel/bed & breakfast/guest house,7842,5,,160432,5,,51.21221000000000,PI/000000050,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47870000000000,TA24 5SE,2014-11-21,fhrs_5_en-GB,5,,FHRS,5
-315636,Bicknoller Community Shop,Dashwoods Lane,Bicknoller,Taunton,Bicknoller Shop Association Ltd,Retailers - other,4613,5,,161584,5,,51.14804800000000,PI/000001613,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.27478600000000,TA4  4EQ,2014-02-07,fhrs_5_en-GB,5,,FHRS,5
-315637,16 Park Street,Minehead,Somerset,,Bistro 16,Restaurant/Cafe/Canteen,1,0,,161181,0,,51.20551200000000,PI/000001125,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.48000300000000,TA24 5NQ,2013-04-26,fhrs_5_en-GB,5,,FHRS,0
-315638,1 Long Street,Williton,Taunton,Somerset,Bitz N Pizza & John's Chippy,Takeaway/sandwich shop,7844,5,,160441,5,,51.16164900000000,PI/000000068,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32132500000000,TA4  4QT,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-315639,Blenheim Road,Minehead,Somerset,,Blenheim Gardens Cafe,Restaurant/Cafe/Canteen,1,5,,161009,0,,51.20399000000000,PI/000000885,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49571400000000,TA24 8ED,2014-09-01,fhrs_5_en-GB,5,,FHRS,5
-315640,North Road,Minehead,Somerset,,Blenheim Lodge,Hospitals/Childcare/Caring Premises,5,5,,161000,0,,51.20924000000000,PI/000000877,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47386600000000,TA24 5QB,2014-11-04,fhrs_5_en-GB,5,,FHRS,5
-315641,Blue Anchor,Minehead,Somerset,,Blue Anchor Hotel,Pub/bar/nightclub,7843,5,,161844,10,,51.18198400000000,PI/000001943,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.38407400000000,TA24 6JP,2014-04-17,fhrs_2_en-GB,2,,FHRS,15
-315642,Simonsbath,Minehead,Somerset,,Boeveys Restaurant & Tearooms,Restaurant/Cafe/Canteen,1,0,,161515,0,,51.13974380493164,PI/000001534,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.75481986999512,TA24 7SH,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-315643,14/16 The Parade,Minehead,Somerset,,Boots The Chemist Ltd,Retailers - other,4613,5,,161089,0,,51.20569000000000,PI/000000986,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47730300000000,TA24 5UG,2014-07-15,fhrs_5_en-GB,5,,FHRS,5
-315644,Bossington,Porlock,Minehead,Somerset,Bossington Farm,Manufacturers/packers,7839,5,,621002,0,,51.22047900000000,PI/000009620,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.58082200000000,TA24 8HF,2013-11-29,fhrs_4_en-GB,4,,FHRS,10
-315645,Bilbrook,Minehead,Somerset,,Bournstream,Hotel/bed & breakfast/guest house,7842,5,,161867,5,,51.16207885742188,PI/000001957,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.39366030693054,TA24 6HB,2014-06-08,fhrs_5_en-GB,5,,FHRS,5
-315646,56a The Avenue,Minehead,Somerset,,Brambles Coffee Shop,Restaurant/Cafe/Canteen,1,0,,160933,0,,51.20716300000000,PI/000000811,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47175300000000,TA24 5BB,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-315647,Station Road,Washford,Watchet,Somerset,Brendon Service Station,Retailers - other,4613,,,160559,,,51.16120500000000,PI/000000258,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.36779200000000,TA23 0PN,2012-04-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-315648,Winsford,Minehead,Somerset,,Bridge Cottage Tearooms,Restaurant/Cafe/Canteen,1,5,,401546,5,,51.10206985473633,PI/000001358,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.56419491767883,TA24 7JE,2014-09-26,fhrs_5_en-GB,5,,FHRS,0
-315649,20 Bridge Street,Dulverton,Somerset,,Bridge Inn,Pub/bar/nightclub,7843,5,,161345,5,,51.03949600000000,PI/000001338,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55225800000000,TA22 9HJ,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-315650,1 Combe Close,Monksilver,Taunton,Somerset,British Biltong,Other catering premises,7841,5,,621001,0,,51.12785400000000,PI/000009022,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32146100000000,TA4 4JE,2013-12-16,fhrs_4_en-GB,4,,FHRS,10
-315651,Mineral Place,Watchet,Somerset,,British Legion Hall,Pub/bar/nightclub,7843,0,,161788,5,,51.18227500000000,PI/000001880,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33185900000000,TA23 0AR,2013-05-05,fhrs_5_en-GB,5,,FHRS,0
-315652,Ponsford Road,Minehead,Somerset,,Broadlands,Hospitals/Childcare/Caring Premises,5,0,,160938,0,,51.20254000000000,PI/000000819,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47109000000000,TA24 5DQ,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-315653,The Cricket Ground,Pitsford Hill,Wiveliscombe,Taunton,Brompton Ralph Cricket Club,Other catering premises,7841,0,,162410,10,,51.06769400000000,PI/000002871,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.28597800000000,TA4 2RP,2013-12-18,fhrs_4_en-GB,4,,FHRS,10
-315654,Brompton Ralph,Taunton,Somerset,,Brompton Ralph Village Shop & PO,Retailers - other,4613,5,,161631,10,,51.08214700000000,PI/000001668,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.30769400000000,TA4  2RU,2013-01-14,fhrs_4_en-GB,4,,FHRS,5
-315655,Parish Hall,Brushford,Dulverton,Somerset,Brushford Luncheon Club,Other catering premises,7841,10,,188328,0,,51.02049600000000,PI/000004698,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.53575400000000,TA22 9AH,2014-01-27,fhrs_4_en-GB,4,,FHRS,0
-315656,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Burger King,Restaurant/Cafe/Canteen,1,0,,160831,0,,51.20599400000000,PI/000000675,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2012-11-09,fhrs_5_en-GB,5,,FHRS,0
-315657,Knowle Lane,Dunster,Minehead,Somerset,Burnells Gardens,Hotel/bed & breakfast/guest house,7842,10,,401548,5,,51.17797300000000,PI/000008794,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.48032200000000,TA24 6TX,2012-05-25,fhrs_4_en-GB,4,,FHRS,0
-315658,West Luccombe,Minehead,Somerset,,Burrowhayes Farm Caravan & Camp Site,Retailers - other,4613,5,,161380,5,,51.20425033569336,PI/000001376,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.57803297042847,TA24 8HT,2013-05-20,fhrs_5_en-GB,5,,FHRS,5
-315659,36 St Georges Street,Dunster,Minehead,Somerset,Buttercross,Hotel/bed & breakfast/guest house,7842,0,,160423,5,,51.18456400000000,PI/000000036,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44799600000000,TA24 6RS,2011-10-17,fhrs_5_en-GB,5,,FHRS,5
-315660,8 Wellington Square,Minehead,Somerset,,Butterflies,Restaurant/Cafe/Canteen,1,0,,161164,0,,51.20575600000000,PI/000001091,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47918000000000,TA24 5NH,2014-06-12,fhrs_5_en-GB,5,,FHRS,0
-315661,Dunster Castle,Dunster,Minehead,Somerset,Camellia House,Restaurant/Cafe/Canteen,1,5,,669426,0,,51.18156700000000,PI/000009840,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44385300000000,TA24 6SL,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-315662,North Hill Road,Minehead,Somerset,,Camping Shop,Retailers - other,4613,5,,161202,10,,51.21264700000000,PI/000001168,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47752600000000,TA24 5SF,2012-07-13,fhrs_4_en-GB,4,,FHRS,5
-315663,57 The Avenue,Minehead,Somerset,,Candy & Gifts,Retailers - other,4613,,,160469,,,51.20716300000000,PI/000000136,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47175300000000,TA24 5BB,2012-10-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-315664,10 The Parade,Minehead,Somerset,,Card Factory,Retailers - other,4613,,,161109,,,51.15681800000000,PI/000001003,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.60592700000000,TA24 5DH,2012-10-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-315665,Main Road,Carhampton,Minehead,Somerset,Carhampton Stores,Retailers - other,4613,20,,160457,0,,51.17484000000000,PI/000000096,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.42186900000000,TA24 6NQ,2014-04-17,fhrs_1_en-GB,1,,FHRS,0
-315666,Main Road,Carhampton,Minehead,Somerset,Carhampton Youth Club,Retailers - other,4613,,,161889,,,51.17259800000000,PI/000001981,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.41620700000000,TA24 6LZ,2011-12-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-315667,4 High Street,Dunster,Minehead,Somerset,Castle Coffee House,Restaurant/Cafe/Canteen,1,0,,160730,0,,51.18404800000000,PI/000000539,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44388700000000,TA24 6SG,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-315668,Dodington,Bridgwater,Somerset,,Castle Of Comfort Country House,Hotel/bed & breakfast/guest house,7842,0,,161540,5,,51.15309906005859,PI/000001568,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.18334269523621,TA5  1LE,2013-03-09,fhrs_5_en-GB,5,,FHRS,0
-315669,1 Fore Street,Dulverton,Somerset,,Catleys Fish and Chips Dulverton,Takeaway/sandwich shop,7844,0,,160503,5,,51.04023300000000,PI/000000195,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55087100000000,TA22 9EX,2014-03-07,fhrs_5_en-GB,5,,FHRS,0
-315670,Catwell,Williton,Taunton,Somerset,Catwell House Country B&B,Hotel/bed & breakfast/guest house,7842,10,,165943,5,,51.14031982421875,PI/000008755,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-2.90556001663208,TA4 4FF,2014-09-29,fhrs_3_en-GB,3,,FHRS,10
-315671,Old Cleeve,Minehead,Somerset,,Cedar House,Hotel/bed & breakfast/guest house,7842,,,370649,,,51.16631698608398,PI/000009134,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.37741136550903,TA24 6HH,2012-06-20,fhrs_5_en-GB,5,,FHRS,
-315672,6 High Street,Stogumber,Taunton,Somerset,Central Stores,Retailers - other,4613,5,,161615,0,,51.12814500000000,PI/000001642,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.29055800000000,TA4  3TA,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-315673,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Centre Stage,Other catering premises,7841,0,,581991,0,,51.20599400000000,PI/000000637,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2013-07-01,fhrs_5_en-GB,5,,FHRS,5
-315674,Church Path,Minehead,Somerset,,Channel House,Hotel/bed & breakfast/guest house,7842,5,,161028,10,,51.21043400000000,PI/000000909,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47620900000000,TA24 5QG,2013-05-17,fhrs_4_en-GB,4,,FHRS,5
-315675,Kilve,Bridgwater,Somerset,,Chantry Cottage,Restaurant/Cafe/Canteen,1,5,,161554,0,,51.18421936035156,PI/000001581,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.21882271766663,TA5  1EG,2013-04-05,fhrs_5_en-GB,5,,FHRS,0
-315676,Church House,2 West Street,Dunster,Minehead,Chapel House Tearooms,Restaurant/Cafe/Canteen,1,0,,160495,0,,51.18162800000000,PI/000000184,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44691600000000,TA24 6SN,2013-01-22,fhrs_5_en-GB,5,,FHRS,0
-315677,Alcombe Children's Centre,Stephenson Road,Minehead,Somerset,Cheeky Cherubs,Hospitals/Childcare/Caring Premises,5,,,164727,,,51.20072700000000,PI/000006801,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46437600000000,TA24 5EB,2014-02-21,fhrs_5_en-GB,5,,FHRS,
-315678,33 Swain Street,Watchet,Somerset,,Chives,Restaurant/Cafe/Canteen,1,20,,162595,5,,51.18135400000000,PI/000003207,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33063100000000,TA23 0AB,2014-09-29,fhrs_1_en-GB,1,,FHRS,10
-315679,Selworthy,Minehead,Somerset,,Church Cottage,Other catering premises,7841,0,,669425,5,,51.20992600000000,PI/000009797,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54683100000000,TA24 8TR,2014-05-16,fhrs_5_en-GB,5,,FHRS,0
-315680,Priory Church Of St Andrew,Stogursey,Bridgwater,Somerset,Church Rooms,Other catering premises,7841,0,,161522,0,,51.17884063720703,PI/000001548,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.13853597640991,TA5  1RG,2014-08-30,fhrs_5_en-GB,5,,FHRS,0
-315681,Wootton Courtenay Village Hall,Wootton Courtenay,Minehead,Somerset,Claire's Kitchen,Restaurant/Cafe/Canteen,1,0,,683189,0,,51.16922300000000,PI/000009741,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.52851800000000,TA24 8RG,2014-06-13,fhrs_5_en-GB,5,,FHRS,0
-315682,Main Street,Clatworthy,Taunton,Somerset,Clatworthy Village Hall,Other catering premises,7841,5,,161806,5,,51.07023300000000,PI/000001901,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.35177600000000,TA4 2EQ,2014-08-01,fhrs_4_en-GB,4,,FHRS,10
-315683,High Street,Porlock,Minehead,Somerset,Clive Downs Butchers,Retailers - other,4613,5,,161407,5,,51.20908900000000,PI/000001405,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59512000000000,TA24 8PT,2014-03-27,fhrs_4_en-GB,4,,FHRS,10
-315684,Oare,Lynton,Devon,,Cloud Farm,Restaurant/Cafe/Canteen,1,10,,605053,10,,51.21609878540040,PI/000008377,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.72832584381104,EX35 6NU,2013-06-07,fhrs_3_en-GB,3,,FHRS,10
-315685,Royal British Legion,10 Bancks Street,Minehead,Somerset,Club Bar,Pub/bar/nightclub,7843,5,,161111,5,,51.20481900000000,PI/000001008,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47723200000000,TA24 5DJ,2014-02-14,fhrs_5_en-GB,5,,FHRS,5
-315686,15c The Avenue,Minehead,Somerset,,Coaster Coffee,Restaurant/Cafe/Canteen,1,5,,161030,0,,51.20678200000000,PI/000000911,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-09-09,fhrs_5_en-GB,5,,FHRS,0
-315687,24 High Street,Dunster,Minehead,Somerset,Cobblestones Restaurant,Restaurant/Cafe/Canteen,1,0,,160737,5,,51.18404800000000,PI/000000545,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44388700000000,TA24 6SG,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-315688,Upcott Farm Unit 10,Bicknoller,Taunton,Somerset,Cocoa's,Manufacturers/packers,7839,0,,703262,0,,51.13859100000000,PI/000009459,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.26953700000000,TA4 4EY,2013-04-12,fhrs_5_en-GB,5,,FHRS,0
-315689,Holford,Bridgwater,Somerset,,Combe House Hotel,Hotel/bed & breakfast/guest house,7842,0,,161547,0,,51.15995407104492,PI/000001574,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.21320629119873,TA5 1RZ,2014-12-10,fhrs_5_en-GB,5,,FHRS,0
-315690,Alcombe Lodge,Bircham Road,Alcombe,Minehead,Community Rooms,Other catering premises,7841,5,,163920,5,,51.19664400000000,PI/000005560,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46653700000000,TA24 6BE,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-315691,Carantoc Place,Carhampton,Minehead,Somerset,Community Rooms,Other catering premises,7841,5,,160656,5,,51.17401300000000,PI/000000420,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.42258800000000,TA24 6NE,2011-08-01,fhrs_5_en-GB,5,,FHRS,5
-315692,Danesborough View,Williton,Taunton,Somerset,Community Rooms,Other catering premises,7841,5,,164678,5,,51.15871000000000,PI/000006728,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32039800000000,TA4 4NR,2011-08-01,fhrs_5_en-GB,5,,FHRS,5
-315693,Deane Close,Stogumber,Taunton,Somerset,Community Rooms,Other catering premises,7841,5,,161609,5,,51.12775000000000,PI/000001636,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.28803200000000,TA4  3TE,2013-10-18,fhrs_5_en-GB,5,,FHRS,5
-315694,Fishers Mead,Dulverton,Somerset,,Community Rooms,Other catering premises,7841,5,,164671,5,,51.03849700000000,PI/000006719,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54485000000000,TA22 9EN,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-315695,Healeys,Villes Lane,Porlock,Minehead,Community Rooms,Other catering premises,7841,5,,161400,5,,51.21292500000000,PI/000001394,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59210300000000,TA24 8NQ,2012-07-05,fhrs_5_en-GB,5,,FHRS,0
-315696,Luttrell Gardens,Minehead,Somerset,,Community Rooms,Other catering premises,7841,5,,164673,5,,51.20201200000000,PI/000006720,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47946100000000,TA24 5HE,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-315697,Maglands Road,Watchet,Somerset,,Community Rooms,Other catering premises,7841,5,,164677,5,,51.17780200000000,PI/000006727,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32351800000000,TA23 0EB,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-315698,Riverside Gardens,Dunster,Minehead,Somerset,Community Rooms,Other catering premises,7841,5,,164674,0,,51.18754400000000,PI/000006721,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44041900000000,TA24 6RL,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-315699,St Audries Close,Stogursey,Bridgwater,Somerset,Community Rooms,Other catering premises,7841,5,,161523,5,,51.18110700000000,PI/000001549,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.14042300000000,TA5  1QU,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-315700,Willow Grove,Washford,Watchet,Somerset,Community Rooms,Other catering premises,7841,0,,161814,5,,51.16167900000000,PI/000001909,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.36337200000000,TA23 0PT,2012-11-30,fhrs_5_en-GB,5,,FHRS,0
-315701,2a The Ball,Dunster,Minehead,Somerset,Conygar House,Hotel/bed & breakfast/guest house,7842,5,,160430,5,,51.18532800000000,PI/000000046,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44371300000000,TA24 6SD,2011-11-21,fhrs_5_en-GB,5,,FHRS,5
-315702,Doniford Holiday Village,Sea Lane,Doniford,Watchet,Cooks Fish & Chips,Takeaway/sandwich shop,7844,0,,160644,0,,51.18084500000000,PI/000000390,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.29831000000000,TA23 0TJ,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-315703,57 Liddymore Road,Watchet,Somerset,,Co-operative,Retailers - supermarkets/hypermarkets,7840,0,,161720,5,,51.17945600000000,PI/000001803,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32591200000000,TA23 0DQ,2012-12-12,fhrs_4_en-GB,4,,FHRS,10
-315704,19 Fore Street,Dulverton,Somerset,,Co-operative Food,Retailers - supermarkets/hypermarkets,7840,5,,161328,5,,51.04023300000000,PI/000001314,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55087100000000,TA22 9EX,2014-03-17,fhrs_4_en-GB,4,,FHRS,10
-315705,22 The Avenue,Minehead,Somerset,,Co-Operative Group,Retailers - supermarkets/hypermarkets,7840,0,,161021,0,,51.20628600000000,PI/000000903,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47421600000000,TA24 5AZ,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-315706,55/57 Alcombe Road,Alcombe,Minehead,Somerset,Co-Operative Group,Retailers - supermarkets/hypermarkets,7840,0,,160894,0,,51.19765600000000,PI/000000762,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46831500000000,TA24 6BB,2014-01-23,fhrs_5_en-GB,5,,FHRS,5
-315707,27 Fore Street,Williton,Taunton,Somerset,Co-Operative Stores,Retailers - supermarkets/hypermarkets,7840,5,,161693,5,,51.16086000000000,PI/000001779,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32117400000000,TA4  4PX,2009-12-17,fhrs_5_en-GB,5,,FHRS,5
-315708,42/43 Swain Street,Watchet,Somerset,,Co-Operative Stores,Retailers - supermarkets/hypermarkets,7840,0,,160438,0,,51.17753700000000,PI/000000064,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32781700000000,TA23 0HE,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-315709,21 Fore Street,Dulverton,Somerset,,Copper Kettle,Restaurant/Cafe/Canteen,1,0,,161326,0,,51.04023300000000,PI/000001311,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55087100000000,TA22 9EX,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-315710,1 Market Street,Watchet,Somerset,,Corner House Cafe,Restaurant/Cafe/Canteen,1,0,,160510,5,,51.18261500000000,PI/000000200,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33122500000000,TA23 0AN,2013-12-05,fhrs_5_en-GB,5,,FHRS,0
-315711,90 Cher,Minehead,Somerset,,Corner House Stores,Retailers - other,4613,5,,160440,0,,51.20155800000000,PI/000000066,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.48049200000000,TA24 5EL,2014-01-24,fhrs_5_en-GB,5,,FHRS,0
-315712,2 Wellington Square,Minehead,Somerset,,Costa Ltd,Restaurant/Cafe/Canteen,1,5,,634323,0,,51.20575600000000,PI/000001079,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47918000000000,TA24 5NH,2014-01-30,fhrs_5_en-GB,5,,FHRS,5
-315713,Porlock Fayre,High Street,Porlock,Minehead,Costcutter,Retailers - other,4613,,,164371,,,51.20940400000000,PI/000006182,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59702100000000,TA24 8PU,2013-12-12,fhrs_5_en-GB,5,,FHRS,
-315714,Wibble Farm,Williton,Taunton,Somerset,Cotswold Hardy Plants Ltd,Restaurant/Cafe/Canteen,1,5,,165002,0,,51.16719600000000,PI/000007253,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.28677100000000,TA4 4DD,2014-03-08,fhrs_5_en-GB,5,,FHRS,5
-315715,Fore Street,Williton,Taunton,Somerset,County Stores Filling Station,Retailers - other,4613,5,,161678,5,,51.16086000000000,PI/000001755,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32117400000000,TA4  4PX,2014-02-07,fhrs_5_en-GB,5,,FHRS,5
-315716,Porlock,Minehead,Somerset,,Court Place Farm,Hotel/bed & breakfast/guest house,7842,5,,160667,5,,51.20959854125977,PI/000000438,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.60069274902344,TA24 8NR,2012-03-13,fhrs_5_en-GB,5,,FHRS,5
-315717,20A The Avenue,Minehead,Somerset,,Cream,Restaurant/Cafe/Canteen,1,0,,163879,5,,51.20586300000000,PI/000005490,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47640700000000,TA24 5UQ,2013-06-03,fhrs_5_en-GB,5,,FHRS,5
-315718,4 Fore Street,Williton,Taunton,Somerset,Cream,Restaurant/Cafe/Canteen,1,5,,698639,5,,51.16092200000000,PI/000009875,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32126200000000,TA4 4PX,2014-07-15,fhrs_5_en-GB,5,,FHRS,0
-315719,Bridge Street,Williton,Taunton,Somerset,Croft House,Hospitals/Childcare/Caring Premises,5,0,,165911,0,,51.15871000000000,PI/000008702,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32039800000000,TA4 4NR,2014-07-23,fhrs_5_en-GB,5,,FHRS,0
-315720,Allerford,Minehead,Somerset,,Cross Lane House,Hotel/bed & breakfast/guest house,7842,0,,401545,5,,51.21088027954102,PI/000000290,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.56899666786194,TA24 8HW,2013-11-29,fhrs_5_en-GB,5,,FHRS,5
-315721,Crowcombe,Taunton,Somerset,,Crowcombe Court,Other catering premises,7841,0,,432853,0,,51.12411117553710,PI/000003330,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.23187208175659,TA4 4AD,2014-05-15,fhrs_5_en-GB,5,,FHRS,0
-315722,Crowcombe,Taunton,Somerset,,Crowcombe School,School/college/university,7845,5,,161560,5,,51.12174224853516,PI/000001589,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.22975158691406,TA4  4AA,2014-02-10,fhrs_5_en-GB,5,,FHRS,5
-315723,Crowcombe,Taunton,Somerset,,Crowcombe Station,Retailers - other,4613,,,161568,,,51.10240936279297,PI/000001597,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.23315167427063,TA4  4BU,2014-01-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-315724,Crowcombe,Taunton,Somerset,,Crowcombe Village Shop,Retailers - other,4613,5,,161563,5,,51.12468338012695,PI/000001594,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.23487401008606,TA4  4AE,2012-10-29,fhrs_5_en-GB,5,,FHRS,5
-315725,Exford,Minehead,Somerset,,Crown Hotel,Restaurant/Cafe/Canteen,1,5,,161478,5,,51.13350296020508,PI/000001488,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.63820838928223,TA24 7PP,2014-01-23,fhrs_4_en-GB,4,,FHRS,10
-315726,2a Summerland Road,Minehead,Somerset,,Cupcake Heaven,Other catering premises,7841,0,,581992,0,,51.20533600000000,PI/000003543,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47684800000000,TA24 5BP,2013-08-06,fhrs_5_en-GB,5,,FHRS,0
-315727,Wheddon Cross,Minehead,Somerset,,Cutcombe Primary School,School/college/university,7845,5,,161244,5,,51.13892745971680,PI/000001221,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.53812336921692,TA24 7DZ,2013-05-15,fhrs_5_en-GB,5,,FHRS,5
-315728,Wheddon Cross,Minehead,Somerset,,Cutthorne,Hotel/bed & breakfast/guest house,7842,5,,161392,5,,51.10019900000000,PI/000001387,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55750400000000,TA24 7AE,2012-03-13,fhrs_5_en-GB,5,,FHRS,5
-315729,Warren Road,Minehead,Somerset,,Dana's Fish and Chips,Takeaway/sandwich shop,7844,5,,160867,0,,51.20699400000000,PI/000000730,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46804000000000,TA24 5BG,2014-04-30,fhrs_5_en-GB,5,,FHRS,0
-315730,28 North Road,Williton,Taunton,Somerset,Danesfield C Of E Community School,School/college/university,7845,5,,161695,5,,51.16421800000000,PI/000001781,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32235700000000,TA4  4SN,2014-04-30,fhrs_5_en-GB,5,,FHRS,0
-315731,21 Fore Street,Williton,Taunton,Somerset,Davies Newsagents,Retailers - other,4613,,,161686,,,51.16086000000000,PI/000001770,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32117400000000,TA4  4PX,2014-01-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-315732,24 Conygar View,Dunster,Minehead,Somerset,Di's Novelty Cakes,Other catering premises,7841,0,,459522,0,,51.18936100000000,PI/000009345,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44043300000000,TA24 6PP,2012-10-22,fhrs_5_en-GB,5,,FHRS,0
-315733,Doniford,Watchet,Somerset,,Doniford Farm Park,Restaurant/Cafe/Canteen,1,0,,415855,5,,51.17838668823240,PI/000004859,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.30738306045532,TA23 0TQ,2013-02-28,fhrs_5_en-GB,5,,FHRS,0
-315734,Sea Lane,Doniford,Watchet,Somerset,Doniford Holiday Village,Restaurant/Cafe/Canteen,1,0,,161621,0,,51.18084500000000,PI/000001653,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.29831000000000,TA23 0TJ,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-315735,Blue Anchor,Minehead,Somerset,,Driftwood Cafe,Restaurant/Cafe/Canteen,1,5,,160700,0,,51.18191900000000,PI/000000489,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.40088300000000,TA24 6LD,2014-03-06,fhrs_5_en-GB,5,,FHRS,0
-315736,Wellington Square,Minehead,Somerset,,Duke of Wellington,Pub/bar/nightclub,7843,,,161162,,,51.20517100000000,PI/000001089,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47924700000000,TA24 5LJ,2014-01-21,fhrs_5_en-GB,5,,FHRS,
-315737,Fishers Mead,Dulverton,Somerset,,Dulverton Childrens Centre,Hospitals/Childcare/Caring Premises,5,5,,165973,5,,51.03739300000000,PI/000008783,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54398600000000,TA22 9EE,2013-06-06,fhrs_4_en-GB,4,,FHRS,10
-315738,Lady Street,Dulverton,Somerset,,Dulverton Club And Reading Room,Pub/bar/nightclub,7843,0,,161318,0,,51.04084800000000,PI/000001302,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55066300000000,TA22 9BX,2013-02-15,fhrs_5_en-GB,5,,FHRS,0
-315739,3 Fore Street,Dulverton,Somerset,,Dulverton Delicatessen,Retailers - other,4613,0,,161333,0,,51.04023300000000,PI/000001320,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55087100000000,TA22 9EX,2014-03-07,fhrs_5_en-GB,5,,FHRS,0
-315740,Barnsclose West,Dulverton,Somerset,,Dulverton Middle and Community School,School/college/university,7845,0,,161267,0,,51.03739300000000,PI/000001258,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54398600000000,TA22 9EE,2013-06-06,fhrs_5_en-GB,5,,FHRS,5
-315741,Millhams Lane,Dulverton,Somerset,,Dulverton Sports & Social Club,Pub/bar/nightclub,7843,5,,161278,5,,51.03870000000000,PI/000001269,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54984900000000,TA22 9HQ,2012-11-13,fhrs_5_en-GB,5,,FHRS,5
-315742,Wootton Courtenay,Minehead,Somerset,,Dunkery Beacon Country House,Hotel/bed & breakfast/guest house,7842,10,,161229,0,,51.17994689941406,PI/000001201,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.52186226844788,TA24 8RH,2014-03-05,fhrs_4_en-GB,4,,FHRS,5
-315743,13 Townsend Road,Minehead,Somerset,,Dunkery Lodge,Hotel/bed & breakfast/guest house,7842,5,,161045,5,,51.20189400000000,PI/000000925,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47595000000000,TA24 5RQ,2014-09-27,fhrs_5_en-GB,5,,FHRS,5
-315744,Dunster Beach,Dunster,Minehead,Somerset,Dunster Beach Stores & Takeaway,Retailers - other,4613,0,,160723,0,,51.19548400000000,PI/000000525,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.43315300000000,TA24 6TH,2014-04-16,fhrs_5_en-GB,5,,FHRS,0
-315745,5 High Street,Dunster,Minehead,Somerset,Dunster Castle Hotel,Hotel/bed & breakfast/guest house,7842,20,,160748,15,,51.18401500000000,PI/000000560,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44440100000000,TA24 6SF,2014-12-12,fhrs_1_en-GB,1,,FHRS,15
-315746,13 St Georges Street,Dunster,Minehead,Somerset,Dunster First School,School/college/university,7845,0,,160765,0,,51.18366400000000,PI/000000586,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44735200000000,TA24 6RX,2012-10-29,fhrs_5_en-GB,5,,FHRS,5
-315747,Manor Road,Alcombe,Minehead,Somerset,Dunster Lodge,Hospitals/Childcare/Caring Premises,5,5,,160893,5,,51.18783800000000,PI/000000761,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47099400000000,TA24 6EW,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-315748,Dunster,Minehead,Somerset,,Dunster Lunchbox Dunster Steep,Takeaway/sandwich shop,7844,5,,162970,5,,51.18522644042969,PI/000004017,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44309425354004,TA24 6SE,2013-05-24,fhrs_4_en-GB,4,,FHRS,10
-315749,16 High Street,Dunster,Minehead,Somerset,Dunster News & Gifts,Retailers - other,4613,,,160628,,,51.18404800000000,PI/000000367,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44388700000000,TA24 6SG,2014-04-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-315750,St Georges Street,Dunster,Minehead,Somerset,Dunster Pre- School,Hospitals/Childcare/Caring Premises,5,5,,162611,5,,51.18366400000000,PI/000003244,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44735200000000,TA24 6RX,2012-03-07,fhrs_5_en-GB,5,,FHRS,5
-315751,Station Road,Dunster,Minehead,Somerset,Dunster Station,Retailers - other,4613,,,160726,,,51.19159900000000,PI/000000530,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.43535100000000,TA24 6PL,2013-03-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-315752,Priory Green,Dunster,Minehead,Somerset,Dunster Tithe Barn,Other catering premises,7841,5,,163642,5,,51.18420900000000,PI/000005048,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44618200000000,TA24 6RY,2013-11-01,fhrs_5_en-GB,5,,FHRS,5
-315753,11 High Street,Dunster,Minehead,Somerset,Dunster Village Shop & Deli,Manufacturers/packers,7839,0,,160741,5,,51.18401500000000,PI/000000554,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44440100000000,TA24 6SF,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-315754,Mill Lane,Dunster,Minehead,Somerset,Dunster Water Mill Tea Room,Restaurant/Cafe/Canteen,1,0,,160756,0,,51.18091000000000,PI/000000571,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44682200000000,TA24 6SW,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-315755,Mill Lane,Dunster,Minehead,Somerset,Dunster Working Watermill,Manufacturers/packers,7839,0,,669424,0,,51.18091000000000,PI/000009787,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44682200000000,TA24 6SW,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-315756,Periton Road,Minehead,Somerset,,Eastleigh Care Home,Hospitals/Childcare/Caring Premises,5,5,,161203,5,,51.20044400000000,PI/000001169,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49243600000000,TA24 8DT,2014-11-07,fhrs_5_en-GB,5,,FHRS,5
-315757,2,Edgcott Cottages,Exford,Minehead,Edgcott Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,5,,160431,5,,51.13625100000000,PI/000000048,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64801100000000,TA24 7QG,2014-08-30,fhrs_5_en-GB,5,,FHRS,5
-315758,Edgcott Road,Exford,Minehead,Somerset,Edgcott House,Hotel/bed & breakfast/guest house,7842,5,,160491,5,,51.13625100000000,PI/000000179,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64801100000000,TA24 7QG,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-315759,Cleeve Abbey,Washford,Watchet,Somerset,English Heritage,Retailers - other,4613,,,162818,,,51.15554600000000,PI/000003693,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.36413500000000,TA23 0PS,2014-05-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-315760,5 The Esplanade,Watchet,Somerset,,Esplanade Club,Pub/bar/nightclub,7843,5,,161740,5,,51.18204200000000,PI/000001828,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32946300000000,TA23 0AJ,2013-09-21,fhrs_5_en-GB,5,,FHRS,5
-315761,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Everydays - Lakeside,Retailers - supermarkets/hypermarkets,7840,0,,160788,5,,51.20599400000000,PI/000000624,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2011-10-12,fhrs_4_en-GB,4,,FHRS,10
-315762,19 High Street,Dulverton,Somerset,,Exclusive Cake and Catering Co,Retailers - other,4613,5,,165990,5,,51.03972400000000,PI/000008822,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55129600000000,TA22 9HB,2013-06-21,fhrs_5_en-GB,5,,FHRS,5
-315763,Northmoor Road,Dulverton,Somerset,,Exclusive Cake Co,Manufacturers/packers,7839,5,,621000,5,,51.04420800000000,PI/000001274,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55020500000000,TA22 9DH,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-315764,Mill House,Bridgetown,Dulverton,Somerset,Exe Valley Caravan Site,Retailers - other,4613,10,,161256,5,,51.08926400000000,PI/000001238,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.53853100000000,TA22 9JR,2013-04-19,fhrs_4_en-GB,4,,FHRS,5
-315765,Chapel Street,Exford,Minehead,Somerset,Exford Bridge Tearooms,Restaurant/Cafe/Canteen,1,0,,161485,0,,51.13321100000000,PI/000001496,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64041400000000,TA24 7PY,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-315766,Church Hill,Exford,Minehead,Somerset,Exford C of E First School,School/college/university,7845,0,,161475,5,,51.13350200000000,PI/000001485,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.63820800000000,TA24 7PP,2013-10-03,fhrs_5_en-GB,5,,FHRS,5
-315767,Exford,Minehead,Somerset,,Exford Post Office/Off Licence,Retailers - other,4613,5,,161482,5,,51.13350296020508,PI/000001492,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.63820838928223,TA24 7PP,2012-10-26,fhrs_5_en-GB,5,,FHRS,5
-315768,6 Harbour Studios,Porlock Weir,Porlock,Minehead,Exmoor Cooking Company,Manufacturers/packers,7839,0,,165247,5,,51.21800300000000,PI/000007705,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.62694500000000,TA24 8PB,2013-06-07,fhrs_5_en-GB,5,,FHRS,5
-315769,4 Hayfield Road,Alcombe,Minehead,Somerset,Exmoor Fish and Chip Company,Mobile caterer,7846,0,,162418,0,,51.19999800000000,PI/000002886,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46798900000000,TA24 6AB,2013-10-05,fhrs_5_en-GB,5,,FHRS,0
-315770,Brompton Regis,Dulverton,Somerset,,Exmoor Fisheries,Farmers/growers,7838,0,,162825,5,,51.05971908569336,PI/000003716,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49097347259521,TA22 9NS,2014-09-21,fhrs_5_en-GB,5,,FHRS,5
-315771,Simonsbath,Minehead,Somerset,,Exmoor Forest Inn,Hotel/bed & breakfast/guest house,7842,5,,160410,5,,51.13974380493164,PI/000000010,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.75481986999512,TA24 7SH,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-315772,Wheddon Cross,Minehead,Somerset,,Exmoor House,Hotel/bed & breakfast/guest house,7842,5,,161247,5,,51.13792419433590,PI/000001224,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.53921937942505,TA24 7DU,2012-07-21,fhrs_5_en-GB,5,,FHRS,5
-315773,Dulverton,Somerset,,,Exmoor House Caravan Site,Retailers - other,4613,5,,161344,5,,51.04117202758789,PI/000001337,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55191469192505,TA22 9HZ,2013-08-24,fhrs_5_en-GB,5,,FHRS,0
-315774,12 West Street,Dunster,Minehead,Somerset,Exmoor House Guesthouse,Hotel/bed & breakfast/guest house,7842,0,,160762,0,,51.18162800000000,PI/000000582,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44691600000000,TA24 6SN,2012-11-16,fhrs_5_en-GB,5,,FHRS,0
-315775,West Lynch Farm,Allerford,Minehead,Somerset,Exmoor Owl and Hawk Centre,Restaurant/Cafe/Canteen,1,5,,161390,0,,51.21915200000000,PI/000001384,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.57583600000000,TA24 8HJ,2014-10-16,fhrs_5_en-GB,5,,FHRS,0
-315776,The Auction Field,Exford,Minehead,Somerset,Exmoor Social Club,Pub/bar/nightclub,7843,10,,161472,0,,51.13350200000000,PI/000001484,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.63820800000000,TA24 7PP,2013-07-14,fhrs_4_en-GB,4,,FHRS,5
-315777,Exford,Minehead,Somerset,,Exmoor White Horse Inn,Hotel/bed & breakfast/guest house,7842,5,,161486,5,,51.13320922851563,PI/000001497,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64041352272034,TA24 7PY,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-315778,The Garage,Wheddon Cross,Minehead,Somerset,F Webber & Sons (Retail) Ltd,Retailers - other,4613,5,,164840,5,,51.13868700000000,PI/000006982,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54063100000000,TA24 7DR,2013-09-20,fhrs_4_en-GB,4,,FHRS,10
-315779,Butlins Skyline Ltd,Warren Road,Minehead,Somerset,Fairground Ice Cream Van,Retailers - other,4613,0,,703264,0,,51.20599400000000,PI/000009816,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2014-07-25,fhrs_5_en-GB,5,,FHRS,0
-315780,Butlins Skyline Ltd,Warren Road,Minehead,Somerset,Fairground Kiosk,Retailers - other,4613,0,,703263,0,,51.20599400000000,PI/000009815,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2014-07-25,fhrs_5_en-GB,5,,FHRS,0
-315781,28 Tregonwell Road,Minehead,Somerset,,Farlands House,Hotel/bed & breakfast/guest house,7842,5,,164097,5,,51.20471000000000,PI/000005823,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47154600000000,TA24 5DU,2013-05-24,fhrs_5_en-GB,5,,FHRS,5
-315782,5A Bridge Street,Dulverton,Somerset,,Farthings Farm Shop,Manufacturers/packers,7839,5,,164560,0,,51.03949600000000,PI/000006541,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55225800000000,TA22 9HJ,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-315783,4 Holloway Street,Minehead,Somerset,,Faustos,Restaurant/Cafe/Canteen,1,10,,212537,10,,51.20597300000000,PI/000001070,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47913000000000,TA24 5NP,2014-09-30,fhrs_2_en-GB,2,,FHRS,15
-315784,The Parks,Minehead,Somerset,,Fieldhouse,Hospitals/Childcare/Caring Premises,5,5,,198584,5,,51.20615200000000,PI/000003559,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.48622200000000,TA24 8BU,2013-08-09,fhrs_5_en-GB,5,,FHRS,0
-315785,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Finnigans,Restaurant/Cafe/Canteen,1,0,,160802,0,,51.20599400000000,PI/000000638,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2013-03-26,fhrs_5_en-GB,5,,FHRS,0
-315786,33 West Street,Dunster,Minehead,Somerset,Foresters Arms,Pub/bar/nightclub,7843,5,,160768,5,,51.18162800000000,PI/000000588,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44691600000000,TA24 6SN,2013-05-24,fhrs_4_en-GB,4,,FHRS,10
-315787,The Esplanade,Minehead,Somerset,,Foxes Hotel And Academy,Hotel/bed & breakfast/guest house,7842,0,,160942,0,,51.20784000000000,PI/000000825,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47220400000000,TA24 5QP,2014-02-07,fhrs_5_en-GB,5,,FHRS,0
-315788,10a Friday Street,Minehead,Somerset,,Friday Street News,Retailers - other,4613,,,161146,,,51.20480200000000,PI/000001065,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47853400000000,TA24 5UA,2013-06-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-315789,Home Farm,West Quantoxhead,Taunton,Somerset,General Stores,Retailers - other,4613,5,,161602,5,,51.17934700000000,PI/000001628,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.28167200000000,TA4  4DP,2012-04-27,fhrs_5_en-GB,5,,FHRS,5
-315790,Hawkcombe,Porlock,Minehead,Somerset,Glen Lodge,Other catering premises,7841,0,,581993,0,,51.20199800000000,PI/000007554,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59743800000000,TA24 8LN,2013-08-02,fhrs_5_en-GB,5,,FHRS,0
-315791,2 Tregonwell Road,Minehead,Somerset,,Glen Lyn Residential Care Home,Hospitals/Childcare/Caring Premises,5,0,,160957,0,,51.20558500000000,PI/000000841,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47138700000000,TA24 5DT,2013-02-14,fhrs_5_en-GB,5,,FHRS,5
-315792,32 Tregonwell Road,Minehead,Somerset,,Glendower House,Hotel/bed & breakfast/guest house,7842,5,,160584,5,,51.20471000000000,PI/000000289,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47154600000000,TA24 5DU,2012-04-27,fhrs_5_en-GB,5,,FHRS,5
-315793,4 Fore Street,Williton,Taunton,Somerset,Glenmore Bakery,Retailers - other,4613,0,,683190,5,,51.16092200000000,PI/000009824,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32126200000000,TA4 4PX,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-315794,58 Liddymore Road,Watchet,Somerset,,Golden Bowl,Takeaway/sandwich shop,7844,10,,161721,5,,51.17867300000000,PI/000001804,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32599000000000,TA23 0DR,2014-11-27,fhrs_3_en-GB,3,,FHRS,10
-315795,4 Alexandra Road,Minehead,Somerset,,Golden Gorse,Hospitals/Childcare/Caring Premises,5,5,,161054,5,,51.20392900000000,PI/000000931,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47507100000000,TA24 5DP,2011-12-14,fhrs_5_en-GB,5,,FHRS,5
-315796,6 Holloway Street,Minehead,Somerset,,Golden House Restaurant,Restaurant/Cafe/Canteen,1,10,,161147,5,,51.20597300000000,PI/000001072,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47913000000000,TA24 5NP,2014-03-26,fhrs_4_en-GB,4,,FHRS,5
-315797,1 Lime Street,Stogursey,Bridgwater,Somerset,Greyhound Inn,Pub/bar/nightclub,7843,0,,161531,0,,51.18045700000000,PI/000001557,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.14159500000000,TA5  1QR,2014-06-19,fhrs_5_en-GB,5,,FHRS,0
-315798,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Guest Catering,Restaurant/Cafe/Canteen,1,0,,160786,5,,51.20599400000000,PI/000000614,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2014-10-16,fhrs_5_en-GB,5,,FHRS,0
-315799,5 Station Road,Stogumber,Taunton,Somerset,Hall Farm,Hotel/bed & breakfast/guest house,7842,5,,161613,5,,51.12681400000000,PI/000001640,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.28899200000000,TA4  3TQ,2013-09-29,fhrs_4_en-GB,4,,FHRS,10
-315800,Crowcombe,Taunton,Somerset,,Halsway Manor,Hotel/bed & breakfast/guest house,7842,5,,161572,5,,51.13656997680664,PI/000001601,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.24999928474426,TA4  4BD,2013-05-03,fhrs_5_en-GB,5,,FHRS,5
-315801,Kemps Way,Dulverton,Somerset,,Hanover Court,Hospitals/Childcare/Caring Premises,5,5,,161339,0,,51.04117300000000,PI/000001333,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55191500000000,TA22 9HZ,2013-06-21,fhrs_5_en-GB,5,,FHRS,5
-315802,Quay Street,Minehead,Somerset,,Harbour Cafe,Restaurant/Cafe/Canteen,1,0,,161022,5,,51.21283000000000,PI/000000904,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47442500000000,TA24 5UL,2014-06-20,fhrs_5_en-GB,5,,FHRS,0
-315803,24 Market Street,Watchet,Somerset,,Harbour Fish Bar,Takeaway/sandwich shop,7844,0,,161776,0,,51.18261500000000,PI/000001866,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33122500000000,TA23 0AN,2014-12-06,fhrs_5_en-GB,5,,FHRS,0
-315804,Porlock Weir,Porlock,Minehead,Somerset,Harbour Stores,Retailers - other,4613,5,,161469,0,,51.21932600000000,PI/000001475,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.62812300000000,TA24 8PD,2013-09-13,fhrs_5_en-GB,5,,FHRS,5
-315805,3 Harbour Studios,Porlock Weir,Porlock,Minehead,Harbour Studios Cafe,Restaurant/Cafe/Canteen,1,0,,703260,0,,51.21932600000000,PI/000000269,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.62812300000000,TA24 8PD,2014-09-10,fhrs_5_en-GB,5,,FHRS,5
-315806,Exe Valley Fishery,Exebridge,Dulverton,Somerset,Hart Flyshop Ltd,Retailers - other,4613,,,164060,,,51.16165924072266,PI/000005790,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.04113507270813,TA22 9AY,2013-05-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-315807,18 The Parade,Minehead,Somerset,,Hartgens Butchers,Manufacturers/packers,7839,0,,161083,5,,51.20569000000000,PI/000000977,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47730300000000,TA24 5UG,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-315808,28 Long Street,Williton,Taunton,Somerset,Hartnells,Hotel/bed & breakfast/guest house,7842,5,,164189,5,,51.16264100000000,PI/000005930,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31789300000000,TA4 4QU,2011-04-11,fhrs_5_en-GB,5,,FHRS,5
-315809,8 West Street,Dunster,Minehead,Somerset,Hathaways,Restaurant/Cafe/Canteen,1,0,,160462,0,,51.18162800000000,PI/000000109,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44691600000000,TA24 6SN,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-315810,2 Market Street,Watchet,Somerset,,Hellikers Tea Rooms,Restaurant/Cafe/Canteen,1,0,,161770,0,,51.18261500000000,PI/000001861,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33122500000000,TA23 0AN,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-315811,St Audries Service Station,West Quantoxhead,Taunton,Somerset,Hel's Kitchen @ The Showroom Cafe,Restaurant/Cafe/Canteen,1,10,,558353,10,,51.16832700000000,PI/000009472,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.27550200000000,TA4  4DN,2013-05-09,fhrs_3_en-GB,3,,FHRS,10
-315812,Upcott Farm Unit 13,Bicknoller,Taunton,Somerset,Herby 4,Manufacturers/packers,7839,5,,486629,0,,51.13859100000000,PI/000008854,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.26953700000000,TA4 4EY,2014-11-18,fhrs_4_en-GB,4,,FHRS,10
-315813,Cutcombe Market Cafe,Wheddon Cross,Minehead,Somerset,Heywoods Catering,Restaurant/Cafe/Canteen,1,5,,165752,0,,51.13938900000000,PI/000008452,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54124100000000,TA24 7DT,2012-10-11,fhrs_5_en-GB,5,,FHRS,0
-315814,St Georges Street,Dunster,Minehead,Somerset,Higher Orchard,Hotel/bed & breakfast/guest house,7842,5,,160427,5,,51.18307900000000,PI/000000042,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44664700000000,TA24 6RZ,2014-08-30,fhrs_5_en-GB,5,,FHRS,5
-315815,Village Hall,Wootton Courtenay,Minehead,Somerset,Higher Ranscombe at Village Hall,Other catering premises,7841,0,,605054,0,,51.18029500000000,PI/000009173,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.52147300000000,TA24 8RJ,2012-05-29,fhrs_5_en-GB,5,,FHRS,0
-315816,Exford,Minehead,Somerset,,Higher Riscombe Farm,Hotel/bed & breakfast/guest house,7842,5,,370646,5,,51.14117813110352,PI/000000154,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.70143747329712,TA24 7JY,2012-05-04,fhrs_5_en-GB,5,,FHRS,0
-315817,Higher Rodhuish,Minehead,Somerset,,Higher Rodhuish Farm,Hotel/bed & breakfast/guest house,7842,5,,161884,10,,51.14882900000000,PI/000001975,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.41480700000000,TA24 6QL,2012-11-15,fhrs_4_en-GB,4,,FHRS,5
-315818,Selworthy,Minehead,Somerset,,Hindon Organic Farm B & B,Hotel/bed & breakfast/guest house,7842,5,,161231,5,,51.21021652221680,PI/000001203,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.52880144119263,TA24 8SH,2013-12-03,fhrs_5_en-GB,5,,FHRS,5
-315819,Stogursey,Bridgwater,Somerset,,Hinkley Point A Power Station,Restaurant/Cafe/Canteen,1,0,,161521,5,,51.20708847045900,PI/000001545,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.13164544105530,TA5  1YA,2013-10-30,fhrs_5_en-GB,5,,FHRS,0
-315820,The Esplanade,Minehead,Somerset,,Hobby Horse Ballroom and Bar,Hotel/bed & breakfast/guest house,7842,0,,212538,0,,51.20784000000000,PI/000000188,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47220400000000,TA24 5QP,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-315821,21 The Parade,Minehead,Somerset,,Holland and Barrett,Retailers - other,4613,0,,188329,0,,51.20612400000000,PI/000004016,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47713100000000,TA24 5PX,2012-01-09,fhrs_5_en-GB,5,,FHRS,0
-315822,Holnicote,Minehead,Somerset,,Holnicote House,Hotel/bed & breakfast/guest house,7842,5,,161351,0,,51.20592117309570,PI/000001350,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.56199955940247,TA24 8TJ,2013-05-21,fhrs_5_en-GB,5,,FHRS,5
-315823,Brompton Regis,Dulverton,Somerset,,Holworthy Farm House,Hotel/bed & breakfast/guest house,7842,5,,160420,5,,51.07375335693359,PI/000000033,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.45625257492065,TA22 9NY,2014-07-18,fhrs_4_en-GB,4,,FHRS,10
-315824,29 Periton Way,Minehead,Somerset,,Homemade Cakes by Juliet,Other catering premises,7841,0,,638429,5,,51.20259200000000,PI/000009698,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49253400000000,TA24 8AH,2014-02-20,fhrs_5_en-GB,5,,FHRS,0
-315825,Horner,Minehead,Somerset,,Horner Vale Tea Gardens,Restaurant/Cafe/Canteen,1,20,,161387,5,,51.19729232788086,PI/000001381,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.57842493057251,TA24 8HY,2014-06-26,fhrs_1_en-GB,1,,FHRS,0
-315826,Green Triangle Layby,Holford,Bridgwater,Somerset,Howitts Cooked,Mobile caterer,7846,0,,161546,5,,51.15265000000000,PI/000001573,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.12617200000000,TA5,2014-05-01,fhrs_5_en-GB,5,,FHRS,0
-315827,Huish Champflower,Taunton,Somerset,,Huish Champflower Village Hall,Other catering premises,7841,5,,161830,5,,51.05484700000000,PI/000001925,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.36494000000000,TA4 2BX,2014-06-14,fhrs_5_en-GB,5,,FHRS,5
-315828,8 The Avenue,Minehead,Somerset,,Iceland,Retailers - supermarkets/hypermarkets,7840,0,,161061,5,,51.16165924072270,PI/000000943,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.04113507270813,TA24 5TP,2012-11-16,fhrs_5_en-GB,5,,FHRS,0
-315829,Monksilver,Taunton,Somerset,,Inglewood,Hotel/bed & breakfast/guest house,7842,10,,161779,5,,51.13084030151367,PI/000001871,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32613396644592,TA4  4JA,2012-07-04,fhrs_4_en-GB,4,,FHRS,5
-315830,Liddymore Road,Watchet,Somerset,,Ingrams Meadow,Hospitals/Childcare/Caring Premises,5,0,,161714,0,,51.17547300000000,PI/000001797,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32511100000000,TA23 0EU,2013-06-03,fhrs_5_en-GB,5,,FHRS,5
-315831,Hoburne Blue Anchor,Blue Anchor,Minehead,Somerset,J & J Wilson Supermarket,Retailers - supermarkets/hypermarkets,7840,,,161873,,,51.18204800000000,PI/000001959,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.39683800000000,TA24 6JT,2013-08-22,fhrs_4_en-GB,4,,FHRS,
-315832,65 Alcombe Road,Alcombe,Minehead,Somerset,John Ware Chemist,Retailers - other,4613,,,160887,,,51.19734300000000,PI/000000751,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46746100000000,TA24 6BD,2012-11-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-315833,21 High Street,Porlock,Minehead,Somerset,John Ware Ltd,Retailers - other,4613,,,160721,,,51.20908900000000,PI/000000522,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59512000000000,TA24 8PT,2012-11-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-315834,The Esplanade,Minehead,Somerset,,Jubilee Cafe,Restaurant/Cafe/Canteen,1,0,,160627,5,,51.20699400000000,PI/000000364,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46804000000000,TA24 5BG,2014-08-09,fhrs_5_en-GB,5,,FHRS,0
-315835,45 Alcombe Road,Alcombe,Minehead,Somerset,K K Chinese Takeaway,Takeaway/sandwich shop,7844,10,,160906,10,,51.19765600000000,PI/000000779,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46831500000000,TA24 6BB,2014-02-20,fhrs_3_en-GB,3,,FHRS,10
-315836,Winsford,Minehead,Somerset,,Karslake House,Hotel/bed & breakfast/guest house,7842,0,,161361,0,,51.10206985473633,PI/000001361,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.56419491767883,TA24 7JE,2013-07-14,fhrs_5_en-GB,5,,FHRS,0
-315837,15a The Avenue,Minehead,Somerset,,Kebab Centre,Takeaway/sandwich shop,7844,5,,161032,5,,51.20678200000000,PI/000000912,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-10-03,fhrs_5_en-GB,5,,FHRS,5
-315838,7 Tregonwell Road,Minehead,Somerset,,Kenella House,Hotel/bed & breakfast/guest house,7842,0,,160574,0,,51.20558500000000,PI/000000281,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47138700000000,TA24 5DT,2012-09-11,fhrs_5_en-GB,5,,FHRS,0
-315839,Townsend Road,Minehead,Somerset,,Kildare Lodge Inn,Pub/bar/nightclub,7843,0,,161084,5,,51.20189400000000,PI/000000978,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47595000000000,TA24 5RQ,2014-01-31,fhrs_5_en-GB,5,,FHRS,5
-315840,Kilve,Bridgwater,Somerset,,Kilve Court Education Centre,School/college/university,7845,0,,161552,0,,51.17910003662109,PI/000001578,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.21980357170105,TA5  1EA,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-315841,Main Road,Kilve,Bridgwater,Somerset,Kilve Post Office & Stores,Retailers - other,4613,5,,161548,5,,51.17910100000000,PI/000001575,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.21980400000000,TA5  1EA,2014-12-14,fhrs_5_en-GB,5,,FHRS,5
-315842,Main Road,Kilve,Bridgwater,Somerset,Kilve Village Hall,Other catering premises,7841,0,,161550,0,,51.17910100000000,PI/000001577,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.21980400000000,TA5 1EA,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-315843,1 Holloway Street,Minehead,Somerset,,King Kebab House,Takeaway/sandwich shop,7844,5,,160658,5,,51.20597300000000,PI/000000421,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47913000000000,TA24 5NP,2014-03-27,fhrs_5_en-GB,5,,FHRS,0
-315844,Bossington,Porlock,Minehead,Somerset,Kitnors Tea Room and Garden,Restaurant/Cafe/Canteen,1,0,,161385,0,,51.21987533569336,PI/000001380,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.57892537117004,TA24 8HQ,2014-06-15,fhrs_5_en-GB,5,,FHRS,0
-315845,Liddymore Road,Watchet,Somerset,,Knights Templar School,School/college/university,7845,5,,161681,5,,51.17683100000000,PI/000001767,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32190300000000,TA23 0EX,2014-03-21,fhrs_4_en-GB,4,,FHRS,10
-315846,Washford,Watchet,Somerset,,Langtry Country House,Hotel/bed & breakfast/guest house,7842,5,,165945,0,,51.16145324707031,PI/000008756,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.35651540756226,TA23 0NT,2013-02-14,fhrs_5_en-GB,5,,FHRS,0
-315847,High Street,Porlock,Minehead,Somerset,Lapsewood Restaurant,Restaurant/Cafe/Canteen,1,0,,161436,5,,51.20940400000000,PI/000001437,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59702100000000,TA24 8PU,2014-04-27,fhrs_5_en-GB,5,,FHRS,0
-315848,53/55 Liddymore Road,Watchet,Somerset,,Liddymore Stores Ltd (Spar),Retailers - supermarkets/hypermarkets,7840,5,,161718,5,,51.17826800000000,PI/000001801,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32529100000000,TA23 0DS,2011-12-16,fhrs_5_en-GB,5,,FHRS,0
-315849,2 Bank Square,Dulverton,Somerset,,Lion Hotel,Hotel/bed & breakfast/guest house,7842,10,,161300,10,,51.04023300000000,PI/000001289,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55087100000000,TA22 9EX,2014-06-26,fhrs_3_en-GB,3,,FHRS,10
-315850,Wheddon Cross,Minehead,Somerset,,Little Brendon Hill,Hotel/bed & breakfast/guest house,7842,0,,161235,0,,51.13623809814453,PI/000001207,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.52311134338379,TA24 7AS,2014-10-10,fhrs_5_en-GB,5,,FHRS,0
-315851,St Peters C Of E School,Doniford Road,Williton,Taunton,Little Horseshoe Nursery,Hospitals/Childcare/Caring Premises,5,5,,160682,0,,51.16664400000000,PI/000000466,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31940900000000,TA4  4SF,2014-03-14,fhrs_5_en-GB,5,,FHRS,0
-315852,Liddymore Road,Watchet,Somerset,,Little Vikings Nursery School,Restaurant/Cafe/Canteen,1,10,,162397,5,,51.17683100000000,PI/000002845,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32190300000000,TA23 0EX,2012-11-26,fhrs_4_en-GB,4,,FHRS,5
-315853,11 Fore Street,Dulverton,Somerset,,Lloyd Maunder Butchers,Manufacturers/packers,7839,,,161329,,,51.04023300000000,PI/000001315,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55087100000000,TA22 9EX,2014-06-20,fhrs_5_en-GB,5,,FHRS,
-315854,Irnham Lodge,Townsend Road,Minehead,Somerset,Lloyds Pharmacy,Retailers - other,4613,,,160710,,,51.20302100000000,PI/000000501,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47784700000000,TA24 5RG,2013-04-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-315855,Robert Street,Williton,Taunton,Somerset,Lloyds Pharmacy,Retailers - other,4613,,,163112,,,51.16138400000000,PI/000004207,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31850100000000,TA4 4QE,2013-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-315856,18C High Street,Dunster,Minehead,Somerset,Locks Tea Room,Restaurant/Cafe/Canteen,1,5,,160709,0,,51.18404800000000,PI/000000500,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44388700000000,TA24 6SG,2014-08-01,fhrs_5_en-GB,5,,FHRS,0
-315857,26 Tregonwell Road,Minehead,Somerset,,Lorna Doone,Hotel/bed & breakfast/guest house,7842,5,,160668,5,,51.20471000000000,PI/000000439,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47154600000000,TA24 5DU,2014-09-22,fhrs_5_en-GB,5,,FHRS,5
-315858,High Street,Porlock,Minehead,Somerset,Lorna Doone Hotel,Hotel/bed & breakfast/guest house,7842,20,,161411,20,,51.20925700000000,PI/000001409,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59531200000000,TA24 8PS,2014-05-23,fhrs_1_en-GB,1,,FHRS,10
-315859,Upton,Taunton,Somerset,,Lowtrow Cross Inn,Pub/bar/nightclub,7843,0,,161895,0,,51.05410385131836,PI/000001987,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.41224598884583,TA4  2DB,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-315860,32/36 High Street,Dunster,Minehead,Somerset,Luttrell Arms Hotel,Hotel/bed & breakfast/guest house,7842,5,,160514,5,,51.18404800000000,PI/000000202,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44388700000000,TA24 6SG,2013-07-04,fhrs_4_en-GB,4,,FHRS,10
-315861,3 Tregonwell Road,Minehead,Somerset,,Lyn Valley,Hotel/bed & breakfast/guest house,7842,5,,160663,5,,51.20558500000000,PI/000000430,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47138700000000,TA24 5DT,2012-10-31,fhrs_5_en-GB,5,,FHRS,5
-315862,Allerford,Minehead,Somerset,,Lynch Country House,Hotel/bed & breakfast/guest house,7842,0,,161376,0,,51.21915054321289,PI/000001373,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.57583618164063,TA24 8HJ,2013-02-15,fhrs_5_en-GB,5,,FHRS,0
-315863,Old Cleeve,Minehead,Somerset,,Lysaght Village Hall & Club,Other catering premises,7841,5,,162960,5,,51.16852188110352,PI/000003998,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.37501692771912,TA24 6HJ,2012-01-31,fhrs_5_en-GB,5,,FHRS,5
-315864,Unit 1A,Roughmoor,Williton,Taunton,Mama Chins Ltd,Other catering premises,7841,5,,605055,10,,51.16621700000000,PI/000009389,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31177300000000,TA4 4 RF,2013-09-23,fhrs_3_en-GB,3,,FHRS,10
-315865,30 Priest Street,Williton,Taunton,Somerset,Mamsey Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,161723,0,,51.16025900000000,PI/000001805,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32337400000000,TA4  4NJ,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-315866,The Parade,Minehead,Somerset,,Market House Cafe,Restaurant/Cafe/Canteen,1,5,,161125,5,,51.20606000000000,PI/000001028,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47794500000000,TA24 5NL,2014-02-18,fhrs_4_en-GB,4,,FHRS,10
-315867,Dulverton,Somerset,,,Marsh Bridge Cottage,Hotel/bed & breakfast/guest house,7842,5,,161355,5,,51.04774475097656,PI/000001355,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.56551647186279,TA22 9QG,2013-03-02,fhrs_5_en-GB,5,,FHRS,5
-315868,St Michaels Road,Minehead,Somerset,,Marston Lodge,Hotel/bed & breakfast/guest house,7842,5,,161129,5,,51.21109800000000,PI/000001032,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47847800000000,TA24 5JP,2014-01-12,fhrs_5_en-GB,5,,FHRS,5
-315869,Bancks Street,Minehead,Somerset,,Masonic Hall,Other catering premises,7841,5,,161095,5,,51.20481900000000,PI/000000991,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47723200000000,TA24 5DJ,2013-09-09,fhrs_5_en-GB,5,,FHRS,0
-315870,South Road,Watchet,Somerset,,Masonic Hall,Pub/bar/nightclub,7843,10,,161726,10,,51.17998800000000,PI/000001811,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32824500000000,TA23 0DA,2013-03-02,fhrs_4_en-GB,4,,FHRS,0
-315871,2 Park Street,Minehead,Somerset,,McColls,Retailers - other,4613,0,,161167,0,,51.20551200000000,PI/000001099,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.48000300000000,TA24 5NQ,2013-08-22,fhrs_5_en-GB,5,,FHRS,0
-315872,Vulcan Road,Minehead,Somerset,,Mcdonalds,Restaurant/Cafe/Canteen,1,0,,160847,0,,51.20411400000000,PI/000000691,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46388300000000,TA24 6DG,2013-02-24,fhrs_5_en-GB,5,,FHRS,5
-315873,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Megatreats,Retailers - other,4613,0,,165822,0,,51.20599400000000,PI/000008551,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2012-12-20,fhrs_5_en-GB,5,,FHRS,5
-315874,Warren Road,Minehead,Somerset,,Merlins Gifts,Retailers - other,4613,,,164733,,,51.20699400000000,PI/000006807,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46804000000000,TA24 5BG,2013-06-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-315875,Harbour Road,Watchet,Somerset,,Methodist Church,Other catering premises,7841,,,161742,,,51.18130400000000,PI/000001829,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32949900000000,TA23 0AQ,2013-10-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-315876,The Avenue,Minehead,Somerset,,Methodist Church,Other catering premises,7841,5,,161052,10,,51.20678200000000,PI/000000930,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-05-17,fhrs_3_en-GB,3,,FHRS,10
-315877,15 The Parade,Minehead,Somerset,,Micawbers,Restaurant/Cafe/Canteen,1,20,,161103,10,,51.20606000000000,PI/000000996,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47794500000000,TA24 5NL,2014-03-14,fhrs_1_en-GB,1,,FHRS,5
-315878,Exford,Minehead,Somerset,,Mill Lane House,Hotel/bed & breakfast/guest house,7842,5,,162665,5,,51.14279556274414,PI/000003358,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64878773689270,TA24 7NS,2012-10-29,fhrs_4_en-GB,4,,FHRS,10
-315879,Anchor Hotel,Porlock Weir,Porlock,Minehead,Millers at the Anchor,Hotel/bed & breakfast/guest house,7842,0,,161468,0,,51.21800300000000,PI/000001474,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.62694500000000,TA24 8PB,2014-05-09,fhrs_5_en-GB,5,,FHRS,5
-315880,North Road,Minehead,Somerset,,Minehead & District Social Club,Pub/bar/nightclub,7843,5,,160990,5,,51.20791300000000,PI/000000870,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47283600000000,TA24 5QW,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-315881,Warren Road,Minehead,Somerset,,Minehead & West Somerset Golf Club,Pub/bar/nightclub,7843,,,160780,,,51.20812900000000,PI/000000606,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.45557800000000,TA24 5SJ,2014-06-10,fhrs_5_en-GB,5,,FHRS,
-315882,Irnham Road,Minehead,Somerset,,Minehead Bowling Club,Pub/bar/nightclub,7843,5,,160971,5,,51.20512700000000,PI/000000853,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47346300000000,TA24 5DW,2012-11-26,fhrs_5_en-GB,5,,FHRS,5
-315883,Luttrell Way,Minehead,Somerset,,Minehead Community Hospital,Other catering premises,7841,0,,165820,0,,51.19875800000000,PI/000008549,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46286800000000,TA24 6DF,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-315884,Mart Road,Minehead,Somerset,,Minehead EYE,Restaurant/Cafe/Canteen,1,10,,165606,10,,51.20420200000000,PI/000008249,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46833700000000,TA24 5BJ,2013-10-24,fhrs_2_en-GB,2,,FHRS,15
-315885,Townsend Road,Minehead,Somerset,,Minehead First School,School/college/university,7845,0,,161116,0,,51.20302100000000,PI/000001016,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47784700000000,TA24 5RG,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-315886,56B The Avenue,Minehead,Somerset,,Minehead Gifts,Retailers - other,4613,,,459519,,,51.20716300000000,PI/000000132,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47175300000000,TA24 5BB,2012-10-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-315887,Ponsford Road,Minehead,Somerset,,Minehead Middle School,School/college/university,7845,5,,160976,5,,51.20316400000000,PI/000000857,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46934900000000,TA24 5DX,2013-09-09,fhrs_4_en-GB,4,,FHRS,10
-315888,Ellicombe,Minehead,Somerset,,Minehead Rugby Club,Pub/bar/nightclub,7843,5,,160820,5,,51.19155502319336,PI/000000657,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.45849013328552,TA24 6TR,2012-02-20,fhrs_5_en-GB,5,,FHRS,5
-315889,Townsend Road,Minehead,Somerset,,Minehead Service Station,Retailers - other,4613,5,,161122,5,,51.20351400000000,PI/000001021,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47796300000000,TA24 5RE,2014-08-12,fhrs_5_en-GB,5,,FHRS,5
-315890,Alexandra Road,Minehead,Somerset,,Minehead Tennis Club,Pub/bar/nightclub,7843,,,161059,,,51.20392900000000,PI/000000938,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47507100000000,TA24 5DP,2014-09-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-315891,Exford,Minehead,Somerset,,Monks Cleeve,Hotel/bed & breakfast/guest house,7842,0,,669423,0,,51.13036200000000,PI/000009699,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64217100000000,TA24 7NA,2014-05-13,fhrs_5_en-GB,5,,FHRS,0
-315892,Washford,Watchet,Somerset,,Monkscider House,Hotel/bed & breakfast/guest house,7842,5,,162837,5,,51.16091918945313,PI/000003741,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.35838747024536,TA23 0NS,2012-11-09,fhrs_5_en-GB,5,,FHRS,5
-315893,The Playing Field,Wheddon Cross,Minehead,Somerset,Moorland Sports Club,Other catering premises,7841,5,,162884,10,,51.13503600000000,PI/000003838,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54059600000000,TA24 7EX,2013-11-29,fhrs_3_en-GB,3,,FHRS,10
-315894,WM Morrison Supermarkets PLC,Vulcan Road,Minehead,Somerset,Morrisons,Retailers - other,4613,0,,165699,5,,51.20411400000000,PI/000008380,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46388300000000,TA24 6DG,2013-12-05,fhrs_4_en-GB,4,,FHRS,10
-315895,13 High Street,Dulverton,Somerset,,Mortimer's,Restaurant/Cafe/Canteen,1,5,,160703,5,,51.03972400000000,PI/000000492,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55129600000000,TA22 9HB,2014-04-15,fhrs_4_en-GB,4,,FHRS,10
-315896,Bramdown House,High Street,Porlock,Minehead,Mrs Jackson's Tearooms,Restaurant/Cafe/Canteen,1,0,,459521,5,,51.20925700000000,PI/000009227,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59531200000000,TA24 8PS,2014-06-25,fhrs_5_en-GB,5,,FHRS,5
-315897,43 The Avenue,Minehead,Somerset,,Mullion Restaurant,Restaurant/Cafe/Canteen,1,5,,160970,0,,51.20678200000000,PI/000000852,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2014-04-16,fhrs_5_en-GB,5,,FHRS,5
-315898,Mart Road,Minehead,Somerset,,Munchies Cafe,Restaurant/Cafe/Canteen,1,0,,160518,0,,51.20420200000000,PI/000000206,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46833700000000,TA24 5BJ,2013-03-07,fhrs_5_en-GB,5,,FHRS,0
-315899,High Street,Porlock,Minehead,Somerset,Myrtle Cottage,Hotel/bed & breakfast/guest house,7842,0,,160686,0,,51.20908900000000,PI/000000473,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59512000000000,TA24 8PT,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-315900,"2, Bossington Lane",Porlock,Minehead,Somerset,New Place,Hotel/bed & breakfast/guest house,7842,10,,161399,5,,51.21408000000000,PI/000001393,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.58584300000000,TA24 8HD,2014-01-20,fhrs_4_en-GB,4,,FHRS,5
-315901,Wheddon Cross,Minehead,Somerset,,North Wheddon Farm,Hotel/bed & breakfast/guest house,7842,5,,162033,5,,51.13503646850586,PI/000002246,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54059553146362,TA24 7EX,2010-05-12,fhrs_5_en-GB,5,,FHRS,5
-315902,58 Tower Hill,Williton,Taunton,Somerset,Northfield House - Voyage Care,Hospitals/Childcare/Caring Premises,5,5,,161642,5,,51.15689700000000,PI/000001689,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31213800000000,TA4  4JR,2014-12-19,fhrs_5_en-GB,5,,FHRS,5
-315903,12 High Street,Dunster,Minehead,Somerset,Nutcombe Chocolate House,Retailers - other,4613,10,,160733,5,,51.18404800000000,PI/000000541,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44388700000000,TA24 6SG,2014-02-21,fhrs_4_en-GB,4,,FHRS,0
-315904,2a The Avenue,Minehead,Somerset,,Oggy Oggy Pasty Co,Restaurant/Cafe/Canteen,1,0,,161068,0,,51.20586300000000,PI/000000953,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47640700000000,TA24 5UQ,2014-06-12,fhrs_5_en-GB,5,,FHRS,0
-315905,Washford,Watchet,Somerset,,Old Cleeve First School,School/college/university,7845,10,,161816,5,,51.16250228881836,PI/000001910,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.36305332183838,TA23 0PB,2013-11-25,fhrs_4_en-GB,4,,FHRS,5
-315906,Quay Street,Minehead,Somerset,,Old Harbour House Restaurant,Restaurant/Cafe/Canteen,1,0,,161003,0,,51.21062400000000,PI/000000880,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47399600000000,TA24 5UJ,2013-03-07,fhrs_5_en-GB,5,,FHRS,0
-315907,Quay Street,Minehead,Somerset,,Old Ship Aground Inn,Pub/bar/nightclub,7843,5,,161024,5,,51.21283000000000,PI/000000905,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47442500000000,TA24 5UL,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-315908,39 The Avenue,Minehead,Somerset,,Once Upon a Cupcake,Retailers - other,4613,0,,581994,0,,51.20678200000000,PI/000008795,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-07-31,fhrs_5_en-GB,5,,FHRS,0
-315909,4 High Street,Porlock,Minehead,Somerset,One Stop Shop,Retailers - other,4613,0,,160498,0,,51.20940400000000,PI/000000187,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59702100000000,TA24 8PU,2011-11-01,fhrs_5_en-GB,5,,FHRS,5
-315910,Waneroo Farm,Timberscombe,Minehead,Somerset,Orchards Social Club,Other catering premises,7841,,,401549,,,51.16925500000000,PI/000009167,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49683600000000,TA24 7TU,2014-12-10,fhrs_5_en-GB,5,,FHRS,
-315911,Parsons Street,Porlock,Minehead,Somerset,Overstream Hotel,Restaurant/Cafe/Canteen,1,0,,161425,0,,51.20753600000000,PI/000001421,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59621200000000,TA24 8QJ,2014-05-01,fhrs_5_en-GB,5,,FHRS,0
-315912,Unit 5,Vennland Centre,Ponsford Road,Minehead,Paradise Catering,Other catering premises,7841,5,,163318,0,,51.20316400000000,PI/000004492,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46934900000000,TA24 5DX,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-315913,21 The Avenue,Minehead,Somerset,,Park Avenue Food Court,Mobile caterer,7846,20,,432856,5,,51.20678200000000,PI/000008979,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2014-04-16,fhrs_1_en-GB,1,,FHRS,0
-315914,High Street,Porlock,Minehead,Somerset,Piggy In The Middle,Restaurant/Cafe/Canteen,1,0,,161412,0,,51.20925700000000,PI/000001411,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59531200000000,TA24 8PS,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-315915,35 The Avenue,Minehead,Somerset,,Pips Fish,Restaurant/Cafe/Canteen,1,20,,160982,5,,51.20678200000000,PI/000000864,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-07-11,fhrs_1_en-GB,1,,FHRS,10
-315916,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Pizza Hut,Restaurant/Cafe/Canteen,1,0,,160434,0,,51.20599400000000,PI/000000057,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2012-11-09,fhrs_5_en-GB,5,,FHRS,0
-315917,6 Swain Street,Watchet,Somerset,,Pizza Time & Kebab House,Takeaway/sandwich shop,7844,5,,162784,5,,51.18135400000000,PI/000003635,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33063100000000,TA23 0AB,2013-02-12,fhrs_5_en-GB,5,,FHRS,5
-315918,Parsons Street,Porlock,Minehead,Somerset,Porlock Bowling Club,Pub/bar/nightclub,7843,5,,161423,5,,51.20753600000000,PI/000001420,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59621200000000,TA24 8QJ,2012-10-11,fhrs_5_en-GB,5,,FHRS,5
-315919,1 Station Hill,Washford,Watchet,Somerset,Post Office & Stores,Retailers - other,4613,5,,160718,5,,51.16098400000000,PI/000000515,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.36132100000000,TA23 0NN,2012-09-08,fhrs_5_en-GB,5,,FHRS,5
-315920,26 Swain Street,Watchet,Somerset,,Post Office and Stores,Retailers - other,4613,,,161769,,,51.18210900000000,PI/000001859,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33072400000000,TA23 0AD,2011-12-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-315921,10/16 The Avenue,Minehead,Somerset,,Poundland,Retailers - other,4613,0,,471060,0,,51.20628600000000,PI/000000933,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47421600000000,TA24 5AZ,2012-10-30,fhrs_5_en-GB,5,,FHRS,0
-315922,Butlins Skyline Ltd,Warren Road,Minehead,Somerset,Proper Cornish,Retailers - other,4613,0,,166012,0,,51.20599400000000,PI/000008845,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-315923,11 Swain Street,Watchet,Somerset,,Quantock Pharmacy,Retailers - other,4613,,,161763,,,51.18135400000000,PI/000001851,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33063100000000,TA23 0AB,2012-03-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-315924,Sampford Brett,Taunton,Somerset,,Quantock Service Station,Retailers - other,4613,5,,161627,5,,51.15560000000000,PI/000001661,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.30350700000000,TA4  4LH,2012-02-07,fhrs_5_en-GB,5,,FHRS,5
-315925,43 Quay Street,Minehead,Somerset,,Quayside Tearooms,Restaurant/Cafe/Canteen,1,0,,161010,0,,51.21283000000000,PI/000000886,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47442500000000,TA24 5UL,2010-08-04,fhrs_5_en-GB,5,,FHRS,5
-315926,Holloway Street,Minehead,Somerset,,Queens Head Hotel,Pub/bar/nightclub,7843,0,,161151,0,,51.20640900000000,PI/000001075,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47950200000000,TA24 5NR,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-315927,Carhampton Road,Blue Anchor,Minehead,Somerset,Railway Station,Retailers - other,4613,,,161875,,,51.18195500000000,PI/000001964,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.40232900000000,TA24 6LG,2013-11-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-315928,Station Road,Williton,Taunton,Somerset,Railway Station,Restaurant/Cafe/Canteen,1,5,,161628,5,,51.16513900000000,PI/000001665,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31006900000000,TA4  4RQ,2013-05-06,fhrs_5_en-GB,5,,FHRS,5
-315929,Brendon Hill,Watchet,Somerset,,Raleghs Cross Inn,Pub/bar/nightclub,7843,0,,160504,5,,51.10079800000000,PI/000000196,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.37349200000000,TA23 0LN,2014-05-16,fhrs_4_en-GB,4,,FHRS,10
-315930,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Reds Kiosk,Retailers - other,4613,0,,415857,0,,51.20599400000000,PI/000009178,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2014-02-21,fhrs_5_en-GB,5,,FHRS,0
-315931,20/22 High Street,Dunster,Minehead,Somerset,Reeves Restaurant,Restaurant/Cafe/Canteen,1,0,,160735,0,,51.18404800000000,PI/000000544,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44388700000000,TA24 6SG,2014-08-01,fhrs_5_en-GB,5,,FHRS,0
-315932,Parsons Street,Porlock,Minehead,Somerset,Reines House,Hotel/bed & breakfast/guest house,7842,5,,163359,5,,51.20753600000000,PI/000004558,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59621200000000,TA24 8QJ,2013-02-15,fhrs_5_en-GB,5,,FHRS,5
-315933,Wheddon Cross,Minehead,Somerset,,Rest and Be Thankful Inn,Pub/bar/nightclub,7843,5,,161252,5,,51.13868713378906,PI/000001228,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54063129425049,TA24 7DR,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-315934,10 The Esplanade,Watchet,Somerset,,Ritz Amusements,Retailers - other,4613,5,,164523,5,,51.18204200000000,PI/000006463,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32946300000000,TA23 0AJ,2013-11-03,fhrs_5_en-GB,5,,FHRS,5
-315935,Pulhams Mill,Brompton Regis,Dulverton,Somerset,Riverside Tea Rooms,Restaurant/Cafe/Canteen,1,,,486628,,,51.06923000000000,PI/000007396,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.48902400000000,TA22 9NT,2014-05-09,fhrs_5_en-GB,5,,FHRS,
-315936,9 Exmoor Gardens,Dulverton,Somerset,,Riverside Youth Club,Other catering premises,7841,,,161347,,,51.04046400000000,PI/000001340,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55243300000000,TA22 9HL,2012-07-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-315937,RNLI Lifeboat Boathouse Shop,Quay Street,Minehead,Somerset,RNLI Guild Shop,Retailers - other,4613,,,164083,,,51.21496200000000,PI/000005814,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47725600000000,TA24 5UN,2014-04-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-315938,Roadwater,Watchet,Somerset,,Roadwater Post Office & Stores,Retailers - other,4613,0,,161854,5,,51.13560485839844,PI/000001946,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.38537311553955,TA23 0QY,2012-01-20,fhrs_5_en-GB,5,,FHRS,5
-315939,1 Jury Road,Dulverton,Somerset,,Rock House Inn,Pub/bar/nightclub,7843,10,,160497,10,,51.04043500000000,PI/000000186,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54648400000000,TA22 9DU,2014-11-11,fhrs_2_en-GB,2,,FHRS,15
-315940,53 Alcombe Road,Alcombe,Minehead,Somerset,Rominos Pizza,Takeaway/sandwich shop,7844,5,,160698,5,,51.19765600000000,PI/000000486,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46831500000000,TA24 6BB,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-315941,High Street,Porlock,Minehead,Somerset,Rose Bank Guest House,Hotel/bed & breakfast/guest house,7842,0,,161444,0,,51.20881000000000,PI/000001446,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59711500000000,TA24 8PY,2014-01-17,fhrs_5_en-GB,5,,FHRS,0
-315942,Winsford,Minehead,Somerset,,Royal Oak Exmoor,Pub/bar/nightclub,7843,0,,161360,5,,51.10206985473633,PI/000001359,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.56419491767883,TA24 7JE,2014-05-13,fhrs_5_en-GB,5,,FHRS,0
-315943,High Street,Porlock,Minehead,Somerset,Royal Oak Inn,Pub/bar/nightclub,7843,0,,160651,0,,51.20925700000000,PI/000000414,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59531200000000,TA24 8PS,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-315944,Luxborough,Watchet,Somerset,,Royal Oak Inn,Pub/bar/nightclub,7843,5,,160781,0,,51.12931442260742,PI/000000608,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.45289802551270,TA23 0SH,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-315945,Withypool,Minehead,Somerset,,Royal Oak Inn,Pub/bar/nightclub,7843,0,,160715,5,,51.10761642456055,PI/000000512,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64949226379395,TA24 7QP,2013-11-22,fhrs_4_en-GB,4,,FHRS,10
-315946,Sainsbury Road,Minehead,Somerset,,Sainsbury Community Hall,Other catering premises,7841,10,,161200,0,,51.20704800000000,PI/000001167,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49285000000000,TA24 8EN,2013-11-01,fhrs_4_en-GB,4,,FHRS,5
-315947,South Road,Watchet,Somerset,,Salvation Army Hall,Other catering premises,7841,5,,161743,5,,51.17938000000000,PI/000001830,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33103200000000,TA23 0AU,2013-03-16,fhrs_5_en-GB,5,,FHRS,5
-315948,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Scoop Italian Gelato Ice Cream,Retailers - other,4613,0,,165985,5,,51.20599400000000,PI/000008804,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2014-10-06,fhrs_5_en-GB,5,,FHRS,0
-315949,Warren Road,Minehead,Somerset,,Seaview Takeaway,Takeaway/sandwich shop,7844,0,,160437,0,,51.20321900000000,PI/000000063,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47713800000000,TA24 5RL,2014-04-07,fhrs_5_en-GB,5,,FHRS,0
-315950,51 Alcombe Road,Alcombe,Minehead,Somerset,Sheppards Plaice,Takeaway/sandwich shop,7844,0,,160903,0,,51.19765600000000,PI/000000771,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46831500000000,TA24 6BB,2013-08-22,fhrs_5_en-GB,5,,FHRS,0
-315951,Porlock Weir,Porlock,Minehead,Somerset,Ship Inn,Pub/bar/nightclub,7843,10,,161463,15,,51.21800300000000,PI/000001471,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.62694500000000,TA24 8PB,2014-09-10,fhrs_2_en-GB,2,,FHRS,15
-315952,West End,Porlock,Minehead,Somerset,Ship Inn,Pub/bar/nightclub,7843,5,,161446,5,,51.20912300000000,PI/000001452,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59852900000000,TA24 8QD,2013-10-03,fhrs_5_en-GB,5,,FHRS,5
-315953,Porlock,Minehead,Somerset,,Silcombe Farm,Hotel/bed & breakfast/guest house,7842,5,,161503,5,,51.21678924560547,PI/000001512,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.66259932518005,TA24 8JN,2011-11-14,fhrs_5_en-GB,5,,FHRS,5
-315954,Bircham Road,Alcombe,Minehead,Somerset,Silvermead,Hospitals/Childcare/Caring Premises,5,10,,160857,5,,51.19710800000000,PI/000000707,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46539200000000,TA24 6AP,2013-07-06,fhrs_4_en-GB,4,,FHRS,5
-315955,Simonsbath,Minehead,Somerset,,Simonsbath House Hotel,Restaurant/Cafe/Canteen,1,5,,160652,10,,51.13974380493164,PI/000000415,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.75481986999512,TA24 7SH,2014-06-19,fhrs_3_en-GB,3,,FHRS,10
-315956,11 Market Street,Watchet,Somerset,,Sizzle 'n' Roast,Mobile caterer,7846,0,,703266,0,,51.18261500000000,PI/000009837,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33122500000000,TA23 0AN,2014-07-25,fhrs_5_en-GB,5,,FHRS,0
-315957,Dunster Beach Car Park,Sea Lane,Dunster,Minehead,Snack Bar Kiosk,Takeaway/sandwich shop,7844,0,,161900,5,,51.19751800000000,PI/000001993,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.45850700000000,TA24 6TE,2014-04-16,fhrs_5_en-GB,5,,FHRS,0
-315958,St Decumans Lane,Watchet,Somerset,,Snailholt,Hotel/bed & breakfast/guest house,7842,5,,165792,5,,51.17591500000000,PI/000008497,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.34229100000000,TA23 0JB,2013-05-20,fhrs_5_en-GB,5,,FHRS,5
-315959,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Soho Coffee Co,Restaurant/Cafe/Canteen,1,0,,160790,5,,51.20599400000000,PI/000000630,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2014-05-22,fhrs_5_en-GB,5,,FHRS,5
-315960,Wyndham House,Martlet Road,Minehead,Somerset,Somerset Care Ltd,Hospitals/Childcare/Caring Premises,5,0,,161101,5,,51.21009100000000,PI/000000995,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47702900000000,TA24 5QE,2014-02-11,fhrs_5_en-GB,5,,FHRS,0
-315961,Williton Parish Council Offices,Killick Way,Williton,Taunton,Somerset Country Markets Ltd,Retailers - other,4613,0,,459520,0,,,PI/000008502,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,,,2012-10-12,fhrs_5_en-GB,5,,FHRS,0
-315962,1 North Street,Williton,Taunton,Somerset,Somerset Farmhouse (Approved),Manufacturers/packers,7839,5,,162666,5,,51.16246400000000,PI/000003359,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32164900000000,TA4 4SL,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-315963,2 Fore Street,Williton,Taunton,Somerset,Spar,Retailers - supermarkets/hypermarkets,7840,10,,161669,5,,51.16086000000000,PI/000001747,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32117400000000,TA4  4PX,2014-09-30,fhrs_4_en-GB,4,,FHRS,5
-315964,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Spar - The Mall,Retailers - other,4613,5,,160433,5,,51.20599400000000,PI/000000052,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2013-03-12,fhrs_5_en-GB,5,,FHRS,5
-315965,Doniford Holiday Village,Sea Lane,Doniford,Watchet,Spar Convenience Store,Retailers - supermarkets/hypermarkets,7840,0,,161619,0,,51.18084500000000,PI/000001650,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.29831000000000,TA23 0TJ,2014-06-05,fhrs_5_en-GB,5,,FHRS,0
-315966,Sparkhayes Lane,Porlock,Minehead,Somerset,Sparkhayes House,Hotel/bed & breakfast/guest house,7842,5,,161421,5,,51.21028700000000,PI/000001418,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59494700000000,TA24 8NE,2013-07-12,fhrs_5_en-GB,5,,FHRS,5
-315967,1 West Street,Dunster,Minehead,Somerset,Spears Cross,Hotel/bed & breakfast/guest house,7842,5,,160755,5,,51.18162800000000,PI/000000570,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44691600000000,TA24 6SN,2014-01-18,fhrs_5_en-GB,5,,FHRS,0
-315968,West Quantoxhead,Taunton,Somerset,,St Audries Bay Holiday Club,Restaurant/Cafe/Canteen,1,5,,161578,5,,51.17987823486328,PI/000001610,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.27178668975830,TA4 4DY,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-315969,West Quantoxhead,Taunton,Somerset,,St Audries Park,Hotel/bed & breakfast/guest house,7842,5,,160560,5,,51.16931152343750,PI/000000261,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.27172493934631,TA4  4DS,2013-11-26,fhrs_4_en-GB,4,,FHRS,10
-315970,Watery Lane,Minehead,Somerset,,St Michaels First School,School/college/university,7845,5,,161186,5,,51.20696500000000,PI/000001137,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.48102300000000,TA24 5NY,2014-02-08,fhrs_5_en-GB,5,,FHRS,5
-315971,Doniford Road,Williton,Taunton,Somerset,St Peters C Of E School,School/college/university,7845,5,,161664,0,,51.16664400000000,PI/000001737,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31940900000000,TA4  4SF,2013-11-28,fhrs_5_en-GB,5,,FHRS,0
-315972,24 Priest Street,Williton,Taunton,Somerset,St Peters Church Rooms,Other catering premises,7841,5,,161711,5,,51.16025900000000,PI/000001792,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32337400000000,TA4  4NJ,2013-04-07,fhrs_5_en-GB,5,,FHRS,5
-315973,D S Smith Paper Limited,Brendon Road,Watchet,Somerset,Staff Canteen,Restaurant/Cafe/Canteen,1,0,,161791,5,,51.17866100000000,PI/000001886,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33578900000000,TA23 0AY,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-315974,Bilbrook,Minehead,Somerset,,Steps Farmhouse,Hotel/bed & breakfast/guest house,7842,5,,161856,5,,51.16082382202148,PI/000001947,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.38561391830444,TA24 6HE,2012-01-31,fhrs_5_en-GB,5,,FHRS,5
-315975,West Quantoxhead,Taunton,Somerset,,Stilegate,Hotel/bed & breakfast/guest house,7842,10,,161592,10,,51.16832733154297,PI/000001624,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.27550244331360,TA4  4DN,2014-06-08,fhrs_4_en-GB,4,,FHRS,0
-315976,Exford,Minehead,Somerset,,Stockleigh Lodge,Hotel/bed & breakfast/guest house,7842,5,,161491,5,,51.13303756713867,PI/000001502,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64894032478333,TA24 7PZ,2014-05-19,fhrs_5_en-GB,5,,FHRS,5
-315977,Station Road,Stogumber,Taunton,Somerset,Stogumber Cricket Ground,Other catering premises,7841,5,,161606,5,,51.12540700000000,PI/000001633,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.28603700000000,TA4  3TG,2013-11-01,fhrs_5_en-GB,5,,FHRS,0
-315978,Stogumber,Taunton,Somerset,,Stogumber Primary School,School/college/university,7845,5,,161611,5,,51.12661743164063,PI/000001638,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.29142975807190,TA4  3TU,2012-04-02,fhrs_5_en-GB,5,,FHRS,5
-315979,Station Road,Stogumber,Taunton,Somerset,Stogumber Railway Station,Retailers - other,4613,,,161587,,,51.12627600000000,PI/000001616,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.27154300000000,TA4 3TR,2014-02-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-315980,16 High Street,Stogursey,Bridgwater,Somerset,Stogursey Post Office & Stores,Retailers - other,4613,5,,160696,5,,51.17984200000000,PI/000000484,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.14192300000000,TA5  1TA,2014-01-13,fhrs_5_en-GB,5,,FHRS,5
-315981,3 Tower Hill,Stogursey,Bridgwater,Somerset,Stogursey Primary School,School/college/university,7845,5,,161535,5,,51.18053600000000,PI/000001561,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.14638900000000,TA5 1PR,2010-02-26,fhrs_5_en-GB,5,,FHRS,5
-315982,30 Tower Hill,Stogursey,Bridgwater,Somerset,Stogursey Youth Club,Other catering premises,7841,,,161536,,,51.18053600000000,PI/000001562,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.14638900000000,TA5  1PR,2012-11-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-315983,48 The Avenue,Minehead,Somerset,,Stones Hotel (Restaurant & Bar),Restaurant/Cafe/Canteen,1,5,,160961,5,,51.20665100000000,PI/000000847,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47240900000000,TA24 5AN,2014-02-10,fhrs_5_en-GB,5,,FHRS,5
-315984,Dulverton,Somerset,,,Streamcombe Farm,Hotel/bed & breakfast/guest house,7842,5,,164700,0,,51.02656555175781,PI/000006755,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.57900547981262,TA22 9SA,2013-03-07,fhrs_5_en-GB,5,,FHRS,0
-315985,and Farm Shop,4b Hawksworth Road,Minehead,Somerset,Stuart Lowen Quality Butchers,Manufacturers/packers,7839,5,,162796,0,,51.20152400000000,PI/000003664,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46534600000000,TA24 5BZ,2013-10-15,fhrs_5_en-GB,5,,FHRS,0
-315986,Styles Farm,Rodhuish,Minehead,Somerset,Styles Farmhouse Ltd,Manufacturers/packers,7839,5,,161885,5,,51.14611800000000,PI/000001976,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.40993500000000,TA24 6QN,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-315987,25 Friday Street,Minehead,Somerset,,Sugar & Ice,Retailers - other,4613,5,,160456,5,,51.15681800000000,PI/000000091,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.60592700000000,TA24 5TG,2012-04-27,fhrs_5_en-GB,5,,FHRS,5
-315988,11a The Avenue,Minehead,Somerset,,Sugar Cafe Bar,Restaurant/Cafe/Canteen,1,20,,161985,5,,51.20678200000000,PI/000002142,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2014-12-10,fhrs_1_en-GB,1,,FHRS,5
-315989,Butlins Skyline Limited,Warren Road,Minehead,Somerset,Sun & Moon,Pub/bar/nightclub,7843,5,,160821,5,,51.20599400000000,PI/000000658,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2013-09-09,fhrs_4_en-GB,4,,FHRS,10
-315990,Wheddon Cross,Minehead,Somerset,,Sundial Guest House,Hotel/bed & breakfast/guest house,7842,5,,161249,5,,51.13841247558594,PI/000001225,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.53903555870056,TA24 7DP,2014-08-04,fhrs_5_en-GB,5,,FHRS,5
-315991,83 Summerland Avenue,Minehead,Somerset,,Sunfield B & B,Hotel/bed & breakfast/guest house,7842,0,,160962,5,,51.20581400000000,PI/000000849,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47315600000000,TA24 5BW,2014-09-21,fhrs_5_en-GB,5,,FHRS,5
-315992,6 The Avenue,Minehead,Somerset,,Sunflowers Cafe,Restaurant/Cafe/Canteen,1,0,,160502,0,,51.20569000000000,PI/000000193,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47730300000000,TA24 5UG,2013-09-23,fhrs_5_en-GB,5,,FHRS,0
-315993,Doniford,Watchet,Somerset,,Sunnybank Caravan Park,Retailers - other,4613,5,,161624,10,,51.17766952514648,PI/000001655,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.29989504814148,TA23 0UD,2011-08-17,fhrs_4_en-GB,4,,FHRS,0
-315994,North Road,Williton,Taunton,Somerset,Sunnyside,Hospitals/Childcare/Caring Premises,5,5,,161697,5,,51.16421800000000,PI/000001783,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32235700000000,TA4  4SN,2012-10-28,fhrs_4_en-GB,4,,FHRS,10
-315995,10 The Parade,Minehead,Somerset,,Superdrug,Retailers - other,4613,,,161108,,,51.15681800000000,PI/000001002,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.60592700000000,TA24 5DH,2011-11-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-315996,48 Swain Street,Watchet,Somerset,,Swain House,Hotel/bed & breakfast/guest house,7842,0,,451615,0,,51.18125400000000,PI/000001838,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32998400000000,TA23 0AG,2014-09-10,fhrs_5_en-GB,5,,FHRS,0
-315997,63 Alcombe Road,Alcombe,Minehead,Somerset,Sweet And Tasty,Restaurant/Cafe/Canteen,1,0,,160890,0,,51.19765600000000,PI/000000756,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46831500000000,TA24 6BB,2014-02-06,fhrs_5_en-GB,5,,FHRS,0
-315998,9a The Avenue,Minehead,Somerset,,Taj Mahal,Restaurant/Cafe/Canteen,1,10,,161042,5,,51.20678200000000,PI/000000921,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2012-12-13,fhrs_4_en-GB,4,,FHRS,5
-315999,Hawkridge,Dulverton,Somerset,,Tarr Farm,Pub/bar/nightclub,7843,10,,161460,10,,51.07583236694336,PI/000001466,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.62016773223877,TA22 9PY,2014-06-17,fhrs_3_en-GB,3,,FHRS,10
-316000,Seaward Way,Minehead,Somerset,,Tesco,Retailers - supermarkets/hypermarkets,7840,0,,160850,5,,51.20277900000000,PI/000000694,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46563000000000,TA24 5BY,2013-06-13,fhrs_5_en-GB,5,,FHRS,5
-316001,Seaward Way,Minehead,Somerset,,Tesco Petrol Station,Retailers - other,4613,0,,160848,0,,51.20277900000000,PI/000000693,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46563000000000,TA24 5BY,2014-11-22,fhrs_5_en-GB,5,,FHRS,0
-316002,43a The Avenue,Minehead,Somerset,,The Â£preserver,Retailers - other,4613,,,160963,,,51.20678200000000,PI/000000850,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-09-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-316003,33 The Avenue,Minehead,Somerset,,The Avenue Creamery,Restaurant/Cafe/Canteen,1,10,,160989,0,,51.20678200000000,PI/000000869,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-04-01,fhrs_4_en-GB,4,,FHRS,5
-316004,Shurton,Bridgwater,Somerset,,The Babbling Brook,Pub/bar/nightclub,7843,5,,610776,10,,51.19213300000000,PI/000000170,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.14387200000000,TA5  1QE,2013-10-04,fhrs_4_en-GB,4,,FHRS,5
-316005,54 Swain Street,Watchet,Somerset,,The Bank House,Hotel/bed & breakfast/guest house,7842,10,,370648,5,,51.18125400000000,PI/000008381,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32998400000000,TA23 0AG,2012-05-04,fhrs_4_en-GB,4,,FHRS,5
-316006,60 The Avenue,Minehead,Somerset,,The Beach Hotel,Hotel/bed & breakfast/guest house,7842,20,,160929,15,,51.20700200000000,PI/000000803,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47024400000000,TA24 5AP,2014-07-11,fhrs_1_en-GB,1,,FHRS,15
-316007,Warren Road,Minehead,Somerset,,The Beach Hut,Retailers - other,4613,,,160920,,,51.20321900000000,PI/000000792,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47713800000000,TA24 5RL,2014-08-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-316008,3 Market Street,Watchet,Somerset,,The Bell Inn,Pub/bar/nightclub,7843,0,,161777,5,,51.18261500000000,PI/000001868,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33122500000000,TA23 0AN,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-316009,32 Church Lane,Bicknoller,Taunton,Somerset,The Bicknoller Inn,Pub/bar/nightclub,7843,5,,161588,5,,51.14535500000000,PI/000001617,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.27432600000000,TA4  4EL,2013-10-03,fhrs_5_en-GB,5,,FHRS,5
-316010,High Street,Porlock,Minehead,Somerset,The Big Cheese,Retailers - other,4613,0,,161416,5,,51.20908900000000,PI/000001415,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59512000000000,TA24 8PT,2014-06-26,fhrs_5_en-GB,5,,FHRS,0
-316011,Woodcocks Ley Farm,Porlock,Minehead,Somerset,The Big Red Cow Mobile,Mobile caterer,7846,5,,581996,10,,51.19337600000000,PI/000009455,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.60189100000000,TA24 8LX,2015-01-07,fhrs_4_en-GB,4,,FHRS,0
-316012,1 Manor Road,Alcombe,Minehead,Somerset,The Britannia Inn,Pub/bar/nightclub,7843,0,,160858,5,,51.19463200000000,PI/000000710,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46637300000000,TA24 6EH,2014-01-31,fhrs_5_en-GB,5,,FHRS,0
-316013,Main Road,Carhampton,Minehead,Somerset,The Butchers Arms,Pub/bar/nightclub,7843,10,,161887,5,,51.17343700000000,PI/000001979,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.41895100000000,TA24 6LP,2014-07-24,fhrs_4_en-GB,4,,FHRS,5
-316014,Porlock Weir,Porlock,Minehead,Somerset,The Cafe,Restaurant/Cafe/Canteen,1,0,,161462,0,,51.21800300000000,PI/000001470,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.62694500000000,TA24 8PB,2014-07-17,fhrs_5_en-GB,5,,FHRS,5
-316015,Merlins Magic City,Warren Road,Minehead,Somerset,The Candy Shop,Retailers - other,4613,,,160550,,,51.20699400000000,PI/000000251,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46804000000000,TA24 5BG,2013-09-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-316016,17 The Parade,Minehead,Somerset,,The Card Bar,Retailers - other,4613,,,161098,,,51.20480300000000,PI/000000993,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47561400000000,TA24 5LX,2013-01-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-316017,Crowcombe,Taunton,Somerset,,The Carew Arms,Pub/bar/nightclub,7843,10,,162309,10,,51.12411117553710,PI/000002709,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.23187208175659,TA4  4AD,2013-06-14,fhrs_3_en-GB,3,,FHRS,10
-316018,West Somerset Community College,Bircham Road,Alcombe,Minehead,The Combe Mobile Kitchen,Mobile caterer,7846,5,,703265,10,,51.19642300000000,PI/000009818,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46263700000000,TA24 6AY,2014-09-10,fhrs_3_en-GB,3,,FHRS,10
-316019,Brushford,Dulverton,Somerset,,The Copse,Hotel/bed & breakfast/guest house,7842,10,,370647,5,,51.02049636840820,PI/000008310,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.53575396537781,TA22 9AH,2012-05-04,fhrs_4_en-GB,4,,FHRS,0
-316020,Trailer No. 2,Styles Farm,Rodhuish,Minehead,The Cornish Pasty Company,Mobile caterer,7846,0,,338476,5,,51.14611800000000,PI/000009076,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.40993500000000,TA24 6QN,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-316021,Trailer No. 3,Styles Farm,Rodhuish,Minehead,The Cornish Pasty Company,Mobile caterer,7846,0,,432857,0,,51.14611800000000,PI/000009175,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.40993500000000,TA24 6QN,2012-07-25,fhrs_5_en-GB,5,,FHRS,0
-316022,Porlock,Minehead,Somerset,,The Culbone Stable Inn,Pub/bar/nightclub,7843,10,,160639,10,,51.21122360229492,PI/000000384,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.67536997795105,TA24 8JW,2014-12-18,fhrs_3_en-GB,3,,FHRS,10
-316023,Bircham Road,Alcombe,Minehead,Somerset,The Dene Lodge,Hospitals/Childcare/Caring Premises,5,5,,160842,5,,51.19553000000000,PI/000000689,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46356800000000,TA24 6BQ,2014-02-13,fhrs_5_en-GB,5,,FHRS,5
-316024,44 High Street,Dulverton,Somerset,,The Exmoor Beastro,Restaurant/Cafe/Canteen,1,20,,638428,0,,51.04028100000000,PI/000001282,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54928900000000,TA22 9DW,2014-03-07,fhrs_1_en-GB,1,,FHRS,0
-316025,Park Street,Exford,Minehead,Somerset,The Exmoor Stores,Retailers - other,4613,5,,161479,0,,51.13350200000000,PI/000001489,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.63820800000000,TA24 7PP,2014-07-13,fhrs_5_en-GB,5,,FHRS,5
-316026,Butlins Skyline Limited,Warren Road,Minehead,Somerset,The Fire House Grill,Restaurant/Cafe/Canteen,1,5,,264517,5,,51.20599400000000,PI/000000626,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2013-09-09,fhrs_5_en-GB,5,,FHRS,5
-316027,50 The Avenue,Minehead,Somerset,,The Gascony Hotel,Restaurant/Cafe/Canteen,1,0,,160951,0,,51.20716300000000,PI/000000834,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47175300000000,TA24 5BB,2014-04-01,fhrs_5_en-GB,5,,FHRS,0
-316028,Brompton Regis,Dulverton,Somerset,,The George Inn,Pub/bar/nightclub,7843,0,,160449,5,,51.07307815551758,PI/000000072,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49906826019287,TA22 9NL,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-316029,High Street,Porlock,Minehead,Somerset,The Gift & Candy Shop,Retailers - other,4613,,,161404,,,51.20908900000000,PI/000001400,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59512000000000,TA24 8PT,2014-07-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-316030,25 West Street,Watchet,Somerset,,The Green,Hotel/bed & breakfast/guest house,7842,5,,165216,5,,51.18219400000000,PI/000007663,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33503300000000,TA23 0BQ,2012-11-30,fhrs_5_en-GB,5,,FHRS,5
-316031,32 The Avenue,Minehead,Somerset,,The Hairy Dog,Pub/bar/nightclub,7843,10,,161011,10,,51.16165924072266,PI/000000891,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.04113507270813,TA24 5AQ,2013-06-03,fhrs_3_en-GB,3,,FHRS,5
-316032,High Street,Porlock,Minehead,Somerset,The Home Cook Cafe,Restaurant/Cafe/Canteen,1,0,,160563,0,,51.20925700000000,PI/000000265,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59531200000000,TA24 8PS,2014-04-17,fhrs_5_en-GB,5,,FHRS,0
-316033,13a Friday Street,Minehead,Somerset,,The Homebrewer,Retailers - other,4613,,,161130,,,51.20489700000000,PI/000001037,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47815100000000,TA24 5UB,2012-04-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-316034,Main Road,Kilve,Bridgwater,Somerset,The Hood Arms,Pub/bar/nightclub,7843,20,,161549,15,,51.17910100000000,PI/000001576,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.21980400000000,TA5  1EA,2014-06-19,fhrs_1_en-GB,1,,FHRS,15
-316035,Minehead Baptist Church,The Parks,Minehead,Somerset,The Hope Centre,Other catering premises,7841,10,,165562,5,,51.16165924072266,PI/000008175,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.04113507270813,TA24 8DD,2012-11-26,fhrs_4_en-GB,4,,FHRS,5
-316036,3 Harbour Road,Watchet,Somerset,,The Ivy House,Hotel/bed & breakfast/guest house,7842,5,,165250,5,,51.18161200000000,PI/000007707,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32930800000000,TA23 0AQ,2012-11-09,fhrs_5_en-GB,5,,FHRS,5
-316037,17 Bremis Road,Dunster,Minehead,Somerset,The Jam Tart,Other catering premises,7841,0,,703261,0,,51.18839400000000,PI/000008477,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44078900000000,TA24 6PR,2014-09-01,fhrs_5_en-GB,5,,FHRS,0
-316038,Ponsford Road,Minehead,Somerset,,The Kingsway,Hotel/bed & breakfast/guest house,7842,5,,160445,5,,51.20155000000000,PI/000000070,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47044300000000,TA24 5DY,2014-01-12,fhrs_5_en-GB,5,,FHRS,5
-316039,Carhampton Road,Blue Anchor,Minehead,Somerset,The Langbury Hotel,Hotel/bed & breakfast/guest house,7842,5,,160633,5,,51.18060800000000,PI/000000380,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.40294700000000,TA24 6LB,2014-08-30,fhrs_5_en-GB,5,,FHRS,5
-316040,Abbeyfield House,High Street,Porlock,Minehead,The Laurels,Hospitals/Childcare/Caring Premises,5,5,,161428,0,,51.20925700000000,PI/000001425,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59531200000000,TA24 8PS,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-316041,Nettlecombe Court,Nettlecombe,Taunton,Somerset,The Leonard Wills Field Centre,School/college/university,7845,0,,161803,5,,51.13123400000000,PI/000001899,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.34991300000000,TA4 4HT,2014-07-18,fhrs_5_en-GB,5,,FHRS,5
-316042,4 Anchor Street,Watchet,Somerset,,The Link,Restaurant/Cafe/Canteen,1,,,165790,,,51.18090900000000,PI/000008496,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33107600000000,TA23 0AZ,2014-08-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-316043,Timberscombe,Minehead,Somerset,,The Lion Inn,Pub/bar/nightclub,7843,0,,160547,0,,51.16865539550781,PI/000000250,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49591517448425,TA24 7TT,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-316044,23 Market Street,Watchet,Somerset,,The London Inn,Pub/bar/nightclub,7843,0,,160515,0,,51.18261500000000,PI/000000203,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33122500000000,TA23 0AN,2014-12-16,fhrs_5_en-GB,5,,FHRS,0
-316045,2 North Road,Williton,Taunton,Somerset,The Masons Arms,Pub/bar/nightclub,7843,0,,161689,0,,51.16421800000000,PI/000001775,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32235700000000,TA4  4SN,2014-12-15,fhrs_5_en-GB,5,,FHRS,5
-316046,25 The Avenue,Minehead,Somerset,,The Mayfair Residential Home,Hospitals/Childcare/Caring Premises,5,5,,160617,5,,51.20678200000000,PI/000000340,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-09-09,fhrs_5_en-GB,5,,FHRS,5
-316047,14 Tregonwell Road,Minehead,Somerset,,The Montrose Guest House,Hotel/bed & breakfast/guest house,7842,5,,160481,5,,51.20471000000000,PI/000000163,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47154600000000,TA24 5DU,2012-12-07,fhrs_5_en-GB,5,,FHRS,5
-316048,Northfield Road,Minehead,Somerset,,The Northfield Hotel,Restaurant/Cafe/Canteen,1,0,,161034,0,,51.20970400000000,PI/000000913,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47489700000000,TA24 5PU,2014-11-01,fhrs_5_en-GB,5,,FHRS,0
-316049,Monksilver,Taunton,Somerset,,The Notley Arms Inn,Pub/bar/nightclub,7843,5,,212539,15,,51.12918090820313,PI/000000105,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32590055465698,TA4  4JB,2014-01-17,fhrs_2_en-GB,2,,FHRS,10
-316050,Doverhay,Porlock,Minehead,Somerset,The Oaks Hotel,Hotel/bed & breakfast/guest house,7842,0,,161401,0,,51.20975300000000,PI/000001396,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59192200000000,TA24 8ES,2014-06-26,fhrs_5_en-GB,5,,FHRS,0
-316051,High Street,Porlock,Minehead,Somerset,The Olde Chapel,Restaurant/Cafe/Canteen,1,0,,161415,0,,51.20925700000000,PI/000001414,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59531200000000,TA24 8PS,2014-04-17,fhrs_5_en-GB,5,,FHRS,5
-316052,13 High Street,Dunster,Minehead,Somerset,The Olde House,Restaurant/Cafe/Canteen,1,0,,164092,5,,51.18401500000000,PI/000005820,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44440100000000,TA24 6SF,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-316053,1c The Avenue,Minehead,Somerset,,The Owls Restaurant,Restaurant/Cafe/Canteen,1,20,,161075,10,,51.20617400000000,PI/000000961,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47673100000000,TA24 5NN,2014-01-13,fhrs_1_en-GB,1,,FHRS,15
-316054,26 The Parks,Minehead,Somerset,,The Parks Guest House,Hotel/bed & breakfast/guest house,7842,5,,160636,5,,51.20606700000000,PI/000000382,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.48374300000000,TA24 8BT,2012-03-05,fhrs_5_en-GB,5,,FHRS,5
-316055,Watchet Phoenix Centre,11 The Esplanade,Watchet,Somerset,The Phoenix Club,Restaurant/Cafe/Canteen,1,0,,161730,5,,51.18204200000000,PI/000001816,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32946300000000,TA23 0AJ,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-316056,Holford,Bridgwater,Somerset,,The Plough Inn,Pub/bar/nightclub,7843,10,,160493,5,,51.16374200000000,PI/000000181,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.20767100000000,TA5  1RY,2013-10-04,fhrs_4_en-GB,4,,FHRS,0
-316057,Edgcott Farm,Exford,Minehead,Somerset,The Private Chef,Other catering premises,7841,5,,165989,5,,51.13625100000000,PI/000008821,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64801100000000,TA24 7QG,2014-10-30,fhrs_5_en-GB,5,,FHRS,5
-316058,The Esplanade,Minehead,Somerset,,The Promenade,Hotel/bed & breakfast/guest house,7842,0,,160986,0,,51.20880800000000,PI/000000867,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47317900000000,TA24 5QS,2013-06-06,fhrs_5_en-GB,5,,FHRS,5
-316059,Quay Street,Minehead,Somerset,,The Quay Inn,Pub/bar/nightclub,7843,10,,160467,15,,51.21062400000000,PI/000000126,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47399600000000,TA24 5UJ,2014-10-17,fhrs_2_en-GB,2,,FHRS,10
-316060,55 Long Street,Williton,Taunton,Somerset,The Railway Inn,Pub/bar/nightclub,7843,20,,160561,15,,51.16344200000000,PI/000000263,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31549900000000,TA4  4QY,2014-09-16,fhrs_1_en-GB,1,,FHRS,15
-316061,Station Terrace,Minehead,Somerset,,The Railway Station,Retailers - other,4613,,,160877,,,51.20699400000000,PI/000000744,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46804000000000,TA24 5BG,2014-10-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-316062,17 Friday Street,Minehead,Somerset,,The Reading Room,Restaurant/Cafe/Canteen,1,0,,161124,0,,51.20489700000000,PI/000001025,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47815100000000,TA24 5UB,2013-07-26,fhrs_5_en-GB,5,,FHRS,0
-316063,Warren Road,Minehead,Somerset,,The Seafront Kiosk,Retailers - other,4613,5,,165657,5,,51.20599400000000,PI/000008325,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46172300000000,TA24 5SH,2013-06-09,fhrs_5_en-GB,5,,FHRS,0
-316064,Stephenson Road,Minehead,Somerset,,The Seahorse Centre,Restaurant/Cafe/Canteen,1,5,,160844,5,,51.20072700000000,PI/000000690,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46437600000000,TA24 5EB,2012-02-09,fhrs_5_en-GB,5,,FHRS,5
-316065,Blue Anchor,Minehead,Somerset,,The Smugglers,Restaurant/Cafe/Canteen,1,10,,161866,5,,51.18104900000000,PI/000001956,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.39087000000000,TA24 6JS,2014-09-17,fhrs_4_en-GB,4,,FHRS,5
-316066,14A Market Street,Watchet,Somerset,,The Spice Merchant,Restaurant/Cafe/Canteen,1,5,,160692,10,,51.18261500000000,PI/000000479,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33122500000000,TA23 0AN,2014-12-11,fhrs_3_en-GB,3,,FHRS,10
-316067,Sandyway,South Molton,Devon,,The Sportsman Inn,Pub/bar/nightclub,7843,5,,163681,5,,51.08721542358398,PI/000005114,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.72258782386780,EX36 3LU,2012-10-02,fhrs_4_en-GB,4,,FHRS,10
-316068,10 West Street,Dunster,Minehead,Somerset,The Stags Head,Pub/bar/nightclub,7843,5,,160671,0,,51.18162800000000,PI/000000446,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44691600000000,TA24 6SN,2013-09-27,fhrs_5_en-GB,5,,FHRS,5
-316069,Mill Lane,Watchet,Somerset,,The Star Inn,Pub/bar/nightclub,7843,,,161785,,,51.18227500000000,PI/000001877,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33185900000000,TA23 0AR,2014-01-30,fhrs_5_en-GB,5,,FHRS,
-316070,Warren Road,Minehead,Somerset,,The Strand Restaurant,Restaurant/Cafe/Canteen,1,0,,160889,0,,51.20699400000000,PI/000000754,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46804000000000,TA24 5BG,2014-06-20,fhrs_5_en-GB,5,,FHRS,0
-316071,12/16 Fore Street,Dulverton,Somerset,,The Tantivy,Retailers - other,4613,0,,161307,0,,51.04023300000000,PI/000001293,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55087100000000,TA22 9EX,2014-06-12,fhrs_5_en-GB,5,,FHRS,0
-316072,Roadwater,Watchet,Somerset,,The Valiant Soldier,Pub/bar/nightclub,7843,5,,161860,5,,51.13477325439453,PI/000001950,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.38707780838013,TA23 0QZ,2014-07-02,fhrs_5_en-GB,5,,FHRS,5
-316073,Withypool,Minehead,Somerset,,The Village Shop,Retailers - other,4613,5,,161497,5,,51.10761642456055,PI/000001507,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64949226379395,TA24 7QP,2013-08-09,fhrs_5_en-GB,5,,FHRS,5
-316074,Wootton Courtenay,Minehead,Somerset,,The Villagers Stores,Retailers - other,4613,0,,161226,0,,51.17994689941406,PI/000001196,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.52186226844788,TA24 8RH,2013-08-02,fhrs_5_en-GB,5,,FHRS,0
-316075,Station Road,Washford,Watchet,Somerset,The Washford Inn,Pub/bar/nightclub,7843,10,,160506,10,,51.16154700000000,PI/000000197,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.36856000000000,TA23 0PP,2013-09-23,fhrs_3_en-GB,3,,FHRS,10
-316076,27 The Avenue,Minehead,Somerset,,The Wheelhouse Restaurant,Restaurant/Cafe/Canteen,1,0,,160688,0,,51.20678200000000,PI/000000475,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2013-08-22,fhrs_5_en-GB,5,,FHRS,5
-316077,Stogumber,Taunton,Somerset,,The White Horse Inn,Pub/bar/nightclub,7843,0,,161614,5,,51.12814331054690,PI/000001641,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.29055786132813,TA4  3TA,2013-10-14,fhrs_5_en-GB,5,,FHRS,0
-316078,Washford,Watchet,Somerset,,The White Horse Inn,Pub/bar/nightclub,7843,5,,161826,5,,51.15369415283203,PI/000001921,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.36553907394409,TA23 0JZ,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-316079,West Quantoxhead,Taunton,Somerset,,The Windmill Inn,Pub/bar/nightclub,7843,0,,161576,0,,51.16931152343750,PI/000001609,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.27172493934631,TA4  4DS,2014-12-18,fhrs_5_en-GB,5,,FHRS,0
-316080,Brushford,Dulverton,Somerset,,Three Acres Country House,Hotel/bed & breakfast/guest house,7842,5,,160507,5,,51.02192306518555,PI/000000198,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.53926610946655,TA22 9AR,2012-06-18,fhrs_5_en-GB,5,,FHRS,5
-316081,1 Irnham Road,Minehead,Somerset,,Tidings,Hospitals/Childcare/Caring Premises,5,5,,160536,5,,51.20421900000000,PI/000000236,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47772800000000,TA24 5UD,2012-04-27,fhrs_5_en-GB,5,,FHRS,5
-316082,Timberscombe,Minehead,Somerset,,Timberscombe First School,School/college/university,7845,5,,161212,5,,51.16817474365230,PI/000001178,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49681520462036,TA24 7TY,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-316083,Rivercoombe House,Roadwater,Watchet,Somerset,Tiny Hands Tiny Feet,Other catering premises,7841,0,,581995,0,,51.13477300000000,PI/000009428,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.38707800000000,TA23 0QZ,2013-08-15,fhrs_5_en-GB,5,,FHRS,0
-316084,26 High Street,Dulverton,Somerset,,Tongdam,Restaurant/Cafe/Canteen,1,,,162832,,,51.04023300000000,PI/000003735,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55087100000000,TA22 9EX,2014-06-20,fhrs_5_en-GB,5,,FHRS,
-316085,Torre,Washford,Taunton,Somerset,Torre Fruit Farm,Manufacturers/packers,7839,0,,161821,5,,51.15146400000000,PI/000001914,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.36487300000000,TA23 0LA,2014-05-20,fhrs_5_en-GB,5,,FHRS,0
-316086,3 The Parade,Minehead,Somerset,,Toucan Wholefoods,Retailers - other,4613,0,,161141,0,,51.20606000000000,PI/000001056,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47794500000000,TA24 5NL,2013-02-14,fhrs_5_en-GB,5,,FHRS,0
-316087,1 High Street,Dulverton,Somerset,,Town Mills,Hotel/bed & breakfast/guest house,7842,0,,162708,5,,51.03972400000000,PI/000003460,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.55129600000000,TA22 9HB,2014-03-07,fhrs_5_en-GB,5,,FHRS,0
-316088,2 Townsend Road,Minehead,Somerset,,Townsend House,Other catering premises,7841,,,161121,,,51.20302100000000,PI/000001020,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47784700000000,TA24 5RG,2013-05-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-316089,2 High Street,Dunster,Minehead,Somerset,Traditional Candy Shop,Retailers - other,4613,5,,160732,5,,51.18404800000000,PI/000000540,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44388700000000,TA24 6SG,2012-03-15,fhrs_4_en-GB,4,,FHRS,10
-316090,24 Tregonwell Road,Minehead,Somerset,,Tranmere House,Hotel/bed & breakfast/guest house,7842,5,,160946,5,,51.20471000000000,PI/000000828,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47154600000000,TA24 5DU,2012-06-11,fhrs_5_en-GB,5,,FHRS,5
-316091,1 Tregonwell Road,Minehead,Somerset,,Tregonwell House,Hotel/bed & breakfast/guest house,7842,0,,160517,5,,51.20558500000000,PI/000000204,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47138700000000,TA24 5DT,2014-07-25,fhrs_5_en-GB,5,,FHRS,0
-316092,Washford Cross,Washford,Watchet,Somerset,Tropiquaria,Restaurant/Cafe/Canteen,1,5,,161801,0,,51.15999221801758,PI/000001895,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.34834957122803,TA23 0QB,2014-03-26,fhrs_2_en-GB,2,,FHRS,15
-316093,Bossington,Porlock,Minehead,Somerset,Tudor Cottage,Hotel/bed & breakfast/guest house,7842,5,,161379,0,,51.21987533569336,PI/000001375,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.57892537117004,TA24 8HQ,2014-06-13,fhrs_5_en-GB,5,,FHRS,5
-316094,Railway Station,Station Terrace,Minehead,Somerset,Turntable Cafe,Restaurant/Cafe/Canteen,1,,,164940,,,51.20699400000000,PI/000007144,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46804000000000,TA24 5BG,2014-11-20,fhrs_5_en-GB,5,,FHRS,
-316095,7 Friday Street,Minehead,Somerset,,Under The Rainbow,Restaurant/Cafe/Canteen,1,5,,161134,5,,51.20489700000000,PI/000001041,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47815100000000,TA24 5UB,2012-06-03,fhrs_5_en-GB,5,,FHRS,0
-316096,Bancks Street,Minehead,Somerset,,United Reform Church Hall,Other catering premises,7841,5,,160489,5,,51.20481900000000,PI/000000173,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47723200000000,TA24 5DJ,2011-09-21,fhrs_5_en-GB,5,,FHRS,5
-316097,Roadwater,Watchet,Somerset,,Village Hall,Other catering premises,7841,5,,161851,5,,51.13560485839844,PI/000001945,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.38537311553955,TA23 0QY,2012-01-09,fhrs_4_en-GB,4,,FHRS,10
-316098,Sampford Brett,Taunton,Somerset,,Village Hall,Other catering premises,7841,5,,162846,5,,51.15355400000000,PI/000003762,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.30390700000000,TA4 4LG,2010-10-15,fhrs_4_en-GB,4,,FHRS,10
-316099,Timberscombe,Minehead,Somerset,,Village Hall,Other catering premises,7841,0,,161210,10,,51.16817474365230,PI/000001177,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49681520462036,TA24 7TY,2012-02-06,fhrs_4_en-GB,4,,FHRS,10
-316100,Wootton Courtenay,Minehead,Somerset,,Village Hall,Other catering premises,7841,5,,161227,5,,51.16922378540039,PI/000001199,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.52851796150208,TA24 8RG,2013-04-22,fhrs_5_en-GB,5,,FHRS,5
-316101,Woodside,2 Woodside Close,Minehead,Somerset,Voyage Ltd - Woodside,Hospitals/Childcare/Caring Premises,5,10,,401547,0,,51.20672200000000,PI/000002464,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.49586000000000,TA24 8RZ,2013-10-29,fhrs_4_en-GB,4,,FHRS,5
-316102,20 The Parade,Minehead,Somerset,,W H Smith,Retailers - other,4613,,,161081,,,51.20569000000000,PI/000000972,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47730300000000,TA24 5UG,2013-11-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-316103,Cleeve Hill,Watchet,Somerset,,Warren Bay Caravan Park,Retailers - other,4613,5,,161802,5,,51.17823400000000,PI/000001897,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.35025500000000,TA23 0JR,2012-04-27,fhrs_5_en-GB,5,,FHRS,5
-316104,Station Road,Washford,Watchet,Somerset,Washford Railway Station,Retailers - other,4613,,,161831,,,,PI/000001926,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,,TA23 OPP,2012-10-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-316105,Culvercliffe Road,Watchet,Somerset,,Watchet Bowling Club,Pub/bar/nightclub,7843,5,,161698,10,,51.17900300000000,PI/000001784,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32225100000000,TA23 0EN,2013-11-01,fhrs_4_en-GB,4,,FHRS,5
-316106,Doniford Road,Watchet,Somerset,,Watchet Football Club,Pub/bar/nightclub,7843,5,,161700,5,,51.17991700000000,PI/000001786,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32728400000000,TA23 0DE,2013-05-22,fhrs_5_en-GB,5,,FHRS,5
-316107,South Road,Watchet,Somerset,,Watchet Railway Station,Retailers - other,4613,,,161737,,,51.17998800000000,PI/000001823,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32824500000000,TA23 0DA,2013-09-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-316108,10 Tregonwell Road,Minehead,Somerset,,Waverley B & B,Hotel/bed & breakfast/guest house,7842,5,,160954,5,,51.20558500000000,PI/000000837,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47138700000000,TA24 5DT,2014-10-11,fhrs_5_en-GB,5,,FHRS,5
-316109,Minehead Harbour,Minehead,Somerset,,West Coast Tackle,Takeaway/sandwich shop,7844,,,161007,,,51.16165924072266,PI/000000884,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.04113507270813,TA245UL,2013-01-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-316110,Bircham Road,Alcombe,Minehead,Somerset,West Somerset Community College,School/college/university,7845,5,,160836,5,,51.19642300000000,PI/000000685,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46263700000000,TA24 6AY,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-316111,Mart Road,Minehead,Somerset,,West Somerset Garden Centre,Restaurant/Cafe/Canteen,1,5,,160674,0,,51.20420200000000,PI/000000450,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46833700000000,TA24 5BJ,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-316112,17 Swain Street,Watchet,Somerset,,West Somerset Hotel,Pub/bar/nightclub,7843,0,,160406,5,,51.18135400000000,PI/000000003,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.33063100000000,TA23 0AB,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-316113,King Edward Road,Minehead,Somerset,,West Somerset Nursery Group,Hospitals/Childcare/Caring Premises,5,5,,161037,0,,51.20180600000000,PI/000000916,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47510300000000,TA24 5JA,2014-11-04,fhrs_5_en-GB,5,,FHRS,5
-316114,Bircham Road,Alcombe,Minehead,Somerset,West Somerset Sports & Leisure Centre,Retailers - other,4613,,,160833,,,51.19642300000000,PI/000000680,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.46263700000000,TA24 6AY,2014-08-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-316115,King Edward Road,Minehead,Somerset,,Westerley,Hospitals/Childcare/Caring Premises,5,0,,161013,0,,51.20199800000000,PI/000000894,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47486600000000,TA24 5JB,2013-07-31,fhrs_5_en-GB,5,,FHRS,0
-316116,Caravan and Camping,Exford,Minehead,Somerset,Westermill Farm,Retailers - other,4613,0,,161504,10,,51.14543600000000,PI/000001516,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.68066400000000,TA24 7NJ,2011-08-12,fhrs_4_en-GB,4,,FHRS,5
-316117,41 The Avenue,Minehead,Somerset,,Wheelhouse Snack Bar,Restaurant/Cafe/Canteen,1,0,,160975,0,,51.20678200000000,PI/000000856,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47413100000000,TA24 5AY,2014-06-12,fhrs_5_en-GB,5,,FHRS,0
-316118,Whortleberry House,High Street,Porlock,Minehead,Whortleberry Tea Room,Restaurant/Cafe/Canteen,1,5,,161442,0,,51.20881000000000,PI/000001445,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.59711500000000,TA24 8PY,2014-09-01,fhrs_5_en-GB,5,,FHRS,0
-316119,2 Brook Street,Stogumber,Taunton,Somerset,Wick House,Hotel/bed & breakfast/guest house,7842,0,,161616,5,,51.12727800000000,PI/000001645,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.29176300000000,TA4  3SZ,2012-07-11,fhrs_5_en-GB,5,,FHRS,0
-316120,North Road,Williton,Taunton,Somerset,Williton Community Hospital,Hospitals/Childcare/Caring Premises,5,5,,161706,0,,51.16421800000000,PI/000001790,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32235700000000,TA4  4SN,2014-01-23,fhrs_5_en-GB,5,,FHRS,0
-316121,4 Long Street,Williton,Taunton,Somerset,Williton Social Club,Pub/bar/nightclub,7843,5,,161666,5,,51.16223100000000,PI/000001741,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31999800000000,TA4  4QN,2011-06-06,fhrs_4_en-GB,4,,FHRS,10
-316122,Brompton Regis,Dulverton,Somerset,,Wimbleball Lake Sailing Club,Other catering premises,7841,5,,161177,10,,51.06583786010742,PI/000001116,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47843956947327,TA22 9NU,2011-07-28,fhrs_4_en-GB,4,,FHRS,5
-316123,Brompton Regis,Dulverton,Somerset,,Wimbleball Lake Tearooms,Restaurant/Cafe/Canteen,1,0,,164172,0,,51.06583786010742,PI/000005910,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47843956947327,TA22 9NU,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-316124,64 Battleton,Dulverton,Somerset,,Winsbere Guesthouse,Hotel/bed & breakfast/guest house,7842,0,,161269,10,,51.03402500000000,PI/000001260,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54772500000000,TA22 9HU,2014-06-13,fhrs_4_en-GB,4,,FHRS,10
-316125,Brookwood,Winsford,Minehead,Somerset,Winsford Stores,Retailers - other,4613,0,,161353,0,,51.16165924072270,PI/000001352,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.04113507270813,TA24 7JE,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-316126,54 The Avenue,Minehead,Somerset,,Winsor Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,160939,0,,51.20669200000000,PI/000000821,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47125100000000,TA24 5AW,2014-09-29,fhrs_5_en-GB,5,,FHRS,0
-316127,Withypool,Minehead,Somerset,,Withypool Tea Rooms,Restaurant/Cafe/Canteen,1,0,,432854,0,,51.10761642456055,PI/000007813,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64949226379395,TA24 7QP,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-316128,Roadwater,Watchet,Somerset,,Wood Advent Farm,Hotel/bed & breakfast/guest house,7842,5,,161839,5,,51.12751007080078,PI/000001934,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.37860012054443,TA23 0RR,2014-02-08,fhrs_4_en-GB,4,,FHRS,10
-316129,4 Bank Square,Dulverton,Somerset,,Woods,Restaurant/Cafe/Canteen,1,5,,161296,5,,51.04057000000000,PI/000001284,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.54992600000000,TA22 9BU,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-316130,10 High Street,Williton,Taunton,Somerset,Wyndham Arms,Pub/bar/nightclub,7843,5,,160404,10,,51.15943800000000,PI/000000001,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.31961800000000,TA4  4NW,2014-12-11,fhrs_4_en-GB,4,,FHRS,5
-316131,25-33 High Street,Dunster,Minehead,Somerset,Yarn Market Hotel,Hotel/bed & breakfast/guest house,7842,0,,160752,0,,51.18401500000000,PI/000000566,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.44440100000000,TA24 6SF,2014-03-31,fhrs_5_en-GB,5,,FHRS,0
-316132,Brendon,Lynton,Devon,,Yenworthy Lodge,School/college/university,7845,5,,161509,0,,51.22423171997070,PI/000001523,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.71720218658447,EX35 6NY,2013-05-20,fhrs_5_en-GB,5,,FHRS,0
-316133,Doniford Road,Watchet,Somerset,,Youth Centre,Other catering premises,7841,,,161701,,,51.18025900000000,PI/000001787,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.32490500000000,TA23 0TE,2013-06-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-316134,Exemead,Exford,Minehead,Somerset,Youth Hostel,Hotel/bed & breakfast/guest house,7842,0,,161483,5,,51.13265600000000,PI/000001495,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.64086600000000,TA24 7PU,2013-06-07,fhrs_4_en-GB,4,,FHRS,10
-316135,Minehead YHA,Alcombe,Minehead,Somerset,Youth Hostel,Hotel/bed & breakfast/guest house,7842,0,,165590,5,,51.18783800000000,PI/000008215,285,licensingenvhealth@westsomerset.gov.uk,West Somerset,http://www.westsomersetonline.gov.uk,-3.47099400000000,TA24 6EW,2014-05-21,fhrs_4_en-GB,4,,FHRS,10
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+315606,1 Mariners Combe,5,5,5,5,2013-06-13,51.216229,-3.624491
+315607,5- Minute Pizza,5,0,0,5,2013-02-21,51.181107,-3.140423
+315608,A Taste of Exmoor,5,5,0,0,2014-03-18,51.203021,-3.477847
+315609,Abbeyfield House,5,0,0,0,2014-03-07,51.041022,-3.551097
+315610,Alchem Pharmacy Dulverton,Exempt,nan,nan,nan,2013-03-07,51.040233,-3.550871
+315611,Alcombe Fish Bar,5,0,0,5,2013-03-07,51.195671,-3.465218
+315612,Alcombe House Hotel,5,5,5,5,2012-07-04,51.196075,-3.464587
+315613,Alcombe Methodist Church,5,0,0,5,2013-11-30,51.198648,-3.468075
+315614,Alcombe News,Exempt,nan,nan,nan,2010-01-14,51.197656,-3.468315
+315615,Alcombe Tandoori,4,10,10,0,2013-06-03,51.197343,-3.467461
+315616,All Saints Church of England School,5,0,0,5,2013-12-03,51.038497,-3.54485
+315617,Allerford Community Hall,5,5,5,5,2011-02-23,51.211594,-3.571455
+315618,Allerford Post Office & Stores,5,5,0,5,2014-01-28,51.2118988037,-3.57006216049
+315619,Allerford Reading Room Club,3,10,10,10,2014-08-12,51.2108802795,-3.56899666786
+315620,Amberton B & B,5,5,5,5,2013-06-01,51.204303,-3.596515
+315621,Andrews Fish Bar,5,0,0,5,2013-03-29,51.178268,-3.325291
+315622,Apple on the Avenue,5,0,0,5,2013-09-06,51.206782,-3.474131
+315623,Aramark @ Hinkley Point B,5,5,5,5,2013-10-25,51.20709,-3.131646
+315624,Arden Cottage,5,0,5,0,2014-04-15,51.162641,-3.317893
+315625,Ash Farm,5,5,5,5,2014-10-17,51.2167892456,-3.66259932518
+315626,Axe Valley Christian Trust,5,5,5,5,2013-07-12,51.212826,-3.4826
+315627,Badgers Holt,5,5,5,5,2013-06-06,51.0880737305,-3.53819179535
+315628,Bailey Mac's,5,0,5,0,2013-01-17,51.204802,-3.478534
+315629,Bake n Bite,5,0,0,0,2013-08-22,51.205994,-3.461723
+315630,Bampton Street Fish Bar,5,0,5,5,2014-09-30,51.204795,-3.479794
+315631,Banbridge House,1,10,10,20,2014-02-11,51.208808,-3.473179
+315632,Bar Rosso,5,0,0,0,2014-10-06,51.205994,-3.461723
+315633,Beach Hut Minehead Ltd,5,5,5,5,2014-06-24,51.203219,-3.477138
+315634,Bengal Spice,5,5,5,5,2013-05-29,51.16086,-3.321174
+315635,Beverleigh,5,5,5,5,2014-11-21,51.21221,-3.4787
+315636,Bicknoller Shop Association Ltd,5,5,5,5,2014-02-07,51.148048,-3.274786
+315637,Bistro 16,5,0,0,0,2013-04-26,51.205512,-3.480003
+315638,Bitz N Pizza & John's Chippy,5,5,5,5,2013-09-23,51.161649,-3.321325
+315639,Blenheim Gardens Cafe,5,5,0,5,2014-09-01,51.20399,-3.495714
+315640,Blenheim Lodge,5,5,0,5,2014-11-04,51.20924,-3.473866
+315641,Blue Anchor Hotel,2,15,10,5,2014-04-17,51.181984,-3.384074
+315642,Boeveys Restaurant & Tearooms,5,5,0,0,2013-08-08,51.1397438049,-3.75481987
+315643,Boots The Chemist Ltd,5,5,0,5,2014-07-15,51.20569,-3.477303
+315644,Bossington Farm,4,10,0,5,2013-11-29,51.220479,-3.580822
+315645,Bournstream,5,5,5,5,2014-06-08,51.1620788574,-3.39366030693
+315646,Brambles Coffee Shop,5,0,0,0,2014-03-05,51.207163,-3.471753
+315647,Brendon Service Station,Exempt,nan,nan,nan,2012-04-27,51.161205,-3.367792
+315648,Bridge Cottage Tearooms,5,0,5,5,2014-09-26,51.1020698547,-3.56419491768
+315649,Bridge Inn,5,5,5,5,2013-09-27,51.039496,-3.552258
+315650,British Biltong,4,10,0,5,2013-12-16,51.127854,-3.321461
+315651,British Legion Hall,5,0,5,0,2013-05-05,51.182275,-3.331859
+315652,Broadlands,5,0,0,0,2014-09-12,51.20254,-3.47109
+315653,Brompton Ralph Cricket Club,4,10,10,0,2013-12-18,51.067694,-3.285978
+315654,Brompton Ralph Village Shop & PO,4,5,10,5,2013-01-14,51.082147,-3.307694
+315655,Brushford Luncheon Club,4,0,0,10,2014-01-27,51.020496,-3.535754
+315656,Burger King,5,0,0,0,2012-11-09,51.205994,-3.461723
+315657,Burnells Gardens,4,0,5,10,2012-05-25,51.177973,-3.480322
+315658,Burrowhayes Farm Caravan & Camp Site,5,5,5,5,2013-05-20,51.2042503357,-3.57803297043
+315659,Buttercross,5,5,5,0,2011-10-17,51.184564,-3.447996
+315660,Butterflies,5,0,0,0,2014-06-12,51.205756,-3.47918
+315661,Camellia House,5,5,0,5,2014-06-03,51.181567,-3.443853
+315662,Camping Shop,4,5,10,5,2012-07-13,51.212647,-3.477526
+315663,Candy & Gifts,Exempt,nan,nan,nan,2012-10-18,51.207163,-3.471753
+315664,Card Factory,Exempt,nan,nan,nan,2012-10-18,51.156818,-3.605927
+315665,Carhampton Stores,1,0,0,20,2014-04-17,51.17484,-3.421869
+315666,Carhampton Youth Club,Exempt,nan,nan,nan,2011-12-07,51.172598,-3.416207
+315667,Castle Coffee House,5,5,0,0,2013-03-07,51.184048,-3.443887
+315668,Castle Of Comfort Country House,5,0,5,0,2013-03-09,51.1530990601,-3.18334269524
+315669,Catleys Fish and Chips Dulverton,5,0,5,0,2014-03-07,51.040233,-3.550871
+315670,Catwell House Country B&B,3,10,5,10,2014-09-29,51.1403198242,-2.90556001663
+315671,Cedar House,5,nan,nan,nan,2012-06-20,51.1663169861,-3.37741136551
+315672,Central Stores,5,0,0,5,2014-09-12,51.128145,-3.290558
+315673,Centre Stage,5,5,0,0,2013-07-01,51.205994,-3.461723
+315674,Channel House,4,5,10,5,2013-05-17,51.210434,-3.476209
+315675,Chantry Cottage,5,0,0,5,2013-04-05,51.1842193604,-3.21882271767
+315676,Chapel House Tearooms,5,0,0,0,2013-01-22,51.181628,-3.446916
+315677,Cheeky Cherubs,5,nan,nan,nan,2014-02-21,51.200727,-3.464376
+315678,Chives,1,10,5,20,2014-09-29,51.181354,-3.330631
+315679,Church Cottage,5,0,5,0,2014-05-16,51.209926,-3.546831
+315680,Church Rooms,5,0,0,0,2014-08-30,51.1788406372,-3.13853597641
+315681,Claire's Kitchen,5,0,0,0,2014-06-13,51.169223,-3.528518
+315682,Clatworthy Village Hall,4,10,5,5,2014-08-01,51.070233,-3.351776
+315683,Clive Downs Butchers,4,10,5,5,2014-03-27,51.209089,-3.59512
+315684,Cloud Farm,3,10,10,10,2013-06-07,51.2160987854,-3.72832584381
+315685,Club Bar,5,5,5,5,2014-02-14,51.204819,-3.477232
+315686,Coaster Coffee,5,0,0,5,2013-09-09,51.206782,-3.474131
+315687,Cobblestones Restaurant,5,5,5,0,2013-09-20,51.184048,-3.443887
+315688,Cocoa's,5,0,0,0,2013-04-12,51.138591,-3.269537
+315689,Combe House Hotel,5,0,0,0,2014-12-10,51.159954071,-3.2132062912
+315690,Community Rooms,5,5,5,5,2014-08-01,51.196644,-3.466537
+315691,Community Rooms,5,5,5,5,2011-08-01,51.174013,-3.422588
+315692,Community Rooms,5,5,5,5,2011-08-01,51.15871,-3.320398
+315693,Community Rooms,5,5,5,5,2013-10-18,51.12775,-3.288032
+315694,Community Rooms,5,5,5,5,2014-08-01,51.038497,-3.54485
+315695,Community Rooms,5,0,5,5,2012-07-05,51.212925,-3.592103
+315696,Community Rooms,5,5,5,5,2014-08-01,51.202012,-3.479461
+315697,Community Rooms,5,5,5,5,2014-08-01,51.177802,-3.323518
+315698,Community Rooms,5,5,0,5,2014-08-01,51.187544,-3.440419
+315699,Community Rooms,5,5,5,5,2014-08-01,51.181107,-3.140423
+315700,Community Rooms,5,0,5,0,2012-11-30,51.161679,-3.363372
+315701,Conygar House,5,5,5,5,2011-11-21,51.185328,-3.443713
+315702,Cooks Fish & Chips,5,5,0,0,2014-06-05,51.180845,-3.29831
+315703,Co-operative,4,10,5,0,2012-12-12,51.179456,-3.325912
+315704,Co-operative Food,4,10,5,5,2014-03-17,51.040233,-3.550871
+315705,Co-Operative Group,5,0,0,0,2014-03-05,51.206286,-3.474216
+315706,Co-Operative Group,5,5,0,0,2014-01-23,51.197656,-3.468315
+315707,Co-Operative Stores,5,5,5,5,2009-12-17,51.16086,-3.321174
+315708,Co-Operative Stores,5,0,0,0,2014-02-07,51.177537,-3.327817
+315709,Copper Kettle,5,5,0,0,2014-01-09,51.040233,-3.550871
+315710,Corner House Cafe,5,0,5,0,2013-12-05,51.182615,-3.331225
+315711,Corner House Stores,5,0,0,5,2014-01-24,51.201558,-3.480492
+315712,Costa Ltd,5,5,0,5,2014-01-30,51.205756,-3.47918
+315713,Costcutter,5,nan,nan,nan,2013-12-12,51.209404,-3.597021
+315714,Cotswold Hardy Plants Ltd,5,5,0,5,2014-03-08,51.167196,-3.286771
+315715,County Stores Filling Station,5,5,5,5,2014-02-07,51.16086,-3.321174
+315716,Court Place Farm,5,5,5,5,2012-03-13,51.2095985413,-3.60069274902
+315717,Cream,5,5,5,0,2013-06-03,51.205863,-3.476407
+315718,Cream,5,0,5,5,2014-07-15,51.160922,-3.321262
+315719,Croft House,5,0,0,0,2014-07-23,51.15871,-3.320398
+315720,Cross Lane House,5,5,5,0,2013-11-29,51.2108802795,-3.56899666786
+315721,Crowcombe Court,5,0,0,0,2014-05-15,51.1241111755,-3.23187208176
+315722,Crowcombe School,5,5,5,5,2014-02-10,51.1217422485,-3.22975158691
+315723,Crowcombe Station,Exempt,nan,nan,nan,2014-01-17,51.1024093628,-3.23315167427
+315724,Crowcombe Village Shop,5,5,5,5,2012-10-29,51.1246833801,-3.23487401009
+315725,Crown Hotel,4,10,5,5,2014-01-23,51.1335029602,-3.63820838928
+315726,Cupcake Heaven,5,0,0,0,2013-08-06,51.205336,-3.476848
+315727,Cutcombe Primary School,5,5,5,5,2013-05-15,51.1389274597,-3.53812336922
+315728,Cutthorne,5,5,5,5,2012-03-13,51.100199,-3.557504
+315729,Dana's Fish and Chips,5,0,0,5,2014-04-30,51.206994,-3.46804
+315730,Danesfield C Of E Community School,5,0,5,5,2014-04-30,51.164218,-3.322357
+315731,Davies Newsagents,Exempt,nan,nan,nan,2014-01-26,51.16086,-3.321174
+315732,Di's Novelty Cakes,5,0,0,0,2012-10-22,51.189361,-3.440433
+315733,Doniford Farm Park,5,0,5,0,2013-02-28,51.1783866882,-3.30738306046
+315734,Doniford Holiday Village,5,5,0,0,2014-06-05,51.180845,-3.29831
+315735,Driftwood Cafe,5,0,0,5,2014-03-06,51.181919,-3.400883
+315736,Duke of Wellington,5,nan,nan,nan,2014-01-21,51.205171,-3.479247
+315737,Dulverton Childrens Centre,4,10,5,5,2013-06-06,51.037393,-3.543986
+315738,Dulverton Club And Reading Room,5,0,0,0,2013-02-15,51.040848,-3.550663
+315739,Dulverton Delicatessen,5,0,0,0,2014-03-07,51.040233,-3.550871
+315740,Dulverton Middle and Community School,5,5,0,0,2013-06-06,51.037393,-3.543986
+315741,Dulverton Sports & Social Club,5,5,5,5,2012-11-13,51.0387,-3.549849
+315742,Dunkery Beacon Country House,4,5,0,10,2014-03-05,51.1799468994,-3.52186226845
+315743,Dunkery Lodge,5,5,5,5,2014-09-27,51.201894,-3.47595
+315744,Dunster Beach Stores & Takeaway,5,0,0,0,2014-04-16,51.195484,-3.433153
+315745,Dunster Castle Hotel,1,15,15,20,2014-12-12,51.184015,-3.444401
+315746,Dunster First School,5,5,0,0,2012-10-29,51.183664,-3.447352
+315747,Dunster Lodge,5,5,5,5,2013-09-23,51.187838,-3.470994
+315748,Dunster Lunchbox Dunster Steep,4,10,5,5,2013-05-24,51.1852264404,-3.44309425354
+315749,Dunster News & Gifts,Exempt,nan,nan,nan,2014-04-28,51.184048,-3.443887
+315750,Dunster Pre- School,5,5,5,5,2012-03-07,51.183664,-3.447352
+315751,Dunster Station,Exempt,nan,nan,nan,2013-03-07,51.191599,-3.435351
+315752,Dunster Tithe Barn,5,5,5,5,2013-11-01,51.184209,-3.446182
+315753,Dunster Village Shop & Deli,5,5,5,0,2013-10-24,51.184015,-3.444401
+315754,Dunster Water Mill Tea Room,5,0,0,0,2014-05-09,51.18091,-3.446822
+315755,Dunster Working Watermill,5,0,0,0,2014-05-09,51.18091,-3.446822
+315756,Eastleigh Care Home,5,5,5,5,2014-11-07,51.200444,-3.492436
+315757,Edgcott Bed & Breakfast,5,5,5,5,2014-08-30,51.136251,-3.648011
+315758,Edgcott House,5,5,5,5,2014-05-12,51.136251,-3.648011
+315759,English Heritage,Exempt,nan,nan,nan,2014-05-11,51.155546,-3.364135
+315760,Esplanade Club,5,5,5,5,2013-09-21,51.182042,-3.329463
+315761,Everydays - Lakeside,4,10,5,0,2011-10-12,51.205994,-3.461723
+315762,Exclusive Cake and Catering Co,5,5,5,5,2013-06-21,51.039724,-3.551296
+315763,Exclusive Cake Co,5,5,5,5,2014-11-11,51.044208,-3.550205
+315764,Exe Valley Caravan Site,4,5,5,10,2013-04-19,51.089264,-3.538531
+315765,Exford Bridge Tearooms,5,0,0,0,2014-03-20,51.133211,-3.640414
+315766,Exford C of E First School,5,5,5,0,2013-10-03,51.133502,-3.638208
+315767,Exford Post Office/Off Licence,5,5,5,5,2012-10-26,51.1335029602,-3.63820838928
+315768,Exmoor Cooking Company,5,5,5,0,2013-06-07,51.218003,-3.626945
+315769,Exmoor Fish and Chip Company,5,0,0,0,2013-10-05,51.199998,-3.467989
+315770,Exmoor Fisheries,5,5,5,0,2014-09-21,51.0597190857,-3.4909734726
+315771,Exmoor Forest Inn,5,5,5,5,2014-06-17,51.1397438049,-3.75481987
+315772,Exmoor House,5,5,5,5,2012-07-21,51.1379241943,-3.53921937943
+315773,Exmoor House Caravan Site,5,0,5,5,2013-08-24,51.0411720276,-3.55191469193
+315774,Exmoor House Guesthouse,5,0,0,0,2012-11-16,51.181628,-3.446916
+315775,Exmoor Owl and Hawk Centre,5,0,0,5,2014-10-16,51.219152,-3.575836
+315776,Exmoor Social Club,4,5,0,10,2013-07-14,51.133502,-3.638208
+315777,Exmoor White Horse Inn,5,5,5,5,2013-09-27,51.1332092285,-3.64041352272
+315778,F Webber & Sons (Retail) Ltd,4,10,5,5,2013-09-20,51.138687,-3.540631
+315779,Fairground Ice Cream Van,5,0,0,0,2014-07-25,51.205994,-3.461723
+315780,Fairground Kiosk,5,0,0,0,2014-07-25,51.205994,-3.461723
+315781,Farlands House,5,5,5,5,2013-05-24,51.20471,-3.471546
+315782,Farthings Farm Shop,5,5,0,5,2014-03-17,51.039496,-3.552258
+315783,Faustos,2,15,10,10,2014-09-30,51.205973,-3.47913
+315784,Fieldhouse,5,0,5,5,2013-08-09,51.206152,-3.486222
+315785,Finnigans,5,0,0,0,2013-03-26,51.205994,-3.461723
+315786,Foresters Arms,4,10,5,5,2013-05-24,51.181628,-3.446916
+315787,Foxes Hotel And Academy,5,0,0,0,2014-02-07,51.20784,-3.472204
+315788,Friday Street News,Exempt,nan,nan,nan,2013-06-04,51.204802,-3.478534
+315789,General Stores,5,5,5,5,2012-04-27,51.179347,-3.281672
+315790,Glen Lodge,5,0,0,0,2013-08-02,51.201998,-3.597438
+315791,Glen Lyn Residential Care Home,5,5,0,0,2013-02-14,51.205585,-3.471387
+315792,Glendower House,5,5,5,5,2012-04-27,51.20471,-3.471546
+315793,Glenmore Bakery,5,0,5,0,2014-05-21,51.160922,-3.321262
+315794,Golden Bowl,3,10,5,10,2014-11-27,51.178673,-3.32599
+315795,Golden Gorse,5,5,5,5,2011-12-14,51.203929,-3.475071
+315796,Golden House Restaurant,4,5,5,10,2014-03-26,51.205973,-3.47913
+315797,Greyhound Inn,5,0,0,0,2014-06-19,51.180457,-3.141595
+315798,Guest Catering,5,0,5,0,2014-10-16,51.205994,-3.461723
+315799,Hall Farm,4,10,5,5,2013-09-29,51.126814,-3.288992
+315800,Halsway Manor,5,5,5,5,2013-05-03,51.1365699768,-3.24999928474
+315801,Hanover Court,5,5,0,5,2013-06-21,51.041173,-3.551915
+315802,Harbour Cafe,5,0,5,0,2014-06-20,51.21283,-3.474425
+315803,Harbour Fish Bar,5,0,0,0,2014-12-06,51.182615,-3.331225
+315804,Harbour Stores,5,5,0,5,2013-09-13,51.219326,-3.628123
+315805,Harbour Studios Cafe,5,5,0,0,2014-09-10,51.219326,-3.628123
+315806,Hart Flyshop Ltd,Exempt,nan,nan,nan,2013-05-17,51.1616592407,-3.04113507271
+315807,Hartgens Butchers,5,5,5,0,2013-10-15,51.20569,-3.477303
+315808,Hartnells,5,5,5,5,2011-04-11,51.162641,-3.317893
+315809,Hathaways,5,5,0,0,2014-03-31,51.181628,-3.446916
+315810,Hellikers Tea Rooms,5,0,0,0,2014-03-20,51.182615,-3.331225
+315811,Hel's Kitchen @ The Showroom Cafe,3,10,10,10,2013-05-09,51.168327,-3.275502
+315812,Herby 4,4,10,0,5,2014-11-18,51.138591,-3.269537
+315813,Heywoods Catering,5,0,0,5,2012-10-11,51.139389,-3.541241
+315814,Higher Orchard,5,5,5,5,2014-08-30,51.183079,-3.446647
+315815,Higher Ranscombe at Village Hall,5,0,0,0,2012-05-29,51.180295,-3.521473
+315816,Higher Riscombe Farm,5,0,5,5,2012-05-04,51.1411781311,-3.7014374733
+315817,Higher Rodhuish Farm,4,5,10,5,2012-11-15,51.148829,-3.414807
+315818,Hindon Organic Farm B & B,5,5,5,5,2013-12-03,51.2102165222,-3.52880144119
+315819,Hinkley Point A Power Station,5,0,5,0,2013-10-30,51.2070884705,-3.13164544106
+315820,Hobby Horse Ballroom and Bar,5,5,0,0,2014-03-12,51.20784,-3.472204
+315821,Holland and Barrett,5,0,0,0,2012-01-09,51.206124,-3.477131
+315822,Holnicote House,5,5,0,5,2013-05-21,51.2059211731,-3.5619995594
+315823,Holworthy Farm House,4,10,5,5,2014-07-18,51.0737533569,-3.45625257492
+315824,Homemade Cakes by Juliet,5,0,5,0,2014-02-20,51.202592,-3.492534
+315825,Horner Vale Tea Gardens,1,0,5,20,2014-06-26,51.1972923279,-3.57842493057
+315826,Howitts Cooked,5,0,5,0,2014-05-01,51.15265,-3.126172
+315827,Huish Champflower Village Hall,5,5,5,5,2014-06-14,51.054847,-3.36494
+315828,Iceland,5,0,5,0,2012-11-16,51.1616592407,-3.04113507271
+315829,Inglewood,4,5,5,10,2012-07-04,51.1308403015,-3.32613396645
+315830,Ingrams Meadow,5,5,0,0,2013-06-03,51.175473,-3.325111
+315831,J & J Wilson Supermarket,4,nan,nan,nan,2013-08-22,51.182048,-3.396838
+315832,John Ware Chemist,Exempt,nan,nan,nan,2012-11-12,51.197343,-3.467461
+315833,John Ware Ltd,Exempt,nan,nan,nan,2012-11-12,51.209089,-3.59512
+315834,Jubilee Cafe,5,0,5,0,2014-08-09,51.206994,-3.46804
+315835,K K Chinese Takeaway,3,10,10,10,2014-02-20,51.197656,-3.468315
+315836,Karslake House,5,0,0,0,2013-07-14,51.1020698547,-3.56419491768
+315837,Kebab Centre,5,5,5,5,2013-10-03,51.206782,-3.474131
+315838,Kenella House,5,0,0,0,2012-09-11,51.205585,-3.471387
+315839,Kildare Lodge Inn,5,5,5,0,2014-01-31,51.201894,-3.47595
+315840,Kilve Court Education Centre,5,0,0,0,2014-09-12,51.1791000366,-3.2198035717
+315841,Kilve Post Office & Stores,5,5,5,5,2014-12-14,51.179101,-3.219804
+315842,Kilve Village Hall,5,5,0,0,2013-12-11,51.179101,-3.219804
+315843,King Kebab House,5,0,5,5,2014-03-27,51.205973,-3.47913
+315844,Kitnors Tea Room and Garden,5,0,0,0,2014-06-15,51.2198753357,-3.57892537117
+315845,Knights Templar School,4,10,5,5,2014-03-21,51.176831,-3.321903
+315846,Langtry Country House,5,0,0,5,2013-02-14,51.1614532471,-3.35651540756
+315847,Lapsewood Restaurant,5,0,5,0,2014-04-27,51.209404,-3.597021
+315848,Liddymore Stores Ltd (Spar),5,0,5,5,2011-12-16,51.178268,-3.325291
+315849,Lion Hotel,3,10,10,10,2014-06-26,51.040233,-3.550871
+315850,Little Brendon Hill,5,0,0,0,2014-10-10,51.1362380981,-3.52311134338
+315851,Little Horseshoe Nursery,5,0,0,5,2014-03-14,51.166644,-3.319409
+315852,Little Vikings Nursery School,4,5,5,10,2012-11-26,51.176831,-3.321903
+315853,Lloyd Maunder Butchers,5,nan,nan,nan,2014-06-20,51.040233,-3.550871
+315854,Lloyds Pharmacy,Exempt,nan,nan,nan,2013-04-14,51.203021,-3.477847
+315855,Lloyds Pharmacy,Exempt,nan,nan,nan,2013-01-21,51.161384,-3.318501
+315856,Locks Tea Room,5,0,0,5,2014-08-01,51.184048,-3.443887
+315857,Lorna Doone,5,5,5,5,2014-09-22,51.20471,-3.471546
+315858,Lorna Doone Hotel,1,10,20,20,2014-05-23,51.209257,-3.595312
+315859,Lowtrow Cross Inn,5,5,0,0,2014-03-27,51.0541038513,-3.41224598885
+315860,Luttrell Arms Hotel,4,10,5,5,2013-07-04,51.184048,-3.443887
+315861,Lyn Valley,5,5,5,5,2012-10-31,51.205585,-3.471387
+315862,Lynch Country House,5,0,0,0,2013-02-15,51.2191505432,-3.57583618164
+315863,Lysaght Village Hall & Club,5,5,5,5,2012-01-31,51.1685218811,-3.37501692772
+315864,Mama Chins Ltd,3,10,10,5,2013-09-23,51.166217,-3.311773
+315865,Mamsey Nursing Home,5,5,0,5,2014-02-24,51.160259,-3.323374
+315866,Market House Cafe,4,10,5,5,2014-02-18,51.20606,-3.477945
+315867,Marsh Bridge Cottage,5,5,5,5,2013-03-02,51.047744751,-3.56551647186
+315868,Marston Lodge,5,5,5,5,2014-01-12,51.211098,-3.478478
+315869,Masonic Hall,5,0,5,5,2013-09-09,51.204819,-3.477232
+315870,Masonic Hall,4,0,10,10,2013-03-02,51.179988,-3.328245
+315871,McColls,5,0,0,0,2013-08-22,51.205512,-3.480003
+315872,Mcdonalds,5,5,0,0,2013-02-24,51.204114,-3.463883
+315873,Megatreats,5,5,0,0,2012-12-20,51.205994,-3.461723
+315874,Merlins Gifts,Exempt,nan,nan,nan,2013-06-14,51.206994,-3.46804
+315875,Methodist Church,Exempt,nan,nan,nan,2013-10-18,51.181304,-3.329499
+315876,Methodist Church,3,10,10,5,2013-05-17,51.206782,-3.474131
+315877,Micawbers,1,5,10,20,2014-03-14,51.20606,-3.477945
+315878,Mill Lane House,4,10,5,5,2012-10-29,51.1427955627,-3.64878773689
+315879,Millers at the Anchor,5,5,0,0,2014-05-09,51.218003,-3.626945
+315880,Minehead & District Social Club,5,5,5,5,2014-04-01,51.207913,-3.472836
+315881,Minehead & West Somerset Golf Club,5,nan,nan,nan,2014-06-10,51.208129,-3.455578
+315882,Minehead Bowling Club,5,5,5,5,2012-11-26,51.205127,-3.473463
+315883,Minehead Community Hospital,5,0,0,0,2014-05-21,51.198758,-3.462868
+315884,Minehead EYE,2,15,10,10,2013-10-24,51.204202,-3.468337
+315885,Minehead First School,5,5,0,0,2013-09-27,51.203021,-3.477847
+315886,Minehead Gifts,Exempt,nan,nan,nan,2012-10-18,51.207163,-3.471753
+315887,Minehead Middle School,4,10,5,5,2013-09-09,51.203164,-3.469349
+315888,Minehead Rugby Club,5,5,5,5,2012-02-20,51.1915550232,-3.45849013329
+315889,Minehead Service Station,5,5,5,5,2014-08-12,51.203514,-3.477963
+315890,Minehead Tennis Club,Exempt,nan,nan,nan,2014-09-21,51.203929,-3.475071
+315891,Monks Cleeve,5,0,0,0,2014-05-13,51.130362,-3.642171
+315892,Monkscider House,5,5,5,5,2012-11-09,51.1609191895,-3.35838747025
+315893,Moorland Sports Club,3,10,10,5,2013-11-29,51.135036,-3.540596
+315894,Morrisons,4,10,5,0,2013-12-05,51.204114,-3.463883
+315895,Mortimer's,4,10,5,5,2014-04-15,51.039724,-3.551296
+315896,Mrs Jackson's Tearooms,5,5,5,0,2014-06-25,51.209257,-3.595312
+315897,Mullion Restaurant,5,5,0,5,2014-04-16,51.206782,-3.474131
+315898,Munchies Cafe,5,0,0,0,2013-03-07,51.204202,-3.468337
+315899,Myrtle Cottage,5,0,0,0,2014-02-24,51.209089,-3.59512
+315900,New Place,4,5,5,10,2014-01-20,51.21408,-3.585843
+315901,North Wheddon Farm,5,5,5,5,2010-05-12,51.1350364685,-3.54059553146
+315902,Northfield House - Voyage Care,5,5,5,5,2014-12-19,51.156897,-3.312138
+315903,Nutcombe Chocolate House,4,0,5,10,2014-02-21,51.184048,-3.443887
+315904,Oggy Oggy Pasty Co,5,0,0,0,2014-06-12,51.205863,-3.476407
+315905,Old Cleeve First School,4,5,5,10,2013-11-25,51.1625022888,-3.36305332184
+315906,Old Harbour House Restaurant,5,0,0,0,2013-03-07,51.210624,-3.473996
+315907,Old Ship Aground Inn,5,0,5,5,2013-12-06,51.21283,-3.474425
+315908,Once Upon a Cupcake,5,0,0,0,2013-07-31,51.206782,-3.474131
+315909,One Stop Shop,5,5,0,0,2011-11-01,51.209404,-3.597021
+315910,Orchards Social Club,5,nan,nan,nan,2014-12-10,51.169255,-3.496836
+315911,Overstream Hotel,5,0,0,0,2014-05-01,51.207536,-3.596212
+315912,Paradise Catering,5,5,0,5,2014-06-03,51.203164,-3.469349
+315913,Park Avenue Food Court,1,0,5,20,2014-04-16,51.206782,-3.474131
+315914,Piggy In The Middle,5,0,0,0,2014-03-18,51.209257,-3.595312
+315915,Pips Fish,1,10,5,20,2013-07-11,51.206782,-3.474131
+315916,Pizza Hut,5,0,0,0,2012-11-09,51.205994,-3.461723
+315917,Pizza Time & Kebab House,5,5,5,5,2013-02-12,51.181354,-3.330631
+315918,Porlock Bowling Club,5,5,5,5,2012-10-11,51.207536,-3.596212
+315919,Post Office & Stores,5,5,5,5,2012-09-08,51.160984,-3.361321
+315920,Post Office and Stores,Exempt,nan,nan,nan,2011-12-14,51.182109,-3.330724
+315921,Poundland,5,0,0,0,2012-10-30,51.206286,-3.474216
+315922,Proper Cornish,5,5,0,0,2013-09-02,51.205994,-3.461723
+315923,Quantock Pharmacy,Exempt,nan,nan,nan,2012-03-05,51.181354,-3.330631
+315924,Quantock Service Station,5,5,5,5,2012-02-07,51.1556,-3.303507
+315925,Quayside Tearooms,5,5,0,0,2010-08-04,51.21283,-3.474425
+315926,Queens Head Hotel,5,0,0,0,2014-06-17,51.206409,-3.479502
+315927,Railway Station,Exempt,nan,nan,nan,2013-11-29,51.181955,-3.402329
+315928,Railway Station,5,5,5,5,2013-05-06,51.165139,-3.310069
+315929,Raleghs Cross Inn,4,10,5,0,2014-05-16,51.100798,-3.373492
+315930,Reds Kiosk,5,0,0,0,2014-02-21,51.205994,-3.461723
+315931,Reeves Restaurant,5,0,0,0,2014-08-01,51.184048,-3.443887
+315932,Reines House,5,5,5,5,2013-02-15,51.207536,-3.596212
+315933,Rest and Be Thankful Inn,5,5,5,5,2014-03-20,51.1386871338,-3.54063129425
+315934,Ritz Amusements,5,5,5,5,2013-11-03,51.182042,-3.329463
+315935,Riverside Tea Rooms,5,nan,nan,nan,2014-05-09,51.06923,-3.489024
+315936,Riverside Youth Club,Exempt,nan,nan,nan,2012-07-31,51.040464,-3.552433
+315937,RNLI Guild Shop,Exempt,nan,nan,nan,2014-04-26,51.214962,-3.477256
+315938,Roadwater Post Office & Stores,5,5,5,0,2012-01-20,51.1356048584,-3.38537311554
+315939,Rock House Inn,2,15,10,10,2014-11-11,51.040435,-3.546484
+315940,Rominos Pizza,5,5,5,5,2014-03-27,51.197656,-3.468315
+315941,Rose Bank Guest House,5,0,0,0,2014-01-17,51.20881,-3.597115
+315942,Royal Oak Exmoor,5,0,5,0,2014-05-13,51.1020698547,-3.56419491768
+315943,Royal Oak Inn,5,5,0,0,2014-05-01,51.209257,-3.595312
+315944,Royal Oak Inn,5,5,0,5,2013-09-27,51.1293144226,-3.45289802551
+315945,Royal Oak Inn,4,10,5,0,2013-11-22,51.1076164246,-3.64949226379
+315946,Sainsbury Community Hall,4,5,0,10,2013-11-01,51.207048,-3.49285
+315947,Salvation Army Hall,5,5,5,5,2013-03-16,51.17938,-3.331032
+315948,Scoop Italian Gelato Ice Cream,5,0,5,0,2014-10-06,51.205994,-3.461723
+315949,Seaview Takeaway,5,0,0,0,2014-04-07,51.203219,-3.477138
+315950,Sheppards Plaice,5,0,0,0,2013-08-22,51.197656,-3.468315
+315951,Ship Inn,2,15,15,10,2014-09-10,51.218003,-3.626945
+315952,Ship Inn,5,5,5,5,2013-10-03,51.209123,-3.598529
+315953,Silcombe Farm,5,5,5,5,2011-11-14,51.2167892456,-3.66259932518
+315954,Silvermead,4,5,5,10,2013-07-06,51.197108,-3.465392
+315955,Simonsbath House Hotel,3,10,10,5,2014-06-19,51.1397438049,-3.75481987
+315956,Sizzle 'n' Roast,5,0,0,0,2014-07-25,51.182615,-3.331225
+315957,Snack Bar Kiosk,5,0,5,0,2014-04-16,51.197518,-3.458507
+315958,Snailholt,5,5,5,5,2013-05-20,51.175915,-3.342291
+315959,Soho Coffee Co,5,5,5,0,2014-05-22,51.205994,-3.461723
+315960,Somerset Care Ltd,5,0,5,0,2014-02-11,51.210091,-3.477029
+315961,Somerset Country Markets Ltd,5,0,0,0,2012-10-12,,
+315962,Somerset Farmhouse (Approved),5,5,5,5,2014-03-25,51.162464,-3.321649
+315963,Spar,4,5,5,10,2014-09-30,51.16086,-3.321174
+315964,Spar - The Mall,5,5,5,5,2013-03-12,51.205994,-3.461723
+315965,Spar Convenience Store,5,0,0,0,2014-06-05,51.180845,-3.29831
+315966,Sparkhayes House,5,5,5,5,2013-07-12,51.210287,-3.594947
+315967,Spears Cross,5,0,5,5,2014-01-18,51.181628,-3.446916
+315968,St Audries Bay Holiday Club,5,5,5,5,2013-09-27,51.1798782349,-3.27178668976
+315969,St Audries Park,4,10,5,5,2013-11-26,51.1693115234,-3.27172493935
+315970,St Michaels First School,5,5,5,5,2014-02-08,51.206965,-3.481023
+315971,St Peters C Of E School,5,0,0,5,2013-11-28,51.166644,-3.319409
+315972,St Peters Church Rooms,5,5,5,5,2013-04-07,51.160259,-3.323374
+315973,Staff Canteen,5,5,5,0,2013-12-06,51.178661,-3.335789
+315974,Steps Farmhouse,5,5,5,5,2012-01-31,51.160823822,-3.3856139183
+315975,Stilegate,4,0,10,10,2014-06-08,51.1683273315,-3.27550244331
+315976,Stockleigh Lodge,5,5,5,5,2014-05-19,51.1330375671,-3.64894032478
+315977,Stogumber Cricket Ground,5,0,5,5,2013-11-01,51.125407,-3.286037
+315978,Stogumber Primary School,5,5,5,5,2012-04-02,51.1266174316,-3.29142975807
+315979,Stogumber Railway Station,Exempt,nan,nan,nan,2014-02-10,51.126276,-3.271543
+315980,Stogursey Post Office & Stores,5,5,5,5,2014-01-13,51.179842,-3.141923
+315981,Stogursey Primary School,5,5,5,5,2010-02-26,51.180536,-3.146389
+315982,Stogursey Youth Club,Exempt,nan,nan,nan,2012-11-12,51.180536,-3.146389
+315983,Stones Hotel (Restaurant & Bar),5,5,5,5,2014-02-10,51.206651,-3.472409
+315984,Streamcombe Farm,5,0,0,5,2013-03-07,51.0265655518,-3.57900547981
+315985,Stuart Lowen Quality Butchers,5,0,0,5,2013-10-15,51.201524,-3.465346
+315986,Styles Farmhouse Ltd,5,5,5,5,2014-03-20,51.146118,-3.409935
+315987,Sugar & Ice,5,5,5,5,2012-04-27,51.156818,-3.605927
+315988,Sugar Cafe Bar,1,5,5,20,2014-12-10,51.206782,-3.474131
+315989,Sun & Moon,4,10,5,5,2013-09-09,51.205994,-3.461723
+315990,Sundial Guest House,5,5,5,5,2014-08-04,51.1384124756,-3.5390355587
+315991,Sunfield B & B,5,5,5,0,2014-09-21,51.205814,-3.473156
+315992,Sunflowers Cafe,5,0,0,0,2013-09-23,51.20569,-3.477303
+315993,Sunnybank Caravan Park,4,0,10,5,2011-08-17,51.1776695251,-3.29989504814
+315994,Sunnyside,4,10,5,5,2012-10-28,51.164218,-3.322357
+315995,Superdrug,Exempt,nan,nan,nan,2011-11-10,51.156818,-3.605927
+315996,Swain House,5,0,0,0,2014-09-10,51.181254,-3.329984
+315997,Sweet And Tasty,5,0,0,0,2014-02-06,51.197656,-3.468315
+315998,Taj Mahal,4,5,5,10,2012-12-13,51.206782,-3.474131
+315999,Tarr Farm,3,10,10,10,2014-06-17,51.0758323669,-3.62016773224
+316000,Tesco,5,5,5,0,2013-06-13,51.202779,-3.46563
+316001,Tesco Petrol Station,5,0,0,0,2014-11-22,51.202779,-3.46563
+316002,The Â£preserver,Exempt,nan,nan,nan,2013-09-27,51.206782,-3.474131
+316003,The Avenue Creamery,4,5,0,10,2013-04-01,51.206782,-3.474131
+316004,The Babbling Brook,4,5,10,5,2013-10-04,51.192133,-3.143872
+316005,The Bank House,4,5,5,10,2012-05-04,51.181254,-3.329984
+316006,The Beach Hotel,1,15,15,20,2014-07-11,51.207002,-3.470244
+316007,The Beach Hut,Exempt,nan,nan,nan,2014-08-15,51.203219,-3.477138
+316008,The Bell Inn,5,0,5,0,2014-03-20,51.182615,-3.331225
+316009,The Bicknoller Inn,5,5,5,5,2013-10-03,51.145355,-3.274326
+316010,The Big Cheese,5,0,5,0,2014-06-26,51.209089,-3.59512
+316011,The Big Red Cow Mobile,4,0,10,5,2015-01-07,51.193376,-3.601891
+316012,The Britannia Inn,5,0,5,0,2014-01-31,51.194632,-3.466373
+316013,The Butchers Arms,4,5,5,10,2014-07-24,51.173437,-3.418951
+316014,The Cafe,5,5,0,0,2014-07-17,51.218003,-3.626945
+316015,The Candy Shop,Exempt,nan,nan,nan,2013-09-27,51.206994,-3.46804
+316016,The Card Bar,Exempt,nan,nan,nan,2013-01-21,51.204803,-3.475614
+316017,The Carew Arms,3,10,10,10,2013-06-14,51.1241111755,-3.23187208176
+316018,The Combe Mobile Kitchen,3,10,10,5,2014-09-10,51.196423,-3.462637
+316019,The Copse,4,0,5,10,2012-05-04,51.0204963684,-3.53575396538
+316020,The Cornish Pasty Company,5,5,5,0,2014-05-29,51.146118,-3.409935
+316021,The Cornish Pasty Company,5,0,0,0,2012-07-25,51.146118,-3.409935
+316022,The Culbone Stable Inn,3,10,10,10,2014-12-18,51.2112236023,-3.67536997795
+316023,The Dene Lodge,5,5,5,5,2014-02-13,51.19553,-3.463568
+316024,The Exmoor Beastro,1,0,0,20,2014-03-07,51.040281,-3.549289
+316025,The Exmoor Stores,5,5,0,5,2014-07-13,51.133502,-3.638208
+316026,The Fire House Grill,5,5,5,5,2013-09-09,51.205994,-3.461723
+316027,The Gascony Hotel,5,0,0,0,2014-04-01,51.207163,-3.471753
+316028,The George Inn,5,5,5,0,2013-08-08,51.0730781555,-3.49906826019
+316029,The Gift & Candy Shop,Exempt,nan,nan,nan,2014-07-15,51.209089,-3.59512
+316030,The Green,5,5,5,5,2012-11-30,51.182194,-3.335033
+316031,The Hairy Dog,3,5,10,10,2013-06-03,51.1616592407,-3.04113507271
+316032,The Home Cook Cafe,5,0,0,0,2014-04-17,51.209257,-3.595312
+316033,The Homebrewer,Exempt,nan,nan,nan,2012-04-27,51.204897,-3.478151
+316034,The Hood Arms,1,15,15,20,2014-06-19,51.179101,-3.219804
+316035,The Hope Centre,4,5,5,10,2012-11-26,51.1616592407,-3.04113507271
+316036,The Ivy House,5,5,5,5,2012-11-09,51.181612,-3.329308
+316037,The Jam Tart,5,0,0,0,2014-09-01,51.188394,-3.440789
+316038,The Kingsway,5,5,5,5,2014-01-12,51.20155,-3.470443
+316039,The Langbury Hotel,5,5,5,5,2014-08-30,51.180608,-3.402947
+316040,The Laurels,5,5,0,5,2013-09-27,51.209257,-3.595312
+316041,The Leonard Wills Field Centre,5,5,5,0,2014-07-18,51.131234,-3.349913
+316042,The Link,Exempt,nan,nan,nan,2014-08-23,51.180909,-3.331076
+316043,The Lion Inn,5,5,0,0,2013-03-07,51.1686553955,-3.49591517448
+316044,The London Inn,5,0,0,0,2014-12-16,51.182615,-3.331225
+316045,The Masons Arms,5,5,0,0,2014-12-15,51.164218,-3.322357
+316046,The Mayfair Residential Home,5,5,5,5,2013-09-09,51.206782,-3.474131
+316047,The Montrose Guest House,5,5,5,5,2012-12-07,51.20471,-3.471546
+316048,The Northfield Hotel,5,0,0,0,2014-11-01,51.209704,-3.474897
+316049,The Notley Arms Inn,2,10,15,5,2014-01-17,51.1291809082,-3.32590055466
+316050,The Oaks Hotel,5,0,0,0,2014-06-26,51.209753,-3.591922
+316051,The Olde Chapel,5,5,0,0,2014-04-17,51.209257,-3.595312
+316052,The Olde House,5,0,5,0,2014-03-12,51.184015,-3.444401
+316053,The Owls Restaurant,1,15,10,20,2014-01-13,51.206174,-3.476731
+316054,The Parks Guest House,5,5,5,5,2012-03-05,51.206067,-3.483743
+316055,The Phoenix Club,5,5,5,0,2014-04-29,51.182042,-3.329463
+316056,The Plough Inn,4,0,5,10,2013-10-04,51.163742,-3.207671
+316057,The Private Chef,5,5,5,5,2014-10-30,51.136251,-3.648011
+316058,The Promenade,5,5,0,0,2013-06-06,51.208808,-3.473179
+316059,The Quay Inn,2,10,15,10,2014-10-17,51.210624,-3.473996
+316060,The Railway Inn,1,15,15,20,2014-09-16,51.163442,-3.315499
+316061,The Railway Station,Exempt,nan,nan,nan,2014-10-27,51.206994,-3.46804
+316062,The Reading Room,5,0,0,0,2013-07-26,51.204897,-3.478151
+316063,The Seafront Kiosk,5,0,5,5,2013-06-09,51.205994,-3.461723
+316064,The Seahorse Centre,5,5,5,5,2012-02-09,51.200727,-3.464376
+316065,The Smugglers,4,5,5,10,2014-09-17,51.181049,-3.39087
+316066,The Spice Merchant,3,10,10,5,2014-12-11,51.182615,-3.331225
+316067,The Sportsman Inn,4,10,5,5,2012-10-02,51.0872154236,-3.72258782387
+316068,The Stags Head,5,5,0,5,2013-09-27,51.181628,-3.446916
+316069,The Star Inn,5,nan,nan,nan,2014-01-30,51.182275,-3.331859
+316070,The Strand Restaurant,5,0,0,0,2014-06-20,51.206994,-3.46804
+316071,The Tantivy,5,0,0,0,2014-06-12,51.040233,-3.550871
+316072,The Valiant Soldier,5,5,5,5,2014-07-02,51.1347732544,-3.38707780838
+316073,The Village Shop,5,5,5,5,2013-08-09,51.1076164246,-3.64949226379
+316074,The Villagers Stores,5,0,0,0,2013-08-02,51.1799468994,-3.52186226845
+316075,The Washford Inn,3,10,10,10,2013-09-23,51.161547,-3.36856
+316076,The Wheelhouse Restaurant,5,5,0,0,2013-08-22,51.206782,-3.474131
+316077,The White Horse Inn,5,0,5,0,2013-10-14,51.1281433105,-3.29055786133
+316078,The White Horse Inn,5,5,5,5,2014-09-29,51.1536941528,-3.36553907394
+316079,The Windmill Inn,5,0,0,0,2014-12-18,51.1693115234,-3.27172493935
+316080,Three Acres Country House,5,5,5,5,2012-06-18,51.0219230652,-3.53926610947
+316081,Tidings,5,5,5,5,2012-04-27,51.204219,-3.477728
+316082,Timberscombe First School,5,5,5,5,2013-09-20,51.1681747437,-3.49681520462
+316083,Tiny Hands Tiny Feet,5,0,0,0,2013-08-15,51.134773,-3.387078
+316084,Tongdam,5,nan,nan,nan,2014-06-20,51.040233,-3.550871
+316085,Torre Fruit Farm,5,0,5,0,2014-05-20,51.151464,-3.364873
+316086,Toucan Wholefoods,5,0,0,0,2013-02-14,51.20606,-3.477945
+316087,Town Mills,5,0,5,0,2014-03-07,51.039724,-3.551296
+316088,Townsend House,Exempt,nan,nan,nan,2013-05-13,51.203021,-3.477847
+316089,Traditional Candy Shop,4,10,5,5,2012-03-15,51.184048,-3.443887
+316090,Tranmere House,5,5,5,5,2012-06-11,51.20471,-3.471546
+316091,Tregonwell House,5,0,5,0,2014-07-25,51.205585,-3.471387
+316092,Tropiquaria,2,15,0,5,2014-03-26,51.159992218,-3.34834957123
+316093,Tudor Cottage,5,5,0,5,2014-06-13,51.2198753357,-3.57892537117
+316094,Turntable Cafe,5,nan,nan,nan,2014-11-20,51.206994,-3.46804
+316095,Under The Rainbow,5,0,5,5,2012-06-03,51.204897,-3.478151
+316096,United Reform Church Hall,5,5,5,5,2011-09-21,51.204819,-3.477232
+316097,Village Hall,4,10,5,5,2012-01-09,51.1356048584,-3.38537311554
+316098,Village Hall,4,10,5,5,2010-10-15,51.153554,-3.303907
+316099,Village Hall,4,10,10,0,2012-02-06,51.1681747437,-3.49681520462
+316100,Village Hall,5,5,5,5,2013-04-22,51.1692237854,-3.5285179615
+316101,Voyage Ltd - Woodside,4,5,0,10,2013-10-29,51.206722,-3.49586
+316102,W H Smith,Exempt,nan,nan,nan,2013-11-19,51.20569,-3.477303
+316103,Warren Bay Caravan Park,5,5,5,5,2012-04-27,51.178234,-3.350255
+316104,Washford Railway Station,Exempt,nan,nan,nan,2012-10-29,,
+316105,Watchet Bowling Club,4,5,10,5,2013-11-01,51.179003,-3.322251
+316106,Watchet Football Club,5,5,5,5,2013-05-22,51.179917,-3.327284
+316107,Watchet Railway Station,Exempt,nan,nan,nan,2013-09-21,51.179988,-3.328245
+316108,Waverley B & B,5,5,5,5,2014-10-11,51.205585,-3.471387
+316109,West Coast Tackle,Exempt,nan,nan,nan,2013-01-14,51.1616592407,-3.04113507271
+316110,West Somerset Community College,5,5,5,5,2014-11-13,51.196423,-3.462637
+316111,West Somerset Garden Centre,5,5,0,5,2014-01-28,51.204202,-3.468337
+316112,West Somerset Hotel,5,5,5,0,2014-03-12,51.181354,-3.330631
+316113,West Somerset Nursery Group,5,5,0,5,2014-11-04,51.201806,-3.475103
+316114,West Somerset Sports & Leisure Centre,Exempt,nan,nan,nan,2014-08-09,51.196423,-3.462637
+316115,Westerley,5,0,0,0,2013-07-31,51.201998,-3.474866
+316116,Westermill Farm,4,5,10,0,2011-08-12,51.145436,-3.680664
+316117,Wheelhouse Snack Bar,5,0,0,0,2014-06-12,51.206782,-3.474131
+316118,Whortleberry Tea Room,5,0,0,5,2014-09-01,51.20881,-3.597115
+316119,Wick House,5,0,5,0,2012-07-11,51.127278,-3.291763
+316120,Williton Community Hospital,5,0,0,5,2014-01-23,51.164218,-3.322357
+316121,Williton Social Club,4,10,5,5,2011-06-06,51.162231,-3.319998
+316122,Wimbleball Lake Sailing Club,4,5,10,5,2011-07-28,51.0658378601,-3.47843956947
+316123,Wimbleball Lake Tearooms,5,0,0,0,2014-05-09,51.0658378601,-3.47843956947
+316124,Winsbere Guesthouse,4,10,10,0,2014-06-13,51.034025,-3.547725
+316125,Winsford Stores,5,5,0,0,2014-03-20,51.1616592407,-3.04113507271
+316126,Winsor Nursing Home,5,0,0,5,2014-09-29,51.206692,-3.471251
+316127,Withypool Tea Rooms,5,5,0,0,2014-06-17,51.1076164246,-3.64949226379
+316128,Wood Advent Farm,4,10,5,5,2014-02-08,51.1275100708,-3.37860012054
+316129,Woods,5,5,5,5,2014-11-11,51.04057,-3.549926
+316130,Wyndham Arms,4,5,10,5,2014-12-11,51.159438,-3.319618
+316131,Yarn Market Hotel,5,0,0,0,2014-03-31,51.184015,-3.444401
+316132,Yenworthy Lodge,5,0,0,5,2013-05-20,51.22423172,-3.71720218658
+316133,Youth Centre,Exempt,nan,nan,nan,2013-06-15,51.180259,-3.324905
+316134,Youth Hostel,4,10,5,0,2013-06-07,51.132656,-3.640866
+316135,Youth Hostel,4,10,5,0,2014-05-21,51.187838,-3.470994

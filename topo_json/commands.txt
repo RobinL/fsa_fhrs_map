@@ -1,0 +1,13 @@
+
+ogr2ogr -t_srs WGS84  -f GeoJSON   fixed.geojson   district_borough_unitary_region.shp
+
+topojson -o fixed.topojson fixed.geojson --simplify-proportion 0.04 -p
+
+http://stackoverflow.com/questions/13455842/where-to-find-the-uks-regions-map-on-geojson-format
+don't forget to convert from Northing/Easting to Lat/Long if you want to work with Leaflet, Google Maps, etc
+http://www.mapshaper.org/
+
+
+Northern ireland:
+
+http://spatial-ni.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=1ee2d8da66d04cd0a50be2b1ec145552&webmap=73b40c47dea74e8d9b7369254568f9b2#

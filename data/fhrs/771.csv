@@ -1,552 +1,552 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-423371,Allan Glens Sports Club,212 Kirkintilloch Road,,,A Kennedy,Restaurant/Cafe/Canteen,1,,,667742,,,55.90925200000000,PI/000057370,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22231300000000,G64 2NE,2013-08-06,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423372,15 New Kirk Road,Bearsden,,,A La Carte Delicatessen,Retailers - other,4613,,,552689,,,55.92025300000000,PI/000044957,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33304300000000,G61 3SJ,2014-04-07,fhis_pass_en-GB,Pass,,FHIS,
-423373,53 Lomond Drive,Bishopbriggs,,,A.A Mini Market,Retailers - other,4613,,,667667,,,55.91259800000000,PI/000001749,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22760900000000,G64 3BY,2014-08-18,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423374,3 Garngaber Avenue,Lenzie,,,Abbeyfield (Scotland) Ltd,Hospitals/Childcare/Caring Premises,5,,,583654,,,55.92259500000000,PI/000020129,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15116300000000,G66 4LJ,2013-11-12,fhis_pass_en-GB,Pass,,FHIS,
-423375,16 Grange Road,Bearsden,,,Abbeyfield Bearsden Society,Hospitals/Childcare/Caring Premises,5,,,552682,,,55.92087700000000,PI/000041921,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32666200000000,G61 3PL,2014-05-07,fhis_pass_en-GB,Pass,,FHIS,
-423376,41 Drymen Road,Bearsden,,,Abbotsford House,Hospitals/Childcare/Caring Premises,5,,,552680,,,55.91220700000000,PI/000041830,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32699100000000,G61 2RL,2014-05-20,fhis_pass_en-GB,Pass,,FHIS,
-423377,76A Drymen Road,Bearsden,,,ABR Quality Foods,Retailers - other,4613,,,552755,,,55.91696200000000,PI/000060909,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33076400000000,G61 2RH,2014-09-22,fhis_pass_en-GB,Pass,,FHIS,
-423378,Beatson Ins. for Cancer Research,Garscube Estate,,,Albacore,Restaurant/Cafe/Canteen,1,,,552675,,,55.90602100000000,PI/000039682,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32186800000000,G61 1BD,2014-08-21,fhis_pass_en-GB,Pass,,FHIS,
-423379,212 Kirkintilloch Road,Bishopbriggs,,,Allan Glen's Sports Club,Pub/bar/nightclub,7843,,,667739,,,55.90925200000000,PI/000056133,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22231300000000,G64 2NE,2013-08-06,fhis_pass_en-GB,Pass,,FHIS,
-423380,Claremont Drive,Milngavie,,,Allander Evangelical Church,School/college/university,7845,,,727301,,,,PI/00056513,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,,G62,2014-08-13,fhis_pass_en-GB,Pass,,FHIS,
-423381,18 Main Street,Lennoxtown,,,AM News,Retailers - other,4613,,,583595,,,55.97476600000000,PI/000008433,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20244600000000,G66 7HA,2014-11-19,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423382,1 Glasgow Road,Milngavie,,,Andiamo,Restaurant/Cafe/Canteen,1,,,635186,,,55.94325700000000,PI/000056996,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31421600000000,G62 8AQ,2014-10-31,fhis_pass_en-GB,Pass,,FHIS,
-423383,Milngavie Golf Club,Laighpark,,,Anne Park Catering,Restaurant/Cafe/Canteen,1,,,635145,,,55.95656400000000,PI/000047372,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33204000000000,G62 8EP,2014-01-09,fhis_pass_en-GB,Pass,,FHIS,
-423384,32 Townhead,Kirkintilloch,,,Antonine,Restaurant/Cafe/Canteen,1,,,583729,,,55.93761800000000,PI/000060501,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15444600000000,G66 1NL,2013-06-18,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423385,16 Roman Road,Bearsden,,,Antonine House,Hospitals/Childcare/Caring Premises,5,,,595043,,,55.91932900000000,PI/000060415,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32581700000000,G61 2SL,2014-10-24,fhis_pass_en-GB,Pass,,FHIS,
-423386,1 Old Duntiblae Road,Kirkintilloch,,,Archies Newsagents,Retailers - other,4613,,,583736,,,55.93242800000000,PI/000060705,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.12830200000000,G66 3JQ,2015-02-13,fhis_pass_en-GB,Pass,,FHIS,
-423387,80 Milngavie Road,Bearsden,,,Asda Stores Ltd,Retailers - supermarkets/hypermarkets,7840,,,552719,,,55.91761500000000,PI/000052831,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31947300000000,G61 2TX,2013-04-22,fhis_pass_en-GB,Pass,,FHIS,
-423388,9 Kirk Road,Bearsden,,,Ashoka Bearsden,Restaurant/Cafe/Canteen,1,,,552683,,,55.92063400000000,PI/000042006,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33284200000000,G61 3RG,2014-07-15,fhis_pass_en-GB,Pass,,FHIS,
-423389,93-99 Cowgate,Kirkintilloch,,,Ashoka Regent Brasserie,Restaurant/Cafe/Canteen,1,,,617804,,,55.93964100000000,PI/000014634,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15640000000000,G66 1JD,2014-12-16,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423390,72 Drymen Road,Bearsden,,,Athleat UK Ltd,Retailers - supermarkets/hypermarkets,7840,,,635217,,,55.91696200000000,PI/000061596,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33076400000000,G61 2RH,2014-02-07,fhis_pass_en-GB,Pass,,FHIS,
-423391,Langbank Holdings,9 Dowan Road,,,Auchenhowe Cottage Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,,,635141,,,55.93434400000000,PI/000046831,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.28811400000000,G62 6EL,2011-09-16,fhis_pass_en-GB,Pass,,FHIS,
-423392,Auchinairn Community Education Centre,Auchinairn Road,,,Auchinairn After-School Care Limited,Hospitals/Childcare/Caring Premises,5,,,667732,,,55.89785200000000,PI/000054526,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21153600000000,G64 1NG,2013-10-07,fhis_pass_en-GB,Pass,,FHIS,
-423393,95 Auchinairn Road,Bishopbriggs,,,Auchinairn Bowling Club,Pub/bar/nightclub,7843,,,727300,,,55.89800500000000,PI/00054534,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21603900000000,G64 1NF,2014-11-20,fhis_pass_en-GB,Pass,,FHIS,
-423394,6 Beech Road,Bishopbriggs,,,Auchinairn Primary School,School/college/university,7845,,,667755,,,55.89822000000000,PI/000059214,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21355600000000,G64 1NE,2014-09-04,fhis_pass_en-GB,Pass,,FHIS,
-423395,108 Drymen Road,Bearsden,,,Aulds Bakers,Restaurant/Cafe/Canteen,1,,,552686,,,55.91982700000000,PI/000044189,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33368900000000,G61 3RA,2014-03-25,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423396,Unit 10,The Triangle Shopping Centre,,,Aulds Bakers,Retailers - supermarkets/hypermarkets,7840,,,667659,,,55.90479600000000,PI/000000354,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22420200000000,G64 2TR,2014-06-11,fhis_pass_en-GB,Pass,,FHIS,
-423397,B&Q Cafe,Strathkelvin Retail Park,,,Autograph the Food People,Restaurant/Cafe/Canteen,1,,,667766,,,55.92089700000000,PI/000060432,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20798300000000,G64 2TS,2013-09-17,fhis_pass_en-GB,Pass,,FHIS,
-423398,Allander Sports Complex,Milngavie Road,,,Avenance,Restaurant/Cafe/Canteen,1,,,617806,,,55.93151700000000,PI/000061484,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31095400000000,G61 3DF,2013-01-22,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423399,123 Westerhill Road,Bishopbriggs,,,Aviva,Restaurant/Cafe/Canteen,1,,,667734,,,55.91456000000000,PI/000054785,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19946100000000,G64 2QR,2013-09-11,fhis_pass_en-GB,Pass,,FHIS,
-423400,7 Hazel Bank,Milton Of Campsie,,,Back On Track Repairs,Mobile caterer,7846,,,711662,,,55.95675000000000,14/00060,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16579400000000,G66 8JG,2014-10-09,fhis_pass_en-GB,Pass,,FHIS,
-423401,113 Cowgate,Kirkintilloch,,,Baguette Express,Takeaway/sandwich shop,7844,,,583714,,,55.93964100000000,PI/000056980,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15640000000000,G66 1JD,2013-10-07,fhis_pass_en-GB,Pass,,FHIS,
-423402,Glenorchard Road,Balmore,,,Baldernock Church Hall,School/college/university,7845,,,667720,,,55.93589400000000,PI/000036009,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.24045900000000,G64 4AJ,2014-11-04,fhis_pass_en-GB,Pass,,FHIS,
-423403,Baldernock,Milngavie,,,Baldernock Playgroup,Hospitals/Childcare/Caring Premises,5,,,667698,,,55.94424200000000,PI/000011257,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.26312200000000,G64 4AS,2014-11-19,fhis_pass_en-GB,Pass,,FHIS,
-423404,Balmore,GLASGOW,,,Baldernock Primary School,School/college/university,7845,,,667737,,,55.94424200000000,PI/000055775,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.26312200000000,G64 4AS,2014-03-05,fhis_pass_en-GB,Pass,,FHIS,
-423405,Grounds Of Baljaffray School,Grampian Way,,,Baljaffray Nursery Class,Hospitals/Childcare/Caring Premises,5,,,552714,,,55.92923400000000,PI/000049944,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35088900000000,G61 4RA,2014-09-24,fhis_pass_en-GB,Pass,,FHIS,
-423406,Grampian Way,Bearsden,,,Baljaffray Parish Church,Restaurant/Cafe/Canteen,1,,,552676,,,55.93253400000000,PI/000040621,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2009-01-21,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423407,Grampian Way,Bearsden,,,Baljaffray Primary School,School/college/university,7845,,,552669,,,55.92923400000000,PI/000039159,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35088900000000,G61 4RA,2014-11-25,fhis_pass_en-GB,Pass,,FHIS,
-423408,Golf Course Road,Balmore,,,Balmore Golf Club,Restaurant/Cafe/Canteen,1,,,667744,,,,PI/000058073,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,,G64 4AP,2014-11-06,fhis_pass_en-GB,Pass,,FHIS,
-423409,Stirling Drive,Bishopbriggs,,,Balmuildy Primary School,School/college/university,7845,,,667665,,,55.91257900000000,PI/000001746,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23114500000000,G64 3AJ,2014-05-06,fhis_pass_en-GB,Pass,,FHIS,
-423410,1 Cowgate,Kirkintilloch,,,Bar Bliss,Pub/bar/nightclub,7843,,,583685,,,55.94062200000000,PI/000030014,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15789500000000,G66 1HW,2014-05-20,fhis_pass_en-GB,Pass,,FHIS,
-423411,Clyde Cruising Club,Bardowie,,,Bardowie  Diner,Restaurant/Cafe/Canteen,1,,,681218,,,55.93442300000000,PI/000051455,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.26826500000000,G62 6EX,2014-06-26,fhis_pass_en-GB,Pass,,FHIS,
-423412,20 Main Street,Milngavie,,,Baxter's Newsagents,Retailers - other,4613,,,635198,,,55.94056100000000,PI/000058897,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31847500000000,G62 6BL,2013-11-11,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423413,3 Rannoch Drive,Bearsden,,,Bay Leaf,Takeaway/sandwich shop,7844,,,730646,,,55.90763200000000,PI/14/00052/Mixed,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31455600000000,G61 2JW,2014-12-16,fhis_pass_en-GB,Pass,,FHIS,
-423414,East Dunbartonshire Council,Stockiemuir Road,,,Bearsden Academy,School/college/university,7845,,,552740,,,55.92755600000000,PI/000060139,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34742500000000,G61 3SF,2014-10-27,fhis_pass_en-GB,Pass,,FHIS,
-423415,14 Roman Road,Bearsden,,,Bearsden Baptist Church,Restaurant/Cafe/Canteen,1,,,552679,,,55.91932900000000,PI/000041452,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32581700000000,G61 2SL,2014-09-16,fhis_pass_en-GB,Pass,,FHIS,
-423416,Station Road,Bearsden,,,Bearsden Bowling Club,Pub/bar/nightclub,7843,,,552688,,,55.91524300000000,PI/000044775,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33653500000000,G61 4AW,2012-11-13,fhis_pass_en-GB,Pass,,FHIS,
-423417,Asda,80 Milngavie Road,,,Bearsden Cafe,Restaurant/Cafe/Canteen,1,,,552731,,,55.91761500000000,PI/000054787,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31947300000000,G61 2TX,2013-11-21,fhis_pass_en-GB,Pass,,FHIS,
-423418,61 Drymen Road,Bearsden,,,Bearsden Cross Church,School/college/university,7845,,,552661,,,55.91824400000000,PI/000036003,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33327400000000,G61 2SU,2014-02-05,fhis_pass_en-GB,Pass,,FHIS,
-423419,Thorn Road,Bearsden,,,Bearsden Golf Club,Pub/bar/nightclub,7843,,,552674,,,55.91964200000000,PI/000039554,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34814700000000,G61 4BP,2014-08-22,fhis_pass_en-GB,Pass,,FHIS,
-423420,1st Bearsdeb BB Hall,New Kirk Road,,,Bearsden Primary After School Club,Hospitals/Childcare/Caring Premises,5,,,727296,,,,14/00079,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,,G61 1RJ,2014-11-20,fhis_pass_en-GB,Pass,,FHIS,
-423421,Bearsden Primary School,2 Roman Road,,,Bearsden Primary After School Club,Hospitals/Childcare/Caring Premises,5,,,552733,,,55.91811200000000,PI/000055180,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33169800000000,G61 2SY,2013-09-25,fhis_pass_en-GB,Pass,,FHIS,
-423422,2 Roman Road,Bearsden,,,Bearsden Primary School,School/college/university,7845,,,552684,,,55.91811200000000,PI/000043666,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33169800000000,G61 2SY,2014-11-18,fhis_pass_en-GB,Pass,,FHIS,
-423423,The Mound,Stockiemuir Road,,,Bearsden Ski Club,Pub/bar/nightclub,7843,,,552655,,,55.92806600000000,PI/000033729,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34138900000000,G61 3RS,2014-04-29,fhis_pass_en-GB,Pass,,FHIS,
-423424,61 Drymen Road,Bearsden,,,Bearsden South Church Nursery,Hospitals/Childcare/Caring Premises,5,,,552652,,,55.91824400000000,PI/000013069,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33327400000000,G61 2SU,2014-11-10,fhis_pass_en-GB,Pass,,FHIS,
-423425,Gartshore Road,Kirkintilloch,,,Bedlam Paintball,Restaurant/Cafe/Canteen,1,,,583694,,,55.92833100000000,PI/000046900,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08144600000000,G66 5LW,2013-07-18,fhis_pass_en-GB,Pass,,FHIS,
-423426,West View,1 Dougalston Gardens South,,,Best Foot Forward,Restaurant/Cafe/Canteen,1,,,635188,,,55.93813200000000,PI/000057468,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.30857800000000,G62 6HS,2014-04-08,fhis_pass_en-GB,Pass,,FHIS,
-423427,The High School of Glasgow Jnr School,27 Ledcameroch Road,,,Beta Catering,School/college/university,7845,,,552660,,,55.91726800000000,PI/000034909,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34065800000000,G61 4AE,2013-11-20,fhis_pass_en-GB,Pass,,FHIS,
-423428,80A Main Street,Lennoxtown,,,Bhaji's,Takeaway/sandwich shop,7844,,,583707,,,55.97320600000000,PI/000054143,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19974400000000,G66 7DA,2013-07-22,fhis_pass_en-GB,Pass,,FHIS,
-423429,Whitehill Court,Kirkintilloch,,,Bield Housing Day Care Centre,Hospitals/Childcare/Caring Premises,5,,,583640,,,55.94411900000000,PI/000018082,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13615000000000,G66 2HR,2014-09-11,fhis_pass_en-GB,Pass,,FHIS,
-423430,1 Whitehill Court,Kirkintilloch,,,Bield Sheltered Housing,Hospitals/Childcare/Caring Premises,5,,,583691,,,55.94411900000000,PI/000046472,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13615000000000,G66 2HR,2014-08-22,fhis_pass_en-GB,Pass,,FHIS,
-423431,Lammermoor Gardens,Kirkintilloch,,,Bield Sheltered Housing,Hospitals/Childcare/Caring Premises,5,,,583642,,,55.93665200000000,PI/000018443,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13609100000000,G66 2AD,2014-05-29,fhis_pass_en-GB,Pass,,FHIS,
-423432,114 Kirkintilloch Road,Lenzie,,,Billingtons,Retailers - other,4613,,,583744,,,55.92196300000000,PI/000061092,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15440900000000,G66 4LQ,2014-12-05,fhis_pass_en-GB,Pass,,FHIS,
-423433,Birdston Road,Milton Of Campsie,,,Birdston Nursing Home,Hospitals/Childcare/Caring Premises,5,,,583636,,,55.95582900000000,PI/000017498,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15781300000000,G66 8BY,2014-10-17,fhis_pass_en-GB,Pass,,FHIS,
-423434,Wester Cleddens Road,Bishopbriggs,,,Bishopbriggs Academy,School/college/university,7845,,,667730,,,55.90886200000000,PI/000054014,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20403500000000,G64 1HZ,2013-11-12,fhis_pass_en-GB,Pass,,FHIS,
-423435,Kenmure Avenue,Bishopbriggs,,,Bishopbriggs Bowling Club,Pub/bar/nightclub,7843,,,667738,,,55.90490000000000,PI/000056131,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22640000000000,G64 2RG,2014-04-16,fhis_pass_en-GB,Pass,,FHIS,
-423436,South Crosshill Road,Bishopbriggs,,,Bishopbriggs Childcare,Hospitals/Childcare/Caring Premises,5,,,667751,,,,PI/000058612,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,,G64 2NZ,2014-11-27,fhis_pass_en-GB,Pass,,FHIS,
-423437,13 Auchinairn Rd,Bishopbriggs,,,Bishopbriggs Free Church,School/college/university,7845,,,667712,,,55.89656100000000,PI/000030077,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22683400000000,G64 1RY,2014-05-19,fhis_pass_en-GB,Pass,,FHIS,
-423438,Brackenbrae Road,Bishopbriggs,,,Bishopbriggs Golf Club,Restaurant/Cafe/Canteen,1,,,667686,,,55.90864400000000,PI/000005951,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23107900000000,G64 2DX,2014-09-18,fhis_pass_en-GB,Pass,,FHIS,
-423439,6 Beech Road,Bishopbriggs,,,Bishopbriggs Nursery Class,Hospitals/Childcare/Caring Premises,5,,,667725,,,55.89822000000000,PI/000049998,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21355600000000,G64 1NE,2014-05-14,fhis_pass_en-GB,Pass,,FHIS,
-423440,Meadowburn Primary School,Bishopbriggs,,,Bishopbriggs Out Of School Care,Hospitals/Childcare/Caring Premises,5,,,667692,,,55.91648900000000,PI/000008109,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21971900000000,G64 3LL,2014-06-02,fhis_pass_en-GB,Pass,,FHIS,
-423441,Wester Cleddens Primary,Wester Cleddens Road,,,Bishopbriggs Out of School Care,Restaurant/Cafe/Canteen,1,,,693291,,,55.90807100000000,14/00032,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21851800000000,G64 2NQ,2014-08-20,fhis_pass_en-GB,Pass,,FHIS,
-423442,Woodhill Primary School,Kirriemuir Road,,,Bishopbriggs Out Of School Care,Hospitals/Childcare/Caring Premises,5,,,667661,,,55.90757900000000,PI/000000381,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20487400000000,G64 1DL,2014-08-18,fhis_pass_en-GB,Pass,,FHIS,
-423443,Cadder South Halls,Bishopbriggs,,,Bishopbrigs Village Nursery,Hospitals/Childcare/Caring Premises,5,,,667733,,,55.90516400000000,PI/000054780,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22475100000000,G64 2LS,2014-05-20,fhis_pass_en-GB,Pass,,FHIS,
-423444,Anand Bhavan Partnership House,24 Union Street,,,Bme Day Care,Hospitals/Childcare/Caring Premises,5,,,583716,,,55.93926200000000,PI/000057014,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16110200000000,G66 1DH,2014-08-28,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423445,Inveroran Drive,Bearsden,,,Boclair Academy,School/college/university,7845,,,552712,,,55.91489700000000,PI/000049047,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.30628400000000,G61 2PL,2014-11-03,fhis_pass_en-GB,Pass,,FHIS,
-423446,Unit 1b,Strathkelvin Retail Park,,,Boots the Chemist,Retailers - other,4613,,,667764,,,55.92089700000000,PI/000060346,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20798300000000,G64 2TS,2014-02-18,fhis_pass_en-GB,Pass,,FHIS,
-423447,Stockiemuir Road,Bearsden,,,BP Bearsden Connect,Retailers - supermarkets/hypermarkets,7840,,,552656,,,55.92799400000000,PI/000033730,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34141600000000,G61 3SE,2013-12-10,fhis_pass_en-GB,Pass,,FHIS,
-423448,3 Maryhill Road,Bearsden,,,BP Canniesburn SF Connect,Retailers - supermarkets/hypermarkets,7840,,,552651,,,55.91035300000000,PI/000002091,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32236700000000,G61 1QP,2014-08-22,fhis_pass_en-GB,Pass,,FHIS,
-423449,19 New Kirk Road,Bearsden,,,Brasserie 19,Restaurant/Cafe/Canteen,1,,,552726,,,55.92025300000000,PI/000054170,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33304300000000,G61 3SJ,2014-05-28,fhis_pass_en-GB,Pass,,FHIS,
-423450,Broomhill Depot,Broomhill Industrial Estate,,,Broomhill Bistro,Restaurant/Cafe/Canteen,1,,,583701,,,55.94706500000000,PI/000051563,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14041200000000,G66 1TF,2014-10-31,fhis_pass_en-GB,Pass,,FHIS,
-423451,5 Grampian Way,Bearsden,,,Buchanan House Nursing Home,Hospitals/Childcare/Caring Premises,5,,,552695,,,55.92923600000000,PI/000046908,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34839100000000,G61 4SP,2014-03-31,fhis_pass_en-GB,Pass,,FHIS,
-423452,1 Grampian Way,Bearsden,,,Buchanan Lodge Nursing Home,Hospitals/Childcare/Caring Premises,5,,,552663,,,55.92923600000000,PI/000037712,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34839100000000,G61 4SP,2015-01-07,fhis_pass_en-GB,Pass,,FHIS,
-423453,3 Grampian Way,Bearsden,,,Buchanan Nursery,Hospitals/Childcare/Caring Premises,5,,,552664,,,55.92923600000000,PI/000037713,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34839100000000,G61 4SP,2013-01-08,fhis_pass_en-GB,Pass,,FHIS,
-423454,27 Mugdock Road,Milngavie,,,Bullands Coffee House,Restaurant/Cafe/Canteen,1,,,635205,,,55.94216800000000,PI/000060368,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31762600000000,G62 8PD,2014-10-28,fhis_pass_en-GB,Pass,,FHIS,
-423455,Strathkelvin Retail Park,Bishopbriggs,,,Burger King (Uk) Ltd,Restaurant/Cafe/Canteen,1,,,667684,,,55.92089700000000,PI/000005792,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20798300000000,G64 2TS,2013-09-11,fhis_pass_en-GB,Pass,,FHIS,
-423456,2,Burnbank,,,Burnbank Day Care Lunch Club,Restaurant/Cafe/Canteen,1,,,635201,,,55.94458200000000,PI/000059798,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31829900000000,G62 8NU,2014-02-20,fhis_pass_en-GB,Pass,,FHIS,
-423457,279 Milngavie Road,Bearsden,,,Burnbrae Chef & Brewer,Restaurant/Cafe/Canteen,1,,,552729,,,55.92129700000000,PI/000054520,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31870000000000,G61 3EA,2014-11-17,fhis_pass_en-GB,Pass,,FHIS,
-423458,6 Kenilworth Crescent,Bearsden,,,Burto's,Takeaway/sandwich shop,7844,,,552744,,,55.92486700000000,PI/000060337,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35081600000000,G61 4HU,2014-06-04,fhis_pass_en-GB,Pass,,FHIS,
-423459,55 St Mary's Rd,Bishopbriggs,,,Buttercups House,Hospitals/Childcare/Caring Premises,5,,,701270,,,55.90680700000000,14/00041,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23770900000000,G64 2EH,2014-09-16,fhis_pass_en-GB,Pass,,FHIS,
-423460,151-153 Milngavie Road,Bearsden,,,Butterfly Bakery and Cafe,Restaurant/Cafe/Canteen,1,,,552760,,,55.92123100000000,PI/000061002,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31980100000000,G61 3DY,2013-04-22,fhis_pass_en-GB,Pass,,FHIS,
-423461,5 St. Mungo Street,Bishopbriggs,,,Cadder Freestone Social Club,Pub/bar/nightclub,7843,,,667713,,,55.90215400000000,PI/000030081,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22717000000000,G64 1QT,2014-04-10,fhis_pass_en-GB,Pass,,FHIS,
-423462,Bearsden Golf Club,Thorn Road,,,Caddyshack,Restaurant/Cafe/Canteen,1,,,665972,,,55.91960400000000,PI/000061706,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34777700000000,G61 4BP,2014-05-06,fhis_pass_en-GB,Pass,,FHIS,
-423463,19 Main Street,Milngavie,,,Cafe Alba,Restaurant/Cafe/Canteen,1,,,635187,,,55.94048400000000,PI/000057407,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31779700000000,G62 6BJ,2013-12-04,fhis_pass_en-GB,Pass,,FHIS,
-423464,14 New Kirk Road,Bearsden,,,Cafe Creme,Restaurant/Cafe/Canteen,1,,,552756,,,55.91989700000000,PI/000060911,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33331000000000,G61 3SL,2013-10-16,fhis_pass_en-GB,Pass,,FHIS,
-423465,Cross Court,Bishopbriggs,,,CafÃ© CrÃ¨me,Restaurant/Cafe/Canteen,1,,,667782,,,55.90434500000000,PI/000061248,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22579200000000,G64 2RD,2014-06-11,fhis_pass_en-GB,Pass,,FHIS,
-423466,The Leisuredrome,147 Balmuildy Road,,,Cafe Max,Restaurant/Cafe/Canteen,1,,,667672,,,55.91643100000000,PI/000003219,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23434300000000,G64 3HD,2014-05-08,fhis_pass_en-GB,Pass,,FHIS,
-423467,Milngavie Railway Station,Station Road,,,Cafe Prego,Takeaway/sandwich shop,7844,,,635208,,,55.94215300000000,PI/000060475,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31650400000000,G62 8PG,2014-11-14,fhis_pass_en-GB,Pass,,FHIS,
-423468,Milngavie Bookshop,35-37 Douglas Street,,,Cafe Review,Restaurant/Cafe/Canteen,1,,,635211,,,55.94065700000000,PI/000060584,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31912100000000,G62 6PE,2014-02-04,fhis_pass_en-GB,Pass,,FHIS,
-423469,2 Springfield Road,Bishopbriggs,,,Cafe Torino,Restaurant/Cafe/Canteen,1,,,667786,,,55.90453400000000,PI/000061479,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22428300000000,G64 1PD,2014-03-05,fhis_pass_en-GB,Pass,,FHIS,
-423470,53 Main Street,Torrance,,,Cafe Torra,Restaurant/Cafe/Canteen,1,,,667774,,,55.93905800000000,PI/000060811,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21161100000000,G64 4EX,2014-08-11,fhis_pass_en-GB,Pass,,FHIS,
-423471,11 Buchanan Street,Milngavie,,,Cairns Church Of Scotland,Restaurant/Cafe/Canteen,1,,,635199,,,55.94542800000000,PI/000059384,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31391300000000,G62 8AW,2014-01-29,fhis_pass_en-GB,Pass,,FHIS,
-423472,16 Campsie Road,Torrance,,,Caldwell Hall,Restaurant/Cafe/Canteen,1,,,667745,,,55.94082100000000,PI/000058181,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20953300000000,G64 4BN,2013-01-28,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423473,Lennox Place,Lennoxtown,,,Campsie Bowling Club,Pub/bar/nightclub,7843,,,583599,,,55.97608200000000,PI/000010947,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20175100000000,G66 7HD,2013-05-03,fhis_pass_en-GB,Pass,,FHIS,
-423474,16 Woodhill Road,Bishopbriggs,,,Campsie Caterers,Restaurant/Cafe/Canteen,1,,,667761,,,55.89972100000000,PI/000060283,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20156400000000,G64 1JL,2013-02-06,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423475,Aldessan House,3 The Clachan,,,Campsie Glen Coffee Shop,Restaurant/Cafe/Canteen,1,,,591842,,,55.98903000000000,PI/000060545,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22836500000000,G66 7AB,2014-10-29,fhis_pass_en-GB,Pass,,FHIS,
-423476,Crow Road,Lennoxtown,,,Campsie Golf Club,Pub/bar/nightclub,7843,,,583600,,,55.98128800000000,PI/000010948,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20262400000000,G66 7GX,2013-12-02,fhis_pass_en-GB,Pass,,FHIS,
-423477,Main Street,Lennoxtown,,,Campsie Parish Church,School/college/university,7845,,,583587,,,55.97320600000000,PI/000005924,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19974400000000,G66 7DA,2014-04-01,fhis_pass_en-GB,Pass,,FHIS,
-423478,Campsie View School,Boghead Road,,,Campsie View Nursery Class,Hospitals/Childcare/Caring Premises,5,,,583692,,,55.92432100000000,PI/000046849,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.17211500000000,G66 4DP,2013-08-22,fhis_pass_en-GB,Pass,,FHIS,
-423479,Canal Street,Kirkintilloch,,,Campsie View Nursing Home,Hospitals/Childcare/Caring Premises,5,,,583629,,,55.94111600000000,PI/000016221,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15175800000000,G66 1QY,2014-09-16,fhis_pass_en-GB,Pass,,FHIS,
-423480,Boghead Road,Lenzie,,,Campsie View School,School/college/university,7845,,,583610,,,55.92432100000000,PI/000012413,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.17211500000000,G66 4DP,2015-01-08,fhis_pass_en-GB,Pass,,FHIS,
-423481,Switchback Road,Bearsden,,,Canniesburn Care/Nursing Home,Hospitals/Childcare/Caring Premises,5,,,552738,,,55.90968300000000,PI/000059609,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32691900000000,G61 1QN,2014-11-19,fhis_pass_en-GB,Pass,,FHIS,
-423482,10E Switchback Road,Bearsden,,,Canniesburn Nursery,Hospitals/Childcare/Caring Premises,5,,,552750,,,55.90968300000000,PI/000060610,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32691900000000,G61 1QN,2014-05-26,fhis_pass_en-GB,Pass,,FHIS,
-423483,7 Carbeth Road,Milngavie,,,Carbeth Convenience Store,Retailers - other,4613,,,635139,,,55.94178500000000,PI/000044368,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33031800000000,G62 7PR,2014-04-04,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423484,7,Millersneuk Road,,,Carriages,Pub/bar/nightclub,7843,,,584013,,,55.92097200000000,PI/000007113,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15142500000000,G66 5JD,2013-09-02,fhis_pass_en-GB,Pass,,FHIS,
-423485,Castlehill Primary School,Rosslyn Road,,,Castlehill Nursery,Hospitals/Childcare/Caring Premises,5,,,552694,,,55.92457300000000,PI/000046901,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35443200000000,G61 4DL,2013-09-24,fhis_pass_en-GB,Pass,,FHIS,
-423486,Rosslyn Road,Bearsden,,,Castlehill Primary School,School/college/university,7845,,,552653,,,55.92457300000000,PI/000031522,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35443200000000,G61 4DL,2014-11-06,fhis_pass_en-GB,Pass,,FHIS,
-423487,Castlehill Primary School,Rosslyn Road,,,Castlehill Time-Out Club,Pub/bar/nightclub,7843,,,626368,,,55.92457300000000,PI/000051504,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35443200000000,G61 4DL,2012-03-09,fhis_pass_en-GB,Pass,,FHIS,
-423488,63 Kilsyth Road,Kirkintilloch,,,Caulders Garden Centre,Restaurant/Cafe/Canteen,1,,,583644,,,55.94606100000000,PI/000018476,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14234300000000,G66 1QF,2014-03-24,fhis_pass_en-GB,Pass,,FHIS,
-423489,Cadder Road,Bishopbriggs,,,Cawder Golf Club,Pub/bar/nightclub,7843,,,667668,,,55.92702600000000,PI/000001754,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23292000000000,G64 3QD,2014-04-07,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423490,Lenzie Public Hall,Kirkintilloch Road,,,Cedar After School Club,Hospitals/Childcare/Caring Premises,5,,,583656,,,55.92361600000000,PI/000020143,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15598900000000,G66 4LD,2012-02-27,fhis_pass_en-GB,Pass,,FHIS,
-423491,Cedar Drive,Lenzie,,,Cedar Nursery,Hospitals/Childcare/Caring Premises,5,,,583614,,,55.92445400000000,PI/000013335,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15480400000000,G66 4RD,2014-08-18,fhis_pass_en-GB,Pass,,FHIS,
-423492,Station Road,Lennoxtown,,,Celtic Training Ground Youth Academy,Restaurant/Cafe/Canteen,1,,,583711,,,55.97529600000000,PI/000055680,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23143800000000,G66 7LP,2013-09-10,fhis_pass_en-GB,Pass,,FHIS,
-423493,7 Donaldson Crescent,Kirkintilloch,,,Ceramic Experience,Restaurant/Cafe/Canteen,1,,,583731,,,55.93410200000000,PI/000060540,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15810900000000,G66 1XF,2011-01-26,fhis_pass_en-GB,Pass,,FHIS,
-423494,140A Auchinairn Road,Bishopbriggs,,,Cha Cha Giz,Takeaway/sandwich shop,7844,,,667731,,,55.89764400000000,PI/000054159,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21312400000000,G64 1NQ,2014-12-16,fhis_pass_en-GB,Pass,,FHIS,
-423495,3 Gavinsmill Road,Milngavie,,,Charming Cuisine,Restaurant/Cafe/Canteen,1,,,727294,,,55.93977000000000,14/00072,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31560900000000,G62 6NB,2014-11-20,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423496,124C Kirkintilloch Road,Bishopbriggs,,,Chinese Blossom,Takeaway/sandwich shop,7844,,,667752,,,55.90367100000000,PI/000058648,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22580200000000,G64 2AB,2014-05-01,fhis_pass_en-GB,Pass,,FHIS,
-423497,4-6 Station Road,Bearsden,,,Choo Chew,Takeaway/sandwich shop,7844,,,552745,,,55.91690500000000,PI/000060416,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33232900000000,G61 4AN,2014-05-27,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423498,34 New Kirk Road,Bearsden,,,Christie Butchers,Retailers - other,4613,,,552762,,,55.91989700000000,PI/000061117,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33331000000000,G61 3SL,2014-10-30,fhis_pass_en-GB,Pass,,FHIS,
-423499,Unit 4,5 Auchinairn Road,,,Christines Sandwich Shop,Takeaway/sandwich shop,7844,,,667783,,,55.89690900000000,PI/000061454,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22695000000000,G64 1RX,2013-11-05,fhis_pass_en-GB,Pass,,FHIS,
-423500,"1 Auchencruive,fairways",Milngavie,,,CJ Designs,School/college/university,7845,,,735642,,,55.93711700000000,PI/15/00005/FOOD,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.30417700000000,G62 6EE,2015-01-07,fhis_pass_en-GB,Pass,,FHIS,
-423501,Claremont Gardens,Milngavie,,,Claremont Bowling Club,Pub/bar/nightclub,7843,,,635200,,,55.94178600000000,PI/000059385,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32026100000000,G62 6PG,2013-06-25,fhis_pass_en-GB,Pass,,FHIS,
-423502,5 Douglas Street,Milngavie,,,Classic India Restaurant,Restaurant/Cafe/Canteen,1,,,635169,,,55.94106600000000,PI/000052770,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31746400000000,G62 6PA,2014-01-20,fhis_pass_en-GB,Pass,,FHIS,
-423503,Craigton Road,Milngavie,,,Clober Golf Club,Pub/bar/nightclub,7843,,,635163,,,55.94619800000000,PI/000051240,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32792500000000,G62 7HP,2014-10-09,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423504,Clober Primary School,Kirk Street,,,Clober Nursery Class,Hospitals/Childcare/Caring Premises,5,,,635164,,,55.94365500000000,PI/000051558,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33408200000000,G62 7PN,2013-12-12,fhis_pass_en-GB,Pass,,FHIS,
-423505,Kirk Street,Milngavie,,,Clober Primary School,School/college/university,7845,,,635140,,,55.94365500000000,PI/000045882,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33408200000000,G62 7PN,2014-08-20,fhis_pass_en-GB,Pass,,FHIS,
-423506,Colquhoun Park Primary School,The Huts,,,Colquhoun Out Of School Care,Hospitals/Childcare/Caring Premises,5,,,552730,,,55.91063300000000,PI/000054778,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34454600000000,G61 1HD,2014-09-10,fhis_pass_en-GB,Pass,,FHIS,
-423507,Colquhoun Park Primary School,Canniesburn Road,,,Colquhoun Park Nursery Class,Hospitals/Childcare/Caring Premises,5,,,552717,,,55.91063300000000,PI/000051501,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34454600000000,G61 1HD,2014-11-18,fhis_pass_en-GB,Pass,,FHIS,
-423508,Canniesburn Road,Bearsden,,,Colquhoun Park Primary School,School/college/university,7845,,,552662,,,55.91063300000000,PI/000037431,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34454600000000,G61 1HD,2013-10-07,fhis_pass_en-GB,Pass,,FHIS,
-423509,128 Main Street,Lennoxtown,,,Commercial Inn(Caterer),Restaurant/Cafe/Canteen,1,,,727297,,,55.97320600000000,14/00080,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19974400000000,G66 7DA,2014-12-03,fhis_pass_en-GB,Pass,,FHIS,
-423510,200 Milngavie Road,Bearsden,,,Cookie's Kitchen,Restaurant/Cafe/Canteen,1,,,727291,,,55.92666200000000,14/00047,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31396200000000,G61 3DH,2014-12-02,fhis_pass_en-GB,Pass,,FHIS,
-423511,3 Station Road,Bearsden,,,Co-op,Retailers - supermarkets/hypermarkets,7840,,,552743,,,55.91690500000000,PI/000060303,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33232900000000,G61 4AN,2013-04-23,fhis_pass_en-GB,Pass,,FHIS,
-423512,Kirkintilloch Road,Lenzie,,,Co-op,Retailers - supermarkets/hypermarkets,7840,,,704940,,,55.92361600000000,61125,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15598900000000,G66 4LD,2014-09-12,fhis_pass_en-GB,Pass,,FHIS,
-423513,Unit 20,Millersneuk Road,,,Co-op,Retailers - supermarkets/hypermarkets,7840,,,583683,,,55.92127600000000,PI/000028524,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15049800000000,G66 5JB,2014-06-18,fhis_pass_en-GB,Pass,,FHIS,
-423514,45 Main Street,Lennoxtown,,,Co-Operative Retail Services Ltd,Retailers - supermarkets/hypermarkets,7840,,,583615,,,55.97450500000000,PI/000013833,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20199800000000,G66 7JJ,2013-08-30,fhis_pass_en-GB,Pass,,FHIS,
-423515,8 Douglas Street,Milngavie,,,Costa,Restaurant/Cafe/Canteen,1,,,635176,,,55.94140000000000,PI/000055340,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31830100000000,G62 6PB,2013-10-17,fhis_pass_en-GB,Pass,,FHIS,
-423516,Unit 9B,Strathkelvin Retail Park,,,Costa,Restaurant/Cafe/Canteen,1,,,667773,,,55.92089700000000,PI/000060764,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20798300000000,G64 2TS,2014-04-03,fhis_pass_en-GB,Pass,,FHIS,
-423517,Tesco Stores Ltd.,7 Gavins Mill Road,,,Costa Coffee,Restaurant/Cafe/Canteen,1,,,635216,,,55.93977000000000,PI/000061512,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31560900000000,G62 6NB,2014-01-27,fhis_pass_en-GB,Pass,,FHIS,
-423518,Glasgow Bridge,Glasgow Road,,,Craft Daft on a Raft,Mobile caterer,7846,,,635210,,,55.93136700000000,PI/000060535,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.18835900000000,G66 1RH,2014-02-12,fhis_pass_en-GB,Pass,,FHIS,
-423519,Prestonfield,Milngavie,,,Craigdhu Primary School,School/college/university,7845,,,635137,,,55.93699400000000,PI/000041533,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33131100000000,G62 7PZ,2014-10-23,fhis_pass_en-GB,Pass,,FHIS,
-423520,Craighead Road,Milton Of Campsie,,,Craighead Childcare Centre,Hospitals/Childcare/Caring Premises,5,,,617805,,,55.96596500000000,PI/000061010,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16046000000000,G66 8DL,2013-10-31,fhis_pass_en-GB,Pass,,FHIS,
-423521,Craighead Primary School,Craighead Road,,,Craighead Nursery Class,Hospitals/Childcare/Caring Premises,5,,,583699,,,55.96596500000000,PI/000051497,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16046000000000,G66 8DL,2013-12-11,fhis_pass_en-GB,Pass,,FHIS,
-423522,Craighead Community Education Centre,Craighead Road,,,Craighead Out-Of-School Care,Hospitals/Childcare/Caring Premises,5,,,583717,,,55.96596500000000,PI/000058179,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16046000000000,G66 8DL,2013-12-04,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423523,Craighead Road,Milton Of Campsie,,,Craighead Primary School,School/college/university,7845,,,583690,,,55.96596500000000,PI/000045754,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16046000000000,G66 8DL,2013-10-31,fhis_pass_en-GB,Pass,,FHIS,
-423524,Brackenbrae House,Bishopbriggs,,,Creative Care,Restaurant/Cafe/Canteen,1,,,667768,,,55.90534900000000,PI/000060504,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23140100000000,G64 2BU,2014-12-09,fhis_pass_en-GB,Pass,,FHIS,
-423525,56 Westbourne Crescent,Bearsden,,,Crosbies Newsagents,Retailers - supermarkets/hypermarkets,7840,,,552657,,,55.92323700000000,PI/000034873,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35191800000000,G61 4HE,2014-07-25,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423526,120 Kirkintilloch Road,BishopBriggs,,,Crow Tavern,Pub/bar/nightclub,7843,,,727299,,,55.90367100000000,PI/00005952,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22580200000000,G64 2AB,2014-12-05,fhis_pass_en-GB,Pass,,FHIS,
-423527,3 Main Street,Lennoxtown,,,Cuisine Kitchen,Takeaway/sandwich shop,7844,,,583601,,,55.97476600000000,PI/000010957,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20244600000000,G66 7HA,2013-09-10,fhis_pass_en-GB,Pass,,FHIS,
-423528,14-16 Stewart Street,Milngavie,,,Cyan Bar and Restaurant,Restaurant/Cafe/Canteen,1,,,635168,,,55.94004000000000,PI/000052243,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31847500000000,G62 6BW,2015-01-21,fhis_pass_en-GB,Pass,,FHIS,
-423529,Unit 4,Millersneuk Road,,,Da Carlo's Chip Shop,Takeaway/sandwich shop,7844,,,583681,,,55.92097200000000,PI/000028518,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15142500000000,G66 5JD,2014-11-05,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423530,116 Kirkintilloch Road,Lenzie,,,Day Today Express,Retailers - other,4613,,,583740,,,55.92196300000000,PI/000061007,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15440900000000,G66 4LQ,2014-03-12,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423531,143 Spey Road,Bearsden,,,Day Today Express,Retailers - other,4613,,,552667,,,55.90823000000000,PI/000038949,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34849700000000,G61 1LF,2013-09-24,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423532,2 Woodhill Road,Bishopbriggs,,,Day Today Express,Retailers - other,4613,,,667779,,,55.89972100000000,PI/000061114,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20156400000000,G64 1JL,2014-05-13,fhis_pass_en-GB,Pass,,FHIS,
-423533,8 Kenilworth Crescent,Bearsden,,,Day Today Express,Retailers - other,4613,,,552753,,,55.92486700000000,PI/000060793,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35081600000000,G61 4HU,2014-12-16,fhis_pass_en-GB,Pass,,FHIS,
-423534,4 Woodhill Road,Bishopbriggs,,,Delhi Darbar,Restaurant/Cafe/Canteen,1,,,667702,,,55.89972100000000,PI/000017390,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20156400000000,G64 1JL,2014-11-17,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423535,170 Woodhill Road,Bishopbriggs,,,Delights,Takeaway/sandwich shop,7844,,,667767,,,55.90710000000000,PI/000060495,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20654300000000,G64 1DH,2014-02-12,fhis_pass_en-GB,Pass,,FHIS,
-423536,128 Drymen Road,Bearsden,,,Den,Pub/bar/nightclub,7843,,,552754,,,55.92032800000000,PI/000060803,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33380000000000,G61 3RB,2014-02-04,fhis_pass_en-GB,Pass,,FHIS,
-423537,Unit 4,122 Kirkintilloch Road,,,Dina's,Takeaway/sandwich shop,7844,,,667781,,,55.90367100000000,PI/000061172,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22580200000000,G64 2AB,2014-03-31,fhis_pass_en-GB,Pass,,FHIS,
-423538,7 New Kirk Road,Bearsden,,,Dining In,Takeaway/sandwich shop,7844,,,552735,,,55.92025300000000,PI/000059026,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33304300000000,G61 3SJ,2014-10-30,fhis_pass_en-GB,Pass,,FHIS,
-423539,87 Cowgate,Kirkintilloch,,,D'Nisi,Restaurant/Cafe/Canteen,1,,,583700,,,55.93964100000000,PI/000051561,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15640000000000,G66 1JD,2014-09-03,fhis_pass_en-GB,Pass,,FHIS,
-423540,Unit 3,5 Kirk Road,,,Domino Pizza Take Away,Takeaway/sandwich shop,7844,,,552690,,,55.92063400000000,PI/000045702,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33284200000000,G61 3RG,2014-01-07,fhis_pass_en-GB,Pass,,FHIS,
-423541,Unit 2,94 Kirkintilloch Road,,,Domino's Pizza,Takeaway/sandwich shop,7844,,,667757,,,55.90367100000000,PI/000059638,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22580200000000,G64 2AB,2014-05-14,fhis_pass_en-GB,Pass,,FHIS,
-423542,Craigton Road,Milngavie,,,Douglas Academy,School/college/university,7845,,,635202,,,55.94766500000000,PI/000060084,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34630400000000,G62 7HS,2014-06-23,fhis_pass_en-GB,Pass,,FHIS,
-423543,Hillfoot,Bearsden,,,Douglas Park Golf Club,Restaurant/Cafe/Canteen,1,,,552699,,,55.92150000000000,PI/000047762,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31696800000000,G61 2TJ,2014-05-27,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423544,101 Main Street,Lennoxtown,,,Drookit Dug,Pub/bar/nightclub,7843,,,583594,,,55.97341400000000,PI/000008431,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19964400000000,G66 7DB,2013-05-20,fhis_pass_en-GB,Pass,,FHIS,
-423545,2 Hilton Road,Bishopbriggs,,,Eagle Lodge,Restaurant/Cafe/Canteen,1,,,667695,,,55.91366900000000,PI/000009086,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21960600000000,G64 2PN,2014-06-13,fhis_pass_en-GB,Pass,,FHIS,
-423546,Southbank Marina,Strathkelvin Place,,,East Dunbartonshire Council,Restaurant/Cafe/Canteen,1,,,606598,,,55.93471400000000,PI/000060989,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15960000000000,G66 1TJ,2013-10-30,fhis_pass_en-GB,Pass,,FHIS,
-423547,Kirkintilloch Leisure Centre,Parkview Avenue,,,Elior UK Ltd,Restaurant/Cafe/Canteen,1,,,591845,,,55.93155600000000,PI/000061480,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15161200000000,G66 3DD,2014-12-04,fhis_pass_en-GB,Pass,,FHIS,
-423548,William Patrick Library,2 West High Street,,,Elior UK Ltd,Restaurant/Cafe/Canteen,1,,,583745,,,55.94156300000000,PI/000061099,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15906900000000,G66 1AD,2014-06-12,fhis_pass_en-GB,Pass,,FHIS,
-423549,9 Douglas Street,Milngavie,,,Ellangowan Social Club,Pub/bar/nightclub,7843,,,635170,,,55.94106600000000,PI/000052771,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31746400000000,G62 6PA,2013-01-17,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423550,22 The Regent Centre,Kirkintilloch,,,Express Cafe,Restaurant/Cafe/Canteen,1,,,604987,,,55.93962600000000,PI/000061346,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15726300000000,G66 1JH,2014-09-30,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423551,3 Station Road,Milngavie,,,Fantoosh Fish,Retailers - other,4613,,,635173,,,55.94215300000000,PI/000054187,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31650400000000,G62 8PG,2014-12-04,fhis_pass_en-GB,Pass,,FHIS,
-423552,20 Townhead,Kirkintilloch,,,Farmfoods Ltd,Retailers - other,4613,,,583621,,,55.93761800000000,PI/000014327,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15444600000000,G66 1NL,2012-11-12,fhis_pass_en-GB,Pass,,FHIS,
-423553,Units 1-2,Baljaffray Shopping Centre,,,Farmfoods Ltd,Retailers - supermarkets/hypermarkets,7840,,,552671,,,55.93253400000000,PI/000039163,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2014-02-11,fhis_pass_en-GB,Pass,,FHIS,
-423554,1 Donald MacKinnon Avenue,Kirkintilloch,,,Ferndale Children's Services,Hospitals/Childcare/Caring Premises,5,,,583726,,,55.93175000000000,PI/000060425,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14406600000000,G66 3ES,2013-09-03,fhis_pass_en-GB,Pass,,FHIS,
-423555,239 Auchinairn Road,Bishopbriggs,,,First Choice,Retailers - other,4613,,,667719,,,55.89775300000000,PI/000034239,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20655600000000,G64 1JH,2014-05-14,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423556,22 Montgomery Terrace,Milton Of Campsie,,,Flora's Catering,School/college/university,7845,,,698973,,,55.96172200000000,14/00033,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16362000000000,G66 8BT,2014-08-28,fhis_pass_en-GB,Pass,,FHIS,
-423557,Unit 5,17-19 Kilsyth Road,,,Food Co-op,Retailers - other,4613,,,591843,,,55.94335900000000,PI/000060788,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15197800000000,G66 1QE,2013-10-01,fhis_pass_en-GB,Pass,,FHIS,
-423558,HUSC,Newdyke Road,,,Food Co-op (Hillhead),Retailers - other,4613,,,585627,,,55.94002100000000,PI/000061465,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14135300000000,G66 2PU,2013-09-10,fhis_pass_en-GB,Pass,,FHIS,
-423559,75 Cowgate,Kirkintilloch,,,Food@75,Takeaway/sandwich shop,7844,,,583742,,,55.94062200000000,PI/000061067,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15789500000000,G66 1HW,2014-01-07,fhis_pass_en-GB,Pass,,FHIS,
-423560,162 Woodhill Road,Bishopbriggs,,,Four Square,Retailers - other,4613,,,667682,,,55.90710000000000,PI/000005506,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20654300000000,G64 1DH,2014-03-27,fhis_pass_en-GB,Pass,,FHIS,
-423561,Unit 9A,Strathkelvin Retail Park,,,Frankie & Benny's,Restaurant/Cafe/Canteen,1,,,667769,,,55.92089700000000,PI/000060553,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20798300000000,G64 2TS,2014-02-20,fhis_pass_en-GB,Pass,,FHIS,
-423562,55 Lomond Drive,Bishopbriggs,,,Frank's Fish Chip & Pizza Place,Takeaway/sandwich shop,7844,,,667729,,,55.91259800000000,PI/000053144,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22760900000000,G64 3BY,2014-10-02,fhis_pass_en-GB,Pass,,FHIS,
-423563,77 Main Street,Torrance,,,Freshgo,Manufacturers/packers,7839,,,667787,,,55.93765800000000,PI/000061482,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21246000000000,G64 4EN,2014-03-11,fhis_pass_en-GB,Pass,,FHIS,
-423564,Milngavie Town Hall,70 Station Road,,,Friendship Circle,Pub/bar/nightclub,7843,,,635174,,,55.94194200000000,PI/000054521,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31197500000000,G62 8BZ,2014-02-19,fhis_pass_en-GB,Pass,,FHIS,
-423565,17 Park Road,Milngavie,,,Friendship House,Restaurant/Cafe/Canteen,1,,,635159,,,55.93953800000000,PI/000050556,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31889400000000,G62 6PJ,2014-01-16,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423566,Gartconner Primary School,Gartshore Road,,,Gartconner Nursery Class,Hospitals/Childcare/Caring Premises,5,,,583675,,,55.93741300000000,PI/000026010,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.11493400000000,G66 3TH,2011-10-13,fhis_pass_en-GB,Pass,,FHIS,
-423567,Gartshore Road,Kirkintilloch,,,Gartconner Primary School,School/college/university,7845,,,583674,,,55.93741300000000,PI/000026009,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.11493400000000,G66 3TH,2014-03-05,fhis_pass_en-GB,Pass,,FHIS,
-423568,1 Station Road,Milngavie,,,Garvie & Co,Restaurant/Cafe/Canteen,1,,,665977,,,55.94215300000000,PI/000061174,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31650400000000,G62 8PG,2014-05-19,fhis_pass_en-GB,Pass,,FHIS,
-423569,47 Lammermoor Road,Kirkintilloch,,,Gerry's Fast Foods,Takeaway/sandwich shop,7844,,,635136,,,55.93738700000000,PI/000019701,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13520300000000,G66 2AY,2014-02-10,fhis_pass_en-GB,Pass,,FHIS,
-423570,77 Townhead,Kirkintilloch,,,Ghiloni's,Restaurant/Cafe/Canteen,1,,,665968,,,55.93730600000000,PI/000011985,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15326000000000,G66 1NN,2014-05-02,fhis_pass_en-GB,Pass,,FHIS,
-423571,140 Auchinairn Road,Bishopbriggs,,,Gianni's,Takeaway/sandwich shop,7844,,,667706,,,55.89764400000000,PI/000024600,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21312400000000,G64 1NQ,2014-12-15,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423572,Killermont Avenue,Bearsden,,,Glasgow Golf Club,Pub/bar/nightclub,7843,,,552737,,,55.90767100000000,PI/000059380,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31347100000000,G61 2JR,2012-08-24,fhis_pass_en-GB,Pass,,FHIS,
-423573,25 Milton Road,Lennoxtown,,,Glazert Country House Hotel,Hotel/bed & breakfast/guest house,7842,,,583616,,,55.97007200000000,PI/000014164,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19657000000000,G66 7DJ,2013-11-20,fhis_pass_en-GB,Pass,,FHIS,
-423574,137 Auchinairn Rd,Bishopbriggs,,,Glega Grub in the Pub at the Auchinairn tavern,Restaurant/Cafe/Canteen,1,,,701271,,,55.89800500000000,14/00050,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21603900000000,G64 1NF,2014-09-17,fhis_pass_en-GB,Pass,,FHIS,
-423575,163 Auchinairn Road,Bishopbriggs,,,Glesga Grub,Restaurant/Cafe/Canteen,1,,,667777,,,55.89785200000000,PI/000060968,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21153600000000,G64 1NG,2014-09-17,fhis_pass_en-GB,Pass,,FHIS,
-423576,22-24 Eastside,Kirkintilloch,,,Good Luck Chinese Takeaway,Takeaway/sandwich shop,7844,,,583647,,,55.94204800000000,PI/000019223,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15448400000000,G66 1PY,2014-03-04,fhis_pass_en-GB,Pass,,FHIS,
-423577,11 Roman Road,Bearsden,,,Grace & Favour,Restaurant/Cafe/Canteen,1,,,660667,,,55.91967300000000,PI/000061461,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33329600000000,G61 2SR,2014-07-08,fhis_pass_en-GB,Pass,,FHIS,
-423578,6 Douglas Street,Milngavie,,,Greggs,Retailers - other,4613,,,635161,,,55.94140000000000,PI/000050919,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31830100000000,G62 6PB,2014-10-28,fhis_pass_en-GB,Pass,,FHIS,
-423579,Unit 6 Triangle Shopping Centre,Bishopbriggs,,,Greggs,Retailers - other,4613,,,667753,,,55.90479600000000,PI/000059016,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22420200000000,G64 2TR,2014-06-06,fhis_pass_en-GB,Pass,,FHIS,
-423580,174 Woodhill Road,Bishopbriggs,,,Greggs Of Rutherglen,Retailers - other,4613,,,667683,,,55.90710000000000,PI/000005512,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20654300000000,G64 1DH,2014-05-27,fhis_pass_en-GB,Pass,,FHIS,
-423581,29 Cowgate,Kirkintilloch,,,Greggs Of Rutherglen,Retailers - other,4613,,,583643,,,55.94062200000000,PI/000018447,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15789500000000,G66 1HW,2013-12-18,fhis_pass_en-GB,Pass,,FHIS,
-423582,4 Beech Road,Bishopbriggs,,,Gulistan Indian Restaurant,Restaurant/Cafe/Canteen,1,,,667710,,,55.89822000000000,PI/000027932,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21355600000000,G64 1NE,2015-02-03,fhis_pass_en-GB,Pass,,FHIS,
-423583,Callieburn Court,Callieburn Road,,,Hanover (Scotland) Housing Associati,Restaurant/Cafe/Canteen,1,,,667735,,,55.90086200000000,PI/000054905,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21658600000000,G64 1TL,2013-08-21,fhis_pass_en-GB,Pass,,FHIS,
-423584,28 Colston Drive,Bishopbriggs,,,Happitots Day Nursery,Hospitals/Childcare/Caring Premises,5,,,667664,,,55.89727900000000,PI/000000386,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22985000000000,G64 2AZ,2014-08-05,fhis_pass_en-GB,Pass,,FHIS,
-423585,4-18 Ledgate,Kirkintilloch,,,Happy Days Nursery,Hospitals/Childcare/Caring Premises,5,,,583713,,,55.94250500000000,PI/000056145,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15455700000000,G66 1PZ,2014-06-10,fhis_pass_en-GB,Pass,,FHIS,
-423586,The Leisuredrome,147 Balmuildy Road,,,Happy Days Nursery,Hospitals/Childcare/Caring Premises,5,,,667673,,,55.91643100000000,PI/000003221,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23434300000000,G64 3HD,2013-08-29,fhis_pass_en-GB,Pass,,FHIS,
-423587,Oxgang Primary School,Lammermoor Road,,,Happy Days Out Of School Club,Hospitals/Childcare/Caring Premises,5,,,583650,,,55.93595700000000,PI/000019699,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13629300000000,G66 2AB,2014-06-10,fhis_pass_en-GB,Pass,,FHIS,
-423588,131 Milngavie Road,Bearsden,,,Happy House,Takeaway/sandwich shop,7844,,,552706,,,55.91933300000000,PI/000048490,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32181600000000,G61 2QJ,2014-11-05,fhis_pass_en-GB,Pass,,FHIS,
-423589,Crarae Avenue,Bearsden,,,Happy Little People,Hospitals/Childcare/Caring Premises,5,,,691286,,,55.90667700000000,14/00011,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33376300000000,G61 1HY,2015-01-14,fhis_pass_en-GB,Pass,,FHIS,
-423590,Mauchline Court,Kirkintilloch,,,Harestanes Primary School,School/college/university,7845,,,583653,,,55.94539500000000,PI/000019877,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.12424100000000,G66 2SA,2014-04-29,fhis_pass_en-GB,Pass,,FHIS,
-423591,103 Westerhill Road,Bishopbriggs,,,Harper Collins Publishers,Restaurant/Cafe/Canteen,1,,,667704,,,55.91688000000000,PI/000020878,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20189700000000,G64 2QT,2014-03-13,fhis_pass_en-GB,Pass,,FHIS,
-423592,Campsie Road,Kirkintilloch,,,Hayston Golf Club,Pub/bar/nightclub,7843,,,583747,,,55.94350000000000,PI/000061427,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.17309300000000,G66 1RN,2013-08-01,fhis_pass_en-GB,Pass,,FHIS,
-423593,27 Ledcameroch Road,Bearsden,,,High School Of Glasgow Kindergarten,Hospitals/Childcare/Caring Premises,5,,,552721,,,55.91726800000000,PI/000053117,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34065800000000,G61 4AE,2014-11-18,fhis_pass_en-GB,Pass,,FHIS,
-423594,145-147 Milngavie Road,Bearsden,,,Hillfoot Auto Supplies,Retailers - other,4613,,,552697,,,55.92123100000000,PI/000047112,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31980100000000,G61 3DY,2014-10-01,fhis_pass_en-GB,Pass,,FHIS,
-423595,139 Milngavie Road,Bearsden,,,Hillfoot Cafe,Restaurant/Cafe/Canteen,1,,,552700,,,55.91933300000000,PI/000047787,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32181600000000,G61 2QJ,2014-04-22,fhis_pass_en-GB,Pass,,FHIS,
-423596,200 Milngavie Road,Bearsden,,,Hillfoot Nursery,Hospitals/Childcare/Caring Premises,5,,,552707,,,55.92666200000000,PI/000048781,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31396200000000,G61 3DH,2014-11-07,fhis_pass_en-GB,Pass,,FHIS,
-423597,Newdyke Avenue,Kirkintilloch,,,Hillhead Nursery Centre,School/college/university,7845,,,583706,,,55.93942200000000,PI/000054069,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14221600000000,G66 2DQ,2015-01-06,fhis_pass_en-GB,Pass,,FHIS,
-423598,Newdyke Avenue,Kirkintilloch,,,Hillhead Primary School,School/college/university,7845,,,583651,,,55.93942200000000,PI/000019700,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14221600000000,G66 2DQ,2014-10-22,fhis_pass_en-GB,Pass,,FHIS,
-423599,93 Hillhead Road,Kirkintilloch,,,Hillhead Stores,Retailers - supermarkets/hypermarkets,7840,,,583607,,,55.94285200000000,PI/000011886,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14187700000000,G66 2JD,2014-06-18,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423600,Auldmurroch Estate,Stockiemuir Road,,,Hilton Park Golf Club,Pub/bar/nightclub,7843,,,635144,,,55.96839500000000,PI/000047371,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.36295900000000,G62 7HB,2015-01-15,fhis_pass_en-GB,Pass,,FHIS,
-423601,14 Douglas Street,Milngavie,,,Holland & Barrett,Retailers - other,4613,,,635152,,,55.94140000000000,PI/000049755,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31830100000000,G62 6PB,2014-02-12,fhis_pass_en-GB,Pass,,FHIS,
-423602,Holy Family Primary School,Boghead Road,,,Holy Family Nursery Class,Hospitals/Childcare/Caring Premises,5,,,583698,,,55.92912400000000,PI/000049942,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16422000000000,G66 4AT,2014-03-04,fhis_pass_en-GB,Pass,,FHIS,
-423603,Boghead Road,Lenzie,,,Holy Family Primary School,School/college/university,7845,,,583591,,,55.92912400000000,PI/000008129,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16422000000000,G66 4AT,2013-08-22,fhis_pass_en-GB,Pass,,FHIS,
-423604,22 Main Street,Lennoxtown,,,Hunter Paul,Retailers - other,4613,,,583596,,,55.97476600000000,PI/000008434,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20244600000000,G66 7HA,2014-04-01,fhis_pass_en-GB,Pass,,FHIS,
-423605,100 Crowhill Road,Bishopbriggs,,,Huntershill Gift Shop,Retailers - supermarkets/hypermarkets,7840,,,667717,,,55.89927700000000,PI/000033445,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22673400000000,G64 1RP,2014-03-31,fhis_pass_en-GB,Pass,,FHIS,
-423606,22 Cowgate,Kirkintilloch,,,I Que CafÃ© Bar and Cue Sports Ltd,Pub/bar/nightclub,7843,,,583676,,,55.94032500000000,PI/000026652,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15840700000000,G66 1HN,2014-11-03,fhis_pass_en-GB,Pass,,FHIS,
-423607,Unit 3,Strathkelvin Retail Park,,,Iceland,Retailers - supermarkets/hypermarkets,7840,,,667776,,,55.92089700000000,PI/000060957,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20798300000000,G64 2TS,2012-07-03,fhis_pass_en-GB,Pass,,FHIS,
-423608,22 Douglas Street,Milngavie,,,Iceland Frozen Foods Plc,Retailers - supermarkets/hypermarkets,7840,,,635153,,,55.94140000000000,PI/000049758,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31830100000000,G62 6PB,2013-06-28,fhis_pass_en-GB,Pass,,FHIS,
-423609,5 Mugdock Road,Milngavie,,,Iron Chef,Retailers - supermarkets/hypermarkets,7840,,,635180,,,55.94216800000000,PI/000055849,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31762600000000,G62 8PD,2014-02-11,fhis_pass_en-GB,Pass,,FHIS,
-423610,1 Glen Shirva Road,Twechar,,,Jaffar Store,Retailers - other,4613,,,667678,,,55.95294900000000,PI/000003645,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08340900000000,G65 9TA,2014-04-16,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423611,43 Lammermoor Road,Kirkintilloch,,,Jas's Exotic Foods,Takeaway/sandwich shop,7844,,,583719,,,55.93738700000000,PI/000059617,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13520300000000,G66 2AY,2014-10-30,fhis_pass_en-GB,Pass,,FHIS,
-423612,Unit 7,5 Campsie Road,,,JC Dance & Cheer Academy,Restaurant/Cafe/Canteen,1,,,583597,,,55.94188300000000,PI/000008716,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16435500000000,G66 1SL,2014-05-12,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423613,Jedworth Court,68 Manse Road,,,Jedworth Court Lunch Club,Hospitals/Childcare/Caring Premises,5,,,552716,,,55.92222200000000,PI/000050925,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33348100000000,G61 3RQ,2013-10-17,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423614,11 Station Road,Milngavie,,,Jessie Biscut,Restaurant/Cafe/Canteen,1,,,665978,,,55.94215300000000,PI/000061660,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31650400000000,G62 8PG,2014-05-21,fhis_pass_en-GB,Pass,,FHIS,
-423615,Old Mill Park Industrial Estate,Kirkintilloch,,,Joe's Good Food Van,Mobile caterer,7846,,,701269,,,55.94335500000000,14/00018,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16088200000000,G66 1SS,2014-09-18,fhis_pass_en-GB,Pass,,FHIS,
-423616,38 John Street,Kirkintilloch,,,John Street House,Hospitals/Childcare/Caring Premises,5,,,583625,,,55.94153100000000,PI/000015044,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14854600000000,G66 2HE,2015-01-13,fhis_pass_en-GB,Pass,,FHIS,
-423617,Baljaffray Parish Church,Grampian Way,,,Karemore,School/college/university,7845,,,552677,,,55.93253400000000,PI/000040622,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2013-09-18,fhis_pass_en-GB,Pass,,FHIS,
-423618,Kilsyth Road,Kirkintilloch,,,Kelvinbank Resource Centre,Restaurant/Cafe/Canteen,1,,,583624,,,55.94543700000000,PI/000014727,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14309300000000,G66 1RP,2013-09-09,fhis_pass_en-GB,Pass,,FHIS,
-423619,Viewfield Avenue,Bishopbriggs,,,Kenmure Church,Restaurant/Cafe/Canteen,1,,,667728,,,55.90129400000000,PI/000053141,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23393600000000,G64 2AF,2014-03-24,fhis_pass_en-GB,Pass,,FHIS,
-423620,6 Claremont Drive,Milngavie,,,Key Housing Association,Hospitals/Childcare/Caring Premises,5,,,635157,,,55.94178600000000,PI/000050138,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32026100000000,G62 6PG,2013-04-18,fhis_pass_en-GB,Pass,,FHIS,
-423621,2A Monreith Avenue,Bearsden,,,Keystore,Retailers - other,4613,,,552668,,,55.90855300000000,PI/000038956,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33627600000000,G61 1NJ,2014-07-16,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423622,35-37 Lammermoor Road,Kirkintilloch,,,Keystore,Retailers - other,4613,,,583652,,,55.93738700000000,PI/000019702,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13520300000000,G66 2AY,2014-06-06,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423623,44 Craigash Road,Milngavie,,,Keystore,Retailers - other,4613,,,635151,,,55.94675000000000,PI/000048829,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33247400000000,G62 7BP,2014-07-03,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423624,Units 12-15,Whitegates,,,Kidsplay Childcare,Hospitals/Childcare/Caring Premises,5,,,583609,,,55.93368900000000,PI/000011967,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15552400000000,G66 3BQ,2014-07-11,fhis_pass_en-GB,Pass,,FHIS,
-423625,Killermont Primary School,1 Aviemore Gardens,,,Killermont Nursery Class,Hospitals/Childcare/Caring Premises,5,,,552704,,,55.91999900000000,PI/000047893,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31316500000000,G61 2BL,2014-08-22,fhis_pass_en-GB,Pass,,FHIS,
-423626,Rannoch Drive,Bearsden,,,Killermont Parish Church,School/college/university,7845,,,552710,,,55.91225900000000,PI/000049045,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31228800000000,G61 2LD,2014-08-21,fhis_pass_en-GB,Pass,,FHIS,
-423627,1 Aviemore Gardens,Bearsden,,,Killermont Primary School,School/college/university,7845,,,552703,,,55.91999900000000,PI/000047892,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31316500000000,G61 2BL,2014-08-19,fhis_pass_en-GB,Pass,,FHIS,
-423628,Birdston Road,Milton Of Campsie,,,Kincaid House Hotel,Hotel/bed & breakfast/guest house,7842,,,583686,,,55.95817600000000,PI/000042746,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16391900000000,G66 8BZ,2014-07-29,fhis_pass_en-GB,Pass,,FHIS,
-423629,80 Waterside Road,Kirkintilloch,,,Kirkie Filling Station,Retailers - supermarkets/hypermarkets,7840,,,707698,,,55.93483000000000,PI/00061447,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13752800000000,G66 3HG,2014-10-16,fhis_pass_en-GB,Pass,,FHIS,
-423630,52 Townhead,Kirkintilloch,,,Kirkintilloch Baptist Church,Restaurant/Cafe/Canteen,1,,,583712,,,55.93761800000000,PI/000055711,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15444600000000,G66 1NL,2013-09-11,fhis_pass_en-GB,Pass,,FHIS,
-423631,36 Alexandra Street,Kirkintilloch,,,Kirkintilloch Bowling Club,Pub/bar/nightclub,7843,,,583626,,,55.93719900000000,PI/000015426,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15832900000000,G66 1HE,2014-12-19,fhis_pass_en-GB,Pass,,FHIS,
-423632,Campsie Road,Kirkintilloch,,,Kirkintilloch Golf Club,Pub/bar/nightclub,7843,,,583590,,,55.94350000000000,PI/000006530,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.17309300000000,G66 1RN,2014-12-09,fhis_pass_en-GB,Pass,,FHIS,
-423633,Waterside Road,Kirkintilloch,,,Kirkintilloch High School,School/college/university,7845,,,583722,,,55.93576500000000,PI/000060138,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.12866100000000,G66 3PA,2014-03-21,fhis_pass_en-GB,Pass,,FHIS,
-423634,Townhead,Kirkintilloch,,,Kirkintilloch Miners Welfare,Pub/bar/nightclub,7843,,,583648,,,55.93558000000000,PI/000019433,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15221900000000,G66 3AA,2012-11-27,fhis_pass_en-GB,Pass,,FHIS,
-423635,18-22 Luggiebank Road,Kirkintilloch,,,Kirkintilloch Rangers Supporters Clu,Restaurant/Cafe/Canteen,1,,,583697,,,55.93864900000000,PI/000049899,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15301400000000,G66 1LR,2014-11-06,fhis_pass_en-GB,Pass,,FHIS,
-423636,5 Roman Road,Bearsden,,,KP's Fishmonger,Retailers - other,4613,,,552761,,,55.91967300000000,PI/000061018,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33329600000000,G61 2SR,2014-03-25,fhis_pass_en-GB,Pass,,FHIS,
-423637,112 Main Street,Milngavie,,,LA Fitness,Pub/bar/nightclub,7843,,,635146,,,55.93325300000000,PI/000047769,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31709300000000,G62 6JN,2014-12-12,fhis_pass_en-GB,Pass,,FHIS,
-423638,185 Kirkintilloch Road,Bishopbriggs,,,La Vita Pizzeria,Restaurant/Cafe/Canteen,1,,,667658,,,55.90516400000000,PI/000000350,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22475100000000,G64 2LS,2014-01-07,fhis_pass_en-GB,Pass,,FHIS,
-423639,Kerr Street,Kirkintilloch,,,Lairdsland Primary School,School/college/university,7845,,,583678,,,55.93806200000000,PI/000027024,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15937000000000,G66 1JZ,2013-08-22,fhis_pass_en-GB,Pass,,FHIS,
-423640,5 Kirk Lane,Bearsden,,,Las Ramblas,Restaurant/Cafe/Canteen,1,,,571530,,,55.92042500000000,PI/000060810,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33346900000000,G61 3RU,2015-01-19,fhis_pass_en-GB,Pass,,FHIS,
-423641,Main Street,Lennoxtown,,,Lennox Service Station,Retailers - other,4613,,,583617,,,55.97476600000000,PI/000014165,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20244600000000,G66 7HA,2014-11-25,fhis_pass_en-GB,Pass,,FHIS,
-423642,Lennoxtown Primary,Horsa Huts,,,Lennoxtown Creche and Playgroup,Hospitals/Childcare/Caring Premises,5,,,583734,,,55.97443400000000,PI/000060632,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19994200000000,G66 7LX,2014-04-01,fhis_pass_en-GB,Pass,,FHIS,
-423643,Lennoxtown Primary School,School Lane,,,Lennoxtown Nursery Class,Hospitals/Childcare/Caring Premises,5,,,583589,,,55.97443400000000,PI/000005931,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19994200000000,G66 7LX,2011-12-09,fhis_pass_en-GB,Pass,,FHIS,
-423644,School Lane,Lennoxtown,,,Lennoxtown Primary School,School/college/university,7845,,,583588,,,55.97443400000000,PI/000005930,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19994200000000,G66 7LX,2014-10-08,fhis_pass_en-GB,Pass,,FHIS,
-423645,8 Myrtle Avenue,Lenzie,,,Lenzie Academy,School/college/university,7845,,,583620,,,55.92747300000000,PI/000014245,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15996600000000,G66 4HR,2014-09-18,fhis_pass_en-GB,Pass,,FHIS,
-423646,Regent Square,Lenzie,,,Lenzie Bowling Club,Pub/bar/nightclub,7843,,,583631,,,55.91942100000000,PI/000016541,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15378800000000,G66 5AE,2010-04-20,fhis_pass_en-GB,Pass,,FHIS,
-423647,19 Crosshill Road,Lenzie,,,Lenzie Golf Club,Pub/bar/nightclub,7843,,,583665,,,55.91502700000000,PI/000021989,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14911200000000,G66 5DA,2014-07-30,fhis_pass_en-GB,Pass,,FHIS,
-423648,16 Crosshill Rd,Lenzie,,,Lenzie Golf Club Catering,Restaurant/Cafe/Canteen,1,,,704939,,,55.91502700000000,14/00027,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14911200000000,G66 5DA,2014-12-12,fhis_pass_en-GB,Pass,,FHIS,
-423649,Moss Road,Lenzie,,,Lenzie Moss Out of School Care,Hospitals/Childcare/Caring Premises,5,,,583667,,,55.92516400000000,PI/000022178,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16047700000000,G66 4HW,2014-06-04,fhis_pass_en-GB,Pass,,FHIS,
-423650,Moss Road,Lenzie,,,Lenzie Moss Primary School,School/college/university,7845,,,583666,,,55.92516400000000,PI/000022176,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16047700000000,G66 4HW,2013-09-06,fhis_pass_en-GB,Pass,,FHIS,
-423651,Lenzie Primary School,Kirkintilloch Road,,,Lenzie Nursery Class,Hospitals/Childcare/Caring Premises,5,,,583693,,,55.92268300000000,PI/000046888,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15532900000000,G66 4LF,2013-08-23,fhis_pass_en-GB,Pass,,FHIS,
-423652,Kirkintilloch Road,Kirkintilloch,,,Lenzie Primary School,School/college/university,7845,,,583655,,,55.92361600000000,PI/000020141,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15598900000000,G66 4LD,2013-08-23,fhis_pass_en-GB,Pass,,FHIS,
-423653,Kirkintilloch Road,Kirkintilloch,,,Lenzie Union Church,Restaurant/Cafe/Canteen,1,,,583657,,,55.92361600000000,PI/000020144,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15598900000000,G66 4LD,2013-01-18,fhis_pass_en-GB,Pass,,FHIS,
-423654,Baljaffray Shopping Centre,Grampian Way,,,Lidl,Retailers - supermarkets/hypermarkets,7840,,,552728,,,55.93253400000000,PI/000054514,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2014-01-08,fhis_pass_en-GB,Pass,,FHIS,
-423655,45 Lammermoor Road,Kirkintilloch,,,Lido Chinese Takeaway,Takeaway/sandwich shop,7844,,,583671,,,55.93738700000000,PI/000022850,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13520300000000,G66 2AY,2014-11-20,fhis_pass_en-GB,Pass,,FHIS,
-423656,93 Auchinairn Road,Bishopbriggs,,,Lifestyle,Retailers - other,4613,,,667727,,,55.89800500000000,PI/000053058,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21603900000000,G64 1NF,2014-04-08,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423657,10 Callieburn Road,Bishopbriggs,,,Lifestyle Express,Retailers - other,4613,,,667715,,,55.90142600000000,PI/000031315,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21820200000000,G64 1TJ,2013-06-24,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423658,2 Mauchline Court,Kirkintilloch,,,Lifestyle Express,Retailers - other,4613,,,583684,,,55.94539500000000,PI/000028737,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.12424100000000,G66 2SA,2014-03-31,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423659,4 Newdyke Road,Kirkintilloch,,,Lifestyle Express,Retailers - other,4613,,,583603,,,55.93962800000000,PI/000011212,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14326800000000,G66 2PX,2013-07-31,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423660,"Unit 6, Baljaffray Shopping Centre",Grampian Way,,,Lifestyle Express,Retailers - supermarkets/hypermarkets,7840,,,552724,,,55.93253400000000,PI/000054063,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2013-02-27,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423661,Birdston Road,Milton Of Campsie,,,Lillyburn Care Home,Hospitals/Childcare/Caring Premises,5,,,583710,,,55.95582900000000,PI/000055307,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15781300000000,G66 8BY,2014-10-14,fhis_pass_en-GB,Pass,,FHIS,
-423662,61 Lomond Drive,Bishopbriggs,,,Lomond News,Retailers - other,4613,,,667669,,,55.91259800000000,PI/000002022,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22760900000000,G64 3BY,2014-02-26,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423663,Craigash Road Post Office,34 Craigash Road,,,Londis Milngavie,Retailers - other,4613,,,635150,,,55.94675000000000,PI/000048523,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33247400000000,G62 7BP,2013-09-04,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423664,48 Switchback Road,Bearsden,,,Loon Hing Takeaway,Takeaway/sandwich shop,7844,,,552759,,,55.90584300000000,PI/000060973,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32560100000000,G61 1AE,2013-07-09,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423665,190 Crosshill Road,Bishopbriggs,,,Lowmoss Prison,School/college/university,7845,,,667763,,,55.92336800000000,PI/000060320,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19643900000000,G64 2QB,2013-11-14,fhis_pass_en-GB,Pass,,FHIS,
-423666,73 Merkland Drive,Kirkintilloch,,,Lucky House,Takeaway/sandwich shop,7844,,,583739,,,55.94232500000000,PI/000060885,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13079900000000,G66 3SJ,2014-05-26,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423667,31A North View,Bearsden,,,Lullaby Lane Nursery,Hospitals/Childcare/Caring Premises,5,,,610186,,,55.90780000000000,PI/000061377,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33802300000000,G61 1NY,2013-11-14,fhis_pass_en-GB,Pass,,FHIS,
-423668,Bishopbriggs Golf Club,Brackenbrae Road,,,Luna Foods,Restaurant/Cafe/Canteen,1,,,667789,,,55.90864400000000,PI/000061573,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23107900000000,G64 2DX,2013-12-05,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423669,48 Cowgate,Kirkintilloch,,,Majella's,Restaurant/Cafe/Canteen,1,,,583741,,,55.94032500000000,PI/000061014,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15840700000000,G66 1HN,2014-03-17,fhis_pass_en-GB,Pass,,FHIS,
-423670,190-196 Milngavie Road,Bearsden,,,Majestic Wine Warehouse Limited,Retailers - other,4613,,,552698,,,55.92319000000000,PI/000047113,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31793300000000,G61 3DX,2013-07-16,fhis_pass_en-GB,Pass,,FHIS,
-423671,18-22 Luggiebank Road,Kirkintilloch,,,"Margo Hannah,Kirkintilloch Rangers Supporters Club",Restaurant/Cafe/Canteen,1,,,727292,,,55.93864900000000,14/00069,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15301400000000,G66 1LR,2014-11-06,fhis_pass_en-GB,Pass,,FHIS,
-423672,141 Cowgate,Kirkintilloch,,,Mariana,Restaurant/Cafe/Canteen,1,,,689937,,,55.93921200000000,61121,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15578300000000,G66 1JT,2014-08-13,fhis_pass_en-GB,Pass,,FHIS,
-423673,41 Milngavie Road,Bearsden,,,Marini's,Takeaway/sandwich shop,7844,,,552718,,,55.91537400000000,PI/000052829,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32157900000000,G61 2DW,2013-12-04,fhis_pass_en-GB,Pass,,FHIS,
-423674,1 Main Street,Milngavie,,,Marks & Spencer,Retailers - supermarkets/hypermarkets,7840,,,635192,,,55.94075800000000,PI/000057828,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31803800000000,G62 6BH,2014-12-16,fhis_pass_en-GB,Pass,,FHIS,
-423675,138 Drymen Road,Bearsden,,,Marks & Spencer,Retailers - supermarkets/hypermarkets,7840,,,552708,,,55.92032800000000,PI/000048791,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33380000000000,G61 3RB,2013-04-22,fhis_pass_en-GB,Pass,,FHIS,
-423676,Strathkelvin Retail Park,Bishopbriggs,,,Marks & Spencer,Retailers - supermarkets/hypermarkets,7840,,,667754,,,55.92089700000000,PI/000059025,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20798300000000,G64 2TS,2015-01-14,fhis_pass_en-GB,Pass,,FHIS,
-423677,3-5 Kirk Road,Bearsden,,,Massimo,Restaurant/Cafe/Canteen,1,,,552736,,,55.92063400000000,PI/000059194,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33284200000000,G61 3RG,2014-12-08,fhis_pass_en-GB,Pass,,FHIS,
-423678,Lennox Crescent,Bishopbriggs,,,Mavisbank Care Home - HC- One,Hospitals/Childcare/Caring Premises,5,,,709159,,,55.90050800000000,33888,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22824400000000,G64 1XF,2014-04-14,fhis_pass_en-GB,Pass,,FHIS,
-423679,14 Roman Road,Bearsden,,,Maxholme Preschool Playgroup,Hospitals/Childcare/Caring Premises,5,,,552692,,,55.91932900000000,PI/000045843,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32581700000000,G61 2SL,2014-10-24,fhis_pass_en-GB,Pass,,FHIS,
-423680,283 Milngavie Road,Bearsden,,,McDonalds,Restaurant/Cafe/Canteen,1,,,552713,,,55.93073600000000,PI/000049261,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31713500000000,G61 3DG,2014-10-15,fhis_pass_en-GB,Pass,,FHIS,
-423681,2A Milton Road,Kirkintilloch,,,Mcdonalds,Restaurant/Cafe/Canteen,1,,,583612,,,55.94477100000000,PI/000012875,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15497100000000,G66 1SY,2013-09-10,fhis_pass_en-GB,Pass,,FHIS,
-423682,Lendale Lane,Bishopbriggs,,,Meadowburn Gaelic Unit,Hospitals/Childcare/Caring Premises,5,,,730645,,,,PI/14/00034/Food,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,,G64 3WL,2015-01-08,fhis_pass_en-GB,Pass,,FHIS,
-423683,Meadowburn Primary School,Lendale Lane,,,Meadowburn Nursery Class,Hospitals/Childcare/Caring Premises,5,,,667726,,,55.91648900000000,PI/000051457,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21971900000000,G64 3LL,2014-05-08,fhis_pass_en-GB,Pass,,FHIS,
-423684,Lendale Lane,Bishopbriggs,,,Meadowburn Primary School,School/college/university,7845,,,667691,,,55.91648900000000,PI/000008108,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21971900000000,G64 3LL,2015-02-11,fhis_pass_en-GB,Pass,,FHIS,
-423685,44 Main Street,Milngavie,,,Meet Me at the Corner,Restaurant/Cafe/Canteen,1,,,727290,,,55.93910300000000,14/00039,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31811500000000,G62 6BU,2014-11-25,fhis_pass_en-GB,Pass,,FHIS,
-423686,15 Station Road,Milngavie,,,Meitai,Restaurant/Cafe/Canteen,1,,,635206,,,55.94215300000000,PI/000060403,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31650400000000,G62 8PG,2014-04-01,fhis_pass_en-GB,Pass,,FHIS,
-423687,Langmuir Road,Kirkintilloch,,,Merkland School,School/college/university,7845,,,583663,,,55.94241500000000,PI/000021839,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13338200000000,G66 2QF,2014-06-09,fhis_pass_en-GB,Pass,,FHIS,
-423688,Scout Hall,Millersneuk Court,,,Merlwood Nursery,Hospitals/Childcare/Caring Premises,5,,,583703,,,55.92127600000000,PI/000053114,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15049800000000,G66 5JB,2014-05-20,fhis_pass_en-GB,Pass,,FHIS,
-423689,69 Merkland Drive,Kirkintilloch,,,Michaels Super Chippy,Takeaway/sandwich shop,7844,,,583658,,,55.94232500000000,PI/000020602,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13079900000000,G66 3SJ,2013-11-26,fhis_pass_en-GB,Pass,,FHIS,
-423690,Lindsaybeg Road,Lenzie,,,Millersneuk Primary School,School/college/university,7845,,,583687,,,55.91922600000000,PI/000043146,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14743900000000,G66 5HZ,2014-10-31,fhis_pass_en-GB,Pass,,FHIS,
-423691,Auchenhowie Road,Milngavie,,,Milngavie & Bearsden Sports Club,Pub/bar/nightclub,7843,,,635158,,,55.93211200000000,PI/000050221,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.29502700000000,G62 6EJ,2013-08-29,fhis_pass_en-GB,Pass,,FHIS,
-423692,60 Station Road,Milngavie,,,Milngavie Bowling Club,Pub/bar/nightclub,7843,,,635193,,,55.94163700000000,PI/000057830,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31192500000000,G62 8BY,2014-07-10,fhis_pass_en-GB,Pass,,FHIS,
-423693,14 Station Road,Milngavie,,,Milngavie Butchers Ltd,Retailers - other,4613,,,635189,,,55.94180600000000,PI/000057519,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31632300000000,G62 8AB,2014-05-01,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423694,Allander Road,Milngavie,,,Milngavie Community Education Centre,Restaurant/Cafe/Canteen,1,,,635181,,,55.94310900000000,PI/000056216,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32062900000000,G62 8PN,2014-06-10,fhis_pass_en-GB,Pass,,FHIS,
-423695,Service Station,42 Glasgow Road,,,Milngavie Filling Station,Retailers - supermarkets/hypermarkets,7840,,,635171,,,55.93956400000000,PI/000052772,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31178500000000,G62 6AJ,2014-02-10,fhis_pass_en-GB,Pass,,FHIS,
-423696,33 Douglas Street,Milngavie,,,Milngavie Fish & Chip Shop,Takeaway/sandwich shop,7844,,,635154,,,55.94065700000000,PI/000049764,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31912100000000,G62 6PE,2014-07-24,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423697,68 Strathblane Road,Milngavie,,,Milngavie Mini Market,Retailers - other,4613,,,635195,,,55.94372100000000,PI/000057887,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31054400000000,G62 8DH,2014-02-13,fhis_pass_en-GB,Pass,,FHIS,
-423698,Milngavie Primary School,Hillhead Street,,,Milngavie Nursery Class,School/college/university,7845,,,635156,,,55.94272900000000,PI/000049958,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31601000000000,G62 8AG,2015-02-04,fhis_pass_en-GB,Pass,,FHIS,
-423699,Fraser Centre,11 Douglas Street,,,Milngavie Old Peoples Committee,School/college/university,7845,,,635218,,,55.94106600000000,PI/000061625,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31746400000000,G62 6PA,2014-02-07,fhis_pass_en-GB,Pass,,FHIS,
-423700,2 Hillhead Street,Milngavie,,,Milngavie Primary School,School/college/university,7845,,,635191,,,55.94272900000000,PI/000057826,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31601000000000,G62 8AG,2014-05-01,fhis_pass_en-GB,Pass,,FHIS,
-423701,Kincaidfield,Milton Of Campsie,,,Milton Of Campsie Bowling Club,Pub/bar/nightclub,7843,,,591841,,,55.96036000000000,PI/000003152,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15774400000000,G66 8ER,2013-09-26,fhis_pass_en-GB,Pass,,FHIS,
-423702,1 Glorat Avenue,Lennoxtown,,,Mohammed Sharif,Retailers - other,4613,,,583592,,,55.97141000000000,PI/000008197,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19361700000000,G66 7DP,2013-08-22,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423703,8 Moss Road,Lenzie,,,Moss General Store,Retailers - other,4613,,,583646,,,55.92782100000000,PI/000019016,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16216200000000,G66 4HY,2014-11-28,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423704,6 Moss Road,Lenzie,,,Moss Road Newsagents,Retailers - other,4613,,,583645,,,55.92782100000000,PI/000019015,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16216200000000,G66 4HY,2013-09-06,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423705,4 Mosshead Road,Bearsden,,,Mosshead General Stores,Retailers - other,4613,,,552701,,,55.93026400000000,PI/000047840,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31689900000000,G61 3EP,2013-09-10,fhis_pass_en-GB,Pass,,FHIS,
-423706,"Flat 5, Stockiemuir Court",Stockiemuir Avenue,,,Mosshead Lunch Club,Restaurant/Cafe/Canteen,1,,,552685,,,55.93089400000000,PI/000044149,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33350600000000,G61 3AR,2013-09-10,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423707,Mosshead Primary School,Stockiemuir Avenue,,,Mosshead Pre-School and Playgroup,Hospitals/Childcare/Caring Premises,5,,,552739,,,55.93067000000000,PI/000059657,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33062700000000,G61 3LZ,2014-03-12,fhis_pass_en-GB,Pass,,FHIS,
-423708,Stockiemuir Avenue,Bearsden,,,Mosshead Primary School,School/college/university,7845,,,552678,,,55.93067000000000,PI/000041212,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33062700000000,G61 3LZ,2014-03-12,fhis_pass_en-GB,Pass,,FHIS,
-423709,34 Strathearn Grove,Kirkintilloch,,,Mother Murphy's,School/college/university,7845,,,682541,,,55.94483300000000,PI/000061703,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.11980600000000,G66 2PL,2014-07-15,fhis_pass_en-GB,Pass,,FHIS,
-423710,31 Eastside,Kirkintilloch,,,Mr News,Retailers - other,4613,,,583660,,,55.94227000000000,PI/000020865,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15307100000000,G66 1QA,2014-03-20,fhis_pass_en-GB,Pass,,FHIS,
-423711,Stockiemuir Rd,Bearsden,,,Mugdock Care Home,Hospitals/Childcare/Caring Premises,5,,,706230,,,55.92755600000000,PI/000060585,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34742500000000,G61 3SF,2014-09-24,fhis_pass_en-GB,Pass,,FHIS,
-423712,36 Davidson Crescent,Twechar,,,Mungo Foundation,Hospitals/Childcare/Caring Premises,5,,,667723,,,55.95123100000000,PI/000046940,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08829800000000,G65 9SR,2013-11-07,fhis_pass_en-GB,Pass,,FHIS,
-423713,62D Rannoch Drive,Bearsden,,,Murdo's Corner Shop,Retailers - other,4613,,,552705,,,55.91334500000000,PI/000048245,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31190400000000,G61 2HH,2013-11-04,fhis_pass_en-GB,Pass,,FHIS,
-423714,Boghead Road,Lenzie,,,N & S Motors,Retailers - other,4613,,,583586,,,55.92570700000000,PI/000005342,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16943900000000,G66 4EF,2013-11-06,fhis_pass_en-GB,Pass,,FHIS,
-423715,32-34 Main Street,Lennoxtown,,,New Adams,Takeaway/sandwich shop,7844,,,583702,,,55.97450500000000,PI/000053038,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20199800000000,G66 7JJ,2014-04-24,fhis_pass_en-GB,Pass,,FHIS,
-423716,Old Halls,Douglas Place,,,New Kilpatrick Nursery,Hospitals/Childcare/Caring Premises,5,,,552734,,,55.91990000000000,PI/000056198,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33270100000000,G61 3SH,2014-03-11,fhis_pass_en-GB,Pass,,FHIS,
-423717,Kirk Place,Bearsden,,,New Kilpatrick Parish Church,School/college/university,7845,,,552691,,,55.92148800000000,PI/000045736,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33282900000000,G61 3RT,2014-06-11,fhis_pass_en-GB,Pass,,FHIS,
-423718,37 Eastside,Kirkintilloch,,,New Kirky Mahal,Takeaway/sandwich shop,7844,,,583604,,,55.94227000000000,PI/000011405,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15307100000000,G66 1QA,2014-08-29,fhis_pass_en-GB,Pass,,FHIS,
-423719,Unit 3-5,Baljaffray Shopping Centre,,,New Manor Garden Restaurant,Restaurant/Cafe/Canteen,1,,,552670,,,55.93253400000000,PI/000039162,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2014-11-20,fhis_pass_en-GB,Pass,,FHIS,
-423720,85 Merkland Drive,Kirkintilloch,,,New Sahiwal,Takeaway/sandwich shop,7844,,,583634,,,55.94232500000000,PI/000017428,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13079900000000,G66 3SJ,2013-07-01,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423721,126 Cowgate,Kirkintilloch,,,Nonnas Kitchen,Restaurant/Cafe/Canteen,1,,,583728,,,55.93850800000000,PI/000060482,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15545600000000,G66 1HF,2014-08-13,fhis_pass_en-GB,Pass,,FHIS,
-423722,51 Ferguson Avenue,Milngavie,,,Oakburn Day Centre,Hospitals/Childcare/Caring Premises,5,,,635203,,,55.94127600000000,PI/000060115,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32296900000000,G62 7TF,2014-10-27,fhis_pass_en-GB,Pass,,FHIS,
-423723,St Columba's Parish Church,Waterside Road,,,Oasis Coffee Stop,Restaurant/Cafe/Canteen,1,,,583723,,,55.93431300000000,PI/000060195,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13932500000000,G66 3HQ,2013-04-18,fhis_pass_en-GB,Pass,,FHIS,
-423724,108 Main Street,Lennoxtown,,,Olivias,Takeaway/sandwich shop,7844,,,583598,,,55.97320600000000,PI/000009728,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19974400000000,G66 7DA,2014-01-21,fhis_pass_en-GB,Pass,,FHIS,
-423725,73 Main Street,Torrance,,,Orems Care Services,Hospitals/Childcare/Caring Premises,5,,,667770,,,55.93765800000000,PI/000060648,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21246000000000,G64 4EN,2013-08-13,fhis_pass_en-GB,Pass,,FHIS,
-423726,10 Arnold Avenue,Bishopbriggs,,,Orient Express,Takeaway/sandwich shop,7844,,,667680,,,55.90378700000000,PI/000004751,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22331200000000,G64 1PE,2013-11-06,fhis_pass_en-GB,Pass,,FHIS,
-423727,2 Main Street,Torrance,,,Oriental Carry Out,Takeaway/sandwich shop,7844,,,667685,,,55.94062700000000,PI/000005801,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21179600000000,G64 4BL,2014-01-21,fhis_pass_en-GB,Pass,,FHIS,
-423728,14 Eastside,Kirkintilloch,,,Oriental Palace,Restaurant/Cafe/Canteen,1,,,735644,,,55.94204800000000,PI/15/00008/Mixed,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15448400000000,G66 1PY,2015-01-14,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423729,132 Drymen Road,Bearsden,,,Oxfam,Retailers - supermarkets/hypermarkets,7840,,,655524,,,55.92032800000000,PI/000046005,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33380000000000,G61 3RB,2014-04-02,fhis_pass_en-GB,Pass,,FHIS,
-423730,40 Main Street,Milngavie,,,Oxfam,Retailers - supermarkets/hypermarkets,7840,,,635177,,,55.93910300000000,PI/000055364,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31811500000000,G62 6BU,2013-04-22,fhis_pass_en-GB,Pass,,FHIS,
-423731,Lammermoor Road,Kirkintilloch,,,Oxgang Primary School,School/college/university,7845,,,583649,,,55.93595700000000,PI/000019698,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13629300000000,G66 2AB,2014-01-23,fhis_pass_en-GB,Pass,,FHIS,
-423732,42 Eastside,Kirkintilloch,,,Paolo's,Takeaway/sandwich shop,7844,,,583613,,,55.94213300000000,PI/000013265,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15163800000000,G66 1QH,2013-12-16,fhis_pass_en-GB,Pass,,FHIS,
-423733,44 Lennox Avenue,Milngavie,,,Park Road Lunch Club,Pub/bar/nightclub,7843,,,635166,,,55.93960300000000,PI/000051756,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32069100000000,G62 6QQ,2014-01-14,fhis_pass_en-GB,Pass,,FHIS,
-423734,Golf Course Road,Balmore,,,"Party Buffet,Balmore Golf Club",Restaurant/Cafe/Canteen,1,,,727293,,,,14/00070,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,,G64 4AP,2014-11-06,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423735,37 Townhead,Kirkintilloch,,,Paul's Fine Foods,Retailers - other,4613,,,583705,,,55.93791800000000,PI/000054032,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15420600000000,G66 1NG,2015-01-28,fhis_pass_en-GB,Pass,,FHIS,
-423736,50 Cowgate,Kirkintilloch,,,Paul's Quality Butchers,Retailers - other,4613,,,623100,,,55.94032500000000,PI/000059038,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15840700000000,G66 1HN,2013-05-17,fhis_pass_en-GB,Pass,,FHIS,
-423737,17 Rannoch Drive,Bearsden,,,Peking House,Takeaway/sandwich shop,7844,,,552748,,,55.90763300000000,PI/000060586,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31455600000000,G61 2JW,2014-01-23,fhis_pass_en-GB,Pass,,FHIS,
-423738,12 Kilsyth Road,Kirkintilloch,,,Peppermint Lounge,Pub/bar/nightclub,7843,,,583602,,,55.94335900000000,PI/000010968,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15197800000000,G66 1QE,2013-06-26,fhis_pass_en-GB,Pass,,FHIS,
-423739,6 Station Road,Milngavie,,,Perfect Pakora,Takeaway/sandwich shop,7844,,,635194,,,55.94180600000000,PI/000057831,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31632300000000,G62 8AB,2014-02-04,fhis_pass_en-GB,Pass,,FHIS,
-423740,71 Merkland Drive,Kirkintilloch,,,Peter's Bakery,Manufacturers/packers,7839,,,583673,,,55.94232500000000,PI/000025630,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13079900000000,G66 3SJ,2013-07-01,fhis_pass_en-GB,Pass,,FHIS,
-423741,68 Townhead,Kirkintilloch,,,Piccollo,Takeaway/sandwich shop,7844,,,583668,,,55.93608300000000,PI/000022499,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15275900000000,G66 1NZ,2015-01-16,fhis_pass_en-GB,Pass,,FHIS,
-423742,Balmuildy Primary School,Stirling Drive,,,Pinocchio's After School Care,Hospitals/Childcare/Caring Premises,5,,,667666,,,55.91257900000000,PI/000001747,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23114500000000,G64 3AJ,2014-01-14,fhis_pass_en-GB,Pass,,FHIS,
-423743,100A Crowhill Road,Bishopbriggs,,,Pinocchio's Nursery Limited,Hospitals/Childcare/Caring Premises,5,,,667709,,,55.89927700000000,PI/000027546,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22673400000000,G64 1RP,2014-12-02,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423744,169 Kirkintilloch Road,Bishopbriggs,,,Pizza Mario,Takeaway/sandwich shop,7844,,,667677,,,55.90516400000000,PI/000003261,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22475100000000,G64 2LS,2013-10-23,fhis_pass_en-GB,Pass,,FHIS,
-423745,71 Milngavie Road,Bearsden,,,Planet India,Takeaway/sandwich shop,7844,,,552732,,,55.91537400000000,PI/000054795,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32157900000000,G61 2DW,2014-02-13,fhis_pass_en-GB,Pass,,FHIS,
-423746,30 Wellington Road,Bishopbriggs,,,Playtown,Restaurant/Cafe/Canteen,1,,,667762,,,55.91903900000000,PI/000060302,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20981400000000,G64 2SA,2015-01-07,fhis_pass_en-GB,Pass,,FHIS,
-423747,10 Craigmillar Avenue,Milngavie,,,Posh Tarts,School/college/university,7845,,,635209,,,55.94596700000000,PI/000060523,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31251900000000,G62 8AU,2013-11-18,fhis_pass_en-GB,Pass,,FHIS,
-423748,39 Douglas Street,Milngavie,,,Post Office,Retailers - supermarkets/hypermarkets,7840,,,635167,,,55.94065700000000,PI/000052233,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31912100000000,G62 6PE,2012-09-18,fhis_pass_en-GB,Pass,,FHIS,
-423749,6 The Regent Centre,Kirkintilloch,,,Poundland,Retailers - other,4613,,,583725,,,55.93962600000000,PI/000060359,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15726300000000,G66 1JH,2014-08-08,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423750,19 Station Road,Milngavie,,,Poundstretcher,Retailers - supermarkets/hypermarkets,7840,,,635212,,,55.94215300000000,PI/000060735,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31650400000000,G62 8PG,2014-01-09,fhis_pass_en-GB,Pass,,FHIS,
-423751,Unit 11,Baljaffray Shopping Centre,,,Precinct 11 Cafe,Restaurant/Cafe/Canteen,1,,,552725,,,55.93253400000000,PI/000054115,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2012-10-16,fhis_pass_en-GB,Pass,,FHIS,
-423752,1 Main Street,Lennoxtown,,,Premier Store,Retailers - other,4613,,,583732,,,55.97476600000000,PI/000060607,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20244600000000,G66 7HA,2014-05-14,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423753,88A Redbrae Road,kirkintilloch,,,Price Crushers,Retailers - other,4613,,,727295,,,55.93866900000000,14/00073,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14464100000000,G66 2BX,2014-11-17,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423754,Milton Road,Kirkintilloch,,,Pro Bowl,Restaurant/Cafe/Canteen,1,,,583632,,,55.94477100000000,PI/000016649,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15497100000000,G66 1SY,2015-01-13,fhis_pass_en-GB,Pass,,FHIS,
-423755,35A Bankhead Road,Kirkintilloch,,,Quarriers,Hospitals/Childcare/Caring Premises,5,,,626369,,,55.93322700000000,PI/000058188,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.11896400000000,G66 3LQ,2011-06-17,fhis_pass_en-GB,Pass,,FHIS,
-423756,130 Kirkintilloch Road,Bishopbriggs,,,Quin's Bar,Pub/bar/nightclub,7843,,,667681,,,55.90453100000000,PI/000005308,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22444300000000,G64 2LT,2015-01-21,fhis_pass_en-GB,Pass,,FHIS,
-423757,38 Main Street,Milngavie,,,R Colpi & Son,Manufacturers/packers,7839,,,635143,,,55.93910300000000,PI/000046994,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31811500000000,G62 6BU,2014-06-11,fhis_pass_en-GB,Pass,,FHIS,
-423758,172 Woodhill Road,Bishopbriggs,,,R S McColl,Retailers - other,4613,,,667663,,,55.90644100000000,PI/000000385,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20672900000000,G64 1DE,2012-11-13,fhis_pass_en-GB,Pass,,FHIS,
-423759,10 Douglas Street,Milngavie,,,R S Mccoll Ltd,Retailers - other,4613,,,635172,,,55.94768700000000,PI/000052776,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31999000000000,G62 8PJ,2013-06-21,fhis_pass_en-GB,Pass,,FHIS,
-423760,118 Drymen Road,Bearsden,,,R S McColl Ltd,Retailers - other,4613,,,552687,,,55.91982700000000,PI/000044193,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33368900000000,G61 3RA,2015-01-07,fhis_pass_en-GB,Pass,,FHIS,
-423761,23-25 Duntocher Road,Bearsden,,,Racetrack - Bearsden Services,Retailers - other,4613,,,552752,,,55.92586800000000,PI/000060737,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34874800000000,G61 4DE,2014-10-23,fhis_pass_en-GB,Pass,,FHIS,
-423762,8A Gallowhill Road,Kirkintilloch,,,Rainbow House,Takeaway/sandwich shop,7844,,,583738,,,55.93142800000000,PI/000060849,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15427800000000,G66 4QG,2013-08-15,fhis_pass_en-GB,Pass,,FHIS,
-423763,173 Kirkintilloch Road,Bishopbriggs,,,Rainbow Restaurant,Takeaway/sandwich shop,7844,,,667687,,,55.90516400000000,PI/000006210,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22475100000000,G64 2LS,2014-05-09,fhis_pass_en-GB,Pass,,FHIS,
-423764,Murray Park,Auchenhowie Road,,,Rangers Football Club Plc,Restaurant/Cafe/Canteen,1,,,635182,,,55.93211200000000,PI/000056510,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.29502700000000,G62 6EJ,2014-02-21,fhis_pass_en-GB,Pass,,FHIS,
-423765,Unit 1,Millersneuk Road,,,Rasoi,Restaurant/Cafe/Canteen,1,,,583720,,,55.92127600000000,PI/000059697,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15049800000000,G66 5JB,2014-03-21,fhis_pass_en-GB,Pass,,FHIS,
-423766,5 Catherine Street,Kirkintilloch,,,Red Chillies,Takeaway/sandwich shop,7844,,,689935,,,55.93937800000000,14/00024,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15550400000000,G66 1JB,2014-07-29,fhis_pass_en-GB,Pass,,FHIS,
-423767,123 Westerhill Road,Bishopbriggs,,,Restaurant Associates at Aviva,Restaurant/Cafe/Canteen,1,,,667784,,,55.91456000000000,PI/000061463,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19946100000000,G64 2QR,2013-09-11,fhis_pass_en-GB,Pass,,FHIS,
-423768,21 Glasgow Road,Kirkintilloch,,,Richmond Fellowship Scotland,Hospitals/Childcare/Caring Premises,5,,,583628,,,55.93923200000000,PI/000015725,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16643300000000,G66 1AQ,2013-12-04,fhis_pass_en-GB,Pass,,FHIS,
-423769,Unit 3/4/5,Kirkintilloch Industrial Estate,,,Riverside Childcare,Hospitals/Childcare/Caring Premises,5,,,583630,,,55.94477100000000,PI/000016222,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15497100000000,G66 1SY,2014-04-01,fhis_pass_en-GB,Pass,,FHIS,
-423770,Lammermoor Road,Kirkintilloch,,,Riverside Gospel Church,School/college/university,7845,,,583661,,,55.93595700000000,PI/000021453,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13629300000000,G66 2AB,2010-03-29,fhis_pass_en-GB,Pass,,FHIS,
-423771,77A Hillhead Rd,Kirkintilloch,,,Robbie's CafÃ© and Takeaway,Takeaway/sandwich shop,7844,,,689936,,,55.94260500000000,60533,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14570700000000,G66 2HY,2014-07-23,fhis_pass_en-GB,Pass,,FHIS,
-423772,2 Hillcroft Terrace,Bishopbriggs,,,Rock N Rolls,Takeaway/sandwich shop,7844,,,667707,,,55.89844100000000,PI/000027510,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23070100000000,G64 2AW,2014-09-04,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423773,181-183 Kirkintilloch Road,Bishopbriggs,,,Roma,Restaurant/Cafe/Canteen,1,,,730647,,,55.94360400000000,PI/14/00075/Mixed,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.12800200000000,G66 2LS,2015-01-07,fhis_pass_en-GB,Pass,,FHIS,
-423774,149 Milngavie Road,Bearsden,,,Romys Fast Food Take Away,Takeaway/sandwich shop,7844,,,552696,,,55.92123100000000,PI/000047104,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31980100000000,G61 3DY,2013-12-09,fhis_pass_en-GB,Pass,,FHIS,
-423775,116 Drymen Road,Bearsden,,,Rose and Grants,Restaurant/Cafe/Canteen,1,,,552741,,,55.91982700000000,PI/000060197,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33368900000000,G61 3RA,2014-05-06,fhis_pass_en-GB,Pass,,FHIS,
-423776,Balmuildy Road,Bishopbriggs,,,Rowan's Lunch Club,Pub/bar/nightclub,7843,,,667700,,,55.90815200000000,PI/000013001,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22596200000000,G64 3BN,2013-02-12,fhis_pass_en-GB,Pass,,FHIS,
-423777,12 Arnold Avenue,Bishopbriggs,,,Royal Garden,Restaurant/Cafe/Canteen,1,,,667758,,,55.90378700000000,PI/000059661,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22331200000000,G64 1PE,2015-02-06,fhis_pass_en-GB,Pass,,FHIS,
-423778,50 Switchback Road,Bearsden,,,Royal Tandoori,Takeaway/sandwich shop,7844,,,693290,,,55.90584300000000,14/00025,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32560100000000,G61 1AE,2014-12-09,fhis_pass_en-GB,Pass,,FHIS,
-423779,63 Milngavie Road,Bearsden,,,Ruby Inn,Takeaway/sandwich shop,7844,,,552709,,,55.91537400000000,PI/000049035,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32157900000000,G61 2DW,2014-06-26,fhis_pass_en-GB,Pass,,FHIS,
-423780,Twechar Post Office,49 Macdonald Crescent,,,S & K Ali Post Office And Newsagent,Retailers - other,4613,,,667705,,,55.95122900000000,PI/000023967,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08312400000000,G65 9SH,2014-03-13,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423781,Hillhead community Centre,Kirkintilloch,,,S.T.A.R,Hospitals/Childcare/Caring Premises,5,,,730648,,,,PI/14/00089/Food,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,,G66 2GT,2014-12-17,fhis_pass_en-GB,Pass,,FHIS,
-423782,6 Shamrock Street,Kirkintilloch,,,Sainsburys Supermarket,Retailers - supermarkets/hypermarkets,7840,,,583659,,,55.93701200000000,PI/000020702,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15463600000000,G66 1RA,2014-09-08,fhis_pass_en-GB,Pass,,FHIS,
-423783,Kentenich Way,Campsie Glen,,,Schoenstatt Centre,Restaurant/Cafe/Canteen,1,,,583585,,,55.98746500000000,PI/000004744,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23042300000000,G66 7AT,2013-11-01,fhis_pass_en-GB,Pass,,FHIS,
-423784,120 Auchinairn Rd,Bishopbriggs,,,Scotmid,Retailers - supermarkets/hypermarkets,7840,,,667771,,,55.89764400000000,PI/000060699,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21312400000000,G64 1NQ,2014-09-10,fhis_pass_en-GB,Pass,,FHIS,
-423785,1-3 South Mains Road,Milngavie,,,Scotmid,Retailers - supermarkets/hypermarkets,7840,,,635165,,,55.93711600000000,PI/000051736,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31815700000000,G62 6DB,2014-09-10,fhis_pass_en-GB,Pass,,FHIS,
-423786,151-153 Spey Road,Bearsden,,,Scotmid,Retailers - supermarkets/hypermarkets,7840,,,552751,,,55.90823000000000,PI/000060693,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34849700000000,G61 1LF,2014-11-20,fhis_pass_en-GB,Pass,,FHIS,
-423787,2-4 Ledi Drive,Bearsden,,,Scotmid,Retailers - supermarkets/hypermarkets,7840,,,552658,,,55.92640800000000,PI/000034877,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35153400000000,G61 4JJ,2014-06-12,fhis_pass_en-GB,Pass,,FHIS,
-423788,4 Antermony Road,Milton Of Campsie,,,Scotmid,Retailers - supermarkets/hypermarkets,7840,,,583735,,,55.96449400000000,PI/000060697,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16034600000000,G66 8DB,2014-11-25,fhis_pass_en-GB,Pass,,FHIS,
-423789,6-8 Gallowhill Road,Kirkintilloch,,,Scotmid,Retailers - supermarkets/hypermarkets,7840,,,583623,,,55.93142800000000,PI/000014685,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15427800000000,G66 4QG,2013-08-26,fhis_pass_en-GB,Pass,,FHIS,
-423790,77 Hillhead Road,Kirkintilloch,,,Scotmid,Retailers - supermarkets/hypermarkets,7840,,,583730,,,55.94260500000000,PI/000060537,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14570700000000,G66 2HY,2014-04-22,fhis_pass_en-GB,Pass,,FHIS,
-423791,81 Merkland Drive,Kirkintilloch,,,Scotmid,Retailers - supermarkets/hypermarkets,7840,,,583622,,,55.94232500000000,PI/000014408,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13079900000000,G66 3SJ,2014-01-16,fhis_pass_en-GB,Pass,,FHIS,
-423792,9 Carbeth Road,Milngavie,,,Shan Tandoori,Takeaway/sandwich shop,7844,,,635162,,,55.94178500000000,PI/000051036,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33031800000000,G62 7PR,2014-06-18,fhis_pass_en-GB,Pass,,FHIS,
-423793,Kirkintilloch Road,Bishopbriggs,,,Shell Lowmoss,Retailers - supermarkets/hypermarkets,7840,,,667690,,,55.91998500000000,PI/000007036,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21170800000000,G64 2HS,2014-07-23,fhis_pass_en-GB,Pass,,FHIS,
-423794,31 Glasgow Road,Kirkintilloch,,,Shell Westermains Service Station,Retailers - supermarkets/hypermarkets,7840,,,583611,,,55.93811900000000,PI/000012414,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16989300000000,G66 1BQ,2013-10-16,fhis_pass_en-GB,Pass,,FHIS,
-423795,67 Milngavie Road,Bearsden,,,Shish Tandoori,Takeaway/sandwich shop,7844,,,552727,,,55.91537400000000,PI/000054196,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32157900000000,G61 2DW,2014-12-02,fhis_pass_en-GB,Pass,,FHIS,
-423796,161 Auchinairn Road,Bishopbriggs,,,Shop Smart,Retailers - other,4613,,,667714,,,55.89785200000000,PI/000031289,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21153600000000,G64 1NG,2014-05-14,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423797,11 Campsie Road,Milton Of Campsie,,,Shopsmart,Retailers - other,4613,,,583606,,,55.96498900000000,PI/000011725,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16232800000000,G66 8EB,2014-07-17,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423798,7 Gallowhill Road,Kirkintilloch,,,Shopsmart,Retailers - other,4613,,,583679,,,55.93098400000000,PI/000028223,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15551800000000,G66 4QE,2014-04-11,fhis_pass_en-GB,Pass,,FHIS,
-423799,2A Whitehill Avenue,Kirkintilloch,,,Shopsmart AA Superstore,Retailers - supermarkets/hypermarkets,7840,,,583664,,,55.94384300000000,PI/000021841,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13703200000000,G66 2JJ,2013-06-26,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423800,8 Lochill Mill Holding,Antermony Road,,,Silver Birch,Restaurant/Cafe/Canteen,1,,,583737,,,55.96149300000000,PI/000060751,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13084300000000,G66 8AE,2014-03-20,fhis_pass_en-GB,Pass,,FHIS,
-423801,11 Carbeth Road,Milngavie,,,Silver Kitchen,Takeaway/sandwich shop,7844,,,635190,,,55.94178500000000,PI/000057819,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33031800000000,G62 7PR,2014-01-29,fhis_pass_en-GB,Pass,,FHIS,
-423802,82 Drymen Road,Bearsden,,,Silver Lantern,Takeaway/sandwich shop,7844,,,552693,,,55.91696200000000,PI/000046178,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33076400000000,G61 2RH,2014-07-08,fhis_pass_en-GB,Pass,,FHIS,
-423803,Hillhead Community Centre,Kirkintilloch,,,Small Talk CafÃ©,School/college/university,7845,,,730649,,,55.94171500000000,PI/14/00090/Mixed,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14107700000000,G66 2JT,2014-12-17,fhis_pass_en-GB,Pass,,FHIS,
-423804,3 David Donnelly Place,Kirkintilloch,,,Smiths Hotel,Restaurant/Cafe/Canteen,1,,,583670,,,55.94015500000000,PI/000022701,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15582000000000,G66 1DD,2014-05-22,fhis_pass_en-GB,Pass,,FHIS,
-423805,17 Carbeth Road,Milngavie,,,Snack Shack,Takeaway/sandwich shop,7844,,,735643,,,55.94178400000000,PI/15/00007/Mixed,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33031800000000,G62 7PR,2015-01-27,fhis_pass_en-GB,Pass,,FHIS,
-423806,57 Lomond Drive,Bishopbriggs,,,Sohals Licensed Grocers,Retailers - other,4613,,,667697,,,55.91221900000000,PI/000010577,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22473900000000,G64 3DA,2014-02-26,fhis_pass_en-GB,Pass,,FHIS,
-423807,37 Donaldson Street,Kirkintilloch,,,Southbank Snacks,Takeaway/sandwich shop,7844,,,583746,,,55.93477900000000,PI/000061426,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15539300000000,G66 1XE,2013-11-21,fhis_pass_en-GB,Pass,,FHIS,
-423808,Unit 8,Baljaffray Shopping Centre,,,Spice Chilli,Takeaway/sandwich shop,7844,,,552723,,,55.93253400000000,PI/000054062,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2014-05-22,fhis_pass_en-GB,Pass,,FHIS,
-423809,93A Auchinairn Road,Bishopbriggs,,,Spices,Takeaway/sandwich shop,7844,,,667772,,,55.89800500000000,PI/000060741,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21603900000000,G64 1NF,2014-11-28,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423810,Springfield Centre,Springfield Road,,,Springfield Cambridge Church,Restaurant/Cafe/Canteen,1,,,667740,,,55.90415800000000,PI/000056134,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21424700000000,G64 1PN,2014-02-14,fhis_pass_en-GB,Pass,,FHIS,
-423811,Wester Cleddens Road,Bishopbriggs,,,St Helen's Primary School,School/college/university,7845,,,667662,,,55.91009000000000,PI/000000382,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20165600000000,G64 1EH,2014-03-07,fhis_pass_en-GB,Pass,,FHIS,
-423812,St Joseph'S Rc Primary School,North Campbell Avenue,,,St Joseph's Nursery,School/college/university,7845,,,635142,,,55.94092900000000,PI/000046902,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32376500000000,G62 7AA,2013-07-19,fhis_pass_en-GB,Pass,,FHIS,
-423813,North Campbell Avenue,Milngavie,,,St Joseph's Primary School,School/college/university,7845,,,635138,,,55.94092900000000,PI/000043288,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32376500000000,G62 7AA,2014-06-20,fhis_pass_en-GB,Pass,,FHIS,
-423814,St Mary's Road,Bishopbriggs,,,St Mary's Kenmure,School/college/university,7845,,,667741,,,55.90680700000000,PI/000056137,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23770900000000,G64 2EH,2014-05-14,fhis_pass_en-GB,Pass,,FHIS,
-423815,St Mary's Church Hall,Cowgate,,,St Mary's Nursery,Hospitals/Childcare/Caring Premises,5,,,583637,,,55.93921200000000,PI/000017535,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15578300000000,G66 1JT,2014-12-16,fhis_pass_en-GB,Pass,,FHIS,
-423816,Park Road,Bishopbriggs,,,St Matthews Primary School,School/college/university,7845,,,667674,,,55.90961000000000,PI/000003258,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21542200000000,G64 2NP,2014-05-07,fhis_pass_en-GB,Pass,,FHIS,
-423817,1 Baldernock Road,Milngavie,,,St Paul's Church Of Scotland,Restaurant/Cafe/Canteen,1,,,635197,,,55.94201700000000,PI/000058177,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.30988200000000,G62 8DP,2014-10-29,fhis_pass_en-GB,Pass,,FHIS,
-423818,Duntocher Road,Bearsden,,,St. Andrews Primary School,School/college/university,7845,,,552659,,,55.92682700000000,PI/000034891,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34981400000000,G61 4QL,2012-03-08,fhis_pass_en-GB,Pass,,FHIS,
-423819,Alexandra Street,Kirkintilloch,,,St. Davids Memorial Park Church,School/college/university,7845,,,583677,,,55.93719900000000,PI/000027022,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15832900000000,G66 1HE,2014-01-14,fhis_pass_en-GB,Pass,,FHIS,
-423820,Newdyke Road,Kirkintilloch,,,St. Flannan's Primary School,School/college/university,7845,,,583662,,,55.94187700000000,PI/000021838,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13535400000000,G66 2JW,2012-11-23,fhis_pass_en-GB,Pass,,FHIS,
-423821,3 Buchanan Street,Milngavie,,,St. Josephs Catholic Church,Restaurant/Cafe/Canteen,1,,,635155,,,55.94236600000000,PI/000049839,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31377800000000,G62 8DZ,2012-09-12,fhis_pass_en-GB,Pass,,FHIS,
-423822,St. Machans Way,Lennoxtown,,,St. Machans Primary School,School/college/university,7845,,,583618,,,55.97723200000000,PI/000014187,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19978100000000,G66 7GG,2013-08-28,fhis_pass_en-GB,Pass,,FHIS,
-423823,Bellfield Road,Kirkintilloch,,,St. Ninian's High School,School/college/university,7845,,,583715,,,55.93686700000000,PI/000056992,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16340300000000,G66 1DT,2014-05-01,fhis_pass_en-GB,Pass,,FHIS,
-423824,Killermont Parish Church,Rannoch Drive,,,Step By Step Out Of School Club,School/college/university,7845,,,552711,,,55.91225900000000,PI/000049046,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31228800000000,G61 2LD,2013-11-05,fhis_pass_en-GB,Pass,,FHIS,
-423825,89 Merkland Drive,Kirkintilloch,,,Stewart Bros Ltd,Retailers - other,4613,,,583635,,,55.94232500000000,PI/000017430,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13079900000000,G66 3SJ,2013-09-04,fhis_pass_en-GB,Pass,,FHIS,
-423826,55 Stockiemuir Avenue,Bearsden,,,Stockiemuir Convenience Store,Retailers - other,4613,,,552742,,,55.93080100000000,PI/000060257,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33604600000000,G61 3JJ,2013-09-19,fhis_pass_en-GB,Pass,,FHIS,
-423827,2A Eildon Road,Kirkintilloch,,,Stop N' Shop,Retailers - supermarkets/hypermarkets,7840,,,583696,,,55.93820600000000,PI/000047229,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13870700000000,G66 2BG,2014-08-05,fhis_pass_en-GB,Pass,,FHIS,
-423828,159 Kirkintilloch Road,Bishopbriggs,,,Subway,Takeaway/sandwich shop,7844,,,667775,,,55.90516400000000,PI/000060894,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22475100000000,G64 2LS,2014-05-12,fhis_pass_en-GB,Pass,,FHIS,
-423829,53 Cowgate,Kirkintilloch,,,Subway,Takeaway/sandwich shop,7844,,,585626,,,55.94062200000000,PI/000054068,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15789500000000,G66 1HW,2013-09-10,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423830,7 Douglas Street,Milngavie,,,Subway,Takeaway/sandwich shop,7844,,,635178,,,55.94106600000000,PI/000055367,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31746400000000,G62 6PA,2014-08-05,fhis_pass_en-GB,Pass,,FHIS,
-423831,Unit 11,Millersneuk Road,,,Sung Garden Chinese Takeaway,Takeaway/sandwich shop,7844,,,583672,,,55.92097200000000,PI/000025544,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15142500000000,G66 5JD,2013-11-19,fhis_pass_en-GB,Pass,,FHIS,
-423832,Unit 9,The Triangle Shopping Centre,,,Superdrug,Retailers - supermarkets/hypermarkets,7840,,,667721,,,55.90479600000000,PI/000046839,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22420200000000,G64 2TR,2014-11-13,fhis_pass_en-GB,Pass,,FHIS,
-423833,19 The Regent Centre,Kirkintilloch,,,Superdrug Stores Plc,Retailers - other,4613,,,583638,,,55.93962600000000,PI/000017571,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15726300000000,G66 1JH,2012-11-14,fhis_pass_en-GB,Pass,,FHIS,
-423834,23 Dunkeld Drive,Bearsden,,,Supper in the Suburbs,School/college/university,7845,,,655525,,,55.91722600000000,PI/000060579,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31056700000000,G61 2AR,2014-04-14,fhis_pass_en-GB,Pass,,FHIS,
-423835,51 Thorn Road,Bearsden,,,Supper in the Suburbs,School/college/university,7845,,,665969,,,55.91964200000000,PI/000061047,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.34814700000000,G61 4BP,2014-05-13,fhis_pass_en-GB,Pass,,FHIS,
-423836,1 Quarry Lane,Lennoxtown,,,Swan Inn,Restaurant/Cafe/Canteen,1,,,583743,,,55.97547100000000,PI/000061089,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20226100000000,G66 7HB,2014-09-22,fhis_pass_en-GB,Pass,,FHIS,
-423837,2 Woodhill Road,Bishopbriggs,,,T A Supermarket,Retailers - other,4613,,,667701,,,55.89972100000000,PI/000017389,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20156400000000,G64 1JL,2012-11-02,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423838,Hayston Golf Club,Campsie Road,,,Table 13,Restaurant/Cafe/Canteen,1,,,583748,,,55.94350000000000,PI/000061430,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.17309300000000,G66 1RN,2013-08-14,fhis_pass_en-GB,Pass,,FHIS,
-423839,30 Main Street,Milngavie,,,Talbot Arms,Pub/bar/nightclub,7843,,,635148,,,55.93910300000000,PI/000047806,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31811500000000,G62 6BU,2013-07-09,fhis_pass_en-GB,Pass,,FHIS,
-423840,Tambowie Farm,Craigton,,,Tambowie Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,,,657300,,,55.95153800000000,PI/000059044,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35621300000000,G62 7HD,2014-04-07,fhis_pass_en-GB,Pass,,FHIS,
-423841,17 High Street,Kirkintilloch,,,Tantra Nightclub,Pub/bar/nightclub,7843,,,642444,,,55.94128300000000,PI/000018072,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15863700000000,G66 1PP,2014-03-19,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423842,17 Auchinairn Road,Bishopbriggs,,,Taste Good Wok,Takeaway/sandwich shop,7844,,,667765,,,55.89690900000000,PI/000060395,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22695000000000,G64 1RX,2014-01-13,fhis_pass_en-GB,Pass,,FHIS,
-423843,27 St. Mungo Street,Bishopbriggs,,,Taste Indian Cuisine,Restaurant/Cafe/Canteen,1,,,667716,,,55.90215400000000,PI/000033444,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22717000000000,G64 1QT,2013-10-09,fhis_pass_en-GB,Pass,,FHIS,
-423844,5 Hillhead Road,Kirkintilloch,,,Tender Loving Childcare,Hospitals/Childcare/Caring Premises,5,,,583709,,,55.94228100000000,PI/000055188,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14882800000000,G66 2HA,2013-11-12,fhis_pass_en-GB,Pass,,FHIS,
-423845,94 Kirkintilloch Road,Bishopbriggs,,,Tesco Express Store,Retailers - supermarkets/hypermarkets,7840,,,667743,,,55.90367100000000,PI/000057379,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22580200000000,G64 2AB,2014-09-09,fhis_pass_en-GB,Pass,,FHIS,
-423846,21 The Regent Centre,Kirkintilloch,,,Tesco Stores Ltd,Retailers - supermarkets/hypermarkets,7840,,,727298,,,55.93962600000000,PI/000017573,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15726300000000,G66 1JH,2014-11-06,fhis_pass_en-GB,Pass,,FHIS,
-423847,7 Gavins Mill Road,Milngavie,,,Tesco Stores Ltd,Retailers - supermarkets/hypermarkets,7840,,,635147,,,55.93977000000000,PI/000047800,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31560900000000,G62 6NB,2013-09-24,fhis_pass_en-GB,Pass,,FHIS,
-423848,177 Kirkintilloch Road,Bishopbriggs,,,The Avenue,Restaurant/Cafe/Canteen,1,,,667788,,,55.90516400000000,PI/000061509,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22475100000000,G64 2LS,2014-07-02,fhis_pass_en-GB,Pass,,FHIS,
-423849,50 Drymen Road,Bearsden,,,The Bearsden Nursery,School/college/university,7845,,,552666,,,55.91696200000000,PI/000038129,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33076400000000,G61 2RH,2015-01-30,fhis_pass_en-GB,Pass,,FHIS,
-423850,16 Woodhill Road,Bishopbriggs,,,The Campsie  Bar,Pub/bar/nightclub,7843,,,667718,,,55.89972100000000,PI/000033970,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20156400000000,G64 1JL,2014-02-19,fhis_pass_en-GB,Pass,,FHIS,
-423851,93 Merkland Drive,Kirkintilloch,,,The Chase,Restaurant/Cafe/Canteen,1,,,583639,,,55.94232500000000,PI/000017782,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.13079900000000,G66 3SJ,2013-12-05,fhis_pass_en-GB,Pass,,FHIS,
-423852,20 Woodhill Road,Bishopbriggs,,,The Chinese Carry Out,Takeaway/sandwich shop,7844,,,667703,,,55.89972100000000,PI/000017392,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20156400000000,G64 1JL,2015-01-05,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423853,Old Balmore Road,Balmore,,,The Coach House,Restaurant/Cafe/Canteen,1,,,667736,,,55.93361200000000,PI/000055304,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23594000000000,G64 4AE,2014-05-06,fhis_pass_en-GB,Pass,,FHIS,
-423854,128 Main Street,Lennoxtown,,,The Commercial Inn,Pub/bar/nightclub,7843,,,583593,,,55.97320600000000,PI/000008429,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.19974400000000,G66 7DA,2014-10-10,fhis_pass_en-GB,Pass,,FHIS,
-423855,Unit 9,Baljaffray Shopping Centre,,,The Fish Stop,Takeaway/sandwich shop,7844,,,552672,,,55.93253400000000,PI/000039164,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2013-08-26,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423856,University of Glasgow,464 Bearsden Road,,,The Food Farm,Restaurant/Cafe/Canteen,1,,,552722,,,55.90027600000000,PI/000053909,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31958900000000,G61 1QH,2013-08-21,fhis_pass_en-GB,Pass,,FHIS,
-423857,1A Rosevale Road,Bearsden,,,The Food Psychologist,Retailers - other,4613,,,552757,,,55.91744900000000,PI/000060950,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33020200000000,G61 2RX,2012-05-25,fhis_pass_en-GB,Pass,,FHIS,
-423858,Kenmure Avenue,Bishopbriggs,,,The Fort Theatre,Pub/bar/nightclub,7843,,,667671,,,55.90560500000000,PI/000003155,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23165600000000,G64 2DW,2014-02-24,fhis_pass_en-GB,Pass,,FHIS,
-423859,Mugdock Road,Milngavie,,,The Glasgow Academy,Restaurant/Cafe/Canteen,1,,,635196,,,55.94743800000000,PI/000057893,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31651500000000,G62 8NP,2014-06-04,fhis_pass_en-GB,Pass,,FHIS,
-423860,53 Townhead,Kirkintilloch,,,The Honey Flower,Takeaway/sandwich shop,7844,,,589208,,,55.93730600000000,PI/000059663,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15326000000000,G66 1NN,2014-10-28,fhis_pass_en-GB,Pass,,FHIS,
-423861,10-12 Kilsyth Road,Kirkintilloch,,,The Indian Cottage/Nico's Take-Away,Restaurant/Cafe/Canteen,1,,,583633,,,55.94282900000000,PI/000017160,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15295800000000,G66 1QD,2015-01-07,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423862,2 Station Road,Bearsden,,,The Inn,Pub/bar/nightclub,7843,,,552681,,,55.91690500000000,PI/000041912,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33232900000000,G61 4AN,2014-03-10,fhis_pass_en-GB,Pass,,FHIS,
-423863,1-9 Townhead,Kirkintilloch,,,The Kirky Puffer,Pub/bar/nightclub,7843,,,583718,,,55.93791800000000,PI/000058212,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15420600000000,G66 1NG,2014-09-11,fhis_pass_en-GB,Pass,,FHIS,
-423864,Kelvinbank Resource Centre,Kirkintilloch,,,The Lunch Bunch,Restaurant/Cafe/Canteen,1,,,711891,,,55.94543700000000,PI/000061628,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14309300000000,G66 1RP,2014-11-03,fhis_pass_en-GB,Pass,,FHIS,
-423865,160 Auchinairn Road,Bishopbriggs,,,The New Wok Cuisine,Takeaway/sandwich shop,7844,,,667778,,,55.89764400000000,PI/000061016,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21312400000000,G64 1NQ,2014-09-22,fhis_pass_en-GB,Pass,,FHIS,
-423866,46 Cowgate,Kirkintilloch,,,The Old Sweetie Shop,Retailers - other,4613,,,583695,,,55.94032500000000,PI/000047226,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15840700000000,G66 1HN,2013-10-09,fhis_pass_en-GB,Pass,,FHIS,
-423867,Unit 11,Baljaffray Shopping Centre,,,The Precinct Cafe,Restaurant/Cafe/Canteen,1,,,665971,,,55.93253400000000,PI/000061704,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.35033600000000,G61 4RN,2014-05-01,fhis_pass_en-GB,Pass,,FHIS,
-423868,17 Main Street,Torrance,,,The Rambler,Pub/bar/nightclub,7843,,,689934,,,55.93905800000000,14/00016,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21161100000000,G64 4EX,2014-07-16,fhis_pass_en-GB,Pass,,FHIS,
-423869,Redbrae Road,Kirkintilloch,,,The Redbrae,Restaurant/Cafe/Canteen,1,,,583688,,,55.93866900000000,PI/000043174,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.14464100000000,G66 2BX,2012-12-17,fhis_pass_en-GB,Pass,,FHIS,
-423870,Kirkintilloch Learning Centre,Lirkintilloch,,,The Spoon CafÃ©,Restaurant/Cafe/Canteen,1,,,711890,,,55.93625500000000,14/00065,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15733200000000,G66 1NH,2014-11-03,fhis_pass_en-GB,Pass,,FHIS,
-423871,Glasgow Bridge,Glasgow Road,,,The Stables,Restaurant/Cafe/Canteen,1,,,583605,,,55.93136700000000,PI/000011597,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.18835900000000,G66 1RH,2013-09-02,fhis_pass_en-GB,Pass,,FHIS,
-423872,25 Douglas Street,Milngavie,,,The Tea Cosy,Restaurant/Cafe/Canteen,1,,,635160,,,55.94065700000000,PI/000050573,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31912100000000,G62 6PE,2014-02-11,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423873,147 kirkintilloch rd,Bishopbriggs,,,The Village CafÃ©,Restaurant/Cafe/Canteen,1,,,667749,,,55.90516400000000,PI/000058211,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22475100000000,G64 2LS,2014-06-11,fhis_pass_en-GB,Pass,,FHIS,
-423874,3 Antermony Road,Milton Of Campsie,,,The Villge Bakers,Restaurant/Cafe/Canteen,1,,,711889,,,55.96449400000000,14/00061,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.16034600000000,G66 8DB,2014-10-29,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423875,71 Townhead,Kirkintilloch,,,The Wee Fishmarket,Retailers - other,4613,,,665970,,,55.93730600000000,PI/000061598,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15326000000000,G66 1NN,2014-04-22,fhis_pass_en-GB,Pass,,FHIS,
-423876,Bearsden Golf Range,200 Milngavie Road,,,The Wee Kitchen,Restaurant/Cafe/Canteen,1,,,552758,,,55.92666200000000,PI/000060964,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31396200000000,G61 3DH,2012-07-25,fhis_pass_en-GB,Pass,,FHIS,
-423877,2 Beech Road,Bishopbriggs,,,The Wine Seller,Retailers - other,4613,,,667750,,,55.89822000000000,PI/000058527,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21355600000000,G64 1NE,2013-06-26,fhis_pass_en-GB,Pass,,FHIS,
-423878,35 Auchinloch Road,Lenzie,,,The Wine Seller,Retailers - other,4613,,,583682,,,55.91850600000000,PI/000028519,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15061600000000,G66 5EY,2014-01-31,fhis_pass_en-GB,Pass,,FHIS,
-423879,20D Mugdock Road,Milngavie,,,The Yoga Kitchen,School/college/university,7845,,,635215,,,55.94285300000000,PI/000061491,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31750700000000,G62 8PB,2013-10-14,fhis_pass_en-GB,Pass,,FHIS,
-423880,100 Crowhill Road,Bishopbriggs,,,Thomas Muir Coffee Shop,Restaurant/Cafe/Canteen,1,,,667708,,,55.89927700000000,PI/000027541,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22673400000000,G64 1RP,2013-11-05,fhis_pass_en-GB,Pass,,FHIS,
-423881,15 Rannoch Drive,Bearsden,,,Tiffin,Takeaway/sandwich shop,7844,,,552720,,,55.90763300000000,PI/000053098,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31455600000000,G61 2JW,2014-06-04,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423882,Clober Primary School,Kirk Street,,,Time Out Club,Hospitals/Childcare/Caring Premises,5,,,635204,,,55.94365500000000,PI/000060121,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33408200000000,G62 7PN,2014-02-21,fhis_pass_en-GB,Pass,,FHIS,
-423883,Milngavie Community Education Centre,60 Allander Road,,,Time Out Club,Hospitals/Childcare/Caring Premises,5,,,635135,,,55.94310900000000,PI/000017569,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32062900000000,G62 8PN,2014-06-09,fhis_pass_en-GB,Pass,,FHIS,
-423884,Milngavie Primary School,Hillhead Street,,,Time Out Club,Hospitals/Childcare/Caring Premises,5,,,635207,,,55.94272900000000,PI/000060427,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31601000000000,G62 8AG,2013-11-07,fhis_pass_en-GB,Pass,,FHIS,
-423885,St Josephs School Hut,North Campbell Avenue,,,Time Out Club,Hospitals/Childcare/Caring Premises,5,,,635175,,,55.94092900000000,PI/000055191,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32376500000000,G62 7AA,2012-03-26,fhis_pass_en-GB,Pass,,FHIS,
-423886,School Rd,Torrance,,,Torrance Bowling Club,Pub/bar/nightclub,7843,,,667696,,,55.94247300000000,PI/000009880,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21108500000000,G64 4BZ,2014-06-02,fhis_pass_en-GB,Pass,,FHIS,
-423887,School Road,Torrance,,,Torrance Church Of Scotland,Restaurant/Cafe/Canteen,1,,,667694,,,55.94247300000000,PI/000008355,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21108500000000,G64 4BZ,2013-10-04,fhis_pass_en-GB,Pass,,FHIS,
-423888,96 Main Street,Torrance,,,Torrance Inn,Restaurant/Cafe/Canteen,1,,,667688,,,55.93820300000000,PI/000006723,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21266700000000,G64 4EL,2014-10-01,fhis_pass_en-GB,Pass,,FHIS,
-423889,Torrance Primary School,West Road,,,Torrance Nursery Class,School/college/university,7845,,,667724,,,55.94111300000000,PI/000049957,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21225600000000,G64 4DE,2015-01-14,fhis_pass_en-GB,Pass,,FHIS,
-423890,Torrance Community Centre,School Road,,,Torrance Pre-Fives,Hospitals/Childcare/Caring Premises,5,,,667748,,,55.94199200000000,PI/000058189,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20987200000000,G64 4DB,2012-10-29,fhis_pass_en-GB,Pass,,FHIS,
-423891,West Road,Torrance,,,Torrance Primary School,School/college/university,7845,,,667693,,,55.94111300000000,PI/000008354,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21225600000000,G64 4DE,2014-05-29,fhis_pass_en-GB,Pass,,FHIS,
-423892,27-29 Eastside,Kirkintilloch,,,Tuck-In,Takeaway/sandwich shop,7844,,,586883,,,55.94227000000000,PI/000019225,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15307100000000,G66 1QA,2014-09-25,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423893,St Mary's Road,Bishopbriggs,,,Turnbull High School,School/college/university,7845,,,667760,,,55.90968200000000,PI/000060164,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.23825900000000,G64 2EF,2013-12-19,fhis_pass_en-GB,Pass,,FHIS,
-423894,0 St Johns Way,Twechar,,,Twechar Healthy Living & Ent. Centre,School/college/university,7845,,,667759,,,55.95294900000000,PI/000059698,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08340900000000,G65 9TA,2014-06-26,fhis_pass_en-GB,Pass,,FHIS,
-423895,Twechar Primary School,Main Street,,,Twechar Language And Communication U,School/college/university,7845,,,667756,,,55.95294900000000,PI/000059491,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08340900000000,G65 9TA,2014-03-06,fhis_pass_en-GB,Pass,,FHIS,
-423896,Main Street,Twechar,,,Twechar Miners Welfare Bowling Club,Pub/bar/nightclub,7843,,,667747,,,55.95712600000000,PI/000058186,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08404900000000,G65 9QQ,2014-05-06,fhis_pass_en-GB,Pass,,FHIS,
-423897,Main Street,Twechar,,,Twechar Miners Welfare Club,Pub/bar/nightclub,7843,,,667711,,,55.95712600000000,PI/000030068,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08404900000000,G65 9QQ,2014-03-06,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423898,Twechar Primary School,Main Street,,,Twechar Nursery Class,Hospitals/Childcare/Caring Premises,5,,,667722,,,55.95294900000000,PI/000046843,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08340900000000,G65 9TA,2013-11-28,fhis_pass_en-GB,Pass,,FHIS,
-423899,Main Street,Twechar,,,Twechar Primary School,School/college/university,7845,,,667746,,,55.95294900000000,PI/000058184,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.08340900000000,G65 9TA,2014-05-12,fhis_pass_en-GB,Pass,,FHIS,
-423900,Saica Park,Cloberfield,,,Vending Services Ltd,Restaurant/Cafe/Canteen,1,,,635183,,,55.95043900000000,PI/000056514,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.32653000000000,G62 7LN,2014-01-09,fhis_pass_en-GB,Pass,,FHIS,
-423901,Sports and Health Club,Strathblane Road,,,Virgin Active,Restaurant/Cafe/Canteen,1,,,635213,,,55.94621100000000,PI/000060792,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.30428600000000,G62 8HJ,2014-10-15,fhis_pass_en-GB,Pass,,FHIS,
-423902,16-18 Cowgate,Kirkintilloch,,,W H Smith,Retailers - other,4613,,,583641,,,55.94032500000000,PI/000018084,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15840700000000,G66 1HN,2013-07-19,fhis_pass_en-GB,Pass,,FHIS,
-423903,Duntiblae Road,Kirkintilloch,,,Waterside Miners Welfare Club,Pub/bar/nightclub,7843,,,583680,,,55.93324500000000,PI/000028472,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.12159100000000,G66 3LG,2014-01-15,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423904,159 Milngavie Road,Bearsden,,,Wee Fry,Takeaway/sandwich shop,7844,,,552746,,,55.92123100000000,PI/000060442,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31980100000000,G61 3DY,2014-04-08,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423905,Craigen Glen Tea Room,Campsie Road,,,West Carlston Garden Centre,Restaurant/Cafe/Canteen,1,,,667699,,,55.94288300000000,PI/000012199,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20324500000000,G64 4EZ,2013-10-24,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423906,103 Main Street,Milngavie,,,West Highland Gate,Hotel/bed & breakfast/guest house,7842,,,635149,,,,PI/000047845,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,,G62 6JJ,2014-07-14,fhis_pass_en-GB,Pass,,FHIS,
-423907,Burnbrae,Glasgow Road,,,West Of Scotland Rugby Football Club,Pub/bar/nightclub,7843,,,635185,,,55.94071500000000,PI/000056519,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.31076500000000,G62 6AQ,2014-04-24,fhis_pass_en-GB,Pass,,FHIS,
-423908,Wester Cleddens Road,Bishopbriggs,,,Wester Cleddens Primary School,School/college/university,7845,,,667676,,,55.90807100000000,PI/000003260,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21851800000000,G64 2NQ,2014-03-11,fhis_pass_en-GB,Pass,,FHIS,
-423909,Maxwell Avenue,Bearsden,,,Westerton Bowling Club,Pub/bar/nightclub,7843,,,552665,,,55.90703100000000,PI/000037961,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33690400000000,G61 1NZ,2013-05-17,fhis_pass_en-GB,Pass,,FHIS,
-423910,114/116 Maxwell Avenue,Bearsden,,,Westerton Care Home,Hospitals/Childcare/Caring Premises,5,,,552749,,,55.90442700000000,PI/000060604,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33393200000000,G61 1HU,2014-11-05,fhis_pass_en-GB,Pass,,FHIS,
-423911,Westerton Public Hall & Library,82 Maxwell Avenue,,,Westerton Nursery,Hospitals/Childcare/Caring Premises,5,,,624190,,,55.90703100000000,PI/000054518,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33690400000000,G61 1NZ,2014-08-25,fhis_pass_en-GB,Pass,,FHIS,
-423912,Crarae Avenue,Bearsden,,,Westerton Primary School,School/college/university,7845,,,552673,,,55.90667700000000,PI/000039498,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.33376300000000,G61 1HY,2014-09-10,fhis_pass_en-GB,Pass,,FHIS,
-423913,77 Main Street,Torrance,,,Wheatsheaf Inn,Restaurant/Cafe/Canteen,1,,,667689,,,55.93765800000000,PI/000006729,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21246000000000,G64 4EN,2013-10-08,fhis_pass_en-GB,Pass,,FHIS,
-423914,25 Service Street,Lennoxtown,,,Whitefield Lodge Nursing Home,Hospitals/Childcare/Caring Premises,5,,,583619,,,55.97548900000000,PI/000014193,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20474700000000,G66 7JW,2014-09-15,fhis_pass_en-GB,Pass,,FHIS,
-423915,Baljaffray Road,Bearsden,,,Windyhill Golf Club,Pub/bar/nightclub,7843,,,552654,,,55.93274900000000,PI/000033007,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.36114000000000,G61 4QQ,2014-05-30,fhis_improvement_required_en-GB,Improvement Required,,FHIS,
-423916,Unit 15,The Triangle Shopping Centre,,,Wm Morrison Supermarkets Plc,Retailers - supermarkets/hypermarkets,7840,,,667670,,,55.90479600000000,PI/000002123,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22420200000000,G64 2TR,2014-12-03,fhis_pass_en-GB,Pass,,FHIS,
-423917,72 Townhead,Kirkintilloch,,,Woks Cuisine,Takeaway/sandwich shop,7844,,,583669,,,55.93608300000000,PI/000022501,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15275900000000,G66 1NZ,2014-03-25,fhis_pass_en-GB,Pass,,FHIS,
-423918,Wester Cleddens Road,Bishopbriggs,,,Woodhill Evangelical Church,Restaurant/Cafe/Canteen,1,,,667679,,,55.90752400000000,PI/000004030,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.21693500000000,G64 2NH,2013-08-08,fhis_pass_en-GB,Pass,,FHIS,
-423919,Kirriemuir Road,Bishopbriggs,,,Woodhill Primary School,School/college/university,7845,,,667660,,,55.90757900000000,PI/000000380,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.20487400000000,G64 1DL,2014-05-09,fhis_pass_en-GB,Pass,,FHIS,
-423920,74 Kirkintilloch Road,Bishopbriggs,,,World Buffet,Restaurant/Cafe/Canteen,1,,,667780,,,55.90367100000000,PI/000061139,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.22580200000000,G64 2AB,2014-07-16,fhis_pass_en-GB,Pass,,FHIS,
-423921,Park Centre,45 Kerr Street,,,WRVS,Restaurant/Cafe/Canteen,1,,,610187,,,55.93797600000000,PI/000061515,771,,East Dunbartonshire,http://www.eastdunbarton.gov.uk/home.aspx,-4.15861300000000,G66 1LF,2013-09-24,fhis_pass_en-GB,Pass,,FHIS,
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+423371,A Kennedy,Improvement Required,nan,nan,nan,2013-08-06,55.909252,-4.222313
+423372,A La Carte Delicatessen,Pass,nan,nan,nan,2014-04-07,55.920253,-4.333043
+423373,A.A Mini Market,Improvement Required,nan,nan,nan,2014-08-18,55.912598,-4.227609
+423374,Abbeyfield (Scotland) Ltd,Pass,nan,nan,nan,2013-11-12,55.922595,-4.151163
+423375,Abbeyfield Bearsden Society,Pass,nan,nan,nan,2014-05-07,55.920877,-4.326662
+423376,Abbotsford House,Pass,nan,nan,nan,2014-05-20,55.912207,-4.326991
+423377,ABR Quality Foods,Pass,nan,nan,nan,2014-09-22,55.916962,-4.330764
+423378,Albacore,Pass,nan,nan,nan,2014-08-21,55.906021,-4.321868
+423379,Allan Glen's Sports Club,Pass,nan,nan,nan,2013-08-06,55.909252,-4.222313
+423380,Allander Evangelical Church,Pass,nan,nan,nan,2014-08-13,,
+423381,AM News,Improvement Required,nan,nan,nan,2014-11-19,55.974766,-4.202446
+423382,Andiamo,Pass,nan,nan,nan,2014-10-31,55.943257,-4.314216
+423383,Anne Park Catering,Pass,nan,nan,nan,2014-01-09,55.956564,-4.33204
+423384,Antonine,Improvement Required,nan,nan,nan,2013-06-18,55.937618,-4.154446
+423385,Antonine House,Pass,nan,nan,nan,2014-10-24,55.919329,-4.325817
+423386,Archies Newsagents,Pass,nan,nan,nan,2015-02-13,55.932428,-4.128302
+423387,Asda Stores Ltd,Pass,nan,nan,nan,2013-04-22,55.917615,-4.319473
+423388,Ashoka Bearsden,Pass,nan,nan,nan,2014-07-15,55.920634,-4.332842
+423389,Ashoka Regent Brasserie,Improvement Required,nan,nan,nan,2014-12-16,55.939641,-4.1564
+423390,Athleat UK Ltd,Pass,nan,nan,nan,2014-02-07,55.916962,-4.330764
+423391,Auchenhowe Cottage Bed & Breakfast,Pass,nan,nan,nan,2011-09-16,55.934344,-4.288114
+423392,Auchinairn After-School Care Limited,Pass,nan,nan,nan,2013-10-07,55.897852,-4.211536
+423393,Auchinairn Bowling Club,Pass,nan,nan,nan,2014-11-20,55.898005,-4.216039
+423394,Auchinairn Primary School,Pass,nan,nan,nan,2014-09-04,55.89822,-4.213556
+423395,Aulds Bakers,Improvement Required,nan,nan,nan,2014-03-25,55.919827,-4.333689
+423396,Aulds Bakers,Pass,nan,nan,nan,2014-06-11,55.904796,-4.224202
+423397,Autograph the Food People,Pass,nan,nan,nan,2013-09-17,55.920897,-4.207983
+423398,Avenance,Improvement Required,nan,nan,nan,2013-01-22,55.931517,-4.310954
+423399,Aviva,Pass,nan,nan,nan,2013-09-11,55.91456,-4.199461
+423400,Back On Track Repairs,Pass,nan,nan,nan,2014-10-09,55.95675,-4.165794
+423401,Baguette Express,Pass,nan,nan,nan,2013-10-07,55.939641,-4.1564
+423402,Baldernock Church Hall,Pass,nan,nan,nan,2014-11-04,55.935894,-4.240459
+423403,Baldernock Playgroup,Pass,nan,nan,nan,2014-11-19,55.944242,-4.263122
+423404,Baldernock Primary School,Pass,nan,nan,nan,2014-03-05,55.944242,-4.263122
+423405,Baljaffray Nursery Class,Pass,nan,nan,nan,2014-09-24,55.929234,-4.350889
+423406,Baljaffray Parish Church,Improvement Required,nan,nan,nan,2009-01-21,55.932534,-4.350336
+423407,Baljaffray Primary School,Pass,nan,nan,nan,2014-11-25,55.929234,-4.350889
+423408,Balmore Golf Club,Pass,nan,nan,nan,2014-11-06,,
+423409,Balmuildy Primary School,Pass,nan,nan,nan,2014-05-06,55.912579,-4.231145
+423410,Bar Bliss,Pass,nan,nan,nan,2014-05-20,55.940622,-4.157895
+423411,Bardowie  Diner,Pass,nan,nan,nan,2014-06-26,55.934423,-4.268265
+423412,Baxter's Newsagents,Improvement Required,nan,nan,nan,2013-11-11,55.940561,-4.318475
+423413,Bay Leaf,Pass,nan,nan,nan,2014-12-16,55.907632,-4.314556
+423414,Bearsden Academy,Pass,nan,nan,nan,2014-10-27,55.927556,-4.347425
+423415,Bearsden Baptist Church,Pass,nan,nan,nan,2014-09-16,55.919329,-4.325817
+423416,Bearsden Bowling Club,Pass,nan,nan,nan,2012-11-13,55.915243,-4.336535
+423417,Bearsden Cafe,Pass,nan,nan,nan,2013-11-21,55.917615,-4.319473
+423418,Bearsden Cross Church,Pass,nan,nan,nan,2014-02-05,55.918244,-4.333274
+423419,Bearsden Golf Club,Pass,nan,nan,nan,2014-08-22,55.919642,-4.348147
+423420,Bearsden Primary After School Club,Pass,nan,nan,nan,2014-11-20,,
+423421,Bearsden Primary After School Club,Pass,nan,nan,nan,2013-09-25,55.918112,-4.331698
+423422,Bearsden Primary School,Pass,nan,nan,nan,2014-11-18,55.918112,-4.331698
+423423,Bearsden Ski Club,Pass,nan,nan,nan,2014-04-29,55.928066,-4.341389
+423424,Bearsden South Church Nursery,Pass,nan,nan,nan,2014-11-10,55.918244,-4.333274
+423425,Bedlam Paintball,Pass,nan,nan,nan,2013-07-18,55.928331,-4.081446
+423426,Best Foot Forward,Pass,nan,nan,nan,2014-04-08,55.938132,-4.308578
+423427,Beta Catering,Pass,nan,nan,nan,2013-11-20,55.917268,-4.340658
+423428,Bhaji's,Pass,nan,nan,nan,2013-07-22,55.973206,-4.199744
+423429,Bield Housing Day Care Centre,Pass,nan,nan,nan,2014-09-11,55.944119,-4.13615
+423430,Bield Sheltered Housing,Pass,nan,nan,nan,2014-08-22,55.944119,-4.13615
+423431,Bield Sheltered Housing,Pass,nan,nan,nan,2014-05-29,55.936652,-4.136091
+423432,Billingtons,Pass,nan,nan,nan,2014-12-05,55.921963,-4.154409
+423433,Birdston Nursing Home,Pass,nan,nan,nan,2014-10-17,55.955829,-4.157813
+423434,Bishopbriggs Academy,Pass,nan,nan,nan,2013-11-12,55.908862,-4.204035
+423435,Bishopbriggs Bowling Club,Pass,nan,nan,nan,2014-04-16,55.9049,-4.2264
+423436,Bishopbriggs Childcare,Pass,nan,nan,nan,2014-11-27,,
+423437,Bishopbriggs Free Church,Pass,nan,nan,nan,2014-05-19,55.896561,-4.226834
+423438,Bishopbriggs Golf Club,Pass,nan,nan,nan,2014-09-18,55.908644,-4.231079
+423439,Bishopbriggs Nursery Class,Pass,nan,nan,nan,2014-05-14,55.89822,-4.213556
+423440,Bishopbriggs Out Of School Care,Pass,nan,nan,nan,2014-06-02,55.916489,-4.219719
+423441,Bishopbriggs Out of School Care,Pass,nan,nan,nan,2014-08-20,55.908071,-4.218518
+423442,Bishopbriggs Out Of School Care,Pass,nan,nan,nan,2014-08-18,55.907579,-4.204874
+423443,Bishopbrigs Village Nursery,Pass,nan,nan,nan,2014-05-20,55.905164,-4.224751
+423444,Bme Day Care,Improvement Required,nan,nan,nan,2014-08-28,55.939262,-4.161102
+423445,Boclair Academy,Pass,nan,nan,nan,2014-11-03,55.914897,-4.306284
+423446,Boots the Chemist,Pass,nan,nan,nan,2014-02-18,55.920897,-4.207983
+423447,BP Bearsden Connect,Pass,nan,nan,nan,2013-12-10,55.927994,-4.341416
+423448,BP Canniesburn SF Connect,Pass,nan,nan,nan,2014-08-22,55.910353,-4.322367
+423449,Brasserie 19,Pass,nan,nan,nan,2014-05-28,55.920253,-4.333043
+423450,Broomhill Bistro,Pass,nan,nan,nan,2014-10-31,55.947065,-4.140412
+423451,Buchanan House Nursing Home,Pass,nan,nan,nan,2014-03-31,55.929236,-4.348391
+423452,Buchanan Lodge Nursing Home,Pass,nan,nan,nan,2015-01-07,55.929236,-4.348391
+423453,Buchanan Nursery,Pass,nan,nan,nan,2013-01-08,55.929236,-4.348391
+423454,Bullands Coffee House,Pass,nan,nan,nan,2014-10-28,55.942168,-4.317626
+423455,Burger King (Uk) Ltd,Pass,nan,nan,nan,2013-09-11,55.920897,-4.207983
+423456,Burnbank Day Care Lunch Club,Pass,nan,nan,nan,2014-02-20,55.944582,-4.318299
+423457,Burnbrae Chef & Brewer,Pass,nan,nan,nan,2014-11-17,55.921297,-4.3187
+423458,Burto's,Pass,nan,nan,nan,2014-06-04,55.924867,-4.350816
+423459,Buttercups House,Pass,nan,nan,nan,2014-09-16,55.906807,-4.237709
+423460,Butterfly Bakery and Cafe,Pass,nan,nan,nan,2013-04-22,55.921231,-4.319801
+423461,Cadder Freestone Social Club,Pass,nan,nan,nan,2014-04-10,55.902154,-4.22717
+423462,Caddyshack,Pass,nan,nan,nan,2014-05-06,55.919604,-4.347777
+423463,Cafe Alba,Pass,nan,nan,nan,2013-12-04,55.940484,-4.317797
+423464,Cafe Creme,Pass,nan,nan,nan,2013-10-16,55.919897,-4.33331
+423465,CafÃ© CrÃ¨me,Pass,nan,nan,nan,2014-06-11,55.904345,-4.225792
+423466,Cafe Max,Pass,nan,nan,nan,2014-05-08,55.916431,-4.234343
+423467,Cafe Prego,Pass,nan,nan,nan,2014-11-14,55.942153,-4.316504
+423468,Cafe Review,Pass,nan,nan,nan,2014-02-04,55.940657,-4.319121
+423469,Cafe Torino,Pass,nan,nan,nan,2014-03-05,55.904534,-4.224283
+423470,Cafe Torra,Pass,nan,nan,nan,2014-08-11,55.939058,-4.211611
+423471,Cairns Church Of Scotland,Pass,nan,nan,nan,2014-01-29,55.945428,-4.313913
+423472,Caldwell Hall,Improvement Required,nan,nan,nan,2013-01-28,55.940821,-4.209533
+423473,Campsie Bowling Club,Pass,nan,nan,nan,2013-05-03,55.976082,-4.201751
+423474,Campsie Caterers,Improvement Required,nan,nan,nan,2013-02-06,55.899721,-4.201564
+423475,Campsie Glen Coffee Shop,Pass,nan,nan,nan,2014-10-29,55.98903,-4.228365
+423476,Campsie Golf Club,Pass,nan,nan,nan,2013-12-02,55.981288,-4.202624
+423477,Campsie Parish Church,Pass,nan,nan,nan,2014-04-01,55.973206,-4.199744
+423478,Campsie View Nursery Class,Pass,nan,nan,nan,2013-08-22,55.924321,-4.172115
+423479,Campsie View Nursing Home,Pass,nan,nan,nan,2014-09-16,55.941116,-4.151758
+423480,Campsie View School,Pass,nan,nan,nan,2015-01-08,55.924321,-4.172115
+423481,Canniesburn Care/Nursing Home,Pass,nan,nan,nan,2014-11-19,55.909683,-4.326919
+423482,Canniesburn Nursery,Pass,nan,nan,nan,2014-05-26,55.909683,-4.326919
+423483,Carbeth Convenience Store,Improvement Required,nan,nan,nan,2014-04-04,55.941785,-4.330318
+423484,Carriages,Pass,nan,nan,nan,2013-09-02,55.920972,-4.151425
+423485,Castlehill Nursery,Pass,nan,nan,nan,2013-09-24,55.924573,-4.354432
+423486,Castlehill Primary School,Pass,nan,nan,nan,2014-11-06,55.924573,-4.354432
+423487,Castlehill Time-Out Club,Pass,nan,nan,nan,2012-03-09,55.924573,-4.354432
+423488,Caulders Garden Centre,Pass,nan,nan,nan,2014-03-24,55.946061,-4.142343
+423489,Cawder Golf Club,Improvement Required,nan,nan,nan,2014-04-07,55.927026,-4.23292
+423490,Cedar After School Club,Pass,nan,nan,nan,2012-02-27,55.923616,-4.155989
+423491,Cedar Nursery,Pass,nan,nan,nan,2014-08-18,55.924454,-4.154804
+423492,Celtic Training Ground Youth Academy,Pass,nan,nan,nan,2013-09-10,55.975296,-4.231438
+423493,Ceramic Experience,Pass,nan,nan,nan,2011-01-26,55.934102,-4.158109
+423494,Cha Cha Giz,Pass,nan,nan,nan,2014-12-16,55.897644,-4.213124
+423495,Charming Cuisine,Improvement Required,nan,nan,nan,2014-11-20,55.93977,-4.315609
+423496,Chinese Blossom,Pass,nan,nan,nan,2014-05-01,55.903671,-4.225802
+423497,Choo Chew,Improvement Required,nan,nan,nan,2014-05-27,55.916905,-4.332329
+423498,Christie Butchers,Pass,nan,nan,nan,2014-10-30,55.919897,-4.33331
+423499,Christines Sandwich Shop,Pass,nan,nan,nan,2013-11-05,55.896909,-4.22695
+423500,CJ Designs,Pass,nan,nan,nan,2015-01-07,55.937117,-4.304177
+423501,Claremont Bowling Club,Pass,nan,nan,nan,2013-06-25,55.941786,-4.320261
+423502,Classic India Restaurant,Pass,nan,nan,nan,2014-01-20,55.941066,-4.317464
+423503,Clober Golf Club,Improvement Required,nan,nan,nan,2014-10-09,55.946198,-4.327925
+423504,Clober Nursery Class,Pass,nan,nan,nan,2013-12-12,55.943655,-4.334082
+423505,Clober Primary School,Pass,nan,nan,nan,2014-08-20,55.943655,-4.334082
+423506,Colquhoun Out Of School Care,Pass,nan,nan,nan,2014-09-10,55.910633,-4.344546
+423507,Colquhoun Park Nursery Class,Pass,nan,nan,nan,2014-11-18,55.910633,-4.344546
+423508,Colquhoun Park Primary School,Pass,nan,nan,nan,2013-10-07,55.910633,-4.344546
+423509,Commercial Inn(Caterer),Pass,nan,nan,nan,2014-12-03,55.973206,-4.199744
+423510,Cookie's Kitchen,Pass,nan,nan,nan,2014-12-02,55.926662,-4.313962
+423511,Co-op,Pass,nan,nan,nan,2013-04-23,55.916905,-4.332329
+423512,Co-op,Pass,nan,nan,nan,2014-09-12,55.923616,-4.155989
+423513,Co-op,Pass,nan,nan,nan,2014-06-18,55.921276,-4.150498
+423514,Co-Operative Retail Services Ltd,Pass,nan,nan,nan,2013-08-30,55.974505,-4.201998
+423515,Costa,Pass,nan,nan,nan,2013-10-17,55.9414,-4.318301
+423516,Costa,Pass,nan,nan,nan,2014-04-03,55.920897,-4.207983
+423517,Costa Coffee,Pass,nan,nan,nan,2014-01-27,55.93977,-4.315609
+423518,Craft Daft on a Raft,Pass,nan,nan,nan,2014-02-12,55.931367,-4.188359
+423519,Craigdhu Primary School,Pass,nan,nan,nan,2014-10-23,55.936994,-4.331311
+423520,Craighead Childcare Centre,Pass,nan,nan,nan,2013-10-31,55.965965,-4.16046
+423521,Craighead Nursery Class,Pass,nan,nan,nan,2013-12-11,55.965965,-4.16046
+423522,Craighead Out-Of-School Care,Improvement Required,nan,nan,nan,2013-12-04,55.965965,-4.16046
+423523,Craighead Primary School,Pass,nan,nan,nan,2013-10-31,55.965965,-4.16046
+423524,Creative Care,Pass,nan,nan,nan,2014-12-09,55.905349,-4.231401
+423525,Crosbies Newsagents,Improvement Required,nan,nan,nan,2014-07-25,55.923237,-4.351918
+423526,Crow Tavern,Pass,nan,nan,nan,2014-12-05,55.903671,-4.225802
+423527,Cuisine Kitchen,Pass,nan,nan,nan,2013-09-10,55.974766,-4.202446
+423528,Cyan Bar and Restaurant,Pass,nan,nan,nan,2015-01-21,55.94004,-4.318475
+423529,Da Carlo's Chip Shop,Improvement Required,nan,nan,nan,2014-11-05,55.920972,-4.151425
+423530,Day Today Express,Improvement Required,nan,nan,nan,2014-03-12,55.921963,-4.154409
+423531,Day Today Express,Improvement Required,nan,nan,nan,2013-09-24,55.90823,-4.348497
+423532,Day Today Express,Pass,nan,nan,nan,2014-05-13,55.899721,-4.201564
+423533,Day Today Express,Pass,nan,nan,nan,2014-12-16,55.924867,-4.350816
+423534,Delhi Darbar,Improvement Required,nan,nan,nan,2014-11-17,55.899721,-4.201564
+423535,Delights,Pass,nan,nan,nan,2014-02-12,55.9071,-4.206543
+423536,Den,Pass,nan,nan,nan,2014-02-04,55.920328,-4.3338
+423537,Dina's,Pass,nan,nan,nan,2014-03-31,55.903671,-4.225802
+423538,Dining In,Pass,nan,nan,nan,2014-10-30,55.920253,-4.333043
+423539,D'Nisi,Pass,nan,nan,nan,2014-09-03,55.939641,-4.1564
+423540,Domino Pizza Take Away,Pass,nan,nan,nan,2014-01-07,55.920634,-4.332842
+423541,Domino's Pizza,Pass,nan,nan,nan,2014-05-14,55.903671,-4.225802
+423542,Douglas Academy,Pass,nan,nan,nan,2014-06-23,55.947665,-4.346304
+423543,Douglas Park Golf Club,Improvement Required,nan,nan,nan,2014-05-27,55.9215,-4.316968
+423544,Drookit Dug,Pass,nan,nan,nan,2013-05-20,55.973414,-4.199644
+423545,Eagle Lodge,Pass,nan,nan,nan,2014-06-13,55.913669,-4.219606
+423546,East Dunbartonshire Council,Pass,nan,nan,nan,2013-10-30,55.934714,-4.1596
+423547,Elior UK Ltd,Pass,nan,nan,nan,2014-12-04,55.931556,-4.151612
+423548,Elior UK Ltd,Pass,nan,nan,nan,2014-06-12,55.941563,-4.159069
+423549,Ellangowan Social Club,Improvement Required,nan,nan,nan,2013-01-17,55.941066,-4.317464
+423550,Express Cafe,Improvement Required,nan,nan,nan,2014-09-30,55.939626,-4.157263
+423551,Fantoosh Fish,Pass,nan,nan,nan,2014-12-04,55.942153,-4.316504
+423552,Farmfoods Ltd,Pass,nan,nan,nan,2012-11-12,55.937618,-4.154446
+423553,Farmfoods Ltd,Pass,nan,nan,nan,2014-02-11,55.932534,-4.350336
+423554,Ferndale Children's Services,Pass,nan,nan,nan,2013-09-03,55.93175,-4.144066
+423555,First Choice,Improvement Required,nan,nan,nan,2014-05-14,55.897753,-4.206556
+423556,Flora's Catering,Pass,nan,nan,nan,2014-08-28,55.961722,-4.16362
+423557,Food Co-op,Pass,nan,nan,nan,2013-10-01,55.943359,-4.151978
+423558,Food Co-op (Hillhead),Pass,nan,nan,nan,2013-09-10,55.940021,-4.141353
+423559,Food@75,Pass,nan,nan,nan,2014-01-07,55.940622,-4.157895
+423560,Four Square,Pass,nan,nan,nan,2014-03-27,55.9071,-4.206543
+423561,Frankie & Benny's,Pass,nan,nan,nan,2014-02-20,55.920897,-4.207983
+423562,Frank's Fish Chip & Pizza Place,Pass,nan,nan,nan,2014-10-02,55.912598,-4.227609
+423563,Freshgo,Pass,nan,nan,nan,2014-03-11,55.937658,-4.21246
+423564,Friendship Circle,Pass,nan,nan,nan,2014-02-19,55.941942,-4.311975
+423565,Friendship House,Improvement Required,nan,nan,nan,2014-01-16,55.939538,-4.318894
+423566,Gartconner Nursery Class,Pass,nan,nan,nan,2011-10-13,55.937413,-4.114934
+423567,Gartconner Primary School,Pass,nan,nan,nan,2014-03-05,55.937413,-4.114934
+423568,Garvie & Co,Pass,nan,nan,nan,2014-05-19,55.942153,-4.316504
+423569,Gerry's Fast Foods,Pass,nan,nan,nan,2014-02-10,55.937387,-4.135203
+423570,Ghiloni's,Pass,nan,nan,nan,2014-05-02,55.937306,-4.15326
+423571,Gianni's,Improvement Required,nan,nan,nan,2014-12-15,55.897644,-4.213124
+423572,Glasgow Golf Club,Pass,nan,nan,nan,2012-08-24,55.907671,-4.313471
+423573,Glazert Country House Hotel,Pass,nan,nan,nan,2013-11-20,55.970072,-4.19657
+423574,Glega Grub in the Pub at the Auchinairn tavern,Pass,nan,nan,nan,2014-09-17,55.898005,-4.216039
+423575,Glesga Grub,Pass,nan,nan,nan,2014-09-17,55.897852,-4.211536
+423576,Good Luck Chinese Takeaway,Pass,nan,nan,nan,2014-03-04,55.942048,-4.154484
+423577,Grace & Favour,Pass,nan,nan,nan,2014-07-08,55.919673,-4.333296
+423578,Greggs,Pass,nan,nan,nan,2014-10-28,55.9414,-4.318301
+423579,Greggs,Pass,nan,nan,nan,2014-06-06,55.904796,-4.224202
+423580,Greggs Of Rutherglen,Pass,nan,nan,nan,2014-05-27,55.9071,-4.206543
+423581,Greggs Of Rutherglen,Pass,nan,nan,nan,2013-12-18,55.940622,-4.157895
+423582,Gulistan Indian Restaurant,Pass,nan,nan,nan,2015-02-03,55.89822,-4.213556
+423583,Hanover (Scotland) Housing Associati,Pass,nan,nan,nan,2013-08-21,55.900862,-4.216586
+423584,Happitots Day Nursery,Pass,nan,nan,nan,2014-08-05,55.897279,-4.22985
+423585,Happy Days Nursery,Pass,nan,nan,nan,2014-06-10,55.942505,-4.154557
+423586,Happy Days Nursery,Pass,nan,nan,nan,2013-08-29,55.916431,-4.234343
+423587,Happy Days Out Of School Club,Pass,nan,nan,nan,2014-06-10,55.935957,-4.136293
+423588,Happy House,Pass,nan,nan,nan,2014-11-05,55.919333,-4.321816
+423589,Happy Little People,Pass,nan,nan,nan,2015-01-14,55.906677,-4.333763
+423590,Harestanes Primary School,Pass,nan,nan,nan,2014-04-29,55.945395,-4.124241
+423591,Harper Collins Publishers,Pass,nan,nan,nan,2014-03-13,55.91688,-4.201897
+423592,Hayston Golf Club,Pass,nan,nan,nan,2013-08-01,55.9435,-4.173093
+423593,High School Of Glasgow Kindergarten,Pass,nan,nan,nan,2014-11-18,55.917268,-4.340658
+423594,Hillfoot Auto Supplies,Pass,nan,nan,nan,2014-10-01,55.921231,-4.319801
+423595,Hillfoot Cafe,Pass,nan,nan,nan,2014-04-22,55.919333,-4.321816
+423596,Hillfoot Nursery,Pass,nan,nan,nan,2014-11-07,55.926662,-4.313962
+423597,Hillhead Nursery Centre,Pass,nan,nan,nan,2015-01-06,55.939422,-4.142216
+423598,Hillhead Primary School,Pass,nan,nan,nan,2014-10-22,55.939422,-4.142216
+423599,Hillhead Stores,Improvement Required,nan,nan,nan,2014-06-18,55.942852,-4.141877
+423600,Hilton Park Golf Club,Pass,nan,nan,nan,2015-01-15,55.968395,-4.362959
+423601,Holland & Barrett,Pass,nan,nan,nan,2014-02-12,55.9414,-4.318301
+423602,Holy Family Nursery Class,Pass,nan,nan,nan,2014-03-04,55.929124,-4.16422
+423603,Holy Family Primary School,Pass,nan,nan,nan,2013-08-22,55.929124,-4.16422
+423604,Hunter Paul,Pass,nan,nan,nan,2014-04-01,55.974766,-4.202446
+423605,Huntershill Gift Shop,Pass,nan,nan,nan,2014-03-31,55.899277,-4.226734
+423606,I Que CafÃ© Bar and Cue Sports Ltd,Pass,nan,nan,nan,2014-11-03,55.940325,-4.158407
+423607,Iceland,Pass,nan,nan,nan,2012-07-03,55.920897,-4.207983
+423608,Iceland Frozen Foods Plc,Pass,nan,nan,nan,2013-06-28,55.9414,-4.318301
+423609,Iron Chef,Pass,nan,nan,nan,2014-02-11,55.942168,-4.317626
+423610,Jaffar Store,Improvement Required,nan,nan,nan,2014-04-16,55.952949,-4.083409
+423611,Jas's Exotic Foods,Pass,nan,nan,nan,2014-10-30,55.937387,-4.135203
+423612,JC Dance & Cheer Academy,Improvement Required,nan,nan,nan,2014-05-12,55.941883,-4.164355
+423613,Jedworth Court Lunch Club,Improvement Required,nan,nan,nan,2013-10-17,55.922222,-4.333481
+423614,Jessie Biscut,Pass,nan,nan,nan,2014-05-21,55.942153,-4.316504
+423615,Joe's Good Food Van,Pass,nan,nan,nan,2014-09-18,55.943355,-4.160882
+423616,John Street House,Pass,nan,nan,nan,2015-01-13,55.941531,-4.148546
+423617,Karemore,Pass,nan,nan,nan,2013-09-18,55.932534,-4.350336
+423618,Kelvinbank Resource Centre,Pass,nan,nan,nan,2013-09-09,55.945437,-4.143093
+423619,Kenmure Church,Pass,nan,nan,nan,2014-03-24,55.901294,-4.233936
+423620,Key Housing Association,Pass,nan,nan,nan,2013-04-18,55.941786,-4.320261
+423621,Keystore,Improvement Required,nan,nan,nan,2014-07-16,55.908553,-4.336276
+423622,Keystore,Improvement Required,nan,nan,nan,2014-06-06,55.937387,-4.135203
+423623,Keystore,Improvement Required,nan,nan,nan,2014-07-03,55.94675,-4.332474
+423624,Kidsplay Childcare,Pass,nan,nan,nan,2014-07-11,55.933689,-4.155524
+423625,Killermont Nursery Class,Pass,nan,nan,nan,2014-08-22,55.919999,-4.313165
+423626,Killermont Parish Church,Pass,nan,nan,nan,2014-08-21,55.912259,-4.312288
+423627,Killermont Primary School,Pass,nan,nan,nan,2014-08-19,55.919999,-4.313165
+423628,Kincaid House Hotel,Pass,nan,nan,nan,2014-07-29,55.958176,-4.163919
+423629,Kirkie Filling Station,Pass,nan,nan,nan,2014-10-16,55.93483,-4.137528
+423630,Kirkintilloch Baptist Church,Pass,nan,nan,nan,2013-09-11,55.937618,-4.154446
+423631,Kirkintilloch Bowling Club,Pass,nan,nan,nan,2014-12-19,55.937199,-4.158329
+423632,Kirkintilloch Golf Club,Pass,nan,nan,nan,2014-12-09,55.9435,-4.173093
+423633,Kirkintilloch High School,Pass,nan,nan,nan,2014-03-21,55.935765,-4.128661
+423634,Kirkintilloch Miners Welfare,Pass,nan,nan,nan,2012-11-27,55.93558,-4.152219
+423635,Kirkintilloch Rangers Supporters Clu,Pass,nan,nan,nan,2014-11-06,55.938649,-4.153014
+423636,KP's Fishmonger,Pass,nan,nan,nan,2014-03-25,55.919673,-4.333296
+423637,LA Fitness,Pass,nan,nan,nan,2014-12-12,55.933253,-4.317093
+423638,La Vita Pizzeria,Pass,nan,nan,nan,2014-01-07,55.905164,-4.224751
+423639,Lairdsland Primary School,Pass,nan,nan,nan,2013-08-22,55.938062,-4.15937
+423640,Las Ramblas,Pass,nan,nan,nan,2015-01-19,55.920425,-4.333469
+423641,Lennox Service Station,Pass,nan,nan,nan,2014-11-25,55.974766,-4.202446
+423642,Lennoxtown Creche and Playgroup,Pass,nan,nan,nan,2014-04-01,55.974434,-4.199942
+423643,Lennoxtown Nursery Class,Pass,nan,nan,nan,2011-12-09,55.974434,-4.199942
+423644,Lennoxtown Primary School,Pass,nan,nan,nan,2014-10-08,55.974434,-4.199942
+423645,Lenzie Academy,Pass,nan,nan,nan,2014-09-18,55.927473,-4.159966
+423646,Lenzie Bowling Club,Pass,nan,nan,nan,2010-04-20,55.919421,-4.153788
+423647,Lenzie Golf Club,Pass,nan,nan,nan,2014-07-30,55.915027,-4.149112
+423648,Lenzie Golf Club Catering,Pass,nan,nan,nan,2014-12-12,55.915027,-4.149112
+423649,Lenzie Moss Out of School Care,Pass,nan,nan,nan,2014-06-04,55.925164,-4.160477
+423650,Lenzie Moss Primary School,Pass,nan,nan,nan,2013-09-06,55.925164,-4.160477
+423651,Lenzie Nursery Class,Pass,nan,nan,nan,2013-08-23,55.922683,-4.155329
+423652,Lenzie Primary School,Pass,nan,nan,nan,2013-08-23,55.923616,-4.155989
+423653,Lenzie Union Church,Pass,nan,nan,nan,2013-01-18,55.923616,-4.155989
+423654,Lidl,Pass,nan,nan,nan,2014-01-08,55.932534,-4.350336
+423655,Lido Chinese Takeaway,Pass,nan,nan,nan,2014-11-20,55.937387,-4.135203
+423656,Lifestyle,Improvement Required,nan,nan,nan,2014-04-08,55.898005,-4.216039
+423657,Lifestyle Express,Improvement Required,nan,nan,nan,2013-06-24,55.901426,-4.218202
+423658,Lifestyle Express,Improvement Required,nan,nan,nan,2014-03-31,55.945395,-4.124241
+423659,Lifestyle Express,Improvement Required,nan,nan,nan,2013-07-31,55.939628,-4.143268
+423660,Lifestyle Express,Improvement Required,nan,nan,nan,2013-02-27,55.932534,-4.350336
+423661,Lillyburn Care Home,Pass,nan,nan,nan,2014-10-14,55.955829,-4.157813
+423662,Lomond News,Improvement Required,nan,nan,nan,2014-02-26,55.912598,-4.227609
+423663,Londis Milngavie,Improvement Required,nan,nan,nan,2013-09-04,55.94675,-4.332474
+423664,Loon Hing Takeaway,Improvement Required,nan,nan,nan,2013-07-09,55.905843,-4.325601
+423665,Lowmoss Prison,Pass,nan,nan,nan,2013-11-14,55.923368,-4.196439
+423666,Lucky House,Improvement Required,nan,nan,nan,2014-05-26,55.942325,-4.130799
+423667,Lullaby Lane Nursery,Pass,nan,nan,nan,2013-11-14,55.9078,-4.338023
+423668,Luna Foods,Improvement Required,nan,nan,nan,2013-12-05,55.908644,-4.231079
+423669,Majella's,Pass,nan,nan,nan,2014-03-17,55.940325,-4.158407
+423670,Majestic Wine Warehouse Limited,Pass,nan,nan,nan,2013-07-16,55.92319,-4.317933
+423671,"Margo Hannah,Kirkintilloch Rangers Supporters Club",Pass,nan,nan,nan,2014-11-06,55.938649,-4.153014
+423672,Mariana,Pass,nan,nan,nan,2014-08-13,55.939212,-4.155783
+423673,Marini's,Pass,nan,nan,nan,2013-12-04,55.915374,-4.321579
+423674,Marks & Spencer,Pass,nan,nan,nan,2014-12-16,55.940758,-4.318038
+423675,Marks & Spencer,Pass,nan,nan,nan,2013-04-22,55.920328,-4.3338
+423676,Marks & Spencer,Pass,nan,nan,nan,2015-01-14,55.920897,-4.207983
+423677,Massimo,Pass,nan,nan,nan,2014-12-08,55.920634,-4.332842
+423678,Mavisbank Care Home - HC- One,Pass,nan,nan,nan,2014-04-14,55.900508,-4.228244
+423679,Maxholme Preschool Playgroup,Pass,nan,nan,nan,2014-10-24,55.919329,-4.325817
+423680,McDonalds,Pass,nan,nan,nan,2014-10-15,55.930736,-4.317135
+423681,Mcdonalds,Pass,nan,nan,nan,2013-09-10,55.944771,-4.154971
+423682,Meadowburn Gaelic Unit,Pass,nan,nan,nan,2015-01-08,,
+423683,Meadowburn Nursery Class,Pass,nan,nan,nan,2014-05-08,55.916489,-4.219719
+423684,Meadowburn Primary School,Pass,nan,nan,nan,2015-02-11,55.916489,-4.219719
+423685,Meet Me at the Corner,Pass,nan,nan,nan,2014-11-25,55.939103,-4.318115
+423686,Meitai,Pass,nan,nan,nan,2014-04-01,55.942153,-4.316504
+423687,Merkland School,Pass,nan,nan,nan,2014-06-09,55.942415,-4.133382
+423688,Merlwood Nursery,Pass,nan,nan,nan,2014-05-20,55.921276,-4.150498
+423689,Michaels Super Chippy,Pass,nan,nan,nan,2013-11-26,55.942325,-4.130799
+423690,Millersneuk Primary School,Pass,nan,nan,nan,2014-10-31,55.919226,-4.147439
+423691,Milngavie & Bearsden Sports Club,Pass,nan,nan,nan,2013-08-29,55.932112,-4.295027
+423692,Milngavie Bowling Club,Pass,nan,nan,nan,2014-07-10,55.941637,-4.311925
+423693,Milngavie Butchers Ltd,Improvement Required,nan,nan,nan,2014-05-01,55.941806,-4.316323
+423694,Milngavie Community Education Centre,Pass,nan,nan,nan,2014-06-10,55.943109,-4.320629
+423695,Milngavie Filling Station,Pass,nan,nan,nan,2014-02-10,55.939564,-4.311785
+423696,Milngavie Fish & Chip Shop,Improvement Required,nan,nan,nan,2014-07-24,55.940657,-4.319121
+423697,Milngavie Mini Market,Pass,nan,nan,nan,2014-02-13,55.943721,-4.310544
+423698,Milngavie Nursery Class,Pass,nan,nan,nan,2015-02-04,55.942729,-4.31601
+423699,Milngavie Old Peoples Committee,Pass,nan,nan,nan,2014-02-07,55.941066,-4.317464
+423700,Milngavie Primary School,Pass,nan,nan,nan,2014-05-01,55.942729,-4.31601
+423701,Milton Of Campsie Bowling Club,Pass,nan,nan,nan,2013-09-26,55.96036,-4.157744
+423702,Mohammed Sharif,Improvement Required,nan,nan,nan,2013-08-22,55.97141,-4.193617
+423703,Moss General Store,Improvement Required,nan,nan,nan,2014-11-28,55.927821,-4.162162
+423704,Moss Road Newsagents,Improvement Required,nan,nan,nan,2013-09-06,55.927821,-4.162162
+423705,Mosshead General Stores,Pass,nan,nan,nan,2013-09-10,55.930264,-4.316899
+423706,Mosshead Lunch Club,Improvement Required,nan,nan,nan,2013-09-10,55.930894,-4.333506
+423707,Mosshead Pre-School and Playgroup,Pass,nan,nan,nan,2014-03-12,55.93067,-4.330627
+423708,Mosshead Primary School,Pass,nan,nan,nan,2014-03-12,55.93067,-4.330627
+423709,Mother Murphy's,Pass,nan,nan,nan,2014-07-15,55.944833,-4.119806
+423710,Mr News,Pass,nan,nan,nan,2014-03-20,55.94227,-4.153071
+423711,Mugdock Care Home,Pass,nan,nan,nan,2014-09-24,55.927556,-4.347425
+423712,Mungo Foundation,Pass,nan,nan,nan,2013-11-07,55.951231,-4.088298
+423713,Murdo's Corner Shop,Pass,nan,nan,nan,2013-11-04,55.913345,-4.311904
+423714,N & S Motors,Pass,nan,nan,nan,2013-11-06,55.925707,-4.169439
+423715,New Adams,Pass,nan,nan,nan,2014-04-24,55.974505,-4.201998
+423716,New Kilpatrick Nursery,Pass,nan,nan,nan,2014-03-11,55.9199,-4.332701
+423717,New Kilpatrick Parish Church,Pass,nan,nan,nan,2014-06-11,55.921488,-4.332829
+423718,New Kirky Mahal,Pass,nan,nan,nan,2014-08-29,55.94227,-4.153071
+423719,New Manor Garden Restaurant,Pass,nan,nan,nan,2014-11-20,55.932534,-4.350336
+423720,New Sahiwal,Improvement Required,nan,nan,nan,2013-07-01,55.942325,-4.130799
+423721,Nonnas Kitchen,Pass,nan,nan,nan,2014-08-13,55.938508,-4.155456
+423722,Oakburn Day Centre,Pass,nan,nan,nan,2014-10-27,55.941276,-4.322969
+423723,Oasis Coffee Stop,Pass,nan,nan,nan,2013-04-18,55.934313,-4.139325
+423724,Olivias,Pass,nan,nan,nan,2014-01-21,55.973206,-4.199744
+423725,Orems Care Services,Pass,nan,nan,nan,2013-08-13,55.937658,-4.21246
+423726,Orient Express,Pass,nan,nan,nan,2013-11-06,55.903787,-4.223312
+423727,Oriental Carry Out,Pass,nan,nan,nan,2014-01-21,55.940627,-4.211796
+423728,Oriental Palace,Improvement Required,nan,nan,nan,2015-01-14,55.942048,-4.154484
+423729,Oxfam,Pass,nan,nan,nan,2014-04-02,55.920328,-4.3338
+423730,Oxfam,Pass,nan,nan,nan,2013-04-22,55.939103,-4.318115
+423731,Oxgang Primary School,Pass,nan,nan,nan,2014-01-23,55.935957,-4.136293
+423732,Paolo's,Pass,nan,nan,nan,2013-12-16,55.942133,-4.151638
+423733,Park Road Lunch Club,Pass,nan,nan,nan,2014-01-14,55.939603,-4.320691
+423734,"Party Buffet,Balmore Golf Club",Improvement Required,nan,nan,nan,2014-11-06,,
+423735,Paul's Fine Foods,Pass,nan,nan,nan,2015-01-28,55.937918,-4.154206
+423736,Paul's Quality Butchers,Pass,nan,nan,nan,2013-05-17,55.940325,-4.158407
+423737,Peking House,Pass,nan,nan,nan,2014-01-23,55.907633,-4.314556
+423738,Peppermint Lounge,Pass,nan,nan,nan,2013-06-26,55.943359,-4.151978
+423739,Perfect Pakora,Pass,nan,nan,nan,2014-02-04,55.941806,-4.316323
+423740,Peter's Bakery,Pass,nan,nan,nan,2013-07-01,55.942325,-4.130799
+423741,Piccollo,Pass,nan,nan,nan,2015-01-16,55.936083,-4.152759
+423742,Pinocchio's After School Care,Pass,nan,nan,nan,2014-01-14,55.912579,-4.231145
+423743,Pinocchio's Nursery Limited,Improvement Required,nan,nan,nan,2014-12-02,55.899277,-4.226734
+423744,Pizza Mario,Pass,nan,nan,nan,2013-10-23,55.905164,-4.224751
+423745,Planet India,Pass,nan,nan,nan,2014-02-13,55.915374,-4.321579
+423746,Playtown,Pass,nan,nan,nan,2015-01-07,55.919039,-4.209814
+423747,Posh Tarts,Pass,nan,nan,nan,2013-11-18,55.945967,-4.312519
+423748,Post Office,Pass,nan,nan,nan,2012-09-18,55.940657,-4.319121
+423749,Poundland,Improvement Required,nan,nan,nan,2014-08-08,55.939626,-4.157263
+423750,Poundstretcher,Pass,nan,nan,nan,2014-01-09,55.942153,-4.316504
+423751,Precinct 11 Cafe,Pass,nan,nan,nan,2012-10-16,55.932534,-4.350336
+423752,Premier Store,Improvement Required,nan,nan,nan,2014-05-14,55.974766,-4.202446
+423753,Price Crushers,Improvement Required,nan,nan,nan,2014-11-17,55.938669,-4.144641
+423754,Pro Bowl,Pass,nan,nan,nan,2015-01-13,55.944771,-4.154971
+423755,Quarriers,Pass,nan,nan,nan,2011-06-17,55.933227,-4.118964
+423756,Quin's Bar,Pass,nan,nan,nan,2015-01-21,55.904531,-4.224443
+423757,R Colpi & Son,Pass,nan,nan,nan,2014-06-11,55.939103,-4.318115
+423758,R S McColl,Pass,nan,nan,nan,2012-11-13,55.906441,-4.206729
+423759,R S Mccoll Ltd,Pass,nan,nan,nan,2013-06-21,55.947687,-4.31999
+423760,R S McColl Ltd,Pass,nan,nan,nan,2015-01-07,55.919827,-4.333689
+423761,Racetrack - Bearsden Services,Pass,nan,nan,nan,2014-10-23,55.925868,-4.348748
+423762,Rainbow House,Pass,nan,nan,nan,2013-08-15,55.931428,-4.154278
+423763,Rainbow Restaurant,Pass,nan,nan,nan,2014-05-09,55.905164,-4.224751
+423764,Rangers Football Club Plc,Pass,nan,nan,nan,2014-02-21,55.932112,-4.295027
+423765,Rasoi,Pass,nan,nan,nan,2014-03-21,55.921276,-4.150498
+423766,Red Chillies,Pass,nan,nan,nan,2014-07-29,55.939378,-4.155504
+423767,Restaurant Associates at Aviva,Pass,nan,nan,nan,2013-09-11,55.91456,-4.199461
+423768,Richmond Fellowship Scotland,Pass,nan,nan,nan,2013-12-04,55.939232,-4.166433
+423769,Riverside Childcare,Pass,nan,nan,nan,2014-04-01,55.944771,-4.154971
+423770,Riverside Gospel Church,Pass,nan,nan,nan,2010-03-29,55.935957,-4.136293
+423771,Robbie's CafÃ© and Takeaway,Pass,nan,nan,nan,2014-07-23,55.942605,-4.145707
+423772,Rock N Rolls,Improvement Required,nan,nan,nan,2014-09-04,55.898441,-4.230701
+423773,Roma,Pass,nan,nan,nan,2015-01-07,55.943604,-4.128002
+423774,Romys Fast Food Take Away,Pass,nan,nan,nan,2013-12-09,55.921231,-4.319801
+423775,Rose and Grants,Pass,nan,nan,nan,2014-05-06,55.919827,-4.333689
+423776,Rowan's Lunch Club,Pass,nan,nan,nan,2013-02-12,55.908152,-4.225962
+423777,Royal Garden,Pass,nan,nan,nan,2015-02-06,55.903787,-4.223312
+423778,Royal Tandoori,Pass,nan,nan,nan,2014-12-09,55.905843,-4.325601
+423779,Ruby Inn,Pass,nan,nan,nan,2014-06-26,55.915374,-4.321579
+423780,S & K Ali Post Office And Newsagent,Improvement Required,nan,nan,nan,2014-03-13,55.951229,-4.083124
+423781,S.T.A.R,Pass,nan,nan,nan,2014-12-17,,
+423782,Sainsburys Supermarket,Pass,nan,nan,nan,2014-09-08,55.937012,-4.154636
+423783,Schoenstatt Centre,Pass,nan,nan,nan,2013-11-01,55.987465,-4.230423
+423784,Scotmid,Pass,nan,nan,nan,2014-09-10,55.897644,-4.213124
+423785,Scotmid,Pass,nan,nan,nan,2014-09-10,55.937116,-4.318157
+423786,Scotmid,Pass,nan,nan,nan,2014-11-20,55.90823,-4.348497
+423787,Scotmid,Pass,nan,nan,nan,2014-06-12,55.926408,-4.351534
+423788,Scotmid,Pass,nan,nan,nan,2014-11-25,55.964494,-4.160346
+423789,Scotmid,Pass,nan,nan,nan,2013-08-26,55.931428,-4.154278
+423790,Scotmid,Pass,nan,nan,nan,2014-04-22,55.942605,-4.145707
+423791,Scotmid,Pass,nan,nan,nan,2014-01-16,55.942325,-4.130799
+423792,Shan Tandoori,Pass,nan,nan,nan,2014-06-18,55.941785,-4.330318
+423793,Shell Lowmoss,Pass,nan,nan,nan,2014-07-23,55.919985,-4.211708
+423794,Shell Westermains Service Station,Pass,nan,nan,nan,2013-10-16,55.938119,-4.169893
+423795,Shish Tandoori,Pass,nan,nan,nan,2014-12-02,55.915374,-4.321579
+423796,Shop Smart,Improvement Required,nan,nan,nan,2014-05-14,55.897852,-4.211536
+423797,Shopsmart,Improvement Required,nan,nan,nan,2014-07-17,55.964989,-4.162328
+423798,Shopsmart,Pass,nan,nan,nan,2014-04-11,55.930984,-4.155518
+423799,Shopsmart AA Superstore,Improvement Required,nan,nan,nan,2013-06-26,55.943843,-4.137032
+423800,Silver Birch,Pass,nan,nan,nan,2014-03-20,55.961493,-4.130843
+423801,Silver Kitchen,Pass,nan,nan,nan,2014-01-29,55.941785,-4.330318
+423802,Silver Lantern,Pass,nan,nan,nan,2014-07-08,55.916962,-4.330764
+423803,Small Talk CafÃ©,Pass,nan,nan,nan,2014-12-17,55.941715,-4.141077
+423804,Smiths Hotel,Pass,nan,nan,nan,2014-05-22,55.940155,-4.15582
+423805,Snack Shack,Pass,nan,nan,nan,2015-01-27,55.941784,-4.330318
+423806,Sohals Licensed Grocers,Pass,nan,nan,nan,2014-02-26,55.912219,-4.224739
+423807,Southbank Snacks,Pass,nan,nan,nan,2013-11-21,55.934779,-4.155393
+423808,Spice Chilli,Pass,nan,nan,nan,2014-05-22,55.932534,-4.350336
+423809,Spices,Improvement Required,nan,nan,nan,2014-11-28,55.898005,-4.216039
+423810,Springfield Cambridge Church,Pass,nan,nan,nan,2014-02-14,55.904158,-4.214247
+423811,St Helen's Primary School,Pass,nan,nan,nan,2014-03-07,55.91009,-4.201656
+423812,St Joseph's Nursery,Pass,nan,nan,nan,2013-07-19,55.940929,-4.323765
+423813,St Joseph's Primary School,Pass,nan,nan,nan,2014-06-20,55.940929,-4.323765
+423814,St Mary's Kenmure,Pass,nan,nan,nan,2014-05-14,55.906807,-4.237709
+423815,St Mary's Nursery,Pass,nan,nan,nan,2014-12-16,55.939212,-4.155783
+423816,St Matthews Primary School,Pass,nan,nan,nan,2014-05-07,55.90961,-4.215422
+423817,St Paul's Church Of Scotland,Pass,nan,nan,nan,2014-10-29,55.942017,-4.309882
+423818,St. Andrews Primary School,Pass,nan,nan,nan,2012-03-08,55.926827,-4.349814
+423819,St. Davids Memorial Park Church,Pass,nan,nan,nan,2014-01-14,55.937199,-4.158329
+423820,St. Flannan's Primary School,Pass,nan,nan,nan,2012-11-23,55.941877,-4.135354
+423821,St. Josephs Catholic Church,Pass,nan,nan,nan,2012-09-12,55.942366,-4.313778
+423822,St. Machans Primary School,Pass,nan,nan,nan,2013-08-28,55.977232,-4.199781
+423823,St. Ninian's High School,Pass,nan,nan,nan,2014-05-01,55.936867,-4.163403
+423824,Step By Step Out Of School Club,Pass,nan,nan,nan,2013-11-05,55.912259,-4.312288
+423825,Stewart Bros Ltd,Pass,nan,nan,nan,2013-09-04,55.942325,-4.130799
+423826,Stockiemuir Convenience Store,Pass,nan,nan,nan,2013-09-19,55.930801,-4.336046
+423827,Stop N' Shop,Pass,nan,nan,nan,2014-08-05,55.938206,-4.138707
+423828,Subway,Pass,nan,nan,nan,2014-05-12,55.905164,-4.224751
+423829,Subway,Improvement Required,nan,nan,nan,2013-09-10,55.940622,-4.157895
+423830,Subway,Pass,nan,nan,nan,2014-08-05,55.941066,-4.317464
+423831,Sung Garden Chinese Takeaway,Pass,nan,nan,nan,2013-11-19,55.920972,-4.151425
+423832,Superdrug,Pass,nan,nan,nan,2014-11-13,55.904796,-4.224202
+423833,Superdrug Stores Plc,Pass,nan,nan,nan,2012-11-14,55.939626,-4.157263
+423834,Supper in the Suburbs,Pass,nan,nan,nan,2014-04-14,55.917226,-4.310567
+423835,Supper in the Suburbs,Pass,nan,nan,nan,2014-05-13,55.919642,-4.348147
+423836,Swan Inn,Pass,nan,nan,nan,2014-09-22,55.975471,-4.202261
+423837,T A Supermarket,Improvement Required,nan,nan,nan,2012-11-02,55.899721,-4.201564
+423838,Table 13,Pass,nan,nan,nan,2013-08-14,55.9435,-4.173093
+423839,Talbot Arms,Pass,nan,nan,nan,2013-07-09,55.939103,-4.318115
+423840,Tambowie Bed & Breakfast,Pass,nan,nan,nan,2014-04-07,55.951538,-4.356213
+423841,Tantra Nightclub,Improvement Required,nan,nan,nan,2014-03-19,55.941283,-4.158637
+423842,Taste Good Wok,Pass,nan,nan,nan,2014-01-13,55.896909,-4.22695
+423843,Taste Indian Cuisine,Pass,nan,nan,nan,2013-10-09,55.902154,-4.22717
+423844,Tender Loving Childcare,Pass,nan,nan,nan,2013-11-12,55.942281,-4.148828
+423845,Tesco Express Store,Pass,nan,nan,nan,2014-09-09,55.903671,-4.225802
+423846,Tesco Stores Ltd,Pass,nan,nan,nan,2014-11-06,55.939626,-4.157263
+423847,Tesco Stores Ltd,Pass,nan,nan,nan,2013-09-24,55.93977,-4.315609
+423848,The Avenue,Pass,nan,nan,nan,2014-07-02,55.905164,-4.224751
+423849,The Bearsden Nursery,Pass,nan,nan,nan,2015-01-30,55.916962,-4.330764
+423850,The Campsie  Bar,Pass,nan,nan,nan,2014-02-19,55.899721,-4.201564
+423851,The Chase,Pass,nan,nan,nan,2013-12-05,55.942325,-4.130799
+423852,The Chinese Carry Out,Improvement Required,nan,nan,nan,2015-01-05,55.899721,-4.201564
+423853,The Coach House,Pass,nan,nan,nan,2014-05-06,55.933612,-4.23594
+423854,The Commercial Inn,Pass,nan,nan,nan,2014-10-10,55.973206,-4.199744
+423855,The Fish Stop,Improvement Required,nan,nan,nan,2013-08-26,55.932534,-4.350336
+423856,The Food Farm,Pass,nan,nan,nan,2013-08-21,55.900276,-4.319589
+423857,The Food Psychologist,Pass,nan,nan,nan,2012-05-25,55.917449,-4.330202
+423858,The Fort Theatre,Pass,nan,nan,nan,2014-02-24,55.905605,-4.231656
+423859,The Glasgow Academy,Pass,nan,nan,nan,2014-06-04,55.947438,-4.316515
+423860,The Honey Flower,Pass,nan,nan,nan,2014-10-28,55.937306,-4.15326
+423861,The Indian Cottage/Nico's Take-Away,Improvement Required,nan,nan,nan,2015-01-07,55.942829,-4.152958
+423862,The Inn,Pass,nan,nan,nan,2014-03-10,55.916905,-4.332329
+423863,The Kirky Puffer,Pass,nan,nan,nan,2014-09-11,55.937918,-4.154206
+423864,The Lunch Bunch,Pass,nan,nan,nan,2014-11-03,55.945437,-4.143093
+423865,The New Wok Cuisine,Pass,nan,nan,nan,2014-09-22,55.897644,-4.213124
+423866,The Old Sweetie Shop,Pass,nan,nan,nan,2013-10-09,55.940325,-4.158407
+423867,The Precinct Cafe,Pass,nan,nan,nan,2014-05-01,55.932534,-4.350336
+423868,The Rambler,Pass,nan,nan,nan,2014-07-16,55.939058,-4.211611
+423869,The Redbrae,Pass,nan,nan,nan,2012-12-17,55.938669,-4.144641
+423870,The Spoon CafÃ©,Pass,nan,nan,nan,2014-11-03,55.936255,-4.157332
+423871,The Stables,Pass,nan,nan,nan,2013-09-02,55.931367,-4.188359
+423872,The Tea Cosy,Improvement Required,nan,nan,nan,2014-02-11,55.940657,-4.319121
+423873,The Village CafÃ©,Pass,nan,nan,nan,2014-06-11,55.905164,-4.224751
+423874,The Villge Bakers,Improvement Required,nan,nan,nan,2014-10-29,55.964494,-4.160346
+423875,The Wee Fishmarket,Pass,nan,nan,nan,2014-04-22,55.937306,-4.15326
+423876,The Wee Kitchen,Pass,nan,nan,nan,2012-07-25,55.926662,-4.313962
+423877,The Wine Seller,Pass,nan,nan,nan,2013-06-26,55.89822,-4.213556
+423878,The Wine Seller,Pass,nan,nan,nan,2014-01-31,55.918506,-4.150616
+423879,The Yoga Kitchen,Pass,nan,nan,nan,2013-10-14,55.942853,-4.317507
+423880,Thomas Muir Coffee Shop,Pass,nan,nan,nan,2013-11-05,55.899277,-4.226734
+423881,Tiffin,Improvement Required,nan,nan,nan,2014-06-04,55.907633,-4.314556
+423882,Time Out Club,Pass,nan,nan,nan,2014-02-21,55.943655,-4.334082
+423883,Time Out Club,Pass,nan,nan,nan,2014-06-09,55.943109,-4.320629
+423884,Time Out Club,Pass,nan,nan,nan,2013-11-07,55.942729,-4.31601
+423885,Time Out Club,Pass,nan,nan,nan,2012-03-26,55.940929,-4.323765
+423886,Torrance Bowling Club,Pass,nan,nan,nan,2014-06-02,55.942473,-4.211085
+423887,Torrance Church Of Scotland,Pass,nan,nan,nan,2013-10-04,55.942473,-4.211085
+423888,Torrance Inn,Pass,nan,nan,nan,2014-10-01,55.938203,-4.212667
+423889,Torrance Nursery Class,Pass,nan,nan,nan,2015-01-14,55.941113,-4.212256
+423890,Torrance Pre-Fives,Pass,nan,nan,nan,2012-10-29,55.941992,-4.209872
+423891,Torrance Primary School,Pass,nan,nan,nan,2014-05-29,55.941113,-4.212256
+423892,Tuck-In,Improvement Required,nan,nan,nan,2014-09-25,55.94227,-4.153071
+423893,Turnbull High School,Pass,nan,nan,nan,2013-12-19,55.909682,-4.238259
+423894,Twechar Healthy Living & Ent. Centre,Pass,nan,nan,nan,2014-06-26,55.952949,-4.083409
+423895,Twechar Language And Communication U,Pass,nan,nan,nan,2014-03-06,55.952949,-4.083409
+423896,Twechar Miners Welfare Bowling Club,Pass,nan,nan,nan,2014-05-06,55.957126,-4.084049
+423897,Twechar Miners Welfare Club,Improvement Required,nan,nan,nan,2014-03-06,55.957126,-4.084049
+423898,Twechar Nursery Class,Pass,nan,nan,nan,2013-11-28,55.952949,-4.083409
+423899,Twechar Primary School,Pass,nan,nan,nan,2014-05-12,55.952949,-4.083409
+423900,Vending Services Ltd,Pass,nan,nan,nan,2014-01-09,55.950439,-4.32653
+423901,Virgin Active,Pass,nan,nan,nan,2014-10-15,55.946211,-4.304286
+423902,W H Smith,Pass,nan,nan,nan,2013-07-19,55.940325,-4.158407
+423903,Waterside Miners Welfare Club,Improvement Required,nan,nan,nan,2014-01-15,55.933245,-4.121591
+423904,Wee Fry,Improvement Required,nan,nan,nan,2014-04-08,55.921231,-4.319801
+423905,West Carlston Garden Centre,Improvement Required,nan,nan,nan,2013-10-24,55.942883,-4.203245
+423906,West Highland Gate,Pass,nan,nan,nan,2014-07-14,,
+423907,West Of Scotland Rugby Football Club,Pass,nan,nan,nan,2014-04-24,55.940715,-4.310765
+423908,Wester Cleddens Primary School,Pass,nan,nan,nan,2014-03-11,55.908071,-4.218518
+423909,Westerton Bowling Club,Pass,nan,nan,nan,2013-05-17,55.907031,-4.336904
+423910,Westerton Care Home,Pass,nan,nan,nan,2014-11-05,55.904427,-4.333932
+423911,Westerton Nursery,Pass,nan,nan,nan,2014-08-25,55.907031,-4.336904
+423912,Westerton Primary School,Pass,nan,nan,nan,2014-09-10,55.906677,-4.333763
+423913,Wheatsheaf Inn,Pass,nan,nan,nan,2013-10-08,55.937658,-4.21246
+423914,Whitefield Lodge Nursing Home,Pass,nan,nan,nan,2014-09-15,55.975489,-4.204747
+423915,Windyhill Golf Club,Improvement Required,nan,nan,nan,2014-05-30,55.932749,-4.36114
+423916,Wm Morrison Supermarkets Plc,Pass,nan,nan,nan,2014-12-03,55.904796,-4.224202
+423917,Woks Cuisine,Pass,nan,nan,nan,2014-03-25,55.936083,-4.152759
+423918,Woodhill Evangelical Church,Pass,nan,nan,nan,2013-08-08,55.907524,-4.216935
+423919,Woodhill Primary School,Pass,nan,nan,nan,2014-05-09,55.907579,-4.204874
+423920,World Buffet,Pass,nan,nan,nan,2014-07-16,55.903671,-4.225802
+423921,WRVS,Pass,nan,nan,nan,2013-09-24,55.937976,-4.158613

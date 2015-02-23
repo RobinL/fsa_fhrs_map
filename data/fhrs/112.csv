@@ -1,486 +1,486 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-8847,32-38 Furtherwick Road,Canvey Island,Essex,,99P Stores Ltd,Retailers - other,4613,0,,704517,5,,51.52236000000000,100091601989,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59203200000000,SS8 7AE,2014-08-11,fhrs_5_en-GB,5,,FHRS,5
-8848,103 Long Road,Canvey Island,Essex,,Abbeyfield House,Hospitals/Childcare/Caring Premises,5,0,,688043,0,,51.51999300000000,G100090377364,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58558400000000,SS8 0JB,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-8849,Chapel Lane,Hadleigh,Benfleet,Essex,Abbeyfield House,Takeaway/sandwich shop,7844,0,,39346,5,,51.55367300000000,100091599923,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60065100000000,SS7 2PW,2014-08-27,fhrs_5_en-GB,5,,FHRS,5
-8850,283 High Street,Canvey Island,Essex,,Admiral Jellicoe,Pub/bar/nightclub,7843,0,,39436,0,,51.51914900000000,100091601738,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60904700000000,SS8 7RS,2012-08-17,fhrs_5_en-GB,5,,FHRS,0
-8851,219 High Road,South Benfleet,Benfleet,Essex,Akash Tandoori,Other catering premises,7841,5,,722445,10,,51.55245600000000,P010342302190078499,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56112600000000,SS7 5HZ,2014-12-03,fhrs_4_en-GB,4,,FHRS,5
-8852,Ck Bar,35-37 Eastern Esplanade,Canvey Island,Essex,Alfies,Pub/bar/nightclub,7843,0,,727344,0,,,14/00030/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS7 7DN,2014-12-10,fhrs_5_en-GB,5,,FHRS,5
-8853,,,,,All Occasions,Other catering premises,7841,0,,39047,0,,,100090380903,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-10-29,fhrs_5_en-GB,5,,FHRS,0
-8854,,,,,All Occasions Cakes,Other catering premises,7841,5,,395840,0,,,100090370838,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-05-09,fhrs_5_en-GB,5,,FHRS,0
-8855,171 Long Road,Canvey Island,Essex,,Alliance Pharmacy,Retailers - other,4613,,,688008,,,51.51989900000000,100091601492,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58170000000000,SS8 0JD,2012-03-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-8856,12 Pauls Court,Meppel Avenue,Canvey Island,Essex,Altogether Fresher,Retailers - other,4613,0,,39532,0,,51.53187000000000,100091621270,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58615600000000,SS8 9RZ,2012-03-06,fhrs_5_en-GB,5,,FHRS,0
-8857,159 Church Road,Thundersley,Benfleet,Essex,Altogether Fresher,Retailers - supermarkets/hypermarkets,7840,0,,82063,5,,51.57157900000000,200000998288,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55932900000000,SS7 4EN,2014-08-19,fhrs_5_en-GB,5,,FHRS,5
-8858,173-175 Long Road,Canvey Island,Essex,,Altogether Fresher,Retailers - other,4613,5,,634195,0,,51.51989900000000,100091601493,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58170000000000,SS8 0JD,2013-08-29,fhrs_5_en-GB,5,,FHRS,5
-8859,1 Essex Way,South Benfleet,Benfleet,Essex,Anchor Inn,Pub/bar/nightclub,7843,0,,38991,0,,51.54573500000000,100090356815,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56621500000000,SS7 1LS,2012-03-28,fhrs_5_en-GB,5,,FHRS,5
-8860,89 Grandview Road,Thundersley,Benfleet,Essex,Ancora Restaurant,Restaurant/Cafe/Canteen,1,5,,37277,10,,51.55326200000000,10004932529,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60821500000000,SS7 2PA,2014-06-10,fhrs_4_en-GB,4,,FHRS,5
-8861,59 Furtherwick Road,Canvey Island,Essex,,Anika,Other catering premises,7841,20,,39423,20,,51.52177600000000,100091601599,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59282100000000,SS8 7AG,2014-08-29,fhrs_0_en-GB,0,,FHRS,20
-8862,,,,,Anita's Temptin Cakes,Other catering premises,7841,0,,687988,0,,,100090381519,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-11-21,fhrs_5_en-GB,5,,FHRS,0
-8863,266 Daws Heath Road,Hadleigh,Benfleet,Essex,Anns Mini Market,Retailers - other,4613,10,,634174,0,,51.56945000000000,100090356015,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61106100000000,SS7 2TP,2013-05-13,fhrs_4_en-GB,4,,FHRS,0
-8864,Unit 2,Weir Retail Park,Stadium Way,Thundersley,Argos,Retailers - other,4613,,,734155,,,51.57475100000000,15/00008/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60277800000000,SS7 3NU,2015-01-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-8865,92 Arundel Road,Thundersley,Benfleet,Essex,Arundel Food And Wine Store,Retailers - other,4613,10,,39368,0,,51.57290500000000,100091600693,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55130700000000,SS7 4EF,2013-03-15,fhrs_4_en-GB,4,,FHRS,5
-8866,94 Arundel Road,Thundersley,Benfleet,Essex,Arundel News,Retailers - other,4613,,,687999,,,51.57290500000000,100091600694,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55130700000000,SS7 4EF,2011-09-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-8867,Asia Food Ltd,Kings Road,Canvey Island,Essex,Asia Food Products Ltd,Manufacturers/packers,7839,10,,688034,10,,51.51922200000000,200000998127,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55385500000000,SS8 0QY,2014-09-02,fhrs_3_en-GB,3,,FHRS,10
-8868,249 London Road,Hadleigh,Benfleet,Essex,Asifs Chemists,Retailers - other,4613,,,687992,,,51.55377700000000,100091599831,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60971600000000,SS7 2RF,2012-05-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-8869,Auto Halt Service Station,Southend Arterial Road,Benfleet,Essex,Autohalt Service Station,Retailers - other,4613,0,,82048,0,,51.57840500000000,200000996777,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58520300000000,SS6 7TU,2012-03-29,fhrs_5_en-GB,5,,FHRS,0
-8870,77 Hart Road,Thundersley,Benfleet,Essex,B B Grout,Other catering premises,7841,0,,38994,0,,51.56882000000000,100090358678,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57976700000000,SS7 3PB,2013-01-04,fhrs_5_en-GB,5,,FHRS,0
-8871,101 High Street,Canvey Island,Essex,,B B Grout Ltd,Other catering premises,7841,0,,39439,0,,51.52278200000000,100091601881,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60057600000000,SS8 7RF,2014-03-21,fhrs_5_en-GB,5,,FHRS,0
-8872,120 London Road,South Benfleet,Benfleet,Essex,B B Grout Ltd,Retailers - other,4613,0,,39382,0,,51.56698800000000,100091601016,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55254800000000,SS7 5SQ,2013-03-20,fhrs_5_en-GB,5,,FHRS,0
-8873,265 London Road,Hadleigh,Benfleet,Essex,B B Grout Ltd,Retailers - other,4613,0,,39347,0,,51.55270300000000,100091600008,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61150100000000,SS7 2BN,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-8874,295 High Road,South Benfleet,Benfleet,Essex,B B Grout Ltd,Retailers - other,4613,0,,82049,0,,51.55366200000000,200000996990,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2014-10-10,fhrs_5_en-GB,5,,FHRS,0
-8875,80 Furtherwick Road,Canvey Island,Essex,,B B Grout Ltd,Retailers - other,4613,0,,39426,0,,51.52124000000000,100091601609,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59224200000000,SS8 7AJ,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-8876,Unit 6-7 Charfleets Close,Canvey Island,Essex,,B.O.P.H.,Other catering premises,7841,0,,688047,0,,51.52033400000000,P021315300070345959,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55812600000000,SS8 0PW,2015-01-26,fhrs_5_en-GB,5,,FHRS,0
-8877,362 Long Road,Canvey Island,Essex,,Bar One,Pub/bar/nightclub,7843,0,,39409,0,,51.51959000000000,100091601348,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56912700000000,SS8 0JQ,2013-07-31,fhrs_5_en-GB,5,,FHRS,0
-8878,294 High Road,South Benfleet,Benfleet,Essex,Barkins Butchers,Retailers - other,4613,5,,39388,5,,51.55420100000000,100091601066,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55865600000000,SS7 5HB,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-8879,12 Brunel Road,Manor Trading Estate,Benfleet,Essex,Beefys Diner,Restaurant/Cafe/Canteen,1,0,,37280,0,,51.57409100000000,10004933247,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56416100000000,SS7 4PS,2014-07-07,fhrs_5_en-GB,5,,FHRS,0
-8880,318 High Road,South Benfleet,Benfleet,Essex,Benfleet Chinese Takeaway,Takeaway/sandwich shop,7844,5,,39390,5,,51.55420100000000,100091601071,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55865600000000,SS7 5HB,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-8881,69 High Street,South Benfleet,Benfleet,Essex,Benfleet Conservative Club,Restaurant/Cafe/Canteen,1,0,,39521,0,,51.54529800000000,100091620949,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56232500000000,SS7 1NA,2014-11-17,fhrs_5_en-GB,5,,FHRS,0
-8882,Woodside Park,Manor Road,Benfleet,Essex,Benfleet Cricket/Social Club,Pub/bar/nightclub,7843,5,,159705,0,,,P010655600000116927,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS7 4PH,2012-09-24,fhrs_5_en-GB,5,,FHRS,0
-8883,Room At The Rear Of`unit C5,30 Brunel Road,Manor Trading Estate,Benfleet,Benfleet Kids Club,Other catering premises,7841,5,,528089,5,,51.57409100000000,10004937967/1,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56416100000000,SS7 4PS,2013-07-25,fhrs_5_en-GB,5,,FHRS,5
-8884,Unit 5,Corton Trading Estate,Church Road,Benfleet,Benfleet Market Shop,Retailers - other,4613,0,,688033,5,,51.57175400000000,200000998013,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56532800000000,SS7 4QN,2012-12-10,fhrs_5_en-GB,5,,FHRS,5
-8885,South Benfleet Methodist Church,67 High Road,South Benfleet,Benfleet,Benfleet Methodist Church,Other catering premises,7841,0,,687950,0,,51.54739200000000,010004938617,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56320700000000,SS7 5LH,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-8886,7 High Street,South Benfleet,Benfleet,Essex,Benfleet Tandoori Restaurant,Other catering premises,7841,5,,159682,5,,51.54529800000000,P010242500070371302,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56232500000000,SS7 1NA,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-8887,Richmond Avenue,South Benfleet,Benfleet,Essex,Benfleet Tavern,Pub/bar/nightclub,7843,0,,634200,0,,51.55433100000000,100091621080,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55600900000000,SS7 5HW,2012-06-18,fhrs_5_en-GB,5,,FHRS,0
-8888,Canvey Road,Canvey Island,Essex,,Benfleet Yacht Club,Pub/bar/nightclub,7843,5,,39411,10,,51.54059400000000,100091601386,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56648800000000,SS8 0QT,2014-05-30,fhrs_4_en-GB,4,,FHRS,5
-8889,217 High Road,South Benfleet,Benfleet,Essex,Benfruits,Retailers - other,4613,0,,634191,0,,51.55245600000000,100091601200,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56112600000000,SS7 5HZ,2013-07-10,fhrs_5_en-GB,5,,FHRS,5
-8890,Thorney Bay Beach Camp,Thorney Bay Road,Canvey Island,Essex,Best One,Retailers - other,4613,5,,644164,0,,51.51564400000000,800000000052,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58457300000000,SS8 0BX,2012-01-24,fhrs_5_en-GB,5,,FHRS,0
-8891,1 Rat Lane,Thundersley,Benfleet,Essex,Big Sausage Mobile,Mobile caterer,7846,5,,688046,10,,51.57577500000000,P01081260000-MOBILE,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60326900000000,SS6 7TS,2014-08-18,fhrs_4_en-GB,4,,FHRS,5
-8892,Unit 1,Queensway House,Kings Road,Canvey Island,Biltong Direct,Manufacturers/packers,7839,0,,634212,0,,51.51922200000000,200000997856,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55385500000000,SS8 0QY,2013-10-31,fhrs_4_en-GB,4,,FHRS,10
-8893,Southend Arterial Road,Benfleet,Essex,,Blinking Owl Cafe,Restaurant/Cafe/Canteen,1,5,,82074,10,,51.58504500000000,200000999073,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57361300000000,SS6 7TZ,2014-08-27,fhrs_4_en-GB,4,,FHRS,5
-8894,90C High Street,Canvey Island,Essex,,Blue Cafe,Restaurant/Cafe/Canteen,1,10,,39422,5,,51.52262500000000,100091601595,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59792900000000,SS8 7SQ,2013-07-22,fhrs_4_en-GB,4,,FHRS,5
-8895,Bonar House,5 Church Road,Hadleigh,Benfleet,Bonar House Clinic,Other catering premises,7841,5,,37289,0,,51.55304200000000,10004937155,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61202600000000,SS7 2DQ,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-8896,,,,,Bonne Bouche,Other catering premises,7841,5,,581152,5,,,100090354908,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-11-14,fhrs_5_en-GB,5,,FHRS,5
-8897,33-37 Furtherwick Road,Canvey Island,Essex,,Boots The Chemist Ltd,Retailers - other,4613,,,688016,,,51.52177600000000,100091601981,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59282100000000,SS8 7AG,2012-03-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-8898,1 Third Avenue,Canvey Island,Essex,,Boots UK Ltd,Retailers - other,4613,0,,688020,0,,51.52523500000000,100091621344,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56680600000000,SS8 9SU,2013-01-28,fhrs_5_en-GB,5,,FHRS,0
-8899,Boyce Hill Golf Club,Vicarage Hill,South Benfleet,Benfleet,Boyce Hill Golf & Country Club,Pub/bar/nightclub,7843,5,,159683,5,,51.54970800000000,P010291000000181146,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56877600000000,SS7 1PD,2014-08-27,fhrs_5_en-GB,5,,FHRS,5
-8900,371 Long Road,Canvey Island,Essex,,BP Express Shopping Limited,Retailers - other,4613,0,,688007,0,,51.51959000000000,100091601344,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56912700000000,SS8 0JQ,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-8901,36 London Road,Hadleigh,Benfleet,Essex,BP Westwood Connect,Retailers - other,4613,0,,39344,0,,51.55669200000000,100091599817,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60036100000000,SS7 2QP,2013-07-10,fhrs_5_en-GB,5,,FHRS,0
-8902,520 London Road,South Benfleet,Benfleet,Essex,Bread And Cheese,Pub/bar/nightclub,7843,5,,39009,5,,51.56240600000000,100090361963,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57578200000000,SS7 1AA,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-8903,132 London Road,South Benfleet,Benfleet,Essex,Britannia Fish Bar,Takeaway/sandwich shop,7844,20,,39399,10,,51.56698800000000,100091601095,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55254800000000,SS7 5SQ,2014-02-18,fhrs_1_en-GB,1,,FHRS,10
-8904,23 Western Esplanade,Canvey Island,Essex,,Buffets Direct,Other catering premises,7841,5,,528094,0,,51.51231200000000,100090383203,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58885300000000,SS8 0AY,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-8905,288 High Road,South Benfleet,Benfleet,Essex,Cafe Bou'tea'que,Other catering premises,7841,0,,722441,0,,51.55420100000000,14/00025/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55865600000000,SS7 5HB,2014-11-11,fhrs_5_en-GB,5,,FHRS,0
-8906,198 High Road,Benfleet,Essex,,Cafe Cafe,Restaurant/Cafe/Canteen,1,5,,39385,5,,51.55151400000000,100091601045,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56227000000000,SS7 5LD,2013-10-04,fhrs_5_en-GB,5,,FHRS,0
-8907,Unit 6,Casino Parade,Eastern Esplanade,Canvey Island,Cafe Corona,Restaurant/Cafe/Canteen,1,10,,704518,10,,,14/00018/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 7FJ,2014-06-24,fhrs_3_en-GB,3,,FHRS,5
-8908,2 Knightswick Centre,Furtherwick Road,Canvey Island,Essex,Cafe Floria,Restaurant/Cafe/Canteen,1,5,,208951,0,,51.52244200000000,200000998685,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59278600000000,SS8 7AB,2014-10-11,fhrs_5_en-GB,5,,FHRS,0
-8909,99 High Road,South Benfleet,Benfleet,Essex,Cafe Max,Restaurant/Cafe/Canteen,1,5,,39392,0,,51.54928000000000,100091601082,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56282300000000,SS7 5LN,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-8910,3-7 Rectory Road,Hadleigh,Benfleet,Essex,Cafe Yemek,Restaurant/Cafe/Canteen,1,20,,634162,10,,51.55533300000000,10004938058,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61054100000000,SS7 2NA,2014-06-10,fhrs_1_en-GB,1,,FHRS,5
-8911,,,,,Cake That Essex,Other catering premises,7841,10,,688024,5,,,14/00012/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-03-25,fhrs_3_en-GB,3,,FHRS,10
-8912,,,,,Cake Tin Ice,Other catering premises,7841,5,,39036,0,,,100090376235,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-03-31,fhrs_5_en-GB,5,,FHRS,0
-8913,,,,,Cakes 4 You By Me,Other catering premises,7841,0,,722436,0,,,100090372444,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-11-07,fhrs_5_en-GB,5,,FHRS,0
-8914,,,,,Cakes For All Occasions,Other catering premises,7841,10,,559386,5,,,100090380395,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-06-17,fhrs_3_en-GB,3,,FHRS,10
-8915,,,,,Canami Bespoke Cakes & Patisserie,Other catering premises,7841,10,,528091,5,,,100090365044,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-10-15,fhrs_4_en-GB,4,,FHRS,5
-8916,,,,,Candy's Couture Cupcakes,Other catering premises,7841,0,,330792,0,,,10004937345,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-03-28,fhrs_5_en-GB,5,,FHRS,0
-8917,,,,,Candys Ice Cream,Mobile caterer,7846,0,,687982,0,,,100090372607,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-11-21,fhrs_5_en-GB,5,,FHRS,0
-8918,162 High Street,Canvey Island,Essex,,Canvey Club,Pub/bar/nightclub,7843,0,,39437,0,,51.52215300000000,100091601750,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60296200000000,SS8 7SS,2012-12-05,fhrs_5_en-GB,5,,FHRS,5
-8919,Smallgains Hall,Smallgains Creek,Canvey Island,Essex,Canvey Cricket Club,Pub/bar/nightclub,7843,10,,159818,5,,51.52168900000000,P021775100000304723,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61493000000000,SS8 8NB,2013-01-02,fhrs_4_en-GB,4,,FHRS,5
-8920,63-67 Thelma Avenue,Canvey Island,Essex,,Canvey Express,Retailers - other,4613,20,,159799,10,,51.52386800000000,P02148450065,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58521200000000,SS8 9AN,2014-11-20,fhrs_1_en-GB,1,,FHRS,10
-8921,59 Long Road,Canvey Island,Essex,,Canvey Island Conservative Club,Pub/bar/nightclub,7843,5,,39415,5,,51.51996400000000,100091601490,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58894100000000,SS8 0JA,2013-10-23,fhrs_5_en-GB,5,,FHRS,5
-8922,Leigh Beck Road,Canvey Island,Essex,,Canvey Island Football Club,Pub/bar/nightclub,7843,0,,82060,0,,51.51776000000000,200000997530,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61570000000000,SS8 7PX,2014-10-14,fhrs_5_en-GB,5,,FHRS,0
-8923,Long Road,Canvey Island,Essex,,Canvey Island Infant School,School/college/university,7845,5,,644154,5,,51.51912600000000,800000000026,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57184000000000,SS8 0JG,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-8924,Canvey Island Rugby Club,Dovervelt Road,Canvey Island,Essex,Canvey Island Rugby Union FC,Other catering premises,7841,5,,634215,5,,51.52679300000000,200000998187,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59894500000000,SS8 8DY,2013-09-11,fhrs_5_en-GB,5,,FHRS,0
-8925,Lionel Road,Canvey Island,Essex,,Canvey Island Social Club,Pub/bar/nightclub,7843,5,,159796,5,,51.52144000000000,P021452500000235803,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59092700000000,SS8 9DE,2012-10-26,fhrs_5_en-GB,5,,FHRS,5
-8926,Long Road,Canvey Island,Essex,,Canvey Junior School,School/college/university,7845,5,,644153,5,,51.51912600000000,800000000025,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57184000000000,SS8 0JG,2013-12-05,fhrs_5_en-GB,5,,FHRS,5
-8927,23 Furtherwick Road,Canvey Island,Essex,,Card Factory,Retailers - other,4613,,,687958,,,51.52244200000000,10004938023,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59278600000000,SS8 7AB,2012-06-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-8928,The White House Ro Council Offices,Kiln Road,Thundersley,Benfleet,Carer's Choice,Hospitals/Childcare/Caring Premises,5,5,,559390,5,,51.56185500000000,200000998431,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58485600000000,SS7 1TF,2013-10-04,fhrs_5_en-GB,5,,FHRS,0
-8929,Eastern Esplanade,Canvey Island,Essex,SS8,Carousel Kiosk,Retailers - other,4613,5,,644170,0,,,800000000068,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-09-06,fhrs_5_en-GB,5,,FHRS,0
-8930,298 Kiln Road,Thundersley,Benfleet,Essex,Cartwrights Pharmacy,Retailers - other,4613,,,687991,,,51.55775200000000,100091599710,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59880600000000,SS7 1QT,2013-02-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-8931,Castle Hotel,High Street,Hadleigh,Benfleet,Castle Hotel Public House,Pub/bar/nightclub,7843,5,,634182,5,,51.55341900000000,100091228230,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60720000000000,SS7 2PB,2013-08-16,fhrs_5_en-GB,5,,FHRS,5
-8932,Castle Point Golf Course,Somnes Avenue,Canvey Island,Essex,Castle Point Golf Club,Other catering premises,7841,0,,634208,5,,51.53164300000000,200000996261,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58013000000000,SS8 9QB,2014-11-20,fhrs_4_en-GB,4,,FHRS,10
-8933,Foksville Road,Canvey Island,Essex,,Castle View School,School/college/university,7845,0,,644141,0,,51.52040900000000,10004939347,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59481900000000,SS8 7FH,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-8934,Hart Road,Thundersley,Benfleet,Essex,Cedar Hall Day School,School/college/university,7845,0,,82066,0,,51.56853100000000,200000998649,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59128100000000,SS7 3UQ,2013-07-03,fhrs_5_en-GB,5,,FHRS,0
-8935,Eastern Esplanade,Canvey Island,Essex,,Chapman Sands Sailing Club,Pub/bar/nightclub,7843,0,,82068,0,,51.51462400000000,200000998818,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61276700000000,SS8 7PQ,2014-12-01,fhrs_5_en-GB,5,,FHRS,0
-8936,,,,,Charlie's Snacks,Mobile caterer,7846,10,,688026,5,,,14/00014/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-01-17,fhrs_4_en-GB,4,,FHRS,5
-8937,261 High Road,South Benfleet,Benfleet,Essex,Cherry Leaf,Restaurant/Cafe/Canteen,1,10,,39373,10,,51.55366200000000,100091600767,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2013-11-12,fhrs_3_en-GB,3,,FHRS,5
-8938,116 Furtherwick Road,Canvey Island,Essex,,Chilli's Tandoori,Takeaway/sandwich shop,7844,10,,39428,5,,51.51962200000000,100091601618,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59258300000000,SS8 7AL,2013-10-03,fhrs_4_en-GB,4,,FHRS,5
-8939,94 Point Road,Canvey Island,Essex,,China Express Chinese Takeaway,Takeaway/sandwich shop,7844,10,,39438,5,,51.51966000000000,100091601752,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61761100000000,SS8 7TS,2014-11-20,fhrs_4_en-GB,4,,FHRS,5
-8940,269 High Street,Canvey Island,Essex,,Chutney Takeaway,Takeaway/sandwich shop,7844,5,,39443,10,,51.51914900000000,100091601891,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60904700000000,SS8 7RS,2013-08-28,fhrs_4_en-GB,4,,FHRS,5
-8941,Cisca House,Long Road,Canvey Island,Essex,CISCA House,Takeaway/sandwich shop,7844,5,,644135,5,,51.51996400000000,10004934477,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58894100000000,SS8 0JA,2014-10-16,fhrs_5_en-GB,5,,FHRS,5
-8942,,,,,Claire,Other catering premises,7841,0,,38986,0,,,100090353852,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2011-11-07,fhrs_5_en-GB,5,,FHRS,0
-8943,121 Furtherwick Road,Canvey Island,Essex,,Clarky's,Takeaway/sandwich shop,7844,0,,395841,0,,51.51987000000000,100091602000,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59320200000000,SS8 7AT,2014-06-02,fhrs_5_en-GB,5,,FHRS,0
-8944,,,,,Cob & Cottage,Other catering premises,7841,5,,39154,0,,,100091229143,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-03-16,fhrs_5_en-GB,5,,FHRS,0
-8945,Concord Rangers Football Club,Thames Road,Canvey Island,Essex,Concord Rangers FC,Pub/bar/nightclub,7843,10,,634216,0,,,200000998808,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 0HP,2012-05-11,fhrs_4_en-GB,4,,FHRS,0
-8946,Eastern Esplanade,Canvey Island,Essex,,Concorde Cafe,Restaurant/Cafe/Canteen,1,5,,634202,5,,51.51323900000000,100091621160,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60141600000000,SS8 7HG,2014-05-30,fhrs_5_en-GB,5,,FHRS,5
-8947,22-24 High Street,Hadleigh,Benfleet,Essex,Conservative Club,Pub/bar/nightclub,7843,0,,37286,0,,51.55342000000000,10004935406,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60720000000000,SS7 2PB,2012-09-07,fhrs_5_en-GB,5,,FHRS,5
-8948,,,,,Cook With Padmaja,Other catering premises,7841,0,,687962,0,,,100090352546,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-11-21,fhrs_5_en-GB,5,,FHRS,0
-8949,289-291 High Road,South Benfleet,Benfleet,Essex,Co-Op,Retailers - other,4613,0,,634188,5,,51.55366200000000,100091601058,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2014-01-20,fhrs_5_en-GB,5,,FHRS,5
-8950,119-123 London Road,South Benfleet,Benfleet,Essex,Co-Op Store,Retailers - other,4613,0,,159704,0,,51.56761500000000,P01055200119,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55140000000000,SS7 5UH,2012-07-17,fhrs_5_en-GB,5,,FHRS,5
-8951,44 Linden Way,Canvey Island,Essex,,Co-Op Welcome,Retailers - other,4613,5,,159794,0,,51.52310000000000,P02145170044,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57517800000000,SS8 9JB,2014-01-15,fhrs_5_en-GB,5,,FHRS,5
-8952,Cornelius Vermuyden School,Dinant Avenue,Canvey Island,Essex,Cornelius Vermuyden,School/college/university,7845,0,,494017,0,,51.52523500000000,100091643478,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56680600000000,SS8 9SU,2014-07-14,fhrs_5_en-GB,5,,FHRS,0
-8953,359 Long Road,Canvey Island,Essex,,Cosmos Cafe,Restaurant/Cafe/Canteen,1,0,,39418,5,,51.51959000000000,100091601501,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56912700000000,SS8 0JQ,2013-10-03,fhrs_5_en-GB,5,,FHRS,5
-8954,Charfleets Road,Canvey Island,Essex,,Crazy Chef,Restaurant/Cafe/Canteen,1,10,,39528,10,,51.52118600000000,100091621139,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55658800000000,SS8 0PQ,2013-11-13,fhrs_3_en-GB,3,,FHRS,10
-8955,15 Third Avenue,Canvey Island,Essex,,Crispy Cod & Tasty Chicken,Takeaway/sandwich shop,7844,0,,39457,0,,51.52523500000000,100091602361,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56680600000000,SS8 9SU,2014-10-09,fhrs_5_en-GB,5,,FHRS,0
-8956,135 High Road,South Benfleet,Benfleet,Essex,Crispy Cod Fish Bar,Takeaway/sandwich shop,7844,5,,39394,5,,51.54928000000000,100091601089,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56282300000000,SS7 5LN,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-8957,133 London Road,South Benfleet,Benfleet,Essex,Cross Chemists,Retailers - other,4613,,,688003,,,,100091601004,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS7 5YH,2012-10-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-8958,275 London Road,Hadleigh,Benfleet,Essex,Crystal Cafe,Restaurant/Cafe/Canteen,1,0,,39348,0,,51.55270300000000,100091600011,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61150100000000,SS7 2BN,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-8959,Woodside,Southend Arterial Road,Benfleet,Essex,Crystal Clear Leisure,Retailers - other,4613,,,634172,,,51.58504500000000,10004939358,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57361300000000,SS6 7TZ,2013-03-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-8960,,,,,Cutie Cupcakes,Other catering premises,7841,0,,39011,0,,,100090364734,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-07-03,fhrs_5_en-GB,5,,FHRS,0
-8961,86 Hart Road,Thundersley,Benfleet,Essex,Dan's News & Supermarket,Retailers - other,4613,5,,38995,0,,51.56888900000000,100090358686,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58196500000000,SS7 3PF,2012-02-07,fhrs_5_en-GB,5,,FHRS,0
-8962,14 Roseberry Avenue,Thundersley,Benfleet,Essex,Daves Wines,Retailers - other,4613,0,,687998,0,,51.57245700000000,100091600651,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55826700000000,SS7 4HH,2011-10-27,fhrs_5_en-GB,5,,FHRS,0
-8963,The Deanes School,Daws Heath Road,Hadleigh,Benfleet,Deanes County Secondary School,School/college/university,7845,0,,634204,0,,51.56799000000000,100091643470,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59946200000000,SS7 2TD,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-8964,,,,,Deborah Jane Cakes,Other catering premises,7841,10,,330793,0,,,100090372365,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-03-22,fhrs_4_en-GB,4,,FHRS,10
-8965,,,,,Denises Party Planning,Other catering premises,7841,0,,687979,0,,,100090369993,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-07-23,fhrs_5_en-GB,5,,FHRS,0
-8966,8 Pauls Court,Meppel Avenue,Canvey Island,Essex,Dinner House,Takeaway/sandwich shop,7844,5,,82053,0,,51.53187000000000,200000997311,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58615600000000,SS8 9RZ,2014-01-15,fhrs_5_en-GB,5,,FHRS,0
-8967,,,,,Dollys,Other catering premises,7841,0,,39017,0,,,100090367775,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-8968,248 London Road,Hadleigh,Benfleet,Essex,Domino's Pizza,Takeaway/sandwich shop,7844,0,,39526,0,,51.55242200000000,100091620994,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61038900000000,SS7 2DE,2012-12-10,fhrs_5_en-GB,5,,FHRS,0
-8969,55-57 High Street,Canvey Island,Essex,,Domino's Pizza,Takeaway/sandwich shop,7844,5,,634165,5,,51.52298700000000,10004938823,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59620500000000,SS8 7RD,2014-08-11,fhrs_5_en-GB,5,,FHRS,5
-8970,,,,,Doorstep Catering,Other catering premises,7841,0,,39043,0,,,100090379397,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-03-19,fhrs_5_en-GB,5,,FHRS,5
-8971,271 Kiln Road,Thundersley,Benfleet,Essex,Dragon Chef,Takeaway/sandwich shop,7844,10,,39323,5,,51.55942800000000,100091599537,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59704000000000,SS7 1RU,2013-07-11,fhrs_4_en-GB,4,,FHRS,0
-8972,1A Limetree Avenue,South Benfleet,Benfleet,Essex,Eco Wings And Nights Ltd,Hospitals/Childcare/Caring Premises,5,5,,688021,5,,51.56003100000000,14/00002/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.54823400000000,SS7 5AA,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-8973,,,,,Eels On Wheels,Mobile caterer,7846,10,,528093,5,,,100090371522,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-06-17,fhrs_4_en-GB,4,,FHRS,5
-8974,42-56 Benfleet Road,Hadleigh,Benfleet,Essex,Elizabeth House,Hospitals/Childcare/Caring Premises,5,5,,644158,5,,51.55674100000000,800000000031,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59856000000000,SS7 1QB,2014-08-27,fhrs_5_en-GB,5,,FHRS,5
-8975,,,,,Ella Niamh's Kitchen,Mobile caterer,7846,10,,688028,5,,,14/00016/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-06-17,fhrs_4_en-GB,4,,FHRS,5
-8976,Elliott House,Charfleets Road,Canvey Island,Essex,Elliotts Upper Crust Catering,Manufacturers/packers,7839,5,,39420,5,,51.52118600000000,100091601575,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55658800000000,SS8 0PQ,2013-08-22,fhrs_5_en-GB,5,,FHRS,5
-8977,115-117 High Road,South Benfleet,Benfleet,Essex,Elora Dispensing Chemist,Retailers - other,4613,,,687951,,,51.54928000000000,010004938759,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56282300000000,SS7 5LN,2012-05-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-8978,Room 1,196 Thisselt Road,Canvey Island,Essex,Endeavour Hotel,Restaurant/Cafe/Canteen,1,5,,82047,0,,51.52717800000000,200000996642,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58192500000000,SS8 9BQ,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-8979,252 High Road,South Benfleet,Benfleet,Essex,Enjoy Cafe,Restaurant/Cafe/Canteen,1,0,,39381,0,,51.55323500000000,100091601008,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56089600000000,SS7 5LA,2013-08-21,fhrs_5_en-GB,5,,FHRS,5
-8980,500 Rayleigh Road,Thundersley,Benfleet,Essex,Essex Fire And Rescue,Other catering premises,7841,,,37291,,,51.57486200000000,10004937614,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59738600000000,SS7 3TR,2013-05-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-8981,76 High Street,Canvey Island,Essex,,Everest Tandoori,Takeaway/sandwich shop,7844,10,,159842,5,,51.52270800000000,P021840700760251569,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59620400000000,SS8 7SE,2013-09-11,fhrs_3_en-GB,3,,FHRS,10
-8982,70 Furtherwick Road,Canvey Island,Essex,,F & J Caring,Retailers - other,4613,10,,39425,0,,51.52124000000000,100091601604,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59224200000000,SS8 7AJ,2014-02-18,fhrs_4_en-GB,4,,FHRS,5
-8983,,,,,Fancies,Other catering premises,7841,5,,687973,0,,,100090364596,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-08-31,fhrs_5_en-GB,5,,FHRS,0
-8984,Kiosk Outside Fantasy Island,Furtherwick Road,Canvey Island,Essex,Fantasy Island Kiosk,Other catering premises,7841,10,,644146,5,,,200000998470,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 7DW,2013-03-20,fhrs_4_en-GB,4,,FHRS,5
-8985,The Paddocks,Long Road,Canvey Island,Essex,Farmer Fred's Paddock,Restaurant/Cafe/Canteen,1,10,,410439,5,,51.51996400000000,10004937584/1,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58894100000000,SS8 0JA,2014-06-16,fhrs_4_en-GB,4,,FHRS,5
-8986,Unit C5,30 Brunel Road,Manor Trading Estate,Benfleet,Farmer Freds Play Barn,Other catering premises,7841,5,,37292,5,,51.57409100000000,10004937967,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56416100000000,SS7 4PS,2014-05-02,fhrs_5_en-GB,5,,FHRS,5
-8987,20 High Street,Hadleigh,Benfleet,Essex,Fatty's Bar,Pub/bar/nightclub,7843,10,,634158,10,,51.55342000000000,10004933392,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60720000000000,SS7 2PB,2014-07-11,fhrs_3_en-GB,3,,FHRS,10
-8988,103 High Street,Canvey Island,Essex,,Favorite Pizza & Kebab House,Takeaway/sandwich shop,7844,5,,39440,0,,51.52278200000000,100091601882,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60057600000000,SS8 7RF,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-8989,Eastern National,35 London Road,South Benfleet,Benfleet,First Buses,Other catering premises,7841,,,82054,,,51.55598600000000,200000997334,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60260000000000,SS7 2QL,2014-08-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-8990,81-85 High Road,South Benfleet,Benfleet,Essex,First Class Nursery Ltd,School/college/university,7845,5,,634199,5,,51.54928000000000,100091620810,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56282300000000,SS7 5LN,2013-06-27,fhrs_5_en-GB,5,,FHRS,5
-8991,161 Church Road,Thundersley,Benfleet,Essex,Fish'N' Chick'N,Takeaway/sandwich shop,7844,0,,82061,0,,51.57157900000000,200000997572,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55932900000000,SS7 4EN,2013-03-20,fhrs_5_en-GB,5,,FHRS,5
-8992,2A Cartwright Road,Thundersley,Benfleet,Essex,Flex Fitness Gym,Other catering premises,7841,,,687955,,,51.57369800000000,10004934608,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56321500000000,SS7 4QA,2012-06-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-8993,15 High Street,Benfleet,Essex,,Flutes,Other catering premises,7841,5,,39520,5,,51.54529800000000,100091620945,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56232400000000,SS7 1NA,2014-03-04,fhrs_4_en-GB,4,,FHRS,10
-8994,84 Maurice Road,Canvey Island,Essex,,Fortuna Stores,Retailers - other,4613,0,,39450,0,,51.51541800000000,100091601961,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60295300000000,SS8 7HT,2012-05-01,fhrs_5_en-GB,5,,FHRS,0
-8995,68 Furtherwick Road,Canvey Island,Essex,,Franks Pie & Mash,Restaurant/Cafe/Canteen,1,10,,39424,5,,51.52124000000000,100091601603,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59224200000000,SS8 7AJ,2014-11-20,fhrs_4_en-GB,4,,FHRS,5
-8996,242 Furtherwick Road,Canvey Island,Essex,,Furtherwick Wines,Retailers - other,4613,10,,39434,5,,51.51532600000000,100091601711,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59326100000000,SS8 7BY,2013-03-19,fhrs_4_en-GB,4,,FHRS,5
-8997,Northwick Garden Centre,Canvey Road,Canvey Island,Essex,Garden World Garden Centre,Retailers - other,4613,5,,634194,0,,51.52549600000000,100091601436,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55651300000000,SS8 0QD,2014-08-11,fhrs_5_en-GB,5,,FHRS,5
-8998,146 High Street,Canvey Island,Essex,,Gators Fish Bar,Restaurant/Cafe/Canteen,1,,,39445,,,51.52246900000000,100091601899,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60048600000000,SS8 7SL,2014-06-24,fhrs_4_en-GB,4,,FHRS,
-8999,699 London Road,Hadleigh,Benfleet,Essex,Georgie Porgie Nursery,School/college/university,7845,0,,39339,5,,51.54964200000000,100091599790,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.62413600000000,SS7 2EE,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-9000,Rushbottom Lane,Thundersley,Benfleet,Essex,Glenwood School,School/college/university,7845,0,,39369,0,,51.57430400000000,100091600703,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.54776300000000,SS7 4LW,2013-07-17,fhrs_5_en-GB,5,,FHRS,0
-9001,Hart Road,Thundersley,Benfleet,Essex,Godden Lodge,Hospitals/Childcare/Caring Premises,5,5,,634181,5,,51.56882000000000,100091228161,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57976700000000,SS7 3PB,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-9002,139 High Road,South Benfleet,Benfleet,Essex,Gold Wok,Takeaway/sandwich shop,7844,10,,39395,5,,51.54928000000000,100091601091,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56282300000000,SS7 5LN,2014-03-03,fhrs_4_en-GB,4,,FHRS,5
-9003,Goldenley Elderley Peoples Home,11-13 Richmond Avenue,South Benfleet,Benfleet,Goldenley Residential Home,Hospitals/Childcare/Caring Premises,5,10,,634176,0,,,100090365094,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS7 5HT,2014-05-23,fhrs_4_en-GB,4,,FHRS,5
-9004,129 High Road,South Benfleet,Benfleet,Essex,Green Tea,Takeaway/sandwich shop,7844,5,,39393,5,,51.54928000000000,100091601088,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56282300000000,SS7 5LN,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-9005,281 High Road,South Benfleet,Benfleet,Essex,Greggs,Retailers - other,4613,0,,39387,0,,51.55366200000000,100091601057,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2012-05-16,fhrs_5_en-GB,5,,FHRS,0
-9006,30 Furtherwick Road,Canvey Island,Essex,,Greggs,Retailers - other,4613,5,,39449,5,,51.52236000000000,100091601960,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59203200000000,SS8 7AE,2014-08-29,fhrs_4_en-GB,4,,FHRS,10
-9007,Unit 20,Lychgate Industrial Estate,Southend Arterial Road,Benfleet,Griddled Delights,Other catering premises,7841,0,,687947,0,,51.58504500000000,010004934084,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57361300000000,SS6 7TZ,2014-06-10,fhrs_5_en-GB,5,,FHRS,0
-9008,177 Long Road,Canvey Island,Essex,,Grouts The Bakers,Retailers - other,4613,5,,39416,0,,51.51989900000000,100091601494,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58170000000000,SS8 0JD,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-9009,John Burrows Pavillion,Rectory Road,Benfleet,Essex,Hadleigh & Thundersley Cricket Club,Retailers - other,4613,5,,644160,5,,51.55685600000000,800000000038,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61160900000000,SS7 2NQ,2014-02-25,fhrs_4_en-GB,4,,FHRS,10
-9010,Falbro Crescent,Hadleigh,Benfleet,Essex,Hadleigh Baptist Church,Other catering premises,7841,,,687993,,,51.55924300000000,100091599891,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60620600000000,SS7 2SE,2014-10-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-9011,Rectory Road,Benfleet,Essex,NB: Correspondence To Be Sent To Ho,Hadleigh Bowls Club,Restaurant/Cafe/Canteen,1,0,,159724,0,,51.55533300000000,P011070500000142518,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61054100000000,SS7 2NA,2014-11-05,fhrs_5_en-GB,5,,FHRS,0
-9012,317 London Road,Hadleigh,Benfleet,Essex,Hadleigh Convenience Store,Other catering premises,7841,10,,39350,5,,51.55270300000000,100091600023,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61150100000000,SS7 2BN,2014-03-14,fhrs_3_en-GB,3,,FHRS,10
-9013,Salvation Army Colony,Castle Lane,Hadleigh,Essex,Hadleigh Emp/Training Centre,Other catering premises,7841,0,,159731,5,,51.54747400000000,P011276200000152896,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60644200000000,SS7 2AP,2013-11-14,fhrs_5_en-GB,5,,FHRS,0
-9014,Bilton Road,Hadleigh,Benfleet,Essex,Hadleigh Infants School,School/college/university,7845,0,,159722,5,,51.55449700000000,P011006200000013398,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61614900000000,SS7 2HQ,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-9015,Hadleigh County Junior School,Church Road,Hadleigh,Benfleet,Hadleigh Junior School,School/college/university,7845,0,,82062,0,,51.55304200000000,200000997835,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61202600000000,SS7 2DQ,2014-06-02,fhrs_5_en-GB,5,,FHRS,0
-9016,311 London Road,Hadleigh,Benfleet,Essex,Hadleigh Kebabs,Takeaway/sandwich shop,7844,0,,39349,0,,51.55270300000000,100091600020,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61150100000000,SS7 2BN,2012-11-14,fhrs_5_en-GB,5,,FHRS,0
-9017,27 High Street,South Benfleet,Benfleet,Essex,Half Crown Public House,Pub/bar/nightclub,7843,0,,82046,0,,51.54529800000000,200000995882,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56232500000000,SS7 1NA,2013-02-14,fhrs_5_en-GB,5,,FHRS,0
-9018,Chapel Lane,Hadleigh,Benfleet,Essex,Harpers Fish Merchants,Other catering premises,7841,5,,644162,5,,51.55464700000000,800000000043,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60174500000000,SS7 2PQ,2013-03-20,fhrs_5_en-GB,5,,FHRS,5
-9019,128-130 Hart Road,Thundersley,Benfleet,Essex,Hart Road Mini Mart,Retailers - other,4613,10,,39364,0,,51.56978000000000,100091600512,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58357400000000,SS7 3PS,2013-07-15,fhrs_4_en-GB,4,,FHRS,5
-9020,The Haystack Public House,Furtherwick Road,Canvey Island,Essex,Haystack,Restaurant/Cafe/Canteen,1,10,,687946,10,,51.52124000000000,`200000992849,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59224200000000,SS8 7AJ,2014-03-04,fhrs_3_en-GB,3,,FHRS,10
-9021,Hesten Lodge,Church Road,Hadleigh,Benfleet,Heston Lodge Day Centre,Other catering premises,7841,,,39361,,,51.57192900000000,100091600462,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56679600000000,SS7 3HT,2012-05-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-9022,Hilltop Avenue,South Benfleet,Benfleet,Essex,Hilltop Farm,Retailers - other,4613,,,687990,,,51.55239500000000,100091228240,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57707800000000,SS7 1PH,2015-01-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-9023,,,,,Hobbit Bites,Other catering premises,7841,10,,39025,5,,,100090371669,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2011-07-26,fhrs_4_en-GB,4,,FHRS,0
-9024,Kents Hill Road,Benfleet,Essex,,Holy Family Early Learning Centre,Other catering premises,7841,0,,688036,0,,51.56283300000000,800000000005,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56120400000000,SS7 5PX,2011-11-23,fhrs_5_en-GB,5,,FHRS,0
-9025,Holy Family Roman Catholic School,Kents Hill Road,South Benfleet,Benfleet,Holy Family RC School,School/college/university,7845,0,,634210,0,,51.56084600000000,200000997665,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55993800000000,SS7 5PS,2014-07-03,fhrs_5_en-GB,5,,FHRS,0
-9026,25 Stadium Way,Thundersley,Benfleet,Essex,Homebase Ltd,Retailers - other,4613,,,687995,,,51.57448500000000,100091600211,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60463900000000,SS7 3TS,2011-09-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-9027,10-16 Brook Road,South Benfleet,Benfleet,Essex,Hopes Green Care Centre,Hospitals/Childcare/Caring Premises,5,0,,159684,5,,51.55155300000000,P01030800010,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55925800000000,SS7 5JA,2014-05-23,fhrs_5_en-GB,5,,FHRS,5
-9028,77 High Road,South Benfleet,Benfleet,Essex,Hot Hut,Takeaway/sandwich shop,7844,20,,39391,15,,51.54739200000000,100091601078,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56320700000000,SS7 5LH,2014-08-21,fhrs_1_en-GB,1,,FHRS,10
-9029,Hoy And Helmet Public House,High Street,South Benfleet,Benfleet,Hoy And Helmet,Pub/bar/nightclub,7843,0,,39150,5,,51.54529800000000,100091228236,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56232500000000,SS7 1NA,2013-10-25,fhrs_4_en-GB,4,,FHRS,10
-9030,Profile House,Charfleets Road,Canvey Island,Essex,I T M (UK) Ltd,Restaurant/Cafe/Canteen,1,10,,37278,5,,51.52118600000000,10004932892,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55658800000000,SS8 0PQ,2014-03-04,fhrs_4_en-GB,4,,FHRS,5
-9031,Hillside,Church Road,Thundersley,Benfleet,Ice Cube Company,Manufacturers/packers,7839,0,,687965,0,,51.57074700000000,100090354861,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56821500000000,SS7 3HJ,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-9032,2 Rectory Road,Hadleigh,Benfleet,Essex,Iceland,Retailers - supermarkets/hypermarkets,7840,0,,39355,0,,51.55533300000000,100091600077,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61054100000000,SS7 2NA,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-9033,88 Furtherwick Road,Canvey Island,Essex,,Iceland,Retailers - supermarkets/hypermarkets,7840,0,,634197,0,,51.52124000000000,100091601611,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59224200000000,SS8 7AJ,2013-02-20,fhrs_5_en-GB,5,,FHRS,0
-9034,363 Rayleigh Road,Thundersley,Benfleet,Essex,III Six 3,Retailers - other,4613,10,,687997,5,,51.56968800000000,100091600546,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59468100000000,SS7 3SS,2012-03-30,fhrs_4_en-GB,4,,FHRS,0
-9035,93 Furtherwick Road,Canvey Island,Essex,,Island Cafe,Restaurant/Cafe/Canteen,1,20,,734152,15,,51.52058400000000,15/00001/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59302700000000,SS8 7AY,2015-01-20,fhrs_1_en-GB,1,,FHRS,15
-9036,213 High Street,Canvey Island,Essex,,Island Grill,Takeaway/sandwich shop,7844,5,,39435,5,,51.52077400000000,100091601736,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60475800000000,SS8 7RN,2014-08-29,fhrs_5_en-GB,5,,FHRS,5
-9037,128 Furtherwick Road,Canvey Island,Essex,,Island Newsagents,Retailers - other,4613,0,,39430,10,,51.51962200000000,100091601621,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59258300000000,SS8 7AL,2014-02-18,fhrs_4_en-GB,4,,FHRS,10
-9038,Point Road,Canvey Island,Essex,,Island Yacht Club,Other catering premises,7841,0,,39452,0,,51.51864700000000,100091601994,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61625500000000,SS8 7TT,2015-01-07,fhrs_5_en-GB,5,,FHRS,0
-9039,86 Furtherwick Road,Canvey Island,Essex,,Islanders Fish Restaurant & Takeaway,Restaurant/Cafe/Canteen,1,0,,634178,0,,51.52124000000000,100090374023,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59224200000000,SS8 7AJ,2015-01-13,fhrs_5_en-GB,5,,FHRS,0
-9040,3 Stanley Road,Thundersley,Benfleet,Essex,Ivy's Kitchen,Mobile caterer,7846,10,,704515,10,,51.56623600000000,10004937211,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56597000000000,SS7 3EL,2014-08-29,fhrs_3_en-GB,3,,FHRS,5
-9041,50 Furtherwick Road,Canvey Island,Essex,,Izzi,Restaurant/Cafe/Canteen,1,10,,688027,10,,51.52236000000000,14/00015/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59203200000000,SS8 7AE,2014-06-16,fhrs_3_en-GB,3,,FHRS,10
-9042,21 Stadium Way,Thundersley,Benfleet,Essex,J. Sainsbury Staff Restaurant,Restaurant/Cafe/Canteen,1,,,688038,,,51.57494500000000,800000000021,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60013300000000,SS7 3UB,2013-03-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-9043,Kings Park Homes,Hindles Road,Canvey Island,Essex,Jack Rabbits Bars,Pub/bar/nightclub,7843,0,,644171,0,,51.52549900000000,800000000070,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60416300000000,SS8 8HE,2012-03-20,fhrs_5_en-GB,5,,FHRS,5
-9044,,,,,Jackies Bakes,Other catering premises,7841,0,,687968,0,,,100090360939,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2011-05-10,fhrs_5_en-GB,5,,FHRS,0
-9045,190 High Street,Canvey Island,Essex,,Jane Swan,Retailers - other,4613,10,,704516,0,,51.52215300000000,100091601751,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60296200000000,SS8 7SS,2014-09-02,fhrs_4_en-GB,4,,FHRS,10
-9046,,,,,Jans Snack Shack,Other catering premises,7841,0,,559389,0,,,100090381227,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-02-04,fhrs_5_en-GB,5,,FHRS,0
-9047,,,,,Jaxs Cakes,Other catering premises,7841,10,,605062,5,,,100090378030,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-10-08,fhrs_3_en-GB,3,,FHRS,10
-9048,Castle Point Service Station,Somnes Avenue,Canvey Island,Essex,Jet,Retailers - other,4613,5,,688017,5,,51.53164300000000,100091602474,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58013000000000,SS8 9QB,2014-01-15,fhrs_5_en-GB,5,,FHRS,5
-9049,Ferry Road,Benfleet,Essex,,Jim Hall Ltd,Retailers - other,4613,,,688045,,,51.54383100000000,P010231400000059541,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56195400000000,SS7 1NF,2013-03-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-9050,,,,,Jimbo's Homemade,Other catering premises,7841,5,,634206,5,,,200000993347,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-12-16,fhrs_5_en-GB,5,,FHRS,5
-9051,373-383 London Road,Hadleigh,Benfleet,Essex,Johnsons Apparelmaster,Other catering premises,7841,0,,704520,0,,51.55074600000000,P011252103830109762,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61501000000000,SS7 2DA,2012-10-11,fhrs_5_en-GB,5,,FHRS,0
-9052,174 Long Road,Canvey Island,Essex,,Jones Corner Cafe,Restaurant/Cafe/Canteen,1,5,,159809,5,,51.52035600000000,P021553301740350254,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57725700000000,SS8 0JR,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-9053,High Road,South Benfleet,Benfleet,Essex,Jotmans Hall Primary School,School/college/university,7845,10,,39403,5,,51.56186900000000,100091601125,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55015500000000,SS7 5RG,2014-01-09,fhrs_4_en-GB,4,,FHRS,5
-9054,2 Jotmans Lane,South Benfleet,Benfleet,Essex,Jotmans Store,Retailers - other,4613,20,,39405,0,,51.55559400000000,100091601184,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.54879400000000,SS7 5AX,2014-02-18,fhrs_1_en-GB,1,,FHRS,5
-9055,,,,,Just Jackets,Other catering premises,7841,0,,39018,0,,,100090368513,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-09-01,fhrs_5_en-GB,5,,FHRS,0
-9056,47 High Street,Canvey Island,Essex,,Kai's Kitchen,Takeaway/sandwich shop,7844,5,,704519,10,,51.52298700000000,14/00020/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59620500000000,SS8 7RD,2014-08-20,fhrs_4_en-GB,4,,FHRS,5
-9057,3 Roseberry Walk,Benfleet,Essex,,Kamble,Takeaway/sandwich shop,7844,5,,82059,10,,51.57218600000000,200000997469,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55914700000000,SS7 4EW,2013-10-29,fhrs_4_en-GB,4,,FHRS,5
-9058,,,,,Karen's Candy Kitchen,Other catering premises,7841,0,,722444,0,,,14/00033/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-9059,132 Furtherwick Road,Canvey Island,Essex,,Kebab 38,Takeaway/sandwich shop,7844,5,,39429,5,,51.51962200000000,100091601620,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59258300000000,SS8 7AL,2013-06-17,fhrs_4_en-GB,4,,FHRS,10
-9060,102 Furtherwick Road,Canvey Island,Essex,,Kebab And Burger Hut,Takeaway/sandwich shop,7844,10,,39427,10,,51.51962200000000,100091601613,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59258300000000,SS8 7AL,2014-06-04,fhrs_3_en-GB,3,,FHRS,10
-9061,4 Benfleet Road,Hadleigh,Benfleet,Essex,Kebab World,Takeaway/sandwich shop,7844,10,,39329,15,,51.54842800000000,100091599683,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56808300000000,SS7 1QA,2014-11-24,fhrs_2_en-GB,2,,FHRS,5
-9062,Kents Hill Primary School,Kents Hill Road,South Benfleet,Benfleet,Kents Hill County Junior,School/college/university,7845,0,,39524,5,,51.56084600000000,100091620967,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55993800000000,SS7 5PS,2014-05-23,fhrs_5_en-GB,5,,FHRS,5
-9063,138 London Road,South Benfleet,Benfleet,Essex,Kentucky Fried Chicken,Other catering premises,7841,0,,39375,0,,51.56698800000000,100091600841,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55254800000000,SS7 5SQ,2014-03-26,fhrs_5_en-GB,5,,FHRS,0
-9064,59-65 High Street,Canvey Island,Essex,,Kentucky Fried Chicken,Other catering premises,7841,0,,634229,0,,51.52298700000000,800000000018,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59620500000000,SS8 7RD,2013-03-26,fhrs_5_en-GB,5,,FHRS,0
-9065,180 Kiln Road,Thundersley,Benfleet,Essex,Kiln Convenience Store,Retailers - other,4613,0,,39330,0,,51.56095500000000,100091599687,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58858500000000,SS7 1SH,2012-07-18,fhrs_4_en-GB,4,,FHRS,10
-9066,The King John School,Shipwrights Drive,Thundersley,Benfleet,King John School,School/college/university,7845,5,,631645,5,,51.55610300000000,100091599551,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59243600000000,SS7 1RQ,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-9067,501A High Road,South Benfleet,Benfleet,Essex,Kings Fish & Chips,Takeaway/sandwich shop,7844,5,,39377,5,,51.55960700000000,100091600902,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55034600000000,SS7 5AD,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-9068,Church Road,Thundersley,Benfleet,Essex,Kingston County Primary School,School/college/university,7845,5,,39517,5,,51.56893400000000,100091620767,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57297700000000,SS7 3HG,2013-07-19,fhrs_5_en-GB,5,,FHRS,5
-9069,11 Marine Approach,Canvey Island,Essex,,Kingswood Care Services Ltd,Hospitals/Childcare/Caring Premises,5,0,,39038,0,,51.51587700000000,100090377784,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59071300000000,SS8 0AL,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-9070,Cafe,Charfleets Road,Canvey Island,Essex,Kirsty's Cafe,Restaurant/Cafe/Canteen,1,5,,688025,5,,51.52591000000000,14/00013/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55812200000000,SS8 0QE,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-9071,,,,,L. Newman,Other catering premises,7841,0,,39051,0,,,100090383648,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-11-27,fhrs_5_en-GB,5,,FHRS,0
-9072,22-28 Benfleet Road,Hadleigh,Benfleet,Essex,La Quinta,Restaurant/Cafe/Canteen,1,5,,631644,10,,51.55674100000000,100091599538,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59856000000000,SS7 1QB,2013-08-16,fhrs_4_en-GB,4,,FHRS,5
-9073,84 High Street,South Benfleet,Benfleet,Essex,Lantern House,Takeaway/sandwich shop,7844,10,,39523,10,,51.54407900000000,100091620955,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56257400000000,SS7 1ND,2014-08-21,fhrs_3_en-GB,3,,FHRS,5
-9074,205 London Road,Hadleigh,Benfleet,Essex,Latino's,Other catering premises,7841,5,,688040,5,,51.55395100000000,F100091620985,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60877400000000,SS7 2RD,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-9075,134 High Street,Canvey Island,Essex,,Laziz,Takeaway/sandwich shop,7844,10,,704513,5,,51.52246900000000,010004938737,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60048600000000,SS8 7SL,2014-08-20,fhrs_4_en-GB,4,,FHRS,5
-9076,81 Hart Road,Thundersley,Benfleet,Essex,Lee's Kitchen,Takeaway/sandwich shop,7844,0,,39367,5,,51.56882000000000,100091600550,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57976700000000,SS7 3PB,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-9077,Legacy Xs Centre,Richmond Avenue,South Benfleet,Benfleet,Legacy XS Management Limited,Restaurant/Cafe/Canteen,1,0,,644137,0,,,10004937606,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-01-15,fhrs_5_en-GB,5,,FHRS,0
-9078,Leigh Beck Primary School,Point Road,Canvey Island,Essex,Leigh Beck County Infants,School/college/university,7845,0,,644167,0,,51.51798100000000,800000000061,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61467500000000,SS8 7TD,2014-07-16,fhrs_5_en-GB,5,,FHRS,0
-9079,Eastern Esplanade,Canvey Island,Essex,SS8,Leisure Island Food Bar,Other catering premises,7841,5,,644168,5,,,800000000063,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-06-20,fhrs_5_en-GB,5,,FHRS,5
-9080,272-274 London Road,Hadleigh,Benfleet,Essex,Lidl (UK),Retailers - supermarkets/hypermarkets,7840,0,,39352,0,,51.55242200000000,100091600051,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61038900000000,SS7 2DE,2012-07-05,fhrs_5_en-GB,5,,FHRS,0
-9081,32 Charfleets Farm Way,Canvey Island,Essex,,Lightwheels Transport,Retailers - other,4613,,,688049,,,51.52078300000000,P02151540032,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56145300000000,SS8 0PA,2014-02-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-9082,,,,,Lisas Little Angels,Other catering premises,7841,5,,688032,5,,,200000993516,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-03-25,fhrs_4_en-GB,4,,FHRS,10
-9083,Day Nursery,Thundersley County Primary School,Dark Lane,Benfleet,Little Footprints Day Nursery,School/college/university,7845,5,,644139,5,,51.56892800000000,10004939012,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58429000000000,SS7 3PU,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-9084,Daws Heath Road,Hadleigh,Benfleet,Essex,Little Haven Childrens Hospice,Hospitals/Childcare/Caring Premises,5,0,,39337,0,,51.57188000000000,100091599756,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60935300000000,SS7 2LH,2014-08-26,fhrs_5_en-GB,5,,FHRS,0
-9085,,,,,Little Lovelies,Other catering premises,7841,0,,208952,0,,,100090363462,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-02-06,fhrs_5_en-GB,5,,FHRS,0
-9086,Tewkes Creek Pavillion,Dovervelt Road,Canvey Island,Essex,Little Tewkes Childrens Centre & Nursery,Other catering premises,7841,0,,82070,5,,51.52932900000000,200000998952,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59369700000000,SS8 8EJ,2014-08-29,fhrs_5_en-GB,5,,FHRS,5
-9087,299 High Road,South Benfleet,Benfleet,Essex,Lloyds,Retailers - other,4613,,,688006,,,51.55366200000000,100091601061,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2014-01-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-9088,Haven Road,Canvey Island,Essex,,Lobster Smack,Pub/bar/nightclub,7843,5,,39412,5,,51.51106000000000,100091601389,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55368600000000,SS8 0NR,2014-03-04,fhrs_4_en-GB,4,,FHRS,10
-9089,236-240 Furtherwick Road,Canvey Island,Essex,,Londis,Retailers - other,4613,10,,688039,0,,51.51532600000000,800000000056,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59326100000000,SS8 7BY,2014-01-15,fhrs_4_en-GB,4,,FHRS,0
-9090,3-5 Canvey Road,Canvey Island,Essex,,Londis,Retailers - other,4613,10,,39410,5,,51.51986700000000,100091601351,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56347700000000,SS8 0LL,2014-04-28,fhrs_3_en-GB,3,,FHRS,10
-9091,Little Gypps Road,Canvey Island,Essex,,Longview,Hospitals/Childcare/Caring Premises,5,5,,82045,5,,51.52240000000000,200000995497,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57672400000000,SS8 9HG,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-9092,162 Long Road,Canvey Island,Essex,,Louis Fish Bar,Takeaway/sandwich shop,7844,0,,634192,0,,51.52032600000000,100091601343,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58068700000000,SS8 0JP,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-9093,Lubbins Park County Primary School,May Avenue,Canvey Island,Essex,Lubbins Park County Pri School,School/college/university,7845,0,,159847,5,,51.51384700000000,P021855700000278273,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60032600000000,SS8 7HF,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-9094,,,,,M&D Magical Cakes,Restaurant/Cafe/Canteen,1,0,,456823,0,,,100090353445,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-07-24,fhrs_5_en-GB,5,,FHRS,0
-9095,194-196 High Street,Canvey Island,Essex,,Mace,Retailers - other,4613,10,,39531,0,,,100091621220,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS9 7ST,2012-03-16,fhrs_4_en-GB,4,,FHRS,0
-9096,358 London Road,South Benfleet,Benfleet,Essex,Maharaja Restaurant,Restaurant/Cafe/Canteen,1,20,,39324,15,,51.56549700000000,100091599570,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56483100000000,SS7 1BG,2014-08-18,fhrs_1_en-GB,1,,FHRS,10
-9097,285-287 London Road,South Benfleet,Benfleet,Essex,Maison Noir,Restaurant/Cafe/Canteen,1,10,,37285,5,,51.55270300000000,10004935323,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61150100000000,SS7 2BN,2013-10-25,fhrs_3_en-GB,3,,FHRS,10
-9098,164 Church Road,Thundersley,Benfleet,Essex,Manor Service Station,Retailers - other,4613,0,,82067,0,,51.57157900000000,200000998686,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55932900000000,SS7 4EN,2014-01-15,fhrs_5_en-GB,5,,FHRS,0
-9099,173 Church Road,Thundersley,Benfleet,Essex,Martin McColl Limited,Retailers - other,4613,5,,82069,0,,51.57157900000000,200000998855,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55932900000000,SS7 4EN,2011-07-18,fhrs_4_en-GB,4,,FHRS,10
-9100,305-307 London Road,Hadleigh,Benfleet,Essex,Masa Brasserie,Other catering premises,7841,5,,37293,5,,51.55270300000000,10004938272,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61150100000000,SS7 2BN,2014-03-03,fhrs_4_en-GB,4,,FHRS,10
-9101,124 High Street,Hadleigh,Benfleet,Essex,McDonalds Restaurant Ltd,Restaurant/Cafe/Canteen,1,0,,37287,0,,51.55342000000000,10004935423,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60720000000000,SS7 2PB,2014-01-15,fhrs_5_en-GB,5,,FHRS,0
-9102,Mcdonalds,Northwick Road,Canvey Island,Essex,McDonalds Restaurant Ltd,Restaurant/Cafe/Canteen,1,0,,634203,0,,51.52686000000000,100091621293,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.53718300000000,SS8 0PS,2013-03-22,fhrs_5_en-GB,5,,FHRS,0
-9103,Mcdonalds Restaurant,Claydons Lane,Thundersley,Benfleet,McDonalds Restaurants Ltd,Restaurant/Cafe/Canteen,1,0,,634214,0,,51.57631100000000,200000998109,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60221700000000,SS6 7UP,2012-08-30,fhrs_5_en-GB,5,,FHRS,0
-9104,263 London Road,Hadleigh,Benfleet,Essex,Meat And Two Veg,Retailers - other,4613,0,,39357,10,,51.55270300000000,100091600180,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61150100000000,SS7 2BN,2013-09-20,fhrs_4_en-GB,4,,FHRS,5
-9105,Unit 25,Shafers Arcade,677 High Road,South Benfleet,Megan Dorothy Cake Company,Retailers - other,4613,10,,687948,5,,51.56636500000000,010004934957,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55017600000000,SS7 5SF,2013-10-04,fhrs_3_en-GB,3,,FHRS,10
-9106,Kings Park Village,Creek Road,Canvey Island,Essex,Middles Supermarket,Retailers - supermarkets/hypermarkets,7840,10,,644140,5,,51.52553600000000,10004939216,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61022000000000,SS8 8BF,2013-10-23,fhrs_4_en-GB,4,,FHRS,0
-9107,,,,,Miss T's Cupcakes,Other catering premises,7841,0,,438570,0,,,10004935336,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-09-26,fhrs_5_en-GB,5,,FHRS,0
-9108,Montgomerie Junior School,Rushbottom Lane,Thundersley,Benfleet,Montgomerie Primary School,School/college/university,7845,5,,634187,5,,51.57430400000000,100091600704,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.54776300000000,SS7 4LW,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-9109,175 London Road,Hadleigh,Benfleet,Essex,Morrisons,Retailers - supermarkets/hypermarkets,7840,0,,644151,0,,51.55395100000000,800000000023,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60877400000000,SS7 2RD,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-9110,Morrisons M Local,Link Road,Canvey Island,Essex,Morrisons,Retailers - supermarkets/hypermarkets,7840,0,,734154,0,,51.53033400000000,15/00006/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57991100000000,SS8 9UB,2015-01-26,fhrs_5_en-GB,5,,FHRS,0
-9111,Northwick Road,Canvey Island,Essex,,Morrisons,Retailers - supermarkets/hypermarkets,7840,0,,634160,0,,51.52686000000000,10004937582,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.53718300000000,SS8 0PS,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-9112,Northwick Road,Canvey Island,Essex,,Morrisons Petrol Filling Station,Retailers - other,4613,0,,688048,10,,,P021361700000288552,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 0PT,2013-03-22,fhrs_4_en-GB,4,,FHRS,10
-9113,237 London Road,Hadleigh,Benfleet,Essex,Mouchak,Takeaway/sandwich shop,7844,20,,39356,10,,51.55377700000000,100091600100,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60971600000000,SS7 2RF,2014-12-03,fhrs_1_en-GB,1,,FHRS,10
-9114,27-29 Eastern Esplanade,Canvey Island,Essex,,Moviestarr Cineplex,Retailers - other,4613,0,,634213,5,,51.51284500000000,200000997871,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59770400000000,SS8 7DN,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-9115,105 High Road,South Benfleet,Benfleet,Essex,Mr Browns,Retailers - other,4613,,,634157,,,51.54928000000000,10004932884,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56282300000000,SS7 5LN,2014-03-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-9116,4 Furtherwick Road,Canvey Island,Essex,,Mr Lams,Takeaway/sandwich shop,7844,20,,39455,15,,51.52314700000000,100091602302,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59222100000000,SS8 9AA,2014-12-18,fhrs_0_en-GB,0,,FHRS,20
-9117,274 London Road,South Benfleet,Benfleet,Essex,Mr Ping,Restaurant/Cafe/Canteen,1,5,,39376,5,,51.56622900000000,100091600895,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56135200000000,SS7 5XR,2013-10-25,fhrs_5_en-GB,5,,FHRS,5
-9118,10 Essex Way,South Benfleet,Benfleet,Essex,Mumtaz Mahal Tandoori,Restaurant/Cafe/Canteen,1,0,,39325,0,,51.54523000000000,100091599604,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56586900000000,SS7 1LT,2015-01-28,fhrs_5_en-GB,5,,FHRS,0
-9119,216 London Road,Hadleigh,Benfleet,Essex,Munch Box,Restaurant/Cafe/Canteen,1,5,,559384,5,,51.55367200000000,100090361658,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60836900000000,SS7 2PD,2013-05-16,fhrs_4_en-GB,4,,FHRS,10
-9120,31 Hazel Close,Hadleigh,Benfleet,Essex,Munchbox,Other catering premises,7841,5,,559383,0,,51.55250000000000,100090358929,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.62183300000000,SS7 2EP,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-9121,Eastern Esplanade,Canvey Island,Essex,,Munchies Burger Bar,Takeaway/sandwich shop,7844,0,,159825,0,,51.51284500000000,P021824700001,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59770400000000,SS8 7DN,2013-07-22,fhrs_5_en-GB,5,,FHRS,5
-9122,129 High Street,Canvey Island,Essex,,Murco Garage,Retailers - other,4613,0,,39441,0,,51.52278200000000,100091601885,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60057600000000,SS8 7RF,2012-03-14,fhrs_4_en-GB,4,,FHRS,10
-9123,667 London Road,Hadleigh,Benfleet,Essex,My Time,Other catering premises,7841,5,,39338,0,,51.54964200000000,100091599781,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.62413600000000,SS7 2EE,2012-01-30,fhrs_5_en-GB,5,,FHRS,0
-9124,,,,,My Way Cakes & Preserves,Other catering premises,7841,0,,38998,0,,,100090360034,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-9125,91 High Road,South Benfleet,Benfleet,Essex,Nagaria,Takeaway/sandwich shop,7844,10,,39404,5,,51.54928000000000,100091601166,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56282300000000,SS7 5LN,2014-03-03,fhrs_3_en-GB,3,,FHRS,10
-9126,179 Long Road,Canvey Island,Essex,,Nash And Sons,Retailers - other,4613,10,,39417,5,,51.51989900000000,100091601495,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58170000000000,SS8 0JD,2013-10-08,fhrs_4_en-GB,4,,FHRS,5
-9127,,,,,Nathans Caterers,Other catering premises,7841,5,,528088,5,,,10004934361,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-05-14,fhrs_4_en-GB,4,,FHRS,10
-9128,20-22 Dovervelt Road,Canvey Island,Essex,,Nearbuys Convenience Stores,Retailers - other,4613,0,,39454,0,,51.52679300000000,100091602186,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59894500000000,SS8 8DY,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-9129,64 Furtherwick Road,Canvey Island,Essex,,New Look,Retailers - other,4613,0,,688010,0,,51.52236000000000,100091601597,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59203200000000,SS8 7AE,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-9130,358 Long Road,Canvey Island,Essex,,New Mandarin,Takeaway/sandwich shop,7844,10,,82072,10,,51.51997100000000,200000999013,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56571700000000,SS8 0JU,2013-08-28,fhrs_3_en-GB,3,,FHRS,10
-9131,355 Long Road,Canvey Island,Essex,,New Slow Boat,Takeaway/sandwich shop,7844,10,,39419,10,,51.51959000000000,100091601521,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56912700000000,SS8 0JQ,2013-10-03,fhrs_3_en-GB,3,,FHRS,10
-9132,60 Furtherwick Road,Canvey Island,Essex,,News For You,Retailers - other,4613,0,,688014,0,,51.52236000000000,100091601926,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59203200000000,SS8 7AE,2014-03-02,fhrs_5_en-GB,5,,FHRS,5
-9133,286A High Street,Canvey Island,Essex,,Nigels Fish Bar,Takeaway/sandwich shop,7844,10,,644172,5,,51.51856100000000,8000000058,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61002300000000,SS8 7TB,2013-07-19,fhrs_4_en-GB,4,,FHRS,5
-9134,19A Third Avenue,Canvey Island,Essex,,Nisa Extra,Retailers - other,4613,10,,39049,10,,51.52523500000000,100090382013,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56680600000000,SS8 9SU,2014-12-18,fhrs_3_en-GB,3,,FHRS,5
-9135,2 Craven Avenue,Canvey Island,Essex,,Nisa Local,Retailers - other,4613,0,,634177,0,,51.51841600000000,100090372692,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58042000000000,SS8 0DJ,2012-12-09,fhrs_5_en-GB,5,,FHRS,0
-9136,Northwick Park Ci School,Third Avenue,Canvey Island,Essex,Northwick Park Nursery And Busy Bears,Other catering premises,7841,0,,644163,0,,51.52523400000000,800000000047,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56680600000000,SS8 9SU,2014-11-10,fhrs_5_en-GB,5,,FHRS,0
-9137,Third Avenue,Canvey Island,Essex,,Northwick Park Primary School,School/college/university,7845,5,,644145,5,,51.52523500000000,200000997405,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56680600000000,SS8 9SU,2014-03-06,fhrs_5_en-GB,5,,FHRS,5
-9138,Northwick Poultry Farm,Northwick Road,Canvey Island,Essex,Northwick Poultry Farm And Stables,Retailers - other,4613,,,634193,,,51.52757900000000,100091601433,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.53138300000000,SS8 0PY,2013-02-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-9139,123 Kiln Road,Thundersley,Benfleet,Essex,Oakdale Residential Home,Hospitals/Childcare/Caring Premises,5,0,,39000,0,,51.56126400000000,100090360633,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58600600000000,SS7 1TG,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-9140,297 Hart Road,Thundersley,Benfleet,Essex,Ocean Fish Bar & Chinese Takeaway,Takeaway/sandwich shop,7844,5,,39359,10,,51.56946400000000,100091600345,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59342700000000,SS7 3UW,2013-10-04,fhrs_4_en-GB,4,,FHRS,5
-9141,,,,,Oh So Sweet Cupcakes,Other catering premises,7841,0,,39044,0,,,100090379903,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-07-10,fhrs_4_en-GB,4,,FHRS,10
-9142,,,,,One Stop Vans Limited,Mobile caterer,7846,0,,688041,0,,,G100090356747,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-9143,257 Kiln Road,Thundersley,Benfleet,Essex,One Takeaway,Takeaway/sandwich shop,7844,5,,39001,5,,51.55942800000000,100090360713,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59704000000000,SS7 1RU,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-9144,Unit 4,Casino Parade,Eastern Esplanade,Canvey Island,Oyster Bay Sports & Wine Bar,Pub/bar/nightclub,7843,5,,605061,10,,,10004939269,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 7FJ,2014-03-25,fhrs_4_en-GB,4,,FHRS,5
-9145,The Oysterfleet Hotel,Knightswick Road,Canvey Island,Essex,Oysterfleet,Other catering premises,7841,0,,82056,5,,,200000997428,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 9DA,2014-09-02,fhrs_5_en-GB,5,,FHRS,5
-9146,136 London Road,South Benfleet,Benfleet,Essex,Pabs Stores & Post Office,Retailers - other,4613,0,,39402,0,,51.56698800000000,100091601122,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55254800000000,SS7 5SQ,2014-05-23,fhrs_4_en-GB,4,,FHRS,10
-9147,Age Concern,Council Offices,Long Road,Canvey Island,Paddocks Community Centre,Other catering premises,7841,5,,159805,0,,,P021553300000341300,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 0JW,2014-09-02,fhrs_5_en-GB,5,,FHRS,5
-9148,204 London Road,Hadleigh,Benfleet,Essex,Papa Johns,Takeaway/sandwich shop,7844,5,,39342,5,,51.55367200000000,100091599808,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60836900000000,SS7 2PD,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-9149,21-27 Thundersley Park Road,South Benfleet,Benfleet,Essex,Parklands Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,39019,0,,51.55462500000000,100090368600,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56269000000000,SS7 1EG,2013-12-10,fhrs_5_en-GB,5,,FHRS,5
-9150,28 Armstrong Road,Benfleet,Essex.,,Paula Scannell,Mobile caterer,7846,10,,634221,10,,51.57349900000000,800000000008,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56245300000000,SS7 4PW,2013-07-25,fhrs_3_en-GB,3,,FHRS,5
-9151,360 London Road,Hadleigh,Benfleet,Essex,Pearl Garden,Takeaway/sandwich shop,7844,20,,39358,10,,51.55171900000000,100091600190,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61291600000000,SS7 2DD,2014-01-28,fhrs_1_en-GB,1,,FHRS,5
-9152,132 High Street,Hadleigh,Benfleet,Essex,Peggotty's,Takeaway/sandwich shop,7844,10,,39354,5,,51.55308300000000,100091600063,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61100400000000,SS7 2BP,2013-12-10,fhrs_3_en-GB,3,,FHRS,10
-9153,128 London Road,South Benfleet,Benfleet,Essex,Perfect Pizza,Takeaway/sandwich shop,7844,10,,39397,5,,51.56698800000000,100091601093,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55254800000000,SS7 5SQ,2014-01-28,fhrs_4_en-GB,4,,FHRS,5
-9154,296 Kiln Road,Thundersley,Benfleet,Essex,Perrys Newsagents,Retailers - other,4613,5,,39005,5,,51.55775200000000,100090360752,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59880600000000,SS7 1QT,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-9155,193 High Street,Canvey Island,Essex,,Pharma Healthcare,Retailers - other,4613,,,688011,,,51.52077400000000,100091601734,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60475800000000,SS8 7RN,2012-02-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-9156,363 Long Road,Canvey Island,Essex,,Pharma Healthcare,Retailers - other,4613,,,688009,,,51.51959000000000,100091601503,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56912700000000,SS8 0JQ,2012-11-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-9157,33 High Street,Canvey Island,Essex,,Pick 'En Choose,Restaurant/Cafe/Canteen,1,10,,39421,10,,51.52315800000000,100091601593,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59415300000000,SS8 7RB,2014-01-22,fhrs_3_en-GB,3,,FHRS,10
-9158,43 Kiln Road,Thundersley,Benfleet,Essex,Picnics,Takeaway/sandwich shop,7844,0,,39327,0,,51.56204600000000,100091599627,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58027800000000,SS7 1TA,2014-11-17,fhrs_5_en-GB,5,,FHRS,0
-9159,267 Kiln Road,Thundersley,Benfleet,Essex,Pink Chilliz,Takeaway/sandwich shop,7844,10,,734150,5,,51.55942800000000,14/00035/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59704000000000,SS7 1RU,2014-12-18,fhrs_4_en-GB,4,,FHRS,5
-9160,354 Long Road,Canvey Island,Essex,,Pink Chilliz,Takeaway/sandwich shop,7844,10,,39414,10,,51.51997100000000,100091601472,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56571700000000,SS8 0JU,2014-02-26,fhrs_3_en-GB,3,,FHRS,10
-9161,275 High Street,Canvey Island,Essex,,Pit Stop,Restaurant/Cafe/Canteen,1,0,,39444,0,,51.51914900000000,100091601894,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60904700000000,SS8 7RS,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-9162,The Bungalow,Waterside Farm Sports Centre,Somnes Avenue,Canvey Island,Pits Stop,Restaurant/Cafe/Canteen,1,0,,722439,0,,51.53411100000000,14/00023/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56683000000000,SS8 9RA,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-9163,225 High Road,South Benfleet,Benfleet,Essex,Pizza Hut,Takeaway/sandwich shop,7844,0,,634190,0,,51.55245600000000,100091601187,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56112600000000,SS7 5HZ,2014-11-21,fhrs_5_en-GB,5,,FHRS,0
-9164,364 London Road,Hadleigh,Benfleet,Essex,Poona Tandoori Restaurant,Restaurant/Cafe/Canteen,1,5,,39007,5,,51.55074600000000,100090361694,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61501000000000,SS7 2DA,2013-05-15,fhrs_4_en-GB,4,,FHRS,10
-9165,64 Thorney Bay Road,Canvey Island,Essex,,Potton Homes,Hospitals/Childcare/Caring Premises,5,10,,37281,15,,51.51720000000000,10004933329,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57556600000000,SS8 0HQ,2014-02-26,fhrs_2_en-GB,2,,FHRS,10
-9166,347 Kents Hill Road,South Benfleet,Benfleet,Essex,Prash Minimarket Ltd,Retailers - other,4613,0,,39384,0,,51.56461300000000,100091601026,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56248700000000,SS7 5XT,2012-05-10,fhrs_4_en-GB,4,,FHRS,10
-9167,265 Kiln Road,Thundersley,Benfleet,Essex,Premier Convenience Store,Retailers - other,4613,10,,39003,0,,51.55942800000000,100090360722,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59704000000000,SS7 1RU,2012-03-09,fhrs_4_en-GB,4,,FHRS,0
-9168,,,,,Pumpernickles,Other catering premises,7841,0,,688030,0,,,200000993276,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-11-22,fhrs_5_en-GB,5,,FHRS,5
-9169,49 Papenburg Road,Canvey Island,Essex,,Pumpkins Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,39461,0,,51.53262900000000,100091602423,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58394900000000,SS8 9PW,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-9170,Street Record,Kingston Road,Benfleet,Essex,Quinnell Catering Limited,Restaurant/Cafe/Canteen,1,10,,727345,5,,,14/00031/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-12-09,fhrs_4_en-GB,4,,FHRS,5
-9171,675 High Road,South Benfleet,Benfleet,Essex,Rajpoot Cuisine Ltd,Restaurant/Cafe/Canteen,1,5,,39406,5,,51.56636500000000,100091601194,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55017600000000,SS7 5SF,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-9172,213 High Road,South Benfleet,Benfleet,Essex,Rapid Eats,Takeaway/sandwich shop,7844,5,,159689,5,,51.55245600000000,P010342302130078433,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56112600000000,SS7 5HZ,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-9173,Parkstone Residential Care Home,1 Parkstone Avenue,Thundersley,Benfleet,Redbridge Community Housing LD,Hospitals/Childcare/Caring Premises,5,5,,39151,0,,51.55902700000000,100091228536,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59241500000000,SS7 1SP,2012-09-24,fhrs_5_en-GB,5,,FHRS,0
-9174,Richmond Hall,High Road,South Benfleet,Benfleet,Richmond Hall & Car Park,Other catering premises,7841,0,,688001,0,,51.55366200000000,100091600744,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-9175,Richmond Pre School At Benfleet Cou,High Road,South Benfleet,Benfleet,Richmond Pre School,Other catering premises,7841,0,,634167,0,,51.55366200000000,10004939179,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2014-01-15,fhrs_5_en-GB,5,,FHRS,0
-9176,26 Hilversum Way,Canvey Island,Essex,,Rigo Ices,Mobile caterer,7846,10,,687983,5,,51.52764700000000,100090375777,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58720000000000,SS8 9UR,2014-03-25,fhrs_4_en-GB,4,,FHRS,5
-9177,669-673 High Road,South Benfleet,Benfleet,Essex,Rileys Sports Bar,Pub/bar/nightclub,7843,5,,39401,5,,51.56636500000000,100091601105,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55017600000000,SS7 5SF,2012-04-23,fhrs_4_en-GB,4,,FHRS,10
-9178,124 Furtherwick Road,Canvey Island,Essex,,Rio Bingo Club,Other catering premises,7841,5,,39432,0,,51.51962200000000,100091601691,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59258300000000,SS8 7AL,2013-07-10,fhrs_5_en-GB,5,,FHRS,5
-9179,84 Hart Road,Thundersley,Benfleet,Essex,Rishi Pharmacy Ltd,Retailers - other,4613,,,687996,,,51.56979100000000,100091600494,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58226100000000,SS7 3PR,2013-03-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-9180,Church Road,Thundersley,Benfleet,Essex,Robert Drake Primary School,School/college/university,7845,5,,82055,5,,51.57192900000000,200000997398,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56679600000000,SS7 3HT,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-9181,,,,,Rossi,Mobile caterer,7846,5,,39016,0,,,100090367302,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-07-15,fhrs_5_en-GB,5,,FHRS,0
-9182,96 Arundel Road,Thundersley,Benfleet,Essex,Rowlands Pharmacy,Retailers - other,4613,,,688000,,,51.57290500000000,100091600695,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55130700000000,SS7 4EF,2015-01-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-9183,British Legion Hall,Denham Road,Canvey Island,Essex,Royal British Legion,Other catering premises,7841,,,39529,,,51.52209600000000,100091621155,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58034000000000,SS8 9HB,2014-12-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-9184,130 London Road,South Benfleet,Benfleet,Essex,Royal Thai Inn,Other catering premises,7841,5,,39398,5,,51.56698800000000,100091601094,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55254800000000,SS7 5SQ,2014-03-29,fhrs_4_en-GB,4,,FHRS,10
-9185,24A Rectory Road,Hadleigh,Benfleet,Essex,Royals,Retailers - other,4613,10,,39334,0,,51.55496400000000,100091599740,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61095300000000,SS7 2ND,2012-08-10,fhrs_4_en-GB,4,,FHRS,0
-9186,Runnymede Hall R/o Council Offices,Kiln Road,Thundersley,Benfleet,Runnymede Hall,Other catering premises,7841,,,688019,,,51.56185500000000,100091620975,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58485600000000,SS7 1TF,2012-08-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-9187,Runnymede Hall,Kiln Road,Thundersley,Benfleet,Runnymede Pre-School,Other catering premises,7841,,,688044,,,51.55775200000000,P01014690000PRE-SCH,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59880600000000,SS7 1QT,2012-09-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-9188,Womens Royal Voluntary Service,Richmond Avenue,South Benfleet,Benfleet,RVS Day Centre,Other catering premises,7841,0,,159699,0,,51.55368000000000,P010370800000143599,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55491900000000,SS7 5HE,2014-10-30,fhrs_5_en-GB,5,,FHRS,0
-9189,,,,,S & M Sweets & Cakes,Other catering premises,7841,5,,559387,5,,,100090380657,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-05-20,fhrs_4_en-GB,4,,FHRS,10
-9190,,,,,S Bennett,Other catering premises,7841,5,,438571,0,,,100090366298,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-9191,,,,,S G Foods Ltd,Other catering premises,7841,5,,39024,0,,,100090371577,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-9192,263 High Road,South Benfleet,Benfleet,Essex,S R News,Retailers - other,4613,0,,688004,0,,51.55366200000000,100091601009,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2014-12-01,fhrs_5_en-GB,5,,FHRS,0
-9193,21 Stadium Way,Rayleigh,Essex,,Sainsbury Filling Station,Retailers - other,4613,0,,159717,0,,,P01088160021,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS6 3NZ,2014-03-17,fhrs_5_en-GB,5,,FHRS,0
-9194,21 Stadium Way,Thundersley,Benfleet,Essex,Sainsbury J Ltd,Retailers - supermarkets/hypermarkets,7840,0,,37279,0,,51.57494500000000,10004933085,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60013300000000,SS7 3UB,2013-03-28,fhrs_5_en-GB,5,,FHRS,0
-9195,Knightswick Centre,Foksville Road,Canvey Island,Essex,Sainsbury's Petrol Station,Retailers - other,4613,0,,159832,0,,51.52245900000000,P021830500000237547,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59323400000000,SS8 7AD,2013-03-01,fhrs_5_en-GB,5,,FHRS,0
-9196,9 Knightswick Centre,Furtherwick Road,Canvey Island,Essex,Sainsbury's Staff Restaurant,Other catering premises,7841,,,644166,,,51.52245900000000,800000000057,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59323400000000,SS8 7AD,2013-09-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-9197,9 Knightswick Centre,Furtherwick Road,Canvey Island,Essex,Sainsbury's Supermarkets Ltd,Retailers - supermarkets/hypermarkets,7840,0,,634211,0,,51.52245900000000,200000997825,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59323400000000,SS8 7AD,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-9198,111 Furtherwick Road,Canvey Island,Essex,,Saks Cafe Bar,Pub/bar/nightclub,7843,0,,39433,0,,51.51987000000000,100091601693,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59320200000000,SS8 7AT,2015-01-26,fhrs_5_en-GB,5,,FHRS,0
-9199,,,,,Sally's Cupcake Creations,Other catering premises,7841,0,,39006,0,,,100090361386,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2011-06-22,fhrs_5_en-GB,5,,FHRS,0
-9200,146 London Road,Hadleigh,Benfleet,Essex,Salvation Army,Retailers - other,4613,,,39343,,,51.55401100000000,100091599814,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60486800000000,SS7 2PF,2015-01-19,fhrs_5_en-GB,5,,FHRS,
-9201,Salvation Army Colony,Castle Lane,Hadleigh,Benfleet,Salvation Army Employment Centre & Tea Rooms,Restaurant/Cafe/Canteen,1,0,,688035,5,,51.55320700000000,200000998891,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59936900000000,SS7 2PP,2013-11-14,fhrs_5_en-GB,5,,FHRS,0
-9202,,,,,Sam's Enterprises,Other catering premises,7841,0,,687980,0,,,100090370691,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-03-20,fhrs_5_en-GB,5,,FHRS,0
-9203,,,,,Sam's Kitchen,Other catering premises,7841,5,,688029,5,,,14/00017/MOBIL,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-9204,81 London Road,South Benfleet,Benfleet,Essex,Sandcastles Nursery,Other catering premises,7841,5,,39008,5,,51.56773000000000,100090361806,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.54862200000000,SS7 5TG,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-9205,267 London Road,Hadleigh,Benfleet,Essex,Savers Health & Beauty,Retailers - other,4613,5,,634185,5,,51.55270300000000,100091600009,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61150100000000,SS7 2BN,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-9206,Eastern Esplanade,Canvey Island,Essex,,Sawaddee Thai Food,Takeaway/sandwich shop,7844,10,,688037,5,,,800000000017,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 7DW,2014-01-17,fhrs_4_en-GB,4,,FHRS,5
-9207,4 Haven Road,Canvey Island,Essex,,Scoopy,Mobile caterer,7846,10,,39032,5,,51.51922600000000,100090374996,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56357100000000,SS8 0LU,2014-09-02,fhrs_4_en-GB,4,,FHRS,5
-9208,286 High Street,Canvey Island,Essex,,Seaview Mini Market,Retailers - other,4613,,,39446,,,51.51856100000000,100091601908,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61002300000000,SS8 7TB,2014-10-06,fhrs_1_en-GB,1,,FHRS,
-9209,S E E V I C,Kiln Road,Thundersley,Benfleet,Seevic College,School/college/university,7845,0,,82050,0,,51.56185500000000,200000997005,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58485600000000,SS7 1TF,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-9210,163 Church Road,Thundersley,Benfleet,Essex,Shampan Tandoori,Restaurant/Cafe/Canteen,1,0,,82052,0,,51.57157900000000,200000997292,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55932900000000,SS7 4EN,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-9211,179 Kiln Road,Thundersley,Benfleet,Essex,Shell Benfleet,Retailers - other,4613,0,,39328,0,,51.56095500000000,100091599675,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58858500000000,SS7 1SH,2013-03-22,fhrs_5_en-GB,5,,FHRS,0
-9212,280 High Road,South Benfleet,Benfleet,Essex,Shell Kents Hill,Retailers - other,4613,0,,634209,0,,51.55366200000000,200000997310,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2012-01-11,fhrs_5_en-GB,5,,FHRS,0
-9213,131 High Road,South Benfleet,Benfleet,Essex,Shopright,Retailers - other,4613,5,,39370,5,,51.54928000000000,100091600747,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56282300000000,SS7 5LN,2013-08-16,fhrs_5_en-GB,5,,FHRS,5
-9214,501 High Road,South Benfleet,Benfleet,Essex,Shree News,Retailers - other,4613,10,,687966,0,,51.55960700000000,100090359344,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55034600000000,SS7 5AD,2012-02-15,fhrs_4_en-GB,4,,FHRS,0
-9215,29-31 Silver Point Marine,Canvey Island,Essex,,Silver Point Court,Hospitals/Childcare/Caring Premises,5,5,,82044,10,,51.51961900000000,200000992783,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.62346100000000,SS8 7TN,2014-08-29,fhrs_4_en-GB,4,,FHRS,5
-9216,27A High Street,Canvey Island,Essex,,Sophisti Cakes,Other catering premises,7841,10,,39447,0,,51.52315800000000,100091601918,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59415300000000,SS8 7RB,2014-03-13,fhrs_2_en-GB,2,,FHRS,15
-9217,South Benfleet Bowling Club,Brook Road,South Benfleet,Benfleet,South Benfleet & Canvey Bowling Club,Other catering premises,7841,5,,39378,0,,51.54977300000000,100091600957,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55796000000000,SS7 5JF,2014-03-13,fhrs_5_en-GB,5,,FHRS,0
-9218,High Road,Benfleet,Essex,,South Benfleet Primary School,School/college/university,7845,0,,159685,0,,51.55366200000000,P010342300000082531,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2012-12-03,fhrs_5_en-GB,5,,FHRS,0
-9219,8 Vicarage Hill,South Benfleet,Benfleet,Essex,South Benfleet Social Club,Other catering premises,7841,10,,330795,0,,51.54869900000000,100091599696,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56514100000000,SS7 1PA,2014-01-15,fhrs_4_en-GB,4,,FHRS,10
-9220,Unit 5,Casino Parade,Eastern Esplanade,Canvey Island,Spar Canvey,Retailers - other,4613,20,,634170,10,,,10004939270,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 7FJ,2013-12-16,fhrs_1_en-GB,1,,FHRS,10
-9221,303 High Road,Thundersley,Benfleet,,Spice Garden Indian Restaurant,Restaurant/Cafe/Canteen,1,5,,39519,10,,51.55366200000000,100091620906,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2013-11-12,fhrs_4_en-GB,4,,FHRS,5
-9222,Unit 3,Casino Parade,Eastern Esplanade,Canvey Island,Spice Lounge,Restaurant/Cafe/Canteen,1,5,,634169,0,,,10004939268,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 7FJ,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-9223,St Annes Church Hall,St Annes Road,Canvey Island,Essex,St Annes Pre-School,Other catering premises,7841,5,,644149,0,,51.51803800000000,800000000020,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60725400000000,SS8 7LS,2011-12-07,fhrs_5_en-GB,5,,FHRS,0
-9224,St Barnabas Church,Church Road,Hadleigh,Benfleet,St Barnabas Pre School,Other catering premises,7841,0,,644161,0,,51.55095400000000,800000000042,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.62059000000000,SS7 2EJ,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-9225,St Georges Church Hall,Rushbottom Lane,Benfleet,Essex,St Georges Pre-School,School/college/university,7845,0,,159711,0,,51.57090800000000,P0106720PRESCHOOL,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.54887100000000,SS7 4DN,2014-01-15,fhrs_5_en-GB,5,,FHRS,0
-9226,St Katherine School,Hilton Road,Canvey Island,Essex,St Katherines School,School/college/university,7845,0,,634198,0,,51.53009200000000,100091602390,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58233500000000,SS8 9QA,2015-01-26,fhrs_5_en-GB,5,,FHRS,0
-9227,Venables Court,Venables Close,Canvey Island,Essex,Stafford Court Care Centre,Hospitals/Childcare/Caring Premises,5,5,,39535,5,,51.52213400000000,100091643633,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59733900000000,SS8 7SB,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-9228,Stafford Hall Nursing Home,138 Thundersley Park Road,South Benfleet,Benfleet,Stafford Hall Rest Home,Hospitals/Childcare/Caring Premises,5,5,,39153,5,,51.55754400000000,100091228793,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56781800000000,SS7 1EN,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-9229,Starr Snooker,31-33 Eastern Esplanade,Canvey Island,Essex,Starr Snooker And Vi Bowl,Other catering premises,7841,10,,159822,5,,51.51284500000000,P021824700000228853,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59770400000000,SS8 7DN,2014-02-18,fhrs_4_en-GB,4,,FHRS,5
-9230,,,,,Steve's Cafe,Other catering premises,7841,10,,688031,10,,,200000993438,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-06-20,fhrs_3_en-GB,3,,FHRS,10
-9231,9 Furtherwick Road,Canvey Island,Essex,,Store Twenty One,Retailers - other,4613,,,722438,,,51.52244200000000,100091601910,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59278600000000,SS8 7AB,2014-10-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-9232,52 Furtherwick Road,Canvey Island,Essex,,Subway,Takeaway/sandwich shop,7844,5,,688015,10,,51.52236000000000,100091601968,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59203200000000,SS8 7AE,2014-05-19,fhrs_4_en-GB,4,,FHRS,5
-9233,215-219A High Road,South Benfleet,Benfleet,Essex,Sue Ryder Care,Retailers - other,4613,0,,704514,5,,51.55245600000000,10004934768,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56112600000000,SS7 5HZ,2013-10-25,fhrs_5_en-GB,5,,FHRS,5
-9234,Eastern Esplanade,Canvey Island,Essex,,Sue's Cafe,Restaurant/Cafe/Canteen,1,5,,644169,5,,,800000000064,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 7DW,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-9235,,,,,Sugar Lump Lane,Other catering premises,7841,0,,727346,0,,,14/00034/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-12-09,fhrs_5_en-GB,5,,FHRS,0
-9236,,,,,Sugar Strands,Other catering premises,7841,5,,710013,0,,,14/00029/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-10-15,fhrs_5_en-GB,5,,FHRS,5
-9237,59 Brunel Road,Manor Trading Estate,Benfleet,Essex,Sugarflair Colours Ltd,Manufacturers/packers,7839,0,,688018,0,,51.57409100000000,100091620721,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56416100000000,SS7 4PS,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-9238,Day Nursery,Appleton School,Croft Road,South Benfleet,Sunshine Day Nursery,Other catering premises,7841,0,,634219,5,,51.56395500000000,800000000006,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55513500000000,SS7 5RL,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-9239,40-44 Furtherwick Road,Canvey Island,Essex,,Superdrug,Retailers - other,4613,0,,688013,0,,51.52236000000000,100091601924,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59203200000000,SS8 7AE,2012-03-27,fhrs_5_en-GB,5,,FHRS,0
-9240,263 Kiln Road,Thundersley,Benfleet,Essex,Swami News,Retailers - other,4613,10,,39002,5,,51.55942800000000,100090360720,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59704000000000,SS7 1RU,2013-02-28,fhrs_4_en-GB,4,,FHRS,5
-9241,,,,,Sweet Surprises XX,Other catering premises,7841,5,,588708,10,,,100090379310,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-10-23,fhrs_3_en-GB,3,,FHRS,10
-9242,,,,,Sweet Tooth,Other catering premises,7841,10,,688042,5,,,G100090374011,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-09-11,fhrs_3_en-GB,3,,FHRS,10
-9243,2B Sydervelt Road,Canvey Island,Essex,,Sydervelt Lodge,Hospitals/Childcare/Caring Premises,5,10,,39048,0,,51.52127500000000,100090381278,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58251300000000,SS8 9EG,2013-08-21,fhrs_4_en-GB,4,,FHRS,0
-9244,200 High Road,South Benfleet,Benfleet,Essex,T & C Takeaway,Takeaway/sandwich shop,7844,5,,634175,5,,51.55151400000000,100090359143,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56227000000000,SS7 5LD,2014-03-03,fhrs_5_en-GB,5,,FHRS,5
-9245,61-63 Hart Road,Thundersley,Benfleet,Essex,Tandoori Parlour Ltd,Restaurant/Cafe/Canteen,1,10,,634186,10,,51.56882000000000,100091600544,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57976700000000,SS7 3PB,2013-10-25,fhrs_3_en-GB,3,,FHRS,10
-9246,,,,,Tarpots Kebabs Van,Mobile caterer,7846,5,,39050,5,,,100090383626,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-11-20,fhrs_5_en-GB,5,,FHRS,5
-9247,122 London Road,South Benfleet,Benfleet,Essex,Tarpots News,Retailers - other,4613,,,634189,,,51.56698800000000,100091601092,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55254800000000,SS7 5SQ,2012-05-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-9248,Unit 22,Shafers Arcade,677 High Road,South Benfleet,Tarpots Tea Rooms,Restaurant/Cafe/Canteen,1,5,,687949,5,,51.56636500000000,010004934971,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55017600000000,SS7 5SF,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-9249,190 High Road,South Benfleet,Benfleet,Essex,Taste,Other catering premises,7841,0,,559391,0,,51.55151400000000,200000998983,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56227000000000,SS7 5LD,2013-02-26,fhrs_5_en-GB,5,,FHRS,0
-9250,,,,,Taste,Other catering premises,7841,0,,687978,0,,,100090369842,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-02-26,fhrs_5_en-GB,5,,FHRS,0
-9251,277 High Road,South Benfleet,Benfleet,Essex,Tasty Bites,Restaurant/Cafe/Canteen,1,0,,39386,0,,51.55366200000000,100091601055,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55904400000000,SS7 5HA,2014-06-02,fhrs_5_en-GB,5,,FHRS,0
-9252,83-85 High Street,Canvey Island,Essex,,Tasty Chinese,Takeaway/sandwich shop,7844,10,,722443,10,,51.52308200000000,14/00032/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59798400000000,SS8 7RE,2014-11-20,fhrs_3_en-GB,3,,FHRS,5
-9253,182 High Road,South Benfleet,Benfleet,Essex,TCCL,School/college/university,7845,10,,39400,5,,51.55151400000000,100091601102,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56227000000000,SS7 5LD,2014-03-31,fhrs_4_en-GB,4,,FHRS,5
-9254,92 London Road,South Benfleet,Benfleet,Essex,Tesco,Retailers - supermarkets/hypermarkets,7840,0,,39379,0,,51.56715300000000,100091600978,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.54825700000000,SS7 5TJ,2011-02-21,fhrs_5_en-GB,5,,FHRS,0
-9255,Appleton School,Croft Road,South Benfleet,Benfleet,The Appleton School,School/college/university,7845,0,,39371,0,,51.56366600000000,100091600753,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55185700000000,SS7 5RN,2014-07-14,fhrs_5_en-GB,5,,FHRS,0
-9256,Thorney Bay Beach Camp,Thorney Bay Road,Canvey Island,Essex,The Bar,Pub/bar/nightclub,7843,0,,82075,0,,51.51436300000000,200000999121,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58069500000000,SS8 0DB,2013-07-10,fhrs_5_en-GB,5,,FHRS,5
-9257,Western Esplanade,Canvey Island,Essex,,The Bay Cafe,Restaurant/Cafe/Canteen,1,5,,634161,0,,51.51231200000000,10004938042,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58885300000000,SS8 0AY,2013-03-26,fhrs_5_en-GB,5,,FHRS,0
-9258,28 Shell Beach Road,Canvey Island,Essex,,The Beeches,Hospitals/Childcare/Caring Premises,5,0,,39045,0,,51.51536900000000,100090380214,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60512700000000,SS8 7NU,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-9259,,,,,The Budding Sweet Shop,Retailers - other,4613,5,,687967,5,,,100090359631,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-05-23,fhrs_5_en-GB,5,,FHRS,0
-9260,Starr Snooker,31-33 Eastern Esplanade,Canvey Island,Essex,The Codfather,Takeaway/sandwich shop,7844,10,,39534,5,,51.51284500000000,100091643483,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59770400000000,SS8 7DN,2013-10-31,fhrs_3_en-GB,3,,FHRS,10
-9261,248 High Road,Thundersley,Benfleet,,The Co-Operative,Retailers - supermarkets/hypermarkets,7840,0,,39518,0,,51.55323500000000,100091620871,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56089600000000,SS7 5LA,2013-07-19,fhrs_5_en-GB,5,,FHRS,5
-9262,97-99 Furtherwick Road,Canvey Island,Essex,,The Co-Operative Pharmacy,Retailers - other,4613,,,722442,,,51.52058400000000,14/00028/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59302700000000,SS8 7AY,2014-11-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-9263,The Cope Recreational Ground,Somnes Avenue,Canvey Island,Essex,The Cope,Other catering premises,7841,0,,438573,0,,51.53411100000000,P02147550000,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56683000000000,SS8 9RA,2012-08-18,fhrs_5_en-GB,5,,FHRS,0
-9264,The Enchanted Wood Day Nursery,Daws Heath Road,Hadleigh,Benfleet,The Enchanted Wood Day Nursery Ltd,School/college/university,7845,5,,330797,5,,51.56798900000000,P01092050-NURSERY,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59946100000000,SS7 2TD,2014-08-18,fhrs_5_en-GB,5,,FHRS,0
-9265,8 Vicarage Hill,South Benfleet,Benfleet,Essex,The Fish Inn,Mobile caterer,7846,0,,710011,0,,51.54869900000000,14/00021/MOBIL,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56514100000000,SS7 1PA,2014-09-26,fhrs_5_en-GB,5,,FHRS,0
-9266,,,,,The Food Station,Mobile caterer,7846,10,,644136,5,,,10004937092,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-01-17,fhrs_4_en-GB,4,,FHRS,5
-9267,Island Yacht Club,Point Road,Canvey Island,Essex,The Galley,Restaurant/Cafe/Canteen,1,0,,644155,0,,51.51989600000000,800000000028,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.62514900000000,SS8 7TX,2013-07-31,fhrs_5_en-GB,5,,FHRS,5
-9268,Dauntless Boatyard,Canvey Road,Canvey Island,Essex,The Galleystop,Restaurant/Cafe/Canteen,1,10,,159781,15,,51.54059400000000,P0213135000002153492,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56648800000000,SS8 0QT,2014-05-30,fhrs_2_en-GB,2,,FHRS,15
-9269,,,,,The Island Cake Angels,Other catering premises,7841,5,,631643,5,,,100090377777,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-01-22,fhrs_4_en-GB,4,,FHRS,10
-9270,27 Vikings Way,Canvey Island,Essex,,The Kids Place,School/college/university,7845,10,,39533,0,,51.52127300000000,100091621363,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55920200000000,SS8 0PB,2014-02-14,fhrs_4_en-GB,4,,FHRS,10
-9271,Furtherwick Road,Canvey Island,Essex,,The Labworth Beach Cafe,Restaurant/Cafe/Canteen,1,10,,644165,5,,,800000000055,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 7DW,2014-02-14,fhrs_4_en-GB,4,,FHRS,5
-9272,Furtherwick Road,Canvey Island,Essex,,The Labworth Restaurant,Restaurant/Cafe/Canteen,1,10,,159833,10,,,P021830500000237581,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,SS8 7DW,2013-10-23,fhrs_3_en-GB,3,,FHRS,10
-9273,Monico Public House,1-3 Eastern Esplanade,Canvey Island,Essex,The Monico,Pub/bar/nightclub,7843,0,,82051,0,,51.51284500000000,200000997132,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59770400000000,SS8 7DN,2012-05-10,fhrs_5_en-GB,5,,FHRS,0
-9274,The Moorings,167 Thorney Bay Road,Canvey Island,Essex,The Moorings Care Home,Hospitals/Childcare/Caring Premises,5,5,,634180,5,,51.51536700000000,100090382296,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58491800000000,SS8 0HN,2014-12-18,fhrs_5_en-GB,5,,FHRS,5
-9275,312 London Road,South Benfleet,Benfleet,Essex,The Orchard Tea Room,Restaurant/Cafe/Canteen,1,0,,734153,0,,51.56622700000000,15/00002/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56145200000000,SS7 5XR,2015-01-26,fhrs_5_en-GB,5,,FHRS,0
-9276,125 London Road,South Benfleet,Benfleet,Essex,The Paper Shop,Retailers - other,4613,,,688002,,,51.56761500000000,100091601002,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55140000000000,SS7 5UH,2012-02-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-9277,90 Point Road,Canvey Island,Essex,,The Paperchase,Retailers - other,4613,10,,39041,10,,51.51862500000000,100090379368,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61884900000000,SS8 7TG,2013-10-08,fhrs_3_en-GB,3,,FHRS,10
-9278,Billy Bunter Eats,Ferry Road,South Benfleet,Benfleet,The Platform Cafe (Benfleet Station),Restaurant/Cafe/Canteen,1,0,,644142,5,,51.54383100000000,100091599544,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56195400000000,SS7 1NF,2014-08-18,fhrs_5_en-GB,5,,FHRS,5
-9279,150 High Street,Canvey Island,Essex,,The Saqui,Takeaway/sandwich shop,7844,10,,39033,10,,51.52246900000000,100090375512,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60048600000000,SS8 7SL,2014-05-30,fhrs_3_en-GB,3,,FHRS,10
-9280,,,,,The Sno Hut,Mobile caterer,7846,0,,330794,0,,,100090382037,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-03-09,fhrs_5_en-GB,5,,FHRS,0
-9281,80 High Street,South Benfleet,Benfleet,Essex,The Station Cafe,Takeaway/sandwich shop,7844,10,,39522,10,,51.54407900000000,100091620951,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56257400000000,SS7 1ND,2014-08-27,fhrs_2_en-GB,2,,FHRS,15
-9282,,,,,The Sweet Stall,Retailers - other,4613,0,,208953,0,,,100090382775,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-11-25,fhrs_5_en-GB,5,,FHRS,0
-9283,Tarpots,London Road,South Benfleet,Benfleet,The Tarpots,Restaurant/Cafe/Canteen,1,0,,39527,0,,51.56698800000000,100091621052,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55254800000000,SS7 5SQ,2012-11-13,fhrs_5_en-GB,5,,FHRS,0
-9284,Shop 8,348 Long Road,Canvey Island,Essex,The Village Fish Bar Ltd,Takeaway/sandwich shop,7844,5,,82058,5,,51.51997100000000,200000997464,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56571700000000,SS8 0JU,2013-08-28,fhrs_5_en-GB,5,,FHRS,5
-9285,200 Rayleigh Road,Thundersley,Benfleet,Essex,The Virgin Active Cafe,Restaurant/Cafe/Canteen,1,0,,644156,0,,51.56382500000000,800000000029,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59828600000000,SS7 3YP,2014-11-14,fhrs_5_en-GB,5,,FHRS,0
-9286,Western Esplanade,Canvey Island,Essex,,The Welcome Hut Kiosk & Van,Other catering premises,7841,0,,159813,0,,51.51231200000000,P021592900000324641,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58885300000000,SS8 0AY,2013-08-21,fhrs_5_en-GB,5,,FHRS,0
-9287,The Woodmans Arms Public House,Rayleigh Road,Thundersley,Benfleet,The Woodmans Arms,Pub/bar/nightclub,7843,0,,39152,0,,51.57045600000000,100091228559,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59489800000000,SS7 3TA,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-9288,73 Hart Road,Thundersley,Benfleet,Essex,Thundersley Charcoal Grill,Takeaway/sandwich shop,7844,10,,38993,5,,51.56882000000000,100090358675,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57976700000000,SS7 3PB,2013-07-25,fhrs_3_en-GB,3,,FHRS,10
-9289,Kenneth Road,Benfleet,Essex,,Thundersley Congregational Church,Other catering premises,7841,0,,159715,0,,51.56329400000000,P01084650000-CHURCH,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57708800000000,SS7 3AL,2013-10-01,fhrs_5_en-GB,5,,FHRS,0
-9290,470 Church Road,Hadleigh,Benfleet,Essex,Thundersley Post Office,Retailers - other,4613,,,39363,,,51.56870200000000,100091600507,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57533000000000,SS7 3HB,2011-07-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-9291,Thundersley County Primary School,Dark Lane,Benfleet,Essex,Thundersley Primary School,School/college/university,7845,0,,644147,0,,51.56892800000000,200000998480,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58429000000000,SS7 3PU,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-9292,208B London Road,Hadleigh,Benfleet,Essex,Tipplers,Retailers - other,4613,,,39335,,,51.55367200000000,100091599743,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60836900000000,SS7 2PD,2014-03-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-9293,325A London Road,South Benfleet,Benfleet,Essex,Tommy Tuckers Sandwich Bar,Takeaway/sandwich shop,7844,5,,39331,0,,51.56623900000000,100091599689,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56419500000000,SS7 1BL,2013-07-31,fhrs_5_en-GB,5,,FHRS,0
-9294,39 Wittem Road,Canvey Island,Essex,,Toni's Diner,Takeaway/sandwich shop,7844,10,,722440,10,,51.52837800000000,14/00024/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59071600000000,SS8 8DD,2014-11-03,fhrs_3_en-GB,3,,FHRS,10
-9295,300 High Road,South Benfleet,Benfleet,Essex,Totally Fish,Retailers - other,4613,10,,687952,5,,51.55420100000000,010004938764,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55865600000000,SS7 5HB,2013-11-14,fhrs_3_en-GB,3,,FHRS,10
-9296,Tender Years Day Nursery,High Road,South Benfleet,Benfleet,Tree Tots Pre-School,Other catering premises,7841,0,,644148,0,,51.56186900000000,200000998537,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55015500000000,SS7 5RG,2013-07-09,fhrs_4_en-GB,4,,FHRS,10
-9297,,,,,Tubby Tubs,Other catering premises,7841,5,,39022,5,,,100090369795,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-05-16,fhrs_4_en-GB,4,,FHRS,10
-9298,261 London Road,Hadleigh,Benfleet,Essex,Ujigee Daynite Pharmacy,Retailers - other,4613,,,687994,,,51.55270300000000,100091600007,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.61150100000000,SS7 2BN,2013-02-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-9299,,,,,Unique Cakes,Other catering premises,7841,0,,687986,0,,,100090378402,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-01-31,fhrs_5_en-GB,5,,FHRS,0
-9300,28 Edith Road,Canvey Island,Essex,,Valentine Lodge,Hospitals/Childcare/Caring Premises,5,10,,39027,5,,51.52094400000000,100090373477,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56398500000000,SS8 0LP,2014-11-20,fhrs_3_en-GB,3,,FHRS,10
-9301,350 Long Road,Canvey Island,Essex,,Village Chinese Takeaway,Takeaway/sandwich shop,7844,5,,39413,10,,51.51997100000000,100091601471,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56571700000000,SS8 0JU,2014-06-20,fhrs_4_en-GB,4,,FHRS,5
-9302,67 Hart Road,Thundersley,Benfleet,Essex,Village Friar,Takeaway/sandwich shop,7844,10,,39362,10,,51.56882000000000,100091600485,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57976700000000,SS7 3PB,2014-10-21,fhrs_3_en-GB,3,,FHRS,5
-9303,14 Benfleet Road,Hadleigh,Benfleet,Essex,Village Indiya,Restaurant/Cafe/Canteen,1,10,,39326,10,,51.55674100000000,100091599617,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59856000000000,SS7 1QB,2014-10-21,fhrs_3_en-GB,3,,FHRS,10
-9304,,,,,Vintage Tea Garden,Other catering premises,7841,5,,528090,5,,,100090358387,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2013-05-27,fhrs_5_en-GB,5,,FHRS,5
-9305,,,,,W.J.Westley & Sons,Other catering premises,7841,0,,39157,0,,,100091229803,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-06-01,fhrs_5_en-GB,5,,FHRS,0
-9306,126 Hart Road,Thundersley,Benfleet,Essex,Wah Nam Chinese Takeaway,Takeaway/sandwich shop,7844,0,,39365,5,,51.56978000000000,100091600533,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58357400000000,SS7 3PS,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-9307,Lionel Road,Canvey Island,Essex,,Walsingham House,Other catering premises,7841,0,,634159,0,,51.52144000000000,10004934399,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59092700000000,SS8 9DE,2014-10-07,fhrs_5_en-GB,5,,FHRS,0
-9308,,,,,Walsingham Private Catering,Other catering premises,7841,0,,410441,0,,,100090358523,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-03-18,fhrs_5_en-GB,5,,FHRS,5
-9309,Somnes Avenue,Canvey Island,Essex,,Waterside Farm Sports Centre,Other catering premises,7841,10,,619004,5,,51.53411100000000,100091602299,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56683000000000,SS8 9RA,2013-10-23,fhrs_4_en-GB,4,,FHRS,5
-9310,195-197 High Street,Canvey Island,Essex,,Welcome Inn Chinese,Restaurant/Cafe/Canteen,1,5,,634196,5,,51.52077400000000,100091601587,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60475800000000,SS8 7RN,2014-11-28,fhrs_5_en-GB,5,,FHRS,5
-9311,38 High Street,Hadleigh,Benfleet,Essex,Western Dance Centre,Other catering premises,7841,,,39341,,,51.55342000000000,100091599804,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60720000000000,SS7 2PB,2011-12-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-9312,Westwood Primary School,Beresford Close,Hadleigh,Benfleet,Westwood Academy,School/college/university,7845,0,,634184,5,,51.55808800000000,100091600001,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60472500000000,SS7 2SU,2014-09-05,fhrs_5_en-GB,5,,FHRS,5
-9313,458 London Road,South Benfleet,Benfleet,Essex,Wheelers Indian Takeaway,Restaurant/Cafe/Canteen,1,5,,39333,10,,51.56355600000000,100091599707,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57048000000000,SS7 1AW,2014-01-28,fhrs_3_en-GB,3,,FHRS,10
-9314,White Hart,Hart Road,Thundersley,Benfleet,White Hart Public House,Pub/bar/nightclub,7843,0,,39360,0,,51.56888900000000,100091600416,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58196500000000,SS7 3PF,2013-07-19,fhrs_5_en-GB,5,,FHRS,0
-9315,1 Rat Lane,Thundersley,Benfleet,Essex,Wickes,Retailers - other,4613,,,722437,,,51.57577500000000,100091598848,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60326900000000,SS6 7TS,2014-11-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-9316,Long Road,Canvey Island,Essex,,William Read Primary School,School/college/university,7845,0,,159804,0,,51.51983300000000,P021553300000271896,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57732900000000,SS8 0JE,2012-07-19,fhrs_5_en-GB,5,,FHRS,0
-9317,129 London Road,South Benfleet,Benfleet,Essex,Wimpy,Other catering premises,7841,0,,39380,0,,51.56761500000000,100091601003,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.55140000000000,SS7 5UH,2013-07-10,fhrs_5_en-GB,5,,FHRS,0
-9318,Eastern Esplanade,Canvey Island,Essex,,Windjammer's Upper Deck,Pub/bar/nightclub,7843,0,,644173,0,,51.51323900000000,P0218824700000278284,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60141600000000,SS8 7HG,2014-12-17,fhrs_5_en-GB,5,,FHRS,0
-9319,199 Central Avenue,Canvey Island,Essex,,Winter Gardens Post Office,Retailers - other,4613,5,,39456,5,,51.53028400000000,100091602356,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.57320400000000,SS8 9QP,2012-11-02,fhrs_5_en-GB,5,,FHRS,5
-9320,Winter Gardens Junior School,Hilton Road,Canvey Island,Essex,Winter Gardens Primary School,School/college/university,7845,5,,39458,5,,51.53009200000000,100091602389,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58233500000000,SS8 9QA,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-9321,Nashlea Farm,Poors Lane,Hadleigh,Benfleet,Wisbey Potatoes,Retailers - other,4613,0,,687959,0,,51.56249100000000,10004938842,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.62590000000000,SS7 2XF,2013-03-20,fhrs_5_en-GB,5,,FHRS,5
-9322,Unit 4,Denham Road,Canvey Island,Essex,Wong Hing,Takeaway/sandwich shop,7844,10,,634226,5,,51.52209600000000,800000000014,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.58034000000000,SS8 9HB,2013-07-22,fhrs_4_en-GB,4,,FHRS,5
-9323,,,,,Woo Cakes,Other catering premises,7841,0,,710012,0,,,14/00022/COMM,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-10-21,fhrs_5_en-GB,5,,FHRS,0
-9324,,,,,Woodcraft's Cakecraft,Other catering premises,7841,0,,687975,0,,,100090367081,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2012-06-25,fhrs_5_en-GB,5,,FHRS,0
-9325,97 Woodfield Road,Hadleigh,Benfleet,Essex,Woodfield Newsagents,Retailers - other,4613,5,,39353,0,,51.55396200000000,100091600057,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.62402400000000,SS7 2ES,2013-07-10,fhrs_5_en-GB,5,,FHRS,5
-9326,Woodham Ley School,Rushbottom Lane,Thundersley,Benfleet,Woodham Ley Primary School,School/college/university,7845,5,,634201,5,,51.57090800000000,100091621084,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.54887100000000,SS7 4DN,2014-05-23,fhrs_5_en-GB,5,,FHRS,5
-9327,357 Rayleigh Road,Thundersley,Benfleet,Essex,Woodmans Newsagents,Retailers - other,4613,5,,39366,0,,51.56968800000000,100091600547,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59468100000000,SS7 3SS,2013-08-21,fhrs_5_en-GB,5,,FHRS,5
-9328,Wrvs,Poplar Road,Canvey Island,Essex,WRVS Hall,Other catering premises,7841,0,,644144,0,,51.51775400000000,100091621321,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.59412000000000,SS8 7BN,2014-05-08,fhrs_5_en-GB,5,,FHRS,5
-9329,205 High Street,Canvey Island,Essex,,Yummy House,Takeaway/sandwich shop,7844,5,,39442,5,,51.52077400000000,100091601888,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.60475800000000,SS8 7RN,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-9330,,,,,Yummy Tummy,Other catering premises,7841,0,,37284,0,,,10004934553,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,,,2014-12-10,fhrs_5_en-GB,5,,FHRS,0
-9331,170-180 Church Road,Hadleigh,Benfleet,Essex,Zach Wilsher,Pub/bar/nightclub,7843,0,,37283,0,,51.57140600000000,10004934513,112,environmentalhealth@castlepoint.gov.uk,Castle Point,http://www.castlepoint.gov.uk,0.56275400000000,SS7 4PL,2014-06-02,fhrs_5_en-GB,5,,FHRS,0
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+8847,99P Stores Ltd,5,5,5,0,2014-08-11,51.52236,0.592032
+8848,Abbeyfield House,5,0,0,0,2014-02-18,51.519993,0.585584
+8849,Abbeyfield House,5,5,5,0,2014-08-27,51.553673,0.600651
+8850,Admiral Jellicoe,5,0,0,0,2012-08-17,51.519149,0.609047
+8851,Akash Tandoori,4,5,10,5,2014-12-03,51.552456,0.561126
+8852,Alfies,5,5,0,0,2014-12-10,,
+8853,All Occasions,5,0,0,0,2014-10-29,,
+8854,All Occasions Cakes,5,0,0,5,2012-05-09,,
+8855,Alliance Pharmacy,Exempt,nan,nan,nan,2012-03-30,51.519899,0.5817
+8856,Altogether Fresher,5,0,0,0,2012-03-06,51.53187,0.586156
+8857,Altogether Fresher,5,5,5,0,2014-08-19,51.571579,0.559329
+8858,Altogether Fresher,5,5,0,5,2013-08-29,51.519899,0.5817
+8859,Anchor Inn,5,5,0,0,2012-03-28,51.545735,0.566215
+8860,Ancora Restaurant,4,5,10,5,2014-06-10,51.553262,0.608215
+8861,Anika,0,20,20,20,2014-08-29,51.521776,0.592821
+8862,Anita's Temptin Cakes,5,0,0,0,2012-11-21,,
+8863,Anns Mini Market,4,0,0,10,2013-05-13,51.56945,0.611061
+8864,Argos,Exempt,nan,nan,nan,2015-01-27,51.574751,0.602778
+8865,Arundel Food And Wine Store,4,5,0,10,2013-03-15,51.572905,0.551307
+8866,Arundel News,Exempt,nan,nan,nan,2011-09-30,51.572905,0.551307
+8867,Asia Food Products Ltd,3,10,10,10,2014-09-02,51.519222,0.553855
+8868,Asifs Chemists,Exempt,nan,nan,nan,2012-05-01,51.553777,0.609716
+8869,Autohalt Service Station,5,0,0,0,2012-03-29,51.578405,0.585203
+8870,B B Grout,5,0,0,0,2013-01-04,51.56882,0.579767
+8871,B B Grout Ltd,5,0,0,0,2014-03-21,51.522782,0.600576
+8872,B B Grout Ltd,5,0,0,0,2013-03-20,51.566988,0.552548
+8873,B B Grout Ltd,5,0,0,0,2014-02-24,51.552703,0.611501
+8874,B B Grout Ltd,5,0,0,0,2014-10-10,51.553662,0.559044
+8875,B B Grout Ltd,5,5,0,0,2014-05-08,51.52124,0.592242
+8876,B.O.P.H.,5,0,0,0,2015-01-26,51.520334,0.558126
+8877,Bar One,5,0,0,0,2013-07-31,51.51959,0.569127
+8878,Barkins Butchers,5,5,5,5,2014-11-24,51.554201,0.558656
+8879,Beefys Diner,5,0,0,0,2014-07-07,51.574091,0.564161
+8880,Benfleet Chinese Takeaway,5,0,5,5,2014-11-24,51.554201,0.558656
+8881,Benfleet Conservative Club,5,0,0,0,2014-11-17,51.545298,0.562325
+8882,Benfleet Cricket/Social Club,5,0,0,5,2012-09-24,,
+8883,Benfleet Kids Club,5,5,5,5,2013-07-25,51.574091,0.564161
+8884,Benfleet Market Shop,5,5,5,0,2012-12-10,51.571754,0.565328
+8885,Benfleet Methodist Church,5,5,0,0,2013-03-08,51.547392,0.563207
+8886,Benfleet Tandoori Restaurant,5,5,5,5,2014-03-04,51.545298,0.562325
+8887,Benfleet Tavern,5,0,0,0,2012-06-18,51.554331,0.556009
+8888,Benfleet Yacht Club,4,5,10,5,2014-05-30,51.540594,0.566488
+8889,Benfruits,5,5,0,0,2013-07-10,51.552456,0.561126
+8890,Best One,5,0,0,5,2012-01-24,51.515644,0.584573
+8891,Big Sausage Mobile,4,5,10,5,2014-08-18,51.575775,0.603269
+8892,Biltong Direct,4,10,0,0,2013-10-31,51.519222,0.553855
+8893,Blinking Owl Cafe,4,5,10,5,2014-08-27,51.585045,0.573613
+8894,Blue Cafe,4,5,5,10,2013-07-22,51.522625,0.597929
+8895,Bonar House Clinic,5,0,0,5,2013-08-21,51.553042,0.612026
+8896,Bonne Bouche,5,5,5,5,2013-11-14,,
+8897,Boots The Chemist Ltd,Exempt,nan,nan,nan,2012-03-02,51.521776,0.592821
+8898,Boots UK Ltd,5,0,0,0,2013-01-28,51.525235,0.566806
+8899,Boyce Hill Golf & Country Club,5,5,5,5,2014-08-27,51.549708,0.568776
+8900,BP Express Shopping Limited,5,0,0,0,2014-02-18,51.51959,0.569127
+8901,BP Westwood Connect,5,0,0,0,2013-07-10,51.556692,0.600361
+8902,Bread And Cheese,5,5,5,5,2014-08-20,51.562406,0.575782
+8903,Britannia Fish Bar,1,10,10,20,2014-02-18,51.566988,0.552548
+8904,Buffets Direct,5,5,0,5,2014-12-05,51.512312,0.588853
+8905,Cafe Bou'tea'que,5,0,0,0,2014-11-11,51.554201,0.558656
+8906,Cafe Cafe,5,0,5,5,2013-10-04,51.551514,0.56227
+8907,Cafe Corona,3,5,10,10,2014-06-24,,
+8908,Cafe Floria,5,0,0,5,2014-10-11,51.522442,0.592786
+8909,Cafe Max,5,0,0,5,2014-02-18,51.54928,0.562823
+8910,Cafe Yemek,1,5,10,20,2014-06-10,51.555333,0.610541
+8911,Cake That Essex,3,10,5,10,2014-03-25,,
+8912,Cake Tin Ice,5,0,0,5,2014-03-31,,
+8913,Cakes 4 You By Me,5,0,0,0,2014-11-07,,
+8914,Cakes For All Occasions,3,10,5,10,2013-06-17,,
+8915,Canami Bespoke Cakes & Patisserie,4,5,5,10,2014-10-15,,
+8916,Candy's Couture Cupcakes,5,0,0,0,2012-03-28,,
+8917,Candys Ice Cream,5,0,0,0,2014-11-21,,
+8918,Canvey Club,5,5,0,0,2012-12-05,51.522153,0.602962
+8919,Canvey Cricket Club,4,5,5,10,2013-01-02,51.521689,0.61493
+8920,Canvey Express,1,10,10,20,2014-11-20,51.523868,0.585212
+8921,Canvey Island Conservative Club,5,5,5,5,2013-10-23,51.519964,0.588941
+8922,Canvey Island Football Club,5,0,0,0,2014-10-14,51.51776,0.6157
+8923,Canvey Island Infant School,5,5,5,5,2013-12-05,51.519126,0.57184
+8924,Canvey Island Rugby Union FC,5,0,5,5,2013-09-11,51.526793,0.598945
+8925,Canvey Island Social Club,5,5,5,5,2012-10-26,51.52144,0.590927
+8926,Canvey Junior School,5,5,5,5,2013-12-05,51.519126,0.57184
+8927,Card Factory,Exempt,nan,nan,nan,2012-06-06,51.522442,0.592786
+8928,Carer's Choice,5,0,5,5,2013-10-04,51.561855,0.584856
+8929,Carousel Kiosk,5,0,0,5,2012-09-06,,
+8930,Cartwrights Pharmacy,Exempt,nan,nan,nan,2013-02-13,51.557752,0.598806
+8931,Castle Hotel Public House,5,5,5,5,2013-08-16,51.553419,0.6072
+8932,Castle Point Golf Club,4,10,5,0,2014-11-20,51.531643,0.58013
+8933,Castle View School,5,0,0,0,2014-10-22,51.520409,0.594819
+8934,Cedar Hall Day School,5,0,0,0,2013-07-03,51.568531,0.591281
+8935,Chapman Sands Sailing Club,5,0,0,0,2014-12-01,51.514624,0.612767
+8936,Charlie's Snacks,4,5,5,10,2014-01-17,,
+8937,Cherry Leaf,3,5,10,10,2013-11-12,51.553662,0.559044
+8938,Chilli's Tandoori,4,5,5,10,2013-10-03,51.519622,0.592583
+8939,China Express Chinese Takeaway,4,5,5,10,2014-11-20,51.51966,0.617611
+8940,Chutney Takeaway,4,5,10,5,2013-08-28,51.519149,0.609047
+8941,CISCA House,5,5,5,5,2014-10-16,51.519964,0.588941
+8942,Claire,5,0,0,0,2011-11-07,,
+8943,Clarky's,5,0,0,0,2014-06-02,51.51987,0.593202
+8944,Cob & Cottage,5,0,0,5,2012-03-16,,
+8945,Concord Rangers FC,4,0,0,10,2012-05-11,,
+8946,Concorde Cafe,5,5,5,5,2014-05-30,51.513239,0.601416
+8947,Conservative Club,5,5,0,0,2012-09-07,51.55342,0.6072
+8948,Cook With Padmaja,5,0,0,0,2013-11-21,,
+8949,Co-Op,5,5,5,0,2014-01-20,51.553662,0.559044
+8950,Co-Op Store,5,5,0,0,2012-07-17,51.567615,0.5514
+8951,Co-Op Welcome,5,5,0,5,2014-01-15,51.5231,0.575178
+8952,Cornelius Vermuyden,5,0,0,0,2014-07-14,51.525235,0.566806
+8953,Cosmos Cafe,5,5,5,0,2013-10-03,51.51959,0.569127
+8954,Crazy Chef,3,10,10,10,2013-11-13,51.521186,0.556588
+8955,Crispy Cod & Tasty Chicken,5,0,0,0,2014-10-09,51.525235,0.566806
+8956,Crispy Cod Fish Bar,5,5,5,5,2014-01-09,51.54928,0.562823
+8957,Cross Chemists,Exempt,nan,nan,nan,2012-10-15,,
+8958,Crystal Cafe,5,0,0,0,2014-07-08,51.552703,0.611501
+8959,Crystal Clear Leisure,Exempt,nan,nan,nan,2013-03-15,51.585045,0.573613
+8960,Cutie Cupcakes,5,0,0,0,2013-07-03,,
+8961,Dan's News & Supermarket,5,0,0,5,2012-02-07,51.568889,0.581965
+8962,Daves Wines,5,0,0,0,2011-10-27,51.572457,0.558267
+8963,Deanes County Secondary School,5,5,0,0,2013-12-10,51.56799,0.599462
+8964,Deborah Jane Cakes,4,10,0,10,2012-03-22,,
+8965,Denises Party Planning,5,0,0,0,2012-07-23,,
+8966,Dinner House,5,0,0,5,2014-01-15,51.53187,0.586156
+8967,Dollys,5,0,0,0,2014-11-12,,
+8968,Domino's Pizza,5,0,0,0,2012-12-10,51.552422,0.610389
+8969,Domino's Pizza,5,5,5,5,2014-08-11,51.522987,0.596205
+8970,Doorstep Catering,5,5,0,0,2013-03-19,,
+8971,Dragon Chef,4,0,5,10,2013-07-11,51.559428,0.59704
+8972,Eco Wings And Nights Ltd,5,5,5,5,2014-06-10,51.560031,0.548234
+8973,Eels On Wheels,4,5,5,10,2013-06-17,,
+8974,Elizabeth House,5,5,5,5,2014-08-27,51.556741,0.59856
+8975,Ella Niamh's Kitchen,4,5,5,10,2014-06-17,,
+8976,Elliotts Upper Crust Catering,5,5,5,5,2013-08-22,51.521186,0.556588
+8977,Elora Dispensing Chemist,Exempt,nan,nan,nan,2012-05-02,51.54928,0.562823
+8978,Endeavour Hotel,5,0,0,5,2014-02-18,51.527178,0.581925
+8979,Enjoy Cafe,5,5,0,0,2013-08-21,51.553235,0.560896
+8980,Essex Fire And Rescue,Exempt,nan,nan,nan,2013-05-31,51.574862,0.597386
+8981,Everest Tandoori,3,10,5,10,2013-09-11,51.522708,0.596204
+8982,F & J Caring,4,5,0,10,2014-02-18,51.52124,0.592242
+8983,Fancies,5,0,0,5,2012-08-31,,
+8984,Fantasy Island Kiosk,4,5,5,10,2013-03-20,,
+8985,Farmer Fred's Paddock,4,5,5,10,2014-06-16,51.519964,0.588941
+8986,Farmer Freds Play Barn,5,5,5,5,2014-05-02,51.574091,0.564161
+8987,Fatty's Bar,3,10,10,10,2014-07-11,51.55342,0.6072
+8988,Favorite Pizza & Kebab House,5,0,0,5,2013-08-21,51.522782,0.600576
+8989,First Buses,Exempt,nan,nan,nan,2014-08-19,51.555986,0.6026
+8990,First Class Nursery Ltd,5,5,5,5,2013-06-27,51.54928,0.562823
+8991,Fish'N' Chick'N,5,5,0,0,2013-03-20,51.571579,0.559329
+8992,Flex Fitness Gym,Exempt,nan,nan,nan,2012-06-01,51.573698,0.563215
+8993,Flutes,4,10,5,5,2014-03-04,51.545298,0.562324
+8994,Fortuna Stores,5,0,0,0,2012-05-01,51.515418,0.602953
+8995,Franks Pie & Mash,4,5,5,10,2014-11-20,51.52124,0.592242
+8996,Furtherwick Wines,4,5,5,10,2013-03-19,51.515326,0.593261
+8997,Garden World Garden Centre,5,5,0,5,2014-08-11,51.525496,0.556513
+8998,Gators Fish Bar,4,nan,nan,nan,2014-06-24,51.522469,0.600486
+8999,Georgie Porgie Nursery,5,5,5,0,2014-06-10,51.549642,0.624136
+9000,Glenwood School,5,0,0,0,2013-07-17,51.574304,0.547763
+9001,Godden Lodge,5,0,5,5,2014-01-28,51.56882,0.579767
+9002,Gold Wok,4,5,5,10,2014-03-03,51.54928,0.562823
+9003,Goldenley Residential Home,4,5,0,10,2014-05-23,,
+9004,Green Tea,5,5,5,5,2013-10-29,51.54928,0.562823
+9005,Greggs,5,0,0,0,2012-05-16,51.553662,0.559044
+9006,Greggs,4,10,5,5,2014-08-29,51.52236,0.592032
+9007,Griddled Delights,5,0,0,0,2014-06-10,51.585045,0.573613
+9008,Grouts The Bakers,5,5,0,5,2013-10-08,51.519899,0.5817
+9009,Hadleigh & Thundersley Cricket Club,4,10,5,5,2014-02-25,51.556856,0.611609
+9010,Hadleigh Baptist Church,Exempt,nan,nan,nan,2014-10-05,51.559243,0.606206
+9011,Hadleigh Bowls Club,5,0,0,0,2014-11-05,51.555333,0.610541
+9012,Hadleigh Convenience Store,3,10,5,10,2014-03-14,51.552703,0.611501
+9013,Hadleigh Emp/Training Centre,5,0,5,0,2013-11-14,51.547474,0.606442
+9014,Hadleigh Infants School,5,5,5,0,2013-10-04,51.554497,0.616149
+9015,Hadleigh Junior School,5,0,0,0,2014-06-02,51.553042,0.612026
+9016,Hadleigh Kebabs,5,0,0,0,2012-11-14,51.552703,0.611501
+9017,Half Crown Public House,5,0,0,0,2013-02-14,51.545298,0.562325
+9018,Harpers Fish Merchants,5,5,5,5,2013-03-20,51.554647,0.601745
+9019,Hart Road Mini Mart,4,5,0,10,2013-07-15,51.56978,0.583574
+9020,Haystack,3,10,10,10,2014-03-04,51.52124,0.592242
+9021,Heston Lodge Day Centre,Exempt,nan,nan,nan,2012-05-11,51.571929,0.566796
+9022,Hilltop Farm,Exempt,nan,nan,nan,2015-01-29,51.552395,0.577078
+9023,Hobbit Bites,4,0,5,10,2011-07-26,,
+9024,Holy Family Early Learning Centre,5,0,0,0,2011-11-23,51.562833,0.561204
+9025,Holy Family RC School,5,0,0,0,2014-07-03,51.560846,0.559938
+9026,Homebase Ltd,Exempt,nan,nan,nan,2011-09-12,51.574485,0.604639
+9027,Hopes Green Care Centre,5,5,5,0,2014-05-23,51.551553,0.559258
+9028,Hot Hut,1,10,15,20,2014-08-21,51.547392,0.563207
+9029,Hoy And Helmet,4,10,5,0,2013-10-25,51.545298,0.562325
+9030,I T M (UK) Ltd,4,5,5,10,2014-03-04,51.521186,0.556588
+9031,Ice Cube Company,5,0,0,0,2014-02-18,51.570747,0.568215
+9032,Iceland,5,0,0,0,2013-08-21,51.555333,0.610541
+9033,Iceland,5,0,0,0,2013-02-20,51.52124,0.592242
+9034,III Six 3,4,0,5,10,2012-03-30,51.569688,0.594681
+9035,Island Cafe,1,15,15,20,2015-01-20,51.520584,0.593027
+9036,Island Grill,5,5,5,5,2014-08-29,51.520774,0.604758
+9037,Island Newsagents,4,10,10,0,2014-02-18,51.519622,0.592583
+9038,Island Yacht Club,5,0,0,0,2015-01-07,51.518647,0.616255
+9039,Islanders Fish Restaurant & Takeaway,5,0,0,0,2015-01-13,51.52124,0.592242
+9040,Ivy's Kitchen,3,5,10,10,2014-08-29,51.566236,0.56597
+9041,Izzi,3,10,10,10,2014-06-16,51.52236,0.592032
+9042,J. Sainsbury Staff Restaurant,Exempt,nan,nan,nan,2013-03-19,51.574945,0.600133
+9043,Jack Rabbits Bars,5,5,0,0,2012-03-20,51.525499,0.604163
+9044,Jackies Bakes,5,0,0,0,2011-05-10,,
+9045,Jane Swan,4,10,0,10,2014-09-02,51.522153,0.602962
+9046,Jans Snack Shack,5,0,0,0,2013-02-04,,
+9047,Jaxs Cakes,3,10,5,10,2013-10-08,,
+9048,Jet,5,5,5,5,2014-01-15,51.531643,0.58013
+9049,Jim Hall Ltd,Exempt,nan,nan,nan,2013-03-12,51.543831,0.561954
+9050,Jimbo's Homemade,5,5,5,5,2013-12-16,,
+9051,Johnsons Apparelmaster,5,0,0,0,2012-10-11,51.550746,0.61501
+9052,Jones Corner Cafe,5,5,5,5,2014-01-17,51.520356,0.577257
+9053,Jotmans Hall Primary School,4,5,5,10,2014-01-09,51.561869,0.550155
+9054,Jotmans Store,1,5,0,20,2014-02-18,51.555594,0.548794
+9055,Just Jackets,5,0,0,0,2014-09-01,,
+9056,Kai's Kitchen,4,5,10,5,2014-08-20,51.522987,0.596205
+9057,Kamble,4,5,10,5,2013-10-29,51.572186,0.559147
+9058,Karen's Candy Kitchen,5,0,0,0,2014-11-25,,
+9059,Kebab 38,4,10,5,5,2013-06-17,51.519622,0.592583
+9060,Kebab And Burger Hut,3,10,10,10,2014-06-04,51.519622,0.592583
+9061,Kebab World,2,5,15,10,2014-11-24,51.548428,0.568083
+9062,Kents Hill County Junior,5,5,5,0,2014-05-23,51.560846,0.559938
+9063,Kentucky Fried Chicken,5,0,0,0,2014-03-26,51.566988,0.552548
+9064,Kentucky Fried Chicken,5,0,0,0,2013-03-26,51.522987,0.596205
+9065,Kiln Convenience Store,4,10,0,0,2012-07-18,51.560955,0.588585
+9066,King John School,5,5,5,5,2013-12-10,51.556103,0.592436
+9067,Kings Fish & Chips,5,5,5,5,2014-11-24,51.559607,0.550346
+9068,Kingston County Primary School,5,5,5,5,2013-07-19,51.568934,0.572977
+9069,Kingswood Care Services Ltd,5,0,0,0,2014-11-24,51.515877,0.590713
+9070,Kirsty's Cafe,5,5,5,5,2014-03-04,51.52591,0.558122
+9071,L. Newman,5,0,0,0,2014-11-27,,
+9072,La Quinta,4,5,10,5,2013-08-16,51.556741,0.59856
+9073,Lantern House,3,5,10,10,2014-08-21,51.544079,0.562574
+9074,Latino's,5,5,5,5,2014-01-28,51.553951,0.608774
+9075,Laziz,4,5,5,10,2014-08-20,51.522469,0.600486
+9076,Lee's Kitchen,5,5,5,0,2014-10-21,51.56882,0.579767
+9077,Legacy XS Management Limited,5,0,0,0,2014-01-15,,
+9078,Leigh Beck County Infants,5,0,0,0,2014-07-16,51.517981,0.614675
+9079,Leisure Island Food Bar,5,5,5,5,2014-06-20,,
+9080,Lidl (UK),5,0,0,0,2012-07-05,51.552422,0.610389
+9081,Lightwheels Transport,Exempt,nan,nan,nan,2014-02-18,51.520783,0.561453
+9082,Lisas Little Angels,4,10,5,5,2014-03-25,,
+9083,Little Footprints Day Nursery,5,5,5,5,2014-02-25,51.568928,0.58429
+9084,Little Haven Childrens Hospice,5,0,0,0,2014-08-26,51.57188,0.609353
+9085,Little Lovelies,5,0,0,0,2012-02-06,,
+9086,Little Tewkes Childrens Centre & Nursery,5,5,5,0,2014-08-29,51.529329,0.593697
+9087,Lloyds,Exempt,nan,nan,nan,2014-01-15,51.553662,0.559044
+9088,Lobster Smack,4,10,5,5,2014-03-04,51.51106,0.553686
+9089,Londis,4,0,0,10,2014-01-15,51.515326,0.593261
+9090,Londis,3,10,5,10,2014-04-28,51.519867,0.563477
+9091,Longview,5,5,5,5,2014-01-17,51.5224,0.576724
+9092,Louis Fish Bar,5,0,0,0,2014-11-20,51.520326,0.580687
+9093,Lubbins Park County Pri School,5,5,5,0,2014-09-16,51.513847,0.600326
+9094,M&D Magical Cakes,5,0,0,0,2012-07-24,,
+9095,Mace,4,0,0,10,2012-03-16,,
+9096,Maharaja Restaurant,1,10,15,20,2014-08-18,51.565497,0.564831
+9097,Maison Noir,3,10,5,10,2013-10-25,51.552703,0.611501
+9098,Manor Service Station,5,0,0,0,2014-01-15,51.571579,0.559329
+9099,Martin McColl Limited,4,10,0,5,2011-07-18,51.571579,0.559329
+9100,Masa Brasserie,4,10,5,5,2014-03-03,51.552703,0.611501
+9101,McDonalds Restaurant Ltd,5,0,0,0,2014-01-15,51.55342,0.6072
+9102,McDonalds Restaurant Ltd,5,0,0,0,2013-03-22,51.52686,0.537183
+9103,McDonalds Restaurants Ltd,5,0,0,0,2012-08-30,51.576311,0.602217
+9104,Meat And Two Veg,4,5,10,0,2013-09-20,51.552703,0.611501
+9105,Megan Dorothy Cake Company,3,10,5,10,2013-10-04,51.566365,0.550176
+9106,Middles Supermarket,4,0,5,10,2013-10-23,51.525536,0.61022
+9107,Miss T's Cupcakes,5,0,0,0,2012-09-26,,
+9108,Montgomerie Primary School,5,5,5,5,2014-02-25,51.574304,0.547763
+9109,Morrisons,5,0,0,0,2014-02-18,51.553951,0.608774
+9110,Morrisons,5,0,0,0,2015-01-26,51.530334,0.579911
+9111,Morrisons,5,0,0,0,2014-11-20,51.52686,0.537183
+9112,Morrisons Petrol Filling Station,4,10,10,0,2013-03-22,,
+9113,Mouchak,1,10,10,20,2014-12-03,51.553777,0.609716
+9114,Moviestarr Cineplex,5,0,5,0,2014-03-20,51.512845,0.597704
+9115,Mr Browns,Exempt,nan,nan,nan,2014-03-29,51.54928,0.562823
+9116,Mr Lams,0,20,15,20,2014-12-18,51.523147,0.592221
+9117,Mr Ping,5,5,5,5,2013-10-25,51.566229,0.561352
+9118,Mumtaz Mahal Tandoori,5,0,0,0,2015-01-28,51.54523,0.565869
+9119,Munch Box,4,10,5,5,2013-05-16,51.553672,0.608369
+9120,Munchbox,5,5,0,5,2014-11-24,51.5525,0.621833
+9121,Munchies Burger Bar,5,5,0,0,2013-07-22,51.512845,0.597704
+9122,Murco Garage,4,10,0,0,2012-03-14,51.522782,0.600576
+9123,My Time,5,0,0,5,2012-01-30,51.549642,0.624136
+9124,My Way Cakes & Preserves,5,0,0,0,2014-11-26,,
+9125,Nagaria,3,10,5,10,2014-03-03,51.54928,0.562823
+9126,Nash And Sons,4,5,5,10,2013-10-08,51.519899,0.5817
+9127,Nathans Caterers,4,10,5,5,2013-05-14,,
+9128,Nearbuys Convenience Stores,5,5,0,0,2014-02-18,51.526793,0.598945
+9129,New Look,5,0,0,0,2014-02-24,51.52236,0.592032
+9130,New Mandarin,3,10,10,10,2013-08-28,51.519971,0.565717
+9131,New Slow Boat,3,10,10,10,2013-10-03,51.51959,0.569127
+9132,News For You,5,5,0,0,2014-03-02,51.52236,0.592032
+9133,Nigels Fish Bar,4,5,5,10,2013-07-19,51.518561,0.610023
+9134,Nisa Extra,3,5,10,10,2014-12-18,51.525235,0.566806
+9135,Nisa Local,5,0,0,0,2012-12-09,51.518416,0.58042
+9136,Northwick Park Nursery And Busy Bears,5,0,0,0,2014-11-10,51.525234,0.566806
+9137,Northwick Park Primary School,5,5,5,5,2014-03-06,51.525235,0.566806
+9138,Northwick Poultry Farm And Stables,Exempt,nan,nan,nan,2013-02-13,51.527579,0.531383
+9139,Oakdale Residential Home,5,5,0,0,2014-01-09,51.561264,0.586006
+9140,Ocean Fish Bar & Chinese Takeaway,4,5,10,5,2013-10-04,51.569464,0.593427
+9141,Oh So Sweet Cupcakes,4,10,0,0,2013-07-10,,
+9142,One Stop Vans Limited,5,0,0,0,2014-03-18,,
+9143,One Takeaway,5,5,5,5,2013-10-29,51.559428,0.59704
+9144,Oyster Bay Sports & Wine Bar,4,5,10,5,2014-03-25,,
+9145,Oysterfleet,5,5,5,0,2014-09-02,,
+9146,Pabs Stores & Post Office,4,10,0,0,2014-05-23,51.566988,0.552548
+9147,Paddocks Community Centre,5,5,0,5,2014-09-02,,
+9148,Papa Johns,5,5,5,5,2014-02-25,51.553672,0.608369
+9149,Parklands Nursing Home,5,5,0,0,2013-12-10,51.554625,0.56269
+9150,Paula Scannell,3,5,10,10,2013-07-25,51.573499,0.562453
+9151,Pearl Garden,1,5,10,20,2014-01-28,51.551719,0.612916
+9152,Peggotty's,3,10,5,10,2013-12-10,51.553083,0.611004
+9153,Perfect Pizza,4,5,5,10,2014-01-28,51.566988,0.552548
+9154,Perrys Newsagents,5,5,5,5,2014-02-18,51.557752,0.598806
+9155,Pharma Healthcare,Exempt,nan,nan,nan,2012-02-15,51.520774,0.604758
+9156,Pharma Healthcare,Exempt,nan,nan,nan,2012-11-20,51.51959,0.569127
+9157,Pick 'En Choose,3,10,10,10,2014-01-22,51.523158,0.594153
+9158,Picnics,5,0,0,0,2014-11-17,51.562046,0.580278
+9159,Pink Chilliz,4,5,5,10,2014-12-18,51.559428,0.59704
+9160,Pink Chilliz,3,10,10,10,2014-02-26,51.519971,0.565717
+9161,Pit Stop,5,0,0,0,2014-11-25,51.519149,0.609047
+9162,Pits Stop,5,0,0,0,2014-11-25,51.534111,0.56683
+9163,Pizza Hut,5,0,0,0,2014-11-21,51.552456,0.561126
+9164,Poona Tandoori Restaurant,4,10,5,5,2013-05-15,51.550746,0.61501
+9165,Potton Homes,2,10,15,10,2014-02-26,51.5172,0.575566
+9166,Prash Minimarket Ltd,4,10,0,0,2012-05-10,51.564613,0.562487
+9167,Premier Convenience Store,4,0,0,10,2012-03-09,51.559428,0.59704
+9168,Pumpernickles,5,5,0,0,2013-11-22,,
+9169,Pumpkins Day Nursery,5,5,0,5,2014-03-04,51.532629,0.583949
+9170,Quinnell Catering Limited,4,5,5,10,2014-12-09,,
+9171,Rajpoot Cuisine Ltd,5,5,5,5,2013-11-12,51.566365,0.550176
+9172,Rapid Eats,5,5,5,5,2014-01-28,51.552456,0.561126
+9173,Redbridge Community Housing LD,5,0,0,5,2012-09-24,51.559027,0.592415
+9174,Richmond Hall & Car Park,5,0,0,0,2014-02-18,51.553662,0.559044
+9175,Richmond Pre School,5,0,0,0,2014-01-15,51.553662,0.559044
+9176,Rigo Ices,4,5,5,10,2014-03-25,51.527647,0.5872
+9177,Rileys Sports Bar,4,10,5,5,2012-04-23,51.566365,0.550176
+9178,Rio Bingo Club,5,5,0,5,2013-07-10,51.519622,0.592583
+9179,Rishi Pharmacy Ltd,Exempt,nan,nan,nan,2013-03-06,51.569791,0.582261
+9180,Robert Drake Primary School,5,5,5,5,2014-02-25,51.571929,0.566796
+9181,Rossi,5,0,0,5,2013-07-15,,
+9182,Rowlands Pharmacy,Exempt,nan,nan,nan,2015-01-26,51.572905,0.551307
+9183,Royal British Legion,Exempt,nan,nan,nan,2014-12-22,51.522096,0.58034
+9184,Royal Thai Inn,4,10,5,5,2014-03-29,51.566988,0.552548
+9185,Royals,4,0,0,10,2012-08-10,51.554964,0.610953
+9186,Runnymede Hall,Exempt,nan,nan,nan,2012-08-13,51.561855,0.584856
+9187,Runnymede Pre-School,Exempt,nan,nan,nan,2012-09-12,51.557752,0.598806
+9188,RVS Day Centre,5,0,0,0,2014-10-30,51.55368,0.554919
+9189,S & M Sweets & Cakes,4,10,5,5,2013-05-20,,
+9190,S Bennett,5,0,0,5,2014-03-04,,
+9191,S G Foods Ltd,5,0,0,5,2014-03-04,,
+9192,S R News,5,0,0,0,2014-12-01,51.553662,0.559044
+9193,Sainsbury Filling Station,5,0,0,0,2014-03-17,,
+9194,Sainsbury J Ltd,5,0,0,0,2013-03-28,51.574945,0.600133
+9195,Sainsbury's Petrol Station,5,0,0,0,2013-03-01,51.522459,0.593234
+9196,Sainsbury's Staff Restaurant,Exempt,nan,nan,nan,2013-09-20,51.522459,0.593234
+9197,Sainsbury's Supermarkets Ltd,5,0,0,0,2014-11-24,51.522459,0.593234
+9198,Saks Cafe Bar,5,0,0,0,2015-01-26,51.51987,0.593202
+9199,Sally's Cupcake Creations,5,0,0,0,2011-06-22,,
+9200,Salvation Army,5,nan,nan,nan,2015-01-19,51.554011,0.604868
+9201,Salvation Army Employment Centre & Tea Rooms,5,0,5,0,2013-11-14,51.553207,0.599369
+9202,Sam's Enterprises,5,0,0,0,2013-03-20,,
+9203,Sam's Kitchen,5,5,5,5,2014-06-03,,
+9204,Sandcastles Nursery,5,5,5,5,2014-01-09,51.56773,0.548622
+9205,Savers Health & Beauty,5,5,5,5,2014-01-09,51.552703,0.611501
+9206,Sawaddee Thai Food,4,5,5,10,2014-01-17,,
+9207,Scoopy,4,5,5,10,2014-09-02,51.519226,0.563571
+9208,Seaview Mini Market,1,nan,nan,nan,2014-10-06,51.518561,0.610023
+9209,Seevic College,5,0,0,0,2014-12-02,51.561855,0.584856
+9210,Shampan Tandoori,5,5,0,0,2014-03-04,51.571579,0.559329
+9211,Shell Benfleet,5,0,0,0,2013-03-22,51.560955,0.588585
+9212,Shell Kents Hill,5,0,0,0,2012-01-11,51.553662,0.559044
+9213,Shopright,5,5,5,5,2013-08-16,51.54928,0.562823
+9214,Shree News,4,0,0,10,2012-02-15,51.559607,0.550346
+9215,Silver Point Court,4,5,10,5,2014-08-29,51.519619,0.623461
+9216,Sophisti Cakes,2,15,0,10,2014-03-13,51.523158,0.594153
+9217,South Benfleet & Canvey Bowling Club,5,0,0,5,2014-03-13,51.549773,0.55796
+9218,South Benfleet Primary School,5,0,0,0,2012-12-03,51.553662,0.559044
+9219,South Benfleet Social Club,4,10,0,10,2014-01-15,51.548699,0.565141
+9220,Spar Canvey,1,10,10,20,2013-12-16,,
+9221,Spice Garden Indian Restaurant,4,5,10,5,2013-11-12,51.553662,0.559044
+9222,Spice Lounge,5,5,0,5,2014-01-17,,
+9223,St Annes Pre-School,5,0,0,5,2011-12-07,51.518038,0.607254
+9224,St Barnabas Pre School,5,0,0,0,2014-11-20,51.550954,0.62059
+9225,St Georges Pre-School,5,0,0,0,2014-01-15,51.570908,0.548871
+9226,St Katherines School,5,0,0,0,2015-01-26,51.530092,0.582335
+9227,Stafford Court Care Centre,5,5,5,5,2014-02-26,51.522134,0.597339
+9228,Stafford Hall Rest Home,5,5,5,5,2014-02-25,51.557544,0.567818
+9229,Starr Snooker And Vi Bowl,4,5,5,10,2014-02-18,51.512845,0.597704
+9230,Steve's Cafe,3,10,10,10,2014-06-20,,
+9231,Store Twenty One,Exempt,nan,nan,nan,2014-10-24,51.522442,0.592786
+9232,Subway,4,5,10,5,2014-05-19,51.52236,0.592032
+9233,Sue Ryder Care,5,5,5,0,2013-10-25,51.552456,0.561126
+9234,Sue's Cafe,5,5,5,5,2014-03-04,,
+9235,Sugar Lump Lane,5,0,0,0,2014-12-09,,
+9236,Sugar Strands,5,5,0,5,2014-10-15,,
+9237,Sugarflair Colours Ltd,5,0,0,0,2014-11-24,51.574091,0.564161
+9238,Sunshine Day Nursery,5,5,5,0,2014-11-24,51.563955,0.555135
+9239,Superdrug,5,0,0,0,2012-03-27,51.52236,0.592032
+9240,Swami News,4,5,5,10,2013-02-28,51.559428,0.59704
+9241,Sweet Surprises XX,3,10,10,5,2013-10-23,,
+9242,Sweet Tooth,3,10,5,10,2013-09-11,,
+9243,Sydervelt Lodge,4,0,0,10,2013-08-21,51.521275,0.582513
+9244,T & C Takeaway,5,5,5,5,2014-03-03,51.551514,0.56227
+9245,Tandoori Parlour Ltd,3,10,10,10,2013-10-25,51.56882,0.579767
+9246,Tarpots Kebabs Van,5,5,5,5,2014-11-20,,
+9247,Tarpots News,Exempt,nan,nan,nan,2012-05-28,51.566988,0.552548
+9248,Tarpots Tea Rooms,5,5,5,5,2014-02-18,51.566365,0.550176
+9249,Taste,5,0,0,0,2013-02-26,51.551514,0.56227
+9250,Taste,5,0,0,0,2013-02-26,,
+9251,Tasty Bites,5,0,0,0,2014-06-02,51.553662,0.559044
+9252,Tasty Chinese,3,5,10,10,2014-11-20,51.523082,0.597984
+9253,TCCL,4,5,5,10,2014-03-31,51.551514,0.56227
+9254,Tesco,5,0,0,0,2011-02-21,51.567153,0.548257
+9255,The Appleton School,5,0,0,0,2014-07-14,51.563666,0.551857
+9256,The Bar,5,5,0,0,2013-07-10,51.514363,0.580695
+9257,The Bay Cafe,5,0,0,5,2013-03-26,51.512312,0.588853
+9258,The Beeches,5,0,0,0,2013-08-21,51.515369,0.605127
+9259,The Budding Sweet Shop,5,0,5,5,2014-05-23,,
+9260,The Codfather,3,10,5,10,2013-10-31,51.512845,0.597704
+9261,The Co-Operative,5,5,0,0,2013-07-19,51.553235,0.560896
+9262,The Co-Operative Pharmacy,Exempt,nan,nan,nan,2014-11-11,51.520584,0.593027
+9263,The Cope,5,0,0,0,2012-08-18,51.534111,0.56683
+9264,The Enchanted Wood Day Nursery Ltd,5,0,5,5,2014-08-18,51.567989,0.599461
+9265,The Fish Inn,5,0,0,0,2014-09-26,51.548699,0.565141
+9266,The Food Station,4,5,5,10,2014-01-17,,
+9267,The Galley,5,5,0,0,2013-07-31,51.519896,0.625149
+9268,The Galleystop,2,15,15,10,2014-05-30,51.540594,0.566488
+9269,The Island Cake Angels,4,10,5,5,2014-01-22,,
+9270,The Kids Place,4,10,0,10,2014-02-14,51.521273,0.559202
+9271,The Labworth Beach Cafe,4,5,5,10,2014-02-14,,
+9272,The Labworth Restaurant,3,10,10,10,2013-10-23,,
+9273,The Monico,5,0,0,0,2012-05-10,51.512845,0.597704
+9274,The Moorings Care Home,5,5,5,5,2014-12-18,51.515367,0.584918
+9275,The Orchard Tea Room,5,0,0,0,2015-01-26,51.566227,0.561452
+9276,The Paper Shop,Exempt,nan,nan,nan,2012-02-16,51.567615,0.5514
+9277,The Paperchase,3,10,10,10,2013-10-08,51.518625,0.618849
+9278,The Platform Cafe (Benfleet Station),5,5,5,0,2014-08-18,51.543831,0.561954
+9279,The Saqui,3,10,10,10,2014-05-30,51.522469,0.600486
+9280,The Sno Hut,5,0,0,0,2012-03-09,,
+9281,The Station Cafe,2,15,10,10,2014-08-27,51.544079,0.562574
+9282,The Sweet Stall,5,0,0,0,2014-11-25,,
+9283,The Tarpots,5,0,0,0,2012-11-13,51.566988,0.552548
+9284,The Village Fish Bar Ltd,5,5,5,5,2013-08-28,51.519971,0.565717
+9285,The Virgin Active Cafe,5,0,0,0,2014-11-14,51.563825,0.598286
+9286,The Welcome Hut Kiosk & Van,5,0,0,0,2013-08-21,51.512312,0.588853
+9287,The Woodmans Arms,5,5,0,0,2014-03-17,51.570456,0.594898
+9288,Thundersley Charcoal Grill,3,10,5,10,2013-07-25,51.56882,0.579767
+9289,Thundersley Congregational Church,5,0,0,0,2013-10-01,51.563294,0.577088
+9290,Thundersley Post Office,Exempt,nan,nan,nan,2011-07-13,51.568702,0.57533
+9291,Thundersley Primary School,5,0,0,0,2014-03-20,51.568928,0.58429
+9292,Tipplers,Exempt,nan,nan,nan,2014-03-10,51.553672,0.608369
+9293,Tommy Tuckers Sandwich Bar,5,0,0,5,2013-07-31,51.566239,0.564195
+9294,Toni's Diner,3,10,10,10,2014-11-03,51.528378,0.590716
+9295,Totally Fish,3,10,5,10,2013-11-14,51.554201,0.558656
+9296,Tree Tots Pre-School,4,10,0,0,2013-07-09,51.561869,0.550155
+9297,Tubby Tubs,4,10,5,5,2013-05-16,,
+9298,Ujigee Daynite Pharmacy,Exempt,nan,nan,nan,2013-02-18,51.552703,0.611501
+9299,Unique Cakes,5,0,0,0,2012-01-31,,
+9300,Valentine Lodge,3,10,5,10,2014-11-20,51.520944,0.563985
+9301,Village Chinese Takeaway,4,5,10,5,2014-06-20,51.519971,0.565717
+9302,Village Friar,3,5,10,10,2014-10-21,51.56882,0.579767
+9303,Village Indiya,3,10,10,10,2014-10-21,51.556741,0.59856
+9304,Vintage Tea Garden,5,5,5,5,2013-05-27,,
+9305,W.J.Westley & Sons,5,0,0,0,2012-06-01,,
+9306,Wah Nam Chinese Takeaway,5,5,5,0,2014-05-08,51.56978,0.583574
+9307,Walsingham House,5,0,0,0,2014-10-07,51.52144,0.590927
+9308,Walsingham Private Catering,5,5,0,0,2014-03-18,,
+9309,Waterside Farm Sports Centre,4,5,5,10,2013-10-23,51.534111,0.56683
+9310,Welcome Inn Chinese,5,5,5,5,2014-11-28,51.520774,0.604758
+9311,Western Dance Centre,Exempt,nan,nan,nan,2011-12-22,51.55342,0.6072
+9312,Westwood Academy,5,5,5,0,2014-09-05,51.558088,0.604725
+9313,Wheelers Indian Takeaway,3,10,10,5,2014-01-28,51.563556,0.57048
+9314,White Hart Public House,5,0,0,0,2013-07-19,51.568889,0.581965
+9315,Wickes,Exempt,nan,nan,nan,2014-11-04,51.575775,0.603269
+9316,William Read Primary School,5,0,0,0,2012-07-19,51.519833,0.577329
+9317,Wimpy,5,0,0,0,2013-07-10,51.567615,0.5514
+9318,Windjammer's Upper Deck,5,0,0,0,2014-12-17,51.513239,0.601416
+9319,Winter Gardens Post Office,5,5,5,5,2012-11-02,51.530284,0.573204
+9320,Winter Gardens Primary School,5,5,5,5,2013-12-13,51.530092,0.582335
+9321,Wisbey Potatoes,5,5,0,0,2013-03-20,51.562491,0.6259
+9322,Wong Hing,4,5,5,10,2013-07-22,51.522096,0.58034
+9323,Woo Cakes,5,0,0,0,2014-10-21,,
+9324,Woodcraft's Cakecraft,5,0,0,0,2012-06-25,,
+9325,Woodfield Newsagents,5,5,0,5,2013-07-10,51.553962,0.624024
+9326,Woodham Ley Primary School,5,5,5,5,2014-05-23,51.570908,0.548871
+9327,Woodmans Newsagents,5,5,0,5,2013-08-21,51.569688,0.594681
+9328,WRVS Hall,5,5,0,0,2014-05-08,51.517754,0.59412
+9329,Yummy House,5,5,5,5,2014-08-20,51.520774,0.604758
+9330,Yummy Tummy,5,0,0,0,2014-12-10,,
+9331,Zach Wilsher,5,0,0,0,2014-06-02,51.571406,0.562754

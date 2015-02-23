@@ -1,474 +1,474 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-355867,Unit 1 Everoak Ind Est,Bromyard Road,St Johns,Worcester,1ST Bowl,Restaurant/Cafe/Canteen,1,0,,674651,5,,52.18746900000000,WO/03186/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24635000000000,WR2 5HN,2013-03-06,fhrs_5_en-GB,5,,FHRS,5
-355868,12 Green Hill,London Road,Worcester,,Abbeyfield House,Hospitals/Childcare/Caring Premises,5,5,,674523,5,,52.18555300000000,WO/01271/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21493600000000,WR5 2AA,2013-07-23,fhrs_5_en-GB,5,,FHRS,5
-355869,Christopher Whitehead High School,Bromwich Road,Worcester,Worcestershire,ABM Catering @ Christopher Whitehead,School/college/university,7845,5,,707341,10,,52.18613000000000,14/00848/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23317800000000,WR2 4AF,2014-10-10,fhrs_4_en-GB,4,,FHRS,5
-355870,350 Bath Road,Worcester,,,Acorns Childrens Hospice Trust,Hospitals/Childcare/Caring Premises,5,0,,674718,0,,52.17045200000000,WO/04337/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21356200000000,WR5 3EZ,2013-12-02,fhrs_5_en-GB,5,,FHRS,0
-355871,Bilford Court,Southdown Road,Worcester,Worcestershire,Age UK Worcester And District Lunch Club,Hospitals/Childcare/Caring Premises,5,5,,722346,5,,52.21252800000000,14/01214/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20240700000000,WR3 8HY,2014-10-15,fhrs_5_en-GB,5,,FHRS,5
-355872,Unit L3 Blackpole Trading Estate Ea,Blackpole Road,Worcester,,Agincare Cuisine Ltd,Other catering premises,7841,0,,674423,5,,52.21849000000000,WO/00079/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19666700000000,WR3 8SG,2012-11-29,fhrs_5_en-GB,5,,FHRS,0
-355873,9 Laslett Street,Worcester,Worcestershire,,AJ's Pizza,Takeaway/sandwich shop,7844,10,,685274,10,,52.20228200000000,14/00088/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21140300000000,WR3 8JS,2014-03-20,fhrs_3_en-GB,3,,FHRS,10
-355874,48 Bath Road,Worcester,,,Albion Inn,Pub/bar/nightclub,7843,0,,674447,10,,52.18304700000000,WO/00313/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21840500000000,WR5 3EW,2008-11-19,fhrs_4_en-GB,4,,FHRS,5
-355875,Gorse Hill Community Primary School,Holly Mount Road,Worcester,Worcestershire,Alliance In Partnership @ Hollymount Primary School,School/college/university,7845,0,,715287,0,,52.20061800000000,14/00921/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20159200000000,WR4 9SG,2014-11-06,fhrs_5_en-GB,5,,FHRS,5
-355876,Timberdine Avenue,Worcester,,,Alliance@Blessed Edward Oldcorne Catholic College,School/college/university,7845,5,,674623,5,,52.18042800000000,WO/02767/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20524400000000,WR5 2HP,2015-01-22,fhrs_5_en-GB,5,,FHRS,5
-355877,Worcester College Of Technology,Deansway,Worcester,,Allington Play-Tec,Hospitals/Childcare/Caring Premises,5,0,,685382,0,,52.19006200000000,WO/00922/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22218400000000,WR1 2JF,2014-12-12,fhrs_5_en-GB,5,,FHRS,5
-355878,74 Droitwich Road,Worcester,Worcestershire,,Alma Tavern,Pub/bar/nightclub,7843,0,,674661,10,,52.21026900000000,WO/03319/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22402700000000,WR3 7HT,2011-03-10,fhrs_4_en-GB,4,,FHRS,10
-355879,166 Tolladine Road,Worcester,Worcestershire,,Altafs Balti,Restaurant/Cafe/Canteen,1,5,,674622,5,,52.19802800000000,WO/02766/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20188700000000,WR4 9QH,2014-08-06,fhrs_5_en-GB,5,,FHRS,5
-355880,63 Ambleside Drive,Warndon,Worcester,,Ambleside Fish Bar,Takeaway/sandwich shop,7844,20,,674428,20,,52.20393500000000,WO/00118/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19102700000000,WR4 9DA,2014-12-09,fhrs_1_en-GB,1,,FHRS,10
-355881,41 Friar Street,Worcester,,,Amigos,Restaurant/Cafe/Canteen,1,0,,674519,5,,52.18937600000000,WO/01241/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2013-03-12,fhrs_5_en-GB,5,,FHRS,5
-355882,Countrywide Trading Estate,Sheriff Street,Worcester,,Amy's Sandwich Bar,Mobile caterer,7846,0,,685681,5,,52.19486300000000,WO/05253/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20699300000000,WR4 9AB,2013-10-11,fhrs_5_en-GB,5,,FHRS,0
-355883,47 The Tything,Worcester,,,Anarkali Indian Restaurant,Restaurant/Cafe/Canteen,1,20,,674674,15,,52.19741300000000,WO/03420/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22380100000000,WR1 1JT,2014-06-19,fhrs_1_en-GB,1,,FHRS,15
-355884,47 The Tything,Worcester,,,Anarkali Indian Restaurant,Restaurant/Cafe/Canteen,1,20,,674674,15,,52.19741300000000,WO/03420/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22380100000000,WR1 1JT,2014-06-19,fhrs_1_en-GB,1,,FHRS,15
-355885,69A St Johns,Worcester,Worcestershire,,Anaz Indian Takeaway,Takeaway/sandwich shop,7844,5,,674702,5,,52.18756500000000,WO/03972/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23482400000000,WR2 5AG,2014-09-28,fhrs_5_en-GB,5,,FHRS,5
-355886,1 Angel Street,Worcester,Worcestershire,,Angel Chef,Restaurant/Cafe/Canteen,1,10,,674735,15,,52.19378400000000,WO/04722/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22207100000000,WR1 3QT,2014-12-02,fhrs_2_en-GB,2,,FHRS,5
-355887,51 Canada Way,Worcester,Worcestershire,,Arishana,Restaurant/Cafe/Canteen,1,5,,685358,5,,52.17383300000000,WO/00685/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24123000000000,WR2 4XA,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-355888,11 The Tything,Worcester,Worcestershire,,Ashleys Restaurant,Restaurant/Cafe/Canteen,1,5,,674629,5,,52.19779100000000,WO/02842/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22356900000000,WR1 1HD,2013-02-05,fhrs_4_en-GB,4,,FHRS,10
-355889,11 The Tything,Worcester,Worcestershire,,Ashleys Restaurant,Restaurant/Cafe/Canteen,1,5,,674629,5,,52.19779100000000,WO/02842/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22356900000000,WR1 1HD,2013-02-05,fhrs_4_en-GB,4,,FHRS,10
-355890,71 Barbourne Road,Barbourne,Worcester,,Avi's Bakery,Takeaway/sandwich shop,7844,5,,674445,10,,52.20543400000000,WO/00287/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22748500000000,WR1 1SB,2014-03-17,fhrs_4_en-GB,4,,FHRS,5
-355891,11 Angel Street,Worcester,Worcestershire,,Ayaans,Takeaway/sandwich shop,7844,10,,674384,10,,52.19378400000000,13/00247/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22207100000000,WR1 3QT,2014-11-24,fhrs_3_en-GB,3,,FHRS,10
-355892,Worcester College Of Technology,St Wulstans Building,Deansway,Worcester,Baby-Tec,Hospitals/Childcare/Caring Premises,5,5,,674722,5,,52.19006200000000,WO/04389/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22218400000000,WR1 2JF,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-355893,4A Broad Street,Worcester,,,Baguetteman,Takeaway/sandwich shop,7844,0,,674703,5,,52.19297500000000,WO/03976/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22211100000000,WR1 3LH,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-355894,Worcester City Museum & Library,Foregate Street,Worcester,Worcestershire,Balcony Cafe,Restaurant/Cafe/Canteen,1,0,,685272,0,,52.19648100000000,13/00446/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22221600000000,WR1 1DT,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-355895,42 Barbourne Road,Worcester,,,Barbourne Hotel,Hotel/bed & breakfast/guest house,7842,10,,674442,10,,52.20285700000000,WO/00260/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22581800000000,WR1 1HU,2014-12-17,fhrs_3_en-GB,3,,FHRS,10
-355896,41 The Tything,Worcester,,,Bartus Polish Delicatesen,Retailers - other,4613,10,,674634,10,,52.19741300000000,WO/02880/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22380100000000,WR1 1JT,2013-09-12,fhrs_3_en-GB,3,,FHRS,10
-355897,270 Bath Road,Worcester,,,Bath Road Chippy,Takeaway/sandwich shop,7844,10,,674450,15,,52.17700400000000,WO/00330/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21423700000000,WR5 3ES,2014-10-20,fhrs_2_en-GB,2,,FHRS,5
-355898,Highfield,Battenhall Avenue,Worcester,Worcestershire,Battenhall Nursery,Hospitals/Childcare/Caring Premises,5,10,,722345,5,,52.17942600000000,14/01184/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20244600000000,WR5 2HW,2014-12-08,fhrs_4_en-GB,4,,FHRS,5
-355899,Acorn / Oak House,Bridgwater Road,Shire Business Park,Worcester,Baxter Storey,Restaurant/Cafe/Canteen,1,0,,674715,0,,52.21223200000000,WO/04216/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.16138200000000,WR4 9FP,2013-10-03,fhrs_5_en-GB,5,,FHRS,0
-355900,Sanctuary House,Chamber Court,Castle Street,Worcester,Baxter Storey @ Sanctuary House,Restaurant/Cafe/Canteen,1,0,,685605,5,,52.19619700000000,WO/03574/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22515500000000,WR1 3ZQ,2008-07-10,fhrs_5_en-GB,5,,FHRS,5
-355901,19A St Johns,Worcester,Worcestershire,,Beanies Coffee Shop,Restaurant/Cafe/Canteen,1,5,,674724,5,,52.18838500000000,WO/04443/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23381900000000,WR2 5AE,2012-12-11,fhrs_5_en-GB,5,,FHRS,5
-355902,Cave 9,75 Waterworks Road,Worcester,Worcestershire,Bears Great Escapes,Mobile caterer,7846,5,,674496,0,,52.20644400000000,WO/00936/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23470400000000,WR1 3EZ,2013-06-25,fhrs_5_en-GB,5,,FHRS,0
-355903,34 Sidbury,Worcester,,,Benedictos,Restaurant/Cafe/Canteen,1,0,,674597,0,,52.18801900000000,WO/02487/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21866300000000,WR1 2HZ,2015-01-03,fhrs_5_en-GB,5,,FHRS,5
-355904,Benefits Agency,Vine House,Farrier Street,Worcester,Benefits Agency (Compass Catering),Restaurant/Cafe/Canteen,1,0,,674502,5,,52.19524600000000,WO/01023/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22358500000000,WR1 3EL,2013-03-01,fhrs_5_en-GB,5,,FHRS,5
-355905,University Of Worcester,Henwick Grove,Worcester,Worcestershire,Berry's@Worcester Students Union,Takeaway/sandwich shop,7844,0,,685608,5,,52.19756400000000,WO/03687/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24305600000000,WR2 6AJ,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-355906,University Of Worcester,Henwick Grove,Worcester,Worcestershire,Berry's@Worcester Students Union,Takeaway/sandwich shop,7844,0,,685608,5,,52.19756400000000,WO/03687/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24305600000000,WR2 6AJ,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-355907,8-9 Chapel Walk,Worcester,Worcestershire,,Bills Restaurant,Restaurant/Cafe/Canteen,1,0,,674401,0,,52.19204000000000,14/00773/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22225200000000,WR1 3LD,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-355908,55 Sidbury,Danesbury House,Worcester,,Bindles Bar + Brasserie,Restaurant/Cafe/Canteen,1,0,,674599,5,,52.18771600000000,WO/02490/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21709700000000,WR1 2HU,2011-10-24,fhrs_5_en-GB,5,,FHRS,5
-355909,Merrimans Hill Road,Worcester,,,Bishop Perowne Church Of England College,School/college/university,7845,5,,674554,5,,52.20472600000000,WO/01821/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21687200000000,WR3 8LE,2014-10-23,fhrs_5_en-GB,5,,FHRS,5
-355910,Blackpole Road,Worcester,,,Blackpole Inn,Pub/bar/nightclub,7843,10,,674459,10,,52.21437800000000,WO/00412/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19828800000000,WR3 8SQ,2013-06-08,fhrs_3_en-GB,3,,FHRS,5
-355911,Worcester Garden Centre,Droitwich Road,Worcester,Worcestershire,Blooms Garden Centre,Restaurant/Cafe/Canteen,1,0,,674424,5,,52.22075900000000,WO/00089/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21509100000000,WR3 7SW,2012-11-06,fhrs_5_en-GB,5,,FHRS,5
-355912,Police Station,Castle Street,Worcester,,Blue Apple Contract Catering,Restaurant/Cafe/Canteen,1,0,,674717,0,,52.19631400000000,WO/04245/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22479000000000,WR1 3AD,2011-03-29,fhrs_5_en-GB,5,,FHRS,0
-355913,34 Foregate Street,Worcester,Worcestershire,,Bolero Bar & Kitchen,Restaurant/Cafe/Canteen,1,0,,697325,5,,52.19585000000000,14/00797/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22285700000000,WR1 1EE,2014-08-14,fhrs_5_en-GB,5,,FHRS,5
-355914,38 The Tything,Worcester,,,Bombay Palace,Restaurant/Cafe/Canteen,1,10,,674632,10,,52.19842800000000,WO/02877/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22442100000000,WR1 1JL,2014-10-24,fhrs_3_en-GB,3,,FHRS,10
-355915,18 Broad Street,Worcester,,,Boston Tea Party,Restaurant/Cafe/Canteen,1,5,,674656,5,,52.19283800000000,WO/03287/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22323700000000,WR1 3NF,2015-01-19,fhrs_5_en-GB,5,,FHRS,5
-355916,Droitwich Road,Worcester,,,Bowl Xtreme,Restaurant/Cafe/Canteen,1,0,,674499,5,,52.21585700000000,WO/00992/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21632700000000,WR3 7SN,2012-08-24,fhrs_5_en-GB,5,,FHRS,0
-355917,Bromwich Lane,Worcester,,,Bromwich Lane Tennis Club,Pub/bar/nightclub,7843,,,729412,,,52.18791100000000,WO/00569/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23232500000000,WR2 4BH,2015-01-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-355918,150-156 Bromwich Road,Worcester,,,Bromwich Road Mission Church,Other catering premises,7841,0,,674473,0,,52.17943400000000,WO/00573/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23216400000000,WR2 4AS,2010-01-25,fhrs_5_en-GB,5,,FHRS,5
-355919,50 Malvern Road,St Johns,Worcester,,Brunswick Arms,Pub/bar/nightclub,7843,0,,674549,5,,52.18470200000000,WO/01762/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23655000000000,WR2 4LQ,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-355920,Unit 4A,King Charles Place,St Johns,Worcester,B's Cafe,Restaurant/Cafe/Canteen,1,5,,685292,5,,52.18759100000000,14/00768/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23543900000000,WR2 5AJ,2014-07-02,fhrs_5_en-GB,5,,FHRS,5
-355921,8 The Tything,Worcester,,,Buddy's Baguettes,Takeaway/sandwich shop,7844,10,,674655,10,,52.19779100000000,WO/03202/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22356900000000,WR1 1HD,2014-10-23,fhrs_3_en-GB,3,,FHRS,10
-355922,4 Bull Ring,St Johns,Worcester,,Bull Ring Chippy,Takeaway/sandwich shop,7844,5,,674607,5,,52.18866300000000,WO/02582/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23417200000000,WR2 5AH,2014-07-10,fhrs_5_en-GB,5,,FHRS,5
-355923,12 Friar Street,Worcester,,,Burgerworks,Restaurant/Cafe/Canteen,1,5,,674514,10,,52.19048100000000,WO/01219/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21902600000000,WR1 2LZ,2014-10-28,fhrs_4_en-GB,4,,FHRS,5
-355924,Trinity Street,Worcester,,,Bushwackers,Pub/bar/nightclub,7843,5,,674434,5,,52.19313100000000,WO/00193/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22015100000000,WR1 2PW,2015-01-12,fhrs_5_en-GB,5,,FHRS,5
-355925,Brindley Road,Worcester,,,Busy Bees Nursery,Hospitals/Childcare/Caring Premises,5,0,,674712,0,,52.21329600000000,WO/04131/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17833400000000,WR4 9FB,2014-09-17,fhrs_5_en-GB,5,,FHRS,5
-355926,4 King Charles Place,St Johns,Worcester,Worcestershire,Byrnes Diner,Restaurant/Cafe/Canteen,1,0,,674613,5,,52.18759000000000,WO/02645/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23543800000000,WR2 5AJ,2011-04-19,fhrs_4_en-GB,4,,FHRS,10
-355927,The Building Centre,Tolladine Road,Worcester,Worcestershire,Cabin Cafe,Takeaway/sandwich shop,7844,5,,674654,5,,52.19645200000000,WO/03194/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21321800000000,WR4 9EG,2014-06-16,fhrs_5_en-GB,5,,FHRS,5
-355928,The Building Centre,Tolladine Road,Worcester,Worcestershire,Cabin Cafe,Takeaway/sandwich shop,7844,5,,674654,5,,52.19645200000000,WO/03194/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21321800000000,WR4 9EG,2014-06-16,fhrs_5_en-GB,5,,FHRS,5
-355929,Deansway,Worcester,,,Cafe @ The Old Palace,Restaurant/Cafe/Canteen,1,0,,674495,0,,52.18981000000000,WO/00915/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22212400000000,WR1 2JE,2011-12-05,fhrs_4_en-GB,4,,FHRS,10
-355930,Diglis Basin Marina,Diglis Road,Worcester,Worcestershire,Cafe Afloat,Takeaway/sandwich shop,7844,0,,674743,5,,,WO/04990/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,,2012-04-27,fhrs_5_en-GB,5,,FHRS,5
-355931,Foregate Street Station,Foregate Street,Worcester,Worcestershire,Cafe Loco,Takeaway/sandwich shop,7844,5,,674733,10,,52.19481900000000,WO/04598/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22135900000000,WR1 1DB,2013-11-08,fhrs_4_en-GB,4,,FHRS,5
-355932,Street Record,Shrub Hill,Worcester,Worcestershire,Cafe Loco Shrub Hill Ltd,Takeaway/sandwich shop,7844,,,674761,,,,WO/05261/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-355933,22 Foregate Street,Worcester,,,Cafe Mela,Restaurant/Cafe/Canteen,1,5,,674508,5,,52.19561900000000,WO/01092/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22164100000000,WR1 1DN,2013-06-03,fhrs_4_en-GB,4,,FHRS,10
-355934,5 Friar Street,Worcester,,,Cafe Rouge Worcester,Restaurant/Cafe/Canteen,1,0,,674513,5,,52.19048100000000,WO/01212/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21902600000000,WR1 2LZ,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-355935,Croft Road,Worcester,,,Cafe Severn On The Quay Ltd,Restaurant/Cafe/Canteen,1,0,,674688,0,,52.19521300000000,WO/03683/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23183600000000,WR1 3EJ,2013-03-19,fhrs_5_en-GB,5,,FHRS,0
-355936,House Of Fraser,24 Chapel Walk,Worcester,Worcestershire,Cafe Zest @ House Of Fraser,Restaurant/Cafe/Canteen,1,0,,674692,5,,52.19204000000000,WO/03757/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22225200000000,WR1 3LD,2012-12-20,fhrs_5_en-GB,5,,FHRS,5
-355937,2 St Nicholas Street,Worcester,,,Caffe Bolero,Restaurant/Cafe/Canteen,1,5,,674614,5,,52.19401300000000,WO/02681/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21998000000000,WR1 1UW,2014-07-17,fhrs_5_en-GB,5,,FHRS,5
-355938,2 St Nicholas Street,Worcester,,,Caffe Bolero,Restaurant/Cafe/Canteen,1,5,,674614,5,,52.19401300000000,WO/02681/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21998000000000,WR1 1UW,2014-07-17,fhrs_5_en-GB,5,,FHRS,5
-355939,30 The Shambles,Worcester,,,Caffe Nero,Restaurant/Cafe/Canteen,1,5,,674587,5,,52.19200900000000,WO/02259/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21945800000000,WR1 2RE,2014-10-24,fhrs_5_en-GB,5,,FHRS,5
-355940,59-60 Broad Street,Worcester,,,Caffe Nero,Restaurant/Cafe/Canteen,1,5,,674471,5,,52.19257100000000,WO/00534/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22194800000000,WR1 3LY,2013-11-04,fhrs_5_en-GB,5,,FHRS,5
-355941,13 - 17 Carden Street,Worcester,Worcestershire,,Carden Street Cafe,Restaurant/Cafe/Canteen,1,0,,730858,0,,52.18994500000000,14/00945/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21722400000000,WR1 2AT,2015-01-16,fhrs_5_en-GB,5,,FHRS,0
-355942,6 Chapel Walk,Worcester,Worcestershire,,Carluccios,Restaurant/Cafe/Canteen,1,0,,674691,0,,52.19204000000000,WO/03745/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22225200000000,WR1 3LD,2014-11-19,fhrs_5_en-GB,5,,FHRS,0
-355943,82 Sidbury,Worcester,,,Caspian Pizza,Takeaway/sandwich shop,7844,0,,674602,0,,52.18702500000000,WO/02498/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21649400000000,WR1 2HY,2013-02-11,fhrs_5_en-GB,5,,FHRS,0
-355944,7 Severn Street,Worcester,,,Cathedral Cafe,Restaurant/Cafe/Canteen,1,10,,674584,15,,52.18654100000000,WO/02232/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22020700000000,WR1 2ND,2014-12-01,fhrs_2_en-GB,2,,FHRS,15
-355945,107 St Georges Lane North,Worcester,,,Cavalier Tavern,Pub/bar/nightclub,7843,0,,674606,10,,52.20473400000000,WO/02568/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22205300000000,WR1 1QS,2013-04-09,fhrs_4_en-GB,4,,FHRS,5
-355946,107 St Georges Lane North,Worcester,,,Cavalier Tavern,Pub/bar/nightclub,7843,0,,674606,10,,52.20473400000000,WO/02568/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22205300000000,WR1 1QS,2013-04-09,fhrs_4_en-GB,4,,FHRS,5
-355947,75 Waterworks Road,(Units 3 & 4),Worcester,,Chanterelles,Other catering premises,7841,0,,674640,5,,52.20644500000000,WO/02979/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23470400000000,WR1 3EZ,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-355948,75 Waterworks Road,(Units 3 & 4),Worcester,,Chanterelles,Other catering premises,7841,0,,674640,5,,52.20644500000000,WO/02979/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23470400000000,WR1 3EZ,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-355949,Newtown Hospital,Newtown Road,Worcester,,Charles Hastings Education Centre,School/college/university,7845,5,,674719,5,,52.19121100000000,WO/04359/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18115700000000,WR5 1DD,2013-11-11,fhrs_5_en-GB,5,,FHRS,0
-355950,57 Sidbury,Worcester,,,Charlies Cafe Bar,Restaurant/Cafe/Canteen,1,0,,674600,5,,52.18771600000000,WO/02491/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21709700000000,WR1 2HU,2013-03-15,fhrs_5_en-GB,5,,FHRS,0
-355951,57 Sidbury,Worcester,,,Charlies Cafe Bar,Restaurant/Cafe/Canteen,1,0,,674600,5,,52.18771600000000,WO/02491/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21709700000000,WR1 2HU,2013-03-15,fhrs_5_en-GB,5,,FHRS,0
-355952,72 Orchard Street,Worcester,,,Cherry Orchard Day Centre,School/college/university,7845,0,,674578,0,,52.17772100000000,WO/02023/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21545400000000,WR5 3DY,2011-11-23,fhrs_5_en-GB,5,,FHRS,0
-355953,Cherry Orchard Primary School,Timberdine Close,Worcester,Worcestershire,Cherry Orchard School,School/college/university,7845,0,,674620,0,,52.17818700000000,WO/02762/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21147800000000,WR5 2DD,2011-11-29,fhrs_5_en-GB,5,,FHRS,0
-355954,51 New Street,Worcester,,,Chesters Restaurant,Restaurant/Cafe/Canteen,1,0,,674563,5,,52.19189300000000,WO/01906/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21874100000000,WR1 2DL,2013-03-29,fhrs_4_en-GB,4,,FHRS,10
-355955,67 Barbourne Road,Barbourne,Worcester,,Chicago's Pizza,Takeaway/sandwich shop,7844,0,,674444,0,,52.20543400000000,WO/00285/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22748500000000,WR1 1SB,2012-06-27,fhrs_5_en-GB,5,,FHRS,0
-355956,3 St Johns,Worcester,Worcestershire,,Chickin Feelin,Takeaway/sandwich shop,7844,5,,674402,5,,52.18838500000000,14/00781/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23381900000000,WR2 5AE,2014-09-02,fhrs_5_en-GB,5,,FHRS,5
-355957,26 The Cross,Worcester,Worcestershire,,Chicks,Takeaway/sandwich shop,7844,10,,674492,10,,52.19324500000000,WO/00892/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22167300000000,WR1 3PZ,2014-11-19,fhrs_2_en-GB,2,,FHRS,15
-355958,111-113 Sidbury,Worcester,Worcestershire,,China City,Takeaway/sandwich shop,7844,10,,674603,10,,52.18711500000000,WO/02511/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21604100000000,WR5 2DH,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-355959,53 New Street,Worcester,,,"Chocolate Deli, Coffee & Patisserie",Restaurant/Cafe/Canteen,1,0,,674564,0,,52.19189300000000,WO/01907/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21874100000000,WR1 2DL,2011-12-06,fhrs_5_en-GB,5,,FHRS,5
-355960,154 London Road,Worcester,Worcestershire,,Chung Ying,Takeaway/sandwich shop,7844,5,,674538,10,,52.18368700000000,WO/01579/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20233400000000,WR5 2EJ,2012-11-29,fhrs_4_en-GB,4,,FHRS,5
-355961,50 Friar Street,Worcester,,,Chung Ying Garden,Restaurant/Cafe/Canteen,1,0,,674521,5,,52.18937600000000,WO/01251/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-355962,St Clements Primary School,Henwick Road,Worcester,,Citrus Kids Clubs,Hospitals/Childcare/Caring Premises,5,0,,674526,5,,52.19290300000000,WO/01336/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23611100000000,WR2 5NS,2013-02-14,fhrs_5_en-GB,5,,FHRS,5
-355963,City Campus,University Of Worcester,Infirmary Walk,Worcester,City Cafe,Other catering premises,7841,5,,674679,5,,52.19577200000000,WO/03466/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22639700000000,WR1 3AS,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-355964,Cranham Primary School,Tetbury Drive,Warndon,Worcester,Class Catering @ Cranham Primary School,School/college/university,7845,5,,674619,0,,52.21360800000000,WO/02756/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19102500000000,WR4 9LS,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-355965,Cranham Primary School,Tetbury Drive,Warndon,Worcester,Class Catering @ Cranham Primary School,School/college/university,7845,5,,674619,0,,52.21360800000000,WO/02756/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19102500000000,WR4 9LS,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-355966,Wylds Lane,Worcester,,,Class Catering @ Fort Royal Community Primary School,School/college/university,7845,0,,674644,0,,52.18798900000000,WO/03039/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21010600000000,WR5 1DR,2011-09-26,fhrs_5_en-GB,5,,FHRS,5
-355967,Red Hill Primary School,Midhurst Close,Worcester,,Class Catering @ Red Hill Primary School,School/college/university,7845,0,,674556,0,,52.18357600000000,WO/01825/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20435200000000,WR5 2HX,2014-11-03,fhrs_5_en-GB,5,,FHRS,0
-355968,20 Mealcheapen Street,Worcester,,,Clockwatchers,Takeaway/sandwich shop,7844,10,,674553,10,,52.19273700000000,WO/01813/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21930100000000,WR1 2DQ,2013-10-08,fhrs_3_en-GB,3,,FHRS,10
-355969,10A College Green,Worcester,,,"Cloister Cafe, Worcester Cathedral",Restaurant/Cafe/Canteen,1,10,,674732,10,,52.18759300000000,WO/04573/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22012400000000,WR1 2LH,2014-07-10,fhrs_3_en-GB,3,,FHRS,10
-355970,39 Upper Tything,Worcester,,,Coach And Horses,Pub/bar/nightclub,7843,0,,674676,10,,52.20060200000000,WO/03425/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22532400000000,WR1 1JZ,2010-04-15,fhrs_4_en-GB,4,,FHRS,10
-355971,39 Upper Tything,Worcester,,,Coach And Horses,Pub/bar/nightclub,7843,0,,674676,10,,52.20060200000000,WO/03425/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22532400000000,WR1 1JZ,2010-04-15,fhrs_4_en-GB,4,,FHRS,10
-355972,Ground Floor,12 The Foregate,Worcester,Worcestershire,Coffee Wharehouse,Restaurant/Cafe/Canteen,1,5,,674389,5,,52.19407300000000,13/00351/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22113600000000,WR1 3QD,2013-12-31,fhrs_5_en-GB,5,,FHRS,5
-355973,15 Broad Street,Worcester,,,Colston Bakery,Restaurant/Cafe/Canteen,1,5,,674467,5,,52.19297500000000,WO/00487/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22211100000000,WR1 3LH,2013-08-23,fhrs_5_en-GB,5,,FHRS,5
-355974,3 King Charles Place,St Johns,Worcester,Worcestershire,Colston Bakery,Takeaway/sandwich shop,7844,5,,674725,10,,52.18759000000000,WO/04469/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23543800000000,WR2 5AJ,2014-12-10,fhrs_4_en-GB,4,,FHRS,5
-355975,34-36 Friar Street,Worcester,,,Conservatory Cafe Bar,Pub/bar/nightclub,7843,0,,674518,0,,52.19048100000000,WO/01238/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21902600000000,WR1 2LZ,2014-12-16,fhrs_5_en-GB,5,,FHRS,5
-355976,St Peters Baptist Church,Eden Close,Worcester,Worcestershire,Cornerstone Catering,Other catering premises,7841,0,,685665,0,,52.17254500000000,WO/04839/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20362800000000,WR5 3TZ,2011-11-25,fhrs_5_en-GB,5,,FHRS,5
-355977,69 Broad Street,Worcester,,,Cornish Bakehouse,Retailers - other,4613,0,,674472,5,,52.19257100000000,WO/00549/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22194800000000,WR1 3LY,2013-03-12,fhrs_5_en-GB,5,,FHRS,5
-355978,Cornmeadow Lane (Church Hall),Worcester,,,Cornmeadow Pre School Playgroup,Hospitals/Childcare/Caring Premises,5,0,,674485,0,,52.21938200000000,WO/00847/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22563900000000,WR3 7NY,2011-09-23,fhrs_5_en-GB,5,,FHRS,5
-355979,3 The Cross,Worcester,,,Costa,Restaurant/Cafe/Canteen,1,0,,674490,5,,,WO/00884/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR1 3PS,2013-07-19,fhrs_5_en-GB,5,,FHRS,5
-355980,31-32 High Street,Worcester,Worcestershire,,Costa,Restaurant/Cafe/Canteen,1,10,,674527,10,,52.19113500000000,WO/01355/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22030200000000,WR1 2QL,2014-11-24,fhrs_2_en-GB,2,,FHRS,15
-355981,The Cooperage - Unit 6,St Martins Quarter,Silver Street,Worcester,Costa,Restaurant/Cafe/Canteen,1,10,,697321,10,,52.19334400000000,14/00084/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21697800000000,WR1 2DA,2014-07-29,fhrs_4_en-GB,4,,FHRS,0
-355982,Tesco Store,St Peters Drive,Worcester,,Costa @ Tesco,Restaurant/Cafe/Canteen,1,5,,674617,5,,52.17113200000000,WO/02711/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20486500000000,WR5 3SW,2013-10-04,fhrs_5_en-GB,5,,FHRS,0
-355983,226 Cranham Drive,Warndon,Worcester,,Cranham Residential Home,Hospitals/Childcare/Caring Premises,5,0,,674489,5,,52.21272500000000,WO/00868/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18693800000000,WR4 9PH,2013-10-22,fhrs_5_en-GB,5,,FHRS,5
-355984,Crown Burger And Cafe Bar,Angel Place,Worcester,Worcestershire,Crown Burger Bar,Restaurant/Cafe/Canteen,1,5,,674429,5,,52.19397900000000,WO/00127/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22360800000000,WR1 3QN,2014-07-17,fhrs_4_en-GB,4,,FHRS,10
-355985,Oldbury Park Primary School,Oldbury Road,Worcester,Worcestershire,Cygnet Catering @ Oldbury Park Primary School,School/college/university,7845,0,,732469,5,,52.19522500000000,13/00028/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23880000000000,WR2 6AA,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-355986,67-71 High Street,Worcester,,,Debenhams,Restaurant/Cafe/Canteen,1,5,,674530,5,,52.19227500000000,WO/01384/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22143400000000,WR1 2EN,2014-09-08,fhrs_5_en-GB,5,,FHRS,5
-355987,3 Bull Ring,St Johns,Worcester,,De-Bury House,Hotel/bed & breakfast/guest house,7842,0,,685354,0,,52.18856700000000,WO/00651/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23294300000000,WR2 5AA,2013-02-28,fhrs_5_en-GB,5,,FHRS,0
-355988,5A St Johns,Worcester,Worcestershire,,Delhi 6,Restaurant/Cafe/Canteen,1,5,,674608,5,,52.18838500000000,WO/02584/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23381900000000,WR2 5AE,2014-10-30,fhrs_4_en-GB,4,,FHRS,10
-355989,46 The Tything,Worcester,Worcestershire,,Delhi Spice,Restaurant/Cafe/Canteen,1,5,,685294,5,,52.19741300000000,14/00822/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22380100000000,WR1 1JT,2014-08-26,fhrs_5_en-GB,5,,FHRS,5
-355990,37-39 Sidbury,Worcester,,,Deli Corporation,Restaurant/Cafe/Canteen,1,0,,674598,5,,52.18845100000000,WO/02488/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21832900000000,WR1 2HT,2013-02-04,fhrs_4_en-GB,4,,FHRS,10
-355991,Old Jaguar House,Castle Street,Worcester,,Detroits,Restaurant/Cafe/Canteen,1,0,,674476,0,,,WO/00716/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR1 3AP,2012-01-12,fhrs_5_en-GB,5,,FHRS,5
-355992,Severn Street,Worcester,,,Diglis House Hotel,Hotel/bed & breakfast/guest house,7842,5,,674585,5,,52.18626800000000,WO/02240/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22226800000000,WR1 2NF,2015-01-12,fhrs_5_en-GB,5,,FHRS,5
-355993,Buckholt Drive,Warndon,Worcester,,Dine Contract Catering @ Open G.I. Ltd,Restaurant/Cafe/Canteen,1,0,,685353,0,,,WO/00631/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR3 3UG,2013-11-27,fhrs_5_en-GB,5,,FHRS,0
-355994,Tudor Way,Dines Green,Worcester,,Dines Green Primary School & Nursery,School/college/university,7845,5,,674625,0,,52.18939000000000,WO/02812/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.25648300000000,WR2 5QH,2013-03-21,fhrs_5_en-GB,5,,FHRS,5
-355995,Tudor Way,Dines Green,Worcester,,Dines Green Primary School & Nursery,School/college/university,7845,5,,674625,0,,52.18939000000000,WO/02812/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.25648300000000,WR2 5QH,2013-03-21,fhrs_5_en-GB,5,,FHRS,5
-355996,75 Ambleside Drive,Worcester,Worcestershire,,Domino's Pizzas,Takeaway/sandwich shop,7844,5,,719775,10,,52.20393500000000,14/01077/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19102700000000,WR4 9DA,2014-11-27,fhrs_4_en-GB,4,,FHRS,0
-355997,144 Bromwich Road,Worcester,Worcestershire,,Donnellys Fish & Chips,Takeaway/sandwich shop,7844,10,,674657,10,,52.17943400000000,WO/03292/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23216400000000,WR2 4AS,2014-08-13,fhrs_3_en-GB,3,,FHRS,5
-355998,10 Cornmarket,Worcester,,,Double Sushi,Restaurant/Cafe/Canteen,1,,,674484,,,52.19270400000000,WO/00839/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21801300000000,WR1 2DR,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-355999,51 The Tything,Worcester,,,Dragon Inn,Pub/bar/nightclub,7843,10,,674636,10,,52.19741300000000,WO/02888/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22380100000000,WR1 1JT,2013-02-27,fhrs_3_en-GB,3,,FHRS,5
-356000,28 New Street,Worcester,,,Drummonds/Swan With Two Nicks,Pub/bar/nightclub,7843,5,,674561,5,,52.19199300000000,WO/01896/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21844900000000,WR1 2DP,2014-11-13,fhrs_5_en-GB,5,,FHRS,5
-356001,Elgar Retail Park,Blackpole Road,Worcester,,Dunelm Mill,Restaurant/Cafe/Canteen,1,0,,674758,5,,52.21081300000000,WO/05197/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20166700000000,WR3 8HP,2014-08-18,fhrs_5_en-GB,5,,FHRS,5
-356002,Northwick Road,Worcester,,,East Bank Court,Hospitals/Childcare/Caring Premises,5,5,,674738,5,,52.21053200000000,WO/04917/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22746700000000,WR3 7DR,2013-12-18,fhrs_5_en-GB,5,,FHRS,0
-356003,St Peters Baptist Church,Eden Close,Worcester,Worcestershire,Eden Coffee Shop,Other catering premises,7841,0,,674764,0,,52.17254500000000,WO/05280/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20362800000000,WR5 3TZ,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-356004,100 High Street,Worcester,Worcestershire,,Edwards Bar And Dining,Restaurant/Cafe/Canteen,1,10,,729408,10,,52.19002000000000,14/01250/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22058900000000,WR1 2HW,2015-01-03,fhrs_3_en-GB,3,,FHRS,10
-356005,5 Angel Street,Worcester,,,Efes Kebab,Takeaway/sandwich shop,7844,5,,674430,5,,52.19378400000000,WO/00145/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22207100000000,WR1 3QT,2013-03-09,fhrs_5_en-GB,5,,FHRS,5
-356006,Elgar Unit,Worcester Royal Hospital,Newtown Road,Worcester,Elgar Unit (Newtown),Hospitals/Childcare/Caring Premises,5,0,,674739,0,,52.19239400000000,WO/04927/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18313600000000,WR5 1JG,2010-06-16,fhrs_5_en-GB,5,,FHRS,5
-356007,Unit 16 Reindeer Court,Mealcheapen Street,Worcester,,Elgars Coffee Shop & Licensed Restaurant,Restaurant/Cafe/Canteen,1,5,,674687,0,,52.19209000000000,WO/03678/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21916600000000,WR1 2DS,2014-12-03,fhrs_5_en-GB,5,,FHRS,0
-356008,Silver Street,Lowesmoor,Worcester,,Eurest @ Asda,Restaurant/Cafe/Canteen,1,0,,674762,5,,52.18937600000000,WO/05265/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2012-04-24,fhrs_5_en-GB,5,,FHRS,0
-356009,Hindlip Lane,Worcester,,,Event House,Restaurant/Cafe/Canteen,1,10,,674697,10,,52.22304900000000,WO/03916/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19582300000000,WR3 8SB,2014-11-25,fhrs_3_en-GB,3,,FHRS,10
-356010,The Fairfield Centre,Carnforth Drive,Worcester,Worcestershire,Fairfield Centre,Other catering premises,7841,0,,674741,5,,52.20768200000000,WO/04945/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19222900000000,WR4 9HG,2012-11-26,fhrs_5_en-GB,5,,FHRS,0
-356011,Buttercup Childrens Centre,Carnforth Drive,Worcester,,Fairfield Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,674742,5,,52.20768200000000,WO/04947/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19222900000000,WR4 9HG,2013-06-17,fhrs_5_en-GB,5,,FHRS,0
-356012,9 Fish Street,Worcester,,,Farriers Arms,Pub/bar/nightclub,7843,5,,674503,5,,52.19016300000000,WO/01049/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22098500000000,WR1 2HN,2015-01-16,fhrs_5_en-GB,5,,FHRS,5
-356013,Copenhagen Street,Worcester,,,Fire Station,Restaurant/Cafe/Canteen,1,0,,685371,0,,,WO/00832/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR1 2HH,2010-03-11,fhrs_4_en-GB,4,,FHRS,10
-356014,141 Malvern Road,St Johns,Worcester,,Firs Residential Rest Home (Inc Ferns),Hospitals/Childcare/Caring Premises,5,5,,674685,5,,52.18090100000000,WO/03644/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23603200000000,WR2 4LN,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-356015,4-6 Pump Street,Worcester,,,Flat White Coffee Co,Restaurant/Cafe/Canteen,1,0,,674580,5,,52.19068600000000,WO/02108/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21984700000000,WR1 2QT,2013-01-07,fhrs_5_en-GB,5,,FHRS,0
-356016,65 St Johns,Worcester,,,Fortune House,Takeaway/sandwich shop,7844,20,,674611,20,,52.18756500000000,WO/02634/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23482400000000,WR2 5AG,2014-09-29,fhrs_1_en-GB,1,,FHRS,10
-356017,61 Lowesmoor,Worcester,,,Four Seasons,Restaurant/Cafe/Canteen,1,5,,674545,5,,52.19518700000000,WO/01644/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21722100000000,WR1 2RS,2013-09-02,fhrs_5_en-GB,5,,FHRS,5
-356018,City Walls Road,Worcester,,,Fownes Hotel Worcester,Hotel/bed & breakfast/guest house,7842,5,,674479,10,,52.18944200000000,WO/00774/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21698800000000,WR1 2AP,2013-07-10,fhrs_4_en-GB,4,,FHRS,5
-356019,The Studio,8 Spring Lane,Worcester,Worcestershire,Francini Cafe De Colombia,Mobile caterer,7846,0,,697322,0,,52.19206600000000,14/00785/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21270000000000,WR5 1AU,2014-08-21,fhrs_5_en-GB,5,,FHRS,0
-356020,14 The Foregate,Worcester,,,French Connection Baguettes,Takeaway/sandwich shop,7844,5,,674504,10,,52.19407300000000,WO/01057/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22113600000000,WR1 3QD,2014-07-15,fhrs_4_en-GB,4,,FHRS,5
-356021,14 The Foregate,Worcester,,,French Connection Baguettes,Takeaway/sandwich shop,7844,5,,674504,10,,52.19407300000000,WO/01057/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22113600000000,WR1 3QD,2014-07-15,fhrs_4_en-GB,4,,FHRS,5
-356022,94 Linksview Crescent,Newtown,Worcester,,Fusion Patisserie,Other catering premises,7841,0,,685431,5,,52.19220900000000,WO/01548/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18680800000000,WR5 1JJ,2011-10-07,fhrs_5_en-GB,5,,FHRS,5
-356023,17 Robin Drive,Claines,Worcester,Worcestershire,G & S Catering,Mobile caterer,7846,5,,685267,5,,52.23083100000000,13/00066/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20354400000000,WR3 7NN,2013-04-18,fhrs_5_en-GB,5,,FHRS,5
-356024,45 Friar Street,Worcester,Worcestershire,,G And Tea,Restaurant/Cafe/Canteen,1,5,,735295,5,,52.18937600000000,14/01204/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2015-02-10,fhrs_5_en-GB,5,,FHRS,5
-356025,20-21 Foregate Street,Worcester,Worcestershire,,Gala Bingo,Restaurant/Cafe/Canteen,1,5,,674507,5,,52.19561800000000,WO/01088/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22164100000000,WR1 1DN,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-356026,19-21 Friar Street,Worcester,Worcestershire,,Galleria Italiana,Restaurant/Cafe/Canteen,1,0,,674515,0,,52.18937600000000,WO/01224/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2015-02-11,fhrs_5_en-GB,5,,FHRS,5
-356027,9 Copenhagen Street,Worcester,Worcestershire,,Ginger Pig Bistro,Restaurant/Cafe/Canteen,1,10,,674392,10,,52.19082000000000,13/00429/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22079800000000,WR1 2HB,2014-04-29,fhrs_3_en-GB,3,,FHRS,10
-356028,6 Abbotsbury Court,St Peters Drive,Worcester,,Golden Boat,Takeaway/sandwich shop,7844,5,,674704,10,,52.17160900000000,WO/03979/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20473600000000,WR5 3TA,2013-10-03,fhrs_4_en-GB,4,,FHRS,5
-356029,2A Brickfields Road,Worcester,,,Golden City,Takeaway/sandwich shop,7844,0,,674466,10,,52.20622400000000,WO/00453/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20343200000000,WR4 9TG,2012-02-29,fhrs_4_en-GB,4,,FHRS,5
-356030,Unit 3 - Golden Dragon,Brindley Road,Worcester,Worcestershire,Golden Dragon,Takeaway/sandwich shop,7844,0,,674744,5,,52.21329600000000,WO/04998/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17833400000000,WR4 9FB,2013-08-15,fhrs_5_en-GB,5,,FHRS,0
-356031,51 Gresham Road,Dines Green,Worcester,,Golden Fortune,Takeaway/sandwich shop,7844,10,,685404,5,,52.19266000000000,WO/01299/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.25321100000000,WR2 5QR,2014-07-10,fhrs_4_en-GB,4,,FHRS,5
-356032,31 Upper Tything,Worcester,,,Golden Gourmet,Takeaway/sandwich shop,7844,20,,674637,10,,52.20060200000000,WO/02905/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22532400000000,WR1 1JZ,2014-10-29,fhrs_1_en-GB,1,,FHRS,5
-356033,Holly Mount Road,Worcester,,,Gorse Hill School,School/college/university,7845,0,,674532,5,,52.20061800000000,WO/01433/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20159200000000,WR4 9SG,2011-11-18,fhrs_5_en-GB,5,,FHRS,5
-356034,8 Shrub Hill Road,Worcester,,,Great Western Hotel,Hotel/bed & breakfast/guest house,7842,0,,674681,5,,52.19445900000000,WO/03512/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21176100000000,WR4 9EF,2013-03-12,fhrs_4_en-GB,4,,FHRS,10
-356035,10 The Shambles,Worcester,,,Greggs,Takeaway/sandwich shop,7844,0,,674586,5,,52.19200900000000,WO/02248/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21945800000000,WR1 2RE,2013-01-31,fhrs_5_en-GB,5,,FHRS,5
-356036,10 The Shambles,Worcester,,,Greggs,Takeaway/sandwich shop,7844,0,,674586,5,,52.19200900000000,WO/02248/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21945800000000,WR1 2RE,2013-01-31,fhrs_5_en-GB,5,,FHRS,5
-356037,58 High Street,Worcester,,,Greggs,Takeaway/sandwich shop,7844,5,,674529,5,,52.19204000000000,WO/01376/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22225200000000,WR1 3LD,2014-11-17,fhrs_5_en-GB,5,,FHRS,5
-356038,Friar Street,Worcester,,,Greyfriars House And Garden,Restaurant/Cafe/Canteen,1,0,,674734,5,,52.19048100000000,WO/04602/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21902600000000,WR1 2LZ,2013-03-29,fhrs_5_en-GB,5,,FHRS,0
-356039,39 Newtown Road,Worcester,,,Gun Tavern,Pub/bar/nightclub,7843,10,,674666,10,,52.19489700000000,WO/03366/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20295500000000,WR5 1HG,2013-11-19,fhrs_3_en-GB,3,,FHRS,10
-356040,9 St Johns,Worcester,,,H Dayus Family Butcher,Manufacturers/packers,7839,0,,674672,5,,52.18838500000000,WO/03404/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23381900000000,WR2 5AE,2013-05-01,fhrs_5_en-GB,5,,FHRS,5
-356041,9 St Johns,Worcester,,,H Dayus Family Butcher,Manufacturers/packers,7839,0,,674672,5,,52.18838500000000,WO/03404/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23381900000000,WR2 5AE,2013-05-01,fhrs_5_en-GB,5,,FHRS,5
-356042,3 Midland Road,Worcester,,,H J Heinz - Lea & Perrins.,Restaurant/Cafe/Canteen,1,0,,685456,5,,52.19668800000000,WO/01827/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21695000000000,WR5 1DT,2010-04-08,fhrs_5_en-GB,5,,FHRS,5
-356043,C27 Chapel Walk,Crowngate,Worcester,,Hamiltons,Restaurant/Cafe/Canteen,1,0,,685618,10,,52.19204000000000,WO/03818/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22225200000000,WR1 3LD,2012-02-21,fhrs_4_en-GB,4,,FHRS,10
-356044,2 Pitchcroft Lane,Barbourne,Worcester,,Happy Garden,Takeaway/sandwich shop,7844,5,,674667,5,,52.20559000000000,WO/03382/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23064700000000,WR1 3JW,2014-10-30,fhrs_4_en-GB,4,,FHRS,10
-356045,Unit 1 - Happylands Private Day Nur,Ankerage Green,Worcester,Worcestershire,Happylands Private Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,674746,5,,52.20001700000000,WO/05022/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17794400000000,WR4 0DZ,2013-06-19,fhrs_5_en-GB,5,,FHRS,5
-356046,92 Blakefield Road,St Johns,Worcester,,Hawthorn Cottage Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,674460,0,,52.18668900000000,WO/00417/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24132900000000,WR2 5DP,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-356047,2 Kings Court,Charles Hastings Way,Worcester,,Hereford & Worcester Fire & Rescue Service,Restaurant/Cafe/Canteen,1,0,,674720,0,,52.19165500000000,WO/04372/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17906700000000,WR5 1JR,2013-03-12,fhrs_5_en-GB,5,,FHRS,0
-356048,Himbleton Road,Worcester,,,Himbleton House Very Sheltered Acc,Hospitals/Childcare/Caring Premises,5,5,,685555,10,,52.20081800000000,WO/03065/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24324900000000,WR2 6HS,2014-11-24,fhrs_4_en-GB,4,,FHRS,5
-356049,210 London Road,Worcester,,,Holland House,Hotel/bed & breakfast/guest house,7842,0,,674540,0,,52.18281000000000,WO/01587/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20018000000000,WR5 2JT,2013-03-05,fhrs_5_en-GB,5,,FHRS,5
-356050,Homebase Store,Unit A,Elgar Retail Park,Blackpole Road,Homebase Coffee Shop (Compass),Restaurant/Cafe/Canteen,1,0,,674395,0,,52.21081300000000,14/00392/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20166700000000,WR3 8HP,2014-05-19,fhrs_5_en-GB,5,,FHRS,5
-356051,7 Cornmeadow Green,Worcester,Worcestershire,,HomeKitchen,Mobile caterer,7846,5,,715288,5,,52.22319500000000,14/01038/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22507300000000,WR3 7PN,2014-11-06,fhrs_5_en-GB,5,,FHRS,5
-356052,44 Barbourne Road,Barbourne,Worcester,,Homeleigh Guest House,Hotel/bed & breakfast/guest house,7842,0,,674443,10,,52.20285700000000,WO/00262/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22581800000000,WR1 1HU,2013-02-15,fhrs_1_en-GB,1,,FHRS,20
-356053,12 Angel Street,Worcester,,,Horn & Trumpet,Pub/bar/nightclub,7843,10,,674431,10,,52.19378400000000,WO/00153/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22207100000000,WR1 3QT,2014-12-02,fhrs_3_en-GB,3,,FHRS,10
-356054,104 High Street,Worcester,Worcestershire,,House Of Coffee,Restaurant/Cafe/Canteen,1,0,,674383,5,,52.19002000000000,13/00214/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22058900000000,WR1 2HW,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-356055,4 Gregorys Mill Street,Worcester,Worcestershire,,Indian Fusion,Takeaway/sandwich shop,7844,10,,674772,10,,52.20735000000000,WO/05382/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22225500000000,WR3 8BA,2014-06-24,fhrs_3_en-GB,3,,FHRS,10
-356056,Isaac Maddox House,Shrub Hill Industrial Estate,Worcester,Worcestershire,ISS  Facility Services Healthcare,Other catering premises,7841,0,,674594,5,,52.19507700000000,WO/02394/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21300600000000,WR4 9RW,2010-06-08,fhrs_5_en-GB,5,,FHRS,0
-356057,West Midland Tavern,Lowesmoor,Worcester,,Jean's Kitchen,Pub/bar/nightclub,7843,0,,685444,5,,52.19579400000000,WO/01688/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21459000000000,WR1 2PB,2008-07-18,fhrs_5_en-GB,5,,FHRS,0
-356058,56 Battenhall Road,Worcester,,,Just Scrummy,Other catering premises,7841,0,,674456,0,,52.18331300000000,WO/00344/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21077100000000,WR5 2BQ,2011-06-21,fhrs_5_en-GB,5,,FHRS,0
-356059,43 Broad Street,Worcester,Worcestershire,,Karma,Restaurant/Cafe/Canteen,1,20,,674470,20,,52.19237000000000,WO/00508/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22338100000000,WR1 3LR,2014-08-18,fhrs_0_en-GB,0,,FHRS,20
-356060,46 Bromyard Road,St Johns,Worcester,,Kathryn Bentley,Other catering premises,7841,0,,685348,0,,52.18849400000000,WO/00595/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23752100000000,WR2 5BT,2011-03-25,fhrs_5_en-GB,5,,FHRS,0
-356061,1 Copenhagen Street,Worcester,Worcestershire,,Keystones Cocktail Club,Pub/bar/nightclub,7843,5,,730856,5,,52.19081900000000,13/00250/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22079800000000,WR1 2HB,2014-05-02,fhrs_4_en-GB,4,,FHRS,10
-356062,Elgar Retail Park,Blackpole Road,Worcester,Worcestershire,KFC,Takeaway/sandwich shop,7844,5,,674748,5,,52.21081300000000,WO/05063/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20166700000000,WR3 8HP,2014-10-02,fhrs_5_en-GB,5,,FHRS,5
-356063,29 New Street,Worcester,Worcestershire,,King Charles II,Pub/bar/nightclub,7843,10,,674399,5,,52.19199300000000,14/00728/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21844900000000,WR1 2DP,2014-07-29,fhrs_3_en-GB,3,,FHRS,10
-356064,8 Laslett Street,Worcester,,,Kismat Balti,Takeaway/sandwich shop,7844,10,,685581,10,,52.20228200000000,WO/03340/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21140300000000,WR3 8JS,2013-10-10,fhrs_3_en-GB,3,,FHRS,10
-356065,32 Barbourne Road,Barbourne,Worcester,,Knights Rest,Hotel/bed & breakfast/guest house,7842,0,,674438,0,,52.20285700000000,WO/00254/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22581800000000,WR1 1HU,2008-08-04,fhrs_5_en-GB,5,,FHRS,5
-356066,30 The Tything,Worcester,,,Lamb & Flag Inn,Pub/bar/nightclub,7843,0,,674631,5,,52.19842800000000,WO/02864/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22442100000000,WR1 1JL,2009-01-07,fhrs_5_en-GB,5,,FHRS,5
-356067,30 The Tything,Worcester,,,Lamb & Flag Inn,Pub/bar/nightclub,7843,0,,674631,5,,52.19842800000000,WO/02864/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22442100000000,WR1 1JL,2009-01-07,fhrs_5_en-GB,5,,FHRS,5
-356068,High Street,Worcester,,,Lannies Catering,Mobile caterer,7846,0,,685685,0,,52.19242000000000,WO/05300/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22061600000000,WR1 2QQ,2012-09-27,fhrs_5_en-GB,5,,FHRS,0
-356069,Latimer Court Care Home,Darwin Avenue,Worcester,,Latimer Court Care Home.,Hospitals/Childcare/Caring Premises,5,0,,674749,0,,52.19503100000000,WO/05072/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18715600000000,WR5 1SP,2013-04-04,fhrs_5_en-GB,5,,FHRS,0
-356070,6 Barbourne Road,Barbourne,Worcester,,Lily B's Sandwich Bar,Takeaway/sandwich shop,7844,0,,674437,5,,52.20169000000000,WO/00230/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22525600000000,WR1 1HT,2012-10-02,fhrs_5_en-GB,5,,FHRS,5
-356071,Unit 2 - Little Acorns Worcester Ch,Everoak Industrial Estate,Bromyard Road,Worcester,Little Acorns,Hospitals/Childcare/Caring Premises,5,5,,674699,5,,52.18746900000000,WO/03938/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24635000000000,WR2 5HP,2014-09-22,fhrs_5_en-GB,5,,FHRS,0
-356072,10-12 Wakeman Street,Barbourne,Worcester,,Little Peoples Nursery,Hospitals/Childcare/Caring Premises,5,5,,674777,5,,52.20810500000000,WO/05423/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22253800000000,WR3 8BQ,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-356073,St Martins Church Parish Centre,London Road,Worcester,Worcestershire,London Road Playgroup & Pre-School,Hospitals/Childcare/Caring Premises,5,0,,674639,0,,52.18494900000000,WO/02934/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20525000000000,WR5 2ED,2011-09-26,fhrs_5_en-GB,5,,FHRS,0
-356074,St Martins Church Parish Centre,London Road,Worcester,Worcestershire,London Road Playgroup & Pre-School,Hospitals/Childcare/Caring Premises,5,0,,674639,0,,52.18494900000000,WO/02934/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20525000000000,WR5 2ED,2011-09-26,fhrs_5_en-GB,5,,FHRS,0
-356075,25-27 Lowesmoor,Worcester,,,Lowesmoor Fish Bar,Takeaway/sandwich shop,7844,10,,674541,10,,52.19518700000000,WO/01610/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21722100000000,WR1 2RS,2014-09-01,fhrs_4_en-GB,4,,FHRS,0
-356076,Cosgrove Close,Warndon,Worcester,,Luckys Lunch Box,Mobile caterer,7846,5,,674767,5,,52.20151800000000,WO/05297/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21132600000000,WR3 8JA,2013-11-12,fhrs_4_en-GB,4,,FHRS,10
-356077,134 Ombersley Road,Worcester,Worcestershire,,Luigi's Pizza And Fish Bar,Takeaway/sandwich shop,7844,5,,729409,5,,52.21445400000000,14/01269/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22615500000000,WR3 7HA,2014-11-07,fhrs_4_en-GB,4,,FHRS,10
-356078,Worcester Baptist Church,Sansome Walk,Worcester,Worcestershire,Luncheon Club,Other catering premises,7841,5,,674582,5,,,WO/02225/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,,2014-10-07,fhrs_5_en-GB,5,,FHRS,5
-356079,Unit 6 Lyppard Centre,Ankerage Green,Worcester,,Lyppard Fryer,Takeaway/sandwich shop,7844,5,,674751,5,,52.20001700000000,WO/05089/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17794500000000,WR4 0DZ,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-356080,Withincroft,Ankerage Green,Worcester,,Lyppard Grange Tavern,Pub/bar/nightclub,7843,10,,674752,10,,52.19965000000000,WO/05092/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17741600000000,WR4 0ND,2014-12-03,fhrs_3_en-GB,3,,FHRS,5
-356081,15 St Swithins Street,Worcester,,,M & M Meats,Manufacturers/packers,7839,5,,674618,5,,52.19275300000000,WO/02727/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22063200000000,WR1 2PY,2014-10-29,fhrs_5_en-GB,5,,FHRS,5
-356082,12 Cranham Drive,Warndon,Worcester,,Ma Baker's,Manufacturers/packers,7839,10,,674487,5,,52.20989300000000,WO/00858/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18666200000000,WR4 9PA,2014-12-17,fhrs_3_en-GB,3,,FHRS,10
-356083,44 Friar Street,Worcester,,,Mac And Jacs Deli-Cafe,Retailers - other,4613,0,,674520,5,,52.18937600000000,WO/01243/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2011-06-14,fhrs_5_en-GB,5,,FHRS,5
-356084,Deansway,Worcester,Worcestershire,,Maggs Day Centre,Hospitals/Childcare/Caring Premises,5,0,,674494,5,,52.18940700000000,WO/00911/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22130300000000,WR1 2JD,2010-06-09,fhrs_5_en-GB,5,,FHRS,5
-356085,Tudor Way Childrens Centre At,Dines Green Primary School,Tudor Way,Worcester,Magic Moments,Hospitals/Childcare/Caring Premises,5,5,,674686,5,,52.18938900000000,WO/03664/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.25648300000000,WR2 5QH,2013-06-17,fhrs_5_en-GB,5,,FHRS,0
-356086,Tudor Way Childrens Centre At,Dines Green Primary School,Tudor Way,Worcester,Magic Moments,Hospitals/Childcare/Caring Premises,5,5,,674686,5,,52.18938900000000,WO/03664/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.25648300000000,WR2 5QH,2013-06-17,fhrs_5_en-GB,5,,FHRS,0
-356087,Malvern Road,Lower Wick,Worcester,,Manor Farm,Pub/bar/nightclub,7843,5,,674709,5,,52.17251300000000,WO/04089/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23566600000000,WR2 4BS,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-356088,49 Canada Way,Lower Wick,Worcester,,Maple Leaf Inn,Pub/bar/nightclub,7843,10,,674658,15,,52.17383300000000,WO/03300/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24123000000000,WR2 4XA,2015-01-02,fhrs_2_en-GB,2,,FHRS,15
-356089,138 Monarch Drive,Worcester,,,Marco's Fish Bar,Takeaway/sandwich shop,7844,5,,674558,5,,52.20365400000000,WO/01838/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24529800000000,WR2 6EU,2013-09-30,fhrs_5_en-GB,5,,FHRS,5
-356090,Marks & Spencer,39 High Street,Worcester,,Marks & Spencer - Cafe,Restaurant/Cafe/Canteen,1,0,,674528,5,,52.19169300000000,WO/01371/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22013000000000,WR1 2QN,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-356091,Rainbow Hill,Worcester,,,Masonic Hall,Pub/bar/nightclub,7843,5,,674535,5,,52.19780100000000,WO/01520/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21329800000000,WR3 8LX,2014-04-23,fhrs_5_en-GB,5,,FHRS,5
-356092,33-35 Broad Street,Worcester,,,Massalla Lounge,Restaurant/Cafe/Canteen,1,5,,674469,5,,,WO/00499/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR1 5NH,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-356093,17 The Foregate,Worcester,Worcestershire,,McDonalds,Restaurant/Cafe/Canteen,1,5,,674505,5,,52.19389200000000,WO/01059/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22180800000000,WR1 3QF,2014-10-31,fhrs_5_en-GB,5,,FHRS,5
-356094,Elgar Retail Park,Blackpole Road,Worcester,Worcestershire,McDonalds,Restaurant/Cafe/Canteen,1,0,,674753,5,,52.21081300000000,WO/05104/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20166700000000,WR3 8HP,2014-09-18,fhrs_5_en-GB,5,,FHRS,5
-356095,Mcdonalds,37 Hylton Road,Worcester,Worcestershire,McDonalds,Restaurant/Cafe/Canteen,1,0,,674652,0,,52.19347600000000,WO/03190/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23274900000000,WR2 5JS,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-356096,31 Broad Street,Worcester,,,Mediterranean Fish Bar,Restaurant/Cafe/Canteen,1,10,,674468,5,,52.19241300000000,WO/00494/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22466800000000,WR1 3NH,2014-09-24,fhrs_4_en-GB,4,,FHRS,0
-356097,41 St Johns,Worcester,Worcestershire,,Minchan Oriental Buffet,Restaurant/Cafe/Canteen,1,5,,697326,10,,52.18756500000000,14/00810/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23482400000000,WR2 5AG,2014-06-04,fhrs_4_en-GB,4,,FHRS,5
-356098,Angel Place,Worcester,Worcestershire,,Mode,Pub/bar/nightclub,7843,5,,674775,5,,52.19397900000000,WO/05413/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22360800000000,WR1 3QN,2013-08-20,fhrs_5_en-GB,5,,FHRS,5
-356099,Blackpole Trading Estate West,Worcester,,,Montana Cafe,Mobile caterer,7846,0,,674754,10,,,WO/05112/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR3 8TS,2013-01-07,fhrs_4_en-GB,4,,FHRS,10
-356100,67 Wylds Lane,Worcester,Worcestershire,,Montis,Takeaway/sandwich shop,7844,10,,707342,10,,52.18892700000000,14/00863/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21375300000000,WR5 1DF,2014-06-13,fhrs_3_en-GB,3,,FHRS,10
-356101,399 Astwood Road,Worcester,Worcestershire,,Mr Carl Andrew Sampson,Mobile caterer,7846,5,,685266,5,,52.21078800000000,13/00032/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20545700000000,WR3 8HB,2015-01-19,fhrs_4_en-GB,4,,FHRS,10
-356102,48 Lowesmoor,Worcester,,,Munchies,Takeaway/sandwich shop,7844,5,,674727,10,,52.19440300000000,WO/04486/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21774400000000,WR1 2SG,2014-05-19,fhrs_4_en-GB,4,,FHRS,5
-356103,29 The Cross,Worcester,Worcestershire,,My Coffee,Restaurant/Cafe/Canteen,1,10,,674390,10,,52.19324500000000,13/00366/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22167300000000,WR1 3PZ,2013-12-06,fhrs_3_en-GB,3,,FHRS,10
-356104,The Commandery,Sidbury,Worcester,Worcestershire,My Coffee @ The Commandery,Restaurant/Cafe/Canteen,1,5,,697328,5,,52.18771600000000,14/00922/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21709700000000,WR1 2HU,2014-07-30,fhrs_5_en-GB,5,,FHRS,5
-356105,55-59 Friar Street,Worcester,,,Nando's,Restaurant/Cafe/Canteen,1,0,,674698,0,,52.18937600000000,WO/03923/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2013-03-14,fhrs_5_en-GB,5,,FHRS,0
-356106,29 St Johns,Worcester,,,Narraways Butcher,Manufacturers/packers,7839,10,,674673,10,,52.18756500000000,WO/03408/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23482400000000,WR2 5AG,2013-08-09,fhrs_3_en-GB,3,,FHRS,10
-356107,29 St Johns,Worcester,,,Narraways Butcher,Manufacturers/packers,7839,10,,674673,10,,52.18756500000000,WO/03408/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23482400000000,WR2 5AG,2013-08-09,fhrs_3_en-GB,3,,FHRS,10
-356108,129 Astwood Road,Worcester,Worcestershire,,New Chequers Inn,Pub/bar/nightclub,7843,10,,674433,10,,52.20785900000000,WO/00190/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20462400000000,WR3 8HD,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-356109,Whittington Road,Spetchley,Worcester,,New College Worcester,School/college/university,7845,5,,674642,5,,52.17934000000000,WO/03008/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18924000000000,WR5 2JX,2015-01-08,fhrs_5_en-GB,5,,FHRS,5
-356110,Ombersley Road,Worcester,,,New Inn,Pub/bar/nightclub,7843,5,,674576,0,,52.22363900000000,WO/02015/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22801700000000,WR3 7DH,2015-01-07,fhrs_5_en-GB,5,,FHRS,5
-356111,40 Upper Tything,Worcester,,,New Rooster Chinese Takeaway,Takeaway/sandwich shop,7844,10,,685593,10,,52.20060200000000,WO/03426/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22532400000000,WR1 1JZ,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-356112,40 Upper Tything,Worcester,,,New Rooster Chinese Takeaway,Takeaway/sandwich shop,7844,10,,685593,10,,52.20060200000000,WO/03426/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22532400000000,WR1 1JZ,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-356113,41 Newtown Road,Worcester,Worcestershire,,Newtown Cantonese Takeaway,Takeaway/sandwich shop,7844,10,,674565,10,,52.19489700000000,WO/01921/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20295500000000,WR5 1HG,2012-12-07,fhrs_3_en-GB,3,,FHRS,10
-356114,19 Old Northwick Lane,Northwick,Worcester,,Northwick Grange,Hospitals/Childcare/Caring Premises,5,0,,674571,0,,52.21940600000000,WO/01983/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23616300000000,WR3 7NB,2014-07-22,fhrs_5_en-GB,5,,FHRS,5
-356115,Northwick Road,Worcester,,,Northwick Manor Primary School,School/college/university,7845,0,,674567,5,,52.21364800000000,WO/01964/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22902000000000,WR3 7EA,2015-01-29,fhrs_5_en-GB,5,,FHRS,0
-356116,Perdiswell Park,Droitwich Road,Worcester,Worcestershire,Nuffield Health,Restaurant/Cafe/Canteen,1,5,,685287,5,,,14/00580/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,,2014-06-11,fhrs_5_en-GB,5,,FHRS,5
-356117,Spetchley Road,Worcester,Worcestershire,,Nunnery Wood High School,School/college/university,7845,0,,674568,0,,52.18403100000000,WO/01971/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18997600000000,WR5 2LT,2013-03-21,fhrs_5_en-GB,5,,FHRS,0
-356118,Spetchley Road,Worcester,Worcestershire,,Nunnery Wood High School,School/college/university,7845,0,,674568,0,,52.18403100000000,WO/01971/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18997600000000,WR5 2LT,2013-03-21,fhrs_5_en-GB,5,,FHRS,0
-356119,Spetchley Road,Worcester,,,Nunnery Wood School,School/college/university,7845,0,,685509,0,,52.18403200000000,WO/02545/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18997600000000,WR5 2LT,2013-03-21,fhrs_5_en-GB,5,,FHRS,0
-356120,Spetchley Road,Worcester,,,Oak Apple Inn,Pub/bar/nightclub,7843,10,,674653,5,,52.18229900000000,WO/03192/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18850600000000,WR5 2NL,2013-04-26,fhrs_3_en-GB,3,,FHRS,10
-356121,Spetchley Road,Worcester,,,Oak Apple Inn,Pub/bar/nightclub,7843,10,,674653,5,,52.18229900000000,WO/03192/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18850600000000,WR5 2NL,2013-04-26,fhrs_3_en-GB,3,,FHRS,10
-356122,Foregate Street,Worcester,,,Odeon Cinema,Retailers - other,4613,0,,674510,5,,52.19488000000000,WO/01170/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22229500000000,WR1 1DX,2014-07-02,fhrs_5_en-GB,5,,FHRS,0
-356123,Odeon Cinema,52 Foregate Street,Worcester,,Odeon Costa,Restaurant/Cafe/Canteen,1,5,,685393,10,,52.19488000000000,WO/01172/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22229600000000,WR1 1DX,2014-07-02,fhrs_4_en-GB,4,,FHRS,5
-356124,North Parade,Worcester,Worcestershire,,Old Rectifying House,Pub/bar/nightclub,7843,10,,674566,10,,52.19182600000000,WO/01945/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22598200000000,WR1 3NN,2014-05-02,fhrs_3_en-GB,3,,FHRS,10
-356125,Oldbury Road,St Johns,Worcester,,Oldbury Park Junior School,School/college/university,7845,0,,674570,5,,52.19522600000000,WO/01979/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23880000000000,WR2 6AA,2013-03-21,fhrs_5_en-GB,5,,FHRS,0
-356126,Ombersley Road,Worcester,,,Ombersley Road Methodist Church,Other catering premises,7841,0,,674572,5,,52.20827700000000,WO/01985/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22675300000000,WR3 7ET,2013-02-27,fhrs_5_en-GB,5,,FHRS,0
-356127,6-8 St Nicholas Street,Worcester,,,O'Neills/Reflex,Pub/bar/nightclub,7843,0,,674615,0,,52.19421900000000,WO/02690/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22011300000000,WR1 1UN,2014-12-15,fhrs_5_en-GB,5,,FHRS,5
-356128,272 Bath Road,Worcester,,,Orient Express,Takeaway/sandwich shop,7844,10,,674451,5,,52.17700400000000,WO/00332/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21423700000000,WR5 3ES,2014-07-10,fhrs_4_en-GB,4,,FHRS,5
-356129,2-4 Trinity Street,Worcester,,,Paisleys Tasty Catering,Takeaway/sandwich shop,7844,0,,674624,5,,52.19313100000000,WO/02785/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22015100000000,WR1 2PW,2013-01-10,fhrs_5_en-GB,5,,FHRS,5
-356130,79 Ombersley Road,Worcester,,,Pals Residential Care,Hospitals/Childcare/Caring Premises,5,5,,674573,5,,52.21205200000000,WO/01997/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22691900000000,WR3 7BT,2014-07-21,fhrs_4_en-GB,4,,FHRS,10
-356131,40-41 New Street,Worcester,,,Pan Pizza And Curry House,Takeaway/sandwich shop,7844,10,,674562,10,,52.19189300000000,WO/01901/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21874100000000,WR1 2DL,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-356132,8 Bull Ring,Worcester,Worcestershire,,Papa John's Pizza,Takeaway/sandwich shop,7844,5,,685298,5,,52.18856700000000,14/00942/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23294300000000,WR2 5AA,2014-07-14,fhrs_5_en-GB,5,,FHRS,5
-356133,Nash House,6-8 New Street,Worcester,Worcestershire,Papa's Caffe,Restaurant/Cafe/Canteen,1,5,,674385,5,,52.19123700000000,13/00280/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21860600000000,WR1 2DN,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-356134,32 Lowesmoor,Worcester,,,Paracana Coffee Shop,Restaurant/Cafe/Canteen,1,10,,674542,10,,52.19440300000000,WO/01615/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21774400000000,WR1 2SG,2014-06-27,fhrs_3_en-GB,3,,FHRS,10
-356135,Unit 4,The Old Goods Yard,Sherriff Street,Worcester,Park And Shop,Retailers - other,4613,5,,674396,15,,52.19486300000000,14/00590/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20699300000000,WR4 9AB,2013-09-05,fhrs_2_en-GB,2,,FHRS,0
-356136,51 The Shambles,Worcester,,,Parsons Bakery,Retailers - other,4613,0,,674588,5,,52.19200900000000,WO/02276/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21945800000000,WR1 2RE,2012-09-20,fhrs_5_en-GB,5,,FHRS,5
-356137,56 St Johns,Worcester,,,Pasha Indian Restaurant,Restaurant/Cafe/Canteen,1,0,,674610,5,,52.18759100000000,WO/02628/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23543900000000,WR2 5AJ,2012-11-15,fhrs_5_en-GB,5,,FHRS,5
-356138,56 St Johns,Worcester,,,Pasha Indian Restaurant,Restaurant/Cafe/Canteen,1,0,,674610,5,,52.18759100000000,WO/02628/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23543900000000,WR2 5AJ,2012-11-15,fhrs_5_en-GB,5,,FHRS,5
-356139,13 Chepstow Avenue,Worcester,Worcestershire,,Pat Elliott,Other catering premises,7841,,,719774,,,52.21064400000000,14/00320/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17789900000000,WR4 0EF,2014-02-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-356140,50 The Tything,Worcester,,,Peppers,Restaurant/Cafe/Canteen,1,20,,674675,15,,52.19741300000000,WO/03421/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22380100000000,WR1 1JT,2015-01-15,fhrs_1_en-GB,1,,FHRS,15
-356141,Perdiswell House,Droitwich Road,Worcester,Worcestershire,Perdiswell,Pub/bar/nightclub,7843,0,,674498,5,,52.21552500000000,WO/00991/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22073100000000,WR3 7JU,2014-10-24,fhrs_4_en-GB,4,,FHRS,10
-356142,Bilford Road,Worcester,,,Perdiswell Leisure Centre,Other catering premises,7841,5,,674646,5,,52.21301600000000,WO/03079/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21164400000000,WR3 8DX,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-356143,Perdiswell Park,Droitwich Road,Worcester,Worcestershire,Perdiswell Young Peoples Leisure Club,Other catering premises,7841,5,,674500,5,,52.21585700000000,WO/00996/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21632600000000,WR3 7SN,2014-10-28,fhrs_5_en-GB,5,,FHRS,5
-356144,13 St Johns,Worcester,Worcestershire,,Perfect Pizza,Takeaway/sandwich shop,7844,5,,674394,5,,52.18838500000000,14/00043/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23381900000000,WR2 5AE,2014-06-10,fhrs_4_en-GB,4,,FHRS,10
-356145,11-13 St Johns,Worcester,,,Perfect Pizza.,Takeaway/sandwich shop,7844,0,,685514,5,,52.18838500000000,WO/02589/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23381900000000,WR2 5AE,2011-12-14,fhrs_4_en-GB,4,,FHRS,10
-356146,Perry Manor,Charles Hastings Way,Worcester,,Perry Manor Care Home,Hospitals/Childcare/Caring Premises,5,5,,715286,5,,,14/00575/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR5 1UR,2014-07-02,fhrs_5_en-GB,5,,FHRS,0
-356147,16 New Street,Worcester,,,Phat Nancy,Takeaway/sandwich shop,7844,10,,685585,10,,52.19199300000000,WO/03360/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21844900000000,WR1 2DP,2014-06-25,fhrs_3_en-GB,3,,FHRS,10
-356148,122 Bromyard Road,St Johns,Worcester,,Phoenix House/Cedar Gardens,Hospitals/Childcare/Caring Premises,5,10,,674474,10,,52.18794600000000,WO/00599/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24174500000000,WR2 5DJ,2013-11-20,fhrs_3_en-GB,3,,FHRS,10
-356149,10 Belmont Walk,Droitwich Road,Worcester,,Piccadilly Whip,Mobile caterer,7846,5,,674701,5,,52.21077000000000,WO/03951/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22512700000000,WR3 7HY,2013-08-28,fhrs_5_en-GB,5,,FHRS,5
-356150,3A Pump Street,Worcester,Worcestershire,,Pingan Oriental Ltd,Other catering premises,7841,10,,685296,10,,52.19096500000000,14/00830/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21974600000000,WR1 2QX,2014-12-19,fhrs_3_en-GB,3,,FHRS,5
-356151,75 Wylds Lane,Worcester,,,Pink Garlic,Takeaway/sandwich shop,7844,5,,674677,10,,52.18892700000000,WO/03438/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21375300000000,WR5 1DF,2014-03-27,fhrs_4_en-GB,4,,FHRS,5
-356152,Malvern Road,St Johns,Worcester,,Pitmaston House,Other catering premises,7841,0,,674551,0,,52.18272300000000,WO/01766/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23724100000000,WR2 4ZG,2009-09-07,fhrs_5_en-GB,5,,FHRS,0
-356153,Malvern Road,Worcester,Worcestershire,,Pitmaston Primary School,School/college/university,7845,0,,722343,5,,52.18284800000000,14/00562/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23785600000000,WR2 4ZF,2014-03-18,fhrs_5_en-GB,5,,FHRS,0
-356154,Cosgrove Close,Blackpole,Worcester,,Pitstop@bristol Streeet Motors,Restaurant/Cafe/Canteen,1,0,,674710,5,,52.21524200000000,WO/04093/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19783800000000,WR3 8UA,2010-08-12,fhrs_5_en-GB,5,,FHRS,0
-356155,28 Cranham Drive,Worcester,,,Pizza Allegro,Takeaway/sandwich shop,7844,0,,674488,0,,52.20989300000000,WO/00866/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18666200000000,WR4 9PA,2013-03-08,fhrs_5_en-GB,5,,FHRS,0
-356156,1-3 College Street,Worcester,,,Pizza Express,Restaurant/Cafe/Canteen,1,0,,674481,5,,52.18924000000000,WO/00783/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21935700000000,WR1 2LU,2013-01-23,fhrs_5_en-GB,5,,FHRS,5
-356157,Shrub Hill Retail Park,Pheasant Street,Worcester,,Pizza Hut,Restaurant/Cafe/Canteen,1,5,,685679,5,,52.19311400000000,WO/05183/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21465100000000,WR1 2DD,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-356158,Unit 4 - Pizza Hut,Brindley Road,Worcester,Worcestershire,Pizza Hut Delivery,Takeaway/sandwich shop,7844,5,,674757,5,,52.21329600000000,WO/05184/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17833400000000,WR4 9FB,2014-09-30,fhrs_5_en-GB,5,,FHRS,5
-356159,Wolseley UK,P O Box 33,Shire Business Park,Wainwright Road,Plumb Centre (Catermasters),Restaurant/Cafe/Canteen,1,0,,674776,5,,,WO/05422/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR4 9WJ,2012-12-11,fhrs_5_en-GB,5,,FHRS,0
-356160,Wolseley UK,P O Box 33,Shire Business Park,Wainwright Road,Plumb Centre (Catermasters),Restaurant/Cafe/Canteen,1,0,,674776,5,,,WO/05422/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR4 9WJ,2012-12-11,fhrs_5_en-GB,5,,FHRS,0
-356161,1A Vicar Street,Rainbow Hill,Worcester,,Po-On Chinese Takeaway,Takeaway/sandwich shop,7844,0,,674638,5,,52.20151200000000,WO/02929/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20948200000000,WR3 8EU,2011-03-28,fhrs_5_en-GB,5,,FHRS,0
-356162,1A Vicar Street,Rainbow Hill,Worcester,,Po-On Chinese Takeaway,Takeaway/sandwich shop,7844,0,,674638,5,,52.20151200000000,WO/02929/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20948200000000,WR3 8EU,2011-03-28,fhrs_5_en-GB,5,,FHRS,0
-356163,2 Alexander Road,St Johns,Worcester,,Poppins Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,674427,5,,52.18461200000000,WO/00109/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23227800000000,WR2 4AJ,2015-01-23,fhrs_5_en-GB,5,,FHRS,5
-356164,18 The Foregate,Worcester,Worcestershire,,Poppins Restaurant,Restaurant/Cafe/Canteen,1,5,,674506,5,,52.19389200000000,WO/01060/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22180800000000,WR1 3QF,2013-12-19,fhrs_5_en-GB,5,,FHRS,5
-356165,18 The Foregate,Worcester,Worcestershire,,Poppins Restaurant,Restaurant/Cafe/Canteen,1,5,,674506,5,,52.19389200000000,WO/01060/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22180800000000,WR1 3QF,2013-12-19,fhrs_5_en-GB,5,,FHRS,5
-356166,Portobello Inn,139 Bransford Road,Worcester,Worcestershire,Portobello,Pub/bar/nightclub,7843,10,,718537,10,,52.18186900000000,14/01245/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24614400000000,WR2 4EZ,2014-11-25,fhrs_3_en-GB,3,,FHRS,10
-356167,The Postal Order,18 Foregate Street,Worcester,Worcestershire,Postal Order,Pub/bar/nightclub,7843,5,,674512,5,,52.19561800000000,WO/01198/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22164100000000,WR1 1DN,2014-12-03,fhrs_5_en-GB,5,,FHRS,5
-356168,The Old Pump House,Waterworks Road,Barbourne,Worcester,Pump House Environment Centre,Other catering premises,7841,5,,674645,5,,52.20644500000000,WO/03047/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23470400000000,WR1 3EZ,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-356169,F15-16 Friary Walk,Crowngate,Worcester,,Quinns,Restaurant/Cafe/Canteen,1,10,,674693,5,,52.19312400000000,WO/03823/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22395500000000,WR1 3LE,2014-01-07,fhrs_4_en-GB,4,,FHRS,5
-356170,24 Astwood Road,Worcester,,,Rainbow Hill Chippy,Takeaway/sandwich shop,7844,5,,685315,10,,52.20219600000000,WO/00171/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20901700000000,WR3 8ET,2014-10-24,fhrs_4_en-GB,4,,FHRS,5
-356171,Rainbow Hill Centre,12 Astwood Road,Worcester,,Rainbow Hill Lunch Club,Pub/bar/nightclub,7843,0,,674759,0,,52.20219600000000,WO/05212/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20901700000000,WR3 8ET,2011-10-06,fhrs_5_en-GB,5,,FHRS,5
-356172,138 Ombersley Road,Worcester,,,Rainbow Take Away,Takeaway/sandwich shop,7844,5,,674574,10,,52.21445400000000,WO/02005/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22615500000000,WR3 7HA,2013-07-10,fhrs_4_en-GB,4,,FHRS,5
-356173,27 The Tything,Worcester,Worcestershire,,Rajkot,Restaurant/Cafe/Canteen,1,20,,674630,15,,52.19842800000000,WO/02859/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22442100000000,WR1 1JL,2014-09-24,fhrs_1_en-GB,1,,FHRS,15
-356174,Ronkswood Community Centre,Canterbury Road,Worcester,,Rascals,Hospitals/Childcare/Caring Premises,5,0,,674641,5,,52.19005100000000,WO/02997/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19247400000000,WR5 1PJ,2013-02-27,fhrs_5_en-GB,5,,FHRS,5
-356175,Hindlip Lane,Worcester,,,Raven Meadow Golf Club,Pub/bar/nightclub,7843,5,,674706,5,,52.21849000000000,WO/04033/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19666700000000,WR3 8SG,2014-10-23,fhrs_4_en-GB,4,,FHRS,10
-356176,Midhurst Close,London Road,Worcester,,Red Hill Primary School,School/college/university,7845,0,,685454,0,,52.18357600000000,WO/01824/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20435200000000,WR5 2HX,2010-11-23,fhrs_5_en-GB,5,,FHRS,0
-356177,Carnforth Drive,Warndon,Worcester,,Regency High School,School/college/university,7845,5,,674643,5,,52.20853400000000,WO/03020/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19353500000000,WR4 9JL,2014-11-10,fhrs_5_en-GB,5,,FHRS,0
-356178,Turnpike Close,Oldbury Road,Worcester,,Regency High School-St Johns Campus,School/college/university,7845,0,,674626,5,,52.19679200000000,WO/02814/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23762300000000,WR2 6AB,2009-02-04,fhrs_5_en-GB,5,,FHRS,0
-356179,School Road,St Johns,Worcester,,Regent House,Hospitals/Childcare/Caring Premises,5,0,,674583,5,,52.18567500000000,WO/02230/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24013800000000,WR2 4HF,2014-12-15,fhrs_5_en-GB,5,,FHRS,5
-356180,33 St Johns,Worcester,Worcestershire,,Relish,Takeaway/sandwich shop,7844,5,,685270,5,,52.18756500000000,13/00289/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23482400000000,WR2 5AG,2015-01-20,fhrs_5_en-GB,5,,FHRS,5
-356181,85 Bath Road,Worcester,,,Residential Care Home,Hospitals/Childcare/Caring Premises,5,0,,674448,0,,52.18355200000000,WO/00315/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21758800000000,WR5 3AE,2010-05-13,fhrs_5_en-GB,5,,FHRS,0
-356182,Unit 1A,Shrub Hill Industrial Estate,Worcester,Worcestershire,Rileys Sports Bars,Pub/bar/nightclub,7843,0,,674595,10,,52.19507800000000,WO/02402/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21221600000000,WR4 9EL,2013-02-20,fhrs_4_en-GB,4,,FHRS,5
-356183,35 Lichfield Avenue,Ronkswood,Worcester,,Ronkswood Fish Bar,Takeaway/sandwich shop,7844,20,,674536,10,,52.19215900000000,WO/01543/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19018700000000,WR5 1NW,2014-12-04,fhrs_1_en-GB,1,,FHRS,10
-356184,157 Rose Avenue,Tolladine,Worcester,,Rose Avenue Fryer,Takeaway/sandwich shop,7844,10,,674669,15,,52.19911600000000,WO/03387/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20154100000000,WR4 9QN,2014-11-27,fhrs_2_en-GB,2,,FHRS,10
-356185,Upper Tything,Worcester.,,,Royal Grammar School (Chartwells Catering),School/college/university,7845,0,,674694,0,,52.20070100000000,WO/03840/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22484200000000,WR1 1HP,2014-11-20,fhrs_5_en-GB,5,,FHRS,5
-356186,Worcestershire Royal Hospital,Charles Hastings Way,Worcester,Worcestershire,Royal Voluntary Service,Restaurant/Cafe/Canteen,1,5,,730859,0,,52.19121100000000,14/01156/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18115700000000,WR5 1DD,2015-01-16,fhrs_5_en-GB,5,,FHRS,5
-356187,15 New Street,Worcester,,,Saffrons Restaurant,Restaurant/Cafe/Canteen,1,5,,674560,5,,52.19199300000000,WO/01887/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21844900000000,WR1 2DP,2014-12-15,fhrs_5_en-GB,5,,FHRS,5
-356188,The Salvation Army,The Trinity,Worcester,Worcestershire,Salvation Army,Other catering premises,7841,0,,685534,0,,52.19325800000000,WO/02803/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21942000000000,WR1 2PN,2011-03-30,fhrs_5_en-GB,5,,FHRS,0
-356189,The Salvation Army,The Trinity,Worcester,Worcestershire,Salvation Army,Other catering premises,7841,0,,685534,0,,52.19325800000000,WO/02803/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21942000000000,WR1 2PN,2011-03-30,fhrs_5_en-GB,5,,FHRS,0
-356190,17 New Street,Worcester,,,Scoffs,Takeaway/sandwich shop,7844,5,,674665,5,,52.19199300000000,WO/03361/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21844900000000,WR1 2DP,2013-11-01,fhrs_5_en-GB,5,,FHRS,5
-356191,18 Mealcheapen Street,Worcester,,,Scoffs Street Food,Takeaway/sandwich shop,7844,5,,674552,0,,52.19273700000000,WO/01810/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21930100000000,WR1 2DQ,2013-03-29,fhrs_5_en-GB,5,,FHRS,0
-356192,157 London Road,Worcester,,,Seacrest Fish Bar,Takeaway/sandwich shop,7844,5,,674539,5,,52.18495000000000,WO/01581/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20525000000000,WR5 2ED,2013-11-04,fhrs_5_en-GB,5,,FHRS,0
-356193,Bosch Thermotecnology Uk Ltd,Cotswold Way,Worcester,Worcestershire,Servest @ Bosch Thermotechnology Ltd,Restaurant/Cafe/Canteen,1,0,,697327,5,,52.21541100000000,14/00901/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18242600000000,WR4 9SW,2014-07-18,fhrs_5_en-GB,5,,FHRS,5
-356194,Tolladine Road,Worcester,,,Severn Valley Catering Ltd,Mobile caterer,7846,0,,685504,0,,52.19662800000000,WO/02355/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21084900000000,WR4 9ZR,2010-08-19,fhrs_5_en-GB,5,,FHRS,5
-356195,Tolladine Road,Worcester,,,Severn Valley Catering Ltd,Mobile caterer,7846,0,,685504,0,,52.19662800000000,WO/02355/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21084900000000,WR4 9ZR,2010-08-19,fhrs_5_en-GB,5,,FHRS,5
-356196,229 London Road,Worcester,,,Shaw Red Hill Care Centre,Hospitals/Childcare/Caring Premises,5,5,,674737,5,,52.18231600000000,WO/04808/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19444500000000,WR5 2JG,2014-11-14,fhrs_4_en-GB,4,,FHRS,10
-356197,Angel Place,Worcester,,,Shipleys,Restaurant/Cafe/Canteen,1,5,,685312,10,,52.19378400000000,WO/00136/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22207100000000,WR1 3QT,2013-09-30,fhrs_4_en-GB,4,,FHRS,5
-356198,Perdiswell Primary School,Bilford Road,Worcester,,Shire Services @ Perdiswell Primary School,School/college/university,7845,0,,685331,0,,52.21287500000000,WO/00361/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21951700000000,WR3 8QA,2015-01-16,fhrs_5_en-GB,5,,FHRS,5
-356199,Perrywood School,St Albans Close,Worcester,Worcestershire,Shire Services @ Perrywood School,School/college/university,7845,5,,707340,0,,52.19344000000000,14/00309/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19266400000000,WR5 1PP,2014-01-24,fhrs_5_en-GB,5,,FHRS,0
-356200,38 Barbourne Road,Barbourne,Worcester,,Shrubbery Guest House,Hotel/bed & breakfast/guest house,7842,0,,674440,5,,52.20285700000000,WO/00258/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22581800000000,WR1 1HU,2010-02-10,fhrs_5_en-GB,5,,FHRS,0
-356201,23-31 Shrubbery Avenue,Worcester,,,Shrubbery Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,674593,5,,52.20304900000000,WO/02388/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22422400000000,WR1 1QN,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-356202,27 College Street,Worcester,,,Siam Smile,Restaurant/Cafe/Canteen,1,5,,674482,5,,52.18871000000000,WO/00791/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21929600000000,WR1 2LS,2013-11-04,fhrs_5_en-GB,5,,FHRS,0
-356203,29 Friar Street,Worcester,,,Singapore Restaurant,Restaurant/Cafe/Canteen,1,0,,674517,5,,52.18937600000000,WO/01233/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2013-03-28,fhrs_5_en-GB,5,,FHRS,5
-356204,The Slug And Lettuce,The Cross,Worcester,Worcestershire,Slug & Lettuce,Pub/bar/nightclub,7843,5,,674493,10,,52.19333600000000,WO/00902/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22111800000000,WR1 3PY,2014-11-27,fhrs_4_en-GB,4,,FHRS,5
-356205,Worcestershire Royal Hospital,Charles Hastings Way,Worcester,,Smileys Creche Ltd,Hospitals/Childcare/Caring Premises,5,0,,685676,5,,52.19121100000000,WO/05128/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18115700000000,WR5 1DD,2011-03-01,fhrs_5_en-GB,5,,FHRS,5
-356206,41A The Tything,Worcester,Worcestershire,,Snack Hungary Ltd,Restaurant/Cafe/Canteen,1,5,,674393,5,,52.19741300000000,14/00032/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22380100000000,WR1 1JT,2014-06-11,fhrs_4_en-GB,4,,FHRS,10
-356207,2 Kings Court (Creoda House),Charles Hastings Way,Worcester,,Sodexo Catering,Restaurant/Cafe/Canteen,1,0,,674721,0,,52.19165500000000,WO/04374/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17906700000000,WR99 1AD,2011-10-06,fhrs_5_en-GB,5,,FHRS,0
-356208,101 London Road,Worcester,,,South Hayes Care Home,Hospitals/Childcare/Caring Premises,5,0,,674537,5,,52.18610000000000,WO/01566/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21050700000000,WR5 2DZ,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-356209,Henwick Grange,68 Hallow Road,St Johns,Worcester,Southern Cross Healthcare,Hospitals/Childcare/Caring Premises,5,0,,674524,0,,52.20639200000000,WO/01304/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24306000000000,WR2 6BY,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-356210,30 Cole Hill,Wylds Lane,Worcester,,Spice Bazaar,Retailers - other,4613,5,,674480,5,,52.18839800000000,WO/00775/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21293100000000,WR5 1DG,2014-07-01,fhrs_4_en-GB,4,,FHRS,10
-356211,39-41 Bromyard Terrace,St Johns,Worcester,,Spice Cuisine,Restaurant/Cafe/Canteen,1,0,,674475,5,,52.18930000000000,WO/00625/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23480400000000,WR2 5BW,2012-02-01,fhrs_5_en-GB,5,,FHRS,5
-356212,9 Barbourne Road,Worcester,Worcestershire,,Spices Indian Takeaway,Takeaway/sandwich shop,7844,5,,674680,5,,52.20148200000000,WO/03508/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22560600000000,WR1 1RS,2012-11-15,fhrs_5_en-GB,5,,FHRS,5
-356213,79 Wylds Lane,Worcester,,,Spicey Bite Takeaway,Takeaway/sandwich shop,7844,5,,674678,5,,52.18892700000000,WO/03440/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21375300000000,WR5 1DF,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-356214,139 Bath Road,Worcester,,,Spire South Bank Hospital,Hospitals/Childcare/Caring Premises,5,5,,674453,5,,52.18123600000000,WO/00335/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21602700000000,WR5 3YB,2014-07-25,fhrs_5_en-GB,5,,FHRS,5
-356215,2 Burtree Avenue,Worcester,Worcestershire,,Spuds And More/Binks Catering,Mobile caterer,7846,10,,685288,10,,52.20341600000000,14/00604/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17203200000000,WR4 0NQ,2013-06-20,fhrs_3_en-GB,3,,FHRS,10
-356216,St Barnabas Church Hall,Green Lane,Worcester,Worcestershire,St Barnabas Pre-School,Hospitals/Childcare/Caring Premises,5,0,,674522,0,,,WO/01267/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,,2011-10-03,fhrs_5_en-GB,5,,FHRS,0
-356217,St Clements Church,Henwick Road,Worcester,Worcestershire,St Clements Parish Room,Other catering premises,7841,,,729413,,,52.19050600000000,WO/00762/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23407900000000,WR2 5NP,2015-01-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-356218,69 St Johns,Worcester,,,St John's Chippy,Takeaway/sandwich shop,7844,5,,674612,5,,52.18756500000000,WO/02638/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23482400000000,WR2 5AG,2013-01-09,fhrs_5_en-GB,5,,FHRS,0
-356219,69 St Johns,Worcester,,,St John's Chippy,Takeaway/sandwich shop,7844,5,,674612,5,,52.18756500000000,WO/02638/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23482400000000,WR2 5AG,2013-01-09,fhrs_5_en-GB,5,,FHRS,0
-356220,2 Lambert Road,St Johns,Worcester,,St Johns Fish Bar,Takeaway/sandwich shop,7844,5,,674659,5,,52.18960600000000,WO/03310/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23891600000000,WR2 5HU,2014-08-21,fhrs_5_en-GB,5,,FHRS,5
-356221,Chedworth Drive,Worcester,,,St Josephs RC Primary School,School/college/university,7845,5,,674478,5,,52.21167000000000,WO/00747/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18308400000000,WR4 9PG,2014-09-22,fhrs_5_en-GB,5,,FHRS,5
-356222,29 Bolston Road,Worcester,,,St Lawrence Hotel,Hotel/bed & breakfast/guest house,7842,5,,674461,5,,52.18337400000000,WO/00427/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21687100000000,WR5 2JE,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-356223,St Pauls Street,Worcester,,,St Pauls Church,Other catering premises,7841,0,,674616,0,,52.19145000000000,WO/02707/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21553500000000,WR1 2BH,2014-02-27,fhrs_5_en-GB,5,,FHRS,5
-356224,St Pauls Street,Worcester,,,St Pauls Church,Other catering premises,7841,0,,674616,0,,52.19145000000000,WO/02707/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21553500000000,WR1 2BH,2014-02-27,fhrs_5_en-GB,5,,FHRS,5
-356225,Tallow Hill,Worcester,Worcestershire,,St Pauls Hostel,Hospitals/Childcare/Caring Premises,5,0,,674557,0,,52.19351900000000,WO/01834/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20963400000000,WR5 1DB,2013-07-22,fhrs_5_en-GB,5,,FHRS,0
-356226,Tallow Hill,Worcester,Worcestershire,,St Pauls Hostel,Hospitals/Childcare/Caring Premises,5,0,,674557,0,,52.19351900000000,WO/01834/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20963400000000,WR5 1DB,2013-07-22,fhrs_5_en-GB,5,,FHRS,0
-356227,4 Abbotsbury Court,Worcester,Worcestershire,,St Peters Fish Bar,Takeaway/sandwich shop,7844,5,,674707,5,,52.17195000000000,WO/04052/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20501400000000,WR5 3TY,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-356228,13-14 St Swithins Street,Worcester,Worcestershire,,St Richards Hospice,Restaurant/Cafe/Canteen,1,5,,722344,5,,52.19293300000000,14/00787/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22026700000000,WR1 2PS,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-356229,Wildwood Drive,Spetchley,Worcester,,St Richards Hospice,Hospitals/Childcare/Caring Premises,5,5,,674765,5,,52.18536900000000,WO/05281/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17959700000000,WR5 2QT,2014-09-05,fhrs_5_en-GB,5,,FHRS,5
-356230,Wildwood Drive,Spetchley,Worcester,,St Richards Hospice,Hospitals/Childcare/Caring Premises,5,5,,674765,5,,52.18536900000000,WO/05281/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17959700000000,WR5 2QT,2014-09-05,fhrs_5_en-GB,5,,FHRS,5
-356231,St Stephens Terrace,Droitwich Road,Worcester,,St Stephens Residential Home,Hospitals/Childcare/Caring Premises,5,5,,674501,5,,52.21028500000000,WO/01004/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22481700000000,WR3 7HU,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-356232,Blackpole Trading Estate West,Worcester,Worcestershire,,Star Cafe,Restaurant/Cafe/Canteen,1,5,,729407,5,,,14/01178/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,,2015-01-07,fhrs_4_en-GB,4,,FHRS,10
-356233,Allenby Hall,St Stephens Street,Worcester,Worcestershire,Stickyfingers,Hospitals/Childcare/Caring Premises,5,5,,674766,5,,52.20930300000000,WO/05290/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22577800000000,WR3 7HS,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-356234,Allenby Hall,St Stephens Street,Worcester,Worcestershire,Stickyfingers,Hospitals/Childcare/Caring Premises,5,5,,674766,5,,52.20930300000000,WO/05290/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22577800000000,WR3 7HS,2013-05-16,fhrs_5_en-GB,5,,FHRS,5
-356235,20 The Cross,Worcester,,,Subway,Takeaway/sandwich shop,7844,0,,674491,0,,52.19324500000000,WO/00886/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22167300000000,WR1 3PZ,2014-11-17,fhrs_5_en-GB,5,,FHRS,0
-356236,50 St Johns,Worcester,Worcestershire,,Subway,Takeaway/sandwich shop,7844,5,,729410,5,,52.18759100000000,14/01272/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23543900000000,WR2 5AJ,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-356237,Unit 7,Brindley Road,Worcester,Worcestershire,Subway,Takeaway/sandwich shop,7844,0,,685686,0,,52.21329600000000,WO/05310/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17833400000000,WR4 9FB,2013-03-11,fhrs_5_en-GB,5,,FHRS,0
-356238,Mission Hall,Bromwich Road,Worcester,,Sunbeams Pre-School Group,Hospitals/Childcare/Caring Premises,5,5,,674736,5,,52.17943400000000,WO/04783/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23216400000000,WR2 4AS,2014-11-21,fhrs_5_en-GB,5,,FHRS,5
-356239,15 Barbourne Terrace,Barbourne,Worcester,,Sunnyside Nursery (Kinder Kare),Hospitals/Childcare/Caring Premises,5,5,,685321,5,,52.20352300000000,WO/00225/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23012400000000,WR1 3JR,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-356240,3 Market Hall,The Shambles,Worcester,Worcestershire,Syd Smith & Son,Manufacturers/packers,7839,5,,674589,5,,52.19111900000000,WO/02280/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21942500000000,WR1 2RA,2015-01-03,fhrs_5_en-GB,5,,FHRS,5
-356241,8-10 Barbourne Road,Barbourne,Worcester,,Talbot,Pub/bar/nightclub,7843,0,,685322,5,,52.20169000000000,WO/00232/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22525600000000,WR1 1HT,2013-02-16,fhrs_5_en-GB,5,,FHRS,5
-356242,49 Lowesmoor,Worcester,Worcestershire,,Tanzeela,Restaurant/Cafe/Canteen,1,20,,674664,15,,52.19518700000000,WO/03352/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21722100000000,WR1 2RS,2014-12-10,fhrs_1_en-GB,1,,FHRS,15
-356243,8 Bank Street,Worcester,,,Tasty Takeaway.,Takeaway/sandwich shop,7844,5,,674436,10,,52.19258900000000,WO/00209/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22183100000000,WR1 2EW,2013-07-24,fhrs_4_en-GB,4,,FHRS,5
-356244,Old Road,Worcester,Worcestershire,,Teme Care Limited,Hospitals/Childcare/Caring Premises,5,5,,674569,10,,52.17087200000000,WO/01973/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24254400000000,WR2 4BU,2014-04-17,fhrs_4_en-GB,4,,FHRS,5
-356245,26-32 Friar Street,Worcester,,,Thai Gallery Restaurant,Restaurant/Cafe/Canteen,1,0,,674516,5,,52.19048100000000,WO/01230/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21902600000000,WR1 2LZ,2012-02-21,fhrs_5_en-GB,5,,FHRS,5
-356246,109 Sidbury,Worcester,,,Thai Time,Restaurant/Cafe/Canteen,1,10,,674671,5,,52.18771600000000,WO/03399/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21709700000000,WR1 2HU,2013-01-08,fhrs_4_en-GB,4,,FHRS,0
-356247,109 Sidbury,Worcester,,,Thai Time,Restaurant/Cafe/Canteen,1,10,,674671,5,,52.18771600000000,WO/03399/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21709700000000,WR1 2HU,2013-01-08,fhrs_4_en-GB,4,,FHRS,0
-356248,Berkeley Way,Worcester,Worcestershire,,The Barn Owl,Pub/bar/nightclub,7843,5,,674421,5,,52.21292900000000,WO/00010/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17729400000000,WR4 9UP,2014-10-09,fhrs_5_en-GB,5,,FHRS,5
-356249,17 Lansdowne Road,Worcester,Worcestershire,,The Chestnut,Pub/bar/nightclub,7843,10,,674386,5,,52.20122900000000,13/00303/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22145000000000,WR1 1SS,2013-10-25,fhrs_4_en-GB,4,,FHRS,0
-356250,11-13 St Nicholas Street,Worcester,,,The Courtyard,Pub/bar/nightclub,7843,0,,674700,5,,52.19401300000000,WO/03944/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21998000000000,WR1 1UW,2011-07-14,fhrs_5_en-GB,5,,FHRS,0
-356251,11-13 St Nicholas Street,Worcester,,,The Courtyard,Pub/bar/nightclub,7843,0,,674700,5,,52.19401300000000,WO/03944/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21998000000000,WR1 1UW,2011-07-14,fhrs_5_en-GB,5,,FHRS,0
-356252,6 Angel Street,Worcester,,,The Cricketers,Pub/bar/nightclub,7843,0,,685568,10,,52.19378400000000,WO/03253/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22207100000000,WR1 3QT,2012-06-12,fhrs_4_en-GB,4,,FHRS,5
-356253,1A Pinkett Street,Worcester,,,The Crispy Cod,Takeaway/sandwich shop,7844,5,,674579,5,,52.21406400000000,WO/02071/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22796800000000,WR3 7EB,2013-05-16,fhrs_4_en-GB,4,,FHRS,10
-356254,Crown Passage,Broad Street,Worcester,,The Crown [Lloyds],Pub/bar/nightclub,7843,0,,685343,5,,52.19306400000000,WO/00552/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22250600000000,WR1 3LL,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-356255,46A Upper Tything,Worcester,,,The Curry Hut,Takeaway/sandwich shop,7844,10,,674635,10,,52.19842800000000,WO/02885/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22442100000000,WR1 1JL,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-356256,46A Upper Tything,Worcester,,,The Curry Hut,Takeaway/sandwich shop,7844,10,,674635,10,,52.19842800000000,WO/02885/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22442100000000,WR1 1JL,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-356257,8 Shrub Hill Road,Worcester,Worcestershire,,The Filling Station,Takeaway/sandwich shop,7844,5,,685269,5,,52.19445900000000,13/00288/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21176100000000,WR4 9EF,2014-01-06,fhrs_5_en-GB,5,,FHRS,5
-356258,54 Lowesmoor,Worcester,,,The Firefly,Pub/bar/nightclub,7843,10,,674544,5,,52.19482900000000,WO/01636/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21632700000000,WR1 2SE,2014-06-06,fhrs_4_en-GB,4,,FHRS,5
-356259,The Shambles,Worcester,Worcestershire,,The Flipper,Mobile caterer,7846,10,,685295,5,,,14/00824/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,,2014-07-15,fhrs_4_en-GB,4,,FHRS,5
-356260,166 Bromyard Road,St Johns,Worcester,,The Gables,Hotel/bed & breakfast/guest house,7842,5,,685350,10,,52.18670700000000,WO/00604/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24990000000000,WR2 5EE,2013-12-11,fhrs_4_en-GB,4,,FHRS,0
-356261,Barker Street,Rainbow Hill,Worcester,,The Goodrest Tavern,Pub/bar/nightclub,7843,0,,674446,5,,52.20450200000000,WO/00297/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21177900000000,WR3 8NP,2013-02-20,fhrs_5_en-GB,5,,FHRS,5
-356262,Unit 4 Station Yard,Sherriff Street,Worcester,,The Greedy Pig Cafe,Restaurant/Cafe/Canteen,1,0,,674592,5,,52.19486300000000,WO/02348/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20699300000000,WR4 9AB,2012-01-26,fhrs_5_en-GB,5,,FHRS,5
-356263,Chapel Walk,Worcester,Worcestershire,,The Green Room,Restaurant/Cafe/Canteen,1,5,,685290,10,,52.19204000000000,14/00654/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22225200000000,WR1 3LD,2014-11-25,fhrs_4_en-GB,4,,FHRS,5
-356264,15A College Green,Worcester,,,The Guesten,Other catering premises,7841,5,,674714,5,,52.18738400000000,WO/04198/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22146900000000,WR1 2LH,2013-05-07,fhrs_4_en-GB,4,,FHRS,10
-356265,The Hive,Sawmill Walk,The Butts,Worcester,The Hive Cafe,Restaurant/Cafe/Canteen,1,5,,674769,5,,52.19376800000000,WO/05336/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22599200000000,WR1 3PD,2015-02-04,fhrs_5_en-GB,5,,FHRS,5
-356266,103 Astwood Road,Worcester,,,The Hot Potato,Mobile caterer,7846,20,,674432,15,,52.20446400000000,WO/00184/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20757900000000,WR3 8EP,2014-03-31,fhrs_1_en-GB,1,,FHRS,10
-356267,155 Rose Avenue,Tolladine,Worcester,Worcestershire,The Italian Job,Takeaway/sandwich shop,7844,10,,674387,10,,52.19911600000000,13/00336/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20154100000000,WR4 9QN,2014-10-13,fhrs_3_en-GB,3,,FHRS,10
-356268,Market Hall,The Shambles,Worcester,,The Karmic Cafe,Restaurant/Cafe/Canteen,1,0,,674590,0,,52.19111900000000,WO/02296/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21942500000000,WR1 2RA,2014-11-18,fhrs_5_en-GB,5,,FHRS,0
-356269,Kings Head,67 Sidbury,Worcester,Worcestershire,The King's Head,Pub/bar/nightclub,7843,5,,674601,5,,52.18771600000000,WO/02495/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21709700000000,WR1 2HU,2013-03-20,fhrs_4_en-GB,4,,FHRS,10
-356270,Kings Head,67 Sidbury,Worcester,Worcestershire,The King's Head,Pub/bar/nightclub,7843,5,,674601,5,,52.18771600000000,WO/02495/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21709700000000,WR1 2HU,2013-03-20,fhrs_4_en-GB,4,,FHRS,10
-356271,5 College Green,Worcester,,,The Kings School,School/college/university,7845,5,,674729,5,,52.18755600000000,WO/04488/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22059200000000,WR1 2LL,2013-11-15,fhrs_5_en-GB,5,,FHRS,0
-356272,40 The Tything,Worcester,,,The Marwood,Pub/bar/nightclub,7843,10,,674633,10,,52.19842800000000,WO/02879/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22442100000000,WR1 1JL,2014-11-17,fhrs_3_en-GB,3,,FHRS,10
-356273,Claines Lane,Claines,Worcester,,The Mug House,Pub/bar/nightclub,7843,0,,685304,5,,52.22729200000000,WO/00086/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21667500000000,WR3 7RN,2013-02-16,fhrs_5_en-GB,5,,FHRS,5
-356274,St Georges Walk,Worcester,Worcestershire,,The Myriad Centre,Hospitals/Childcare/Caring Premises,5,5,,716571,5,,52.20533400000000,14/01161/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22349000000000,WR1 1QY,2014-11-18,fhrs_5_en-GB,5,,FHRS,5
-356275,Perrywood School,St Albans Close,Worcester,Worcestershire,The Nest @ Perrywood Primary And Nursery School,Hospitals/Childcare/Caring Premises,5,,,732470,,,52.19344000000000,15/00028/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19266400000000,WR5 1PP,2015-01-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-356276,Ombersley Road,Worcester,,,The Northwick Cafe,Restaurant/Cafe/Canteen,1,5,,674577,5,,52.21445400000000,WO/02016/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22615500000000,WR3 7HA,2014-11-20,fhrs_5_en-GB,5,,FHRS,5
-356277,6 Church Street,Worcester,,,The Olive Branch,Restaurant/Cafe/Canteen,1,5,,685671,5,,52.19238500000000,WO/05058/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22036700000000,WR1 2RH,2013-11-18,fhrs_5_en-GB,5,,FHRS,5
-356278,Worcester Countryside Centre,Wildwood Drive,Spetchley,Worcester,The Orchard Cafe,Restaurant/Cafe/Canteen,1,0,,685687,5,,52.18711300000000,WO/05338/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17991100000000,WR5 2LG,2013-01-31,fhrs_5_en-GB,5,,FHRS,0
-356279,Worcester Countryside Centre,Wildwood Drive,Spetchley,Worcester,The Orchard Cafe,Restaurant/Cafe/Canteen,1,0,,685687,5,,52.18711300000000,WO/05338/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17991100000000,WR5 2LG,2013-01-31,fhrs_5_en-GB,5,,FHRS,0
-356280,St Dunstans Building,The Butts,Worcester,Worcestershire,The Palette @ Heart Of Worcestershire College,School/college/university,7845,5,,734064,5,,,14/00936/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR1 3RD,2015-02-04,fhrs_5_en-GB,5,,FHRS,5
-356281,Paul Pry,6 The Butts,Worcester,Worcestershire,The Paul Pry,Pub/bar/nightclub,7843,5,,730857,5,,52.19364300000000,14/00650/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22495200000000,WR1 3PA,2015-01-19,fhrs_5_en-GB,5,,FHRS,5
-356282,Tybridge Street,St Johns,Worcester,,The Pavillion In The Park Ltd,Restaurant/Cafe/Canteen,1,0,,674627,0,,52.19065600000000,WO/02817/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23097900000000,WR2 5BA,2012-09-03,fhrs_5_en-GB,5,,FHRS,0
-356283,25 New Street,Worcester,Worcestershire,,The Pheasant,Pub/bar/nightclub,7843,5,,712516,10,,52.19199300000000,14/00989/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21844900000000,WR1 2DP,2014-10-31,fhrs_3_en-GB,3,,FHRS,10
-356284,48A Foregate Street,Worcester,,,The Pizza Shop,Takeaway/sandwich shop,7844,0,,674509,5,,52.19585000000000,WO/01167/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22285700000000,WR1 1EE,2013-03-11,fhrs_5_en-GB,5,,FHRS,5
-356285,Band House,South Quay,Worcester,Worcestershire,The Quay,Restaurant/Cafe/Canteen,1,5,,715285,5,,52.19111800000000,14/00049/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22457400000000,WR1 2JN,2014-05-08,fhrs_5_en-GB,5,,FHRS,0
-356286,Raven Inn,Droitwich Road,Worcester,Worcestershire,The Raven,Pub/bar/nightclub,7843,0,,674425,5,,52.22263300000000,WO/00092/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21270000000000,WR3 7SR,2013-02-16,fhrs_5_en-GB,5,,FHRS,0
-356287,36 Humber Road,Worcester,Worcestershire,,The Sandwich Man,Retailers - other,4613,10,,685291,5,,52.19291700000000,14/00692/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19939200000000,WR5 1LW,2014-03-20,fhrs_4_en-GB,4,,FHRS,5
-356288,Wainwright Road,Worcester,Worcestershire,,The Three Pears,Pub/bar/nightclub,7843,10,,674771,10,,52.21499200000000,WO/05346/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17371600000000,WR4 9FA,2014-10-09,fhrs_3_en-GB,3,,FHRS,10
-356289,Worcester College Of Technology,Deansway,Worcester,Worcestershire,The View,Restaurant/Cafe/Canteen,1,0,,674747,0,,52.19006200000000,WO/05051/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22218400000000,WR1 2JF,2013-01-25,fhrs_5_en-GB,5,,FHRS,5
-356290,Princes Drive,Worcester,,,The Waterside Cafe,Restaurant/Cafe/Canteen,1,0,,674770,5,,52.18674400000000,WO/05343/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21770600000000,WR1 2PD,2011-11-28,fhrs_5_en-GB,5,,FHRS,0
-356291,The Willows,2 Tower Road,Worcester,Worcestershire,The Willows Care Home,Hospitals/Childcare/Caring Premises,5,5,,697334,5,,52.20806700000000,WO/02782/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23279600000000,WR3 7AF,2014-11-18,fhrs_5_en-GB,5,,FHRS,5
-356292,66 Lowesmoor,Worcester,,,Tilleys Sandwich Bar,Takeaway/sandwich shop,7844,5,,674547,5,,52.19482900000000,WO/01647/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21632700000000,WR1 2SE,2014-10-24,fhrs_5_en-GB,5,,FHRS,5
-356293,The Timberdine,Bath Road,Worcester,Worcestershire,Timberdine Harvester Inn,Pub/bar/nightclub,7843,5,,674731,5,,52.16633200000000,WO/04535/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21477000000000,WR5 3HP,2013-12-18,fhrs_5_en-GB,5,,FHRS,5
-356294,Timberdine Home Residential Care,Timberdine Close,Worcester,Worcestershire,Timberdine Nursing & Rehabilitation Unit,Hospitals/Childcare/Caring Premises,5,5,,674683,0,,52.17818700000000,WO/03553/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21147800000000,WR5 2DD,2015-01-14,fhrs_5_en-GB,5,,FHRS,0
-356295,4 Hopmarket,The Foregate,Worcester,,Time-To-Eat,Restaurant/Cafe/Canteen,1,5,,674533,5,,52.19431600000000,WO/01437/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22115200000000,WR1 1DD,2013-07-26,fhrs_5_en-GB,5,,FHRS,5
-356296,The Ketch,Bath Road,Worcester,Worcestershire,Toby Carvery,Pub/bar/nightclub,7843,0,,685597,5,,52.16431400000000,WO/03442/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21704100000000,WR5 3HW,2012-03-12,fhrs_5_en-GB,5,,FHRS,0
-356297,Travelodge,High Street,Worcester,Worcestershire,Travelodge Worcester,Hotel/bed & breakfast/guest house,7842,,,697333,,,52.18987800000000,WO/01424/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21965300000000,WR1 2QR,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-356298,Unit F1c,Blackpole East,Blackpole Road,Worcester,Tubsy's Cafe,Mobile caterer,7846,5,,674773,5,,52.21849000000000,WO/05396/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19666700000000,WR3 8SG,2014-11-20,fhrs_5_en-GB,5,,FHRS,5
-356299,Unit F1C Blackpole Trading Estate E,Blackpole Road,Worcester,,Tubsy's Cafe,Restaurant/Cafe/Canteen,1,0,,685688,0,,52.21849000000000,WO/05397/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.19666700000000,WR3 8SG,2010-03-22,fhrs_5_en-GB,5,,FHRS,0
-356300,Tudor Grange Academy,Bilford Road,Worcester,Worcestershire,Tudor Grange Academy Worcester,School/college/university,7845,5,,729411,5,,52.21346000000000,15/00015/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20466500000000,WR3 8HN,2014-12-12,fhrs_5_en-GB,5,,FHRS,0
-356301,University Of Worcester,Henwick Grove,Worcester,,Unitots Nursery,Hospitals/Childcare/Caring Premises,5,0,,674774,0,,52.19756400000000,WO/05405/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24305600000000,WR2 6AJ,2010-11-18,fhrs_5_en-GB,5,,FHRS,5
-356302,Henwick Grove,Oldbury Road,Worcester,,University Of Worcester (Aramark),School/college/university,7845,5,,674689,5,,52.19756400000000,WO/03684/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24305600000000,WR2 6AJ,2015-01-14,fhrs_5_en-GB,5,,FHRS,5
-356303,43 Foregate Street,Worcester,,,Valentinos,Restaurant/Cafe/Canteen,1,0,,674696,5,,52.19585000000000,WO/03902/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22285700000000,WR1 1EE,2013-02-06,fhrs_5_en-GB,5,,FHRS,5
-356304,Our Lady Queen Of Peace Church Hall,Bransford Road,Worcester,,Victoria House After School,Hospitals/Childcare/Caring Premises,5,0,,674463,5,,52.18713800000000,WO/00432/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23675300000000,WR2 4EN,2013-03-13,fhrs_5_en-GB,5,,FHRS,0
-356305,143 Bromyard Road,St Johns,Worcester,,Victoria House Day Nursery Ltd,Hospitals/Childcare/Caring Premises,5,5,,674682,5,,52.18738700000000,WO/03525/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24251700000000,WR2 5DL,2014-04-17,fhrs_5_en-GB,5,,FHRS,5
-356306,Oldbury Park Primary School,Oldbury Road,St Johns,Worcester,Victoria House Out Of School,Hospitals/Childcare/Caring Premises,5,0,,685470,5,,52.19522600000000,WO/01981/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23880000000000,WR2 6AA,2013-03-13,fhrs_5_en-GB,5,,FHRS,0
-356307,2-4 Copenhagen Street,Worcester,,,Visit Worcester,Retailers - other,4613,,,685659,,,52.19082000000000,WO/04575/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22079800000000,WR1 2HB,2010-02-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-356308,63 Lowesmoor,Worcester,Worcestershire,,Voujon,Restaurant/Cafe/Canteen,1,10,,685293,20,,52.19518700000000,14/00774/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21722100000000,WR1 2RS,2014-10-24,fhrs_1_en-GB,1,,FHRS,5
-356309,49-55 Friar Street,Worcester,,,Vue Cinema,Takeaway/sandwich shop,7844,0,,674716,0,,52.18937600000000,WO/04235/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2013-01-23,fhrs_5_en-GB,5,,FHRS,0
-356310,6 Cranham Drive,Warndon,Worcester,,Warndon Fish Bar,Takeaway/sandwich shop,7844,5,,674486,10,,52.20989300000000,WO/00854/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18666200000000,WR4 9PA,2013-12-17,fhrs_4_en-GB,4,,FHRS,5
-356311,33 Lowesmoor,Worcester,,,Welcome Chinese Takeaway,Takeaway/sandwich shop,7844,5,,674543,5,,52.19518700000000,WO/01616/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21722100000000,WR1 2RS,2015-01-21,fhrs_5_en-GB,5,,FHRS,5
-356312,Henwick Road,Worcester,Worcestershire,,Wheatsheaf Inn,Pub/bar/nightclub,7843,0,,674525,0,,52.20105000000000,WO/01317/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23978200000000,WR2 5PF,2012-05-09,fhrs_5_en-GB,5,,FHRS,0
-356313,62 Foregate Street,Worcester,,,Whitehouse Hotel,Hotel/bed & breakfast/guest house,7842,5,,674511,5,,52.19471000000000,WO/01186/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22194400000000,WR1 1EA,2014-12-22,fhrs_5_en-GB,5,,FHRS,5
-356314,14B Brickfields Road,Worcester,,,Wing Sing,Takeaway/sandwich shop,7844,0,,674705,5,,52.20604600000000,WO/04029/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.20252300000000,WR4 9TH,2012-10-18,fhrs_4_en-GB,4,,FHRS,10
-356315,St Clements C Of E Primary School,Henwick Road,Worcester,Worcestershire,Wishing Well Kids Club @ St Clements School,School/college/university,7845,5,,674397,10,,52.19290300000000,14/00672/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23611100000000,WR2 5NS,2014-03-07,fhrs_4_en-GB,4,,FHRS,5
-356316,76 Droitwich Road,Worcester,,,Wishing Well Nursery,Hospitals/Childcare/Caring Premises,5,0,,674662,0,,52.21026900000000,WO/03320/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22402700000000,WR3 7HT,2011-03-10,fhrs_5_en-GB,5,,FHRS,5
-356317,The Bungalow,Perdiswell Primary School,Bilford Road,Worcester,Wishing Well Nursery,Hospitals/Childcare/Caring Premises,5,0,,674457,0,,52.21287500000000,WO/00359/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21951700000000,WR3 8QA,2011-09-26,fhrs_4_en-GB,4,,FHRS,10
-356318,Unit 7 - Wok N Roll,Ankerage Green,Worcester,Worcestershire,Wok 'N' Roll,Takeaway/sandwich shop,7844,0,,674713,5,,52.20001700000000,WO/04134/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17794400000000,WR4 0DZ,2010-03-12,fhrs_5_en-GB,5,,FHRS,0
-356319,6 Bull Ring,Worcester,Worcestershire,,Wokstar,Takeaway/sandwich shop,7844,5,,685297,5,,52.18896200000000,14/00931/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23307600000000,WR2 5AD,2014-07-04,fhrs_5_en-GB,5,,FHRS,5
-356320,35 St Nicholas Street,Worcester,Worcestershire,,Woobar,Pub/bar/nightclub,7843,10,,685283,10,,52.19401300000000,14/00514/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21998000000000,WR1 1UW,2014-01-30,fhrs_3_en-GB,3,,FHRS,5
-356321,1 Trotshill Lane East,Worcester,Worcestershire,,Woodgreen Cottage Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,674422,5,,52.20176000000000,WO/00011/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17288900000000,WR4 0HX,2012-04-16,fhrs_4_en-GB,4,,FHRS,10
-356322,1 Trotshill Lane East,Worcester,Worcestershire,,Woodgreen Cottage Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,674422,5,,52.20176000000000,WO/00011/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17288900000000,WR4 0HX,2012-04-16,fhrs_4_en-GB,4,,FHRS,10
-356323,Hastings Drive,Worcester,,,Woodgreen Evangelical Church,Other catering premises,7841,0,,674778,0,,52.20833500000000,WO/05441/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.17690900000000,WR4 0SR,2013-04-16,fhrs_5_en-GB,5,,FHRS,0
-356324,21 Sansome Street,Worcester,,,Worcester Arts Workshop Ltd,Other catering premises,7841,0,,674581,0,,52.19429100000000,WO/02194/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21992300000000,WR1 1UH,2013-02-27,fhrs_5_en-GB,5,,FHRS,0
-356325,Premier Inn - Worcester City Centre,County Ground,New Road,Worcester,Worcester City Centre Premier Inn,Hotel/bed & breakfast/guest house,7842,0,,685279,5,,,14/00206/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR2 4RL,2014-02-27,fhrs_5_en-GB,5,,FHRS,0
-356326,1 Sansome Place,Worcester,Worcestershire,,Worcester Friends Meeting House,Other catering premises,7841,,,729405,,,52.19492900000000,14/00707/FOOD,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22054100000000,WR1 1UG,2014-06-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-356327,Boughton Park,Bransford Road,Worcester,,Worcester Golf And Country Club,Pub/bar/nightclub,7843,0,,674462,0,,52.18186900000000,WO/00428/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24614400000000,WR2 4EZ,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-356328,5 Shaw Street,Worcester,,,Worcester Kebab House,Takeaway/sandwich shop,7844,5,,674591,5,,52.19441200000000,WO/02304/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22252800000000,WR1 3QQ,2013-09-16,fhrs_5_en-GB,5,,FHRS,5
-356329,Worcester Racecourse,Grand Stand Road,Worcester,Worcestershire,Worcester Racecourse (Arena Leisure),Restaurant/Cafe/Canteen,1,5,,674648,5,,52.19521300000000,WO/03124/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23183600000000,WR1 3EJ,2014-10-29,fhrs_5_en-GB,5,,FHRS,5
-356330,Spetchley Road,Worcester,,,Worcester Sixth Form College,School/college/university,7845,0,,674605,0,,52.18398300000000,WO/02546/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18678800000000,WR5 2LU,2012-06-27,fhrs_5_en-GB,5,,FHRS,0
-356331,Spetchley Road,Worcester,,,Worcester Sixth Form College,School/college/university,7845,0,,674605,0,,52.18398300000000,WO/02546/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18678800000000,WR5 2LU,2012-06-27,fhrs_5_en-GB,5,,FHRS,0
-356332,University Of Worcester,Henwick Grove,Worcester,Worcestershire,Worcester Student Union,Takeaway/sandwich shop,7844,0,,674690,10,,52.19756400000000,WO/03686/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.24305600000000,WR2 6AJ,2010-05-06,fhrs_4_en-GB,4,,FHRS,5
-356333,Worcester County Cricket Club,New Road,Worcester,Worcestershire,Worcestershire County Cricket Club,Restaurant/Cafe/Canteen,1,5,,674559,5,,52.18945700000000,WO/01866/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22822200000000,WR2 4QQ,2013-08-22,fhrs_5_en-GB,5,,FHRS,5
-356334,Charles Hastings Way,Worcester,,,Worcestershire Royal Hospital,Hospitals/Childcare/Caring Premises,5,5,,674756,5,,52.19121100000000,WO/05126/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18115700000000,WR5 1DD,2014-11-28,fhrs_5_en-GB,5,,FHRS,5
-356335,40 Barbourne Road,Barbourne,Worcester,,Wyatt Guest House,Hotel/bed & breakfast/guest house,7842,5,,674441,5,,52.20285700000000,WO/00259/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.22581800000000,WR1 1HU,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-356336,Badgeworth Drive,Warndon,Worcester,,Yamazaki Mazak UK Ltd,Restaurant/Cafe/Canteen,1,0,,674435,0,,52.21624200000000,WO/00201/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.18576700000000,WR4 9NF,2013-11-07,fhrs_5_en-GB,5,,FHRS,5
-356337,Friar Street,Worcester,,,Ye Olde Talbot,Pub/bar/nightclub,7843,5,,674596,5,,52.18937600000000,WO/02480/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.21861100000000,WR1 2NA,2014-08-29,fhrs_5_en-GB,5,,FHRS,5
-356338,Henwick Road,St Johns,Worcester,,YMCA Worcester,Hospitals/Childcare/Caring Premises,5,5,,685413,5,,52.19290300000000,WO/01321/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,-2.23611100000000,WR2 5NS,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-356339,106 High Street,Worcester,,,Zizzi,Restaurant/Cafe/Canteen,1,0,,674531,5,,,WO/01420/CP,151,wrsenquiries@worcsregservices.gov.uk,Worcester City,http://www.worcsregservices.gov.uk,,WR1 2JY,2014-11-21,fhrs_5_en-GB,5,,FHRS,0
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+355867,1ST Bowl,5,5,5,0,2013-03-06,52.187469,-2.24635
+355868,Abbeyfield House,5,5,5,5,2013-07-23,52.185553,-2.214936
+355869,ABM Catering @ Christopher Whitehead,4,5,10,5,2014-10-10,52.18613,-2.233178
+355870,Acorns Childrens Hospice Trust,5,0,0,0,2013-12-02,52.170452,-2.213562
+355871,Age UK Worcester And District Lunch Club,5,5,5,5,2014-10-15,52.212528,-2.202407
+355872,Agincare Cuisine Ltd,5,0,5,0,2012-11-29,52.21849,-2.196667
+355873,AJ's Pizza,3,10,10,10,2014-03-20,52.202282,-2.211403
+355874,Albion Inn,4,5,10,0,2008-11-19,52.183047,-2.218405
+355875,Alliance In Partnership @ Hollymount Primary School,5,5,0,0,2014-11-06,52.200618,-2.201592
+355876,Alliance@Blessed Edward Oldcorne Catholic College,5,5,5,5,2015-01-22,52.180428,-2.205244
+355877,Allington Play-Tec,5,5,0,0,2014-12-12,52.190062,-2.222184
+355878,Alma Tavern,4,10,10,0,2011-03-10,52.210269,-2.224027
+355879,Altafs Balti,5,5,5,5,2014-08-06,52.198028,-2.201887
+355880,Ambleside Fish Bar,1,10,20,20,2014-12-09,52.203935,-2.191027
+355881,Amigos,5,5,5,0,2013-03-12,52.189376,-2.218611
+355882,Amy's Sandwich Bar,5,0,5,0,2013-10-11,52.194863,-2.206993
+355883,Anarkali Indian Restaurant,1,15,15,20,2014-06-19,52.197413,-2.223801
+355884,Anarkali Indian Restaurant,1,15,15,20,2014-06-19,52.197413,-2.223801
+355885,Anaz Indian Takeaway,5,5,5,5,2014-09-28,52.187565,-2.234824
+355886,Angel Chef,2,5,15,10,2014-12-02,52.193784,-2.222071
+355887,Arishana,5,5,5,5,2014-02-24,52.173833,-2.24123
+355888,Ashleys Restaurant,4,10,5,5,2013-02-05,52.197791,-2.223569
+355889,Ashleys Restaurant,4,10,5,5,2013-02-05,52.197791,-2.223569
+355890,Avi's Bakery,4,5,10,5,2014-03-17,52.205434,-2.227485
+355891,Ayaans,3,10,10,10,2014-11-24,52.193784,-2.222071
+355892,Baby-Tec,5,5,5,5,2014-11-19,52.190062,-2.222184
+355893,Baguetteman,5,5,5,0,2013-10-04,52.192975,-2.222111
+355894,Balcony Cafe,5,5,0,0,2014-04-29,52.196481,-2.222216
+355895,Barbourne Hotel,3,10,10,10,2014-12-17,52.202857,-2.225818
+355896,Bartus Polish Delicatesen,3,10,10,10,2013-09-12,52.197413,-2.223801
+355897,Bath Road Chippy,2,5,15,10,2014-10-20,52.177004,-2.214237
+355898,Battenhall Nursery,4,5,5,10,2014-12-08,52.179426,-2.202446
+355899,Baxter Storey,5,0,0,0,2013-10-03,52.212232,-2.161382
+355900,Baxter Storey @ Sanctuary House,5,5,5,0,2008-07-10,52.196197,-2.225155
+355901,Beanies Coffee Shop,5,5,5,5,2012-12-11,52.188385,-2.233819
+355902,Bears Great Escapes,5,0,0,5,2013-06-25,52.206444,-2.234704
+355903,Benedictos,5,5,0,0,2015-01-03,52.188019,-2.218663
+355904,Benefits Agency (Compass Catering),5,5,5,0,2013-03-01,52.195246,-2.223585
+355905,Berry's@Worcester Students Union,5,5,5,0,2014-01-27,52.197564,-2.243056
+355906,Berry's@Worcester Students Union,5,5,5,0,2014-01-27,52.197564,-2.243056
+355907,Bills Restaurant,5,0,0,0,2014-05-21,52.19204,-2.222252
+355908,Bindles Bar + Brasserie,5,5,5,0,2011-10-24,52.187716,-2.217097
+355909,Bishop Perowne Church Of England College,5,5,5,5,2014-10-23,52.204726,-2.216872
+355910,Blackpole Inn,3,5,10,10,2013-06-08,52.214378,-2.198288
+355911,Blooms Garden Centre,5,5,5,0,2012-11-06,52.220759,-2.215091
+355912,Blue Apple Contract Catering,5,0,0,0,2011-03-29,52.196314,-2.22479
+355913,Bolero Bar & Kitchen,5,5,5,0,2014-08-14,52.19585,-2.222857
+355914,Bombay Palace,3,10,10,10,2014-10-24,52.198428,-2.224421
+355915,Boston Tea Party,5,5,5,5,2015-01-19,52.192838,-2.223237
+355916,Bowl Xtreme,5,0,5,0,2012-08-24,52.215857,-2.216327
+355917,Bromwich Lane Tennis Club,Exempt,nan,nan,nan,2015-01-14,52.187911,-2.232325
+355918,Bromwich Road Mission Church,5,5,0,0,2010-01-25,52.179434,-2.232164
+355919,Brunswick Arms,5,5,5,0,2013-03-08,52.184702,-2.23655
+355920,B's Cafe,5,5,5,5,2014-07-02,52.187591,-2.235439
+355921,Buddy's Baguettes,3,10,10,10,2014-10-23,52.197791,-2.223569
+355922,Bull Ring Chippy,5,5,5,5,2014-07-10,52.188663,-2.234172
+355923,Burgerworks,4,5,10,5,2014-10-28,52.190481,-2.219026
+355924,Bushwackers,5,5,5,5,2015-01-12,52.193131,-2.220151
+355925,Busy Bees Nursery,5,5,0,0,2014-09-17,52.213296,-2.178334
+355926,Byrnes Diner,4,10,5,0,2011-04-19,52.18759,-2.235438
+355927,Cabin Cafe,5,5,5,5,2014-06-16,52.196452,-2.213218
+355928,Cabin Cafe,5,5,5,5,2014-06-16,52.196452,-2.213218
+355929,Cafe @ The Old Palace,4,10,0,0,2011-12-05,52.18981,-2.222124
+355930,Cafe Afloat,5,5,5,0,2012-04-27,,
+355931,Cafe Loco,4,5,10,5,2013-11-08,52.194819,-2.221359
+355932,Cafe Loco Shrub Hill Ltd,AwaitingInspection,nan,nan,nan,,,
+355933,Cafe Mela,4,10,5,5,2013-06-03,52.195619,-2.221641
+355934,Cafe Rouge Worcester,5,5,5,0,2014-01-09,52.190481,-2.219026
+355935,Cafe Severn On The Quay Ltd,5,0,0,0,2013-03-19,52.195213,-2.231836
+355936,Cafe Zest @ House Of Fraser,5,5,5,0,2012-12-20,52.19204,-2.222252
+355937,Caffe Bolero,5,5,5,5,2014-07-17,52.194013,-2.21998
+355938,Caffe Bolero,5,5,5,5,2014-07-17,52.194013,-2.21998
+355939,Caffe Nero,5,5,5,5,2014-10-24,52.192009,-2.219458
+355940,Caffe Nero,5,5,5,5,2013-11-04,52.192571,-2.221948
+355941,Carden Street Cafe,5,0,0,0,2015-01-16,52.189945,-2.217224
+355942,Carluccios,5,0,0,0,2014-11-19,52.19204,-2.222252
+355943,Caspian Pizza,5,0,0,0,2013-02-11,52.187025,-2.216494
+355944,Cathedral Cafe,2,15,15,10,2014-12-01,52.186541,-2.220207
+355945,Cavalier Tavern,4,5,10,0,2013-04-09,52.204734,-2.222053
+355946,Cavalier Tavern,4,5,10,0,2013-04-09,52.204734,-2.222053
+355947,Chanterelles,5,5,5,0,2014-06-09,52.206445,-2.234704
+355948,Chanterelles,5,5,5,0,2014-06-09,52.206445,-2.234704
+355949,Charles Hastings Education Centre,5,0,5,5,2013-11-11,52.191211,-2.181157
+355950,Charlies Cafe Bar,5,0,5,0,2013-03-15,52.187716,-2.217097
+355951,Charlies Cafe Bar,5,0,5,0,2013-03-15,52.187716,-2.217097
+355952,Cherry Orchard Day Centre,5,0,0,0,2011-11-23,52.177721,-2.215454
+355953,Cherry Orchard School,5,0,0,0,2011-11-29,52.178187,-2.211478
+355954,Chesters Restaurant,4,10,5,0,2013-03-29,52.191893,-2.218741
+355955,Chicago's Pizza,5,0,0,0,2012-06-27,52.205434,-2.227485
+355956,Chickin Feelin,5,5,5,5,2014-09-02,52.188385,-2.233819
+355957,Chicks,2,15,10,10,2014-11-19,52.193245,-2.221673
+355958,China City,3,10,10,10,2014-08-20,52.187115,-2.216041
+355959,"Chocolate Deli, Coffee & Patisserie",5,5,0,0,2011-12-06,52.191893,-2.218741
+355960,Chung Ying,4,5,10,5,2012-11-29,52.183687,-2.202334
+355961,Chung Ying Garden,5,5,5,0,2013-09-05,52.189376,-2.218611
+355962,Citrus Kids Clubs,5,5,5,0,2013-02-14,52.192903,-2.236111
+355963,City Cafe,5,5,5,5,2014-12-09,52.195772,-2.226397
+355964,Class Catering @ Cranham Primary School,5,5,0,5,2014-09-16,52.213608,-2.191025
+355965,Class Catering @ Cranham Primary School,5,5,0,5,2014-09-16,52.213608,-2.191025
+355966,Class Catering @ Fort Royal Community Primary School,5,5,0,0,2011-09-26,52.187989,-2.210106
+355967,Class Catering @ Red Hill Primary School,5,0,0,0,2014-11-03,52.183576,-2.204352
+355968,Clockwatchers,3,10,10,10,2013-10-08,52.192737,-2.219301
+355969,"Cloister Cafe, Worcester Cathedral",3,10,10,10,2014-07-10,52.187593,-2.220124
+355970,Coach And Horses,4,10,10,0,2010-04-15,52.200602,-2.225324
+355971,Coach And Horses,4,10,10,0,2010-04-15,52.200602,-2.225324
+355972,Coffee Wharehouse,5,5,5,5,2013-12-31,52.194073,-2.221136
+355973,Colston Bakery,5,5,5,5,2013-08-23,52.192975,-2.222111
+355974,Colston Bakery,4,5,10,5,2014-12-10,52.18759,-2.235438
+355975,Conservatory Cafe Bar,5,5,0,0,2014-12-16,52.190481,-2.219026
+355976,Cornerstone Catering,5,5,0,0,2011-11-25,52.172545,-2.203628
+355977,Cornish Bakehouse,5,5,5,0,2013-03-12,52.192571,-2.221948
+355978,Cornmeadow Pre School Playgroup,5,5,0,0,2011-09-23,52.219382,-2.225639
+355979,Costa,5,5,5,0,2013-07-19,,
+355980,Costa,2,15,10,10,2014-11-24,52.191135,-2.220302
+355981,Costa,4,0,10,10,2014-07-29,52.193344,-2.216978
+355982,Costa @ Tesco,5,0,5,5,2013-10-04,52.171132,-2.204865
+355983,Cranham Residential Home,5,5,5,0,2013-10-22,52.212725,-2.186938
+355984,Crown Burger Bar,4,10,5,5,2014-07-17,52.193979,-2.223608
+355985,Cygnet Catering @ Oldbury Park Primary School,5,5,5,0,2014-04-29,52.195225,-2.2388
+355986,Debenhams,5,5,5,5,2014-09-08,52.192275,-2.221434
+355987,De-Bury House,5,0,0,0,2013-02-28,52.188567,-2.232943
+355988,Delhi 6,4,10,5,5,2014-10-30,52.188385,-2.233819
+355989,Delhi Spice,5,5,5,5,2014-08-26,52.197413,-2.223801
+355990,Deli Corporation,4,10,5,0,2013-02-04,52.188451,-2.218329
+355991,Detroits,5,5,0,0,2012-01-12,,
+355992,Diglis House Hotel,5,5,5,5,2015-01-12,52.186268,-2.222268
+355993,Dine Contract Catering @ Open G.I. Ltd,5,0,0,0,2013-11-27,,
+355994,Dines Green Primary School & Nursery,5,5,0,5,2013-03-21,52.18939,-2.256483
+355995,Dines Green Primary School & Nursery,5,5,0,5,2013-03-21,52.18939,-2.256483
+355996,Domino's Pizzas,4,0,10,5,2014-11-27,52.203935,-2.191027
+355997,Donnellys Fish & Chips,3,5,10,10,2014-08-13,52.179434,-2.232164
+355998,Double Sushi,AwaitingInspection,nan,nan,nan,,52.192704,-2.218013
+355999,Dragon Inn,3,5,10,10,2013-02-27,52.197413,-2.223801
+356000,Drummonds/Swan With Two Nicks,5,5,5,5,2014-11-13,52.191993,-2.218449
+356001,Dunelm Mill,5,5,5,0,2014-08-18,52.210813,-2.201667
+356002,East Bank Court,5,0,5,5,2013-12-18,52.210532,-2.227467
+356003,Eden Coffee Shop,5,0,0,0,2014-03-12,52.172545,-2.203628
+356004,Edwards Bar And Dining,3,10,10,10,2015-01-03,52.19002,-2.220589
+356005,Efes Kebab,5,5,5,5,2013-03-09,52.193784,-2.222071
+356006,Elgar Unit (Newtown),5,5,0,0,2010-06-16,52.192394,-2.183136
+356007,Elgars Coffee Shop & Licensed Restaurant,5,0,0,5,2014-12-03,52.19209,-2.219166
+356008,Eurest @ Asda,5,0,5,0,2012-04-24,52.189376,-2.218611
+356009,Event House,3,10,10,10,2014-11-25,52.223049,-2.195823
+356010,Fairfield Centre,5,0,5,0,2012-11-26,52.207682,-2.192229
+356011,Fairfield Day Nursery,5,0,5,5,2013-06-17,52.207682,-2.192229
+356012,Farriers Arms,5,5,5,5,2015-01-16,52.190163,-2.220985
+356013,Fire Station,4,10,0,0,2010-03-11,,
+356014,Firs Residential Rest Home (Inc Ferns),5,5,5,5,2014-05-06,52.180901,-2.236032
+356015,Flat White Coffee Co,5,0,5,0,2013-01-07,52.190686,-2.219847
+356016,Fortune House,1,10,20,20,2014-09-29,52.187565,-2.234824
+356017,Four Seasons,5,5,5,5,2013-09-02,52.195187,-2.217221
+356018,Fownes Hotel Worcester,4,5,10,5,2013-07-10,52.189442,-2.216988
+356019,Francini Cafe De Colombia,5,0,0,0,2014-08-21,52.192066,-2.2127
+356020,French Connection Baguettes,4,5,10,5,2014-07-15,52.194073,-2.221136
+356021,French Connection Baguettes,4,5,10,5,2014-07-15,52.194073,-2.221136
+356022,Fusion Patisserie,5,5,5,0,2011-10-07,52.192209,-2.186808
+356023,G & S Catering,5,5,5,5,2013-04-18,52.230831,-2.203544
+356024,G And Tea,5,5,5,5,2015-02-10,52.189376,-2.218611
+356025,Gala Bingo,5,5,5,5,2014-09-04,52.195618,-2.221641
+356026,Galleria Italiana,5,5,0,0,2015-02-11,52.189376,-2.218611
+356027,Ginger Pig Bistro,3,10,10,10,2014-04-29,52.19082,-2.220798
+356028,Golden Boat,4,5,10,5,2013-10-03,52.171609,-2.204736
+356029,Golden City,4,5,10,0,2012-02-29,52.206224,-2.203432
+356030,Golden Dragon,5,0,5,0,2013-08-15,52.213296,-2.178334
+356031,Golden Fortune,4,5,5,10,2014-07-10,52.19266,-2.253211
+356032,Golden Gourmet,1,5,10,20,2014-10-29,52.200602,-2.225324
+356033,Gorse Hill School,5,5,5,0,2011-11-18,52.200618,-2.201592
+356034,Great Western Hotel,4,10,5,0,2013-03-12,52.194459,-2.211761
+356035,Greggs,5,5,5,0,2013-01-31,52.192009,-2.219458
+356036,Greggs,5,5,5,0,2013-01-31,52.192009,-2.219458
+356037,Greggs,5,5,5,5,2014-11-17,52.19204,-2.222252
+356038,Greyfriars House And Garden,5,0,5,0,2013-03-29,52.190481,-2.219026
+356039,Gun Tavern,3,10,10,10,2013-11-19,52.194897,-2.202955
+356040,H Dayus Family Butcher,5,5,5,0,2013-05-01,52.188385,-2.233819
+356041,H Dayus Family Butcher,5,5,5,0,2013-05-01,52.188385,-2.233819
+356042,H J Heinz - Lea & Perrins.,5,5,5,0,2010-04-08,52.196688,-2.21695
+356043,Hamiltons,4,10,10,0,2012-02-21,52.19204,-2.222252
+356044,Happy Garden,4,10,5,5,2014-10-30,52.20559,-2.230647
+356045,Happylands Private Day Nursery,5,5,5,0,2013-06-19,52.200017,-2.177944
+356046,Hawthorn Cottage Day Nursery,5,5,0,5,2014-09-16,52.186689,-2.241329
+356047,Hereford & Worcester Fire & Rescue Service,5,0,0,0,2013-03-12,52.191655,-2.179067
+356048,Himbleton House Very Sheltered Acc,4,5,10,5,2014-11-24,52.200818,-2.243249
+356049,Holland House,5,5,0,0,2013-03-05,52.18281,-2.20018
+356050,Homebase Coffee Shop (Compass),5,5,0,0,2014-05-19,52.210813,-2.201667
+356051,HomeKitchen,5,5,5,5,2014-11-06,52.223195,-2.225073
+356052,Homeleigh Guest House,1,20,10,0,2013-02-15,52.202857,-2.225818
+356053,Horn & Trumpet,3,10,10,10,2014-12-02,52.193784,-2.222071
+356054,House Of Coffee,5,0,5,0,2014-03-12,52.19002,-2.220589
+356055,Indian Fusion,3,10,10,10,2014-06-24,52.20735,-2.222255
+356056,ISS  Facility Services Healthcare,5,0,5,0,2010-06-08,52.195077,-2.213006
+356057,Jean's Kitchen,5,0,5,0,2008-07-18,52.195794,-2.21459
+356058,Just Scrummy,5,0,0,0,2011-06-21,52.183313,-2.210771
+356059,Karma,0,20,20,20,2014-08-18,52.19237,-2.223381
+356060,Kathryn Bentley,5,0,0,0,2011-03-25,52.188494,-2.237521
+356061,Keystones Cocktail Club,4,10,5,5,2014-05-02,52.190819,-2.220798
+356062,KFC,5,5,5,5,2014-10-02,52.210813,-2.201667
+356063,King Charles II,3,10,5,10,2014-07-29,52.191993,-2.218449
+356064,Kismat Balti,3,10,10,10,2013-10-10,52.202282,-2.211403
+356065,Knights Rest,5,5,0,0,2008-08-04,52.202857,-2.225818
+356066,Lamb & Flag Inn,5,5,5,0,2009-01-07,52.198428,-2.224421
+356067,Lamb & Flag Inn,5,5,5,0,2009-01-07,52.198428,-2.224421
+356068,Lannies Catering,5,0,0,0,2012-09-27,52.19242,-2.220616
+356069,Latimer Court Care Home.,5,0,0,0,2013-04-04,52.195031,-2.187156
+356070,Lily B's Sandwich Bar,5,5,5,0,2012-10-02,52.20169,-2.225256
+356071,Little Acorns,5,0,5,5,2014-09-22,52.187469,-2.24635
+356072,Little Peoples Nursery,5,5,5,5,2014-12-02,52.208105,-2.222538
+356073,London Road Playgroup & Pre-School,5,0,0,0,2011-09-26,52.184949,-2.20525
+356074,London Road Playgroup & Pre-School,5,0,0,0,2011-09-26,52.184949,-2.20525
+356075,Lowesmoor Fish Bar,4,0,10,10,2014-09-01,52.195187,-2.217221
+356076,Luckys Lunch Box,4,10,5,5,2013-11-12,52.201518,-2.211326
+356077,Luigi's Pizza And Fish Bar,4,10,5,5,2014-11-07,52.214454,-2.226155
+356078,Luncheon Club,5,5,5,5,2014-10-07,,
+356079,Lyppard Fryer,5,5,5,5,2014-12-09,52.200017,-2.177945
+356080,Lyppard Grange Tavern,3,5,10,10,2014-12-03,52.19965,-2.177416
+356081,M & M Meats,5,5,5,5,2014-10-29,52.192753,-2.220632
+356082,Ma Baker's,3,10,5,10,2014-12-17,52.209893,-2.186662
+356083,Mac And Jacs Deli-Cafe,5,5,5,0,2011-06-14,52.189376,-2.218611
+356084,Maggs Day Centre,5,5,5,0,2010-06-09,52.189407,-2.221303
+356085,Magic Moments,5,0,5,5,2013-06-17,52.189389,-2.256483
+356086,Magic Moments,5,0,5,5,2013-06-17,52.189389,-2.256483
+356087,Manor Farm,5,5,5,5,2014-12-04,52.172513,-2.235666
+356088,Maple Leaf Inn,2,15,15,10,2015-01-02,52.173833,-2.24123
+356089,Marco's Fish Bar,5,5,5,5,2013-09-30,52.203654,-2.245298
+356090,Marks & Spencer - Cafe,5,0,5,0,2014-10-22,52.191693,-2.22013
+356091,Masonic Hall,5,5,5,5,2014-04-23,52.197801,-2.213298
+356092,Massalla Lounge,5,5,5,5,2013-10-24,,
+356093,McDonalds,5,5,5,5,2014-10-31,52.193892,-2.221808
+356094,McDonalds,5,5,5,0,2014-09-18,52.210813,-2.201667
+356095,McDonalds,5,0,0,0,2014-11-24,52.193476,-2.232749
+356096,Mediterranean Fish Bar,4,0,5,10,2014-09-24,52.192413,-2.224668
+356097,Minchan Oriental Buffet,4,5,10,5,2014-06-04,52.187565,-2.234824
+356098,Mode,5,5,5,5,2013-08-20,52.193979,-2.223608
+356099,Montana Cafe,4,10,10,0,2013-01-07,,
+356100,Montis,3,10,10,10,2014-06-13,52.188927,-2.213753
+356101,Mr Carl Andrew Sampson,4,10,5,5,2015-01-19,52.210788,-2.205457
+356102,Munchies,4,5,10,5,2014-05-19,52.194403,-2.217744
+356103,My Coffee,3,10,10,10,2013-12-06,52.193245,-2.221673
+356104,My Coffee @ The Commandery,5,5,5,5,2014-07-30,52.187716,-2.217097
+356105,Nando's,5,0,0,0,2013-03-14,52.189376,-2.218611
+356106,Narraways Butcher,3,10,10,10,2013-08-09,52.187565,-2.234824
+356107,Narraways Butcher,3,10,10,10,2013-08-09,52.187565,-2.234824
+356108,New Chequers Inn,3,10,10,10,2014-08-20,52.207859,-2.204624
+356109,New College Worcester,5,5,5,5,2015-01-08,52.17934,-2.18924
+356110,New Inn,5,5,0,5,2015-01-07,52.223639,-2.228017
+356111,New Rooster Chinese Takeaway,3,10,10,10,2014-08-20,52.200602,-2.225324
+356112,New Rooster Chinese Takeaway,3,10,10,10,2014-08-20,52.200602,-2.225324
+356113,Newtown Cantonese Takeaway,3,10,10,10,2012-12-07,52.194897,-2.202955
+356114,Northwick Grange,5,5,0,0,2014-07-22,52.219406,-2.236163
+356115,Northwick Manor Primary School,5,0,5,0,2015-01-29,52.213648,-2.22902
+356116,Nuffield Health,5,5,5,5,2014-06-11,,
+356117,Nunnery Wood High School,5,0,0,0,2013-03-21,52.184031,-2.189976
+356118,Nunnery Wood High School,5,0,0,0,2013-03-21,52.184031,-2.189976
+356119,Nunnery Wood School,5,0,0,0,2013-03-21,52.184032,-2.189976
+356120,Oak Apple Inn,3,10,5,10,2013-04-26,52.182299,-2.188506
+356121,Oak Apple Inn,3,10,5,10,2013-04-26,52.182299,-2.188506
+356122,Odeon Cinema,5,0,5,0,2014-07-02,52.19488,-2.222295
+356123,Odeon Costa,4,5,10,5,2014-07-02,52.19488,-2.222296
+356124,Old Rectifying House,3,10,10,10,2014-05-02,52.191826,-2.225982
+356125,Oldbury Park Junior School,5,0,5,0,2013-03-21,52.195226,-2.2388
+356126,Ombersley Road Methodist Church,5,0,5,0,2013-02-27,52.208277,-2.226753
+356127,O'Neills/Reflex,5,5,0,0,2014-12-15,52.194219,-2.220113
+356128,Orient Express,4,5,5,10,2014-07-10,52.177004,-2.214237
+356129,Paisleys Tasty Catering,5,5,5,0,2013-01-10,52.193131,-2.220151
+356130,Pals Residential Care,4,10,5,5,2014-07-21,52.212052,-2.226919
+356131,Pan Pizza And Curry House,3,10,10,10,2014-08-20,52.191893,-2.218741
+356132,Papa John's Pizza,5,5,5,5,2014-07-14,52.188567,-2.232943
+356133,Papa's Caffe,5,5,5,5,2014-03-27,52.191237,-2.218606
+356134,Paracana Coffee Shop,3,10,10,10,2014-06-27,52.194403,-2.217744
+356135,Park And Shop,2,0,15,5,2013-09-05,52.194863,-2.206993
+356136,Parsons Bakery,5,5,5,0,2012-09-20,52.192009,-2.219458
+356137,Pasha Indian Restaurant,5,5,5,0,2012-11-15,52.187591,-2.235439
+356138,Pasha Indian Restaurant,5,5,5,0,2012-11-15,52.187591,-2.235439
+356139,Pat Elliott,Exempt,nan,nan,nan,2014-02-07,52.210644,-2.177899
+356140,Peppers,1,15,15,20,2015-01-15,52.197413,-2.223801
+356141,Perdiswell,4,10,5,0,2014-10-24,52.215525,-2.220731
+356142,Perdiswell Leisure Centre,5,5,5,5,2014-12-02,52.213016,-2.211644
+356143,Perdiswell Young Peoples Leisure Club,5,5,5,5,2014-10-28,52.215857,-2.216326
+356144,Perfect Pizza,4,10,5,5,2014-06-10,52.188385,-2.233819
+356145,Perfect Pizza.,4,10,5,0,2011-12-14,52.188385,-2.233819
+356146,Perry Manor Care Home,5,0,5,5,2014-07-02,,
+356147,Phat Nancy,3,10,10,10,2014-06-25,52.191993,-2.218449
+356148,Phoenix House/Cedar Gardens,3,10,10,10,2013-11-20,52.187946,-2.241745
+356149,Piccadilly Whip,5,5,5,5,2013-08-28,52.21077,-2.225127
+356150,Pingan Oriental Ltd,3,5,10,10,2014-12-19,52.190965,-2.219746
+356151,Pink Garlic,4,5,10,5,2014-03-27,52.188927,-2.213753
+356152,Pitmaston House,5,0,0,0,2009-09-07,52.182723,-2.237241
+356153,Pitmaston Primary School,5,0,5,0,2014-03-18,52.182848,-2.237856
+356154,Pitstop@bristol Streeet Motors,5,0,5,0,2010-08-12,52.215242,-2.197838
+356155,Pizza Allegro,5,0,0,0,2013-03-08,52.209893,-2.186662
+356156,Pizza Express,5,5,5,0,2013-01-23,52.18924,-2.219357
+356157,Pizza Hut,5,5,5,5,2014-12-04,52.193114,-2.214651
+356158,Pizza Hut Delivery,5,5,5,5,2014-09-30,52.213296,-2.178334
+356159,Plumb Centre (Catermasters),5,0,5,0,2012-12-11,,
+356160,Plumb Centre (Catermasters),5,0,5,0,2012-12-11,,
+356161,Po-On Chinese Takeaway,5,0,5,0,2011-03-28,52.201512,-2.209482
+356162,Po-On Chinese Takeaway,5,0,5,0,2011-03-28,52.201512,-2.209482
+356163,Poppins Day Nursery,5,5,5,5,2015-01-23,52.184612,-2.232278
+356164,Poppins Restaurant,5,5,5,5,2013-12-19,52.193892,-2.221808
+356165,Poppins Restaurant,5,5,5,5,2013-12-19,52.193892,-2.221808
+356166,Portobello,3,10,10,10,2014-11-25,52.181869,-2.246144
+356167,Postal Order,5,5,5,5,2014-12-03,52.195618,-2.221641
+356168,Pump House Environment Centre,5,5,5,5,2013-03-08,52.206445,-2.234704
+356169,Quinns,4,5,5,10,2014-01-07,52.193124,-2.223955
+356170,Rainbow Hill Chippy,4,5,10,5,2014-10-24,52.202196,-2.209017
+356171,Rainbow Hill Lunch Club,5,5,0,0,2011-10-06,52.202196,-2.209017
+356172,Rainbow Take Away,4,5,10,5,2013-07-10,52.214454,-2.226155
+356173,Rajkot,1,15,15,20,2014-09-24,52.198428,-2.224421
+356174,Rascals,5,5,5,0,2013-02-27,52.190051,-2.192474
+356175,Raven Meadow Golf Club,4,10,5,5,2014-10-23,52.21849,-2.196667
+356176,Red Hill Primary School,5,0,0,0,2010-11-23,52.183576,-2.204352
+356177,Regency High School,5,0,5,5,2014-11-10,52.208534,-2.193535
+356178,Regency High School-St Johns Campus,5,0,5,0,2009-02-04,52.196792,-2.237623
+356179,Regent House,5,5,5,0,2014-12-15,52.185675,-2.240138
+356180,Relish,5,5,5,5,2015-01-20,52.187565,-2.234824
+356181,Residential Care Home,5,0,0,0,2010-05-13,52.183552,-2.217588
+356182,Rileys Sports Bars,4,5,10,0,2013-02-20,52.195078,-2.212216
+356183,Ronkswood Fish Bar,1,10,10,20,2014-12-04,52.192159,-2.190187
+356184,Rose Avenue Fryer,2,10,15,10,2014-11-27,52.199116,-2.201541
+356185,Royal Grammar School (Chartwells Catering),5,5,0,0,2014-11-20,52.200701,-2.224842
+356186,Royal Voluntary Service,5,5,0,5,2015-01-16,52.191211,-2.181157
+356187,Saffrons Restaurant,5,5,5,5,2014-12-15,52.191993,-2.218449
+356188,Salvation Army,5,0,0,0,2011-03-30,52.193258,-2.21942
+356189,Salvation Army,5,0,0,0,2011-03-30,52.193258,-2.21942
+356190,Scoffs,5,5,5,5,2013-11-01,52.191993,-2.218449
+356191,Scoffs Street Food,5,0,0,5,2013-03-29,52.192737,-2.219301
+356192,Seacrest Fish Bar,5,0,5,5,2013-11-04,52.18495,-2.20525
+356193,Servest @ Bosch Thermotechnology Ltd,5,5,5,0,2014-07-18,52.215411,-2.182426
+356194,Severn Valley Catering Ltd,5,5,0,0,2010-08-19,52.196628,-2.210849
+356195,Severn Valley Catering Ltd,5,5,0,0,2010-08-19,52.196628,-2.210849
+356196,Shaw Red Hill Care Centre,4,10,5,5,2014-11-14,52.182316,-2.194445
+356197,Shipleys,4,5,10,5,2013-09-30,52.193784,-2.222071
+356198,Shire Services @ Perdiswell Primary School,5,5,0,0,2015-01-16,52.212875,-2.219517
+356199,Shire Services @ Perrywood School,5,0,0,5,2014-01-24,52.19344,-2.192664
+356200,Shrubbery Guest House,5,0,5,0,2010-02-10,52.202857,-2.225818
+356201,Shrubbery Nursing Home,5,5,5,5,2014-09-29,52.203049,-2.224224
+356202,Siam Smile,5,0,5,5,2013-11-04,52.18871,-2.219296
+356203,Singapore Restaurant,5,5,5,0,2013-03-28,52.189376,-2.218611
+356204,Slug & Lettuce,4,5,10,5,2014-11-27,52.193336,-2.221118
+356205,Smileys Creche Ltd,5,5,5,0,2011-03-01,52.191211,-2.181157
+356206,Snack Hungary Ltd,4,10,5,5,2014-06-11,52.197413,-2.223801
+356207,Sodexo Catering,5,0,0,0,2011-10-06,52.191655,-2.179067
+356208,South Hayes Care Home,5,5,5,0,2013-03-07,52.1861,-2.210507
+356209,Southern Cross Healthcare,5,5,0,0,2014-05-21,52.206392,-2.24306
+356210,Spice Bazaar,4,10,5,5,2014-07-01,52.188398,-2.212931
+356211,Spice Cuisine,5,5,5,0,2012-02-01,52.1893,-2.234804
+356212,Spices Indian Takeaway,5,5,5,5,2012-11-15,52.201482,-2.225606
+356213,Spicey Bite Takeaway,5,5,5,5,2014-08-28,52.188927,-2.213753
+356214,Spire South Bank Hospital,5,5,5,5,2014-07-25,52.181236,-2.216027
+356215,Spuds And More/Binks Catering,3,10,10,10,2013-06-20,52.203416,-2.172032
+356216,St Barnabas Pre-School,5,0,0,0,2011-10-03,,
+356217,St Clements Parish Room,Exempt,nan,nan,nan,2015-01-14,52.190506,-2.234079
+356218,St John's Chippy,5,0,5,5,2013-01-09,52.187565,-2.234824
+356219,St John's Chippy,5,0,5,5,2013-01-09,52.187565,-2.234824
+356220,St Johns Fish Bar,5,5,5,5,2014-08-21,52.189606,-2.238916
+356221,St Josephs RC Primary School,5,5,5,5,2014-09-22,52.21167,-2.183084
+356222,St Lawrence Hotel,5,5,5,5,2014-11-25,52.183374,-2.216871
+356223,St Pauls Church,5,5,0,0,2014-02-27,52.19145,-2.215535
+356224,St Pauls Church,5,5,0,0,2014-02-27,52.19145,-2.215535
+356225,St Pauls Hostel,5,0,0,0,2013-07-22,52.193519,-2.209634
+356226,St Pauls Hostel,5,0,0,0,2013-07-22,52.193519,-2.209634
+356227,St Peters Fish Bar,5,5,5,5,2013-10-04,52.17195,-2.205014
+356228,St Richards Hospice,5,0,5,5,2014-10-22,52.192933,-2.220267
+356229,St Richards Hospice,5,5,5,5,2014-09-05,52.185369,-2.179597
+356230,St Richards Hospice,5,5,5,5,2014-09-05,52.185369,-2.179597
+356231,St Stephens Residential Home,5,5,5,5,2014-12-02,52.210285,-2.224817
+356232,Star Cafe,4,10,5,5,2015-01-07,,
+356233,Stickyfingers,5,5,5,5,2013-05-16,52.209303,-2.225778
+356234,Stickyfingers,5,5,5,5,2013-05-16,52.209303,-2.225778
+356235,Subway,5,0,0,0,2014-11-17,52.193245,-2.221673
+356236,Subway,5,5,5,5,2014-12-09,52.187591,-2.235439
+356237,Subway,5,0,0,0,2013-03-11,52.213296,-2.178334
+356238,Sunbeams Pre-School Group,5,5,5,5,2014-11-21,52.179434,-2.232164
+356239,Sunnyside Nursery (Kinder Kare),5,5,5,5,2014-02-24,52.203523,-2.230124
+356240,Syd Smith & Son,5,5,5,5,2015-01-03,52.191119,-2.219425
+356241,Talbot,5,5,5,0,2013-02-16,52.20169,-2.225256
+356242,Tanzeela,1,15,15,20,2014-12-10,52.195187,-2.217221
+356243,Tasty Takeaway.,4,5,10,5,2013-07-24,52.192589,-2.221831
+356244,Teme Care Limited,4,5,10,5,2014-04-17,52.170872,-2.242544
+356245,Thai Gallery Restaurant,5,5,5,0,2012-02-21,52.190481,-2.219026
+356246,Thai Time,4,0,5,10,2013-01-08,52.187716,-2.217097
+356247,Thai Time,4,0,5,10,2013-01-08,52.187716,-2.217097
+356248,The Barn Owl,5,5,5,5,2014-10-09,52.212929,-2.177294
+356249,The Chestnut,4,0,5,10,2013-10-25,52.201229,-2.22145
+356250,The Courtyard,5,0,5,0,2011-07-14,52.194013,-2.21998
+356251,The Courtyard,5,0,5,0,2011-07-14,52.194013,-2.21998
+356252,The Cricketers,4,5,10,0,2012-06-12,52.193784,-2.222071
+356253,The Crispy Cod,4,10,5,5,2013-05-16,52.214064,-2.227968
+356254,The Crown [Lloyds],5,5,5,0,2013-12-09,52.193064,-2.222506
+356255,The Curry Hut,3,10,10,10,2014-08-20,52.198428,-2.224421
+356256,The Curry Hut,3,10,10,10,2014-08-20,52.198428,-2.224421
+356257,The Filling Station,5,5,5,5,2014-01-06,52.194459,-2.211761
+356258,The Firefly,4,5,5,10,2014-06-06,52.194829,-2.216327
+356259,The Flipper,4,5,5,10,2014-07-15,,
+356260,The Gables,4,0,10,5,2013-12-11,52.186707,-2.2499
+356261,The Goodrest Tavern,5,5,5,0,2013-02-20,52.204502,-2.211779
+356262,The Greedy Pig Cafe,5,5,5,0,2012-01-26,52.194863,-2.206993
+356263,The Green Room,4,5,10,5,2014-11-25,52.19204,-2.222252
+356264,The Guesten,4,10,5,5,2013-05-07,52.187384,-2.221469
+356265,The Hive Cafe,5,5,5,5,2015-02-04,52.193768,-2.225992
+356266,The Hot Potato,1,10,15,20,2014-03-31,52.204464,-2.207579
+356267,The Italian Job,3,10,10,10,2014-10-13,52.199116,-2.201541
+356268,The Karmic Cafe,5,0,0,0,2014-11-18,52.191119,-2.219425
+356269,The King's Head,4,10,5,5,2013-03-20,52.187716,-2.217097
+356270,The King's Head,4,10,5,5,2013-03-20,52.187716,-2.217097
+356271,The Kings School,5,0,5,5,2013-11-15,52.187556,-2.220592
+356272,The Marwood,3,10,10,10,2014-11-17,52.198428,-2.224421
+356273,The Mug House,5,5,5,0,2013-02-16,52.227292,-2.216675
+356274,The Myriad Centre,5,5,5,5,2014-11-18,52.205334,-2.22349
+356275,The Nest @ Perrywood Primary And Nursery School,Exempt,nan,nan,nan,2015-01-26,52.19344,-2.192664
+356276,The Northwick Cafe,5,5,5,5,2014-11-20,52.214454,-2.226155
+356277,The Olive Branch,5,5,5,5,2013-11-18,52.192385,-2.220367
+356278,The Orchard Cafe,5,0,5,0,2013-01-31,52.187113,-2.179911
+356279,The Orchard Cafe,5,0,5,0,2013-01-31,52.187113,-2.179911
+356280,The Palette @ Heart Of Worcestershire College,5,5,5,5,2015-02-04,,
+356281,The Paul Pry,5,5,5,5,2015-01-19,52.193643,-2.224952
+356282,The Pavillion In The Park Ltd,5,0,0,0,2012-09-03,52.190656,-2.230979
+356283,The Pheasant,3,10,10,5,2014-10-31,52.191993,-2.218449
+356284,The Pizza Shop,5,5,5,0,2013-03-11,52.19585,-2.222857
+356285,The Quay,5,0,5,5,2014-05-08,52.191118,-2.224574
+356286,The Raven,5,0,5,0,2013-02-16,52.222633,-2.2127
+356287,The Sandwich Man,4,5,5,10,2014-03-20,52.192917,-2.199392
+356288,The Three Pears,3,10,10,10,2014-10-09,52.214992,-2.173716
+356289,The View,5,5,0,0,2013-01-25,52.190062,-2.222184
+356290,The Waterside Cafe,5,0,5,0,2011-11-28,52.186744,-2.217706
+356291,The Willows Care Home,5,5,5,5,2014-11-18,52.208067,-2.232796
+356292,Tilleys Sandwich Bar,5,5,5,5,2014-10-24,52.194829,-2.216327
+356293,Timberdine Harvester Inn,5,5,5,5,2013-12-18,52.166332,-2.21477
+356294,Timberdine Nursing & Rehabilitation Unit,5,0,0,5,2015-01-14,52.178187,-2.211478
+356295,Time-To-Eat,5,5,5,5,2013-07-26,52.194316,-2.221152
+356296,Toby Carvery,5,0,5,0,2012-03-12,52.164314,-2.217041
+356297,Travelodge Worcester,AwaitingInspection,nan,nan,nan,,52.189878,-2.219653
+356298,Tubsy's Cafe,5,5,5,5,2014-11-20,52.21849,-2.196667
+356299,Tubsy's Cafe,5,0,0,0,2010-03-22,52.21849,-2.196667
+356300,Tudor Grange Academy Worcester,5,0,5,5,2014-12-12,52.21346,-2.204665
+356301,Unitots Nursery,5,5,0,0,2010-11-18,52.197564,-2.243056
+356302,University Of Worcester (Aramark),5,5,5,5,2015-01-14,52.197564,-2.243056
+356303,Valentinos,5,5,5,0,2013-02-06,52.19585,-2.222857
+356304,Victoria House After School,5,0,5,0,2013-03-13,52.187138,-2.236753
+356305,Victoria House Day Nursery Ltd,5,5,5,5,2014-04-17,52.187387,-2.242517
+356306,Victoria House Out Of School,5,0,5,0,2013-03-13,52.195226,-2.2388
+356307,Visit Worcester,Exempt,nan,nan,nan,2010-02-15,52.19082,-2.220798
+356308,Voujon,1,5,20,10,2014-10-24,52.195187,-2.217221
+356309,Vue Cinema,5,0,0,0,2013-01-23,52.189376,-2.218611
+356310,Warndon Fish Bar,4,5,10,5,2013-12-17,52.209893,-2.186662
+356311,Welcome Chinese Takeaway,5,5,5,5,2015-01-21,52.195187,-2.217221
+356312,Wheatsheaf Inn,5,0,0,0,2012-05-09,52.20105,-2.239782
+356313,Whitehouse Hotel,5,5,5,5,2014-12-22,52.19471,-2.221944
+356314,Wing Sing,4,10,5,0,2012-10-18,52.206046,-2.202523
+356315,Wishing Well Kids Club @ St Clements School,4,5,10,5,2014-03-07,52.192903,-2.236111
+356316,Wishing Well Nursery,5,5,0,0,2011-03-10,52.210269,-2.224027
+356317,Wishing Well Nursery,4,10,0,0,2011-09-26,52.212875,-2.219517
+356318,Wok 'N' Roll,5,0,5,0,2010-03-12,52.200017,-2.177944
+356319,Wokstar,5,5,5,5,2014-07-04,52.188962,-2.233076
+356320,Woobar,3,5,10,10,2014-01-30,52.194013,-2.21998
+356321,Woodgreen Cottage Day Nursery,4,10,5,0,2012-04-16,52.20176,-2.172889
+356322,Woodgreen Cottage Day Nursery,4,10,5,0,2012-04-16,52.20176,-2.172889
+356323,Woodgreen Evangelical Church,5,0,0,0,2013-04-16,52.208335,-2.176909
+356324,Worcester Arts Workshop Ltd,5,0,0,0,2013-02-27,52.194291,-2.219923
+356325,Worcester City Centre Premier Inn,5,0,5,0,2014-02-27,,
+356326,Worcester Friends Meeting House,Exempt,nan,nan,nan,2014-06-10,52.194929,-2.220541
+356327,Worcester Golf And Country Club,5,5,0,0,2014-11-25,52.181869,-2.246144
+356328,Worcester Kebab House,5,5,5,5,2013-09-16,52.194412,-2.222528
+356329,Worcester Racecourse (Arena Leisure),5,5,5,5,2014-10-29,52.195213,-2.231836
+356330,Worcester Sixth Form College,5,0,0,0,2012-06-27,52.183983,-2.186788
+356331,Worcester Sixth Form College,5,0,0,0,2012-06-27,52.183983,-2.186788
+356332,Worcester Student Union,4,5,10,0,2010-05-06,52.197564,-2.243056
+356333,Worcestershire County Cricket Club,5,5,5,5,2013-08-22,52.189457,-2.228222
+356334,Worcestershire Royal Hospital,5,5,5,5,2014-11-28,52.191211,-2.181157
+356335,Wyatt Guest House,5,5,5,5,2013-12-11,52.202857,-2.225818
+356336,Yamazaki Mazak UK Ltd,5,5,0,0,2013-11-07,52.216242,-2.185767
+356337,Ye Olde Talbot,5,5,5,5,2014-08-29,52.189376,-2.218611
+356338,YMCA Worcester,5,5,5,5,2014-09-24,52.192903,-2.236111
+356339,Zizzi,5,0,5,0,2014-11-21,,

@@ -1,406 +1,406 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-229373,,,,,1 Stall At Nonsuch Craft Group,Mobile caterer,7846,,,605503,,,,13/00051/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-10-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-229374,143 High Street,Epsom,Surrey,,143 The Canopy Restaurant,Restaurant/Cafe/Canteen,1,5,,29166,5,,51.33274900000000,09/00058/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26954100000000,KT19 8EH,2014-07-25,fhrs_4_en-GB,4,,FHRS,10
-229375,Ewell,Surrey,,,17 Banstead Road,Hospitals/Childcare/Caring Premises,5,5,,1939,5,,51.34350000000000,00510/0017/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.23493400000000,KT17 3EZ,2010-01-19,fhrs_5_en-GB,5,,FHRS,5
-229376,,,,,A Cup Of Vintage,Restaurant/Cafe/Canteen,1,5,,486971,5,,,10/00060/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-12-14,fhrs_5_en-GB,5,,FHRS,5
-229377,42 Burgh Heath Road,Epsom,Surrey,,A R A Foods,Retailers - other,4613,,,2939,,,51.32278900000000,01000/0042/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25345400000000,KT17 4LU,2014-09-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-229378,30 South Street,Epsom,Surrey,,Acorn 30,Pub/bar/nightclub,7843,10,,454579,10,,51.33226600000000,12/00045/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27096600000000,KT18 7PF,2014-03-27,fhrs_3_en-GB,3,,FHRS,10
-229379,40 The Warren,Worcester Park,Surrey,,Albert Residential Home,Hospitals/Childcare/Caring Premises,5,,,24338,,,51.37151000000000,07630/0040/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26433000000000,KT4 7DL,2013-01-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-229380,332 Kingston Road,Ewell,Surrey,,Alleppey Restaurant,Restaurant/Cafe/Canteen,1,10,,445101,5,,51.36823900000000,12/00015/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26387900000000,KT19 0DT,2014-10-20,fhrs_2_en-GB,2,,FHRS,15
-229381,53 Upper High Street,Epsom,Surrey,,American Pizza House,Takeaway/sandwich shop,7844,30,,33541,15,,51.33462200000000,10/00050/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26123000000000,KT17 4RA,2014-10-20,fhrs_0_en-GB,0,,FHRS,20
-229382,210 Chessington Road,West Ewell,Surrey,,Anachem,Retailers - other,4613,,,486942,,,51.35219100000000,01320/0210/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26595000000000,KT19 9XA,2007-04-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-229383,51 Upper High Street,Epsom,Surrey,,Anatolia Kebabs,Takeaway/sandwich shop,7844,20,,24453,15,,51.33462200000000,07760/0051/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26123000000000,KT17 4RA,2014-11-17,fhrs_1_en-GB,1,,FHRS,10
-229384,11 Castle Parade,Ewell By-Pass,Ewell,Surrey,Angel Food And Wine,Retailers - other,4613,20,,730950,15,,51.35364600000000,15/00001/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24586100000000,KT17 2PR,2015-01-07,fhrs_1_en-GB,1,,FHRS,5
-229385,West Park Road,Horton Lane,Epsom,Surrey,Apple Tree Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,486953,5,,51.34175300000000,04/00007/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.30167900000000,KT19 8PB,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-229386,57 Longmead Road,Epsom,Surrey,,Appleby House,Hospitals/Childcare/Caring Premises,5,5,,14175,5,,51.34328200000000,04770/2000/3/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26673200000000,KT19 9RX,2014-04-09,fhrs_5_en-GB,5,,FHRS,5
-229387,11 Haven Drive,Epsom,Surrey,,"Ascot Villa, The Haven",Hospitals/Childcare/Caring Premises,5,5,,33193,5,,51.34510800000000,10/00030/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28504200000000,KT19 7HA,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-229388,41 - 53 High Street,Epsom,Surrey,,Ask,Restaurant/Cafe/Canteen,1,0,,28486,0,,51.33362200000000,09/00003/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26533000000000,KT19 8DD,2014-12-15,fhrs_5_en-GB,5,,FHRS,5
-229389,147 - 153 High Street,Epsom,Surrey,,Assembly Rooms,Pub/bar/nightclub,7843,5,,5675,0,,51.33274900000000,02/00016/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26954100000000,KT19 8EH,2015-01-08,fhrs_5_en-GB,5,,FHRS,5
-229390,Vale Road,Worcester Park,Surrey,,Auriol Junior School,School/college/university,7845,0,,21507,0,,51.36961900000000,07/00031/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25025000000000,KT19 0PJ,2014-09-25,fhrs_5_en-GB,5,,FHRS,0
-229391,Suite C,The Pavilions,1 Weston Road,Epsom,Autobar,Distributors/Transporters,7,,,564249,,,51.34161300000000,13/00033/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25970200000000,KT17 1JG,2013-06-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-229392,1 - 3 Dorking Road,Epsom,Surrey,,"B P Express, Woodcote Service Station",Retailers - other,4613,5,,7595,5,,,03/00090/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,KT18 7JW,2011-06-01,fhrs_5_en-GB,5,,FHRS,5
-229393,30 Stoneleigh Broadway,Stoneleigh,Surrey,,B Radford Family Butcher,Retailers - other,4613,5,,23866,5,,51.36275900000000,07070/0030/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24672000000000,KT17 2HU,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-229394,78 Chessington Road,West Ewell,Surrey,,Ballards Newsagents,Retailers - other,4613,5,,4755,10,,51.34999900000000,01320/0078/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26061900000000,KT19 9UR,2009-04-06,fhrs_3_en-GB,3,,FHRS,10
-229395,Ewell Court House,Lakehurst Road,Ewell,Surrey,Bambini Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,17802,5,,51.36169500000000,06/00034/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26098100000000,KT19 0EB,2014-09-09,fhrs_5_en-GB,5,,FHRS,5
-229396,The Mall Ashley,The Ashley Centre,High Street,Epsom,Bamboo Basket,Takeaway/sandwich shop,7844,5,,45520,5,,51.33244000000000,11/00012/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2014-06-09,fhrs_5_en-GB,5,,FHRS,5
-229397,79 East Street,Epsom,Surrey,,Bar XLR,Pub/bar/nightclub,7843,,,486945,,,51.33788000000000,02370/0079/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25898200000000,KT17 1DT,2012-02-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-229398,364 Kingston Road,Ewell,Surrey,,Bay Leaves,Restaurant/Cafe/Canteen,1,10,,13664,10,,51.36823900000000,04290/0364/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26387900000000,KT19 0DT,2014-04-09,fhrs_3_en-GB,3,,FHRS,10
-229399,,,,,Bay Tree Catering,Restaurant/Cafe/Canteen,1,10,,27614,5,,,08120/0014/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-01-28,fhrs_4_en-GB,4,,FHRS,5
-229400,,,,,Bee Happy Bakery,Restaurant/Cafe/Canteen,1,0,,486983,5,,,12/00026/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2012-07-26,fhrs_5_en-GB,5,,FHRS,0
-229401,163 Ruxley Lane,West Ewell,Surrey,,Best One,Retailers - other,4613,10,,20698,5,,51.36107500000000,06330/0163/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27930400000000,KT19 9EX,2013-01-28,fhrs_4_en-GB,4,,FHRS,5
-229402,14 Stoneleigh Park Road,Stoneleigh,Surrey,,Best One Express,Retailers - other,4613,10,,33449,10,,51.36097400000000,10/00045/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25124100000000,KT19 0QT,2014-08-18,fhrs_3_en-GB,3,,FHRS,10
-229403,6 South Street,Epsom,Surrey,,Bill's Restaurant,Restaurant/Cafe/Canteen,1,0,,691485,0,,51.33226600000000,14/00033/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27096600000000,KT18 7PF,2014-08-12,fhrs_5_en-GB,5,,FHRS,0
-229404,,,,,Biscotti Bonanza,Restaurant/Cafe/Canteen,1,5,,486996,0,,,12/00058/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2012-12-05,fhrs_5_en-GB,5,,FHRS,0
-229405,38 The Oaks Square,Waterloo Road,Epsom,Surrey,Blacks Burgers,Restaurant/Cafe/Canteen,1,10,,591151,5,,51.33424900000000,13/00044/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26704400000000,KT19 8AS,2015-01-12,fhrs_4_en-GB,4,,FHRS,5
-229406,Longmead Road,Epsom,Surrey,,Blenheim High School,School/college/university,7845,10,,14174,5,,51.34534300000000,04770/0051/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26437100000000,KT19 9BD,2014-05-20,fhrs_2_en-GB,2,,FHRS,15
-229407,21 Waterloo Road,Epsom,Surrey,,Blue Mint,Restaurant/Cafe/Canteen,1,10,,21579,15,,51.33565400000000,07/00039/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26835500000000,KT19 8EX,2013-07-25,fhrs_2_en-GB,2,,FHRS,10
-229408,27A The Ashley Centre,High Street,Epsom,Surrey,Boots The Chemist,Retailers - other,4613,5,,21490,5,,51.33244000000000,07/00029/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2007-04-27,fhrs_5_en-GB,5,,FHRS,5
-229409,Market Place Street Traders,High Street,Epsom,Surrey,Bouffies,Mobile caterer,7846,5,,486998,5,,,12/00060/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2012-12-18,fhrs_5_en-GB,5,,FHRS,5
-229410,Spring Street,Ewell,Surrey,,Bourne Hall,Restaurant/Cafe/Canteen,1,5,,21045,0,,51.35066100000000,06740/2001/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25311200000000,KT17 1UD,2014-02-20,fhrs_5_en-GB,5,,FHRS,5
-229411,52 Stoneleigh Broadway,Stoneleigh,Surrey,,Broadway Cafe,Restaurant/Cafe/Canteen,1,5,,17629,5,,51.36236200000000,06/00016/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24539900000000,KT17 2HS,2014-08-19,fhrs_5_en-GB,5,,FHRS,5
-229412,65 Stoneleigh Broadway,Stoneleigh,Surrey,,Budgens,Retailers - supermarkets/hypermarkets,7840,5,,23879,5,,51.36269000000000,07070/0065/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24509900000000,KT17 2HP,2012-04-16,fhrs_5_en-GB,5,,FHRS,5
-229413,33 Burgh Heath Road,Epsom,Surrey,,Burgh Heath Lodge,Hospitals/Childcare/Caring Premises,5,0,,24705,0,,51.32827400000000,08/00005/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25646100000000,KT17 4LP,2014-01-21,fhrs_5_en-GB,5,,FHRS,0
-229414,,,,,C C Design,Retailers - other,4613,5,,486973,0,,,11/00028/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-01-20,fhrs_5_en-GB,5,,FHRS,0
-229415,16 High Street,Epsom,Surrey,,Cafe Crepes,Restaurant/Cafe/Canteen,1,10,,32748,15,,51.33429800000000,10/00003/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26488900000000,KT19 8AH,2014-03-14,fhrs_2_en-GB,2,,FHRS,15
-229416,6 Upper High Street,Epsom,Surrey,,Cafe Metro,Restaurant/Cafe/Canteen,1,5,,576749,10,,51.33418600000000,13/00036/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26157700000000,KT17 4QJ,2014-11-27,fhrs_3_en-GB,3,,FHRS,10
-229417,Kiosk F Ashley Square,The Ashley Centre,High Street,Epsom,Cafe Moka,Restaurant/Cafe/Canteen,1,5,,7793,5,,51.33244000000000,03/00249/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-229418,Bramshot House,137A - 139 High Street,Epsom,Surrey,Cafe Nero,Restaurant/Cafe/Canteen,1,0,,9366,5,,51.33274900000000,04/00003/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26954100000000,KT19 8EH,2012-04-18,fhrs_5_en-GB,5,,FHRS,0
-229419,Epsom Station,Station Approach,Epsom,Surrey,Cafe Noir,Restaurant/Cafe/Canteen,1,5,,22022,5,,51.33442000000000,07/00107/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26822900000000,KT19 8EU,2013-02-25,fhrs_5_en-GB,5,,FHRS,5
-229420,122 High Street,Epsom,Surrey,,Cafe One,Restaurant/Cafe/Canteen,1,5,,9047,10,,51.33326700000000,03570/0122/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26936300000000,KT19 8BJ,2013-08-21,fhrs_4_en-GB,4,,FHRS,5
-229421,129 High Street,Epsom,Surrey,,Cafe Piccola,Restaurant/Cafe/Canteen,1,10,,45676,10,,51.33281900000000,11/00020/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26882000000000,KT19 8EF,2014-01-31,fhrs_2_en-GB,2,,FHRS,15
-229422,2 The Parade,Vale Road,Worcester Park,Surrey,Cafe Prazeres,Restaurant/Cafe/Canteen,1,10,,25295,10,,51.37012900000000,08/00065/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24945500000000,KT4 7EE,2014-06-25,fhrs_3_en-GB,3,,FHRS,10
-229423,228 Chessington Road,West Ewell,Surrey,,Cafe Rosana,Restaurant/Cafe/Canteen,1,5,,486943,10,,51.35315800000000,01320/0228/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26806800000000,KT19 9XF,2013-08-08,fhrs_4_en-GB,4,,FHRS,5
-229424,96 - 98 High Street,Epsom,Surrey,,Cafe Rouge,Restaurant/Cafe/Canteen,1,5,,9046,5,,51.33326700000000,03570/0096/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26936300000000,KT19 8BJ,2014-11-06,fhrs_5_en-GB,5,,FHRS,5
-229425,31 South Street,Epsom,Surrey,,Cafe Viriato,Restaurant/Cafe/Canteen,1,20,,730951,15,,51.33216100000000,15/00002/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27056700000000,KT18 7PJ,2015-01-08,fhrs_1_en-GB,1,,FHRS,10
-229426,,,,,Cake Boudoir,Restaurant/Cafe/Canteen,1,5,,536189,5,,,13/00012/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-04-02,fhrs_5_en-GB,5,,FHRS,0
-229427,,,,,Cake Or Death Cupcakes,Restaurant/Cafe/Canteen,1,5,,45689,5,,,11/00021/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-07-07,fhrs_5_en-GB,5,,FHRS,5
-229428,3 Grove Road,Epsom,Surrey,,Care Solutions UK,Hospitals/Childcare/Caring Premises,5,5,,8803,5,,51.33187600000000,03320/0003/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25979800000000,KT17 4DE,2013-01-23,fhrs_5_en-GB,5,,FHRS,5
-229429,Blenheim Road Street Traders,Blenheim Road,Epsom,Surrey,Catering By The Green,Mobile caterer,7846,10,,17718,10,,,06/00024/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-01-16,fhrs_2_en-GB,2,,FHRS,15
-229430,Chalk Lane,Epsom,Surrey,,Chalk Lane Hotel,Hotel/bed & breakfast/guest house,7842,5,,4538,5,,51.32306000000000,01170/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26806800000000,KT18 7BB,2014-09-03,fhrs_5_en-GB,5,,FHRS,5
-229431,The Derby Square,High Street,Epsom,Surrey,Chapters Cafe,Restaurant/Cafe/Canteen,1,5,,9112,5,,51.33430300000000,03670/0006/A/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26642400000000,KT19 8AG,2014-07-28,fhrs_5_en-GB,5,,FHRS,5
-229432,,,,,Cheeky Chocolatier,Restaurant/Cafe/Canteen,1,5,,486988,5,,,12/00046/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2012-09-28,fhrs_5_en-GB,5,,FHRS,5
-229433,Long Grove Road,Epsom,Surrey,,Cherry Field Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,14601,0,,51.34380700000000,05/00026/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27788300000000,KT19 8TF,2014-08-06,fhrs_5_en-GB,5,,FHRS,5
-229434,Parish Hall,Dell Lane,Stoneleigh,Surrey,Cherrystone Nursery,Hospitals/Childcare/Caring Premises,5,0,,486940,5,,51.36204700000000,002000/2004/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24598500000000,KT17 2NE,2013-08-15,fhrs_5_en-GB,5,,FHRS,0
-229435,123 East Street,Epsom,Surrey,,China Chef,Takeaway/sandwich shop,7844,20,,730952,20,,51.33968000000000,15/00003/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25605700000000,KT17 1EJ,2015-01-20,fhrs_0_en-GB,0,,FHRS,15
-229436,12 Castle Parade,Ewell By-pass,Ewell,Surrey,China Garden Express,Takeaway/sandwich shop,7844,5,,7190,5,,51.35364600000000,02770/0012/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24586100000000,KT17 2PR,2013-12-05,fhrs_4_en-GB,4,,FHRS,10
-229437,Cheam Road,Ewell,Surrey,,Christ Church Ewell,Restaurant/Cafe/Canteen,1,10,,4669,5,,51.34880300000000,01270/2018/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24791300000000,KT17 1AD,2011-07-21,fhrs_4_en-GB,4,,FHRS,5
-229438,,,,,Claire's Cakery,Restaurant/Cafe/Canteen,1,0,,631564,0,,,14/00002/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-01-08,fhrs_5_en-GB,5,,FHRS,5
-229439,39 Church Street,Epsom,Surrey,,Conservative Club,Restaurant/Cafe/Canteen,1,5,,5112,0,,51.33256300000000,01560/0039/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26129400000000,KT17 4PW,2014-07-15,fhrs_5_en-GB,5,,FHRS,0
-229440,332 Kingston Road,Ewell,Surrey,,Co-op,Retailers - supermarkets/hypermarkets,7840,10,,13662,10,,51.36650400000000,04290/0322/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26147400000000,KT19 0SU,2013-08-28,fhrs_3_en-GB,3,,FHRS,10
-229441,34 - 38 Stoneleigh Broadway,Stoneleigh,Surrey,,Co-op,Retailers - supermarkets/hypermarkets,7840,5,,23870,5,,51.36275900000000,07070/0034/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24672000000000,KT17 2HU,2014-02-10,fhrs_4_en-GB,4,,FHRS,10
-229442,Station Approach,Epsom,Surrey,,Co-operative Food,Retailers - supermarkets/hypermarkets,7840,5,,22063,5,,51.33366300000000,07/00113/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26998000000000,KT19 8BY,2011-10-12,fhrs_5_en-GB,5,,FHRS,5
-229443,13 Worple Road,Epsom,Surrey,,Copperfield House,Hospitals/Childcare/Caring Premises,5,5,,28206,5,,51.32830700000000,08730/0013/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26349300000000,KT18 5EP,2014-08-13,fhrs_4_en-GB,4,,FHRS,10
-229444,40 High Street,Ewell,Surrey,,Corteil And Barrat,Retailers - other,4613,5,,9049,5,,51.34904900000000,03580/0040/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24933900000000,KT17 1RW,2012-08-23,fhrs_5_en-GB,5,,FHRS,5
-229445,24 Central Square,The Ashley Centre,High Street,Epsom,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,33261,5,,51.33244000000000,10/00034/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2014-01-14,fhrs_5_en-GB,5,,FHRS,5
-229446,Unit 2,Jubilee House,Station Approach,Epsom,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,617276,0,,51.33442000000000,13/00018/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26822900000000,KT19 8EU,2014-12-12,fhrs_5_en-GB,5,,FHRS,0
-229447,3 - 4 The Parade,Vale Road,Worcester Park,Surrey,Costcutter,Retailers - other,4613,20,,24481,5,,51.37012900000000,07800/0003/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24945500000000,KT4 7EE,2014-11-04,fhrs_1_en-GB,1,,FHRS,10
-229448,74 High Street,Epsom,Surrey,,Costcutter,Retailers - other,4613,10,,664094,10,,51.33351700000000,11/00019/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26799000000000,KT19 8BE,2014-06-04,fhrs_3_en-GB,3,,FHRS,10
-229449,9 - 15 Manor Green Road,Epsom,Surrey,,Costcutter,Retailers - other,4613,,,33415,,,51.34050500000000,10/00043/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27289600000000,KT19 8RA,2010-08-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-229450,,,,,Crazy Cake Lady,Restaurant/Cafe/Canteen,1,5,,32820,5,,,10/00007/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-03-11,fhrs_5_en-GB,5,,FHRS,5
-229451,,,,,Crumbles,Restaurant/Cafe/Canteen,1,10,,486987,5,,,12/00037/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2012-09-10,fhrs_4_en-GB,4,,FHRS,5
-229452,West Drive,Cheam,Surrey,,Cuddington Croft Primary School,School/college/university,7845,0,,27488,5,,51.35103200000000,08060/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.21867500000000,SM2 7NA,2013-12-13,fhrs_5_en-GB,5,,FHRS,5
-229453,Salisbury Road,Worcester Park,Surrey,,Cuddington Primary,School/college/university,7845,0,,20750,5,,51.37217000000000,06390/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25604400000000,KT4 7DD,2012-05-03,fhrs_5_en-GB,5,,FHRS,5
-229454,,,,,Cup Cakes By Claire,Restaurant/Cafe/Canteen,1,,,45365,,,,11/00003/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-02-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-229455,,,,,Cupcake A Licious,Restaurant/Cafe/Canteen,1,5,,25725,5,,,08/00123/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-11-29,fhrs_5_en-GB,5,,FHRS,5
-229456,403 Kingston Road,Ewell,Surrey,,Curry Master,Takeaway/sandwich shop,7844,10,,13666,10,,51.36788900000000,04290/0403/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26451000000000,KT19 0BT,2014-06-10,fhrs_3_en-GB,3,,FHRS,10
-229457,Dell Lane,Stoneleigh,Surrey,,D & H Provisions,Distributors/Transporters,7,,,486948,,,51.36204700000000,03/00045/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24598500000000,KT17 2NE,2013-04-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-229458,Danetree Road,West Ewell,Surrey,,Danetree Junior School,School/college/university,7845,5,,45544,5,,51.35688800000000,11/00013/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27161900000000,KT19 9SE,2014-04-29,fhrs_4_en-GB,4,,FHRS,10
-229459,Central Boiler House,Horton Lane,Epsom,Surrey,David Lloyd Health & Fitness Club,Restaurant/Cafe/Canteen,1,10,,7400,10,,51.34379900000000,03/00013/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.29146700000000,KT19 8PL,2013-08-19,fhrs_3_en-GB,3,,FHRS,10
-229460,Ewell Road,Cheam,Surrey,,David Lloyd Leisure,Restaurant/Cafe/Canteen,1,5,,7235,5,,51.35532200000000,02850/2000/2/003,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.22521600000000,SM3 8DP,2013-08-28,fhrs_5_en-GB,5,,FHRS,5
-229461,7 Corner House Parade,Epsom Road,Ewell,Surrey,Deli Delight,Restaurant/Cafe/Canteen,1,10,,486997,10,,51.34678800000000,12/00059/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25033000000000,KT17 1NX,2014-06-24,fhrs_3_en-GB,3,,FHRS,10
-229462,36 High Street,Ewell,Surrey,,Deli Rossa,Restaurant/Cafe/Canteen,1,10,,21852,10,,51.34904900000000,07/00077/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24933900000000,KT17 1RW,2014-02-20,fhrs_3_en-GB,3,,FHRS,5
-229463,,,,,Delicieux,Restaurant/Cafe/Canteen,1,5,,33028,5,,,10/00020/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-07-05,fhrs_5_en-GB,5,,FHRS,5
-229464,Derby Arms Road,Epsom,Surrey,,Derby Arms,Pub/bar/nightclub,7843,5,,6281,5,,51.31451600000000,02080/0003/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25470100000000,KT18 5LE,2013-08-29,fhrs_4_en-GB,4,,FHRS,10
-229465,1 Cheam Road,Ewell,Surrey,,Dhansiri,Restaurant/Cafe/Canteen,1,10,,7453,10,,51.34901300000000,03/00028/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24872300000000,KT17 1SP,2014-03-12,fhrs_3_en-GB,3,,FHRS,10
-229466,7 Upper High Street,Epsom,Surrey,,Dominos Pizza,Takeaway/sandwich shop,7844,0,,24447,0,,51.33434900000000,07760/0007/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26284800000000,KT17 4QY,2013-06-28,fhrs_5_en-GB,5,,FHRS,0
-229467,6 Norman Avenue,Epsom,Surrey,,Downsend Pre - Prep School,School/college/university,7845,5,,16890,5,,51.33593600000000,05370/0006/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25283900000000,KT17 3AB,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-229468,56 - 58 High Street,Ewell,Surrey,,Dragon Den,Restaurant/Cafe/Canteen,1,10,,9052,10,,51.34832900000000,03580/0056/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24992700000000,KT17 1RL,2014-02-14,fhrs_3_en-GB,3,,FHRS,10
-229469,Grand Stand Road,Epsom,Surrey,,Duchess Stand,Hospitals/Childcare/Caring Premises,5,0,,28888,0,,51.31325400000000,09/00034/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25327100000000,KT18 5LQ,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-229470,78 Kingston Road,Ewell,Surrey,,Eight Bells Public House,Pub/bar/nightclub,7843,10,,13652,5,,51.35461900000000,04290/0078/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25138200000000,KT17 2DU,2014-09-16,fhrs_4_en-GB,4,,FHRS,5
-229471,,,,,Eileen's Bakes,Restaurant/Cafe/Canteen,1,10,,617280,10,,,13/00049/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-09-27,fhrs_3_en-GB,3,,FHRS,10
-229472,,,,,Enzo's,Mobile caterer,7846,5,,33057,5,,,10/00022/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-06-24,fhrs_5_en-GB,5,,FHRS,5
-229473,Ruxley Lane,West Ewell,Surrey,,Epsom And Ewell High School,School/college/university,7845,5,,20700,5,,51.36296900000000,06330/2001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27536900000000,KT19 9JW,2014-05-21,fhrs_4_en-GB,4,,FHRS,10
-229474,20 - 22 Church Street,Epsom,Surrey,,Epsom Beaumont,Hospitals/Childcare/Caring Premises,5,5,,5110,5,,51.33087200000000,01560/0020/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26062500000000,KT17 4QB,2014-02-04,fhrs_4_en-GB,4,,FHRS,10
-229475,41 Church Street,Epsom,Surrey,,Epsom Club,Restaurant/Cafe/Canteen,1,5,,28596,5,,51.33256300000000,09/00011/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26129400000000,KT17 4PW,2014-08-19,fhrs_4_en-GB,4,,FHRS,10
-229476,College Road,Epsom,Surrey,,Epsom College,School/college/university,7845,0,,5280,0,,51.32737400000000,01710/0339/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24494000000000,KT17 4JQ,2013-03-19,fhrs_5_en-GB,5,,FHRS,0
-229477,121 Stamford Green Road,Epsom,Surrey,,Epsom Common Working Mens Club,Restaurant/Cafe/Canteen,1,10,,21225,5,,51.33295300000000,06970/0121/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28345800000000,KT18 7SX,2009-07-16,fhrs_4_en-GB,4,,FHRS,5
-229478,28 Worple Road,Epsom,Surrey,,Epsom Day Nursery,Hospitals/Childcare/Caring Premises,5,5,,28208,5,,51.32964100000000,08730/0028/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26311200000000,KT18 5EH,2014-07-03,fhrs_5_en-GB,5,,FHRS,5
-229479,20A Upper High Street,Epsom,Surrey,,Epsom Diner,Restaurant/Cafe/Canteen,1,10,,7380,10,,51.33418600000000,03/00007/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26157700000000,KT17 4QJ,2014-12-09,fhrs_3_en-GB,3,,FHRS,10
-229480,Epsom General Hospital,Dorking Road,Epsom,Surrey,Epsom General - Restaurant & Coffee Shop,Restaurant/Cafe/Canteen,1,5,,6422,5,,51.32503600000000,02180/2000/8/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27341900000000,KT18 7EG,2014-06-26,fhrs_5_en-GB,5,,FHRS,5
-229481,Epsom General Hospital,Dorking Road,Epsom,Surrey,Epsom General Hospital (Kitchen),Hospitals/Childcare/Caring Premises,5,5,,6421,5,,51.32503600000000,02180/2000/6/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27341900000000,KT18 7EG,2014-06-26,fhrs_5_en-GB,5,,FHRS,5
-229482,Epsom General Hospital,Dorking Road,Epsom,Surrey,Epsom General Hospital Northey Ward,Hospitals/Childcare/Caring Premises,5,5,,9593,5,,51.32503600000000,04/00032/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27341900000000,KT18 7EG,2014-06-26,fhrs_4_en-GB,4,,FHRS,10
-229483,86 Longdown Lane South,Epsom,Surrey,,Epsom Golf Club,Restaurant/Cafe/Canteen,1,20,,486955,10,,51.32323800000000,04740/0086/3/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24440900000000,KT17 4JR,2014-08-04,fhrs_1_en-GB,1,,FHRS,15
-229484,3 Waterloo Road,Epsom,Surrey,,Epsom Grill,Takeaway/sandwich shop,7844,0,,711692,5,,51.33373500000000,13/00059/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26755100000000,KT19 8AY,2013-11-01,fhrs_4_en-GB,4,,FHRS,10
-229485,1 Burgh Heath Road,Epsom,Surrey,,Epsom Lodge,Hospitals/Childcare/Caring Premises,5,20,,2923,15,,51.32890500000000,01000/0001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25774300000000,KT17 4LW,2014-05-13,fhrs_1_en-GB,1,,FHRS,15
-229486,19 Waterloo Road,Epsom,Surrey,,Epsom Newsagents,Retailers - other,4613,10,,24552,5,,51.33565400000000,07900/0019/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26835500000000,KT19 8EX,2010-05-19,fhrs_3_en-GB,3,,FHRS,10
-229487,Ashley Avenue,Epsom,Surrey,,Epsom Playhouse,Restaurant/Cafe/Canteen,1,0,,1622,0,,51.33128400000000,00300/2001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26843300000000,KT18 5AL,2014-04-23,fhrs_5_en-GB,5,,FHRS,0
-229488,Pound Lane,Epsom,Surrey,,Epsom Primary School,School/college/university,7845,5,,17412,5,,51.34102300000000,05920/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26898500000000,KT19 8SD,2014-09-23,fhrs_5_en-GB,5,,FHRS,5
-229489,20 South Street,Epsom,Surrey,,Epsom Thai,Restaurant/Cafe/Canteen,1,10,,14737,10,,51.33226600000000,05/00046/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27096600000000,KT18 7PF,2014-09-17,fhrs_3_en-GB,3,,FHRS,10
-229490,3 The Derby Square,High Street,Epsom,Surrey,Everest Spice,Restaurant/Cafe/Canteen,1,5,,509625,5,,51.33430300000000,13/00008/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26642400000000,KT19 8AG,2014-12-02,fhrs_4_en-GB,4,,FHRS,10
-229491,74 High Street,Ewell,Surrey,,Ewell Bakery,Retailers - other,4613,20,,9054,15,,51.34796200000000,03580/0074/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25005600000000,KT17 1RQ,2014-11-26,fhrs_1_en-GB,1,,FHRS,15
-229492,187 Kingston Road,Ewell,Surrey,,Ewell Cafe,Restaurant/Cafe/Canteen,1,10,,486995,5,,51.36048200000000,12/00057/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25318400000000,KT19 0AA,2014-12-18,fhrs_4_en-GB,4,,FHRS,5
-229493,Church Street,Ewell,Surrey,,Ewell Castle School,School/college/university,7845,10,,5125,5,,51.35064000000000,01570/2003/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24693800000000,KT17 2AW,2014-04-02,fhrs_4_en-GB,4,,FHRS,5
-229494,Ewell Court House,Lakehurst Road,Ewell,Surrey,Ewell Court Tea Room,Restaurant/Cafe/Canteen,1,10,,29054,5,,51.36169500000000,09/00049/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26098100000000,KT19 0EB,2013-02-26,fhrs_4_en-GB,4,,FHRS,5
-229495,179 Chessington Road,West Ewell,Surrey,,Ewell Fish Bar & Kebab,Takeaway/sandwich shop,7844,5,,17708,10,,51.35272600000000,06/00023/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26801300000000,KT19 9XE,2013-11-20,fhrs_3_en-GB,3,,FHRS,10
-229496,West Street,Ewell,Surrey,,Ewell Grove Infant And Nursery School,School/college/university,7845,5,,27713,5,,51.34910200000000,08170/2001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24989700000000,KT17 1UZ,2013-02-13,fhrs_5_en-GB,5,,FHRS,5
-229497,London Road,Ewell,Surrey,,Ewell SF Connect,Retailers - other,4613,5,,14075,5,,,04640/2002/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,KT17 2BN,2013-02-25,fhrs_5_en-GB,5,,FHRS,5
-229498,212 Chessington Road,West Ewell,Surrey,,Ewell Store,Retailers - other,4613,,,4760,,,51.35219100000000,01320/0212/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26595000000000,KT19 9XA,2011-06-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-229499,39 Waterloo Road,Epsom,Surrey,,Fahim Brothers Cash And Carry,Retailers - other,4613,5,,14612,5,,51.33565400000000,05/00027/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26835500000000,KT19 8EX,2013-12-19,fhrs_4_en-GB,4,,FHRS,10
-229500,32 Stoneleigh Broadway,Stoneleigh,Surrey,,Farm Shop,Retailers - other,4613,5,,23868,10,,51.36275900000000,07070/0032/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24672000000000,KT17 2HU,2008-11-19,fhrs_3_en-GB,3,,FHRS,10
-229501,42 Stoneleigh Broadway,Stoneleigh,Surrey,,Fish And Fins,Takeaway/sandwich shop,7844,10,,23872,10,,51.36275900000000,07070/0042/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24672000000000,KT17 2HU,2014-04-29,fhrs_3_en-GB,3,,FHRS,10
-229502,213 Kingston Road,Ewell,Surrey,,Fortune Cookie,Takeaway/sandwich shop,7844,10,,13659,10,,51.36124800000000,04290/0213/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25451900000000,KT19 0AB,2014-08-26,fhrs_3_en-GB,3,,FHRS,10
-229503,218 Chessington Road,West Ewell,Surrey,,Fortune House,Takeaway/sandwich shop,7844,20,,4761,20,,51.35219100000000,01320/0218/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26595000000000,KT19 9XA,2014-07-09,fhrs_0_en-GB,0,,FHRS,20
-229504,,,,,Frothy Coffee Man,Mobile caterer,7846,5,,486972,5,,,11/00002/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-02-11,fhrs_5_en-GB,5,,FHRS,5
-229505,Vale Road Post Office,173 Vale Road,Worcester Park,Surrey,G & A Express,Retailers - other,4613,5,,21776,5,,51.36961900000000,07/00066/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25025000000000,KT19 0PJ,2011-06-07,fhrs_5_en-GB,5,,FHRS,5
-229506,,,,,G D Catering,Mobile caterer,7846,0,,581215,5,,,13/00041/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-08-09,fhrs_5_en-GB,5,,FHRS,5
-229507,The Harrier Centre,Poole Road,West Ewell,Surrey,Giggles Soft Play,Restaurant/Cafe/Canteen,1,10,,33362,5,,51.35734000000000,10/00040/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26687600000000,KT19 9RY,2014-02-19,fhrs_4_en-GB,4,,FHRS,5
-229508,26 West Street,Epsom,Surrey,,Gillespies,Retailers - other,4613,10,,27705,5,,51.33327800000000,08160/0026/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27188900000000,KT18 7RJ,2013-08-16,fhrs_4_en-GB,4,,FHRS,5
-229509,The Kingsway,Ewell,Surrey,,Glyn School,School/college/university,7845,0,,24260,0,,51.34448200000000,07550/0006/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25363400000000,KT17 1LT,2014-01-16,fhrs_5_en-GB,5,,FHRS,5
-229510,86 Chessington Road,West Ewell,Surrey,,Go Sing,Takeaway/sandwich shop,7844,10,,4756,10,,51.34999900000000,01320/0086/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26061900000000,KT19 9UR,2014-03-26,fhrs_3_en-GB,3,,FHRS,10
-229511,,,,,Golden Dragon Noodle Bar,Mobile caterer,7846,5,,617281,10,,,13/00062/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-11-18,fhrs_4_en-GB,4,,FHRS,5
-229512,48 High Street,Epsom,Surrey,,Greggs,Retailers - other,4613,5,,14830,5,,51.33389000000000,05/00058/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26642600000000,KT19 8AJ,2014-10-29,fhrs_4_en-GB,4,,FHRS,10
-229513,58 West Square,The Ashley Centre,High Street,Epsom,Hatty's Sweet Shop,Retailers - other,4613,5,,486994,0,,51.33244000000000,12/00054/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2012-11-05,fhrs_5_en-GB,5,,FHRS,0
-229514,7 Pound Lane,Epsom,Surrey,,Haweli,Takeaway/sandwich shop,7844,10,,17406,10,,51.34033300000000,05920/0007/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26858000000000,KT19 8RY,2014-03-03,fhrs_3_en-GB,3,,FHRS,10
-229515,Howell Hill Grove,Ewell,Surrey,,Hendford Nursing Home,Hospitals/Childcare/Caring Premises,5,10,,9321,5,,51.34410600000000,03980/2006/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.23278600000000,KT17 3ER,2014-05-08,fhrs_4_en-GB,4,,FHRS,5
-229516,25A High Street,Epsom,Surrey,,High Street News,Retailers - other,4613,10,,45618,5,,51.33362200000000,11/00017/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26533000000000,KT19 8DD,2011-05-13,fhrs_4_en-GB,4,,FHRS,5
-229517,18 Mill Road,Epsom,Surrey,,Hillbrow Rest Home,Hospitals/Childcare/Caring Premises,5,10,,16638,5,,51.33725000000000,05150/0018/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25411000000000,KT17 4AR,2015-01-20,fhrs_3_en-GB,3,,FHRS,10
-229518,St Ebbas Hospital,Hook Road,Epsom,Surrey,Hillcroft Care Home,Hospitals/Childcare/Caring Premises,5,5,,486960,10,,,07/00041/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-11-18,fhrs_4_en-GB,4,,FHRS,5
-229519,The Downs Farm,140 Reigate Road,Ewell,Surrey,Hilliard Brothers,Distributors/Transporters,7,,,486958,,,51.33324200000000,06040/0140/0/001,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.23986400000000,KT17 3BX,2011-12-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-229520,Horton Lane,Epsom,Surrey,,Hobbledown,Restaurant/Cafe/Canteen,1,5,,445106,5,,51.34672800000000,12/00024/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28575700000000,KT19 8PT,2014-09-08,fhrs_5_en-GB,5,,FHRS,0
-229521,Langley Vale Road,Epsom,Surrey,,Holiday Inn Express,Hotel/bed & breakfast/guest house,7842,5,,25210,5,,51.31324400000000,08/00056/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25984300000000,KT18 5LG,2008-11-04,fhrs_5_en-GB,5,,FHRS,5
-229522,Unit 44 Central Square,The Ashley Centre,High Street,Epsom,Holland And Barrett,Retailers - other,4613,5,,9105,5,,51.33244000000000,03660/0044/7/29B,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2011-12-05,fhrs_5_en-GB,5,,FHRS,5
-229523,,,,,Home Caterer,Restaurant/Cafe/Canteen,1,5,,46202,5,,,11/00052/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-11-29,fhrs_5_en-GB,5,,FHRS,5
-229524,,,,,Home Caterer,Restaurant/Cafe/Canteen,1,5,,45862,5,,,11/00032/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-08-09,fhrs_5_en-GB,5,,FHRS,5
-229525,,,,,Home Caterer,Restaurant/Cafe/Canteen,1,5,,33010,5,,,10/00019/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-06-24,fhrs_5_en-GB,5,,FHRS,5
-229526,68 Worple Road,Epsom,Surrey,,Homelea Residential Home,Hospitals/Childcare/Caring Premises,5,5,,28209,5,,51.32784700000000,08730/0068/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26586400000000,KT18 7AG,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-229527,Hook Road,Epsom,Surrey,,Horton Park Golf Club,Restaurant/Cafe/Canteen,1,0,,9224,5,,51.35588500000000,03830/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27553400000000,KT19 8QG,2013-07-15,fhrs_5_en-GB,5,,FHRS,5
-229528,447 Kingston Road,Ewell,Surrey,,Hot Spot Cafe,Restaurant/Cafe/Canteen,1,10,,528738,10,,51.36874500000000,06/00039/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26582800000000,KT19 0DB,2014-10-28,fhrs_1_en-GB,1,,FHRS,20
-229529,417 Kingston Road,Ewell,Surrey,,Hung Fung,Takeaway/sandwich shop,7844,10,,13667,10,,51.36788900000000,04290/0417/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26451000000000,KT19 0BT,2014-05-21,fhrs_3_en-GB,3,,FHRS,10
-229530,43 - 47 High Street,Ewell,Surrey,,Il Capriccio,Restaurant/Cafe/Canteen,1,20,,9050,15,,51.34774000000000,03580/0045/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24963300000000,KT17 1RX,2014-09-10,fhrs_1_en-GB,1,,FHRS,15
-229531,17 High Street,Ewell,Surrey,,Il Laghetto Restaurant,Restaurant/Cafe/Canteen,1,10,,25597,10,,51.34927600000000,08/00106/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24891400000000,KT17 1SB,2014-11-05,fhrs_3_en-GB,3,,FHRS,10
-229532,9 The Derby Square,High Street,Epsom,Surrey,Il Ponte,Restaurant/Cafe/Canteen,1,0,,7792,5,,51.33430300000000,03/00244/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26642400000000,KT19 8AG,2013-02-27,fhrs_5_en-GB,5,,FHRS,0
-229533,,,,,Intoxyque,Restaurant/Cafe/Canteen,1,5,,486980,5,,,12/00008/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-06-16,fhrs_5_en-GB,5,,FHRS,5
-229534,69 Poole Road,West Ewell,Surrey,,Jade Garden,Takeaway/sandwich shop,7844,5,,17322,5,,51.35924200000000,05840/0069/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27020900000000,KT19 9SQ,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-229535,242 Ruxley Lane,West Ewell,Surrey,,Jet Petrol Station,Retailers - other,4613,10,,486959,5,,51.36107300000000,06330/0242/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28038100000000,KT19 9EY,2010-04-16,fhrs_4_en-GB,4,,FHRS,5
-229536,1 The Derby Square,High Street,Epsom,Surrey,Jimmy's World Grill And Bar,Restaurant/Cafe/Canteen,1,5,,21980,5,,51.33430300000000,07/00100/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26642400000000,KT19 8AG,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-229537,63 Stoneleigh Broadway,Stoneleigh,Surrey,,JJ's Soft Play,Restaurant/Cafe/Canteen,1,10,,664096,0,,51.36269000000000,14/00020/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24509900000000,KT17 2HP,2014-05-14,fhrs_4_en-GB,4,,FHRS,0
-229538,,,,,Jojo & Lola,Restaurant/Cafe/Canteen,1,5,,45815,5,,,11/00029/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-03-01,fhrs_5_en-GB,5,,FHRS,5
-229539,Community Centre,Cox Lane,West Ewell,Surrey,Jupiter Jo's,Restaurant/Cafe/Canteen,1,5,,46078,5,,51.36689700000000,11/00045/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27957400000000,KT19 9PS,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-229540,,,,,Karen's Kitchen,Restaurant/Cafe/Canteen,1,5,,46129,5,,,11/00048/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-11-25,fhrs_5_en-GB,5,,FHRS,0
-229541,Wells House,Spa Drive,Epsom,Surrey,Karibu,Hospitals/Childcare/Caring Premises,5,5,,21010,5,,51.32803700000000,06700/2001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.29040200000000,KT18 7LR,2011-06-20,fhrs_5_en-GB,5,,FHRS,5
-229542,9 Corner House Parade,Epsom Road,Ewell,Surrey,Kenneth J Eve High Class Butcher,Manufacturers/packers,7839,10,,6883,0,,51.34678800000000,02610/0009/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25033000000000,KT17 1NX,2014-01-24,fhrs_4_en-GB,4,,FHRS,5
-229543,29 Upper High Street,Epsom,Surrey,,Khans Restaurant,Restaurant/Cafe/Canteen,1,20,,25220,15,,51.33434900000000,08/00057/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26284800000000,KT17 4QY,2014-11-05,fhrs_1_en-GB,1,,FHRS,15
-229544,182 East Street,Epsom,Surrey,,King Cafe,Restaurant/Cafe/Canteen,1,10,,690124,10,,51.33939600000000,14/00032/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25570900000000,KT17 1ES,2014-07-29,fhrs_2_en-GB,2,,FHRS,15
-229545,144 East Street,Epsom,Surrey,,Kings Arms,Pub/bar/nightclub,7843,10,,705734,10,,51.33811400000000,14/00036/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25778200000000,KT17 1EY,2014-10-03,fhrs_3_en-GB,3,,FHRS,10
-229546,Gibraltar Crescent,Epsom,Surrey,,Kings Church,Restaurant/Cafe/Canteen,1,10,,564248,5,,51.34637300000000,04770/2001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26110100000000,KT19 9BU,2013-06-13,fhrs_4_en-GB,4,,FHRS,5
-229547,274 - 276 Kingston Road,Ewell,Surrey,,Kingston Road Service Station,Retailers - other,4613,10,,13661,5,,51.36354200000000,04290/0274/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25696000000000,KT19 0SH,2014-11-17,fhrs_4_en-GB,4,,FHRS,5
-229548,56 West Hill,Epsom,Surrey,,Kingswood House School,School/college/university,7845,5,,27531,5,,51.33450700000000,08090/2007/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27841800000000,KT19 8LG,2014-03-26,fhrs_5_en-GB,5,,FHRS,5
-229549,Kiln Lane,Epsom,Surrey,,Kitchen Chef,Mobile caterer,7846,20,,696668,10,,51.34271000000000,14/00029/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26024900000000,KT17 1DH,2014-07-02,fhrs_1_en-GB,1,,FHRS,10
-229550,15 Upper High Street,Epsom,Surrey,,KMS Mediterranean Supermarket,Retailers - other,4613,10,,680080,0,,51.33434900000000,14/00023/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26284800000000,KT17 4QY,2014-06-19,fhrs_4_en-GB,4,,FHRS,5
-229551,67 - 69 High Street,Ewell,Surrey,,La Familia Restaurant,Restaurant/Cafe/Canteen,1,10,,445104,10,,51.34774000000000,12/00018/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24963300000000,KT17 1RX,2015-01-15,fhrs_3_en-GB,3,,FHRS,10
-229552,Banstead Road,Ewell,Surrey,,LA Fitness Sports Club,Restaurant/Cafe/Canteen,1,5,,486949,5,,51.33880300000000,03/00141/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.22940000000000,KT17 3HG,2010-09-15,fhrs_5_en-GB,5,,FHRS,5
-229553,,,,,Learn To Cook Good Food,Restaurant/Cafe/Canteen,1,,,45410,,,,11/00006/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-02-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-229554,193 Kingston Road,Ewell,Surrey,,Legend Kebab,Takeaway/sandwich shop,7844,10,,21804,15,,51.36124800000000,07/00070/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25451900000000,KT19 0AB,2014-03-11,fhrs_2_en-GB,2,,FHRS,10
-229555,59 Burgh Heath Road,Epsom,Surrey,,Leighton House,Hospitals/Childcare/Caring Premises,5,10,,2941,10,,51.32394800000000,01000/0059/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25339500000000,KT17 4NB,2014-11-06,fhrs_2_en-GB,2,,FHRS,15
-229556,Grafton Road,Worcester Park,Surrey,,Linden Bridge School,School/college/university,7845,0,,8746,0,,51.37395300000000,03230/2010/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26228400000000,KT4 7JW,2013-11-26,fhrs_5_en-GB,5,,FHRS,5
-229557,9 College Road,Epsom,Surrey,,Linden House,Hospitals/Childcare/Caring Premises,5,5,,5279,0,,51.32977200000000,01710/0009/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25561400000000,KT17 4HF,2013-11-06,fhrs_5_en-GB,5,,FHRS,0
-229558,St Pauls Church,Northey Avenue,Cheam,Surrey,Little Fishes Pre-School,Hospitals/Childcare/Caring Premises,5,5,,5677,5,,51.34619900000000,02/00023/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.22371600000000,SM2 7HS,2010-11-01,fhrs_5_en-GB,5,,FHRS,5
-229559,4 - 5 Market Parade,High Street,Ewell,Surrey,Londis,Retailers - other,4613,10,,9085,10,,51.34992200000000,03620/0004/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25003900000000,KT17 1SL,2013-07-02,fhrs_3_en-GB,3,,FHRS,5
-229560,427 Kingston Road,Ewell,Surrey,,Londis,Retailers - other,4613,5,,13668,5,,51.36788900000000,04290/0427/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26451000000000,KT19 0BT,2011-06-01,fhrs_5_en-GB,5,,FHRS,5
-229561,Sefton Road,Epsom,Surrey,,Longmead Day Centre,Restaurant/Cafe/Canteen,1,5,,20825,5,,51.34713300000000,06470/2001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26506400000000,KT19 9HG,2014-09-04,fhrs_5_en-GB,5,,FHRS,5
-229562,16 East Street,Epsom,Surrey,,Los Amigos,Takeaway/sandwich shop,7844,10,,7366,15,,51.33483700000000,03/00004/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26359100000000,KT17 1HH,2013-08-22,fhrs_2_en-GB,2,,FHRS,10
-229563,27 East Street,Epsom,Surrey,,Los Amigos Mexican Cantina,Restaurant/Cafe/Canteen,1,5,,25331,10,,51.33589000000000,08/00070/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26309100000000,KT17 1BD,2014-02-19,fhrs_3_en-GB,3,,FHRS,10
-229564,,,,,Lovelace Cakes,Restaurant/Cafe/Canteen,1,0,,735249,5,,,15/00004/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2015-01-30,fhrs_5_en-GB,5,,FHRS,0
-229565,476 Chessington Road,West Ewell,Surrey,,Lucky 5,Takeaway/sandwich shop,7844,10,,17605,10,,51.36022500000000,06/00013/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28019800000000,KT19 9ES,2014-05-28,fhrs_3_en-GB,3,,FHRS,10
-229566,27 Waterloo Road,Epsom,Surrey,,Mabuhay Sari Sari Store,Retailers - other,4613,5,,21302,5,,51.33565400000000,07/00007/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26835500000000,KT19 8EX,2012-12-17,fhrs_5_en-GB,5,,FHRS,5
-229567,3 Market Parade,High Street,Ewell,Surrey,Major Plaice,Restaurant/Cafe/Canteen,1,10,,576747,5,,51.34992200000000,13/00022/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25003900000000,KT17 1SL,2013-07-15,fhrs_3_en-GB,3,,FHRS,10
-229568,29 South Street,Epsom,Surrey,,Makiyaki,Restaurant/Cafe/Canteen,1,10,,33433,10,,51.33216100000000,10/00044/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27056800000000,KT18 7PJ,2014-03-18,fhrs_3_en-GB,3,,FHRS,10
-229569,21 Pound Lane,Epsom,Surrey,,Mannings Fish Bar,Takeaway/sandwich shop,7844,10,,17407,10,,51.34033300000000,05920/0021/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26858000000000,KT19 8RY,2015-01-06,fhrs_3_en-GB,3,,FHRS,10
-229570,20 Central Square,The Ashley Centre,High Street,Epsom,Marks And Spencer Cafe Revive,Restaurant/Cafe/Canteen,1,0,,631560,0,,51.33244000000000,13/00004/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2015-01-30,fhrs_5_en-GB,5,,FHRS,0
-229571,Marks & Spencer,20 Central Square,The Ashley Centre,High Street,Marks And Spencer Food To Go,Restaurant/Cafe/Canteen,1,0,,631561,0,,51.33244000000000,13/00005/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2013-01-29,fhrs_5_en-GB,5,,FHRS,0
-229572,20 Central Square,The Ashley Centre,Epsom,,Marks And Spencers Retail,Retailers - other,4613,0,,9099,0,,51.33244000000000,03660/0020/7/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2013-01-29,fhrs_5_en-GB,5,,FHRS,0
-229573,4 West Street,Epsom,Surrey,,Marquis Of Granby,Pub/bar/nightclub,7843,0,,27701,0,,51.33327800000000,08160/0004/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27188900000000,KT18 7RJ,2014-03-03,fhrs_5_en-GB,5,,FHRS,5
-229574,17 Manor Green Road,Epsom,Surrey,,Master Butchers,Manufacturers/packers,7839,5,,45950,5,,51.34050500000000,11/00038/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27289600000000,KT19 8RA,2011-09-19,fhrs_5_en-GB,5,,FHRS,5
-229575,14 Upper High Street,Epsom,Surrey,,Maxy Express,Takeaway/sandwich shop,7844,20,,25766,20,,51.33418600000000,08/00130/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26157700000000,KT17 4QJ,2014-02-03,fhrs_1_en-GB,1,,FHRS,10
-229576,,,,,Mayfield Lavender,Mobile caterer,7846,10,,581214,5,,,13/00025/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-06-03,fhrs_4_en-GB,4,,FHRS,5
-229577,166 Ruxley Lane,West Ewell,Surrey,,McColls,Retailers - other,4613,10,,20699,5,,51.36260800000000,06330/0166/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27713500000000,KT19 9HA,2014-07-23,fhrs_4_en-GB,4,,FHRS,5
-229578,36 - 40 High Street,Epsom,Surrey,,McDonalds,Restaurant/Cafe/Canteen,1,0,,9044,5,,51.33429800000000,03570/0036/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26488900000000,KT19 8AH,2013-03-07,fhrs_5_en-GB,5,,FHRS,5
-229579,Unit 66 West Square,The Ashley Centre,High Street,Epsom,McDonalds,Restaurant/Cafe/Canteen,1,0,,9108,0,,51.33244000000000,03660/0066/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2015-01-22,fhrs_5_en-GB,5,,FHRS,0
-229580,Newbury Gardens,Ewell,Surrey,,Mead Infants School,Takeaway/sandwich shop,7844,0,,7525,5,,51.37042000000000,03/00059/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25208700000000,KT19 0QG,2013-09-18,fhrs_5_en-GB,5,,FHRS,5
-229581,Sparrow Farm Road,Stoneleigh,Surrey,,Meadow Primary School,School/college/university,7845,5,,29278,5,,51.36618500000000,09/00068/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.23650400000000,KT17 2LW,2014-07-09,fhrs_5_en-GB,5,,FHRS,5
-229582,33 Upper High Street,Epsom,Surrey,,Mei House,Takeaway/sandwich shop,7844,10,,24451,5,,51.33434900000000,07760/0033/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26284800000000,KT17 4QY,2014-01-29,fhrs_4_en-GB,4,,FHRS,5
-229583,,,,,Mel's Magical Cakes,Restaurant/Cafe/Canteen,1,5,,486978,5,,,11/00053/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-11-16,fhrs_5_en-GB,5,,FHRS,5
-229584,96 Chessington Road,West Ewell,Surrey,,Miles Pharmacy,Retailers - other,4613,,,486941,,,51.34999900000000,01320/0096/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26061900000000,KT19 9UR,2008-03-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-229585,204 Kingston Road,Ewell,Surrey,,Mingo's Fish Bar,Takeaway/sandwich shop,7844,5,,13658,10,,51.36131900000000,04290/0204/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25325300000000,KT19 0SF,2014-03-31,fhrs_4_en-GB,4,,FHRS,5
-229586,27 Church Road,Epsom,Surrey,,Mini Store,Retailers - other,4613,10,,5044,10,,51.33336000000000,01530/0027/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25737300000000,KT17 4DZ,2008-11-05,fhrs_3_en-GB,3,,FHRS,5
-229587,Unit 65 West Square,The Ashley Centre,High Street,Epsom,Moka Central,Restaurant/Cafe/Canteen,1,5,,7374,5,,51.33244000000000,03/00006/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2014-09-16,fhrs_5_en-GB,5,,FHRS,5
-229588,1 Castle Parade,Ewell By-Pass,Ewell,Surrey,Monsoon,Restaurant/Cafe/Canteen,1,10,,29266,10,,51.35364600000000,09/00067/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24586100000000,KT17 2PR,2014-11-11,fhrs_3_en-GB,3,,FHRS,10
-229589,39 East Square,The Ashley Centre,High Street,Epsom,Muffin Break,Restaurant/Cafe/Canteen,1,0,,553250,5,,51.33244000000000,13/00021/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-229590,116A Reigate Road,Ewell,Surrey,,Mullberrys,Hotel/bed & breakfast/guest house,7842,5,,20481,5,,51.33324200000000,06040/0116/A/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.23986400000000,KT17 3BX,2011-01-20,fhrs_5_en-GB,5,,FHRS,5
-229591,40 The Oaks Square,Waterloo Road,Epsom,Surrey,Nandos,Restaurant/Cafe/Canteen,1,0,,24556,0,,51.33424900000000,07910/0040/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26704400000000,KT19 8AS,2014-11-03,fhrs_5_en-GB,5,,FHRS,5
-229592,91 Reigate Road,Ewell,Surrey,,Nescot Refectory,School/college/university,7845,5,,20480,5,,51.34257600000000,06040/0091/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24469000000000,KT17 3DS,2014-05-07,fhrs_5_en-GB,5,,FHRS,5
-229593,Nescot,91 Reigate Road,Ewell,Surrey,Nestots At Nescot,Hospitals/Childcare/Caring Premises,5,0,,7788,0,,51.34257600000000,03/00230/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24469000000000,KT17 3DS,2014-08-27,fhrs_5_en-GB,5,,FHRS,5
-229594,Horton Lane,Epsom,Surrey,,New Epsom & Ewell Cottage Hospital,Hospitals/Childcare/Caring Premises,5,0,,17678,0,,51.34175300000000,06/00020/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.30167900000000,KT19 8PB,2013-08-12,fhrs_5_en-GB,5,,FHRS,5
-229595,25 Stoneleigh Broadway,Stoneleigh,Surrey,,New Gallant,Restaurant/Cafe/Canteen,1,20,,29248,15,,51.36305000000000,09/00065/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24633500000000,KT17 2JE,2014-03-12,fhrs_1_en-GB,1,,FHRS,10
-229596,,,,,No Cows Allowed,Restaurant/Cafe/Canteen,1,5,,33399,5,,,10/00042/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-08-11,fhrs_5_en-GB,5,,FHRS,5
-229597,Ewell Road,Cheam,Surrey,,Nonsuch High School For Girls,School/college/university,7845,5,,7234,10,,51.35542800000000,02850/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.22390500000000,SM3 8AB,2013-11-19,fhrs_3_en-GB,3,,FHRS,10
-229598,Nonsuch Park,Ewell Road,Cheam,Surrey,Nonsuch Mansion House,Restaurant/Cafe/Canteen,1,0,,486964,0,,,08/00101/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,SM2 8AL,2013-05-08,fhrs_5_en-GB,5,,FHRS,5
-229599,355 - 357 London Road,Ewell,Surrey,,Nonsuch Park Hotel,Hotel/bed & breakfast/guest house,7842,0,,14073,5,,51.36467200000000,04640/0355/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.23518300000000,KT17 2DE,2013-01-30,fhrs_4_en-GB,4,,FHRS,10
-229600,Chadacre Road,Stoneleigh,Surrey,,Nonsuch Primary School,School/college/university,7845,5,,4519,5,,51.36547100000000,01160/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.23628700000000,KT17 2HQ,2014-04-03,fhrs_5_en-GB,5,,FHRS,5
-229601,400 Chessington Road,West Ewell,Surrey,,Oaklawn,Hospitals/Childcare/Caring Premises,5,5,,7528,5,,51.35725300000000,03/00060/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27439100000000,KT19 9EG,2008-04-02,fhrs_5_en-GB,5,,FHRS,5
-229602,16 - 18 Upper High Street,Epsom,Surrey,,Odeon Cinema,Retailers - other,4613,5,,24448,5,,51.33418600000000,07760/0016/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26157700000000,KT17 4QJ,2012-06-15,fhrs_5_en-GB,5,,FHRS,5
-229603,The Ebbisham Centre,7 The Derby Square,High Street,Epsom,Once Upon A Time Soft Play Cafe,Restaurant/Cafe/Canteen,1,10,,638646,0,,51.33430300000000,14/00006/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26642400000000,KT19 8AG,2014-02-12,fhrs_4_en-GB,4,,FHRS,10
-229604,1 Kings Shade Walk,High Street,Epsom,Surrey,Organico,Retailers - other,4613,10,,680082,0,,51.33289400000000,14/00025/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26841600000000,KT19 8EB,2014-06-24,fhrs_4_en-GB,4,,FHRS,10
-229605,173 Chessington Road,West Ewell,Surrey,,Orissa,Restaurant/Cafe/Canteen,1,20,,664095,10,,51.35272600000000,14/00019/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26801300000000,KT19 9XE,2014-05-08,fhrs_1_en-GB,1,,FHRS,5
-229606,52 High Street,Ewell,Surrey,,Paprika,Restaurant/Cafe/Canteen,1,10,,9051,10,,51.34904900000000,03580/0052/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24933900000000,KT17 1RW,2014-06-11,fhrs_3_en-GB,3,,FHRS,5
-229607,67 Stoneleigh Broadway,Stoneleigh,Surrey,,Patsons Chemist,Retailers - other,4613,,,509622,,,51.36269000000000,07070/0067/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24509900000000,KT17 2HP,2013-02-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-229608,399 Kingston Road,Ewell,Surrey,,Paya Oriental,Takeaway/sandwich shop,7844,5,,486993,10,,51.36788900000000,12/00053/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26451000000000,KT19 0BT,2014-12-16,fhrs_3_en-GB,3,,FHRS,10
-229609,,,,,Pearl Cuisine Ltd,Restaurant/Cafe/Canteen,1,10,,631563,5,,,14/00001/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-01-15,fhrs_4_en-GB,4,,FHRS,5
-229610,8 South Street,Epsom,Surrey,,Pizza Express,Restaurant/Cafe/Canteen,1,0,,20928,0,,51.33226600000000,06610/0008/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27096600000000,KT18 7PF,2013-10-07,fhrs_5_en-GB,5,,FHRS,5
-229611,184 Kingston Road,Ewell,Surrey,,Pizza Go Go,Takeaway/sandwich shop,7844,0,,428447,5,,51.36131900000000,06/00049/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25325300000000,KT19 0SF,2013-01-15,fhrs_5_en-GB,5,,FHRS,5
-229612,37 Stoneleigh Broadway,Stoneleigh,Surrey,,Pizza Hot Express,Takeaway/sandwich shop,7844,20,,45733,5,,51.36305000000000,11/00024/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24633500000000,KT17 2JE,2014-08-21,fhrs_1_en-GB,1,,FHRS,10
-229613,35 Waterloo Road,Epsom,Surrey,,Pizza Hut,Takeaway/sandwich shop,7844,0,,24554,0,,51.33565400000000,07900/0035/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26835500000000,KT19 8EX,2014-06-27,fhrs_5_en-GB,5,,FHRS,5
-229614,69 Stoneleigh Broadway,Stoneleigh,Surrey,,Pizza Village,Restaurant/Cafe/Canteen,1,20,,23882,10,,,07070/0069/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,KT17 2HR,2014-08-05,fhrs_1_en-GB,1,,FHRS,10
-229615,6 Pound Lane,Epsom,Surrey,,Pound Lane Convenience Store,Retailers - other,4613,10,,17405,5,,51.34033300000000,05920/0006/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26858000000000,KT19 8RY,2014-12-16,fhrs_3_en-GB,3,,FHRS,10
-229616,46 High Street,Epsom,Surrey,,Poundland,Retailers - other,4613,5,,32911,5,,,10/00013/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,KT19 8AL,2010-05-17,fhrs_5_en-GB,5,,FHRS,5
-229617,63 Poole Road,West Ewell,Surrey,,Premier,Retailers - other,4613,,,17320,,,51.35924200000000,05840/0063/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27020900000000,KT19 9SQ,2013-08-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-229618,Old Schools Lane,Ewell,Surrey,,Priory Court,Hospitals/Childcare/Caring Premises,5,0,,17070,0,,51.35175500000000,05530/0018/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25413300000000,KT17 1TJ,2014-03-20,fhrs_5_en-GB,5,,FHRS,0
-229619,Platforms 3-4 Catering,Epsom Station,Station Approach,Epsom,Puccinos,Restaurant/Cafe/Canteen,1,,,7783,,,51.33442000000000,03/00224/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26822900000000,KT19 8EU,2013-01-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-229620,272 Kingston Road,Ewell,Surrey,,Queen Adelaide And Dragon,Pub/bar/nightclub,7843,0,,13660,0,,51.36354200000000,04290/0272/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25696000000000,KT19 0SH,2013-06-27,fhrs_5_en-GB,5,,FHRS,0
-229621,,,,,Queen Panini,Restaurant/Cafe/Canteen,1,0,,696669,5,,,14/00034/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-08-21,fhrs_5_en-GB,5,,FHRS,0
-229622,East Street,Epsom,Surrey,,Rainbow Leisure Centre,Restaurant/Cafe/Canteen,1,10,,6660,5,,51.33600500000000,02370/0041/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26231200000000,KT17 1BL,2014-09-15,fhrs_4_en-GB,4,,FHRS,5
-229623,28 Stoneleigh Broadway,Stoneleigh,Surrey,,Rams Kebabs,Takeaway/sandwich shop,7844,5,,23865,10,,51.36275900000000,07070/0028/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24672000000000,KT17 2HU,2008-07-09,fhrs_4_en-GB,4,,FHRS,5
-229624,31 Waterloo Road,Epsom,Surrey,,Readings Newsagents,Retailers - other,4613,5,,24553,5,,51.33565400000000,07900/0031/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26835500000000,KT19 8EX,2011-06-08,fhrs_5_en-GB,5,,FHRS,5
-229625,40 Mill Road,Epsom,Surrey,,Redroof House,Hospitals/Childcare/Caring Premises,5,,,25373,,,51.33725000000000,08/00076/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25411000000000,KT17 4AR,2011-04-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-229626,97 Derek Avenue,West Ewell,Surrey,,Registered Home,Hospitals/Childcare/Caring Premises,5,5,,486974,5,,51.36325600000000,11/00037/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28512600000000,KT19 9HP,2011-09-14,fhrs_4_en-GB,4,,FHRS,10
-229627,24 Northcroft Road,West Ewell,Surrey,,Residential Home,Hospitals/Childcare/Caring Premises,5,5,,16947,5,,51.35575700000000,05390/0024/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26320200000000,KT19 9TA,2010-04-16,fhrs_5_en-GB,5,,FHRS,5
-229628,62 Manor Green Road,Epsom,Surrey,,Residential Home,Hospitals/Childcare/Caring Premises,5,5,,14322,5,,51.34021400000000,04910/0062/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27577800000000,KT19 8RN,2013-01-28,fhrs_4_en-GB,4,,FHRS,10
-229629,9 Longdown Road,Epsom,Surrey,,Residential Home,Hospitals/Childcare/Caring Premises,5,5,,14161,5,,51.33067600000000,04750/0009/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24866100000000,KT17 3PT,2014-01-29,fhrs_4_en-GB,4,,FHRS,10
-229630,478 Chessington Road,West Ewell,Surrey,,Rice & Spice,Takeaway/sandwich shop,7844,20,,711694,15,,51.36022500000000,14/00038/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28019800000000,KT19 9ES,2014-10-29,fhrs_1_en-GB,1,,FHRS,15
-229631,Riverview Road,Ewell,Surrey,,Riverview C Of E Primary School And Nursery,School/college/university,7845,0,,20560,5,,51.36742700000000,06150/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26852100000000,KT19 0JP,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-229632,22 High Street,Epsom,Surrey,,Roosters Piri Piri,Takeaway/sandwich shop,7844,0,,617274,5,,51.33429800000000,13/00007/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26488900000000,KT19 8AH,2014-08-21,fhrs_5_en-GB,5,,FHRS,5
-229633,4 Pound Lane,Epsom,Surrey,,Rose Indian Takeaway,Takeaway/sandwich shop,7844,5,,17404,10,,51.34033300000000,05920/0004/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26858000000000,KT19 8RY,2014-10-21,fhrs_4_en-GB,4,,FHRS,0
-229634,Whitehorse Drive,Epsom,Surrey,,Rosebery School,School/college/university,7845,5,,27901,5,,51.32796200000000,08300/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27791700000000,KT18 7NQ,2014-09-08,fhrs_2_en-GB,2,,FHRS,15
-229635,Old Barn Road,Epsom,Surrey,,Royal Automobile Club,Restaurant/Cafe/Canteen,1,5,,17060,5,,51.31532800000000,05500/2001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27553400000000,KT18 7EW,2015-01-29,fhrs_5_en-GB,5,,FHRS,5
-229636,21 West Street,Epsom,Surrey,,Royal British Legion,Restaurant/Cafe/Canteen,1,5,,27704,10,,51.33269400000000,08160/0021/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27196900000000,KT18 7RL,2008-09-19,fhrs_3_en-GB,3,,FHRS,10
-229637,183 Kingston Road,Ewell,Surrey,,Royal Enterprises,Retailers - other,4613,5,,13655,5,,51.36048200000000,04290/0183/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25318400000000,KT19 0AA,2012-01-26,fhrs_5_en-GB,5,,FHRS,5
-229638,36A Gibraltar Crescent,Epsom,Surrey,,Royal National Institute For The Deaf,Hospitals/Childcare/Caring Premises,5,,,8644,,,51.34727300000000,03120/0036/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26052200000000,KT19 9BT,2013-01-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-229639,172 Ruxley Lane,West Ewell,Surrey,,Ruxley Cafe,Restaurant/Cafe/Canteen,1,0,,45786,5,,51.36260800000000,11/00027/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27713500000000,KT19 9HA,2014-02-26,fhrs_5_en-GB,5,,FHRS,5
-229640,Storage Land Behind,91 Chessington Road,West Ewell,Surrey,S C Caterers - 16 Foot,Mobile caterer,7846,0,,486977,0,,51.35008600000000,11/00049/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26287100000000,KT19 9UU,2013-12-03,fhrs_5_en-GB,5,,FHRS,5
-229641,Storage Land Behind,91 Chessington Road,West Ewell,Surrey,S C Caterers - The Baguette 14 Foot,Mobile caterer,7846,0,,14874,0,,51.35008600000000,05/00064/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26287100000000,KT19 9UU,2013-12-03,fhrs_5_en-GB,5,,FHRS,5
-229642,,,,,S J Dining,Restaurant/Cafe/Canteen,1,,,33483,,,,10/00047/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-02-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-229643,26 South Street,Epsom,Surrey,,Sadiqah's Spice,Restaurant/Cafe/Canteen,1,20,,605505,15,,51.33226600000000,13/00054/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27096600000000,KT18 7PF,2014-11-18,fhrs_0_en-GB,0,,FHRS,20
-229644,61 Poole Road,West Ewell,Surrey,,Saffron,Takeaway/sandwich shop,7844,20,,17319,20,,51.35924200000000,05840/0061/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27020900000000,KT19 9SQ,2014-12-09,fhrs_0_en-GB,0,,FHRS,20
-229645,1 Mercury House,4 - 8 Cheam Road,Ewell,Surrey,Sainsbury's  Local,Retailers - supermarkets/hypermarkets,7840,5,,486979,5,,51.34829900000000,11/00056/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24850600000000,KT17 1SN,2012-01-10,fhrs_5_en-GB,5,,FHRS,5
-229646,Sainsburys,Kiln Lane,Epsom,Surrey,Sainsbury's (Restaurant),Restaurant/Cafe/Canteen,1,0,,617277,5,,51.34204900000000,13/00043/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25753200000000,KT17 1EQ,2013-08-09,fhrs_5_en-GB,5,,FHRS,0
-229647,Kiln Lane,Epsom,Surrey,,Sainsburys (Retail),Retailers - other,4613,0,,7713,5,,51.34204900000000,03/00173/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25753200000000,KT17 1EQ,2013-08-09,fhrs_5_en-GB,5,,FHRS,0
-229648,Kiln Lane,Epsom,Surrey,,Sainsburys Petrol Station,Retailers - other,4613,0,,7730,0,,,03/00184/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-07-13,fhrs_5_en-GB,5,,FHRS,0
-229649,Kiln Lane,Epsom,Surrey,,Sainsburys Staff Canteen,Hotel/bed & breakfast/guest house,7842,5,,7733,10,,51.34204900000000,03/00185/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25753200000000,KT17 1EQ,2013-08-09,fhrs_4_en-GB,4,,FHRS,5
-229650,78 East Street,Epsom,Surrey,,Sam's Kebabs,Takeaway/sandwich shop,7844,5,,6662,5,,51.33670300000000,02370/0078/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25964400000000,KT17 1HF,2014-11-25,fhrs_4_en-GB,4,,FHRS,10
-229651,67 Poole Road,West Ewell,Surrey,,Sanchos Grill,Takeaway/sandwich shop,7844,20,,17321,10,,51.35924200000000,05840/0067/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27020900000000,KT19 9SQ,2014-04-14,fhrs_1_en-GB,1,,FHRS,15
-229652,43 Upper High Street,Epsom,Surrey,,Sandford And Fletcher,Retailers - other,4613,10,,24452,10,,51.33462200000000,07760/0043/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26123000000000,KT17 4RA,2014-06-11,fhrs_3_en-GB,3,,FHRS,10
-229653,372 Chessington Road,West Ewell,Surrey,,Sapling,Hospitals/Childcare/Caring Premises,5,5,,7535,5,,51.35725300000000,03/00062/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27439100000000,KT19 9EG,2008-04-02,fhrs_5_en-GB,5,,FHRS,5
-229654,,,,,Sara Jane Chocolates,Restaurant/Cafe/Canteen,1,5,,32833,5,,,10/00008/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-04-15,fhrs_5_en-GB,5,,FHRS,5
-229655,,,,,Sarah Blake Cakes,Restaurant/Cafe/Canteen,1,5,,445108,0,,,12/00031/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2012-08-17,fhrs_5_en-GB,5,,FHRS,0
-229656,,,,,Sarah Kearns Cakes,Restaurant/Cafe/Canteen,1,5,,45894,5,,,11/00034/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-08-11,fhrs_5_en-GB,5,,FHRS,5
-229657,,,,,Scones And Roses,Restaurant/Cafe/Canteen,1,5,,617278,5,,,13/00045/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-09-23,fhrs_5_en-GB,5,,FHRS,5
-229658,Unit 2,Covell House,Pelman Way,Epsom,Seafare,Takeaway/sandwich shop,7844,5,,605502,0,,51.34607500000000,13/00016/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28420200000000,KT19 8HJ,2014-12-12,fhrs_4_en-GB,4,,FHRS,10
-229659,St Ebbas Hospital,Hook Road,Epsom,Surrey,Sheiling,Hospitals/Childcare/Caring Premises,5,5,,486961,10,,,07/00042/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-11-18,fhrs_4_en-GB,4,,FHRS,5
-229660,34 South Street,Epsom,Surrey,,Sicily,Restaurant/Cafe/Canteen,1,10,,29235,5,,51.33226600000000,09/00064/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27096600000000,KT18 7PF,2014-07-16,fhrs_3_en-GB,3,,FHRS,10
-229661,10 The Derby Square,High Street,Epsom,Surrey,Slug & Lettuce,Pub/bar/nightclub,7843,0,,21499,0,,51.33430300000000,07/00030/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26642400000000,KT19 8AG,2014-11-03,fhrs_5_en-GB,5,,FHRS,5
-229662,12 Ruxley Lane,West Ewell,Surrey,,Smiths Newsagents,Retailers - other,4613,10,,20696,5,,51.36790200000000,06330/0012/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26597500000000,KT19 0JA,2011-12-05,fhrs_4_en-GB,4,,FHRS,5
-229663,,,,,Smokey Pokey,Restaurant/Cafe/Canteen,1,5,,45750,5,,,11/00025/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-07-19,fhrs_5_en-GB,5,,FHRS,5
-229664,Long Grove Road,Epsom,Surrey,,Southfield Park Primary School,School/college/university,7845,0,,9816,0,,,04/00069/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2012-07-09,fhrs_5_en-GB,5,,FHRS,0
-229665,55 Upper High Street,Epsom,Surrey,,Spice Hut,Takeaway/sandwich shop,7844,20,,24456,20,,51.33462200000000,07760/0055/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26123000000000,KT17 4RA,2014-12-05,fhrs_0_en-GB,0,,FHRS,15
-229666,,,,,Sponges Bakehouse,Restaurant/Cafe/Canteen,1,5,,445099,5,,,12/00002/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2012-01-18,fhrs_5_en-GB,5,,FHRS,5
-229667,,,,,Sri Catering,Restaurant/Cafe/Canteen,1,0,,687355,0,,,14/00031/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-07-14,fhrs_5_en-GB,5,,FHRS,0
-229668,Stoneleigh Prayer Hall,Dell Lane,Stoneleigh,Surrey,Sri Raja Rajeswary  Amman Temple,Restaurant/Cafe/Canteen,1,20,,6156,15,,51.36204700000000,02000/2006/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24598500000000,KT17 2NE,2014-01-20,fhrs_1_en-GB,1,,FHRS,15
-229669,7A Rosebery Road,Epsom,Surrey,,St Anthonys Home,Hospitals/Childcare/Caring Premises,5,5,,20592,5,,51.30751900000000,06200/0007/A/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26676000000000,KT18 6AF,2011-06-29,fhrs_5_en-GB,5,,FHRS,5
-229670,6 Downs Road,Epsom,Surrey,,St Christopher's School,School/college/university,7845,5,,6587,5,,51.32767500000000,02300/0006/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25974200000000,KT18 5HE,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-229671,Fennells Mead,Ewell,Surrey,,St Clement's Catholic Primary School,School/college/university,7845,0,,7347,5,,51.35040300000000,02990/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25631000000000,KT17 1TX,2014-03-27,fhrs_5_en-GB,5,,FHRS,0
-229672,Rosebank,Epsom,Surrey,,St Josephs R C Primary School,School/college/university,7845,0,,20584,0,,51.32986700000000,06170/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27355400000000,KT18 7RT,2014-06-02,fhrs_5_en-GB,5,,FHRS,0
-229673,Worple Road,Epsom,Surrey,,St Martin's Church Of England Infant School,School/college/university,7845,0,,486965,5,,51.33175300000000,08730/2004/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26848700000000,KT18 5AD,2014-03-24,fhrs_5_en-GB,5,,FHRS,5
-229674,The Avenue,Worcester Park,Surrey,,St Mary's Church Hall,Restaurant/Cafe/Canteen,1,5,,24003,5,,51.37720900000000,07230/2003/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25328000000000,KT4 7HH,2010-06-10,fhrs_5_en-GB,5,,FHRS,5
-229675,Northey Avenue,Cheam,Surrey,,St Pauls Church,Restaurant/Cafe/Canteen,1,,,16962,,,51.34619900000000,05400/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.22371600000000,SM2 7HS,2010-11-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-229676,Christ Church Mount,Epsom,Surrey,,Stamford Green Primary School,School/college/university,7845,0,,4925,0,,51.33758000000000,01440/2002/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28253800000000,KT19 8LU,2012-05-17,fhrs_5_en-GB,5,,FHRS,0
-229677,,,,,Stamfords/Afters,Restaurant/Cafe/Canteen,1,,,617279,,,,13/00047/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-229678,Unit 31 East Square,The Ashley Centre,High Street,Epsom,Starbucks,Restaurant/Cafe/Canteen,1,5,,9102,5,,51.33244000000000,03660/0031/7/180,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DB,2011-06-06,fhrs_5_en-GB,5,,FHRS,5
-229679,The Glade,Stoneleigh,Surrey,,Stoneleigh Baptist Church,Restaurant/Cafe/Canteen,1,10,,24139,5,,51.36122900000000,07420/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24301500000000,KT17 2HB,2012-11-26,fhrs_4_en-GB,4,,FHRS,5
-229680,19 Stoneleigh Broadway,Stoneleigh,Surrey,,Stoneleigh Brasserie,Restaurant/Cafe/Canteen,1,0,,486962,5,,51.36344600000000,07070/0019/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24755500000000,KT17 2JA,2014-03-12,fhrs_5_en-GB,5,,FHRS,5
-229681,4 Station Approach,Stoneleigh,Surrey,,Stoneleigh Tandoori,Takeaway/sandwich shop,7844,5,,28533,5,,51.36372500000000,09/00006/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24873700000000,KT19 0QZ,2013-09-16,fhrs_4_en-GB,4,,FHRS,10
-229682,,,,,Studio Food,Restaurant/Cafe/Canteen,1,0,,24149,0,,,07440/0029/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-11-19,fhrs_5_en-GB,5,,FHRS,0
-229683,21 High Street,Epsom,Surrey,,Subway,Takeaway/sandwich shop,7844,5,,9041,5,,51.33362200000000,03570/0021/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26533000000000,KT19 8DD,2013-11-15,fhrs_4_en-GB,4,,FHRS,10
-229684,Unit 55 West Square,The Ashley Centre,High Street,Epsom,Superdrug,Retailers - other,4613,5,,9107,5,,51.33244000000000,03660/0055/7/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2011-01-10,fhrs_5_en-GB,5,,FHRS,5
-229685,9 Castle Parade,Ewell By-Pass,Ewell,Surrey,Superfish,Takeaway/sandwich shop,7844,0,,7189,0,,51.35364600000000,02770/0009/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24586100000000,KT17 2PR,2014-05-21,fhrs_5_en-GB,5,,FHRS,5
-229686,181 Kingston Road,Ewell,Surrey,,Surrey Palace,Restaurant/Cafe/Canteen,1,20,,13654,10,,51.36048200000000,04290/0181/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25318400000000,KT19 0AA,2014-04-29,fhrs_1_en-GB,1,,FHRS,10
-229687,,,,,Susie's Kitchen,Restaurant/Cafe/Canteen,1,5,,486956,5,,,05/00038/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2010-07-29,fhrs_5_en-GB,5,,FHRS,5
-229688,Cuddington Court,Rugby Lane,Cheam,Surrey,Sutton And Epsom Rugby Club,Restaurant/Cafe/Canteen,1,10,,27491,10,,51.34937900000000,08070/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.22228600000000,SM2 7NF,2014-04-30,fhrs_3_en-GB,3,,FHRS,10
-229689,92 Chessington Road,West Ewell,Surrey,,Suzy's Coffee Bar,Restaurant/Cafe/Canteen,1,5,,486992,5,,51.34999900000000,12/00051/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26061900000000,KT19 9UR,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-229690,45 Alexandra Road,Epsom,Surrey,,Swallowfields Care Centre,Hospitals/Childcare/Caring Premises,5,0,,17854,0,,51.33050500000000,06/0004/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24984500000000,KT17 4DB,2014-05-29,fhrs_5_en-GB,5,,FHRS,0
-229691,234 - 236 Chessington Road,West Ewell,Surrey,,Tamarind Spice,Restaurant/Cafe/Canteen,1,10,,29190,10,,51.35315800000000,09/00060/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26806800000000,KT19 9XF,2014-08-29,fhrs_4_en-GB,4,,FHRS,0
-229692,68 Stoneleigh Broadway,Stoneleigh,Surrey,,Taste Of Bengal,Restaurant/Cafe/Canteen,1,10,,23881,10,,51.36236200000000,07070/0068/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24539900000000,KT17 2HS,2013-12-12,fhrs_3_en-GB,3,,FHRS,10
-229693,St Ebbas Hospital,Hook Road,Epsom,Surrey,Tattenham House,Hospitals/Childcare/Caring Premises,5,5,,486957,10,,51.34933200000000,05/00059/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27451700000000,KT19 8QJ,2010-11-18,fhrs_4_en-GB,4,,FHRS,5
-229694,,,,,Tea Time Treats,Restaurant/Cafe/Canteen,1,5,,17763,5,,,06/00029/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-07-13,fhrs_5_en-GB,5,,FHRS,5
-229695,St John Chandler Hall,Church Road,Epsom,Surrey,Teddies Day Nursery,Hospitals/Childcare/Caring Premises,5,10,,7786,5,,51.33699300000000,03/00227/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25858500000000,KT17 4AB,2014-07-07,fhrs_4_en-GB,4,,FHRS,5
-229696,164 Ruxley Lane,West Ewell,Surrey,,Tesco Express,Retailers - supermarkets/hypermarkets,7840,5,,657855,0,,51.36330800000000,13/00037/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27580100000000,KT19 9JS,2014-04-10,fhrs_5_en-GB,5,,FHRS,0
-229697,26 Reigate Road,Ewell,Surrey,,Tesco Express,Retailers - other,4613,5,,7184,0,,51.34531200000000,02760/2003/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24903700000000,KT17 1PG,2015-02-10,fhrs_5_en-GB,5,,FHRS,5
-229698,Unit 1,Pelman House,Pelman Way,Epsom,Tesco Express,Retailers - other,4613,5,,45379,5,,51.34656500000000,11/00004/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28383900000000,KT19 8HH,2011-02-08,fhrs_5_en-GB,5,,FHRS,5
-229699,Unit 3,Jubilee House,Station Approach,Epsom,Tesco Express,Retailers - supermarkets/hypermarkets,7840,0,,536190,0,,51.33442000000000,13/00013/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26822900000000,KT19 8EU,2013-04-08,fhrs_5_en-GB,5,,FHRS,0
-229700,207 Kingston Road,Ewell,Surrey,,Thailand Restaurant,Restaurant/Cafe/Canteen,1,10,,17660,10,,51.36124800000000,06/00018/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25451900000000,KT19 0AB,2013-12-17,fhrs_3_en-GB,3,,FHRS,10
-229701,18 Chalk Lane,Epsom,Surrey,,The Amato Inn,Pub/bar/nightclub,7843,20,,4534,15,,51.32396200000000,01170/0018/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26829300000000,KT18 7AS,2013-08-06,fhrs_1_en-GB,1,,FHRS,15
-229702,,,,,The Baby Kitchen,Restaurant/Cafe/Canteen,1,5,,28759,5,,,09/00024/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-02-24,fhrs_5_en-GB,5,,FHRS,5
-229703,,,,,The Baking Tree,Restaurant/Cafe/Canteen,1,0,,649242,5,,,14/00013/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-04-09,fhrs_5_en-GB,5,,FHRS,0
-229704,12 Pikes Hill,Epsom,Surrey,,The Barley Mow,Pub/bar/nightclub,7843,0,,17254,0,,51.33408900000000,05770/0012/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25803500000000,KT17 4EA,2014-09-17,fhrs_5_en-GB,5,,FHRS,5
-229705,7 Manor Green Road,Epsom,Surrey,,The Blenheim Arms,Pub/bar/nightclub,7843,5,,14319,5,,51.34050500000000,04910/0007/0/001,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27289600000000,KT19 8RA,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-229706,The Parade,Epsom,Surrey,,The Comrades Club,Restaurant/Cafe/Canteen,1,,,24313,,,51.33305200000000,07590/2003/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26631400000000,KT18 5BT,2011-07-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-229707,138 Ruxley Lane,West Ewell,Surrey,,The Co-operative,Retailers - other,4613,0,,680081,0,,51.36330800000000,14/00024/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27580100000000,KT19 9JS,2014-06-20,fhrs_5_en-GB,5,,FHRS,0
-229708,82 - 84 High Street,Ewell,Surrey,,The Co-operative Food,Retailers - supermarkets/hypermarkets,7840,5,,9055,5,,51.34779700000000,03580/0082/1/001,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25039200000000,KT17 1RE,2015-01-14,fhrs_4_en-GB,4,,FHRS,10
-229709,The Co-Operative Food,9 Upper High Street,Epsom,Surrey,The Co-operative Food,Retailers - other,4613,5,,591152,10,,51.33434900000000,13/00046/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26284800000000,KT17 4QY,2013-09-24,fhrs_3_en-GB,3,,FHRS,10
-229710,1 Stamford Green Road,Epsom,Surrey,,The Cricketers,Pub/bar/nightclub,7843,5,,21223,5,,51.33170100000000,06970/0001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28209800000000,KT18 7SR,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-229711,25 Pound Lane,Epsom,Surrey,,The Dinner Box,Takeaway/sandwich shop,7844,5,,509623,5,,51.34033300000000,13/00003/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26858000000000,KT19 8RY,2014-08-12,fhrs_4_en-GB,4,,FHRS,10
-229712,Epsom Road,Ewell,Surrey,,The Elders,Hospitals/Childcare/Caring Premises,5,5,,6867,5,,51.34391100000000,02590/2036/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25217700000000,KT17 1JT,2015-01-28,fhrs_5_en-GB,5,,FHRS,5
-229713,,,,,The Epsom Bakehouse,Restaurant/Cafe/Canteen,1,5,,509624,5,,,13/00006/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-02-08,fhrs_5_en-GB,5,,FHRS,5
-229714,71 High Street,Ewell,Surrey,,The Famous Green Man,Pub/bar/nightclub,7843,5,,486952,5,,51.34774000000000,03580/2002/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24963300000000,KT17 1RX,2014-09-10,fhrs_5_en-GB,5,,FHRS,5
-229715,Church Street,Epsom,Surrey,,The Faraday,Pub/bar/nightclub,7843,0,,711693,0,,51.33321500000000,14/00035/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26337900000000,KT17 4NY,2014-10-17,fhrs_4_en-GB,4,,FHRS,10
-229716,Phoenix Club,9 Depot Road,Epsom,Surrey,The Focus Youth Centre,School/college/university,7845,5,,680079,0,,51.33347300000000,14/00022/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26200600000000,KT17 4RJ,2014-06-05,fhrs_5_en-GB,5,,FHRS,0
-229717,Rac (Royal Automobile Country Club),Woodcote Park,Old Barn Road,Epsom,The Fountain Restaurant,Restaurant/Cafe/Canteen,1,5,,7354,5,,51.31532800000000,03/00002/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27553400000000,KT18 7EW,2014-09-10,fhrs_5_en-GB,5,,FHRS,5
-229718,154 Vale Road,Worcester Park,Surrey,,The Gamecock,Pub/bar/nightclub,7843,5,,5674,5,,,02/00015/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,KT17 7ED,2014-02-11,fhrs_4_en-GB,4,,FHRS,10
-229719,195 Kingston Road,Ewell,Surrey,,The Golden Garden,Takeaway/sandwich shop,7844,10,,13657,10,,51.36124800000000,04290/0195/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25451900000000,KT19 0AB,2014-03-12,fhrs_3_en-GB,3,,FHRS,10
-229720,Market Place Street Traders,High Street,Epsom,Surrey,The Green Machine,Mobile caterer,7846,20,,6862,5,,,02590/2016/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-09-09,fhrs_1_en-GB,1,,FHRS,5
-229721,388 Chessington Road,West Ewell,Surrey,,The Greens,Hospitals/Childcare/Caring Premises,5,,,14790,,,51.35725300000000,05/00053/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27439100000000,KT19 9EG,2013-01-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-229722,9 Haven Drive,Epsom,Surrey,,The Haven Birch Villa,Hospitals/Childcare/Caring Premises,5,5,,33174,5,,51.34510800000000,10/00029/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.28504200000000,KT19 7HA,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-229723,2 St Margaret Drive,Epsom,Surrey,,The Haywain,Hotel/bed & breakfast/guest house,7842,5,,28307,5,,51.32930000000000,088306860/0002/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27170900000000,KT18 7LB,2014-09-24,fhrs_4_en-GB,4,,FHRS,10
-229724,Old Malden Lane,Worcester Park,Surrey,,The Hogsmill Tavern Toby Carvery,Restaurant/Cafe/Canteen,1,0,,28196,0,,51.37522600000000,08720/2001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26383000000000,KT4 7PY,2013-04-02,fhrs_5_en-GB,5,,FHRS,5
-229725,,,,,The Jo Harper Cake Company,Restaurant/Cafe/Canteen,1,5,,553248,5,,,13/00019/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-05-21,fhrs_5_en-GB,5,,FHRS,5
-229726,Tattenham Corner Road,Epsom,Surrey,,The Lunchbox,Takeaway/sandwich shop,7844,5,,23953,5,,51.31451600000000,07150/2002/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25470100000000,KT18 5LE,2014-03-19,fhrs_5_en-GB,5,,FHRS,5
-229727,West Park Hospital,Horton Lane,Epsom,Surrey,The Meadows,Hospitals/Childcare/Caring Premises,5,0,,486947,0,,51.33698800000000,03/00022/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.29805100000000,KT19 8PH,2014-03-12,fhrs_5_en-GB,5,,FHRS,0
-229728,19 High Street,Ewell,Surrey,,The Neapolitan Kitchen,Restaurant/Cafe/Canteen,1,10,,486951,10,,51.34927600000000,03580/2001/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24891400000000,KT17 1SB,2013-07-30,fhrs_3_en-GB,3,,FHRS,10
-229729,Epsom Road,Ewell,Surrey,,The Old House,Hospitals/Childcare/Caring Premises,5,5,,6868,5,,51.34551100000000,02590/2038/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25092500000000,KT17 1JZ,2011-06-28,fhrs_5_en-GB,5,,FHRS,5
-229730,Horton Lane,Epsom,Surrey,,The Old Moat Garden Centre,Restaurant/Cafe/Canteen,1,0,,486982,5,,51.34082400000000,12/00019/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.29159100000000,KT19 8PQ,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-229731,86 High Street,Epsom,Surrey,,The Plaice To Eat,Restaurant/Cafe/Canteen,1,0,,726685,5,,51.33342400000000,14/00043/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26841000000000,KT19 8BA,2014-12-15,fhrs_5_en-GB,5,,FHRS,0
-229732,,,,,The Rakow Bake Company,Restaurant/Cafe/Canteen,1,0,,657856,0,,,14/00016/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-04-16,fhrs_5_en-GB,5,,FHRS,0
-229733,14 Heathcote Road,Epsom,Surrey,,The Rising Sun,Pub/bar/nightclub,7843,10,,18001,10,,51.33058200000000,06/00057/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26352200000000,KT18 5DX,2014-11-13,fhrs_3_en-GB,3,,FHRS,10
-229734,1 The Parade,Vale Road,Worcester Park,Surrey,The Rose,Takeaway/sandwich shop,7844,10,,486981,10,,51.37012900000000,12/00010/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24945500000000,KT4 7EE,2014-05-21,fhrs_3_en-GB,3,,FHRS,5
-229735,34 Langley Vale Road,Epsom,Surrey,,The Rubbing House,Restaurant/Cafe/Canteen,1,10,,13816,5,,51.31310400000000,04430/0034/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25829900000000,KT18 5LJ,2013-08-08,fhrs_4_en-GB,4,,FHRS,0
-229736,1 Headley Parade,Langley Vale Road,Epsom,Surrey,The Shop On The Corner,Retailers - other,4613,10,,13823,5,,51.30721800000000,04440/0001/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27073100000000,KT18 6AW,2014-12-02,fhrs_4_en-GB,4,,FHRS,5
-229737,1 London Road,Ewell,Surrey,,The Spring Tavern,Pub/bar/nightclub,7843,0,,14067,5,,51.35144400000000,04640/0001/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25016700000000,KT17 2AY,2014-12-04,fhrs_5_en-GB,5,,FHRS,5
-229738,Stoneleigh Broadway,Stoneleigh,Surrey,,The Station,Pub/bar/nightclub,7843,5,,23890,5,,51.36344600000000,07070/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24755500000000,KT17 2JA,2014-07-10,fhrs_4_en-GB,4,,FHRS,10
-229739,,,,,The Toastie Hut,Mobile caterer,7846,0,,581216,5,,,13/00042/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-229740,84 - 92 Beaconsfield Road,Epsom,Surrey,,The Vale Primary School,School/college/university,7845,5,,2031,5,,51.30411000000000,00590/0084/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26061900000000,KT18 6HP,2014-11-26,fhrs_5_en-GB,5,,FHRS,5
-229741,63 Dorking Road,Epsom,Surrey,,The White Horse Public House,Pub/bar/nightclub,7843,,,486944,,,51.32577400000000,02180/0063/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27586000000000,KT18 7JU,2012-07-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-229742,28 Central Square,The Ashley Centre,High Street,Epsom,Thorntons,Retailers - other,4613,5,,9101,5,,51.33244000000000,03660/0028/7/160,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2011-06-06,fhrs_5_en-GB,5,,FHRS,5
-229743,45 Cheam Road,Ewell,Surrey,,Toby Carvery,Restaurant/Cafe/Canteen,1,5,,4670,10,,51.34630300000000,01270/2019/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24071400000000,KT17 1QZ,2014-10-03,fhrs_4_en-GB,4,,FHRS,5
-229744,43 Waterloo Road,Epsom,Surrey,,Top Chef,Takeaway/sandwich shop,7844,20,,726686,15,,51.33565400000000,14/00044/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26835500000000,KT19 8EX,2014-12-17,fhrs_1_en-GB,1,,FHRS,15
-229745,196 Kingston Road,Ewell,Surrey,,Topo Gigio,Restaurant/Cafe/Canteen,1,10,,486954,10,,51.36131900000000,04290/0196/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25325300000000,KT19 0SF,2014-08-06,fhrs_3_en-GB,3,,FHRS,10
-229746,238 Chessington Road,West Ewell,Surrey,,Tops Pizza,Takeaway/sandwich shop,7844,20,,4762,10,,51.35315800000000,01320/0238/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26806800000000,KT19 9XF,2013-12-17,fhrs_1_en-GB,1,,FHRS,5
-229747,3 Headley Parade,Langley Vale Road,Epsom,Surrey,Total Service Station,Retailers - other,4613,5,,7557,5,,51.30721800000000,03/00072/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27073100000000,KT18 6AW,2010-04-26,fhrs_5_en-GB,5,,FHRS,5
-229748,Station Approach,Epsom,Surrey,,Travelodge,Hotel/bed & breakfast/guest house,7842,5,,617275,5,,51.33442000000000,13/00017/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26822900000000,KT19 8EU,2014-11-18,fhrs_5_en-GB,5,,FHRS,5
-229749,12 The Parade,Epsom,Surrey,,Treetops,Hospitals/Childcare/Caring Premises,5,0,,24307,5,,,07590/0012/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,KT18 5DW,2013-10-18,fhrs_5_en-GB,5,,FHRS,5
-229750,Ewell Road,Cheam,Surrey,,Treetops Nursery,Hospitals/Childcare/Caring Premises,5,5,,486946,5,,51.35579800000000,02850/2000/2/001,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.22340200000000,SM3 8QL,2014-12-08,fhrs_5_en-GB,5,,FHRS,5
-229751,45 Stoneleigh Broadway,Stoneleigh,Surrey,,Trix Cafe,Restaurant/Cafe/Canteen,1,5,,21924,5,,51.36305000000000,07/00090/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24633500000000,KT17 2JE,2012-01-24,fhrs_5_en-GB,5,,FHRS,5
-229752,21 Ashley Road,Epsom,Surrey,,University For The Creative Arts,School/college/university,7845,10,,1644,5,,51.32985000000000,00320/2011/2/001,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26505700000000,KT18 5BE,2014-11-03,fhrs_4_en-GB,4,,FHRS,5
-229753,,,,,Vanilla Smiles,Restaurant/Cafe/Canteen,1,5,,45601,5,,,11/00016/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2011-03-14,fhrs_5_en-GB,5,,FHRS,5
-229754,1 Pound Lane,Epsom,Surrey,,Venda & Cafe Brazil,Retailers - other,4613,10,,605504,10,,51.34033300000000,13/00053/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26858000000000,KT19 8RY,2013-10-23,fhrs_3_en-GB,3,,FHRS,10
-229755,14 East Street,Epsom,Surrey,,Village Kitchen,Restaurant/Cafe/Canteen,1,10,,445109,10,,51.33483700000000,12/00033/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26359100000000,KT17 1HH,2014-03-20,fhrs_3_en-GB,3,,FHRS,10
-229756,5 Castle Parade,Ewell By-Pass,Ewell,Surrey,Village Pizza,Takeaway/sandwich shop,7844,5,,631562,10,,51.35364600000000,13/00027/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24586100000000,KT17 2PR,2014-01-09,fhrs_3_en-GB,3,,FHRS,10
-229757,,,,,"W&W - ""Baguette"" Mobile Food Unit",Mobile caterer,7846,,,735248,,,,14/00008/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-11-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-229758,54 West Square,The Ashley Centre,High Street,Epsom,Waitrose,Retailers - supermarkets/hypermarkets,7840,0,,9106,5,,51.33244000000000,03660/0054/7/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2013-09-06,fhrs_5_en-GB,5,,FHRS,5
-229759,54 West Square,The Ashley Centre,High Street,Epsom,Waitrose Staff Dining Room,Restaurant/Cafe/Canteen,1,0,,7791,5,,51.33244000000000,03/00243/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26932300000000,KT18 5DA,2013-09-06,fhrs_5_en-GB,5,,FHRS,5
-229760,Wallace Fields,Ewell,Surrey,,Wallace Fields Infant School,School/college/university,7845,5,,24521,0,,51.33449700000000,07860/2002/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24685000000000,KT17 3AS,2015-01-12,fhrs_5_en-GB,5,,FHRS,5
-229761,Dorling Drive,Ewell,Surrey,,Wallace Fields Junior School,School/college/university,7845,5,,486963,5,,51.33804200000000,07860/2003/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24994500000000,KT17 3BH,2014-07-21,fhrs_4_en-GB,4,,FHRS,10
-229762,Grafton Road,Worcester Park,Surrey,,Wandgas Athletic Ground,Restaurant/Cafe/Canteen,1,,,8748,,,51.37395300000000,03230/2020/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26228400000000,KT4 7JW,2012-02-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-229763,Spa Drive,Epsom,Surrey,,Wells Social Centre,Restaurant/Cafe/Canteen,1,0,,21002,0,,51.32803700000000,06690/2000/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.29040200000000,KT18 7LR,2014-01-28,fhrs_5_en-GB,5,,FHRS,0
-229764,266 Chessington Road,West Ewell,Surrey,,Wendover House,Hospitals/Childcare/Caring Premises,5,10,,4764,5,,51.35315800000000,01320/0266/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26806800000000,KT19 9XF,2013-01-08,fhrs_4_en-GB,4,,FHRS,5
-229765,100 Chessington Road,West Ewell,Surrey,,West Ewell Fish Bar,Takeaway/sandwich shop,7844,10,,4758,15,,51.34999900000000,01320/0100/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26061900000000,KT19 9UR,2014-11-18,fhrs_2_en-GB,2,,FHRS,10
-229766,Ruxley Lane,West Ewell,Surrey,,West Ewell Infant School,School/college/university,7845,5,,20701,5,,51.36296900000000,06330/2006/2/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27536900000000,KT19 9JW,2014-01-23,fhrs_4_en-GB,4,,FHRS,10
-229767,248 Chessington Road,West Ewell,Surrey,,West Ewell Post Office,Retailers - other,4613,,,4763,,,51.35315800000000,01320/0248/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26806800000000,KT19 9XF,2013-01-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-229768,183 Chessington Road,West Ewell,Surrey,,West Ewell Social Club,Restaurant/Cafe/Canteen,1,,,4759,,,51.35272600000000,01320/0183/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26801300000000,KT19 9XE,2010-07-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-229769,34 Kingston Road,Ewell,Surrey,,Wheatsheaf Inn,Pub/bar/nightclub,7843,,,13651,,,51.35192800000000,04290/0034/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.25065100000000,KT17 2AA,2012-08-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-229770,78 - 80 High Street,Epsom,Surrey,,Wilkinson,Retailers - other,4613,,,486950,,,51.33342400000000,03570/0078/0/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26841000000000,KT19 8BA,2011-01-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-229771,W S Atkins PLC,Woodcote Grove,Ashley Road,Epsom,Woodcote Cafe,Restaurant/Cafe/Canteen,1,5,,1775,5,,51.32436700000000,00400/9000/4/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26645500000000,KT18 5BW,2013-08-20,fhrs_4_en-GB,4,,FHRS,10
-229772,Epsom General Hospital,Dorking Road,Epsom,Surrey,WRVS Retail Shop & Tea Bar @ Epsom Hospital,Restaurant/Cafe/Canteen,1,,,29023,,,51.32503600000000,09/00046/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.27341900000000,KT18 7EG,2013-02-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-229773,,,,,"Wynnings & Weaver - ""21"" Mobile Food Unit",Mobile caterer,7846,0,,719167,0,,,14/00007/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-11-19,fhrs_5_en-GB,5,,FHRS,0
-229774,,,,,"Wynnings & Weaver - ""The Red"" Mobile Food Unit",Mobile caterer,7846,0,,719168,0,,,14/00009/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2014-11-19,fhrs_5_en-GB,5,,FHRS,0
-229775,24 - 26 Church Street,Epsom,Surrey,,Ye Olde Kings Head,Pub/bar/nightclub,7843,5,,5111,5,,51.33087200000000,01560/0024/1/000,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.26062500000000,KT17 4QB,2013-12-09,fhrs_4_en-GB,4,,FHRS,10
-229776,41 Stoneleigh Broadway,Stoneleigh,Surrey,,Yummy Mummy's,Restaurant/Cafe/Canteen,1,10,,25267,10,,51.36305000000000,08/00062/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,-0.24633500000000,KT17 2JE,2014-07-31,fhrs_3_en-GB,3,,FHRS,10
-229777,,,,,Yummy Scrummy Cake Company,Restaurant/Cafe/Canteen,1,5,,486990,5,,,12/00049/COMM,306,ehpublichealth@epsom-ewell.gov.uk,Epsom and Ewell,http://www.epsom-ewell.gov.uk/ratings,,,2012-10-23,fhrs_5_en-GB,5,,FHRS,0
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+229373,1 Stall At Nonsuch Craft Group,Exempt,nan,nan,nan,2013-10-15,,
+229374,143 The Canopy Restaurant,4,10,5,5,2014-07-25,51.332749,-0.269541
+229375,17 Banstead Road,5,5,5,5,2010-01-19,51.3435,-0.234934
+229376,A Cup Of Vintage,5,5,5,5,2010-12-14,,
+229377,A R A Foods,Exempt,nan,nan,nan,2014-09-25,51.322789,-0.253454
+229378,Acorn 30,3,10,10,10,2014-03-27,51.332266,-0.270966
+229379,Albert Residential Home,Exempt,nan,nan,nan,2013-01-23,51.37151,-0.26433
+229380,Alleppey Restaurant,2,15,5,10,2014-10-20,51.368239,-0.263879
+229381,American Pizza House,0,20,15,30,2014-10-20,51.334622,-0.26123
+229382,Anachem,Exempt,nan,nan,nan,2007-04-24,51.352191,-0.26595
+229383,Anatolia Kebabs,1,10,15,20,2014-11-17,51.334622,-0.26123
+229384,Angel Food And Wine,1,5,15,20,2015-01-07,51.353646,-0.245861
+229385,Apple Tree Day Nursery,5,0,5,5,2014-11-12,51.341753,-0.301679
+229386,Appleby House,5,5,5,5,2014-04-09,51.343282,-0.266732
+229387,"Ascot Villa, The Haven",5,5,5,5,2014-02-06,51.345108,-0.285042
+229388,Ask,5,5,0,0,2014-12-15,51.333622,-0.26533
+229389,Assembly Rooms,5,5,0,5,2015-01-08,51.332749,-0.269541
+229390,Auriol Junior School,5,0,0,0,2014-09-25,51.369619,-0.25025
+229391,Autobar,Exempt,nan,nan,nan,2013-06-19,51.341613,-0.259702
+229392,"B P Express, Woodcote Service Station",5,5,5,5,2011-06-01,,
+229393,B Radford Family Butcher,5,5,5,5,2014-05-06,51.362759,-0.24672
+229394,Ballards Newsagents,3,10,10,5,2009-04-06,51.349999,-0.260619
+229395,Bambini Day Nursery,5,5,5,0,2014-09-09,51.361695,-0.260981
+229396,Bamboo Basket,5,5,5,5,2014-06-09,51.33244,-0.269323
+229397,Bar XLR,Exempt,nan,nan,nan,2012-02-15,51.33788,-0.258982
+229398,Bay Leaves,3,10,10,10,2014-04-09,51.368239,-0.263879
+229399,Bay Tree Catering,4,5,5,10,2013-01-28,,
+229400,Bee Happy Bakery,5,0,5,0,2012-07-26,,
+229401,Best One,4,5,5,10,2013-01-28,51.361075,-0.279304
+229402,Best One Express,3,10,10,10,2014-08-18,51.360974,-0.251241
+229403,Bill's Restaurant,5,0,0,0,2014-08-12,51.332266,-0.270966
+229404,Biscotti Bonanza,5,0,0,5,2012-12-05,,
+229405,Blacks Burgers,4,5,5,10,2015-01-12,51.334249,-0.267044
+229406,Blenheim High School,2,15,5,10,2014-05-20,51.345343,-0.264371
+229407,Blue Mint,2,10,15,10,2013-07-25,51.335654,-0.268355
+229408,Boots The Chemist,5,5,5,5,2007-04-27,51.33244,-0.269323
+229409,Bouffies,5,5,5,5,2012-12-18,,
+229410,Bourne Hall,5,5,0,5,2014-02-20,51.350661,-0.253112
+229411,Broadway Cafe,5,5,5,5,2014-08-19,51.362362,-0.245399
+229412,Budgens,5,5,5,5,2012-04-16,51.36269,-0.245099
+229413,Burgh Heath Lodge,5,0,0,0,2014-01-21,51.328274,-0.256461
+229414,C C Design,5,0,0,5,2011-01-20,,
+229415,Cafe Crepes,2,15,15,10,2014-03-14,51.334298,-0.264889
+229416,Cafe Metro,3,10,10,5,2014-11-27,51.334186,-0.261577
+229417,Cafe Moka,5,5,5,5,2014-09-16,51.33244,-0.269323
+229418,Cafe Nero,5,0,5,0,2012-04-18,51.332749,-0.269541
+229419,Cafe Noir,5,5,5,5,2013-02-25,51.33442,-0.268229
+229420,Cafe One,4,5,10,5,2013-08-21,51.333267,-0.269363
+229421,Cafe Piccola,2,15,10,10,2014-01-31,51.332819,-0.26882
+229422,Cafe Prazeres,3,10,10,10,2014-06-25,51.370129,-0.249455
+229423,Cafe Rosana,4,5,10,5,2013-08-08,51.353158,-0.268068
+229424,Cafe Rouge,5,5,5,5,2014-11-06,51.333267,-0.269363
+229425,Cafe Viriato,1,10,15,20,2015-01-08,51.332161,-0.270567
+229426,Cake Boudoir,5,0,5,5,2013-04-02,,
+229427,Cake Or Death Cupcakes,5,5,5,5,2011-07-07,,
+229428,Care Solutions UK,5,5,5,5,2013-01-23,51.331876,-0.259798
+229429,Catering By The Green,2,15,10,10,2014-01-16,,
+229430,Chalk Lane Hotel,5,5,5,5,2014-09-03,51.32306,-0.268068
+229431,Chapters Cafe,5,5,5,5,2014-07-28,51.334303,-0.266424
+229432,Cheeky Chocolatier,5,5,5,5,2012-09-28,,
+229433,Cherry Field Day Nursery,5,5,0,0,2014-08-06,51.343807,-0.277883
+229434,Cherrystone Nursery,5,0,5,0,2013-08-15,51.362047,-0.245985
+229435,China Chef,0,15,20,20,2015-01-20,51.33968,-0.256057
+229436,China Garden Express,4,10,5,5,2013-12-05,51.353646,-0.245861
+229437,Christ Church Ewell,4,5,5,10,2011-07-21,51.348803,-0.247913
+229438,Claire's Cakery,5,5,0,0,2014-01-08,,
+229439,Conservative Club,5,0,0,5,2014-07-15,51.332563,-0.261294
+229440,Co-op,3,10,10,10,2013-08-28,51.366504,-0.261474
+229441,Co-op,4,10,5,5,2014-02-10,51.362759,-0.24672
+229442,Co-operative Food,5,5,5,5,2011-10-12,51.333663,-0.26998
+229443,Copperfield House,4,10,5,5,2014-08-13,51.328307,-0.263493
+229444,Corteil And Barrat,5,5,5,5,2012-08-23,51.349049,-0.249339
+229445,Costa Coffee,5,5,5,0,2014-01-14,51.33244,-0.269323
+229446,Costa Coffee,5,0,0,0,2014-12-12,51.33442,-0.268229
+229447,Costcutter,1,10,5,20,2014-11-04,51.370129,-0.249455
+229448,Costcutter,3,10,10,10,2014-06-04,51.333517,-0.26799
+229449,Costcutter,Exempt,nan,nan,nan,2010-08-10,51.340505,-0.272896
+229450,Crazy Cake Lady,5,5,5,5,2010-03-11,,
+229451,Crumbles,4,5,5,10,2012-09-10,,
+229452,Cuddington Croft Primary School,5,5,5,0,2013-12-13,51.351032,-0.218675
+229453,Cuddington Primary,5,5,5,0,2012-05-03,51.37217,-0.256044
+229454,Cup Cakes By Claire,Exempt,nan,nan,nan,2011-02-07,,
+229455,Cupcake A Licious,5,5,5,5,2010-11-29,,
+229456,Curry Master,3,10,10,10,2014-06-10,51.367889,-0.26451
+229457,D & H Provisions,Exempt,nan,nan,nan,2013-04-05,51.362047,-0.245985
+229458,Danetree Junior School,4,10,5,5,2014-04-29,51.356888,-0.271619
+229459,David Lloyd Health & Fitness Club,3,10,10,10,2013-08-19,51.343799,-0.291467
+229460,David Lloyd Leisure,5,5,5,5,2013-08-28,51.355322,-0.225216
+229461,Deli Delight,3,10,10,10,2014-06-24,51.346788,-0.25033
+229462,Deli Rossa,3,5,10,10,2014-02-20,51.349049,-0.249339
+229463,Delicieux,5,5,5,5,2010-07-05,,
+229464,Derby Arms,4,10,5,5,2013-08-29,51.314516,-0.254701
+229465,Dhansiri,3,10,10,10,2014-03-12,51.349013,-0.248723
+229466,Dominos Pizza,5,0,0,0,2013-06-28,51.334349,-0.262848
+229467,Downsend Pre - Prep School,5,5,5,5,2014-12-01,51.335936,-0.252839
+229468,Dragon Den,3,10,10,10,2014-02-14,51.348329,-0.249927
+229469,Duchess Stand,5,0,0,0,2014-02-05,51.313254,-0.253271
+229470,Eight Bells Public House,4,5,5,10,2014-09-16,51.354619,-0.251382
+229471,Eileen's Bakes,3,10,10,10,2013-09-27,,
+229472,Enzo's,5,5,5,5,2010-06-24,,
+229473,Epsom And Ewell High School,4,10,5,5,2014-05-21,51.362969,-0.275369
+229474,Epsom Beaumont,4,10,5,5,2014-02-04,51.330872,-0.260625
+229475,Epsom Club,4,10,5,5,2014-08-19,51.332563,-0.261294
+229476,Epsom College,5,0,0,0,2013-03-19,51.327374,-0.24494
+229477,Epsom Common Working Mens Club,4,5,5,10,2009-07-16,51.332953,-0.283458
+229478,Epsom Day Nursery,5,5,5,5,2014-07-03,51.329641,-0.263112
+229479,Epsom Diner,3,10,10,10,2014-12-09,51.334186,-0.261577
+229480,Epsom General - Restaurant & Coffee Shop,5,5,5,5,2014-06-26,51.325036,-0.273419
+229481,Epsom General Hospital (Kitchen),5,5,5,5,2014-06-26,51.325036,-0.273419
+229482,Epsom General Hospital Northey Ward,4,10,5,5,2014-06-26,51.325036,-0.273419
+229483,Epsom Golf Club,1,15,10,20,2014-08-04,51.323238,-0.244409
+229484,Epsom Grill,4,10,5,0,2013-11-01,51.333735,-0.267551
+229485,Epsom Lodge,1,15,15,20,2014-05-13,51.328905,-0.257743
+229486,Epsom Newsagents,3,10,5,10,2010-05-19,51.335654,-0.268355
+229487,Epsom Playhouse,5,0,0,0,2014-04-23,51.331284,-0.268433
+229488,Epsom Primary School,5,5,5,5,2014-09-23,51.341023,-0.268985
+229489,Epsom Thai,3,10,10,10,2014-09-17,51.332266,-0.270966
+229490,Everest Spice,4,10,5,5,2014-12-02,51.334303,-0.266424
+229491,Ewell Bakery,1,15,15,20,2014-11-26,51.347962,-0.250056
+229492,Ewell Cafe,4,5,5,10,2014-12-18,51.360482,-0.253184
+229493,Ewell Castle School,4,5,5,10,2014-04-02,51.35064,-0.246938
+229494,Ewell Court Tea Room,4,5,5,10,2013-02-26,51.361695,-0.260981
+229495,Ewell Fish Bar & Kebab,3,10,10,5,2013-11-20,51.352726,-0.268013
+229496,Ewell Grove Infant And Nursery School,5,5,5,5,2013-02-13,51.349102,-0.249897
+229497,Ewell SF Connect,5,5,5,5,2013-02-25,,
+229498,Ewell Store,Exempt,nan,nan,nan,2011-06-01,51.352191,-0.26595
+229499,Fahim Brothers Cash And Carry,4,10,5,5,2013-12-19,51.335654,-0.268355
+229500,Farm Shop,3,10,10,5,2008-11-19,51.362759,-0.24672
+229501,Fish And Fins,3,10,10,10,2014-04-29,51.362759,-0.24672
+229502,Fortune Cookie,3,10,10,10,2014-08-26,51.361248,-0.254519
+229503,Fortune House,0,20,20,20,2014-07-09,51.352191,-0.26595
+229504,Frothy Coffee Man,5,5,5,5,2013-02-11,,
+229505,G & A Express,5,5,5,5,2011-06-07,51.369619,-0.25025
+229506,G D Catering,5,5,5,0,2013-08-09,,
+229507,Giggles Soft Play,4,5,5,10,2014-02-19,51.35734,-0.266876
+229508,Gillespies,4,5,5,10,2013-08-16,51.333278,-0.271889
+229509,Glyn School,5,5,0,0,2014-01-16,51.344482,-0.253634
+229510,Go Sing,3,10,10,10,2014-03-26,51.349999,-0.260619
+229511,Golden Dragon Noodle Bar,4,5,10,5,2013-11-18,,
+229512,Greggs,4,10,5,5,2014-10-29,51.33389,-0.266426
+229513,Hatty's Sweet Shop,5,0,0,5,2012-11-05,51.33244,-0.269323
+229514,Haweli,3,10,10,10,2014-03-03,51.340333,-0.26858
+229515,Hendford Nursing Home,4,5,5,10,2014-05-08,51.344106,-0.232786
+229516,High Street News,4,5,5,10,2011-05-13,51.333622,-0.26533
+229517,Hillbrow Rest Home,3,10,5,10,2015-01-20,51.33725,-0.25411
+229518,Hillcroft Care Home,4,5,10,5,2010-11-18,,
+229519,Hilliard Brothers,Exempt,nan,nan,nan,2011-12-06,51.333242,-0.239864
+229520,Hobbledown,5,0,5,5,2014-09-08,51.346728,-0.285757
+229521,Holiday Inn Express,5,5,5,5,2008-11-04,51.313244,-0.259843
+229522,Holland And Barrett,5,5,5,5,2011-12-05,51.33244,-0.269323
+229523,Home Caterer,5,5,5,5,2011-11-29,,
+229524,Home Caterer,5,5,5,5,2011-08-09,,
+229525,Home Caterer,5,5,5,5,2010-06-24,,
+229526,Homelea Residential Home,5,5,5,5,2014-08-28,51.327847,-0.265864
+229527,Horton Park Golf Club,5,5,5,0,2013-07-15,51.355885,-0.275534
+229528,Hot Spot Cafe,1,20,10,10,2014-10-28,51.368745,-0.265828
+229529,Hung Fung,3,10,10,10,2014-05-21,51.367889,-0.26451
+229530,Il Capriccio,1,15,15,20,2014-09-10,51.34774,-0.249633
+229531,Il Laghetto Restaurant,3,10,10,10,2014-11-05,51.349276,-0.248914
+229532,Il Ponte,5,0,5,0,2013-02-27,51.334303,-0.266424
+229533,Intoxyque,5,5,5,5,2011-06-16,,
+229534,Jade Garden,5,5,5,5,2014-02-24,51.359242,-0.270209
+229535,Jet Petrol Station,4,5,5,10,2010-04-16,51.361073,-0.280381
+229536,Jimmy's World Grill And Bar,5,5,5,5,2013-10-24,51.334303,-0.266424
+229537,JJ's Soft Play,4,0,0,10,2014-05-14,51.36269,-0.245099
+229538,Jojo & Lola,5,5,5,5,2011-03-01,,
+229539,Jupiter Jo's,5,5,5,5,2014-11-25,51.366897,-0.279574
+229540,Karen's Kitchen,5,0,5,5,2013-11-25,,
+229541,Karibu,5,5,5,5,2011-06-20,51.328037,-0.290402
+229542,Kenneth J Eve High Class Butcher,4,5,0,10,2014-01-24,51.346788,-0.25033
+229543,Khans Restaurant,1,15,15,20,2014-11-05,51.334349,-0.262848
+229544,King Cafe,2,15,10,10,2014-07-29,51.339396,-0.255709
+229545,Kings Arms,3,10,10,10,2014-10-03,51.338114,-0.257782
+229546,Kings Church,4,5,5,10,2013-06-13,51.346373,-0.261101
+229547,Kingston Road Service Station,4,5,5,10,2014-11-17,51.363542,-0.25696
+229548,Kingswood House School,5,5,5,5,2014-03-26,51.334507,-0.278418
+229549,Kitchen Chef,1,10,10,20,2014-07-02,51.34271,-0.260249
+229550,KMS Mediterranean Supermarket,4,5,0,10,2014-06-19,51.334349,-0.262848
+229551,La Familia Restaurant,3,10,10,10,2015-01-15,51.34774,-0.249633
+229552,LA Fitness Sports Club,5,5,5,5,2010-09-15,51.338803,-0.2294
+229553,Learn To Cook Good Food,Exempt,nan,nan,nan,2011-02-10,,
+229554,Legend Kebab,2,10,15,10,2014-03-11,51.361248,-0.254519
+229555,Leighton House,2,15,10,10,2014-11-06,51.323948,-0.253395
+229556,Linden Bridge School,5,5,0,0,2013-11-26,51.373953,-0.262284
+229557,Linden House,5,0,0,5,2013-11-06,51.329772,-0.255614
+229558,Little Fishes Pre-School,5,5,5,5,2010-11-01,51.346199,-0.223716
+229559,Londis,3,5,10,10,2013-07-02,51.349922,-0.250039
+229560,Londis,5,5,5,5,2011-06-01,51.367889,-0.26451
+229561,Longmead Day Centre,5,5,5,5,2014-09-04,51.347133,-0.265064
+229562,Los Amigos,2,10,15,10,2013-08-22,51.334837,-0.263591
+229563,Los Amigos Mexican Cantina,3,10,10,5,2014-02-19,51.33589,-0.263091
+229564,Lovelace Cakes,5,0,5,0,2015-01-30,,
+229565,Lucky 5,3,10,10,10,2014-05-28,51.360225,-0.280198
+229566,Mabuhay Sari Sari Store,5,5,5,5,2012-12-17,51.335654,-0.268355
+229567,Major Plaice,3,10,5,10,2013-07-15,51.349922,-0.250039
+229568,Makiyaki,3,10,10,10,2014-03-18,51.332161,-0.270568
+229569,Mannings Fish Bar,3,10,10,10,2015-01-06,51.340333,-0.26858
+229570,Marks And Spencer Cafe Revive,5,0,0,0,2015-01-30,51.33244,-0.269323
+229571,Marks And Spencer Food To Go,5,0,0,0,2013-01-29,51.33244,-0.269323
+229572,Marks And Spencers Retail,5,0,0,0,2013-01-29,51.33244,-0.269323
+229573,Marquis Of Granby,5,5,0,0,2014-03-03,51.333278,-0.271889
+229574,Master Butchers,5,5,5,5,2011-09-19,51.340505,-0.272896
+229575,Maxy Express,1,10,20,20,2014-02-03,51.334186,-0.261577
+229576,Mayfield Lavender,4,5,5,10,2013-06-03,,
+229577,McColls,4,5,5,10,2014-07-23,51.362608,-0.277135
+229578,McDonalds,5,5,5,0,2013-03-07,51.334298,-0.264889
+229579,McDonalds,5,0,0,0,2015-01-22,51.33244,-0.269323
+229580,Mead Infants School,5,5,5,0,2013-09-18,51.37042,-0.252087
+229581,Meadow Primary School,5,5,5,5,2014-07-09,51.366185,-0.236504
+229582,Mei House,4,5,5,10,2014-01-29,51.334349,-0.262848
+229583,Mel's Magical Cakes,5,5,5,5,2011-11-16,,
+229584,Miles Pharmacy,Exempt,nan,nan,nan,2008-03-26,51.349999,-0.260619
+229585,Mingo's Fish Bar,4,5,10,5,2014-03-31,51.361319,-0.253253
+229586,Mini Store,3,5,10,10,2008-11-05,51.33336,-0.257373
+229587,Moka Central,5,5,5,5,2014-09-16,51.33244,-0.269323
+229588,Monsoon,3,10,10,10,2014-11-11,51.353646,-0.245861
+229589,Muffin Break,5,5,5,0,2014-11-25,51.33244,-0.269323
+229590,Mullberrys,5,5,5,5,2011-01-20,51.333242,-0.239864
+229591,Nandos,5,5,0,0,2014-11-03,51.334249,-0.267044
+229592,Nescot Refectory,5,5,5,5,2014-05-07,51.342576,-0.24469
+229593,Nestots At Nescot,5,5,0,0,2014-08-27,51.342576,-0.24469
+229594,New Epsom & Ewell Cottage Hospital,5,5,0,0,2013-08-12,51.341753,-0.301679
+229595,New Gallant,1,10,15,20,2014-03-12,51.36305,-0.246335
+229596,No Cows Allowed,5,5,5,5,2010-08-11,,
+229597,Nonsuch High School For Girls,3,10,10,5,2013-11-19,51.355428,-0.223905
+229598,Nonsuch Mansion House,5,5,0,0,2013-05-08,,
+229599,Nonsuch Park Hotel,4,10,5,0,2013-01-30,51.364672,-0.235183
+229600,Nonsuch Primary School,5,5,5,5,2014-04-03,51.365471,-0.236287
+229601,Oaklawn,5,5,5,5,2008-04-02,51.357253,-0.274391
+229602,Odeon Cinema,5,5,5,5,2012-06-15,51.334186,-0.261577
+229603,Once Upon A Time Soft Play Cafe,4,10,0,10,2014-02-12,51.334303,-0.266424
+229604,Organico,4,10,0,10,2014-06-24,51.332894,-0.268416
+229605,Orissa,1,5,10,20,2014-05-08,51.352726,-0.268013
+229606,Paprika,3,5,10,10,2014-06-11,51.349049,-0.249339
+229607,Patsons Chemist,Exempt,nan,nan,nan,2013-02-05,51.36269,-0.245099
+229608,Paya Oriental,3,10,10,5,2014-12-16,51.367889,-0.26451
+229609,Pearl Cuisine Ltd,4,5,5,10,2014-01-15,,
+229610,Pizza Express,5,5,0,0,2013-10-07,51.332266,-0.270966
+229611,Pizza Go Go,5,5,5,0,2013-01-15,51.361319,-0.253253
+229612,Pizza Hot Express,1,10,5,20,2014-08-21,51.36305,-0.246335
+229613,Pizza Hut,5,5,0,0,2014-06-27,51.335654,-0.268355
+229614,Pizza Village,1,10,10,20,2014-08-05,,
+229615,Pound Lane Convenience Store,3,10,5,10,2014-12-16,51.340333,-0.26858
+229616,Poundland,5,5,5,5,2010-05-17,,
+229617,Premier,Exempt,nan,nan,nan,2013-08-05,51.359242,-0.270209
+229618,Priory Court,5,0,0,0,2014-03-20,51.351755,-0.254133
+229619,Puccinos,Exempt,nan,nan,nan,2013-01-23,51.33442,-0.268229
+229620,Queen Adelaide And Dragon,5,0,0,0,2013-06-27,51.363542,-0.25696
+229621,Queen Panini,5,0,5,0,2014-08-21,,
+229622,Rainbow Leisure Centre,4,5,5,10,2014-09-15,51.336005,-0.262312
+229623,Rams Kebabs,4,5,10,5,2008-07-09,51.362759,-0.24672
+229624,Readings Newsagents,5,5,5,5,2011-06-08,51.335654,-0.268355
+229625,Redroof House,Exempt,nan,nan,nan,2011-04-13,51.33725,-0.25411
+229626,Registered Home,4,10,5,5,2011-09-14,51.363256,-0.285126
+229627,Residential Home,5,5,5,5,2010-04-16,51.355757,-0.263202
+229628,Residential Home,4,10,5,5,2013-01-28,51.340214,-0.275778
+229629,Residential Home,4,10,5,5,2014-01-29,51.330676,-0.248661
+229630,Rice & Spice,1,15,15,20,2014-10-29,51.360225,-0.280198
+229631,Riverview C Of E Primary School And Nursery,5,5,5,0,2013-12-11,51.367427,-0.268521
+229632,Roosters Piri Piri,5,5,5,0,2014-08-21,51.334298,-0.264889
+229633,Rose Indian Takeaway,4,0,10,5,2014-10-21,51.340333,-0.26858
+229634,Rosebery School,2,15,5,5,2014-09-08,51.327962,-0.277917
+229635,Royal Automobile Club,5,5,5,5,2015-01-29,51.315328,-0.275534
+229636,Royal British Legion,3,10,10,5,2008-09-19,51.332694,-0.271969
+229637,Royal Enterprises,5,5,5,5,2012-01-26,51.360482,-0.253184
+229638,Royal National Institute For The Deaf,Exempt,nan,nan,nan,2013-01-23,51.347273,-0.260522
+229639,Ruxley Cafe,5,5,5,0,2014-02-26,51.362608,-0.277135
+229640,S C Caterers - 16 Foot,5,5,0,0,2013-12-03,51.350086,-0.262871
+229641,S C Caterers - The Baguette 14 Foot,5,5,0,0,2013-12-03,51.350086,-0.262871
+229642,S J Dining,Exempt,nan,nan,nan,2011-02-15,,
+229643,Sadiqah's Spice,0,20,15,20,2014-11-18,51.332266,-0.270966
+229644,Saffron,0,20,20,20,2014-12-09,51.359242,-0.270209
+229645,Sainsbury's  Local,5,5,5,5,2012-01-10,51.348299,-0.248506
+229646,Sainsbury's (Restaurant),5,0,5,0,2013-08-09,51.342049,-0.257532
+229647,Sainsburys (Retail),5,0,5,0,2013-08-09,51.342049,-0.257532
+229648,Sainsburys Petrol Station,5,0,0,0,2011-07-13,,
+229649,Sainsburys Staff Canteen,4,5,10,5,2013-08-09,51.342049,-0.257532
+229650,Sam's Kebabs,4,10,5,5,2014-11-25,51.336703,-0.259644
+229651,Sanchos Grill,1,15,10,20,2014-04-14,51.359242,-0.270209
+229652,Sandford And Fletcher,3,10,10,10,2014-06-11,51.334622,-0.26123
+229653,Sapling,5,5,5,5,2008-04-02,51.357253,-0.274391
+229654,Sara Jane Chocolates,5,5,5,5,2010-04-15,,
+229655,Sarah Blake Cakes,5,0,0,5,2012-08-17,,
+229656,Sarah Kearns Cakes,5,5,5,5,2011-08-11,,
+229657,Scones And Roses,5,5,5,5,2013-09-23,,
+229658,Seafare,4,10,0,5,2014-12-12,51.346075,-0.284202
+229659,Sheiling,4,5,10,5,2010-11-18,,
+229660,Sicily,3,10,5,10,2014-07-16,51.332266,-0.270966
+229661,Slug & Lettuce,5,5,0,0,2014-11-03,51.334303,-0.266424
+229662,Smiths Newsagents,4,5,5,10,2011-12-05,51.367902,-0.265975
+229663,Smokey Pokey,5,5,5,5,2011-07-19,,
+229664,Southfield Park Primary School,5,0,0,0,2012-07-09,,
+229665,Spice Hut,0,15,20,20,2014-12-05,51.334622,-0.26123
+229666,Sponges Bakehouse,5,5,5,5,2012-01-18,,
+229667,Sri Catering,5,0,0,0,2014-07-14,,
+229668,Sri Raja Rajeswary  Amman Temple,1,15,15,20,2014-01-20,51.362047,-0.245985
+229669,St Anthonys Home,5,5,5,5,2011-06-29,51.307519,-0.26676
+229670,St Christopher's School,5,0,5,5,2014-11-24,51.327675,-0.259742
+229671,St Clement's Catholic Primary School,5,0,5,0,2014-03-27,51.350403,-0.25631
+229672,St Josephs R C Primary School,5,0,0,0,2014-06-02,51.329867,-0.273554
+229673,St Martin's Church Of England Infant School,5,5,5,0,2014-03-24,51.331753,-0.268487
+229674,St Mary's Church Hall,5,5,5,5,2010-06-10,51.377209,-0.25328
+229675,St Pauls Church,Exempt,nan,nan,nan,2010-11-01,51.346199,-0.223716
+229676,Stamford Green Primary School,5,0,0,0,2012-05-17,51.33758,-0.282538
+229677,Stamfords/Afters,Exempt,nan,nan,nan,2013-09-24,,
+229678,Starbucks,5,5,5,5,2011-06-06,51.33244,-0.269323
+229679,Stoneleigh Baptist Church,4,5,5,10,2012-11-26,51.361229,-0.243015
+229680,Stoneleigh Brasserie,5,5,5,0,2014-03-12,51.363446,-0.247555
+229681,Stoneleigh Tandoori,4,10,5,5,2013-09-16,51.363725,-0.248737
+229682,Studio Food,5,0,0,0,2014-11-19,,
+229683,Subway,4,10,5,5,2013-11-15,51.333622,-0.26533
+229684,Superdrug,5,5,5,5,2011-01-10,51.33244,-0.269323
+229685,Superfish,5,5,0,0,2014-05-21,51.353646,-0.245861
+229686,Surrey Palace,1,10,10,20,2014-04-29,51.360482,-0.253184
+229687,Susie's Kitchen,5,5,5,5,2010-07-29,,
+229688,Sutton And Epsom Rugby Club,3,10,10,10,2014-04-30,51.349379,-0.222286
+229689,Suzy's Coffee Bar,5,5,5,5,2014-05-12,51.349999,-0.260619
+229690,Swallowfields Care Centre,5,0,0,0,2014-05-29,51.330505,-0.249845
+229691,Tamarind Spice,4,0,10,10,2014-08-29,51.353158,-0.268068
+229692,Taste Of Bengal,3,10,10,10,2013-12-12,51.362362,-0.245399
+229693,Tattenham House,4,5,10,5,2010-11-18,51.349332,-0.274517
+229694,Tea Time Treats,5,5,5,5,2011-07-13,,
+229695,Teddies Day Nursery,4,5,5,10,2014-07-07,51.336993,-0.258585
+229696,Tesco Express,5,0,0,5,2014-04-10,51.363308,-0.275801
+229697,Tesco Express,5,5,0,5,2015-02-10,51.345312,-0.249037
+229698,Tesco Express,5,5,5,5,2011-02-08,51.346565,-0.283839
+229699,Tesco Express,5,0,0,0,2013-04-08,51.33442,-0.268229
+229700,Thailand Restaurant,3,10,10,10,2013-12-17,51.361248,-0.254519
+229701,The Amato Inn,1,15,15,20,2013-08-06,51.323962,-0.268293
+229702,The Baby Kitchen,5,5,5,5,2011-02-24,,
+229703,The Baking Tree,5,0,5,0,2014-04-09,,
+229704,The Barley Mow,5,5,0,0,2014-09-17,51.334089,-0.258035
+229705,The Blenheim Arms,5,0,5,5,2014-05-12,51.340505,-0.272896
+229706,The Comrades Club,Exempt,nan,nan,nan,2011-07-12,51.333052,-0.266314
+229707,The Co-operative,5,0,0,0,2014-06-20,51.363308,-0.275801
+229708,The Co-operative Food,4,10,5,5,2015-01-14,51.347797,-0.250392
+229709,The Co-operative Food,3,10,10,5,2013-09-24,51.334349,-0.262848
+229710,The Cricketers,5,5,5,5,2014-01-22,51.331701,-0.282098
+229711,The Dinner Box,4,10,5,5,2014-08-12,51.340333,-0.26858
+229712,The Elders,5,5,5,5,2015-01-28,51.343911,-0.252177
+229713,The Epsom Bakehouse,5,5,5,5,2013-02-08,,
+229714,The Famous Green Man,5,5,5,5,2014-09-10,51.34774,-0.249633
+229715,The Faraday,4,10,0,0,2014-10-17,51.333215,-0.263379
+229716,The Focus Youth Centre,5,0,0,5,2014-06-05,51.333473,-0.262006
+229717,The Fountain Restaurant,5,5,5,5,2014-09-10,51.315328,-0.275534
+229718,The Gamecock,4,10,5,5,2014-02-11,,
+229719,The Golden Garden,3,10,10,10,2014-03-12,51.361248,-0.254519
+229720,The Green Machine,1,5,5,20,2014-09-09,,
+229721,The Greens,Exempt,nan,nan,nan,2013-01-24,51.357253,-0.274391
+229722,The Haven Birch Villa,5,5,5,5,2014-02-06,51.345108,-0.285042
+229723,The Haywain,4,10,5,5,2014-09-24,51.3293,-0.271709
+229724,The Hogsmill Tavern Toby Carvery,5,5,0,0,2013-04-02,51.375226,-0.26383
+229725,The Jo Harper Cake Company,5,5,5,5,2013-05-21,,
+229726,The Lunchbox,5,5,5,5,2014-03-19,51.314516,-0.254701
+229727,The Meadows,5,0,0,0,2014-03-12,51.336988,-0.298051
+229728,The Neapolitan Kitchen,3,10,10,10,2013-07-30,51.349276,-0.248914
+229729,The Old House,5,5,5,5,2011-06-28,51.345511,-0.250925
+229730,The Old Moat Garden Centre,5,0,5,0,2013-12-04,51.340824,-0.291591
+229731,The Plaice To Eat,5,0,5,0,2014-12-15,51.333424,-0.26841
+229732,The Rakow Bake Company,5,0,0,0,2014-04-16,,
+229733,The Rising Sun,3,10,10,10,2014-11-13,51.330582,-0.263522
+229734,The Rose,3,5,10,10,2014-05-21,51.370129,-0.249455
+229735,The Rubbing House,4,0,5,10,2013-08-08,51.313104,-0.258299
+229736,The Shop On The Corner,4,5,5,10,2014-12-02,51.307218,-0.270731
+229737,The Spring Tavern,5,5,5,0,2014-12-04,51.351444,-0.250167
+229738,The Station,4,10,5,5,2014-07-10,51.363446,-0.247555
+229739,The Toastie Hut,5,5,5,0,2013-08-08,,
+229740,The Vale Primary School,5,5,5,5,2014-11-26,51.30411,-0.260619
+229741,The White Horse Public House,Exempt,nan,nan,nan,2012-07-20,51.325774,-0.27586
+229742,Thorntons,5,5,5,5,2011-06-06,51.33244,-0.269323
+229743,Toby Carvery,4,5,10,5,2014-10-03,51.346303,-0.240714
+229744,Top Chef,1,15,15,20,2014-12-17,51.335654,-0.268355
+229745,Topo Gigio,3,10,10,10,2014-08-06,51.361319,-0.253253
+229746,Tops Pizza,1,5,10,20,2013-12-17,51.353158,-0.268068
+229747,Total Service Station,5,5,5,5,2010-04-26,51.307218,-0.270731
+229748,Travelodge,5,5,5,5,2014-11-18,51.33442,-0.268229
+229749,Treetops,5,5,5,0,2013-10-18,,
+229750,Treetops Nursery,5,5,5,5,2014-12-08,51.355798,-0.223402
+229751,Trix Cafe,5,5,5,5,2012-01-24,51.36305,-0.246335
+229752,University For The Creative Arts,4,5,5,10,2014-11-03,51.32985,-0.265057
+229753,Vanilla Smiles,5,5,5,5,2011-03-14,,
+229754,Venda & Cafe Brazil,3,10,10,10,2013-10-23,51.340333,-0.26858
+229755,Village Kitchen,3,10,10,10,2014-03-20,51.334837,-0.263591
+229756,Village Pizza,3,10,10,5,2014-01-09,51.353646,-0.245861
+229757,"W&W - ""Baguette"" Mobile Food Unit",Exempt,nan,nan,nan,2014-11-19,,
+229758,Waitrose,5,5,5,0,2013-09-06,51.33244,-0.269323
+229759,Waitrose Staff Dining Room,5,5,5,0,2013-09-06,51.33244,-0.269323
+229760,Wallace Fields Infant School,5,5,0,5,2015-01-12,51.334497,-0.24685
+229761,Wallace Fields Junior School,4,10,5,5,2014-07-21,51.338042,-0.249945
+229762,Wandgas Athletic Ground,Exempt,nan,nan,nan,2012-02-15,51.373953,-0.262284
+229763,Wells Social Centre,5,0,0,0,2014-01-28,51.328037,-0.290402
+229764,Wendover House,4,5,5,10,2013-01-08,51.353158,-0.268068
+229765,West Ewell Fish Bar,2,10,15,10,2014-11-18,51.349999,-0.260619
+229766,West Ewell Infant School,4,10,5,5,2014-01-23,51.362969,-0.275369
+229767,West Ewell Post Office,Exempt,nan,nan,nan,2013-01-23,51.353158,-0.268068
+229768,West Ewell Social Club,Exempt,nan,nan,nan,2010-07-08,51.352726,-0.268013
+229769,Wheatsheaf Inn,Exempt,nan,nan,nan,2012-08-15,51.351928,-0.250651
+229770,Wilkinson,Exempt,nan,nan,nan,2011-01-28,51.333424,-0.26841
+229771,Woodcote Cafe,4,10,5,5,2013-08-20,51.324367,-0.266455
+229772,WRVS Retail Shop & Tea Bar @ Epsom Hospital,Exempt,nan,nan,nan,2013-02-25,51.325036,-0.273419
+229773,"Wynnings & Weaver - ""21"" Mobile Food Unit",5,0,0,0,2014-11-19,,
+229774,"Wynnings & Weaver - ""The Red"" Mobile Food Unit",5,0,0,0,2014-11-19,,
+229775,Ye Olde Kings Head,4,10,5,5,2013-12-09,51.330872,-0.260625
+229776,Yummy Mummy's,3,10,10,10,2014-07-31,51.36305,-0.246335
+229777,Yummy Scrummy Cake Company,5,0,5,5,2012-10-23,,

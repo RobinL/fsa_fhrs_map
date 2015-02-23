@@ -1,198 +1,198 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-411398,24 Quay Road,,Ballycastle,County Antrim,Ammiroy House,Hotel/bed & breakfast/guest house,7842,10,,442099,0,,55.20387400000000,200,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24372100000000,BT54 6BH,2012-07-24,fhrs_4_en-GB,4,,FHRS,10
-411399,5 Market Street,,Ballycastle,County Antrim,Anzac Bar,Pub/bar/nightclub,7843,5,,406054,0,,55.20132700000000,251,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25157600000000,BT54 6DP,2011-11-15,fhrs_4_en-GB,4,,FHRS,10
-411400,35 North Street,,Ballycastle,County Antrim,Ardaghmore B & B,Hotel/bed & breakfast/guest house,7842,5,,454795,5,,55.20771700000000,224,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24298600000000,BT54 6BP,2012-09-14,fhrs_5_en-GB,5,,FHRS,5
-411401,14 Atlantic Avenue,,Ballycastle,County Antrim,Ard-na-mara B & B,Hotel/bed & breakfast/guest house,7842,0,,727001,0,,55.20569100000000,1479,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25078800000000,BT54 6AL,2014-10-03,fhrs_5_en-GB,5,,FHRS,0
-411402,12 Main Street,,Armoy,County Antrim,Armoy Cross Community Playgroup,Hospitals/Childcare/Caring Premises,5,0,,442110,5,,55.13120900000000,29,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.32642200000000,BT53 8RQ,2013-05-01,fhrs_5_en-GB,5,,FHRS,0
-411403,160 Hillside Road,Armoy,Ballymoney,County Antrim,Armoy Filling Station,Retailers - other,4613,10,,442125,0,,55.13178000000000,43,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.32610000000000,BT53 8RH,2014-02-19,fhrs_4_en-GB,4,,FHRS,10
-411404,2 Gracehill Road,Armoy,Ballymoney,County Antrim,Armoy Primary School,School/college/university,7845,5,,406092,5,,55.12734300000000,684,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.34061500000000,BT53 8TD,2013-06-25,fhrs_4_en-GB,4,,FHRS,10
-411405,4 Shore Street,,Ballymena,County Antrim,Arthur's Tea & Coffee Warehouse,Restaurant/Cafe/Canteen,1,5,,406082,5,,55.08151800000000,548,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06326200000000,BT44 0NA,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-411406,9 Main Street,,Ballintoy,County Antrim,Ballintoy House,Hotel/bed & breakfast/guest house,7842,10,,454799,0,,55.23627600000000,342,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.35779200000000,BT54 6LX,2012-10-08,fhrs_4_en-GB,4,,FHRS,5
-411407,2 Cushendall Road,,Ballycastle,County Antrim,Ballycastle Golf Club,Pub/bar/nightclub,7843,0,,442118,0,,55.20375600000000,384,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.23558900000000,BT54 6QP,2014-11-26,fhrs_4_en-GB,4,,FHRS,10
-411408,33 Rathlin Road,,Ballycastle,County Antrim,Ballycastle High School,School/college/university,7845,5,,442073,5,,55.20398600000000,128,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24966900000000,BT54 6LD,2013-06-24,fhrs_4_en-GB,4,,FHRS,10
-411409,43 Quay Road,,Ballycastle,County Antrim,Ballycastle Primary School,School/college/university,7845,0,,442102,0,,55.20358100000000,205,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24276000000000,BT54 6BJ,2013-01-31,fhrs_5_en-GB,5,,FHRS,5
-411410,4 Carnbore Road,,Bushmills,County Antrim,Ballyhemlin B & B,Hotel/bed & breakfast/guest house,7842,10,,406038,5,,55.18850600000000,1353,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.48576200000000,BT57 8YF,2012-05-02,fhrs_4_en-GB,4,,FHRS,5
-411411,95 Cushendall Road,Ballyvoy,Ballycastle,County Antrim,Ballyvoy Service Station,Retailers - other,4613,5,,642741,0,,55.19950000000000,1462,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.19275800000000,BT54 6QY,2013-12-06,fhrs_5_en-GB,5,,FHRS,5
-411412,95 Cushendall Road,Ballyvoy,Ballycastle,County Antrim,Barnish Coffee House & Tea Room,Restaurant/Cafe/Canteen,1,5,,622524,10,,55.19950000000000,1416,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.19275800000000,BT54 6QY,2013-07-19,fhrs_4_en-GB,4,,FHRS,5
-411413,100 Cushendall Road,Ballyvoy,Ballycastle,County Antrim,Barnish Primary School,School/college/university,7845,0,,406060,5,,55.19950000000000,365,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.19275800000000,BT54 6QY,2014-01-28,fhrs_5_en-GB,5,,FHRS,5
-411414,9 Beechwood Avenue,,Ballycastle,County Antrim,Beechwood B & B,Hotel/bed & breakfast/guest house,7842,10,,442104,10,,55.20521400000000,215,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24260900000000,BT54 6BL,2012-07-24,fhrs_4_en-GB,4,,FHRS,0
-411415,,,,,Bonamargy Chocolates,Manufacturers/packers,7839,5,,406065,0,,,385,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,,,2012-01-24,fhrs_5_en-GB,5,,FHRS,0
-411416,4 The Diamond,,Ballycastle,County Antrim,Boyd Arms,Pub/bar/nightclub,7843,10,,406046,5,,55.20090900000000,184,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24993000000000,BT54 6AW,2012-03-16,fhrs_2_en-GB,2,,FHRS,15
-411417,14 North Street,,Ballycastle,County Antrim,Boyles Cafe,Restaurant/Cafe/Canteen,1,10,,406021,15,,55.20556400000000,1215,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24129000000000,BT54 6BN,2014-08-21,fhrs_2_en-GB,2,,FHRS,10
-411418,8-10 North Street,,Ballycastle,County Antrim,Boyle's Spar,Retailers - supermarkets/hypermarkets,7840,5,,406051,10,,55.20556400000000,221,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24129000000000,BT54 6BN,2014-03-25,fhrs_3_en-GB,3,,FHRS,10
-411419,5-7 Chapel Road,Cushendall,Ballymena,County Ballymena,Bradleys Service Station,Retailers - supermarkets/hypermarkets,7840,5,,688301,5,,55.07982100000000,1430,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06783800000000,BT44 0RS,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-411420,3 Coleraine Road,,Ballycastle,County Antrim,Brannigans,Takeaway/sandwich shop,7844,,,406106,,,55.19848000000000,880,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.26165900000000,BT54 6DX,2014-10-24,fhrs_5_en-GB,5,,FHRS,
-411421,3 Main Street,,Bushmills,County Antrim,Bush Fuels,Retailers - other,4613,5,,406069,0,,55.20691200000000,441,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52380000000000,BT57 8QA,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-411422,7a Priestland Road,,Bushmills,County Antrim,Bushmills Education Centre,Hotel/bed & breakfast/guest house,7842,10,,442143,5,,55.20343400000000,695,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52670900000000,BT57 8QP,2014-02-06,fhrs_4_en-GB,4,,FHRS,5
-411423,9 Dunluce Road,,Bushmills,County Antrim,Bushmills Inn,Hotel/bed & breakfast/guest house,7842,5,,510206,5,,55.20619800000000,480,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52498900000000,BT57 8QG,2012-12-04,fhrs_5_en-GB,5,,FHRS,5
-411424,87 Main Street,,Bushmills,County Antrim,Bushmills Meat Centre,Manufacturers/packers,7839,10,,406076,10,,55.20494900000000,470,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52343300000000,BT57 8QB,2014-01-30,fhrs_3_en-GB,3,,FHRS,10
-411425,37 Main Street,,Bushmills,County Antrim,Bushmills Northern Ireland Co-op,Retailers - supermarkets/hypermarkets,7840,5,,442126,0,,55.20691200000000,442,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52380000000000,BT57 8QA,2014-01-23,fhrs_4_en-GB,4,,FHRS,10
-411426,5 Priestland Road,,Bushmills,County Antrim,Bushmills Primary School,School/college/university,7845,5,,609627,0,,55.20529500000000,693,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52753600000000,BT57 8QW,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-411427,65a Main Street,,Bushmills,County Antrim,Carleton's Corner Shop,Retailers - other,4613,5,,572321,5,,55.20494900000000,1414,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52343300000000,BT57 8QB,2013-06-12,fhrs_5_en-GB,5,,FHRS,5
-411428,51 Moyarget Road,,Ballycastle,County Antrim,Carnatley Lodge,Hotel/bed & breakfast/guest house,7842,5,,555984,5,,55.18375500000000,1405,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.30950900000000,BT54 6HL,2013-04-03,fhrs_5_en-GB,5,,FHRS,5
-411429,23 Causeway Road,,Bushmills,County Antrim,Carnside Guest House,Hotel/bed & breakfast/guest house,7842,5,,535141,5,,55.23192800000000,514,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.51325400000000,BT57 8SU,2013-03-04,fhrs_5_en-GB,5,,FHRS,5
-411430,52 Moycraig Road,Dunseverick,Bushmills,County Antrim,Causeway Lodge,Hotel/bed & breakfast/guest house,7842,,,406105,,,55.22118100000000,874,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.42362800000000,BT57 8TB,2012-06-07,fhrs_5_en-GB,5,,FHRS,
-411431,241 Whitepark Road,Dunseverick,Bushmills,County Antrim,Causeway Tavern B & B,Hotel/bed & breakfast/guest house,7842,5,,572318,5,,55.22249200000000,1262,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.46655600000000,BT57 8SP,2013-06-19,fhrs_5_en-GB,5,,FHRS,5
-411432,12 Ann Street,,Ballycastle,County Antrim,Central Bar,Pub/bar/nightclub,7843,5,,583971,5,,55.20204200000000,79,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24881200000000,BT54 6AD,2014-01-31,fhrs_5_en-GB,5,,FHRS,5
-411433,41 Straid Road,Maghernahar,Ballycastle,County Antrim,Clare Forest Cottage B & B,Hotel/bed & breakfast/guest house,7842,10,,442085,5,,55.20299400000000,1358,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.32027100000000,BT54 6HF,2012-05-22,fhrs_4_en-GB,4,,FHRS,5
-411434,33 Whitepark Road,,Ballycastle,County Antrim,Clare House,Hotel/bed & breakfast/guest house,7842,5,,535139,5,,55.20907500000000,278,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.27770800000000,BT54 6LL,2013-02-18,fhrs_5_en-GB,5,,FHRS,5
-411435,81 Moyle Road,,Ballycastle,County Antrim,Clarewood B&B,Hotel/bed & breakfast/guest house,7842,10,,442089,5,,55.20771200000000,137,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25387300000000,BT54 6LG,2012-07-23,fhrs_4_en-GB,4,,FHRS,0
-411436,103 Knocknacarry Road,Cushendun,Cushendun,County Antrim,Cloneymore B & B,Hotel/bed & breakfast/guest house,7842,10,,442136,5,,55.11833500000000,564,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06152800000000,BT44 0NT,2012-07-18,fhrs_4_en-GB,4,,FHRS,0
-411437,50 Cushendall Road,Ballypatrick,Ballycastle,County Antrim,Colliers Hall B & B,Hotel/bed & breakfast/guest house,7842,5,,468172,5,,55.20234600000000,388,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.22198600000000,BT54 6QR,2012-10-09,fhrs_5_en-GB,5,,FHRS,5
-411438,9 The Diamond,,Ballycastle,County Antrim,Co-Op,Retailers - supermarkets/hypermarkets,7840,0,,442095,0,,55.20090900000000,189,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24993000000000,BT54 6AW,2014-01-22,fhrs_4_en-GB,4,,FHRS,10
-411439,1 Main Street,Cushendun,Ballymena,County Antrim,Corner House,Restaurant/Cafe/Canteen,1,5,,727002,5,,55.12557800000000,1480,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.04256800000000,BT44 0PH,2014-10-29,fhrs_5_en-GB,5,,FHRS,5
-411440,2 Shore Street,Cushendall,Ballymena,County Antrim,Corner Shop,Retailers - other,4613,20,,442135,10,,55.08151800000000,546,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06326200000000,BT44 0NA,2014-03-03,fhrs_1_en-GB,1,,FHRS,10
-411441,5 Drumaroan Road,,Ballycastle,County Antrim,Corrymeela Community,Hotel/bed & breakfast/guest house,7842,10,,442121,10,,55.20645200000000,396,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.20177400000000,BT54 6QU,2014-02-14,fhrs_3_en-GB,3,,FHRS,10
-411442,61 Leyland Road,,Ballycastle,County Antrim,Country Kitchen,Restaurant/Cafe/Canteen,1,5,,442086,5,,55.20330000000000,1359,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.26512400000000,BT54 6EZ,2014-02-07,fhrs_5_en-GB,5,,FHRS,5
-411443,181 Whitepark Road,Dunseverick,Bushmills,County Antrim,Craig Cottage B & B,Hotel/bed & breakfast/guest house,7842,10,,572324,5,,55.23050000000000,499,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.42179800000000,BT57 8SS,2013-06-10,fhrs_4_en-GB,4,,FHRS,5
-411444,26 Craigalappan Road,,Bushmills,County Antrim,Craigalappan Country House,Hotel/bed & breakfast/guest house,7842,10,,555991,5,,55.20642300000000,536,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.39207200000000,BT57 8XY,2013-03-20,fhrs_4_en-GB,4,,FHRS,5
-411445,80 Whitepark Road,,Ballycastle,County Antrim,Crockatinney Guest House,Hotel/bed & breakfast/guest house,7842,5,,555986,5,,55.21681400000000,280,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.29143700000000,BT54 6LP,2013-04-10,fhrs_4_en-GB,4,,FHRS,10
-411446,10 Moyle Road,,Ballycastle,County Antrim,Cross & Passion College,School/college/university,7845,5,,442075,0,,55.20309800000000,130,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25413800000000,BT54 6LA,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-411447,16 Cloghs Road,,Cushendall,County Antrim,Cullentra House,Hotel/bed & breakfast/guest house,7842,5,,555994,5,,55.08190300000000,671,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.09331200000000,BT44 0SP,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-411448,10 Strand View Park,,Cushendun,County Antrim,Cushendun Hotel,Pub/bar/nightclub,7843,5,,406097,5,,55.12491700000000,706,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.04054600000000,BT44 0PL,2012-02-08,fhrs_2_en-GB,2,,FHRS,15
-411449,14 Ann Street,,Ballycastle,County Antrim,D Donnelly,Retailers - other,4613,5,,442147,5,,55.20204200000000,81,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24881200000000,BT54 6AD,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-411450,21 Ann Street,,Ballycastle,County Antrim,D J McLister,Retailers - other,4613,,,442150,,,55.20161300000000,87,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24897200000000,BT54 6AA,2014-08-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-411451,1 Coleraine Road,,Ballycastle,County Antrim,Dalriada Hospital,Hospitals/Childcare/Caring Premises,5,0,,406048,5,,55.19997300000000,193,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25798100000000,BT54 6BA,2013-10-29,fhrs_5_en-GB,5,,FHRS,5
-411452,55-57 Leyland Road,,Ballycastle,County Antrim,Dalriada Rural Surestart,Hospitals/Childcare/Caring Premises,5,5,,535133,0,,55.20330000000000,1217,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.26512400000000,BT54 6EZ,2013-02-05,fhrs_5_en-GB,5,,FHRS,5
-411453,88a Main Street,,Bushmills,County Antrim,Dalriada Rural Surestart,Hospitals/Childcare/Caring Premises,5,,,406029,,,55.20494900000000,1327,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52343300000000,BT57 8QB,2011-11-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-411454,27 Ann Street,,Ballycastle,County Antrim,Dalriada Rural Surestart Sunbeams Creche,Hospitals/Childcare/Caring Premises,5,10,,673739,0,,55.20161300000000,92,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24897200000000,BT54 6AA,2014-02-13,fhrs_4_en-GB,4,,FHRS,10
-411455,76 Moyle Road,,Ballycastle,County Antrim,Desalis,Retailers - other,4613,10,,591978,5,,55.20771200000000,136,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25387300000000,BT54 6LG,2013-05-28,fhrs_4_en-GB,4,,FHRS,5
-411456,6 The Diamond,,Ballycastle,County Antrim,Diamond Bar,Pub/bar/nightclub,7843,0,,572323,0,,55.20090900000000,186,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24993000000000,BT54 6AW,2013-06-26,fhrs_4_en-GB,4,,FHRS,10
-411457,16 Dunluce Road,,Bushmills,County Antrim,Dunluce School,School/college/university,7845,5,,442128,0,,55.20552800000000,477,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.53121800000000,BT57 8QQ,2014-02-04,fhrs_5_en-GB,5,,FHRS,5
-411458,8 Mill Street,,Cushendall,County Antrim,"E L Gillan, MPS",Retailers - other,4613,,,442142,,,55.08038100000000,629,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06458600000000,BT44 0RR,2014-10-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-411459,124 Main Street,,Bushmills,County Antrim,Finn MacCool's Bar & Off Sales,Pub/bar/nightclub,7843,20,,406066,15,,55.20499800000000,420,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52300700000000,BT57 8QD,2014-11-27,fhrs_1_en-GB,1,,FHRS,15
-411460,77 Main Street,,Bushmills,County Antrim,Flash in the Pan,Takeaway/sandwich shop,7844,10,,454802,5,,55.20494900000000,463,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52343300000000,BT57 8QB,2012-06-19,fhrs_4_en-GB,4,,FHRS,5
-411461,34 Quay Road,,Ballycastle,County Antrim,Fragrens Guest House,Hotel/bed & breakfast/guest house,7842,5,,442101,0,,55.20387400000000,202,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24372100000000,BT54 6BH,2012-08-06,fhrs_5_en-GB,5,,FHRS,5
-411462,27 Ann Street,,Ballycastle,County Antrim,Frank A Mc Caughan Chemist,Retailers - other,4613,,,406107,,,55.20161300000000,91,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24897200000000,BT54 6AA,2011-12-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-411463,,,,,Fruit Of The Vine,Retailers - other,4613,5,,406035,0,,,1345,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,,,2012-03-27,fhrs_5_en-GB,5,,FHRS,5
-411464,5 Kilns Road,,Ballycastle,County Antrim,Gaelscoil An Chaistil,School/college/university,7845,5,,442082,0,,55.19793300000000,1329,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25730000000000,BT54 6QQ,2014-01-29,fhrs_5_en-GB,5,,FHRS,0
-411465,14 Cloghs Road,,Cushendall,County Antrim,Garron View B & B,Hotel/bed & breakfast/guest house,7842,5,,535142,5,,55.08190300000000,670,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.09331200000000,BT44 0SP,2013-02-27,fhrs_5_en-GB,5,,FHRS,5
-411466,11 Runkerry Road,,Bushmills,County Antrim,Giant's Causeway & Bushmills Railway,Restaurant/Cafe/Canteen,1,5,,442144,0,,55.22980600000000,699,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52791900000000,BT57 8SZ,2014-07-08,fhrs_5_en-GB,5,,FHRS,5
-411467,71 Main Street,,Bushmills,County Antrim,Glass's,Retailers - other,4613,20,,406074,0,,55.20494900000000,460,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52343300000000,BT57 8QB,2014-01-23,fhrs_1_en-GB,1,,FHRS,15
-411468,154 Glenshesk Road,Armoy,Ballymoney,County Antrim,Glen Rural Community Group (Armoy),Other catering premises,7841,,,406078,,,55.13867500000000,50,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.29792900000000,BT53 8RL,2011-12-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-411469,8 Glenaan Road,,Cushendall,County Antrim,Glenann Primary School,School/college/university,7845,5,,406091,0,,55.09264500000000,682,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.10176100000000,BT44 0TG,2013-06-24,fhrs_5_en-GB,5,,FHRS,5
-411470,120 Glenariffe Road,Glenariff,Ballymena,County Antrim,Glenariffe Tea House,Restaurant/Cafe/Canteen,1,,,572325,,,55.01963100000000,591,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.12261600000000,BT44 0QX,2013-08-23,fhrs_5_en-GB,5,,FHRS,
-411471,46 Coast Road,,Cushendall,County Antrim,Glendale B & B,Hotel/bed & breakfast/guest house,7842,5,,535134,5,,55.07819800000000,1269,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.05728400000000,BT44 0RX,2013-02-26,fhrs_5_en-GB,5,,FHRS,5
-411472,42 Quay Road,,Ballycastle,County Antrim,Glenluce Guest House,Hotel/bed & breakfast/guest house,7842,5,,406049,0,,55.20387400000000,204,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24372100000000,BT54 6BH,2014-07-02,fhrs_5_en-GB,5,,FHRS,5
-411473,21 High Street,,Cushendall,County Antrim,Glenmona Resource Centre,Hospitals/Childcare/Caring Premises,5,5,,406023,0,,55.08113100000000,1261,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06490900000000,BT44 0NB,2014-06-27,fhrs_5_en-GB,5,,FHRS,0
-411474,94 Whitepark Road,Ballintoy,Ballycastle,County Antrim,Glenmore Restaurant,Restaurant/Cafe/Canteen,1,10,,699936,15,,55.22701200000000,325,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.32067300000000,BT54 6LR,2014-08-04,fhrs_2_en-GB,2,,FHRS,15
-411475,121 Tromra Road,Cushendall,Ballymena,County Antrim,Glenn Eireann House,Hotel/bed & breakfast/guest house,7842,10,,406019,0,,55.10655000000000,1206,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.08212500000000,BT44 0ST,2014-10-29,fhrs_4_en-GB,4,,FHRS,0
-411476,63a Middlepark Road,,Cushendall,County Antrim,Glens Residential Home,Other catering premises,7841,5,,406090,5,,55.07008400000000,667,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06116900000000,BT44 0SH,2014-03-27,fhrs_5_en-GB,5,,FHRS,5
-411477,67 Castle Street,,Ballycastle,County Antrim,Golden Chip,Takeaway/sandwich shop,7844,5,,406043,0,,55.20020100000000,162,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25318100000000,BT54 6AS,2014-02-11,fhrs_5_en-GB,5,,FHRS,5
-411478,68 Main Street,,Bushmills,County Antrim,Gordons Chemist,Retailers - other,4613,,,406073,,,55.20499800000000,458,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52300700000000,BT57 8QD,2012-01-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-411479,62 Main Street,,Bushmills,County Antrim,Ground Espresso Bars,Restaurant/Cafe/Canteen,1,5,,468170,0,,55.20499800000000,1387,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52300700000000,BT57 8QD,2014-07-08,fhrs_5_en-GB,5,,FHRS,5
-411480,10-12 Mill Street,Cushendall,Ballymena,County Antrim,Harry's Restaurant,Restaurant/Cafe/Canteen,1,5,,442141,5,,55.08038100000000,612,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06458600000000,BT44 0RR,2014-03-31,fhrs_5_en-GB,5,,FHRS,5
-411481,182a Moyarget Road,,Ballycastle,County Antrim,Hill View Residential Home,Other catering premises,7841,5,,406055,10,,55.16973600000000,300,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.34320200000000,BT54 6JQ,2014-03-12,fhrs_4_en-GB,4,,FHRS,5
-411482,60 Coleraine Road,,Ballycastle,County Antrim,Hillhead Service Station,Retailers - other,4613,10,,442097,5,,55.19848000000000,196,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.26165900000000,BT54 6DX,2014-06-30,fhrs_4_en-GB,4,,FHRS,5
-411483,6 Rathlin View,,Ballycastle,County Antrim,Hillsea,Hotel/bed & breakfast/guest house,7842,5,,535144,5,,55.20821300000000,765,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25061500000000,BT54 6EN,2013-02-25,fhrs_5_en-GB,5,,FHRS,5
-411484,71 Castle Street,,Ballycastle,County Antrim,House of McDonnell,Pub/bar/nightclub,7843,5,,406044,0,,55.20020100000000,166,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25318100000000,BT54 6AS,2011-10-07,fhrs_4_en-GB,4,,FHRS,10
-411485,106 Cushendall Road,Ballyvoy,Ballycastle,County Antrim,Hunters Bar & Lounge,Pub/bar/nightclub,7843,10,,406061,10,,55.19888000000000,366,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.18609500000000,BT54 6RA,2012-02-16,fhrs_3_en-GB,3,,FHRS,10
-411486,7 Islandarragh Road,Cape Castle,Ballycastle,County Antrim,Islandarragh House,Hotel/bed & breakfast/guest house,7842,5,,535140,5,,55.16704500000000,304,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.29915300000000,BT54 6HX,2013-03-13,fhrs_5_en-GB,5,,FHRS,5
-411487,58 Clare Road,,Ballycastle,County Antrim,J & J Bed & Breakfast,Hotel/bed & breakfast/guest house,7842,5,,535138,5,,55.20962900000000,1409,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25221800000000,BT54 6LQ,2013-03-19,fhrs_5_en-GB,5,,FHRS,0
-411488,17-19 Ann Street,,Ballycastle,County Antrim,J F McLister & Son,Retailers - supermarkets/hypermarkets,7840,5,,442149,5,,55.20161300000000,84,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24897200000000,BT54 6AA,2014-02-14,fhrs_4_en-GB,4,,FHRS,10
-411489,7 Mary Street,,Ballycastle,County Antrim,Jack Horner & Mother Goose Playgroup,Hospitals/Childcare/Caring Premises,5,5,,406064,0,,55.20410800000000,383,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.23818100000000,BT54 6QH,2011-12-12,fhrs_5_en-GB,5,,FHRS,5
-411490,45 North Street,,Ballycastle,County Antrim,Kenmara,Hotel/bed & breakfast/guest house,7842,5,,442105,0,,55.20771700000000,227,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24298600000000,BT54 6BP,2012-07-30,fhrs_5_en-GB,5,,FHRS,5
-411491,85 Whitepark Road,,Ballycastle,County Antrim,Kinbane Farmhouse B & B,Hotel/bed & breakfast/guest house,7842,10,,454797,0,,55.21681400000000,281,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.29143700000000,BT54 6LP,2012-09-26,fhrs_4_en-GB,4,,FHRS,0
-411492,2 Kilns Road,,Ballycastle,County Antrim,Knocklayde House,Other catering premises,7841,,,442119,,,55.19793300000000,389,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25730000000000,BT54 6QQ,2014-08-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-411493,2 Ballyemon Road,,Cushendall,County Antrim,Knockmoy Fold,Hospitals/Childcare/Caring Premises,5,0,,406084,0,,55.08003900000000,586,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06287900000000,BT44 0SL,2014-10-29,fhrs_5_en-GB,5,,FHRS,0
-411494,,,,,Kraftykakes,Manufacturers/packers,7839,5,,406056,0,,,311,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,,,2011-10-04,fhrs_5_en-GB,5,,FHRS,5
-411495,22 Ann Street,,Ballycastle,County Antrim,K's Kitchen,Restaurant/Cafe/Canteen,1,10,,642740,10,,55.20204200000000,1440,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24881200000000,BT54 6AD,2014-01-22,fhrs_3_en-GB,3,,FHRS,10
-411496,11 Ballinlea Road,Ballintoy,Ballycastle,County Antrim,Lagavara Farm B & B,Hotel/bed & breakfast/guest house,7842,10,,555987,0,,55.22519800000000,351,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.37108800000000,BT54 6NQ,2013-05-28,fhrs_4_en-GB,4,,FHRS,10
-411497,188 Cushendall Road,Ballypatrick,Ballycastle,County Antrim,Lakeside Tea Room,Restaurant/Cafe/Canteen,1,10,,442122,10,,55.18266500000000,405,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.15204100000000,BT54 6RN,2014-07-10,fhrs_3_en-GB,3,,FHRS,5
-411498,120 Glen Road,Glenariff,,County Antrim,Laragh Lodge,Restaurant/Cafe/Canteen,1,5,,572326,10,,55.02796900000000,598,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.08344000000000,BT44 0RG,2014-08-12,fhrs_3_en-GB,3,,FHRS,10
-411499,1 Beechwood Avenue,,Ballycastle,County Antrim,Leabank Private Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,442103,5,,55.20521400000000,213,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24260900000000,BT54 6BL,2014-01-22,fhrs_4_en-GB,4,,FHRS,10
-411500,64 Main Street,,Bushmills,County Antrim,Lilly's,Restaurant/Cafe/Canteen,1,10,,468166,10,,55.20499800000000,1356,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52300700000000,BT57 8QD,2014-01-29,fhrs_3_en-GB,3,,FHRS,10
-411501,28 Toberdoney Road,Dervock,Ballymoney,County Antrim,Liscolman Recreation Hall,Restaurant/Cafe/Canteen,1,,,442098,,,55.16948100000000,2,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.45941100000000,BT53 8DR,2014-10-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-411502,26 Castlecat Road,,Bushmills,County Antrim,Lismar B & B,Hotel/bed & breakfast/guest house,7842,0,,572317,0,,55.19783400000000,1213,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52047700000000,BT57 8QY,2013-06-26,fhrs_5_en-GB,5,,FHRS,5
-411503,5 Fairhill Street,,Ballycastle,County Antrim,Lucky's Bingo,Other catering premises,7841,5,,442096,0,,55.19887100000000,191,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24945400000000,BT54 6AY,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-411504,38 Glen Road,Glenariff,,County Antrim,Lurig View B & B,Hotel/bed & breakfast/guest house,7842,5,,707781,10,,55.04757400000000,1263,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.05355600000000,BT44 0RF,2014-02-27,fhrs_4_en-GB,4,,FHRS,5
-411505,8 Shore Street,Cushendall,Ballymena,County Antrim,Mace,Retailers - supermarkets/hypermarkets,7840,5,,454803,10,,55.08151800000000,853,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06326200000000,BT44 0NA,2014-03-31,fhrs_4_en-GB,4,,FHRS,5
-411506,1-3 North Street,,Ballycastle,County Antrim,Marine Hotel (Ballycastle) Ltd,Hotel/bed & breakfast/guest house,7842,5,,609626,5,,55.20556400000000,1418,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24129000000000,BT54 6BN,2013-09-20,fhrs_4_en-GB,4,,FHRS,10
-411507,2 Main Street,,Cushendun,County Antrim,Mary McBrides Ltd,Pub/bar/nightclub,7843,10,,406095,5,,55.12557800000000,703,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.04256800000000,BT44 0PH,2012-03-09,fhrs_4_en-GB,4,,FHRS,5
-411508,1 Bayview Road,,Ballycastle,County Antrim,Mauds Ice Cream,Retailers - other,4613,0,,699934,0,,55.20688000000000,1424,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24098100000000,BT54 6BT,2014-08-05,fhrs_5_en-GB,5,,FHRS,5
-411509,,,,,Mcallister's Spuds,Retailers - other,4613,,,535136,,,,1372,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,,,2012-08-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-411510,15 Main Street,Armoy,Armoy,County Antrim,McCaughan's Mace,Retailers - supermarkets/hypermarkets,7840,10,,442112,10,,55.13105900000000,31,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.32721200000000,BT53 8RF,2013-05-01,fhrs_3_en-GB,3,,FHRS,10
-411511,23 Mill Street,Cushendall,Ballymena,County Antrim,McCollam's Public House,Pub/bar/nightclub,7843,0,,406087,0,,55.08038100000000,617,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06458600000000,BT44 0RR,2011-10-06,fhrs_5_en-GB,5,,FHRS,5
-411512,23 Main Street,,Mosside,County Antrim,McKay's,Retailers - other,4613,5,,442093,5,,55.15482400000000,16,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.40867600000000,BT53 8QL,2014-01-08,fhrs_4_en-GB,4,,FHRS,10
-411513,10 Ann Street,,Ballycastle,County Antrim,McMichael's Chemist,Retailers - other,4613,,,406102,,,55.20204200000000,77,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24881200000000,BT54 6AD,2011-12-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-411514,49 Main Street,,Bushmills,County Antrim,Mill Rest Youth Hostel,Hotel/bed & breakfast/guest house,7842,0,,699938,0,,55.20691200000000,446,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52380000000000,BT57 8QA,2014-08-19,fhrs_5_en-GB,5,,FHRS,5
-411515,11 North Street,,Ballycastle,County Antrim,Morellis,Restaurant/Cafe/Canteen,1,10,,727003,5,,55.20556400000000,1512,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24129000000000,BT54 6BN,2014-11-26,fhrs_4_en-GB,4,,FHRS,5
-411516,22 Bayview Road,,Ballycastle,County Antrim,Mortons Fish And Chips,Takeaway/sandwich shop,7844,5,,454796,0,,55.20688000000000,237,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24098100000000,BT54 6BT,2014-03-31,fhrs_5_en-GB,5,,FHRS,0
-411517,22a Bayview Road,,Ballycastle,County Antrim,Mortons Fish Shop,Retailers - other,4613,0,,406053,5,,55.20688000000000,238,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24098100000000,BT54 6BT,2014-03-28,fhrs_5_en-GB,5,,FHRS,5
-411518,250 Moyarget Road,Mosside,Ballymoney,County Antrim,Mosside Community Centre,Other catering premises,7841,,,591977,,,55.15300600000000,10,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.42012200000000,BT53 8QU,2013-07-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-411519,5 Kilns Road,,Ballycastle,County Antrim,Naiscoil An Chaistil Nursery,School/college/university,7845,5,,442120,5,,55.19793300000000,390,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25730000000000,BT54 6QQ,2014-01-29,fhrs_5_en-GB,5,,FHRS,5
-411520,5 Main Street,,Cushendun,County Antrim,Nisa Cushendun,Retailers - supermarkets/hypermarkets,7840,5,,406096,5,,55.12557800000000,705,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.04256800000000,BT44 0PH,2012-02-17,fhrs_5_en-GB,5,,FHRS,5
-411521,25 Castle Street,,Ballycastle,County Antrim,Noels Pound Coiner,Retailers - other,4613,,,406039,,,55.20020100000000,141,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25318100000000,BT54 6AS,2011-12-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-411522,4b Lagavara Road,Ballintoy,Ballycastle,County Antrim,North Coast B & B,Hotel/bed & breakfast/guest house,7842,5,,642738,5,,55.21813700000000,1421,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.34235400000000,BT54 6NF,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-411523,7 Ann Street,,Ballycastle,County Antrim,O'Connor's,Pub/bar/nightclub,7843,5,,406020,5,,55.20161300000000,121,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24897200000000,BT54 6AA,2014-03-26,fhrs_5_en-GB,5,,FHRS,5
-411524,2 Distillery Road,,Bushmills,County Antrim,Old Bushmills Distillery Canteen,Restaurant/Cafe/Canteen,1,0,,442132,0,,55.20222000000000,534,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.51990600000000,BT57 8XH,2014-03-11,fhrs_5_en-GB,5,,FHRS,5
-411525,2 Distillery Road,,Bushmills,County Antrim,Old Bushmills Distillery Kitchen,Restaurant/Cafe/Canteen,1,5,,442133,5,,55.20222000000000,535,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.51990600000000,BT57 8XH,2014-01-07,fhrs_5_en-GB,5,,FHRS,5
-411526,2 Distillery Road,,Bushmills,County Antrim,Old Bushmills Distillery Shop,Retailers - other,4613,0,,442131,0,,55.20222000000000,533,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.51990600000000,BT57 8XH,2014-03-11,fhrs_5_en-GB,5,,FHRS,5
-411527,8 The Diamond,,Ballycastle,County Antrim,Pizza Casa,Takeaway/sandwich shop,7844,5,,406047,5,,55.20090900000000,188,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24993000000000,BT54 6AW,2014-03-20,fhrs_4_en-GB,4,,FHRS,10
-411528,13 North Street,,Ballycastle,County Antrim,Pizza Haven,Takeaway/sandwich shop,7844,10,,673725,5,,55.20556400000000,220,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24129000000000,BT54 6BN,2014-02-25,fhrs_3_en-GB,3,,FHRS,10
-411529,Priestland Road,,Bushmills,County Antrim,Portcaman Fold,Hospitals/Childcare/Caring Premises,5,5,,406018,5,,55.20166600000000,1203,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52603600000000,BT57 8XQ,2012-01-31,fhrs_5_en-GB,5,,FHRS,0
-411530,11 Priestland Road,,Bushmills,County Antrim,Portcaman House,Hotel/bed & breakfast/guest house,7842,10,,688300,10,,55.20343400000000,1413,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52670900000000,BT57 8QP,2014-06-25,fhrs_3_en-GB,3,,FHRS,5
-411531,56 Main Street,,Bushmills,County Antrim,Ramages Centra,Retailers - supermarkets/hypermarkets,7840,0,,442127,5,,55.20691200000000,449,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52380000000000,BT57 8QA,2014-01-23,fhrs_4_en-GB,4,,FHRS,10
-411532,1 Mary Street,,Ballycastle,County Antrim,Rathmoyle Residential Home,Other catering premises,7841,5,,406062,5,,55.20410800000000,377,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.23818100000000,BT54 6QH,2014-01-10,fhrs_5_en-GB,5,,FHRS,5
-411533,1 Mary Street,,Ballycastle,County Antrim,Rathmoyle Resource Centre,Hospitals/Childcare/Caring Premises,5,0,,406063,0,,55.20410800000000,378,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.23818100000000,BT54 6QH,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-411534,14a Harbour Road,,Ballintoy,County Antrim,Red Door Cottage Tea Room,Restaurant/Cafe/Canteen,1,5,,454792,5,,55.24193900000000,1349,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.36741600000000,BT54 6NA,2014-06-24,fhrs_5_en-GB,5,,FHRS,5
-411535,90 Castlenagree Road,,Bushmills,County Antrim,Rest A While B & B,Hotel/bed & breakfast/guest house,7842,5,,673731,5,,55.20229100000000,510,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.50438500000000,BT57 8XL,2014-02-17,fhrs_5_en-GB,5,,FHRS,0
-411536,4 Bridge Street,,Cushendall,County Antrim,Revive,Restaurant/Cafe/Canteen,1,5,,699935,0,,55.08068000000000,1476,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06363100000000,BT44 0RP,2014-06-27,fhrs_5_en-GB,5,,FHRS,5
-411537,14 Mill Street,,Cushendall,County Antrim,Riverside B & B,Hotel/bed & breakfast/guest house,7842,10,,572327,0,,55.08038100000000,613,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06458600000000,BT44 0RR,2013-06-05,fhrs_4_en-GB,4,,FHRS,10
-411538,288 Moyarget Road,Mosside,Ballymoney,County Antrim,Ross House,Hospitals/Childcare/Caring Premises,5,10,,406017,5,,55.14721800000000,12,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.45143800000000,BT53 8EG,2014-02-10,fhrs_4_en-GB,4,,FHRS,0
-411539,288 Moyarget Road,Mosside,Ballymoney,County Antrim,Ross Lodge,Other catering premises,7841,10,,406025,5,,55.14721800000000,13,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.45143800000000,BT53 8EG,2014-02-10,fhrs_4_en-GB,4,,FHRS,5
-411540,,,,,S & A Fountain of Love,Other catering premises,7841,10,,406104,5,,,854,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,,,2012-03-05,fhrs_4_en-GB,4,,FHRS,5
-411541,119 Main Street,,Bushmills,County Antrim,Sam's Paper Shop,Retailers - other,4613,20,,442124,0,,55.20494900000000,419,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52343300000000,BT57 8QB,2014-01-15,fhrs_1_en-GB,1,,FHRS,10
-411542,51 Main Street,,Bushmills,County Antrim,Scotch House,Restaurant/Cafe/Canteen,1,0,,726999,10,,55.20691200000000,1210,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52380000000000,BT57 8QA,2014-11-27,fhrs_4_en-GB,4,,FHRS,5
-411543,8 Drumavoley Grange,,Ballycastle,County Antrim,Seabreeze,Hotel/bed & breakfast/guest house,7842,10,,673699,5,,55.19751400000000,1293,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.23569200000000,BT54 6NZ,2014-02-04,fhrs_3_en-GB,3,,FHRS,10
-411544,194 Whitepark Road,Dunseverick,Bushmills,County Antrim,Seaview B & B,Hotel/bed & breakfast/guest house,7842,5,,555990,5,,55.22619000000000,495,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.44502400000000,BT57 8SR,2013-04-17,fhrs_5_en-GB,5,,FHRS,0
-411545,250 Moyarget Road,Mosside,Ballymoney,County Antrim,See Saw Playgroup,Hospitals/Childcare/Caring Premises,5,5,,442152,5,,55.15300600000000,9,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.42012200000000,BT53 8QU,2013-09-04,fhrs_5_en-GB,5,,FHRS,5
-411546,42a Main Street,,Ballintoy,County Antrim,Sheep Island View Conference Centre,Hotel/bed & breakfast/guest house,7842,5,,442115,5,,55.23627600000000,339,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.35779200000000,BT54 6LX,2014-03-21,fhrs_5_en-GB,5,,FHRS,5
-411547,7 Mary Street,,Ballycastle,County Antrim,Sheskburn Day Centre,Hospitals/Childcare/Caring Premises,5,5,,406031,0,,55.20410800000000,1330,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.23818100000000,BT54 6QH,2011-12-14,fhrs_4_en-GB,4,,FHRS,10
-411548,4 Mary Street,,Ballycastle,County Antrim,Shorebird Coffee Hut,Restaurant/Cafe/Canteen,1,0,,707784,0,,55.20390400000000,1485,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24020100000000,BT54 6QH,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-411549,107 Knocknacarry Road,,Cushendun,County Antrim,Sleepy Hollow B & B,Hotel/bed & breakfast/guest house,7842,10,,442137,5,,55.11833500000000,565,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06152800000000,BT44 0NT,2012-07-18,fhrs_4_en-GB,4,,FHRS,5
-411550,306 Whitepark Road,,Bushmills,County Antrim,Smugglers Inn,Restaurant/Cafe/Canteen,1,10,,406077,5,,55.22168700000000,497,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.48626200000000,BT57 8SN,2012-04-04,fhrs_4_en-GB,4,,FHRS,5
-411551,46 Causeway Road,,Bushmills,County Antrim,Something Special,Restaurant/Cafe/Canteen,1,10,,442130,5,,55.23192800000000,518,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.51325400000000,BT57 8SU,2013-06-20,fhrs_4_en-GB,4,,FHRS,0
-411552,9-10 Elmwood Park,,Bushmills,County Antrim,Spar Bushmills,Retailers - supermarkets/hypermarkets,7840,10,,442129,10,,55.20156300000000,487,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52200300000000,BT57 8QT,2014-01-24,fhrs_3_en-GB,3,,FHRS,10
-411553,22 Castle Street,,Ballycastle,County Antrim,Spar Castle Street,Retailers - other,4613,5,,555983,0,,55.20048400000000,140,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25288500000000,BT54 6AR,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-411554,60 Moyle Road,,Ballycastle,County Antrim,Spar Moyle Road,Retailers - supermarkets/hypermarkets,7840,0,,442083,0,,55.20771200000000,135,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25387300000000,BT54 6LG,2014-01-22,fhrs_4_en-GB,4,,FHRS,10
-411555,132 Layde Road,,Ballymena,County Antrim,St Ciaran's Primary School Meals Kitchen,School/college/university,7845,5,,406083,5,,55.11737500000000,556,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.05599400000000,BT44 0NJ,2013-05-07,fhrs_5_en-GB,5,,FHRS,5
-411556,35 Middlepark Road,,Cushendall,County Antrim,St Mary's Primary School Meals Kitchen,School/college/university,7845,5,,555993,0,,55.07641000000000,666,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06065900000000,BT44 0SQ,2013-05-08,fhrs_5_en-GB,5,,FHRS,5
-411557,202 Glenshesk Road,,Armoy,County Antrim,St Olcan's Primary School,School/college/university,7845,5,,442134,5,,55.13281300000000,54,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.31956600000000,BT53 8RJ,2014-09-30,fhrs_5_en-GB,5,,FHRS,5
-411558,19 Moyle Road,,Ballycastle,County Antrim,St Patrick's & St Brigid's Primary School,School/college/university,7845,5,,442081,5,,55.20404700000000,132,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25266700000000,BT54 6AN,2013-02-15,fhrs_5_en-GB,5,,FHRS,5
-411559,244 Garron Road,Glenariffe,Ballymena,County Antrim,St Patrick's Primary School,School/college/university,7845,5,,535143,5,,55.05636600000000,738,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.05275400000000,BT44 0RB,2013-02-12,fhrs_5_en-GB,5,,FHRS,5
-411560,85 Carnbore Road,Liscolman,Ballymoney,County Antrim,Straidbilly Primary School,School/college/university,7845,5,,442139,5,,55.17219000000000,6,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.45342100000000,BT53 8EE,2013-02-22,fhrs_5_en-GB,5,,FHRS,5
-411561,5 Priestland Road,,Bushmills,County Antrim,Sunbeams Creche,Hospitals/Childcare/Caring Premises,5,5,,406103,5,,55.20529500000000,847,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52753600000000,BT57 8QW,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-411562,51 Castle Street,,Ballycastle,County Antrim,Sunny's Cafe,Restaurant/Cafe/Canteen,1,10,,442071,10,,55.20020100000000,1254,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25318100000000,BT54 6AS,2013-10-10,fhrs_3_en-GB,3,,FHRS,10
-411563,140 Main Street,,Bushmills,County Antrim,Tartine @ Distillers Arms And River Cafe,Restaurant/Cafe/Canteen,1,5,,688305,5,,55.20337400000000,429,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52245500000000,BT57 8QE,2014-03-26,fhrs_4_en-GB,4,,FHRS,10
-411564,14 Glenmakeeran Road,,Ballycastle,County Antrim,Teach An Cheoil B & B,Hotel/bed & breakfast/guest house,7842,10,,591979,10,,55.18202300000000,1404,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.16847700000000,BT54 6PU,2013-08-06,fhrs_3_en-GB,3,,FHRS,5
-411565,26 Bayview Road,,Ballycastle,County Antrim,The Bay Cafe,Restaurant/Cafe/Canteen,1,10,,406024,10,,55.20688000000000,1271,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24098100000000,BT54 6BT,2014-01-08,fhrs_3_en-GB,3,,FHRS,5
-411566,63 Ballyemon Road,,Cushendall,County Antrim,The Burn,Hotel/bed & breakfast/guest house,7842,5,,468173,0,,55.06604400000000,588,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.09149900000000,BT44 0SN,2012-10-24,fhrs_5_en-GB,5,,FHRS,5
-411567,11b The Diamond,,Ballycastle,County Antrim,The Cellar,Restaurant/Cafe/Canteen,1,5,,406045,5,,55.20090900000000,181,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24993000000000,BT54 6AW,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-411568,10 Main Street,,Armoy,County Antrim,The Cherry Blossom Cake Co,Retailers - other,4613,10,,707785,10,,55.13120900000000,1506,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.32642200000000,BT53 8RQ,2014-09-26,fhrs_3_en-GB,3,,FHRS,5
-411569,61 Main Street,,Bushmills,County Antrim,The Copper Kettle,Restaurant/Cafe/Canteen,1,5,,406071,5,,55.20494900000000,451,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52343300000000,BT57 8QB,2014-02-17,fhrs_4_en-GB,4,,FHRS,10
-411570,45 Main Street,,Bushmills,County Antrim,The French Rooms,Restaurant/Cafe/Canteen,1,10,,673704,10,,55.20691200000000,1398,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52380000000000,BT57 8QA,2014-02-19,fhrs_3_en-GB,3,,FHRS,5
-411571,10 The Diamond,,Ballycastle,County Antrim,The Fruit Shop,Retailers - other,4613,20,,583970,10,,55.20090900000000,177,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24993000000000,BT54 6AW,2013-07-10,fhrs_1_en-GB,1,,FHRS,10
-411572,22 Main Street,Ballintoy,Ballycastle,County Ballycastle,The Fullerton Arms,Hotel/bed & breakfast/guest house,7842,10,,727004,20,,55.23627600000000,1513,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.35779200000000,BT54 6LX,2014-11-13,fhrs_1_en-GB,1,,FHRS,15
-411573,6 Coast Road,,Cushendall,County Antrim,The Glens Hotel,Hotel/bed & breakfast/guest house,7842,10,,699939,15,,55.08029000000000,650,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06112900000000,BT44 0RU,2014-03-27,fhrs_2_en-GB,2,,FHRS,10
-411574,82 Main Street,,Bushmills,County Antrim,The Hip Chip,Takeaway/sandwich shop,7844,10,,406075,15,,55.20499800000000,465,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52300700000000,BT57 8QD,2014-01-29,fhrs_2_en-GB,2,,FHRS,10
-411575,5 Bridge Street,,Cushendall,County Antrim,The Lurig Inn,Pub/bar/nightclub,7843,5,,406028,0,,55.08068000000000,1326,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06363100000000,BT44 0RP,2011-10-13,fhrs_5_en-GB,5,,FHRS,5
-411576,81 Coast Road,,Cushendall,County Antrim,The Meadows,Hotel/bed & breakfast/guest house,7842,5,,555992,5,,55.07383200000000,655,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.05452100000000,BT44 0QW,2013-05-07,fhrs_5_en-GB,5,,FHRS,0
-411577,48 Causeway Road,,Bushmills,County Antrim,The Nook,Restaurant/Cafe/Canteen,1,10,,609625,10,,55.23192800000000,1411,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.51325400000000,BT57 8SU,2013-08-19,fhrs_3_en-GB,3,,FHRS,10
-411578,28 Quay Road,,Ballycastle,County Antrim,The Old Manse B & B,Hotel/bed & breakfast/guest house,7842,5,,673696,5,,55.20387400000000,1251,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24372100000000,BT54 6BH,2014-02-05,fhrs_5_en-GB,5,,FHRS,5
-411579,47-49 Market Street,,Ballycastle,County Antrim,The Original Factory Shop,Retailers - other,4613,0,,572319,0,,55.20141000000000,1348,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.25543700000000,BT54 6DS,2013-05-15,fhrs_5_en-GB,5,,FHRS,0
-411580,2 Mill Street,,Cushendall,County Antrim,The Pepper Mill,Takeaway/sandwich shop,7844,5,,406086,5,,55.08038100000000,616,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06458600000000,BT44 0RR,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-411581,7 North Street,,Ballycastle,County Antrim,The Promenade Cafe,Restaurant/Cafe/Canteen,1,5,,442106,10,,55.20556400000000,230,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24129000000000,BT54 6BN,2013-09-12,fhrs_4_en-GB,4,,FHRS,5
-411582,185 Torr Road,,Cushendun,County Antrim,The Villa Farmhouse,Hotel/bed & breakfast/guest house,7842,5,,555995,5,,55.14028300000000,712,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.03965200000000,BT44 0PU,2013-05-15,fhrs_5_en-GB,5,,FHRS,5
-411583,18 Mill Street,Cushendall,Ballymena,County Antrim,The Village B & B,Hotel/bed & breakfast/guest house,7842,10,,555980,5,,55.08038100000000,1199,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06458600000000,BT44 0RR,2013-05-28,fhrs_4_en-GB,4,,FHRS,5
-411584,127 Main Street,,Bushmills,County Antrim,The Village Bistro,Restaurant/Cafe/Canteen,1,5,,406067,10,,55.20494900000000,422,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52343300000000,BT57 8QB,2014-02-17,fhrs_4_en-GB,4,,FHRS,5
-411585,2 Cushendall Road,,Ballycastle,County Antrim,The Warren Restaurant,Restaurant/Cafe/Canteen,1,5,,642739,0,,55.20375600000000,1431,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.23558900000000,BT54 6QP,2014-01-31,fhrs_5_en-GB,5,,FHRS,5
-411586,121 Whitepark Road,Ballintoy,Ballycastle,County Antrim,The Weighbridge Tea Rooms,Restaurant/Cafe/Canteen,1,0,,406032,5,,55.23688900000000,1337,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.35129000000000,BT54 6LS,2014-03-20,fhrs_5_en-GB,5,,FHRS,5
-411587,58 Straid Road,Maghernahar,Ballycastle,County Antrim,The Whins B & B,Hotel/bed & breakfast/guest house,7842,5,,727000,0,,55.20312800000000,1310,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.35051700000000,BT54 6NP,2014-10-28,fhrs_5_en-GB,5,,FHRS,0
-411588,5 Quay Road,,Ballycastle,County Antrim,Thyme & Co,Restaurant/Cafe/Canteen,1,5,,555985,5,,55.20358100000000,206,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.24276000000000,BT54 6BJ,2014-09-10,fhrs_4_en-GB,4,,FHRS,10
-411589,4 Tramway Drive,,Bushmills,County Antrim,Tramway B & B,Hotel/bed & breakfast/guest house,7842,5,,572328,5,,55.20699400000000,700,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.53066200000000,BT57 8YS,2013-06-26,fhrs_5_en-GB,5,,FHRS,5
-411590,23 Mill Street,,Cushendall,County Antrim,Upstairs At Joes,Restaurant/Cafe/Canteen,1,10,,591980,15,,55.08038100000000,1428,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.06458600000000,BT44 0RR,2013-08-07,fhrs_2_en-GB,2,,FHRS,10
-411591,157 Whitepark Road,Ballintoy,Ballycastle,County Antrim,Whitepark Bay Youth Hostel,Hotel/bed & breakfast/guest house,7842,5,,406057,10,,55.22887200000000,324,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.39889900000000,BT54 6NH,2014-09-05,fhrs_4_en-GB,4,,FHRS,5
-411592,150 Whitepark Road,Ballintoy,Ballycastle,County Antrim,Whitepark House,Hotel/bed & breakfast/guest house,7842,10,,454798,5,,55.22887200000000,323,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.39889900000000,BT54 6NH,2012-10-04,fhrs_4_en-GB,4,,FHRS,5
-411593,8 Dalriada Avenue,Cushendall,Cushendall,County Antrim,Wineflair/Mace,Retailers - other,4613,10,,442146,10,,55.08024700000000,723,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.05621400000000,BT44 0QE,2014-03-03,fhrs_3_en-GB,3,,FHRS,10
-411594,80 Main Street,,Bushmills,County Antrim,Yi House,Takeaway/sandwich shop,7844,20,,626883,10,,55.20499800000000,1463,821,food@moyle-council.org,Moyle,http://www.moyle-council.org,-6.52300700000000,BT57 8QD,2013-10-24,fhrs_1_en-GB,1,,FHRS,10
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+411398,Ammiroy House,4,10,0,10,2012-07-24,55.203874,-6.243721
+411399,Anzac Bar,4,10,0,5,2011-11-15,55.201327,-6.251576
+411400,Ardaghmore B & B,5,5,5,5,2012-09-14,55.207717,-6.242986
+411401,Ard-na-mara B & B,5,0,0,0,2014-10-03,55.205691,-6.250788
+411402,Armoy Cross Community Playgroup,5,0,5,0,2013-05-01,55.131209,-6.326422
+411403,Armoy Filling Station,4,10,0,10,2014-02-19,55.13178,-6.3261
+411404,Armoy Primary School,4,10,5,5,2013-06-25,55.127343,-6.340615
+411405,Arthur's Tea & Coffee Warehouse,5,5,5,5,2014-03-27,55.081518,-6.063262
+411406,Ballintoy House,4,5,0,10,2012-10-08,55.236276,-6.357792
+411407,Ballycastle Golf Club,4,10,0,0,2014-11-26,55.203756,-6.235589
+411408,Ballycastle High School,4,10,5,5,2013-06-24,55.203986,-6.249669
+411409,Ballycastle Primary School,5,5,0,0,2013-01-31,55.203581,-6.24276
+411410,Ballyhemlin B & B,4,5,5,10,2012-05-02,55.188506,-6.485762
+411411,Ballyvoy Service Station,5,5,0,5,2013-12-06,55.1995,-6.192758
+411412,Barnish Coffee House & Tea Room,4,5,10,5,2013-07-19,55.1995,-6.192758
+411413,Barnish Primary School,5,5,5,0,2014-01-28,55.1995,-6.192758
+411414,Beechwood B & B,4,0,10,10,2012-07-24,55.205214,-6.242609
+411415,Bonamargy Chocolates,5,0,0,5,2012-01-24,,
+411416,Boyd Arms,2,15,5,10,2012-03-16,55.200909,-6.24993
+411417,Boyles Cafe,2,10,15,10,2014-08-21,55.205564,-6.24129
+411418,Boyle's Spar,3,10,10,5,2014-03-25,55.205564,-6.24129
+411419,Bradleys Service Station,5,5,5,5,2014-03-31,55.079821,-6.067838
+411420,Brannigans,5,nan,nan,nan,2014-10-24,55.19848,-6.261659
+411421,Bush Fuels,5,5,0,5,2014-02-03,55.206912,-6.5238
+411422,Bushmills Education Centre,4,5,5,10,2014-02-06,55.203434,-6.526709
+411423,Bushmills Inn,5,5,5,5,2012-12-04,55.206198,-6.524989
+411424,Bushmills Meat Centre,3,10,10,10,2014-01-30,55.204949,-6.523433
+411425,Bushmills Northern Ireland Co-op,4,10,0,5,2014-01-23,55.206912,-6.5238
+411426,Bushmills Primary School,5,5,0,5,2014-09-29,55.205295,-6.527536
+411427,Carleton's Corner Shop,5,5,5,5,2013-06-12,55.204949,-6.523433
+411428,Carnatley Lodge,5,5,5,5,2013-04-03,55.183755,-6.309509
+411429,Carnside Guest House,5,5,5,5,2013-03-04,55.231928,-6.513254
+411430,Causeway Lodge,5,nan,nan,nan,2012-06-07,55.221181,-6.423628
+411431,Causeway Tavern B & B,5,5,5,5,2013-06-19,55.222492,-6.466556
+411432,Central Bar,5,5,5,5,2014-01-31,55.202042,-6.248812
+411433,Clare Forest Cottage B & B,4,5,5,10,2012-05-22,55.202994,-6.320271
+411434,Clare House,5,5,5,5,2013-02-18,55.209075,-6.277708
+411435,Clarewood B&B,4,0,5,10,2012-07-23,55.207712,-6.253873
+411436,Cloneymore B & B,4,0,5,10,2012-07-18,55.118335,-6.061528
+411437,Colliers Hall B & B,5,5,5,5,2012-10-09,55.202346,-6.221986
+411438,Co-Op,4,10,0,0,2014-01-22,55.200909,-6.24993
+411439,Corner House,5,5,5,5,2014-10-29,55.125578,-6.042568
+411440,Corner Shop,1,10,10,20,2014-03-03,55.081518,-6.063262
+411441,Corrymeela Community,3,10,10,10,2014-02-14,55.206452,-6.201774
+411442,Country Kitchen,5,5,5,5,2014-02-07,55.2033,-6.265124
+411443,Craig Cottage B & B,4,5,5,10,2013-06-10,55.2305,-6.421798
+411444,Craigalappan Country House,4,5,5,10,2013-03-20,55.206423,-6.392072
+411445,Crockatinney Guest House,4,10,5,5,2013-04-10,55.216814,-6.291437
+411446,Cross & Passion College,5,5,0,5,2014-10-22,55.203098,-6.254138
+411447,Cullentra House,5,0,5,5,2013-05-08,55.081903,-6.093312
+411448,Cushendun Hotel,2,15,5,5,2012-02-08,55.124917,-6.040546
+411449,D Donnelly,5,5,5,5,2014-08-20,55.202042,-6.248812
+411450,D J McLister,Exempt,nan,nan,nan,2014-08-20,55.201613,-6.248972
+411451,Dalriada Hospital,5,5,5,0,2013-10-29,55.199973,-6.257981
+411452,Dalriada Rural Surestart,5,5,0,5,2013-02-05,55.2033,-6.265124
+411453,Dalriada Rural Surestart,Exempt,nan,nan,nan,2011-11-17,55.204949,-6.523433
+411454,Dalriada Rural Surestart Sunbeams Creche,4,10,0,10,2014-02-13,55.201613,-6.248972
+411455,Desalis,4,5,5,10,2013-05-28,55.207712,-6.253873
+411456,Diamond Bar,4,10,0,0,2013-06-26,55.200909,-6.24993
+411457,Dunluce School,5,5,0,5,2014-02-04,55.205528,-6.531218
+411458,"E L Gillan, MPS",Exempt,nan,nan,nan,2014-10-29,55.080381,-6.064586
+411459,Finn MacCool's Bar & Off Sales,1,15,15,20,2014-11-27,55.204998,-6.523007
+411460,Flash in the Pan,4,5,5,10,2012-06-19,55.204949,-6.523433
+411461,Fragrens Guest House,5,5,0,5,2012-08-06,55.203874,-6.243721
+411462,Frank A Mc Caughan Chemist,Exempt,nan,nan,nan,2011-12-13,55.201613,-6.248972
+411463,Fruit Of The Vine,5,5,0,5,2012-03-27,,
+411464,Gaelscoil An Chaistil,5,0,0,5,2014-01-29,55.197933,-6.2573
+411465,Garron View B & B,5,5,5,5,2013-02-27,55.081903,-6.093312
+411466,Giant's Causeway & Bushmills Railway,5,5,0,5,2014-07-08,55.229806,-6.527919
+411467,Glass's,1,15,0,20,2014-01-23,55.204949,-6.523433
+411468,Glen Rural Community Group (Armoy),Exempt,nan,nan,nan,2011-12-07,55.138675,-6.297929
+411469,Glenann Primary School,5,5,0,5,2013-06-24,55.092645,-6.101761
+411470,Glenariffe Tea House,5,nan,nan,nan,2013-08-23,55.019631,-6.122616
+411471,Glendale B & B,5,5,5,5,2013-02-26,55.078198,-6.057284
+411472,Glenluce Guest House,5,5,0,5,2014-07-02,55.203874,-6.243721
+411473,Glenmona Resource Centre,5,0,0,5,2014-06-27,55.081131,-6.064909
+411474,Glenmore Restaurant,2,15,15,10,2014-08-04,55.227012,-6.320673
+411475,Glenn Eireann House,4,0,0,10,2014-10-29,55.10655,-6.082125
+411476,Glens Residential Home,5,5,5,5,2014-03-27,55.070084,-6.061169
+411477,Golden Chip,5,5,0,5,2014-02-11,55.200201,-6.253181
+411478,Gordons Chemist,Exempt,nan,nan,nan,2012-01-11,55.204998,-6.523007
+411479,Ground Espresso Bars,5,5,0,5,2014-07-08,55.204998,-6.523007
+411480,Harry's Restaurant,5,5,5,5,2014-03-31,55.080381,-6.064586
+411481,Hill View Residential Home,4,5,10,5,2014-03-12,55.169736,-6.343202
+411482,Hillhead Service Station,4,5,5,10,2014-06-30,55.19848,-6.261659
+411483,Hillsea,5,5,5,5,2013-02-25,55.208213,-6.250615
+411484,House of McDonnell,4,10,0,5,2011-10-07,55.200201,-6.253181
+411485,Hunters Bar & Lounge,3,10,10,10,2012-02-16,55.19888,-6.186095
+411486,Islandarragh House,5,5,5,5,2013-03-13,55.167045,-6.299153
+411487,J & J Bed & Breakfast,5,0,5,5,2013-03-19,55.209629,-6.252218
+411488,J F McLister & Son,4,10,5,5,2014-02-14,55.201613,-6.248972
+411489,Jack Horner & Mother Goose Playgroup,5,5,0,5,2011-12-12,55.204108,-6.238181
+411490,Kenmara,5,5,0,5,2012-07-30,55.207717,-6.242986
+411491,Kinbane Farmhouse B & B,4,0,0,10,2012-09-26,55.216814,-6.291437
+411492,Knocklayde House,Exempt,nan,nan,nan,2014-08-05,55.197933,-6.2573
+411493,Knockmoy Fold,5,0,0,0,2014-10-29,55.080039,-6.062879
+411494,Kraftykakes,5,5,0,5,2011-10-04,,
+411495,K's Kitchen,3,10,10,10,2014-01-22,55.202042,-6.248812
+411496,Lagavara Farm B & B,4,10,0,10,2013-05-28,55.225198,-6.371088
+411497,Lakeside Tea Room,3,5,10,10,2014-07-10,55.182665,-6.152041
+411498,Laragh Lodge,3,10,10,5,2014-08-12,55.027969,-6.08344
+411499,Leabank Private Nursing Home,4,10,5,5,2014-01-22,55.205214,-6.242609
+411500,Lilly's,3,10,10,10,2014-01-29,55.204998,-6.523007
+411501,Liscolman Recreation Hall,Exempt,nan,nan,nan,2014-10-30,55.169481,-6.459411
+411502,Lismar B & B,5,5,0,0,2013-06-26,55.197834,-6.520477
+411503,Lucky's Bingo,5,5,0,5,2014-03-25,55.198871,-6.249454
+411504,Lurig View B & B,4,5,10,5,2014-02-27,55.047574,-6.053556
+411505,Mace,4,5,10,5,2014-03-31,55.081518,-6.063262
+411506,Marine Hotel (Ballycastle) Ltd,4,10,5,5,2013-09-20,55.205564,-6.24129
+411507,Mary McBrides Ltd,4,5,5,10,2012-03-09,55.125578,-6.042568
+411508,Mauds Ice Cream,5,5,0,0,2014-08-05,55.20688,-6.240981
+411509,Mcallister's Spuds,Exempt,nan,nan,nan,2012-08-21,,
+411510,McCaughan's Mace,3,10,10,10,2013-05-01,55.131059,-6.327212
+411511,McCollam's Public House,5,5,0,0,2011-10-06,55.080381,-6.064586
+411512,McKay's,4,10,5,5,2014-01-08,55.154824,-6.408676
+411513,McMichael's Chemist,Exempt,nan,nan,nan,2011-12-13,55.202042,-6.248812
+411514,Mill Rest Youth Hostel,5,5,0,0,2014-08-19,55.206912,-6.5238
+411515,Morellis,4,5,5,10,2014-11-26,55.205564,-6.24129
+411516,Mortons Fish And Chips,5,0,0,5,2014-03-31,55.20688,-6.240981
+411517,Mortons Fish Shop,5,5,5,0,2014-03-28,55.20688,-6.240981
+411518,Mosside Community Centre,Exempt,nan,nan,nan,2013-07-31,55.153006,-6.420122
+411519,Naiscoil An Chaistil Nursery,5,5,5,5,2014-01-29,55.197933,-6.2573
+411520,Nisa Cushendun,5,5,5,5,2012-02-17,55.125578,-6.042568
+411521,Noels Pound Coiner,Exempt,nan,nan,nan,2011-12-07,55.200201,-6.253181
+411522,North Coast B & B,5,5,5,5,2014-01-24,55.218137,-6.342354
+411523,O'Connor's,5,5,5,5,2014-03-26,55.201613,-6.248972
+411524,Old Bushmills Distillery Canteen,5,5,0,0,2014-03-11,55.20222,-6.519906
+411525,Old Bushmills Distillery Kitchen,5,5,5,5,2014-01-07,55.20222,-6.519906
+411526,Old Bushmills Distillery Shop,5,5,0,0,2014-03-11,55.20222,-6.519906
+411527,Pizza Casa,4,10,5,5,2014-03-20,55.200909,-6.24993
+411528,Pizza Haven,3,10,5,10,2014-02-25,55.205564,-6.24129
+411529,Portcaman Fold,5,0,5,5,2012-01-31,55.201666,-6.526036
+411530,Portcaman House,3,5,10,10,2014-06-25,55.203434,-6.526709
+411531,Ramages Centra,4,10,5,0,2014-01-23,55.206912,-6.5238
+411532,Rathmoyle Residential Home,5,5,5,5,2014-01-10,55.204108,-6.238181
+411533,Rathmoyle Resource Centre,5,5,0,0,2014-03-20,55.204108,-6.238181
+411534,Red Door Cottage Tea Room,5,5,5,5,2014-06-24,55.241939,-6.367416
+411535,Rest A While B & B,5,0,5,5,2014-02-17,55.202291,-6.504385
+411536,Revive,5,5,0,5,2014-06-27,55.08068,-6.063631
+411537,Riverside B & B,4,10,0,10,2013-06-05,55.080381,-6.064586
+411538,Ross House,4,0,5,10,2014-02-10,55.147218,-6.451438
+411539,Ross Lodge,4,5,5,10,2014-02-10,55.147218,-6.451438
+411540,S & A Fountain of Love,4,5,5,10,2012-03-05,,
+411541,Sam's Paper Shop,1,10,0,20,2014-01-15,55.204949,-6.523433
+411542,Scotch House,4,5,10,0,2014-11-27,55.206912,-6.5238
+411543,Seabreeze,3,10,5,10,2014-02-04,55.197514,-6.235692
+411544,Seaview B & B,5,0,5,5,2013-04-17,55.22619,-6.445024
+411545,See Saw Playgroup,5,5,5,5,2013-09-04,55.153006,-6.420122
+411546,Sheep Island View Conference Centre,5,5,5,5,2014-03-21,55.236276,-6.357792
+411547,Sheskburn Day Centre,4,10,0,5,2011-12-14,55.204108,-6.238181
+411548,Shorebird Coffee Hut,5,0,0,0,2014-09-12,55.203904,-6.240201
+411549,Sleepy Hollow B & B,4,5,5,10,2012-07-18,55.118335,-6.061528
+411550,Smugglers Inn,4,5,5,10,2012-04-04,55.221687,-6.486262
+411551,Something Special,4,0,5,10,2013-06-20,55.231928,-6.513254
+411552,Spar Bushmills,3,10,10,10,2014-01-24,55.201563,-6.522003
+411553,Spar Castle Street,5,5,0,5,2014-09-24,55.200484,-6.252885
+411554,Spar Moyle Road,4,10,0,0,2014-01-22,55.207712,-6.253873
+411555,St Ciaran's Primary School Meals Kitchen,5,5,5,5,2013-05-07,55.117375,-6.055994
+411556,St Mary's Primary School Meals Kitchen,5,5,0,5,2013-05-08,55.07641,-6.060659
+411557,St Olcan's Primary School,5,5,5,5,2014-09-30,55.132813,-6.319566
+411558,St Patrick's & St Brigid's Primary School,5,5,5,5,2013-02-15,55.204047,-6.252667
+411559,St Patrick's Primary School,5,5,5,5,2013-02-12,55.056366,-6.052754
+411560,Straidbilly Primary School,5,5,5,5,2013-02-22,55.17219,-6.453421
+411561,Sunbeams Creche,5,5,5,5,2014-09-29,55.205295,-6.527536
+411562,Sunny's Cafe,3,10,10,10,2013-10-10,55.200201,-6.253181
+411563,Tartine @ Distillers Arms And River Cafe,4,10,5,5,2014-03-26,55.203374,-6.522455
+411564,Teach An Cheoil B & B,3,5,10,10,2013-08-06,55.182023,-6.168477
+411565,The Bay Cafe,3,5,10,10,2014-01-08,55.20688,-6.240981
+411566,The Burn,5,5,0,5,2012-10-24,55.066044,-6.091499
+411567,The Cellar,5,5,5,5,2014-03-25,55.200909,-6.24993
+411568,The Cherry Blossom Cake Co,3,5,10,10,2014-09-26,55.131209,-6.326422
+411569,The Copper Kettle,4,10,5,5,2014-02-17,55.204949,-6.523433
+411570,The French Rooms,3,5,10,10,2014-02-19,55.206912,-6.5238
+411571,The Fruit Shop,1,10,10,20,2013-07-10,55.200909,-6.24993
+411572,The Fullerton Arms,1,15,20,10,2014-11-13,55.236276,-6.357792
+411573,The Glens Hotel,2,10,15,10,2014-03-27,55.08029,-6.061129
+411574,The Hip Chip,2,10,15,10,2014-01-29,55.204998,-6.523007
+411575,The Lurig Inn,5,5,0,5,2011-10-13,55.08068,-6.063631
+411576,The Meadows,5,0,5,5,2013-05-07,55.073832,-6.054521
+411577,The Nook,3,10,10,10,2013-08-19,55.231928,-6.513254
+411578,The Old Manse B & B,5,5,5,5,2014-02-05,55.203874,-6.243721
+411579,The Original Factory Shop,5,0,0,0,2013-05-15,55.20141,-6.255437
+411580,The Pepper Mill,5,5,5,5,2014-03-20,55.080381,-6.064586
+411581,The Promenade Cafe,4,5,10,5,2013-09-12,55.205564,-6.24129
+411582,The Villa Farmhouse,5,5,5,5,2013-05-15,55.140283,-6.039652
+411583,The Village B & B,4,5,5,10,2013-05-28,55.080381,-6.064586
+411584,The Village Bistro,4,5,10,5,2014-02-17,55.204949,-6.523433
+411585,The Warren Restaurant,5,5,0,5,2014-01-31,55.203756,-6.235589
+411586,The Weighbridge Tea Rooms,5,5,5,0,2014-03-20,55.236889,-6.35129
+411587,The Whins B & B,5,0,0,5,2014-10-28,55.203128,-6.350517
+411588,Thyme & Co,4,10,5,5,2014-09-10,55.203581,-6.24276
+411589,Tramway B & B,5,5,5,5,2013-06-26,55.206994,-6.530662
+411590,Upstairs At Joes,2,10,15,10,2013-08-07,55.080381,-6.064586
+411591,Whitepark Bay Youth Hostel,4,5,10,5,2014-09-05,55.228872,-6.398899
+411592,Whitepark House,4,5,5,10,2012-10-04,55.228872,-6.398899
+411593,Wineflair/Mace,3,10,10,10,2014-03-03,55.080247,-6.056214
+411594,Yi House,1,10,10,20,2013-10-24,55.204998,-6.523007

@@ -1,608 +1,608 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-229778,Scout Association,Bells Lane,Fareham,,1st Stubbington Scout Group,Other catering premises,7841,,,37760,,,50.82235700000000,100062406697,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21559100000000,PO14 2PL,2011-11-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-229779,174b West Street,Fareham,,,4u2brew Ltd,Retailers - other,4613,5,,37416,5,,50.85237300000000,100060361293,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18519800000000,PO16 0EQ,2012-08-14,fhrs_5_en-GB,5,,FHRS,5
-229780,95 West Street,Fareham,,,99p Store,Retailers - other,4613,10,,39692,5,,50.85282300000000,10012137456,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17879800000000,PO16 0AQ,2014-11-25,fhrs_3_en-GB,3,,FHRS,10
-229781,51 Bridge Road,Park Gate,Southampton,,A & T Cooper,Retailers - other,4613,0,,37420,0,,50.87194200000000,100060363925,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26950400000000,SO31 7GG,2012-04-02,fhrs_5_en-GB,5,,FHRS,5
-229782,,,,,A And M Catering,Mobile caterer,7846,0,,37361,5,,,100060345311,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-09-24,fhrs_5_en-GB,5,,FHRS,0
-229783,Abbey Nursery,Mill Lane,Titchfield,Fareham,Abbey Garden Centre,Restaurant/Cafe/Canteen,1,0,,37374,5,,50.85583300000000,100060349341,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23126800000000,PO15 5RB,2014-11-04,fhrs_4_en-GB,4,,FHRS,10
-229784,Abbey House,Mill Lane,Titchfield,Fareham,Abbey House Bed And Breakfast,Hotel/bed & breakfast/guest house,7842,0,,365256,0,,50.85583300000000,100062407032,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23126800000000,PO15 5RB,2013-09-18,fhrs_5_en-GB,5,,FHRS,5
-229785,Abbeyfield Court,46 Locks Road,Locks Heath,Southampton,Abbeyfield Court,Hospitals/Childcare/Caring Premises,5,0,,39694,5,,50.85873300000000,10012137509,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27123000000000,SO31 6BF,2013-04-17,fhrs_5_en-GB,5,,FHRS,5
-229786,,,,,Abbeyfield Society,Hospitals/Childcare/Caring Premises,5,0,,37332,0,,,100060339546,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-08-12,fhrs_5_en-GB,5,,FHRS,0
-229787,,,,,Abbeyfield Society,Hospitals/Childcare/Caring Premises,5,0,,37333,5,,,100060339547,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-08-12,fhrs_5_en-GB,5,,FHRS,0
-229788,Abshot Community Centre,Kelsey Close,Fareham,,Abshot Community Centre,Other catering premises,7841,,,37788,,,50.85490300000000,100062406991,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26560700000000,PO14 4NR,2012-04-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-229789,Abshot Country Club,Little Abshot Road,Fareham,,Abshot Country Club,Other catering premises,7841,0,,40005,5,,50.84823900000000,10062643797,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26831100000000,PO14 4LN,2014-04-08,fhrs_5_en-GB,5,,FHRS,0
-229790,Holy Rood Church,Gosport Road,Stubbington,Fareham,Acorn Pre-School,Hospitals/Childcare/Caring Premises,5,0,,491462,0,,50.82378700000000,100062406610A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21159200000000,PO14 2AS,2015-01-12,fhrs_5_en-GB,5,,FHRS,0
-229791,Admiral House,1 Hamilton Road,Sarisbury Green,Southampton,Admiral House,Hospitals/Childcare/Caring Premises,5,0,,39661,0,,50.87028400000000,10012134030,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27920700000000,SO31 7LX,2012-05-03,fhrs_5_en-GB,5,,FHRS,0
-229792,Wicor Recreation Ground,Cranleigh Road,Fareham,,Afc Portchester,Restaurant/Cafe/Canteen,1,5,,39687,0,,50.84434800000000,10012136661,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.14299000000000,,2014-04-29,fhrs_5_en-GB,5,,FHRS,5
-229793,208 - 228 West Street,Fareham,,,Aldi Stores Ltd,Retailers - other,4613,0,,37830,0,,50.85243500000000,100062407487,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18754100000000,PO16 0AL,2013-07-10,fhrs_5_en-GB,5,,FHRS,0
-229794,19 Locks Heath Centre,Centre Way,Locks Heath,Southampton,Alexander Hadleigh Wine Merch.,Retailers - other,4613,,,38723,,,50.86378600000000,100062524661,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2014-04-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-229795,218 Gudge Heath Lane,Fareham,,,Ali'S Grill,Takeaway/sandwich shop,7844,10,,38809,5,,50.85991800000000,100062643175,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20740200000000,PO15 6QB,2013-10-28,fhrs_4_en-GB,4,,FHRS,5
-229796,98 Miller Drive,Fareham,,,All Is Well Mini Mart,Retailers - other,4613,20,,37884,0,,50.86101600000000,100062408035,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19438300000000,PO16 7LN,2013-11-22,fhrs_1_en-GB,1,,FHRS,5
-229797,74a - 78a West Street,Portchester,Fareham,,Al'S Bar,Takeaway/sandwich shop,7844,10,,37931,5,,50.84603300000000,100062408643,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12668800000000,PO16 9UN,2011-06-09,fhrs_4_en-GB,4,,FHRS,0
-229798,Andark,256 Bridge Road,Swanwick,Southampton,Andark Promotions Ltd,Restaurant/Cafe/Canteen,1,10,,693746,5,,50.88084900000000,100062643297,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29507900000000,SO31 7FL,2014-06-11,fhrs_4_en-GB,4,,FHRS,0
-229799,5 West Quay House,20 West Street,Fareham,,Antonio'S Restaurant,Restaurant/Cafe/Canteen,1,5,,37879,10,,50.85212500000000,100062407968,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17550000000000,PO16 0LG,2014-12-01,fhrs_3_en-GB,3,,FHRS,10
-229800,97 - 99 West Street,Fareham,,,Argos Distributors Ltd,Retailers - other,4613,,,37832,,,50.85284100000000,100062407497,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18010400000000,PO16 0AS,2012-11-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-229801,Argos,166 Southampton Road,Titchfield,Fareham,Argos Ltd,Retailers - other,4613,,,39650,,,50.86133000000000,10012133773,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25382700000000,PO14 4QL,2013-01-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-229802,Asda Stores Ltd,Speedfields Park,Fareham,,Asda Cafe,Restaurant/Cafe/Canteen,1,5,,551069,0,,50.83361500000000,10012133832A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18397700000000,PO14 1TT,2013-04-19,fhrs_5_en-GB,5,,FHRS,0
-229803,Asda Stores Ltd,Speedfields Park,Fareham,,Asda Stores Ltd,Retailers - other,4613,0,,39654,5,,50.83361500000000,10012133832,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18397700000000,PO14 1TT,2013-11-27,fhrs_5_en-GB,5,,FHRS,5
-229804,Ashcroft Arts Centre,Osborn Road,Fareham,,Ashcroft Arts Centre,Restaurant/Cafe/Canteen,1,5,,37889,0,,50.85591100000000,100062408092,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17540500000000,PO16 7DX,2011-06-23,fhrs_5_en-GB,5,,FHRS,0
-229805,10 West Street,Fareham,,,Ask Restaurant,Restaurant/Cafe/Canteen,1,0,,37866,0,,50.85217400000000,100062407882,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17474600000000,PO16 0BH,2013-01-14,fhrs_5_en-GB,5,,FHRS,5
-229806,128 Church Road,Warsash,Southampton,,Asquith Court Schools,Other catering premises,7841,0,,39673,0,,50.84771300000000,10012134538,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29242400000000,SO31 9GF,2014-10-14,fhrs_5_en-GB,5,,FHRS,5
-229807,107 Highlands Road,Fareham,,,August Moon Chinese Takeaway,Other catering premises,7841,0,,37355,10,,50.85990000000000,100060344231,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20875200000000,PO15 6HZ,2014-08-13,fhrs_4_en-GB,4,,FHRS,10
-229808,,,,,Auntie Cara'S Cakes,Retailers - other,4613,0,,637223,0,,,100060339788,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-02-12,fhrs_5_en-GB,5,,FHRS,0
-229809,Fareham College,Bishopsfield Road,Fareham,,Avenue 141,Restaurant/Cafe/Canteen,1,5,,365254,0,,50.85109400000000,100062406199A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19922700000000,PO14 1NH,2014-03-24,fhrs_5_en-GB,5,,FHRS,0
-229810,Avon Park Rest Home,66 Southampton Road,Park Gate,Southampton,Avon Park Rest Home,Hospitals/Childcare/Caring Premises,5,0,,38714,0,,50.86843100000000,100062524642,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25895700000000,SO31 6AF,2014-07-22,fhrs_5_en-GB,5,,FHRS,0
-229811,2 Stubbington Green,Fareham,,,B C Sheppard Butcher & Son,Retailers - other,4613,0,,37751,0,,50.82535500000000,100062406673,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21470300000000,PO14 2JQ,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-229812,B And M Stores Ltd,Speedfields Park,Fareham,,B&M Stores Ltd,Retailers - other,4613,0,,454610,0,,50.83380700000000,100062643561,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18576300000000,PO14 1TR,2012-08-22,fhrs_5_en-GB,5,,FHRS,0
-229813,216 Gudge Heath Lane,Fareham,,,Baburchi,Other catering premises,7841,20,,38808,15,,50.85991800000000,100062643174,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20740200000000,PO15 6QB,2014-10-23,fhrs_1_en-GB,1,,FHRS,10
-229814,Bahn Thai,Wickham Road,Fareham,,Bahn Thai,Restaurant/Cafe/Canteen,1,10,,37948,10,,50.88292100000000,100062408818,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18131100000000,PO17 5BT,2013-09-26,fhrs_3_en-GB,3,,FHRS,10
-229815,10a Locks Heath Centre,Centre Way,Locks Heath,Southampton,Basmati Restaurant,Restaurant/Cafe/Canteen,1,10,,38707,10,,50.86378600000000,100062524510,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2014-11-05,fhrs_3_en-GB,3,,FHRS,5
-229816,Batleys Plc,Talbot Road,Fareham,,Batleys Cash And Carry,Distributors/Transporters,7,0,,82144,0,,50.85864900000000,200002892095,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24520300000000,PO15 5RY,2014-02-03,fhrs_5_en-GB,5,,FHRS,5
-229817,Baycroft School,Gosport Road,Stubbington,Fareham,Baycroft School,School/college/university,7845,0,,39578,0,,50.82144300000000,10012128686,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20403600000000,PO14 2AE,2013-11-12,fhrs_5_en-GB,5,,FHRS,5
-229818,Westbury Square - Bb'S Coffee,Fareham Shopping Centre,Fareham,,Bb'S Coffee & Muffins,Restaurant/Cafe/Canteen,1,0,,135902,0,,50.85349900000000,6981050100100,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17779100000000,PO16 0PQ,2014-07-08,fhrs_4_en-GB,4,,FHRS,10
-229819,69 Crofton Lane,Fareham,,,Beech Cottage,Retailers - other,4613,5,,37329,0,,50.81892400000000,100060338034,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22527300000000,PO14 3LW,2011-09-09,fhrs_5_en-GB,5,,FHRS,0
-229820,58 Barnes Lane,Sarisbury Green,Southampton,,Belash Balti House,Restaurant/Cafe/Canteen,1,20,,38745,10,,50.86391200000000,100062525177,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29151200000000,SO31 7BZ,2014-08-27,fhrs_1_en-GB,1,,FHRS,15
-229821,47 Redlands Lane,Fareham,,,Best-One Redland Store,Retailers - other,4613,5,,37726,0,,50.84958900000000,100062406214,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19344300000000,PO14 1HL,2013-02-04,fhrs_5_en-GB,5,,FHRS,5
-229822,Building 5,Universal Marina,Crableck Lane,Sarisbury Green,Bistro 8,Restaurant/Cafe/Canteen,1,5,,39688,5,,50.87489200000000,10012136993,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30197600000000,SO31 7ZN,2014-08-04,fhrs_5_en-GB,5,,FHRS,0
-229823,Blackbrook House,31 Blackbrook House Drive,Fareham,,Blackbrook House Care Home,Hospitals/Childcare/Caring Premises,5,0,,433211,5,,50.83957700000000,100062406200,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22505100000000,PO14 1PA,2013-11-04,fhrs_5_en-GB,5,,FHRS,5
-229824,99a Gosport Road,Fareham,,,Bliss Residential Care Home,Hospitals/Childcare/Caring Premises,5,0,,716999,0,,50.84773600000000,10012138941,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18181300000000,PO16 0PY,2013-05-01,fhrs_5_en-GB,5,,FHRS,0
-229825,Swanwick Boatyard,Lower Swanwick,Hampshire,,Boat House Cafe,Restaurant/Cafe/Canteen,1,10,,128506,0,,50.88373400000000,5850000100001,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29944200000000,SO31 7EB,2014-04-28,fhrs_4_en-GB,4,,FHRS,10
-229826,140 West Street,Fareham,,,Bodrum Grill House,Restaurant/Cafe/Canteen,1,10,,37874,10,,50.85242900000000,100062407938,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18285300000000,PO16 0EL,2014-02-26,fhrs_3_en-GB,3,,FHRS,10
-229827,21 Westbury Mall,Fareham,,,Boots,Retailers - other,4613,0,,39633,0,,50.85278200000000,10012133568,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17810200000000,PO16 0PE,2012-07-12,fhrs_5_en-GB,5,,FHRS,0
-229828,Roche Court,Wickham Road,Fareham,,Boundary Oak School Trust Ltd,Hospitals/Childcare/Caring Premises,5,5,,37947,0,,50.87112100000000,100062408766,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17718300000000,PO17 5BL,2013-06-20,fhrs_5_en-GB,5,,FHRS,0
-229829,29 Pembury Road,Fareham,,,Brain'S Mobile Shop,Retailers - other,4613,0,,37383,0,,50.83216800000000,100060352355,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21150700000000,PO14 2EJ,2012-05-31,fhrs_5_en-GB,5,,FHRS,0
-229830,78 Solent Breezes,Chilling Lane,Warsash,Southampton,Breezes Bar,Pub/bar/nightclub,7843,5,,39604,5,,50.83904700000000,10012130857,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27684800000000,SO31 9HF,2014-03-13,fhrs_5_en-GB,5,,FHRS,5
-229831,66 - 68 Hill Head Road,Fareham,,,Breezes Cafe,Restaurant/Cafe/Canteen,1,0,,37773,5,,50.81681300000000,100062406808,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23381100000000,PO14 3JP,2014-02-24,fhrs_5_en-GB,5,,FHRS,5
-229832,290 Brook Lane,Sarisbury Green,Southampton,,Brook Lane Rest Home,Hospitals/Childcare/Caring Premises,5,5,,38752,0,,50.86919800000000,100062525247,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27376700000000,SO31 7DP,2014-11-27,fhrs_5_en-GB,5,,FHRS,0
-229833,Brookfield School,Brook Lane,Sarisbury Green,Southampton,Brookfield School,School/college/university,7845,0,,38749,0,,50.86466200000000,100062525237,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28477900000000,SO31 7DU,2013-05-15,fhrs_5_en-GB,5,,FHRS,5
-229834,188 West Street,Fareham,,,Browns Coffee,Other catering premises,7841,5,,716990,0,,50.85239600000000,100062407913,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18582300000000,PO16 0HP,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-229835,85 - 87 West Street,Fareham,,,Burger King,Restaurant/Cafe/Canteen,1,0,,37867,0,,50.85278200000000,100062407883,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17810200000000,PO16 0AP,2014-10-28,fhrs_5_en-GB,5,,FHRS,5
-229836,Burridge Village Hall,Botley Road,Burridge,Southampton,Burridge Village Hall,Other catering premises,7841,,,38702,,,50.89204300000000,100062523921,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26424100000000,SO31 1BS,2013-02-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-229837,Bursledon Brickworks,Coal Park Lane,Swanwick,Southampton,Bursledon Brickworks,Other catering premises,7841,0,,38726,0,,50.88658900000000,100062524711,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29119600000000,SO31 7GW,2013-02-28,fhrs_5_en-GB,5,,FHRS,0
-229838,Bus Station,Hartlands Road,Fareham,,Bus Station,Restaurant/Cafe/Canteen,1,0,,37878,5,,50.85272979736328,100062407965,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17410004138947,PO16 0NB,2014-02-10,fhrs_5_en-GB,5,,FHRS,0
-229839,6 West Street,Fareham,,,Cackleberrys,Restaurant/Cafe/Canteen,1,5,,37873,5,,50.85217400000000,100062407912,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17474600000000,PO16 0BH,2014-11-25,fhrs_5_en-GB,5,,FHRS,5
-229840,25 Barnes Wallis Road,Fareham,,,Cafe Arena,Restaurant/Cafe/Canteen,1,0,,82145,10,,50.86572500000000,200002892101,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24510300000000,PO15 5TT,2014-10-21,fhrs_4_en-GB,4,,FHRS,10
-229841,Lancaster Court,Barnes Wallis Road,Fareham,,Cafe Arena,Restaurant/Cafe/Canteen,1,10,,637228,5,,50.86896300000000,100062668070,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25066400000000,PO15 5ST,2014-03-06,fhrs_3_en-GB,3,,FHRS,10
-229842,17 Romsey Avenue,Fareham,,,Cafe Cuisine,Mobile caterer,7846,5,,637224,0,,50.84814000000000,100060354502,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.14530000000000,PO16 9TR,2014-01-22,fhrs_5_en-GB,5,,FHRS,0
-229843,205b West Street,Fareham,,,Cafe Ethos,Restaurant/Cafe/Canteen,1,5,,37840,5,,50.85277600000000,100062407576,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18620000000000,PO16 0EN,2014-11-11,fhrs_5_en-GB,5,,FHRS,5
-229844,Station Shop,Fareham Railway Station,Station Approach,Fareham,Cafe Express,Restaurant/Cafe/Canteen,1,0,,135892,0,,50.85347800000000,6980025200200,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19143000000000,PO16 0UT,2014-12-03,fhrs_5_en-GB,5,,FHRS,5
-229845,20 Thackeray Square,Fareham,,,Cafe Giardino,Restaurant/Cafe/Canteen,1,0,,39629,5,,50.85337700000000,10012133550,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17701200000000,PO16 0PG,2014-05-21,fhrs_4_en-GB,4,,FHRS,10
-229846,54 West Street,Fareham,,,Cafe Nero,Restaurant/Cafe/Canteen,1,0,,37828,5,,50.85200500000000,100062407470,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17751900000000,PO16 0JN,2013-07-31,fhrs_4_en-GB,4,,FHRS,10
-229847,24 West Street - Cafe Tusk,Fareham,,,Cafe Tusk,Restaurant/Cafe/Canteen,1,10,,135891,10,,50.85206500000000,6980002200009,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17582800000000,PO16 0LF,2013-08-14,fhrs_3_en-GB,3,,FHRS,10
-229848,,,,,Cake Baker,Retailers - other,4613,5,,637222,0,,,100060338605,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-229849,,,,,Cakes By Sally Webb,Retailers - other,4613,5,,595402,0,,,100060361406,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-10-18,fhrs_5_en-GB,5,,FHRS,0
-229850,Cams Hall Golf Club,Portchester Road,Fareham,,Cams Hall Golf Club,Restaurant/Cafe/Canteen,1,5,,38843,5,,50.85196200000000,100062668141,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.16511800000000,PO16 8UP,2013-11-22,fhrs_5_en-GB,5,,FHRS,5
-229851,Cams Hill School,Shearwater Avenue,Fareham,,Cams Hill School,School/college/university,7845,5,,37906,0,,50.85046000000000,100062408315,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.15890900000000,PO16 8AH,2014-12-02,fhrs_5_en-GB,5,,FHRS,0
-229852,Cams Mill,Cams Hill,Fareham,,Cams Mill Restaurant,Restaurant/Cafe/Canteen,1,0,,716997,5,,50.84725300000000,10012138887,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.16682200000000,PO16 8AA,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-229853,7 Charlemont Drive,Fareham,,,Cams Ridge Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,37916,0,,50.85331400000000,100062408516,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.16557700000000,PO16 8RT,2013-07-08,fhrs_5_en-GB,5,,FHRS,0
-229854,150 West Street,Fareham,,,Canton Express,Takeaway/sandwich shop,7844,20,,37851,15,,50.85238500000000,100062407788,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18436000000000,PO16 0EH,2013-06-30,fhrs_1_en-GB,1,,FHRS,0
-229855,31a Cottes Way,Fareham,,,Carisbrooke Pre-School,Hospitals/Childcare/Caring Premises,5,5,,37768,0,,50.81783800000000,100062406766,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22831500000000,PO14 3NF,2012-04-20,fhrs_5_en-GB,5,,FHRS,0
-229856,38 Portchester Road,Fareham,,,Carleen Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,37917,0,,50.85041700000000,100062408517,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.15044300000000,PO16 8PT,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-229857,,,,,Castle Cafe,Mobile caterer,7846,20,,644330,10,,,10012133536,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-03-08,fhrs_1_en-GB,1,,FHRS,5
-229858,Castle County Day Centre,Castle Street,Portchester,,Castle County Day Centre,Other catering premises,7841,5,,44781,0,,50.84619100000000,1085005500104,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12262300000000,PO16 9PP,2011-06-16,fhrs_5_en-GB,5,,FHRS,0
-229859,Castle In The Air,49 Old Gosport Road,Fareham,,Castle In The Air,Pub/bar/nightclub,7843,0,,37848,5,,50.84830700000000,100062407775,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17982900000000,PO16 0XH,2014-03-17,fhrs_5_en-GB,5,,FHRS,5
-229860,Castle Primary School,Castle Street,Portchester,Fareham,Castle Primary School,School/college/university,7845,0,,38811,0,,50.84238500000000,100062643200,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12107500000000,PO16 9QQ,2013-09-13,fhrs_5_en-GB,5,,FHRS,0
-229861,153 White Hart Lane,Fareham,,,Castle Takeaway,Restaurant/Cafe/Canteen,1,0,,37417,0,,50.84217200000000,100060361906,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13109200000000,PO16 9AY,2014-05-21,fhrs_5_en-GB,5,,FHRS,0
-229862,,,,,Castle View Foods,Retailers - other,4613,0,,480118,0,,,100060336205,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2012-05-23,fhrs_5_en-GB,5,,FHRS,0
-229863,1 Catisfield Lane,Fareham,,,Catisfield Cottage Guest House,Hotel/bed & breakfast/guest house,7842,10,,37321,5,,50.85320400000000,100060336226,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22264600000000,PO15 5NW,2013-10-16,fhrs_3_en-GB,3,,FHRS,10
-229864,,,,,Caymanas Rum Cakes Ltd,Retailers - other,4613,0,,39623,0,,,10012133146,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-09-03,fhrs_5_en-GB,5,,FHRS,0
-229865,14 Universal Marina,Crableck Lane,Sarisbury Green,Southampton,Cc Marine & Ind Supply Ltd,Other catering premises,7841,,,551068,,,50.87489200000000,100062643346,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30197600000000,SO31 7ZN,2013-04-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-229866,Cemast,1 Meteor Way,Stubbington,Lee On The Solent,Cemast College,Other catering premises,7841,0,,693748,0,,,10012138784,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,PO13 9FU,2014-08-07,fhrs_5_en-GB,5,,FHRS,0
-229867,,,,,Childminder,Retailers - other,4613,0,,644328,5,,,10012130720,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-04-07,fhrs_5_en-GB,5,,FHRS,0
-229868,116 Bridge Road,Sarisbury Green,Southampton,,Chives Sandwich Bar,Restaurant/Cafe/Canteen,1,5,,37421,5,,50.87492300000000,100060363940,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27896500000000,SO31 7EP,2013-07-24,fhrs_5_en-GB,5,,FHRS,5
-229869,23 Shore Road,Warsash,Southampton,,Chon Chola,Restaurant/Cafe/Canteen,1,5,,38765,5,,50.85300100000000,100062525581,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30155000000000,SO31 9FS,2013-05-08,fhrs_5_en-GB,5,,FHRS,5
-229870,1 Holly Close,Sarisbury Green,Southampton,,Chows Dynasty,Other catering premises,7841,10,,38756,15,,50.86432600000000,100062525257,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29009900000000,SO31 7BW,2014-10-30,fhrs_2_en-GB,2,,FHRS,10
-229871,,,,,Claire Cooks Cake,Retailers - other,4613,0,,716988,0,,,100060352088,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-11-18,fhrs_5_en-GB,5,,FHRS,0
-229872,11 West Street,Portchester,Fareham,,Coffee Cup Portsmouth Ltd,Restaurant/Cafe/Canteen,1,5,,37942,0,,50.84661300000000,100062408735,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12481700000000,PO16 9XB,2014-09-25,fhrs_5_en-GB,5,,FHRS,5
-229873,Community Centre,Mill Street,Titchfield,Fareham,Community Centre,Other catering premises,7841,0,,38833,5,,50.85105700000000,100062643764B,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23241200000000,PO14 4AB,2013-09-17,fhrs_4_en-GB,4,,FHRS,10
-229874,123 Segensworth Road,Fareham,,,Community Integrated Care,Hospitals/Childcare/Caring Premises,5,0,,39603,5,,50.86293000000000,10012130767,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24392600000000,PO15 5EG,2014-09-19,fhrs_5_en-GB,5,,FHRS,0
-229875,52 Abshot Road,Fareham,,,Community Integrated Care,Hospitals/Childcare/Caring Premises,5,0,,37310,0,,50.85474200000000,100060332489,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26286800000000,PO14 4NB,2014-10-27,fhrs_5_en-GB,5,,FHRS,0
-229876,Thurleigh,7 Newgate Lane,Fareham,,Community Integrated Care,Hospitals/Childcare/Caring Premises,5,0,,37376,0,,50.82152300000000,100060350291,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19081700000000,PO14 1BQ,2013-01-11,fhrs_5_en-GB,5,,FHRS,0
-229877,Red Barn County Primary School,Linden Lea,Fareham,,Community Room/ Koolkidz,Other catering premises,7841,0,,516722,0,,50.85038800000000,100062408447B,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13422100000000,PO16 8HJ,2013-09-19,fhrs_5_en-GB,5,,FHRS,0
-229878,12 West Street,Portchester,Fareham,,Co-Op,Retailers - other,4613,5,,37927,0,,50.84627600000000,100062408605,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12435400000000,PO16 9UZ,2014-07-03,fhrs_4_en-GB,4,,FHRS,10
-229879,139 Highlands Road,Fareham,,,Co-Op,Retailers - other,4613,0,,37821,5,,50.85943000000000,100062407310,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20968400000000,PO15 6QL,2013-10-14,fhrs_5_en-GB,5,,FHRS,5
-229880,47-49 Fairfield Avenue,Fareham,Hampshire,,Co-Op,Retailers - other,4613,0,,144503,5,,50.84386800000000,8330004700003,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19581400000000,PO14 1EH,2012-11-15,fhrs_5_en-GB,5,,FHRS,5
-229881,54 Linden Lea,Fareham,,,Co-Op,Retailers - other,4613,0,,693747,10,,50.85084200000000,10012138544,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13239400000000,PO16 8EA,2014-05-01,fhrs_4_en-GB,4,,FHRS,5
-229882,The White Hart,Castle Street,Portchester,Fareham,Co-Op,Retailers - other,4613,0,,37936,0,,50.84238500000000,100062408678,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12107500000000,PO16 9QQ,2013-02-12,fhrs_5_en-GB,5,,FHRS,5
-229883,Co-Operative Retail Services Ltd,242 White Hart Lane,Fareham,,Co-Op Stores,Retailers - other,4613,0,,621081,0,,50.84375400000000,10012138451,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13819300000000,PO16 9AR,2013-12-09,fhrs_5_en-GB,5,,FHRS,5
-229884,3 Warsash Road,Warsash,Southampton,,Co-Operative Gp Ltd,Retailers - other,4613,0,,38767,0,,50.85352100000000,100062525602,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29678300000000,SO31 9HW,2013-01-22,fhrs_4_en-GB,4,,FHRS,10
-229885,40 - 42 West Street,Portchester,Fareham,,Coopers Store Ltd,Retailers - other,4613,,,37939,,,50.84608900000000,100062408685,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12569300000000,PO16 9UW,2014-09-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-229886,42 Bridge Road,Park Gate,Southampton,,Cork And Cheese,Retailers - other,4613,5,,187617,5,,50.87229300000000,100062525240,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26966900000000,SO31 7GF,2013-06-25,fhrs_5_en-GB,5,,FHRS,0
-229887,The Mall Cafe,Delme Square,Fareham,,Costa,Restaurant/Cafe/Canteen,1,5,,39669,5,,50.85349900000000,10012134405,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17779100000000,PO16 0PF,2014-04-09,fhrs_4_en-GB,4,,FHRS,10
-229888,2 Cremer Mall,Fareham,,,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,221253,0,,50.85214000000000,10012130401,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17886600000000,PO16 0BT,2012-02-14,fhrs_5_en-GB,5,,FHRS,0
-229889,42 Stubbington Green,Fareham,,,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,37749,0,,50.82577800000000,100062406669,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21348900000000,PO14 2LE,2014-07-17,fhrs_4_en-GB,4,,FHRS,10
-229890,Tesco,Quay Street,Fareham,,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,221250,0,,50.85167800000000,10012137957A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17589100000000,PO16 0LE,2012-02-14,fhrs_5_en-GB,5,,FHRS,0
-229891,207 - 209 Segensworth Road,Fareham,,,Country Stores,Other catering premises,7841,5,,39602,5,,50.86573300000000,10012130732,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25054500000000,PO15 5EL,2014-11-06,fhrs_4_en-GB,4,,FHRS,10
-229892,Croft House,Redlands Lane,Fareham,,Croft House,Hospitals/Childcare/Caring Premises,5,5,,37394,0,,50.85141800000000,100060354119,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19395100000000,PO14 1EY,2013-07-23,fhrs_5_en-GB,5,,FHRS,5
-229893,Croft Manor,28 Osborn Road,Fareham,,Croft Manor Rest Home,Hospitals/Childcare/Caring Premises,5,0,,37378,5,,50.85532600000000,100060351686,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17790100000000,PO16 7DS,2014-12-01,fhrs_5_en-GB,5,,FHRS,5
-229894,Crofton Anne Dale Infants School,Cuckoo Lane,Fareham,,Crofton Anne Dale Infants School,School/college/university,7845,0,,39660,0,,50.82381600000000,10012134029,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21988200000000,PO14 3PH,2014-06-25,fhrs_5_en-GB,5,,FHRS,0
-229895,Crofton Anne Dale Junior School,Cuckoo Lane,Fareham,,Crofton Anne Dale Junior School,School/college/university,7845,0,,39659,0,,50.82381600000000,10012134028,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21988200000000,PO14 3PH,2013-06-23,fhrs_5_en-GB,5,,FHRS,0
-229896,Bowling Green &Clubhouse,Adj Community Centre,Stubbington Lane,Stubbington,Crofton Bowling Club,Other catering premises,7841,0,,109002,5,,50.82319300000000,3920000200203,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21415700000000,PO14 2PP,2013-02-21,fhrs_5_en-GB,5,,FHRS,0
-229897,Crofton Community Centre,Stubbington Lane,Fareham,,Crofton Community Centre,Other catering premises,7841,,,37737,,,50.82319300000000,100062406576,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21415700000000,PO14 2PP,2012-05-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-229898,Crofton Manor Equestrian Centre,Titchfield Road - Rear  Of 217,Stubbington,,Crofton Livery Yard & Events,Restaurant/Cafe/Canteen,1,5,,109341,5,,50.83681600000000,3945021700104,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22342900000000,PO14 3EW,2015-01-15,fhrs_5_en-GB,5,,FHRS,5
-229899,54 Gosport Road,Stubbington,Fareham,,Crofton News And Booze Ltd,Retailers - other,4613,5,,37753,5,,50.82128700000000,100062406676,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20763000000000,PO14 2AN,2013-07-05,fhrs_5_en-GB,5,,FHRS,0
-229900,,,,,Dairy Free Cakes At Home,Retailers - other,4613,5,,37395,5,,,100060354828,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-03-12,fhrs_5_en-GB,5,,FHRS,5
-229901,44a West Street,Portchester,Fareham,,Darcys,Restaurant/Cafe/Canteen,1,0,,37930,0,,50.84603300000000,100062408634,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12668800000000,PO16 9UN,2013-04-22,fhrs_5_en-GB,5,,FHRS,0
-229902,119 Highlands Road,Fareham,,,Daves Family Butchers,Retailers - other,4613,5,,37815,5,,50.85990000000000,100062407257,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20875200000000,PO15 6HZ,2014-11-18,fhrs_5_en-GB,5,,FHRS,0
-229903,Delme Arms,1 Cams Hill,Fareham,,Delme Arms,Pub/bar/nightclub,7843,20,,37318,15,,50.85272700000000,100060335596,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.16521800000000,PO16 8QY,2014-10-20,fhrs_0_en-GB,0,,FHRS,20
-229904,Palmerston Indoor Bowls Club,Palmerston Business Park,Palmerston Drive,Fareham,Dj Catering Ltd,Restaurant/Cafe/Canteen,1,5,,37721,0,,50.84254000000000,100062406178,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18582400000000,PO14 1DJ,2014-05-19,fhrs_5_en-GB,5,,FHRS,0
-229905,,,,,Dolly Cake Dream,Retailers - other,4613,0,,480117,0,,,100060332667,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2012-07-03,fhrs_5_en-GB,5,,FHRS,0
-229906,1 Stubbington Green,Fareham,,,Domino Pizza,Takeaway/sandwich shop,7844,0,,37743,0,,50.82535500000000,100062406597,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21470300000000,PO14 2JQ,2013-09-20,fhrs_5_en-GB,5,,FHRS,5
-229907,183 West Street,Fareham,,,Domino'S Pizza,Takeaway/sandwich shop,7844,0,,37835,0,,50.85281500000000,100062407529,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18402600000000,PO16 0EF,2013-01-14,fhrs_5_en-GB,5,,FHRS,5
-229908,23 Stubbington Green,Fareham,,,Donny'S Tea Rooms,Restaurant/Cafe/Canteen,1,5,,37757,0,,50.82625800000000,100062406690,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21389300000000,PO14 2JY,2015-01-12,fhrs_5_en-GB,5,,FHRS,0
-229909,The Buffet Car,Cams Hall,Cams Hill,Fareham,Dovecote Eatery,Restaurant/Cafe/Canteen,1,0,,82086,10,,50.84871200000000,200001065691,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.16587200000000,PO16 8UT,2014-03-05,fhrs_4_en-GB,4,,FHRS,10
-229910,35 - 37 Trinity Street,Fareham,,,Dragon Chinese Restaurant,Restaurant/Cafe/Canteen,1,5,,37407,5,,50.85437800000000,100060359931,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18388500000000,PO16 7SQ,2013-03-05,fhrs_5_en-GB,5,,FHRS,0
-229911,219 Brook Lane,Sarisbury Green,Southampton,,Ducklings Pre School Ltd,Hospitals/Childcare/Caring Premises,5,0,,38731,0,,50.86466200000000,100062524956,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28477900000000,SO31 7DU,2012-04-16,fhrs_4_en-GB,4,,FHRS,10
-229912,74 Western Road,Fareham,,,Duke Of Connaughts Own Club Fareham Ltd,Pub/bar/nightclub,7843,10,,37837,10,,50.85133900000000,100062407547,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18126700000000,PO16 0NS,2014-11-07,fhrs_3_en-GB,3,,FHRS,10
-229913,Duncan Road Church,23 Duncan Road,Park Gate,Southampton,Duncan Road Church,Other catering premises,7841,0,,560413,5,,50.87358200000000,5310002300000,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26588200000000,SO31 1BD,2014-11-04,fhrs_5_en-GB,5,,FHRS,5
-229914,172 - 174 Southampton Road,Titchfield,Fareham,,Dunelm Mill,Restaurant/Cafe/Canteen,1,0,,82112,5,,50.86133000000000,200001773625,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25382700000000,PO14 4QL,2013-04-02,fhrs_5_en-GB,5,,FHRS,0
-229915,24 The Square,Titchfield,Fareham,,Earl Of Southampton Trust,Restaurant/Cafe/Canteen,1,10,,39589,10,,50.84963800000000,10012130311,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23418300000000,PO14 4RU,2013-05-29,fhrs_3_en-GB,3,,FHRS,5
-229916,Abbey Park,Southampton Road,Titchfield,Fareham,Eaton Aerospace Limited,Other catering premises,7841,0,,39672,5,,50.86829300000000,10012134536,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25613700000000,,2013-12-17,fhrs_5_en-GB,5,,FHRS,5
-229917,Ellerslie House,Down End Road,Fareham,,Ellerslie House,Hotel/bed & breakfast/guest house,7842,10,,38797,0,,50.85546200000000,100062642811,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.14921500000000,PO16 8TS,2011-05-12,fhrs_4_en-GB,4,,FHRS,0
-229918,1a Consort Court,High Street,Fareham,,Energie For Women,Retailers - other,4613,,,39679,,,50.85277800000000,10012134933,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17492000000000,PO16 7AP,2013-02-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-229919,,,,,Enhanced Cakes,Retailers - other,4613,0,,730328,0,,,100060346016,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-11-07,fhrs_5_en-GB,5,,FHRS,0
-229920,86 - 94 Gosport Road,Fareham,,,Esso Service Station,Retailers - other,4613,0,,37846,0,,50.84477700000000,100062407746,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18297300000000,PO16 0QW,2013-04-16,fhrs_5_en-GB,5,,FHRS,0
-229921,44 Bridge Road,Park Gate,Southampton,,Everett Pharmacy Ltd,Retailers - other,4613,,,38740,,,50.87229300000000,100062525166,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26966900000000,SO31 7GF,2012-06-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-229922,75 Portchester Road,Fareham,,,Fairways Care Ltd,Hospitals/Childcare/Caring Premises,5,,,37386,,,50.84883400000000,100060352811,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.14545800000000,PO16 8AP,2012-06-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-229923,Fairways School,New Road,Swanwick,Southampton,Fairways School,School/college/university,7845,0,,39655,0,,50.88523300000000,10012133935,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27830900000000,SO31 7HE,2014-12-05,fhrs_5_en-GB,5,,FHRS,5
-229924,,,,,Fairy Fudge,Retailers - other,4613,5,,716991,0,,,100062408779,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-09-26,fhrs_5_en-GB,5,,FHRS,0
-229925,Neville Lovett Community School,St Annes Grove,Fareham,,Fareham Academy,School/college/university,7845,0,,82143,0,,50.84600300000000,200002892034,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19633200000000,PO14 1JJ,2014-11-03,fhrs_5_en-GB,5,,FHRS,0
-229926,Sports Club,Bath Lane,Fareham,,Fareham And Crofton Cricket Club,Restaurant/Cafe/Canteen,1,0,,39586,0,,50.85081300000000,10012130286,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17056500000000,PO16 0DH,2014-04-22,fhrs_5_en-GB,5,,FHRS,5
-229927,76a Gosport Road,Fareham Baptist Church,Fareham,,Fareham Baptist Church,Other catering premises,7841,0,,144772,0,,50.84477700000000,8420007600100,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18297300000000,PO16 0QW,2014-12-03,fhrs_5_en-GB,5,,FHRS,0
-229928,Downing Court,Churchill Close,Fareham,,Fareham Borough Council,Hospitals/Childcare/Caring Premises,5,,,38840,,,50.85445900000000,100062667974,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26077000000000,PO14 4RZ,2012-09-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-229929,Ferneham Hall,Osborn Road,Fareham,,Fareham Borough Council,Other catering premises,7841,0,,37886,0,,50.85453700000000,100062408051,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17696300000000,PO16 7DB,2011-12-13,fhrs_5_en-GB,5,,FHRS,0
-229930,Fareham College,Bishopsfield Road,Fareham,,Fareham College,Restaurant/Cafe/Canteen,1,0,,37725,0,,50.85109400000000,100062406199,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19922700000000,PO14 1NH,2014-03-24,fhrs_5_en-GB,5,,FHRS,0
-229931,Fareham Community Church,171 - 173 West Street,Fareham,,Fareham Community Church,Restaurant/Cafe/Canteen,1,0,,37841,0,,50.85281500000000,100062407607,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18402600000000,PO16 0EF,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-229932,Fareham Hockey Club,Henry Cort Community College,Henry Cort Drive,Fareham,Fareham Hockey Club,Restaurant/Cafe/Canteen,1,10,,454612,5,,50.86144200000000,10012137876,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22010700000000,PO15 6PH,2014-06-18,fhrs_4_en-GB,4,,FHRS,0
-229933,Fareham Leisure Centre,Park Lane,Fareham,,Fareham Leisure Centre,Other catering premises,7841,5,,37890,0,,50.85869400000000,100062408097,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18503100000000,PO16 7JU,2013-05-09,fhrs_5_en-GB,5,,FHRS,5
-229934,Fareham Market,West Street,Fareham,,Fareham Market,Other catering premises,7841,,,38803,,,50.85256000000000,100062643075,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18142600000000,,2014-09-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-229935,34 Queens Road,Fareham,,,Fareham Masonic Club,Other catering premises,7841,5,,37872,0,,50.85144200000000,100062407906,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18062600000000,PO16 0NN,2014-10-02,fhrs_5_en-GB,5,,FHRS,0
-229936,Wallisdean County Infant School,Wallisdean Avenue,Fareham,,Fareham Opportunity Group Pre-School,School/college/university,7845,0,,730330,0,,50.84931300000000,100062406197B,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19913000000000,PO14 1HT,2015-01-06,fhrs_5_en-GB,5,,FHRS,0
-229937,95a Highlands Road,Fareham,,,Fareham Pharmacy,Retailers - other,4613,,,37823,,,50.85990000000000,100062407342,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20875200000000,PO15 6HZ,2013-02-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-229938,Fareham Sailing And Motor Boat Club,Lower Quay,Fareham,,Fareham Sailing And Motor Boat Club,Restaurant/Cafe/Canteen,1,5,,37843,5,,50.84738400000000,100062407715,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17896400000000,PO16 0RA,2013-06-22,fhrs_5_en-GB,5,,FHRS,0
-229939,Fareham Snooker Club,Broadcut,Fareham,,Fareham Snooker Club,Other catering premises,7841,0,,37910,10,,50.85919700000000,100062408452,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17223500000000,PO16 8ST,2014-02-17,fhrs_4_en-GB,4,,FHRS,0
-229940,Fareham Town Football Club,Cams Alders Sports Stadium,Palmerston Drive,Fareham,Fareham Town Football Club,Pub/bar/nightclub,7843,10,,39616,5,,50.84509300000000,10012132748,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19097800000000,PO14 1BJ,2014-01-18,fhrs_3_en-GB,3,,FHRS,10
-229941,Fareham Working Mens Club,Mill Road,Fareham,,Fareham Working Mens Club,Pub/bar/nightclub,7843,10,,37701,10,,50.84724900000000,100061988978,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18415100000000,PO16 0TN,2014-09-29,fhrs_3_en-GB,3,,FHRS,10
-229942,Farehaven Lodge,8 Nashe Close,Fareham,,Farehaven Lodge Rest Home,Hospitals/Childcare/Caring Premises,5,0,,37375,5,,50.86022000000000,100060350055,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21076500000000,PO15 6LT,2014-04-16,fhrs_5_en-GB,5,,FHRS,5
-229943,2a Crompton Way,Fareham,,,Farmers Choice,Retailers - other,4613,0,,37805,0,,50.87057700000000,100062407163,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25842600000000,PO15 5SS,2012-10-26,fhrs_5_en-GB,5,,FHRS,0
-229944,31 Heath Lawns,Fareham,,,Fiesta Fare,Other catering premises,7841,0,,37349,0,,50.85267100000000,100060343649,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20755300000000,PO15 5QB,2013-01-29,fhrs_5_en-GB,5,,FHRS,0
-229945,27 Station Road,Park Gate,Southampton,,Fish And Chips @27,Takeaway/sandwich shop,7844,0,,38739,0,,50.87330700000000,100062525153,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26926900000000,SO31 7GJ,2014-11-10,fhrs_5_en-GB,5,,FHRS,0
-229946,Fiveoaks Fishery,Crableck Lane,Sarisbury Green,Southampton,Five Oaks,Retailers - other,4613,0,,39656,0,,50.87398400000000,10012133954,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29904800000000,SO31 7AL,2012-04-17,fhrs_5_en-GB,5,,FHRS,0
-229947,3 Barratt Industrial Park,Whittle Avenue,Fareham,,Fodder Mongers,Other catering premises,7841,0,,504350,5,,50.87005800000000,100062407161,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25752400000000,PO15 5SL,2014-07-21,fhrs_4_en-GB,4,,FHRS,10
-229948,164 Southampton Road,Titchfield,Fareham,,Food Glorious Food,Retailers - other,4613,0,,39664,5,,50.86236700000000,10012134250,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25433600000000,PO14 4PP,2013-02-11,fhrs_4_en-GB,4,,FHRS,10
-229949,Force 4 Chandlery,Swanwick Shore,Bridge Road,Swanwick,Force 4 Chandlery,Retailers - other,4613,,,39648,,,50.88367500000000,10012133769,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30005400000000,SO31 1ZH,2013-08-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-229950,,,,,Forget Me Not,Retailers - other,4613,0,,595404,0,,,100060368651,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-09-09,fhrs_5_en-GB,5,,FHRS,0
-229951,17 Station Road,Park Gate,Southampton,,Four Winds Guest House,Pub/bar/nightclub,7843,0,,38727,0,,50.87330700000000,100062524712,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26926900000000,SO31 7GJ,2011-06-01,fhrs_5_en-GB,5,,FHRS,5
-229952,10 Locks Heath Centre,Centre Way,Locks Heath,Southampton,Franco & Paolo,Restaurant/Cafe/Canteen,1,0,,38725,5,,50.86378600000000,100062524679,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2013-05-29,fhrs_5_en-GB,5,,FHRS,5
-229953,,,,,Free From Temptation Ltd,Retailers - other,4613,0,,499568,0,,,100060359933,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-01-08,fhrs_5_en-GB,5,,FHRS,5
-229954,4 Locks Heath Centre,Centre Way,Locks Heath,Southampton,From The Heart,Retailers - other,4613,,,38720,,,50.86378600000000,100062524653,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2012-04-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-229955,166 Hunts Pond Road,Fareham,,,Fruit And Flower Basket,Retailers - other,4613,0,,37790,0,,50.86079300000000,100062407011,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25986000000000,PO14 4PL,2014-09-17,fhrs_5_en-GB,5,,FHRS,0
-229956,18 Coach Hill,Fareham,,,Fruits & Roots,Retailers - other,4613,,,37323,,,50.84700600000000,100060336981,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23867200000000,PO14 4HU,2013-02-27,fhrs_exempt_en-GB,Exempt,,FHRS,
-229957,7 James Grieve Avenue,Locks Heath,Southampton,,Fun Cakes,Retailers - other,4613,10,,37429,0,,50.85952300000000,100060367386,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26949900000000,SO31 6UB,2012-04-23,fhrs_4_en-GB,4,,FHRS,0
-229958,9 Fielder Drive,Fareham,,,Funkidories,Restaurant/Cafe/Canteen,1,0,,82102,0,,50.83928800000000,200001513247,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18512800000000,PO14 1JE,2014-10-06,fhrs_5_en-GB,5,,FHRS,0
-229959,84 Funtley Road,Fareham,,,Funtley Social Club,Pub/bar/nightclub,7843,0,,37949,0,,50.87073100000000,100062408882,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20008500000000,PO17 5EE,2012-03-21,fhrs_4_en-GB,4,,FHRS,10
-229960,,,,,Future Home Care,Hospitals/Childcare/Caring Premises,5,0,,37354,0,,,100060344229,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-02-28,fhrs_4_en-GB,4,,FHRS,10
-229961,Warwick House,10 Beacon Bottom,Park Gate,Southampton,Futurepath Childcare Ltd,Other catering premises,7841,0,,38755,0,,50.87489800000000,100062525256,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27201600000000,SO31 7GQ,2013-08-08,fhrs_5_en-GB,5,,FHRS,0
-229962,4 Anjou Crescent,Fareham,,,Gandhi Indian Takeaway,Takeaway/sandwich shop,7844,5,,37795,5,,50.85537200000000,100062407042,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20804800000000,PO15 5DA,2013-08-06,fhrs_4_en-GB,4,,FHRS,10
-229963,176 Segensworth Road,Fareham,,,Gateway Nursery,Hospitals/Childcare/Caring Premises,5,0,,480127,0,,50.86468900000000,10012130736,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24756300000000,PO15 5EJ,2014-07-22,fhrs_4_en-GB,4,,FHRS,10
-229964,Seafield School,Westlands Grove,Fareham,,Gateway Seafield Portchester,Other catering premises,7841,10,,516720,0,,50.84535200000000,100060361482,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13430000000000,PO16 9AA,2012-09-21,fhrs_4_en-GB,4,,FHRS,10
-229965,Glen Rose Care Home,3 Mount Drive,Fareham,,Glenrose Residential Home,Hospitals/Childcare/Caring Premises,5,0,,37797,5,,50.85080500000000,100062407066,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22569700000000,PO15 5NU,2014-10-21,fhrs_5_en-GB,5,,FHRS,0
-229966,55 Osborn Mall,Fareham,,,Gnc,Retailers - other,4613,0,,39637,0,,50.85274900000000,10012133607,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17598600000000,PO16 0PW,2012-09-21,fhrs_5_en-GB,5,,FHRS,0
-229967,Go Bowling (Fareham) Limited,Collingwood Business Park,Newgate Lane,Fareham,Go Bowling Ltd,Restaurant/Cafe/Canteen,1,0,,37732,0,,50.83699600000000,100062406315,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18518200000000,PO14 1AN,2014-07-02,fhrs_4_en-GB,4,,FHRS,10
-229968,5 Randal View,Bishopsfield Road,Fareham,,Godly'S Fish N Chips,Other catering premises,7841,0,,716996,0,,50.84591900000000,10012137064,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20117700000000,PO14 1FG,2014-10-06,fhrs_5_en-GB,5,,FHRS,0
-229969,5 New Parade,38 West Street,Portchester,Fareham,Golden Boat,Other catering premises,7841,20,,37932,20,,50.84625600000000,100062408655,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12520700000000,PO16 9UY,2014-03-05,fhrs_0_en-GB,0,,FHRS,15
-229970,Golden Valley,Middle Road,Park Gate,Southampton,Golden Valley,Other catering premises,7841,10,,38732,15,,50.87236400000000,100062525075,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26799100000000,SO31 7GH,2014-07-30,fhrs_2_en-GB,2,,FHRS,15
-229971,Clinkers Tavern,3 Trinity Street,Fareham,,Good Intent,Other catering premises,7841,10,,37903,0,,50.85322600000000,100062408299,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18366300000000,PO16 7SD,2014-01-09,fhrs_4_en-GB,4,,FHRS,10
-229972,122 Miller Drive,Fareham,,,Good Manors Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,37892,0,,50.86101600000000,100062408214,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19438300000000,PO16 7LN,2014-11-18,fhrs_5_en-GB,5,,FHRS,5
-229973,Good Manors Day Nursery,Manor Lodge,Church Path,Fareham,Good Manors Day Nursery,Other catering premises,7841,5,,37888,5,,50.85472500000000,100062408086,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17556800000000,PO16 7DT,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-229974,33 Stubbington Green,Fareham,,,Grande Wines,Retailers - other,4613,0,,37756,0,,50.82577800000000,100062406685,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21348900000000,PO14 2LE,2014-09-23,fhrs_5_en-GB,5,,FHRS,0
-229975,,,,,Granny Jan'S Cupcakes,Retailers - other,4613,5,,595396,0,,,100060351051,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-10-04,fhrs_5_en-GB,5,,FHRS,0
-229976,3 Savoy Buildings,West Street,Fareham,,Greggs,Retailers - other,4613,0,,37842,0,,50.85271100000000,100062407636,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17949600000000,PO16 0AD,2014-02-19,fhrs_5_en-GB,5,,FHRS,5
-229977,Everets Chemist,Yew Tree Drive,Whiteley,Fareham,H J Everett,Retailers - other,4613,,,39685,,,50.88271100000000,10012136425,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26605200000000,PO15 7LB,2012-06-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-229978,28 The Square,Titchfield,Fareham,,H J Everett (Chemist) Ltd,Retailers - other,4613,,,90118,,,50.84963800000000,2440002600002,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23418300000000,PO14 4RU,2014-09-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-229979,26 Warsash Road,Warsash,Southampton,,H J Everett (Chemists) Ltd,Retailers - other,4613,,,38762,,,50.85300000000000,100062525540,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29687600000000,SO31 9HX,2012-05-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-229980,11 Locks Heath Centre,Centre Way,Locks Heath,Southampton,H J Everett Chemist Ltd,Retailers - other,4613,,,38715,,,50.86378600000000,100062524645,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2013-02-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-229981,,,,,Hadleys Homebakes,Retailers - other,4613,0,,480120,0,,,100060354528,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2012-06-13,fhrs_5_en-GB,5,,FHRS,0
-229982,22 South Street,Titchfield,Fareham,,Hadlow'S Titchfield Ltd,Retailers - other,4613,5,,37777,5,,50.84844400000000,100062406833,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23444400000000,PO14 4DJ,2014-11-12,fhrs_5_en-GB,5,,FHRS,5
-229983,15 South Street,Titchfield,Fareham,,Hallmark Jewellers,Restaurant/Cafe/Canteen,1,0,,37778,0,,50.84823900000000,100062406835,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23477400000000,PO14 4DL,2013-02-12,fhrs_5_en-GB,5,,FHRS,5
-229984,11 Castle Grove,Fareham,,,Haly Catering,Other catering premises,7841,0,,37320,0,,50.84297900000000,100060335903,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12593600000000,PO16 9NY,2013-01-29,fhrs_5_en-GB,5,,FHRS,0
-229985,71 Botley Road,Park Gate,Fareham,,Hamble Heights,Hospitals/Childcare/Caring Premises,5,0,,510285,5,,,100060363733,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-09-29,fhrs_5_en-GB,5,,FHRS,0
-229986,86 Newtown Road - The Badgers,Warsash,Southampton,Hants,Hamble Retreat,Retailers - other,4613,5,,149506,0,,50.84779300000000,96100076000504,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30127300000000,SO31 9GB,2013-09-17,fhrs_5_en-GB,5,,FHRS,0
-229987,Hammond Infants School,Mancroft Avenue,Fareham,,Hammond Infants School,School/college/university,7845,0,,38823,0,,50.81940300000000,100062643498,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21887700000000,PO14 2DE,2013-07-05,fhrs_5_en-GB,5,,FHRS,0
-229988,,,,,Hampshire Cake Studio,Retailers - other,4613,0,,551066,0,,,100060365302,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-229989,Crofton School,Marks Road,Fareham,,Hampshire County Council -Hc3s,Hospitals/Childcare/Caring Premises,5,0,,37739,0,,50.82276900000000,100062406581,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20476600000000,PO14 2AT,2014-02-25,fhrs_5_en-GB,5,,FHRS,0
-229990,30 Church Road,Locks Heath,Southampton,,Hampshire Partnership Nhs Trust,Hospitals/Childcare/Caring Premises,5,10,,37425,0,,50.86201400000000,100060364899,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26241200000000,SO31 6LU,2012-02-02,fhrs_4_en-GB,4,,FHRS,0
-229991,41 Birdwood Grove,Fareham,,,Hampshire Partnership Nhs Trust,Hospitals/Childcare/Caring Premises,5,,,37314,,,50.84875100000000,100060334601,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.15509000000000,PO16 8AJ,2012-01-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-229992,93 Trinity Street,Fareham,,,Hampshire Partnership Trust,Hospitals/Childcare/Caring Premises,5,10,,37409,5,,50.85528800000000,100060359945,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18406800000000,PO16 7SL,2013-07-01,fhrs_1_en-GB,1,,FHRS,20
-229993,,,,,Hannah'S Creative Cakes,Retailers - other,4613,0,,693743,5,,,100060367707,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-05-28,fhrs_5_en-GB,5,,FHRS,0
-229994,2 Anjou Crescent,Fareham,,,Happy Garden,Other catering premises,7841,10,,37806,10,,50.85537200000000,100062407200,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20804800000000,PO15 5DA,2014-08-19,fhrs_3_en-GB,3,,FHRS,10
-229995,Harrison Primary School,Harrison Road,Fareham,,Harrison Primary School,School/college/university,7845,5,,38799,5,,50.85663300000000,100062642842,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18091900000000,PO16 7EQ,2013-06-17,fhrs_5_en-GB,5,,FHRS,5
-229996,Hawthorne Court,21 Hamilton Road,Sarisbury Green,Southampton,Hawthorne Court Residential Care Home,Hospitals/Childcare/Caring Premises,5,0,,39658,0,,50.87028400000000,10012134019,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27920700000000,SO31 7LX,2015-01-12,fhrs_5_en-GB,5,,FHRS,0
-229997,,,,,Haywood'S Ice Cream,Retailers - other,4613,0,,578314,0,,,100060370679,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-08-08,fhrs_5_en-GB,5,,FHRS,5
-229998,Cams Alders Sports Centre,Palmerston Drive,Fareham,,Heathens Rugby Club,Other catering premises,7841,5,,37734,10,,50.84695800000000,100062406513,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.15402700000000,PO16 1BJ,2014-11-18,fhrs_4_en-GB,4,,FHRS,5
-229999,Heathfield School,Oldbury Way,Fareham,,Heathfield School,School/college/university,7845,0,,37765,0,,50.84918700000000,100062406741,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21365000000000,PO14 3BN,2014-04-30,fhrs_5_en-GB,5,,FHRS,0
-230000,Henry Cort Community College,Henry Cort Drive,Fareham,,Henry Cort Community College,Hospitals/Childcare/Caring Premises,5,0,,39642,0,,50.86144200000000,10012133686,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22010700000000,PO15 6PH,2013-06-13,fhrs_5_en-GB,5,,FHRS,5
-230001,145 Gosport Road,Fareham,,,Herbies Pizza,Takeaway/sandwich shop,7844,5,,37342,0,,50.84669000000000,100060342283,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18257000000000,PO16 0PZ,2014-05-12,fhrs_4_en-GB,4,,FHRS,10
-230002,1 High Street,Fareham,,,High Street Newsagents,Retailers - other,4613,10,,37881,5,,50.85244200000000,100062408015,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17451400000000,PO16 7AG,2012-11-08,fhrs_3_en-GB,3,,FHRS,10
-230003,77a High Street,Fareham,,,High Street Sweets,Retailers - other,4613,0,,37880,0,,50.85260900000000,100062407985,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17394300000000,PO16 7AW,2013-03-18,fhrs_5_en-GB,5,,FHRS,0
-230004,1c Fareham Park Road,Fareham,,,Highland Fisheries,Other catering premises,7841,10,,37819,10,,50.86107400000000,100062407273,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20950000000000,PO15 6LA,2013-04-29,fhrs_4_en-GB,4,,FHRS,0
-230005,125 Highlands Road,Fareham,,,Highlands Road Fish And Chips,Restaurant/Cafe/Canteen,1,0,,37818,0,,50.85973100000000,100062407264,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20895400000000,PO15 6JJ,2013-04-29,fhrs_5_en-GB,5,,FHRS,0
-230006,97 Highlands Road,Fareham,,,Highlands Tandoori,Restaurant/Cafe/Canteen,1,0,,37822,0,,50.85990000000000,100062407341,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20875200000000,PO15 6HZ,2014-08-13,fhrs_5_en-GB,5,,FHRS,0
-230007,Hill Park Working Mens Club,78 Highlands Road,Fareham,,Hill Park Memorial Working Mens Club,Other catering premises,7841,5,,37811,0,,50.86133200000000,100062407250,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20774800000000,PO15 6JD,2013-05-26,fhrs_5_en-GB,5,,FHRS,5
-230008,Hillhead Sailing Club,Cliff Road,Fareham,,Hillhead Sailing Club,Restaurant/Cafe/Canteen,1,0,,37767,5,,50.81870800000000,100062406763,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24039500000000,PO14 3JT,2013-02-16,fhrs_5_en-GB,5,,FHRS,0
-230009,Hollam Hill Farm,Titchfield Road,Titchfield,Fareham,Hollam Hill Farm,Farmers/growers,7838,5,,37761,10,,50.84331500000000,100062406699,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22846300000000,PO14 3ES,2014-06-11,fhrs_3_en-GB,3,,FHRS,10
-230010,28 Westbury Mall,Fareham,,,Holland And Barrett,Retailers - other,4613,0,,39639,0,,50.85317300000000,10012133614,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17616300000000,PO16 0PD,2012-08-15,fhrs_2_en-GB,2,,FHRS,15
-230011,68 Barnes Lane,Sarisbury Green,Southampton,,Holly Hill Convenience Store,Retailers - other,4613,10,,38741,5,,50.86586200000000,100062525173,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28983400000000,SO31 7BT,2013-04-17,fhrs_3_en-GB,3,,FHRS,10
-230012,Holy Rood Church,Gosport Road,Stubbington,Fareham,Holy Rood Church,Hospitals/Childcare/Caring Premises,5,0,,37747,0,,50.82378700000000,100062406610,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21159200000000,PO14 2AS,2015-01-12,fhrs_5_en-GB,5,,FHRS,0
-230013,,,,,Home Caterer,Retailers - other,4613,0,,480121,5,,,100060355173,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2012-07-03,fhrs_5_en-GB,5,,FHRS,0
-230014,,,,,Home Caterer,Retailers - other,4613,0,,551065,0,,,100060361711,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-04-15,fhrs_5_en-GB,5,,FHRS,0
-230015,,,,,Home Caterer,Other catering premises,7841,0,,693739,0,,,100060338413,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-07-28,fhrs_5_en-GB,5,,FHRS,0
-230016,Homebase Ltd,Collingwood Business Park,Newgate Lane,Fareham,Homebase Ltd,Retailers - other,4613,,,37730,,,50.83699600000000,100062406313,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18518200000000,PO14 1AN,2013-01-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-230017,Hook With Warsash Academy,Church Road,Warsash,Southampton,Hook With Warsash Academy,Hospitals/Childcare/Caring Premises,5,0,,38773,0,,50.84771300000000,100062525633,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29242400000000,SO31 9GF,2014-04-24,fhrs_5_en-GB,5,,FHRS,5
-230018,The Stables,Little Abshot Road,Fareham,,Hopscotch Day Nursery,Other catering premises,7841,0,,37776,5,,50.84823900000000,100062406821,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26831100000000,PO14 4LN,2014-11-24,fhrs_5_en-GB,5,,FHRS,0
-230019,3 Kites Croft Business Park,Warsash Road,Fareham,,Host Catering At Estee Lauder,Restaurant/Cafe/Canteen,1,5,,39646,5,,50.85673900000000,10012133765,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24739300000000,PO14 4LW,2014-11-07,fhrs_5_en-GB,5,,FHRS,5
-230020,Carron Row Farm,15 Segensworth Road,Titchfield,Fareham,Hot Dog Man,Other catering premises,7841,0,,560412,0,,50.85919100000000,10012130674,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23325900000000,PO15 5DZ,2013-06-24,fhrs_5_en-GB,5,,FHRS,0
-230021,5 Barratt Industrial Park,Whittle Avenue,Fareham,,Hungry Monsters,Other catering premises,7841,5,,365257,0,,50.87005800000000,100062407207A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25752400000000,PO15 5SL,2014-08-12,fhrs_5_en-GB,5,,FHRS,5
-230022,39 Kiln Road,Fareham,,,Hunters Lodge Care Home,Hospitals/Childcare/Caring Premises,5,5,,37885,0,,50.86412400000000,100062408049,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19005200000000,PO16 7UQ,2014-02-10,fhrs_5_en-GB,5,,FHRS,0
-230023,38 West Street,Fareham,,,Iceland Foods Limited,Retailers - other,4613,5,,39605,5,,50.85200500000000,10012130880,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17751900000000,PO16 0JN,2014-04-30,fhrs_5_en-GB,5,,FHRS,5
-230024,22 Locks Heath Centre,Centre Way,Locks Heath,Southampton,Iceland Frozen Foods Ltd,Retailers - other,4613,0,,38717,0,,50.86378600000000,100062524649,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2013-02-25,fhrs_5_en-GB,5,,FHRS,0
-230025,34 - 36 West Street,Portchester,Fareham,,Iceland Frozen Foods Ltd,Retailers - other,4613,0,,38812,5,,50.84627600000000,100062643240,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12435400000000,PO16 9UZ,2013-08-28,fhrs_5_en-GB,5,,FHRS,0
-230026,12 Stubbington Green,Fareham,,,Iceland Frozen Foods Plc,Retailers - other,4613,0,,37755,0,,50.82583000000000,100062406679,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21453900000000,PO14 2JG,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-230027,,,,,Incredible Creations,Retailers - other,4613,5,,716993,5,,,10012129048,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-10-29,fhrs_4_en-GB,4,,FHRS,10
-230028,Unit 2,4 Middle Road,Park Gate,Southampton,Indian Summer,Takeaway/sandwich shop,7844,0,,38819,0,,50.87236400000000,100062643372,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26799100000000,SO31 7GH,2014-08-20,fhrs_4_en-GB,4,,FHRS,10
-230029,200 West Street,Fareham,,,Jack'S Fish & Chips,Takeaway/sandwich shop,7844,5,,37862,10,,50.85243700000000,100062407863,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18653300000000,PO16 0HF,2013-11-04,fhrs_3_en-GB,3,,FHRS,10
-230030,18 High Street,Titchfield,Fareham,,Jade Palace,Takeaway/sandwich shop,7844,0,,39587,15,,50.85013500000000,10012130294,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23450100000000,PO14 4AF,2014-10-28,fhrs_2_en-GB,2,,FHRS,10
-230031,46 West Street,Portchester,Fareham,,Jalaram Convenience Store,Retailers - other,4613,10,,37412,10,,50.84603300000000,100060361077,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12668800000000,PO16 9UN,2013-03-27,fhrs_3_en-GB,3,,FHRS,10
-230032,Webber House,3 Station Road,Park Gate,Southampton,Jasmine House Rest Home,Hospitals/Childcare/Caring Premises,5,5,,38728,0,,50.87330700000000,100062524713,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26926900000000,SO31 7GJ,2013-06-26,fhrs_4_en-GB,4,,FHRS,10
-230033,127 Highlands Road,Fareham,,,Jd News,Retailers - other,4613,5,,37816,0,,50.85990000000000,100062407258,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20875200000000,PO15 6HZ,2012-05-16,fhrs_5_en-GB,5,,FHRS,0
-230034,1 Kingcup Avenue,Locks Heath,Southampton,,Jig Buffets,Other catering premises,7841,0,,37430,0,,50.86058800000000,100060367468,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28026600000000,SO31 6XG,2014-03-27,fhrs_5_en-GB,5,,FHRS,0
-230035,Jolly Miller,96 Miller Drive,Fareham,,Jolly Miller,Pub/bar/nightclub,7843,0,,38801,0,,50.86101600000000,100062642877,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19438300000000,PO16 7LN,2013-08-14,fhrs_4_en-GB,4,,FHRS,10
-230036,,,,,K T Catering,Mobile caterer,7846,0,,730332,0,,,100062406805A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2015-01-06,fhrs_5_en-GB,5,,FHRS,0
-230037,1 Bridge Road,Park Gate,Southampton,,Kams Palace,Restaurant/Cafe/Canteen,1,10,,38758,10,,50.87101600000000,100062525273,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26681800000000,SO31 7GD,2014-02-19,fhrs_3_en-GB,3,,FHRS,10
-230038,147 Gosport Road,Fareham,,,Karims,Takeaway/sandwich shop,7844,5,,37343,10,,50.84669000000000,100060342285,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18257000000000,PO16 0PZ,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-230039,,,,,Kates Cupcakery,Retailers - other,4613,0,,716989,0,,,100061989883,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-10-08,fhrs_5_en-GB,5,,FHRS,5
-230040,,,,,Kestrels Cakery,Mobile caterer,7846,5,,693740,5,,,100060346207,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-08-01,fhrs_5_en-GB,5,,FHRS,5
-230041,,,,,Kevin And Sheila'S Catering Services,Retailers - other,4613,0,,37393,5,,,100060354114,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-05-09,fhrs_5_en-GB,5,,FHRS,0
-230042,Kiddi Caru Day Nursery,Gull Coppice,Whiteley,Fareham,Kiddicaru,Hospitals/Childcare/Caring Premises,5,0,,39665,0,,50.88080800000000,10012134263,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25807900000000,PO15 7LA,2014-08-05,fhrs_5_en-GB,5,,FHRS,5
-230043,Delta Business Park - Delta House,Units 4-6 Ground Floor,Salterns Lane,Fareham,Kids Centre,Hospitals/Childcare/Caring Premises,5,0,,146145,0,,50.84209200000000,8840009300109,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17961100000000,PO16 0QS,2014-02-13,fhrs_5_en-GB,5,,FHRS,5
-230044,Kidz Inc Limited,Fareham College,Bishopsfield Road,Fareham,Kidz Inc Limited,Other catering premises,7841,5,,38804,5,,50.85109400000000,100062643105,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19922700000000,PO14 1NH,2013-10-18,fhrs_5_en-GB,5,,FHRS,0
-230045,66 Kiln Road,Fareham,,,Kiln Lodge Rest Home,Hospitals/Childcare/Caring Premises,5,0,,37367,0,,50.86433000000000,100060346337,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18861300000000,PO16 7UG,2014-08-04,fhrs_5_en-GB,5,,FHRS,5
-230046,Knightsbridge House,92 Gordon Road,Fareham,,Knightsbridge House,Hospitals/Childcare/Caring Premises,5,5,,37700,5,,50.85419200000000,100061988745,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18932900000000,PO16 7TA,2013-07-29,fhrs_5_en-GB,5,,FHRS,0
-230047,,,,,Krazie Cakes,Retailers - other,4613,0,,510284,0,,,100060359850,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-02-15,fhrs_5_en-GB,5,,FHRS,0
-230048,186d West Street,Fareham,,,Kree-Ate-A-Cake,Retailers - other,4613,0,,37864,0,,50.85239600000000,100062407867,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18582300000000,PO16 0HP,2014-12-09,fhrs_5_en-GB,5,,FHRS,5
-230049,,,,,Kupcake Kitchen,Retailers - other,4613,10,,480119,0,,,100060340555,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2012-05-09,fhrs_4_en-GB,4,,FHRS,10
-230050,L A Fitness,1 Pulheim Parade,Fareham,,L A Fitness,Restaurant/Cafe/Canteen,1,0,,39595,0,,50.85201200000000,10012130399,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17726300000000,PO16 0BU,2011-05-13,fhrs_5_en-GB,5,,FHRS,0
-230051,44 West Street,Portchester,Fareham,,L Rowland & Co (Retail)Ltd,Retailers - other,4613,,,37411,,,50.84608900000000,100060361076,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12569300000000,PO16 9UW,2012-02-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-230052,5 West Street,Portchester,Fareham,,La Boulangerie,Manufacturers/packers,7839,0,,37940,0,,50.84661300000000,100062408701,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12481700000000,PO16 9XB,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-230053,53 - 55 West Street,Fareham,,,La Galerie,Restaurant/Cafe/Canteen,1,0,,693744,0,,50.85265800000000,100062407499,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17701100000000,PO16 0AY,2014-04-30,fhrs_5_en-GB,5,,FHRS,0
-230054,138 West Street,Fareham,,,La Orient,Restaurant/Cafe/Canteen,1,10,,37853,15,,50.85242900000000,100062407796,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18285300000000,PO16 0EL,2013-07-18,fhrs_2_en-GB,2,,FHRS,10
-230055,8 High Street,Fareham,,,Lauro'S Brasserie,Restaurant/Cafe/Canteen,1,0,,37352,5,,50.85296400000000,100060343962,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17456200000000,PO16 7AN,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-230056,Lidl Uk,Speedfields Park,Fareham,,Lidl Uk,Retailers - other,4613,0,,39652,0,,50.83465200000000,10012133830,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18694100000000,PO14 1TZ,2012-04-03,fhrs_5_en-GB,5,,FHRS,0
-230057,235 Hunts Pond Road,Fareham,,,Liqorice With A Twist,Distributors/Transporters,7,,,371845,,,50.85961700000000,100062406984,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25875600000000,PO14 4PJ,2012-05-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-230058,101 Brook Lane,Warsash,Southampton,,Little Brook House Ltd,Hospitals/Childcare/Caring Premises,5,0,,37424,0,,50.85990600000000,100060364325,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29529500000000,SO31 9FE,2014-07-09,fhrs_5_en-GB,5,,FHRS,0
-230059,67 The Avenue,Fareham,,,Little Munchkins,Hospitals/Childcare/Caring Premises,5,0,,37728,0,,50.85107700000000,100062406217,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20846100000000,PO14 1PE,2014-10-22,fhrs_4_en-GB,4,,FHRS,10
-230060,183a West Street,Fareham,,,Lj Chinese Cuisine,Restaurant/Cafe/Canteen,1,0,,37829,5,,50.85281500000000,100062407481,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18402600000000,PO16 0EF,2013-05-20,fhrs_4_en-GB,4,,FHRS,10
-230061,135 Highlands Road,Fareham,,,Lloyds Pharmacy,Retailers - other,4613,,,37817,,,50.85990000000000,100062407260,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20875200000000,PO15 6HZ,2013-02-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-230062,5 Barnes Wallis Road,Fareham,,,Lloyds Tsb,Other catering premises,7841,5,,37800,10,,50.86572500000000,100062407117,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24510300000000,PO15 5TT,2013-07-17,fhrs_4_en-GB,4,,FHRS,5
-230063,7 Locks Heath Centre,Centre Way,Locks Heath,Southampton,Locks Heath Butchers,Retailers - other,4613,10,,578316,10,,50.86378600000000,100062524654,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2013-07-31,fhrs_3_en-GB,3,,FHRS,5
-230064,Locks Heath Memorial Hall,122 Locks Heath Park Road,Locks Heath,Southampton,Locks Heath Community Centre,Hospitals/Childcare/Caring Premises,5,,,38710,,,50.85882700000000,100062524571,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26186600000000,SO31 6LZ,2013-02-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-230065,419 Warsash Road,Fareham,,,Locks Heath Day Care Centre,Other catering premises,7841,0,,37780,0,,50.85042200000000,100062406839A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25809200000000,PO14 4JX,2014-10-13,fhrs_5_en-GB,5,,FHRS,0
-230066,Locks Heath Free Church,255 Hunts Pond Road,Fareham,,Locks Heath Free Church,Restaurant/Cafe/Canteen,1,10,,37786,5,,50.85727100000000,100062406986,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25755700000000,PO14 4PG,2014-05-08,fhrs_4_en-GB,4,,FHRS,5
-230067,12 Locks Heath Centre,Centre Way,Locks Heath,Southampton,Locks Heath Fruiterers,Retailers - other,4613,0,,38721,0,,50.86378600000000,100062524657,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2012-11-20,fhrs_4_en-GB,4,,FHRS,10
-230068,Locks Heath Infants School,Warsash Road,Warsash,Southampton,Locks Heath Infant School,School/college/university,7845,0,,38763,0,,50.85485800000000,100062525552,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27413200000000,SO31 9NZ,2013-10-15,fhrs_5_en-GB,5,,FHRS,0
-230069,Locks Heath Junior School,Warsash Road,Warsash,Southampton,Locks Heath Junior School,School/college/university,7845,0,,39662,0,,50.85485800000000,10012134031,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27413200000000,SO31 9NZ,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-230070,419 Warsash Road,Fareham,,,Locks Heath Sports/Social Club,Pub/bar/nightclub,7843,5,,37779,0,,50.85042200000000,100062406839,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25809200000000,PO14 4JX,2011-12-05,fhrs_4_en-GB,4,,FHRS,10
-230071,Locks Heath Working Mens Club,Duncan Road,Park Gate,Southampton,Locks Heath Working Mens Club,Pub/bar/nightclub,7843,0,,38703,0,,50.87358200000000,100062523941,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26588200000000,SO31 1BD,2013-02-25,fhrs_4_en-GB,4,,FHRS,10
-230072,79 Bridge Road,Park Gate,Southampton,,Locksheath Service Station,Retailers - other,4613,0,,38730,0,,50.87206800000000,100062524740,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27099400000000,SO31 7ZE,2013-09-17,fhrs_5_en-GB,5,,FHRS,0
-230073,Lockswood Community Centre,2 Locks Heath Centre,Centre Way,Locks Heath,Lockswood Community Centre,Restaurant/Cafe/Canteen,1,10,,38810,0,,50.86378600000000,100062643190,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2013-01-24,fhrs_4_en-GB,4,,FHRS,10
-230074,Locks Heath Day Centre,Centre Way,Locks Heath,Southampton,Lockswood Day Care Centre,Hospitals/Childcare/Caring Premises,5,0,,38706,0,,50.86378600000000,100062524507,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2013-05-21,fhrs_5_en-GB,5,,FHRS,0
-230075,Lord Wilson School,Montefiore Drive,Sarisbury Green,Southampton,Lord Wilson School,School/college/university,7845,0,,38817,0,,50.86935200000000,100062643334,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27960600000000,SO31 7NL,2014-04-24,fhrs_5_en-GB,5,,FHRS,0
-230076,Universal Marina,Crableck Lane,Sarisbury Green,Southampton,Lucky Ash,Other catering premises,7841,0,,716992,0,,50.87489200000000,100062667933A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30197600000000,SO31 7ZN,2014-08-04,fhrs_5_en-GB,5,,FHRS,0
-230077,51 High Street,Fareham,,,Lysses House Hotel,Hotel/bed & breakfast/guest house,7842,0,,37895,0,,50.85536800000000,100062408243,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17365300000000,PO16 7BQ,2012-06-25,fhrs_5_en-GB,5,,FHRS,5
-230078,,,,,Made By Us,Retailers - other,4613,5,,637225,0,,,100060354502A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-01-22,fhrs_5_en-GB,5,,FHRS,0
-230079,4 Dewar Close,Fareham,,,Makro Wholesalers Ltd,Retailers - other,4613,0,,37801,0,,50.87202400000000,100062407121,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25614200000000,,2013-07-29,fhrs_4_en-GB,4,,FHRS,10
-230080,260 West Street,Fareham,,,Manhattan Pizza,Restaurant/Cafe/Canteen,1,0,,499569,0,,50.85244700000000,100062643068,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18927400000000,PO16 0HY,2013-01-14,fhrs_5_en-GB,5,,FHRS,5
-230081,Market Tavern,26 West Street,Fareham,,Market Tavern,Pub/bar/nightclub,7843,0,,37413,0,,50.85218500000000,100060361275,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17635100000000,PO16 0JW,2013-10-10,fhrs_5_en-GB,5,,FHRS,5
-230082,5 Delme Square,Fareham,,,Marks & Spencer,Retailers - other,4613,0,,39625,0,,50.85349900000000,10012133532,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17779100000000,PO16 0PF,2013-07-04,fhrs_5_en-GB,5,,FHRS,0
-230083,4 Castle Street,Portchester,Fareham,,Marmaris,Other catering premises,7841,10,,37925,0,,50.84619100000000,100062408591,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12262300000000,PO16 9PP,2014-01-28,fhrs_4_en-GB,4,,FHRS,10
-230084,1 - 3 Randal View,Bishopsfield Road,Fareham,,Martin Mccolls,Retailers - other,4613,0,,39690,0,,50.84591900000000,10012137066,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20117700000000,PO14 1FG,2014-10-06,fhrs_5_en-GB,5,,FHRS,5
-230085,17 West Street,Portchester,Fareham,,Martins,Retailers - other,4613,0,,37937,0,,50.84661300000000,100062408679,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12481700000000,PO16 9XB,2012-01-09,fhrs_4_en-GB,4,,FHRS,10
-230086,5 - 6 Locks Heath Centre,Centre Way,Locks Heath,Southampton,Martins Newsagents,Retailers - other,4613,0,,717000,0,,50.86378600000000,200002901446,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2013-02-14,fhrs_2_en-GB,2,,FHRS,15
-230087,107 West Street,Fareham,,,Martins The Newsagent,Retailers - other,4613,0,,37414,0,,50.85283400000000,100060361280,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18030300000000,PO16 0AB,2012-05-17,fhrs_5_en-GB,5,,FHRS,0
-230088,1 Holly Grove,Fareham,,,Mccolls,Retailers - other,4613,0,,37900,0,,50.86541400000000,100062408283,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19845600000000,PO16 7UP,2011-05-09,fhrs_5_en-GB,5,,FHRS,5
-230089,Titchfield Common Post Office,152 Hunts Pond Road,Fareham,,Mccoll'S,Retailers - other,4613,0,,37359,5,,50.86079300000000,100060345224,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25986000000000,PO14 4PL,2014-01-28,fhrs_4_en-GB,4,,FHRS,10
-230090,103 - 105 West Street,Fareham,,,Mcdonalds Ltd,Restaurant/Cafe/Canteen,1,0,,37854,0,,50.85283400000000,100062407800,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18030300000000,PO16 0AB,2014-01-22,fhrs_5_en-GB,5,,FHRS,5
-230091,Mcdonalds,Speedfields Park,Fareham,,Mcdonalds Restaurants Ltd,Restaurant/Cafe/Canteen,1,0,,39653,0,,50.83465200000000,10012133831,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18694100000000,PO14 1TZ,2013-09-23,fhrs_5_en-GB,5,,FHRS,0
-230092,3 Osborn Road South,Fareham,,,Medicot Ltd,Other catering premises,7841,5,,39600,5,,50.85371800000000,10012130429,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18207800000000,PO16 7DF,2012-11-26,fhrs_5_en-GB,5,,FHRS,5
-230093,22 - 26 Barnes Wallis Road,Fareham,,,Meggitt Avionics,Other catering premises,7841,10,,82085,5,,50.86572500000000,200001065676,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24510300000000,PO15 5TT,2014-06-03,fhrs_3_en-GB,3,,FHRS,10
-230094,Meon Cross School,65 Burnt House Lane,Fareham,,Meoncross School,School/college/university,7845,0,,38822,0,,50.83087100000000,100062643388,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20998100000000,PO14 2EF,2014-05-20,fhrs_5_en-GB,5,,FHRS,0
-230095,30 Kiln Road,Fareham,,,Merry Hall Rest Home,Hospitals/Childcare/Caring Premises,5,0,,37366,0,,50.86379000000000,100060346303,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18585200000000,PO16 7UB,2014-02-17,fhrs_5_en-GB,5,,FHRS,0
-230096,18 Kings Road,Fareham Methodist Church,Fareham,,Methodist Church,Restaurant/Cafe/Canteen,1,5,,433212,5,,50.85242900000000,100062407890,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18285300000000,PO16 0EL,2014-09-05,fhrs_5_en-GB,5,,FHRS,0
-230097,58 - 60 Osborn Mall,Fareham,,,Millets,Retailers - other,4613,,,39638,,,50.85274900000000,10012133610,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17598600000000,PO16 0PW,2012-11-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-230098,,,,,Minime Cupcakes,Retailers - other,4613,0,,480122,0,,,100060355510,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2012-04-20,fhrs_5_en-GB,5,,FHRS,0
-230099,,,,,Mitchells Munchies,Retailers - other,4613,5,,637226,5,,,100060368817,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-02-18,fhrs_2_en-GB,2,,FHRS,15
-230100,2 Holly Close,Sarisbury Green,Southampton,,Moja,Other catering premises,7841,20,,38742,15,,50.86432600000000,100062525174,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29009900000000,SO31 7BW,2014-08-06,fhrs_1_en-GB,1,,FHRS,15
-230101,92 Highlands Road,Fareham,,,Mrs M Addis,Retailers - other,4613,0,,37353,0,,50.86084300000000,100060344226,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20852300000000,PO15 6JE,2012-05-10,fhrs_5_en-GB,5,,FHRS,5
-230102,51 Locks Road,Locks Heath,Southampton,,Mulberry Bush Nursery,Hospitals/Childcare/Caring Premises,5,0,,578315,0,,50.85761400000000,100062524511,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27205700000000,SO31 6NS,2013-08-13,fhrs_5_en-GB,5,,FHRS,0
-230103,201a West Street,Fareham,,,N And S Convenience Store,Retailers - other,4613,10,,37839,0,,50.85277600000000,100062407571,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18620000000000,PO16 0EN,2013-02-25,fhrs_4_en-GB,4,,FHRS,5
-230104,4 New Parade,38 West Street,Portchester,Fareham,Nahid'Z Takeaway,Retailers - other,4613,10,,39684,15,,50.84625600000000,10012136341,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12520700000000,PO16 9UY,2014-10-22,fhrs_2_en-GB,2,,FHRS,10
-230105,5 Vannes Parade,Fareham,,,Nandos Chickenland Ltd,Restaurant/Cafe/Canteen,1,0,,221254,0,,50.85214000000000,10012130408,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17886600000000,PO16 0BX,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-230106,114 West Street,Fareham,,,Naz,Restaurant/Cafe/Canteen,1,10,,37859,5,,50.85238200000000,100062407850,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18136200000000,PO16 0EP,2013-08-13,fhrs_4_en-GB,4,,FHRS,5
-230107,Nelson House,14 Rowner Road,Gosport,,Nelson House Hospital,Hospitals/Childcare/Caring Premises,5,5,,693738,0,,50.81260400000000,000037043527-1,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.15933300000000,PO13 0EW,2013-09-03,fhrs_5_en-GB,5,,FHRS,0
-230108,9 Brook Lane,Warsash,Southampton,,New Lucky House Ltd,Restaurant/Cafe/Canteen,1,0,,38770,10,,50.85384800000000,100062525619,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30031600000000,SO31 9FH,2013-11-18,fhrs_4_en-GB,4,,FHRS,5
-230109,38 Stubbington Green,Fareham,,,New Silver River Takeaway,Takeaway/sandwich shop,7844,0,,37745,0,,50.82577800000000,100062406605,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21348900000000,PO14 2LE,2013-01-22,fhrs_5_en-GB,5,,FHRS,0
-230110,3a Delme Square,Fareham,,,Next,Retailers - other,4613,,,39693,,,50.85349900000000,10012137457,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17779100000000,PO16 0PF,2012-11-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-230111,Northern Junior Community School,Richmond Rise,Fareham,,Northern Junior Community School,School/college/university,7845,0,,37920,0,,50.85137200000000,100062408549,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12992700000000,PO16 8DG,2014-02-10,fhrs_5_en-GB,5,,FHRS,0
-230112,72 Celandine Avenue,Locks Heath,Southampton,,Nursery,Retailers - other,4613,,,560409,,,50.85660600000000,100060364690,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28199000000000,SO31 6XA,2013-06-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-230113,8 Bronte Gardens,Whiteley,Fareham,,Nursery,Retailers - other,4613,,,560407,,,50.88599700000000,100060335212,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25530900000000,PO15 7LF,2013-06-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-230114,31 Priory Road,Fareham,,,Nurture Childcare,Retailers - other,4613,,,595400,,,50.85620400000000,100060353238,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21141500000000,PO15 5HU,2013-09-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-230115,Oak Meadow Child Care Centre,Tewkesbury Avenue,Fareham,,Oak Meadow Child Care Centre,Other catering premises,7841,0,,39651,5,,50.86216300000000,10012133825,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21353100000000,PO15 6LL,2013-07-19,fhrs_5_en-GB,5,,FHRS,5
-230116,152 West Street,Fareham,,,Oasis,Retailers - other,4613,20,,37852,10,,50.85238500000000,100062407789,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18436000000000,PO16 0EH,2015-01-08,fhrs_1_en-GB,1,,FHRS,15
-230117,Oast And Squire,2 Peak Lane,Fareham,,Oast And Squire,Pub/bar/nightclub,7843,0,,37733,5,,50.85099800000000,100062406509,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21146000000000,PO14 1RJ,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-230118,103 Hillson Drive,Fareham,,,Occasional Cakes,Retailers - other,4613,5,,37358,0,,50.86401200000000,100060344865,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21703800000000,PO15 6NT,2013-02-18,fhrs_5_en-GB,5,,FHRS,0
-230119,31 Westbury Mall,Fareham,,,Occasions,Retailers - other,4613,0,,644331,0,,50.85313800000000,10012133570,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17627800000000,PO16 0PD,2014-04-14,fhrs_5_en-GB,5,,FHRS,0
-230120,254 White Hart Lane,Fareham,,,Ocean Plaice,Other catering premises,7841,10,,693745,5,,50.84375400000000,100062408710,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13819300000000,PO16 9AR,2014-06-16,fhrs_4_en-GB,4,,FHRS,0
-230121,,,,,Office For National Statistics,Restaurant/Cafe/Canteen,1,0,,39641,5,,,10012133622,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-07-18,fhrs_5_en-GB,5,,FHRS,5
-230122,184a Bridge Road,Sarisbury Green,Southampton,,One Stop,Retailers - other,4613,0,,38816,5,,50.87854600000000,100062643293,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29195800000000,SO31 7ED,2013-05-07,fhrs_5_en-GB,5,,FHRS,5
-230123,32 The Square,Titchfield,Fareham,,One Stop,Retailers - other,4613,0,,39590,0,,50.84963800000000,10012130319,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23418300000000,PO14 4RU,2014-10-14,fhrs_4_en-GB,4,,FHRS,10
-230124,42 Greyshott Avenue,Fareham,,,One Stop,Retailers - other,4613,0,,37772,10,,50.84785000000000,100062406806,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21544800000000,PO14 3JD,2014-11-19,fhrs_4_en-GB,4,,FHRS,5
-230125,44-46 White Hart Lane,Portchester,Fareham,,One Stop,Retailers - other,4613,0,,79686,0,,50.84137400000000,1920004600009,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12423300000000,PO16 9BH,2012-01-16,fhrs_5_en-GB,5,,FHRS,0
-230126,62 - 64 Crofton Lane,Fareham,,,One Stop,Retailers - other,4613,5,,38841,5,,50.82071800000000,100062668094,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22197800000000,PO14 3QE,2014-09-02,fhrs_5_en-GB,5,,FHRS,5
-230127,One Stop,1 Leith Avenue,Fareham,,One Stop,Retailers - other,4613,0,,37911,0,,50.85166800000000,100062408488,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.11784600000000,PO16 8HS,2013-05-23,fhrs_5_en-GB,5,,FHRS,0
-230128,Forecourt To 141,141 - 143 Gosport Road,Fareham,,One Stop Community Store,Retailers - other,4613,0,,38805,0,,,100062643112,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-11-05,fhrs_4_en-GB,4,,FHRS,10
-230129,18 Warsash Road,Warsash,Southampton,,One Stop Community Stores Ltd,Retailers - other,4613,0,,37440,0,,50.85300000000000,100060371141,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29687600000000,SO31 9HX,2014-04-01,fhrs_4_en-GB,4,,FHRS,10
-230130,Orchard Lea Junior School,Kennedy Avenue,Fareham,,Orchard Lea Junior School,School/college/university,7845,0,,139940,0,,50.86410600000000,7590001002007,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20433300000000,PO15 6BJ,2013-05-01,fhrs_5_en-GB,5,,FHRS,0
-230131,38 Osborn Road,Fareham,,,Osborn Manor Rest Home,Hospitals/Childcare/Caring Premises,5,5,,37379,0,,50.85532600000000,100060351696,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17790100000000,PO16 7DS,2013-10-24,fhrs_5_en-GB,5,,FHRS,0
-230132,Portchester Pre School Playgroup,Portchester Community School,White Hart Lane,Fareham,Oscas,Other catering premises,7841,10,,39697,0,,50.84261700000000,10012137962,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12680900000000,PO16 9BD,2014-03-04,fhrs_4_en-GB,4,,FHRS,0
-230133,12 Middle Road,Park Gate,Southampton,,Paninis Sandwich Bar,Restaurant/Cafe/Canteen,1,0,,38820,5,,50.87236400000000,100062643374,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26799100000000,SO31 7GH,2014-11-26,fhrs_5_en-GB,5,,FHRS,0
-230134,128 West Street,Fareham,,,Papa Johns Pizza,Other catering premises,7841,0,,644324,0,,50.85238200000000,100062407533,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18136200000000,PO16 0EP,2014-04-07,fhrs_5_en-GB,5,,FHRS,0
-230135,Crofton Community Centre,Stubbington Lane,Fareham,,Park Day Nursery & Preschool,Restaurant/Cafe/Canteen,1,0,,37738,0,,50.82319300000000,100062406576A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21415700000000,PO14 2PP,2014-07-17,fhrs_5_en-GB,5,,FHRS,0
-230136,Park Gate Junior School,Northmore Road,Locks Heath,Southampton,Park Gate Primary School,School/college/university,7845,0,,38711,5,,50.86938900000000,100062524626,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26682900000000,SO31 6LX,2014-10-08,fhrs_5_en-GB,5,,FHRS,0
-230137,Park Gate Tandoori,Duncan Road,Park Gate,Southampton,Park Gate Tandoori,Restaurant/Cafe/Canteen,1,5,,38818,5,,50.87358200000000,100062643360,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26588200000000,SO31 1BD,2013-09-11,fhrs_4_en-GB,4,,FHRS,10
-230138,7 Parker View,Fareham,,,Parker Meadows Care Home,Hospitals/Childcare/Caring Premises,5,0,,480128,5,,,10012138310,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,PO16 0AF,2014-05-07,fhrs_5_en-GB,5,,FHRS,5
-230139,117 Highlands Road,Fareham,,,Peckish Catering,Other catering premises,7841,0,,37814,5,,50.85990000000000,100062407256,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20875200000000,PO15 6HZ,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-230140,Peel House Rest Home,Woodcote Lane,Fareham,,Peel House Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,365261,5,,50.82376100000000,200002892037,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18937300000000,PO14 1AY,2013-10-30,fhrs_5_en-GB,5,,FHRS,0
-230141,7 Sibland Close,Fareham,,,Penguins Under 5'S Pre-School,Hospitals/Childcare/Caring Premises,5,0,,37763,0,,50.84875400000000,100062406703,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21215100000000,PO14 3BA,2013-03-05,fhrs_5_en-GB,5,,FHRS,5
-230142,39 Locks Road,Locks Heath,Southampton,,Pixies Day Nursery,Other catering premises,7841,0,,38709,5,,50.85761400000000,100062524533,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27205700000000,SO31 6NS,2014-11-25,fhrs_4_en-GB,4,,FHRS,10
-230143,143 West Street,Fareham,,,Pizza Hut,Restaurant/Cafe/Canteen,1,5,,621079,0,,50.85277500000000,100062407515,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18213700000000,PO16 0NR,2013-12-16,fhrs_5_en-GB,5,,FHRS,5
-230144,23 Locks Heath Centre,Centre Way,Locks Heath,Southampton,Pizza Hut Delivery,Restaurant/Cafe/Canteen,1,0,,38718,0,,50.86378600000000,100062524650,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2014-01-02,fhrs_5_en-GB,5,,FHRS,5
-230145,176 Bridge Road,Sarisbury Green,Southampton,,Plaice On The Green,Other catering premises,7841,5,,38815,5,,50.87665300000000,100062643292,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28837600000000,SO31 7EH,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-230146,Portchester Community School,White Hart Lane,Fareham,,Portchester Community School,School/college/university,7845,0,,37922,0,,50.84261700000000,100062408577,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12680900000000,PO16 9BD,2013-05-01,fhrs_5_en-GB,5,,FHRS,0
-230147,Portchester Market,West Street,Portchester,Fareham,Portchester Market,Other catering premises,7841,,,39682,,,50.85241800000000,10012136035,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17788900000000,,2014-01-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-230148,Portchester Nursery,Portchester Community School,White Hart Lane,Fareham,Portchester Nursery,Hospitals/Childcare/Caring Premises,5,0,,39696,0,,50.84261700000000,10012137958,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12680900000000,PO16 9BD,2014-07-01,fhrs_5_en-GB,5,,FHRS,0
-230149,Castle Street,Portchester,Fareham,Hampshire,Portchester Parish Hall,Other catering premises,7841,,,44780,,,50.84481700000000,1085001900,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12280500000000,PO16 9PY,2013-03-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-230150,208 Castle Street,Portchester,Fareham,,Portchester Sailing Club,Other catering premises,7841,5,,82146,0,,50.83877400000000,200002892192,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.11333200000000,PO16 9QN,2014-08-19,fhrs_5_en-GB,5,,FHRS,0
-230151,Portchester Social Club,10 - 12 Castle Street,Portchester,Fareham,Portchester Social Club,Pub/bar/nightclub,7843,5,,39663,5,,50.84619100000000,10012134170,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12262300000000,PO16 9PP,2011-07-27,fhrs_5_en-GB,5,,FHRS,0
-230152,3 Cremer Mall,Fareham,,,Poundland,Retailers - other,4613,0,,39596,5,,50.85214000000000,10012130402,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17886600000000,PO16 0BT,2012-02-09,fhrs_5_en-GB,5,,FHRS,5
-230153,Poundstretcher Ltd B1,Collingwood Business Park,Newgate Lane,Fareham,Poundstretcher,Other catering premises,7841,,,37731,,,50.83734700000000,100062406314,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18520400000000,PO14 1AN,2014-02-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-230154,110 Gosport Road,Fareham,,,Premier Meals,Other catering premises,7841,0,,37838,0,,50.84378100000000,100062407553,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18333100000000,PO16 0QN,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-230155,Lockswood Bowling Club,Priory Park Community Centre,Upper Brook Drive,Locks Heath,Priory Park Community Assoc,Other catering premises,7841,10,,39677,0,,50.85914900000000,10012134749,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28318700000000,SO31 6PT,2012-02-17,fhrs_4_en-GB,4,,FHRS,0
-230156,Priory Park Community Centre,Upper Brook Drive,Locks Heath,Southampton,Priory Park Community Centre,Other catering premises,7841,0,,82093,0,,50.85914900000000,200001069182,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28318700000000,SO31 6PT,2012-02-22,fhrs_5_en-GB,5,,FHRS,5
-230157,2 Quintrel Avenue,Fareham,,,Pryers Afternoon Tea,Retailers - other,4613,5,,37388,0,,50.84748100000000,100060353619,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.14247100000000,PO16 9TE,2011-10-12,fhrs_5_en-GB,5,,FHRS,0
-230158,,,,,Queen Of Hearts Cakes,Retailers - other,4613,5,,510282,5,,,100060353989,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-02-11,fhrs_5_en-GB,5,,FHRS,5
-230159,Queens Club,Queens Road,Gosport,,Queens Social Club,Pub/bar/nightclub,7843,0,,693737,5,,50.79513500000000,000037034247-1,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13405000000000,PO12 1LF,2012-02-10,fhrs_5_en-GB,5,,FHRS,0
-230160,Wickes,Speedfields Park,Fareham,,R Clarke Catering,Mobile caterer,7846,10,,38827,5,,50.83602100000000,100062643616,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18467300000000,PO14 1TS,2013-01-09,fhrs_4_en-GB,4,,FHRS,0
-230161,,,,,Rachels Cupcakes,Other catering premises,7841,10,,644325,0,,,10012128997,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-04-14,fhrs_4_en-GB,4,,FHRS,0
-230162,109 - 111 West Street,Fareham,,,Rancho Steak House,Restaurant/Cafe/Canteen,1,5,,644323,5,,,100062407492,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,PO16 0AE,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-230163,Ranvilles Community Centre,Oldbury Way,Fareham,,Ranvilles Community Centre,Other catering premises,7841,,,37775,,,50.84918700000000,100062406815,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21365000000000,PO14 3BN,2014-09-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-230164,Ranvilles Infants School,Oldbury Way,Fareham,,Ranvilles Infant School,School/college/university,7845,0,,38806,0,,50.84918700000000,100062643141,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21365000000000,PO14 3BN,2013-11-18,fhrs_5_en-GB,5,,FHRS,5
-230165,Ranvilles Junior School,Oldbury Way,Fareham,,Ranvilles Junior School,School/college/university,7845,0,,38807,0,,50.84918700000000,100062643142,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21365000000000,PO14 3BN,2013-03-26,fhrs_5_en-GB,5,,FHRS,0
-230166,Ranvilles Care Home,5 - 7 Ranvilles Lane,Fareham,,Ranvilles Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,37702,5,,50.84957100000000,100061989126,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22534800000000,PO14 3DS,2014-11-10,fhrs_5_en-GB,5,,FHRS,5
-230167,160 West Street,Fareham,,,Rawsons The Florist,Retailers - other,4613,,,37415,,,50.85238500000000,100060361289,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18436000000000,PO16 0EH,2011-08-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-230168,,,,,Rebecca Lilly Cupcakes,Retailers - other,4613,0,,621078,0,,,100060367404,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-11-08,fhrs_5_en-GB,5,,FHRS,0
-230169,Red Barn County Primary School,Linden Lea,Fareham,,Red Barn Community Pre-School,Hospitals/Childcare/Caring Premises,5,0,,37909,0,,50.85038800000000,100062408447A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13422100000000,PO16 8HJ,2011-11-16,fhrs_5_en-GB,5,,FHRS,0
-230170,Red Barn County Primary School,Linden Lea,Fareham,,Red Barn County Primary School,School/college/university,7845,0,,37908,0,,50.85038800000000,100062408447,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13422100000000,PO16 8HJ,2013-07-05,fhrs_5_en-GB,5,,FHRS,0
-230171,Red Lion,1 West Street,Portchester,Fareham,Red Lion,Pub/bar/nightclub,7843,0,,37935,0,,50.84661300000000,100062408677,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12481700000000,PO16 9XB,2014-03-04,fhrs_5_en-GB,5,,FHRS,5
-230172,Red Lion Hotel,East Street,Fareham,,Red Lion Hotel,Hotel/bed & breakfast/guest house,7842,0,,38798,10,,50.85196300000000,100062642821,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17421000000000,PO16 0BP,2014-01-09,fhrs_4_en-GB,4,,FHRS,5
-230173,37 Redlands Lane,Fareham,,,Redlands Cafe,Restaurant/Cafe/Canteen,1,5,,37390,10,,50.84958900000000,100060354027,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19344300000000,PO14 1HL,2014-11-26,fhrs_3_en-GB,3,,FHRS,10
-230174,Redlands County Primary School,Redlands Lane,Fareham,,Redlands County Primary School,School/college/university,7845,0,,37844,0,,50.84557700000000,100062407720,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18550100000000,PO16 0UD,2014-05-07,fhrs_5_en-GB,5,,FHRS,0
-230175,,,,,Reds Catering,Retailers - other,4613,0,,693742,5,,,100060357953,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-04-30,fhrs_5_en-GB,5,,FHRS,0
-230176,Apollo Cinema,3 Vannes Parade,Fareham,,Reel Cinema,Restaurant/Cafe/Canteen,1,5,,39599,5,,50.85214000000000,10012130406,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17886600000000,PO16 0BX,2014-12-09,fhrs_5_en-GB,5,,FHRS,0
-230177,110 - 114 Miller Drive,Fareham,,,Regal Catering,Other catering premises,7841,0,,37887,0,,50.86101600000000,100062408076,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19438300000000,PO16 7LN,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-230178,,,,,Rg-Licious Catering,Other catering premises,7841,5,,716987,0,,,100060351879A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-10-03,fhrs_5_en-GB,5,,FHRS,0
-230179,1 Anjou Crescent,Fareham,,,Richards Newsagents,Retailers - other,4613,0,,37311,0,,50.85537200000000,100060332996,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20804800000000,PO15 5DA,2012-01-31,fhrs_5_en-GB,5,,FHRS,5
-230180,New Parade,38 West Street,Portchester,Fareham,River Spice Indian Restaurant,Restaurant/Cafe/Canteen,1,10,,38813,5,,50.84641132437523,100062643241,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12563015009154,,2013-10-22,fhrs_4_en-GB,4,,FHRS,0
-230181,138 Brook Lane,Sarisbury Green,Southampton,,Rose Villa Rest Home,Hospitals/Childcare/Caring Premises,5,10,,38735,5,,50.86261800000000,100062525137,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29018100000000,SO31 7EW,2014-05-23,fhrs_4_en-GB,4,,FHRS,5
-230182,61 Coombe Farm Avenue,Fareham,,,Rota-Roast Spit Roast,Retailers - other,4613,5,,37325,5,,50.84891000000000,100060337283,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18638100000000,PO16 0TS,2014-03-10,fhrs_5_en-GB,5,,FHRS,0
-230183,Roundabout Hotel,Wallington Shore Road,Fareham,,Roundabout Hotel,Hotel/bed & breakfast/guest house,7842,0,,38802,5,,50.85406300000000,100062642916,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.16719800000000,PO16 8SB,2014-08-19,fhrs_4_en-GB,4,,FHRS,10
-230184,Royal British Legion Club,366 Brook Lane,Sarisbury Green,Southampton,Royal British Legion Club,Other catering premises,7841,5,,38751,0,,50.86919800000000,100062525243,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27376700000000,SO31 7DP,2013-08-21,fhrs_4_en-GB,4,,FHRS,10
-230185,121 West Street,Portchester,Fareham,,Ruby Chinese Take Away,Takeaway/sandwich shop,7844,10,,37926,10,,50.84634200000000,100062408596,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13074500000000,PO16 9UF,2014-08-13,fhrs_3_en-GB,3,,FHRS,10
-230186,Shore House,Shore Road,Warsash,Southampton,Rumours At Sea,Other catering premises,7841,0,,38838,0,,50.85300100000000,100062643820,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30155000000000,SO31 9FS,2014-07-15,fhrs_4_en-GB,4,,FHRS,10
-230187,150 - 158 Southampton Road,Titchfield,Fareham,,S & J Catering,Mobile caterer,7846,5,,433213,5,,50.86496900000000,100062643771A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25622700000000,PO14 4PH,2013-09-11,fhrs_4_en-GB,4,,FHRS,10
-230188,Sainsburys,Broadcut,Fareham,,Sainsbury Supermarkets Ltd,Retailers - other,4613,0,,37913,0,,50.85827900000000,100062408491,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17330300000000,PO16 8SU,2014-02-24,fhrs_5_en-GB,5,,FHRS,0
-230189,Staff Restaurant,Sainsburys,Broadcut,Fareham,Sainsburys Staff Restaurant,Restaurant/Cafe/Canteen,1,0,,39674,10,,50.85827900000000,10012134607,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17330300000000,PO16 8SU,2014-02-24,fhrs_4_en-GB,4,,FHRS,10
-230190,Wicormarine Ltd,Cranleigh Road,Fareham,,Salt,Other catering premises,7841,10,,621080,5,,50.84139300000000,100062408627,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.14610500000000,PO16 9DR,2013-12-19,fhrs_4_en-GB,4,,FHRS,0
-230191,8 Whiteley Local Centre,Gull Coppice,Whiteley,Fareham,Salt And Vinegar,Other catering premises,7841,10,,39619,5,,50.88111400000000,10012132759,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25801700000000,PO15 7LS,2014-05-01,fhrs_4_en-GB,4,,FHRS,5
-230192,,,,,Salt Kitchen,Retailers - other,4613,0,,595392,0,,,100060335995,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-10-17,fhrs_5_en-GB,5,,FHRS,0
-230193,43 Newtown Road,Warsash,Southampton,,Salterns Working Mens Club,Other catering premises,7841,20,,38761,10,,50.85162700000000,100062525533,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30029200000000,SO31 9FY,2014-02-26,fhrs_1_en-GB,1,,FHRS,0
-230194,Smr Automotive Mirrors Uk Ltd Portchester 2,Castle Trading Estate,Fareham,,Samvardhana Motherson Reflectec (Smr),Other catering premises,7841,5,,37924,0,,50.84610500000000,100062408587,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.11951400000000,PO16 9SD,2012-06-19,fhrs_5_en-GB,5,,FHRS,5
-230195,Allotment Road Open Space,Allotment Road,Sarisbury Green,Fareham,Sarisbury Athletic Cricket Club,Other catering premises,7841,10,,39686,5,,50.87398700000000,10012136631,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28417400000000,,2012-06-13,fhrs_3_en-GB,3,,FHRS,10
-230196,Sarisbury Green C Of E Primary School,Allotment Road,Sarisbury Green,Southampton,Sarisbury C Of E Primary School,School/college/university,7845,0,,38733,0,,50.87489600000000,100062525119,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28327200000000,SO31 7AP,2013-04-22,fhrs_5_en-GB,5,,FHRS,5
-230197,Sarisbury Green Community Centre,The Green,Sarisbury Green,Southampton,Sarisbury Green Community Centre,Other catering premises,7841,,,39643,,,50.87575912475586,10012133689,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29042243957520,SO31 7AA,2015-01-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-230198,Sarisbury Green Social Club,108 Bridge Road,Sarisbury Green,Southampton,Sarisbury Green Social Club,Other catering premises,7841,0,,38736,10,,50.87492300000000,100062525138,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27896500000000,SO31 7EP,2013-02-15,fhrs_4_en-GB,4,,FHRS,5
-230199,Sarisbury Infant School,Barnes Lane,Sarisbury Green,Southampton,Sarisbury Infant School,School/college/university,7845,0,,38734,0,,50.86786700000000,100062525120,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28821200000000,SO31 7BJ,2013-11-25,fhrs_5_en-GB,5,,FHRS,0
-230200,48 Fairacre Rise,Fareham,,,Savoury Express,Retailers - other,4613,0,,37336,0,,50.84783500000000,100060340077,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22395600000000,PO14 3EH,2014-12-02,fhrs_5_en-GB,5,,FHRS,5
-230201,,,,,Say It With Cake,Other catering premises,7841,0,,644321,0,,,100060350018,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-04-01,fhrs_5_en-GB,5,,FHRS,0
-230202,,,,,Sdm Coffee House,Restaurant/Cafe/Canteen,1,10,,516721,0,,,100060364312,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2012-11-19,fhrs_4_en-GB,4,,FHRS,0
-230203,187 West Street,Fareham,,,Sdm Coffee House & Design Studio,Restaurant/Cafe/Canteen,1,10,,480124,5,,50.85277600000000,100062407506,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18620000000000,PO16 0EN,2014-11-27,fhrs_4_en-GB,4,,FHRS,5
-230204,204 West Street,Fareham,,,Sea Of Spice,Restaurant/Cafe/Canteen,1,5,,37875,10,,50.85243700000000,100062407939,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18653300000000,PO16 0HF,2013-08-06,fhrs_3_en-GB,3,,FHRS,10
-230205,Car Park,Salterns Road,Fareham,,Seafarers Sailing Club,Other catering premises,7841,5,,39581,5,,50.81270900000000,10012129539,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21997700000000,,2012-08-22,fhrs_5_en-GB,5,,FHRS,0
-230206,Searle Sports And Social Club,Davis Way,Newgate Lane,Fareham,Searle Sports And Social Club,Pub/bar/nightclub,7843,10,,105989,0,,50.83790300000000,3665007500001,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18377400000000,PO14 1AR,2014-11-27,fhrs_4_en-GB,4,,FHRS,0
-230207,26 Westbury Square,Fareham,,,Shakeaway,Restaurant/Cafe/Canteen,1,5,,39634,5,,50.85274900000000,10012133579,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17598600000000,PO16 0PB,2014-01-22,fhrs_5_en-GB,5,,FHRS,0
-230208,22 Middle Road,Park Gate,Southampton,,Sheila Hurst Florist,Retailers - other,4613,,,38748,,,50.87236400000000,100062525234,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26799100000000,SO31 7GH,2012-09-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-230209,Petrol Filling Station,264 Southampton Road,Titchfield,Fareham,Shell Service Station,Retailers - other,4613,0,,39609,0,,50.85590800000000,10012131287,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24551700000000,PO14 4BB,2013-09-24,fhrs_5_en-GB,5,,FHRS,0
-230210,Petrol Filling Station,33 Stubbington Lane,Fareham,,Shell Stubbington,Retailers - other,4613,0,,37752,0,,50.82140500000000,100062406675,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21447100000000,PO14 2PN,2011-08-17,fhrs_5_en-GB,5,,FHRS,0
-230211,,,,,Sheree'S Sweet Treats,Retailers - other,4613,0,,716995,0,,,10012136481,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-230212,Bp Portchester Sf Connect,West Street,Portchester,Fareham,Simply Food,Retailers - other,4613,0,,37946,0,,50.84781200000000,100062408747,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13738000000000,PO16 9UA,2012-02-24,fhrs_5_en-GB,5,,FHRS,0
-230213,Sir Joseph Paxton,272 Hunts Pond Road,Fareham,,Sir Joseph Paxton,Pub/bar/nightclub,7843,5,,37783,5,,50.85569200000000,100062406963,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25663000000000,PO14 4PF,2013-06-27,fhrs_4_en-GB,4,,FHRS,10
-230214,60 Barnes Lane,Sarisbury Green,Southampton,,Smart Fish Bar,Restaurant/Cafe/Canteen,1,10,,38743,15,,50.86391200000000,100062525175,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29151200000000,SO31 7BZ,2014-10-16,fhrs_2_en-GB,2,,FHRS,10
-230215,32 - 34 Standard Way,Fareham,,,Soccer City,Other catering premises,7841,5,,37915,10,,50.86203100000000,100062408509,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17363400000000,PO16 8XG,2014-07-02,fhrs_4_en-GB,4,,FHRS,5
-230216,25 Standard Way,Fareham,,,Solent Arena,Restaurant/Cafe/Canteen,1,20,,693749,10,,50.86207900000000,TEMP25STD,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.16898700000000,PO16 8XJ,2014-08-12,fhrs_1_en-GB,1,,FHRS,10
-230217,,,,,Solent Cafe2u Ltd,Mobile caterer,7846,0,,644332,0,,,200001619942,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-03-24,fhrs_4_en-GB,4,,FHRS,10
-230218,Solent Cliffs Nursing Home,2 Cliff Road,Fareham,,Solent Cliffs Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,221251,0,,50.81795500000000,100062406810,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23663100000000,PO14 3JS,2014-07-15,fhrs_5_en-GB,5,,FHRS,5
-230219,105 Stubbington Lane,Fareham,,,Solent Lodge Care Home,Hospitals/Childcare/Caring Premises,5,10,,644322,5,,50.81967900000000,100060357092,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21320800000000,PO14 2PG,2014-04-01,fhrs_4_en-GB,4,,FHRS,0
-230220,Solent View Hotel,33 - 37 Newtown Road,Warsash,Southampton,Solent View Hotel,Hotel/bed & breakfast/guest house,7842,0,,37432,0,,50.85162700000000,100060368695,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30029200000000,SO31 9FY,2013-08-29,fhrs_5_en-GB,5,,FHRS,0
-230221,20 Locks Heath Centre,Centre Way,Locks Heath,Southampton,Soothills,Restaurant/Cafe/Canteen,1,0,,38716,0,,50.86378600000000,100062524647,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2014-04-28,fhrs_4_en-GB,4,,FHRS,10
-230222,1 East Street,Fareham,,,Soothills Ltd,Other catering premises,7841,0,,37331,5,,50.85233400000000,100060339536,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17328000000000,PO16 0BW,2014-08-06,fhrs_5_en-GB,5,,FHRS,0
-230223,2 Whiteley Local Centre,Gull Coppice,Whiteley,Fareham,Southern Co-Operative,Retailers - other,4613,0,,39617,5,,50.88111400000000,10012132757,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25801700000000,PO15 7LS,2012-11-06,fhrs_5_en-GB,5,,FHRS,0
-230224,78 - 90 Arundel Drive,Fareham,,,Southern Co-Operatives,Retailers - other,4613,0,,37893,0,,50.85814100000000,100062408216,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18960200000000,PO16 7NU,2013-04-29,fhrs_5_en-GB,5,,FHRS,5
-230225,219 Gudge Heath Lane,Fareham,,,Southern Co-Operatives Limited,Retailers - other,4613,0,,37820,0,,50.86021200000000,100062407276,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20691400000000,PO15 6PZ,2014-05-16,fhrs_5_en-GB,5,,FHRS,5
-230226,44 The Square,Titchfield,Fareham,,Southern Co-Operatives Limited,Retailers - other,4613,0,,39591,5,,50.84963800000000,10012130328,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23418300000000,PO14 4RU,2013-02-11,fhrs_4_en-GB,4,,FHRS,10
-230227,68 Titchfield Park Road,Titchfield,Fareham,,Southern Health Nha Ft,Hospitals/Childcare/Caring Premises,5,0,,37406,0,,50.86194700000000,100060359589,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25042100000000,PO15 5RN,2013-01-25,fhrs_5_en-GB,5,,FHRS,0
-230228,,,,,Squidgey Widgey Cupcakes,Retailers - other,4613,0,,621076,0,,,100060340135,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-11-28,fhrs_5_en-GB,5,,FHRS,5
-230229,St Anthonys Rc Primary School,Primate Road,Fareham,,St Anthonys R C Primary School,School/college/university,7845,0,,37789,0,,50.85600800000000,100062406992,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25270400000000,PO14 4RP,2013-04-25,fhrs_5_en-GB,5,,FHRS,0
-230230,St Columba Church Of England Primary Academy School,Tewkesbury Avenue,Fareham,,St Columba C Of E Primary Academy,Hospitals/Childcare/Caring Premises,5,0,,39579,0,,50.86216300000000,10012129363,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21353100000000,PO15 6LL,2014-02-26,fhrs_5_en-GB,5,,FHRS,0
-230231,St Francis Special School,Oldbury Way,Fareham,,St Francis Special School,School/college/university,7845,0,,37766,0,,50.84918700000000,100062406742,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21365000000000,PO14 3BN,2013-03-22,fhrs_5_en-GB,5,,FHRS,0
-230232,St Johns C Of E Primary School,Abshot Road,Fareham,,St John The Baptist Primary School,Other catering premises,7841,0,,37781,0,,50.85700100000000,100062406889,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26024600000000,PO14 4NH,2014-11-19,fhrs_5_en-GB,5,,FHRS,5
-230233,St Johns Church Hall,127 Locksheath Park Road,Southampton,,St Johns Church Complex,Restaurant/Cafe/Canteen,1,,,115622,,,50.85905500000000,4480012700007,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26234500000000,SO31 6LY,2013-08-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-230234,St Judes Catholic Primary School,Bishopsfield Road,Fareham,,St Judes Catholic Primary School,School/college/university,7845,0,,37729,0,,50.85063800000000,100062406311,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20091100000000,PO14 1ND,2015-01-06,fhrs_5_en-GB,5,,FHRS,0
-230235,St Margaret Mary Rc Church,Middle Road,Park Gate,Fareham,St Margaret Mary Church,Other catering premises,7841,10,,39666,0,,50.87245000000000,10012134322,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26813700000000,,2012-01-09,fhrs_4_en-GB,4,,FHRS,0
-230236,St Marys Church,Portchester Castle,Castle Street,Portchester,St Marys Church,Restaurant/Cafe/Canteen,1,0,,39670,0,,50.83799700000000,10012134471,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.11638600000000,PO16 9QW,2012-06-14,fhrs_5_en-GB,5,,FHRS,0
-230237,105 Highlands Road,Fareham,,,Staceys,Retailers - other,4613,10,,37813,0,,50.85990000000000,100062407254,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20875200000000,PO15 6HZ,2015-01-05,fhrs_4_en-GB,4,,FHRS,10
-230238,3 Delta Business Park,Salterns Lane,Fareham,,Starfish (Little Shipmates) Ltd,Hospitals/Childcare/Caring Premises,5,10,,37827,0,,50.84209200000000,100062407460,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17961100000000,PO16 0QS,2014-07-30,fhrs_4_en-GB,4,,FHRS,5
-230239,Mobile Catering Site,Station Approach,Fareham,,Station Grill & Cafe,Mobile caterer,7846,20,,39671,10,,,10012134479,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-12-09,fhrs_1_en-GB,1,,FHRS,10
-230240,101 West Street,Fareham,,,Stones,Restaurant/Cafe/Canteen,1,0,,221256,0,,50.85283400000000,100062407940,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18030300000000,PO16 0AB,2014-01-27,fhrs_5_en-GB,5,,FHRS,0
-230241,Stubbington Baptist Church,Jay Close,Fareham,,Stubbington Baptist Church,Other catering premises,7841,,,37774,,,50.83294700000000,100062406812,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22041200000000,PO14 3TA,2013-02-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-230242,Stubbington Library,Stubbington Lane,Fareham,,Stubbington Country Markets,Mobile caterer,7846,5,,730331,5,,50.82319300000000,100062406694A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21415700000000,PO14 2PP,2014-11-28,fhrs_5_en-GB,5,,FHRS,5
-230243,36 Stubbington Green,Fareham,,,Stubbington Fish & Chips,Takeaway/sandwich shop,7844,0,,37750,0,,50.82577800000000,100062406672,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21348900000000,PO14 2LE,2014-12-03,fhrs_5_en-GB,5,,FHRS,0
-230244,15 Stubbington Green,Fareham,,,Stubbington Kebab House,Restaurant/Cafe/Canteen,1,5,,37741,10,,50.82583000000000,100062406592,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21453900000000,PO14 2JG,2014-02-07,fhrs_4_en-GB,4,,FHRS,5
-230245,35 Stubbington Green,Fareham,,,Stubbington Post Office,Retailers - other,4613,0,,37398,0,,50.82577800000000,100060357012,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21348900000000,PO14 2LJ,2013-07-09,fhrs_5_en-GB,5,,FHRS,5
-230246,Wardens Flat,Stubbington Study Centre,184 Stubbington Lane,Fareham,Stubbington Study Centre,School/college/university,7845,0,,37400,5,,50.81350900000000,100060357134,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21704500000000,PO14 2ND,2013-01-08,fhrs_5_en-GB,5,,FHRS,0
-230247,35a Stubbington Green,Fareham,,,Stubbington Tandoori,Restaurant/Cafe/Canteen,1,10,,37754,10,,50.82577800000000,100062406677,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21348900000000,PO14 2LE,2012-12-04,fhrs_3_en-GB,3,,FHRS,10
-230248,7 The Scimitars,Fareham,,,Stumpys Brewery-Chutney/Jam,Retailers - other,4613,0,,37405,0,,50.82463700000000,100060359158,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22567600000000,PO14 3RW,2012-03-12,fhrs_4_en-GB,4,,FHRS,10
-230249,4 Cremer Mall,Fareham,,,Subway,Restaurant/Cafe/Canteen,1,0,,39597,0,,50.85214000000000,10012130403,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17886600000000,PO16 0BT,2014-10-02,fhrs_5_en-GB,5,,FHRS,5
-230250,14 - 18 Thackeray Square,Fareham,,,Superdrug,Retailers - other,4613,0,,39630,0,,50.85337700000000,10012133551,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17701200000000,PO16 0PG,2013-01-10,fhrs_5_en-GB,5,,FHRS,0
-230251,21 West Street,Portchester,Fareham,,Superdrug,Retailers - other,4613,,,37928,,,50.84661300000000,100062408608,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12481700000000,PO16 9XB,2014-09-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-230252,1 Russell Buildings,86 West Street,Portchester,Fareham,Suzie'S Tea Rooms,Restaurant/Cafe/Canteen,1,0,,38814,0,,50.84589000000000,100062643248,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12802600000000,PO16 9UL,2014-05-06,fhrs_5_en-GB,5,,FHRS,5
-230253,,,,,Sweet Silvester'S,Retailers - other,4613,0,,621077,0,,,100060346740,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-08-14,fhrs_5_en-GB,5,,FHRS,0
-230254,,,,,Sweet- Tree-Licious,Retailers - other,4613,0,,595397,0,,,100060351879,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-09-10,fhrs_5_en-GB,5,,FHRS,0
-230255,Locks Heath Post Office,252 Warsash Road,Warsash,Southampton,Tesco Express,Retailers - other,4613,0,,38766,0,,50.85485800000000,100062525592,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27413200000000,SO31 9NZ,2014-12-08,fhrs_5_en-GB,5,,FHRS,0
-230256,Tesco,Quay Street,Fareham,,Tesco Superstore,Other catering premises,7841,0,,39695,0,,50.85167800000000,10012137957,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17589100000000,PO16 0LE,2014-02-19,fhrs_5_en-GB,5,,FHRS,0
-230257,Tgi Fridays,Southampton Road,Park Gate,Southampton,Tgi Fridays,Restaurant/Cafe/Canteen,1,0,,38835,0,,50.86843100000000,100062643773,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25895700000000,SO31 6AF,2014-11-26,fhrs_5_en-GB,5,,FHRS,5
-230258,29 Park Walk,Fareham,,,The 3 Bears House,Retailers - other,4613,,,595398,,,50.86053700000000,100060352015,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21110000000000,PO15 6NG,2013-09-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-230259,36 The Avenue,Fareham,,,The Avenue Rest Home,Hospitals/Childcare/Caring Premises,5,0,,37402,0,,50.85259300000000,100060357652,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19871900000000,PO14 1NY,2014-06-12,fhrs_5_en-GB,5,,FHRS,0
-230260,11 Stubbington Green,Fareham,,,The Bakers,Restaurant/Cafe/Canteen,1,5,,37758,5,,50.82583000000000,100062406692,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21453900000000,PO14 2JG,2015-01-12,fhrs_5_en-GB,5,,FHRS,5
-230261,The Bold Forester,120 Bridge Road,Sarisbury Green,Southampton,The Bold Forester,Other catering premises,7841,10,,38750,10,,50.87596800000000,100062525238,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28359700000000,SO31 7EL,2014-02-04,fhrs_4_en-GB,4,,FHRS,0
-230262,The Buccaneer,14 The Avenue,Fareham,,The Buccaneer,Restaurant/Cafe/Canteen,1,0,,37736,5,,50.85275400000000,100062406537,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19603100000000,PO14 1NS,2013-07-01,fhrs_5_en-GB,5,,FHRS,5
-230263,,,,,The Cake Doctor,Retailers - other,4613,5,,595393,0,,,100060339069,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-10-18,fhrs_5_en-GB,5,,FHRS,0
-230264,207 West Street,Fareham,,,The Childrens House,Hospitals/Childcare/Caring Premises,5,5,,37871,0,,50.85281800000000,100062407904,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18314500000000,PO16 0ED,2014-06-17,fhrs_5_en-GB,5,,FHRS,0
-230265,Highlands Service Station,165 Highlands Road,Fareham,,The Co- Operative Group,Retailers - other,4613,0,,37791,0,,50.85682700000000,100062407019,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21438800000000,PO15 5PR,2012-05-01,fhrs_5_en-GB,5,,FHRS,0
-230266,The Cob And Pen,1 Wallington Shore Road,Fareham,,The Cob And Penn,Pub/bar/nightclub,7843,5,,37907,10,,50.85697000000000,100062408373,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17130900000000,PO16 8SL,2013-08-05,fhrs_2_en-GB,2,,FHRS,15
-230267,42 Stubbington Green,Fareham,,,The Co-Operative Group Ltd,Retailers - other,4613,0,,365255,0,,50.82577800000000,100062406669A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21348900000000,PO14 2LE,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-230268,174 West Street,Fareham,,,The Coriander,Restaurant/Cafe/Canteen,1,10,,37860,10,,50.85237300000000,100062407856,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18519800000000,PO16 0EQ,2014-11-17,fhrs_2_en-GB,2,,FHRS,15
-230269,The Cormorant,181 Castle Street,Portchester,Fareham,The Cormorant,Pub/bar/nightclub,7843,10,,37933,5,,50.84017500000000,100062408674,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.11904300000000,PO16 9QX,2013-10-01,fhrs_3_en-GB,3,,FHRS,10
-230270,The Crofton,48 Crofton Lane,Fareham,,The Crofton,Pub/bar/nightclub,7843,0,,37770,5,,50.82008900000000,100062406804,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22336600000000,PO14 3QF,2013-02-27,fhrs_4_en-GB,4,,FHRS,10
-230271,31 Titchfield Road,Stubbington,Fareham,,The Crofton Club,Pub/bar/nightclub,7843,0,,37742,0,,50.82732800000000,100062406596,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21530900000000,PO14 2JH,2014-01-29,fhrs_5_en-GB,5,,FHRS,0
-230272,The Crown,40 West Street,Fareham,,The Crown Public House,Pub/bar/nightclub,7843,0,,37870,0,,50.85218500000000,100062407894,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17635100000000,PO16 0JW,2013-11-20,fhrs_5_en-GB,5,,FHRS,0
-230273,The Cuckoo Pint,120 Cuckoo Lane,Fareham,,The Cuckoo Pint,Pub/bar/nightclub,7843,0,,37771,5,,50.82879000000000,100062406805,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22137600000000,PO14 3QP,2013-02-18,fhrs_4_en-GB,4,,FHRS,10
-230274,45 Redlands Lane,Fareham,,,The Cutie House,Other catering premises,7841,10,,37391,10,,50.84958900000000,100060354032,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19344300000000,PO14 1HL,2014-08-13,fhrs_2_en-GB,2,,FHRS,15
-230275,4 Middle Road,Park Gate,Fareham,,The Fabulous Baker Brothers,Restaurant/Cafe/Canteen,1,0,,38747,10,,50.87186042000000,100062525228,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26869284000000,,2014-07-22,fhrs_4_en-GB,4,,FHRS,10
-230276,The Fareham,54 Trinity Street,Fareham,,The Fareham,Other catering premises,7841,0,,37896,0,,50.85409500000000,100062408259,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18319400000000,PO16 7SA,2013-12-11,fhrs_5_en-GB,5,,FHRS,5
-230277,The Ferryman,2 Warsash Road,Warsash,Southampton,The Ferryman,Pub/bar/nightclub,7843,10,,38769,10,,50.85300000000000,100062525605,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29687600000000,SO31 9HX,2013-07-23,fhrs_3_en-GB,3,,FHRS,10
-230278,83 Church Road,Locks Heath,Southampton,,The Firs,Hospitals/Childcare/Caring Premises,5,0,,38713,5,,50.86254200000000,100062524640,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26774600000000,SO31 6LS,2014-10-01,fhrs_5_en-GB,5,,FHRS,5
-230279,147 West Street,Fareham,,,The Fish Shop,Retailers - other,4613,20,,37865,15,,50.85275300000000,100062407877,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18291900000000,PO16 0DZ,2014-09-12,fhrs_1_en-GB,1,,FHRS,10
-230280,The Fishermans Rest,Mill Lane,Titchfield,Fareham,The Fishermans Rest,Pub/bar/nightclub,7843,0,,37799,0,,50.85565600000000,100062407102,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23027700000000,PO15 5RA,2013-10-16,fhrs_5_en-GB,5,,FHRS,5
-230281,10 Stubbington Green,Fareham,,,The Fruit Basket Ltd,Retailers - other,4613,0,,37740,0,,50.82583000000000,100062406590,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21453900000000,PO14 2JG,2012-11-15,fhrs_5_en-GB,5,,FHRS,0
-230282,21 Shore Road,Warsash,Southampton,,The Frying Fish,Restaurant/Cafe/Canteen,1,5,,38837,5,,50.85300100000000,100062643817,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30155000000000,SO31 9FS,2013-04-18,fhrs_5_en-GB,5,,FHRS,5
-230283,185 West Street,Fareham,,,The Golden Boat,Restaurant/Cafe/Canteen,1,10,,37836,15,,50.85281500000000,100062407530,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18402600000000,PO16 0EF,2013-10-07,fhrs_2_en-GB,2,,FHRS,10
-230284,The Golden Bowler,122 Stubbington Lane,Fareham,,The Golden Bowler,Pub/bar/nightclub,7843,0,,37746,0,,50.81489300000000,100062406607,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21426800000000,PO14 2NQ,2013-03-25,fhrs_5_en-GB,5,,FHRS,5
-230285,The Golden Lion,28 High Street,Fareham,,The Golden Lion,Pub/bar/nightclub,7843,10,,38800,0,,50.85436200000000,100062642867,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17386900000000,PO16 7AE,2014-11-25,fhrs_4_en-GB,4,,FHRS,10
-230286,116 Blackbrook Road,Fareham,,,The Heathfield Arms,Pub/bar/nightclub,7843,10,,37794,10,,50.85553400000000,100062407040,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20932300000000,PO15 5BZ,2014-03-05,fhrs_3_en-GB,3,,FHRS,10
-230287,103 Highlands Road,Fareham,,,The Highlands Hub,Restaurant/Cafe/Canteen,1,5,,37824,0,,50.85990000000000,100062407349,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20875200000000,PO15 6HZ,2014-04-16,fhrs_5_en-GB,5,,FHRS,0
-230288,Holiday Inn,2 - 8 Cartwright Drive,Fareham,,The Holiday Inn,Hotel/bed & breakfast/guest house,7842,5,,37810,5,,50.85539200000000,100062407236,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24218600000000,PO15 5RJ,2015-01-13,fhrs_4_en-GB,4,,FHRS,10
-230289,184 West Street,Fareham,,,The Indian Cottage Restaurant,Restaurant/Cafe/Canteen,1,5,,37861,10,,50.85237300000000,100062407860,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18519800000000,PO16 0EQ,2014-11-07,fhrs_4_en-GB,4,,FHRS,5
-230290,The Jolly Farmer,29 Fleet End Road,Warsash,Southampton,The Jolly Farmer,Pub/bar/nightclub,7843,5,,38836,10,,50.85277400000000,100062643807,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27900800000000,SO31 9JH,2014-10-29,fhrs_3_en-GB,3,,FHRS,10
-230291,The Laurels,St Margarets Lane,Fareham,,The Laurels,Hospitals/Childcare/Caring Premises,5,0,,37397,5,,50.85311600000000,100060356554,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24490800000000,PO14 4BL,2014-04-14,fhrs_5_en-GB,5,,FHRS,0
-230292,100 - 108 West Street,Fareham,,,The Lord Arthur Lee,Pub/bar/nightclub,7843,0,,82103,0,,50.85238200000000,200001513345,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18136200000000,PO16 0EP,2014-01-27,fhrs_5_en-GB,5,,FHRS,5
-230293,Unit 5,Fareham Enterprise Centre,Hackett Way,Fareham,The Lunch Box Cafe,Restaurant/Cafe/Canteen,1,10,,38825,5,,50.84141800000000,100062643508,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18492000000000,PO14 1TH,2013-12-05,fhrs_4_en-GB,4,,FHRS,5
-230294,149 Gosport Road,Fareham,,,The Master Chippy,Restaurant/Cafe/Canteen,1,10,,37344,10,,50.84669000000000,100060342287,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18257000000000,PO16 0PZ,2014-11-20,fhrs_2_en-GB,2,,FHRS,15
-230295,The Miners Arms,110 - 112 Funtley Road,Fareham,,The Miners Arms,Pub/bar/nightclub,7843,0,,37950,5,,50.87102800000000,100062408892,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20144400000000,PO17 5EF,2015-01-08,fhrs_5_en-GB,5,,FHRS,5
-230296,The Navigator,286 Bridge Road,Swanwick,Southampton,The Navigator,Pub/bar/nightclub,7843,10,,38754,5,,50.88373400000000,100062525254,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29944200000000,SO31 7EB,2014-10-02,fhrs_3_en-GB,3,,FHRS,10
-230297,The Nook And Cranny,Hook Lane,Warsash,Southampton,The Nook And Cranny,Restaurant/Cafe/Canteen,1,10,,39608,10,,50.84540500000000,10012130913,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27675000000000,SO31 9HH,2012-10-24,fhrs_3_en-GB,3,,FHRS,10
-230298,The Old Ship Inn,261 Bridge Road,Swanwick,Southampton,The Old Ship Inn,Pub/bar/nightclub,7843,0,,38737,5,,50.88097000000000,100062525139,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29575900000000,SO31 7FN,2014-05-21,fhrs_4_en-GB,4,,FHRS,10
-230299,The Osborne View Hotel,67 Hill Head Road,Fareham,,The Osborne View Hotel,Pub/bar/nightclub,7843,0,,37762,0,,50.81670200000000,100062406702,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23333000000000,PO14 3JR,2014-10-07,fhrs_5_en-GB,5,,FHRS,5
-230300,,,,,The Pastry Corner,Retailers - other,4613,0,,621082,0,,,200001933733,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2013-11-13,fhrs_5_en-GB,5,,FHRS,0
-230301,The Queens Head,High Street,Titchfield,Fareham,The Queens Head,Pub/bar/nightclub,7843,10,,39588,10,,50.84993100000000,10012130308,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23494500000000,PO14 4AQ,2013-11-26,fhrs_3_en-GB,3,,FHRS,10
-230302,The Rainbow Centre,The Bradbury Building,Palmerston Drive,Fareham,The Rainbow Centre,Hospitals/Childcare/Caring Premises,5,0,,39622,0,,50.84509300000000,10012132990,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19097800000000,PO14 1BJ,2014-02-18,fhrs_5_en-GB,5,,FHRS,0
-230303,2 Southampton Road,Fareham,,,The Red House,Hospitals/Childcare/Caring Premises,5,0,,37883,0,,50.85638300000000,100062408030,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17862100000000,PO16 7DY,2014-01-17,fhrs_5_en-GB,5,,FHRS,5
-230304,The Red Lion,Gosport Road,Stubbington,Fareham,The Red Lion,Pub/bar/nightclub,7843,0,,38829,5,,50.82506600000000,100062643691,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21317400000000,PO14 2LD,2013-03-19,fhrs_5_en-GB,5,,FHRS,5
-230305,The Rising Sun,74 Shore Road,Warsash,Southampton,The Rising Sun,Pub/bar/nightclub,7843,0,,38839,5,,50.85245800000000,100062643830,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30547900000000,SO31 9FT,2013-04-22,fhrs_4_en-GB,4,,FHRS,10
-230306,The Seagull,Cornaway Lane,Fareham,,The Seagull,Pub/bar/nightclub,7843,0,,37934,5,,50.84614000000000,100062408675,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13864600000000,PO16 9DB,2014-03-11,fhrs_4_en-GB,4,,FHRS,10
-230307,The Shack,Meon Shore Salterns Road,Stubbington,Fareham,The Shack,Restaurant/Cafe/Canteen,1,5,,107675,5,,50.81373800000000,3810006200209,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22305900000000,PO14 3QS,2014-09-26,fhrs_5_en-GB,5,,FHRS,5
-230308,Silver Fern,19 Warsash Road,Warsash,Southampton,The Silver Fern,Pub/bar/nightclub,7843,0,,38772,0,,50.85352100000000,100062525629,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29678300000000,SO31 9HW,2014-05-13,fhrs_4_en-GB,4,,FHRS,10
-230309,The Vanguard,64 West Street,Fareham,,The Slug And Lettuce,Pub/bar/nightclub,7843,0,,37869,5,,50.85200500000000,100062407889,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17751900000000,PO16 0JN,2014-05-07,fhrs_5_en-GB,5,,FHRS,5
-230310,The Strawberry Fields Tavern,1 Locks Heath Centre,Centre Way,Locks Heath,The Strawberry Field Tavern,Pub/bar/nightclub,7843,10,,38722,0,,50.86378600000000,100062524658,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27547100000000,SO31 6DX,2013-08-12,fhrs_4_en-GB,4,,FHRS,5
-230311,27a Stubbington Green,Fareham,,,The Stubbington Club,Pub/bar/nightclub,7843,20,,37748,15,,50.82625800000000,100062406616,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21389300000000,PO14 2JY,2014-02-11,fhrs_1_en-GB,1,,FHRS,15
-230312,The Talisman,3 Bridge Road,Park Gate,Southampton,The Talisman,Pub/bar/nightclub,7843,5,,38759,10,,50.87101600000000,100062525274,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26681800000000,SO31 7GD,2014-10-28,fhrs_3_en-GB,3,,FHRS,10
-230313,,,,,The Treat Tricycle,Mobile caterer,7846,0,,716994,0,,,10012134100,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-07-14,fhrs_5_en-GB,5,,FHRS,0
-230314,7 New Parade,38 West Street,Portchester,Fareham,The Twells Tradition,Retailers - other,4613,5,,37944,5,,50.84625600000000,100062408744,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12520700000000,PO16 9UY,2014-12-05,fhrs_4_en-GB,4,,FHRS,10
-230315,48 Warsash Road,Warsash,Southampton,,The Village Bakery,Restaurant/Cafe/Canteen,1,10,,82131,10,,50.85386600000000,200002502590,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29135100000000,SO31 9JA,2014-12-08,fhrs_3_en-GB,3,,FHRS,5
-230316,The Village Inn,67 Botley Road,Park Gate,Southampton,The Village Inn,Pub/bar/nightclub,7843,0,,38705,5,,50.87524500000000,100062523985,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26862800000000,SO31 1AZ,2013-08-27,fhrs_4_en-GB,4,,FHRS,10
-230317,The Warren,Cherque Lane,Lee-On-The-Solent,,The Warren Residential Lodge,Hospitals/Childcare/Caring Premises,5,5,,37322,5,,50.81129100000000,100060336582,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19112200000000,PO13 9PF,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-230318,The Wheatsheaf,1 East Street,Titchfield,Fareham,The Wheatsheaf,Pub/bar/nightclub,7843,10,,37784,5,,50.85072200000000,100062406966,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23348300000000,PO14 4AD,2014-10-23,fhrs_4_en-GB,4,,FHRS,5
-230319,The White Horse,44 North Wallington,Fareham,,The White Horse,Pub/bar/nightclub,7843,10,,37912,10,,50.85946800000000,100062408489,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.16984300000000,PO16 8TE,2014-03-26,fhrs_3_en-GB,3,,FHRS,10
-230320,The Wicor Mill,246 White Hart Lane,Fareham,,The Wicor Mill,Pub/bar/nightclub,7843,5,,37929,5,,50.84375400000000,100062408614,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.13819300000000,PO16 9AR,2013-02-12,fhrs_5_en-GB,5,,FHRS,5
-230321,55 High Street,Fareham,,,The Wine Cellar,Retailers - other,4613,0,,37894,0,,50.85415200000000,100062408238,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17341800000000,PO16 7BG,2014-10-29,fhrs_5_en-GB,5,,FHRS,0
-230322,46 Westbury Mall,Fareham,,,The Works,Retailers - other,4613,,,39635,,,50.85317300000000,10012133599,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17616300000000,PO16 0PD,2012-11-08,fhrs_exempt_en-GB,Exempt,,FHRS,
-230323,4 Randal View,Bishopsfield Road,Fareham,,Tiffin Takeaway,Takeaway/sandwich shop,7844,20,,39689,10,,50.84591900000000,10012137063,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.20117700000000,PO14 1FG,2014-08-19,fhrs_1_en-GB,1,,FHRS,5
-230324,3 Whiteley Local Centre,Gull Coppice,Whiteley,Fareham,Tiger Lily,Other catering premises,7841,10,,39618,10,,50.88111400000000,10012132758,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25801700000000,PO15 7LS,2014-10-14,fhrs_3_en-GB,3,,FHRS,10
-230325,Hook With Warsash Academy,Church Road,Warsash,Southampton,Time Out After School Care,Other catering premises,7841,0,,38774,0,,50.84771300000000,100062525633A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29242400000000,SO31 9GF,2014-05-06,fhrs_5_en-GB,5,,FHRS,0
-230326,St Johns C Of E Primary School,Abshot Road,Fareham,,Time Out After School Care,Other catering premises,7841,0,,37782,0,,50.85700100000000,100062406889A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26024600000000,PO14 4NH,2014-05-06,fhrs_5_en-GB,5,,FHRS,0
-230327,Whiteley County Primary School,Gull Coppice,Whiteley,Fareham,Time Out After School Club,Other catering premises,7841,0,,37826,0,,50.88080800000000,100062407375A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25807900000000,PO15 7LA,2014-05-06,fhrs_5_en-GB,5,,FHRS,0
-230328,Park Gate Junior School,Northmore Road,Locks Heath,Southampton,Time Out Breakfast Club,Other catering premises,7841,0,,38092,0,,50.86938900000000,100062424626A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26682900000000,SO31 6LX,2014-05-06,fhrs_5_en-GB,5,,FHRS,0
-230329,Time Out Child Care After School Club,Locks Heath Junior School,258 Warsash Road,Locks Heath,Time Out Child Care After School Club,Other catering premises,7841,0,,150825,0,,50.85485800000000,9920025800108,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.27413200000000,SO31 9NZ,2014-05-06,fhrs_5_en-GB,5,,FHRS,0
-230330,Community Centre,Mill Street,Titchfield,Fareham,Titchfield Community Centre,Other catering premises,7841,0,,38832,10,,50.85105700000000,100062643764,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23241200000000,PO14 4AB,2013-07-29,fhrs_4_en-GB,4,,FHRS,0
-230331,Community Centre,Mill Street,Titchfield,Fareham,Titchfield Community Centre,Other catering premises,7841,10,,221255,5,,50.85105700000000,100062643764A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23241200000000,PO14 4AB,2013-07-24,fhrs_4_en-GB,4,,FHRS,0
-230332,Unit 2a,73 St Margarets Lane,Fareham,,Titchfield Festival Theatre,Restaurant/Cafe/Canteen,1,,,39691,,,50.85320000000000,10012137436,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24387000000000,PO14 4BG,2013-01-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-230333,Titchfield Haven Visitor Centre,Cliff Road,Fareham,,Titchfield Haven Cafe,Restaurant/Cafe/Canteen,1,0,,37764,0,,50.81870800000000,100062406732,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24039500000000,PO14 3JT,2013-10-28,fhrs_5_en-GB,5,,FHRS,5
-230334,66 Titchfield Park Road,Titchfield,Fareham,,Titchfield Lodge,Hospitals/Childcare/Caring Premises,5,0,,187413,0,,50.86194700000000,100060359587,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25042100000000,PO15 5RN,2013-06-19,fhrs_5_en-GB,5,,FHRS,5
-230335,Titchfield Mill,Mill Lane,Titchfield,Fareham,Titchfield Mill,Other catering premises,7841,0,,38831,0,,50.85217400000000,100062643762,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23144200000000,PO15 5RF,2013-07-01,fhrs_5_en-GB,5,,FHRS,0
-230336,Titchfield County Primary School,Southampton Road,Titchfield,Fareham,Titchfield Primary School,School/college/university,7845,0,,82121,5,,50.85208700000000,200001852928,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23591800000000,PO14 4AU,2013-11-07,fhrs_5_en-GB,5,,FHRS,5
-230337,63 High Street,Fareham,,,Trafalgar Guest House,Hotel/bed & breakfast/guest house,7842,5,,37904,0,,50.85415200000000,100062408300,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17341800000000,PO16 7BG,2013-06-17,fhrs_5_en-GB,5,,FHRS,0
-230338,22 The Avenue,Fareham,,,Travel Rest Solent Gateway,Hotel/bed & breakfast/guest house,7842,5,,37727,0,,50.85275400000000,100062406216,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19603100000000,PO14 1NS,2013-01-11,fhrs_5_en-GB,5,,FHRS,0
-230339,56 Hill Head Road,Fareham,,,Trevarner Guest House,Hotel/bed & breakfast/guest house,7842,0,,37356,0,,50.81663900000000,100060344444,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23192600000000,PO14 3JL,2013-05-07,fhrs_5_en-GB,5,,FHRS,0
-230340,,,,,Trudie'S Cakes,Retailers - other,4613,0,,37796,0,,,100062407059,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2012-01-06,fhrs_5_en-GB,5,,FHRS,0
-230341,8a High Street,Fareham,,,Truffles,Other catering premises,7841,10,,37351,10,,50.85296400000000,100060343961,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17456200000000,PO16 7AN,2014-11-05,fhrs_3_en-GB,3,,FHRS,10
-230342,44a Edward Grove,Fareham,,,Truly Scrumptious,Retailers - other,4613,10,,37335,0,,50.85305100000000,100060339706,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.11756500000000,PO16 8JA,2011-05-11,fhrs_4_en-GB,4,,FHRS,0
-230343,229 Newgate Lane,Fareham,,,Tudor Lodge Nursing Home,Hospitals/Childcare/Caring Premises,5,5,,37735,5,,50.82979500000000,100062406535,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19066000000000,PO14 1AU,2014-10-07,fhrs_5_en-GB,5,,FHRS,5
-230344,Uplands,61 Park Lane,Fareham,,Uplands,Hospitals/Childcare/Caring Premises,5,0,,37380,5,,50.86193900000000,100060351982,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18612600000000,PO16 7HH,2014-02-17,fhrs_5_en-GB,5,,FHRS,5
-230345,Uplands Primary School,Morshead Crescent,Fareham,,Uplands County Primary School,School/college/university,7845,0,,37891,0,,50.86119300000000,100062408098,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19131100000000,PO16 7QP,2014-04-23,fhrs_5_en-GB,5,,FHRS,5
-230346,Unit D-E Building 9,Swanwick Shore,Bridge Road,Swanwick,Vanilla Gourmet Catering Ltd,Other catering premises,7841,0,,39683,0,,50.88286300000000,10012136172,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29958300000000,SO31 1ZL,2014-11-20,fhrs_5_en-GB,5,,FHRS,0
-230347,,,,,Veg Patch Chutney,Retailers - other,4613,10,,716986,10,,,100060349754,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-09-19,fhrs_3_en-GB,3,,FHRS,5
-230348,Victory Hall,27 Warsash Road,Warsash,Southampton,Victory Hall,Other catering premises,7841,,,38768,,,50.85352100000000,100062525604,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29678300000000,SO31 9HW,2014-10-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-230349,The Old Coach House,High Street,Fareham,,Villa Romana,Restaurant/Cafe/Canteen,1,10,,37899,5,,50.85335200000000,100062408267,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17350400000000,PO16 7BB,2014-10-01,fhrs_4_en-GB,4,,FHRS,5
-230350,31a The Square,Titchfield,Fareham,,Village Greengrocer,Retailers - other,4613,0,,644327,0,,50.84941700000000,10012130317,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23475500000000,PO14 4RT,2014-03-26,fhrs_5_en-GB,5,,FHRS,0
-230351,3 - 4 Stubbington Green,Fareham,,,Village Pharmacy,Retailers - other,4613,,,499570,,,50.82535500000000,10012138311,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21470300000000,PO14 2JQ,2013-01-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-230352,168 West Street,Fareham,,,Vintage Tea Room,Other catering premises,7841,10,,595405,5,,50.85238500000000,100062407909,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18436000000000,PO16 0EH,2013-09-02,fhrs_4_en-GB,4,,FHRS,5
-230353,Petrol Station,2 Bridge Road,Park Gate,Southampton,Vnka Services,Retailers - other,4613,0,,38753,0,,50.87173900000000,100062525251,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.26738900000000,SO31 7GE,2013-09-02,fhrs_5_en-GB,5,,FHRS,0
-230354,22 Kiln Road,Fareham,,,Voyage Care Home,Hospitals/Childcare/Caring Premises,5,0,,37365,0,,50.86379000000000,100060346294,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18585200000000,PO16 7UB,2014-09-23,fhrs_5_en-GB,5,,FHRS,0
-230355,4 Savoy Buildings,West Street,Fareham,,W H Smith,Retailers - other,4613,0,,37831,0,,50.85271100000000,100062407493,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17949600000000,PO16 0AD,2014-09-25,fhrs_5_en-GB,5,,FHRS,5
-230356,64 Hill Head Road,Fareham,,,Wah Ying Chinese Takeaway,Takeaway/sandwich shop,7844,5,,37357,5,,50.81663900000000,100060344453,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.23192600000000,PO14 3JL,2014-03-05,fhrs_5_en-GB,5,,FHRS,0
-230357,,,,,Waitrose Ltd,Retailers - other,4613,0,,38719,0,,,100062524652,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-04-08,fhrs_5_en-GB,5,,FHRS,0
-230358,Wallisdean County Infant School,Wallisdean Avenue,Fareham,,Wallisdean After School Club,School/college/university,7845,10,,730329,0,,50.84931300000000,100062406197A,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19913000000000,PO14 1HT,2015-01-06,fhrs_4_en-GB,4,,FHRS,0
-230359,Wallisdean County Infant School,Wallisdean Avenue,Fareham,,Wallisdean County Infant School,School/college/university,7845,0,,37723,0,,50.84931300000000,100062406197,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19913000000000,PO14 1HT,2013-11-04,fhrs_5_en-GB,5,,FHRS,0
-230360,Wallisdean County Junior School,Wallisdean Avenue,Fareham,,Wallisdean County Junior School,School/college/university,7845,0,,37724,5,,50.84861700000000,100062406198,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19857400000000,PO14 1HU,2013-11-04,fhrs_5_en-GB,5,,FHRS,5
-230361,Warsash Maritime Academy,Newtown Road,Warsash,Southampton,Warsash Maritime Centre,Other catering premises,7841,0,,38760,5,,50.84520300000000,100062525527,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30283100000000,SO31 9ZL,2013-10-18,fhrs_4_en-GB,4,,FHRS,10
-230362,Warsash Sailing Club,Shore Road,Warsash,Southampton,Warsash Sailing Club,Other catering premises,7841,,,38764,,,50.85300100000000,100062525557,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30155000000000,SO31 9FS,2013-02-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-230363,22 - 24 Thackeray Mall,Fareham,,,Waterstones,Retailers - other,4613,,,39628,,,50.85349900000000,10012133549,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17779100000000,PO16 0PQ,2013-02-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-230364,1 Upper Old Street,Fareham,,,Welcome Store,Retailers - other,4613,0,,37769,5,,50.82908500000000,100062406767,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22115800000000,PO14 3LJ,2013-02-18,fhrs_5_en-GB,5,,FHRS,5
-230365,West Hill Park School,St Margarets Lane,Fareham,,West Hill Park School,School/college/university,7845,5,,37703,5,,50.84931700000000,100061989425,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.24552400000000,PO14 4BS,2014-04-30,fhrs_5_en-GB,5,,FHRS,5
-230366,Westbury Manor Museum,84 West Street,Fareham,,Westbury Manor,Restaurant/Cafe/Canteen,1,0,,37845,0,,50.85234700000000,100062407721,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18021200000000,PO16 0JJ,2014-10-02,fhrs_5_en-GB,5,,FHRS,0
-230367,141a West Street,Fareham,,,Whistlers,Other catering premises,7841,10,,37855,10,,50.85276100000000,100062407802,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18145500000000,PO16 0DU,2014-11-07,fhrs_0_en-GB,0,,FHRS,25
-230368,56 White Hart Lane,Fareham,,,White Hart Takeaway,Takeaway/sandwich shop,7844,10,,37943,10,,50.84138200000000,100062408739,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.12640600000000,PO16 9BQ,2014-03-11,fhrs_3_en-GB,3,,FHRS,10
-230369,Whiteley Community Centre,Gull Coppice,Whiteley,Fareham,Whiteley Community Centre,Other catering premises,7841,0,,39607,0,,50.88080800000000,10012130899,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25807900000000,PO15 7LA,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-230370,Whiteley County Primary School,Gull Coppice,Whiteley,Fareham,Whiteley County Primary School,School/college/university,7845,0,,37825,0,,50.88080800000000,100062407375,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.25807900000000,PO15 7LA,2013-10-16,fhrs_5_en-GB,5,,FHRS,5
-230371,Wicor Primary School,Hatherley Crescent,Fareham,,Wicor Primary School,School/college/university,7845,0,,39585,5,,50.84648400000000,10012130285,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.14133900000000,PO16 9DL,2014-07-01,fhrs_5_en-GB,5,,FHRS,0
-230372,74 West Street,Fareham,,,Wilkinson Hardware Stores Ltd,Retailers - other,4613,0,,39606,0,,50.85200500000000,10012130881,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17751900000000,PO16 0JN,2012-05-10,fhrs_5_en-GB,5,,FHRS,0
-230373,33 Crofton Lane,Fareham,,,Willow Cottage B & B,Hotel/bed & breakfast/guest house,7842,0,,37328,0,,50.81686000000000,100060338001,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.22591800000000,PO14 3LP,2011-12-05,fhrs_5_en-GB,5,,FHRS,0
-230374,74 Kiln Road,Fareham,,,Willow Tree,Hospitals/Childcare/Caring Premises,5,0,,365252,0,,50.86546900000000,100060346346,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.19457600000000,PO16 7UJ,2014-10-03,fhrs_5_en-GB,5,,FHRS,0
-230375,94 Swanwick Lane,Swanwick,Southampton,,Willow Tree Bakery,Retailers - other,4613,5,,37439,5,,50.88357500000000,100060370667,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28353700000000,SO31 7HA,2011-06-23,fhrs_5_en-GB,5,,FHRS,0
-230376,14 Mays Lane,Fareham,,,Wisteria House Bed & Breakfast,Retailers - other,4613,0,,37372,0,,50.82851800000000,100060348787,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.21300300000000,PO14 2EP,2012-05-28,fhrs_5_en-GB,5,,FHRS,0
-230377,62 Barnes Lane,Sarisbury Green,Southampton,,Wok This Way,Takeaway/sandwich shop,7844,5,,38744,10,,50.86391200000000,100062525176,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.29151200000000,SO31 7BZ,2013-11-26,fhrs_3_en-GB,3,,FHRS,10
-230378,Woodentots Nursery & Preschool,Hms Collingwood,Newgate Lane,Fareham,Woodentots Nursery & Preschool,Hospitals/Childcare/Caring Premises,5,0,,105998,0,,50.83431100000000,3665930000000,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.18836700000000,PO14 1AS,2013-10-23,fhrs_5_en-GB,5,,FHRS,0
-230379,Woodland Court Residential Home,134 Portchester Road,Fareham,,Woodland Court,Hospitals/Childcare/Caring Premises,5,0,,37387,0,,50.84888300000000,100060352843,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.14109600000000,PO16 8QP,2014-08-04,fhrs_5_en-GB,5,,FHRS,5
-230380,Woodlands,108 Barnes Lane,Sarisbury Green,Southampton,Woodlands Early Learning Ltd,Other catering premises,7841,0,,37419,0,,50.86786700000000,100060363309,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.28821200000000,SO31 7BJ,2013-11-27,fhrs_5_en-GB,5,,FHRS,5
-230381,Wykeham House School,17 - 19 East Street,Fareham,,Wykeham House School,School/college/university,7845,0,,37877,0,,50.85233400000000,100062407948,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.17328000000000,PO16 0BW,2013-09-09,fhrs_5_en-GB,5,,FHRS,0
-230382,,,,,Yankee Dog,Retailers - other,4613,10,,693741,5,,,100060356769,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,,,2014-07-09,fhrs_4_en-GB,4,,FHRS,0
-230383,River Glimpse,9 Hamble Close,Warsash,Southampton,Yarty,Manufacturers/packers,7839,0,,433210,0,,50.85393600000000,100060366461,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.30299900000000,SO31 9GT,2012-08-02,fhrs_4_en-GB,4,,FHRS,10
-230384,Fitness First,Down End Road,Fareham,,Zin At 24/7 Fitness,Other catering premises,7841,0,,37905,0,,50.85546200000000,100062408309,134,regulatory@fareham.gov.uk,Fareham,http://www.fareham.gov.uk,-1.14921500000000,PO16 8TS,2013-05-09,fhrs_5_en-GB,5,,FHRS,0
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+229778,1st Stubbington Scout Group,Exempt,nan,nan,nan,2011-11-29,50.822357,-1.215591
+229779,4u2brew Ltd,5,5,5,5,2012-08-14,50.852373,-1.185198
+229780,99p Store,3,10,5,10,2014-11-25,50.852823,-1.178798
+229781,A & T Cooper,5,5,0,0,2012-04-02,50.871942,-1.269504
+229782,A And M Catering,5,0,5,0,2013-09-24,,
+229783,Abbey Garden Centre,4,10,5,0,2014-11-04,50.855833,-1.231268
+229784,Abbey House Bed And Breakfast,5,5,0,0,2013-09-18,50.855833,-1.231268
+229785,Abbeyfield Court,5,5,5,0,2013-04-17,50.858733,-1.27123
+229786,Abbeyfield Society,5,0,0,0,2014-08-12,,
+229787,Abbeyfield Society,5,0,5,0,2014-08-12,,
+229788,Abshot Community Centre,Exempt,nan,nan,nan,2012-04-03,50.854903,-1.265607
+229789,Abshot Country Club,5,0,5,0,2014-04-08,50.848239,-1.268311
+229790,Acorn Pre-School,5,0,0,0,2015-01-12,50.823787,-1.211592
+229791,Admiral House,5,0,0,0,2012-05-03,50.870284,-1.279207
+229792,Afc Portchester,5,5,0,5,2014-04-29,50.844348,-1.14299
+229793,Aldi Stores Ltd,5,0,0,0,2013-07-10,50.852435,-1.187541
+229794,Alexander Hadleigh Wine Merch.,Exempt,nan,nan,nan,2014-04-25,50.863786,-1.275471
+229795,Ali'S Grill,4,5,5,10,2013-10-28,50.859918,-1.207402
+229796,All Is Well Mini Mart,1,5,0,20,2013-11-22,50.861016,-1.194383
+229797,Al'S Bar,4,0,5,10,2011-06-09,50.846033,-1.126688
+229798,Andark Promotions Ltd,4,0,5,10,2014-06-11,50.880849,-1.295079
+229799,Antonio'S Restaurant,3,10,10,5,2014-12-01,50.852125,-1.1755
+229800,Argos Distributors Ltd,Exempt,nan,nan,nan,2012-11-08,50.852841,-1.180104
+229801,Argos Ltd,Exempt,nan,nan,nan,2013-01-25,50.86133,-1.253827
+229802,Asda Cafe,5,0,0,5,2013-04-19,50.833615,-1.183977
+229803,Asda Stores Ltd,5,5,5,0,2013-11-27,50.833615,-1.183977
+229804,Ashcroft Arts Centre,5,0,0,5,2011-06-23,50.855911,-1.175405
+229805,Ask Restaurant,5,5,0,0,2013-01-14,50.852174,-1.174746
+229806,Asquith Court Schools,5,5,0,0,2014-10-14,50.847713,-1.292424
+229807,August Moon Chinese Takeaway,4,10,10,0,2014-08-13,50.8599,-1.208752
+229808,Auntie Cara'S Cakes,5,0,0,0,2014-02-12,,
+229809,Avenue 141,5,0,0,5,2014-03-24,50.851094,-1.199227
+229810,Avon Park Rest Home,5,0,0,0,2014-07-22,50.868431,-1.258957
+229811,B C Sheppard Butcher & Son,5,0,0,0,2014-10-22,50.825355,-1.214703
+229812,B&M Stores Ltd,5,0,0,0,2012-08-22,50.833807,-1.185763
+229813,Baburchi,1,10,15,20,2014-10-23,50.859918,-1.207402
+229814,Bahn Thai,3,10,10,10,2013-09-26,50.882921,-1.181311
+229815,Basmati Restaurant,3,5,10,10,2014-11-05,50.863786,-1.275471
+229816,Batleys Cash And Carry,5,5,0,0,2014-02-03,50.858649,-1.245203
+229817,Baycroft School,5,5,0,0,2013-11-12,50.821443,-1.204036
+229818,Bb'S Coffee & Muffins,4,10,0,0,2014-07-08,50.853499,-1.177791
+229819,Beech Cottage,5,0,0,5,2011-09-09,50.818924,-1.225273
+229820,Belash Balti House,1,15,10,20,2014-08-27,50.863912,-1.291512
+229821,Best-One Redland Store,5,5,0,5,2013-02-04,50.849589,-1.193443
+229822,Bistro 8,5,0,5,5,2014-08-04,50.874892,-1.301976
+229823,Blackbrook House Care Home,5,5,5,0,2013-11-04,50.839577,-1.225051
+229824,Bliss Residential Care Home,5,0,0,0,2013-05-01,50.847736,-1.181813
+229825,Boat House Cafe,4,10,0,10,2014-04-28,50.883734,-1.299442
+229826,Bodrum Grill House,3,10,10,10,2014-02-26,50.852429,-1.182853
+229827,Boots,5,0,0,0,2012-07-12,50.852782,-1.178102
+229828,Boundary Oak School Trust Ltd,5,0,0,5,2013-06-20,50.871121,-1.177183
+229829,Brain'S Mobile Shop,5,0,0,0,2012-05-31,50.832168,-1.211507
+229830,Breezes Bar,5,5,5,5,2014-03-13,50.839047,-1.276848
+229831,Breezes Cafe,5,5,5,0,2014-02-24,50.816813,-1.233811
+229832,Brook Lane Rest Home,5,0,0,5,2014-11-27,50.869198,-1.273767
+229833,Brookfield School,5,5,0,0,2013-05-15,50.864662,-1.284779
+229834,Browns Coffee,5,5,0,5,2014-11-11,50.852396,-1.185823
+229835,Burger King,5,5,0,0,2014-10-28,50.852782,-1.178102
+229836,Burridge Village Hall,Exempt,nan,nan,nan,2013-02-01,50.892043,-1.264241
+229837,Bursledon Brickworks,5,0,0,0,2013-02-28,50.886589,-1.291196
+229838,Bus Station,5,0,5,0,2014-02-10,50.8527297974,-1.17410004139
+229839,Cackleberrys,5,5,5,5,2014-11-25,50.852174,-1.174746
+229840,Cafe Arena,4,10,10,0,2014-10-21,50.865725,-1.245103
+229841,Cafe Arena,3,10,5,10,2014-03-06,50.868963,-1.250664
+229842,Cafe Cuisine,5,0,0,5,2014-01-22,50.84814,-1.1453
+229843,Cafe Ethos,5,5,5,5,2014-11-11,50.852776,-1.1862
+229844,Cafe Express,5,5,0,0,2014-12-03,50.853478,-1.19143
+229845,Cafe Giardino,4,10,5,0,2014-05-21,50.853377,-1.177012
+229846,Cafe Nero,4,10,5,0,2013-07-31,50.852005,-1.177519
+229847,Cafe Tusk,3,10,10,10,2013-08-14,50.852065,-1.175828
+229848,Cake Baker,5,5,0,5,2014-01-17,,
+229849,Cakes By Sally Webb,5,0,0,5,2013-10-18,,
+229850,Cams Hall Golf Club,5,5,5,5,2013-11-22,50.851962,-1.165118
+229851,Cams Hill School,5,0,0,5,2014-12-02,50.85046,-1.158909
+229852,Cams Mill Restaurant,5,5,5,0,2013-12-12,50.847253,-1.166822
+229853,Cams Ridge Nursing Home,5,0,0,0,2013-07-08,50.853314,-1.165577
+229854,Canton Express,1,0,15,20,2013-06-30,50.852385,-1.18436
+229855,Carisbrooke Pre-School,5,0,0,5,2012-04-20,50.817838,-1.228315
+229856,Carleen Nursing Home,5,5,0,0,2014-11-24,50.850417,-1.150443
+229857,Castle Cafe,1,5,10,20,2014-03-08,,
+229858,Castle County Day Centre,5,0,0,5,2011-06-16,50.846191,-1.122623
+229859,Castle In The Air,5,5,5,0,2014-03-17,50.848307,-1.179829
+229860,Castle Primary School,5,0,0,0,2013-09-13,50.842385,-1.121075
+229861,Castle Takeaway,5,0,0,0,2014-05-21,50.842172,-1.131092
+229862,Castle View Foods,5,0,0,0,2012-05-23,,
+229863,Catisfield Cottage Guest House,3,10,5,10,2013-10-16,50.853204,-1.222646
+229864,Caymanas Rum Cakes Ltd,5,0,0,0,2013-09-03,,
+229865,Cc Marine & Ind Supply Ltd,Exempt,nan,nan,nan,2013-04-08,50.874892,-1.301976
+229866,Cemast College,5,0,0,0,2014-08-07,,
+229867,Childminder,5,0,5,0,2014-04-07,,
+229868,Chives Sandwich Bar,5,5,5,5,2013-07-24,50.874923,-1.278965
+229869,Chon Chola,5,5,5,5,2013-05-08,50.853001,-1.30155
+229870,Chows Dynasty,2,10,15,10,2014-10-30,50.864326,-1.290099
+229871,Claire Cooks Cake,5,0,0,0,2014-11-18,,
+229872,Coffee Cup Portsmouth Ltd,5,5,0,5,2014-09-25,50.846613,-1.124817
+229873,Community Centre,4,10,5,0,2013-09-17,50.851057,-1.232412
+229874,Community Integrated Care,5,0,5,0,2014-09-19,50.86293,-1.243926
+229875,Community Integrated Care,5,0,0,0,2014-10-27,50.854742,-1.262868
+229876,Community Integrated Care,5,0,0,0,2013-01-11,50.821523,-1.190817
+229877,Community Room/ Koolkidz,5,0,0,0,2013-09-19,50.850388,-1.134221
+229878,Co-Op,4,10,0,5,2014-07-03,50.846276,-1.124354
+229879,Co-Op,5,5,5,0,2013-10-14,50.85943,-1.209684
+229880,Co-Op,5,5,5,0,2012-11-15,50.843868,-1.195814
+229881,Co-Op,4,5,10,0,2014-05-01,50.850842,-1.132394
+229882,Co-Op,5,5,0,0,2013-02-12,50.842385,-1.121075
+229883,Co-Op Stores,5,5,0,0,2013-12-09,50.843754,-1.138193
+229884,Co-Operative Gp Ltd,4,10,0,0,2013-01-22,50.853521,-1.296783
+229885,Coopers Store Ltd,Exempt,nan,nan,nan,2014-09-25,50.846089,-1.125693
+229886,Cork And Cheese,5,0,5,5,2013-06-25,50.872293,-1.269669
+229887,Costa,4,10,5,5,2014-04-09,50.853499,-1.177791
+229888,Costa Coffee,5,0,0,0,2012-02-14,50.85214,-1.178866
+229889,Costa Coffee,4,10,0,0,2014-07-17,50.825778,-1.213489
+229890,Costa Coffee,5,0,0,0,2012-02-14,50.851678,-1.175891
+229891,Country Stores,4,10,5,5,2014-11-06,50.865733,-1.250545
+229892,Croft House,5,5,0,5,2013-07-23,50.851418,-1.193951
+229893,Croft Manor Rest Home,5,5,5,0,2014-12-01,50.855326,-1.177901
+229894,Crofton Anne Dale Infants School,5,0,0,0,2014-06-25,50.823816,-1.219882
+229895,Crofton Anne Dale Junior School,5,0,0,0,2013-06-23,50.823816,-1.219882
+229896,Crofton Bowling Club,5,0,5,0,2013-02-21,50.823193,-1.214157
+229897,Crofton Community Centre,Exempt,nan,nan,nan,2012-05-10,50.823193,-1.214157
+229898,Crofton Livery Yard & Events,5,5,5,5,2015-01-15,50.836816,-1.223429
+229899,Crofton News And Booze Ltd,5,0,5,5,2013-07-05,50.821287,-1.20763
+229900,Dairy Free Cakes At Home,5,5,5,5,2013-03-12,,
+229901,Darcys,5,0,0,0,2013-04-22,50.846033,-1.126688
+229902,Daves Family Butchers,5,0,5,5,2014-11-18,50.8599,-1.208752
+229903,Delme Arms,0,20,15,20,2014-10-20,50.852727,-1.165218
+229904,Dj Catering Ltd,5,0,0,5,2014-05-19,50.84254,-1.185824
+229905,Dolly Cake Dream,5,0,0,0,2012-07-03,,
+229906,Domino Pizza,5,5,0,0,2013-09-20,50.825355,-1.214703
+229907,Domino'S Pizza,5,5,0,0,2013-01-14,50.852815,-1.184026
+229908,Donny'S Tea Rooms,5,0,0,5,2015-01-12,50.826258,-1.213893
+229909,Dovecote Eatery,4,10,10,0,2014-03-05,50.848712,-1.165872
+229910,Dragon Chinese Restaurant,5,0,5,5,2013-03-05,50.854378,-1.183885
+229911,Ducklings Pre School Ltd,4,10,0,0,2012-04-16,50.864662,-1.284779
+229912,Duke Of Connaughts Own Club Fareham Ltd,3,10,10,10,2014-11-07,50.851339,-1.181267
+229913,Duncan Road Church,5,5,5,0,2014-11-04,50.873582,-1.265882
+229914,Dunelm Mill,5,0,5,0,2013-04-02,50.86133,-1.253827
+229915,Earl Of Southampton Trust,3,5,10,10,2013-05-29,50.849638,-1.234183
+229916,Eaton Aerospace Limited,5,5,5,0,2013-12-17,50.868293,-1.256137
+229917,Ellerslie House,4,0,0,10,2011-05-12,50.855462,-1.149215
+229918,Energie For Women,Exempt,nan,nan,nan,2013-02-18,50.852778,-1.17492
+229919,Enhanced Cakes,5,0,0,0,2014-11-07,,
+229920,Esso Service Station,5,0,0,0,2013-04-16,50.844777,-1.182973
+229921,Everett Pharmacy Ltd,Exempt,nan,nan,nan,2012-06-11,50.872293,-1.269669
+229922,Fairways Care Ltd,Exempt,nan,nan,nan,2012-06-19,50.848834,-1.145458
+229923,Fairways School,5,5,0,0,2014-12-05,50.885233,-1.278309
+229924,Fairy Fudge,5,0,0,5,2014-09-26,,
+229925,Fareham Academy,5,0,0,0,2014-11-03,50.846003,-1.196332
+229926,Fareham And Crofton Cricket Club,5,5,0,0,2014-04-22,50.850813,-1.170565
+229927,Fareham Baptist Church,5,0,0,0,2014-12-03,50.844777,-1.182973
+229928,Fareham Borough Council,Exempt,nan,nan,nan,2012-09-24,50.854459,-1.26077
+229929,Fareham Borough Council,5,0,0,0,2011-12-13,50.854537,-1.176963
+229930,Fareham College,5,0,0,0,2014-03-24,50.851094,-1.199227
+229931,Fareham Community Church,5,0,0,0,2014-06-17,50.852815,-1.184026
+229932,Fareham Hockey Club,4,0,5,10,2014-06-18,50.861442,-1.220107
+229933,Fareham Leisure Centre,5,5,0,5,2013-05-09,50.858694,-1.185031
+229934,Fareham Market,Exempt,nan,nan,nan,2014-09-22,50.85256,-1.181426
+229935,Fareham Masonic Club,5,0,0,5,2014-10-02,50.851442,-1.180626
+229936,Fareham Opportunity Group Pre-School,5,0,0,0,2015-01-06,50.849313,-1.19913
+229937,Fareham Pharmacy,Exempt,nan,nan,nan,2013-02-20,50.8599,-1.208752
+229938,Fareham Sailing And Motor Boat Club,5,0,5,5,2013-06-22,50.847384,-1.178964
+229939,Fareham Snooker Club,4,0,10,0,2014-02-17,50.859197,-1.172235
+229940,Fareham Town Football Club,3,10,5,10,2014-01-18,50.845093,-1.190978
+229941,Fareham Working Mens Club,3,10,10,10,2014-09-29,50.847249,-1.184151
+229942,Farehaven Lodge Rest Home,5,5,5,0,2014-04-16,50.86022,-1.210765
+229943,Farmers Choice,5,0,0,0,2012-10-26,50.870577,-1.258426
+229944,Fiesta Fare,5,0,0,0,2013-01-29,50.852671,-1.207553
+229945,Fish And Chips @27,5,0,0,0,2014-11-10,50.873307,-1.269269
+229946,Five Oaks,5,0,0,0,2012-04-17,50.873984,-1.299048
+229947,Fodder Mongers,4,10,5,0,2014-07-21,50.870058,-1.257524
+229948,Food Glorious Food,4,10,5,0,2013-02-11,50.862367,-1.254336
+229949,Force 4 Chandlery,Exempt,nan,nan,nan,2013-08-29,50.883675,-1.300054
+229950,Forget Me Not,5,0,0,0,2013-09-09,,
+229951,Four Winds Guest House,5,5,0,0,2011-06-01,50.873307,-1.269269
+229952,Franco & Paolo,5,5,5,0,2013-05-29,50.863786,-1.275471
+229953,Free From Temptation Ltd,5,5,0,0,2013-01-08,,
+229954,From The Heart,Exempt,nan,nan,nan,2012-04-11,50.863786,-1.275471
+229955,Fruit And Flower Basket,5,0,0,0,2014-09-17,50.860793,-1.25986
+229956,Fruits & Roots,Exempt,nan,nan,nan,2013-02-27,50.847006,-1.238672
+229957,Fun Cakes,4,0,0,10,2012-04-23,50.859523,-1.269499
+229958,Funkidories,5,0,0,0,2014-10-06,50.839288,-1.185128
+229959,Funtley Social Club,4,10,0,0,2012-03-21,50.870731,-1.200085
+229960,Future Home Care,4,10,0,0,2013-02-28,,
+229961,Futurepath Childcare Ltd,5,0,0,0,2013-08-08,50.874898,-1.272016
+229962,Gandhi Indian Takeaway,4,10,5,5,2013-08-06,50.855372,-1.208048
+229963,Gateway Nursery,4,10,0,0,2014-07-22,50.864689,-1.247563
+229964,Gateway Seafield Portchester,4,10,0,10,2012-09-21,50.845352,-1.1343
+229965,Glenrose Residential Home,5,0,5,0,2014-10-21,50.850805,-1.225697
+229966,Gnc,5,0,0,0,2012-09-21,50.852749,-1.175986
+229967,Go Bowling Ltd,4,10,0,0,2014-07-02,50.836996,-1.185182
+229968,Godly'S Fish N Chips,5,0,0,0,2014-10-06,50.845919,-1.201177
+229969,Golden Boat,0,15,20,20,2014-03-05,50.846256,-1.125207
+229970,Golden Valley,2,15,15,10,2014-07-30,50.872364,-1.267991
+229971,Good Intent,4,10,0,10,2014-01-09,50.853226,-1.183663
+229972,Good Manors Day Nursery,5,5,0,0,2014-11-18,50.861016,-1.194383
+229973,Good Manors Day Nursery,5,0,5,5,2014-09-12,50.854725,-1.175568
+229974,Grande Wines,5,0,0,0,2014-09-23,50.825778,-1.213489
+229975,Granny Jan'S Cupcakes,5,0,0,5,2013-10-04,,
+229976,Greggs,5,5,0,0,2014-02-19,50.852711,-1.179496
+229977,H J Everett,Exempt,nan,nan,nan,2012-06-21,50.882711,-1.266052
+229978,H J Everett (Chemist) Ltd,Exempt,nan,nan,nan,2014-09-23,50.849638,-1.234183
+229979,H J Everett (Chemists) Ltd,Exempt,nan,nan,nan,2012-05-22,50.853,-1.296876
+229980,H J Everett Chemist Ltd,Exempt,nan,nan,nan,2013-02-15,50.863786,-1.275471
+229981,Hadleys Homebakes,5,0,0,0,2012-06-13,,
+229982,Hadlow'S Titchfield Ltd,5,5,5,5,2014-11-12,50.848444,-1.234444
+229983,Hallmark Jewellers,5,5,0,0,2013-02-12,50.848239,-1.234774
+229984,Haly Catering,5,0,0,0,2013-01-29,50.842979,-1.125936
+229985,Hamble Heights,5,0,5,0,2014-09-29,,
+229986,Hamble Retreat,5,0,0,5,2013-09-17,50.847793,-1.301273
+229987,Hammond Infants School,5,0,0,0,2013-07-05,50.819403,-1.218877
+229988,Hampshire Cake Studio,5,5,0,0,2013-03-08,,
+229989,Hampshire County Council -Hc3s,5,0,0,0,2014-02-25,50.822769,-1.204766
+229990,Hampshire Partnership Nhs Trust,4,0,0,10,2012-02-02,50.862014,-1.262412
+229991,Hampshire Partnership Nhs Trust,Exempt,nan,nan,nan,2012-01-23,50.848751,-1.15509
+229992,Hampshire Partnership Trust,1,20,5,10,2013-07-01,50.855288,-1.184068
+229993,Hannah'S Creative Cakes,5,0,5,0,2014-05-28,,
+229994,Happy Garden,3,10,10,10,2014-08-19,50.855372,-1.208048
+229995,Harrison Primary School,5,5,5,5,2013-06-17,50.856633,-1.180919
+229996,Hawthorne Court Residential Care Home,5,0,0,0,2015-01-12,50.870284,-1.279207
+229997,Haywood'S Ice Cream,5,5,0,0,2013-08-08,,
+229998,Heathens Rugby Club,4,5,10,5,2014-11-18,50.846958,-1.154027
+229999,Heathfield School,5,0,0,0,2014-04-30,50.849187,-1.21365
+230000,Henry Cort Community College,5,5,0,0,2013-06-13,50.861442,-1.220107
+230001,Herbies Pizza,4,10,0,5,2014-05-12,50.84669,-1.18257
+230002,High Street Newsagents,3,10,5,10,2012-11-08,50.852442,-1.174514
+230003,High Street Sweets,5,0,0,0,2013-03-18,50.852609,-1.173943
+230004,Highland Fisheries,4,0,10,10,2013-04-29,50.861074,-1.2095
+230005,Highlands Road Fish And Chips,5,0,0,0,2013-04-29,50.859731,-1.208954
+230006,Highlands Tandoori,5,0,0,0,2014-08-13,50.8599,-1.208752
+230007,Hill Park Memorial Working Mens Club,5,5,0,5,2013-05-26,50.861332,-1.207748
+230008,Hillhead Sailing Club,5,0,5,0,2013-02-16,50.818708,-1.240395
+230009,Hollam Hill Farm,3,10,10,5,2014-06-11,50.843315,-1.228463
+230010,Holland And Barrett,2,15,0,0,2012-08-15,50.853173,-1.176163
+230011,Holly Hill Convenience Store,3,10,5,10,2013-04-17,50.865862,-1.289834
+230012,Holy Rood Church,5,0,0,0,2015-01-12,50.823787,-1.211592
+230013,Home Caterer,5,0,5,0,2012-07-03,,
+230014,Home Caterer,5,0,0,0,2013-04-15,,
+230015,Home Caterer,5,0,0,0,2014-07-28,,
+230016,Homebase Ltd,Exempt,nan,nan,nan,2013-01-16,50.836996,-1.185182
+230017,Hook With Warsash Academy,5,5,0,0,2014-04-24,50.847713,-1.292424
+230018,Hopscotch Day Nursery,5,0,5,0,2014-11-24,50.848239,-1.268311
+230019,Host Catering At Estee Lauder,5,5,5,5,2014-11-07,50.856739,-1.247393
+230020,Hot Dog Man,5,0,0,0,2013-06-24,50.859191,-1.233259
+230021,Hungry Monsters,5,5,0,5,2014-08-12,50.870058,-1.257524
+230022,Hunters Lodge Care Home,5,0,0,5,2014-02-10,50.864124,-1.190052
+230023,Iceland Foods Limited,5,5,5,5,2014-04-30,50.852005,-1.177519
+230024,Iceland Frozen Foods Ltd,5,0,0,0,2013-02-25,50.863786,-1.275471
+230025,Iceland Frozen Foods Ltd,5,0,5,0,2013-08-28,50.846276,-1.124354
+230026,Iceland Frozen Foods Plc,5,5,0,0,2014-10-08,50.82583,-1.214539
+230027,Incredible Creations,4,10,5,5,2014-10-29,,
+230028,Indian Summer,4,10,0,0,2014-08-20,50.872364,-1.267991
+230029,Jack'S Fish & Chips,3,10,10,5,2013-11-04,50.852437,-1.186533
+230030,Jade Palace,2,10,15,0,2014-10-28,50.850135,-1.234501
+230031,Jalaram Convenience Store,3,10,10,10,2013-03-27,50.846033,-1.126688
+230032,Jasmine House Rest Home,4,10,0,5,2013-06-26,50.873307,-1.269269
+230033,Jd News,5,0,0,5,2012-05-16,50.8599,-1.208752
+230034,Jig Buffets,5,0,0,0,2014-03-27,50.860588,-1.280266
+230035,Jolly Miller,4,10,0,0,2013-08-14,50.861016,-1.194383
+230036,K T Catering,5,0,0,0,2015-01-06,,
+230037,Kams Palace,3,10,10,10,2014-02-19,50.871016,-1.266818
+230038,Karims,3,10,10,5,2014-08-20,50.84669,-1.18257
+230039,Kates Cupcakery,5,5,0,0,2014-10-08,,
+230040,Kestrels Cakery,5,5,5,5,2014-08-01,,
+230041,Kevin And Sheila'S Catering Services,5,0,5,0,2013-05-09,,
+230042,Kiddicaru,5,5,0,0,2014-08-05,50.880808,-1.258079
+230043,Kids Centre,5,5,0,0,2014-02-13,50.842092,-1.179611
+230044,Kidz Inc Limited,5,0,5,5,2013-10-18,50.851094,-1.199227
+230045,Kiln Lodge Rest Home,5,5,0,0,2014-08-04,50.86433,-1.188613
+230046,Knightsbridge House,5,0,5,5,2013-07-29,50.854192,-1.189329
+230047,Krazie Cakes,5,0,0,0,2013-02-15,,
+230048,Kree-Ate-A-Cake,5,5,0,0,2014-12-09,50.852396,-1.185823
+230049,Kupcake Kitchen,4,10,0,10,2012-05-09,,
+230050,L A Fitness,5,0,0,0,2011-05-13,50.852012,-1.177263
+230051,L Rowland & Co (Retail)Ltd,Exempt,nan,nan,nan,2012-02-24,50.846089,-1.125693
+230052,La Boulangerie,5,0,0,0,2014-06-17,50.846613,-1.124817
+230053,La Galerie,5,0,0,0,2014-04-30,50.852658,-1.177011
+230054,La Orient,2,10,15,10,2013-07-18,50.852429,-1.182853
+230055,Lauro'S Brasserie,5,0,5,0,2014-02-05,50.852964,-1.174562
+230056,Lidl Uk,5,0,0,0,2012-04-03,50.834652,-1.186941
+230057,Liqorice With A Twist,Exempt,nan,nan,nan,2012-05-22,50.859617,-1.258756
+230058,Little Brook House Ltd,5,0,0,0,2014-07-09,50.859906,-1.295295
+230059,Little Munchkins,4,10,0,0,2014-10-22,50.851077,-1.208461
+230060,Lj Chinese Cuisine,4,10,5,0,2013-05-20,50.852815,-1.184026
+230061,Lloyds Pharmacy,Exempt,nan,nan,nan,2013-02-18,50.8599,-1.208752
+230062,Lloyds Tsb,4,5,10,5,2013-07-17,50.865725,-1.245103
+230063,Locks Heath Butchers,3,5,10,10,2013-07-31,50.863786,-1.275471
+230064,Locks Heath Community Centre,Exempt,nan,nan,nan,2013-02-25,50.858827,-1.261866
+230065,Locks Heath Day Care Centre,5,0,0,0,2014-10-13,50.850422,-1.258092
+230066,Locks Heath Free Church,4,5,5,10,2014-05-08,50.857271,-1.257557
+230067,Locks Heath Fruiterers,4,10,0,0,2012-11-20,50.863786,-1.275471
+230068,Locks Heath Infant School,5,0,0,0,2013-10-15,50.854858,-1.274132
+230069,Locks Heath Junior School,5,5,0,0,2014-11-19,50.854858,-1.274132
+230070,Locks Heath Sports/Social Club,4,10,0,5,2011-12-05,50.850422,-1.258092
+230071,Locks Heath Working Mens Club,4,10,0,0,2013-02-25,50.873582,-1.265882
+230072,Locksheath Service Station,5,0,0,0,2013-09-17,50.872068,-1.270994
+230073,Lockswood Community Centre,4,10,0,10,2013-01-24,50.863786,-1.275471
+230074,Lockswood Day Care Centre,5,0,0,0,2013-05-21,50.863786,-1.275471
+230075,Lord Wilson School,5,0,0,0,2014-04-24,50.869352,-1.279606
+230076,Lucky Ash,5,0,0,0,2014-08-04,50.874892,-1.301976
+230077,Lysses House Hotel,5,5,0,0,2012-06-25,50.855368,-1.173653
+230078,Made By Us,5,0,0,5,2014-01-22,,
+230079,Makro Wholesalers Ltd,4,10,0,0,2013-07-29,50.872024,-1.256142
+230080,Manhattan Pizza,5,5,0,0,2013-01-14,50.852447,-1.189274
+230081,Market Tavern,5,5,0,0,2013-10-10,50.852185,-1.176351
+230082,Marks & Spencer,5,0,0,0,2013-07-04,50.853499,-1.177791
+230083,Marmaris,4,10,0,10,2014-01-28,50.846191,-1.122623
+230084,Martin Mccolls,5,5,0,0,2014-10-06,50.845919,-1.201177
+230085,Martins,4,10,0,0,2012-01-09,50.846613,-1.124817
+230086,Martins Newsagents,2,15,0,0,2013-02-14,50.863786,-1.275471
+230087,Martins The Newsagent,5,0,0,0,2012-05-17,50.852834,-1.180303
+230088,Mccolls,5,5,0,0,2011-05-09,50.865414,-1.198456
+230089,Mccoll'S,4,10,5,0,2014-01-28,50.860793,-1.25986
+230090,Mcdonalds Ltd,5,5,0,0,2014-01-22,50.852834,-1.180303
+230091,Mcdonalds Restaurants Ltd,5,0,0,0,2013-09-23,50.834652,-1.186941
+230092,Medicot Ltd,5,5,5,5,2012-11-26,50.853718,-1.182078
+230093,Meggitt Avionics,3,10,5,10,2014-06-03,50.865725,-1.245103
+230094,Meoncross School,5,0,0,0,2014-05-20,50.830871,-1.209981
+230095,Merry Hall Rest Home,5,0,0,0,2014-02-17,50.86379,-1.185852
+230096,Methodist Church,5,0,5,5,2014-09-05,50.852429,-1.182853
+230097,Millets,Exempt,nan,nan,nan,2012-11-08,50.852749,-1.175986
+230098,Minime Cupcakes,5,0,0,0,2012-04-20,,
+230099,Mitchells Munchies,2,15,5,5,2014-02-18,,
+230100,Moja,1,15,15,20,2014-08-06,50.864326,-1.290099
+230101,Mrs M Addis,5,5,0,0,2012-05-10,50.860843,-1.208523
+230102,Mulberry Bush Nursery,5,0,0,0,2013-08-13,50.857614,-1.272057
+230103,N And S Convenience Store,4,5,0,10,2013-02-25,50.852776,-1.1862
+230104,Nahid'Z Takeaway,2,10,15,10,2014-10-22,50.846256,-1.125207
+230105,Nandos Chickenland Ltd,5,0,0,0,2014-02-05,50.85214,-1.178866
+230106,Naz,4,5,5,10,2013-08-13,50.852382,-1.181362
+230107,Nelson House Hospital,5,0,0,5,2013-09-03,50.812604,-1.159333
+230108,New Lucky House Ltd,4,5,10,0,2013-11-18,50.853848,-1.300316
+230109,New Silver River Takeaway,5,0,0,0,2013-01-22,50.825778,-1.213489
+230110,Next,Exempt,nan,nan,nan,2012-11-08,50.853499,-1.177791
+230111,Northern Junior Community School,5,0,0,0,2014-02-10,50.851372,-1.129927
+230112,Nursery,Exempt,nan,nan,nan,2013-06-04,50.856606,-1.28199
+230113,Nursery,Exempt,nan,nan,nan,2013-06-03,50.885997,-1.255309
+230114,Nurture Childcare,Exempt,nan,nan,nan,2013-09-19,50.856204,-1.211415
+230115,Oak Meadow Child Care Centre,5,5,5,0,2013-07-19,50.862163,-1.213531
+230116,Oasis,1,15,10,20,2015-01-08,50.852385,-1.18436
+230117,Oast And Squire,5,5,5,0,2013-07-09,50.850998,-1.21146
+230118,Occasional Cakes,5,0,0,5,2013-02-18,50.864012,-1.217038
+230119,Occasions,5,0,0,0,2014-04-14,50.853138,-1.176278
+230120,Ocean Plaice,4,0,5,10,2014-06-16,50.843754,-1.138193
+230121,Office For National Statistics,5,5,5,0,2013-07-18,,
+230122,One Stop,5,5,5,0,2013-05-07,50.878546,-1.291958
+230123,One Stop,4,10,0,0,2014-10-14,50.849638,-1.234183
+230124,One Stop,4,5,10,0,2014-11-19,50.84785,-1.215448
+230125,One Stop,5,0,0,0,2012-01-16,50.841374,-1.124233
+230126,One Stop,5,5,5,5,2014-09-02,50.820718,-1.221978
+230127,One Stop,5,0,0,0,2013-05-23,50.851668,-1.117846
+230128,One Stop Community Store,4,10,0,0,2014-11-05,,
+230129,One Stop Community Stores Ltd,4,10,0,0,2014-04-01,50.853,-1.296876
+230130,Orchard Lea Junior School,5,0,0,0,2013-05-01,50.864106,-1.204333
+230131,Osborn Manor Rest Home,5,0,0,5,2013-10-24,50.855326,-1.177901
+230132,Oscas,4,0,0,10,2014-03-04,50.842617,-1.126809
+230133,Paninis Sandwich Bar,5,0,5,0,2014-11-26,50.872364,-1.267991
+230134,Papa Johns Pizza,5,0,0,0,2014-04-07,50.852382,-1.181362
+230135,Park Day Nursery & Preschool,5,0,0,0,2014-07-17,50.823193,-1.214157
+230136,Park Gate Primary School,5,0,5,0,2014-10-08,50.869389,-1.266829
+230137,Park Gate Tandoori,4,10,5,5,2013-09-11,50.873582,-1.265882
+230138,Parker Meadows Care Home,5,5,5,0,2014-05-07,,
+230139,Peckish Catering,5,0,5,0,2014-05-12,50.8599,-1.208752
+230140,Peel House Nursing Home,5,0,5,0,2013-10-30,50.823761,-1.189373
+230141,Penguins Under 5'S Pre-School,5,5,0,0,2013-03-05,50.848754,-1.212151
+230142,Pixies Day Nursery,4,10,5,0,2014-11-25,50.857614,-1.272057
+230143,Pizza Hut,5,5,0,5,2013-12-16,50.852775,-1.182137
+230144,Pizza Hut Delivery,5,5,0,0,2014-01-02,50.863786,-1.275471
+230145,Plaice On The Green,5,0,5,5,2014-02-18,50.876653,-1.288376
+230146,Portchester Community School,5,0,0,0,2013-05-01,50.842617,-1.126809
+230147,Portchester Market,Exempt,nan,nan,nan,2014-01-22,50.852418,-1.177889
+230148,Portchester Nursery,5,0,0,0,2014-07-01,50.842617,-1.126809
+230149,Portchester Parish Hall,Exempt,nan,nan,nan,2013-03-28,50.844817,-1.122805
+230150,Portchester Sailing Club,5,0,0,5,2014-08-19,50.838774,-1.113332
+230151,Portchester Social Club,5,0,5,5,2011-07-27,50.846191,-1.122623
+230152,Poundland,5,5,5,0,2012-02-09,50.85214,-1.178866
+230153,Poundstretcher,Exempt,nan,nan,nan,2014-02-19,50.837347,-1.185204
+230154,Premier Meals,5,0,0,0,2014-02-18,50.843781,-1.183331
+230155,Priory Park Community Assoc,4,0,0,10,2012-02-17,50.859149,-1.283187
+230156,Priory Park Community Centre,5,5,0,0,2012-02-22,50.859149,-1.283187
+230157,Pryers Afternoon Tea,5,0,0,5,2011-10-12,50.847481,-1.142471
+230158,Queen Of Hearts Cakes,5,5,5,5,2013-02-11,,
+230159,Queens Social Club,5,0,5,0,2012-02-10,50.795135,-1.13405
+230160,R Clarke Catering,4,0,5,10,2013-01-09,50.836021,-1.184673
+230161,Rachels Cupcakes,4,0,0,10,2014-04-14,,
+230162,Rancho Steak House,5,0,5,5,2014-03-10,,
+230163,Ranvilles Community Centre,Exempt,nan,nan,nan,2014-09-19,50.849187,-1.21365
+230164,Ranvilles Infant School,5,5,0,0,2013-11-18,50.849187,-1.21365
+230165,Ranvilles Junior School,5,0,0,0,2013-03-26,50.849187,-1.21365
+230166,Ranvilles Nursing Home,5,5,5,5,2014-11-10,50.849571,-1.225348
+230167,Rawsons The Florist,Exempt,nan,nan,nan,2011-08-22,50.852385,-1.18436
+230168,Rebecca Lilly Cupcakes,5,0,0,0,2013-11-08,,
+230169,Red Barn Community Pre-School,5,0,0,0,2011-11-16,50.850388,-1.134221
+230170,Red Barn County Primary School,5,0,0,0,2013-07-05,50.850388,-1.134221
+230171,Red Lion,5,5,0,0,2014-03-04,50.846613,-1.124817
+230172,Red Lion Hotel,4,5,10,0,2014-01-09,50.851963,-1.17421
+230173,Redlands Cafe,3,10,10,5,2014-11-26,50.849589,-1.193443
+230174,Redlands County Primary School,5,0,0,0,2014-05-07,50.845577,-1.185501
+230175,Reds Catering,5,0,5,0,2014-04-30,,
+230176,Reel Cinema,5,0,5,5,2014-12-09,50.85214,-1.178866
+230177,Regal Catering,5,5,0,0,2013-12-11,50.861016,-1.194383
+230178,Rg-Licious Catering,5,0,0,5,2014-10-03,,
+230179,Richards Newsagents,5,5,0,0,2012-01-31,50.855372,-1.208048
+230180,River Spice Indian Restaurant,4,0,5,10,2013-10-22,50.8464113244,-1.12563015009
+230181,Rose Villa Rest Home,4,5,5,10,2014-05-23,50.862618,-1.290181
+230182,Rota-Roast Spit Roast,5,0,5,5,2014-03-10,50.84891,-1.186381
+230183,Roundabout Hotel,4,10,5,0,2014-08-19,50.854063,-1.167198
+230184,Royal British Legion Club,4,10,0,5,2013-08-21,50.869198,-1.273767
+230185,Ruby Chinese Take Away,3,10,10,10,2014-08-13,50.846342,-1.130745
+230186,Rumours At Sea,4,10,0,0,2014-07-15,50.853001,-1.30155
+230187,S & J Catering,4,10,5,5,2013-09-11,50.864969,-1.256227
+230188,Sainsbury Supermarkets Ltd,5,0,0,0,2014-02-24,50.858279,-1.173303
+230189,Sainsburys Staff Restaurant,4,10,10,0,2014-02-24,50.858279,-1.173303
+230190,Salt,4,0,5,10,2013-12-19,50.841393,-1.146105
+230191,Salt And Vinegar,4,5,5,10,2014-05-01,50.881114,-1.258017
+230192,Salt Kitchen,5,0,0,0,2013-10-17,,
+230193,Salterns Working Mens Club,1,0,10,20,2014-02-26,50.851627,-1.300292
+230194,Samvardhana Motherson Reflectec (Smr),5,5,0,5,2012-06-19,50.846105,-1.119514
+230195,Sarisbury Athletic Cricket Club,3,10,5,10,2012-06-13,50.873987,-1.284174
+230196,Sarisbury C Of E Primary School,5,5,0,0,2013-04-22,50.874896,-1.283272
+230197,Sarisbury Green Community Centre,Exempt,nan,nan,nan,2015-01-05,50.8757591248,-1.29042243958
+230198,Sarisbury Green Social Club,4,5,10,0,2013-02-15,50.874923,-1.278965
+230199,Sarisbury Infant School,5,0,0,0,2013-11-25,50.867867,-1.288212
+230200,Savoury Express,5,5,0,0,2014-12-02,50.847835,-1.223956
+230201,Say It With Cake,5,0,0,0,2014-04-01,,
+230202,Sdm Coffee House,4,0,0,10,2012-11-19,,
+230203,Sdm Coffee House & Design Studio,4,5,5,10,2014-11-27,50.852776,-1.1862
+230204,Sea Of Spice,3,10,10,5,2013-08-06,50.852437,-1.186533
+230205,Seafarers Sailing Club,5,0,5,5,2012-08-22,50.812709,-1.219977
+230206,Searle Sports And Social Club,4,0,0,10,2014-11-27,50.837903,-1.183774
+230207,Shakeaway,5,0,5,5,2014-01-22,50.852749,-1.175986
+230208,Sheila Hurst Florist,Exempt,nan,nan,nan,2012-09-18,50.872364,-1.267991
+230209,Shell Service Station,5,0,0,0,2013-09-24,50.855908,-1.245517
+230210,Shell Stubbington,5,0,0,0,2011-08-17,50.821405,-1.214471
+230211,Sheree'S Sweet Treats,5,0,0,0,2014-10-22,,
+230212,Simply Food,5,0,0,0,2012-02-24,50.847812,-1.13738
+230213,Sir Joseph Paxton,4,10,5,5,2013-06-27,50.855692,-1.25663
+230214,Smart Fish Bar,2,10,15,10,2014-10-16,50.863912,-1.291512
+230215,Soccer City,4,5,10,5,2014-07-02,50.862031,-1.173634
+230216,Solent Arena,1,10,10,20,2014-08-12,50.862079,-1.168987
+230217,Solent Cafe2u Ltd,4,10,0,0,2014-03-24,,
+230218,Solent Cliffs Nursing Home,5,5,0,0,2014-07-15,50.817955,-1.236631
+230219,Solent Lodge Care Home,4,0,5,10,2014-04-01,50.819679,-1.213208
+230220,Solent View Hotel,5,0,0,0,2013-08-29,50.851627,-1.300292
+230221,Soothills,4,10,0,0,2014-04-28,50.863786,-1.275471
+230222,Soothills Ltd,5,0,5,0,2014-08-06,50.852334,-1.17328
+230223,Southern Co-Operative,5,0,5,0,2012-11-06,50.881114,-1.258017
+230224,Southern Co-Operatives,5,5,0,0,2013-04-29,50.858141,-1.189602
+230225,Southern Co-Operatives Limited,5,5,0,0,2014-05-16,50.860212,-1.206914
+230226,Southern Co-Operatives Limited,4,10,5,0,2013-02-11,50.849638,-1.234183
+230227,Southern Health Nha Ft,5,0,0,0,2013-01-25,50.861947,-1.250421
+230228,Squidgey Widgey Cupcakes,5,5,0,0,2013-11-28,,
+230229,St Anthonys R C Primary School,5,0,0,0,2013-04-25,50.856008,-1.252704
+230230,St Columba C Of E Primary Academy,5,0,0,0,2014-02-26,50.862163,-1.213531
+230231,St Francis Special School,5,0,0,0,2013-03-22,50.849187,-1.21365
+230232,St John The Baptist Primary School,5,5,0,0,2014-11-19,50.857001,-1.260246
+230233,St Johns Church Complex,Exempt,nan,nan,nan,2013-08-20,50.859055,-1.262345
+230234,St Judes Catholic Primary School,5,0,0,0,2015-01-06,50.850638,-1.200911
+230235,St Margaret Mary Church,4,0,0,10,2012-01-09,50.87245,-1.268137
+230236,St Marys Church,5,0,0,0,2012-06-14,50.837997,-1.116386
+230237,Staceys,4,10,0,10,2015-01-05,50.8599,-1.208752
+230238,Starfish (Little Shipmates) Ltd,4,5,0,10,2014-07-30,50.842092,-1.179611
+230239,Station Grill & Cafe,1,10,10,20,2014-12-09,,
+230240,Stones,5,0,0,0,2014-01-27,50.852834,-1.180303
+230241,Stubbington Baptist Church,Exempt,nan,nan,nan,2013-02-18,50.832947,-1.220412
+230242,Stubbington Country Markets,5,5,5,5,2014-11-28,50.823193,-1.214157
+230243,Stubbington Fish & Chips,5,0,0,0,2014-12-03,50.825778,-1.213489
+230244,Stubbington Kebab House,4,5,10,5,2014-02-07,50.82583,-1.214539
+230245,Stubbington Post Office,5,5,0,0,2013-07-09,50.825778,-1.213489
+230246,Stubbington Study Centre,5,0,5,0,2013-01-08,50.813509,-1.217045
+230247,Stubbington Tandoori,3,10,10,10,2012-12-04,50.825778,-1.213489
+230248,Stumpys Brewery-Chutney/Jam,4,10,0,0,2012-03-12,50.824637,-1.225676
+230249,Subway,5,5,0,0,2014-10-02,50.85214,-1.178866
+230250,Superdrug,5,0,0,0,2013-01-10,50.853377,-1.177012
+230251,Superdrug,Exempt,nan,nan,nan,2014-09-25,50.846613,-1.124817
+230252,Suzie'S Tea Rooms,5,5,0,0,2014-05-06,50.84589,-1.128026
+230253,Sweet Silvester'S,5,0,0,0,2013-08-14,,
+230254,Sweet- Tree-Licious,5,0,0,0,2013-09-10,,
+230255,Tesco Express,5,0,0,0,2014-12-08,50.854858,-1.274132
+230256,Tesco Superstore,5,0,0,0,2014-02-19,50.851678,-1.175891
+230257,Tgi Fridays,5,5,0,0,2014-11-26,50.868431,-1.258957
+230258,The 3 Bears House,Exempt,nan,nan,nan,2013-09-16,50.860537,-1.2111
+230259,The Avenue Rest Home,5,0,0,0,2014-06-12,50.852593,-1.198719
+230260,The Bakers,5,5,5,5,2015-01-12,50.82583,-1.214539
+230261,The Bold Forester,4,0,10,10,2014-02-04,50.875968,-1.283597
+230262,The Buccaneer,5,5,5,0,2013-07-01,50.852754,-1.196031
+230263,The Cake Doctor,5,0,0,5,2013-10-18,,
+230264,The Childrens House,5,0,0,5,2014-06-17,50.852818,-1.183145
+230265,The Co- Operative Group,5,0,0,0,2012-05-01,50.856827,-1.214388
+230266,The Cob And Penn,2,15,10,5,2013-08-05,50.85697,-1.171309
+230267,The Co-Operative Group Ltd,5,0,0,0,2014-11-20,50.825778,-1.213489
+230268,The Coriander,2,15,10,10,2014-11-17,50.852373,-1.185198
+230269,The Cormorant,3,10,5,10,2013-10-01,50.840175,-1.119043
+230270,The Crofton,4,10,5,0,2013-02-27,50.820089,-1.223366
+230271,The Crofton Club,5,0,0,0,2014-01-29,50.827328,-1.215309
+230272,The Crown Public House,5,0,0,0,2013-11-20,50.852185,-1.176351
+230273,The Cuckoo Pint,4,10,5,0,2013-02-18,50.82879,-1.221376
+230274,The Cutie House,2,15,10,10,2014-08-13,50.849589,-1.193443
+230275,The Fabulous Baker Brothers,4,10,10,0,2014-07-22,50.87186042,-1.26869284
+230276,The Fareham,5,5,0,0,2013-12-11,50.854095,-1.183194
+230277,The Ferryman,3,10,10,10,2013-07-23,50.853,-1.296876
+230278,The Firs,5,5,5,0,2014-10-01,50.862542,-1.267746
+230279,The Fish Shop,1,10,15,20,2014-09-12,50.852753,-1.182919
+230280,The Fishermans Rest,5,5,0,0,2013-10-16,50.855656,-1.230277
+230281,The Fruit Basket Ltd,5,0,0,0,2012-11-15,50.82583,-1.214539
+230282,The Frying Fish,5,5,5,5,2013-04-18,50.853001,-1.30155
+230283,The Golden Boat,2,10,15,10,2013-10-07,50.852815,-1.184026
+230284,The Golden Bowler,5,5,0,0,2013-03-25,50.814893,-1.214268
+230285,The Golden Lion,4,10,0,10,2014-11-25,50.854362,-1.173869
+230286,The Heathfield Arms,3,10,10,10,2014-03-05,50.855534,-1.209323
+230287,The Highlands Hub,5,0,0,5,2014-04-16,50.8599,-1.208752
+230288,The Holiday Inn,4,10,5,5,2015-01-13,50.855392,-1.242186
+230289,The Indian Cottage Restaurant,4,5,10,5,2014-11-07,50.852373,-1.185198
+230290,The Jolly Farmer,3,10,10,5,2014-10-29,50.852774,-1.279008
+230291,The Laurels,5,0,5,0,2014-04-14,50.853116,-1.244908
+230292,The Lord Arthur Lee,5,5,0,0,2014-01-27,50.852382,-1.181362
+230293,The Lunch Box Cafe,4,5,5,10,2013-12-05,50.841418,-1.18492
+230294,The Master Chippy,2,15,10,10,2014-11-20,50.84669,-1.18257
+230295,The Miners Arms,5,5,5,0,2015-01-08,50.871028,-1.201444
+230296,The Navigator,3,10,5,10,2014-10-02,50.883734,-1.299442
+230297,The Nook And Cranny,3,10,10,10,2012-10-24,50.845405,-1.27675
+230298,The Old Ship Inn,4,10,5,0,2014-05-21,50.88097,-1.295759
+230299,The Osborne View Hotel,5,5,0,0,2014-10-07,50.816702,-1.23333
+230300,The Pastry Corner,5,0,0,0,2013-11-13,,
+230301,The Queens Head,3,10,10,10,2013-11-26,50.849931,-1.234945
+230302,The Rainbow Centre,5,0,0,0,2014-02-18,50.845093,-1.190978
+230303,The Red House,5,5,0,0,2014-01-17,50.856383,-1.178621
+230304,The Red Lion,5,5,5,0,2013-03-19,50.825066,-1.213174
+230305,The Rising Sun,4,10,5,0,2013-04-22,50.852458,-1.305479
+230306,The Seagull,4,10,5,0,2014-03-11,50.84614,-1.138646
+230307,The Shack,5,5,5,5,2014-09-26,50.813738,-1.223059
+230308,The Silver Fern,4,10,0,0,2014-05-13,50.853521,-1.296783
+230309,The Slug And Lettuce,5,5,5,0,2014-05-07,50.852005,-1.177519
+230310,The Strawberry Field Tavern,4,5,0,10,2013-08-12,50.863786,-1.275471
+230311,The Stubbington Club,1,15,15,20,2014-02-11,50.826258,-1.213893
+230312,The Talisman,3,10,10,5,2014-10-28,50.871016,-1.266818
+230313,The Treat Tricycle,5,0,0,0,2014-07-14,,
+230314,The Twells Tradition,4,10,5,5,2014-12-05,50.846256,-1.125207
+230315,The Village Bakery,3,5,10,10,2014-12-08,50.853866,-1.291351
+230316,The Village Inn,4,10,5,0,2013-08-27,50.875245,-1.268628
+230317,The Warren Residential Lodge,5,0,5,5,2014-03-04,50.811291,-1.191122
+230318,The Wheatsheaf,4,5,5,10,2014-10-23,50.850722,-1.233483
+230319,The White Horse,3,10,10,10,2014-03-26,50.859468,-1.169843
+230320,The Wicor Mill,5,5,5,5,2013-02-12,50.843754,-1.138193
+230321,The Wine Cellar,5,0,0,0,2014-10-29,50.854152,-1.173418
+230322,The Works,Exempt,nan,nan,nan,2012-11-08,50.853173,-1.176163
+230323,Tiffin Takeaway,1,5,10,20,2014-08-19,50.845919,-1.201177
+230324,Tiger Lily,3,10,10,10,2014-10-14,50.881114,-1.258017
+230325,Time Out After School Care,5,0,0,0,2014-05-06,50.847713,-1.292424
+230326,Time Out After School Care,5,0,0,0,2014-05-06,50.857001,-1.260246
+230327,Time Out After School Club,5,0,0,0,2014-05-06,50.880808,-1.258079
+230328,Time Out Breakfast Club,5,0,0,0,2014-05-06,50.869389,-1.266829
+230329,Time Out Child Care After School Club,5,0,0,0,2014-05-06,50.854858,-1.274132
+230330,Titchfield Community Centre,4,0,10,0,2013-07-29,50.851057,-1.232412
+230331,Titchfield Community Centre,4,0,5,10,2013-07-24,50.851057,-1.232412
+230332,Titchfield Festival Theatre,Exempt,nan,nan,nan,2013-01-20,50.8532,-1.24387
+230333,Titchfield Haven Cafe,5,5,0,0,2013-10-28,50.818708,-1.240395
+230334,Titchfield Lodge,5,5,0,0,2013-06-19,50.861947,-1.250421
+230335,Titchfield Mill,5,0,0,0,2013-07-01,50.852174,-1.231442
+230336,Titchfield Primary School,5,5,5,0,2013-11-07,50.852087,-1.235918
+230337,Trafalgar Guest House,5,0,0,5,2013-06-17,50.854152,-1.173418
+230338,Travel Rest Solent Gateway,5,0,0,5,2013-01-11,50.852754,-1.196031
+230339,Trevarner Guest House,5,0,0,0,2013-05-07,50.816639,-1.231926
+230340,Trudie'S Cakes,5,0,0,0,2012-01-06,,
+230341,Truffles,3,10,10,10,2014-11-05,50.852964,-1.174562
+230342,Truly Scrumptious,4,0,0,10,2011-05-11,50.853051,-1.117565
+230343,Tudor Lodge Nursing Home,5,5,5,5,2014-10-07,50.829795,-1.19066
+230344,Uplands,5,5,5,0,2014-02-17,50.861939,-1.186126
+230345,Uplands County Primary School,5,5,0,0,2014-04-23,50.861193,-1.191311
+230346,Vanilla Gourmet Catering Ltd,5,0,0,0,2014-11-20,50.882863,-1.299583
+230347,Veg Patch Chutney,3,5,10,10,2014-09-19,,
+230348,Victory Hall,Exempt,nan,nan,nan,2014-10-07,50.853521,-1.296783
+230349,Villa Romana,4,5,5,10,2014-10-01,50.853352,-1.173504
+230350,Village Greengrocer,5,0,0,0,2014-03-26,50.849417,-1.234755
+230351,Village Pharmacy,Exempt,nan,nan,nan,2013-01-10,50.825355,-1.214703
+230352,Vintage Tea Room,4,5,5,10,2013-09-02,50.852385,-1.18436
+230353,Vnka Services,5,0,0,0,2013-09-02,50.871739,-1.267389
+230354,Voyage Care Home,5,0,0,0,2014-09-23,50.86379,-1.185852
+230355,W H Smith,5,5,0,0,2014-09-25,50.852711,-1.179496
+230356,Wah Ying Chinese Takeaway,5,0,5,5,2014-03-05,50.816639,-1.231926
+230357,Waitrose Ltd,5,0,0,0,2014-04-08,,
+230358,Wallisdean After School Club,4,0,0,10,2015-01-06,50.849313,-1.19913
+230359,Wallisdean County Infant School,5,0,0,0,2013-11-04,50.849313,-1.19913
+230360,Wallisdean County Junior School,5,5,5,0,2013-11-04,50.848617,-1.198574
+230361,Warsash Maritime Centre,4,10,5,0,2013-10-18,50.845203,-1.302831
+230362,Warsash Sailing Club,Exempt,nan,nan,nan,2013-02-25,50.853001,-1.30155
+230363,Waterstones,Exempt,nan,nan,nan,2013-02-18,50.853499,-1.177791
+230364,Welcome Store,5,5,5,0,2013-02-18,50.829085,-1.221158
+230365,West Hill Park School,5,5,5,5,2014-04-30,50.849317,-1.245524
+230366,Westbury Manor,5,0,0,0,2014-10-02,50.852347,-1.180212
+230367,Whistlers,0,25,10,10,2014-11-07,50.852761,-1.181455
+230368,White Hart Takeaway,3,10,10,10,2014-03-11,50.841382,-1.126406
+230369,Whiteley Community Centre,5,0,0,0,2013-05-08,50.880808,-1.258079
+230370,Whiteley County Primary School,5,5,0,0,2013-10-16,50.880808,-1.258079
+230371,Wicor Primary School,5,0,5,0,2014-07-01,50.846484,-1.141339
+230372,Wilkinson Hardware Stores Ltd,5,0,0,0,2012-05-10,50.852005,-1.177519
+230373,Willow Cottage B & B,5,0,0,0,2011-12-05,50.81686,-1.225918
+230374,Willow Tree,5,0,0,0,2014-10-03,50.865469,-1.194576
+230375,Willow Tree Bakery,5,0,5,5,2011-06-23,50.883575,-1.283537
+230376,Wisteria House Bed & Breakfast,5,0,0,0,2012-05-28,50.828518,-1.213003
+230377,Wok This Way,3,10,10,5,2013-11-26,50.863912,-1.291512
+230378,Woodentots Nursery & Preschool,5,0,0,0,2013-10-23,50.834311,-1.188367
+230379,Woodland Court,5,5,0,0,2014-08-04,50.848883,-1.141096
+230380,Woodlands Early Learning Ltd,5,5,0,0,2013-11-27,50.867867,-1.288212
+230381,Wykeham House School,5,0,0,0,2013-09-09,50.852334,-1.17328
+230382,Yankee Dog,4,0,5,10,2014-07-09,,
+230383,Yarty,4,10,0,0,2012-08-02,50.853936,-1.302999
+230384,Zin At 24/7 Fitness,5,0,0,0,2013-05-09,50.855462,-1.149215

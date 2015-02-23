@@ -1,439 +1,439 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-36045,6 Stevenage Leisure Park,Kings Way,Stevenage,Herts,360 Play (Stevenage) Ltd,Restaurant/Cafe/Canteen,1,10,,349386,0,,51.89980400000000,12/00001/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-06-18,fhrs_4_en-GB,4,,FHRS,5
-36046,Shangri La Farm,Todds Green,Stevenage,Herts,7S Trading Ltd,Distributors/Transporters,7,,,349185,,,51.92356000000000,08/00015/WHOLE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.22642200000000,SG1 2JE,2013-12-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-36047,23 Market Place,Town Centre,Stevenage,Herts,A & V Delicious,Retailers - other,4613,5,,349240,5,,51.90138200000000,09/00078/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20009900000000,SG1 1DH,2013-09-13,fhrs_4_en-GB,4,,FHRS,10
-36048,The Broadhall Suite At Stevenage Fo,Broadhall Way,Stevenage,Herts,A S Catering - The Broadhall Suite,Pub/bar/nightclub,7843,5,,349357,0,,51.89011600000000,11010/0001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19430100000000,SG2 8RH,2014-10-17,fhrs_5_en-GB,5,,FHRS,5
-36049,Abbington Hotel,23 Hitchin Road,Stevenage,Herts,Abbington Hotel,Hotel/bed & breakfast/guest house,7842,10,,349455,15,,51.91621200000000,13340/0023/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21148800000000,SG1 3BJ,2013-08-28,fhrs_2_en-GB,2,,FHRS,10
-36050,Aldi Stores,Fairlands Way,Stevenage,Herts,ALDI Stores Ltd,Retailers - supermarkets/hypermarkets,7840,0,,349170,0,,51.90557100000000,06/00028/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20472900000000,SG1 1FZ,2010-03-01,fhrs_5_en-GB,5,,FHRS,0
-36051,Armstrong House,Norton Road,Stevenage,Herts,All Seasoned,Other catering premises,7841,10,,584201,0,,51.89704600000000,13/00106/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20588300000000,SG1 2LX,2013-07-30,fhrs_4_en-GB,4,,FHRS,0
-36052,,,,,Allsorts Of Delicious Delights,Other catering premises,7841,,,558358,,,,13/00077/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-04-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-36053,Almonds Lane,Stevenage,Herts,,Almond Hill JMI School,School/college/university,7845,0,,349283,0,,51.91802900000000,10080/1000/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19736900000000,SG1 3RP,2013-12-18,fhrs_5_en-GB,5,,FHRS,5
-36054,,,,,Alternative Cake Company Ltd,Other catering premises,7841,5,,349216,5,,,09/00017/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-09-13,fhrs_5_en-GB,5,,FHRS,5
-36055,Archer Pharmacy,289 Archer Road,Stevenage,Herts,Archer Pharmacy,Retailers - other,4613,,,349286,,,51.91009100000000,10140/0289/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18463100000000,SG1 5HF,2012-09-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-36056,Roaring Meg Retail Park,London Road,Stevenage,Herts,Argos Ltd,Retailers - other,4613,,,349484,,,51.89199500000000,14070/1032/3/014,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19894800000000,SG1 1XN,2012-10-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-36057,ASDA Stores Ltd,Monkswood Way,Stevenage,Herts,Asda Stores,Retailers - supermarkets/hypermarkets,7840,0,,349152,5,,51.89678800000000,04/00004/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19955600000000,SG1 1LA,2013-08-28,fhrs_5_en-GB,5,,FHRS,0
-36058,Chertsey Rise,Stevenage,Herts,,Ashtree JMI School,School/college/university,7845,0,,349382,5,,51.89659700000000,11590/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16508800000000,SG2 9JQ,2014-10-21,fhrs_5_en-GB,5,,FHRS,5
-36059,Ask,15 High Street,Stevenage,Herts,Ask Italian,Restaurant/Cafe/Canteen,1,0,,349145,5,,51.91380300000000,03/00021/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20858800000000,SG1 3BG,2013-09-11,fhrs_4_en-GB,4,,FHRS,10
-36060,15 Stevenage Leisure Park,Kings Way,Stevenage,Herts,ASK Pizza Pasta,Restaurant/Cafe/Canteen,1,0,,349468,0,,51.89980400000000,13770/0015/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-07-15,fhrs_4_en-GB,4,,FHRS,10
-36061,Astrium Staff Restaurant,Gunnels Wood Road,Stevenage,Herts,Astrium,Restaurant/Cafe/Canteen,1,0,,349420,0,,51.90163100000000,12980/4004/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21230000000000,SG1 2AS,2014-03-13,fhrs_5_en-GB,5,,FHRS,5
-36062,Astrium,Gunnels Wood Road,Stevenage,Herts,Astrium Bar,Pub/bar/nightclub,7843,0,,349419,0,,,12980/1000/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,SG1 2DB,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-36063,,,,,Auntie Anks,Other catering premises,7841,10,,349251,5,,,10/00022/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-09-23,fhrs_4_en-GB,4,,FHRS,5
-36064,,,,,Auntie Chan's Home Bakery,Other catering premises,7841,,,584199,,,,13/00104/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-09-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-36065,B And Q,London Road,Stevenage,Herts,Autograph The Food People,Other catering premises,7841,0,,349274,0,,51.90118700000000,10/00063/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20324700000000,SG1 1HN,2014-10-23,fhrs_5_en-GB,5,,FHRS,5
-36066,B & M Retail Ltd  UNIT 8,The Forum,Town Centre,Stevenage,B & M Retail Ltd,Retailers - other,4613,0,,558359,0,,51.90435800000000,13/00079/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20243700000000,SG1 1ES,2012-08-07,fhrs_5_en-GB,5,,FHRS,0
-36067,,,,,Baked With Care By Laura,Other catering premises,7841,,,558363,,,,13/00085/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-05-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-36068,Baker Bar,11 Baker Street,Stevenage,Herts,Baker Bar,Restaurant/Cafe/Canteen,1,5,,349291,0,,51.91139600000000,10430/0011/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20759400000000,SG1 3AL,2014-07-28,fhrs_5_en-GB,5,,FHRS,5
-36069,6 Baker Street,Stevenage,Herts,,Baker Street W1,Restaurant/Cafe/Canteen,1,5,,349215,0,,51.91139600000000,09/00016/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20759400000000,SG1 3AL,2014-10-08,fhrs_5_en-GB,5,,FHRS,0
-36070,Walkern Road,Stevenage,Herts,,Barclay Secondary School,School/college/university,7845,0,,349582,0,,51.91459400000000,16930/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20262400000000,SG1 3RB,2013-05-08,fhrs_5_en-GB,5,,FHRS,5
-36071,Barnwell,Stevenage,Herts,,Barnwell School,School/college/university,7845,0,,349292,0,,51.88985824584961,10500/0045/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17296311259270,SG2 9SW,2013-11-05,fhrs_5_en-GB,5,,FHRS,5
-36072,Collenswood Road,Stevenage,Herts,,Barnwell School,School/college/university,7845,0,,349383,0,,51.89904200000000,11740/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16504700000000,SG2 9HQ,2013-11-13,fhrs_5_en-GB,5,,FHRS,5
-36073,Basra,57-59 Whitesmead Road,Stevenage,Herts,Basra Supermarket,Retailers - other,4613,10,,349594,5,,51.91315700000000,17190/0057/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19744800000000,SG1 3LA,2013-05-08,fhrs_3_en-GB,3,,FHRS,10
-36074,Bedwell Community Centre,Bedwell Crescent,Stevenage,Herts,Bedwell Community Centre,Other catering premises,7841,0,,349300,5,,51.90225500000000,10580/1004/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18900200000000,SG1 1NA,2013-09-24,fhrs_5_en-GB,5,,FHRS,5
-36075,Bedwell Crescent,Stevenage,Herts,,Bedwell JMI School,School/college/university,7845,0,,349299,0,,51.90577900000000,10580/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18258100000000,SG1 1NJ,2013-03-14,fhrs_5_en-GB,5,,FHRS,0
-36076,125 Bedwell Crescent,Stevenage,Herts,,Bedwell Pizza And Kebab,Takeaway/sandwich shop,7844,5,,482183,0,,51.90225500000000,12/00050/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18900200000000,SG1 1NA,2013-10-04,fhrs_5_en-GB,5,,FHRS,5
-36077,107-109 Bedwell Crescent,Stevenage,Herts,,Bedwell Supermarket,Retailers - other,4613,0,,349293,5,,51.90225500000000,10580/0107/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18900200000000,SG1 1NA,2012-11-05,fhrs_4_en-GB,4,,FHRS,10
-36078,12 Queensway,Town Centre,Stevenage,Herts,Bella Vista,Other catering premises,7841,0,,349249,5,,51.90075300000000,10/00020/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20130200000000,SG1 1BS,2013-08-30,fhrs_5_en-GB,5,,FHRS,0
-36079,23 The Hyde,Stevenage,Herts,,Bengal Lounge,Restaurant/Cafe/Canteen,1,5,,448601,5,,51.89253700000000,12/00066/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16939600000000,SG2 9SD,2014-01-29,fhrs_4_en-GB,4,,FHRS,10
-36080,Bingol Kebab & Pizza,97A High Street,Stevenage,Herts,Bingol Kebab & Pizza,Takeaway/sandwich shop,7844,10,,349448,0,,51.91025700000000,13230/0097/A/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20720300000000,SG1 3HR,2013-07-29,fhrs_4_en-GB,4,,FHRS,10
-36081,Monkswood Retail Park,Elder Way,Stevenage,Herts,Blockbuster,Retailers - other,4613,,,349144,,,51.89448000000000,03/00004/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19915400000000,SG1 1TL,2009-07-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-36082,Unit 1C Boots The Chemist,Roaring Meg Retail Park,London Road,Stevenage,Boots The Chemist,Retailers - other,4613,,,349352,,,51.89199500000000,11/00083/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19894800000000,SG1 1XN,2012-01-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-36083,Boots The Chemist Ltd,43-47 Queensway,Town Centre,Stevenage,Boots The Chemist Ltd,Retailers - other,4613,0,,349524,0,,51.90196600000000,15300/0043/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20122400000000,SG1 1DN,2006-03-16,fhrs_5_en-GB,5,,FHRS,0
-36084,Boots The Chemist,54 High Street,Stevenage,Herts,Boots The Chemists,Retailers - other,4613,,,349435,,,51.91272600000000,13230/0054/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20930000000000,SG1 3EF,2006-12-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-36085,,,,,Bouncy Bakes,Other catering premises,7841,10,,349387,0,,,12/00003/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-01-10,fhrs_4_en-GB,4,,FHRS,10
-36086,British Home Stores & Mothercare,7 The Forum,Town Centre,Stevenage,British Home Stores & Mothercare,Restaurant/Cafe/Canteen,1,0,,349601,5,,51.90435800000000,17710/0007/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20243700000000,SG1 1ES,2013-02-19,fhrs_4_en-GB,4,,FHRS,10
-36087,"Broadhall Bunnies, Featherstone Sch",Featherston Road,Stevenage,Herts,Broadhall Bunnies,Hospitals/Childcare/Caring Premises,5,0,,349146,0,,51.89367500000000,03/00027/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16744500000000,SG2 9PP,2014-04-25,fhrs_5_en-GB,5,,FHRS,0
-36088,Homestead Moat,Stevenage,Herts,,Broom Barns School,School/college/university,7845,0,,349459,0,,51.90065600000000,13380/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19323800000000,SG1 1UE,2014-11-17,fhrs_5_en-GB,5,,FHRS,5
-36089,Elopak House,Meadway Technology Park,Rutherford Close,Stevenage,Brown & Lee Chartered Surveyors,Other catering premises,7841,0,,349153,5,,51.90833100000000,04/00016/MULT,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21947700000000,SG1 2EF,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-36090,,,,,Buffet Business,Other catering premises,7841,0,,349576,0,,,16720/0003/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-07-01,fhrs_5_en-GB,5,,FHRS,0
-36091,Roaring Meg Retail Park,London Road,Stevenage,Herts,Burger King,Restaurant/Cafe/Canteen,1,0,,349483,0,,51.89199500000000,14070/1032/3/012,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19894800000000,SG1 1XN,2013-06-26,fhrs_5_en-GB,5,,FHRS,0
-36092,Burger King,88 Queensway,Town Centre,Stevenage,Burger King (Uk) Ltd,Restaurant/Cafe/Canteen,1,0,,349528,0,,51.90336600000000,15300/0088/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20227300000000,SG1 1EG,2014-11-21,fhrs_5_en-GB,5,,FHRS,0
-36093,2 Burwell Road,Stevenage,Herts,,Burwell News,Retailers - other,4613,,,349369,,,51.89713000000000,11200/0002/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17043000000000,SG2 9RF,2012-08-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-36094,B And Q Carpark,London Road,Stevenage,Herts,Busters,Takeaway/sandwich shop,7844,5,,349182,0,,51.90118700000000,07/00043/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20324700000000,SG1 1HN,2013-07-19,fhrs_5_en-GB,5,,FHRS,0
-36095,Busy Bees Day Nursery,London Road,Stevenage,Herts,Busy Bees Nursery,Hospitals/Childcare/Caring Premises,5,0,,349478,0,,51.89638900000000,14070/1010/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20114200000000,SG1 1GG,2013-07-30,fhrs_5_en-GB,5,,FHRS,0
-36096,Butty's,41 High Street,Stevenage,Herts,Butty's,Takeaway/sandwich shop,7844,5,,421822,10,,51.91147500000000,12/00057/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20801200000000,SG1 3AH,2013-11-08,fhrs_3_en-GB,3,,FHRS,10
-36097,Bessemer Drive,Stevenage,Herts,,Cafe Almar,Other catering premises,7841,10,,637354,0,,51.90239200000000,14/00008/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21741500000000,SG1 2DT,2014-02-27,fhrs_4_en-GB,4,,FHRS,5
-36098,Monkswood Way,Stevenage,Herts,,Cafe Asda,Restaurant/Cafe/Canteen,1,5,,349198,0,,51.89678800000000,08/00042/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19955600000000,SG1 1LA,2013-01-07,fhrs_5_en-GB,5,,FHRS,5
-36099,,,,,Cafe Italiano,Retailers - other,4613,5,,349231,5,,,09/00049/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2009-07-31,fhrs_5_en-GB,5,,FHRS,5
-36100,Indoor Market,Market Square,Stevenage,Herts,Cafe Moka,Takeaway/sandwich shop,7844,0,,349200,5,,51.90234700000000,08/00071/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19968300000000,SG1 1EP,2014-10-22,fhrs_5_en-GB,5,,FHRS,5
-36101,,,,,Cake Fairy,Other catering premises,7841,,,609527,,,,13/00127/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-11-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-36102,,,,,Cakes By Aunt Sally,Other catering premises,7841,,,659014,,,,14/00021/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-04-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-36103,Camps Hill Jmi School,Chells Way,Stevenage,Herts,Camps Hill JMI School,School/college/university,7845,0,,349381,0,,51.90797600000000,11530/1004/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16885500000000,SG2 0LT,2013-06-03,fhrs_5_en-GB,5,,FHRS,0
-36104,,,,,Celia's Caribbean Cakes And Confectionary,Other catering premises,7841,10,,349471,0,,,13790/0003/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-06-26,fhrs_4_en-GB,4,,FHRS,0
-36105,Icon Building,Lytton Way,Stevenage,Herts,CH & Co,Restaurant/Cafe/Canteen,1,0,,349187,0,,51.90565400000000,08/00020/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20730400000000,,2014-08-12,fhrs_5_en-GB,5,,FHRS,5
-36106,MBDA UK,Six Hills Way,Stevenage,Herts,CH * Co,Restaurant/Cafe/Canteen,1,5,,349543,0,,51.89633800000000,15920/1001/3/001,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21073600000000,SG1 2DA,2013-10-02,fhrs_5_en-GB,5,,FHRS,5
-36107,112 Oaks Cross,Stevenage,Herts,,Cheese Pizza,Takeaway/sandwich shop,7844,30,,349155,10,,51.88509700000000,04/00045/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17090400000000,SG2 8LU,2014-03-05,fhrs_0_en-GB,0,,FHRS,15
-36108,28 The Glebe,Chells Way,Stevenage,Herts,Chells Cafe,Restaurant/Cafe/Canteen,1,5,,482191,0,,51.90874900000000,12/00080/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16998700000000,SG2 0DJ,2014-04-17,fhrs_5_en-GB,5,,FHRS,0
-36109,Chells Manor Community Centre,12 Emperors Gate,Stevenage,Herts,Chells Manor Community Association,Other catering premises,7841,,,349407,,,51.91609400000000,12360/0012/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16124000000000,SG2 7QX,2010-03-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-36110,12 Emperors Gate,Stevenage,Herts,,Chells Manor Pre School,Other catering premises,7841,0,,349271,0,,51.91609400000000,10/00058/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16124000000000,SG2 7QX,2013-10-24,fhrs_4_en-GB,4,,FHRS,10
-36111,Unit 3 Ground Floor,Chicago Rock Cafe,Stevenage Leisure Park,Kings Way,Chicago Rock Cafe,Pub/bar/nightclub,7843,0,,349147,0,,51.89980400000000,03/00031/HOTEL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-03-13,fhrs_5_en-GB,5,,FHRS,5
-36112,Stevenage Leisure Park,Kings Way,Stevenage,Herts,Chiquitos,Restaurant/Cafe/Canteen,1,0,,349234,0,,51.89980400000000,09/00059/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-11-24,fhrs_5_en-GB,5,,FHRS,5
-36113,,,,,Chocolate Lover,Other catering premises,7841,0,,623324,0,,,13/00130/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-12-06,fhrs_5_en-GB,5,,FHRS,0
-36114,Unit 3b & 4,Cineworld,Stevenage Leisure Park,Kings Way,Cineworld,Restaurant/Cafe/Canteen,1,0,,349465,0,,51.89980400000000,13770/0004/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2013-01-10,fhrs_5_en-GB,5,,FHRS,0
-36115,56 - 58 High Street,Stevenage,Herts,,Cinnabar Cafe,Pub/bar/nightclub,7843,5,,606580,5,,51.91272600000000,13/00121/HOTEL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20930000000000,SG1 3EF,2013-02-13,fhrs_5_en-GB,5,,FHRS,5
-36116,,,,,Clairy Cakes,Other catering premises,7841,,,606577,,,,13/00117/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-10-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-36117,,,,,Cleo Cupcake,Other catering premises,7841,10,,606573,5,,,010/00007/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2010-01-28,fhrs_4_en-GB,4,,FHRS,5
-36118,National Co-op Chemists Ltd,108 Broadwater Crescent,Stevenage,Herts,Co Op Chemists Ltd,Retailers - other,4613,,,349361,,,51.88538000000000,11030/0108/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18806800000000,SG2 8EE,2014-12-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-36119,13 Stevenage Leisure Park,Kings Way,Stevenage,Herts,Coast To Coast,Restaurant/Cafe/Canteen,1,0,,482184,5,,51.89980400000000,12/00067/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-05-07,fhrs_5_en-GB,5,,FHRS,5
-36120,"Neighbourhood Coffee Bar, Symonds G",Filey Close,Stevenage,Herts,Coffee Bar,Other catering premises,7841,,,349415,,,51.91298400000000,12530/1002/3/101,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.22156100000000,SG1 2JW,2009-07-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-36121,Community Services,4-6 The Hyde,Stevenage,Herts,Community Services,Other catering premises,7841,,,349561,,,51.89233300000000,16430/0004/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16899700000000,SG2 9SE,2012-01-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-36122,,,,,Cooks Catering K776 XRD,Takeaway/sandwich shop,7844,0,,647052,0,,,14/00015/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-03-27,fhrs_5_en-GB,5,,FHRS,0
-36123,Cooks Catering,34 Fellowes Way,Stevenage,Herts,Cooks Catering R326 DOJ,Takeaway/sandwich shop,7844,0,,635302,0,,51.88781000000000,14/00010/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18409000000000,SG2 8BW,2014-02-05,fhrs_5_en-GB,5,,FHRS,0
-36124,Co-op,247-249 Broadwater Crescent,Stevenage,Herts,Co-op,Retailers - supermarkets/hypermarkets,7840,5,,349364,5,,51.88193400000000,11030/0247/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17861700000000,SG2 8ET,2014-02-05,fhrs_5_en-GB,5,,FHRS,5
-36125,National Co-op Chemists Ltd,241 Broadwater Crescent,Stevenage,Herts,Co-op Chemists Ltd,Retailers - other,4613,,,349363,,,51.88193400000000,11030/0241/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17861700000000,SG2 8ET,2009-04-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-36126,Co-Op,14 The Hyde,Stevenage,Herts,Co-op Store,Retailers - supermarkets/hypermarkets,7840,,,349564,,,51.89233300000000,16430/0014/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16899700000000,SG2 9SE,2012-02-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-36127,Cooper's Chemist,12 Chells Way,The Glebe,Stevenage,Cooper's Chemist,Retailers - other,4613,,,349559,,,51.90874900000000,16380/0012/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16998700000000,SG2 0DJ,2013-11-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-36128,Corey's Mill Beefeater,Coreys Mill Lane,Stevenage,Herts,Corey's Mill Beefeater,Pub/bar/nightclub,7843,0,,349385,5,,51.92406300000000,11840/0003/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21631000000000,SG1 4AA,2013-08-28,fhrs_4_en-GB,4,,FHRS,10
-36129,75 Queensway,Town Centre,Stevenage,Herts,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,349189,0,,51.90196600000000,08/00024/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20122400000000,SG1 1DN,2014-05-01,fhrs_5_en-GB,5,,FHRS,5
-36130,Costa Coffe,89 - 91 High Street,Stevenage,Herts,Costa Coffee,Restaurant/Cafe/Canteen,1,,,349197,,,51.91025700000000,08/00041/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20720300000000,SG1 3HR,2013-11-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-36131,"Costa Coffee, Roaring Meg Retail Pa",London Road,Stevenage,Herts,Costa Coffee,Restaurant/Cafe/Canteen,1,0,,349202,0,,51.90925100000000,08/00076/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 1XJ,2014-12-22,fhrs_5_en-GB,5,,FHRS,5
-36132,Costello's,Fairlands Way,Stevenage,Herts,Costello's,Restaurant/Cafe/Canteen,1,5,,349408,5,,51.90148900000000,12420/1003/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17840700000000,SG2 0BL,2013-10-08,fhrs_5_en-GB,5,,FHRS,5
-36133,21 Market Place,Town Centre,Stevenage,Herts,Cox's Fish And Chips,Takeaway/sandwich shop,7844,5,,349394,0,,51.90138200000000,12/00051/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20009900000000,SG1 1DH,2013-10-10,fhrs_5_en-GB,5,,FHRS,5
-36134,The Crooked Billet,Symonds Green,Stevenage,Herts,Crooked Billet,Pub/bar/nightclub,7843,5,,349554,5,,51.90914800000000,16260/0002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.22476600000000,SG1 2HP,2013-07-24,fhrs_4_en-GB,4,,FHRS,10
-36135,,,,,Crumbdiddlyyumptious,Other catering premises,7841,0,,448602,0,,,12/00069/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2012-08-20,fhrs_5_en-GB,5,,FHRS,0
-36136,Unit 2,David Lloyd Fitness Centre,Stevenage Leisure Park,Kings Way,David Lloyd Fitness Centre,Restaurant/Cafe/Canteen,1,0,,349464,5,,51.89980400000000,13770/0002/3/100,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-04-16,fhrs_5_en-GB,5,,FHRS,0
-36137,Days Fish And Chips,239 Broadwater Crescent,Stevenage,Herts,Day's Fish And Chips,Takeaway/sandwich shop,7844,0,,674273,0,,51.88193400000000,14/00026/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17861700000000,SG2 8ET,2014-05-29,fhrs_5_en-GB,5,,FHRS,5
-36138,,,,,DC Cakes And Bakes,Other catering premises,7841,,,588989,,,,13/00112/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-09-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-36139,,,,,Debra's Cupcakes,Other catering premises,7841,,,558362,,,,13/00084/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-10-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-36140,,,,,Deliciously Srumptious,Takeaway/sandwich shop,7844,10,,349229,10,,,09/00045/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-10-29,fhrs_3_en-GB,3,,FHRS,10
-36141,22 - 24 Park Place,Town Centre,Stevenage,Herts,Delikatesy Pawelek Ltd,Retailers - other,4613,0,,623323,0,,51.90250300000000,13/00122/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20047600000000,SG1 1DP,2013-12-11,fhrs_5_en-GB,5,,FHRS,0
-36142,Dine Ltd C/O Allied Bakeries,Cartwright Road,Stevenage,Herts,Dine Ltd,Restaurant/Cafe/Canteen,1,10,,606574,0,,51.92437000000000,13/00114/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16548300000000,SG1 4QA,2013-07-25,fhrs_4_en-GB,4,,FHRS,5
-36143,77 - 81 Queensway,Town Centre,Stevenage,Herts,Discount UK,Retailers - other,4613,10,,349354,5,,51.90925100000000,11/00085/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 1DZ,2013-11-19,fhrs_4_en-GB,4,,FHRS,5
-36144,72 High Street,Stevenage,Herts,,Dominate Fitness,Retailers - other,4613,0,,609526,0,,51.91149300000000,13/00126/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 3EA,2013-11-05,fhrs_5_en-GB,5,,FHRS,0
-36145,Domino's Pizza,107-109 High Street,Stevenage,Herts,Domino's Pizza,Takeaway/sandwich shop,7844,0,,349449,0,,51.90944300000000,13230/0107/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20684300000000,SG1 3HS,2013-08-07,fhrs_5_en-GB,5,,FHRS,5
-36146,85 Mobbsbury Way,Stevenage,Herts,,Dominos Pizzas,Takeaway/sandwich shop,7844,0,,706594,5,,51.91391300000000,14/00044/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17130400000000,SG2 0HY,2014-09-16,fhrs_5_en-GB,5,,FHRS,0
-36147,,,,,Donna's Cakes And Bakes,Other catering premises,7841,,,580756,,,,13/00099/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-08-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-36148,Douglas Drive Senior Citizens,32 Douglas Drive,Stevenage,Herts,Douglas Drive Senior Citizens,Hospitals/Childcare/Caring Premises,5,10,,349397,0,,51.91537800000000,12100/0032/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17996800000000,SG1 5PF,2014-04-29,fhrs_4_en-GB,4,,FHRS,5
-36149,253 Broadwater Crescent,Stevenage,Herts,,Downtown Pizza & Kebabs,Takeaway/sandwich shop,7844,10,,349252,5,,51.88193400000000,10/00023/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17861700000000,SG2 8ET,2014-09-17,fhrs_4_en-GB,4,,FHRS,5
-36150,DuPont (UK) Ltd,Wedgwood Way,Stevenage,Herts,Dupont (UK Ltd),Restaurant/Cafe/Canteen,1,0,,349587,0,,51.92254700000000,17060/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17082200000000,SG1 4QN,2013-07-29,fhrs_5_en-GB,5,,FHRS,0
-36151,28 Market Place,Town Centre,Stevenage,Herts,Eastern Groceries,Retailers - other,4613,0,,687514,5,,51.90107300000000,14/00037/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19992300000000,SG1 1DB,2014-07-15,fhrs_4_en-GB,4,,FHRS,10
-36152,10 Popple Way,Stevenage,Herts,,Eastern Groceries And Hala Meat Ltd,Retailers - other,4613,10,,606579,0,,51.90773500000000,13/00120/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19807200000000,SG1 3TG,2013-10-24,fhrs_4_en-GB,4,,FHRS,0
-36153,Business Technology Centre,Bessemer Drive,Stevenage,Herts,Eatlunch,Other catering premises,7841,0,,371833,0,,51.90163100000000,12/00054/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21586100000000,SG1 2DX,2014-05-15,fhrs_5_en-GB,5,,FHRS,0
-36154,Unit 40 Edible Bouquets,Wedgwood Way,Stevenage,Herts,Edible Bouquets,Other catering premises,7841,0,,349277,0,,51.92642800000000,10/00067/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16999500000000,SG1 4QT,2012-06-22,fhrs_5_en-GB,5,,FHRS,5
-36155,6 Burwell Road,Stevenage,Herts,,"Ed's Kebab, Pizza, Chicken",Takeaway/sandwich shop,7844,5,,349313,10,,51.89713000000000,11/00010/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17043000000000,SG2 9RF,2014-12-01,fhrs_4_en-GB,4,,FHRS,5
-36156,Farnham House,Six Hills Way,Stevenage,Herts,Elior,Restaurant/Cafe/Canteen,1,0,,349232,0,,51.89883900000000,09/00055/SREST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21321000000000,SG1 2ST,2013-02-12,fhrs_5_en-GB,5,,FHRS,0
-36157,Elizabeth Court,Graveley Road,Stevenage,Hertfordshire,Elizabeth Court,Hospitals/Childcare/Caring Premises,5,,,349606,,,51.90925100000000,17980/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 4YZ,2014-06-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-36158,Emperors Head,1 Emperors Gate,Stevenage,Herts,Emperors Head PH,Pub/bar/nightclub,7843,10,,349403,5,,51.91609400000000,12360/0001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16124000000000,SG2 7QX,2013-11-28,fhrs_4_en-GB,4,,FHRS,5
-36159,G044,G Scarborough Ave,Scarborough Avenue,Stevenage,Espresso 2 U,Other catering premises,7841,0,,448599,0,,,12/00063/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2012-07-16,fhrs_5_en-GB,5,,FHRS,0
-36160,Esquires Coffee Houses,27 Westgate,Town Centre,Stevenage,Esquires,Restaurant/Cafe/Canteen,1,10,,349156,5,,51.90295400000000,04/00046/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20239100000000,SG1 1QR,2014-06-30,fhrs_4_en-GB,4,,FHRS,0
-36161,59 Queensway,Town Centre,Stevenage,Herts,Essential News,Retailers - other,4613,5,,349243,5,,51.90196600000000,10/00006/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20122400000000,SG1 1DN,2010-02-16,fhrs_5_en-GB,5,,FHRS,5
-36162,Broadwater Service Station,Broadwater Crescent,Stevenage,Herts,ESSO Broadwater,Retailers - other,4613,0,,349367,0,,51.88799400000000,11030/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18613200000000,SG2 8EH,2014-02-12,fhrs_5_en-GB,5,,FHRS,0
-36163,Holiday Inn,Danestrete,Stevenage,Herts,"Express By Holiday Inn, Stevenage",Hotel/bed & breakfast/guest house,7842,0,,349157,5,,51.90925100000000,04/00053/HOTEL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 1HA,2013-02-13,fhrs_5_en-GB,5,,FHRS,5
-36164,Fairlands Jmi School,Pound Avenue,Stevenage,Herts,Fairlands JMI School,School/college/university,7845,0,,349519,0,,51.90895000000000,15210/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20340200000000,SG1 3JA,2014-10-02,fhrs_5_en-GB,5,,FHRS,0
-36165,Family News,2 Popple Way,Stevenage,Herts,Family News,Retailers - other,4613,,,349220,,,51.90773500000000,09/00032/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19807200000000,SG1 3TG,2012-02-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-36166,16 Wedgwood Gate Industrial Estate,Wedgwood Way,Stevenage,Herts,Famous Chef,Takeaway/sandwich shop,7844,10,,349260,10,,51.92514600000000,10/00033/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17081800000000,SG1 4SU,2014-03-20,fhrs_3_en-GB,3,,FHRS,10
-36167,Farm House Pizza,10 The Hyde,Stevenage,Herts,Farmhouse Pizza,Takeaway/sandwich shop,7844,10,,349563,0,,51.89233300000000,16430/0010/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16899700000000,SG2 9SE,2013-10-09,fhrs_4_en-GB,4,,FHRS,5
-36168,Favorite Chicken & Ribs,88 High Street,Stevenage,Herts,Favorite Chicken & Ribs/ Aston Caterers Ltd,Takeaway/sandwich shop,7844,0,,349446,0,,51.91010400000000,13230/0088/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20776100000000,SG1 3DW,2013-11-11,fhrs_4_en-GB,4,,FHRS,10
-36169,Featherston Road,Stevenage,Herts,,Featherstone Wood School,School/college/university,7845,0,,349409,0,,51.89367500000000,12490/1003/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16744500000000,SG2 9PP,2014-03-17,fhrs_5_en-GB,5,,FHRS,0
-36170,"Unit 7, Fit 4 Less",The Plaza,Town Centre,Stevenage,Fit 4 Less,Other catering premises,7841,10,,349599,0,,51.90105100000000,17510/0007/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20258400000000,SG1 1PF,2014-10-24,fhrs_4_en-GB,4,,FHRS,0
-36171,,,,,Flossies Bakery,Other catering premises,7841,0,,674274,0,,,14/00028/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-06-03,fhrs_5_en-GB,5,,FHRS,0
-36172,Flowerpower,73A High Street,Stevenage,Herts,Flowerpower Florist And Coffe Bar,Restaurant/Cafe/Canteen,1,5,,349441,0,,51.91025700000000,13230/0073/A/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20720300000000,SG1 3HR,2012-05-11,fhrs_4_en-GB,4,,FHRS,10
-36173,92 Broadwater Crescent,Stevenage,Herts,,Four Seasons,Restaurant/Cafe/Canteen,1,5,,537547,5,,51.88538000000000,13/00010/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18806800000000,SG2 8EE,2013-03-22,fhrs_5_en-GB,5,,FHRS,5
-36174,Frankie & Benny's,Unit 12 Stevenage Leisure Park,Kings Way,Stevenage,Frankie And Benny's,Restaurant/Cafe/Canteen,1,5,,349150,5,,51.89980400000000,03/00037/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-04-30,fhrs_4_en-GB,4,,FHRS,10
-36175,Fruitfayre,Indoor Market,Market Square,Stevenage,Fruit Fayre,Retailers - other,4613,0,,349548,0,,,16110/1007/2/003,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-02-06,fhrs_5_en-GB,5,,FHRS,5
-36176,,,,,Fulleylove's,Other catering premises,7841,,,706592,,,,14/00042/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-09-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-36177,19 Park Place,Town Centre,Stevenage,Herts,Gang Nam Korean Restaurant,Other catering premises,7841,5,,569315,0,,51.90290500000000,13/00088/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20032900000000,SG1 1DU,2013-06-18,fhrs_5_en-GB,5,,FHRS,0
-36178,Gates Way,Stevenage,Herts,,Gate Hotel,Hotel/bed & breakfast/guest house,7842,20,,349417,0,,51.90597400000000,12730/0005/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20642800000000,SG1 3LJ,2014-08-29,fhrs_1_en-GB,1,,FHRS,5
-36179,Gate Of India Restaurant,20 The Glebe,Chells Way,Stevenage,Gate Of India,Restaurant/Cafe/Canteen,1,5,,349173,5,,51.90874900000000,07/00005/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16998700000000,SG2 0DJ,2014-01-23,fhrs_5_en-GB,5,,FHRS,5
-36180,Durham Road,Stevenage,Herts,,Giles Infants School,School/college/university,7845,0,,349400,0,,51.92187400000000,12170/1002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18309400000000,SG1 4JQ,2013-01-29,fhrs_5_en-GB,5,,FHRS,0
-36181,Giles Junior School,Durham Road,Stevenage,Herts,Giles JM School,School/college/university,7845,0,,349399,0,,51.92187400000000,12170/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18309400000000,SG1 4JQ,2013-10-17,fhrs_5_en-GB,5,,FHRS,5
-36182,7 Middle Row,Stevenage,Herts,,Gladleys Courtyard,Other catering premises,7841,5,,687513,0,,51.91114600000000,14/00034/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20766200000000,SG1 3AW,2014-07-15,fhrs_5_en-GB,5,,FHRS,0
-36183,Golden Fry Fish & Chip Shop,11Emperors Gate,Stevenage,Herts,Golden Fry Fish & Chip Shop,Takeaway/sandwich shop,7844,0,,349404,5,,51.91609400000000,12360/0004/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16124000000000,SG2 7QX,2013-11-28,fhrs_5_en-GB,5,,FHRS,5
-36184,Golden Fry Fish Bar,3 Chells Way,The Glebe,Stevenage,Golden Fry Fish Bar,Takeaway/sandwich shop,7844,0,,349556,0,,51.90910600000000,16380/0003/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17039400000000,SG2 0DL,2013-01-03,fhrs_5_en-GB,5,,FHRS,5
-36185,16 The Glebe,Chells Way,Stevenage,Herts,Golden's Place,Other catering premises,7841,10,,349237,0,,51.90874900000000,09/00069/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16998700000000,SG2 0DJ,2014-01-29,fhrs_4_en-GB,4,,FHRS,0
-36186,126 Oaks Cross,Stevenage ,HERTS,,Good News And Post Office,Retailers - other,4613,,,349174,,,51.88509700000000,07/00008/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17090400000000,SG2 8LU,2009-10-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-36187,Grace Community Church,Hydean Way,Stevenage,Herts,Grace Community Church,Other catering premises,7841,,,349460,,,51.89173600000000,13470/1000/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18214400000000,SG2 9XJ,2013-06-21,fhrs_exempt_en-GB,Exempt,,FHRS,
-36188,Shephall Green,Stevenage,Herts,,Greenside School,School/college/university,7845,0,,349539,0,,51.88980400000000,15760/1004/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17697600000000,SG2 9XS,2014-10-07,fhrs_5_en-GB,5,,FHRS,5
-36189,21 The Hyde,Stevenage,Herts,,Greenside Studio,Retailers - other,4613,,,482185,,,51.89253700000000,12/00068/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16939600000000,SG2 9SD,2012-10-24,fhrs_exempt_en-GB,Exempt,,FHRS,
-36190,Greggs,27 Town Square,Town Centre,Stevenage,Greggs Bakers,Retailers - other,4613,0,,349574,0,,51.90189300000000,16660/0027/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20236100000000,SG1 1BP,2013-11-28,fhrs_5_en-GB,5,,FHRS,0
-36191,Roebuck Retail Park,Stevenage,Herts,,Halfords,Retailers - other,4613,10,,623322,0,,51.88882800000000,07/00020/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19826100000000,SG1 1XU,2013-12-17,fhrs_4_en-GB,4,,FHRS,0
-36192,Roaring Meg Retail Park,Harvester Restaurant,London Road,Stevenage,Harvester Restaurant,Pub/bar/nightclub,7843,5,,349480,5,,51.90925100000000,14070/1032/3/002,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 1XJ,2013-06-21,fhrs_4_en-GB,4,,FHRS,10
-36193,Hassan Balti,7 Emperors Gate,Stevenage,Herts,Hassan Balti,Takeaway/sandwich shop,7844,10,,349406,5,,51.91609400000000,12360/0007/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16124000000000,SG2 7QX,2013-11-11,fhrs_3_en-GB,3,,FHRS,10
-36194,12B Parsons Green Estate,Boulton Road,Stevenage,Herts,Heavenly Cakes,Other catering premises,7841,0,,349230,0,,51.92516700000000,09/00046/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16527600000000,SG1 4QG,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-36195,,,,,High Street Methodist Church,Other catering premises,7841,0,,674276,0,,,14/00032/MULT,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-06-05,fhrs_5_en-GB,5,,FHRS,5
-36196,Hings Chinese Takeaway,12 Popple Way,Stevenage,Herts,Hings Chinese Takeaway,Takeaway/sandwich shop,7844,0,,349518,5,,51.90773500000000,15190/0012/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19807200000000,SG1 3TG,2013-07-29,fhrs_5_en-GB,5,,FHRS,5
-36197,"HMV, Plc UNIT 1",The Forum,Town Centre,Stevenage,HMV,Other catering premises,7841,,,349263,,,51.90435800000000,10/00037/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20243700000000,SG1 1ES,2013-11-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-36198,St. Georges Way,Stevenage,Herts,,Holiday Inn,Hotel/bed & breakfast/guest house,7842,0,,349199,0,,51.90046100000000,08/00060/HOTEL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19868300000000,SG1 1HS,2013-10-24,fhrs_5_en-GB,5,,FHRS,5
-36199,44 Queensway,Town Centre,Stevenage,Herts,Holland & Barrett,Retailers - other,4613,,,349525,,,51.90246300000000,15300/0044/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20198900000000,SG1 1EE,2013-07-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-36200,Unit 5,Hollywood Bowl/ Bar Brewing Origina,Stevenage Leisure Park,Kings Way,Hollywood Bowl,Restaurant/Cafe/Canteen,1,0,,349466,5,,51.89980400000000,13770/0005/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2013-09-14,fhrs_5_en-GB,5,,FHRS,5
-36201,Home Bargins UNIT 9,The Forum,Town Centre,Stevenage,Home Bargins,Retailers - other,4613,,,349280,,,51.90435800000000,10/00071/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20243700000000,SG1 1ES,2013-11-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-36202,Monkswood Retail Park,Elder Way,Stevenage,Herts,Home Bargins,Retailers - other,4613,0,,706595,0,,51.89448000000000,14/00046/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19915400000000,SG1 1TL,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-36203,,,,,House Of Mmmmm,Other catering premises,7841,0,,510267,0,,,13/00001/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2012-12-07,fhrs_5_en-GB,5,,FHRS,0
-36204,Indoor Market,9 St. Georges Way,Stevenage,Herts,Hurrens,Retailers - other,4613,5,,349550,5,,51.90217915629750,16110/1009/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19941489092504,,2014-11-26,fhrs_5_en-GB,5,,FHRS,5
-36205,Unit 9,Hurrens Stevenage Ltd,Stevenage Enterprise Centre,Orchard Road,Hurrens Butchers,Retailers - other,4613,0,,349512,0,,51.91426000000000,14930/0009/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21376100000000,SG1 3HH,2013-04-05,fhrs_5_en-GB,5,,FHRS,0
-36206,22 The Hyde,Stevenage,Herts,,Hyde Cafe Ltd,Restaurant/Cafe/Canteen,1,5,,349175,10,,51.89300400000000,07/00015/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16879500000000,SG2 9SB,2014-03-26,fhrs_4_en-GB,4,,FHRS,0
-36207,The Forum,Town Centre,Stevenage,Herts,Ibis Hotel,Hotel/bed & breakfast/guest house,7842,5,,349603,5,,51.90355700000000,17710/1003/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20355900000000,SG1 1EJ,2013-02-28,fhrs_5_en-GB,5,,FHRS,5
-36208,Michael Faraday House,Six Hills Way,Stevenage,Herts,Institution Of Electrical Engineers,Restaurant/Cafe/Canteen,1,0,,349544,5,,51.90023000000000,15920/1005/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17433000000000,SG2 0QA,2014-05-27,fhrs_5_en-GB,5,,FHRS,0
-36209,20 The Oval,Stevenage,Herts,,International Superstore,Retailers - other,4613,20,,706596,0,,51.91830400000000,14/00047/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17957400000000,SG1 5RB,2014-09-25,fhrs_1_en-GB,1,,FHRS,10
-36210,20 Park Place,Town Centre,Stevenage,Herts,J & J Continental Stores,Retailers - other,4613,20,,606575,5,,51.90627600000000,13/00115/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19616800000000,SG1 3TA,2013-10-07,fhrs_1_en-GB,1,,FHRS,10
-36211,Burger Huts At Stevenage Borough F,Broadhall Way,Stevenage,Herts,J B Catering,Takeaway/sandwich shop,7844,0,,510266,0,,51.88743000000000,12/00058/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17868500000000,SG2 8RH,2014-08-12,fhrs_5_en-GB,5,,FHRS,0
-36212,Jack's Pantry,111 Bedwell Crescent,Stevenage,Herts,Jack's Pantry,Restaurant/Cafe/Canteen,1,10,,349294,10,,51.90225500000000,10580/0111/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18900200000000,SG1 1NA,2014-04-25,fhrs_4_en-GB,4,,FHRS,0
-36213,Jade Garden,115 Bedwell Crescent,Stevenage,Herts,Jade Garden,Restaurant/Cafe/Canteen,1,0,,349295,5,,51.90225500000000,10580/0115/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18900200000000,SG1 1NA,2013-12-12,fhrs_5_en-GB,5,,FHRS,5
-36214,Jade Palace,23-25 Middle Row,Stevenage,Herts,Jade Palace Chinese Cuisine,Restaurant/Cafe/Canteen,1,5,,349497,0,,51.91114600000000,14540/0023/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20766200000000,SG1 3AW,2013-11-27,fhrs_5_en-GB,5,,FHRS,5
-36215,Jasmine Garden,58 Rockingham Way,Stevenage,Herts,Jasmine Garden,Takeaway/sandwich shop,7844,0,,349393,0,,51.89794500000000,12/00049/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19237300000000,SG1 1SJ,2013-07-22,fhrs_5_en-GB,5,,FHRS,0
-36216,,,,,Jayelcees Event Catering,Other catering premises,7841,0,,349356,0,,,11/00089/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-07-12,fhrs_5_en-GB,5,,FHRS,0
-36217,The Annexe,145 Scarborough Avenue,Stevenage,Herts,Jelly Tots Pre School,Hospitals/Childcare/Caring Premises,5,5,,349535,0,,51.91490500000000,15660/0145/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21897000000000,SG1 2HQ,2014-04-04,fhrs_5_en-GB,5,,FHRS,0
-36218,Jenn Che,23 The Oval,Stevenage,Herts,Jenn Che,Takeaway/sandwich shop,7844,0,,349570,0,,51.91888100000000,16480/0023/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17912900000000,SG1 5RD,2014-12-17,fhrs_5_en-GB,5,,FHRS,0
-36219,Indoor Market,Market Square,Stevenage,Herts,JJ's Cafe,Takeaway/sandwich shop,7844,20,,349203,0,,51.90192900000000,08/00083/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20067700000000,,2014-10-22,fhrs_1_en-GB,1,,FHRS,5
-36220,JKEA Filipino And Oriental Food Sto,17 The Hyde,Stevenage,Herts,JKEA Filipino & Oriental Food Store,Retailers - other,4613,0,,349160,10,,51.89253700000000,04/00059/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16939600000000,SG2 9SD,2013-02-28,fhrs_4_en-GB,4,,FHRS,0
-36221,John Henry Newman School,Hitchin Road,Stevenage,Herts,John Henry Newman School,School/college/university,7845,0,,349458,0,,51.92069500000000,13340/0027/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21477100000000,SG1 4AE,2014-09-19,fhrs_5_en-GB,5,,FHRS,0
-36222,97 High Street,Stevenage,Herts,,Johnny's Fish Bar,Takeaway/sandwich shop,7844,0,,349259,0,,51.91025700000000,10/00032/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20720300000000,SG1 3HR,2014-04-29,fhrs_5_en-GB,5,,FHRS,0
-36223,Hayward Close,Stevenage,Herts,,Jubilee Court,Hospitals/Childcare/Caring Premises,5,0,,510268,5,,51.90873400000000,13/00003/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18759300000000,SG1 5BS,2014-07-28,fhrs_5_en-GB,5,,FHRS,0
-36224,,,,,Just 4U Cakes,Other catering premises,7841,5,,349346,0,,,11/00076/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-09-08,fhrs_5_en-GB,5,,FHRS,5
-36225,37 Wedgwood Way,Stevenage,Herts,,Just Chicken And Fat Jacks,Takeaway/sandwich shop,7844,5,,421821,10,,51.92642800000000,12/00056/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16999500000000,SG1 4QT,2014-05-13,fhrs_3_en-GB,3,,FHRS,10
-36226,3 Kenilworth Close,Stevenage,Herts,,K Express,Retailers - other,4613,10,,349323,0,,51.87482900000000,11/00022/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16632300000000,SG2 8TB,2012-11-12,fhrs_4_en-GB,4,,FHRS,5
-36227,10 Fishers Green Road,Stevenage,Herts,,Kandola Food Stores,Retailers - other,4613,10,,349209,10,,51.91627100000000,09/00010/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21654600000000,SG1 2PB,2014-05-09,fhrs_3_en-GB,3,,FHRS,5
-36228,Kandola Food Stores,122-124 Oaks Cross,Stevenage,Herts,Kandola General Store,Retailers - other,4613,10,,349509,10,,51.88509700000000,14880/0122/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17090400000000,SG2 8LU,2013-07-25,fhrs_3_en-GB,3,,FHRS,10
-36229,24 - 26 The Forum,Town Centre,Stevenage,Herts,Kaprys Polish Delicatessen,Other catering premises,7841,20,,537548,5,,51.90372100000000,13/00011/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20250600000000,SG1 1EH,2013-03-21,fhrs_1_en-GB,1,,FHRS,5
-36230,,,,,Kayleighs Kakes,Other catering premises,7841,,,637355,,,,14/00012/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-02-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-36231,,,,,Kays Cakebox,Other catering premises,7841,,,569316,,,,13/00089/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-07-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-36232,,,,,Keeley Cakes/Shades Of Colour,Restaurant/Cafe/Canteen,1,0,,558356,0,,,12/00076/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2012-10-26,fhrs_5_en-GB,5,,FHRS,0
-36233,Unit 17,Kentucky Fried Chicken,Stevenage Leisure Park,Kings Way,KFC,Takeaway/sandwich shop,7844,0,,349469,0,,51.89980400000000,13770/0017/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-03-21,fhrs_5_en-GB,5,,FHRS,5
-36234,1 Filey Close,Stevenage,Herts,,King Pizza And Kebab,Takeaway/sandwich shop,7844,5,,349344,5,,51.91287800000000,11/00073/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.22169600000000,SG1 2JW,2014-10-14,fhrs_4_en-GB,4,,FHRS,10
-36235,,,,,Kittys Cakes And Bakes,Other catering premises,7841,,,623325,,,,13/00135/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-12-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-36236,Railway Station,Lytton Way,Stevenage,Herts,L.A Golden Bean,Other catering premises,7841,10,,537546,5,,51.90765700000000,13/00009/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20944300000000,SG1 1HH,2013-03-07,fhrs_4_en-GB,4,,FHRS,0
-36237,Monkswood Way,Stevenage,Herts,,La Snack Shack,Takeaway/sandwich shop,7844,5,,349164,0,,51.89476000000000,05/00048/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19924500000000,SG1 1XP,2013-07-18,fhrs_5_en-GB,5,,FHRS,0
-36238,,,,,LadyBug Cake Company,Other catering premises,7841,,,628616,,,,14/00006/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-01-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-36239,Larwood School,Webb Rise,Stevenage,Herts,Larwood School,School/college/university,7845,0,,349585,0,,51.91092700000000,17030/1004/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18868300000000,SG1 5QU,2013-09-18,fhrs_5_en-GB,5,,FHRS,0
-36240,,,,,Le Mare Chocolat,Other catering premises,7841,0,,349206,0,,,09/00003/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-02-25,fhrs_5_en-GB,5,,FHRS,0
-36241,,,,,Let Them Eat Cake,Other catering premises,7841,0,,421825,0,,,12/00062/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2012-07-06,fhrs_5_en-GB,5,,FHRS,0
-36242,Letchmore Road,Stevenage,Herts,,Letchmore Infants School,School/college/university,7845,0,,349474,0,,51.91370800000000,13930/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20114800000000,SG1 3PS,2013-07-16,fhrs_5_en-GB,5,,FHRS,0
-36243,Leys JMI School,Ripon Road,Stevenage,Herts,Leys JMI School,School/college/university,7845,0,,349531,0,,51.92665500000000,15470/1003/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17945400000000,SG1 4QZ,2013-10-18,fhrs_5_en-GB,5,,FHRS,0
-36244,9 Hitchin Road,Stevenage,Herts,,Life Opportunities Trust,Hospitals/Childcare/Caring Premises,5,0,,349454,0,,51.91621200000000,13340/0009/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21148800000000,SG1 3BJ,2014-07-11,fhrs_5_en-GB,5,,FHRS,5
-36245,Lister Hospital,Coreys Mill Lane,Stevenage,Herts,Lister Hospital,Hospitals/Childcare/Caring Premises,5,5,,349384,5,,51.92424900000000,11840/0001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21192500000000,SG1 4AB,2014-07-29,fhrs_5_en-GB,5,,FHRS,5
-36246,Mental Health Unit  Lister Hospital,Coreys Mill Lane,Stevenage,Herts,Lister Hospital,Hospitals/Childcare/Caring Premises,5,0,,349188,0,,51.92424900000000,08/00021/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21192500000000,SG1 4AB,2014-05-15,fhrs_5_en-GB,5,,FHRS,0
-36247,"Coptic Orthodox Church, Shephalbury",Shephalbury Park,Broadhall Way,Stevenage,Little Flock Montessori Nursery,Other catering premises,7841,,,482190,,,51.88603900000000,12/00079/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18006400000000,SG2 8NP,2012-10-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-36248,36 High Street,Stevenage,Herts,,Little Willow Home Gifts And Tea Room,Other catering premises,7841,0,,724404,0,,51.91272600000000,14/00052/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20930000000000,SG1 3EF,2014-11-12,fhrs_5_en-GB,5,,FHRS,0
-36249,Lloyds Chemist,Magpie Crescent,Stevenage,Herts,Lloyds Chemist,Retailers - other,4613,,,349494,,,51.89469400000000,14320/1017/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.15898900000000,SG2 7DU,2006-12-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-36250,Lloyds Pharmacy,84 High Street,Stevenage,Herts,Lloyds Chemist Retail Ltd,Retailers - other,4613,,,349445,,,51.91010400000000,13230/0084/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20776100000000,SG1 3DW,2009-06-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-36251,Mobbsbury Way,Stevenage,Herts,,Lodge Farm JMI School,School/college/university,7845,0,,349500,0,,,14610/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,SG2 0HR,2014-11-05,fhrs_5_en-GB,5,,FHRS,0
-36252,279-281 Archer Road,Stevenage,Herts,,Londis,Retailers - other,4613,10,,349285,0,,51.91009100000000,10140/0281/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18463100000000,SG1 5HF,2012-11-09,fhrs_4_en-GB,4,,FHRS,0
-36253,32 - 34 Queensway,Town Centre,Stevenage,Herts,Londis,Retailers - other,4613,5,,349391,5,,51.90075300000000,12/00022/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20130200000000,SG1 1BS,2012-01-20,fhrs_5_en-GB,5,,FHRS,5
-36254,Longfield Fire And Rescue Service,Hitchin Road,Stevenage,Herts,Longfield Social Club,Restaurant/Cafe/Canteen,1,0,,349456,5,,51.92069500000000,13340/0025/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21477100000000,SG1 4AE,2013-09-12,fhrs_5_en-GB,5,,FHRS,0
-36255,Longmeadow JMI School,Oaks Cross,Stevenage,Herts,Longmeadow JMI School,School/college/university,7845,0,,349511,0,,51.88333600000000,14880/1002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17161500000000,SG2 8LT,2013-02-28,fhrs_5_en-GB,5,,FHRS,5
-36256,Lucky Star,7 Hydean Way,Stevenage,Herts,Lucky Star Chinese Takeaway,Takeaway/sandwich shop,7844,5,,349238,0,,51.89257700000000,09/00074/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18302600000000,SG2 9XH,2014-05-29,fhrs_5_en-GB,5,,FHRS,0
-36257,M D Dispensing Chemist,4 Filey Close,Stevenage,Herts,M D Dispensing Chemist,Retailers - other,4613,,,349412,,,51.91298400000000,12530/0004/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.22156100000000,SG1 2JW,2014-04-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-36258,87 High Street,Stevenage,Herts,,Make A Shake,Other catering premises,7841,0,,637353,0,,51.91025700000000,14/00007/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20720300000000,SG1 3HR,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-36259,,,,,Mamma's Cakes,Other catering premises,7841,,,706593,,,,14/00043/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-09-15,fhrs_exempt_en-GB,Exempt,,FHRS,
-36260,Mandarin House,2 Filey Close,Stevenage,Herts,Mandarin House,Takeaway/sandwich shop,7844,20,,349411,10,,51.91298400000000,12530/0002/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.22156100000000,SG1 2JW,2014-10-14,fhrs_1_en-GB,1,,FHRS,15
-36261,Marks And Spencer Plc,85-87 Queensway,Town Centre,Stevenage,Marks & Spencer Plc,Retailers - supermarkets/hypermarkets,7840,0,,349527,0,,51.90325600000000,15300/0085/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20096900000000,SG1 1EB,2012-09-11,fhrs_5_en-GB,5,,FHRS,0
-36262,Marriotts School Sports Centre,Telford Avenue,Stevenage,Herts,Marrotts Sport Centre,Restaurant/Cafe/Canteen,1,10,,482193,0,,51.90681700000000,12/00082/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17700000000000,SG2 0AN,2014-05-09,fhrs_2_en-GB,2,,FHRS,15
-36263,Q3 Building,Caxton Way,Stevenage,Herts,Martin Impey,Restaurant/Cafe/Canteen,1,0,,482188,0,,51.89632600000000,12/00074/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21354200000000,SG1 2DF,2014-03-31,fhrs_5_en-GB,5,,FHRS,0
-36264,Martin's The Newsagents,17-19 The Oval,Stevenage,Herts,Martin McColl,Retailers - other,4613,,,349569,,,51.91855500000000,16480/0017/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17952000000000,SG1 5RA,2012-02-16,fhrs_exempt_en-GB,Exempt,,FHRS,
-36265,121 Bedwell Crescent,Stevenage,Herts,,Martins,Retailers - other,4613,,,349297,,,51.90225500000000,10580/0121/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18900200000000,SG1 1NA,2014-03-31,fhrs_exempt_en-GB,Exempt,,FHRS,
-36266,73-75 High Street,Stevenage,Herts,,Martins,Retailers - other,4613,,,349440,,,51.91025700000000,13230/0073/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20720300000000,SG1 3HR,2012-11-22,fhrs_exempt_en-GB,Exempt,,FHRS,
-36267,Martins,4 Chells Way,The Glebe,Stevenage,Martins The Newsagents,Retailers - other,4613,,,349557,,,51.90874900000000,16380/0004/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16998700000000,SG2 0DJ,2007-03-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-36268,Martins The Newsagents,1-3 The Hyde,Stevenage,Herts,Martins The Newsagents,Retailers - other,4613,,,349560,,,51.89253700000000,16430/0001/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16939600000000,SG2 9SD,2012-08-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-36269,Mildmay Road,Stevenage,Herts,,Martins Wood Primary School,School/college/university,7845,0,,349498,0,,51.91951600000000,14560/1002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17365000000000,SG1 5RT,2014-09-29,fhrs_5_en-GB,5,,FHRS,5
-36270,2 Parsons Green Estate,Boulton Road,Stevenage,Herts,Masoom Tandoori,Takeaway/sandwich shop,7844,0,,349207,0,,51.92516700000000,09/00006/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16527600000000,SG1 4QG,2014-09-30,fhrs_5_en-GB,5,,FHRS,5
-36271,63 Canterbury Way,Stevenage,Herts,,McColls,Retailers - other,4613,0,,706591,0,,51.92444600000000,14/00036/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18310600000000,SG1 4LJ,2014-08-26,fhrs_5_en-GB,5,,FHRS,0
-36272,McDonalds,21-23 Town Square,Town Centre,Stevenage,McDonalds,Restaurant/Cafe/Canteen,1,0,,349573,0,,51.90189300000000,16660/0021/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20236100000000,SG1 1BP,2013-04-29,fhrs_5_en-GB,5,,FHRS,5
-36273,Monkswood Retail Park,Elder Way,Stevenage,Herts,McDonalds Restaurants Ltd,Restaurant/Cafe/Canteen,1,0,,349402,5,,51.89448000000000,12290/1001/3/005,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19915400000000,SG1 1TL,2013-08-28,fhrs_5_en-GB,5,,FHRS,0
-36274,Unit 14,McDonalds,Stevenage Leisure Park,Kings Way,McDonalds Restaurants Ltd,Restaurant/Cafe/Canteen,1,0,,349467,0,,51.89980400000000,13770/0014/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-11-05,fhrs_5_en-GB,5,,FHRS,5
-36275,,,,,McQueen's Bakehouse,Other catering premises,7841,,,696346,,,,14/00038/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-08-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-36276,Danestrete,Stevenage,Herts,,Mecca Bingo,Pub/bar/nightclub,7843,0,,349395,5,,51.90026300000000,12000/0016/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20337100000000,SG1 1XB,2014-01-15,fhrs_4_en-GB,4,,FHRS,10
-36277,Medusa Bar Restaurant,1-3 Queensway,Town Centre,Stevenage,Medusa Bar Restaurant,Restaurant/Cafe/Canteen,1,5,,349521,5,,51.90065600000000,15300/0001/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20084100000000,SG1 1DA,2013-01-29,fhrs_5_en-GB,5,,FHRS,5
-36278,10 Queensway,Town Centre,Stevenage,Herts,Mega Kebab,Takeaway/sandwich shop,7844,0,,349265,0,,51.90075300000000,10/00039/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20130200000000,SG1 1BS,2014-03-26,fhrs_4_en-GB,4,,FHRS,10
-36279,33 Queensway,Town Centre,Stevenage,Herts,Mighty Pound,Retailers - other,4613,10,,635300,5,,51.90196600000000,13/00137/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20122400000000,SG1 1DN,2014-02-06,fhrs_3_en-GB,3,,FHRS,10
-36280,261 Broadwater Crescent,Stevenage,Herts,,Mogul Indian Tandoori Takeaway,Takeaway/sandwich shop,7844,10,,349166,10,,51.88193400000000,06/00009/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17861700000000,SG2 8ET,2014-05-28,fhrs_3_en-GB,3,,FHRS,5
-36281,Mohan Tandoori Restaurant,116 High Street,Stevenage,Herts,Mohan Tandoori Restaurant,Restaurant/Cafe/Canteen,1,5,,349451,5,,51.91010400000000,13230/0116/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20776100000000,SG1 3DW,2014-04-09,fhrs_4_en-GB,4,,FHRS,10
-36282,Moonlight Chinese  Takeaway,110 Oaks Cross,Stevenage,Herts,Moonlight Chinese Takeaway,Takeaway/sandwich shop,7844,0,,349507,0,,51.88509700000000,14880/0110/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17090400000000,SG2 8LU,2014-12-02,fhrs_4_en-GB,4,,FHRS,10
-36283,Mossbury JMI School,Webb Rise,Stevenage,Herts,Mossbury School,School/college/university,7845,0,,349584,0,,51.91309900000000,17030/1002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18142700000000,SG1 5PA,2013-03-18,fhrs_5_en-GB,5,,FHRS,5
-36284,Mothercare World Ltd,Monkswood Retail Park,Elder Way,Stevenage,Mothercare World,Retailers - other,4613,,,349401,,,51.89448000000000,12290/1001/3/004,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19915400000000,SG1 1TL,2008-04-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-36285,60A Queensway,Town Centre,Stevenage,Herts,Mr Simms,Retailers - other,4613,10,,349329,0,,51.90246300000000,11/00043/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20198900000000,SG1 1EE,2012-01-20,fhrs_4_en-GB,4,,FHRS,10
-36286,Unit 16,Mr Toppings,Stevenage Enterprise Centre,Orchard Road,Mr Toppings,Takeaway/sandwich shop,7844,0,,349513,0,,51.91426000000000,14930/0016/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21376100000000,SG1 3HH,2013-09-17,fhrs_4_en-GB,4,,FHRS,10
-36287,,,,,Mrs Bennetts Chutneys,Other catering premises,7841,0,,349321,0,,,11/00019/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-05-28,fhrs_5_en-GB,5,,FHRS,5
-36288,Unit 11,Nando's,Stevenage Leisure Park,Kings Way,Nando's,Restaurant/Cafe/Canteen,1,0,,349607,0,,51.89980400000000,999000040246,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-36289,,,,,Natalie's Bakery,Other catering premises,7841,5,,349310,0,,,11/00007/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2012-01-23,fhrs_5_en-GB,5,,FHRS,0
-36290,New Fisherman's Wharf Ltd,67A Albert Street,Stevenage,Herts,New Fishermans Wharf Ltd,Takeaway/sandwich shop,7844,0,,349181,0,,51.91121100000000,07/00041/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20546400000000,SG1 3NY,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-36291,25 Queensway,Town Centre,Stevenage,Herts,New Town Fish Bar,Other catering premises,7841,20,,349239,15,,51.90065600000000,09/00076/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20084100000000,SG1 1DA,2014-12-16,fhrs_1_en-GB,1,,FHRS,10
-36292,31 The Hyde,Stevenage,Herts,,New World,Takeaway/sandwich shop,7844,0,,349355,5,,51.89300400000000,11/00087/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16879500000000,SG2 9SB,2014-11-17,fhrs_5_en-GB,5,,FHRS,0
-36293,Newton General Store,48 Newton Road,Stevenage,Herts,Newton General Store,Retailers - other,4613,10,,717280,5,,51.90870600000000,14/00053/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17531000000000,SG2 0BX,2014-11-10,fhrs_4_en-GB,4,,FHRS,5
-36294,7 - 9 The Glebe,Chells Way,Stevenage,Herts,Nisa Local,Retailers - other,4613,0,,349211,5,,51.90910600000000,09/00012/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17039400000000,SG2 0DL,2014-09-02,fhrs_5_en-GB,5,,FHRS,5
-36295,Shephall View,Stevenage,Herts,,Noah's Ark Day Nursery,Hospitals/Childcare/Caring Premises,5,0,,349542,0,,51.89949600000000,15780/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18327000000000,SG1 1RR,2014-03-11,fhrs_5_en-GB,5,,FHRS,5
-36296,Nobel School,Mobbsbury Way,Stevenage,Herts,Nobel School,Restaurant/Cafe/Canteen,1,0,,349503,0,,51.91134800000000,14610/1006/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16828200000000,SG2 0HS,2013-03-06,fhrs_5_en-GB,5,,FHRS,5
-36297,North Hertsfordshire College Units,Fulton Close,Stevenage,Herts,North Hertfordshire College,School/college/university,7845,0,,349267,0,,51.90191300000000,10/00043/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20957000000000,SG1 2AF,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-36298,71 Queensway,Town Centre,Stevenage,Herts,Nosh,Other catering premises,7841,5,,482187,5,,51.90196600000000,12/00073/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20122400000000,SG1 1DN,2014-01-23,fhrs_2_en-GB,2,,FHRS,15
-36299,Novotel,Knebworth Park,Old Knebworth,Knebworth,Novotel Stevenage,Hotel/bed & breakfast/guest house,7842,0,,349470,0,,51.88631300000000,13780/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20725500000000,SG1 2AX,2014-09-25,fhrs_5_en-GB,5,,FHRS,5
-36300,120 Oaks Cross,Stevenage,Herts,,Oaks Cross Fish Bar,Takeaway/sandwich shop,7844,0,,349195,5,,51.88509700000000,08/00037/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17090400000000,SG2 8LU,2013-07-26,fhrs_4_en-GB,4,,FHRS,10
-36301,118 Oaks Cross,Stevenage,Herts,,Oaks Cross Pharmacy,Retailers - other,4613,,,349508,,,51.88509700000000,14880/0118/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17090400000000,SG2 8LU,2014-12-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-36302,Ocean Delight Fish Bar,56 Rockingham Way,Stevenage,Herts,Ocean Delight Fish Bar,Takeaway/sandwich shop,7844,0,,349533,0,,51.89794500000000,15480/0056/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19237300000000,SG1 1SJ,2014-12-11,fhrs_4_en-GB,4,,FHRS,10
-36303,Ocean Fish Bar,19 The Hyde,Stevenage,Herts,Ocean Fish Bar,Takeaway/sandwich shop,7844,0,,349566,5,,51.89253700000000,16430/0019/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16939600000000,SG2 9SD,2014-09-19,fhrs_4_en-GB,4,,FHRS,10
-36304,Old Red Lion PH,Hydean Way,Stevenage,Herts,Old Red Lion,Pub/bar/nightclub,7843,5,,349461,5,,51.89103300000000,13470/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17678100000000,SG2 9XR,2014-05-30,fhrs_5_en-GB,5,,FHRS,5
-36305,Springfield House Community Centre,24 High Street,Stevenage,Herts,Old Stevenage Community Association,Other catering premises,7841,0,,349425,0,,51.91402000000000,13230/0024/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20985900000000,SG1 3EJ,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-36306,Old Town Fish Bar,46 High Street,Stevenage,Herts,Old Town Fish Bar,Takeaway/sandwich shop,7844,5,,349431,10,,51.91272600000000,13230/0046/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20930000000000,SG1 3EF,2013-09-03,fhrs_4_en-GB,4,,FHRS,5
-36307,98-100 Broadwater Crescent,Stevenage,Herts,,One Stop Convenience Store,Retailers - other,4613,5,,349360,0,,51.88538000000000,11030/0098/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18806800000000,SG2 8EE,2014-01-24,fhrs_5_en-GB,5,,FHRS,5
-36308,Unit 13,Stevenage Enterprise Centre,Orchard Road,Stevenage,Oriental Express,Takeaway/sandwich shop,7844,0,,349353,0,,51.91426000000000,11/00084/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21376100000000,SG1 3HH,2013-04-29,fhrs_5_en-GB,5,,FHRS,5
-36309,Our Mutual Friend Public House,Broadwater Crescent,Stevenage,Herts,Our Mutual Friend,Pub/bar/nightclub,7843,5,,349368,0,,51.88772000000000,11030/1002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18762500000000,SG2 8RG,2014-04-10,fhrs_5_en-GB,5,,FHRS,0
-36310,Oval Pharmacy,8 The Oval,Stevenage,Herts,Oval Pharmacy,Retailers - other,4613,,,349568,,,51.91830400000000,16480/0008/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17957400000000,SG1 5RB,2007-02-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-36311,Unit 14,Pappadom Express,Stevenage Enterprise Centre,Orchard Road,Pappadom Express,Other catering premises,7841,10,,349218,0,,51.91426000000000,09/00027/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21376100000000,SG1 3HH,2013-03-26,fhrs_4_en-GB,4,,FHRS,5
-36312,"Partyman World, 11B Roaring Meg",London Road,Stevenage,Herts,"Partyman World, Laser Kombat, Twizzle Tops Nursery",Other catering premises,7841,10,,537544,0,,,13/00006/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,SG1 1XJ,2014-02-27,fhrs_4_en-GB,4,,FHRS,5
-36313,,,,,Patisserie Six,Other catering premises,7841,0,,628614,0,,,14/00004/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-06-17,fhrs_5_en-GB,5,,FHRS,5
-36314,"Unit A, Dunelm Mill",Roebuck Retail Park,London Road,Stevenage,Pausa Cafe,Other catering premises,7841,0,,349176,0,,,07/00016/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,SG1 1XL,2014-10-03,fhrs_5_en-GB,5,,FHRS,0
-36315,Hydean Way,Stevenage,Herts,,Peartree Spring Infant And Peartree Spring Junior School,School/college/university,7845,0,,349537,0,,51.89257700000000,15670/0190/3/001,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18302600000000,SG2 9XH,2013-07-17,fhrs_5_en-GB,5,,FHRS,0
-36316,Perfect Pizza,115-117 High Street,Stevenage,Herts,Perfect Pizza,Takeaway/sandwich shop,7844,0,,349450,0,,51.90944300000000,13230/0115/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20684300000000,SG1 3HS,2013-09-04,fhrs_5_en-GB,5,,FHRS,5
-36317,Fry Road,Stevenage,Herts,,Phoenix Nursery,Hospitals/Childcare/Caring Premises,5,0,,349165,0,,51.90202200000000,06/00003/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16873400000000,SG2 0QG,2013-09-30,fhrs_5_en-GB,5,,FHRS,5
-36318,Pin Green Community Centre,291 Archer Road,Stevenage,Herts,Pin Green Community Centre,Other catering premises,7841,10,,349287,0,,51.91009100000000,10140/0291/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18463100000000,SG1 5HF,2014-04-23,fhrs_4_en-GB,4,,FHRS,0
-36319,Pine Lodge Care Home,Graveley Road,Stevenage,Hertfordshire,Pinelodge Care Home,Hospitals/Childcare/Caring Premises,5,10,,349328,15,,51.92762600000000,11/00041/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21523700000000,SG1 4YS,2014-08-08,fhrs_2_en-GB,2,,FHRS,5
-36320,,,,,Pink Daisy Cake Room,Other catering premises,7841,5,,687512,0,,,14/00024/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-07-10,fhrs_5_en-GB,5,,FHRS,0
-36321,124 - 126 High Street,Stevenage,Herts,,Pizza Express,Restaurant/Cafe/Canteen,1,0,,349180,0,,51.91010400000000,07/00032/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20776100000000,SG1 3DW,2014-08-13,fhrs_5_en-GB,5,,FHRS,0
-36322,30 The Forum,Town Centre,Stevenage,Herts,Pizza Go Go,Takeaway/sandwich shop,7844,0,,623326,10,,51.90372100000000,13/00138/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20250600000000,SG1 1EH,2014-01-07,fhrs_4_en-GB,4,,FHRS,0
-36323,Roaring Meg Retail Park,Pizza Hut,London Road,Stevenage,Pizza Hut,Restaurant/Cafe/Canteen,1,0,,349482,0,,51.90925100000000,14070/1032/3/011,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 1XJ,2013-03-25,fhrs_5_en-GB,5,,FHRS,5
-36324,52A High Street,Stevenage,Herts,,Pizza Hut Delivery,Takeaway/sandwich shop,7844,0,,628612,0,,51.91272600000000,13/00128/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20930000000000,SG1 3EF,2013-12-04,fhrs_5_en-GB,5,,FHRS,0
-36325,Unit 10,Pizza Hut,Stevenage Leisure Park,Kings Way,Pizza Hut UK Ltd,Restaurant/Cafe/Canteen,1,5,,349154,5,,51.89980400000000,04/00042/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2013-08-29,fhrs_4_en-GB,4,,FHRS,10
-36326,Poachers,129 Bedwell Crescent,Stevenage,Herts,Poachers,Pub/bar/nightclub,7843,10,,349298,5,,51.90225500000000,10580/0129/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18900200000000,SG1 1NA,2014-04-15,fhrs_4_en-GB,4,,FHRS,0
-36327,12 - 14 Willows Link,Stevenage,Herts,,Pod53,Other catering premises,7841,5,,537545,0,,51.88255600000000,13/00008/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17869300000000,SG2 8AR,2013-03-08,fhrs_5_en-GB,5,,FHRS,0
-36328,Magpie Crescent,Stevenage,Herts,,Poplars Fish Bar,Takeaway/sandwich shop,7844,0,,349186,5,,51.89469400000000,08/00016/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.15898900000000,SG2 9RZ,2014-03-07,fhrs_5_en-GB,5,,FHRS,5
-36329,Poundland Ltd.,103 Queensway,Town Centre,Stevenage,Poundland,Retailers - other,4613,5,,349530,0,,51.90362100000000,15300/0103/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20131800000000,SG1 1EA,2014-03-03,fhrs_5_en-GB,5,,FHRS,0
-36330,Six Hills Way,Stevenage,Herts,,Premier Inn,Hotel/bed & breakfast/guest house,7842,0,,349162,5,,51.89557300000000,05/00007/HOTEL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21249600000000,SG1 2DD,2013-11-29,fhrs_4_en-GB,4,,FHRS,10
-36331,128 - 130 High Street,Stevenage,Herts,,Prezzo,Restaurant/Cafe/Canteen,1,0,,349167,0,,51.90871800000000,06/00010/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20706100000000,SG1 3DB,2014-06-03,fhrs_5_en-GB,5,,FHRS,5
-36332,Prezzo,Stevenage Leisure Park,Kings Way,Stevenage,Prezzo Plc,Restaurant/Cafe/Canteen,1,0,,349193,5,,51.89980400000000,08/00034/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 2UA,2014-06-19,fhrs_5_en-GB,5,,FHRS,5
-36333,Primark Stores Ltd,6-8 Town Square,Town Centre,Stevenage,Primark Stores Ltd,Retailers - other,4613,,,349572,,,51.90925100000000,16660/0006/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 1BE,2014-03-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-36334,Psycare Hostels Ltd Winnett Cottage,111 Hertford Road,Stevenage,Herts,Psycare Hostels Ltd,Hospitals/Childcare/Caring Premises,5,,,349422,,,51.87607100000000,13210/0111/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17220000000000,SG2 8SH,2014-02-20,fhrs_exempt_en-GB,Exempt,,FHRS,
-36335,"Costa Coffe, Stevenage Railway Stat",Lytton Way,Stevenage,Herts,Puccinos,Other catering premises,7841,,,349264,,,51.90168700000000,10/00038/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20710800000000,SG1 1XT,2013-09-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-36336,Pond Close,Stevenage,Herts,,Pumped Gym,Other catering premises,7841,10,,482186,10,,51.91392000000000,12/00072/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20740600000000,SG1 3QP,2014-10-20,fhrs_3_en-GB,3,,FHRS,5
-36337,Q D Stores Ltd,29 Town Square,Town Centre,Stevenage,QD Stores Limited,Retailers - other,4613,,,349575,,,51.90189300000000,16660/0029/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20236100000000,SG1 1BP,2013-10-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-36338,Timebridge Community Centre,Mobbsbury Way,Stevenage,Herts,Rainbows End Pre School,Hospitals/Childcare/Caring Premises,5,,,349502,,,51.91146700000000,14610/1005/3/001,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16957100000000,SG2 0HT,2014-05-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-36339,London Road,Stevenage,Herts,,Roebuck Nursing Home,Hospitals/Childcare/Caring Premises,5,0,,349246,0,,51.88348200000000,10/00009/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19030900000000,SG2 8DS,2014-08-28,fhrs_5_en-GB,5,,FHRS,5
-36340,Roebuck J M And Infants School,St. Margarets,Stevenage,Herts,Roebuck Primary School,School/college/university,7845,0,,349552,0,,51.88772000000000,16120/1002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18762500000000,SG2 8RG,2014-11-06,fhrs_5_en-GB,5,,FHRS,0
-36341,19 Town Square,Town Centre,Stevenage,Herts,Roosters Spot Ltd,Takeaway/sandwich shop,7844,20,,349314,15,,51.90189300000000,11/00012/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20236100000000,SG1 1BP,2014-07-10,fhrs_1_en-GB,1,,FHRS,5
-36342,31 The Oval,Stevenage,Herts,,Royal Pizza And Kebab,Takeaway/sandwich shop,7844,0,,349268,5,,51.91888100000000,10/00050/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17912900000000,SG1 5RD,2014-01-29,fhrs_5_en-GB,5,,FHRS,0
-36343,Rupa Tandoori Take Away,87 Mobbsbury Way,Stevenage,Herts,Rupa Tandoori,Takeaway/sandwich shop,7844,5,,349210,5,,51.91391300000000,09/00011/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17130400000000,SG2 0HY,2013-10-21,fhrs_4_en-GB,4,,FHRS,10
-36344,S & R Newsagent & Supermarket,549 Lonsdale Road,Stevenage,Herts,S & R Newsagent & Supermarket,Retailers - other,4613,10,,349485,0,,51.91318900000000,14230/0549/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19075800000000,SG1 5DZ,2013-07-15,fhrs_2_en-GB,2,,FHRS,15
-36345,S L Anderson Chemists Ltd,8 The Hyde,Stevenage,Herts,S L Anderson Chemists Ltd,Retailers - other,4613,,,349562,,,51.89233300000000,16430/0008/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16899700000000,SG2 9SE,2012-07-19,fhrs_exempt_en-GB,Exempt,,FHRS,
-36346,J Sainsbury Plc,Hitchin Road,Stevenage,Herts,Sainsburys Coreys Mill,Retailers - supermarkets/hypermarkets,7840,0,,349457,0,,51.92069500000000,13340/0026/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21477100000000,SG1 4AE,2013-09-16,fhrs_5_en-GB,5,,FHRS,0
-36347,Sainsburys Superstore,Magpie Crescent,Stevenage,Herts,Sainsbury's Plc,Retailers - supermarkets/hypermarkets,7840,0,,349493,0,,51.89469400000000,14320/1015/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.15898900000000,SG2 7DU,2014-04-28,fhrs_5_en-GB,5,,FHRS,5
-36348,Sampan Chinese Takeaway,121 High Street,Stevenage,Herts,Sampan Chinese Takeaway,Takeaway/sandwich shop,7844,10,,349452,10,,51.90944300000000,13230/0121/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20684300000000,SG1 3HS,2014-03-27,fhrs_3_en-GB,3,,FHRS,10
-36349,,,,,Scrumptious Bakes,Other catering premises,7841,0,,349341,0,,,11/00065/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-06-18,fhrs_5_en-GB,5,,FHRS,0
-36350,Westgate,Town Centre,Stevenage,Herts,Shake It,Other catering premises,7841,10,,674275,10,,51.90295400000000,14/00029/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20239100000000,SG1 1QR,2014-05-15,fhrs_3_en-GB,3,,FHRS,10
-36351,Bradman Way,Stevenage,Herts,,Shell Stevenage,Retailers - other,4613,10,,349303,0,,51.91953400000000,10870/0078/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17833100000000,SG1 5RE,2013-05-23,fhrs_4_en-GB,4,,FHRS,5
-36352,Lonsdale Road,Stevenage,Herts,,Shell Stevenage,Retailers - other,4613,5,,349487,0,,51.90647700000000,14230/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18586700000000,SG1 5ES,2013-05-31,fhrs_5_en-GB,5,,FHRS,0
-36353,Burydale,Stevenage,Herts,,Shephalbury Park Primary School,School/college/university,7845,0,,349372,5,,51.84004974365230,11210/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.27510499954224,SG2 8AX,2014-05-13,fhrs_5_en-GB,5,,FHRS,5
-36354,Shephall Centre,Shephall Green,Stevenage,Herts,Shephall Community Centre,Other catering premises,7841,0,,349540,0,,51.89103300000000,15760/1005/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17678100000000,SG2 9XR,2014-09-18,fhrs_5_en-GB,5,,FHRS,5
-36355,,,,,Sheralyns Cake & Bakes,Other catering premises,7841,,,628613,,,,14/00003/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-01-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-36356,Shortys Off Licence,117 Bedwell Crescent,Stevenage,Herts,Shortys Off Licence Ltd,Retailers - other,4613,0,,349331,10,,51.90225500000000,11/00046/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18900200000000,SG1 1NA,2013-08-08,fhrs_4_en-GB,4,,FHRS,10
-36357,Simmons (Bakers),4A Westgate,Town Centre,Stevenage,Simmons Bakers,Retailers - other,4613,0,,349591,0,,51.90295400000000,17120/0004/A/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20239100000000,SG1 1QR,2014-08-18,fhrs_5_en-GB,5,,FHRS,0
-36358,Simmons Bakers,65 High Street,Stevenage,Herts,Simmons Bakers Ltd,Retailers - other,4613,0,,349437,0,,51.91114000000000,13230/0065/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20789500000000,SG1 3AQ,2014-10-22,fhrs_5_en-GB,5,,FHRS,0
-36359,,,,,Simply Home Foods,Takeaway/sandwich shop,7844,0,,349392,0,,,12/00047/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-08-09,fhrs_5_en-GB,5,,FHRS,5
-36360,Pitch 1,Boulton Road,Stevenage,Herts,Snack Attack,Takeaway/sandwich shop,7844,10,,691439,5,,51.92612000000000,14/00039/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16581900000000,SG1 4QX,2014-07-28,fhrs_4_en-GB,4,,FHRS,5
-36361,Lytton Way Service Station,Lytton Way,Stevenage,Herts,Snack N Shop,Retailers - other,4613,0,,349490,0,,51.90765700000000,14280/1007/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20944300000000,SG1 1HH,2014-03-20,fhrs_4_en-GB,4,,FHRS,10
-36362,Glaxo SmithKline Research And  Deve,Gunnels Wood Road,Stevenage,Herts,Sodexo,Other catering premises,7841,0,,349272,5,,51.89611900000000,10/00059/SREST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20286800000000,SG1 2NY,2014-05-20,fhrs_5_en-GB,5,,FHRS,5
-36363,,,,,Sophie Victoria Cupcakes,Other catering premises,7841,,,569317,,,,13/00090/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-07-01,fhrs_exempt_en-GB,Exempt,,FHRS,
-36364,14 Parsons Green Estate,Boulton Road,Stevenage,Herts,Spice Kitchen,Takeaway/sandwich shop,7844,0,,349262,5,,51.92516700000000,10/00036/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16527600000000,SG1 4QG,2013-10-16,fhrs_5_en-GB,5,,FHRS,5
-36365,99 High Street,Stevenage,Herts,,Spice Rouge,Restaurant/Cafe/Canteen,1,5,,349281,5,,51.91025700000000,10/00072/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20720300000000,SG1 3HR,2014-03-26,fhrs_4_en-GB,4,,FHRS,10
-36366,Letchmore Infants School,Letchmore Road,Stevenage,Herts,Spring Meadows Breakfast And After School Club,School/college/university,7845,0,,617095,0,,51.91370800000000,13/00134/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20114800000000,SG1 3PS,2013-11-18,fhrs_5_en-GB,5,,FHRS,0
-36367,St. Margaret Clitherow Jmi School,Broadhall Way,Stevenage,Herts,St Margaret Clitherow JMI School,School/college/university,7845,0,,349359,5,,51.88743000000000,11010/0003/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17868500000000,SG2 8RH,2013-05-22,fhrs_5_en-GB,5,,FHRS,0
-36368,St Nicholas Community Centre,59 Canterbury Way,Stevenage,Herts,St Nicholas Community Centre,Other catering premises,7841,,,349374,,,51.92444600000000,11290/0059/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18310600000000,SG1 4LJ,2012-09-14,fhrs_exempt_en-GB,Exempt,,FHRS,
-36369,St. Nicholas Pharmacy,61 Canterbury Way,Stevenage,Herts,St Nicholas Pharmacy,Retailers - other,4613,,,349376,,,51.92444600000000,11290/0061/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18310600000000,SG1 4LJ,2012-02-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-36370,Turpins Rise,Stevenage,Herts,,St Pauls Methodist Church,Other catering premises,7841,,,349577,,,51.88531900000000,16760/1001/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18990100000000,SG2 8QR,2013-08-02,fhrs_exempt_en-GB,Exempt,,FHRS,
-36371,St Vincent De Paul RC JMI School,Bedwell Crescent,Stevenage,Herts,St Vincent De Paul Catholic Primary School,School/college/university,7845,0,,349301,0,,51.90577900000000,10580/1005/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18258100000000,SG1 1NJ,2014-02-06,fhrs_5_en-GB,5,,FHRS,0
-36372,St Nicholas JMI School,Six Hills Way,Stevenage,Herts,St. Nicholas JMI School,School/college/university,7845,0,,349545,0,,51.89843500000000,15920/1007/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18559500000000,SG2 0PZ,2014-06-16,fhrs_5_en-GB,5,,FHRS,0
-36373,St. Nicholas Public House,55 Canterbury Way,Stevenage,Herts,St. Nicholas PH,Pub/bar/nightclub,7843,10,,349373,5,,51.92444600000000,11290/0055/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18310600000000,SG1 4LJ,2014-08-04,fhrs_4_en-GB,4,,FHRS,5
-36374,,,,,Stacys Cupcake Bites,Other catering premises,7841,5,,349388,0,,,12/00004/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2012-01-19,fhrs_5_en-GB,5,,FHRS,0
-36375,The Wine Society,Gunnels Wood Road,Stevenage,Herts,Staff Resturant,Other catering premises,7841,0,,628615,0,,51.89611900000000,14/00005/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20286800000000,SG1 2BG,2014-01-09,fhrs_5_en-GB,5,,FHRS,0
-36376,1 The Plaza,Town Centre,Stevenage,Herts,Standard Bearer,Pub/bar/nightclub,7843,0,,349597,5,,51.90105100000000,17510/0001/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20258400000000,SG1 1PF,2013-02-21,fhrs_5_en-GB,5,,FHRS,5
-36377,Staples UNIT 11,The Forum,Town Centre,Stevenage,Staples UK,Other catering premises,7841,,,482195,,,51.90435800000000,17710/1006/3/011,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20243700000000,SG1 1ES,2012-10-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-36378,29 Queensway,Town Centre,Stevenage,Herts,Star Groceries,Retailers - other,4613,10,,546721,10,,51.90065600000000,13/00068/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20084100000000,SG1 1DA,2013-10-03,fhrs_3_en-GB,3,,FHRS,10
-36379,,,,,Starley Bakes,Other catering premises,7841,,,584200,,,,13/00105/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-09-05,fhrs_exempt_en-GB,Exempt,,FHRS,
-36380,Stearns Pharmacies,48 High Street,Stevenage,Herts,Stearns Pharmacies,Retailers - other,4613,,,349432,,,51.91272600000000,13230/0048/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20930000000000,SG1 3EF,2014-12-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-36381,Arts & Leisure Centre,Lytton Way,Stevenage,Herts,Stevenage Arts And Leisure Centre,Pub/bar/nightclub,7843,5,,349489,0,,51.90148700000000,14280/1004/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20521200000000,SG1 1LZ,2014-10-07,fhrs_5_en-GB,5,,FHRS,5
-36382,Stevenage Cafe,6 Park Place,Town Centre,Stevenage,Stevenage Cafe,Restaurant/Cafe/Canteen,1,5,,349514,0,,51.90250300000000,15040/0006/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20047600000000,SG1 1DP,2014-07-24,fhrs_5_en-GB,5,,FHRS,0
-36383,114 Oaks Cross,Stevenage,Herts,,Stevenage Charcoal Grill,Takeaway/sandwich shop,7844,5,,349257,10,,51.88509700000000,10/00030/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17090400000000,SG2 8LU,2014-12-11,fhrs_3_en-GB,3,,FHRS,10
-36384,15 The Oval,Stevenage,Herts,,Stevenage Family Butchers Ltd,Retailers - other,4613,5,,349250,0,,51.91855500000000,10/00021/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17952000000000,SG1 5RA,2014-04-07,fhrs_5_en-GB,5,,FHRS,5
-36385,Stevenage Fish Bar,5 Kenilworth Close,Stevenage,Herts,Stevenage Fish Bar,Takeaway/sandwich shop,7844,0,,349279,5,,51.87482900000000,10/00070/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16632300000000,SG2 8TB,2014-06-11,fhrs_5_en-GB,5,,FHRS,0
-36386,North Road,Stevenage,Herts,,Stevenage Garden Centre,Restaurant/Cafe/Canteen,1,0,,349505,0,,51.92844600000000,14770/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21062300000000,SG1 4AH,2014-07-11,fhrs_5_en-GB,5,,FHRS,5
-36387,Stevenage Golf & Conference Centre,4 Aston Lane,Aston,Stevenage,Stevenage Golf And Conference Centre,Pub/bar/nightclub,7843,0,,349288,0,,51.88446100000000,10320/0004/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.15610900000000,SG2 7EL,2014-03-04,fhrs_5_en-GB,5,,FHRS,0
-36388,1 The Glebe,Chells Way,Stevenage,Herts,Stevenage Halal Meat And Grocery,Retailers - other,4613,0,,349194,5,,51.90910600000000,08/00035/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17039400000000,SG2 0DL,2014-05-07,fhrs_5_en-GB,5,,FHRS,0
-36389,Ashtree JMI School,Chertsey Rise,Stevenage,Herts,Stevenage Play And Learning Activity Team Ltd,School/college/university,7845,5,,349338,0,,51.89659700000000,11/00062/MULT,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16508800000000,SG2 9JQ,2014-10-28,fhrs_5_en-GB,5,,FHRS,0
-36390,11 Hydean Way,Stevenage,Herts,,Stevenage Spice,Takeaway/sandwich shop,7844,20,,349225,10,,51.89257700000000,09/00040/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18302600000000,SG2 9XH,2014-11-18,fhrs_1_en-GB,1,,FHRS,10
-36391,4 Burwell Road,Stevenage,Herts,,Stop & Shop,Retailers - other,4613,10,,349318,0,,51.89713000000000,11/00016/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17043000000000,SG2 9RF,2013-05-01,fhrs_4_en-GB,4,,FHRS,0
-36392,Railway Station,Lytton Way,Stevenage,Herts,Street Kitchen,Other catering premises,7841,0,,724405,0,,51.90765700000000,14/00057/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20944300000000,SG1 1HH,2014-10-30,fhrs_5_en-GB,5,,FHRS,0
-36393,12 The Forum,Town Centre,Stevenage,Herts,Subway,Other catering premises,7841,0,,577944,0,,51.90372100000000,13/00094/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20250600000000,SG1 1EH,2013-07-11,fhrs_5_en-GB,5,,FHRS,5
-36394,39 High Street,Stevenage,Herts,,Subway,Takeaway/sandwich shop,7844,0,,349217,5,,51.91147500000000,09/00019/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20801200000000,SG1 3AH,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-36395,8 The Plaza,Town Centre,Stevenage,Herts,Subway,Restaurant/Cafe/Canteen,1,5,,349151,0,,51.90105100000000,04/00002/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20258400000000,SG1 1PF,2013-10-15,fhrs_5_en-GB,5,,FHRS,5
-36396,,,,,Sugar Plum Cakes And Preserves,Other catering premises,7841,0,,584202,0,,,13/00109/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-08-07,fhrs_5_en-GB,5,,FHRS,0
-36397,,,,,Sullivan's Sweet Treats,Other catering premises,7841,,,696347,,,,14/00040/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-08-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-36398,8 Burwell Road,Stevenage,Herts,,Sunflower,Takeaway/sandwich shop,7844,0,,349370,5,,51.89713000000000,11200/0008/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17043000000000,SG2 9RF,2013-07-03,fhrs_5_en-GB,5,,FHRS,5
-36399,Superdrug Stores Plc,39-41 Queensway,Town Centre,Stevenage,Superdrug Stores Plc,Retailers - other,4613,,,349523,,,51.90196600000000,15300/0039/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20122400000000,SG1 1DN,2012-07-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-36400,11 The Oval,Stevenage,Herts,,Supreme Cakes,Other catering premises,7841,10,,349228,5,,51.91855500000000,09/00043/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17952000000000,SG1 5RA,2014-09-16,fhrs_3_en-GB,3,,FHRS,10
-36401,Surma,44 High Street,Stevenage,Herts,Surma,Takeaway/sandwich shop,7844,0,,349430,5,,51.91272600000000,13230/0044/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20930000000000,SG1 3EF,2014-08-26,fhrs_5_en-GB,5,,FHRS,0
-36402,,,,,Sweet Candy Occasions,Other catering premises,7841,5,,609525,0,,,13/00123/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-10-31,fhrs_5_en-GB,5,,FHRS,0
-36403,,,,,Sweet Herts,Other catering premises,7841,5,,609528,0,,,13/00131/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-11-11,fhrs_5_en-GB,5,,FHRS,0
-36404,Indoor Market,St. Georges Way,Stevenage,Herts,Sweet Stall,Retailers - other,4613,,,349547,,,51.90217915629750,16110/1007/2/001,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19941489092504,,2012-09-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-36405,Filey Close,Stevenage,Herts,,Symonds Green Community Centre,Other catering premises,7841,,,349413,,,51.91298400000000,12530/1002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.22156100000000,SG1 2JW,2009-07-07,fhrs_exempt_en-GB,Exempt,,FHRS,
-36406,,,,,T & L's Catering Van,Takeaway/sandwich shop,7844,0,,674277,0,,,14/00033/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-06-02,fhrs_5_en-GB,5,,FHRS,0
-36407,Tk  Maxx UNIT 10,The Forum,Town Centre,Stevenage,T K Maxx,Retailers - other,4613,,,349605,,,51.90435800000000,17710/1006/3/010,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20243700000000,SG1 1ES,2013-11-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-36408,Taj Mahal Restaurant,70 High Street,Stevenage,Herts,Taj Mahal Restaurant,Other catering premises,7841,20,,635301,15,,51.91149300000000,14/00009/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 3EA,2014-01-24,fhrs_1_en-GB,1,,FHRS,5
-36409,The Taste Of India,48A High Street,Stevenage,Herts,Taste Of India,Restaurant/Cafe/Canteen,1,0,,349433,0,,51.91272600000000,13230/0048/A/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20930000000000,SG1 3EF,2014-09-29,fhrs_4_en-GB,4,,FHRS,10
-36410,Tesco Stores Ltd,Chells Way,Stevenage,Herts,Tesco Stores,Retailers - supermarkets/hypermarkets,7840,5,,510265,0,,51.90859300000000,11/00090/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17150500000000,SG2 0LU,2012-01-20,fhrs_5_en-GB,5,,FHRS,0
-36411,50 High Street,Stevenage,Herts,,Tesco Stores Ltd,Retailers - supermarkets/hypermarkets,7840,0,,349276,0,,51.91272600000000,10/00066/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20930000000000,SG1 3EF,2014-05-14,fhrs_5_en-GB,5,,FHRS,0
-36412,The Forum,Town Centre,Stevenage,Herts,Tesco Stores Ltd,Retailers - supermarkets/hypermarkets,7840,0,,349604,0,,51.90435800000000,17710/1004/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20243700000000,SG1 1ES,2014-08-20,fhrs_5_en-GB,5,,FHRS,5
-36413,Tesco Stores Ltd,London Road,Stevenage,Herts,Tesco Stores Plc,Retailers - supermarkets/hypermarkets,7840,0,,349475,0,,51.88388000000000,14070/0001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19224000000000,SG2 8DT,2013-02-26,fhrs_5_en-GB,5,,FHRS,0
-36414,Thai Pan (Pitch 15),Queensway,Town Centre,Stevenage,Thai Pan,Takeaway/sandwich shop,7844,10,,349242,5,,51.90196600000000,10/00005/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20122400000000,SG1 1DN,2014-11-26,fhrs_4_en-GB,4,,FHRS,5
-36415,18 Wedgwood Gate Industrial Estate,Wedgwood Way,Stevenage,Herts,The BIG Vending Company,Other catering premises,7841,0,,349149,0,,51.92514600000000,03/00035/MANU,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17081800000000,SG1 4SU,2013-08-09,fhrs_5_en-GB,5,,FHRS,0
-36416,Bombay Restaurant,77-79 High Street,Stevenage,Herts,The Bombay,Restaurant/Cafe/Canteen,1,10,,349443,0,,51.91025700000000,13230/0077/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20720300000000,SG1 3HR,2013-11-26,fhrs_4_en-GB,4,,FHRS,10
-36417,,,,,The Cake Lady,Other catering premises,7841,10,,349350,5,,,11/00080/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-09-30,fhrs_4_en-GB,4,,FHRS,5
-36418,The Chequers,164 High Street,Stevenage,Herts,The Chequers,Pub/bar/nightclub,7843,10,,349261,0,,51.90722800000000,10/00035/HOTEL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20669800000000,SG1 3LL,2013-11-14,fhrs_4_en-GB,4,,FHRS,0
-36419,The Chequers Public House,Bragbury End,Stevenage,Herts,The Chequers,Pub/bar/nightclub,7843,0,,349304,0,,51.87522300000000,10910/0001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.15873800000000,SG2 8TH,2014-05-27,fhrs_5_en-GB,5,,FHRS,5
-36420,The Choc Box,95 High Street,Stevenage,Herts,The Choc Box,Retailers - other,4613,,,349447,,,51.91025700000000,13230/0095/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20720300000000,SG1 3HR,2009-06-12,fhrs_exempt_en-GB,Exempt,,FHRS,
-36421,Co-Operative,14 - 18 The Oval,Stevenage,Herts,The Co-Operative,Retailers - supermarkets/hypermarkets,7840,0,,349245,5,,51.91830400000000,10/00008/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17957400000000,SG1 5RB,2010-06-29,fhrs_5_en-GB,5,,FHRS,5
-36422,The Coopers Inn,Magpie Crescent,Stevenage,Herts,The Coopers Inn,Pub/bar/nightclub,7843,0,,349492,0,,51.89469400000000,14320/1014/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.15898900000000,SG2 9RZ,2014-02-25,fhrs_5_en-GB,5,,FHRS,5
-36423,The Cornish Pantry,16 Queensway,Town Centre,Stevenage,The Cornish Pantry,Restaurant/Cafe/Canteen,1,0,,349522,0,,51.90075300000000,15300/0016/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20130200000000,SG1 1BS,2013-09-05,fhrs_5_en-GB,5,,FHRS,5
-36424,The Cromwell Hotel,25-27 High Street,Stevenage,Herts,The Cromwell Hotel,Hotel/bed & breakfast/guest house,7842,5,,349427,5,,51.91178700000000,13230/0025/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20788300000000,SG1 3AR,2014-03-26,fhrs_4_en-GB,4,,FHRS,10
-36425,Paul Cook Doughnut Van (Pitch 2),The Forum,Town Centre,Stevenage,The Doughnut Van,Takeaway/sandwich shop,7844,10,,349602,0,,,17710/0502/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-11-20,fhrs_4_en-GB,4,,FHRS,5
-36426,The Fisherman,Fishers Green,Stevenage,Herts,The Fisherman,Pub/bar/nightclub,7843,0,,349416,5,,51.91871800000000,12550/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.22194500000000,SG1 2JA,2014-07-25,fhrs_4_en-GB,4,,FHRS,10
-36427,North Road,Stevenage,Herts,,The Granby,Pub/bar/nightclub,7843,10,,349504,5,,51.92111100000000,14770/0004/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20842800000000,SG1 4BS,2014-02-25,fhrs_3_en-GB,3,,FHRS,10
-36428,,,,,The Hertford Cake Company,Other catering premises,7841,,,606578,,,,13/00119/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-09-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-36429,Hot Sausage Stall (Pitch 11),Queensway,Town Centre,Stevenage,The Hot Sausage Company,Takeaway/sandwich shop,7844,0,,349309,5,,,11/00005/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-01-24,fhrs_5_en-GB,5,,FHRS,0
-36430,13 The Hyde,Stevenage,Herts,,The Hyde Bakers,Retailers - other,4613,5,,349191,5,,51.89253700000000,08/00029/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16939600000000,SG2 9SD,2014-11-12,fhrs_5_en-GB,5,,FHRS,5
-36431,Drinks Cabin,259 Broadwater Crescent,Stevenage,Herts,The Local,Retailers - other,4613,,,349365,,,51.88193400000000,11030/0259/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17861700000000,SG2 8ET,2005-03-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-36432,The Lytton Theatre,Vardon Road,Stevenage,Herts,The Lytton Players,Other catering premises,7841,,,349580,,,51.91642800000000,16870/1002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18100200000000,SG1 5PZ,2004-03-26,fhrs_exempt_en-GB,Exempt,,FHRS,
-36433,The Man In The Moon,271 Broadwater Crescent,Stevenage,Herts,The Man In The Moon Public House,Pub/bar/nightclub,7843,10,,349366,5,,51.88193400000000,11030/0271/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17861700000000,SG2 8ET,2010-03-18,fhrs_4_en-GB,4,,FHRS,5
-36434,Brittain Way,Stevenage,Herts,,The Marriots And Lonsdale School,School/college/university,7845,0,,558361,0,,51.90038300000000,13/00083/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17554500000000,SG2 8UT,2013-02-07,fhrs_5_en-GB,5,,FHRS,0
-36435,The Old Forge (Brewers Fayre),London Road,Stevenage,Herts,The Old Forge Brewsters,Pub/bar/nightclub,7843,5,,349479,5,,51.88388000000000,14070/1030/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19224000000000,SG2 8DT,2013-06-14,fhrs_5_en-GB,5,,FHRS,5
-36436,Unit 2,The Old Post Office,The Plaza,Town Centre,The Old Post Office,Pub/bar/nightclub,7843,0,,349598,0,,51.90105100000000,17510/0002/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20258400000000,SG1 1PF,2014-08-22,fhrs_5_en-GB,5,,FHRS,5
-36437,The Oval Fish Bar,7 The Oval,Stevenage,Herts,The Oval Fish Bar,Takeaway/sandwich shop,7844,0,,349567,5,,51.91855500000000,16480/0007/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17952000000000,SG1 5RA,2013-02-28,fhrs_5_en-GB,5,,FHRS,5
-36438,9 The Oval,Stevenage,Herts,,The Oval Wines,Retailers - other,4613,,,349273,,,51.91855500000000,10/00061/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17952000000000,SG1 5RA,2014-03-03,fhrs_exempt_en-GB,Exempt,,FHRS,
-36439,The Peartree Public House,Valley Way,Stevenage,Herts,The Peartree Public House,Pub/bar/nightclub,7843,10,,349579,5,,51.89080400000000,16860/1003/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18519600000000,,2014-11-25,fhrs_4_en-GB,4,,FHRS,0
-36440,"The Priory Nursery, St John's Ambul",Stanmore Road,Stevenage,Herts,The Priory Nursery,Hospitals/Childcare/Caring Premises,5,0,,349553,0,,,16170/1002/3/001,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2014-09-29,fhrs_5_en-GB,5,,FHRS,0
-36441,76 - 78 High Street,Stevenage,Herts,,The Proverbial,Pub/bar/nightclub,7843,0,,349158,5,,51.90925100000000,04/00056/HOTEL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 3DP,2014-02-18,fhrs_5_en-GB,5,,FHRS,5
-36442,Monkswood Way,Stevenage,Herts,,The Range,Retailers - other,4613,5,,349278,0,,51.89476000000000,10/00069/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19924500000000,SG1 1XP,2014-05-15,fhrs_5_en-GB,5,,FHRS,5
-36443,84A High Street,Stevenage,Herts,,The Red Fort,Restaurant/Cafe/Canteen,1,10,,349161,10,,51.91010400000000,05/00003/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20776100000000,SG1 3DW,2014-03-19,fhrs_3_en-GB,3,,FHRS,5
-36444,Roebuck Inn,London Road,Stevenage,Herts,The Roebuck Inn,Hotel/bed & breakfast/guest house,7842,5,,349476,10,,51.88290600000000,14070/1003/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18970700000000,SG2 8DS,2013-08-29,fhrs_2_en-GB,2,,FHRS,15
-36445,18-20 The Hyde,Stevenage,Herts,,The Shephall Tandoori Hyde Kebab,Takeaway/sandwich shop,7844,5,,349565,5,,51.89300400000000,16430/0018/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16879500000000,SG2 9SB,2013-09-18,fhrs_4_en-GB,4,,FHRS,10
-36446,Jiffy Bar,Indoor Market,St. Georges Way,Stevenage,The Snack Shack,Restaurant/Cafe/Canteen,1,5,,349549,0,,,16110/1008/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-09-04,fhrs_5_en-GB,5,,FHRS,5
-36447,123 - 125 High Street,Stevenage,Herts,,The Spice Of Bengal,Restaurant/Cafe/Canteen,1,20,,349178,15,,51.90944300000000,07/00025/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20684300000000,SG1 3HS,2014-04-25,fhrs_1_en-GB,1,,FHRS,10
-36448,Austen Paths,Stevenage,Herts,,The Squirrel,Pub/bar/nightclub,7843,10,,349289,0,,51.90471800000000,10340/0002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16516400000000,SG2 0NH,2014-06-30,fhrs_4_en-GB,4,,FHRS,0
-36449,The Standing Order,33 High Street,Stevenage,Herts,The Standing Order,Pub/bar/nightclub,7843,0,,349429,0,,51.91043200000000,13230/0033/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20802500000000,SG1 3AS,2014-04-23,fhrs_5_en-GB,5,,FHRS,0
-36450,The Street Kitchen (pitch 7),Queensway,Town Centre,Stevenage,The Street Kitchen,Takeaway/sandwich shop,7844,10,,448600,0,,51.90925100000000,12/00065/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 1DZ,2014-08-15,fhrs_4_en-GB,4,,FHRS,0
-36451,The Tea Cosy,5 Market Place,Town Centre,Stevenage,The Tea Cosy,Restaurant/Cafe/Canteen,1,5,,349496,0,,51.90138200000000,14400/0005/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20009900000000,SG1 1DH,2014-05-09,fhrs_5_en-GB,5,,FHRS,0
-36452,Armstrong House,Norton Road,Stevenage,Herts,The Training And Conference Place,Other catering premises,7841,10,,724406,0,,51.89704600000000,14/00058/MULT,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20588300000000,SG1 2LX,2014-11-04,fhrs_4_en-GB,4,,FHRS,0
-36453,11 Lower Sean,Stevenage,Herts,,The Weeping Chef,Takeaway/sandwich shop,7844,0,,679723,0,,51.89226800000000,14/00035/MOBILE,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17814100000000,SG2 9XN,2014-06-27,fhrs_4_en-GB,4,,FHRS,10
-36454,The Wine Society,Gunnels Wood Road,Stevenage,Herts,The Wine Society,Distributors/Transporters,7,,,349421,,,51.89611900000000,12980/4006/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20286800000000,SG1 2BG,2014-01-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-36455,Thomas Alleyns School,High Street,Stevenage,Herts,Thomas Alleyne School,School/college/university,7845,0,,349423,0,,51.83103561401370,13230/0003/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21253699064255,SG1 3BE,2014-10-03,fhrs_4_en-GB,4,,FHRS,10
-36456,Mobbsbury Way,Stevenage,Herts,,Timebridge Community Centre,Other catering premises,7841,5,,349501,10,,51.91146700000000,14610/1005/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.16957100000000,SG2 0HT,2014-12-05,fhrs_4_en-GB,4,,FHRS,5
-36457,The Oval,Stevenage,Herts,,Times Club & Institute,Pub/bar/nightclub,7843,10,,349571,0,,51.91888100000000,16480/1005/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17912900000000,SG1 5RD,2013-03-27,fhrs_4_en-GB,4,,FHRS,0
-36458,Times Square Pizzas,11 The Glebe,Chells Way,Stevenage,Times Square Pizza,Takeaway/sandwich shop,7844,0,,349184,0,,51.90910600000000,07/00049/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17039400000000,SG2 0DL,2014-09-29,fhrs_5_en-GB,5,,FHRS,0
-36459,T J's Cafe,71 High Street,Stevenage,Herts,TJ's Cafe,Restaurant/Cafe/Canteen,1,0,,349439,0,,51.91080100000000,13230/0071/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20750100000000,SG1 3AG,2014-12-15,fhrs_5_en-GB,5,,FHRS,5
-36460,5A Middle Row,Stevenage,Herts,,Totally Scrumptious,Other catering premises,7841,10,,674272,5,,51.91148900000000,14/00023/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20777900000000,SG1 3AN,2014-05-06,fhrs_4_en-GB,4,,FHRS,5
-36461,Roaring Meg Retail Park,Toys 'r'  Us,London Road,Stevenage,Toys 'r' Us,Retailers - other,4613,,,349481,,,,14070/1032/3/009,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,SG1 1XJ,2014-02-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-36462,Triangle Playgroup,Peartree Pavilion,The Ridings,Stevenage,Triangle Pre School,Hospitals/Childcare/Caring Premises,5,0,,349159,0,,51.89527000000000,04/00057/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.17520000000000,SG2 9UA,2013-10-11,fhrs_5_en-GB,5,,FHRS,0
-36463,Wisden Road,Stevenage,Herts,,Trotts Hill Primary School,School/college/university,7845,0,,349595,5,,51.91852600000000,17330/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18701000000000,SG1 5JD,2013-05-02,fhrs_5_en-GB,5,,FHRS,0
-36464,11A London Road,Stevenage,Herts,,Trugym,Other catering premises,7841,10,,659013,0,,,14/00011/MULT,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,SG1 1XJ,2014-04-08,fhrs_4_en-GB,4,,FHRS,0
-36465,,,,,Truly Tempting Cakes,Other catering premises,7841,,,606576,,,,13/00116/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-10-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-36466,Valley Way,Stevenage,Herts,,Valley School,School/college/university,7845,0,,349578,0,,51.88982700000000,16860/1002/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18661000000000,SG2 9AB,2013-05-08,fhrs_5_en-GB,5,,FHRS,0
-36467,W H Smith Ltd,95 Queensway,Town Centre,Stevenage,W H Smith Ltd,Retailers - other,4613,,,349529,,,51.90362100000000,15300/0095/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20131800000000,SG1 1EA,2011-03-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-36468,W J Rowe,119 Bedwell Crescent,Stevenage,Herts,W J Rowe Ltd,Takeaway/sandwich shop,7844,0,,349296,0,,51.90225500000000,10580/0119/0/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.18900200000000,SG1 1NA,2014-05-22,fhrs_5_en-GB,5,,FHRS,0
-36469,Waitrose,74A High Street,Stevenage,Herts,Waitrose,Retailers - supermarkets/hypermarkets,7840,0,,349442,5,,51.91126600000000,13230/0074/A/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20848600000000,SG1 3EH,2014-09-03,fhrs_5_en-GB,5,,FHRS,0
-36470,14A Walkern Road,Stevenage,Herts,,Walkern Lodge,Hospitals/Childcare/Caring Premises,5,,,349214,,,51.91351400000000,09/00015/HOSP,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20612800000000,SG1 3QX,2009-09-25,fhrs_exempt_en-GB,Exempt,,FHRS,
-36471,Waterfall Chinese,122 High Street,Stevenage,Herts,Waterfall Chinese Restaurant,Restaurant/Cafe/Canteen,1,10,,691438,0,,51.91010400000000,14/00027/REST,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20776100000000,SG1 3DW,2014-07-15,fhrs_4_en-GB,4,,FHRS,0
-36472,,,,,We Love Cupcakes,Other catering premises,7841,10,,349312,10,,,11/00009/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2011-03-31,fhrs_3_en-GB,3,,FHRS,10
-36473,The Oval Community Centre,The Oval,Stevenage,Herts,We Love Jelly Ltd,Other catering premises,7841,5,,637357,0,,,14/00014/CATER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-12-18,fhrs_5_en-GB,5,,FHRS,0
-36474,WH Smith Travel,Coreys Mill Lane,Stevenage,Herts,WH Smith,Retailers - other,4613,0,,349241,0,,51.92424900000000,10/00002/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21192500000000,SG1 4AB,2010-02-19,fhrs_5_en-GB,5,,FHRS,0
-36475,White Lion,60-62 High Street,Stevenage,Herts,White Lion,Pub/bar/nightclub,7843,0,,349436,0,,51.91149300000000,13230/0060/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.20863700000000,SG1 3EA,2014-02-19,fhrs_5_en-GB,5,,FHRS,5
-36476,,,,,Wholeplus,Other catering premises,7841,,,580757,,,,13/00100/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2013-08-28,fhrs_exempt_en-GB,Exempt,,FHRS,
-36477,49 - 55 Queensway,Town Centre,Stevenage,Herts,Wilkinsons,Retailers - other,4613,,,349236,,,51.90925100000000,09/00065/RETAIL,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.19530500000000,SG1 1DL,2013-09-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-36478,,,,,Wish Upon A Cake,Other catering premises,7841,10,,349390,0,,,12/00021/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2012-01-20,fhrs_4_en-GB,4,,FHRS,0
-36479,,,,,With A Cherry On Top,Other catering premises,7841,10,,448598,0,,,12/00059/PRIV,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,,,2012-06-06,fhrs_4_en-GB,4,,FHRS,5
-36480,Magpie Crescent,Stevenage,Herts,,Woodlands View,Hospitals/Childcare/Caring Premises,5,0,,349491,0,,51.89469400000000,14320/1013/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.15898900000000,SG2 9RZ,2013-09-25,fhrs_5_en-GB,5,,FHRS,5
-36481,Bridge Road,Stevenage,Herts,,Woolenwick Junior School,School/college/university,7845,0,,349305,0,,51.90927500000000,10960/1001/2/000,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21654700000000,SG1 2NU,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-36482,Lister Hospital,Coreys Mill Lane,Stevenage,Herts,WRVS,Other catering premises,7841,0,,584203,0,,51.92424900000000,13/00110/OTHER,161,env.health@stevenage.gov.uk,Stevenage,http://www.stevenage.gov.uk,-0.21192500000000,SG1 4AB,2013-09-04,fhrs_5_en-GB,5,,FHRS,0
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+36045,360 Play (Stevenage) Ltd,4,5,0,10,2014-06-18,51.899804,-0.208637
+36046,7S Trading Ltd,Exempt,nan,nan,nan,2013-12-12,51.92356,-0.226422
+36047,A & V Delicious,4,10,5,5,2013-09-13,51.901382,-0.200099
+36048,A S Catering - The Broadhall Suite,5,5,0,5,2014-10-17,51.890116,-0.194301
+36049,Abbington Hotel,2,10,15,10,2013-08-28,51.916212,-0.211488
+36050,ALDI Stores Ltd,5,0,0,0,2010-03-01,51.905571,-0.204729
+36051,All Seasoned,4,0,0,10,2013-07-30,51.897046,-0.205883
+36052,Allsorts Of Delicious Delights,Exempt,nan,nan,nan,2013-04-18,,
+36053,Almond Hill JMI School,5,5,0,0,2013-12-18,51.918029,-0.197369
+36054,Alternative Cake Company Ltd,5,5,5,5,2013-09-13,,
+36055,Archer Pharmacy,Exempt,nan,nan,nan,2012-09-13,51.910091,-0.184631
+36056,Argos Ltd,Exempt,nan,nan,nan,2012-10-02,51.891995,-0.198948
+36057,Asda Stores,5,0,5,0,2013-08-28,51.896788,-0.199556
+36058,Ashtree JMI School,5,5,5,0,2014-10-21,51.896597,-0.165088
+36059,Ask Italian,4,10,5,0,2013-09-11,51.913803,-0.208588
+36060,ASK Pizza Pasta,4,10,0,0,2014-07-15,51.899804,-0.208637
+36061,Astrium,5,5,0,0,2014-03-13,51.901631,-0.2123
+36062,Astrium Bar,5,0,0,0,2014-02-05,,
+36063,Auntie Anks,4,5,5,10,2013-09-23,,
+36064,Auntie Chan's Home Bakery,Exempt,nan,nan,nan,2013-09-04,,
+36065,Autograph The Food People,5,5,0,0,2014-10-23,51.901187,-0.203247
+36066,B & M Retail Ltd,5,0,0,0,2012-08-07,51.904358,-0.202437
+36067,Baked With Care By Laura,Exempt,nan,nan,nan,2013-05-30,,
+36068,Baker Bar,5,5,0,5,2014-07-28,51.911396,-0.207594
+36069,Baker Street W1,5,0,0,5,2014-10-08,51.911396,-0.207594
+36070,Barclay Secondary School,5,5,0,0,2013-05-08,51.914594,-0.202624
+36071,Barnwell School,5,5,0,0,2013-11-05,51.8898582458,-0.172963112593
+36072,Barnwell School,5,5,0,0,2013-11-13,51.899042,-0.165047
+36073,Basra Supermarket,3,10,5,10,2013-05-08,51.913157,-0.197448
+36074,Bedwell Community Centre,5,5,5,0,2013-09-24,51.902255,-0.189002
+36075,Bedwell JMI School,5,0,0,0,2013-03-14,51.905779,-0.182581
+36076,Bedwell Pizza And Kebab,5,5,0,5,2013-10-04,51.902255,-0.189002
+36077,Bedwell Supermarket,4,10,5,0,2012-11-05,51.902255,-0.189002
+36078,Bella Vista,5,0,5,0,2013-08-30,51.900753,-0.201302
+36079,Bengal Lounge,4,10,5,5,2014-01-29,51.892537,-0.169396
+36080,Bingol Kebab & Pizza,4,10,0,10,2013-07-29,51.910257,-0.207203
+36081,Blockbuster,Exempt,nan,nan,nan,2009-07-07,51.89448,-0.199154
+36082,Boots The Chemist,Exempt,nan,nan,nan,2012-01-13,51.891995,-0.198948
+36083,Boots The Chemist Ltd,5,0,0,0,2006-03-16,51.901966,-0.201224
+36084,Boots The Chemists,Exempt,nan,nan,nan,2006-12-20,51.912726,-0.2093
+36085,Bouncy Bakes,4,10,0,10,2014-01-10,,
+36086,British Home Stores & Mothercare,4,10,5,0,2013-02-19,51.904358,-0.202437
+36087,Broadhall Bunnies,5,0,0,0,2014-04-25,51.893675,-0.167445
+36088,Broom Barns School,5,5,0,0,2014-11-17,51.900656,-0.193238
+36089,Brown & Lee Chartered Surveyors,5,5,5,0,2013-10-08,51.908331,-0.219477
+36090,Buffet Business,5,0,0,0,2013-07-01,,
+36091,Burger King,5,0,0,0,2013-06-26,51.891995,-0.198948
+36092,Burger King (Uk) Ltd,5,0,0,0,2014-11-21,51.903366,-0.202273
+36093,Burwell News,Exempt,nan,nan,nan,2012-08-20,51.89713,-0.17043
+36094,Busters,5,0,0,5,2013-07-19,51.901187,-0.203247
+36095,Busy Bees Nursery,5,0,0,0,2013-07-30,51.896389,-0.201142
+36096,Butty's,3,10,10,5,2013-11-08,51.911475,-0.208012
+36097,Cafe Almar,4,5,0,10,2014-02-27,51.902392,-0.217415
+36098,Cafe Asda,5,5,0,5,2013-01-07,51.896788,-0.199556
+36099,Cafe Italiano,5,5,5,5,2009-07-31,,
+36100,Cafe Moka,5,5,5,0,2014-10-22,51.902347,-0.199683
+36101,Cake Fairy,Exempt,nan,nan,nan,2013-11-06,,
+36102,Cakes By Aunt Sally,Exempt,nan,nan,nan,2014-04-24,,
+36103,Camps Hill JMI School,5,0,0,0,2013-06-03,51.907976,-0.168855
+36104,Celia's Caribbean Cakes And Confectionary,4,0,0,10,2013-06-26,,
+36105,CH & Co,5,5,0,0,2014-08-12,51.905654,-0.207304
+36106,CH * Co,5,5,0,5,2013-10-02,51.896338,-0.210736
+36107,Cheese Pizza,0,15,10,30,2014-03-05,51.885097,-0.170904
+36108,Chells Cafe,5,0,0,5,2014-04-17,51.908749,-0.169987
+36109,Chells Manor Community Association,Exempt,nan,nan,nan,2010-03-18,51.916094,-0.16124
+36110,Chells Manor Pre School,4,10,0,0,2013-10-24,51.916094,-0.16124
+36111,Chicago Rock Cafe,5,5,0,0,2014-03-13,51.899804,-0.208637
+36112,Chiquitos,5,5,0,0,2014-11-24,51.899804,-0.208637
+36113,Chocolate Lover,5,0,0,0,2013-12-06,,
+36114,Cineworld,5,0,0,0,2013-01-10,51.899804,-0.208637
+36115,Cinnabar Cafe,5,5,5,5,2013-02-13,51.912726,-0.2093
+36116,Clairy Cakes,Exempt,nan,nan,nan,2013-10-29,,
+36117,Cleo Cupcake,4,5,5,10,2010-01-28,,
+36118,Co Op Chemists Ltd,Exempt,nan,nan,nan,2014-12-11,51.88538,-0.188068
+36119,Coast To Coast,5,5,5,0,2014-05-07,51.899804,-0.208637
+36120,Coffee Bar,Exempt,nan,nan,nan,2009-07-07,51.912984,-0.221561
+36121,Community Services,Exempt,nan,nan,nan,2012-01-20,51.892333,-0.168997
+36122,Cooks Catering K776 XRD,5,0,0,0,2014-03-27,,
+36123,Cooks Catering R326 DOJ,5,0,0,0,2014-02-05,51.88781,-0.18409
+36124,Co-op,5,5,5,5,2014-02-05,51.881934,-0.178617
+36125,Co-op Chemists Ltd,Exempt,nan,nan,nan,2009-04-02,51.881934,-0.178617
+36126,Co-op Store,Exempt,nan,nan,nan,2012-02-28,51.892333,-0.168997
+36127,Cooper's Chemist,Exempt,nan,nan,nan,2013-11-28,51.908749,-0.169987
+36128,Corey's Mill Beefeater,4,10,5,0,2013-08-28,51.924063,-0.21631
+36129,Costa Coffee,5,5,0,0,2014-05-01,51.901966,-0.201224
+36130,Costa Coffee,Exempt,nan,nan,nan,2013-11-28,51.910257,-0.207203
+36131,Costa Coffee,5,5,0,0,2014-12-22,51.909251,-0.195305
+36132,Costello's,5,5,5,5,2013-10-08,51.901489,-0.178407
+36133,Cox's Fish And Chips,5,5,0,5,2013-10-10,51.901382,-0.200099
+36134,Crooked Billet,4,10,5,5,2013-07-24,51.909148,-0.224766
+36135,Crumbdiddlyyumptious,5,0,0,0,2012-08-20,,
+36136,David Lloyd Fitness Centre,5,0,5,0,2014-04-16,51.899804,-0.208637
+36137,Day's Fish And Chips,5,5,0,0,2014-05-29,51.881934,-0.178617
+36138,DC Cakes And Bakes,Exempt,nan,nan,nan,2013-09-20,,
+36139,Debra's Cupcakes,Exempt,nan,nan,nan,2013-10-09,,
+36140,Deliciously Srumptious,3,10,10,10,2013-10-29,,
+36141,Delikatesy Pawelek Ltd,5,0,0,0,2013-12-11,51.902503,-0.200476
+36142,Dine Ltd,4,5,0,10,2013-07-25,51.92437,-0.165483
+36143,Discount UK,4,5,5,10,2013-11-19,51.909251,-0.195305
+36144,Dominate Fitness,5,0,0,0,2013-11-05,51.911493,-0.208637
+36145,Domino's Pizza,5,5,0,0,2013-08-07,51.909443,-0.206843
+36146,Dominos Pizzas,5,0,5,0,2014-09-16,51.913913,-0.171304
+36147,Donna's Cakes And Bakes,Exempt,nan,nan,nan,2013-08-13,,
+36148,Douglas Drive Senior Citizens,4,5,0,10,2014-04-29,51.915378,-0.179968
+36149,Downtown Pizza & Kebabs,4,5,5,10,2014-09-17,51.881934,-0.178617
+36150,Dupont (UK Ltd),5,0,0,0,2013-07-29,51.922547,-0.170822
+36151,Eastern Groceries,4,10,5,0,2014-07-15,51.901073,-0.199923
+36152,Eastern Groceries And Hala Meat Ltd,4,0,0,10,2013-10-24,51.907735,-0.198072
+36153,Eatlunch,5,0,0,0,2014-05-15,51.901631,-0.215861
+36154,Edible Bouquets,5,5,0,0,2012-06-22,51.926428,-0.169995
+36155,"Ed's Kebab, Pizza, Chicken",4,5,10,5,2014-12-01,51.89713,-0.17043
+36156,Elior,5,0,0,0,2013-02-12,51.898839,-0.21321
+36157,Elizabeth Court,Exempt,nan,nan,nan,2014-06-11,51.909251,-0.195305
+36158,Emperors Head PH,4,5,5,10,2013-11-28,51.916094,-0.16124
+36159,Espresso 2 U,5,0,0,0,2012-07-16,,
+36160,Esquires,4,0,5,10,2014-06-30,51.902954,-0.202391
+36161,Essential News,5,5,5,5,2010-02-16,51.901966,-0.201224
+36162,ESSO Broadwater,5,0,0,0,2014-02-12,51.887994,-0.186132
+36163,"Express By Holiday Inn, Stevenage",5,5,5,0,2013-02-13,51.909251,-0.195305
+36164,Fairlands JMI School,5,0,0,0,2014-10-02,51.90895,-0.203402
+36165,Family News,Exempt,nan,nan,nan,2012-02-20,51.907735,-0.198072
+36166,Famous Chef,3,10,10,10,2014-03-20,51.925146,-0.170818
+36167,Farmhouse Pizza,4,5,0,10,2013-10-09,51.892333,-0.168997
+36168,Favorite Chicken & Ribs/ Aston Caterers Ltd,4,10,0,0,2013-11-11,51.910104,-0.207761
+36169,Featherstone Wood School,5,0,0,0,2014-03-17,51.893675,-0.167445
+36170,Fit 4 Less,4,0,0,10,2014-10-24,51.901051,-0.202584
+36171,Flossies Bakery,5,0,0,0,2014-06-03,,
+36172,Flowerpower Florist And Coffe Bar,4,10,0,5,2012-05-11,51.910257,-0.207203
+36173,Four Seasons,5,5,5,5,2013-03-22,51.88538,-0.188068
+36174,Frankie And Benny's,4,10,5,5,2014-04-30,51.899804,-0.208637
+36175,Fruit Fayre,5,5,0,0,2014-02-06,,
+36176,Fulleylove's,Exempt,nan,nan,nan,2014-09-09,,
+36177,Gang Nam Korean Restaurant,5,0,0,5,2013-06-18,51.902905,-0.200329
+36178,Gate Hotel,1,5,0,20,2014-08-29,51.905974,-0.206428
+36179,Gate Of India,5,5,5,5,2014-01-23,51.908749,-0.169987
+36180,Giles Infants School,5,0,0,0,2013-01-29,51.921874,-0.183094
+36181,Giles JM School,5,5,0,0,2013-10-17,51.921874,-0.183094
+36182,Gladleys Courtyard,5,0,0,5,2014-07-15,51.911146,-0.207662
+36183,Golden Fry Fish & Chip Shop,5,5,5,0,2013-11-28,51.916094,-0.16124
+36184,Golden Fry Fish Bar,5,5,0,0,2013-01-03,51.909106,-0.170394
+36185,Golden's Place,4,0,0,10,2014-01-29,51.908749,-0.169987
+36186,Good News And Post Office,Exempt,nan,nan,nan,2009-10-23,51.885097,-0.170904
+36187,Grace Community Church,Exempt,nan,nan,nan,2013-06-21,51.891736,-0.182144
+36188,Greenside School,5,5,0,0,2014-10-07,51.889804,-0.176976
+36189,Greenside Studio,Exempt,nan,nan,nan,2012-10-24,51.892537,-0.169396
+36190,Greggs Bakers,5,0,0,0,2013-11-28,51.901893,-0.202361
+36191,Halfords,4,0,0,10,2013-12-17,51.888828,-0.198261
+36192,Harvester Restaurant,4,10,5,5,2013-06-21,51.909251,-0.195305
+36193,Hassan Balti,3,10,5,10,2013-11-11,51.916094,-0.16124
+36194,Heavenly Cakes,5,5,0,0,2013-12-12,51.925167,-0.165276
+36195,High Street Methodist Church,5,5,0,0,2014-06-05,,
+36196,Hings Chinese Takeaway,5,5,5,0,2013-07-29,51.907735,-0.198072
+36197,HMV,Exempt,nan,nan,nan,2013-11-20,51.904358,-0.202437
+36198,Holiday Inn,5,5,0,0,2013-10-24,51.900461,-0.198683
+36199,Holland & Barrett,Exempt,nan,nan,nan,2013-07-25,51.902463,-0.201989
+36200,Hollywood Bowl,5,5,5,0,2013-09-14,51.899804,-0.208637
+36201,Home Bargins,Exempt,nan,nan,nan,2013-11-28,51.904358,-0.202437
+36202,Home Bargins,5,5,0,0,2014-09-24,51.89448,-0.199154
+36203,House Of Mmmmm,5,0,0,0,2012-12-07,,
+36204,Hurrens,5,5,5,5,2014-11-26,51.9021791563,-0.199414890925
+36205,Hurrens Butchers,5,0,0,0,2013-04-05,51.91426,-0.213761
+36206,Hyde Cafe Ltd,4,0,10,5,2014-03-26,51.893004,-0.168795
+36207,Ibis Hotel,5,5,5,5,2013-02-28,51.903557,-0.203559
+36208,Institution Of Electrical Engineers,5,0,5,0,2014-05-27,51.90023,-0.17433
+36209,International Superstore,1,10,0,20,2014-09-25,51.918304,-0.179574
+36210,J & J Continental Stores,1,10,5,20,2013-10-07,51.906276,-0.196168
+36211,J B Catering,5,0,0,0,2014-08-12,51.88743,-0.178685
+36212,Jack's Pantry,4,0,10,10,2014-04-25,51.902255,-0.189002
+36213,Jade Garden,5,5,5,0,2013-12-12,51.902255,-0.189002
+36214,Jade Palace Chinese Cuisine,5,5,0,5,2013-11-27,51.911146,-0.207662
+36215,Jasmine Garden,5,0,0,0,2013-07-22,51.897945,-0.192373
+36216,Jayelcees Event Catering,5,0,0,0,2013-07-12,,
+36217,Jelly Tots Pre School,5,0,0,5,2014-04-04,51.914905,-0.21897
+36218,Jenn Che,5,0,0,0,2014-12-17,51.918881,-0.179129
+36219,JJ's Cafe,1,5,0,20,2014-10-22,51.901929,-0.200677
+36220,JKEA Filipino & Oriental Food Store,4,0,10,0,2013-02-28,51.892537,-0.169396
+36221,John Henry Newman School,5,0,0,0,2014-09-19,51.920695,-0.214771
+36222,Johnny's Fish Bar,5,0,0,0,2014-04-29,51.910257,-0.207203
+36223,Jubilee Court,5,0,5,0,2014-07-28,51.908734,-0.187593
+36224,Just 4U Cakes,5,5,0,5,2014-09-08,,
+36225,Just Chicken And Fat Jacks,3,10,10,5,2014-05-13,51.926428,-0.169995
+36226,K Express,4,5,0,10,2012-11-12,51.874829,-0.166323
+36227,Kandola Food Stores,3,5,10,10,2014-05-09,51.916271,-0.216546
+36228,Kandola General Store,3,10,10,10,2013-07-25,51.885097,-0.170904
+36229,Kaprys Polish Delicatessen,1,5,5,20,2013-03-21,51.903721,-0.202506
+36230,Kayleighs Kakes,Exempt,nan,nan,nan,2014-02-28,,
+36231,Kays Cakebox,Exempt,nan,nan,nan,2013-07-04,,
+36232,Keeley Cakes/Shades Of Colour,5,0,0,0,2012-10-26,,
+36233,KFC,5,5,0,0,2014-03-21,51.899804,-0.208637
+36234,King Pizza And Kebab,4,10,5,5,2014-10-14,51.912878,-0.221696
+36235,Kittys Cakes And Bakes,Exempt,nan,nan,nan,2013-12-12,,
+36236,L.A Golden Bean,4,0,5,10,2013-03-07,51.907657,-0.209443
+36237,La Snack Shack,5,0,0,5,2013-07-18,51.89476,-0.199245
+36238,LadyBug Cake Company,Exempt,nan,nan,nan,2014-01-29,,
+36239,Larwood School,5,0,0,0,2013-09-18,51.910927,-0.188683
+36240,Le Mare Chocolat,5,0,0,0,2014-02-25,,
+36241,Let Them Eat Cake,5,0,0,0,2012-07-06,,
+36242,Letchmore Infants School,5,0,0,0,2013-07-16,51.913708,-0.201148
+36243,Leys JMI School,5,0,0,0,2013-10-18,51.926655,-0.179454
+36244,Life Opportunities Trust,5,5,0,0,2014-07-11,51.916212,-0.211488
+36245,Lister Hospital,5,5,5,5,2014-07-29,51.924249,-0.211925
+36246,Lister Hospital,5,0,0,0,2014-05-15,51.924249,-0.211925
+36247,Little Flock Montessori Nursery,Exempt,nan,nan,nan,2012-10-30,51.886039,-0.180064
+36248,Little Willow Home Gifts And Tea Room,5,0,0,0,2014-11-12,51.912726,-0.2093
+36249,Lloyds Chemist,Exempt,nan,nan,nan,2006-12-07,51.894694,-0.158989
+36250,Lloyds Chemist Retail Ltd,Exempt,nan,nan,nan,2009-06-03,51.910104,-0.207761
+36251,Lodge Farm JMI School,5,0,0,0,2014-11-05,,
+36252,Londis,4,0,0,10,2012-11-09,51.910091,-0.184631
+36253,Londis,5,5,5,5,2012-01-20,51.900753,-0.201302
+36254,Longfield Social Club,5,0,5,0,2013-09-12,51.920695,-0.214771
+36255,Longmeadow JMI School,5,5,0,0,2013-02-28,51.883336,-0.171615
+36256,Lucky Star Chinese Takeaway,5,0,0,5,2014-05-29,51.892577,-0.183026
+36257,M D Dispensing Chemist,Exempt,nan,nan,nan,2014-04-02,51.912984,-0.221561
+36258,Make A Shake,5,5,0,0,2014-02-18,51.910257,-0.207203
+36259,Mamma's Cakes,Exempt,nan,nan,nan,2014-09-15,,
+36260,Mandarin House,1,15,10,20,2014-10-14,51.912984,-0.221561
+36261,Marks & Spencer Plc,5,0,0,0,2012-09-11,51.903256,-0.200969
+36262,Marrotts Sport Centre,2,15,0,10,2014-05-09,51.906817,-0.177
+36263,Martin Impey,5,0,0,0,2014-03-31,51.896326,-0.213542
+36264,Martin McColl,Exempt,nan,nan,nan,2012-02-16,51.918555,-0.17952
+36265,Martins,Exempt,nan,nan,nan,2014-03-31,51.902255,-0.189002
+36266,Martins,Exempt,nan,nan,nan,2012-11-22,51.910257,-0.207203
+36267,Martins The Newsagents,Exempt,nan,nan,nan,2007-03-23,51.908749,-0.169987
+36268,Martins The Newsagents,Exempt,nan,nan,nan,2012-08-20,51.892537,-0.169396
+36269,Martins Wood Primary School,5,5,0,0,2014-09-29,51.919516,-0.17365
+36270,Masoom Tandoori,5,5,0,0,2014-09-30,51.925167,-0.165276
+36271,McColls,5,0,0,0,2014-08-26,51.924446,-0.183106
+36272,McDonalds,5,5,0,0,2013-04-29,51.901893,-0.202361
+36273,McDonalds Restaurants Ltd,5,0,5,0,2013-08-28,51.89448,-0.199154
+36274,McDonalds Restaurants Ltd,5,5,0,0,2014-11-05,51.899804,-0.208637
+36275,McQueen's Bakehouse,Exempt,nan,nan,nan,2014-08-18,,
+36276,Mecca Bingo,4,10,5,0,2014-01-15,51.900263,-0.203371
+36277,Medusa Bar Restaurant,5,5,5,5,2013-01-29,51.900656,-0.200841
+36278,Mega Kebab,4,10,0,0,2014-03-26,51.900753,-0.201302
+36279,Mighty Pound,3,10,5,10,2014-02-06,51.901966,-0.201224
+36280,Mogul Indian Tandoori Takeaway,3,5,10,10,2014-05-28,51.881934,-0.178617
+36281,Mohan Tandoori Restaurant,4,10,5,5,2014-04-09,51.910104,-0.207761
+36282,Moonlight Chinese Takeaway,4,10,0,0,2014-12-02,51.885097,-0.170904
+36283,Mossbury School,5,5,0,0,2013-03-18,51.913099,-0.181427
+36284,Mothercare World,Exempt,nan,nan,nan,2008-04-07,51.89448,-0.199154
+36285,Mr Simms,4,10,0,10,2012-01-20,51.902463,-0.201989
+36286,Mr Toppings,4,10,0,0,2013-09-17,51.91426,-0.213761
+36287,Mrs Bennetts Chutneys,5,5,0,0,2014-05-28,,
+36288,Nando's,5,5,0,0,2014-05-12,51.899804,-0.208637
+36289,Natalie's Bakery,5,0,0,5,2012-01-23,,
+36290,New Fishermans Wharf Ltd,5,5,0,0,2013-10-15,51.911211,-0.205464
+36291,New Town Fish Bar,1,10,15,20,2014-12-16,51.900656,-0.200841
+36292,New World,5,0,5,0,2014-11-17,51.893004,-0.168795
+36293,Newton General Store,4,5,5,10,2014-11-10,51.908706,-0.17531
+36294,Nisa Local,5,5,5,0,2014-09-02,51.909106,-0.170394
+36295,Noah's Ark Day Nursery,5,5,0,0,2014-03-11,51.899496,-0.18327
+36296,Nobel School,5,5,0,0,2013-03-06,51.911348,-0.168282
+36297,North Hertfordshire College,5,5,0,0,2014-05-15,51.901913,-0.20957
+36298,Nosh,2,15,5,5,2014-01-23,51.901966,-0.201224
+36299,Novotel Stevenage,5,5,0,0,2014-09-25,51.886313,-0.207255
+36300,Oaks Cross Fish Bar,4,10,5,0,2013-07-26,51.885097,-0.170904
+36301,Oaks Cross Pharmacy,Exempt,nan,nan,nan,2014-12-11,51.885097,-0.170904
+36302,Ocean Delight Fish Bar,4,10,0,0,2014-12-11,51.897945,-0.192373
+36303,Ocean Fish Bar,4,10,5,0,2014-09-19,51.892537,-0.169396
+36304,Old Red Lion,5,5,5,5,2014-05-30,51.891033,-0.176781
+36305,Old Stevenage Community Association,5,5,0,0,2013-09-05,51.91402,-0.209859
+36306,Old Town Fish Bar,4,5,10,5,2013-09-03,51.912726,-0.2093
+36307,One Stop Convenience Store,5,5,0,5,2014-01-24,51.88538,-0.188068
+36308,Oriental Express,5,5,0,0,2013-04-29,51.91426,-0.213761
+36309,Our Mutual Friend,5,0,0,5,2014-04-10,51.88772,-0.187625
+36310,Oval Pharmacy,Exempt,nan,nan,nan,2007-02-26,51.918304,-0.179574
+36311,Pappadom Express,4,5,0,10,2013-03-26,51.91426,-0.213761
+36312,"Partyman World, Laser Kombat, Twizzle Tops Nursery",4,5,0,10,2014-02-27,,
+36313,Patisserie Six,5,5,0,0,2014-06-17,,
+36314,Pausa Cafe,5,0,0,0,2014-10-03,,
+36315,Peartree Spring Infant And Peartree Spring Junior School,5,0,0,0,2013-07-17,51.892577,-0.183026
+36316,Perfect Pizza,5,5,0,0,2013-09-04,51.909443,-0.206843
+36317,Phoenix Nursery,5,5,0,0,2013-09-30,51.902022,-0.168734
+36318,Pin Green Community Centre,4,0,0,10,2014-04-23,51.910091,-0.184631
+36319,Pinelodge Care Home,2,5,15,10,2014-08-08,51.927626,-0.215237
+36320,Pink Daisy Cake Room,5,0,0,5,2014-07-10,,
+36321,Pizza Express,5,0,0,0,2014-08-13,51.910104,-0.207761
+36322,Pizza Go Go,4,0,10,0,2014-01-07,51.903721,-0.202506
+36323,Pizza Hut,5,5,0,0,2013-03-25,51.909251,-0.195305
+36324,Pizza Hut Delivery,5,0,0,0,2013-12-04,51.912726,-0.2093
+36325,Pizza Hut UK Ltd,4,10,5,5,2013-08-29,51.899804,-0.208637
+36326,Poachers,4,0,5,10,2014-04-15,51.902255,-0.189002
+36327,Pod53,5,0,0,5,2013-03-08,51.882556,-0.178693
+36328,Poplars Fish Bar,5,5,5,0,2014-03-07,51.894694,-0.158989
+36329,Poundland,5,0,0,5,2014-03-03,51.903621,-0.201318
+36330,Premier Inn,4,10,5,0,2013-11-29,51.895573,-0.212496
+36331,Prezzo,5,5,0,0,2014-06-03,51.908718,-0.207061
+36332,Prezzo Plc,5,5,5,0,2014-06-19,51.899804,-0.208637
+36333,Primark Stores Ltd,Exempt,nan,nan,nan,2014-03-26,51.909251,-0.195305
+36334,Psycare Hostels Ltd,Exempt,nan,nan,nan,2014-02-20,51.876071,-0.1722
+36335,Puccinos,Exempt,nan,nan,nan,2013-09-13,51.901687,-0.207108
+36336,Pumped Gym,3,5,10,10,2014-10-20,51.91392,-0.207406
+36337,QD Stores Limited,Exempt,nan,nan,nan,2013-10-14,51.901893,-0.202361
+36338,Rainbows End Pre School,Exempt,nan,nan,nan,2014-05-12,51.911467,-0.169571
+36339,Roebuck Nursing Home,5,5,0,0,2014-08-28,51.883482,-0.190309
+36340,Roebuck Primary School,5,0,0,0,2014-11-06,51.88772,-0.187625
+36341,Roosters Spot Ltd,1,5,15,20,2014-07-10,51.901893,-0.202361
+36342,Royal Pizza And Kebab,5,0,5,0,2014-01-29,51.918881,-0.179129
+36343,Rupa Tandoori,4,10,5,5,2013-10-21,51.913913,-0.171304
+36344,S & R Newsagent & Supermarket,2,15,0,10,2013-07-15,51.913189,-0.190758
+36345,S L Anderson Chemists Ltd,Exempt,nan,nan,nan,2012-07-19,51.892333,-0.168997
+36346,Sainsburys Coreys Mill,5,0,0,0,2013-09-16,51.920695,-0.214771
+36347,Sainsbury's Plc,5,5,0,0,2014-04-28,51.894694,-0.158989
+36348,Sampan Chinese Takeaway,3,10,10,10,2014-03-27,51.909443,-0.206843
+36349,Scrumptious Bakes,5,0,0,0,2014-06-18,,
+36350,Shake It,3,10,10,10,2014-05-15,51.902954,-0.202391
+36351,Shell Stevenage,4,5,0,10,2013-05-23,51.919534,-0.178331
+36352,Shell Stevenage,5,0,0,5,2013-05-31,51.906477,-0.185867
+36353,Shephalbury Park Primary School,5,5,5,0,2014-05-13,51.8400497437,-0.275104999542
+36354,Shephall Community Centre,5,5,0,0,2014-09-18,51.891033,-0.176781
+36355,Sheralyns Cake & Bakes,Exempt,nan,nan,nan,2014-01-17,,
+36356,Shortys Off Licence Ltd,4,10,10,0,2013-08-08,51.902255,-0.189002
+36357,Simmons Bakers,5,0,0,0,2014-08-18,51.902954,-0.202391
+36358,Simmons Bakers Ltd,5,0,0,0,2014-10-22,51.91114,-0.207895
+36359,Simply Home Foods,5,5,0,0,2013-08-09,,
+36360,Snack Attack,4,5,5,10,2014-07-28,51.92612,-0.165819
+36361,Snack N Shop,4,10,0,0,2014-03-20,51.907657,-0.209443
+36362,Sodexo,5,5,5,0,2014-05-20,51.896119,-0.202868
+36363,Sophie Victoria Cupcakes,Exempt,nan,nan,nan,2013-07-01,,
+36364,Spice Kitchen,5,5,5,0,2013-10-16,51.925167,-0.165276
+36365,Spice Rouge,4,10,5,5,2014-03-26,51.910257,-0.207203
+36366,Spring Meadows Breakfast And After School Club,5,0,0,0,2013-11-18,51.913708,-0.201148
+36367,St Margaret Clitherow JMI School,5,0,5,0,2013-05-22,51.88743,-0.178685
+36368,St Nicholas Community Centre,Exempt,nan,nan,nan,2012-09-14,51.924446,-0.183106
+36369,St Nicholas Pharmacy,Exempt,nan,nan,nan,2012-02-28,51.924446,-0.183106
+36370,St Pauls Methodist Church,Exempt,nan,nan,nan,2013-08-02,51.885319,-0.189901
+36371,St Vincent De Paul Catholic Primary School,5,0,0,0,2014-02-06,51.905779,-0.182581
+36372,St. Nicholas JMI School,5,0,0,0,2014-06-16,51.898435,-0.185595
+36373,St. Nicholas PH,4,5,5,10,2014-08-04,51.924446,-0.183106
+36374,Stacys Cupcake Bites,5,0,0,5,2012-01-19,,
+36375,Staff Resturant,5,0,0,0,2014-01-09,51.896119,-0.202868
+36376,Standard Bearer,5,5,5,0,2013-02-21,51.901051,-0.202584
+36377,Staples UK,Exempt,nan,nan,nan,2012-10-26,51.904358,-0.202437
+36378,Star Groceries,3,10,10,10,2013-10-03,51.900656,-0.200841
+36379,Starley Bakes,Exempt,nan,nan,nan,2013-09-05,,
+36380,Stearns Pharmacies,Exempt,nan,nan,nan,2014-12-11,51.912726,-0.2093
+36381,Stevenage Arts And Leisure Centre,5,5,0,5,2014-10-07,51.901487,-0.205212
+36382,Stevenage Cafe,5,0,0,5,2014-07-24,51.902503,-0.200476
+36383,Stevenage Charcoal Grill,3,10,10,5,2014-12-11,51.885097,-0.170904
+36384,Stevenage Family Butchers Ltd,5,5,0,5,2014-04-07,51.918555,-0.17952
+36385,Stevenage Fish Bar,5,0,5,0,2014-06-11,51.874829,-0.166323
+36386,Stevenage Garden Centre,5,5,0,0,2014-07-11,51.928446,-0.210623
+36387,Stevenage Golf And Conference Centre,5,0,0,0,2014-03-04,51.884461,-0.156109
+36388,Stevenage Halal Meat And Grocery,5,0,5,0,2014-05-07,51.909106,-0.170394
+36389,Stevenage Play And Learning Activity Team Ltd,5,0,0,5,2014-10-28,51.896597,-0.165088
+36390,Stevenage Spice,1,10,10,20,2014-11-18,51.892577,-0.183026
+36391,Stop & Shop,4,0,0,10,2013-05-01,51.89713,-0.17043
+36392,Street Kitchen,5,0,0,0,2014-10-30,51.907657,-0.209443
+36393,Subway,5,5,0,0,2013-07-11,51.903721,-0.202506
+36394,Subway,5,5,5,0,2014-05-12,51.911475,-0.208012
+36395,Subway,5,5,0,5,2013-10-15,51.901051,-0.202584
+36396,Sugar Plum Cakes And Preserves,5,0,0,0,2013-08-07,,
+36397,Sullivan's Sweet Treats,Exempt,nan,nan,nan,2014-08-13,,
+36398,Sunflower,5,5,5,0,2013-07-03,51.89713,-0.17043
+36399,Superdrug Stores Plc,Exempt,nan,nan,nan,2012-07-26,51.901966,-0.201224
+36400,Supreme Cakes,3,10,5,10,2014-09-16,51.918555,-0.17952
+36401,Surma,5,0,5,0,2014-08-26,51.912726,-0.2093
+36402,Sweet Candy Occasions,5,0,0,5,2013-10-31,,
+36403,Sweet Herts,5,0,0,5,2013-11-11,,
+36404,Sweet Stall,Exempt,nan,nan,nan,2012-09-13,51.9021791563,-0.199414890925
+36405,Symonds Green Community Centre,Exempt,nan,nan,nan,2009-07-07,51.912984,-0.221561
+36406,T & L's Catering Van,5,0,0,0,2014-06-02,,
+36407,T K Maxx,Exempt,nan,nan,nan,2013-11-29,51.904358,-0.202437
+36408,Taj Mahal Restaurant,1,5,15,20,2014-01-24,51.911493,-0.208637
+36409,Taste Of India,4,10,0,0,2014-09-29,51.912726,-0.2093
+36410,Tesco Stores,5,0,0,5,2012-01-20,51.908593,-0.171505
+36411,Tesco Stores Ltd,5,0,0,0,2014-05-14,51.912726,-0.2093
+36412,Tesco Stores Ltd,5,5,0,0,2014-08-20,51.904358,-0.202437
+36413,Tesco Stores Plc,5,0,0,0,2013-02-26,51.88388,-0.19224
+36414,Thai Pan,4,5,5,10,2014-11-26,51.901966,-0.201224
+36415,The BIG Vending Company,5,0,0,0,2013-08-09,51.925146,-0.170818
+36416,The Bombay,4,10,0,10,2013-11-26,51.910257,-0.207203
+36417,The Cake Lady,4,5,5,10,2014-09-30,,
+36418,The Chequers,4,0,0,10,2013-11-14,51.907228,-0.206698
+36419,The Chequers,5,5,0,0,2014-05-27,51.875223,-0.158738
+36420,The Choc Box,Exempt,nan,nan,nan,2009-06-12,51.910257,-0.207203
+36421,The Co-Operative,5,5,5,0,2010-06-29,51.918304,-0.179574
+36422,The Coopers Inn,5,5,0,0,2014-02-25,51.894694,-0.158989
+36423,The Cornish Pantry,5,5,0,0,2013-09-05,51.900753,-0.201302
+36424,The Cromwell Hotel,4,10,5,5,2014-03-26,51.911787,-0.207883
+36425,The Doughnut Van,4,5,0,10,2014-11-20,,
+36426,The Fisherman,4,10,5,0,2014-07-25,51.918718,-0.221945
+36427,The Granby,3,10,5,10,2014-02-25,51.921111,-0.208428
+36428,The Hertford Cake Company,Exempt,nan,nan,nan,2013-09-13,,
+36429,The Hot Sausage Company,5,0,5,0,2013-01-24,,
+36430,The Hyde Bakers,5,5,5,5,2014-11-12,51.892537,-0.169396
+36431,The Local,Exempt,nan,nan,nan,2005-03-11,51.881934,-0.178617
+36432,The Lytton Players,Exempt,nan,nan,nan,2004-03-26,51.916428,-0.181002
+36433,The Man In The Moon Public House,4,5,5,10,2010-03-18,51.881934,-0.178617
+36434,The Marriots And Lonsdale School,5,0,0,0,2013-02-07,51.900383,-0.175545
+36435,The Old Forge Brewsters,5,5,5,5,2013-06-14,51.88388,-0.19224
+36436,The Old Post Office,5,5,0,0,2014-08-22,51.901051,-0.202584
+36437,The Oval Fish Bar,5,5,5,0,2013-02-28,51.918555,-0.17952
+36438,The Oval Wines,Exempt,nan,nan,nan,2014-03-03,51.918555,-0.17952
+36439,The Peartree Public House,4,0,5,10,2014-11-25,51.890804,-0.185196
+36440,The Priory Nursery,5,0,0,0,2014-09-29,,
+36441,The Proverbial,5,5,5,0,2014-02-18,51.909251,-0.195305
+36442,The Range,5,5,0,5,2014-05-15,51.89476,-0.199245
+36443,The Red Fort,3,5,10,10,2014-03-19,51.910104,-0.207761
+36444,The Roebuck Inn,2,15,10,5,2013-08-29,51.882906,-0.189707
+36445,The Shephall Tandoori Hyde Kebab,4,10,5,5,2013-09-18,51.893004,-0.168795
+36446,The Snack Shack,5,5,0,5,2013-09-04,,
+36447,The Spice Of Bengal,1,10,15,20,2014-04-25,51.909443,-0.206843
+36448,The Squirrel,4,0,0,10,2014-06-30,51.904718,-0.165164
+36449,The Standing Order,5,0,0,0,2014-04-23,51.910432,-0.208025
+36450,The Street Kitchen,4,0,0,10,2014-08-15,51.909251,-0.195305
+36451,The Tea Cosy,5,0,0,5,2014-05-09,51.901382,-0.200099
+36452,The Training And Conference Place,4,0,0,10,2014-11-04,51.897046,-0.205883
+36453,The Weeping Chef,4,10,0,0,2014-06-27,51.892268,-0.178141
+36454,The Wine Society,Exempt,nan,nan,nan,2014-01-09,51.896119,-0.202868
+36455,Thomas Alleyne School,4,10,0,0,2014-10-03,51.831035614,-0.212536990643
+36456,Timebridge Community Centre,4,5,10,5,2014-12-05,51.911467,-0.169571
+36457,Times Club & Institute,4,0,0,10,2013-03-27,51.918881,-0.179129
+36458,Times Square Pizza,5,0,0,0,2014-09-29,51.909106,-0.170394
+36459,TJ's Cafe,5,5,0,0,2014-12-15,51.910801,-0.207501
+36460,Totally Scrumptious,4,5,5,10,2014-05-06,51.911489,-0.207779
+36461,Toys 'r' Us,Exempt,nan,nan,nan,2014-02-11,,
+36462,Triangle Pre School,5,0,0,0,2013-10-11,51.89527,-0.1752
+36463,Trotts Hill Primary School,5,0,5,0,2013-05-02,51.918526,-0.18701
+36464,Trugym,4,0,0,10,2014-04-08,,
+36465,Truly Tempting Cakes,Exempt,nan,nan,nan,2013-10-29,,
+36466,Valley School,5,0,0,0,2013-05-08,51.889827,-0.18661
+36467,W H Smith Ltd,Exempt,nan,nan,nan,2011-03-18,51.903621,-0.201318
+36468,W J Rowe Ltd,5,0,0,0,2014-05-22,51.902255,-0.189002
+36469,Waitrose,5,0,5,0,2014-09-03,51.911266,-0.208486
+36470,Walkern Lodge,Exempt,nan,nan,nan,2009-09-25,51.913514,-0.206128
+36471,Waterfall Chinese Restaurant,4,0,0,10,2014-07-15,51.910104,-0.207761
+36472,We Love Cupcakes,3,10,10,10,2011-03-31,,
+36473,We Love Jelly Ltd,5,0,0,5,2013-12-18,,
+36474,WH Smith,5,0,0,0,2010-02-19,51.924249,-0.211925
+36475,White Lion,5,5,0,0,2014-02-19,51.911493,-0.208637
+36476,Wholeplus,Exempt,nan,nan,nan,2013-08-28,,
+36477,Wilkinsons,Exempt,nan,nan,nan,2013-09-13,51.909251,-0.195305
+36478,Wish Upon A Cake,4,0,0,10,2012-01-20,,
+36479,With A Cherry On Top,4,5,0,10,2012-06-06,,
+36480,Woodlands View,5,5,0,0,2013-09-25,51.894694,-0.158989
+36481,Woolenwick Junior School,5,0,0,0,2014-05-12,51.909275,-0.216547
+36482,WRVS,5,0,0,0,2013-09-04,51.924249,-0.211925

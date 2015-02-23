@@ -1,230 +1,230 @@
-,addressline1,addressline2,addressline3,addressline4,businessname,businesstype,businesstypeid,confidenceinmanagement,extractdate,fhrsid,hygiene,itemcount,latitude,localauthoritybusinessid,localauthoritycode,localauthorityemailaddress,localauthorityname,localauthoritywebsite,longitude,postcode,ratingdate,ratingkey,ratingvalue,returncode,schemetype,structural
-401562,3 Charles Street,,Ballymoney,Antrim,7 & One Chinese Restaurant,Restaurant/Cafe/Canteen,1,20,,536679,10,,55.07251500000000,1002,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51738700000000,BT53 6DX,2014-02-26,fhrs_1_en-GB,1,,FHRS,15
-401563,21a Main Street,,Ballymoney,Antrim,A Bite Above,Restaurant/Cafe/Canteen,1,10,,143816,10,,55.06909100000000,815,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2012-07-19,fhrs_3_en-GB,3,,FHRS,10
-401564,53 Queen Street,,Ballymoney,Antrim,A P Mathewson Chemist,Retailers - other,4613,,,143497,,,55.07058900000000,81,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51122800000000,BT53 6JD,2004-09-17,fhrs_exempt_en-GB,Exempt,,FHRS,
-401565,1 Trinity Drive,,Ballymoney,Antrim,Abbeyfield Ballymoney Society,Hospitals/Childcare/Caring Premises,5,5,,114536,5,,55.07244800000000,436,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50973400000000,BT53 6JQ,2014-10-13,fhrs_5_en-GB,5,,FHRS,5
-401566,Main Street,,Ballymoney,Antrim,Anne's Hot Bread Shop,Restaurant/Cafe/Canteen,1,10,,93375,5,,55.06909100000000,268,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2014-01-08,fhrs_4_en-GB,4,,FHRS,5
-401567,6 Newal Road,,Ballymoney,Antrim,Armour Day Centre,School/college/university,7845,5,,94526,5,,55.07184200000000,277,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50866100000000,BT53 6HD,2013-04-29,fhrs_5_en-GB,5,,FHRS,5
-401568,1 Greenhill Road,,Ballymoney,Antrim,Ashwood Garden Centre,Retailers - other,4613,,,133955,,,55.08240200000000,67,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51484500000000,BT53 6LZ,2014-05-23,fhrs_exempt_en-GB,Exempt,,FHRS,
-401569,,,,,B & M Fenton,Mobile caterer,7846,5,,143997,10,,,819,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-08-11,fhrs_4_en-GB,4,,FHRS,5
-401570,30 Boyland Road,,Ballymoney,Antrim,Ballyboyland Post Office,Retailers - other,4613,,,136635,,,55.07776800000000,71,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.46002600000000,BT53 7HF,2005-10-04,fhrs_exempt_en-GB,Exempt,,FHRS,
-401571,38 Ballybrakes Road,,Ballymoney,Antrim,Ballybrakes Community Indoor Bowling Club,Restaurant/Cafe/Canteen,1,10,,96852,0,,55.06288600000000,298,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52564800000000,BT53 6LW,2015-01-14,fhrs_4_en-GB,4,,FHRS,10
-401572,,,,,Ballymoney And District Community Playgroup,Other catering premises,7841,5,,88592,5,,,233,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2009-05-12,fhrs_5_en-GB,5,,FHRS,5
-401573,Unit 1 Silversprings Shopping Centre,,Ballymoney,Antrim,Ballymoney Foodbank,Distributors/Transporters,7,5,,655712,5,,55.07229900000000,1074,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51664400000000,BT53 6RD,2014-03-25,fhrs_5_en-GB,5,,FHRS,5
-401574,17 Garryduff Road,,Ballymoney,Antrim,Ballymoney High School,School/college/university,7845,0,,110697,5,,55.06821900000000,403,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50330100000000,BT53 7AN,2012-01-18,fhrs_5_en-GB,5,,FHRS,5
-401575,23 North Road,,Ballymoney,Antrim,Ballymoney Model Controlled Integrated Primary School,School/college/university,7845,0,,120839,0,,55.07178200000000,497,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52291000000000,BT53 6BW,2012-09-13,fhrs_5_en-GB,5,,FHRS,0
-401576,63 Kilraughts Road,,Ballymoney,Antrim,Ballymoney Rugby Club,Pub/bar/nightclub,7843,5,,89713,10,,55.07320500000000,241,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48880500000000,BT53 7HL,2014-02-07,fhrs_4_en-GB,4,,FHRS,5
-401577,35 Castle Street,,Ballymoney,Antrim,Ballymoney Utd Football And Social Club,Pub/bar/nightclub,7843,10,,129977,5,,55.06840900000000,61,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51807200000000,BT53 6JT,2009-12-15,fhrs_4_en-GB,4,,FHRS,5
-401578,80 Balnamore Road,,Ballymoney,Antrim,Balnamore Primary School,School/college/university,7845,5,,114448,5,,55.06492000000000,435,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.56348400000000,BT53 7PT,2013-04-22,fhrs_5_en-GB,5,,FHRS,0
-401579,41 Ballymena Road,,Ballymoney,Antrim,Basil Knipe Coffee Lounge,Restaurant/Cafe/Canteen,1,10,,655715,5,,55.06824500000000,1080,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49522200000000,BT53 7EX,2014-01-28,fhrs_4_en-GB,4,,FHRS,5
-401580,143 Ballinlea Road,Stranocum,Ballymoney,Antrim,Bell Tower Bar & Restaurant,Restaurant/Cafe/Canteen,1,10,,114589,10,,55.14941100000000,437,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.37899300000000,BT53 8TU,2012-11-23,fhrs_3_en-GB,3,,FHRS,10
-401581,,,,,Bethany Kitchen,Mobile caterer,7846,5,,106846,5,,,374,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2012-07-31,fhrs_5_en-GB,5,,FHRS,5
-401582,250 Castlecat Road,Dervock,Ballymoney,Antrim,Blackwater Bar And Restaurant,Restaurant/Cafe/Canteen,1,10,,93776,5,,55.12550200000000,270,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.47040100000000,BT53 8BP,2009-11-05,fhrs_4_en-GB,4,,FHRS,5
-401583,7 Main Street,,Ballymoney,Antrim,Bob And Berts Ballymoney Ltd,Restaurant/Cafe/Canteen,1,10,,731488,5,,55.06909100000000,1204,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2014-11-24,fhrs_4_en-GB,4,,FHRS,5
-401584,135 Bridge Road,Dunloy,Ballymena,Antrim,Bridgeview Rest,Hospitals/Childcare/Caring Premises,5,,,77878,,,54.99183700000000,184,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.40336700000000,BT44 9EG,2012-01-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-401585,161a Tullaghans Road,Dunloy,Ballymena,,Brogan's Chippy,Takeaway/sandwich shop,7844,10,,90650,5,,55.01123200000000,248,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.41293000000000,BT44 9AF,2014-10-09,fhrs_4_en-GB,4,,FHRS,5
-401586,105 Toberdoney Road,Dervock,Ballymoney,Antrim,Burn Brig House,Hotel/bed & breakfast/guest house,7842,10,,144465,0,,55.13049900000000,832,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.46629100000000,BT53 8DJ,2014-06-17,fhrs_4_en-GB,4,,FHRS,0
-401587,3 Main Street,Clough Mills,,Antrim,Burns Butchers,Retailers - other,4613,10,,129339,10,,54.99956500000000,60,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33320400000000,BT44 9LG,2013-01-16,fhrs_3_en-GB,3,,FHRS,10
-401588,175 Ballinlea Road,Stranocum,Ballymoney,Antrim,Bushvalley Primary School,School/college/university,7845,0,,145984,5,,55.11810200000000,88,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.41298900000000,BT53 8PR,2012-06-25,fhrs_5_en-GB,5,,FHRS,0
-401589,38 Lough Road,Loughguile,Ballymena,Antrim,Cafe Deli,Restaurant/Cafe/Canteen,1,10,,190087,5,,55.05856000000000,877,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.31680900000000,BT44 9JN,2014-02-27,fhrs_4_en-GB,4,,FHRS,5
-401590,,,,,Candy Box,Mobile caterer,7846,10,,547315,5,,,1007,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2013-04-25,fhrs_4_en-GB,4,,FHRS,0
-401591,81 Kilraughts Road,,Ballymoney,Antrim,Carnany Filling Station,Retailers - other,4613,10,,107511,5,,55.07320500000000,38,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48880500000000,BT53 7HL,2014-05-28,fhrs_4_en-GB,4,,FHRS,5
-401592,110 Finvoy Road,,Ballymoney,Antrim,Carrowreagh Primary School,School/college/university,7845,0,,117907,5,,55.01812300000000,472,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50663800000000,BT53 7JL,2014-09-10,fhrs_5_en-GB,5,,FHRS,0
-401593,102 Ballybogey Road,,Ballymoney,,CENTRA,Retailers - supermarkets/hypermarkets,7840,5,,97042,0,,55.13081500000000,30,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.55686900000000,BT53 6PD,2014-01-09,fhrs_5_en-GB,5,,FHRS,5
-401594,8 Ballybogy Road,,Ballymoney,Antrim,CENTRA,Retailers - supermarkets/hypermarkets,7840,5,,126605,5,,55.08306600000000,557,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52741100000000,BT53 6QD,2014-10-16,fhrs_5_en-GB,5,,FHRS,5
-401595,1 Bellaghy Road,Dunloy,,Antrim,China Chef,Takeaway/sandwich shop,7844,10,,415272,10,,55.00990400000000,913,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.40891800000000,BT44 9AE,2012-07-02,fhrs_2_en-GB,2,,FHRS,15
-401596,Main Street,,Ballymoney,Antrim,China Garden,Takeaway/sandwich shop,7844,10,,132684,10,,55.06855300000000,648,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51665700000000,BT53 6TD,2012-06-28,fhrs_3_en-GB,3,,FHRS,10
-401597,19c Lough Road,Loughguile,Ballymena,Antrim,Chip Inn,Takeaway/sandwich shop,7844,10,,132371,5,,55.05856000000000,643,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.31680900000000,BT44 9JN,2012-07-05,fhrs_4_en-GB,4,,FHRS,5
-401598,35a - 35b Main Street,Rasharkin,Ballymena,Antrim,Chopstick,Takeaway/sandwich shop,7844,20,,615826,15,,54.95734000000000,1032,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48266700000000,BT44 8PU,2013-09-10,fhrs_1_en-GB,1,,FHRS,15
-401599,59 Mullan Road,,Ballymoney,Antrim,Christopher Creelman,Mobile caterer,7846,10,,588849,5,,55.01847800000000,1025,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48665900000000,BT53 7ED,2013-08-21,fhrs_4_en-GB,4,,FHRS,5
-401600,151 Finvoy Road,,Ballymoney,Antrim,Churchview House B&b,Hotel/bed & breakfast/guest house,7842,10,,100070,5,,55.00896600000000,32,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50569700000000,BT53 7JN,2010-11-26,fhrs_4_en-GB,4,,FHRS,5
-401601,62 Bann Road,Rasharkin,,Antrim,Claireville Residential Home,Hospitals/Childcare/Caring Premises,5,5,,96356,5,,54.95931400000000,292,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51153700000000,BT44 8SZ,2014-10-06,fhrs_5_en-GB,5,,FHRS,5
-401602,,,,,Class Country Catering,Mobile caterer,7846,10,,356428,0,,,897,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-06-26,fhrs_4_en-GB,4,,FHRS,0
-401603,,,,,Cloughmills Early Years,Other catering premises,7841,5,,90103,0,,,244,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2012-10-25,fhrs_5_en-GB,5,,FHRS,0
-401604,34 Main Street,Clough Mills,Cloughmills,Antrim,Cloughmills Primary School,School/college/university,7845,5,,95007,0,,54.99722400000000,280,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33020700000000,BT44 9LF,2012-10-25,fhrs_5_en-GB,5,,FHRS,5
-401605,11 Main Street,,Ballymoney,Antrim,Coffee Capital,Restaurant/Cafe/Canteen,1,10,,84097,10,,55.06909100000000,208,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2012-04-23,fhrs_2_en-GB,2,,FHRS,15
-401606,,,,,Connoisseur Catering,Mobile caterer,7846,5,,123946,5,,,524,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2012-05-13,fhrs_5_en-GB,5,,FHRS,5
-401607,2 Riada Avenue,,Ballymoney,Antrim,Contemporary Cakes,Manufacturers/packers,7839,5,,451726,5,,55.06494100000000,937,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49533100000000,BT53 7LH,2012-08-14,fhrs_5_en-GB,5,,FHRS,5
-401608,62 Townhead Street,,Ballymoney,Antrim,Costcutters,Retailers - supermarkets/hypermarkets,7840,0,,121888,5,,55.07199900000000,505,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51928500000000,BT53 6BE,2014-10-07,fhrs_4_en-GB,4,,FHRS,10
-401609,,,,,Cottage Outside Catering Van Reg No Tkz 3213,Mobile caterer,7846,10,,134506,5,,,68,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2012-07-19,fhrs_4_en-GB,4,,FHRS,5
-401610,2 Lisconnan Road,,Ballymoney,Antrim,Country Garden House,Hotel/bed & breakfast/guest house,7842,5,,144764,5,,55.12662700000000,842,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49801300000000,BT53 8AD,2013-07-08,fhrs_5_en-GB,5,,FHRS,5
-401611,1 Queens Avenue,,Ballymoney,Antrim,Court Care Home,Hospitals/Childcare/Caring Premises,5,5,,147440,0,,55.07779600000000,92,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52102800000000,BT53 6DF,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-401612,54 Bann Road,,Kilrea,Antrim,Culmore Organic Farm,Retailers - other,4613,5,,655713,0,,54.96016800000000,1075,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.53678100000000,BT51 5RY,2014-04-03,fhrs_5_en-GB,5,,FHRS,0
-401613,Riada Avenue,Acorn The Business Centre,Ballymoney,Antrim,Cyblings,Restaurant/Cafe/Canteen,1,0,,718612,5,,55.06494100000000,1190,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49533100000000,BT53 7LH,2014-09-26,fhrs_5_en-GB,5,,FHRS,0
-401614,1-9 St James Road,,Ballymoney,Antrim,Dalriada School,School/college/university,7845,10,,91338,10,,55.07271100000000,252,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52242100000000,BT53 6BL,2012-11-27,fhrs_3_en-GB,3,,FHRS,10
-401615,11a Kirk Road,Newhill,Ballymoney,Antrim,Dalriada Surestart,Other catering premises,7841,5,,695919,0,,55.07793400000000,1150,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50286000000000,BT53 6PP,2014-07-25,fhrs_5_en-GB,5,,FHRS,0
-401616,58 Coolkeeran Road,Armoy,Ballymoney,Antrim,Day2day,Retailers - supermarkets/hypermarkets,7840,10,,90392,10,,55.09892200000000,246,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.31276300000000,BT53 8XN,2013-01-29,fhrs_3_en-GB,3,,FHRS,10
-401617,46 Main Street,,Ballymoney,Antrim,Dayfresh,Retailers - other,4613,10,,112989,10,,55.06906600000000,421,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51595000000000,BT53 6AL,2014-07-08,fhrs_3_en-GB,3,,FHRS,5
-401618,10-16 Carncullagh Road,Dervock,Ballymoney,Antrim,Dervock Centra,Retailers - supermarkets/hypermarkets,7840,5,,137955,5,,55.12295100000000,731,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.46611000000000,BT53 8BT,2010-01-28,fhrs_5_en-GB,5,,FHRS,5
-401619,,,,,Dervock Community Playgroup,Other catering premises,7841,0,,79659,0,,,192,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2010-04-28,fhrs_5_en-GB,5,,FHRS,5
-401620,236 Frosses Road,Cloughmills,Ballymena,Antrim,Drumadoon,Hotel/bed & breakfast/guest house,7842,5,,187522,10,,55.00264700000000,269,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.35700500000000,BT44 9PX,2014-08-28,fhrs_3_en-GB,3,,FHRS,10
-401621,36 Glenstall Road,,Ballymoney,Antrim,Drumaheglis Marina,Retailers - other,4613,,,95509,,,55.07075200000000,285,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.58899600000000,BT53 7QN,2013-04-30,fhrs_exempt_en-GB,Exempt,,FHRS,
-401622,17 Bridge Road,Dunloy,Ballymena,Antrim,Dunloy Community Play Group,Other catering premises,7841,10,,615831,0,,55.00908100000000,1045,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.41332700000000,BT44 9AN,2013-11-18,fhrs_4_en-GB,4,,FHRS,0
-401623,33 Vow Road,,Ballymoney,Antrim,Eden Primary School,School/college/university,7845,0,,95101,0,,55.03029900000000,281,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.56359700000000,BT53 7PB,2014-09-12,fhrs_5_en-GB,5,,FHRS,0
-401624,33a Bridge Road,Dunloy,Ballymena,Antrim,Elliotts Service Station,Retailers - supermarkets/hypermarkets,7840,0,,36790,10,,55.00908100000000,100,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.41332700000000,BT44 9AN,2014-09-11,fhrs_4_en-GB,4,,FHRS,10
-401625,4 Ballynacree Avenue,Balnamore,Ballymoney,Antrim,Emerald Fine Food Company,Retailers - other,4613,5,,731492,0,,55.06836500000000,1208,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.56472200000000,BT53 7PQ,2014-12-22,fhrs_5_en-GB,5,,FHRS,0
-401626,14 Drumskea Road,,Ballymoney,Antrim,Enagh Lodge,Hotel/bed & breakfast/guest house,7842,0,,92211,10,,55.05369600000000,259,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.53155600000000,BT53 7JB,2010-12-02,fhrs_4_en-GB,4,,FHRS,5
-401627,27-33 Main Street,Rasharkin,Ballymena,,Eurospar,Retailers - supermarkets/hypermarkets,7840,,,79453,,,54.95734000000000,191,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48266700000000,BT44 8PU,2013-05-30,fhrs_4_en-GB,4,,FHRS,
-401628,178-180 Finvoy Road,,Ballymoney,Antrim,Finvoy Filling Station,Retailers - other,4613,10,,91592,5,,54.99649700000000,254,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50497300000000,BT53 7JS,2013-06-20,fhrs_4_en-GB,4,,FHRS,5
-401629,7 Drumlee Road,,Ballymoney,Antrim,Finvoy Fun Farm,Restaurant/Cafe/Canteen,1,10,,124182,5,,55.02499900000000,527,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52090900000000,BT53 7LE,2012-07-05,fhrs_3_en-GB,3,,FHRS,10
-401630,1 Loughill Road,Clough Mills,,Antrim,Fish 'N' Chip,Takeaway/sandwich shop,7844,10,,114077,10,,54.99995100000000,431,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33256300000000,BT44 9LZ,2014-02-25,fhrs_3_en-GB,3,,FHRS,10
-401631,51 Queen Street,,Ballymoney,Antrim,Flash In The Pan,Takeaway/sandwich shop,7844,10,,112724,10,,55.07058900000000,419,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51122800000000,BT53 6JD,2014-10-21,fhrs_3_en-GB,3,,FHRS,10
-401632,155 Ballinlea Road,Stranocum,Ballymoney,Antrim,Gardenvale B&b,Hotel/bed & breakfast/guest house,7842,10,,615827,5,,55.13490900000000,1037,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.39102800000000,BT53 8PX,2013-09-11,fhrs_4_en-GB,4,,FHRS,5
-401633,2 Garryduff Road,,Ballymoney,Antrim,Garryduff House,Hospitals/Childcare/Caring Premises,5,5,,124384,0,,55.06914300000000,529,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50173200000000,BT53 7AF,2013-12-18,fhrs_4_en-GB,4,,FHRS,10
-401634,2 Garryduff Road,,Ballymoney,Antrim,Garryduff House (Bungalow),Hospitals/Childcare/Caring Premises,5,5,,125398,5,,55.06914300000000,539,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50173200000000,BT53 7AF,2012-06-12,fhrs_5_en-GB,5,,FHRS,5
-401635,133 Garryduff Road,,Ballymoney,Antrim,Garryduff Primary School,School/college/university,7845,0,,103735,5,,55.03119500000000,35,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.44781500000000,BT53 7DR,2014-09-18,fhrs_5_en-GB,5,,FHRS,5
-401636,22 John Street,,Ballymoney,Antrim,Glebeside Spar,Retailers - supermarkets/hypermarkets,7840,10,,97737,5,,55.07241300000000,305,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51496500000000,BT53 6DS,2012-11-07,fhrs_4_en-GB,4,,FHRS,5
-401637,93a Frosses Road,,Ballymoney,Antrim,Glen Lodge B & B,Hotel/bed & breakfast/guest house,7842,10,,140032,5,,55.05198300000000,76,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.44079900000000,BT53 7EJ,2010-12-02,fhrs_4_en-GB,4,,FHRS,5
-401638,,,,,Golden Grub,Mobile caterer,7846,5,,683231,10,,,1087,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-06-17,fhrs_4_en-GB,4,,FHRS,0
-401639,29 Shandon Park,,Ballymoney,Antrim,Golden Inn,Takeaway/sandwich shop,7844,10,,126386,5,,55.06412000000000,554,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49725600000000,BT53 7BA,2012-10-02,fhrs_3_en-GB,3,,FHRS,10
-401640,86-88 Drones Road,Armoy,Ballymoney,Antrim,Golden Plough Service Station,Retailers - other,4613,0,,132800,0,,55.09420700000000,65,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.35619600000000,BT53 8XA,2014-07-21,fhrs_5_en-GB,5,,FHRS,5
-401641,9 Main Street,,Ballymoney,Antrim,Gordons Chemist,Retailers - other,4613,,,144024,,,55.06909100000000,82,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2010-05-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-401642,74 Balnamore Road,,Ballymoney,Antrim,Gowlands Todays Local,Retailers - other,4613,10,,139869,5,,55.06492000000000,758,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.56348400000000,BT53 7PT,2013-04-22,fhrs_4_en-GB,4,,FHRS,5
-401643,4 High Street,,Ballymoney,Antrim,Ground Coffee Shop,Restaurant/Cafe/Canteen,1,10,,103212,5,,55.07057700000000,346,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51763100000000,BT53 6AG,2013-11-11,fhrs_3_en-GB,3,,FHRS,10
-401644,,,,,Happy Days Community Childcare,Other catering premises,7841,5,,190083,10,,,872,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-02-04,fhrs_4_en-GB,4,,FHRS,5
-401645,64 Balnamore Road,,Ballymoney,Antrim,Harmony Hill Country House + Restaurant,Restaurant/Cafe/Canteen,1,5,,108296,5,,55.06272000000000,386,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.56284300000000,BT53 7PS,2013-08-19,fhrs_5_en-GB,5,,FHRS,5
-401646,,,,,Harmony Ice's,Mobile caterer,7846,10,,127815,5,,,574,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2013-04-25,fhrs_4_en-GB,4,,FHRS,5
-401647,141a Ballinlea Road,Stranocum,Ballymoney,Antrim,Hedges Restaurant,Restaurant/Cafe/Canteen,1,10,,655711,10,,55.13490900000000,1073,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.39102800000000,BT53 8PX,2013-11-27,fhrs_3_en-GB,3,,FHRS,5
-401648,63 Main Street,,Ballymoney,Antrim,Herrons Country Fried Chicken,Takeaway/sandwich shop,7844,10,,61770,5,,55.06909100000000,136,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2013-08-05,fhrs_4_en-GB,4,,FHRS,5
-401649,41 Kirk Road,,Ballymoney,Antrim,Hob Green Country Home,Hospitals/Childcare/Caring Premises,5,5,,124473,5,,55.09013400000000,530,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49419700000000,BT53 8HB,2014-07-28,fhrs_5_en-GB,5,,FHRS,5
-401650,14a Kilmoyle Road,Ballybogy,Ballymoney,Antrim,Honeysuckle Cottage,Hotel/bed & breakfast/guest house,7842,10,,138228,5,,55.14247300000000,735,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.54987700000000,BT53 6NR,2009-07-24,fhrs_4_en-GB,4,,FHRS,5
-401651,15 Carncullagh Road,Dervock,Ballymoney,Antrim,Hot Cha,Takeaway/sandwich shop,7844,10,,536680,10,,55.12295100000000,1003,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.46611000000000,BT53 8BT,2013-03-13,fhrs_3_en-GB,3,,FHRS,10
-401652,,,,,Hugh Woodrow Van Reg No Ku13 Feh,Retailers - other,4613,5,,85538,5,,,216,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2013-01-28,fhrs_4_en-GB,4,,FHRS,10
-401653,58 Main Street,,Ballymoney,Antrim,Imperial Bar,Pub/bar/nightclub,7843,10,,138650,5,,55.06906600000000,74,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51595000000000,BT53 6AL,2010-02-23,fhrs_4_en-GB,4,,FHRS,5
-401654,,,,,Iris's Farmhouse Cuisine,Other catering premises,7841,5,,126128,5,,,55,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2012-08-14,fhrs_5_en-GB,5,,FHRS,5
-401655,64 Main Street,,Ballymoney,Antrim,J D Hart & Son,Retailers - other,4613,10,,110261,5,,55.06906600000000,400,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51595000000000,BT53 6AL,2014-06-24,fhrs_2_en-GB,2,,FHRS,15
-401656,17 Main Street,Clough Mills,Cloughmills,Antrim,J Magill + Sons,Retailers - other,4613,10,,89270,5,,54.99722400000000,238,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33020700000000,BT44 9LF,2013-01-09,fhrs_4_en-GB,4,,FHRS,5
-401657,2 Main Street,Stranocum,Ballymoney,Antrim,J Mcfadden,Retailers - other,4613,5,,114199,10,,55.10779600000000,432,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.42115400000000,BT53 8PE,2013-07-09,fhrs_4_en-GB,4,,FHRS,5
-401658,10 Market Street,,Ballymoney,Antrim,Jade Garden,Takeaway/sandwich shop,7844,20,,731493,15,,55.07277900000000,1209,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51553000000000,BT53 6EA,2014-12-02,fhrs_1_en-GB,1,,FHRS,10
-401659,69 Frosses Road,,Ballymoney,Antrim,Jmf Limited Canteen,Restaurant/Cafe/Canteen,1,10,,211103,10,,55.06169600000000,885,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.47499600000000,BT53 7HN,2012-02-15,fhrs_3_en-GB,3,,FHRS,10
-401660,15 Seymour Street,,Ballymoney,Antrim,Joey's Bar,Pub/bar/nightclub,7843,10,,126688,10,,55.06732600000000,558,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51396300000000,BT53 6JR,2009-04-21,fhrs_3_en-GB,3,,FHRS,10
-401661,,,,,Johnny's Diner,Mobile caterer,7846,10,,384930,5,,,906,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2011-08-23,fhrs_3_en-GB,3,,FHRS,10
-401662,,,,,Joyce Gage,Retailers - other,4613,5,,703247,0,,,1178,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-07-08,fhrs_5_en-GB,5,,FHRS,0
-401663,56 Main Street,Rasharkin,,Antrim,Kennedys Pharmacy,Retailers - other,4613,,,93028,,,54.95938100000000,265,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48494800000000,BT44 8PX,2013-05-09,fhrs_exempt_en-GB,Exempt,,FHRS,
-401664,169 Tullaghans Road,,Dunloy,Antrim,Kennedy's Pharmacy,Retailers - other,4613,,,547317,,,55.01123200000000,916,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.41293000000000,BT44 9AF,2013-04-29,fhrs_exempt_en-GB,Exempt,,FHRS,
-401665,12 Kilmoyle Road,Ballybogey,Ballymoney,Antrim,Kilmail Country Chalet,Hotel/bed & breakfast/guest house,7842,10,,130473,5,,55.14247300000000,617,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.54987700000000,BT53 6NR,2013-04-30,fhrs_4_en-GB,4,,FHRS,5
-401666,77 Benvardin Road,Ballybogy,Ballymoney,Antrim,Kilmoyle Primary School,School/college/university,7845,0,,110819,0,,55.13163600000000,404,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.54956500000000,BT53 6NS,2013-12-17,fhrs_5_en-GB,5,,FHRS,0
-401667,79 Knockaholet Road,Dunloy,,Antrim,Knockahollet Primary School,School/college/university,7845,5,,145677,5,,55.04863100000000,87,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.36274200000000,BT44 9BA,2012-12-03,fhrs_5_en-GB,5,,FHRS,5
-401668,153 Finvoy Road,,Ballymoney,Antrim,Knockan Lodge P R H,Hospitals/Childcare/Caring Premises,5,10,,114286,5,,55.00896600000000,433,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50569700000000,BT53 7JN,2014-02-11,fhrs_4_en-GB,4,,FHRS,5
-401669,18 Victoria Street,,Ballymoney,Antrim,La Petite Baguette,Restaurant/Cafe/Canteen,1,0,,139361,5,,55.07123000000000,75,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51593200000000,BT53 6DW,2014-10-17,fhrs_5_en-GB,5,,FHRS,5
-401670,78 Kilraughts Road,,Ballymoney,Antrim,Landhead Primary School,School/college/university,7845,0,,116974,0,,55.07320500000000,462,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48880500000000,BT53 7HL,2013-04-23,fhrs_5_en-GB,5,,FHRS,5
-401671,Riada Avenue,Acorn The Business Centre,Ballymoney,Antrim,Lavender Tea Room,Restaurant/Cafe/Canteen,1,10,,615835,5,,55.06494100000000,1052,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49533100000000,BT53 7LH,2013-11-22,fhrs_4_en-GB,4,,FHRS,5
-401672,12 Intermediate Road,,Ballymoney,Antrim,Leaney Central Meals Kitchen,School/college/university,7845,5,,145063,5,,55.06646400000000,85,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50524500000000,BT53 7AL,2013-10-02,fhrs_5_en-GB,5,,FHRS,0
-401673,2 Seymour Street,,Ballymoney,Antrim,LIDL UK GMBH,Retailers - supermarkets/hypermarkets,7840,5,,85407,5,,55.06732600000000,215,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51396300000000,BT53 6JR,2012-02-03,fhrs_5_en-GB,5,,FHRS,0
-401674,50 Lislagan Road,,Ballymoney,Antrim,Lislagan Primary School,School/college/university,7845,0,,95188,5,,55.04773100000000,282,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50503500000000,BT53 7JF,2014-09-17,fhrs_5_en-GB,5,,FHRS,5
-401675,84 Knockaholet Road,Dunloy,,Antrim,Lisnisk Lodge,Hotel/bed & breakfast/guest house,7842,10,,356429,5,,55.04863100000000,898,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.36274200000000,BT44 9BA,2012-04-18,fhrs_3_en-GB,3,,FHRS,10
-401676,11 Knockaholet Road,Clough Mills,,Antrim,Lissanoure Castle Ltd,Restaurant/Cafe/Canteen,1,5,,142913,5,,55.05205200000000,80,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33346600000000,BT44 9JP,2012-02-29,fhrs_5_en-GB,5,,FHRS,5
-401677,38 Lough Road,Loughguile,Ballymena,Antrim,Loughgiel Early Years,Other catering premises,7841,10,,106938,5,,55.05856000000000,375,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.31680900000000,BT44 9JN,2014-02-03,fhrs_4_en-GB,4,,FHRS,5
-401678,10 Lough Road,Loughguile,Ballymena,Antrim,Loughgiel Shamrocks Social Club,Pub/bar/nightclub,7843,10,,131465,5,,55.05856000000000,63,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.31680900000000,BT44 9JN,2011-01-17,fhrs_4_en-GB,4,,FHRS,5
-401679,38 Lough Road,Loughguile,Ballymena,Antrim,Loughview Meats,Retailers - other,4613,5,,642677,5,,55.05856000000000,1065,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.31680900000000,BT44 9JN,2014-02-15,fhrs_5_en-GB,5,,FHRS,0
-401680,,,,,Lucia's Cakes,Other catering premises,7841,5,,655714,5,,,1076,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-04-01,fhrs_5_en-GB,5,,FHRS,5
-401681,19 Church Street,,Ballymoney,Antrim,Ma Kellys,Restaurant/Cafe/Canteen,1,5,,190085,5,,55.07042100000000,858,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51588400000000,BT53 6HS,2014-08-13,fhrs_5_en-GB,5,,FHRS,0
-401682,26 Main Street,Dunloy,,Antrim,Mace,Retailers - other,4613,10,,62487,10,,55.01156000000000,138,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.41188500000000,BT44 9AA,2012-02-08,fhrs_3_en-GB,3,,FHRS,10
-401683,69 Main Street,,Ballymoney,Antrim,Manor Hotel,Hotel/bed & breakfast/guest house,7842,5,,64138,0,,55.06909100000000,142,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2014-06-20,fhrs_5_en-GB,5,,FHRS,0
-401684,6 Milltown Road,,Ballymoney,Antrim,Master Chef,Takeaway/sandwich shop,7844,20,,415269,15,,55.06362000000000,909,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52023600000000,BT53 6LE,2013-11-19,fhrs_1_en-GB,1,,FHRS,15
-401685,58 Main Street,Clough Mills,Cloughmills,Antrim,Mawhinney Chemist,Retailers - other,4613,,,132060,,,54.99722400000000,637,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33020700000000,BT44 9LF,2009-08-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-401686,39 Castle Street,,Ballymoney,Antrim,Max Snax,Takeaway/sandwich shop,7844,10,,124752,10,,55.06840900000000,532,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51807200000000,BT53 6JT,2012-06-20,fhrs_3_en-GB,3,,FHRS,10
-401687,5 Main Street,,Ballymoney,Antrim,Mcatamney Butchers,Retailers - other,4613,,,143464,,,55.06909100000000,809,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2013-05-22,fhrs_5_en-GB,5,,FHRS,
-401688,60 Bann Road,Rasharkin,Ballymena,Antrim,McLaughlin's Corner,Restaurant/Cafe/Canteen,1,10,,94102,10,,54.95931400000000,273,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51153700000000,BT44 8SZ,2014-08-20,fhrs_3_en-GB,3,,FHRS,10
-401689,9 Charles Street,,Ballymoney,Antrim,Megabites,Restaurant/Cafe/Canteen,1,10,,110135,10,,55.07251500000000,399,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51738700000000,BT53 6DX,2013-09-30,fhrs_3_en-GB,3,,FHRS,10
-401690,49a Ballymena Road,,Ballymoney,Antrim,Millbrook Resource Centre,School/college/university,7845,5,,125507,0,,55.06484700000000,540,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48418900000000,BT53 7EZ,2013-12-17,fhrs_5_en-GB,5,,FHRS,5
-401691,4 Drumadoon Road,Clough Mills,,Antrim,Millside Restaurant,Restaurant/Cafe/Canteen,1,5,,118269,10,,55.00069200000000,476,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33944000000000,BT44 9LJ,2012-05-10,fhrs_4_en-GB,4,,FHRS,5
-401692,23 North Road,,Ballymoney,Antrim,Model Kidz Club,Other catering premises,7841,5,,615829,5,,55.07178200000000,1039,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52291000000000,BT53 6BW,2013-09-26,fhrs_5_en-GB,5,,FHRS,5
-401693,24 Main Street,,Ballymoney,Antrim,Molly's,Pub/bar/nightclub,7843,5,,93990,5,,55.06906600000000,272,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51595000000000,BT53 6AL,2014-08-06,fhrs_5_en-GB,5,,FHRS,5
-401694,25-27 Main Street,,Ballymoney,,Monty's,Restaurant/Cafe/Canteen,1,10,,669171,5,,55.06909100000000,1011,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2013-06-07,fhrs_4_en-GB,4,,FHRS,5
-401695,11 Main Street,Cloughmills,Cloughmills,Antrim,Moores Cloughmills Ltd,Retailers - other,4613,10,,98618,5,,54.99722400000000,311,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33020700000000,BT44 9LF,2015-01-13,fhrs_4_en-GB,4,,FHRS,5
-401696,22 Portrush Road,,Ballymoney,Antrim,Morning Calm B & B,Hotel/bed & breakfast/guest house,7842,10,,384926,5,,55.07725000000000,900,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52187800000000,BT53 6BX,2012-05-04,fhrs_4_en-GB,4,,FHRS,5
-401697,Doltones Business Park,,Ballymoney,Antrim,Mr D's,Mobile caterer,7846,10,,190088,5,,55.06824500000000,830,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49522200000000,BT53 7EX,2014-01-06,fhrs_4_en-GB,4,,FHRS,5
-401698,,,,,Mrs Mary Hargie,Mobile caterer,7846,0,,143954,5,,,818,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-08-05,fhrs_5_en-GB,5,,FHRS,5
-401699,8 Church Street,,Ballymoney,Antrim,Mrs Mo's,Restaurant/Cafe/Canteen,1,20,,536683,10,,55.07074000000000,989,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51620100000000,BT53 6DL,2013-02-28,fhrs_1_en-GB,1,,FHRS,5
-401700,17 High Street,,Ballymoney,Antrim,Mulhollands Butchers,Retailers - other,4613,10,,94201,5,,55.07085800000000,274,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51707300000000,BT53 6AH,2013-01-08,fhrs_4_en-GB,4,,FHRS,5
-401701,53 Main Street,Rasharkin,Ballymena,Antrim,Mullaghans,Pub/bar/nightclub,7843,10,,94408,5,,54.95938100000000,276,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48494800000000,BT44 8PX,2013-06-26,fhrs_4_en-GB,4,,FHRS,5
-401702,20 Greengage Lane,,Ballymoney,Antrim,Narrow Gauge B & B,Hotel/bed & breakfast/guest house,7842,5,,133962,5,,55.07358600000000,670,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50358600000000,BT53 6HW,2013-04-29,fhrs_5_en-GB,5,,FHRS,5
-401703,14 Church Street,,Ballymoney,Antrim,Nature Nook,Retailers - other,4613,10,,78284,5,,55.07074000000000,186,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51620100000000,BT53 6DL,2012-01-26,fhrs_4_en-GB,4,,FHRS,0
-401704,12b Church Street,,Ballymoney,Antrim,Ni Supplement,Retailers - other,4613,10,,331945,5,,55.07074000000000,893,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51620100000000,BT53 6DL,2012-04-18,fhrs_4_en-GB,4,,FHRS,5
-401705,18 Carncullagh Road,Dervock,Ballymoney,Antrim,North Irish Horse Inn Bar,Pub/bar/nightclub,7843,,,124031,,,55.12295100000000,525,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.46611000000000,BT53 8BT,,fhrs_awaitinginspection_en-GB,AwaitingInspection,,FHRS,
-401706,2 Coleraine Road,,Ballymoney,Antrim,Northern Regional College,School/college/university,7845,10,,95586,5,,55.07320000000000,286,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51978900000000,BT53 6BT,2012-01-31,fhrs_4_en-GB,4,,FHRS,5
-401707,2 Linenhall Street,,Ballymoney,Antrim,Northern Star,Pub/bar/nightclub,7843,0,,121367,10,,55.07148500000000,501,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51692500000000,BT53 6DP,2014-05-15,fhrs_4_en-GB,4,,FHRS,5
-401708,166 Castlecat Road,Dervock,Ballymoney,Antrim,Old Glebe,Hotel/bed & breakfast/guest house,7842,5,,669173,5,,55.15115700000000,1083,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49625900000000,BT53 8AP,2014-05-12,fhrs_5_en-GB,5,,FHRS,5
-401709,7 Victoria Street,,Ballymoney,Antrim,Olphert Butchers,Retailers - other,4613,10,,95412,5,,55.07123000000000,284,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51593200000000,BT53 6DW,2013-01-31,fhrs_4_en-GB,4,,FHRS,5
-401710,,,,,Oscars Coffee To Go,Mobile caterer,7846,5,,580339,5,,,1021,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2013-08-09,fhrs_5_en-GB,5,,FHRS,5
-401711,85 Castle Street,,Ballymoney,Antrim,Our Lady Of Lourdes High School,School/college/university,7845,5,,96126,0,,55.06696100000000,290,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52163100000000,BT53 6JX,2012-09-24,fhrs_5_en-GB,5,,FHRS,5
-401712,2-4 Main Street,Dunloy,Ballymena,Antrim,Pappy's Shop + Bakery,Manufacturers/packers,7839,10,,95311,10,,55.01156000000000,283,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.41188500000000,BT44 9AA,2014-03-20,fhrs_2_en-GB,2,,FHRS,15
-401713,18-20 Ballycregagh Road,Clough Mills,,Antrim,Patton's Pub,Pub/bar/nightclub,7843,5,,117836,5,,54.99460600000000,471,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.32925400000000,BT44 9LB,2014-05-12,fhrs_5_en-GB,5,,FHRS,0
-401714,4a Townhead Street,,Ballymoney,Antrim,Pet & Country,Restaurant/Cafe/Canteen,1,10,,703246,0,,55.07199900000000,1177,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51928500000000,BT53 6BE,2014-09-15,fhrs_4_en-GB,4,,FHRS,10
-401715,1 Ishlan Court,,Ballymoney,Antrim,Pinetrees,Hotel/bed & breakfast/guest house,7842,0,,134125,0,,55.06774800000000,673,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52434200000000,BT53 6QG,2013-04-23,fhrs_5_en-GB,5,,FHRS,5
-401716,12a Market Street,,Ballymoney,Antrim,Pizza Club,Restaurant/Cafe/Canteen,1,10,,88471,5,,55.07286900000000,232,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51623100000000,BT53 6EB,2012-10-10,fhrs_4_en-GB,4,,FHRS,5
-401717,77 Main Street,,Ballymoney,Antrim,Pizza Piccolo,Restaurant/Cafe/Canteen,1,10,,331942,10,,55.06909100000000,879,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2013-11-11,fhrs_3_en-GB,3,,FHRS,5
-401718,18 Corkey Road,Loughguile,Ballymena,Antrim,Pound Bar And Lounge,Pub/bar/nightclub,7843,0,,101224,5,,55.05232300000000,33,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.30497400000000,BT44 9JJ,2014-07-21,fhrs_5_en-GB,5,,FHRS,5
-401719,18 Seymour Street,,Ballymoney,Antrim,Rafters Snack Bar,Retailers - other,4613,10,,115812,5,,55.06732600000000,450,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51396300000000,BT53 6JR,2014-05-07,fhrs_2_en-GB,2,,FHRS,15
-401720,Duneaney Road,Rasharkin,Ballymena,Antrim,Rasharkin Community Playgroup,Other catering premises,7841,,,86766,,,54.95643300000000,222,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.45983100000000,BT44 8SR,2012-01-10,fhrs_exempt_en-GB,Exempt,,FHRS,
-401721,33 Bamford Park,Rasharkin,Ballymena,Antrim,Rasharkin Primary School,School/college/university,7845,0,,95952,0,,54.95492600000000,289,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.47927700000000,BT44 8RX,2012-09-12,fhrs_5_en-GB,5,,FHRS,0
-401722,23 Bamford Park,Rasharkin,Ballymena,Antrim,Rasharkin Womens Group/Time Out Club,Other catering premises,7841,,,123871,,,54.95492600000000,523,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.47927700000000,BT44 8RX,2014-08-11,fhrs_exempt_en-GB,Exempt,,FHRS,
-401723,,,,,Road Side Chippy Van Reg Aez 7616,Mobile caterer,7846,5,,384927,5,,,901,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2012-05-11,fhrs_5_en-GB,5,,FHRS,5
-401724,,,,,Roadside Chippy (2),Mobile caterer,7846,5,,547316,5,,,1008,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2013-04-19,fhrs_5_en-GB,5,,FHRS,5
-401725,23 Newal Road,,Ballymoney,Antrim,Robinson Hospital,Hospitals/Childcare/Caring Premises,5,5,,63837,0,,55.07302300000000,141,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50601800000000,BT53 6HB,2014-06-23,fhrs_5_en-GB,5,,FHRS,0
-401726,22 Queen Street,,Ballymoney,Antrim,Roddens Residential Home,Hospitals/Childcare/Caring Premises,5,5,,81514,5,,55.07093200000000,199,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51134000000000,BT53 6JB,2013-08-06,fhrs_5_en-GB,5,,FHRS,5
-401727,36 Main Street,Rasharkin,Ballymena,Antrim,Rogans Newsagents,Retailers - other,4613,10,,127516,0,,54.95734000000000,569,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48266700000000,BT44 8PU,2014-08-04,fhrs_4_en-GB,4,,FHRS,10
-401728,14 Bendooragh Road,Bendooragh,Ballymoney,Antrim,Rosebank Farm,Hotel/bed & breakfast/guest house,7842,10,,130280,5,,55.04072100000000,614,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.54553100000000,BT53 7NF,2013-04-26,fhrs_4_en-GB,4,,FHRS,5
-401729,14 Bendooragh Road,Bendooragh,Ballymoney,Antrim,Rosebank Farm Shop,Retailers - other,4613,10,,482619,5,,55.04072100000000,988,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.54553100000000,BT53 7NF,2012-11-29,fhrs_4_en-GB,4,,FHRS,5
-401730,197 Seacon Road,,Ballymoney,Antrim,Roseneath Cottage,Hotel/bed & breakfast/guest house,7842,10,,128602,5,,55.08386800000000,587,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.53727900000000,BT53 6PZ,2011-08-08,fhrs_4_en-GB,4,,FHRS,0
-401731,,,,,Sandcastles Day Nursery,Other catering premises,7841,5,,87885,5,,,229,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-03-10,fhrs_5_en-GB,5,,FHRS,5
-401732,29-31 Main Street,,Ballymoney,Antrim,Savers,Retailers - other,4613,,,77694,,,55.06909100000000,183,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2010-05-06,fhrs_exempt_en-GB,Exempt,,FHRS,
-401733,15 Main Street,Rasharkin,,Antrim,Se Og's Bar,Pub/bar/nightclub,7843,5,,126459,10,,54.95625800000000,555,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48167800000000,BT44 8PT,2014-01-14,fhrs_4_en-GB,4,,FHRS,5
-401734,23 Main Street,,Ballymoney,,Simply Scrumptious,Manufacturers/packers,7839,10,,140254,5,,55.06909100000000,764,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2011-03-30,fhrs_3_en-GB,3,,FHRS,10
-401735,109 Newbridge Road,,Ballymoney,Antrim,Sizzlin Sausage Diner,Restaurant/Cafe/Canteen,1,10,,124924,10,,55.08368100000000,534,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.54871700000000,BT53 6QN,2013-12-05,fhrs_3_en-GB,3,,FHRS,10
-401736,4a Bendooragh Road,Bendooragh,Ballymoney,Antrim,Sketchers Coffee Shop,Restaurant/Cafe/Canteen,1,10,,129755,5,,55.04790700000000,607,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.54927600000000,BT53 7ND,2012-05-03,fhrs_4_en-GB,4,,FHRS,5
-401737,71 Main Street,,Ballymoney,Antrim,Sloans Meats,Retailers - other,4613,10,,580338,10,,55.06909100000000,1005,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2013-07-24,fhrs_3_en-GB,3,,FHRS,10
-401738,11 Linenhall Street,,Ballymoney,Antrim,Spar,Retailers - supermarkets/hypermarkets,7840,10,,128756,5,,55.07148500000000,59,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51692500000000,BT53 6DP,2012-01-05,fhrs_4_en-GB,4,,FHRS,0
-401739,2-4 Milltown Road,,Ballymoney,Antrim,Spar Milltown,Retailers - supermarkets/hypermarkets,7840,10,,98122,15,,55.06362000000000,308,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52023600000000,BT53 6LE,2014-11-19,fhrs_2_en-GB,2,,FHRS,15
-401740,1 Charles Street,,Ballymoney,Antrim,Spice House,Takeaway/sandwich shop,7844,,,482617,,,55.07251500000000,977,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51738700000000,BT53 6DX,2013-03-07,fhrs_3_en-GB,3,,FHRS,
-401741,6 Milltown Road,,Ballymoney,Antrim,Spice India Curries + Kebabs,Takeaway/sandwich shop,7844,10,,415270,10,,55.06362000000000,910,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52023600000000,BT53 6LE,2012-05-15,fhrs_3_en-GB,3,,FHRS,10
-401742,3 Reservoir Road,Corkey,Ballymena,Antrim,St Anne's Primary School,School/college/university,7845,5,,95771,5,,55.03192800000000,287,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.29008500000000,BT44 9JE,2012-01-12,fhrs_5_en-GB,5,,FHRS,5
-401743,6 Loughill Road,Clough Mills,,Antrim,St Brigid's Primary School,School/college/university,7845,0,,116517,0,,55.00018100000000,457,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33225700000000,BT44 9LT,2014-09-30,fhrs_5_en-GB,5,,FHRS,5
-401744,15-17 Coleraine Road,,Ballymoney,Antrim,St James' Lodge,Hospitals/Childcare/Caring Premises,5,10,,615832,5,,55.07443800000000,1046,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51963300000000,BT53 6BP,2013-10-28,fhrs_4_en-GB,4,,FHRS,5
-401745,40 Bridge Road,Dunloy,,Antrim,St Joseph's Primary School,School/college/university,7845,5,,95864,5,,55.00415400000000,288,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.41299000000000,BT44 9EF,2014-09-24,fhrs_5_en-GB,5,,FHRS,5
-401746,73 Shelton Road,Loughguile,Ballymena,Antrim,St Patrick's Primary School,School/college/university,7845,0,,146340,5,,55.06412700000000,89,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.29913800000000,BT44 9JR,2012-01-13,fhrs_5_en-GB,5,,FHRS,5
-401747,8 Gortahar Road,Rasharkin,Ballymena,Antrim,St Patrick's Primary School,School/college/university,7845,5,,127468,5,,54.96345400000000,568,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.46949300000000,BT44 8SB,2012-09-12,fhrs_5_en-GB,5,,FHRS,0
-401748,,,,,Stepping Stones Playgroup,Other catering premises,7841,0,,116217,0,,,454,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-10-17,fhrs_5_en-GB,5,,FHRS,5
-401749,1-3 Main Street,,Ballymoney,Antrim,Subway,Restaurant/Cafe/Canteen,1,5,,683233,0,,55.06909100000000,1092,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2014-06-10,fhrs_5_en-GB,5,,FHRS,5
-401750,19 Main Street,,Clough Mills,Antrim,Sun Do II,Takeaway/sandwich shop,7844,10,,127737,5,,54.99714500000000,573,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33096100000000,BT44 9LF,2013-11-06,fhrs_3_en-GB,3,,FHRS,10
-401751,,,,,Sunrise Van Reg. No. Klz 7508,Mobile caterer,7846,10,,384928,10,,,904,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2012-05-31,fhrs_3_en-GB,3,,FHRS,5
-401752,Rodeing Foot,,Ballymoney,Antrim,Superbites,Restaurant/Cafe/Canteen,1,10,,138037,10,,55.07066300000000,732,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50845400000000,BT53 6JJ,2014-01-14,fhrs_3_en-GB,3,,FHRS,10
-401753,8 Main Street,Dunloy,,Antrim,Sweet Home,Retailers - other,4613,0,,113456,5,,55.01156000000000,425,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.41188500000000,BT44 9AA,2014-09-12,fhrs_4_en-GB,4,,FHRS,10
-401754,Castle Street,,Ballymoney,Antrim,Tesco,Retailers - supermarkets/hypermarkets,7840,5,,126338,5,,54.97860600000000,553,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49584400000000,BT53 7JT,2012-02-28,fhrs_5_en-GB,5,,FHRS,5
-401755,145 Bridge Road,Dunloy,Ballymena,Antrim,The Bridge Bar,Pub/bar/nightclub,7843,10,,81220,5,,54.98382700000000,198,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.39681200000000,BT44 9EQ,2014-01-22,fhrs_4_en-GB,4,,FHRS,5
-401756,15-17 Market Street,,Ballymoney,Antrim,The Bush Tavern,Pub/bar/nightclub,7843,10,,89417,5,,55.07278000000000,239,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51553000000000,BT53 6EA,2013-10-01,fhrs_3_en-GB,3,,FHRS,10
-401757,15-17 Market Street,,Ballymoney,Antrim,The Bush Tavern Kitchen,Pub/bar/nightclub,7843,10,,615825,5,,55.07278000000000,1020,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51553000000000,BT53 6EA,2013-10-02,fhrs_4_en-GB,4,,FHRS,5
-401758,3 Church Street,,Ballymoney,Antrim,The Candy Store,Retailers - other,4613,5,,112386,0,,55.07042100000000,416,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51588400000000,BT53 6HS,2014-07-12,fhrs_5_en-GB,5,,FHRS,5
-401759,7-9 High Street,,Ballymoney,Antrim,The Clock Tower Restaurant,Restaurant/Cafe/Canteen,1,5,,132217,5,,55.07085800000000,64,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51707300000000,BT53 6AH,2014-01-07,fhrs_4_en-GB,4,,FHRS,10
-401760,2 Culcrum Road,Clough Mills,,Antrim,The Corner House,Pub/bar/nightclub,7843,10,,113682,5,,55.00097400000000,427,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.33374000000000,BT44 9NH,2014-05-12,fhrs_4_en-GB,4,,FHRS,5
-401761,2 Corkey Road,Loughguile,Ballymena,Antrim,The Corner Shop,Retailers - other,4613,10,,127372,5,,55.05232300000000,566,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.30497400000000,BT44 9JJ,2014-03-12,fhrs_2_en-GB,2,,FHRS,15
-401762,2 High Street,,Ballymoney,Antrim,The Diamond Bar,Pub/bar/nightclub,7843,0,,135358,5,,55.07057700000000,69,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51763100000000,BT53 6AG,2014-07-17,fhrs_4_en-GB,4,,FHRS,10
-401763,40 Main Street,Rasharkin,Ballymena,Antrim,The Diamond Bar,Pub/bar/nightclub,7843,10,,143914,10,,54.95734000000000,817,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48266700000000,BT44 8PU,2011-02-17,fhrs_3_en-GB,3,,FHRS,5
-401764,24 Glenbush Road,Armoy,Ballymoney,Antrim,The Glen Bar,Pub/bar/nightclub,7843,0,,80227,5,,55.08724000000000,194,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.29123400000000,BT53 8YG,2014-07-21,fhrs_5_en-GB,5,,FHRS,0
-401765,23 Church Street,,Ballymoney,Antrim,The Glynns Bar,Pub/bar/nightclub,7843,10,,92777,10,,55.07042100000000,263,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51588400000000,BT53 6HS,2010-12-09,fhrs_3_en-GB,3,,FHRS,10
-401766,38a Coolkeeran Road,Armoy,Ballymoney,Antrim,The Loft Tea Rooms,Restaurant/Cafe/Canteen,1,10,,669172,0,,55.11945800000000,1012,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.31266500000000,BT53 8XL,2013-06-09,fhrs_4_en-GB,4,,FHRS,10
-401767,216 Knock Road,,Dervock,Antrim,The Mill Tea Room,Restaurant/Cafe/Canteen,1,10,,128697,5,,55.12336800000000,589,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.46929100000000,BT53 8BD,2012-05-08,fhrs_4_en-GB,4,,FHRS,5
-401768,1 Portrush Road,,Ballymoney,Antrim,The Model,Hospitals/Childcare/Caring Premises,5,5,,121264,0,,55.07725000000000,500,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52187800000000,BT53 6BX,2013-03-08,fhrs_5_en-GB,5,,FHRS,5
-401769,3 Charlotte Street,,Ballymoney,Antrim,The Pork Store,Retailers - other,4613,10,,127231,10,,55.07011300000000,564,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51860300000000,BT53 6AY,2013-01-30,fhrs_3_en-GB,3,,FHRS,10
-401770,232 Frosses Road,Clough Mills,,Antrim,The Restaurant @ Logans,Restaurant/Cafe/Canteen,1,10,,138105,5,,55.00549900000000,733,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.35932600000000,BT44 9PU,2012-11-28,fhrs_4_en-GB,4,,FHRS,5
-401771,11 Townhead Street,,Ballymoney,Antrim,The Royal British Legion Club,Pub/bar/nightclub,7843,10,,96425,10,,55.07199900000000,293,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51928500000000,BT53 6BE,2010-12-17,fhrs_3_en-GB,3,,FHRS,5
-401772,38 Fivey Road,Armoy,Ballymoney,Antrim,The Scenic Inn,Restaurant/Cafe/Canteen,1,10,,187625,5,,55.09720800000000,561,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.34294500000000,BT53 8UT,2013-11-06,fhrs_4_en-GB,4,,FHRS,5
-401773,41 Church Street,,Ballymoney,Antrim,The Tower Bar,Pub/bar/nightclub,7843,5,,126930,5,,55.07042100000000,560,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51588400000000,BT53 6HS,2014-05-28,fhrs_4_en-GB,4,,FHRS,10
-401774,2 Main Street,Stranocum,Ballymoney,Antrim,The Village Chippy,Takeaway/sandwich shop,7844,10,,144496,5,,55.10779600000000,833,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.42115400000000,BT53 8PE,2012-07-02,fhrs_4_en-GB,4,,FHRS,5
-401775,1 Bellaghy Road,Dunloy,Ballymena,Antrim,The Village Inn,Pub/bar/nightclub,7843,5,,91463,10,,55.00990400000000,253,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.40891800000000,BT44 9AE,2014-01-15,fhrs_4_en-GB,4,,FHRS,5
-401776,102 Ballybogey Road,,Ballymoney,,Toast Office,Takeaway/sandwich shop,7844,5,,695918,5,,55.13081500000000,1125,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.55686900000000,BT53 6PD,2014-07-22,fhrs_4_en-GB,4,,FHRS,10
-401777,198 Kilraughts Road,,Ballymoney,Antrim,Toberbilly Farm B & B,Hotel/bed & breakfast/guest house,7842,5,,655709,5,,55.07400800000000,1014,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.39431900000000,BT53 8NW,2013-06-03,fhrs_5_en-GB,5,,FHRS,5
-401778,16 Main Street,,Ballymoney,Antrim,Tony Osborne Family Butcher,Retailers - other,4613,5,,111331,5,,55.06906600000000,408,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51595000000000,BT53 6AL,2013-01-03,fhrs_5_en-GB,5,,FHRS,5
-401779,37 Castlehill Place,,Ballymoney,Antrim,Triangle Housing Association,Hospitals/Childcare/Caring Premises,5,,,129089,,,55.07951700000000,595,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50743600000000,BT53 6TW,2010-11-18,fhrs_exempt_en-GB,Exempt,,FHRS,
-401780,2 Ballymena Road,,Ballymoney,Antrim,Trolans Supervalu,Retailers - supermarkets/hypermarkets,7840,5,,114993,5,,55.07068000000000,441,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.50255200000000,BT53 7AB,2013-01-15,fhrs_4_en-GB,4,,FHRS,10
-401781,22 Moneyleck Road,Rasharkin,Ballymena,Antrim,Victoria House Private Residential Home,Hospitals/Childcare/Caring Premises,5,5,,105052,5,,54.95879000000000,36,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.48587500000000,BT44 8QB,2014-06-25,fhrs_5_en-GB,5,,FHRS,5
-401782,38 Ballybrakes Road,,Ballymoney,Antrim,Vintage Cafe,Restaurant/Cafe/Canteen,1,20,,138497,10,,55.06288600000000,738,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52564800000000,BT53 6LW,2014-01-16,fhrs_1_en-GB,1,,FHRS,15
-401783,45 Queen Street,,Ballymoney,Antrim,VIVO,Retailers - supermarkets/hypermarkets,7840,0,,117747,5,,55.07058900000000,470,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51122800000000,BT53 6JD,2014-10-07,fhrs_4_en-GB,4,,FHRS,10
-401784,83 Tamlaght Road,Rasharkin,Ballymena,Antrim,Wenda's,Other catering premises,7841,10,,331946,5,,54.92681700000000,894,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.47292800000000,BT44 8RL,2012-03-28,fhrs_4_en-GB,4,,FHRS,5
-401785,182 Knock Road,Dervock,Ballymoney,Antrim,William Pinkerton Memorial Primary School,School/college/university,7845,5,,120695,5,,55.12304600000000,496,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.47154500000000,BT53 8BB,2014-09-19,fhrs_5_en-GB,5,,FHRS,5
-401786,6 Milltown Road,,Ballymoney,Antrim,Wilsy's Takeaway,Takeaway/sandwich shop,7844,10,,331943,10,,55.06362000000000,891,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.52023600000000,BT53 6LE,2014-10-13,fhrs_3_en-GB,3,,FHRS,5
-401787,2 Riada Avenue,,Ballymoney,Antrim,Windy City Bakery,Manufacturers/packers,7839,10,,451725,5,,55.06494100000000,936,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.49533100000000,BT53 7LH,2012-08-14,fhrs_4_en-GB,4,,FHRS,5
-401788,Main Street,,Ballymoney,Antrim,Wineflair,Retailers - other,4613,0,,683234,0,,55.06909100000000,1093,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51654300000000,BT53 6AN,2014-06-25,fhrs_5_en-GB,5,,FHRS,0
-401789,28 Main Street,,Ballymoney,Antrim,Young's,Retailers - other,4613,,,97619,,,55.06906600000000,304,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,-6.51595000000000,BT53 6AL,2014-01-13,fhrs_exempt_en-GB,Exempt,,FHRS,
-401790,,,,,Your Inspiration At Home,Other catering premises,7841,0,,718611,0,,,1182,805,food@ballymoney.gov.uk,Ballymoney,http://www.ballymoney.gov.uk,,,2014-09-23,fhrs_5_en-GB,5,,FHRS,0
+,businessname,ratingvalue,structural,hygiene,confidenceinmanagement,ratingdate,latitude,longitude
+401562,7 & One Chinese Restaurant,1,15,10,20,2014-02-26,55.072515,-6.517387
+401563,A Bite Above,3,10,10,10,2012-07-19,55.069091,-6.516543
+401564,A P Mathewson Chemist,Exempt,nan,nan,nan,2004-09-17,55.070589,-6.511228
+401565,Abbeyfield Ballymoney Society,5,5,5,5,2014-10-13,55.072448,-6.509734
+401566,Anne's Hot Bread Shop,4,5,5,10,2014-01-08,55.069091,-6.516543
+401567,Armour Day Centre,5,5,5,5,2013-04-29,55.071842,-6.508661
+401568,Ashwood Garden Centre,Exempt,nan,nan,nan,2014-05-23,55.082402,-6.514845
+401569,B & M Fenton,4,5,10,5,2014-08-11,,
+401570,Ballyboyland Post Office,Exempt,nan,nan,nan,2005-10-04,55.077768,-6.460026
+401571,Ballybrakes Community Indoor Bowling Club,4,10,0,10,2015-01-14,55.062886,-6.525648
+401572,Ballymoney And District Community Playgroup,5,5,5,5,2009-05-12,,
+401573,Ballymoney Foodbank,5,5,5,5,2014-03-25,55.072299,-6.516644
+401574,Ballymoney High School,5,5,5,0,2012-01-18,55.068219,-6.503301
+401575,Ballymoney Model Controlled Integrated Primary School,5,0,0,0,2012-09-13,55.071782,-6.52291
+401576,Ballymoney Rugby Club,4,5,10,5,2014-02-07,55.073205,-6.488805
+401577,Ballymoney Utd Football And Social Club,4,5,5,10,2009-12-15,55.068409,-6.518072
+401578,Balnamore Primary School,5,0,5,5,2013-04-22,55.06492,-6.563484
+401579,Basil Knipe Coffee Lounge,4,5,5,10,2014-01-28,55.068245,-6.495222
+401580,Bell Tower Bar & Restaurant,3,10,10,10,2012-11-23,55.149411,-6.378993
+401581,Bethany Kitchen,5,5,5,5,2012-07-31,,
+401582,Blackwater Bar And Restaurant,4,5,5,10,2009-11-05,55.125502,-6.470401
+401583,Bob And Berts Ballymoney Ltd,4,5,5,10,2014-11-24,55.069091,-6.516543
+401584,Bridgeview Rest,Exempt,nan,nan,nan,2012-01-09,54.991837,-6.403367
+401585,Brogan's Chippy,4,5,5,10,2014-10-09,55.011232,-6.41293
+401586,Burn Brig House,4,0,0,10,2014-06-17,55.130499,-6.466291
+401587,Burns Butchers,3,10,10,10,2013-01-16,54.999565,-6.333204
+401588,Bushvalley Primary School,5,0,5,0,2012-06-25,55.118102,-6.412989
+401589,Cafe Deli,4,5,5,10,2014-02-27,55.05856,-6.316809
+401590,Candy Box,4,0,5,10,2013-04-25,,
+401591,Carnany Filling Station,4,5,5,10,2014-05-28,55.073205,-6.488805
+401592,Carrowreagh Primary School,5,0,5,0,2014-09-10,55.018123,-6.506638
+401593,CENTRA,5,5,0,5,2014-01-09,55.130815,-6.556869
+401594,CENTRA,5,5,5,5,2014-10-16,55.083066,-6.527411
+401595,China Chef,2,15,10,10,2012-07-02,55.009904,-6.408918
+401596,China Garden,3,10,10,10,2012-06-28,55.068553,-6.516657
+401597,Chip Inn,4,5,5,10,2012-07-05,55.05856,-6.316809
+401598,Chopstick,1,15,15,20,2013-09-10,54.95734,-6.482667
+401599,Christopher Creelman,4,5,5,10,2013-08-21,55.018478,-6.486659
+401600,Churchview House B&b,4,5,5,10,2010-11-26,55.008966,-6.505697
+401601,Claireville Residential Home,5,5,5,5,2014-10-06,54.959314,-6.511537
+401602,Class Country Catering,4,0,0,10,2014-06-26,,
+401603,Cloughmills Early Years,5,0,0,5,2012-10-25,,
+401604,Cloughmills Primary School,5,5,0,5,2012-10-25,54.997224,-6.330207
+401605,Coffee Capital,2,15,10,10,2012-04-23,55.069091,-6.516543
+401606,Connoisseur Catering,5,5,5,5,2012-05-13,,
+401607,Contemporary Cakes,5,5,5,5,2012-08-14,55.064941,-6.495331
+401608,Costcutters,4,10,5,0,2014-10-07,55.071999,-6.519285
+401609,Cottage Outside Catering Van Reg No Tkz 3213,4,5,5,10,2012-07-19,,
+401610,Country Garden House,5,5,5,5,2013-07-08,55.126627,-6.498013
+401611,Court Care Home,5,5,0,5,2013-03-08,55.077796,-6.521028
+401612,Culmore Organic Farm,5,0,0,5,2014-04-03,54.960168,-6.536781
+401613,Cyblings,5,0,5,0,2014-09-26,55.064941,-6.495331
+401614,Dalriada School,3,10,10,10,2012-11-27,55.072711,-6.522421
+401615,Dalriada Surestart,5,0,0,5,2014-07-25,55.077934,-6.50286
+401616,Day2day,3,10,10,10,2013-01-29,55.098922,-6.312763
+401617,Dayfresh,3,5,10,10,2014-07-08,55.069066,-6.51595
+401618,Dervock Centra,5,5,5,5,2010-01-28,55.122951,-6.46611
+401619,Dervock Community Playgroup,5,5,0,0,2010-04-28,,
+401620,Drumadoon,3,10,10,5,2014-08-28,55.002647,-6.357005
+401621,Drumaheglis Marina,Exempt,nan,nan,nan,2013-04-30,55.070752,-6.588996
+401622,Dunloy Community Play Group,4,0,0,10,2013-11-18,55.009081,-6.413327
+401623,Eden Primary School,5,0,0,0,2014-09-12,55.030299,-6.563597
+401624,Elliotts Service Station,4,10,10,0,2014-09-11,55.009081,-6.413327
+401625,Emerald Fine Food Company,5,0,0,5,2014-12-22,55.068365,-6.564722
+401626,Enagh Lodge,4,5,10,0,2010-12-02,55.053696,-6.531556
+401627,Eurospar,4,nan,nan,nan,2013-05-30,54.95734,-6.482667
+401628,Finvoy Filling Station,4,5,5,10,2013-06-20,54.996497,-6.504973
+401629,Finvoy Fun Farm,3,10,5,10,2012-07-05,55.024999,-6.520909
+401630,Fish 'N' Chip,3,10,10,10,2014-02-25,54.999951,-6.332563
+401631,Flash In The Pan,3,10,10,10,2014-10-21,55.070589,-6.511228
+401632,Gardenvale B&b,4,5,5,10,2013-09-11,55.134909,-6.391028
+401633,Garryduff House,4,10,0,5,2013-12-18,55.069143,-6.501732
+401634,Garryduff House (Bungalow),5,5,5,5,2012-06-12,55.069143,-6.501732
+401635,Garryduff Primary School,5,5,5,0,2014-09-18,55.031195,-6.447815
+401636,Glebeside Spar,4,5,5,10,2012-11-07,55.072413,-6.514965
+401637,Glen Lodge B & B,4,5,5,10,2010-12-02,55.051983,-6.440799
+401638,Golden Grub,4,0,10,5,2014-06-17,,
+401639,Golden Inn,3,10,5,10,2012-10-02,55.06412,-6.497256
+401640,Golden Plough Service Station,5,5,0,0,2014-07-21,55.094207,-6.356196
+401641,Gordons Chemist,Exempt,nan,nan,nan,2010-05-06,55.069091,-6.516543
+401642,Gowlands Todays Local,4,5,5,10,2013-04-22,55.06492,-6.563484
+401643,Ground Coffee Shop,3,10,5,10,2013-11-11,55.070577,-6.517631
+401644,Happy Days Community Childcare,4,5,10,5,2014-02-04,,
+401645,Harmony Hill Country House + Restaurant,5,5,5,5,2013-08-19,55.06272,-6.562843
+401646,Harmony Ice's,4,5,5,10,2013-04-25,,
+401647,Hedges Restaurant,3,5,10,10,2013-11-27,55.134909,-6.391028
+401648,Herrons Country Fried Chicken,4,5,5,10,2013-08-05,55.069091,-6.516543
+401649,Hob Green Country Home,5,5,5,5,2014-07-28,55.090134,-6.494197
+401650,Honeysuckle Cottage,4,5,5,10,2009-07-24,55.142473,-6.549877
+401651,Hot Cha,3,10,10,10,2013-03-13,55.122951,-6.46611
+401652,Hugh Woodrow Van Reg No Ku13 Feh,4,10,5,5,2013-01-28,,
+401653,Imperial Bar,4,5,5,10,2010-02-23,55.069066,-6.51595
+401654,Iris's Farmhouse Cuisine,5,5,5,5,2012-08-14,,
+401655,J D Hart & Son,2,15,5,10,2014-06-24,55.069066,-6.51595
+401656,J Magill + Sons,4,5,5,10,2013-01-09,54.997224,-6.330207
+401657,J Mcfadden,4,5,10,5,2013-07-09,55.107796,-6.421154
+401658,Jade Garden,1,10,15,20,2014-12-02,55.072779,-6.51553
+401659,Jmf Limited Canteen,3,10,10,10,2012-02-15,55.061696,-6.474996
+401660,Joey's Bar,3,10,10,10,2009-04-21,55.067326,-6.513963
+401661,Johnny's Diner,3,10,5,10,2011-08-23,,
+401662,Joyce Gage,5,0,0,5,2014-07-08,,
+401663,Kennedys Pharmacy,Exempt,nan,nan,nan,2013-05-09,54.959381,-6.484948
+401664,Kennedy's Pharmacy,Exempt,nan,nan,nan,2013-04-29,55.011232,-6.41293
+401665,Kilmail Country Chalet,4,5,5,10,2013-04-30,55.142473,-6.549877
+401666,Kilmoyle Primary School,5,0,0,0,2013-12-17,55.131636,-6.549565
+401667,Knockahollet Primary School,5,5,5,5,2012-12-03,55.048631,-6.362742
+401668,Knockan Lodge P R H,4,5,5,10,2014-02-11,55.008966,-6.505697
+401669,La Petite Baguette,5,5,5,0,2014-10-17,55.07123,-6.515932
+401670,Landhead Primary School,5,5,0,0,2013-04-23,55.073205,-6.488805
+401671,Lavender Tea Room,4,5,5,10,2013-11-22,55.064941,-6.495331
+401672,Leaney Central Meals Kitchen,5,0,5,5,2013-10-02,55.066464,-6.505245
+401673,LIDL UK GMBH,5,0,5,5,2012-02-03,55.067326,-6.513963
+401674,Lislagan Primary School,5,5,5,0,2014-09-17,55.047731,-6.505035
+401675,Lisnisk Lodge,3,10,5,10,2012-04-18,55.048631,-6.362742
+401676,Lissanoure Castle Ltd,5,5,5,5,2012-02-29,55.052052,-6.333466
+401677,Loughgiel Early Years,4,5,5,10,2014-02-03,55.05856,-6.316809
+401678,Loughgiel Shamrocks Social Club,4,5,5,10,2011-01-17,55.05856,-6.316809
+401679,Loughview Meats,5,0,5,5,2014-02-15,55.05856,-6.316809
+401680,Lucia's Cakes,5,5,5,5,2014-04-01,,
+401681,Ma Kellys,5,0,5,5,2014-08-13,55.070421,-6.515884
+401682,Mace,3,10,10,10,2012-02-08,55.01156,-6.411885
+401683,Manor Hotel,5,0,0,5,2014-06-20,55.069091,-6.516543
+401684,Master Chef,1,15,15,20,2013-11-19,55.06362,-6.520236
+401685,Mawhinney Chemist,Exempt,nan,nan,nan,2009-08-10,54.997224,-6.330207
+401686,Max Snax,3,10,10,10,2012-06-20,55.068409,-6.518072
+401687,Mcatamney Butchers,5,nan,nan,nan,2013-05-22,55.069091,-6.516543
+401688,McLaughlin's Corner,3,10,10,10,2014-08-20,54.959314,-6.511537
+401689,Megabites,3,10,10,10,2013-09-30,55.072515,-6.517387
+401690,Millbrook Resource Centre,5,5,0,5,2013-12-17,55.064847,-6.484189
+401691,Millside Restaurant,4,5,10,5,2012-05-10,55.000692,-6.33944
+401692,Model Kidz Club,5,5,5,5,2013-09-26,55.071782,-6.52291
+401693,Molly's,5,5,5,5,2014-08-06,55.069066,-6.51595
+401694,Monty's,4,5,5,10,2013-06-07,55.069091,-6.516543
+401695,Moores Cloughmills Ltd,4,5,5,10,2015-01-13,54.997224,-6.330207
+401696,Morning Calm B & B,4,5,5,10,2012-05-04,55.07725,-6.521878
+401697,Mr D's,4,5,5,10,2014-01-06,55.068245,-6.495222
+401698,Mrs Mary Hargie,5,5,5,0,2014-08-05,,
+401699,Mrs Mo's,1,5,10,20,2013-02-28,55.07074,-6.516201
+401700,Mulhollands Butchers,4,5,5,10,2013-01-08,55.070858,-6.517073
+401701,Mullaghans,4,5,5,10,2013-06-26,54.959381,-6.484948
+401702,Narrow Gauge B & B,5,5,5,5,2013-04-29,55.073586,-6.503586
+401703,Nature Nook,4,0,5,10,2012-01-26,55.07074,-6.516201
+401704,Ni Supplement,4,5,5,10,2012-04-18,55.07074,-6.516201
+401705,North Irish Horse Inn Bar,AwaitingInspection,nan,nan,nan,,55.122951,-6.46611
+401706,Northern Regional College,4,5,5,10,2012-01-31,55.0732,-6.519789
+401707,Northern Star,4,5,10,0,2014-05-15,55.071485,-6.516925
+401708,Old Glebe,5,5,5,5,2014-05-12,55.151157,-6.496259
+401709,Olphert Butchers,4,5,5,10,2013-01-31,55.07123,-6.515932
+401710,Oscars Coffee To Go,5,5,5,5,2013-08-09,,
+401711,Our Lady Of Lourdes High School,5,5,0,5,2012-09-24,55.066961,-6.521631
+401712,Pappy's Shop + Bakery,2,15,10,10,2014-03-20,55.01156,-6.411885
+401713,Patton's Pub,5,0,5,5,2014-05-12,54.994606,-6.329254
+401714,Pet & Country,4,10,0,10,2014-09-15,55.071999,-6.519285
+401715,Pinetrees,5,5,0,0,2013-04-23,55.067748,-6.524342
+401716,Pizza Club,4,5,5,10,2012-10-10,55.072869,-6.516231
+401717,Pizza Piccolo,3,5,10,10,2013-11-11,55.069091,-6.516543
+401718,Pound Bar And Lounge,5,5,5,0,2014-07-21,55.052323,-6.304974
+401719,Rafters Snack Bar,2,15,5,10,2014-05-07,55.067326,-6.513963
+401720,Rasharkin Community Playgroup,Exempt,nan,nan,nan,2012-01-10,54.956433,-6.459831
+401721,Rasharkin Primary School,5,0,0,0,2012-09-12,54.954926,-6.479277
+401722,Rasharkin Womens Group/Time Out Club,Exempt,nan,nan,nan,2014-08-11,54.954926,-6.479277
+401723,Road Side Chippy Van Reg Aez 7616,5,5,5,5,2012-05-11,,
+401724,Roadside Chippy (2),5,5,5,5,2013-04-19,,
+401725,Robinson Hospital,5,0,0,5,2014-06-23,55.073023,-6.506018
+401726,Roddens Residential Home,5,5,5,5,2013-08-06,55.070932,-6.51134
+401727,Rogans Newsagents,4,10,0,10,2014-08-04,54.95734,-6.482667
+401728,Rosebank Farm,4,5,5,10,2013-04-26,55.040721,-6.545531
+401729,Rosebank Farm Shop,4,5,5,10,2012-11-29,55.040721,-6.545531
+401730,Roseneath Cottage,4,0,5,10,2011-08-08,55.083868,-6.537279
+401731,Sandcastles Day Nursery,5,5,5,5,2014-03-10,,
+401732,Savers,Exempt,nan,nan,nan,2010-05-06,55.069091,-6.516543
+401733,Se Og's Bar,4,5,10,5,2014-01-14,54.956258,-6.481678
+401734,Simply Scrumptious,3,10,5,10,2011-03-30,55.069091,-6.516543
+401735,Sizzlin Sausage Diner,3,10,10,10,2013-12-05,55.083681,-6.548717
+401736,Sketchers Coffee Shop,4,5,5,10,2012-05-03,55.047907,-6.549276
+401737,Sloans Meats,3,10,10,10,2013-07-24,55.069091,-6.516543
+401738,Spar,4,0,5,10,2012-01-05,55.071485,-6.516925
+401739,Spar Milltown,2,15,15,10,2014-11-19,55.06362,-6.520236
+401740,Spice House,3,nan,nan,nan,2013-03-07,55.072515,-6.517387
+401741,Spice India Curries + Kebabs,3,10,10,10,2012-05-15,55.06362,-6.520236
+401742,St Anne's Primary School,5,5,5,5,2012-01-12,55.031928,-6.290085
+401743,St Brigid's Primary School,5,5,0,0,2014-09-30,55.000181,-6.332257
+401744,St James' Lodge,4,5,5,10,2013-10-28,55.074438,-6.519633
+401745,St Joseph's Primary School,5,5,5,5,2014-09-24,55.004154,-6.41299
+401746,St Patrick's Primary School,5,5,5,0,2012-01-13,55.064127,-6.299138
+401747,St Patrick's Primary School,5,0,5,5,2012-09-12,54.963454,-6.469493
+401748,Stepping Stones Playgroup,5,5,0,0,2014-10-17,,
+401749,Subway,5,5,0,5,2014-06-10,55.069091,-6.516543
+401750,Sun Do II,3,10,5,10,2013-11-06,54.997145,-6.330961
+401751,Sunrise Van Reg. No. Klz 7508,3,5,10,10,2012-05-31,,
+401752,Superbites,3,10,10,10,2014-01-14,55.070663,-6.508454
+401753,Sweet Home,4,10,5,0,2014-09-12,55.01156,-6.411885
+401754,Tesco,5,5,5,5,2012-02-28,54.978606,-6.495844
+401755,The Bridge Bar,4,5,5,10,2014-01-22,54.983827,-6.396812
+401756,The Bush Tavern,3,10,5,10,2013-10-01,55.07278,-6.51553
+401757,The Bush Tavern Kitchen,4,5,5,10,2013-10-02,55.07278,-6.51553
+401758,The Candy Store,5,5,0,5,2014-07-12,55.070421,-6.515884
+401759,The Clock Tower Restaurant,4,10,5,5,2014-01-07,55.070858,-6.517073
+401760,The Corner House,4,5,5,10,2014-05-12,55.000974,-6.33374
+401761,The Corner Shop,2,15,5,10,2014-03-12,55.052323,-6.304974
+401762,The Diamond Bar,4,10,5,0,2014-07-17,55.070577,-6.517631
+401763,The Diamond Bar,3,5,10,10,2011-02-17,54.95734,-6.482667
+401764,The Glen Bar,5,0,5,0,2014-07-21,55.08724,-6.291234
+401765,The Glynns Bar,3,10,10,10,2010-12-09,55.070421,-6.515884
+401766,The Loft Tea Rooms,4,10,0,10,2013-06-09,55.119458,-6.312665
+401767,The Mill Tea Room,4,5,5,10,2012-05-08,55.123368,-6.469291
+401768,The Model,5,5,0,5,2013-03-08,55.07725,-6.521878
+401769,The Pork Store,3,10,10,10,2013-01-30,55.070113,-6.518603
+401770,The Restaurant @ Logans,4,5,5,10,2012-11-28,55.005499,-6.359326
+401771,The Royal British Legion Club,3,5,10,10,2010-12-17,55.071999,-6.519285
+401772,The Scenic Inn,4,5,5,10,2013-11-06,55.097208,-6.342945
+401773,The Tower Bar,4,10,5,5,2014-05-28,55.070421,-6.515884
+401774,The Village Chippy,4,5,5,10,2012-07-02,55.107796,-6.421154
+401775,The Village Inn,4,5,10,5,2014-01-15,55.009904,-6.408918
+401776,Toast Office,4,10,5,5,2014-07-22,55.130815,-6.556869
+401777,Toberbilly Farm B & B,5,5,5,5,2013-06-03,55.074008,-6.394319
+401778,Tony Osborne Family Butcher,5,5,5,5,2013-01-03,55.069066,-6.51595
+401779,Triangle Housing Association,Exempt,nan,nan,nan,2010-11-18,55.079517,-6.507436
+401780,Trolans Supervalu,4,10,5,5,2013-01-15,55.07068,-6.502552
+401781,Victoria House Private Residential Home,5,5,5,5,2014-06-25,54.95879,-6.485875
+401782,Vintage Cafe,1,15,10,20,2014-01-16,55.062886,-6.525648
+401783,VIVO,4,10,5,0,2014-10-07,55.070589,-6.511228
+401784,Wenda's,4,5,5,10,2012-03-28,54.926817,-6.472928
+401785,William Pinkerton Memorial Primary School,5,5,5,5,2014-09-19,55.123046,-6.471545
+401786,Wilsy's Takeaway,3,5,10,10,2014-10-13,55.06362,-6.520236
+401787,Windy City Bakery,4,5,5,10,2012-08-14,55.064941,-6.495331
+401788,Wineflair,5,0,0,0,2014-06-25,55.069091,-6.516543
+401789,Young's,Exempt,nan,nan,nan,2014-01-13,55.069066,-6.51595
+401790,Your Inspiration At Home,5,0,0,0,2014-09-23,,
